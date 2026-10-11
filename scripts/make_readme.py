@@ -9,7 +9,7 @@ import datetime
 from common import RAW, ROOT
 
 CATS = [
-    ("ukpga", "UK Public General Acts (1235–present; Parliament of England/GB/UK as revised by legislation.gov.uk)"),
+    ("ukpga", "UK Public General Acts (1801–present)"),
     ("ukla", "UK Local Acts"),
     ("ukppa", "UK Private and Personal Acts"),
     ("ukcm", "Church Measures (Church Assembly / General Synod)"),

@@ -7,35 +7,35 @@ plain Markdown, one file per Act, in the latest revised (consolidated) version p
 Part of [LawCodex](https://github.com/LawCodex): the legislation of every country as Markdown in git.
 
 - Retrieved: 2026-10-11
-- Files: 602 Markdown documents
+- Files: 6720 Markdown documents
 
 ## Coverage
 
 | Directory | Category | Items listed on legislation.gov.uk | Items with XML text | Files here | revised, not repealed | marked repealed | enacted text only | Welsh-language files (`cy/`) |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| `ukpga/` | UK Public General Acts (1235–present; Parliament of England/GB/UK as revised by legislation.gov.uk) | 17560 | 4393 | **0** | 0 | 0 | 0 |  |
-| `ukla/` | UK Local Acts | 20171 | 199 | **0** | 0 | 0 | 0 |  |
+| `ukpga/` | UK Public General Acts (1801–present) | 17560 | 4393 | **4393** | 3778 | 529 | 86 |  |
+| `ukla/` | UK Local Acts | 20171 | 199 | **199** | 16 | 1 | 182 |  |
 | `ukppa/` | UK Private and Personal Acts | 869 | 0 | **0** | 0 | 0 | 0 |  |
-| `ukcm/` | Church Measures (Church Assembly / General Synod) | 244 | 157 | **0** | 0 | 0 | 0 |  |
-| `aep/` | Acts of the English Parliament (to 1707) | 692 | 664 | **0** | 0 | 0 | 0 |  |
-| `aosp/` | Acts of the Old Scottish Parliament (to 1707) | 109 | 109 | **0** | 0 | 0 | 0 |  |
-| `apgb/` | Acts of the Parliament of Great Britain (1707–1800) | 2218 | 58 | **0** | 0 | 0 | 0 |  |
+| `ukcm/` | Church Measures (Church Assembly / General Synod) | 244 | 157 | **157** | 134 | 23 | 0 |  |
+| `aep/` | Acts of the English Parliament (to 1707) | 692 | 664 | **664** | 72 | 6 | 586 |  |
+| `aosp/` | Acts of the Old Scottish Parliament (to 1707) | 109 | 109 | **109** | 90 | 19 | 0 |  |
+| `apgb/` | Acts of the Parliament of Great Britain (1707–1800) | 2218 | 58 | **58** | 45 | 13 | 0 |  |
 | `gbla/` | Local Acts of the Parliament of Great Britain | 273 | 0 | **0** | 0 | 0 | 0 |  |
-| `aip/` | Acts of the Old Irish Parliament (to 1800) | 46 | 11 | **0** | 0 | 0 | 0 |  |
+| `aip/` | Acts of the Old Irish Parliament (to 1800) | 46 | 11 | **11** | 10 | 1 | 0 |  |
 | `asp/` | Acts of the Scottish Parliament (1999–) | 402 | 402 | **402** | 385 | 17 | 0 |  |
 | `asc/` | Acts of Senedd Cymru (2020–) | 34 | 34 | **34** | 33 | 1 | 0 | 34 |
 | `anaw/` | Acts of the National Assembly for Wales (2012–2020) | 44 | 44 | **44** | 42 | 2 | 0 | 44 |
 | `mwa/` | Measures of the National Assembly for Wales (2008–2011) | 22 | 22 | **22** | 19 | 3 | 0 | 22 |
-| `nia/` | Acts of the Northern Ireland Assembly (2000–) | 238 | 238 | **0** | 0 | 0 | 0 |  |
-| `mnia/` | Measures of the Northern Ireland Assembly (1974) | 2 | 2 | **0** | 0 | 0 | 0 |  |
-| `apni/` | Acts of the Parliament of Northern Ireland (1921–1972) | 288 | 287 | **0** | 0 | 0 | 0 |  |
-| | **Total** | 43212 | 6620 | **502** | | | | 100 |
+| `nia/` | Acts of the Northern Ireland Assembly (2000–) | 238 | 238 | **238** | 200 | 26 | 12 |  |
+| `mnia/` | Measures of the Northern Ireland Assembly (1974) | 2 | 2 | **2** | 2 | 0 | 0 |  |
+| `apni/` | Acts of the Parliament of Northern Ireland (1921–1972) | 288 | 287 | **287** | 276 | 11 | 0 |  |
+| | **Total** | 43212 | 6620 | **6620** | | | | 100 |
 
 Notes on the columns:
 
 - *Items listed*: every item the legislation.gov.uk search feed lists for that type.
 - *Items with XML text*: items for which legislation.gov.uk holds structured text. The remainder
-  (mostly pre-1900 Acts long since repealed, and almost all Local and Private Acts) exist on
+  (mostly Acts repealed before the 1970s–80s, and almost all Local and Private Acts) exist on
   legislation.gov.uk only as **scanned PDFs of the original print** and are **not included**.
 - *revised, not repealed*: latest revised (consolidated, point-in-time) text, status `in_force`
   (this means the Act is not wholly repealed; individual provisions may be repealed, prospective or
@@ -55,7 +55,7 @@ Notes on the columns:
   >150,000 API requests.
 - **Retained / assimilated EU law** (`eur`, `eudr`, `eudn`) — not UK primary legislation.
 - **PDF-only items** (see the table above): Local Acts (`ukla`) before ~1991, all
-  `ukppa` and `gbla` items, and pre-1900 public Acts that were repealed before the Statute Law
+  `ukppa` and `gbla` items, and ~13,170 older public Acts (1801–1980s) that were repealed before the Statute Law
   Database was created. They are only available as scanned images.
 - **Annotations**: legislation.gov.uk attaches editorial annotations to the revised text. This
   corpus keeps textual-amendment notes (`F` notes), marginal citations (`M`) and editorial notes

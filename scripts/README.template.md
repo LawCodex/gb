@@ -19,7 +19,7 @@ Notes on the columns:
 
 - *Items listed*: every item the legislation.gov.uk search feed lists for that type.
 - *Items with XML text*: items for which legislation.gov.uk holds structured text. The remainder
-  (mostly pre-1900 Acts long since repealed, and almost all Local and Private Acts) exist on
+  (mostly Acts repealed before the 1970s–80s, and almost all Local and Private Acts) exist on
   legislation.gov.uk only as **scanned PDFs of the original print** and are **not included**.
 - *revised, not repealed*: latest revised (consolidated, point-in-time) text, status `in_force`
   (this means the Act is not wholly repealed; individual provisions may be repealed, prospective or
@@ -39,7 +39,7 @@ Notes on the columns:
   >150,000 API requests.
 - **Retained / assimilated EU law** (`eur`, `eudr`, `eudn`) — not UK primary legislation.
 - **PDF-only items** (see the table above): Local Acts (`ukla`) before ~1991, all
-  `ukppa` and `gbla` items, and pre-1900 public Acts that were repealed before the Statute Law
+  `ukppa` and `gbla` items, and ~13,170 older public Acts (1801–1980s) that were repealed before the Statute Law
   Database was created. They are only available as scanned images.
 - **Annotations**: legislation.gov.uk attaches editorial annotations to the revised text. This
   corpus keeps textual-amendment notes (`F` notes), marginal citations (`M`) and editorial notes
