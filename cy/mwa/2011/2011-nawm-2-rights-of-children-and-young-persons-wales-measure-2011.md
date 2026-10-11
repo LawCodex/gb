@@ -242,7 +242,7 @@ Ond nid yw'r is-adran honno yn gymwys os yw is-adran (7) yn gymwys o ran y diwyg
 
 Yn y Mesur hwn
 
-- ystyr “y Cynulliad” (*the Assembly)*yw Cynulliad Cenedlaethol Cymru;
+- ystyr “y Cynulliad” (*the Assembly)* yw Cynulliad Cenedlaethol Cymru;
 
 - ystyr “deddfiad” (*enactment*) yw—
 

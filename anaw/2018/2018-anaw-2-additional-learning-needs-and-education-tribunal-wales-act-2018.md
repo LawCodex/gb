@@ -1858,7 +1858,7 @@ about the additional learning provision made for children or young people.
 
 (4) The arrangements may include provision for the local authority to make payments to, or in relation to, any person carrying out functions in accordance with the arrangements made under this section.
 
-#### Appeals and applications to theTribunal
+#### Appeals and applications to the Tribunal
 
 ##### 70 Appeal and application rights
 

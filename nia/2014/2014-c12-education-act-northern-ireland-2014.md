@@ -1,0 +1,1167 @@
+---
+title: "Education Act (Northern Ireland) 2014"
+identifier: "nia/2014/12"
+citation: "2014 CHAPTER 12"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2014-12-11
+last_amended: 2022-10-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2014/12"
+source_modified: 2023-12-11
+retrieved: 2026-10-11
+---
+
+# Education Act (Northern Ireland) 2014
+
+**2014 CHAPTER 12**
+
+An Act to provide for the establishment and functions of the Education Authority; to confer power on the Department of Education to make grants to sectoral bodies; and for connected purposes.
+
+[11th December 2014]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## The Education Authority
+
+### 1 The Education Authority
+
+(1) There shall be a body corporate to be known as the Education Authority (referred to in this Act as “the Authority”).
+
+(2) Schedule 1 applies in relation to the Authority.
+
+### 2 Functions of the Authority
+
+(1) The Authority has the functions transferred to it by or under this Act or conferred or imposed on it by or under this Act or any other statutory provision.
+
+(2) The functions exercisable immediately before the transfer date by education and library boards under any statutory provision are on that date transferred to the Authority.
+
+(3) It is the duty of the Authority (so far as its powers extend) to encourage, facilitate and promote shared education.
+
+[[^F1](3A) It is a duty of the Authority (so far as its powers extend) to encourage, facilitate and support integrated education.]
+
+(4) It is the duty of the Authority (so far as its powers extend) to encourage, facilitate and promote the community use of premises of grant-aided schools.
+
+### 3 Dissolution of education and library boards and Staff Commission
+
+(1) The following bodies are dissolved—
+
+(a) education and library boards;
+
+(b) the Staff Commission for Education and Library Boards.
+
+(2) Schedule 2 makes provision for the transfer to the Authority of the assets, liabilities and staff of the bodies dissolved by subsection (1) and contains other supplementary provisions.
+
+## Funding of sectoral bodies
+
+### 4 Funding of sectoral bodies
+
+The Department may, subject to such conditions as it thinks fit, pay grants to any body which is recognised by the Department as representing the interests of controlled schools, or any body which is recognised by the Department as representing grant-aided schools of any other particular description.
+
+## Supplementary provisions
+
+### 5 Amendments, repeals and other consequential provision
+
+(1) The statutory provisions set out in Schedule 3 have effect subject to the amendments specified in that Schedule.
+
+(2) The statutory provisions set out in Schedule 4 are repealed to the extent specified in the second column of that Schedule.
+
+(3) The Department may by order make such supplementary, incidental, consequential or transitional provision as it considers necessary or appropriate in consequence of, or for giving full effect to, any provision made by this Act.
+
+(4) An order under subsection (3) may amend, repeal, revoke or otherwise modify any statutory provision (including this Act).
+
+(5) No order may be made under subsection (3) unless a draft of the order has been laid before, and approved by resolution of, the Assembly.
+
+### 6 Interpretation
+
+(1) In this Act—
+
+- “DEL” means the Department for Employment and Learning;
+- “the Department” means the Department of Education;
+- “the Education Orders” has the meaning given by Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986;
+- “the funding departments” means the Department and DEL;
+- “statutory provision” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954;
+- “the transfer date” means the date appointed under section 7(2) for the coming into operation of section 3(1).
+
+(2) Other words or expressions which are defined in Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 have the same meaning in this Act as in that Order.
+
+### 7 Short title and commencement
+
+(1) This Act may be cited as the Education Act (Northern Ireland) 2014.
+
+(2) The following provisions of this Act come into operation on such date as the Department may by order appoint—
+
+[^F2]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 3(1);
+
+(c) section 5(1) and (2) and Schedules 3 and 4;
+
+[^F2]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F3](2A) The following provisions come into operation on the day after the day on which the Shared Education Act (Northern Ireland) 2016 receives Royal Assent—
+
+(a) section 2(3);
+
+(b) paragraph 8(2) of Schedule 1.]
+
+(3) The other provisions of this Act come into operation on the day after this Act receives Royal Assent.
+
+## SCHEDULE 1 — The Education Authority
+
+*Section 1.*
+
+### Status
+
+**1** (1) The Authority shall not be regarded—
+
+(a) as the servant or agent of the Crown; or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The property of the Authority shall not be regarded as property of, or held on behalf of, the Crown.
+
+(3) Subject to the following provisions of this Schedule and Article 106 of the 1986 Order, section 19 of the Interpretation Act (Northern Ireland) 1954 applies to the Authority.
+
+### Membership
+
+**2** (1) The Authority shall consist of—
+
+(a) a Chair appointed by the Department on the basis of merit through a fair and open public competition,
+
+(b) 8 persons nominated in accordance with paragraph 3 (“political members”), and
+
+(c) 12 persons appointed by the Department (“appointed members”) of whom—
+
+(i) 4 shall be persons appearing to the Department to represent the interests of transferors of controlled schools, appointed after consultation with persons or bodies appearing to the Department to represent such interests;
+
+(ii) 4 shall be persons appearing to the Department to represent the interests of trustees of maintained schools, appointed after consultation with persons or bodies appearing to the Department to represent such interests;
+
+(iii) 1 shall be a person appearing to the Department to represent the interests of integrated schools, appointed after consultation with persons or bodies appearing to the Department to represent such interests;
+
+(iv) 1 shall be a person appearing to the Department to represent the interests of voluntary grammar schools, appointed after consultation with persons or bodies appearing to the Department to represent such interests;
+
+(v) 1 shall be a person appearing to the Department to represent the interests of controlled grammar schools, appointed after consultation with persons or bodies appearing to the Department to represent such interests; and
+
+(vi) 1 shall be a person appearing to the Department to represent the interests of Irish Medium schools, appointed after consultation with persons or bodies appearing to the Department to represent such interests.
+
+(2) In making appointments under sub-paragraph (1)(c)(iii), the Department shall, so far as practicable, secure that each person appointed has experience in a field of activity relevant to the discharge of the functions of the Authority.
+
+(3) A person is disqualified for membership of the Authority if that person is an officer of the Authority.
+
+### Political members
+
+**3** (1) Where members are first appointed to the Authority, the political members shall be nominated by applying sub-paragraphs (3) to (8).
+
+(2) Where at any other time—
+
+(a) an Assembly is elected under section 31 or 32 of the Northern Ireland Act 1998,
+
+(b) a resolution which causes one or more Ministerial offices to become vacant is passed under section 30(2) of that Act, or
+
+(c) the period of exclusion imposed by a resolution under section 30(2) of that Act comes to an end,
+
+all political members shall cease to hold office and the political members shall be nominated by applying sub-paragraphs (3) to (8).
+
+(3) At the request of the Department, the nominating officer of the political party for which the formula in sub-paragraph (7) gives the highest figure may nominate a person as a political member.
+
+(4) The nominated person may take up office as a political member by making a statement to that effect to the Department.
+
+(5) If—
+
+(a) the nominating officer does not exercise the power conferred by sub-paragraph (3) within the period of 7 days from the Department's request, or
+
+(b) the nominated person does not take up office as a political member within that period,
+
+that power shall become exercisable by the nominating officer of the political party for which the formula in sub-paragraph (7) gives the next highest figure.
+
+(6) Sub-paragraphs (3) to (5) shall be applied as many times as may be necessary to secure that all of the offices as political member are filled.
+
+(7) The formula is—
+
+(S)/(1 + M) where— S the number of seats in the Assembly which were held by members of the party on the day on which the Assembly first met following its election; M the number of members of the party (if any) who hold office as a political member.
+
+(8) Where the figures given by the formula for two or more political parties are equal, each of those figures shall be recalculated with S being equal to the number of first preference votes cast for the party at the last general election of members of the Assembly.
+
+(9) A person shall cease to hold office as a political member if that person resigns by notice in writing to the Department.
+
+(10) Where a person ceases to hold office as a political member otherwise than by virtue of sub-paragraph (2), the nominating officer of the party on whose behalf that person was nominated may nominate another person to hold the office.
+
+(11) If—
+
+(a) the nominating officer does not exercise the power conferred by sub-paragraph (10) within such period as the Department may determine from the person ceasing to hold office, or
+
+(b) the nominated person does not take up the office within that period,
+
+the vacancy shall be filled by applying sub-paragraphs (3) to (8) within the further period of 7 days.
+
+(12) Where—
+
+(a) the Assembly has resolved under section 30(2) of the Northern Ireland Act 1998 that a political party does not enjoy its confidence, and
+
+(b) the party's period of exclusion has not come to an end,
+
+the party shall be disregarded for the purposes of any application of sub-paragraphs (3) to (8).
+
+(13) In this paragraph “nominating officer”, in relation to a party, means the person registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 as the party's nominating officer or a member of the Assembly nominated by that person for the purpose.
+
+### Chair and appointed members
+
+**4** (1) Subject to the provisions of this paragraph, the Chair and the appointed members of the Authority shall hold and vacate office in accordance with the terms of their respective appointments.
+
+(2) An appointment as Chair or an appointed member shall be for a specified period of not more than 4 years.
+
+(3) A person holding office as Chair or appointed member may at any time resign that office by notice in writing to the Department.
+
+(4) The Department may by notice in writing remove a person from office as Chair or appointed member if satisfied that the person—
+
+(a) has, without reasonable excuse, failed to discharge the functions of the office for a continuous period of 6 months,
+
+(b) is the subject of a bankruptcy restrictions order (or interim order) or a debt relief restrictions order,
+
+(c) has failed to comply with the terms of appointment,
+
+(d) has been convicted of an indictable offence, or
+
+(e) is otherwise unable, unfit or unwilling to perform the functions of the office.
+
+(5) A person whose term of office as Chair or an appointed member expires or who has resigned shall be eligible for re-appointment.
+
+### Remuneration and allowances of members
+
+**5** The Authority shall pay to its Chair and members such remuneration and allowances as the Department may determine.
+
+### Officers
+
+**6** (1) The Authority shall have—
+
+(a) a chief executive, with responsibility to the Authority for the carrying out of its functions and the management of its officers; and
+
+(b) such other officers as the Authority may determine.
+
+(2) An interim chief executive of the Authority shall be appointed by the Department.
+
+(3) Within one year of the date of the first meeting of the Authority, the Authority shall commence a process to appoint a permanent chief executive.
+
+(4) Every subsequent chief executive shall be appointed by the Authority.
+
+(5) The Authority shall not appoint a person as chief executive unless the Department approves the appointment.
+
+(6) A person shall, so long as that person is, and for 12 months after ceasing to be, a member of the Authority, be disqualified for being an officer of the Authority.
+
+### Remuneration, allowances and pensions of officers
+
+**7** (1) Subject to sub-paragraph (2), the Authority shall pay to its officers such remuneration and allowances as it may determine.
+
+(2) The Department may direct that the remuneration and allowances of the chief executive and other officers of such class or description as may be specified in the direction shall not be determined under sub-paragraph (1) without the approval of the Department.
+
+(3) The Authority shall—
+
+(a) pay, or make payments in respect of, such pensions or gratuities to or in respect of its officers or former officers as it may, with the approval of the Department, determine; or
+
+(b) provide and maintain such schemes (whether contributory or not) as it may, with the approval of the Department, determine, for the payment of pensions or gratuities to or in respect of its officers or former officers.
+
+(4) References in this paragraph to pensions and gratuities include references to pensions or gratuities by way of compensation to or in respect of officers who suffer loss of employment or loss or diminution of emoluments.
+
+### Committees
+
+**8** (1) The Authority may appoint such committees as it considers necessary.
+
+(2) The Authority shall appoint a standing committee to exercise the functions of the Authority under section 2(3).
+
+(3) The membership of the standing committee referred to in sub-paragraph (2) shall, as far as practicable, be representative of the membership of the Authority.
+
+(4) The Authority shall appoint a standing committee to exercise the functions of the Authority under section 2(4).
+
+(5) The membership of the standing committee referred to in sub-paragraph (4) shall, as far as practicable, be representative of the membership of the Authority.
+
+(6) The Authority may authorise a committee to appoint sub-committees for such purposes of the committee as the Authority may approve.
+
+(7) A committee or sub-committee may contain members who are not members of the Authority or of the committee which appointed the sub-committee.
+
+(8) The Authority may authorise any committee of the Authority all the members of which are members of the Authority to perform specific functions on behalf of, and in the name of, the Authority.
+
+(9) Except as provided by a scheme under Article 153 of the 1989 Order, the Authority shall not authorise a committee any member or members of which are not members of the Authority to perform functions on behalf of, or in the name of, the Authority.
+
+(10) The Authority may pay to members of its committees and sub-committees who are neither members nor officers of the Authority such remuneration and allowances as the Authority may, with the approval of the Department, determine.
+
+### Proceedings
+
+**9** Without prejudice to section 19(1)(a)(v) of the Interpretation Act (Northern Ireland) 1954, the Authority shall make standing orders regulating the procedure of the Authority and its committees, including provision regulating—
+
+(a) the convening of meetings;
+
+(b) the fixing of the quorum;
+
+(c) the conduct of business at meetings;
+
+(d) the disclosure by a member of any pecuniary interest in, or family relationship relevant to, any matter to be discussed at a meeting and the withdrawal by such a member from any discussion on that matter;
+
+(e) the admission or exclusion of the public and press from meetings;
+
+(f) the keeping of minutes and other records;
+
+(g) the custody of documents;
+
+(h) the duties of officers;
+
+(i) such other matters connected with the conduct of its business as the Authority thinks fit.
+
+**10** The validity of any proceedings of the Authority, or of any of its committees, shall not be affected by—
+
+(a) any vacancy among the officers of the Authority or of the committee;
+
+(b) any vacancy in the office of the Chair of the Authority;
+
+(c) any defect in the appointment of any one or more officers of the Authority or in the appointment of the Chair of the Authority; or
+
+(d) any failure to comply with paragraph 9.
+
+### Application of seal and documents
+
+**11** (1) The application of the seal of the Authority shall be authenticated by the signature—
+
+(a) of the Chair of the Authority or the chief executive; or
+
+(b) of any other member or officer who has been authorised by the Authority (whether generally or specially) for that purpose.
+
+(2) Any document which if executed by an individual would not require to be executed as a deed may be executed on behalf of the Authority by any person generally or specially authorised by the Authority for that purpose.
+
+(3) In any legal proceedings any document purporting to have been so executed on behalf of the Authority shall be deemed to be so executed until the contrary is proved.
+
+**12** Any document required under any statutory provision to be served on or sent to the Authority may (without prejudice to the operation of section 24 of the Interpretation Act (Northern Ireland) 1954) be served on or sent to the chief executive of the Authority.
+
+### Finance
+
+**13** (1) A funding department may make payments to the Authority out of moneys appropriated by Act of the Assembly.
+
+(2) Payments made under this paragraph by a funding department shall be made on such terms and conditions as the funding department may determine.
+
+**14** (1) The Authority may, by means of a bank overdraft or other such means and within such limits and subject to such conditions as may be approved by the Department, temporarily borrow such sums as may be necessary for the purposes of defraying expenditure incurred or to be incurred by it.
+
+(2) Any sum borrowed under this paragraph shall be repaid by the Authority before the end of the financial year in which it is borrowed.
+
+### Accounts
+
+**15** (1) The Authority shall—
+
+(a) keep proper accounts and proper records in relation to the accounts; and
+
+(b) prepare a statement of accounts in respect of each financial year.
+
+(2) The statement of accounts shall—
+
+(a) be in such form, and
+
+(b) contain such information,
+
+as the Department may, with the approval of the Department of Finance and Personnel, direct.
+
+(3) The Authority shall, within such period after the end of each financial year as the Department may direct, send copies of the statement of accounts relating to that year to—
+
+(a) the Department;
+
+(b) DEL; and
+
+(c) the Comptroller and Auditor General.
+
+(4) The Comptroller and Auditor General shall—
+
+(a) examine, certify and report on every statement of accounts received under this paragraph; and
+
+(b) send a copy of each report to the Department.
+
+(5) The Department shall lay a copy of the statement of accounts and of the Comptroller and Auditor General's report before the Assembly.
+
+### Annual report
+
+**16** (1) As soon as practicable after the end of each financial year, the Authority shall send to the Department and DEL a report on the carrying out of its functions during that year.
+
+(2) A report under this paragraph shall contain such information as the Department may direct.
+
+(3) The Department shall lay a copy of the report before the Assembly.
+
+### Other reports and returns
+
+**17** The Authority shall make such reports and returns and give such information—
+
+(a) to the Department as the Department may reasonably require for the purposes of its functions under any statutory provision;
+
+(b) to DEL as DEL may reasonably require for the purposes of its functions under any statutory provision.
+
+### Commissioner for Complaints
+
+**[^F4]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Freedom of information
+
+**19** In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (bodies, etcwhich are public authorities for the purposes of the Act) for “An Education and Library Board established under Article 3 of the Education and Libraries (Northern Ireland) Order 1986” substitute “ The Education Authority ”.
+
+### Interpretation
+
+**20** In this Schedule “financial year” means—
+
+(a) the period beginning with the day on which the Authority is established and ending on 31st March 2016; and
+
+(b) any subsequent period of 12 months ending on 31st March.
+
+## SCHEDULE 2 — Transfer of assets, liabilities and staff of dissolved bodies
+
+*Section 3.*
+
+### Interpretation
+
+**1** In this Schedule “dissolved body” means a body listed in section 3(1).
+
+### Transfer of assets and liabilities
+
+**2** (1) All assets and liabilities to which a dissolved body is entitled or subject immediately before the transfer date shall on that date be transferred to, and by virtue of this paragraph vest in, the Authority.
+
+(2) Sub-paragraph (1) has effect in relation to assets or liabilities to which it applies in spite of any provision (of whatever nature) which would prevent or restrict the transfer of the assets or liabilities otherwise than by that sub-paragraph.
+
+(3) But sub-paragraph (1) does not apply to rights or liabilities under a contract of employment (which are dealt with by paragraph 3).
+
+(4) A certificate issued by the Department that any assets or liabilities have been transferred to the Authority under this paragraph shall be conclusive evidence of the transfer.
+
+### Transfer of employed staff
+
+**3** (1) This paragraph applies to persons who immediately before the transfer date are employed by a dissolved body.
+
+(2) The Department may make one or more schemes with respect to persons to whom this paragraph applies.
+
+(3) A scheme may provide for the transfer as from the transfer date of persons to whom this paragraph applies from the employment of a dissolved body to the employment of the Authority.
+
+(4) The Transfer of Undertakings (Protection of Employment) Regulations 2006 apply to a transfer effected by a scheme whether or not the transfer would, apart from this paragraph, be a relevant transfer for the purposes of the regulations.
+
+(5) A scheme may include supplementary, incidental, transitional and consequential provision.
+
+(6) A scheme shall—
+
+(a) identify transferring employees (whether by name or otherwise);
+
+(b) include provision securing pension protection for such employees;
+
+(c) include provision for procedures designed to resolve any grievances of such employees arising in relation to matters dealt with by the scheme; and
+
+(d) include provision for the payment of compensation by the Department to any such employee who suffers loss or detriment in consequence of the scheme.
+
+(7) Before making a scheme the Department shall consult—
+
+(a) in the case of a scheme which identifies transferring employees by name, those employees; and
+
+(b) in the case of a scheme which identifies transferring employees in any other way, such persons as appear to the Department to be representative of transferring employees.
+
+(8) For the purposes of this paragraph—
+
+(a) “pension protection” is secured for a transferring employee if after the change of employer effected by the scheme the employee has, as an employee of the Authority, rights to acquire pension benefits and those rights are the same as or (taken as a whole) no less favourable than those that the transferring employee had as an employee of a dissolved body;
+
+(b) “scheme” means a scheme made under this paragraph; and
+
+(c) “transferring employee” means an employee of a dissolved body who is transferred by virtue of this paragraph to the employment of the Authority.
+
+(9) Procedures under sub-paragraph (6)(c) shall involve consideration of grievances by a person other than—
+
+(a) a member, or member of staff, of the Authority; or
+
+(b) a member of the Northern Ireland civil service.
+
+### References to, and acts, etc. done by, or in relation to, a dissolved body
+
+**4** (1) In any statutory provision or document—
+
+(a) any reference to a dissolved body (whether general or particular) shall, in relation to any time after the transfer date, be construed as a reference to the Authority; and
+
+(b) any reference which delimits a function of an education and library board by reference to its area shall, in relation to that time, be disregarded.
+
+(2) Sub-paragraph (1) does not apply—
+
+(a) to any reference which is amended by Schedule 3; or
+
+(b) if the context otherwise requires.
+
+(3) Nothing in this Act affects the validity of anything done by, or in relation to, a dissolved body before the transfer date.
+
+(4) Anything which before the transfer date was done by or in relation to a dissolved body shall, if in effect immediately before that day, continue to have effect to the same extent and subject to the same provisions as if it had been done by, or in relation to, the Authority.
+
+(5) Anything (including any legal proceedings) in the process of being done by or in relation to a dissolved body immediately before the transfer date may be continued by or in relation to the Authority.
+
+(6) In the case of an education and library board, this paragraph does not apply where any of paragraphs 5 to 8 of Schedule 2 to the Libraries Act (Northern Ireland) 2008 applies.
+
+**5** (1) The Authority shall make arrangements for a statement of accounts to be prepared in relation to each dissolved body for the relevant period.
+
+(2) Each statement of accounts shall—
+
+(a) be in such form, and
+
+(b) contain such information,
+
+as the Department may direct.
+
+(3) The Authority shall, within such time after the end of the relevant period as the Department may direct, send a copy of each statement of accounts—
+
+(a) to each of the funding departments; and
+
+(b) to the Comptroller and Auditor General.
+
+(4) The Comptroller and Auditor General shall—
+
+(a) examine, certify and report on every statement of accounts received under this paragraph; and
+
+(b) send a copy of each report to each of the funding departments.
+
+(5) The Department shall lay a copy of the statement of accounts and of the Comptroller and Auditor General's report before the Assembly.
+
+(6) In this paragraph “the relevant period” means the period—
+
+(a) beginning on such day as the Department may direct; and
+
+(b) ending immediately before the transfer date.
+
+## SCHEDULE 3 — Amendments
+
+*Section 5.*
+
+### The Education Orders - general amendment of references to education and library boards
+
+**1** (1) In the Education Orders—
+
+(a) for “a board”, “the board”, “that board”, “the boards”, “each board” and “every board” (wherever occurring) substitute “the Authority”;
+
+(b) for “the board's” (wherever occurring) substitute “the Authority's”.
+
+(2) Sub-paragraph (1)—
+
+(a) applies only in relation to references to an education and library board, or such boards; and
+
+(b) does not apply in relation to any reference which is subject to specific amendment or repeal by this Act.
+
+### The School Sites Act (Northern Ireland) 1928 (c. 8)
+
+**2** In section 1(1) and (2) for “an education authority” substitute “ the Education Authority ”.
+
+### The Exchequer and Financial Provisions Act (Northern Ireland) 1950 (c. 3)
+
+**3** In section 33(1) for “boards under Article 114 of the 1986 Order” substitute “ the Education Authority under paragraph 13 of Schedule 1 to the Education Act (Northern Ireland) 2014 ”.
+
+### The Superannuation (Northern Ireland) Order 1972 (NI 10)
+
+**4** In Article 11(5) for “representatives of local education authorities and” substitute “ the Education Authority and with representatives ”.
+
+### The Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14)
+
+**5** In Article 67 for “Education and Library Boards” substitute “ the Education Authority ”.
+
+### The Solicitors (Northern Ireland) Order 1976 (NI 12)
+
+**6** In Article 3(2) in the definition of “local authority” for “an Education and Library Board established under the Education and Libraries (Northern Ireland) Order 1972” substitute “ the Education Authority ”.
+
+### The Sex Discrimination (Northern Ireland) Order 1976 (NI 15)
+
+**7** (1) In Article 24(1), in the Table, for “Education and Library Board” substitute “ Education Authority ”.
+
+(2) In Article 25—
+
+(a) in the title for “Education and Library Boards” substitute “ the Education Authority ”;
+
+(b) for “an Education and Library Board” substitute “ the Education Authority ”.
+
+(3) In Article 26(2) and (4)(a) for “an Education and Library Board” substitute “ the Education Authority ”.
+
+### The Rates (Northern Ireland) Order 1977 (NI 28)
+
+**8** In Schedule 13 for the entry relating to an education and library board substitute— “ The Education Authority. ”.
+
+### The Education and Libraries (Northern Ireland) Order 1986 (NI 3)
+
+**9** (1) In Article 2(2) at the appropriate places in alphabetical order insert the following definition—
+
+> - “the Authority” means the Education Authority;
+
+.
+
+(2) In Article 2(2) for the definition of “the funding departments” substitute—
+
+> “the funding departments” has the meaning given by section 6(1) of the Education Act (Northern Ireland) 2014;
+
+.
+
+(3) In Article 5(2) for “of its area” substitute “ of the community ”.
+
+(4) In Article 9C(7) for “the Catholic maintained schools maintained by that board” substitute “ Catholic maintained schools ”.
+
+(5) In Article 13(3AA) for the words from the beginning to “hospital” substitute “ Where, in relation to a school established in a hospital, the Authority is of the opinion that ”.
+
+(6) In Article 16(1) for “by a board” substitute “ by the Authority or by a board ”.
+
+(7) In Article 17(1), (3) and (6) for “the appropriate board” substitute “ the Authority ”.
+
+(8) In Article 17(1) for “the relevant board” substitute “ the Authority ”.
+
+(9) In Article 18(2)(a) for “responsible for the management of” substitute “ in the case of ”.
+
+(10) In Article 46A(6)(b) for “the relevant board” substitute “ the Authority ”.
+
+(11) In Article 49(1) for “schools under its management” substitute “ controlled schools ”.
+
+(12) In Article 79(1) for “member of the board or of a committee of the board or a sub-committee thereof” substitute “ person to whom this paragraph applies ”.
+
+(13) In Article 107(1) for the words from “transferred to it” to the end substitute “ to which it is for the time being entitled or subject to for the purposes of the Education Orders ”.
+
+(14) In Article 119A(1)(a) and (b) for “the responsible board” substitute “ the Authority ”.
+
+(15) In Schedule 4—
+
+(a) in paragraph 5(1)(c) for “area of the board responsible for the management of the school” substitute “ locality served by the school ”;
+
+(b) in paragraph 5(1)(d) for “area of the board responsible for the management of the school” substitute “ Roman Catholic diocese in which the school is situated (or in so much of that diocese as lies within Northern Ireland) ”;
+
+(c) in paragraph 7 in the definition of “superseded managers” for “schools under the management of boards” substitute “ controlled schools ”.
+
+(16) In Schedule 6—
+
+(a) in paragraph 2(1) for “one or more than one board conferring on the board or boards concerned” substitute “ the Authority conferring on the Authority ”;
+
+(b) in paragraph 4(2)(b)(i) for “the board or boards concerned” (in each place) substitute “ the Authority ”;
+
+(c) in paragraph 5(2)(b)(i) for “the board or boards concerned” (in each place) substitute “ the Authority ”.
+
+### The Disabled Persons (Northern Ireland) Act 1989 (c. 10)
+
+**10** (1) In section 2(7) for “education and library boards” substitute “ the Authority ”.
+
+(2) In section 5(1)—
+
+(a) for “an education and library board” substitute “ the Authority ”;
+
+(b) for “the education and library board” (wherever occurring) substitute “ the Authority ”.
+
+(3) In section 5(2)—
+
+(a) for “an education and library board” (twice) substitute “ the Authority ”;
+
+(b) for “the education and library board” (wherever occurring) substitute “ the Authority ”;
+
+(c) for “the board” substitute “ the Authority ”.
+
+(4) In section 5(3) for “the responsible education and library board” (twice) substitute “ the Authority ”.
+
+(5) In section 5(4)—
+
+(a) for “an education and library board” substitute “ the Authority ”;
+
+(b) for the words from “that or any other” to “for the time being)” substitute “ the Authority ”;
+
+(c) for “the education and library board” and “that education and library board” substitute “ the Authority ”.
+
+(6) In section 5(6) for “an education and library board” and “the education and library board” substitute “ the Authority ”.
+
+(7) In section 6(1) for “An education and library board” substitute “ The Authority ”.
+
+(8) In section 7(4) for the words from “the education and library board” to the end substitute “ the Authority ”.
+
+(9) In section 11 after the definition of “Board” insert—
+
+> “the Authority” means the Education Authority;
+
+.
+
+### The Education Reform (Northern Ireland) Order 1989 (NI 20)
+
+**11** (1) In Article 69(4)(b)(i) for “relevant board” substitute “ Authority ”.
+
+(2) In Article 71 for “relevant board” (wherever occurring) substitute “ Authority ”.
+
+(3) In Article 73(3) for “relevant board” substitute “ Authority ”.
+
+(4) In Article 75 for “relevant board” (wherever occurring) substitute “ Authority ”.
+
+(5) In Article 76 for “relevant board” (wherever occurring) substitute “ Authority ”.
+
+(6) In Article 80(3) for “a board” substitute “ the Authority or a board ”.
+
+(7) In Article 83—
+
+(a) in paragraph (3) for “any board or person” substitute “ the Authority or any other person ” and for “that board or person” substitute “ the Authority or that person ”;
+
+(b) in paragraph (5) for “person” substitute “ a person ”;
+
+(c) in paragraph (6) for “person to which or” substitute “ the person ”.
+
+(8) In Article 84(2) for “or person” substitute “ or that person ”.
+
+(9) In Article 92(1) and (9)(b) for “relevant board” substitute “ Authority ”.
+
+(10) In Article 93(3) for “relevant board” substitute “ Authority ”.
+
+(11) In Article 95(1) for “relevant board” substitute “ Authority ”.
+
+(12) In Article 96(5) and (6)(a) for “relevant board” substitute “ Authority ”.
+
+(13) In Article 127(5) for “The board for the area in which a grammar school is situated” substitute “ In relation to a grammar school, the Authority ”.
+
+(14) In Article 135(1) for “that board or” substitute “ the Authority or the ”.
+
+(15) In Articles 137(1) and 139(4)(a) for “any board” substitute “ the Authority ”.
+
+(16) In Article 139(4)(b) for “any such board” substitute “ the Authority and any such ”.
+
+(17) In Article 140 for the words from “Article 62” to “1993” substitute “ Article 72 of the Education (Northern Ireland) Order 1998 ”.
+
+(18) In Article 153 for paragraphs (2) to (4) substitute—
+
+> (2) A scheme under paragraph (1) may provide—
+>
+> (a) for any specified functions of the Authority under the scheme to be exercised by committees of the Authority (“teaching appointments committees”);
+>
+> (b) for a teaching appointments committee to include persons who are not members of the Authority; and
+>
+> (c) for a teaching appointments committee to exercise functions on behalf of, and in the name of, the Authority.
+>
+> (3) Before preparing or revising a scheme under paragraph (1) the Authority shall consult the Board of Governors of every controlled school.
+>
+> (4) A scheme prepared or revised under paragraph (1) does not come into force unless approved by the Department.
+>
+> (5) It shall be the duty of the Authority to give effect to a scheme or revised scheme for the time being in force under paragraph (1).
+
+.
+
+### The Youth Service (Northern Ireland) Order 1989 (NI 22)
+
+**12** (1) In Article 4(1)(a) for “education and library boards” substitute “ the Education Authority ”.
+
+(2) In the Schedule in paragraph 2(1) for “education and library boards” substitute “ the Education Authority ”.
+
+### The Disability Discrimination Act 1995 (c. 50)
+
+**13** In section 19(6) for paragraph (a) substitute—
+
+> (a) the Education Authority
+
+.
+
+### The Children (Northern Ireland) Order 1995 (NI 2)
+
+**14** (1) In Article 19(7) for “an education and library board” substitute “ the Education Authority ”.
+
+(2) In Article 20(2)(a) for “the appropriate education and library board” substitute “ the Education Authority ”.
+
+(3) In Article 35(2)(d)(i) for “an education and library board” substitute “ the Education Authority ”.
+
+(4) In Article 46(3)(b) for “any education and library board” substitute “ the Education Authority ”.
+
+(5) In Article 47 in the title for “education and library boards” substitute “ the Education Authority ” and in paragraphs (1), (2) and (3) for “the appropriate education and library board” substitute “ the Education Authority ”.
+
+(6) In Article 55—
+
+(a) in paragraph (1) for “any education and library board” substitute “ the Education Authority ” and for “a designated education and library board” substitute “ the Education Authority ”;
+
+(b) in paragraph (7) for “an education and library board” substitute “ the Education Authority ”.
+
+(7) In Article 66—
+
+(a) in paragraph (5) for “the relevant education and library board” substitute “ the Education Authority ”;
+
+(b) in paragraph (11)(b) for “any education and library board” substitute “ the Education Authority ”.
+
+(8) In Article 135(3) for “any education and library board” substitute “ the Education Authority ”.
+
+(9) In Article 137(3)(b) for “the education and library board in whose area the performance takes place” substitute “ the Education Authority ”.
+
+(10) In Article 138(1) for “The appropriate education and library board” substitute “ The Education Authority ”.
+
+(11) In Article 138—
+
+(a) in paragraph (3) for “the education and library board” substitute “ the Education Authority ” and for “the board” substitute “ the Education Authority ”;
+
+(b) in paragraph (4) for “The education and library board” substitute “ The Education Authority ”;
+
+(c) in paragraph (5) for “the education and library board” (twice), “an education and library board” and “the board” substitute “the Education Authority”.
+
+(12) In Article 139(1) for “the appropriate education and library board” substitute “ the Education Authority ”.
+
+(13) In Article 139(2)—
+
+(a) for “The appropriate education and library board” substitute “ The Education Authority ”;
+
+(b) for “the board” (wherever occurring) substitute “ the Education Authority ”;
+
+(c) for “the board's” substitute “the Education Authority's”.
+
+(14) In Article 140(2) for “the education and library board which granted, or any education and library board which varied, the licence” substitute “ the Education Authority ”.
+
+(15) In Article 143(1) for “The appropriate education and library board” substitute “ The Education Authority ”.
+
+(16) In Article 143(3)—
+
+(a) for “The education and library board” substitute “ The Education Authority ”;
+
+(b) for “the board” substitute “ the Education Authority ”.
+
+(17) In Article 143(4)(b) for “the education and library board” substitute “ the Education Authority ”.
+
+(18) In Article 143(5)—
+
+(a) for “The education and library board by which a licence under this Article is granted” substitute “ The Education Authority ”;
+
+(b) for “the board” (wherever occurring) substitute “ the Education Authority ”;
+
+(c) for “the board's” substitute “the Education Authority's”.
+
+(19) In Article 144(1) for “an education and library board” substitute “ the Education Authority ”.
+
+(20) In Article 144(2)—
+
+(a) for “the education and library board” substitute “ the Education Authority ”;
+
+(b) in sub-paragraph (a) for “the board's” substitute “the Education Authority's”.
+
+(21) In Article 146(1) and (2) for “an education and library board” substitute “ the Education Authority ”.
+
+(22) In Article 147(9) for “an education and library board” substitute “ the Education Authority ”.
+
+(23) In Article 149(1)(c) and (5)(e) and (g) for “an education and library board” substitute “ the Education Authority ”.
+
+(24) In Article 149(5)(f) for “any education and library board” substitute “ the Education Authority if it is ”.
+
+(25) In Article 154(1) and (2) for “education and library boards” substitute “ the Education Authority ”.
+
+(26) In Article 177(1)—
+
+(a) for “an education and library board” and “the education and library board” substitute “ the Education Authority ”;
+
+(b) for “the board” substitute “ the Education Authority ”.
+
+(27) In Article 177(3), (4) and (5) for “the education and library board” (wherever occurring) substitute “ the Education Authority ”.
+
+(28) In Schedule 2, in paragraph 2A(3) for paragraph (b) substitute—
+
+> (b) the Education Authority
+
+.
+
+(29) In Schedule 4—
+
+(a) in paragraph 5(2) for “the education and library board in whose favour the order was made” substitute “ the Education Authority ”;
+
+(b) in paragraphs 7(1)(c) and 9(1) for “the education and library board concerned” substitute “ the Education Authority ”.
+
+### The Education (Northern Ireland) Order 1996 (NI 1)
+
+**15** (1) In Article 14(1)(b) for “the appropriate board” substitute “ the Authority ”.
+
+(2) In Article 18A(5) for the words from the beginning to “Article 16” substitute “ Where the Authority is required by paragraph (4)(a) to make a statement under Article 16, the Authority ”.
+
+(3) In Article 23A for “the board concerned” substitute “ the Authority ”.
+
+### The Employment Rights (Northern Ireland) Order 1996 (NI 16)
+
+**16** In Article 78(7) for sub-paragraph (a) substitute—
+
+> (a) the Education Authority;
+
+.
+
+### The Race Relations (Northern Ireland) Order 1997 (NI 6)
+
+**17** (1) In Article 18(1), in the Table, for “Education and library board” substitute “ Education Authority ”.
+
+(2) In Article 19—
+
+(a) in the title for “education and library boards” substitute “ the Education Authority ”;
+
+(b) in paragraph (a) for “an education and library board” substitute “ the Education Authority ”.
+
+(3) In Article 20(2) and (4)(a) for “an education and library board” substitute “ the Education Authority ”.
+
+### The Further Education (Northern Ireland) Order 1997 (NI 15)
+
+**18** (1) In Article 6(2) for sub-paragraph (a) substitute—
+
+> (a) the Authority; and
+
+.
+
+(2) In Article 7(2) for sub-paragraph (b) substitute—
+
+> (b) the Authority; and
+
+.
+
+(3) In Article 8(3) for sub-paragraph (a) substitute—
+
+> (a) the Authority;
+
+.
+
+(4) In Article 9(2) for sub-paragraph (b) substitute—
+
+> (b) the Authority; and
+
+.
+
+(5) In Article 21(1) for sub-paragraph (b) substitute—
+
+> (b) the Education Authority, as the Education Authority may reasonably require for the purpose of its functions under any statutory provision.
+
+.
+
+(6) In Article 23(4) for “the board for the area in which the student is ordinarily resident” substitute “ the Authority ”.
+
+(7) In Schedule 3, in paragraph 2(1)(e) for “the board for the area in which the institution is situated” substitute “ the Authority ”.
+
+### The Museums and Galleries (Northern Ireland) Order 1998 (NI 2)
+
+**19** In Article 4(8)(b) for “education and library boards” substitute “ the Education Authority ”.
+
+### The Education (Northern Ireland) Order 1998 (NI 13)
+
+**20** (1) In Article 16(7) for “boards to exercise their” substitute “ the Authority to exercise its ”.
+
+(2) In Articles 56(1) and 59(1)(b) for “the board concerned” substitute “ the Authority ”.
+
+(3) In Article 60(5) for “all the boards” substitute “ the Authority ”.
+
+(4) In Article 60(12) for “the board concerned” substitute “ the Authority ”.
+
+(5) In Articles 62 and 64 for “the relevant board” (wherever occurring) substitute “ the Authority ”.
+
+(6) In Article 70(1) for “for the area in which a maintained school is situated shall” substitute “ shall, in relation to a maintained school, ”.
+
+(7) In Schedule 2, in paragraph 7 for “relevant board” (wherever occurring) substitute “ Authority ”.
+
+### The Education (Student Support) (Northern Ireland) Order 1998 (NI 14)
+
+**21** In Article 4(1) for sub-paragraph (a) substitute—
+
+> (a) the Education Authority; or
+
+.
+
+### The Education and Libraries (Northern Ireland) Order 2003 (NI 12)
+
+**22** In Article 37(5) for “A body to which this paragraph applies” substitute “ The Authority ”.
+
+### The Higher Education (Northern Ireland) Order 2005 (NI 5)
+
+**23** In Article 13(7) in the definition of “student support authority” for “any board or” substitute “ the Education Authority or any ”.
+
+### The Special Educational Needs and Disability (Northern Ireland) 2005 (NI 6)
+
+**24** (1) Paragraph 1 above applies in relation to the Order as it applies in relation to the Education Orders.
+
+(2) In Article 19 (1) at the end add—
+
+> (h) the Education Act (Northern Ireland) 2014.
+
+.
+
+### The Education (Northern Ireland) Order 2006 (NI 11)
+
+**25** (1) In Article 12(4)(a)(ii) and (8)(a) for “the relevant board” substitute “ the Authority ”.
+
+(2) In Article 14(3)(c) and (4) for “the relevant board” substitute “ the Authority ”.
+
+(3) In Article 22(2)(a) for “relevant board” substitute “ Authority ”.
+
+(4) In Article 22(3) for “relevant board” substitute “ the Authority ”.
+
+(5) In Article 31(2)(a)(i) and (3)(a) for “the relevant board” substitute “ the Authority ”.
+
+(6) In Article 32(1) and (7)(d) for “the relevant board” substitute “ the Authority ”.
+
+### The Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (NI 11)
+
+**26** (1) In Article 41—
+
+(a) in the title, for “Education and Library Boards” substitute “ The Education Authority ”;
+
+(b) in paragraph (1) for “An Education and Library Board (“a board”)” substitute “ The Education Authority ”;
+
+(c) in paragraphs (2), (4), (5)(a) and (6) for “the board or” substitute “ the Education Authority or the ”;
+
+(d) in paragraph (5) for “A board” substitute “ The Education Authority ”.
+
+(2) In Article 42—
+
+(a) in the title, for “Education and Library Boards” substitute “ The Education Authority ”;
+
+(b) in paragraph (2)—
+
+(i) for “an education and library board” substitute “ the Education Authority ”;
+
+(ii) for “that board or” substitute “ the Authority or that ”;
+
+(c) in paragraph (3) for “The board or” substitute “ The Education Authority or the ”.
+
+(3) In Schedule 2 in paragraph 3(1)(bb) for “an education and library board” substitute “ the Education Authority ”.
+
+### The Safeguarding Board Act (Northern Ireland) 2011 (c. 7)
+
+**27** (1) In section 1(3)(g) for “education and library boards” substitute “ the Education Authority ”.
+
+(2) In section 12(1)(g) for “education and library boards” substitute “ the Education Authority ”.
+
+## SCHEDULE 4 — Repeals
+
+*Section 5.*
+
+<table>
+<tbody>
+<tr><th>Short Title</th><th>Extent of Repeal</th></tr>
+<tr><td>The School Sites Act (Northern Ireland) 1928 (c. 8).</td><td>Section 3(2).</td></tr>
+<tr><td>The Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14)</td><td>In Article 2(2) the definition of “Education and Library Board”.</td></tr>
+<tr><td>The Sex Discrimination (Northern Ireland) Order 1976 (NI 15)</td><td>In Article 2(2) the definition of “Education and Library Board”.</td></tr>
+<tr><td rowspan="53">The Education and Libraries (Northern Ireland) Order 1986 (NI 3)</td><td>In Article 2(2) in the definition of “contributory school” the words “responsible for the management of the controlled secondary school”.</td></tr>
+<tr><td>In Article 2(2) in the definition of “managers” in paragraph (a) the words “responsible for its management”.</td></tr>
+<tr><td>Part 2.</td></tr>
+<tr><td>In Article 6(1) the words “in its area” and “for an area”.</td></tr>
+<tr><td>In Article 6(1A) the words “in its area” and sub-paragraph (b) and the word “and” immediately before it.</td></tr>
+<tr><td>In Article 7 the words “within its area” and “by Article 7(2) of the 1972 Order”.</td></tr>
+<tr><td>In Article 9B(1) the words “under the management of the board”.</td></tr>
+<tr><td>In Article 9B(3) the words “by which the school is maintained”.</td></tr>
+<tr><td>In Article 9C(6)(c) the words “or boards by which any such school is maintained”.</td></tr>
+<tr><td>In Article 10(1) the words “under its management”.</td></tr>
+<tr><td>In Article 14(2)(i) and (ii) the words “for the area in which the school is, or is to be, situated”.</td></tr>
+<tr><td>In Article 16(1) and (2) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>Article 17(7).</td></tr>
+<tr><td>In Article 22(1) and (2) the words “which controls the school”.</td></tr>
+<tr><td>In Article 37(1) the words “for its area” and “any other board or”.</td></tr>
+<tr><td>In Article 37(2) the words “other boards and by”.</td></tr>
+<tr><td>Article 37(4).</td></tr>
+<tr><td>In Article 46A(4)(a) the words “for the area in which he resides”.</td></tr>
+<tr><td>In Article 46A(9) the definition of “relevant board”.</td></tr>
+<tr><td>In Article 49(5)(a) the words “responsible for the management of the school”.</td></tr>
+<tr><td>In Article 49(6)(a) the words “situated in the area of the board”.</td></tr>
+<tr><td>In Article 49(12) the words “in like manner as it applies to members of a board”.</td></tr>
+<tr><td>In Article 53(1) the words “and is ordinarily resident within its area”.</td></tr>
+<tr><td>In Article 54 the words “and is ordinarily resident within its area”.</td></tr>
+<tr><td>In Article 58(3) the words “in its area”.</td></tr>
+<tr><td>In Article 69(5) (a) and (e) the words “by which they are employed”.</td></tr>
+<tr><td>In Article 73(2) the words “in its area”.</td></tr>
+<tr><td>In Article 79(2) the words “in like manner as it aplies to members of a board”.</td></tr>
+<tr><td>Article 79(3).</td></tr>
+<tr><td>Articles 80 to 86.</td></tr>
+<tr><td>In Article 88(1) the words “which manages the controlled school or, as the case may be, is responsible for the maintenance of the maintained school”.</td></tr>
+<tr><td>Article 90.</td></tr>
+<tr><td>Article 91A.</td></tr>
+<tr><td>Articles 92 and 93.</td></tr>
+<tr><td>In Article 94(5) the words “in the area of the board making the bye-law”.</td></tr>
+<tr><td>In Article 94(6) the words “by which the bye-laws were made”.</td></tr>
+<tr><td>Articles 95 to 99.</td></tr>
+<tr><td>In Article 106(4)(a) the words “in paragraph (5)” and the words from “and the reference” to the end.</td></tr>
+<tr><td>In Article 107(2) the words “by virtue of the said Article 96(1)”.</td></tr>
+<tr><td>Article 112.</td></tr>
+<tr><td>In Article 119A(2) the definition of “responsible board”.</td></tr>
+<tr><td>Article 130.</td></tr>
+<tr><td>Article 131(a).</td></tr>
+<tr><td>Schedules 1 to 3.</td></tr>
+<tr><td>In Schedule 4 in paragraph 2(2)(c) the words “responsible for the management of the school or schools”.</td></tr>
+<tr><td>In Schedule 4, in paragraphs 3(2)(c), 4(a) and 5(1)(b) and (3)(b) the words “responsible for the management of the school”.</td></tr>
+<tr><td>In Schedule 4, in paragraph 6(5) the words “in the area of the board as a whole”.</td></tr>
+<tr><td>In Schedule 5, in paragraph 7(1) the definition of “board”.</td></tr>
+<tr><td>In Schedule 6, in paragraph 1(2) the words from “for the area in which the school is situated” to the end.</td></tr>
+<tr><td>In Schedule 13, in paragraph 1(1) the words “in its area”.</td></tr>
+<tr><td>In Schedule 13, in paragraph 5(3) the words “who is for the time being in its area”.</td></tr>
+<tr><td>Schedule 15.</td></tr>
+<tr><td>In Part 2 of Schedule 16, in paragraph 1 the words “or the board”.</td></tr>
+<tr><td rowspan="3">The Disabled Persons (Northern Ireland) Act 1989 (c. 10)</td><td>In section 5(9) the definition of “the responsible education and library board” and the word “and” immediately before it.</td></tr>
+<tr><td>In section 6(1)(a) the words “for whom that education and library board is responsible for the purposes of the Education Order and” and the words “(whether it was given to that education and library board or not)”.</td></tr>
+<tr><td>In section 6(1)(b) the words “for whom that education and library board was so responsible immediately before they ceased to receive full time education at school and”.</td></tr>
+<tr><td rowspan="10">The Education Reform (Northern Ireland) Order 1989 (NI 10)</td><td>In Article 79(1) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 80(2), (4) and (6) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 83 (1)(a) the words “which is to manage the school”.</td></tr>
+<tr><td>In Article 83(4) the words “by which the controlled school mentioned in that sub-paragraph was managed”.</td></tr>
+<tr><td>In Article 87(3) the definition of “relevant board”.</td></tr>
+<tr><td>In Article 92(5) the words “making the proposal”.</td></tr>
+<tr><td>Article 99(1)(c).</td></tr>
+<tr><td>In Article 135(2) and (3) the words “who is ordinarily resident in its area” and “to another board or”.</td></tr>
+<tr><td>In Article 151(5)(a) and (e) the words “by which they are employed”.</td></tr>
+<tr><td>Article 160.</td></tr>
+<tr><td rowspan="2">The Education and Libraries (Northern Ireland) Order 1993 (NI 12)</td><td>Part 3.</td></tr>
+<tr><td>Article 44.</td></tr>
+<tr><td rowspan="5">The Children (Northern Ireland) Order 1995 (NI 2)</td><td>Article 47(4).</td></tr>
+<tr><td>Article 55(6).</td></tr>
+<tr><td>Article 138(2) and (7).</td></tr>
+<tr><td>Article 139(3), (4) and (5).</td></tr>
+<tr><td>Article 143(2).</td></tr>
+<tr><td rowspan="13">The Education (Northern Ireland) Order 1996 (NI 1)</td><td>In Article 6(2)(a) the words “in its area”.</td></tr>
+<tr><td>Article 6(2)(b).</td></tr>
+<tr><td>In Article 9(2)(a) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 10(1) the words “in its area”.</td></tr>
+<tr><td>In Article 13(3) the words “he is in the area of the board and”.</td></tr>
+<tr><td>In Article 21(1) the words “in its area”.</td></tr>
+<tr><td>In Articles 21A and 21B the words “in its area” wherever occurring.</td></tr>
+<tr><td>In Article 42(1) the words “in its area”.</td></tr>
+<tr><td>Article 42(5)(c).</td></tr>
+<tr><td>In Schedule 2, paragraph 6(3)(b) and the word “and” immediately before it.</td></tr>
+<tr><td>In Schedule 2, paragraph 10(2).</td></tr>
+<tr><td>In Schedule 4, in paragraph 3(2)(b) the words “responsible for the management of the school”.</td></tr>
+<tr><td>In Schedule 4, in paragraph 4(3)(c) the words “responsible for the management of the schools in question”.</td></tr>
+<tr><td rowspan="8">The Education (Northern Ireland) Order 1997 (NI 5)</td><td>In Article 9(1) the words “resident in the area of the board”.</td></tr>
+<tr><td>Article 9(3).</td></tr>
+<tr><td>In Articles 11(7)(b) and 12(7)(b) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 15(1) the words “situated in the area of the board”.</td></tr>
+<tr><td>In Article 16(2)(a) the words “responsible for the management of the school”.</td></tr>
+<tr><td>In Article 17(1)(b) and (4) the words “in its area”.</td></tr>
+<tr><td>In Article 17(5) the words “situated in the area of the board”.</td></tr>
+<tr><td>In Article 25(1) in the Table the words “by which the school is managed”.</td></tr>
+<tr><td>The Further Education (Northern Ireland) Order 1997 (NI 15)</td><td>Article 2(3) and (8).</td></tr>
+<tr><td rowspan="27">The Education (Northern Ireland) Order 1998 (NI 13)</td><td>In Article 3(2)(b)(ii) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 6(2)(a), (5)(b) and (6)(b) the words “situated in its area”.</td></tr>
+<tr><td>Article 6(5)(a).</td></tr>
+<tr><td>In Article 13(2)(b)(i) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 14(4)(b) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 17(1) the words “resident in the area of the board”.</td></tr>
+<tr><td>In Article 23(1) the words “resident in the area of the board”.</td></tr>
+<tr><td>Article 23(3).</td></tr>
+<tr><td>In Article 25(8) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 27(1) the words “situated in the area of the board”.</td></tr>
+<tr><td>In Article 29(8)(b) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 31(1) the words “situated in the area of the board”.</td></tr>
+<tr><td>In Article 33(1)(b) and (4) the words “in its area”.</td></tr>
+<tr><td>In Article 33(5) the words “situated in the area of the board”.</td></tr>
+<tr><td>In Article 41 in paragraphs (a) and (d) of the definition of “employing authority” the words “by which they are employed”.</td></tr>
+<tr><td>In Article 61(1) and (3) the words “situated in its area”.</td></tr>
+<tr><td>In Article 62(13) the definition of “relevant board”.</td></tr>
+<tr><td>In Article 64(13) the definition of “relevant board”.</td></tr>
+<tr><td>In Article 67A(3) the definition of “the board”.</td></tr>
+<tr><td>In Article 70(7) the words “situated in its area”.</td></tr>
+<tr><td>In Article 83(2)(b) the words “is resident in its area and”.</td></tr>
+<tr><td>In Article 87(3) the words “in its area”.</td></tr>
+<tr><td>Article 87(6)(c).</td></tr>
+<tr><td>In Schedule 2, paragraph 7(6).</td></tr>
+<tr><td>In Schedule 2, in paragraph 10(1)(a) the words “responsible for the management of the school”.</td></tr>
+<tr><td>In Schedule 2, in paragraph 10(1)(c) and (d) the words “by which the school is maintained”.</td></tr>
+<tr><td>In Schedule 4, in paragraph 1(8) the words “or by Article 20 of the Education and Libraries (Northern Ireland) Order 1993.”.</td></tr>
+<tr><td rowspan="11">The Education and Libraries (Northern Ireland) Order 2003 (NI 12)</td><td>In Article 3(6)(a) the words “in its area”.</td></tr>
+<tr><td>In Article 7(1)(a) the words “in its area”.</td></tr>
+<tr><td>In Article 8(2) the definition of “the board”.</td></tr>
+<tr><td>Part 3.</td></tr>
+<tr><td>In Article 18(1)(c) the words “for the area in which the school is situated”.</td></tr>
+<tr><td>In Article 22(1) the words “in its area”.</td></tr>
+<tr><td>Article 29(3) to (6).</td></tr>
+<tr><td>Articles 30 and 31.</td></tr>
+<tr><td>Article 37(2)(f), (6) and (8)(a).</td></tr>
+<tr><td>Article 38.</td></tr>
+<tr><td>In Schedule 2, paragraphs 1 to 4.</td></tr>
+<tr><td rowspan="2">The Special Educational Needs and Disability (Northern Ireland) Order 2005 (NI 6)</td><td>In Article 13(2) the word “board”.</td></tr>
+<tr><td>In Article 14(5)(a) the words “for the area in which the school is situated”.</td></tr>
+<tr><td rowspan="6">The Education (Northern Ireland) Order 2006 (NI 11)</td><td>In Article 3(1) the definition of “relevant board”.</td></tr>
+<tr><td>In Article 23(1) the words “in its area”.</td></tr>
+<tr><td>In Article 23(2)(d) the word “board” in the second place where it occurs.</td></tr>
+<tr><td>In Article 25(1) the words “in its area”.</td></tr>
+<tr><td>In Article 25(11) the words “as it applies to members of a board”.</td></tr>
+<tr><td>Article 31(6).</td></tr>
+</tbody>
+</table>
+
+---
+
+[^F1]: S. 2(3A) inserted (26.10.2022) by Integrated Education Act (Northern Ireland) 2022 (c. 15), ss. 4(2), 15
+[^F2]: S. 7(2)(a)(d) omitted (10.5.2016) by virtue of Shared Education Act (Northern Ireland) 2016 (c. 20), ss. 8(2), 10(2)
+[^F3]: S. 7(2A) inserted (10.5.2016) by Shared Education Act (Northern Ireland) 2016 (c. 20), ss. 8(3), 10(2)
+[^F4]: Sch. 1 para. 18 repealed (1.4.2016) by Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4), s. 64, Sch. 9

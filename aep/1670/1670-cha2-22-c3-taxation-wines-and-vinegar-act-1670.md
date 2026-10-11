@@ -1,0 +1,99 @@
+---
+title: "Taxation (Wines and Vinegar) Act 1670"
+identifier: "aep/Cha2/22/3"
+citation: "1670 CHAPTER 3 22 Cha 2"
+type: act
+legislation_type: aep
+jurisdiction: gb
+language: en
+version: enacted
+status: unknown
+source: "https://www.legislation.gov.uk/aep/Cha2/22/3"
+source_modified: 2024-12-11
+retrieved: 2026-10-11
+---
+
+# Taxation (Wines and Vinegar) Act 1670
+
+**1670 CHAPTER 3 22 Cha 2**
+
+An Act for granting unto his Majestie an Imposition upon all Wines and Vinegar imported betweene the Fower and twentyeth day of June One thousand six hundred seaventy and the Fower and twentyeth day of June One thousand six hundred seaventy eight.;
+
+## An Imposition upon French Wine, Spanish Wine, and all other Wines and Vinegar, from the 24th June 1670 to the 24th June 1678.
+
+Wee your Majestyes most dutyfull and loyall Subjects the Commons assembled in Parlyament for a supply of your Majestyes weighty and important occasions and with an humble and thankfull acknowledgement of your Majestyes favourable and tender reguard of us your Commons have chearfully and unanimously given and granted unto your Majestie an Aid and Assistance to be raised and leavyed upon all Wines and Vinegar to be imported into this your Majestyes Kingdome according to such Rates, and dureing such time, and in such manner and forme as herein after followeth : And wee doe humbly beseech your Majestie that it may be enacted, and bee it enacted by the Kings most Excellent Majestie by and with the advice and consent of the Lords Spirituall and Temporall and of the Commons in this present Parlyament assembled and by the authoritie of the same That for all French Wines, Spanish Wines or other Wines whatsoever, as alsoe for all Vineger which at any time after the Fower and twentyeth day of June in the yeare of our Lord One thousand six hundred and seaventy, and before the Fower and twentyeth day of June in the yeare of our Lord One thousand six hundred seaventy eight shall be imported into England or Wales or the Towne and Port of Berwicke upon Tweede there shall be duely answered and paid to his Majestie the further Rates and Dutyes hereafter mentioned (that is to say) For every Tunn of French Wine and of Vineger which shall be imported within the time aforesaid the summe of eight pounds by the Tunn and soe after that Rate for any greater or lesser quantity ; And alsoe for every Tunn of Spanish Wines, or of any other Wines, which shall be imported within the time aforesaid the summe of Twelve pounds by the Tunn, and soe after that Rate for any greater or lesser quantity.
+
+## II Importers before landing to pay the Duty, or give Security, at Discretion of Commissioners, &c.
+
+*Times of Payment on Security.; Importers for private Use, on Entry, and before landing, to pay Duty down without Discount.*
+
+And for the better and more sure collecting and receiveing of all and singular the Dutyes hereby imposed Bee it further enacted by the authority aforesaid That if any person or persons within the time aforesaid shall import or cause to be imported by way of Merchandize any of the Liquors aforesaid, such Importer shall upon the Entry made of such Liquors and before the landing thereof pay downe the Dutyes hereby imposed in ready money, deducting the Allowances hereafter mentioned, or otherwise become bound unto his Majestie with two or more sufficient Suretyes, or procure three other persons to become bound to his Majestie to answere and pay unto his Majestie the whole Rates and Dutyes hereby imposed by three severall and equall payments; The first payment thereof to be made within three moneths after the Date of the said Obligation; The second payment to be made within six moneths after the Date of the said Obligation; And the third and last payment to be made within nine moneths after the Date of the said Obligation; the takeing which Bonds and the Approbation of the Suretyes therein to be named is hereby left to the discretion of such Farmers or other Commissioners for the time being as shall be intrusted with the receipt and management of his Majestyes Customes and Subsidyes of Tonnage and Poundage or their Deputy Collectors in the severall Ports, or such other person or persons as his Majestie shall authorize and appoint to collect the Dutyes ariseing by this Act And if any person or persons shall import any of the Liquors aforesaid within the time aforesaid not by way of Merchandice nor with intent to sell the same againe, but for his owne private use or occasions, such person soe importing the same shall upon Entry thereof made immediately and before landing thereof pay downe the whole Dutyes by this Act imposed in ready money without any further time given, or any Security to be accepted for the same, or any Abatement or Discount to be therefore made upon any pretence whatsoever.
+
+## III Abatement to Merchant upon paying ready Money.
+
+Provided alwayes and it is hereby declared and enacted That all and every person and persons importing any of the Liquors aforesaid within the time aforesaid by way of Merchandise who shall pay the Dutyes which by this Act are due and payable in ready moneyes shall be allowed and abated out of the said Dutyes after the rate of Ten pounds per Cent for a yeare in consideration of such ready money soe paid downe and advanced.
+
+## IV Landing Goods without paying or giving Security for Duty;
+
+*Penalty; But such Persons importing or landing still liable to Duty.*
+
+And bee it further enacted by the authority aforesaid That if any of the said Liquors shall be imported within the time aforesaid and landed without present payment made of the Rates and Dutyes by this Act imposed in cases where this Act requires present payment to be made, or without Security given for payment thereof in cases where this Act admitts of Security to be taken That then and in every such case all and every the Liquors soe imported and landed, or the value thereof shall be forfeited; One moity thereof to his Majestie and the other moyty to him or them that shall or will sue for the same, And shall and may be recovered in any Court of Record by Action of Debt, Bill, Plaint or Information, wherein noe Essoyne, Protection, or Wager of Law shall be allowed, nor any more then one Imparlance. And yet neverthelesse the person soe importing and landing any of the said Liquors shall notwithstanding such Forfeiture soe as aforesaid incurred remaine and continue lyeable unto, and shall answere and pay unto his Majestie the Rates and Dutyes for such Liquors which by this Act are due and payable.
+
+## V Recital of 12 Car. II. c. 4. Duty only upon neat Liquors.
+
+And whereas by the Act for Tonnage and Poundage and the Instructions and Rules for collecting his Majestyes Dutyes ariseing thereby it is directed that certaine Allowances be made upon Importation of Wines and other Liquors; Bee it further enacted That noe Importer thereof shall be chargeable by vertue of this Act to pay the Duty hereby required for any greater proportion of Wines, or other Liquors duely entred at the Custome House then what shall remaine neat after all such Allowances and Abatements.
+
+## VI Abatements to Importers not Vintners or Retailers for Accidents, &c. upon Oath.
+
+And whereas this present Act gives noe Abatement to any person upon Exportation of any the Liquors aforesaid Bee it further enacted and declared That all Importers not being Vintners or Retailers (who are hereby declared shall pay ready money for the whole Duty) who shall import any of the aforesaid Liquors within the time aforesaid, and shall make Oath that the same are imported by way of Merchandise and with intent to sell againe (which Oath the Farmers or Commissioners of his Majestyes Customes for the time, being, or in their absence the Collector of his Majestyes Customes in each severall respective Port, or such other person or persons as his Majestie shall authorize and appoint to collect the Dutyes ariseing by this Act have hereby power to administer) That then and in every such case for and in consideration of any defect or dammage that may happen by any of the aforesaid Liquors lyeing longer on the [[^X1]said] Importers hands then heretofore, or by reason of any other Accident there shall be allowed and abated to every such Importer the further allowance of Eight pounds per Cen? and noe more.
+
+## VII Proviso for Prizage Wine.
+
+Provided That noe Merchant shall be charged with any Duty imposed by this Act for the Prizage Wine which he imports in any Shipp or Vessell, nor shall any Security be by him given for the same, but that it be received and taken from the person who hath or enjoyeth the benefitt of the said Prizage Wine, who is hereby appointed to pay the same.
+
+## VIII No Exporter to receive back Duties paid or secured, or to have his Security lessened or discharged.
+
+Provided alwayes and it is hereby declared and enacted That if any of the said imported Liquors for which any of the Rates and Dutyes [[^X1]by this Act imposed] shall be paid downe and advanced or otherwise secured as aforesaid shall at any time after such Importation be againe exported into parts beyond the Seas That then and in every such case the person or persons soe exporting the same shall be wholly barred and excluded from haveing or receiveing backe the Dutyes of this Act soe paid downe and advanced or any part thereof, Nor shall the Securitie formerly given by such person exporting for the true payment of the Dutyes by this Act imposed be any wayes eased, lessened or discharged by reason of such Exportation, but the same Securityes shall remaine and continue in full force untill the Duty thereby secured be fully and wholly satisfyed and paid, Any such Exportation to the contrary notwithstanding.
+
+## IX Power to Officers of Customs to search on board Ships, &c.
+
+*Defrauding His Majesty of the said Duties; Penalty.; Onus probandi as to Duty paid or secured on Claimant.*
+
+And for the better prevention of all such Frauds which at any time hereafter may be committed to the prejudice of his Majestie in the due collecting and receiveing of the Dutyes hereby imposed upon such Liquors to be imported as aforesaid Bee it further enacted by the authoritie aforesaid That the Officers of his Majestyes Customes or such other person or persons as his Majestie shall authorize and appoint to collect the Dutyes ariseing by this Act shall have like Power and Authoritie to enter on board Shipps and Vessells and make Searches and to doe all other matters and things which may tend to secure the true payment of the Dutyes by this Act imposed, and the due and orderly Collection thereof, which any Customers Collectors or other Officers of any his Majestyes Ports can or may doe touching or concerning [[^X2]the collecting or secureing] his Majestyes Customes [[^X2]and Subsadies] of Tonnage and Poundage and all the said Liquors to be imported within the time aforesaid and landed without doeing and performing what by this Act is required to be done and performed before the Landing thereof, And all Officers of his Majestyes Customes and all persons importing any of the said Liquors and all others imployed by his Majestie in the Collection of the Dutyes ariseing by this Act, who shall be found guilty of any act or negclect tending to defraude his Majestie of any the Dutyes hereby imposed shall be subject and lyeable to the same Seizures, Penaltyes and Forfeitures which by vertue of any former Act can or may be inflicted in such cases, where his Majestie is defrauded or endeavoured to be defrauded of any his Customes or Subsidyes, as fully and amply as if the same Clauses of Seizures, Penaltyes and Forfeitures and the same distribution of such Forfeitures and the same remedy for recovery thereof had beene againe in this Act perticularly repeated, applyed and enacted, And if any liquors seised for any offence committed against this Act shall be claimed by any person as the Importer thereof, the proofe whether the dutyes thereof be duely paid or secured shall lye upon such claimer and shall not be incumbent on His Majestie or any Prosecutor or Informer on behalfe of His Majestie and himselfe.
+
+## X Until the Duties under 19 & 20 Car. II. c. 6. (20 Car. II. c. 1.) be raised, Securities by Retailers before 24th June 1670 to remain.
+
+*Proviso for the King, and all claiming under him, levying Arrears of Duties, &c. under the said Act.*
+
+And it is hereby further declared and enacted That untill the whole moneyes intended to be raised by an Act entituled An Act for raiseing Three hundred and ten thousand pounds by an imposition upon Wines and other Liquors, be fully raised and satisfyed all Entryes Obligations and Securityes made or entred into by any retayler before the fower and twentyeth day of June One thousand six hundred and seaventy, [[^X2]for payment of any of the dutyes by the said Act imposed shall remaine and continue in full force although the liquors the dutyes whereof are soe secured shall be uttered by retaile after the said fower and twentyeth day of June 1670] And alsoe that His Majestie and all others claimeing by from and under His Majestie shall have the same power and authority for leavying all arrearages of the rates, dutyes, fynes or forfeitures which already are or hereafter shall grow due by vertue of the said [[^X3]former] Act as fully and amply as he or they might have had if this present Act had never beene had nor made;
+
+## XI Recital that Persons had advanced Monies on the said former Act.
+
+*The Authority of the Commissioners under this Act for Execution of 19 & 20 Car. II. c. 6. (20 Car. II. c. 1.) transferred to such other Persons as the King shall appoint who may examine, &c.; Importers refusing to be examined how to be charged.; Oath of Importer to be a Conviction of Retailer as to Quantity sold to him, and Retailer charged accordingly.*
+
+And whereas severall persons have advanced great Summes of money for His Majestyes Service [[^X4]after] the rate of six pounds per cen? upon the security of the former Act and in order to the satisfaction of their debts are registred in course in His Majestyes Court of Exchequer as by the said Act was required To the end therefore that all and every the rates and impositions by the said former Act made due and payable may be fully answered dureing such time as the said Act is to continue in force, and the said Security made effectuall by a discovery of such Wines and other liquors aforesaid chargeable by the said Act which have beene or before the fower and twentyeth day of June One thousand six hundred and seaventy shall be delivered out to any retailer without due payment made, or security given for the dutyes by the said Act imposed. Bee it further enacted That the authority given to the present Commissioners for execution of the said former Act shall continue in force untill the first day of October next ensueing, and shall be transferred to and putt in execution by such other persons as the Kings Majestie shall for that purpose appoint, and such other persons soe to be appointed shall have power to informe themselves by the entryes at the Custome house or otherwise what quantityes of Wines have beene imported since the first day of October last past, and what quantity of other liquors have beene imported since the first day of February One thousand six hundred sixty and nine, and to examine each Importer upon oath to what retailer the same were sold or delivered; and all importers refuseing to be soe examined shall be and are hereby charged with the payment of soe much money as the said Wines or other liquors entred by such Importer at the Custome house would have amounted to, in case the same had beene sold to any retailer; and the oath of every [[^X2]such] Importer shall be and is hereby declared a sufficient conviction of every retailer touching the quantities of Wines or other Liquors to him sold or delivered to retaile, and all and every retailer shall be, and is hereby charged with soe much money as the dutyes of such liquors soe sworne to be delivered doe amount unto by the said former Act, and His Majestie shall and may cause the same to be leavyed accordingly.
+
+## XII Recital that great Quantities of Wines imported by Retailers since 1st Oct. 1668 have not paid the Duty.
+
+*Retailer to pay such Duty; and Customhouse Book, and his Entry a Charge as to so much as he shall not discharge himself of by Oath.; Proviso as to travelling to take the Oath.*
+
+And forasmuch as great quantities of Wine have beene imported since the first day of October One thousand six hundred sixty and eight by persons being retailers of Wine which Wines or a great part thereof have not paid the duty as by the said Act ought to have beene done Bee it therefore enacted by the Authoritie aforesaid That all and every such retailer shall pay the duty for all such wine as was by him soe imported, and the Custome house booke and his entry thereof shall be a charge upon such retailer, and the said retailer shall pay for all such Wines soe entred as he shall not discharge himselfe [[^X5]of] either by his owne corporall oath or by the oath of two other credible witnesses that he hath already paid the said duty or secured the same, or hath sold such Wine to some other retailer. Provided that noe person be compellable to travell out of the [[^X6]Country] where he dweleth to take the said oath.
+
+## XIII Liquors not having paid Duty in the Stores of Merchants or Retailers on the 24th June 1670, charged.
+
+And bee it further enacted that all liquors aforesaid which upon the fower and twentyeth day of June One thousand six hundred and seaventy shall remaine in the Cellars or Storehouses of any Merchant Importer Wine-Cooper or other tradeing person or retailer (unlesse the said retailer hath paid or secured the duty) shall be lyeable unto and charged with the duty imposed by this Act and shall pay or secure to His Majestie the duty [[^X5]due] for the same haveing allowance of the same abatements and defalcations to all intents and purposes as if the said Wine had beene imported within the time limited by this present Act.
+
+## XIV Persons appointed by the King to search for and take an Account of such Liquors.
+
+*Unduly removing such Liquors; Penalty.; How Monies received by virtue of this Clause to be applied.*
+
+And to the end there may be an accompt taken of all such Wines soe remaining Bee it further enacted That it shall and may be lawfull for His Majestie to appoint one or more persons to search for the same and take an accompt thereof; and if any Importer or other person aforesaid shall sell, remove or otherwise dispose any such Wines before the securitie given or money paid as in this Act is directed in case of importation all such Wines soe. sould removed or disposed or the value thereof shall be forfeited and lost together with the value of the duty which ought to have beene paid His Majestie for the same, one halfe to His Majestie and the other halfe to him or them that shall sue for the same in any Court of Record to be recovered by Action of debt; bill, plaint or information, And all moneyes to be received or recovered by vertue of this Clause shall in the first place be applyed for and towards the satisfaction of such creditors as have advanced money upon the credit of the said former Act in such order and course as they now stand registred in His Majestyes Court of Exchequer.
+
+---
+
+[^X1]: interlined on the Roll.
+[^X2]: interlined on the Roll.
+[^X3]: *O*. omits
+[^X4]: Variant reading of the text noted in *The Statutes of the Realm* as follows: at *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X5]: interlined on the Roll.
+[^X6]: Variant reading of the text noted in *The Statutes of the Realm* as follows: County *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]

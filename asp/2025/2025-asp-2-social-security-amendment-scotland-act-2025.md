@@ -659,7 +659,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (1) The 2018 Act is modified as follows.
 
-(2) In the italic heading immediately preceding section 61, for “*Right to appeal”*substitute “*Appeal against”.*
+(2) In the italic heading immediately preceding section 61, for “*Right to appeal”* substitute “*Appeal against”.*
 
 (3) In section 61 (appeal to First-tier Tribunal against process decisions), after subsection (3B) (inserted by section 5(6)(d)) insert—
 

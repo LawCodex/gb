@@ -2496,7 +2496,7 @@ SCW may promote or undertake comparative or other studies designed to enable it 
 
 (3) SCW must have regard to the most recent policy statement published under this section when exercising its functions.
 
-### Rules made bySCWunder this Act
+### Rules made by SCW under this Act
 
 #### 73 Rules: general
 

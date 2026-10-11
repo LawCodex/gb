@@ -3858,7 +3858,7 @@ MV × PI Figure 6 where— MV is the market value of the major interest, and PI 
 
 (a) section 78 of TCMA applies for the purposes of sub-paragraph (6) as if for “4 years” to the end there were substituted “12 months beginning with—
 
-(i) the effective date of the disposal transaction (within the meaning of paragraph 8(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA if the effective date of the disposal transaction is on or after 12 July 2024*,*or
+(i) the effective date of the disposal transaction (within the meaning of paragraph 8(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA if the effective date of the disposal transaction is on or after 12 July 2024*,* or
 
 (ii) 12 July 2024 if the effective date of the disposal transaction (within the meaning of paragraph 8(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA is on or after 1 April 2021 but before 12 July 2024.”;
 
@@ -3874,7 +3874,7 @@ MV × PI Figure 6 where— MV is the market value of the major interest, and PI 
 
 (a) section 78 of TCMA applies for the purposes of sub-paragraph (6) as if for “4 years” to the end there were substituted “12 months beginning with—
 
-(i) the effective date of the disposal transaction (within the meaning of paragraph 17(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA if the effective date of the disposal transaction is on or after 12 July 2024*,*or
+(i) the effective date of the disposal transaction (within the meaning of paragraph 17(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA if the effective date of the disposal transaction is on or after 12 July 2024*,* or
 
 (ii) 12 July 2024 if the effective date of the disposal transaction (within the meaning of paragraph 17(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA is on or after 1 April 2021 but before 12 July 2024.”;
 

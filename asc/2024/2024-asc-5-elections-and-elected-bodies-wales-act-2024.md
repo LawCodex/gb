@@ -859,7 +859,7 @@ Pilot regulations and electoral reform regulations may—
 
 In this Chapter—
 
-- “electoral registration officer” *(*“*swyddog cofrestru etholiadol*”*)*means an officer appointed under section 8(2A) of the 1983 Act;
+- “electoral registration officer” *(*“*swyddog cofrestru etholiadol*”*)* means an officer appointed under section 8(2A) of the 1983 Act;
 
 - “modify” (“*addasu*”) includes repeal, revoke and amend;
 

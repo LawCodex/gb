@@ -1174,7 +1174,7 @@ This Measure may be cited as the Local Government (Wales) Measure 2009.
 
 (b) omit subsections (2A), (4) and (6).
 
-### Local Government Act2003 (c. 26)
+### Local Government Act 2003 (c. 26)
 
 **23** Amend the Local Government Act 2003 as follows.
 

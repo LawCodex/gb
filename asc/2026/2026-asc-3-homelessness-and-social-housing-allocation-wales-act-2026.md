@@ -1574,8 +1574,8 @@ After section 160A of the 1996 Act (allocation only to eligible persons: Wales) 
 
 In this Act—
 
-- “the 1996 Act” (“*Deddf 1996”)*means the Housing Act 1996 (c. 52);
-- “the 2014 Act” (“*Deddf 2014”)*means the Housing (Wales) Act 2014 (anaw 7).
+- “the 1996 Act” (“*Deddf 1996”)* means the Housing Act 1996 (c. 52);
+- “the 2014 Act” (“*Deddf 2014”)* means the Housing (Wales) Act 2014 (anaw 7).
 
 #### 41 Minor and consequential provision (prospective)
 

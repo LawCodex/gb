@@ -1324,7 +1324,7 @@ Parts 3 and 4 of this Act are to be included in the list of Education Acts set o
 
 - “maintained nursery school” (“*ysgol feithrin a gynhelir*”) means a nursery school maintained by a local authority and that is not a special school;
 
-- “maintained school (“*ysgol a gynhelir”)*means—
+- “maintained school (“*ysgol a gynhelir”)* means—
 
   - a community, foundation or voluntary school in Wales,
   - a community special schoo‍l in Wales, other than a community special school established in a hospital, or

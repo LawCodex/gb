@@ -1808,7 +1808,7 @@ Where, in an appeal before the Lands Tribunal under section 37, an issue of law 
 
 ## [[^F55]PART 2A — Sale where landlord in breach
 
-### Application toLand Courtfor order for sale
+### Application to Land Court for order for sale
 
 #### 38A Application to Land Court for order for sale
 

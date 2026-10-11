@@ -1,0 +1,1955 @@
+---
+title: "Pensions Act (Northern Ireland) 2008"
+identifier: "nia/2008/1"
+citation: "2008 CHAPTER 1"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2008-02-11
+last_amended: 2022-04-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2008/1"
+source_modified: 2024-05-15
+retrieved: 2026-10-11
+---
+
+# Pensions Act (Northern Ireland) 2008
+
+**2008 CHAPTER 1**
+
+An Act to make provision about pensions and other benefits payable to persons in connection with bereavement or by reference to pensionable age; to make provision about the functions of the Personal Accounts Delivery Authority; and for connected purposes.
+
+[11th February 2008]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## PART 1 — STATE PENSION
+
+### Entitlement to Category A and B retirement pensions
+
+#### 1 Category A and B retirement pensions: single contribution condition
+
+(1) Schedule 3 to the Contributions and Benefits Act (contribution conditions) is amended as follows.
+
+(2) In paragraph 5 (contribution conditions for, among other things, Category A or B retirement pension) in sub-paragraph (1) after “retirement pension” insert “ (other than one in relation to which paragraph 5A applies) ”.
+
+(3) After paragraph 5 insert—
+
+> **5A**
+>
+> (1) This paragraph applies to—
+>
+> (a) a Category A retirement pension in a case where the contributor concerned attains pensionable age on or after 6th April 2010;
+>
+> (b) a Category B retirement pension payable by virtue of section 48A above in a case where the contributor concerned attains pensionable age on or after that date;
+>
+> (c) a Category B retirement pension payable by virtue of section 48B above in a case where the contributor concerned dies on or after that date without having attained pensionable age before that date.
+>
+> (2) The contribution condition for a Category A or Category B retirement pension in relation to which this paragraph applies is that—
+>
+> (a) the contributor concerned must, in respect of each of not less than 30 years of his working life, have paid or been credited with contributions of a relevant class or been credited (in the case of 1987–88 or any subsequent year) with earnings; and
+>
+> (b) in the case of each of those years, the earnings factor derived as mentioned in sub-paragraph (3) below must be not less than the qualifying earnings factor for that year.
+>
+> (3) For the purposes of paragraph (b) of sub-paragraph (2) above, the earnings factor—
+>
+> (a) in the case of 1987–88 or any subsequent year, is that which is derived from—
+>
+> (i) so much of the contributor's earnings as did not exceed the upper earnings limit and upon which such of the contributions mentioned in paragraph (a) of that sub-paragraph as are primary Class 1 contributions were paid or treated as paid or earnings credited; and
+>
+> (ii) any Class 2 or Class 3 contributions for the year; or
+>
+> (b) in the case of any earlier year, is that which is derived from the contributions mentioned in paragraph (a) of that sub-paragraph.
+>
+> (4) Regulations may modify sub-paragraphs (2) and (3) above for the purposes of their application in a case where—
+>
+> (a) the contributor concerned has paid, or been credited with, contributions, or
+>
+> (b) contributions have been deemed to be, or treated as, paid by or credited to him,
+>
+> under the National Insurance Act (Northern Ireland) 1946 or the National Insurance Act (Northern Ireland) 1966.
+
+.
+
+(4) Part 1 of Schedule 1 contains consequential amendments.
+
+#### 2 Category B retirement pension: removal of restriction on entitlement
+
+(1) Section 48A of the Contributions and Benefits Act (Category B retirement pension for married person or civil partner) is amended as follows.
+
+(2) In each of subsections (2)(a) and (2B)(a) (whose effect is to require the other spouse or other civil partner to have claimed a Category A retirement pension) omit “and become entitled to a Category A retirement pension”.
+
+(3) Omit subsection (5) (restriction on when Category B retirement pension for married person or civil partner is payable).
+
+(4) Part 2 of Schedule 1 contains consequential amendments.
+
+(5) The amendments made by this section and that Part of that Schedule have effect as from 6th April 2010.
+
+(6) Section 48A(2) and (2B), as amended by this section, applies whether the person mentioned in section 48A(1) or (2A) attained pensionable age before 6th April 2010 or on or after that date.
+
+### Credits for basic state pension, etc.
+
+#### 3 Contributions credits for relevant parents and carers
+
+(1) After section 23 of the Contributions and Benefits Act insert—
+
+> **23A Contributions credits for relevant parents and carers**
+>
+> (1) This section applies to the following benefits—
+>
+> (a) a Category A retirement pension in a case where the contributor concerned attains pensionable age on or after 6th April 2010,
+>
+> (b) a Category B retirement pension payable by virtue of section 48A below in a case where the contributor concerned attains pensionable age on or after that date,
+>
+> (c) a Category B retirement pension payable by virtue of section 48B below in a case where the contributor concerned dies on or after that date without having attained pensionable age before that date,
+>
+> (d) a widowed parent's allowance payable in a case where the contributor concerned dies on or after that date,
+>
+> (e) a bereavement allowance payable in a case where the contributor concerned dies on or after that date.
+>
+> (2) The contributor concerned in the case of a benefit to which this section applies shall be credited with a Class 3 contribution for each week falling after 6th April 2010 in respect of which the contributor was a relevant carer.
+>
+> (3) A person is a relevant carer in respect of a week if the person—
+>
+> (a) is awarded child benefit for any part of that week in respect of a child under the age of 12,
+>
+> (b) is a foster parent for any part of that week, or
+>
+> (c) is engaged in caring, within the meaning given by regulations, in that week.
+>
+> (4) Regulations may make provision for a person's entitlement to be credited with Class 3 contributions by virtue of falling within subsection (3)(b) or (c) above to be conditional on the person—
+>
+> (a) applying to be so credited in accordance with the prescribed requirements, and
+>
+> (b) complying with the prescribed requirements as to the provision of information to the Department.
+>
+> (5) The contributor concerned in the case of a benefit to which this section applies shall be credited with 52 Class 3 contributions for each tax year ending before 6th April 2010 in which the contributor was precluded from regular employment by responsibilities at home within the meaning of regulations under paragraph 5(7) of Schedule 3 to this Act.
+>
+> (6) But the maximum number of tax years for which a person can be credited with contributions under subsection (5) above is—
+>
+> (a) in the case of a benefit mentioned in subsection (1)(a) to (c) above, 22;
+>
+> (b) in the case of a benefit mentioned in subsection (1)(d) or (e) above, half the requisite number of years of the person's working life.
+>
+> (7) The table in paragraph 5(5) of Schedule 3 to this Act (requisite number of years of a working life of given duration) applies for the purposes of subsection (6)(b) above as it applies for the purposes of the second condition set out in paragraph 5(3) of that Schedule.
+>
+> (8) For the purpose of determining entitlement to a benefit to which this section applies, a week that falls partly in one tax year and partly in another is to be treated as falling in the year in which it begins and not in the following year.
+>
+> (9) In this section—
+>
+> - “the contributor concerned” has the meaning given in section 21(5)(a) above;
+> - “foster parent” has the meaning given by regulations.
+
+.
+
+(2) In paragraph 5 of Part 1 of Schedule 3 to that Act (contribution conditions for entitlement to, among other things, widowed parent's allowance, bereavement allowance and Category A or B retirement pension) at the end of sub-paragraph (7) (home responsibilities protection) insert— “ But nothing in this sub-paragraph applies in relation to any benefit to which section 23A above applies. ”.
+
+(3) Part 3 of Schedule 1 contains consequential amendments.
+
+### Abolition of adult dependency increases
+
+#### 4 Category A and C retirement pensions: abolition of adult dependency increases
+
+(1) The following provisions of the Contributions and Benefits Act are to cease to have effect on 6th April 2010—
+
+(a) section 83 (pension increase: wife),
+
+(b) section 84 (pension increase: husband), and
+
+(c) section 85 (pension increase: person with care of children or qualifying young persons).
+
+(2) Paragraph 2 of Part 2 of Schedule 2 to the Pensions Order (which replaces sections 83 and 84 of the Contributions and Benefits Act with a new section 83A equalising pension increases for dependent spouses and civil partners with effect from 6th April 2010) is omitted.
+
+(3) Part 4 of Schedule 1 contains consequential amendments.
+
+(4) The amendments made by that Part of that Schedule have effect as from 6th April 2010.
+
+(5) Nothing in—
+
+(a) the repeals in subsection (1),
+
+(b) the amendments in Part 4 of Schedule 1, or
+
+(c) the repeals in Part 2 of Schedule 6,
+
+applies in relation to a qualifying person at any time falling on or after 6th April 2010 but before the appropriate date.
+
+(6) In subsection (5) a “qualifying person” means a person who—
+
+(a) has, before 6th April 2010, made a claim for a relevant increase in accordance with section 1 of the Administration Act; and
+
+(b) immediately before that date is either—
+
+(i) entitled to the increase claimed, or
+
+(ii) a beneficiary to whom section 92 of the Contributions and Benefits Act (continuation of awards where fluctuating earnings) applies in respect of that increase.
+
+(7) In subsection (5) “the appropriate date” means the earlier (or earliest) of—
+
+(a) 6th April 2020;
+
+(b) the date when the qualifying person ceases to be either entitled to the relevant increase or a beneficiary to whom section 92 of the Contributions and Benefits Act applies in respect of it;
+
+(c) where the relevant increase is payable to the qualifying person under section 83 of that Act, the date on which his wife attains pensionable age.
+
+(8) In this section “relevant increase” means an increase in a Category A or Category C retirement pension under section 83, 84 or 85 of the Contributions and Benefits Act.
+
+### Up-rating of basic state pension and other benefits
+
+#### 5 Up-rating of basic pension etc. and standard minimum guarantee by reference to earnings
+
+(1) After section 132 of the Administration Act insert—
+
+> **132A Annual up-rating of basic pension etc. and standard minimum guarantee**
+>
+> Whenever the Secretary of State makes an order under section 150A of the Great Britain Administration Act, the Department may make a corresponding order for Northern Ireland.
+
+.
+
+(2) Part 5 of Schedule 1 contains consequential and related amendments.
+
+(3) The new section 132A and the amendments made by Part 5 of Schedule 1, so far as relating to the equivalent in Northern Ireland of the amounts referred to in section 150A(1)(a) to (c) of the Social Security Administration Act 1992 (c. 5), have effect in relation to the tax year designated by the Secretary of State by an order under section 5(4) of the Pensions Act 2007 (c. 22) and subsequent tax years.
+
+(4) The new section 132A and the amendments made by Part 5 of Schedule 1, so far as relating to the equivalent in Northern Ireland of the amounts referred to in section 150A(1)(d) of the Social Security Administration Act 1992, have effect in relation to the tax year in which this Act is passed and subsequent tax years.
+
+(5) In this section and in section 6, “the new section 132A” means the section 132A inserted by subsection (1).
+
+#### 6 Preservation of link with prices in case of other benefits
+
+(1) In section 39 of the Contributions and Benefits Act (rate of widowed mother's allowance and widow's pension) after subsection (2) insert—
+
+> (2A) In its application by virtue of subsection (1) above, section 44(4) below is to be read as if for the first amount specified in that provision there were substituted a reference to the amount prescribed for the purposes of this subsection.
+
+.
+
+(2) In section 39C of the Contributions and Benefits Act (rate of widowed parent's allowance and bereavement allowance)—
+
+(a) for subsection (2) substitute—
+
+> (1A) In its application by virtue of subsection (1) above, section 44(4) below is to be read as if for the first amount specified in that provision there were substituted a reference to the amount prescribed for the purposes of this subsection.
+>
+> (2) The weekly amount of a bereavement allowance is an amount equal to the amount prescribed for the purposes of subsection (1A) above.
+
+; and
+
+(b) in subsection (3) for the words “or (as the case may be) section 44 below by virtue of subsection (1) or (2) above” substitute “ by virtue of subsection (1) above ”.
+
+(3) Subsections (1) and (2) have effect in relation to the tax year designated by the Secretary of State by an order under section 5(4) of the Pensions Act 2007 (c. 22) and subsequent tax years.
+
+(4) The Department must exercise its power to prescribe amounts for the purposes of the new sections 39(2A) and 39C(1A) (inserted by subsections (1) and (2)) in such a way as to secure that, at any time before the coming into force of the first provision made under the new section 132A that alters the amount of the basic pension, the amounts prescribed are equal to the amount of the basic pension for the time being.
+
+(5) In subsection (4) “the amount of the basic pension” means the first amount specified in section 44(4) of the Contributions and Benefits Act (weekly rate of Category A retirement pension).
+
+### Additional pension: deemed earnings factors
+
+#### 7 Deemed earnings factors for purposes of additional pension
+
+(1) After section 44A of the Contributions and Benefits Act insert—
+
+> **44B Deemed earnings factors: 2010–11 onwards**
+>
+> (1) This section applies to 2010–11 and subsequent tax years.
+>
+> (2) For the purposes of section 44(6)(za) above, if any of Conditions A to C in subsections (3) to (5) below is satisfied for a relevant year to which this section applies, a pensioner is deemed to have an earnings factor for that year which—
+>
+> (a) is derived from so much of his earnings as did not exceed the applicable limit and on which primary Class 1 contributions were paid; and
+>
+> (b) is equal to the amount which, when added to any other earnings factors taken into account under that provision, produces an aggregate of earnings factors equal to the low earnings threshold.
+>
+> (3) Condition A is that the pensioner would, apart from this section, have an earnings factor for the year—
+>
+> (a) equal to or greater than the qualifying earnings factor (“the QEF”) for the year, but
+>
+> (b) less than the low earnings threshold for the year.
+>
+> (4) Condition B is that the pensioner—
+>
+> (a) would, apart from this section and section 44C below, have an earnings factor for the year less than the QEF for the year, but
+>
+> (b) is entitled to an aggregate amount of earnings factor credits for that year under section 44C below equal to the difference between the QEF for the year and the earnings factor mentioned in paragraph (a) above.
+>
+> (5) Condition C is that the pensioner is entitled to 52 earnings factor credits for that year under section 44C below.
+>
+> (6) This section has effect in relation to the flat rate introduction year and any subsequent tax year as if—
+>
+> (a) subsection (2)(b) above referred to an aggregate of earnings factors greater than the QEF, but less than the low earnings threshold, for the year (rather than to one equal to that threshold); and
+>
+> (b) Condition A in subsection (3) above (and the reference to it in subsection (2) above) were omitted.
+>
+> (7) In this section—
+>
+> (a) “the applicable limit” has the same meaning as in section 44 above;
+>
+> (b) “the low earnings threshold” means the low earnings threshold for the year concerned as specified in section 44A above; and
+>
+> (c) in subsections (3) and (4) above, any reference to the pensioner's earnings factor for a relevant year is to be construed in accordance with section 44(6)(za) above.
+>
+> **44C Earnings factor credits**
+>
+> (1) This section applies, for the purposes of Conditions B and C in section 44B(4) and (5) above, to 2010–11 and subsequent tax years.
+>
+> (2) In respect of each week—
+>
+> (a) which falls in a relevant year to which this section applies, and
+>
+> (b) in respect of which a pensioner is eligible for earnings factor enhancement,
+>
+> the pensioner is entitled to an earnings factor credit equal to 1/52 of the QEF for that year.
+>
+> This is subject to subsection (5) below.
+>
+> (3) A pensioner is eligible for earnings factor enhancement in respect of a week if one or more of the following apply—
+>
+> (a) he was a relevant carer in respect of that week for the purposes of section 23A above (see section 23A(3));
+>
+> (b) carer's allowance was payable to him for any part of that week, or would have been so payable but for the fact that under regulations the amount payable to him was reduced to nil because of his receipt of other benefits;
+>
+> (c) severe disablement allowance was payable to him for any part of that week;
+>
+> (d) long-term incapacity benefit was payable to him for any part of that week or would have been so payable but for the fact that—
+>
+> (i) he did not satisfy the contribution conditions in paragraph 2 of Schedule 3 to this Act, or
+>
+> (ii) under regulations the amount payable to him was reduced to nil because of his receipt of other benefits or of payments from an occupational pension scheme or personal pension scheme;
+>
+> (e) he satisfies such other conditions as may be prescribed.
+>
+> (4) In subsection (3)(d)(ii) above “occupational pension scheme” and “personal pension scheme” have the meanings given by subsection (6) of section 30DD above for the purposes of subsection (5) of that section.
+>
+> (5) For the purposes of Condition B in section 44B(4) above a person is not entitled to an aggregate amount of earnings factor credits in respect of a year that is greater than the difference referred to in that Condition.
+>
+> (6) For the purposes of this section a week that falls partly in one tax year and partly in another is to be treated as falling in the year in which it begins and not in the following year.
+>
+> (7) In section 44B above and this section—
+>
+> (a) “the QEF” means the qualifying earnings factor, and
+>
+> (b) any reference to a person being entitled to an earnings factor credit of a particular amount (or to an aggregate amount of earnings factor credits) for a year is a reference to the person being treated as having for that year an earnings factor (within the meaning of section 44(6)(za) above) of the amount in question by virtue of subsection (2) above.
+
+.
+
+(2) Part 6 of Schedule 1 contains consequential and related amendments.
+
+### Additional pension: simplification of accrual rates
+
+#### 8 Additional pension: removal of accrual band from 2010–11
+
+(1) Schedule 4A to the Contributions and Benefits Act (additional pension) is amended as follows.
+
+(2) In Part 2 (surplus earnings factor) in paragraph 2 (calculation of amount where there is a surplus in pensioner's earnings factor)—
+
+(a) in sub-paragraph (4) after “2009” insert “ where the tax year concerned falls before 2010–11 ”;
+
+(b) after sub-paragraph (4) insert—
+
+> (4A) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010–11 or a subsequent tax year is as follows—
+>
+> <table>
+> <tbody>
+> <tr><th colspan="2"><i>Amount of surplus</i></th><th><i>Percentage</i></th></tr>
+> <tr><td>Band 1.</td><td>Not exceeding LET</td><td>40</td></tr>
+> <tr><td>Band 2.</td><td>Exceeding LET but not exceeding AUEL</td><td>10</td></tr>
+> </tbody>
+> </table>
+
+;
+
+(c) [^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Part 3 (contracted-out employment) in paragraph 5 (calculation of amount A)—
+
+(a) in sub-paragraph (4) after “2009” insert “ where the tax year concerned falls before 2010–11 ”;
+
+(b) after sub-paragraph (4) insert—
+
+> (4A) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010–11 or a subsequent tax year is as follows—
+>
+> <table>
+> <tbody>
+> <tr><th colspan="2"><i>Amount of surplus</i></th><th><i>Percentage</i></th></tr>
+> <tr><td>Band 1.</td><td>Not exceeding LET</td><td>40</td></tr>
+> <tr><td>Band 2.</td><td>Exceeding LET but not exceeding AUEL</td><td>10</td></tr>
+> </tbody>
+> </table>
+
+.
+
+(4) In paragraph 7 (calculation of amount B second case)—
+
+(a) in sub-paragraph (4) after “2009” insert “ where the tax year concerned falls before 2010–11 ”;
+
+(b) after sub-paragraph (4) insert—
+
+> (4A) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010–11 or a subsequent tax year is as follows—
+>
+> <table>
+> <tbody>
+> <tr><th colspan="2"><i>Amount of surplus</i></th><th><i>Percentage</i></th></tr>
+> <tr><td>Band 1.</td><td>Not exceeding LET</td><td>40</td></tr>
+> <tr><td>Band 2.</td><td>Exceeding LET but not exceeding AUEL</td><td>10</td></tr>
+> </tbody>
+> </table>
+
+.
+
+(5) [^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) For the heading for that Schedule substitute “ ADDITIONAL PENSION: ACCRUAL RATES FOR PURPOSES OF SECTION 45(2)(c) ”.
+
+#### 9 Additional pension: simplified accrual rates as from flat rate introduction year
+
+(1) Section 45 of the Contributions and Benefits Act (the additional pension in a Category A retirement pension) is amended as follows.
+
+(2) In subsection (2) (calculation of the weekly rate of additional pension) after paragraph (c) add
+
+> ; and
+>
+> (d) in relation to the flat rate introduction year and subsequent tax years, the weekly equivalent of the amount calculated in accordance with Schedule 4B to this Act.
+
+.
+
+(3) In subsection (3A) (tax years for which weekly rate is calculated by reference to Schedule 4A) at the end of paragraph (b) add “ before the flat rate introduction year ”.
+
+(4) In section 121 of the Contributions and Benefits Act (interpretation of Parts 1 to 6) in subsection (1) at the appropriate place insert—
+
+> “the flat rate introduction year” means such tax year as may be designated as such by order;
+
+.
+
+(5) In Schedule 2—
+
+(a) Part 1 inserts a new Schedule 4B into the Contributions and Benefits Act;
+
+(b) Part 2 makes provision for up-rating the flat rate accrual amount introduced by the new Schedule 4B; and
+
+(c) Part 3 contains consequential and related amendments.
+
+#### 10 Additional pension: upper accrual point
+
+(1) In section 22 of the Contributions and Benefits Act (earnings factors)—
+
+(a) in subsection (2A) (person's earnings factors to be treated as derived only from so much of his earnings as did not exceed the upper earnings limit etc.) for “the upper earnings limit” substitute “ the applicable limit ”; and
+
+(b) after that subsection insert—
+
+> (2B) “The applicable limit” means—
+>
+> (a) in relation to a tax year before the flat rate introduction year, the upper earnings limit;
+>
+> (b) in relation to the flat rate introduction year or any subsequent tax year, the upper accrual point.
+
+.
+
+(2) In section 44 of the Contributions and Benefits Act (Category A retirement pension)—
+
+(a) in subsection (6) (meaning of references to earnings factors) in paragraph (za) for “the upper earnings limit” substitute “ the applicable limit ”;
+
+(b) in subsection (7) at the end add—
+
+> (c) “the applicable limit” means—
+>
+> (i) in relation to a tax year before the flat rate introduction year, the upper earnings limit;
+>
+> (ii) in relation to the flat rate introduction year or any subsequent tax year, the upper accrual point.
+
+.
+
+(3) [^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Part 7 of Schedule 1 contains consequential amendments.
+
+(5) Whenever the Secretary of State makes an order under section 12 of the Pensions Act 2007 (c. 22), the Department may make a corresponding order for Northern Ireland.
+
+(6) An order under subsection (5) is subject to negative resolution.
+
+### Increase in state pension age
+
+#### 11 Increase in pensionable age for men and women
+
+(1) Schedule 3 amends Article 123 of, and Part 1 of Schedule 2 to, the Pensions Order for the purpose of increasing the pensionable age for men and women[^F4]....
+
+(2) Part 8 of Schedule 1 contains consequential amendments.
+
+(3) The amendments made by that Part of that Schedule have effect as from [[^F5]6th December 2018].
+
+## PART 2 — OCCUPATIONAL AND PERSONAL PENSION SCHEMES
+
+### Contracting-out
+
+#### 12 Conversion of guaranteed minimum pensions
+
+(1) After section 9(1) of the Pension Schemes Act (contracted-out scheme: requirement for guaranteed minimum pension) insert—
+
+> (1A) But a scheme may be amended so as to omit provision of the kind specified in subsection (1)(a) and (b) if the conditions specified in section 20B are satisfied.
+
+.
+
+(2) After section 13(1) of that Act (minimum pension for survivors) insert—
+
+> (1A) But a scheme may be amended so as to omit provision of the kind specified in subsection (1) if the conditions specified in section 20B are satisfied.
+
+.
+
+(3) Before section 21 of that Act (before the italic cross-heading) insert—
+
+> **20A Conversion of guaranteed minimum pension into other benefits: introduction**
+>
+> In this section and sections 20B to 20H—
+>
+> (a) the rules specified in sections 9(1)(a) and (b) and 13(1) are referred to as the “guaranteed minimum pension rules”,
+>
+> (b) “GMP conversion” means amendment of the scheme in relation to an earner so that it no longer contains the guaranteed minimum pension rules,
+>
+> (c) a “GMP-converted scheme” is a scheme which has been subject to GMP conversion,
+>
+> (d) “the conversion date” means the date on which that amendment takes effect,
+>
+> (e) “the pre-conversion benefits” means the benefits provided under the scheme immediately before the conversion date (disregarding money purchase benefits),
+>
+> (f) “the post-conversion benefits” means the benefits which are provided under the converted scheme (disregarding money purchase benefits),
+>
+> (g) “the converted scheme” means the scheme as it has effect immediately after conversion, and
+>
+> (h) “the trustees” in relation to a scheme means the trustees, managers or other persons responsible under the scheme for effecting amendments of it.
+>
+> **20B The conversion conditions**
+>
+> (1) This section specifies the conditions referred to in sections 9(1A) and 13(1A) (for exemption from the requirement to guarantee a minimum pension).
+>
+> (2) Condition 1 is that the post-conversion benefits must be actuarially at least equivalent to the pre-conversion benefits.
+>
+> (3) Condition 2 is that if the earner was entitled immediately before the conversion date to the payment of a pension under the scheme, the converted scheme does not provide for a reduction of, or have the effect of reducing, the amount of that pension immediately after conversion.
+>
+> (4) Condition 3 is that the post-conversion benefits must not include money purchase benefits, apart from any money purchase benefits provided under the scheme immediately before the conversion date.
+>
+> (5) Condition 4 is that the converted scheme provides survivors' benefits in accordance with section 20D in such circumstances, and during such periods, as are prescribed by regulations.
+>
+> (6) Condition 5 is that the procedural requirements of section 20E have been complied with.
+>
+> (7) In applying these conditions to a scheme in respect of an earner—
+>
+> (a) it is immaterial whether or not on the conversion date the scheme was also converted in respect of other earners, and
+>
+> (b) it is immaterial (except for Condition 2) whether or not on the conversion date the earner was entitled to the payment of a pension under the scheme.
+>
+> **20C Actuarial equivalence**
+>
+> Regulations may make provision for determining actuarial equivalence for the purpose of Condition 1 of section 20B.
+>
+> **20D Survivors' benefits**
+>
+> (1) This section specifies the benefits mentioned in Condition 4 of section 20B.
+>
+> (2) The first benefit is that if the earner dies (whether before or after attaining normal pension age) leaving a widow, she is entitled to a pension of at least half the value of the pension to which the earner would have been entitled by reference to employment during the period—
+>
+> (a) beginning with 6th April 1978, and
+>
+> (b) ending with 5th April 1997.
+>
+> (3) The second benefit is that if the earner dies (whether before or after attaining normal pension age) leaving a widower or surviving civil partner, he or she is entitled to a pension of at least half the value of the pension to which the earner would have been entitled by reference to employment during the period—
+>
+> (a) beginning with 6th April 1988, and
+>
+> (b) ending with 5th April 1997.
+>
+> **20E Procedural requirements**
+>
+> (1) This section specifies the procedural requirements that must be complied with in order to satisfy Condition 5 of section 20B.
+>
+> (2) The employer in relation to the scheme must consent to the GMP conversion in advance.
+>
+> (3) The trustees must take all reasonable steps to—
+>
+> (a) consult the earner in advance, and
+>
+> (b) notify all members, and survivors, affected by the GMP conversion before, or as soon as is reasonably practicable after, the conversion date.
+>
+> (4) The Commissioners for Her Majesty's Revenue and Customs must be notified on or before the conversion date—
+>
+> (a) that the GMP conversion will occur or has occurred, and
+>
+> (b) that it affects the earner.
+>
+> **20F Transfer out**
+>
+> (1) Regulations may prescribe—
+>
+> (a) restrictions on the transfer of the earner's accrued rights under a GMP-converted scheme;
+>
+> (b) conditions which must be complied with on the transfer of the earner's accrued rights under a GMP-converted scheme.
+>
+> (2) Section 16(2) and (5) shall apply to regulations under this section.
+>
+> (3) Where a member of a non-GMP-converted scheme makes an application under section 91(1), the trustees may with his consent adjust any guaranteed cash equivalent so as to reflect rights that would have accrued if the scheme had been subject to GMP conversion in accordance with Conditions 1 to 4 of section 20B.
+>
+> **20G Powers to amend schemes**
+>
+> (1) The trustees of an occupational pension scheme may by resolution modify it so as to effect GMP conversion (whether in relation to present earners, pensioners or survivors) in accordance with the conditions of section 20B.
+>
+> (2) The subsisting rights provisions within the meaning of Article 67 of the Pensions (Northern Ireland) Order 1995 shall not apply to a power conferred by an occupational pension scheme to modify the scheme in so far as the power enables GMP conversion in accordance with the conditions of section 20B.
+>
+> (3) Where a scheme is amended to effect GMP conversion the trustees may include other amendments which they think are necessary or desirable as a consequence of, or to facilitate, the GMP conversion.
+>
+> (4) Where an occupational pension scheme is being wound up, the trustees may, before the winding up is completed, adjust rights under the scheme so as to reflect what would have happened if the scheme had been subject to GMP conversion in accordance with Conditions 1 to 4 of section 20B.
+>
+> (5) In the application of section 20E by virtue of subsection (1) above, a reference to the earner includes a reference to a pensioner or survivor whose pension is subjected to GMP conversion.
+>
+> **20H Enforcement of GMP conversion conditions**
+>
+> (1) If the Regulatory Authority thinks that the conditions of section 20B have not been satisfied in relation to an amendment, modification or adjustment effected in accordance with any of sections 9(1A), 13(1A), 20F and 20G, the Regulatory Authority may make an order declaring the amendment, modification or adjustment void—
+>
+> (a) in respect of a specified person or class of person,
+>
+> (b) to a specified extent, and
+>
+> (c) as from a specified time.
+>
+> (2) Where the Regulatory Authority makes an order under subsection (1) it may—
+>
+> (a) require the trustees of the scheme concerned to take specified steps;
+>
+> (b) declare that specified action of the trustees shall not be treated as a contravention of the scheme if it would not have been a contravention if the order under subsection (1) had not been made.
+>
+> (3) An order may be made under subsection (1) before or after the amendment, modification or adjustment takes effect.
+>
+> (4) If the Regulatory Authority thinks that the process of effecting a GMP conversion of a scheme has been commenced and that a relevant condition of section 20B is not being complied with, or may not be complied with, the Regulatory Authority may by order—
+>
+> (a) prohibit the taking of further steps in the GMP conversion (whether generally or in relation to specified steps), and
+>
+> (b) require the trustees of the scheme to take specified steps before resuming the process of GMP conversion.
+>
+> (5) Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) shall apply to a trustee who has failed to take all reasonable steps to secure compliance with the conditions of section 20B in relation to an amendment, modification or adjustment effected in accordance with any of sections 9(1A), 13(1A), 20F and 20G.
+
+.
+
+(4) In section 5(2A) of that Act (requirements for certification) for “sections 9 to 19” substitute “ sections 9 to 20E ”.
+
+(5) At the end of section 43 of that Act (deductions from social security payments) add—
+
+> (9) For the purposes of section 42, a person shall be treated as entitled to a guaranteed minimum pension to which, in the opinion of the Commissioners for Her Majesty's Revenue and Customs, he would have been entitled but for the amendment of a scheme so that it no longer contains the guaranteed minimum pension rules.
+>
+> (10) Where the earner's accrued rights have been transferred after the amendment of the scheme, in making the calculation under subsection (9) the Commissioners shall assume the application of section 12(1) after the transfer.
+>
+> (11) In making the calculation under subsection (9) the Commissioners shall ignore any effect of the scheme being wound up.
+
+.
+
+(6) In Article 92(5) of the Pensions (Northern Ireland) Order 2005 (NI 1) (Pensions Regulator: special procedure) after sub-paragraph (t) insert—
+
+> (ta) a power under section 20H of the Pension Schemes Act;
+
+.
+
+(7) At the end of Part 1 of Schedule 2 to that Order (reserved regulatory functions: Pension Schemes Act) add—
+
+> **3A**
+>
+> A power under section 20H (compliance with conditions of conversion of guaranteed minimum pension).
+
+.
+
+(8) Subsection (9) applies where—
+
+(a) a person has been in receipt of a guaranteed minimum pension and a Category A or Category B retirement pension,
+
+(b) the guaranteed minimum pension has been increased in accordance with section 11(1) of the Pension Schemes Act or the Category A or Category B retirement pension has been increased in accordance with paragraph 5 of Schedule 5 to the Contributions and Benefits Act (increase of pension where commencement of guaranteed minimum pension postponed),
+
+(c) the pension scheme under which the guaranteed minimum pension is paid is subject to GMP conversion [[^F6]in relation to the person] , and
+
+(d) an order under section 132 of the Administration Act would have applied to the person in respect of the increase mentioned in paragraph (b) but for the scheme having been subject to GMP conversion [[^F7]in relation to the person] .
+
+(9) The person's Category A or Category B retirement pension shall be increased by the amount by which it would have increased as a result of the order.
+
+(10) If paragraph 5 of Schedule 5 to the Contributions and Benefits Act (increase of pension for survivor of “S”) would apply to a person but for the fact that the scheme of which S was a member was subject to GMP conversion [[^F8]in relation to S] before S's death, the paragraph shall apply to the person (with any necessary modifications) despite that fact.
+
+(11) In subsections (8)(c) and (d) and (10) “GMP conversion” has the meaning given by section 20A of the Pension Schemes Act [^F9]....
+
+(12) In section 181 of the Pension Schemes Act (Assembly, etc. control of regulations and orders) in subsection (2) after “the Department under section” insert “ 20B(5) ”.
+
+#### 13 Abolition of contracting-out for defined contribution pension schemes
+
+(1) Any certificate which is either—
+
+(a) a contracting-out certificate in relation to a money purchase contracted-out scheme, or
+
+(b) an appropriate scheme certificate,
+
+and is in force immediately before the [[^F10]6 April 2012] , ceases to have effect on that date.
+
+(2) In this section—
+
+- [^F11]...
+- “contracting-out certificate”, “money purchase contracted-out scheme” and “appropriate scheme certificate” have the meanings given by section 176(1) of the Pension Schemes Act (as in force immediately before that day).
+
+(3) In Schedule 4—
+
+(a) Parts 1 and 2 contain amendments which are consequential on, or related to, the provision made by subsection (1), and
+
+(b) Part 3 contains savings relating to amendments made by Part 1.
+
+(4) The amendments made by Part 1 of that Schedule have effect as from [[^F12]6 April 2012] (but any power to make regulations conferred by those amendments may be exercised at any time so as to make regulations having effect as from [[^F12]6 April 2012] ).
+
+(5) The Department may by regulations make—
+
+(a) such consequential, incidental or supplemental provision, and
+
+(b) such transitional, transitory or saving provision,
+
+as it thinks necessary or expedient in connection with, or in consequence of, the provisions of subsection (1) and Schedule 4.
+
+(6) Regulations under subsection (5) may in particular amend, repeal or revoke any statutory provision (whenever passed or made).
+
+(7) Subject to subsections (8) to (10), regulations under this section are subject to negative resolution.
+
+(8) Regulations under this section which amend or repeal any relevant statutory provision—
+
+(a) must be laid before the Assembly after being made; and
+
+(b) take effect on such date as may be specified in the regulations, but (without prejudice to the validity of anything done thereunder or to the making of new regulations) cease to have effect upon the expiration of a period of 6 months from that date unless at some time before the expiration of that period the regulations are approved by a resolution of the Assembly.
+
+(9) This subsection applies to regulations made under this section which—
+
+(a) but for subsection (10), would be subject to negative resolution, and
+
+(b) are contained in a statutory rule which includes any regulations subject to the confirmatory procedure.
+
+(10) Any regulations to which subsection (9) applies shall not be subject to negative resolution, but shall be subject to the confirmatory procedure.
+
+(11) Before the Department makes any regulations by virtue of subsection (5), it must consult such persons as it considers appropriate.
+
+(12) Subsection (11) does not apply—
+
+(a) to regulations made for the purpose only of consolidating other regulations revoked by them,
+
+(b) in a case where it appears to the Department that by reason of urgency consultation is inexpedient,
+
+(c) to regulations made before the end of the period of 6 months beginning with the coming into operation of subsection (5),
+
+(d) to regulations which—
+
+(i) state that they are consequential upon a specified statutory provision, and
+
+(ii) are made before the end of the period of 6 months beginning with the coming into operation of that provision, or
+
+(e) to regulations making only provision corresponding to provision contained in regulations made by the Secretary of State in relation to Great Britain.
+
+(13) In this section—
+
+- “the confirmatory procedure” means the procedure described in subsection (8);
+
+- “relevant statutory provision” means a statutory provision contained in—
+
+  - (a) an Act of the Parliament of Northern Ireland;
+  - (b) an Order in Council under Schedule 1 to the Northern Ireland Act 1974 (c. 28);
+  - (c) an Act of the Assembly; or
+  - (d) an Act of the Parliament of the United Kingdom.
+
+### Dispute resolution
+
+#### 14 Dispute resolution arrangements
+
+(1) Article 250 of the Pensions (Northern Ireland) Order 2005 (NI 1), which substitutes new Articles 50 to 50B for Article 50 of the Pensions Order, is amended as follows.
+
+(2) In paragraph (1) of the new Article 50 (requirement for dispute resolution arrangements) after “arrangements” insert “ complying with the requirements of this Article ”.
+
+(3) In paragraph (2) of that Article, for “such arrangements as are required by this Article” substitute “ arrangements ”.
+
+(4) After paragraph (4) of that Article insert—
+
+> (4A) The dispute resolution arrangements may make provision for securing that an application for the resolution of a pension dispute may not be made to the trustees or managers unless—
+>
+> (a) the matters in dispute have been previously referred to a person of a description specified in the arrangements (“the specified person”) in order for him to consider those matters, and
+>
+> (b) the specified person has given his decision on those matters,
+>
+> and for enabling the specified person's decision to be confirmed or replaced by the decision taken by the trustees or managers on the application, after reconsidering those matters.
+
+.
+
+(5) After paragraph (5) of that Article insert—
+
+> (5A) In a case where a reference is made to the specified person in accordance with provision made under paragraph (4A), paragraph (5) applies in relation to the specified person as it applies in relation to the trustees or managers in a case where an application for the resolution of a pension dispute is made to them.
+
+.
+
+(6) In paragraph (6) of that Article, after “arrangements” insert “ in pursuance of paragraph (4) ”.
+
+(7) In paragraph (1) of the new Article 50B (dispute resolution procedure) for “under Article 50 must” substitute “ in pursuance of Article 50(4) must (in accordance with Article 50(6)) ”.
+
+(8) For paragraph (3) of that Article substitute—
+
+> (3) The procedure—
+>
+> (a) must include provision requiring an application to which paragraph (3A) applies to be made by the end of such reasonable period as is specified;
+>
+> (b) may include provision about the time limits for making such other applications for the resolution of pension disputes as are specified.
+>
+> (3A) This paragraph applies to—
+>
+> (a) any application by a person with an interest in a scheme as mentioned in Article 50A(1)(e), and
+>
+> (b) any application by a person with an interest in a scheme as mentioned in Article 50A(1)(f) who is claiming to be such a person as is mentioned in Article 50A(1)(e).
+
+.
+
+(9) In paragraph (4) of that Article, in sub-paragraph (c), after “required” insert “ in relation to such an application ”.
+
+(10) After paragraph (4) of that Article insert—
+
+> (4A) The provision made under paragraph (4)(c) may include provision for decisions of the trustees or managers to be taken on their behalf by one or more of their number.
+
+.
+
+### Actuarial guidance
+
+#### 15 Removal of Department's role in approving actuarial guidance
+
+Schedule 5 contains amendments removing requirements for, or powers to require, certain forms of actuarial guidance to be approved by the Department.
+
+## PART 3 — PERSONAL ACCOUNTS DELIVERY AUTHORITY
+
+### 16 Initial function of the Personal Accounts Delivery Authority
+
+[^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17 Management of the Authority
+
+[^F14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — GENERAL
+
+### 18 Review of operation of Act
+
+(1) The Department must, before the end of 2014, prepare a report on the operation of the provisions of this Act.
+
+(2) The Department may prepare subsequent reports on the operation of the provisions of this Act.
+
+(3) The Department must lay a copy of any report prepared under this section before the Assembly.
+
+### 19 Consequential etc. provision, repeals and revocations
+
+(1) The Department may by order make—
+
+(a) such supplementary, incidental or consequential provision, or
+
+(b) such transitory, transitional or saving provision,
+
+as it considers appropriate for the general purposes, or any particular purposes, of this Act, or in consequence of, or for giving full effect to, any provision made by this Act.
+
+(2) Schedule 6 contains repeals and revocations.
+
+(3) The following repeals have effect on the date on which this section comes into operation—
+
+(a) the repeals in Part 2 of Schedule 6 of the provisions of the Pensions Order other than paragraphs 15 and 17 of Schedule 2 to that Order;
+
+(b) the repeal in Part 2 of Schedule 6 of paragraph 90 of Schedule 24 to the Civil Partnership Act 2004 (c. 33);
+
+(c) the repeals in Parts 3 and 4 of Schedule 6.
+
+(4) The following repeals and revocations have effect on 6th April 2010—
+
+(a) the repeals and revocations in Part 1 of Schedule 6;
+
+(b) the repeals in Part 2 of that Schedule other than those falling within subsection (3).
+
+(5) The repeals and revocations in Part 6 of that Schedule have effect on [[^F15]6 April 2012] .
+
+(6) The other repeals contained in that Schedule have effect on the date on which they come into operation by virtue of an order made under section 21.
+
+(7) An order made under subsection (1) is subject to negative resolution.
+
+(8) In Article 17 of the Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11) (social security: amendments following certain orders), at the end of paragraph (2) add “ the Pensions Act 2007 ”.
+
+### 20 Interpretation
+
+(1) In this Act—
+
+- “the Administration Act” means the Social Security Administration (Northern Ireland) Act 1992 (c. 8);
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7);
+- “the Department” means the Department for Social Development;
+- “the Pension Schemes Act” means the Pension Schemes (Northern Ireland) Act 1993 (c. 49);
+- “the Pensions Order” means the Pensions (Northern Ireland) Order 1995 (NI 22);
+- “statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33);
+- “tax year” has the same meaning as in Parts 1 to 6 of the Contributions and Benefits Act (see section 121(1) of that Act).
+
+(2) In the application, for the purposes of this Act, of section 39(2) of the Interpretation Act (Northern Ireland) 1954 (time beginning on a particular day), omit the word “not”.
+
+### 21 Commencement
+
+(1) The following provisions of this Act shall come into operation on such day or days as the Department may by order appoint—
+
+(a) section 12;
+
+(b) section 13(1), Part 2 of Schedule 4 and Part 7 of Schedule 6;
+
+(c) section 15, Schedule 5 and Part 8 of Schedule 6;
+
+(d) Part 5 of Schedule 6.
+
+(2) An order under subsection (1) may make such provision as the Department considers necessary or expedient for transitory, transitional or saving purposes in connection with the coming into operation of any provision falling within subsection (1).
+
+### 22 Short title
+
+This Act may be cited as the Pensions Act (Northern Ireland) 2008.
+
+## SCHEDULE 1 — STATE PENSION: CONSEQUENTIAL AND RELATED AMENDMENTS
+
+*Sections 1 to 5, 7, 10 and 11.*
+
+### PART 1 — CATEGORY A AND B RETIREMENT PENSIONS: SINGLE CONTRIBUTION CONDITION
+
+**1** (1) Section 44 of the Contributions and Benefits Act (Category A retirement pension) is amended as follows.
+
+(2) In subsection (1) for paragraph (b) substitute—
+
+> (b) he satisfies the relevant conditions or condition;
+
+.
+
+(3) After subsection (1) insert—
+
+> (1A) In subsection (1)(b) above “the relevant conditions or condition” means—
+>
+> (a) in a case where the person attains pensionable age before 6th April 2010, the conditions specified in Schedule 3, Part 1, paragraph 5;
+>
+> (b) in a case where the person attains pensionable age on or after that date, the condition specified in Schedule 3, Part 1, paragraph 5A.
+
+.
+
+**2** (1) Section 48A of the Contributions and Benefits Act (Category B retirement pension for married person or civil partner) is amended as follows.
+
+(2) In subsection (2) for paragraph (b) substitute—
+
+> (b) satisfies the relevant conditions or condition.
+
+.
+
+(3) After subsection (2) insert—
+
+> (2ZA) In subsection (2)(b) above “the relevant conditions or condition” means—
+>
+> (a) in a case where the spouse is a married man who attains pensionable age before 6th April 2010, the conditions specified in Schedule 3, Part 1, paragraph 5;
+>
+> (b) in a case where the spouse attains pensionable age on or after that date, the condition specified in Schedule 3, Part 1, paragraph 5A.
+
+.
+
+(4) In subsection (2B) for paragraph (b) substitute—
+
+> (b) satisfies the condition specified in Schedule 3, Part 1, paragraph 5A.
+
+.
+
+**3** (1) Section 48B of the Contributions and Benefits Act (Category B retirement pension for surviving spouse or civil partner) is amended as follows.
+
+(2) In subsection (1) for “the conditions specified in Schedule 3, Part 1, paragraph 5” substitute “ the relevant conditions or condition ”.
+
+(3) After subsection (1) insert—
+
+> (1ZA) In subsection (1) above “the relevant conditions or condition” means—
+>
+> (a) in a case where the spouse—
+>
+> (i) died before 6th April 2010, or
+>
+> (ii) died on or after that date having attained pensionable age before that date,
+>
+> the conditions specified in Schedule 3, Part 1, paragraph 5;
+>
+> (b) in a case where the spouse died on or after that date without having attained pensionable age before that date, the condition specified in Schedule 3, Part 1, paragraph 5A.
+
+.
+
+(4) In subsection (1A) for “the conditions specified in Schedule 3, Part 1, paragraph 5” substitute “ the condition specified in Schedule 3, Part 1, paragraph 5A ”.
+
+**4** In section 60 of the Contributions and Benefits Act (complete or partial failure to satisfy contribution conditions) after subsection (8) add—
+
+> (9) References in this section to a Category A or Category B retirement pension do not include one to which Schedule 3, Part 1, paragraph 5A applies.
+
+.
+
+**5** After section 60 of the Contributions and Benefits Act insert—
+
+> **Failure to satisfy contribution condition in paragraph 5A of Schedule 3**
+>
+> **60A** (1) Subsection (2) below applies if the contribution condition in Schedule 3, Part 1, paragraph 5A is not satisfied in relation to a benefit to which that paragraph applies.
+>
+> (2) A person who would have been entitled to the benefit had the condition been satisfied shall nevertheless be entitled to a prescribed proportion of that benefit in respect of each of the years of the contributor's working life that falls within subsection (3) below.
+>
+> (3) A year of the contributor's working life falls within this subsection if it is a year in relation to which the requirements in paragraph 5A(2)(a) and (b) of Part 1 of Schedule 3 are satisfied.
+>
+> (4) “The contributor” means the person by whom the condition is to be satisfied.
+>
+> (5) In any case where—
+>
+> (a) an employed earner who is married or a civil partner dies on or after 6th April 2010 as a result of—
+>
+> (i) a personal injury of a kind mentioned in section 94(1) below, or
+>
+> (ii) a disease or injury such as is mentioned in section 108(1) below, and
+>
+> (b) the contribution condition specified in Schedule 3, Part 1, paragraph 5A is not satisfied in respect of the employed earner,
+>
+> that condition shall be taken to be satisfied for the purposes of the entitlement of the employed earner's widow, widower or surviving civil partner to a Category B retirement pension payable by virtue of section 48B above.
+>
+> (6) In subsections (1) to (3) above, any reference—
+>
+> (a) to the contribution condition in Schedule 3, Part 1, paragraph 5A, or
+>
+> (b) to the requirements of paragraph 5A(2)(a) and (b),
+>
+> includes a reference to that condition or those requirements as modified by virtue of paragraph 5A(4).
+
+.
+
+### PART 2 — CATEGORY B RETIREMENT PENSION: REMOVAL OF RESTRICTION ON ENTITLEMENT
+
+**6** In section 54 of the Contributions and Benefits Act (Category A and B retirement pensions: supplemental provisions) omit subsection (3) (election to defer pension entitlement requires consent of other party to marriage etc.).
+
+**7** In section 55 of the Contributions and Benefits Act (pension increase or lump sum where entitlement to retirement pension is deferred) in subsection (3) for paragraph (a) substitute—
+
+> (a) does not become entitled to that pension by reason only of not satisfying the conditions of section 1 of the Administration Act (entitlement to benefit dependent on claim), or
+
+.
+
+**8** In Schedule 5 to the Contributions and Benefits Act (pension increase or lump sum where entitlement to retirement pension is deferred) in paragraph 8, omit sub-paragraph (3) (construction of references where person's pension linked to contributions of other party to marriage or civil partnership).
+
+### PART 3 — CONTRIBUTIONS CREDITS FOR RELEVANT PARENTS AND CARERS
+
+#### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**9** In section 22 of the Contributions and Benefits Act (earnings factors) after subsection (5) (regulations may provide for crediting of contributions) insert—
+
+> (5A) Section 23A below makes provision for the crediting of Class 3 contributions for the purpose of determining entitlement to the benefits to which that section applies.
+
+.
+
+**10** In section 172 of the Contributions and Benefits Act (Assembly, etc. control of regulations and orders) in subsection (2) (regulations and orders subject to confirmatory procedure) after paragraph (a) insert—
+
+> (aa) the first regulations made by virtue of section 23A(3)(c) above;
+
+.
+
+#### The Welfare Reform Act (Northern Ireland) 2007 (c. 2)
+
+**11** In Part 1 of Schedule 1 to the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance: additional conditions) in paragraph 1 (conditions relating to national insurance) in sub-paragraph (5) (meaning of “benefit”) after paragraph (c) insert—
+
+> (ca) credits under section 23A of that Act,
+
+.
+
+### PART 4 — CATEGORY A AND C RETIREMENT PENSIONS: ABOLITION OF ADULT DEPENDENCY INCREASES
+
+**12** In section 30B of the Contributions and Benefits Act (incapacity benefit: rate) in subsection (3) omit paragraph (b) (increase under section 83 or 85 to be disregarded in determining rate of incapacity benefit).
+
+**13** In section 78 of the Contributions and Benefits Act (Categories C and D retirement pensions and other benefits for the aged) in subsection (4) omit paragraph (d) (increase under section 83 or 85 to be disregarded in determining appropriate weekly rate of Category D retirement pension).
+
+**14** In section 88 of the Contributions and Benefits Act (increases to be in respect of only one adult dependant) for “under or by virtue of sections 83 to 86A” substitute “ by virtue of section 86A ”.
+
+**15** In section 89 of the Contributions and Benefits Act (meaning of earnings for purposes of provisions relating to increases in benefits) in each of subsections (1) and (1A) for “sections 82 to 86A” substitute “ sections 82 and 86A ”.
+
+**16** In section 114 of the Contributions and Benefits Act (persons maintaining dependants, etc.) in subsection (4) (amounts paid by way of maintenance etc. to be treated as contributions for the purposes of specified provisions) omit “to 84”.
+
+**17** In section 145 of the Contributions and Benefits Act (pensioners' entitlement to Christmas bonus: supplementary) in subsection (3) (circumstances in which persons to be treated as entitled to increase in payment of a qualifying benefit) in paragraph (b) omit “section 83(2) or (3) above or”.
+
+**18** In Part 4 of Schedule 4 to the Contributions and Benefits Act (rates of increases for dependants)—
+
+(a) in paragraph 5 (Category A or B retirement pension) for the figure in column (3) (increase for adult dependant) substitute “ — ”;
+
+(b) in paragraph 6 (Category C retirement pension) for the figure in column (3) (increase for adult dependant) substitute “ — ”.
+
+### PART 5 — UP-RATING OF BASIC PENSION ETC. AND STANDARD MINIMUM GUARANTEE BY REFERENCE TO EARNINGS
+
+#### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**19** In Schedule 5 to the Contributions and Benefits Act (pension increase or lump sum where entitlement to retirement pension is deferred) in paragraph 2 (pension increase where entitlement deferred) in sub-paragraph (7) (increase to take account of up-rating of pensions) after “132” insert “ or 132A ”.
+
+**[^F16]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+
+**21** In section 135 of the Administration Act (effect of alteration of rates of benefit under Parts 2 to 5 of the Contributions and Benefits Act) in subsection (1) (when section has effect) in paragraph (b) after “132” insert “ , 132A ”.
+
+**22** In section 135A of that Act (power to anticipate pensions up-rating order) in subsection (1) (power arises where statement made to Commons of amounts of proposed increase in order under section 150 of the Great Britain Administration Act) in paragraph (a), for “150” substitute “ 150 or 150A (as the case may be) ”.
+
+**23** In section 139 of that Act (effect of alteration in the component rates of income support) in subsection (5)—
+
+(a) in paragraph (b)(ii) of the definition of “alteration” after “132” insert “ , 132A ”;
+
+(b) for the definition of “applicable sums” substitute—
+
+> “applicable sums” means sums to which an order made under section 132 or 132A above corresponding to an order made under section 150 or 150A (as the case may be) of the Great Britain Administration Act may apply;
+
+.
+
+**24** In section 139A of that Act (effect of alteration of rates of a jobseeker's allowance) in subsection (5) in paragraph (b) of the definition of “alteration” after “132” insert “ or 132A ”.
+
+**25** In section 139B of that Act (effect of alterations affecting state pension credit)—
+
+(a) in subsection (4) (power to anticipate up-rating of state pension credit) in paragraph (a) after “section 150” insert “ , 150A ”;
+
+(b) in subsection (6), in paragraph (b) of the definition of “alteration” after “132” insert “ , 132A ”.
+
+**26** In section 139C of that Act as inserted by the Welfare Reform Act (Northern Ireland) 2007 (c. 2) (effect of alteration of rates of an employment and support allowance) in subsection (6) in paragraph (b) of the definition of “alteration” after “132” insert “ , 132A ”.
+
+**27** In section 166 of that Act (Assembly, etc. control of orders and regulations) in subsection (2)(b) (orders subject to the confirmatory procedure) after “132” insert “ , 132A ”.
+
+**28** In Schedule 5 to that Act (regulations not requiring prior submission to the Social Security Advisory Committee) in paragraph 3 (up-rating, etc.) for “or 132” substitute “ , 132 or 132A ”.
+
+**29** In Schedule 5A to that Act (regulations not requiring prior submission to the Industrial Injuries Advisory Council) in paragraph 2 for “or 132” substitute “ , 132 or 132A ”.
+
+### PART 6 — DEEMED EARNINGS FACTORS FOR PURPOSES OF ADDITIONAL PENSION
+
+**30** In section 22 of the Contributions and Benefits Act (earnings factors) at the end of subsection (2A) (derivation of earnings factors for purposes of calculating additional pension) insert— “ This subsection does not affect the operation of sections 44A and 44B below (deemed earnings factors). ”.
+
+**31** (1) Section 44A of the Contributions and Benefits Act (deemed earnings factors) is amended as follows.
+
+(2) Before subsection (1) insert—
+
+> (A1) Subsections (1) to (4) below apply to the first appointed year or any subsequent tax year before 2010–11.
+
+.
+
+(3) In subsection (1) (amount of deemed earnings factor for purposes of section 44(6)(za)) after “a relevant year” insert “ to which this subsection applies ”.
+
+(4) After subsection (4) insert—
+
+> (4A) The following do not apply to a pensioner attaining pensionable age on or after 6th April 2010—
+>
+> (a) the requirement referred to in subsection (2)(d) above, and
+>
+> (b) subsections (3) and (4) above.
+
+.
+
+### PART 7 — ADDITIONAL PENSION: SIMPLIFIED ACCRUAL RATES
+
+#### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**32** In section 172 of the Contributions and Benefits Act (Assembly, etc. control of regulations and orders)—
+
+(a) [^F17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in subsection (4A) (certain orders not subject to Assembly procedure) after “second appointed year” insert “ or designating the flat rate introduction year ”.
+
+#### The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**33** In section 8B of the Pension Schemes Act (reference scheme)—
+
+(a) in subsection (5) (definition of earner's qualifying earnings) in paragraph (b), for “the upper earnings limit for that year multiplied by fifty-three” substitute “ the applicable limit ”;
+
+(b) in subsection (7), before the definition of “normal pension age” insert—
+
+> “the applicable limit” means—
+>
+> (a) in relation to a tax year before the flat rate introduction year, the upper earnings limit for the year multiplied by 53;
+>
+> (b) in relation to the flat rate introduction year or any subsequent tax year, the upper accrual point;
+
+.
+
+**34** [^F18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35** In section 176(1) of that Act (general interpretation) insert in the appropriate places—
+
+> “the flat rate introduction year” has the meaning given by section 121 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+,
+
+> “the upper accrual point” has the meaning given by section 121 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+.
+
+**36** [^F19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 8 — INCREASE IN PENSIONABLE AGE FOR MEN AND WOMEN
+
+#### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**37** In section 38 of the Contributions and Benefits Act (widow's pension) in subsection (2) (entitlement to continue until age of 65) for “the age of 65” substitute “ pensionable age ”.
+
+**38** In section 64 of the Contributions and Benefits Act (entitlement to attendance allowance) in subsection (1) (conditions to be satisfied for entitlement to the allowance) for “is aged 65 or over” substitute “ has attained pensionable age ”.
+
+**39** (1) Section 75 of the Contributions and Benefits Act (disability living allowance: persons aged 65 or over) is amended as follows.
+
+(2) In subsection (1) (no entitlement to the allowance for persons aged 65 or over) for “the age of 65” substitute “ pensionable age ”.
+
+(3) For the sidenote substitute “ Persons who have attained pensionable age. ”.
+
+**40** In section 145 of the Contributions and Benefits Act (supplementary provisions relating to Christmas bonus) in subsection (4) (for purposes of section 144 persons not to be taken to be entitled to payment of war disablement pension unless they have attained the age of 65) for “the age of 65” substitute “ pensionable age ”.
+
+#### The State Pension Credit Act (Northern Ireland) 2002 (c. 14)
+
+**[^F20]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — ADDITIONAL PENSION: SIMPLIFIED ACCRUAL RATES
+
+*Section 9.*
+
+### PART 1 — NEW SCHEDULE 4B TO THE CONTRIBUTIONS AND BENEFITS ACT
+
+**1** After Schedule 4A to the Contributions and Benefits Act (additional pension) insert the following Schedule—
+
+> **SCHEDULE 4B — ADDITIONAL PENSION: ACCRUAL RATES FOR PURPOSES OF SECTION 45(2)(D)**
+>
+> **PART 1 — AMOUNT FOR PURPOSES OF SECTION 45(2)(D)**
+>
+> **1** (1) The amount referred to in section 45(2)(d) above is to be calculated as follows—
+>
+> (a) calculate the appropriate amount for each of the relevant years within section 45(2)(d) above to which Part 2 of this Schedule applies;
+>
+> (b) calculate the appropriate amount for each of the relevant years within section 45(2)(d) above to which Part 3 of this Schedule applies; and
+>
+> (c) add those amounts together.
+>
+> (2) But if the resulting amount is a negative one, the amount referred to in section 45(2)(d) above is nil.
+>
+> **PART 2 — NORMAL RULES: EMPLOYMENT NOT CONTRACTED-OUT**
+>
+> **Application**
+>
+> **2** This Part applies to a relevant year if the contracted-out condition is not satisfied in respect of any tax week in the year.
+>
+> **Appropriate amount for year**
+>
+> **3** The appropriate amount for the year for the purposes of paragraph 1 above is either—
+>
+> (a) the flat rate amount for the year (if there is a surplus in the pensioner's earnings factor for the year which does not exceed the LET), or
+>
+> (b) the sum of the flat rate amount and the earnings-related amount for the year (if there is such a surplus which exceeds the LET).
+>
+> **4** The flat rate amount for the year is calculated by multiplying the FRAA in accordance with the last order under section 130AA of the Administration Act to come into force before the end of the final relevant year.
+>
+> **5** The earnings-related amount for the year is calculated as follows—
+>
+> (a) take the part of the surplus for the year which exceeds the LET but which does not exceed the UAP;
+>
+> (b) multiply that amount in accordance with the last order under section 130 of the Administration Act to come into force before the end of the final relevant year;
+>
+> (c) multiply the amount found under sub-paragraph (b) above by 10 per cent.;
+>
+> (d) divide the amount found under sub-paragraph (c) above by 44.
+>
+> **PART 3 — CONTRACTED-OUT EMPLOYMENT**
+>
+> **Application**
+>
+> **6** This Part applies to a relevant year if the contracted-out condition is satisfied in respect of each tax week in the year.
+>
+> **Appropriate amount for year**
+>
+> **7** The appropriate amount for the year for the purposes of paragraph 1 above is calculated as follows—
+>
+> (a) calculate amounts A and B in accordance with paragraphs 8 to 10 below;
+>
+> (b) subtract amount B from amount A.
+>
+> **Amount A: assumed surplus not exceeding LET**
+>
+> **8** (1) Amount A is calculated in accordance with this paragraph if there is an assumed surplus in the pensioner's earnings factor for the year which does not exceed the LET.
+>
+> (2) In such a case, amount A is the flat rate amount for the year.
+>
+> (3) The flat rate amount for the year is calculated by multiplying the FRAA in accordance with the last order under section 130AA of the Administration Act to come into force before the end of the final relevant year.
+>
+> **Amount A: assumed surplus exceeding LET**
+>
+> **9** (1) Amount A is calculated in accordance with this paragraph if there is an assumed surplus in the pensioner's earnings factor for the year which exceeds the LET.
+>
+> (2) In such a case, amount A is calculated as follows—
+>
+> (a) take the part of the assumed surplus for the year which exceeds the LET but which does not exceed the UAP;
+>
+> (b) multiply that amount in accordance with the last order under section 130 of the Administration Act to come into force before the end of the final relevant year;
+>
+> (c) multiply the amount found under paragraph (b) above by 10 per cent.;
+>
+> (d) divide the amount found under paragraph (c) above by 44;
+>
+> (e) add the amount found under paragraph (d) above to the flat rate amount for the year.
+>
+> (3) The flat rate amount for the year is calculated by multiplying the FRAA in accordance with the last order under section 130AA of the Administration Act to come into force before the end of the final relevant year.
+>
+> **Amount B**
+>
+> **10** (1) Amount B is calculated as follows—
+>
+> (a) take the part of the assumed surplus for the year which exceeds the QEF but which does not exceed the UAP;
+>
+> (b) multiply that amount in accordance with the last order under section 130 of the Administration Act to come into force before the end of the final relevant year;
+>
+> (c) multiply the amount found under paragraph (b) above by 20 per cent.;
+>
+> (d) divide the amount found under paragraph (c) above by the number of relevant years in the pensioner's working life.
+>
+> (2) Section 44B above is to be ignored in applying section 44(6) above for the purposes of this paragraph.
+>
+> **PART 4 — OTHER CASES**
+>
+> **11** The Department may make regulations containing provision for finding for a tax year the amount referred to in section 45(2)(d) above—
+>
+> (a) in cases where the circumstances relating to the pensioner change in the course of the year, and
+>
+> (b) in such other cases as the Department thinks fit.
+>
+> **PART 5 — INTERPRETATION**
+>
+> **12** In this Schedule—
+>
+> - “assumed surplus”, in relation to a pensioner's earnings factor for a year, means the surplus there would be in that factor for the year if section 44A(1) of the Pensions Act (no primary Class 1 contributions deemed to be paid) did not apply in relation to any tax week falling in the year;
+> - “the contracted-out condition”, in relation to a tax week, means the condition that any earnings paid to or for the benefit of the pensioner in that week in respect of employment were in respect of employment qualifying him for a pension provided by a salary related contracted-out scheme (within the meaning of the Pensions Act);
+> - “the FRAA” has the meaning given by paragraph 13 below;
+> - “the LET”, in relation to a tax year, means the low earnings threshold for the year as specified in section 44A above;
+> - “the QEF”, in relation to a tax year, means the qualifying earnings factor for the year;
+> - “relevant year” and “final relevant year” have the same meanings as in section 44 above;
+> - “the UAP” means the upper accrual point.
+>
+> **13** (1) “The FRAA” means the flat rate accrual amount.
+>
+> (2) That amount is £72.80 for the flat rate introduction year and subsequent tax years (but subject to section 130AA of the Administration Act).
+
+.
+
+### PART 2 — REVALUATION OF FLAT RATE ACCRUAL AMOUNT
+
+**2** After section 130A of the Administration Act insert—
+
+> **Revaluation of flat rate accrual amount**
+>
+> **130AA** Whenever the Secretary of State makes an order under section 148AA of the Great Britain Administration Act (revaluation of flat rate accrual amount), the Department may make a corresponding order for Northern Ireland.
+
+.
+
+### PART 3 — CONSEQUENTIAL AND RELATED AMENDMENTS
+
+#### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**3** In section 39 of the Contributions and Benefits Act (rate of widowed mother's allowance and widow's pension) omit—
+
+(a) “and Schedule 4A to this Act” wherever occurring; and
+
+(b) subsection (3).
+
+**4** (1) Section 39C of the Contributions and Benefits Act (rate of widowed parent's allowance and bereavement allowance) is amended as follows.
+
+(2) [^F21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (3) in each of paragraphs (a) and (b) for “sections” substitute “ provisions ”.
+
+**5** (1) Section 44 of the Contributions and Benefits Act (Category A retirement pension) is amended as follows.
+
+(2) In subsection (5A) for “Schedule 4A” substitute “ Schedules 4A and 4B ”.
+
+(3) In subsection (6) for “Schedule 4A” substitute “ Schedule 4A or 4B ”.
+
+**6** In section 46 of the Contributions and Benefits Act (modification of section 45 for calculating the additional pension in certain benefits) after subsection (3) add—
+
+> (4) For the purpose of determining the additional pension falling to be calculated under section 45 above by virtue of section 39C(1) above in a case where the deceased spouse or civil partner died under pensionable age, section 45 above has effect subject to the following additional modifications—
+>
+> (a) the omission of subsection (2)(d), and
+>
+> (b) the omission in subsection (3A)(b) of the words “before the flat rate introduction year”.
+
+.
+
+**7** In section 48A of the Contributions and Benefits Act (rate of Category B retirement pension for married person or civil partner) in subsection (4) for “Schedule 4A” substitute “ Schedules 4A and 4B ”.
+
+**8** In section 48B of the Contributions and Benefits Act (Category B retirement pension for surviving spouse or civil partner) in subsection (2) for “Schedule 4A” substitute “ Schedules 4A and 4B ”.
+
+**9** In section 48BB of the Contributions and Benefits Act (Category B retirement pension: entitlement by reference to benefits under section 39A or 39B) in subsection (5)—
+
+(a) for “Schedule 4A” substitute “ Schedules 4A and 4B ”; and
+
+(b) for the words from “subject” to the end substitute “ subject to section 46(3) above and to the following provisions of this section and the modification in section 48C(4) below. ”.
+
+**10** In section 48C of the Contributions and Benefits Act (Category B retirement pension: general) in subsection (4) for “Schedule 4A” substitute “ Schedules 4A and 4B ”.
+
+**11** In Schedule 4A to the Contributions and Benefits Act (additional pension) in paragraph 1(2) omit “39(1),”.
+
+## SCHEDULE 3 — INCREASE IN PENSIONABLE AGE FOR MEN AND WOMEN
+
+*Section 11.*
+
+**1** In the heading to Article 123 of the Pensions Order, at the end add “ and increase in pensionable age ”.
+
+**2** In Article 123 of that Order (equalisation of pensionable age) in paragraph (a), at the end add “ and to increase the pensionable age for men and women progressively over a period of 22 years beginning with (and including) 6th April 2024 ”.
+
+**3** For the heading for Schedule 2 to that Order substitute “ EQUALISATION OF AND INCREASE IN PENSIONABLE AGE FOR MEN AND WOMEN ”.
+
+**[^F22]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES
+
+*Section 13.*
+
+### PART 1 — AMENDMENTS HAVING EFFECT AS FROM ABOLITION DATE
+
+#### The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**1** The Pension Schemes Act has effect subject to the following amendments.
+
+**2** (1) Section 3 (issue of contracting-out and appropriate scheme certificates) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) Regulations shall provide for HMRC to issue certificates stating that the employment of an earner in employed earner's employment is contracted-out employment by reference to an occupational pension scheme.
+>
+> (1A) In this Act such a certificate is referred to as “a contracting-out certificate”.
+
+.
+
+(3) Omit subsections (4) to (6) (provisions relating to appropriate scheme certificates in respect of personal pension schemes).
+
+(4) In subsection (7) (no certificate to have effect from a date earlier than its issue) omit “or appropriate scheme certificate”.
+
+(5) After that subsection add—
+
+> (8) References in this Act to a contracting-out certificate, a contracted-out scheme and to contracting-out in a context relating to a money purchase contracted-out scheme are to be construed in accordance with section 176A.
+
+.
+
+(6) In the sidenote omit “and appropriate scheme”.
+
+**3** (1) Section 4 (definitions of certain terms) is amended as follows.
+
+(2) In subsection (1) (definition of “contracted-out employment”) for the words from “he is under pensionable age” to the end of paragraph (a) substitute
+
+> —
+>
+> (a) he is under pensionable age;
+>
+> (aa) his service in the employment is for the time being service which qualifies him for a pension provided by an occupational pension scheme contracted out by virtue of satisfying section 5(2) (in this Act referred to as “a salary related contracted-out scheme”);
+
+.
+
+(3) After subsection (1) insert—
+
+> (1A) In addition, in relation to any period before the abolition date, the employment of an earner in employed earner's employment was “contracted-out employment” in relation to him during that period if—
+>
+> (a) he was under pensionable age;
+>
+> (b) his employer made minimum payments in respect of his employment to a money purchase contracted-out scheme, and
+>
+> (c) there was in force a contracting-out certificate issued in accordance with this Chapter (as it then had effect) stating that the employment was contracted-out employment by reference to the scheme.
+
+.
+
+(4) In subsection (2) for “for the purposes of section 38A” substitute “ for the tax year in which the week falls as specified in an order made under section 38B (as it had effect before the abolition date) ”.
+
+**4** (1) Section 5 (general requirements for certification of schemes) is amended as follows.
+
+(2) In subsection (1) (requirements for occupational pension schemes) omit “or (3)”.
+
+(3) Omit subsections (3) and (5) (requirements for money purchase occupational pension schemes and personal pension schemes).
+
+(4) In subsection (6) (meaning of “relevant requirements”)—
+
+(a) in paragraph (a) omit “or, as the case may be, appropriate”;
+
+(b) in paragraph (b) omit “or, as the case may be, of being an appropriate scheme,”.
+
+**[^F23]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** Omit section 8 (determination of basis on which scheme is contracted-out).
+
+**[^F24]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** Omit sections 24 to 25 (ways of giving effect to protected rights etc.).
+
+**[^F26]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F26]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** (1) Section 30 (cancellation, variation, surrender and refusal of certificates) is amended as follows.
+
+(2) For subsection (1) (regulations to provide for cancellation etc. of contracting-out or appropriate scheme certificates) substitute—
+
+> (1) Regulations shall provide for the cancellation, variation or surrender of a contracting-out certificate, or the issue of a new certificate—
+>
+> (a) on any change of circumstances affecting the treatment of an employment as contracted-out employment; or
+>
+> (b) where the certificate was issued on or after the principal appointed day, if any employer of persons in the description of employment to which the scheme in question relates, or the actuary of the scheme, fails to provide HMRC, at prescribed intervals, with such documents as may be prescribed for the purpose of verifying that the conditions of section 5(2B) are satisfied.
+
+.
+
+(3) In subsection (3) (continued contracting-out of scheme dependent on conditions for contracting-out remaining satisfied)—
+
+(a) for paragraphs (a) and (b) substitute “ by or by virtue of any provision of this Part the contracting-out of a scheme in relation to an employment depends on the satisfaction of a particular condition, ”;
+
+(b) omit “or, as the case may be, the scheme's continuing to be an appropriate scheme”;
+
+(c) omit “or appropriate scheme”.
+
+(4) Omit subsection (5) (circumstances in which HMRC can withhold etc. appropriate scheme certificate).
+
+(5) In subsection (8) (cancellation etc. of certificates not to have effect from a time earlier than when cancellation etc. made) omit “or appropriate scheme certificate”.
+
+(6) After subsection (8) add—
+
+> (9) A reference in this section to a contracting-out certificate does not include a reference to a contracting-out certificate issued in respect of a money purchase contracted-out scheme.
+
+.
+
+**[^F27]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17** In section 38A (reduced rates of Class 1 contributions, and rebates) at the end add—
+
+> (9) For the purposes of this section “the appropriate age-related percentage” and “the appropriate flat-rate percentage”, in relation to a tax year beginning before the abolition date, are the percentages specified as such for that tax year in an order made under section 38B (as it had effect prior to that date).
+
+.
+
+**18** Omit section 38B (determination and alteration of rates of contributions, and rebates, applicable under section 38A).
+
+**19** In section 39 (payment of minimum contributions to personal pension schemes) at the end add—
+
+> (8) In this section “the earner's chosen scheme” means the scheme which was immediately before the abolition date the earner's chosen scheme in accordance with section 40 (as it had effect prior to that date).
+
+.
+
+**20** Omit section 40 (earner's chosen scheme).
+
+**21** In section 41 (amount of minimum contributions) at the end add—
+
+> (5) For the purposes of this section “the appropriate age-related percentage”, in relation to a tax year beginning before the abolition date, is the percentage (or percentages) specified as such for that tax year in an order made under section 41A (as it had effect prior to that date).
+
+.
+
+**22** Omit section 41A (alteration of rates of minimum contributions under section 41).
+
+**23** (1) Section 44A (additional pension and other benefits) is amended as follows.
+
+(2) In subsection (1) (effect of reductions and payments for contracted-out schemes on earnings factors) in paragraph (a) for “or 38A” substitute “ or, in the case of a week falling before the abolition date, under section 38A (as it then had effect) ”.
+
+(3) In paragraph (b) of that subsection for “an amount is paid under section 41(1)” substitute “ in the case of a week falling before the abolition date, an amount is paid under section 41(1) (as it then had effect) ”.
+
+**[^F28]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F29]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26** In section 51 (payment of state scheme premiums on termination of certified status) in subsection (2) (prescribed person to pay contributions equivalent premium) in paragraph (a) omit “(other than a money purchase contracted-out scheme)”.
+
+**27** [^F30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** In section 83 (general protection principle) in subsection (1) (when subsection applies) in paragraph (a)(i), for “which is not a money purchase contracted-out scheme” substitute “ that satisfies the requirements of section 5(2) ”.
+
+**29** In section 92 (further provisions concerning exercise of option to take cash equivalent under section 91) in subsection (2) (circumstances in which option must be exercised in relation to balance of cash equivalent after deducting amount sufficient to meet certain liabilities of trustees etc.) in paragraph (a)(ii) omit “which is not an appropriate scheme”.
+
+**[^F31]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** In section 159 (exemption of certain schemes from rule against perpetuities) in subsection (2) (schemes to which the exemption applies) omit paragraph (c) (appropriate schemes).
+
+**[^F32]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F33]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34** (1) Section 176 (general interpretation) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in the appropriate places insert—
+
+> “abolition date” means the day appointed for the commencement of section 13(1) of the Pensions Act (Northern Ireland) 2008;
+
+;
+
+> “HMRC” means the Commissioners for Her Majesty's Revenue and Customs;
+
+;
+
+(b) for the definition of “appropriate scheme certificate” and references to an appropriate scheme substitute—
+
+> “appropriate scheme” and “appropriate scheme certificate” are to be construed in accordance with section 176A;
+
+;
+
+(c) in the definition of “contracting-out certificate” and references to a contracted-out scheme and to contracting-out at the end add “ and section 176A ”;
+
+(d) for the definition of “money purchase contracted-out scheme” substitute—
+
+> “money purchase contracted-out scheme” is to be construed in accordance with section 176A;
+
+.
+
+(3) In subsection (4) (regulations may prescribe the persons who are to be regarded as members or prospective members of an occupational scheme etc.) omit “, 40”.
+
+**35** After section 176 insert—
+
+> **Interpretation of references to money purchase contracted-out schemes or appropriate schemes after abolition date**
+>
+> **176A** (1) This section applies for the interpretation of this Act on and after the abolition date.
+>
+> (2) An occupational pension scheme was a money purchase contracted-out scheme at a time before the abolition date if, at that time, the scheme was contracted-out by virtue of satisfying section 5(3) (as it then had effect).
+>
+> (3) A money purchase contracted-out scheme was, at a time before the abolition date, a contracted-out scheme in relation to an earner's employment if it was, at that time, specified in a contracting-out certificate in relation to that employment; and references to the contracting-out of a scheme are, in relation to a money purchase contracted-out scheme, references to its inclusion in such a certificate.
+>
+> (4) Any reference to a contracting-out certificate is, in relation to a money purchase contracted-out scheme, a reference to a certificate issued by virtue of section 3, as it had effect before the abolition date, in relation to the employment of an earner in employed earner's employment which was contracted-out by reference to that scheme.
+>
+> (5) Any certificate so issued that was, at a time before the abolition date, in force in respect of an employed earner's employment is to be taken as conclusive that the employment was, at that time, contracted-out employment.
+>
+> (6) A personal pension scheme was an appropriate scheme at a time before the abolition date if, at that time, there was in force a certificate issued under section 3(1)(b) (as it then had effect) stating that the scheme was an appropriate scheme; and “appropriate scheme certificate” means such a certificate.
+>
+> (7) Any appropriate scheme certificate in force in relation to a scheme at any time before the abolition date is to be taken as conclusive that the scheme was, at that time, an appropriate scheme.
+
+.
+
+#### The Pensions (Northern Ireland) Order 1995 (NI 22)
+
+**[^F34]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11)
+
+**37** In Article 3 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (meaning of “stakeholder pension scheme”)—
+
+(a) in paragraph (1) in sub-paragraph (a) for “to (10)” substitute “ to (9) ”;
+
+(b) omit paragraph (10) (stakeholder pension scheme must be contracted-out).
+
+**38** In Article 4 of that Order (registration of stakeholder pension schemes) in paragraph (2) (when Authority to register schemes) in sub-paragraph (b)(i), for “to (10)” substitute “ to (9) ”.
+
+**39** [^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Pensions (Northern Ireland) Order 2005 (NI 1)
+
+**40** In Article 234 of the Pensions (Northern Ireland) Order 2005 (conditions for pension protection on transfer of employment) omit paragraph (7) (minimum payments made under contracted-out money purchase scheme to be disregarded).
+
+### PART 2 — FURTHER AMENDMENTS
+
+#### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**41** (1) Section 4C of the Contributions and Benefits Act (power to make provision in consequence of provision made by or by virtue of section 4B(2) etc.) is amended as follows.
+
+(2) In subsection (2) (purposes for which regulations may be made) omit paragraph (d) (purposes relating to minimum payments).
+
+(3) In subsection (5) (matters in respect of which regulations may have retrospective effect)—
+
+(a) in paragraph (b) (amount of rebate under section 37(1D) or 38A(2C) of the Pension Schemes Act) omit “or 38A(2C)”;
+
+(b) omit paragraphs (g) and (h) (liability to make, and amount of, minimum payments);
+
+(c) omit paragraphs (i) and (j) (liability to make, and amount of, payments under section 38A(3) of that Act or minimum contributions).
+
+**42** In section 8 of the Contributions and Benefits Act (calculation of primary Class 1 contributions) in subsection (3) (provisions to which calculation is subject) in paragraph (c) for “sections 37 and 38A” substitute “ section 37 ”.
+
+**43** In section 9 of the Contributions and Benefits Act (calculation of secondary Class 1 contributions) in subsection (3) (provisions to which calculation is subject) in paragraph (c) for “sections 37 and 38A” substitute “ section 37 ”.
+
+**44** (1) In Schedule 1 to the Contributions and Benefits Act (supplementary provisions relating to contributions of Classes 1, 1A, 1B, 2 and 3) paragraph 1 (Class 1 contributions where earner is in more than one employment) is amended as follows.
+
+(2) In sub-paragraph (3) (determination of amount of primary Class 1 contributions where aggregate earnings include earnings from contracted-out employment)—
+
+(a) omit paragraphs (a) and (b);
+
+(b) in paragraph (c) for sub-paragraphs (i) and (ii) substitute “ to such part of the aggregated earnings attributable to COSRS service as exceeds the current primary threshold and does not exceed the current upper earnings limit ”;
+
+(c) in paragraph (d) for “part or parts attributable to COMPS or COSRS service” substitute “ part attributable to COSRS service ”.
+
+(3) In sub-paragraph (6) (determination of amount of secondary Class 1 contributions where aggregate earnings include earnings from contracted-out employment) omit paragraphs (a) and (b).
+
+(4) In sub-paragraph (9) (interpretation) omit the definition of “COMPS service”.
+
+#### The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**45** The Pension Schemes Act has effect subject to the following amendments.
+
+**46** In section 4 (meaning of, among other things, “minimum payment”) omit subsection (3) (regulations may make provision about manner in which minimum payments to be made etc.).
+
+**47** In section 16 (transfer of accrued rights) in subsection (3) (regulations may provide for certain provisions to have effect subject to modifications) omit “and 39 to 41,”.
+
+**48** Omit section 27 (investment and resources of schemes).
+
+**49** In section 36 (scope of Chapter 2 of Part 3) omit paragraph (b) (which relates to contributions to be paid by HMRC in respect of members of money purchase contracted-out schemes or of appropriate personal pension schemes).
+
+**50** Omit section 38A (reduced rates of contributions, and rebates, for members of money purchase contracted-out schemes etc.).
+
+**51** Omit section 39 (payment of minimum contributions to personal pension schemes).
+
+**52** Omit section 41 (amount of minimum contributions).
+
+**53** Omit section 41B (money purchase and personal pension schemes: verification of ages).
+
+**[^F36]54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**55** In section 160 (Crown employment) in subsection (2) (employees of Crown to be treated as employed earners for certain purposes) [[^F37]omit paragraph (b).]
+
+**56** (1) Section 172 (general financial arrangements) is amended as follows.
+
+(2) In subsection (1) (amounts to be paid out of the National Insurance Fund)—
+
+(a) in paragraph (za) (payments by HMRC under various provisions) omit “or section 38A(2C) or (3)”;
+
+(b) omit paragraph (a) (minimum contributions paid by HMRC under section 39).
+
+(3) In subsection (7) (amounts to be paid into National Insurance Fund) in paragraph (a) omit “, 38A(2D) or (5) or 39(5) or (6)”.
+
+**57** (1) Section 176 (interpretation) is amended as follows.
+
+(2) In subsection (1) omit the definition of “minimum contributions”.
+
+(3) In subsection (4) (regulations may prescribe the persons who are to be regarded as members or prospective members of an occupational scheme etc.) omit “, 39”.
+
+**58** (1) Schedule 1 (certification regulations) is amended as follows.
+
+(2) In Part 1 (occupational pension schemes) in paragraph 4 (regulations may modify certain provisions of Part 3 in cases where person employed in two or more employments) in sub-paragraph (1) for “and 64” substitute “ , 63 and 64 ”.
+
+(3) In paragraph 5 (state scheme premiums) in sub-paragraph (1) (regulations may require provision of information to HMRC for purpose of certain provisions) for the words from “sections 33” to the end substitute “ sections 33, [^F38]... 46 to 59 and 155(1) to (3) and (6) [^F39].... ”.
+
+(4) In paragraph 6 (schemes covering different employers) in sub-paragraph (1) (regulations may modify certain provisions in cases where earner under different employers qualifies for benefits of same occupational pension scheme) for “, and 64” substitute “ , 63 and 64 ”.
+
+**59** (1) Paragraph 2 of Schedule 3 (priority in bankruptcy, etc.: employer's contributions to occupational pension scheme) is amended as follows.
+
+(2) Omit sub-paragraphs (2) and (3) (sums owed on account of employer's minimum payments to a money purchase contracted-out scheme).
+
+(3) In sub-paragraph (3A) (definition of “the appropriate amount”)—
+
+(a) in the opening words omit “or (3)”;
+
+(b) in paragraph (a) omit “or (2) (as the case may be)”.
+
+(4) In sub-paragraph (5) (interpretation)—
+
+(a) omit the definition of “appropriate flat-rate percentage”;
+
+[[^F40](b) in the definition of “the percentage for contributing earners”—
+
+(i) omit the words “(a) in relation to a salary related contracted-out scheme,”;
+
+(ii) omit paragraph (b) and the preceding “and”;]
+
+[[^F40](c) in the definition of “the percentage for non-contributing earners”—
+
+(i) omit the words “(a) in relation to a salary related contracted-out scheme,”;
+
+(ii) omit paragraph (b) and the preceding “and”.]
+
+### PART 3 — SAVINGS
+
+#### Issue and cancellation etc. of certificates for periods before the abolition date
+
+**60** Nothing in the relevant amendments and repeals affects the continued operation of any regulations in force under section 3(1) and (7) of the Pension Schemes Act (issue of certificates) immediately before [[^F41]6 April 2012] in relation to the issue of a certificate having effect for a period before [[^F41]6 April 2012] .
+
+**61** (1) Nothing in the relevant amendments and repeals affects the continued operation of section 30 of the Pension Schemes Act (cancellation, variation, surrender and refusal of certificates), or any regulations in force under it immediately before [[^F42]6 April 2012] , for the purposes of a retrospective act.
+
+(2) In sub-paragraph (1) “a retrospective act” means the cancellation, variation, surrender or refusal of a certificate, or the issue of an amended certificate, where—
+
+(a) the certificate was in force for a period beginning before [[^F43]6 April 2012] (or, in the case of a refusal of a certificate, would have related to such a period if it had been issued), and
+
+(b) the cancellation, variation, surrender, refusal or issue—
+
+(i) is made after [[^F44]6 April 2012] , but
+
+(ii) has effect from a date before that date.
+
+(3) An amended certificate issued by virtue of this paragraph must provide for it to cease to have effect as from [[^F45]6 April 2012] .
+
+(4) In this paragraph and paragraph 60 “a certificate” means an appropriate scheme certificate or a contracting-out certificate in respect of a money purchase contracted-out scheme, and each of those terms has the meaning given by section 176(1) of the Pension Schemes Act.
+
+**62** Nothing in the relevant amendments and repeals affects the continued operation of section 160(2) of the Pension Schemes Act (persons employed by or under the Crown to be treated as employed earners for the purposes of certain provisions) in relation to the provisions of that Act saved by paragraphs 60 and 61.
+
+**63** Nothing in the relevant amendments and repeals affects the continued operation of section 172(2)(b)(ii) of the Pension Schemes Act (administrative expenses of the Department, other than those arising out of certain provisions, to be paid out of the National Insurance Fund into the Consolidated Fund) in relation to the estimated administrative expenses of the Department in carrying into effect the provisions of that Act saved by paragraphs 60 and 61.
+
+#### Determination of question whether scheme was appropriate scheme
+
+**64** Nothing in the relevant amendments and repeals affects the continued operation of any regulations in force under section 3(6) of the Pension Schemes Act (issue of certificates) immediately before [[^F46]6 April 2012] .
+
+#### Preservation of earner's chosen scheme
+
+**65** (1) Nothing in the relevant amendments and repeals—
+
+(a) prevents the giving of a preceding tax year notice, or
+
+(b) otherwise affects the operation of section 40 of the Pension Schemes Act in relation to such a notice.
+
+(2) In sub-paragraph (1) a “preceding tax year notice” means a notice within section 40(1) of the Pension Schemes Act which is given on or after [[^F47]6 April 2012] but in which the date specified in accordance with that provision falls before [[^F47]6 April 2012] .
+
+#### Interpretation etc.
+
+**66** In this Part—
+
+- [^F48]...
+
+- “the relevant amendments and repeals” means—
+
+  - (a) the amendments and repeals made by Part 1 of this Schedule, and
+  - (b) the consequential repeals and revocations in Part 6 of Schedule 6.
+
+## SCHEDULE 5 — REMOVAL OF DEPARTMENT'S ROLE IN APPROVING ACTUARIAL GUIDANCE
+
+*Section 15.*
+
+### The Insolvency (Northern Ireland) Order 1989 (NI 19)
+
+**1** In Article 315C of the Insolvency (Northern Ireland) Order 1989 (recovery of excessive pension contributions: supplementary) in paragraph (5) (under which calculation and verification of certain values and amounts may be required to be in accordance with guidance approved by Department) for sub-paragraph (b) substitute—
+
+> (b) in accordance with guidance from time to time prepared by a prescribed person.
+
+.
+
+**2** In Article 315F of that Order (orders in relation to transactions at an undervalue and preferences: supplementary) in paragraph (7) (under which calculation and verification of certain values and amounts may be required to be in accordance with guidance approved by Department) for sub-paragraph (b) substitute—
+
+> (b) in accordance with guidance from time to time prepared by a prescribed person.
+
+.
+
+### The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**3** In section 8A of the Pension Schemes Act (statutory standard for certification of occupational pension schemes) in subsection (5) (regulations may provide for determination to be made in accordance with guidance approved by Department) omit “and approved by the Department”.
+
+**4** In section 109 of that Act (disclosure of information about schemes to members, etc.) in subsection (3A) (regulations may provide for information that must be given to be determined by reference to guidance approved by Department) for paragraphs (a) and (b) substitute “ is prepared and from time to time revised by a prescribed body. ”.
+
+### The Pensions (Northern Ireland) Order 1995 (NI 22)
+
+**5** In Article 67D of the Pensions Order (actuarial equivalence requirements: further provisions) in paragraph (5) (requirements prescribed for calculation of actuarial values may include that the calculation is to be made in accordance with guidance approved by Department) for sub-paragraphs (a) and (b) substitute “ is prepared and from time to time revised by a prescribed body. ”.
+
+**6** In Article 116 of that Order (regulations may provide for values to be calculated in accordance with guidance approved by the Department) for paragraphs (a) and (b) substitute “ prepared and from time to time revised by a prescribed body. ”.
+
+### The Pensions (Northern Ireland) Order 2005 (NI 1)
+
+**7** In Article 209 of the Pensions (Northern Ireland) Order 2005 (matters on which advice of actuary must be obtained) in paragraph (3) (regulations may require actuary to have regard to guidance) in the definition of “Prescribed guidance” omit “and, if the regulations so provide, is approved by the Department”.
+
+## SCHEDULE 6 — REPEALS AND REVOCATIONS
+
+*Section 19.*
+
+### PART 1 — CATEGORY B RETIREMENT PENSION: REMOVAL OF RESTRICTION ON ENTITLEMENT
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal or revocation |
+| The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) | In section 48A—<br>- (a) in each of subsections (2)(a) and (2B)(a), the words “and become entitled to a Category A retirement pension”;<br>- (b) subsection (5). Section 54(3). In Schedule 5, paragraph 8(3). |
+| The Pensions (Northern Ireland) Order 1995 (NI 22) | In Part 3 of Schedule 2, paragraph 18(8) and (18). |
+| The Civil Partnership Act 2004 (c. 33) | In Part 5 of Schedule 24, paragraph 79(5). |
+| The Pensions (Northern Ireland) Order 2005 (NI 1) | In Part 1 of Schedule 9, paragraph 13(a). |
+| The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/434) | In Part 1 of the Schedule, paragraphs 3, 4(b) and 6(1)(ii) (together with the “and” preceding it). |
+
+### PART 2 — CATEGORY A AND C RETIREMENT PENSIONS: ABOLITION OF ADULT DEPENDENCY INCREASES
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) | Section 30B(3)(b) (together with the “and” following it). Section 78(4)(d) (together with the “and” preceding it). Sections 83, 84 and 85. In section 114(4), “to 84”. In section 145(3)(b), the words “section 83(2) or (3) above or”. |
+| The Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (NI 12) | In Schedule 1, paragraphs 20 and 22. |
+| The Jobseekers (Northern Ireland) Order 1995 (NI 15) | In Schedule 2, paragraph 8. |
+| The Pensions (Northern Ireland) Order 1995 (NI 22) | In Part 2 of Schedule 2, paragraph 2. In Part 3 of Schedule 2, paragraphs 14 to 17 and 18(10). |
+| The Civil Partnership Act 2004 (c. 33) | In Part 5 of Schedule 24, paragraphs 90 and 91. |
+| The Child Benefit Act 2005 (c. 6) | In Part 2 of Schedule 1, paragraph 32. |
+
+### PART 3 — UP-RATING
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) | In Schedule 5, in each of paragraphs 5A(3)(a), 6(4)(b) and 6A(2)(b), the words “after it has been reduced by the amount of any increases under section 105 of the Pensions Act”. |
+
+### PART 4 — ADDITIONAL PENSION: SIMPLIFIED ACCRUAL RATES
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) | In section 39—<br>- (a) the words “and Schedule 4A to this Act” wherever occurring;<br>- (b) subsection (3). In Schedule 4A, in paragraph 1(2), “39(1),”. |
+| The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4) | Sections 31(2) and 33(3). |
+
+### PART 5 — INCREASE IN PENSIONABLE AGE (prospective)
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Pensions (Northern Ireland) Order 1995 (NI 22) | In Schedule 2, paragraph 8. |
+
+### PART 6 — ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES: REPEALS AND REVOCATIONS HAVING EFFECT ON ABOLITION DATE
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal or revocation |
+| The Pension Schemes (Northern Ireland) Act 1993 (c. 49) | In section 3—<br>- (a) subsections (4) to (6);<br>- (b) in subsection (7), the words “or appropriate scheme certificate”;<br>- (c) in the sidenote, the words “and appropriate scheme”. In section 5—<br>- (a) in subsection (1), “or (3)”;<br>- (b) subsections (3) and (5);<br>- (c) in subsection (6)(a), the words “or, as the case may be, appropriate”;<br>- (d) in subsection (6)(b), the words “or, as the case may be, of being an appropriate scheme,”. Section 8. Sections 24 to 25. In section 30—<br>- (a) in subsection (3), the words “or, as the case may be, the scheme's continuing to be an appropriate scheme” and “or appropriate scheme”;<br>- (b) subsection (5);<br>- (c) in subsection (8), the words “or appropriate scheme certificate”. Section 38B. Section 40. Section 41A. In section 51(2)(a), the words “(other than a money purchase contracted-out scheme)”. In section 92(2)(a)(ii), the words “which is not an appropriate scheme”. Section 159(2)(c). In section 176(4), “, 40”. |
+| The Pensions (Northern Ireland) Order 1995 (NI 22) | Article 133(2) and (4). Article 135(5). Articles 139 to 143. Article 160. In Schedule 3, paragraphs 17, 27, 28 and 30(a). |
+| The Social Security (Northern Ireland) Order 1998 (NI 10) | In Schedule 6, paragraph 94. |
+| The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ( S.I. 1999/671) | In Schedule 1, paragraphs 36, 38(3), 44, 53, 55 and 57. |
+| The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11) | Article 3(10). In Schedule 2, paragraph 4 (together with the cross-heading immediately preceding it). In Schedule 5, in paragraph 7(6), in the definition of “contracted-out rights”—<br>- (a) in paragraph (a), “or (3)”;<br>- (b) the “or” following paragraph (a). |
+| The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4) | In Schedule 5, paragraphs 2(2) and 3. |
+| The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649) | Articles 130 and 131. |
+| The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 (S.I. 2002/1555) | Article 19. |
+| The Pensions (Northern Ireland) Order 2005 (NI 1) | Article 234(7). Article 261(3) to (7). Article 262(2), (4) and (5). |
+| The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order (Northern Ireland) 2005 (S.R. 2005/433) | In Schedule 1, paragraphs 10 to 12. |
+| The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745 | Article 8(3) and (4). |
+
+### PART 7 — ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES: FURTHER REPEALS
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) | In section 4C—<br>- (a) subsection (2)(d);<br>- (b) in subsection (5)(b), “or 38A(2C)”;<br>- (c) subsection (5)(g) to (j). In paragraph 1 of Schedule 1—<br>- (a) sub-paragraph (3)(a) and (b);<br>- (b) sub-paragraph (6)(a) and (b);<br>- (c) in sub-paragraph (9), the definition of “COMPS service”. |
+| The Pension Schemes (Northern Ireland) Act 1993 (c. 49) | Section 4(3). In section 16(3), “and 39 to 41,”. Section 27. Section 36(b). Section 38A. Section 39. Section 41. Section 41B. In section 160(2)(b), “, 39 and 41”. In section 172—<br>- (a) in subsection (1)(za), the words “or section 38A(2C) or (3)”;<br>- (b) subsection (1)(a);<br>- (c) in subsection (7)(a), “, 38A(2D) or (5) or 39(5) or (6)”. In section 176—<br>- (a) in subsection (1), the definition of “minimum contributions”;<br>- (b) in subsection (4), “, 39”. In paragraph 2 of Schedule 3—<br>- (a) sub-paragraphs (2) and (3);<br>- (b) in the opening words of sub-paragraph (3A), “or (3)”;<br>- (c) in sub-paragraph (3A)(a), the words “or (2) (as the case may be)”;<br>- (d) in sub-paragraph (5), the definition of “appropriate flat-rate percentage” |
+| The Pensions (Northern Ireland) Order 1995 (NI 22) | Article 134(1), (4), (5) and (6). Article 135. Article 136. In Schedule 3, paragraphs 29, 34 and 35. |
+| The Social Security (Northern Ireland) Order 1998 (NI 10) | In Schedule 6, paragraphs 58(4)(a) and 96. |
+| The Welfare Reform and Pensions Act 1999 (c. 30) | In Part 2 of Schedule 10, paragraph 7. |
+| The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671) | In Schedule 1, paragraphs 37(b), 46, 49, 52, 54, 56, 58 and 74(2)(a). |
+| The National Insurance Contributions Act 2002 (c. 19) | In Schedule 1, paragraphs 42 and 43. |
+
+### PART 8 — REMOVAL OF DEPARTMENT'S ROLE IN APPROVING ACTUARIAL GUIDANCE
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Pension Schemes (Northern Ireland) Act 1993 (c. 49) | In section 8A(5), the words “and approved by the Department”. |
+| The Pensions (Northern Ireland) Order 2005 (NI 1) | In Article 209(3), in the definition of “Prescribed guidance”, the words “and, if the regulations so provide, is approved by the Department”. |
+
+---
+
+[^F1]: S. 8(2)(c) repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(2)(c), Sch. 10 Pt. 6
+[^F2]: S. 8(5) repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(2)(c), Sch. 10 Pt. 6
+[^F3]: S. 10(3) repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(2)(c), Sch. 10 Pt. 6
+[^F4]: Words in s. 11(1) omitted (2.6.2012) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(2), Sch. 1 para. 5(a)
+[^F5]: Words in s. 11(3) substituted (2.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(2), Sch. 1 para. 5(b)
+[^F6]: Words in s. 12(8)(c) inserted (28.4.2022 for specified purposes) by Pension Schemes (Conversion of Guaranteed Minimum Pensions) Act 2022 (c. 33), ss. 2(10)(a), 3(4)(b)
+[^F7]: Words in s. 12(8)(d) inserted (28.4.2022 for specified purposes) by Pension Schemes (Conversion of Guaranteed Minimum Pensions) Act 2022 (c. 33), ss. 2(10)(b), 3(4)(b)
+[^F8]: Words in s. 12(10) inserted (28.4.2022 for specified purposes) by Pension Schemes (Conversion of Guaranteed Minimum Pensions) Act 2022 (c. 33), ss. 2(10)(c), 3(4)(b)
+[^F9]: Words in s. 12(11) omitted (28.4.2022 for specified purposes) by virtue of Pension Schemes (Conversion of Guaranteed Minimum Pensions) Act 2022 (c. 33), ss. 2(10)(d), 3(4)(b)
+[^F10]: Words in s. 13(1) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 76(2)
+[^F11]: Words in s. 13(2) omitted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 76(3)
+[^F12]: Words in s. 13(4) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 76(4)
+[^F13]: S. 16 repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 65(1), 116, 118(1)(2)(a)(g), Sch. 10 Pt. 1 (with s. 73)
+[^F14]: S. 17 repealed (5.7.2010) by Personal Accounts Delivery Authority Winding Up (Consequential Provisions) Order (Northern Ireland) 2010 (S.R. 2010/212), art. 2(a)
+[^F15]: Words in s. 19(5) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 77
+[^F16]: Sch. 1 para. 20 repealed (7.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 2 para. 4(d) (with s. 3(8)); S.R. 2012/233, art. 2(2)(j)(iv)
+[^F17]: Sch. 1 para. 32(a) repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(2)(c), Sch. 10 Pt. 6
+[^F18]: Sch. 1 para. 34 repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(2)(c), Sch. 10 Pt. 6 (with Sch. 10 Pt. 6 note 1(c))
+[^F19]: Sch. 1 para. 36 repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(2)(c), Sch. 10 Pt. 6 (with Sch. 10 Pt. 6 note 2(b))
+[^F20]: Sch. 1 para. 41 omitted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 75
+[^F21]: Sch. 2 para. 4(2) repealed (15.12.2008) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(2)(c), Sch. 10 Pt. 6
+[^F22]: Sch. 3 para. 4(4) omitted (2.6.2012) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(2), Sch. 1 para. 6
+[^F23]: Sch. 4 para. 5 repealed (6.4.2012) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), s. 118(1), Sch. 10 Pt. 3; S.R. 2012/119, art. 2(c)
+[^F24]: Sch. 4 para. 7 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F25]: Sch. 4 paras. 8-10 repealed (6.4.2012) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), s. 118(1), Sch. 10 Pt. 3; S.R. 2012/119, art. 2(c)
+[^F26]: Sch. 4 paras. 12-14 repealed (6.4.2012) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), s. 118(1), Sch. 10 Pt. 3; S.R. 2012/119, art. 2(c)
+[^F27]: Sch. 4 para. 16 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F28]: Sch. 4 para. 24 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F29]: Sch. 4 para. 25 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F30]: Sch. 4 para. 27 repealed (6.4.2009) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(1), Sch. 10 Pt. 2; S.R. 2009/22, art. 2(2)(d)
+[^F31]: Sch. 4 para. 30 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F32]: Sch. 4 para. 32 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F33]: Sch. 4 para. 33 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F34]: Sch. 4 para. 36 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(2)
+[^F35]: Sch. 4 para. 39 repealed (6.4.2009) by Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13), ss. 116, 118(1), Sch. 10 Pt. 2; S.R. 2009/22, art. 2(2)(d)
+[^F36]: Sch. 4 para. 54 omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(3)(a) (This paragraph never comes into operation)
+[^F37]: Words in Sch. 4 para. 55 substituted (6.4.2012 coming into operation in accordance with art. 1(a)) by The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(3)(b) (This amendment cannot take effect until Sch.4 para. 55 comes into operation)
+[^F38]: Words in Sch. 4 para. 58(3) omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(3)(c)(i) (This amendment cannot take effect until Sch. 4 para. 58(3) comes into operation)
+[^F39]: Words in Sch. 4 para. 58(3) omitted (6.4.2012 coming into operation in accordance with art. 1(a)) by virtue of The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124), arts. 1(b), 7(3)(c)(ii) (This amendment cannot take effect until Sch. 4 para. 58(3) comes into operation)
+[^F40]: Sch. 4 para. 59(4)(b) (c) substituted (2.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 25, 34(2)
+[^F41]: Words in Sch. 4 para. 60 substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(2)
+[^F42]: Words in Sch. 4 para. 61(1) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(2)
+[^F43]: Words in Sch. 4 para. 61(2)(a) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(2)
+[^F44]: Words in Sch. 4 para. 61(2)(b)(i) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(2)
+[^F45]: Words in Sch. 4 para. 61(3) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(2)
+[^F46]: Words in Sch. 4 para. 64 substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(2)
+[^F47]: Words in Sch. 4 para. 65(2) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(2)
+[^F48]: Words in Sch. 4 para. 66 omitted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 78(3)

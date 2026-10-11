@@ -1140,7 +1140,7 @@ WRA may make an assessment of the amount that ought in its opinion to be paid to
 
 In this Act, “WRA assessment” means an assessment under section 54 [[^F81], 55 or 55A].
 
-#### MakingWRAassessments
+#### Making WRA assessments
 
 ##### 57 References to the “taxpayer”
 

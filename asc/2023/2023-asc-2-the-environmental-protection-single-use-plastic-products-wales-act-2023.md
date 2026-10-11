@@ -481,7 +481,7 @@ The short title of this Act is the Environmental Protection (Single-use Plastic 
 
 - “cup” *(“cwpan”)* means a cup designed to be used to hold liquid food or drink for consumption;
 
-- “cutlery” *(“cytleri”)*means a fork, knife, spoon, chopstick or other utensil designed to be used for consuming or serving food;
+- “cutlery” *(“cytleri”)* means a fork, knife, spoon, chopstick or other utensil designed to be used for consuming or serving food;
 
 - “drink-stirrer” *(“tröydd diod”)* means a stick designed to be used for stirring drink and liquid food;
 

@@ -1,0 +1,642 @@
+---
+title: "Libraries Act (Northern Ireland) 2008"
+identifier: "nia/2008/8"
+citation: "2008 CHAPTER 8"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2008-06-17
+last_amended: 2016-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2008/8"
+source_modified: 2017-08-03
+retrieved: 2026-10-11
+---
+
+# Libraries Act (Northern Ireland) 2008
+
+**2008 CHAPTER 8**
+
+An Act to provide for the establishment and functions of the Northern Ireland Library Authority; to enable the Department of Culture, Arts and Leisure to make grants in connection with the provision of library services; and for connected purposes.
+
+[17th June 2008]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## The Northern Ireland Library Authority
+
+### 1 The Northern Ireland Library Authority
+
+(1) There shall be a body corporate to be known as the Northern Ireland Library Authority.
+
+(2) Schedule 1 applies in relation to the Authority.
+
+(3) The Authority shall be the library authority for Northern Ireland.
+
+(4) Accordingly, an Education and Library Board established by the Education and Libraries (Northern Ireland) Order 1986 (NI 3) shall cease to be the library authority for its area.
+
+(5) The Department may make one or more schemes for the transfer of designated property, rights and liabilities of education and library boards to the Authority.
+
+(6) On the transfer date, the designated property, rights and liabilities are transferred to and vest in the Authority in accordance with the scheme.
+
+(7) Schedule 2 contains further provisions relating to a scheme.
+
+(8) In this section and that Schedule—
+
+- “designated”, in relation to a scheme, means specified in or determined in accordance with the scheme;
+- “scheme” means a scheme under this section;
+- “the transfer date”, in relation to a scheme, means the date specified by the scheme as the date on which it is to have effect.
+
+### 2 Duty of Authority to provide library service
+
+(1) It shall be the duty of the Authority to provide a comprehensive and efficient public library service for persons living, working or studying in Northern Ireland.
+
+(2) In carrying out its duty under subsection (1), the Authority shall—
+
+(a) secure that facilities are available for the borrowing of, or reference to, library materials sufficient in number, range and quality to meet the general requirements of adults and children (whether by keeping adequate stocks, by arrangements with other bodies concerned with library services or by any other appropriate means);
+
+(b) have regard to the desirability of—
+
+(i) encouraging both adults and children to make full use of the library service;
+
+(ii) providing advice as to the use of the library service and making available such bibliographical and other information as may be required by persons using the service;
+
+(iii) promoting literacy and lifelong learning;
+
+(iv) maintaining a collection of library materials relevant to the cultural heritage of Northern Ireland;
+
+(v) making library premises available for cultural and community activities; and
+
+(vi) meeting any special requirements of adults and children by any appropriate means.
+
+(3) The Authority may make such arrangements with other bodies whether inside or outside Northern Ireland which it considers necessary in order to enable it to carry out its duty under subsection (1) more effectively.
+
+(4) The Authority may provide such library services to persons visiting Northern Ireland as it considers appropriate.
+
+### 3 Ancillary powers of Authority
+
+(1) The Authority may do anything that appears to it to be conducive or incidental to the discharge of its functions.
+
+(2) In particular the Authority may—
+
+(a) enter into agreements;
+
+(b) subject to section 5, acquire or dispose of property;
+
+(c) borrow money;
+
+(d) subject to the approval of the Department, form bodies corporate or acquire or dispose of interests in bodies corporate;
+
+(e) accept gifts;
+
+(f) invest money;
+
+(g) carry out, or commission or assist in the carrying out of, research;
+
+(h) co-operate with, or provide advice to, other bodies established by or under a statutory provision.
+
+### 4 Power of Authority to undertake commercial activities
+
+(1) Subject to the following provisions of this section, the Authority shall have power, with the approval of the Department, to undertake commercial activities which, apart from this section, it would not have power to undertake.
+
+(2) An approval granted under this section—
+
+(a) shall specify the particular commercial activities which the Authority has power to undertake under this section in pursuance of the approval;
+
+(b) shall be subject to such conditions as may be specified by the Department in the approval.
+
+(3) Subject to any conditions applying under this section, the Authority shall have power—
+
+(a) to do anything which appears to the Authority to be conducive or incidental to the exercise of any power conferred under this section; and
+
+(b) to make such charge as the Authority considers appropriate for anything that it does in the exercise of any such power and to calculate any such charge on any basis that it considers to be the appropriate commercial basis.
+
+(4) Nothing in this section authorises the Authority—
+
+(a) to undertake any commercial activities which are detrimental to the performance of any duty imposed on it by any other provision of this Act; or
+
+(b) to disregard any statutory provision or rule of law or to override any person's contractual or property rights.
+
+(5) Where it appears to the Department that the Authority—
+
+(a) has failed to comply with any conditions subject to which an approval under this section has been granted; or
+
+(b) has in undertaking any commercial activity in pursuance of such an approval contravened subsection (4),
+
+the Department may, by notice served on the Authority—
+
+(i) revoke the approval; or
+
+(ii) modify the approval, whether by modifying the particular commercial activities or any conditions specified therein.
+
+(6) The revocation or modification of an approval under this section does not affect the power of the Authority to meet any contractual commitments outstanding at the date on which the notice under subsection (5) is served on the Authority.
+
+(7) Any approval or notice under this section shall be in writing.
+
+(8) In this section “commercial activity” includes—
+
+(a) the carrying out of work for any other body or person;
+
+(b) the supplying of goods and services to any other body or person; and
+
+(c) the developing and exploiting of ideas and the exploiting of intellectual property.
+
+### 5 Powers of Authority in relation to land
+
+(1) The Authority may, with the approval of the Department, acquire, hold and dispose of land for the purpose of carrying out its functions.
+
+(2) The power of the Authority to acquire land includes power to acquire it compulsorily in accordance with subsections (3) and (4); and the power of acquiring land compulsorily under this subsection includes power to acquire, by the creation of a new right, an easement or other right over land.
+
+(3) Where the Authority proposes to acquire any land compulsorily, it may apply to the Department for an order (a “vesting order”) vesting that land in the Authority and, subject to subsections (4) and (5), the Department shall have power to make such an order.
+
+(4) Schedule 6 to the Local Government Act (Northern Ireland) 1972 (c. 9) shall apply for the purposes of the acquisition of land by means of a vesting order made under subsection (3) as it applies to the acquisition of land by means of a vesting order made under that Act, subject to the following modifications—
+
+(a) for any reference to the council there shall be substituted a reference to the Authority;
+
+(b) for any reference to the Department concerned there shall be substituted a reference to the Department;
+
+(c) for any reference to that Act there shall be substituted a reference to this Act;
+
+(d) in paragraph 6(2) for the words from “the fund” onwards there shall be substituted “ funds of the Authority (in this Schedule referred to as “the compensation fund”), and shall be discharged by payments made by the Authority ”; and
+
+(e) in paragraph 12(2) for “the clerk of the council” there shall be substituted “ such person as may be designated for the purposes of this Schedule by the Authority ”.
+
+(5) Nothing in this section authorises the acquisition, without the consent of the Department of the Environment, of any land on or in which there is to the knowledge of the Department any historic monument or archaeological object within the meaning of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995 (NI 9).
+
+(6) The powers to make a vesting order under this section may be exercised over land—
+
+(a) which is the property of any body established by or under any statutory provision which has power under any statutory provision to acquire land compulsorily; or
+
+(b) which is declared by or under any statutory provision to be inalienable;
+
+but a vesting order shall not be made in relation to any such land, where representations objecting to the proposal for making the order have been duly made by the owner of the land and have not been withdrawn, unless the proposal has been approved by a resolution of the Assembly.
+
+### 6 Charges for certain library services
+
+(1) The Authority may not make any charges for any library services provided by it unless—
+
+(a) the services in question are specified in a scheme of charges approved by the Department and published by the Authority; and
+
+(b) the charges are made in accordance with that scheme.
+
+(2) The scheme of charges may make different provision for different cases including different provision in relation to different persons, circumstances or localities.
+
+### 7 Byelaws in respect of use of library facilities
+
+(1) The Authority may make byelaws—
+
+(a) regulating the use of library facilities provided or maintained by the Authority and the conduct of persons in library premises; and
+
+(b) for enabling officers of the Authority to exclude or remove from library premises any person who contravenes the byelaws.
+
+(2) Byelaws made under this section may provide for a person contravening a provision of the byelaws to be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale and, in the case of a continuing offence, to a fine not exceeding one-tenth of level 2 on the standard scale for each day on which the offence continues after conviction.
+
+(3) Byelaws made under this section shall not come into operation until they have been confirmed by the Department.
+
+(4) The Authority shall, not less than one month before submitting proposed byelaws for the confirmation of the Department—
+
+(a) deposit a draft of the proposed byelaws at the headquarters of the Authority and at such other place or places as the Department may direct;
+
+(b) permit any person to inspect the deposited copy at all reasonable times without payment; and
+
+(c) provide to any person, on application, a copy of the proposed byelaws, or of any part thereof, on payment of such reasonable sum as the Authority may determine.
+
+(5) The Department before confirming any byelaws must be satisfied that the provisions of subsection (4)(a) have been complied with.
+
+(6) A copy of byelaws made and confirmed under this section—
+
+(a) shall be printed and deposited at the headquarters of the Authority and in such other place or places as the Department may direct;
+
+(b) shall at all reasonable hours be open to public inspection without payment.
+
+(7) The Authority shall, on payment of such reasonable sum as the Authority determines, provide any person with a copy of byelaws made and confirmed under this section.
+
+(8) In any legal proceedings, a copy of any byelaws under this section certified and signed by the chief executive of the Authority to be a true copy and to have been duly confirmed shall, until the contrary is proved, be evidence of the due making, confirmation and existence of such byelaws without further or other proof.
+
+## Functions of the Department
+
+### 8 Grants for or in connection with library services
+
+(1) The Department may make grants to any person (other than the Authority) in respect of expenditure incurred or to be incurred by that person for the purposes of, or in connection with, the provision (or proposed provision) of library services.
+
+(2) Grants under this section—
+
+(a) shall be of such amounts; and
+
+(b) shall be made subject to such terms and conditions (including conditions as to repayment),
+
+as the Department may determine.
+
+(3) The Department may by order subject to negative resolution provide for the functions of the Department under subsections (1) and (2) to be exercisable by the Authority (either instead of, or in addition to, the Department) subject to such conditions as are specified in the order.
+
+(4) An order under subsection (3) may amend subsections (1) and (2).
+
+### 9 Directions
+
+(1) The Department may give the Authority general or specific directions as to the exercise of its functions.
+
+(2) The Department shall publish any directions given under this section.
+
+(3) The Authority shall comply with any directions given under this section.
+
+## Supplementary provisions
+
+### 10 Amendments and repeals
+
+(1) The statutory provisions set out in Schedule 3 shall have effect subject to the amendments specified in that Schedule.
+
+(2) The statutory provisions set out in Schedule 4 are hereby repealed to the extent specified in the second column of that Schedule.
+
+### 11 Interpretation
+
+In this Act—
+
+- “the Authority” means the Northern Ireland Library Authority established by section 1;
+
+- “the Department” means the Department of Culture, Arts and Leisure;
+
+- “library material” includes words, images, sounds, data and information of any kind recorded in or on any medium;
+
+- “library premises” means—
+
+  - (a) any premises occupied by the Authority where library facilities are made available to members of the public;
+  - (b) any vehicle used by the Authority in which library facilities are so made available;
+
+- “statutory provision” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
+
+### 12 Commencement
+
+(1) The following provisions of this Act come into operation one month after the day on which this Act receives Royal Assent—
+
+(a) section 1(5) to (8);
+
+(b) section 11;
+
+(c) this section;
+
+(d) section 13; and
+
+(e) Schedule 2.
+
+(2) The other provisions of this Act come into operation on such day or days as the Department may by order appoint.
+
+(3) An order under subsection (2) may contain such transitional provisions or savings as appear to the Department to be appropriate.
+
+### 13 Short title
+
+This Act may be cited as the Libraries Act (Northern Ireland) 2008.
+
+## SCHEDULE 1 — THE NORTHERN IRELAND LIBRARY AUTHORITY
+
+*Section 1.*
+
+### Status
+
+**1** (1) The Authority shall not be regarded—
+
+(a) as the servant or agent of the Crown; or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(2) The property of the Authority shall not be regarded as property of, or held on behalf of, the Crown.
+
+(3) Subject to the following provisions of this Schedule, section 19 of the Interpretation Act (Northern Ireland) 1954 (c. 33) applies to the Authority.
+
+### Membership
+
+**2** (1) The Authority shall consist of—
+
+(a) a Chair, and
+
+(b) not more than 18 other members,
+
+appointed by the Department.
+
+(2) In making appointments under sub-paragraph (1), the Department shall so far as practicable secure—
+
+(a) that at any time a majority of members are councillors (within the meaning of the Local Government Act (Northern Ireland) 1972 (c. 9)); and
+
+(b) that each member of the Authority has experience in a field of activity relevant to the discharge of the functions of the Authority.
+
+(3) The Department may by order subject to negative resolution amend sub-paragraph (1)(b) by substituting for the number specified there such other number as may be specified in the order.
+
+### Tenure of office
+
+**3** (1) Subject to the provisions of this Schedule, the Chair and other members of the Authority hold and vacate office in accordance with the terms of their respective appointments.
+
+(2) A person holding office as Chair or other member of the Authority may at any time resign that office by notice in writing to the Department.
+
+(3) A person appointed as Chair of the Authority shall cease to hold that office if that person ceases to be a member of the Authority.
+
+(4) The Department may by notice in writing remove a person from office as Chair or other member of the Authority.
+
+(5) A person who ceases (otherwise than by virtue of sub-paragraph (4)) to be the Chair or other member of the Authority shall be eligible for re-appointment
+
+### Remuneration, etc. of members
+
+**4** The Authority shall pay to the Chair and other members of the Authority such remuneration and allowances as the Department may determine.
+
+### Employees
+
+**5** (1) The Authority shall have—
+
+(a) a chief executive, with responsibility to the Authority for the carrying out of its functions and the management of its employees; and
+
+(b) such other employees as the Authority may determine.
+
+(2) The first chief executive of the Authority shall be appointed by the Department.
+
+(3) Every subsequent chief executive shall be appointed by the Authority.
+
+(4) The Authority shall not appoint a person as chief executive unless the Department approves the appointment.
+
+(5) A person shall, so long as that person is, and for 12 months after ceasing to be, a member of the Authority, be disqualified for being an employee of the Authority.
+
+### Remuneration, allowances and pensions of employees
+
+**6** (1) Subject to sub-paragraph (2), the Authority shall pay to its employees such remuneration and allowances as it may determine.
+
+(2) The Department may direct that the remuneration and allowances of employees of such class or description as may be specified in the direction shall not be determined under sub-paragraph (1) without the approval of the Department.
+
+(3) The Authority shall—
+
+(a) pay, or make payments in respect of, such pensions or gratuities to or in respect of its employees or former employees as it may, with the approval of the Department, determine; or
+
+(b) provide and maintain such schemes (whether contributory or not) as it may, with the approval of the Department, determine, for the payment of pensions or gratuities to or in respect of its employees or former employees.
+
+(4) References in this paragraph to pensions and gratuities include references to pensions or gratuities by way of compensation to or in respect of employees who suffer loss of employment or loss or diminution of emoluments.
+
+### Arrangements for assistance
+
+**7** (1) The Authority may make arrangements with such persons (including the Department or any other government department) as it considers appropriate for assistance to be provided to it.
+
+(2) Arrangements under this paragraph with a person other than the Department
+
+(a) require the approval of the Department;
+
+(b) may provide for the payment of fees by the Authority.
+
+### Committees
+
+**8** (1) The Authority may establish committees.
+
+(2) A person who is not a member of the Authority shall not, except with the approval of the Department, be appointed to a committee of the Authority.
+
+(3) The Authority may pay to members of its committees who are neither members nor employees of the Authority such remuneration and allowances as the Authority may, with the approval of the Department, determine.
+
+### Delegation to committees and staff
+
+**9** (1) The Authority may, to such extent as it may determine, delegate any of its functions to—
+
+(a) any committee of the Authority;
+
+(b) any employee of the Authority.
+
+(2) Any committee of the Authority may, to such extent as the committee may determine, delegate any functions of the committee to any employee of the Authority.
+
+### Proceedings
+
+**10** Without prejudice to section 19(1)(a)(v) of the Interpretation Act (Northern Ireland) 1954 (c. 33), the Authority shall make standing orders regulating the procedure of the Authority and its committees, including provision regulating—
+
+(a) the convening of meetings;
+
+(b) the fixing of the quorum;
+
+(c) the conduct of business at meetings;
+
+(d) the disclosure by a member of any pecuniary interest in, or family relationship relevant to, any matter to be discussed at a meeting and the withdrawal by such a member from any discussion on that matter;
+
+(e) the admission or exclusion of the public and press from meetings;
+
+(f) the keeping of minutes and other records;
+
+(g) the custody of documents;
+
+(h) the duties of officers;
+
+(i) such other matters connected with the conduct of its business as the Authority thinks fit.
+
+**11** The validity of any proceedings of the Authority, or of any of its committees, shall not be affected by—
+
+(a) any vacancy among the members of the Authority or of the committee;
+
+(b) any vacancy in the office of Chair of the Authority;
+
+(c) any defect in the appointment of any one or more members of the Authority or in the appointment of the Chair of the Authority; or
+
+(d) any failure to comply with paragraph 10
+
+### Application of seal and documents
+
+**12** The application of the seal of the Authority shall be authenticated by the signature—
+
+(a) of the Chair of the Authority or the chief executive; or
+
+(b) of any other member or employee of the Authority who has been authorised by the Authority (whether generally or specially) for that purpose.
+
+**13** Any document which if executed by an individual would not require to be executed as a deed may be executed on behalf of the Authority by any person generally or specially authorised by the Authority for that purpose.
+
+### Premises
+
+**14** (1) The headquarters of the Authority shall be at such place as the Department may approve.
+
+(2) All library premises shall be open at all reasonable times to inspection by a person authorised by the Department.
+
+### Finance
+
+**15** (1) The Department may make payments to the Authority.
+
+(2) Payments under this paragraph shall be made on such terms and conditions as the Department may determine.
+
+(3) Subject to sub-paragraph (4), the Authority shall pay to the Department all sums received by it in the course of, or in connection with, the carrying out of its functions.
+
+(4) Sub-paragraph (3) shall not apply to such sums, or sums of such description, as the Department may direct.
+
+(5) Any sums received by the Department under sub-paragraph (3) shall be paid into the Consolidated Fund.
+
+### Accounts
+
+**16** (1) The Authority shall—
+
+(a) keep proper accounts and proper records in relation to the accounts; and
+
+(b) prepare a statement of accounts in respect of each financial year.
+
+(2) The statement of accounts shall—
+
+(a) be in such form; and
+
+(b) contain such information,
+
+as the Department may, with the approval of the Department of Finance and Personnel, direct.
+
+(3) The Authority shall, within such period after the end of each financial year as the Department may direct, send copies of the statement of accounts relating to that year to—
+
+(a) the Department; and
+
+(b) the Comptroller and Auditor General
+
+(4) The Comptroller and Auditor General shall—
+
+(a) examine, certify and report on every statement of accounts received under sub-paragraph (3)(b); and
+
+(b) send a copy of that report to the Department.
+
+(5) The Department shall lay a copy of the statement of accounts and of the Comptroller and Auditor General's report before the Assembly.
+
+### Annual report
+
+**17** (1) As soon as practicable after the end of each financial year, the Authority shall send to the Department a report on the carrying out of its functions during that year.
+
+(2) The Department shall lay a copy of the report before the Assembly.
+
+### Interpretation
+
+**18** In this Schedule “financial year” means—
+
+(a) the period beginning with the day on which the Authority is established and ending on the next following 31st March; and
+
+(b) any subsequent period of twelve months ending on 31st March.
+
+## SCHEDULE 2 — TRANSFER SCHEMES
+
+*Section 1.*
+
+### Creation and apportionment of property, rights and liabilities etc.
+
+**1** A scheme may—
+
+(a) create for the transferor interests in or rights over property transferred by virtue of the scheme;
+
+(b) create for the Authority interests in or rights over property retained by the transferor;
+
+(c) create rights or liabilities between the transferor and the Authority.
+
+**2** (1) A scheme may provide for the transfer of property, rights or liabilities that would not otherwise be capable of being transferred or assigned.
+
+(2) In particular, it may provide for the transfer to take effect regardless of a contravention, liability or interference with an interest or right that would otherwise exist by reason of a provision having effect in relation to the terms on which the transferor is entitled to the property or right, or subject to the liability, in question.
+
+(3) It does not matter whether the provision referred to in sub-paragraph (2) has effect under a statutory provision or an agreement or in any other way.
+
+**3** A certificate by the Department that anything specified in the certificate has vested in the Authority by virtue of a scheme is conclusive evidence for all purposes of that fact.
+
+### Employment contract
+
+**4** (1) This paragraph applies if rights and liabilities under a contract of employment are transferred by virtue of a scheme.
+
+(2) The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246) apply to the transfer whether or not the transfer would, apart from this paragraph, be a relevant transfer for the purposes of those regulations.
+
+(3) The scheme shall—
+
+(a) identify the transferring employees (whether by name or otherwise);
+
+(b) include provision securing pension protection for such employees;
+
+(c) include provision for procedures designed to resolve any grievances of such employees arising in relation to matters dealt with by the scheme; and
+
+(d) include provision for the payment of compensation by the Department to any such employee who suffers loss or detriment in consequence of the scheme.
+
+(4) Before making the scheme the Department shall consult—
+
+(a) in the case of a scheme identifying the transferring employees by name, those employees; and
+
+(b) in the case of a scheme identifying the transferring employees in any other way, such persons as appear to the Department to be representative of the transferring employees.
+
+(5) For the purposes of sub-paragraphs (3) and (4)—
+
+(a) “transferring employee” means an employee of an education and library board whose contract of employment becomes, by virtue of sub-paragraph (2), a contract of employment with the Authority;
+
+(b) “pension protection” is secured for a transferring employee (“T”) if after the change in T's employer T has, as an employee of the Authority, rights to acquire pension benefits and those rights are the same as or (taken as a whole) not less favourable than those which T had as an employee of the education and library board.
+
+(6) Procedures under sub-paragraph (3)(c) must involve consideration of grievances by a person other than—
+
+(a) a member, or member of staff, of an education and library board;
+
+(b) a member, or member of staff, of the Authority; or
+
+(c) a member of staff of the Department.
+
+### Continuity
+
+**5** A transfer by virtue of a scheme does not affect the validity of anything done by or in relation to the transferor before the transfer takes effect.
+
+**6** Anything which—
+
+(a) is done by the transferor for the purposes of or otherwise in connection with anything transferred by virtue of a scheme, and
+
+(b) is in effect immediately before the transfer date,
+
+is to be treated as done by the Authority
+
+**7** There may be continued by or in relation to the Authority anything (including legal proceedings)—
+
+(a) which relates to anything transferred by virtue of a scheme, and
+
+(b) which is in the process of being done by or in relation to the transferor immediately before the transfer date.
+
+**8** (1) This paragraph applies to any document—
+
+(a) which relates to anything transferred by virtue of a scheme, and
+
+(b) which is in effect immediately before the transfer date.
+
+(2) Any references in the document to the transferor are to be read as references to the Authority.
+
+### Incidental provision
+
+**9** A scheme may include supplementary, incidental, transitional and consequential provision.
+
+### Interpretation
+
+**10** In this Schedule “transferor”, in relation to anything transferred by virtue of a scheme, means the education and library board from which it is so transferred.
+
+## SCHEDULE 3 — AMENDMENTS
+
+*Section 10.*
+
+### The Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14)
+
+**1** In Article 67 after “Library Boards” insert “ , the Northern Ireland Library Authority ”.
+
+### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**2** In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies whose members are disqualified) there shall be inserted, at the appropriate place— “ The Northern Ireland Library Authority ”.
+
+### The Rates (Northern Ireland) Order 1977 (NI 28)
+
+**3** In Schedule 13 after the entry relating to the Northern Ireland Fire and Rescue Service Board insert— “ The Northern Ireland Library Authority. ”.
+
+### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI. 7)
+
+**[^F1]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Employment Rights (Northern Ireland) Order 1996 (NI 16
+
+**5** In Article 78(2) after sub-paragraph (a) insert—
+
+> (aa) the Northern Ireland Library Authority;
+
+.
+
+### The Freedom of Information Act 2000 (c. 36)
+
+**6** In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (bodies, etc. which are public authorities for the purposes of the Act) there shall be inserted, at the appropriate place— “ The Northern Ireland Library Authority ”.
+
+## SCHEDULE 4 — REPEALS
+
+*Section 10.*
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Education and Libraries (Northern Ireland) Order 1986 (NI 3) | In Article 3(1) the words “and library authority”. In Article 4(1) the words “and a library committee”. In Article 4(2) the words from “and a library committee” to the end. In Article 4(3) the words from “and a scheme” to the end. In Article 4(4) the words “and its library committee”. Part 7. Article 83(1)(b) and (3)(b). In Article 83(6)(a) the words “and chief librarians”. In Article 92(1)(b) the words “or library”. In Article 115(1)(a)(i) the words “or library”. In Schedule 2, in paragraph 4(2), the words from “and at least” to the end. In Schedule 3, Part 2. In Schedule 15, paragraph 2(1)(d) and in paragraph 2(1)(e) the words “or chief librarians”. |
+| The Education Reform (Northern Ireland) Order 1989 (NI 20) | In Article 152 the words “or library”. |
+| The Education and Libraries (Northern Ireland) Order 1993 (NI 12) | Article 43. |
+| The Education and Libraries (Northern Ireland) Order 2003 (NI 12) | Article 10(7)(a)(ii). Article 11(1)(b). |
+
+---
+
+[^F1]: Sch. 3 para. 4 repealed (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 9 (with s. 23, 50(3))

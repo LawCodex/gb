@@ -528,7 +528,7 @@ retrieved: 2026-10-11
 
 [^F1]b [^F1]any other persons they think appropriate.
 
-### [^F1]Advice to[^F1]HEFCW[^F1] about quality assessment functions
+### [^F1]Advice to [^F1]HEFCW[^F1] about quality assessment functions
 
 #### [^F1][^F1]25 [^F1]Committee to advise [^F1]HEFCW[^F1] about exercise of quality assessment functions
 
@@ -920,7 +920,7 @@ retrieved: 2026-10-11
 
 [^F1]e [^F1]for a notice or direction to which this section applies not to be treated as having been given until any steps specified in the regulations have been taken, or until any period specified in the regulations has expired.
 
-### [^F1]General provisions about directions given by[^F1]HEFCW
+### [^F1]General provisions about directions given by [^F1]HEFCW
 
 #### [^F1]45 [^F1]Directions: compliance and enforcement
 
@@ -940,7 +940,7 @@ retrieved: 2026-10-11
 
 ## [^F1]PART 7 — [^F1]SUPPLEMENTARY PROVISION ABOUT FUNCTIONS OF [^F1]HEFCW
 
-### [^F1]Exercise of functions by[^F1]HEFCW
+### [^F1]Exercise of functions by [^F1]HEFCW
 
 #### [^F1]47 [^F1]Compatibility with charity law and governing documents of institutions
 
@@ -980,7 +980,7 @@ retrieved: 2026-10-11
 
 [^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### [^F1]Reports to be made by[^F1]HEFCW
+### [^F1]Reports to be made by [^F1]HEFCW
 
 #### [^F1]50 [^F1]Annual reports
 
@@ -1002,7 +1002,7 @@ retrieved: 2026-10-11
 
 [^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### [^F1]Other information [^F1]etc[^F1] to be given by[^F1]HEFCW
+### [^F1]Other information [^F1]etc[^F1] to be given by [^F1]HEFCW
 
 #### [^F1]52 [^F1]Statement in respect of intervention functions
 

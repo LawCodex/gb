@@ -1,0 +1,1674 @@
+---
+title: "Taxis Act (Northern Ireland) 2008"
+identifier: "nia/2008/4"
+citation: "2008 CHAPTER 4"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2008-04-21
+last_amended: 2021-12-20
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2008/4"
+source_modified: 2022-04-28
+retrieved: 2026-10-11
+---
+
+# Taxis Act (Northern Ireland) 2008
+
+**2008 CHAPTER 4**
+
+An Act to make provision regulating taxi operators, taxis and taxi drivers; and for related purposes.
+
+[21st April 2008]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## PART 1 — REGULATION OF TAXI OPERATORS
+
+### CHAPTER 1 — GENERAL
+
+#### 1 Requirement for operator's licence
+
+(1) Subject to subsection (2), a person shall not operate a taxi service unless the person is the holder of an operator's licence (in this Act referred to as a “licensed operator”).
+
+(2) The requirement under subsection (1) to hold an operator's licence shall not apply to a person who, in standing or plying for hire or reward or to carry passengers for hire or reward, drives a taxi for or in respect of which a licensed operator operates a taxi service (in this Act referred to as an “affiliated driver”).
+
+(3) A person who operates a taxi service in contravention of this section is guilty of an offence.
+
+(4) For the purposes of this Act, “operate a taxi service” means, in the course of business—
+
+(a) to make provision for or in connection with the invitation or acceptance of, or to accept, a taxi booking; or
+
+(b) to make any other provision for or in connection with, or otherwise to provide, a taxi to stand or ply for hire or reward or to carry passengers for hire or reward,
+
+subject to such exceptions as may be prescribed
+
+#### 2 Operator's licences
+
+(1) Any person may apply to the Department for an operator's licence.
+
+(2) An application under this section shall state the address, which shall be in Northern Ireland, of any premises which the applicant proposes to use as an operating centre.
+
+(3) An operator's licence may be granted in respect of the operation of such different types of taxi service as may be prescribed.
+
+(4) The Department shall grant an operator's licence to the applicant if it is satisfied that—
+
+(a) the applicant—
+
+(i) is a fit and proper person to hold an operator's licence; and
+
+(ii) meets any further requirements that may be prescribed;
+
+[[^F1](aa) if the applicant is an individual, the applicant is not disqualified by reason of the applicant's immigration status from operating a taxi service; and]
+
+(b) any further requirements that may be prescribed (which may include requirements relating to operating centres) are met.
+
+[[^F2](4A) In determining for the purposes of subsection (4) whether an applicant is disqualified by reason of the applicant's immigration status from operating a taxi service, the Department must have regard to any guidance issued by the Secretary of State.]
+
+(5) An operator's licence shall be granted subject to such conditions as may be prescribed and such other conditions as the Department may think fit (including, without prejudice to the generality of this subsection, conditions specifying the maximum number of taxis or the maximum or minimum number or percentage of taxis of different classes or different classes of use for or in respect of which a taxi operator may operate a taxi service at any one time).
+
+(6) An operator's licence shall—
+
+(a) specify the address of any premises in Northern Ireland which the licensed operator may use as an operating centre;
+
+(b) be in such form and contain such particulars as the Department may think fit.
+
+(7) [[^F3]Subject to section 2A, an] operator's licence shall be granted for five years or such shorter period as may be prescribed or such shorter period as the Department may consider appropriate in the circumstances of the case.
+
+(8) An applicant for an operator's licence may by notice appeal to the Department against—
+
+(a) a decision not to grant such a licence;
+
+(b) a decision not to specify an address proposed in the application as an operating centre;
+
+(c) a decision to grant such a licence in respect of the operation of a particular type of taxi service; or
+
+(d) any condition (other than a prescribed condition) to which the licence is subject.
+
+(9) The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
+
+(10) On an appeal under subsection (8), the Department may decide to—
+
+(a) confirm, reverse or vary the decision; o
+
+(b) approve, revoke or vary the condition,
+
+(as the case may be) as it thinks fit.
+
+(11) The Department shall, on making a decision under subsection (10), give notice of the decision to the appellant including particulars of the grounds of the decision.
+
+(12) A person who is aggrieved by a decision of the Department under subsection (10) may appeal to a court of summary jurisdiction against any such decision.
+
+#### 2A [[^F4]Operator's licences for persons subject to immigration control
+
+(1) Subsection (2) applies if—
+
+(a) an operator's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”),
+
+(b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision), and
+
+(c) apart from subsection (2), the period for which the licence would have been granted would have ended after the end of the leave period.
+
+(2) The licence must be granted for a period which ends at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+(a) an operator's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period, and
+
+(b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The licence must be granted for a period which does not exceed six months.
+
+(5) An operator's licence ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from operating a taxi service.
+
+(6) If a licence granted in accordance with subsection (2) or (4) expires, the person to whom it was granted must, within the period of 7 days beginning with the day after that on which it expired, return it to the Department.
+
+(7) If subsection (5) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return it to the Department.
+
+(8) A person who, without reasonable excuse, contravenes subsection (6) or (7) is guilty of an offence.]
+
+#### 3 Duties of licensed operators, etc.
+
+(1) A licensed operator shall secure that any taxi for or in respect of which the licensed operator operates a taxi service is a licensed taxi driven by a person holding a taxi driver's licence.
+
+(2) Subject to such exceptions as may be prescribed, a taxi booking shall only be accepted at an operating centre specified in the operator's licence.
+
+(3) A licensed operator shall—
+
+(a) display a copy of the licensed operator's licence at any operating centre specified in that licence to which any member of the public has access;
+
+(b) keep such records as may be prescribed of the prescribed particulars of the licensed operator's operation of a taxi service (including, without prejudice to the generality of the foregoing, such particulars as may be prescribed relating to taxis for or in respect of which the licensed operator operates a taxi service, affiliated drivers, taxi bookings and any other provision made of taxis to stand or ply for hire or reward or to carry passengers for hire or reward together with records of the particulars notified to the licensed operator by virtue of subsection (8));
+
+(c) keep such records as may be prescribed of particulars of any complaints made;
+
+(d) keep copies of any licences required under this Act and any certificates of insurance required;
+
+(e) keep such other records or information as may be prescribed;
+
+(f) at the request of a constable or authorised officer—
+
+(i) produce for inspection any documents or records required by this section to be kept;
+
+(ii) provide such copies as may be requested of such documents or records;
+
+(iii) submit such documents or records to the Department.
+
+(4) Any documents or records required to be kept in accordance with paragraphs (b) to (e) of subsection (3) shall be kept at each operating centre which is specified in the licence of the licensed operator as an operating centre at which records are to be kept.
+
+(5) A person who knowingly or recklessly keeps, makes or causes to be kept or made, records required to be kept in accordance with subsection (3)(b) which are false or misleading in any material particular, is guilty of an offence.
+
+(6) If a licensed operator ceases to use an operating centre specified in the licensed operator's licence the licensed operator shall preserve any record which the licensed operator was required by this section to keep there for such period as may be prescribed
+
+(7) Subject to such exceptions as may be prescribed, a person shall not be an affiliated driver of more than one licensed operator at any one time.
+
+(8) An affiliated driver of a licensed operator shall notify that operator of the prescribed particulars of—
+
+(a) any taxi bookings the affiliated driver carries out; and
+
+(b) any other provision the affiliated driver makes of a taxi to stand or ply for hire or reward or to carry passengers for hire or reward,
+
+as soon as reasonably practicable after doing so.
+
+(9) A licensed operator shall deal with any complaints made to the licensed operator concerning the licensed operator's operation of a taxi service in such manner as may be prescribed (and without prejudice to the generality of the foregoing, regulations may include provision for the involvement of the General Consumer Council for Northern Ireland in relation to any such complaints).
+
+(10) A licensed operator who contravenes subsection (1) is guilty of an offence.
+
+(11) A person who contravenes any other provision of this section or of regulations made under this section is guilty of an offence.
+
+(12) It is a defence in proceedings for an offence under this section for a person to show that the person exercised all due diligence to avoid committing such an offence.
+
+#### 4 Hirings accepted on behalf of another operator
+
+(1) A licensed operator (“the first operator”) who has accepted a taxi booking may not arrange for another person who requires an operator's licence to provide a taxi to carry out that booking as sub-contractor unless the other person is a licensed operator and the sub-contracted booking is accepted in accordance with this Act or with any provision made under it.
+
+(2) A licensed operator who contravenes subsection (1) is guilty of an offence.
+
+(3) It is a defence in proceedings for an offence under this section for a licensed operator to show that the licensed operator exercised all due diligence to avoid committing such an offence.
+
+(4) It is immaterial for the purposes of subsection (1) whether or not sub-contracting is permitted by the contract between the first operator and the person who made the booking.
+
+(5) For the avoidance of doubt (and subject to any relevant contract terms), a contract of hire between a person who made a taxi booking in accordance with this Act or with any provision made under it and the licensed operator who accepted the booking remains in force despite the making of arrangements by that operator for another contractor to provide a taxi to carry out that booking as sub-contractor.
+
+### CHAPTER 2 — HIRING OF TAXIS AT SEPARATE FARES
+
+#### 5 Hiring of taxis at separate fares – General
+
+(1) A licensed operator may only operate a taxi service for or in respect of the carriage of passengers at separate fares if—
+
+(a) the licensed operator complies with the provisions of a taxi-sharing scheme made by the Department under section 6; or
+
+(b) the conditions in section 7 are met; or
+
+[[^F5](c) a service agreement or service permit under the Transport Act (Northern Ireland) 2011 so provides.]
+
+(2) If a person acts in contravention of any provision of or made under this Chapter and the contravention is not made an offence under any other statutory provision, the person is guilty of an offence.
+
+(3) The Department may by order make such modifications of any provisions of this Act as it sees fit for the purpose of supplementing the provisions of this Chapter.
+
+(4) The provisions of this Chapter are without prejudice to any other provision of this Act.
+
+#### 6 Compliance with a Departmental taxi-sharing scheme
+
+(1) The Department may by order make a taxi-sharing scheme referred to in section 5(1)(a) which shall—
+
+(a) designate the places from which taxis may be hired under the scheme (“authorised places”);
+
+(b) specify the requirements to be met for the purposes of the scheme in relation to the carriage of passengers at separate fares; and
+
+(c) include such other provision as the Department thinks fit.
+
+(2) Any scheme made under this section may, in particular, make provision with respect to—
+
+(a) providing that only taxis of such class as may be specified in the scheme may be hired for the carriage of passengers at separate fares;
+
+(b) rates or fares (including, without prejudice to the generality of the foregoing, the maximum rate or fare to be charged for or in respect of each passenger);
+
+(c) the display of any document, plate, mark or sign for indicating an authorised place or that a taxi standing at an authorised place is available for the carriage of passengers at separate fares;
+
+(d) the display of signs, information or fares at such authorised places;
+
+(e) enforcing order at and regulating the use of such authorised places;
+
+(f) providing for persons to manage, and regulating the management of, the use of such authorised places;
+
+(g) the manner in which arrangements are to be made for the carriage of passengers at separate fares
+
+(h) the conditions to apply to such use of a taxi.
+
+#### 7 Advance booking
+
+The conditions referred to in section 5(1)(b) are that—
+
+(a) all the passengers carried on the occasion in question booked their journeys in advance; and
+
+(b) each of them consented, when booking their journey, to sharing the use of the taxi on that occasion with others on the basis that a separate fare would be payable by each passenger for their own journey on that occasion.
+
+#### 8 Operator's licence [[^F6]conditions relating to] separate fares (prospective)
+
+An operator's licence may—
+
+[^F7]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) be subject to the condition that only taxis of such class as may be specified in the licence may be used for or in respect of the operation of [[^F8]a taxi service for or in respect of the carriage of passengers at separate fares] ;
+
+(c) be subject to such other conditions as may be prescribed and such other conditions as the Department may think fit relating to the carrying of passengers at separate fares.
+
+#### [^F9]9 Information (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F10]10 Functions in relation to operator's licence authorising separate fares (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F11]11 Appeals in relation to operator's licence authorising separate fares (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — REGULATION OF TAXIS
+
+### 12 Requirement for taxi licence
+
+(1) A taxi shall not be used in standing or plying for hire or reward or to carry passengers for hire or reward except under a licence which is in force for that taxi (in this Act referred to as a “taxi licence”).
+
+(2) The driver of a taxi and the taxi operator for or in respect of a taxi used in contravention of this section are each guilty of an offence.
+
+(3) The owner of a taxi who permits it to be used in contravention of this section is guilty of an offence.
+
+(4) It is a defence in proceedings for an offence under subsection (2) for the driver or operator to show that the driver or operator (as the case may be) exercised all due diligence to prevent the taxi being used in contravention of this section.
+
+### 13 Taxi licences
+
+(1) The owner of any taxi may apply to the Department for a taxi licence for that taxi.
+
+(2) A taxi licence may be granted in respect of—
+
+(a) taxis of such different classes as may be prescribed; and
+
+(b) such different classes of use of taxis as may be prescribed.
+
+(3) The Department shall grant a taxi licence for a taxi if it is satisfied that—
+
+(a) the taxi—
+
+(i) is suitable in such type, size and design as may be prescribed for use in standing or plying for hire or reward or to carry passengers for hire or reward;
+
+(ii) meets such conditions as may be prescribed (which may include conditions relating to its age) to ensure that it is safe, comfortable and in a suitable mechanical condition for that use; and
+
+(iii) meets any further requirements or conditions that may be prescribed
+
+(b) there is in force in relation to the use of the taxi a policy of insurance or such security as complies with the requirements of Part 8 of the 1981 Order; and
+
+(c) any further requirements that may be prescribed are met.
+
+(4) A taxi licence may not be granted in respect of more than one taxi.
+
+(5) A taxi licence shall be granted subject to such conditions as may be prescribed and such other conditions as the Department may think fit.
+
+(6) A taxi licence shall be in such form and shall contain such particulars as the Department may think fit.
+
+(7) A taxi licence shall be granted for one year or for such shorter period as the Department may consider appropriate in the circumstances of the case.
+
+(8) An applicant for a taxi licence may by notice appeal to the Department against—
+
+(a) a decision not to grant such a licence;
+
+(b) a decision to grant such a licence in respect of a particular class of taxi or a particular class of use of taxi; or
+
+(c) any condition (other than a prescribed condition) to which the licence is subject.
+
+(9) The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
+
+(10) On an appeal under subsection (8), the Department may decide to—
+
+(a) confirm, reverse or vary the decision; or
+
+(b) approve, revoke or vary the condition,
+
+(as the case may be) as it thinks fit.
+
+(11) The Department shall, on making a decision under subsection (10), give notice of the decision to the appellant including particulars of the grounds of the decision.
+
+(12) A person who is aggrieved by a decision of the Department under subsection (10) may appeal to a court of summary jurisdiction against any such decision.
+
+### 14 Duties of owners of licensed taxis
+
+(1) This section applies to the owner of any licensed taxi.
+
+(2) Subject to subsection (3), the owner shall present the taxi for inspection and testing by or on behalf of the Department within such period and at such place as the Department may by notice reasonably require.
+
+(3) The taxi shall not be required to be presented under subsection (2) on more than three separate occasions during any one period of 12 months.
+
+(4) The owner shall (without prejudice to Article 175 of the 1981 Order) report any accident to the taxi materially affecting—
+
+(a) the safety, performance or appearance of the taxi; o
+
+(b) the comfort or convenience of persons carried in the taxi,
+
+to the Department as soon as reasonably practicable and in any case within 72 hours of the accident occurring.
+
+(5) If the ownership of the taxi changes, the person who was previously the owner shall within 14 days of the change—
+
+(a) give notice to the Department of that fact and the name and address of the new owner; and
+
+(b) return to the Department the taxi licence and the plate, disc, sign or distinguishing mark which was issued for the taxi under section 15.
+
+(6) A person who, without reasonable excuse, contravenes any provision of this section is guilty of an offence.
+
+### 15 Identification of licensed vehicles
+
+(1) The Department shall issue a plate, disc, sign or distinguishing mark (or any combination of these) for each licensed taxi which identifies it as a taxi for which a taxi licence has been granted.
+
+(2) No licensed taxi shall be used in standing or plying for hire or reward or to carry passengers for hire or reward unless the plate, disc, sign or distinguishing mark issued under this section is exhibited in or on the taxi in such manner as may be prescribed.
+
+(3) The driver of a taxi and the taxi operator for or in respect of a taxi used in contravention of subsection (2) are each guilty of an offence.
+
+(4) The owner of a taxi who permits it to be used in contravention of subsection (2) is guilty of an offence.
+
+(5) It is a defence in proceedings for an offence under subsection (3) for the operator to show that the operator exercised all due diligence to prevent the taxi being used in contravention of subsection (2).
+
+### 16 Regulation of fares, etc.
+
+(1) The Department may by regulations provide, subject to such exceptions as may be prescribed—
+
+(a) for the fixing of maximum rates or fares to be charged for, and the maximum for all other charges in connection with, the hire of taxis or the carriage of passengers for hire or reward by taxis (including, without prejudice to the generality of the foregoing, charges in respect of any kind of damage to taxis caused by passengers); and
+
+(b) for preventing the driver of a taxi or any other person from demanding additional rates, fares or charges or more than the maximum rate, fare or charge so fixed.
+
+(2) Without prejudice to the generality of subsection (1), regulations under this section may, in respect of the carriage of passengers at separate fares, include provision for the fixing of the maximum rate or fare to be charged for or in respect of each passenger.
+
+(3) Before the Department makes any regulations under this section, it shall take into consideration any recommendations made by the General Consumer Council for Northern Ireland
+
+(4) A person who contravenes any provision of regulations made under this section is guilty of an offence.
+
+### 17 Display and publication, etc. of fares
+
+(1) Subject to such exceptions as may be prescribed, rates, fares or charges shall be displayed, in such form and in such manner as may be prescribed—
+
+(a) in a taxi; and
+
+(b) at any operating centre to which any member of the public has access and at which taxi bookings are accepted for or in respect of that taxi.
+
+(2) Subject to such exceptions as may be prescribed, changes to rates, fares or charges shall be notified to the Department within such time in advance of the changes and in such manner as may be prescribed.
+
+(3) The Department may make regulations securing the due publication of rates, fares or charges.
+
+(4) A person who contravenes subsection (1) or (2) or any provision of regulations made under this section is guilty of an offence.
+
+### 18 Regulation of taximeters etc.
+
+(1) Subject to such exceptions as may be prescribed, a taxi shall be fitted with—
+
+(a) a taximeter; and
+
+(b) a device constructed or adapted for the production of receipts,
+
+in accordance with regulations made under this section.
+
+(2) A taxi shall not be fitted with more than one taximeter and device referred to in subsection (1)(b).
+
+(3) A taximeter and a device referred to in subsection (1)(b) shall be of a type approved by the Department.
+
+(4) Subject to such exceptions as may be prescribed, the driver of a taxi shall, on payment of the fare, issue a receipt produced by the device referred to in subsection (1)(b) to the person who hired the taxi or paid the fare.
+
+(5) Regulations may make provision for—
+
+(a) inspection, testing and sealing of the taximeters and devices referred to in subsection (1)(b);
+
+(b) operation of the taximeters and devices;
+
+(c) display of tariffs;
+
+(d) form and manner of production or issue of receipts;
+
+(e) prescribed details to be included on receipts;
+
+(f) such other requirements as may be prescribed.
+
+(6) If a taxi is used in standing or plying for hire or reward or to carry passengers for hire or reward in contravention of this section or any provision of regulations made under it, the owner of the taxi, driver of the taxi and taxi operator for or in respect of the taxi are each guilty of an offence
+
+(7) It is a defence in proceedings for an offence under subsection (6) for the owner, driver or operator to show that the owner, driver or operator (as the case may be) exercised all due diligence to prevent the taxi being used in contravention of this section.
+
+(8) A person who unlawfully tampers with a taximeter or device referred to in subsection (1)(b) is guilty of an offence.
+
+### 19 Taxis not to carry more than the prescribed number of persons
+
+(1) A taxi shall not carry a greater number of persons than that prescribed for the taxi.
+
+(2) If a greater number of persons than that prescribed for the taxi is carried in a taxi, the driver of the taxi is guilty of an offence.
+
+### 20 Regulations concerning taxis or use of taxis
+
+(1) The Department may make regulations generally as to taxis or as to the use of taxis in standing or plying for hire or reward or to carry passengers for hire or reward, and such regulations may apply to taxis generally or to taxis of a particular class or to taxis of a particular class of use.
+
+(2) Without prejudice to the generality of subsection (1), regulations may, in particular, make provision for any of the following purposes—
+
+(a) providing that only taxis of such class or class of use as may be prescribed may stand at places which may be used as stands for taxis or (in connection with the operation of a taxi service) make use of such other places as may be prescribed;
+
+(b) providing that only taxis of such class or class of use as may be prescribed may stand or ply for hire or reward within such distance as may be prescribed of any such places referred to in paragraph (a);
+
+(c) enforcing order at and regulating the use of places referred to in paragraph (a);
+
+(d) providing for persons to manage, and regulating the management of, the use of places referred to in paragraph (a);
+
+(e) regulating the display of signs, information and fares at places referred to in paragraph (a);
+
+(f) prescribing the distance for which and circumstances in which drivers of taxis shall be obliged to carry passengers for hire or reward;
+
+(g) regulating the manner in which taxis are to be identified (which may include regulating the colour of taxis);
+
+(h) regulating the number of persons who may be carried in any taxi, the space to be allotted to each such person, and the manner in which such number and space are to be indicated upon the taxi;
+
+(i) regulating the manner in which taxis are to be furnished or fitted;
+
+(j) ensuring that taxis are fit for use to stand or ply for hire or reward or to carry passengers for hire or reward
+
+(k) ensuring the safety of persons carried in taxis;
+
+(l) providing for the inspection and testing of taxis for the purpose of ensuring that they are fit for use to stand or ply for hire or reward or to carry passengers for hire or reward and that persons may safely be carried in them;
+
+(m) regulating the advertising on, in, for or in respect of taxis (and for the purposes of this section, “advertising” includes every form of advertising (whatever the medium));
+
+(n) regulating any monitoring or surveillance for or in respect of taxis;
+
+(o) regulating the conduct of passengers and of persons employed in connection with taxis;
+
+(p) securing the safe custody and delivery to its owner of any property accidentally left in taxis and fixing the charges to be paid in respect of safe-keeping and delivery and empowering prescribed persons to cause such property to be sold, or given to the finder, in the event of its not being claimed within a prescribed time.
+
+(3) If a person acts in contravention of any regulations under this section, and the contravention is not made an offence under any other statutory provision, the person is guilty of an offence.
+
+### 21 Orders concerning taxis, taxi stands etc.
+
+(1) After Part 4 of the Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2) there shall be inserted the following Part—
+
+> **PART 4A — TAXIS**
+>
+> **27A Taxi regulation orders**
+>
+> (1) The Department may by order (a “taxi regulation order”) make provision for all or any of the following purposes—
+>
+> (a) for preventing taxis from standing or plying for hire or reward on, or preventing taxis from using except in accordance with the order, specified roads or lengths of roads;
+>
+> (b) for providing which length of roads may be used as stands for taxis;
+>
+> (c) for regulating the number of taxis which may stand at each stand and fixing the charges to be made and the time during which taxis may remain there;
+>
+> (d) for regulating the times and intervals at, and the order in which, taxis may enter or leave such stands;
+>
+> (e) for reserving particular stands for the use of taxis or of taxis plying on particular routes and excluding from those stands all other vehicles and generally regulating access to and the use of those stands.
+>
+> (2) Any person who contravenes a taxi regulation order is guilty of an offence
+>
+> (3) Schedule 4A (which makes further provision in relation to taxi regulation orders) shall have effect.
+>
+> (4) In this Article (and in Schedule 4A) “taxi” means a taxi within the meaning of the Taxis Act (Northern Ireland) 2008.
+
+.
+
+(2) After Schedule 4 to the Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2) there shall be inserted the following Schedule—
+
+> **SCHEDULE 4A — ORDERS UNDER ARTICLE 27A**
+>
+> **1** The Department shall comply with paragraphs 2 and 3 before making an order under Article 27A.
+>
+> **2** The Department shall consult such persons as it considers appropriate.
+>
+> **3** (1) The Department shall publish a notice including the particulars specified in sub-paragraph (2).
+>
+> (2) The particulars which the notice must contain are—
+>
+> (a) the title of the order;
+>
+> (b) a statement of the general nature and effect of the order;
+>
+> (c) the name or a brief description of any road or taxi stand to which the order will apply;
+>
+> (d) an address in that area where a copy of the draft order and any relevant map or plan may be inspected by any person free of charge at all reasonable hours during the period mentioned in head (e); and
+>
+> (e) the period during which, and the address to which, objections or other representations may be made, and a statement that all objections or other representations must be in writing and must specify the grounds on which they are made.
+>
+> (3) The period specified under sub-paragraph (2)(e) shall not be less than 21 days from the date of the publication or last publication of the notice.
+>
+> (4) Publication of a notice under sub-paragraph (1) shall be in a newspaper circulating in the area in which any road to which the order relates is situated.
+>
+> (5) The Department shall consider any objections or other representations made within the period specified under sub-paragraph (2)(e).
+>
+> **4** Before making an order under Article 27A, the Department may hold a public inquiry.
+>
+> **5** The Department may make an order under Article 27A with or without omissions and other modifications
+>
+> **6** When the Department makes an order under Article 27A, it shall—
+>
+> (a) notify—
+>
+> (i) any person consulted under paragraph 2; and
+>
+> (ii) any person who made objections or other representations in accordance with paragraph 3; and
+>
+> (b) publish in a newspaper circulating in the area in which any road to which the order relates is situated a notice stating that the order has been made.
+
+.
+
+(3) In paragraph 7A of Schedule 3 to the Statutory Rules (Northern Ireland) Order 1979 (NI 12) (statutory rules exempted from requirement as to printing and sale), after “15,” there shall be inserted “ 27A, ”.
+
+(4) In Part 1 of Schedule 1 to the Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10) (prosecution and punishment of offences) after the entry relating to Article 24 of the Road Traffic Regulation (Northern Ireland) Order 1997, insert—
+
+> |  |  |  |  |
+> |---|---|---|---|
+> | Article 27A | Contravention of taxi regulation order | Summarily | Level 3 on the standard scale |
+
+## PART 3 — REGULATION OF DRIVERS OF TAXIS
+
+### 22 Requirement for taxi driver's licence
+
+(1) A person shall not drive a taxi when it is standing or plying for hire or reward or carrying passengers for hire or reward unless the person is the holder of a taxi driver's licence.
+
+(2) Any person who drives a taxi in contravention of subsection (1) is guilty of an offence.
+
+(3) The taxi operator for or in respect of a taxi driven in contravention of subsection (1) and the owner of a taxi who permits it to be driven in contravention of subsection (1) are each guilty of an offence.
+
+(4) The holder of a taxi driver's licence shall not drive a taxi when it is standing or plying for hire or reward or carrying passengers for hire or reward unless the person's taxi driver's licence authorises the person to drive that class of taxi.
+
+(5) Any person who drives a taxi in contravention of subsection (4) is guilty of an offence.
+
+(6) The taxi operator for or in respect of a taxi driven in contravention of subsection (4) and the owner of a taxi who permits it to be driven in contravention of subsection (4) are each guilty of an offence.
+
+(7) It is a defence in proceedings against a taxi operator for an offence under subsection (3) or (6) for the operator to show that the operator exercised all due diligence to prevent the taxi being driven in contravention of subsection (1) or (4) as the case may be.
+
+### 23 Taxi driver's licences
+
+(1) Any person may apply to the Department for a taxi driver's licence.
+
+(2) The Department shall grant a taxi driver's licence to an applicant if it is satisfied that—
+
+(a) the applicant—
+
+(i) subject to subsection (4), is (and has been continuously for at least three years immediately before the date of the applicant's application, or in prescribed circumstances for such lesser period as may be prescribed) authorised to drive a motor car;
+
+(ii) is a fit and proper person to hold a taxi driver's licence; and
+
+(iii) meets any further requirements that may be prescribed (including, without prejudice to the generality of the foregoing, requirements relating to training);
+
+[[^F12](aa) the applicant is not disqualified by reason of the applicant's immigration status from driving a taxi;]
+
+(b) subject to subsection (4), the requirement mentioned in subsection (3) is met; and
+
+(c) any further requirements that may be prescribed are met.
+
+[[^F13](2A) In determining for the purposes of subsection (2) whether an applicant is disqualified by reason of the applicant's immigration status from driving a taxi, the Department must have regard to any guidance issued by the Secretary of State.]
+
+(3) The requirement referred to in subsection (2)(b) is that the applicant shall pass such test of competence to drive a taxi as may be prescribed.
+
+(4) Subsections (2)(a)(i) and (b) shall not apply, for or until such time or for such a period as may be prescribed, to an applicant for a taxi driver's licence under this section who, immediately before the coming into operation of this section, was the holder of a taxi driver's licence granted under Article 79A of the 1981 Order.
+
+(5) A taxi driver's licence shall be granted subject to such conditions as may be prescribed and such other conditions as the Department may think fit.
+
+(6) Without prejudice to the generality of subsection (5), a taxi driver's licence may be subject to the condition that the licence holder may only drive a taxi of such class as may be specified in the licence.
+
+(7) A taxi driver's licence shall be in such form and shall contain such particulars as the Department may think fit.
+
+(8) [[^F14]Subject to section 23A, a] taxi driver's licence shall be granted for three years or for such shorter period as the Department may consider appropriate in the circumstances of the case.
+
+(9) An applicant for a taxi driver's licence may by notice appeal to the Department against—
+
+(a) a decision not to grant such a licence; or
+
+(b) any condition (other than a prescribed condition) to which the licence is subject.
+
+(10) The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
+
+(11) On an appeal under subsection (9), the Department may decide to
+
+(a) confirm, reverse or vary the decision; or
+
+(b) approve, revoke or vary the condition,
+
+(as the case may be) as it thinks fit.
+
+(12) The Department shall, on making a decision under subsection (11), give notice of the decision to the appellant including particulars of the grounds of the decision.
+
+(13) A person who is aggrieved by a decision of the Department under subsection (11) may appeal to a court of summary jurisdiction against any such decision.
+
+(14) For the purposes of subsection (2), a person is authorised to drive a motor car if—
+
+(a) the person holds a licence granted under Part 2 of the 1981 Order (other than a provisional licence) authorising the person to drive a motor car; or
+
+(b) the person is authorised by virtue of Article 15A(1) or 19E(1) of that Order (Community licences and Great Britain licences) to drive a motor car in Northern Ireland.
+
+(15) In this section “motor car” means a motor vehicle (other than an invalid carriage or motor cycle (within the meaning given in Article 2(2) of the 1981 Order))—
+
+(a) which is constructed or adapted to carry not more than 8 passengers in addition to the driver; and
+
+(b) which has a maximum gross weight (within the meaning given in Part 2 of the 1981 Order) not exceeding 3.5 tonnes.
+
+### 23A [[^F15]Taxi driver's licences for persons subject to immigration control
+
+(1) Subsection (2) applies if—
+
+(a) a taxi driver's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”),
+
+(b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision), and
+
+(c) apart from subsection (2), the period for which the licence would have been granted would have ended after the end of the leave period.
+
+(2) The licence must be granted for a period which ends at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+(a) a taxi driver's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period, and
+
+(b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The licence must be granted for a period which does not exceed six months.
+
+(5) A taxi driver's licence ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from driving a taxi.
+
+(6) If a licence granted in accordance with subsection (2) or (4) expires, the person to whom it was granted must, within the period of 7 days beginning with the day after that on which it expired, return to the Department—
+
+(a) the licence,
+
+(b) the person's driver's badge, and
+
+(c) any other evidence of identification which the Department has issued under section 24.
+
+(7) If subsection (5) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return to the Department—
+
+(a) the licence,
+
+(b) the person's driver's badge, and
+
+(c) any other evidence of identification which the Department has issued under section 24.
+
+(8) A person who, without reasonable excuse, contravenes subsection (6) or (7) is guilty of an offence.]
+
+### 24 Issue of driver's badges etc.
+
+(1) The Department shall issue a badge and such other evidence of identification as it considers appropriate to each person to whom it has granted a taxi driver's licence.
+
+(2) The Department may prescribe the form of badges and other evidence of identification issued under this section.
+
+(3) A person issued with such a badge and other evidence of identification shall, at all times when acting in accordance with his taxi driver's licence, wear the badge and display the other evidence of identification in such position and manner as to be plainly and distinctly visible or in such position and manner as may be prescribed.
+
+(4) The Department may by notice exempt a person from the requirement under subsection (3) or under any provision of regulations made under subsection (3), when the person is the driver of a taxi being used to provide a service specified in the notice, if the Department considers it inappropriate (having regard to that service) to require the badge to be worn or the other evidence of identification to be displayed.
+
+(5) Any person who without reasonable excuse contravenes subsection (3) or any provision of regulations made under this section is guilty of an offence.
+
+## PART 4 — LICENCES: GENERAL PROVISIONS
+
+### 25 Applications for licences, etc.
+
+(1) An application for the grant of a licence under this Act shall be made in such form, and include such declarations and information, as the Department may require.
+
+(2) The Department may require an applicant to furnish such further information as it may consider necessary for dealing with the application.
+
+(3) If a person fails without reasonable excuse to furnish information when required to do so under subsection (2), the Department may decline to proceed further with the application and refuse to grant the licence.
+
+(4) The provisions of this Act apply to the renewal of a licence as they apply to the grant of a licence.
+
+### 26 Power to suspend, revoke or curtail licences
+
+(1) The Department may suspend or revoke a licence under this Act or curtail an operator's licence for any reasonable cause including (without prejudice to the generality of this subsection) any ground mentioned below.
+
+(2) The Department may suspend or revoke an operator's licence where—
+
+(a) the Department is no longer satisfied that the licence holder is fit to hold such a licence;
+
+[[^F16](aa) the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty;] or
+
+(b) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on the licence holder by or under this Act.
+
+[[^F17](2A) Subsection (2)(aa) does not apply if—
+
+(a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (SI 1978/1908 (NI 27)), or
+
+(b) in a case where the licence holder has been required to pay an immigration penalty—
+
+(i) more than three years have elapsed since the date on which the penalty was imposed, and
+
+(ii) the amount of the penalty has been paid in full.]
+
+(3) The Department may curtail an operator's licence where the licence holder has failed to comply with any condition of the licence or any other obligation imposed on the licence holder by or under this Act.
+
+(4) For the purposes of this Act references to curtailing an operator's licence are references to directing (with effect for the duration of the remainder of the licence or for any shorter period), either or both of the following, namely—
+
+(a) that one or more of the taxis for or in respect of which the licensed operator may operate a taxi service at any one time and which are specified in the licence be removed from it;
+
+(b) that the maximum number of taxis or the maximum number of taxis of different classes or different classes of use for or in respect of which the licensed operator may operate a taxi service at any one time and which are specified in the licence be reduced.
+
+(5) The Department may suspend or revoke a taxi licence where—
+
+(a) the Department is no longer satisfied that the taxi to which the licence relates is fit for use in standing or plying for hire or reward or to carry passengers for hire or reward; or
+
+(b) the owner has failed to comply with any condition of the licence or any other obligation imposed on the owner by or under this Act.
+
+(6) The Department may suspend or revoke a taxi driver's licence where
+
+(a) the Department is no longer satisfied that the licence holder is fit to hold such a licence;
+
+[[^F18](aa) the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty;] or
+
+(b) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on the licence holder by or under this Act.
+
+[[^F19](7) Subsection (6)(aa) does not apply if—
+
+(a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders (Northern Ireland) Order 1978 (SI 1978/1908 (NI 27)), or
+
+(b) in a case where the licence holder has been required to pay an immigration penalty—
+
+(i) more than three years have elapsed since the date on which the penalty was imposed, and
+
+(ii) the amount of the penalty has been paid in full.]
+
+### 27 Suspension, revocation and curtailment under section 26: procedure etc.
+
+(1) Where, under section 26, the Department has decided to suspend, revoke or curtail a licence—
+
+(a) it shall give notice of the decision and the grounds for the decision to the licence holder or, in the case of a taxi licence, the owner of the taxi to which the licence relates; and
+
+(b) (subject to section 35), it shall direct in the notice when the suspension, revocation or curtailment is to take effect.
+
+(2) A licence suspended under this Act shall remain suspended until such time as the Department by notice directs that the licence is again in force.
+
+(3) The holder of an operator's or taxi driver's licence, or the owner of a taxi to which a taxi licence relates, may by notice appeal to the Department against a decision under section 26 to suspend, revoke or curtail that licence.
+
+(4) The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
+
+(5) On an appeal under subsection (3), the Department may decide to confirm, reverse or vary the decision as it thinks fit.
+
+(6) The Department shall, on making a decision under subsection (5), give notice of the decision to the appellant including particulars of the grounds of the decision.
+
+(7) A person who is aggrieved by a decision of the Department under subsection (5) may appeal to a court of summary jurisdiction against any such decision.
+
+### 28 Variation of licence on request
+
+(1) Subject to subsection (2), the Department may, on the application of a licensed operator, vary the licensed operator's licence by adding a reference to a new operating centre or removing an existing reference to an operating centre.
+
+(2) The Department shall not add a reference to a new operating centre unless it is satisfied that the premises in question meet any requirements prescribed under section 2(4)(b).
+
+(3) The Department may, on the application of a licensed operator, vary the licensed operator's licence by—
+
+(a) adding to or reducing the maximum number of taxis or the maximum or minimum number of taxis of different classes or different classes of use for or in respect of which the licensed operator may operate a taxi service at any one time; or
+
+(b) varying such other contents, requirements or conditions of the licence as may be prescribed
+
+(4) The Department may, on the application of the owner of a licensed taxi, vary the taxi licence by varying such contents, requirements or conditions as may be prescribed.
+
+(5) The Department may, on the application of the holder of a taxi driver's licence, vary the taxi driver's licence by varying such contents, requirements or conditions of the licence as may be prescribed.
+
+(6) An application for the variation of a licence under this section shall be made in such form, and include such declarations and information, as the Department may require.
+
+(7) The Department may require an applicant to furnish such further information as it may consider necessary for dealing with the application.
+
+(8) An applicant for the variation of a licence under this section may by notice appeal to the Department against a decision not to vary the licence.
+
+(9) The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
+
+(10) On an appeal under subsection (8), the Department may decide to confirm, reverse or vary the decision as it thinks fit.
+
+(11) The Department shall, on making a decision under subsection (10), give notice of the decision to the appellant including particulars of the grounds of the decision.
+
+(12) A person who is aggrieved by a decision of the Department under subsection (10) may appeal to a court of summary jurisdiction against any such decision.
+
+### 29 Variation of operator's licence by Department
+
+(1) The Department may—
+
+(a) suspend the operation of an operator's licence so far as relating to any operating centre specified in the licence; or
+
+(b) vary such a licence by removing a reference to an operating centre previously specified in the licence,
+
+if the Department is no longer satisfied that the operating centre in question meets any requirements prescribed under section 2(4)(b) or for any other reasonable cause.
+
+(2) Where the Department has decided to suspend the operation of a licence as mentioned in subsection (1)(a) or vary a licence in accordance with subsection (1)(b)—
+
+(a) it shall give notice of the decision and the grounds for it to the licence holder; and
+
+(b) (subject to section 35), it shall direct in the notice when the decision is to take effect.
+
+(3) A licensed operator may by notice appeal to the Department against a decision under subsection (1)
+
+(4) The time within which a person may bring such an appeal is 21 days from the date on which the notice of the decision appealed against is served on the person.
+
+(5) On an appeal under subsection (3), the Department may decide to confirm, reverse or vary the decision as it thinks fit.
+
+(6) The Department shall, on making a decision under subsection (5), give notice of the decision to the appellant including particulars of the grounds of the decision.
+
+(7) A person who is aggrieved by a decision of the Department under subsection (5) may appeal to a court of summary jurisdiction against any such decision.
+
+### 30 Fees
+
+(1) The Department may by regulations provide for prescribed fees to be payable—
+
+(a) by an applicant for a licence under this Act, or for the variation of a licence under section 28, on making the application;
+
+(b) by a person granted a licence or variation, on the grant or variation of the licence and (if the regulations so provide) at such times while the licence is in force as may be prescribed;
+
+(c) in respect of any testing of a taxi;
+
+(d) in respect of the issue of a plate, disc, sign or distinguishing mark under section 15;
+
+(e) in respect of the regulation of taximeters and devices under section 18;
+
+(f) in respect of the regulation of advertising under section 20(2)(m);
+
+(g) in respect of any test of competence under section 23(3) to drive a taxi;
+
+(h) in respect of the issue of a driver's badge or other evidence of identification under section 24; and
+
+(i) in respect of the issue of new licences, drivers' badges or other evidence of identification or plates, discs, signs or distinguishing marks in place of those lost or defaced.
+
+(2) Regulations under this section may provide for fees to be payable by instalments, or for fees to be remitted or refunded (in whole or part), in prescribed cases.
+
+(3) The Department may decline to proceed with—
+
+(a) an application for, or for the variation of, a licence; or
+
+(b) the grant or variation of a licence,
+
+until any prescribed fee (or instalment) due in respect of the application or grant is paid.
+
+### 31 Production of documents
+
+(1) The holder of an operator's licence or a taxi driver's licence shall at the request of a constable or authorised officer produce that person's licence for inspection.
+
+(2) The holder of an operator's licence shall at the request of a constable or authorised officer produce for inspection any other document relating to or held as a condition of that person's licence.
+
+(3) The owner of a taxi to which a taxi licence relates shall at the request of a constable or authorised officer produce for inspection—
+
+(a) the taxi licence for that taxi;
+
+(b) the certificate of the policy of insurance or security required in respect of the taxi by Part 8 of the 1981 Order.
+
+(4) A document required to be produced under this section shall be produced either forthwith or—
+
+(a) if the request is made by a constable, at a police station agreed by the licence holder or taxi owner and the constable when the request is made (or if there is no agreement, at such place as the constable may reasonably require); or
+
+(b) if the request is made by an authorised officer, at such place as the officer may reasonably require,
+
+before the end of the period of 7 days beginning with the day on which the request is made.
+
+(5) A person who without reasonable excuse contravenes this section is guilty of an offence.
+
+### 32 Return of licences, etc.
+
+(1) The holder of an operator's licence shall return the licence together with such other documents or records as may be prescribed to the Department after the suspension, revocation or curtailment of that licence, within the period of 7 days after the day on which the suspension, revocation or curtailment takes effect.
+
+(2) The owner of a taxi to which a taxi licence relates shall return the licence and the plate, disc, sign or distinguishing mark for that taxi which was issued for the taxi under section 15 to the Department after the suspension or revocation of that licence, within the period of 7 days after the day on which the suspension or revocation takes effect.
+
+(3) The holder of a taxi driver's licence shall return the licence, the driver's badge and any other evidence of identification which the Department has issued under section 24 to the Department after the suspension or revocation of that licence, within the period of 7 days after the day on which the suspension or revocation takes effect.
+
+(4) On the expiry of a licence under this Act, the Department, a constable or an authorised officer may by notice direct the holder of the licence, or the owner of the taxi, to return the licence to the Department within the period of 7 days after the day on which the notice is served on that person.
+
+(5) A direction under subsection (4) may also direct
+
+(a) the return by the licensed operator of such documents or records as may be prescribed;
+
+(b) the return by the taxi owner of the plate, disc, sign or distinguishing mark which was issued for the taxi under section 15 (in the case of a taxi licence); or
+
+(c) the return by the licence holder of the driver's badge and any other evidence of identification which the Department has issued under section 24 (in the case of a taxi driver's licence).
+
+[[^F20](5A) Subsection (4) does not apply if the licence was granted in accordance with section 2A(2) or (4) or 23A(2) or (4) (but see sections 2A(6) and 23A(6)).]
+
+(6) A person who without reasonable excuse fails to comply with any requirement or direction under this section to return a licence, plate, disc, sign, distinguishing mark, badge or other evidence of identification is guilty of an offence.
+
+(7) A constable or authorised officer may require the removal of the plate, disc, sign or distinguishing mark from a taxi to which an expired, suspended or revoked taxi licence relates following—
+
+(a) a failure to comply with subsection (2) or a direction under subsection (4) or (5);
+
+(b) a suspension or revocation of the licence which has immediate effect by virtue of section 35(2).
+
+(8) Where a person has failed to comply with any requirement under subsection (7) to remove a plate, disc, sign or distinguishing mark, the constable or authorised officer may remove and retain it.
+
+### 33 Register of licences
+
+(1) The Department shall maintain a register containing the following particulars for each licence issued under this Act, namely—
+
+(a) the number of the licence, the date on which it is granted and the expiry date;
+
+(b) in respect of an operator's licence, the name and address of the licensed operator and the address of any operating centre specified in the licence;
+
+(c) in respect of a taxi licence, the vehicle registration number, the number of any plate, disc, sign or distinguishing mark and the date on which it is granted and any expiry date;
+
+(d) in respect of a taxi driver's licence, the identification number of the driver; and
+
+(e) such other particulars as may be prescribed.
+
+(2) The register shall be available for inspection free of charge by members of the public in such a manner or at such a place or places, and during such hours, as are determined by the Department.
+
+### 34 Appeals
+
+(1) This section applies to any appeal which lies under this Act to a court of summary jurisdiction against a decision of the Department in relation to, or to an application for, a licence under this Act.
+
+(2) Any such appeal shall be made in accordance with Part 7 of the Magistrates' Courts (Northern Ireland) Order 1981 (NI 26)
+
+(3) The time within which a person may bring such an appeal is 21 days from the date on which notice of the decision appealed against is served on that person.
+
+(4) In the case of a decision where an appeal lies, the notice of the decision shall state the right of appeal to a court of summary jurisdiction and the time within which an appeal may be brought.
+
+(5) On any appeal the court may make such order as it thinks fit and the order shall (without prejudice to any right of appeal) be binding on the Department.
+
+[[^F21](6) On any appeal, the court is not entitled to entertain any question as to whether—
+
+(a) a person should be, or should have been, granted leave to enter or remain in the United Kingdom, or
+
+(b) a person has, after the date of the decision being appealed against, been granted leave to enter or remain in the United Kingdom.]
+
+### 35 Effect of appeal on decision appealed against
+
+(1) Subject to subsection (2), any decision of the Department against which a right of appeal is conferred by this Act shall not take effect until the time for appealing has expired or (where an appeal is brought) until the appeal is disposed of or withdrawn.
+
+(2) Subsection (1) does not apply in relation to a decision to suspend, vary, revoke or curtail a licence if the notice of suspension, variation, revocation or curtailment directs that, in the interests of public safety, the decision is to have immediate effect.
+
+### 36 Regulations in respect of appeals (prospective)
+
+The Department may by regulations make such further provision in respect of appeals under this Act as it considers necessary or expedient.
+
+## PART 5 — ENFORCEMENT
+
+### 37 Enforcement notices
+
+(1) Where the Department considers that a licensed operator has failed to comply with any of the duties imposed by or under section 3(3), (4) or (6), the Department may serve on the person an enforcement notice.
+
+(2) An enforcement notice shall—
+
+(a) state that the Department considers that the person on whom the notice is served has failed to comply with the duty specified in the notice;
+
+(b) specify why the Department considers that the person has failed to comply with the duty in question; and
+
+(c) require the person, before the expiry of the period specified in the notice (being a period of at least 21 days), to take the action so specified.
+
+(3) A person who fails to comply with any requirement imposed by an enforcement notice shall be guilty of an offence.
+
+(4) It is a defence in proceedings for an offence under subsection (3) for a person to show that the person exercised all due diligence to avoid committing such an offence.
+
+(5) Where the Department has served an enforcement notice on a person, the Department may—
+
+(a) before the expiry of the period specified in the notice, by notice in writing to the person withdraw the enforcement notice; o
+
+(b) if an appeal against the notice is not pending under subsection (6), extend, or further extend, the period specified in the notice.
+
+(6) A person on whom an enforcement notice is served may, within 21 days from the date on which it is served, by notice appeal to the Department.
+
+(7) On an appeal under this section, the Department may either cancel or affirm the notice, and if it affirms it, it may do so either in its original form or with such modifications as the Department may in the circumstances think fit.
+
+(8) The Department shall, on making a decision under subsection (7), give notice of the decision to the appellant including particulars of the grounds of the decision.
+
+(9) A person who is aggrieved by a decision of the Department under subsection (7) may, within 21 days of the notice being served under subsection (8), appeal to a court of summary jurisdiction.
+
+(10) Any such appeal shall be made in accordance with Part 7 of the Magistrates' Courts (Northern Ireland) Order 1981 (NI 26).
+
+(11) On an appeal under this section, the court may either cancel or affirm the notice, and, if it affirms it, may do so either in its original form, in its form as modified by the Department under subsection (7) or with such other modifications as the court may in the circumstances think fit.
+
+(12) Where an appeal is brought under this section against an enforcement notice, the operation of the notice shall be suspended until the appeal is finally disposed of or, if the appeal is withdrawn, until the withdrawal of the appeal.
+
+### 38 Powers of entry
+
+(1) Subject to subsection (2), an authorised officer or a constable may enter at all reasonable times any premises specified as an operating centre in an operator's licence and inspect those premises and any equipment and any other item found there, for the purpose of ascertaining—
+
+(a) whether the conditions of the operator's licence are being complied with; or
+
+(b) whether any other provisions of or made under this Act are being complied with.
+
+(2) An authorised officer or a constable may not under subsection (1) enter premises which are occupied as a private dwelling unless under the authority of a warrant issued under subsection (5).
+
+(3) Subject to subsection (4), an authorised officer or a constable may enter at all reasonable times any premises and inspect those premises and any equipment and any other item found there if the officer or constable has reasonable grounds for suspecting that a person is operating a taxi service at or from those premises without an operator's licence.
+
+(4) An authorised officer or a constable may not enter premises under subsection (3) unless under the authority of a warrant issued under subsection (5).
+
+(5) Where a lay magistrate is satisfied by complaint on oath
+
+(a) that admission to the premises is reasonably required for the purposes specified in the complaint; and
+
+(b) that an authorised officer or a constable would, apart from subsection (2) or (4) be entitled for that purpose to exercise in respect of the premises a power of entry under subsection (1) or (3) as the case may be,
+
+the lay magistrate may issue a warrant under the lay magistrate's hand authorising that person to enter the premises.
+
+(6) A warrant issued under subsection (5) shall continue in force until the purpose for which entry is required has been satisfied.
+
+(7) An authorised officer or a constable exercising a power of entry by virtue of this section shall, if so required, produce evidence of the officer's or constable's authorisation and any warrant under subsection (5)—
+
+(a) before entering the premises; or
+
+(b) at any time before leaving the premises.
+
+(8) Where an authorised officer or a constable exercises a power of entry by virtue of this section, the officer or constable may seize and remove any equipment or other items found on the premises which the officer or constable has reasonable cause to believe may be required as evidence for the purpose of proceedings in respect of an offence under section 1 or 3.
+
+(9) The powers conferred on an authorised officer or a constable by subsection (8) are exercisable only at a time when regulations under section 42 are in operation.
+
+(10) Where an authorised officer or a constable exercises a power of entry by virtue of this section, the officer or constable shall ensure that the premises are left no less secure by reason of the entry, and the Department shall make good or pay compensation for any damage to property caused by the officer or constable in entering the premises, in carrying out any inspection or in making the premises secure.
+
+(11) Any question of disputed compensation shall be referred to and determined by the Lands Tribunal.
+
+(12) For the purposes of a power of entry under subsection (3), “premises” also includes vehicles.
+
+### 39 Power to stop and examine licensed taxis
+
+(1) An authorised officer or constable in uniform may stop and examine any licensed taxi.
+
+(2) If an authorised officer or constable in uniform is satisfied that the taxi does not comply with regulations under section 20 for ensuring the safety of passengers in taxis, and that danger to the passengers in the taxi is likely to occur, the officer or constable may require—
+
+(a) the passengers to leave the taxi; and
+
+(b) suitable arrangements to be made by the driver of the taxi for the immediate conveyance of the passengers to the places to which they are entitled to travel in the taxi.
+
+(3) If the driver of a taxi fails to make suitable arrangements for the immediate conveyance of passengers upon being required to do by an authorised officer or constable under subsection (2)(b) the driver is guilty of an offence
+
+(4) It is a defence in proceedings for an offence under this section for the driver to show that the driver exercised all due diligence to avoid committing such an offence.
+
+### 40 Power to stop and examine motor vehicles suspected of illegal taxiing etc.
+
+(1) Where an authorised officer or constable in uniform has reason to believe that any motor vehicle is a taxi being used in standing or plying for hire or reward or to carry passengers for hire or reward in contravention of any provision of or made under this Act or the 1981 Order, the officer or constable may stop and examine the vehicle.
+
+(2) Where an authorised officer or constable has stopped any vehicle under subsection (1), the officer or constable may require—
+
+(a) the driver of the vehicle; and
+
+(b) any person who has made, is making or intends to make, use of that vehicle for the carriage of passengers for hire or reward,
+
+to provide the officer or constable with all such information, and produce for the officer's or constable's inspection all such documents, as the officer or constable may reasonably require for any of the purposes mentioned in subsection (3).
+
+(3) Those purposes are—
+
+(a) obtaining the name and address of the owner of the vehicle, operator of the vehicle or driver of the vehicle, and
+
+(b) ascertaining, in relation to any passengers who have been, or are being, or are to be carried on the vehicle for hire or reward, particulars of—
+
+(i) the number of passengers;
+
+(ii) the places from which and to which the passengers have been, are being, or are to be, carried;
+
+(iii) the carriage of the passengers for hire or reward.
+
+### 41 Power of seizure
+
+(1) Subsection (2) applies if—
+
+(a) an authorised officer or constable in uniform—
+
+(i) exercises a power under section 40(1); or
+
+(ii) attempts to exercise a power under section 40(1) and the vehicle does not stop or does not stop long enough for the officer or constable to make such lawful enquiries as the officer or constable considers appropriate; and
+
+(b) the authorised officer or constable has reasonable grounds for believing that the vehicle is or was being used in contravention of section 12.
+
+(2) Where this subsection applies, the authorised officer or constable may—
+
+(a) subject to subsection (3), seize and remove the vehicle (together with any equipment or other items found in it);
+
+(b) enter, for the purpose of exercising a power falling within paragraph (a), any premises (other than premises occupied as a private dwelling) on which the officer or constable has reasonable grounds for believing the vehicle to be
+
+(c) use reasonable force, if necessary, in the exercise of any power conferred by paragraph (a) or (b).
+
+(3) If the authorised officer or constable is unable to seize the vehicle immediately because it has not stopped or has been driven off, the officer or constable may seize it at any time within the period of 24 hours beginning with the time at which subsection (1) is first satisfied.
+
+(4) The powers conferred on an authorised officer or a constable by this section are exercisable only at a time when regulations under section 42 are in operation.
+
+(5) In this section—
+
+(a) a reference to a vehicle does not include an invalid carriage;
+
+(b) “equipment or other items found in a vehicle” means equipment or other items which the authorised officer or constable has reasonable grounds to believe may be required as evidence for the purpose of proceedings in respect of an offence under section 12;
+
+(c) “private dwelling” does not include any garage or other structure occupied with the dwelling, or any land appurtenant to the dwelling house.
+
+### 42 Regulations concerning vehicles and equipment seized under section 38 or 41
+
+(1) The [[^F22]Department of Justice] may by regulations make provision as to—
+
+(a) the removal and retention of vehicles, equipment and items seized under section 38 or 41;
+
+(b) the release or disposal of such vehicles, equipment and items.
+
+(2) Regulations under subsection (1) may, in particular, make provision—
+
+(a) for the giving of notice of seizure of the vehicle, equipment or item to a person who is its owner;
+
+(b) for the procedure by which a person who claims to be the owner of the vehicle, equipment or item seized under section 38 or 41 may seek to have it released;
+
+(c) for requiring the payment, by the owner or driver of the vehicle or the owner of the equipment or item, of fees, charges or costs in relation to its removal and retention and to any application for its release;
+
+(d) as to the circumstances in which a vehicle, equipment or item seized under section 38 or 41 may be disposed of;
+
+(e) as to the destination—
+
+(i) of any fees, charges or costs payable in accordance with the regulations;
+
+(ii) of the proceeds (if any) arising from the disposal of any vehicle, equipment or item seized under section 38 or 41.
+
+### 43 Taxi touts
+
+(1) Subject to subsections (2) and (3), a person who solicits any person to be carried for hire or reward in a taxi is guilty of an offence.
+
+(2) Subsection (1) does not imply that the soliciting must refer to any particular taxi nor is the mere display of a plate, disc, sign or distinguishing mark on a taxi that it is for hire soliciting within that subsection.
+
+(3) No offence is committed under this section where soliciting persons to be carried for hire or reward in licensed taxis is permitted by any provision of or made under Chapter 2 of Part 1 (whether or not supplemented by provision made under section 5(3)) or by virtue of regulations made under section 20.
+
+### 44 False statements, forgery and power of seizure in connection with certain documents
+
+(1) A person who knowingly or recklessly makes, or causes to be made, a statement or furnishes information which is false or misleading in any material particular for the purpose of procuring the grant of a licence under this Act, or the variation of a licence under section 28, is guilty of an offence.
+
+(2) A person who, with intent to deceive—
+
+(a) forges, alters or uses a document or other thing listed in subsection (3);
+
+(b) lends to, or allows to be used by, any other person a document or other thing listed in subsection (3); or
+
+(c) makes or has in the person's possession any document or other thing so closely resembling a document or other thing listed in subsection (3) as to be calculated to deceive,
+
+is guilty of an offence.
+
+(3) The documents or other things referred to in subsection (2) are—
+
+(a) any licence under this Act;
+
+(b) any records required to be kept under, or by virtue of regulations made under, section 3;
+
+(c) any plate, disc, sign or distinguishing mark issued under section 15;
+
+(d) any document which, in pursuance of section 23(3), is issued as evidence of the result of a test of competence to drive;
+
+(e) any badge or other evidence of identification issued under section 24; or
+
+(f) such other documents or things as are prescribed.
+
+(4) If a constable or authorised officer has reasonable cause to believe—
+
+(a) that a document or other thing produced to the constable or officer under this Act by the driver of a motor vehicle;
+
+(b) a document or other thing carried on or by the driver of a motor vehicle; or
+
+(c) that any plate, disc, sign or distinguishing mark containing particulars required to be on a plate, disc, sign or distinguishing mark issued under section 15,
+
+is a document or other thing in relation to which an offence has been committed under this section, the constable or officer may seize the document or other thing.
+
+(5) For the purposes of subsection (4), the power to seize includes a power to detach from a vehicle
+
+(6) When a document or other thing has been seized under subsection (4), the person from whom it was seized shall, unless the document or other thing has been previously returned to the person or the person has been previously charged with an offence under this section, be summoned before a court of summary jurisdiction to account for the person's possession of the document or other thing and the court shall make such order respecting the disposal of the document or other thing and award such costs as the justice of the case may require.
+
+### 45 Obstruction of authorised officers etc.
+
+(1) A person who wilfully obstructs an authorised officer or constable acting in pursuance of this Act is guilty of an offence.
+
+(2) A person who, without reasonable excuse—
+
+(a) fails to comply with any requirement properly made to such person by an authorised officer or constable acting in pursuance of this Act; or
+
+(b) fails to give an authorised officer or constable acting in pursuance of this Act any other assistance or information which the officer or constable may reasonably require of such person for the purpose of performing the officer's or constable's functions under this Act,
+
+is guilty of an offence.
+
+(3) A person who makes any statement which the person knows to be false in giving any information to an authorised officer or constable acting in pursuance of this Act is guilty of an offence.
+
+### 46 Offences due to fault of other person
+
+Where an offence by any person under this Act is due to the act or default of another person, then (whether proceedings are taken against the first mentioned person or not) that other person is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+### 47 Offences by corporations
+
+Section 20(2) and (3) of the Interpretation Act (Northern Ireland) 1954 (c. 33) (offences by corporations) shall apply to this Act as if the requirement for consent in subsection (3) were omitted.
+
+### 48 Offences
+
+The entries set out in Schedule 1 relating to offences under this Act shall be added at the end of Part 1 of Schedule 1 to the Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10).
+
+## PART 6 — MISCELLANEOUS AND GENERAL
+
+### 49 Access to information (prospective)
+
+(1) The Department may make any information held by it for the purposes of this Act available to—
+
+(a) constables;
+
+(b) police support staff;
+
+(c) such other persons as may be prescribed.
+
+(2) In respect of any information made available under subsection (1) the Department may by regulations—
+
+(a) determine the purposes for which persons may be given access to the information;
+
+(b) determine the circumstances in which any of the information to which those persons have been given access may be further disclosed by them.
+
+(3) In this section “information” means information held in any form.
+
+### 50 Publication of information
+
+(1) The Department may publish, in such form and manner as it thinks appropriate, information in connection with the provisions of this Act.
+
+(2) Before the Department publishes any such information under subsection (1), it shall take into consideration any recommendations made by the General Consumer Council for Northern Ireland.
+
+### 51 Payment of grants
+
+(1) The Department may, with the approval of the Department of Finance and Personnel, pay such grants to such persons or bodies as it considers appropriate in connection with any provision of, or the purposes of, this Act.
+
+(2) Grants under this section may be subject to such terms and conditions as the Department may, with the approval of the Department of Finance and Personnel, determine.
+
+### 52 Training
+
+Without prejudice to any other provision of this Act, the Department may by regulations make provision requiring training for or in respect of any person in connection with this Act.
+
+### 53 Service of notices
+
+For the purposes of section 24 of the Interpretation Act (Northern Ireland) 1954 (c. 33), subsection (1) shall have effect with the omission of the word “registering”.
+
+### 54 Application of other statutory provisions
+
+(1) Articles 59 to 66 of the 1981 Order shall not apply to taxis, in so far as those provisions relate to any matter in relation to which requirements are or could be imposed by or under this Act.
+
+(2) Part 2 of the Transport Act (Northern Ireland) 1967 (c. 37) shall not apply to the use of a taxi to stand or ply for hire or reward or to carry passengers for hire or reward.
+
+[^F23]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Notwithstanding anything in Article 215 of the 1981 Order or Article 109 of the 1995 Order, the provisions of those Orders, in so far as they relate to taxis, shall have effect in relation to the Belfast Harbour Commissioners or other harbour commissioners having in relation to their harbour area powers similar to those of the Belfast Harbour Commissioners for restricting access to, and regulating motor traffic on, roads, and a road vested in, or under the control of, any such harbour commissioners, shall be deemed for the purposes of those Orders to be a road to which the public has access.
+
+(5) For the purposes of those provisions as applied by subsection (4) to a road in the Belfast Harbour Estate a member of the Belfast Harbour Police shall have the same powers as a member of the Police Service of Northern Ireland has in relation to other roads.
+
+### 55 Ancillary and transitional provisions etc.
+
+(1) The Department may by order make such incidental, supplementary, consequential, transitory, transitional or saving provisions as it considers necessary or expedient for the purposes of, in consequence of or for giving full effect to this Act or any provision of it, or in connection with the coming into operation of any provision of this Act.
+
+(2) An order under this section may amend, repeal or modify any statutory provision (including this Act).
+
+(3) The power conferred by this section is not restricted by any other provision of this Act.
+
+(4) Subsection (5) applies to byelaws made or having effect as if made under Article 65 of the 1981 Order which—
+
+(a) relate to taxis; and
+
+(b) are in force immediately before the coming into operation of section 54(1).
+
+(5) Notwithstanding anything in section 54(1)—
+
+(a) provisions of those byelaws which could have been included in an order under Article 27A of the Road Traffic Regulation (Northern Ireland) Order 1997 shall have effect as if contained in such an order; and
+
+(b) any other provisions of those byelaws shall have effect as if contained in regulations made under section 20
+
+### General
+
+#### 56 Orders and regulations
+
+(1) The Department may make regulations for any purpose for which regulations may be made under this Act or for prescribing anything which falls to be prescribed under any provision of this Act.
+
+(2) Any orders or regulations under this Act may contain such incidental, supplementary, consequential, transitory, transitional or saving provisions as the Department (or the [[^F24]Department of Justice] in the case of regulations under section 42) considers necessary or expedient.
+
+(3) Without prejudice to the operation of section 17(5) of the Interpretation Act (Northern Ireland) 1954 (c. 33), any orders or any regulations made under this Act may be of a local, as opposed to public general, nature and may be limited in their application to a particular area.
+
+(4) [[^F25]An] order (except an order under section 59) or regulations under this Act shall be subject to negative resolution.
+
+(5) [^F26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 56A [[^F27]Persons disqualified by reason of immigration status
+
+(1) For the purposes of this Act a person is disqualified by reason of the person's immigration status from carrying on a licensable activity if the person is subject to immigration control and—
+
+(a) the person has not been granted leave to enter or remain in the United Kingdom, or
+
+(b) the person's leave to enter or remain in the United Kingdom—
+
+(i) is invalid,
+
+(ii) has ceased to have effect (whether by reason of curtailment, revocation, cancellation, passage of time or otherwise), or
+
+(iii) is subject to a condition preventing the person from carrying on the licensable activity.
+
+(2) Where a person is on immigration bail within the meaning of Part 1 of Schedule 10 to the Immigration Act 2016—
+
+(a) the person is to be treated for the purposes of this Part as if the person had been granted leave to enter the United Kingdom, but
+
+(b) any condition as to the person's work in the United Kingdom to which the person's immigration bail is subject is to be treated for those purposes as a condition of leave.
+
+(3) For the purposes of this section a person is subject to immigration control if under the Immigration Act 1971 the person requires leave to enter or remain in the United Kingdom.
+
+(4) For the purposes of this section a person carries on a licensable activity if the person—
+
+(a) operates a taxi service, or
+
+(b) drives a taxi.
+
+#### 56B Immigration offences and immigration penalties
+
+(1) In this Act “immigration offence” means—
+
+(a) an offence under any of the Immigration Acts,
+
+(b) an offence under Article 3 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (SI 1983/1120 (NI 13)) of attempting to commit an offence within paragraph (a), or
+
+(c) an offence under Article 9 of that Order of conspiracy to commit an offence within paragraph (a).
+
+(2) In subsection (1)(a)—
+
+(a) “the Immigration Acts” has the meaning given by section 61(2) of the UK Borders Act 2007, and
+
+(b) the reference to an offence under any of the Immigration Acts includes an offence under section 133(5) of the Criminal Justice and Immigration Act 2008 (breach of condition imposed on designated person).
+
+(3) In this Act “immigration penalty” means a penalty under—
+
+(a) section 15 of the Immigration, Asylum and Nationality Act 2006 (“the 2006 Act”), or
+
+(b) section 23 of the Immigration Act 2014 (“the 2014 Act”).
+
+(4) For the purposes of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+(a) the person is excused payment by virtue of section 15(3) of that Act, or
+
+(b) the penalty is cancelled by virtue of section 16 or 17 of that Act.
+
+(5) For the purposes of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+(a) the period for giving a notice of objection under section 16 of that Act has expired and the Secretary of State has considered any notice given within that period, and
+
+(b) if a notice of objection was given within that period, the period for appealing under section 17 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.
+
+(6) For the purposes of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+(a) the person is excused payment by virtue of section 24 of that Act, or
+
+(b) the penalty is cancelled by virtue of section 29 or 30 of that Act.
+
+(7) For the purposes of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+(a) the period for giving a notice of objection under section 29 of that Act has expired and the Secretary of State has considered any notice given within that period, and
+
+(b) if a notice of objection was given within that period, the period for appealing under section 30 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.]
+
+#### 57 Interpretation
+
+(1) In this Act—
+
+- “the 1981 Order” means the Road Traffic (Northern Ireland) Order 1981 (NI 1);
+
+- “the 1995 Order” means the Road Traffic (Northern Ireland) Order 1995 (NI 18);
+
+- “affiliated driver” has the meaning given by section 1(2);
+
+- “authorised officer” means a vehicle examiner or an officer authorised in writing by the Department for the purposes of this Act;
+
+- “the Department” means the Department of the Environment;
+
+- “driver”, where a separate person acts as steersperson of a motor vehicle, includes that person as well as any other person engaged in the driving of the vehicle;
+
+- “licensed operator” has the meaning given by section 1(1);
+
+- “licensed taxi” means a taxi for which there is in force a taxi licence;
+
+- “motor vehicle” has the same meaning as in the 1981 Order;
+
+- “notice” means notice in writing;
+
+- “operate a taxi service” has the meaning given by section 1(4);
+
+- “operating centre” means premises at or from which a taxi operator operates a taxi service;
+
+- “operator's licence” means a licence under section 2;
+
+- “owner”, in relation to a vehicle, means the person by whom the vehicle is kept, which in the case of a vehicle registered under the Vehicle Excise and Registration Act 1994 (c. 22) is presumed (unless the contrary is proved) to be the person in whose name the vehicle is registered
+
+- “premises” includes any place (including premises occupied as a private dwelling, any installation on land or any movable structure), but (except for the purposes of a power of entry under section 38(3)) does not include any vehicles;
+
+- “prescribed” means prescribed by regulations;
+
+- “regulations” (except in sections 41, 42 and 56) means regulations made by the Department;
+
+- “statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954;
+
+- “taxi” means a motor vehicle constructed or adapted to carry not more than 8 passengers in addition to the driver—
+
+  - (a) which is used in standing or plying for hire or reward; or
+  - (b) which is provided with the services of a driver and is used to carry passengers for hire or reward in the course of business of carrying passengers,
+
+  but does not include any vehicle in respect of which a certificate of exemption in the prescribed form has been issued by the Department or any vehicle to which Article 66A of the 1981 Order (car-sharing arrangements) applies;
+
+- “taxi booking” means a booking for a taxi to carry one or more passengers for hire or reward (including a booking to carry out as sub-contractor a taxi booking accepted by another operator);
+
+- “taxi driver's licence” means a licence under section 23;
+
+- “taxi licence” means a licence under section 13;
+
+- “taximeter” means a device that works together with a signal generator to make a measuring instrument; with the device measuring duration, calculating distance on the basis of a signal delivered by the distance signal generator, and calculating and displaying the fare to be charged in respect of any journey in a taxi on the basis of the calculated distance or the measured duration of the journey or a combination of both;
+
+- “taxi operator” means a person who operates a taxi service;
+
+- “vehicle examiner” means an examiner appointed by the Department under Article 74 of the 1995 Order.
+
+(2) In this Act, references to the carriage of passengers for hire or reward include references to the carriage of passengers at separate fares.
+
+#### 58 Consequential amendments and repeals
+
+(1) Schedule 2 (which contains minor and consequential amendments) shall have effect.
+
+(2) The statutory provisions mentioned in the first column of Schedule 3 are repealed to the extent set out in the second column.
+
+#### 59 Commencement
+
+This Act (except sections 55 to 57, this section and section 60) shall come into operation on such day or days as the Department may by order appoint.
+
+#### 60 Short title
+
+This Act may be cited as the Taxis Act (Northern Ireland) 2008.
+
+## SCHEDULE 1 — ENTRIES TO BE INSERTED IN PART 1 OF SCHEDULE 1 TO THE ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996 IN RESPECT OF OFFENCES UNDER THIS ACT
+
+*Section 48.*
+
+<table>
+<tbody>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th></tr>
+<tr><th>Provision creating offence</th><th>General nature of offence</th><th>Mode of Prosecution</th><th>Punishment</th><th>Disqualification</th><th>Endorsement</th><th>Penalty Points</th></tr>
+<tr><th colspan="7"><b><i>Offences under the Taxis Act (Northern Ireland) 2008</b></i></th></tr>
+<tr><td>Section 1(3)</td><td>Operating a taxi service without an operator's licence</td><td>Summarily</td><td>Level 5 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 3(5)</td><td>Knowingly keeping or making false records etc.</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 3(10)</td><td>Operating a taxi service in respect of unlicensed taxi or in respect of taxi driven by unlicensed driver</td><td>Summarily</td><td>Level 5 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 3(11)</td><td>Contravention of other operator's duties</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 4(2)</td><td>Sub-contracting work to a non-licensed operator</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 5(2)</td><td>Contravention of provisions of or made under Chapter 2</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 12(2) and (3)</td><td>Using, or permitting a taxi to be used, without a taxi licence</td><td>Summarily</td><td>Level 5 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 14(6)</td><td>Contravention of taxi owner's duties</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 15(3) and (4)</td><td>Contravention of requirement to exhibit taxi plates etc.</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 16(4)</td><td>Contravention of regulations relating to regulation of fares</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 17(4)</td><td>Failure to display fares or contravention of regulations to secure publication of fares</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 18(6)</td><td>Contravention of provisions relating to taximeters</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 18(8)</td><td>Unlawful tampering with a taximeter</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 19(2)</td><td>Carrying more than the prescribed number of passengers</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 20(3)</td><td>Contravention of regulations concerning taxis or use of taxis</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 22(2)</td><td>Driving a taxi without a taxi driver's licence</td><td>Summarily</td><td>Level 5 on the standard scale</td><td>Discretionary if committed by driving a taxi where no licence authorising the driving of that vehicle could have been granted</td><td>Obligatory if committed as described in column 5</td><td>3–6</td></tr>
+<tr><td>Section 22(3)</td><td>Operating a taxi service driven by a taxi driver without a taxi driver's licence or owning a taxi being driven by a taxi driver without a taxi driver's licence</td><td>Summarily</td><td>Level 5 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 22(5)</td><td>Driving a taxi without a taxi driver's licence for that class of taxi</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 22(6)</td><td>Operating a taxi service driven by a taxi driver without a taxi driver's licence for that class of taxi or owning a taxi driven by a taxi driver without a taxi driver's licence for that class of taxi</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 24(5)</td><td>Failure to wear a taxi driver's badge or display other identification</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 31(5)</td><td>Failure to produce documents etc.</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 32(6)</td><td>Failure to comply with requirement or direction to return licence, plate, etc. or badge</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 37(3)</td><td>Failure to comply with an enforcement notice</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 39(3)</td><td>Failure to make alternative arrangements for conveyance of passengers</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 43(1)</td><td>Soliciting any person to be carried in a taxi</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 44(1)</td><td>Knowingly etc. to make false statement or furnish false information</td><td>Summarily</td><td>Level 5 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 44(2)</td><td>Forging, possessing, documents, etc. with intent to deceive</td><td>Summarily</td><td>Level 5 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 45(1)</td><td>Obstruction of constable or authorised officer</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 45(2)</td><td>Failure to comply with requirement of constable or authorised officer or failure to give a constable or authorised officer assistance or information</td><td>Summarily</td><td>Level 3 on the standard scale</td><td></td><td></td><td></td></tr>
+<tr><td>Section 45(3)</td><td>Knowingly to make a false statement to authorised officer or constable</td><td>Summarily</td><td>Level 5 on the standard scale</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+*Section 58(1).*
+
+### The Road Traffic (Northern Ireland) Order 1981 (NI 1)
+
+**1** In Article 2(2) (interpretation), in the definition of “the Road Traffic Orders”—
+
+(a) omit “and”; and
+
+(b) after “2007” add “ and the Taxis Act (Northern Ireland) 2008 ”.
+
+**2** In Article 66A(1) (car-sharing arrangements), after “public service vehicle” insert “ or taxi (within the meaning of the Taxis Act (Northern Ireland) 2008) ”.
+
+### The Disability Discrimination Act 1995 (c. 50)
+
+**3** In section 32(5) (taxi accessibility regulations), for the definition of “taxi” substitute—
+
+> “taxi” means a taxi within the meaning of the Taxis Act (Northern Ireland) 2008 which is licensed under section 13 of that Act for use in standing or plying for hire or reward or to carry passengers for hire or reward.
+
+.
+
+**4** In section 34 (new licences conditional on compliance with accessibility taxi regulations)—
+
+(a) for subsection (1) substitute—
+
+> (1) The Department of the Environment shall not grant a taxi licence under section 13 of the Taxis Act (Northern Ireland) 2008 for a taxi unless the vehicle conforms with those provisions of the taxi accessibility regulations with which it will be required to conform if licensed.
+
+;
+
+(b) in subsection (2) after “such a licence” insert “ or a public service vehicle licence granted under Article 61 of the Road Traffic (Northern Ireland) Order 1981 ”.
+
+**5** In section 37A (carrying of assistance dogs in private hire vehicles)—
+
+(a) for “private hire vehicle”, each place it occurs, substitute “ taxi ”;
+
+(b) in subsection (9)—
+
+(i) for the definition of “driver” substitute
+
+> “driver” means a person who holds a taxi driver's licence granted under—
+>
+> (a) Article 79A of the Road Traffic (Northern Ireland) Order 1981; or
+>
+> (b) section 23 of the Taxis Act (Northern Ireland) 2008;
+
+;
+
+(ii) after the definition of “assistance dog” insert—
+
+> “booking” means a taxi booking within the meaning given by section 57(1) of the Taxis Act (Northern Ireland) 2008;
+
+;
+
+(iii) for the definition of “operator” substitute—
+
+> “operator” means a person who holds an operator's licence granted under section 2 of the Taxis Act (Northern Ireland) 2008;
+
+.
+
+### The Road Traffic (Northern Ireland) Order 1995 (NI 18)
+
+**6** In Article 2(2) (general interpretation)—
+
+(a) in the definition of “the Road Traffic Orders”—
+
+(i) omit“and”; and
+
+(ii) after “2007” add “ and the Taxis Act (Northern Ireland) 2008 ”;
+
+(b) after the definition of “statutory provision”, insert—
+
+> “taxi” has the same meaning as in the Taxis Act (Northern Ireland) 2008;
+
+.
+
+**7** In Article 17 (power to administer preliminary tests) in paragraph (8)(b)—
+
+(a) at the end of sub-paragraph (iii) omit“or”; and
+
+(b) at the end of sub-paragraph (iv) add
+
+> or
+>
+> (v) any provision of the Taxis Act (Northern Ireland) 2008.
+
+.
+
+**8** In Article 63(3) (obligatory test certificates), for sub-paragraph (b) substitute—
+
+> (b) a taxi; or
+
+.
+
+**9** In Article 76 (inspection of public passenger vehicles and goods vehicles) in paragraph (6), after sub-paragraph (a) insert—
+
+> (aa) taxis;
+
+.
+
+**10** In Article 78(1) (prohibitions conditional on inspection, etc.), after “not so adapted” insert “ or is a taxi ”.
+
+### The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)
+
+**11** In Article 2(2) (general interpretation), in the definition of “the Road Traffic Orders”—
+
+(a) omit“and”; and
+
+(b) after “2007” add “ and the Taxis Act (Northern Ireland) 2008 ”.
+
+### The Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
+
+**12** In Article 2(2) (interpretation) in the definition of “the Road Traffic Orders”—
+
+(a) omit“and”; an
+
+(b) after “2007” add “ and the Taxis Act (Northern Ireland) 2008 ”.
+
+### The Traffic Management (Northern Ireland) Order 2005 (NI 14)
+
+**13** In Schedule 1 (contraventions subject to penalty charges)—
+
+(a) after the paragraph beginning “An offence under Article 19(1) or (3)” insert—
+
+> An offence under Article 27A(2).
+
+; and
+
+(b) for the paragraph beginning “An offence under any statutory provision” substitute—
+
+> An offence under any statutory provision of contravening—
+>
+> (a) a prohibition or restriction on the use of a stand or starting place for taxis or taxis of a particular description by a vehicle which is not a taxi or not a taxi of that description; or
+>
+> (b) a prohibition or restriction on a taxi or a taxi of a particular description from standing or plying for hire or reward within a prescribed distance of a stand or starting place for taxis.
+>
+> (For the purposes of this paragraph “taxi” has the meaning given by section 57(1) of the Taxis Act (Northern Ireland) 2008).
+
+.
+
+## SCHEDULE 3 — REPEALS
+
+*Section 58(2).*
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Road Traffic (Northern Ireland) Order 1981 (NI 1). | Article 79A. |
+| The Road Traffic (Amendment)(Northern Ireland) Order 1991 (NI 3). | Article 6 In Schedule 3, Part 2. |
+| The Disability Discrimination Act 1995 (c. 50). | In Schedule 8, paragraphs 16(2) and 21A(2). |
+| The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10). | In Part 1 of Schedule 1, the entry relating to Article 79A of the 1981 Order. |
+
+---
+
+[^F1]: S. 2(4)(aa) substituted (1.12.2016) for word in s. 2(4)(a) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 46(2) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F2]: S. 2(4A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 46(3) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F3]: Words in s. 2(7) substituted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 46(4) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F4]: S. 2A inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 47 (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F5]: S. 5(1)(c) substituted (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(2), 48(2); S.R. 2015/284, art. 2(1), Sch.
+[^F6]: Words in s. 8 substituted (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(3)(c), 48(2); S.R. 2015/284, art. 2(1), Sch.
+[^F7]: S. 8(a) repealed (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(3)(a), 48(2), Sch. 2; S.R. 2015/284, art. 2(1), Sch.
+[^F8]: Words in s. 8(b) substituted (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(3)(b), 48(2); S.R. 2015/284, art. 2(1), Sch.
+[^F9]: S. 9 repealed (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(4)(a), 48(2), Sch. 2; S.R. 2015/284, art. 2(1), Sch.
+[^F10]: S. 10 repealed (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(4)(b), 48(2), Sch. 2; S.R. 2015/284, art. 2(1), Sch.
+[^F11]: S. 11 repealed (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(4)(c), 48(2), Sch. 2; S.R. 2015/284, art. 2(1), Sch.
+[^F12]: S. 23(2)(aa) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 48(2) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F13]: S. 23(2A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 48(3) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F14]: Words in s. 23(8) substituted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 48(4) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F15]: S. 23A inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 49 (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F16]: S. 26(2)(aa) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 50(2) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F17]: S. 26(2A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 50(3) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F18]: S. 26(6)(aa) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 50(4) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F19]: S. 26(7) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 50(5) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F20]: S. 32(5A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 51; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F21]: S. 34(6) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 52; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F22]: Words in s. 42(1) substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 92(2) (with arts. 28-31); S.I. 2010/977, art. 1(2) (but this amendment cannot take effect until the commencement of 2008 (c.4) (N.I.), s. 42)
+[^F23]: S. 54(3) repealed (5.10.2015) by Transport Act (Northern Ireland) 2011 (c. 11), ss. 21(4)(d), 48(2), Sch. 2; S.R. 2015/284, art. 2(1), Sch.
+[^F24]: Words in s. 56(2) substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 92(3)(a) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F25]: Word in s. 56(4) substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 92(3)(b) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F26]: S. 56(5) omitted (12.4.2010) by virtue of Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 12, Sch. 14 para. 92(3)(c) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F27]: Ss. 56A, 56B inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 53; S.I. 2016/1037, reg. 5(i) (with reg. 6)

@@ -1,0 +1,135 @@
+---
+title: "Conventicle Act 1664"
+identifier: "aep/Cha2/16/4"
+citation: "1664 CHAPTER 4 16 Cha 2"
+type: act
+legislation_type: aep
+jurisdiction: gb
+language: en
+version: enacted
+status: unknown
+source: "https://www.legislation.gov.uk/aep/Cha2/16/4"
+source_modified: 2024-12-11
+retrieved: 2026-10-11
+---
+
+# Conventicle Act 1664
+
+**1664 CHAPTER 4 16 Cha 2**
+
+An Act to prevent and suppresse seditious Conventicles.
+
+## Recital that 35 Eliz. c. 1. had not been executed.
+
+*The said Act in force.; Persons Sixteen Years old and upwards assembling under Colour of Religion; Two Justices or the Chief Magistrate to record Offence.; Such Record to be a Conviction.; Imprisonment, unless Fine not exceeding £5 paid*.
+
+Whereas an Act made in the Five and thirtyeth yeare of the Raigne of our late Soveraigne Lady Queene Elizabeth Entituled An Act to retaine the Queenes Majestyes Subjects in their due Obedience hath not beene putt in due Execution by reason of some doubt of late made whether the said Act be still in force although it be very clear and evident, and it is hereby declared that the said Act is still in force and ought to be putt in due execution; For provideing therefore of further and more speedy Remedyes against the growing and dangerous Practises of Seditious Sectaryes and other disloyall persons who under pretence of Tender Consciencies doe at their Meetings contrive Insurrections as late experience hath shewed, Bee it enacted by the Kings most Excellent Majestie by and with the Advice and Consent of the Lords Spirituall and Temporall, and Commons in this present Parliament assembled, and by the Authoritie of the same That if any person of the age of Sixteene yeares or upwards being a Subject of this Realme at any time after the first day of July which shall be in the yeare of our Lord One thousand six hundred sixty and fower shall be present at any Assembly Conventicle or Meeting under colour or pretence of any Exercise of Religion in other manner then is allowed by the Liturgy or practise of the Church of England in any place within the kingdome of England Dominion of Wales or Towne of Berwicke upon Tweede, at which Conventicle Meeting or Assembly there shall be five persons or more assembled together over and above those of the same Household, then it shall and may be lawfull to and for any two Justices of the Peace of the County Limit Division or Liberty wherein the offence aforesaid shall be committed, or for the Cheife Magistrate of the place where such offence aforesaid shall be committed (if it be within a Corporation where there are not two Justices of the Peace) And they are hereby required and enjoyned upon proofe to them or him respectively made of such offence either by confession of the party or Oath of Witnesses, or notorious Evidence of the Fact (which Oath the said Justices of the Peace and Cheife Magistrate respectively are hereby impowered and required to administer) to make a Record of every such offence and offences under their Hands and Seales respectively, which Record soe made as aforesaid shall to all intents and purposes be in Law taken and adjudged to be a full and perfect Conviction of every such Offender for such offence, And thereupon the said Justices and Chiefe Magistrate respectively shall committ every such Offender soe convicted as aforesaid to the Goale, or House of Correction there to remaine without Baile or Maineprize for any time not exceeding the space of three Monethes unlesse such offender shall pay downe to the said Justices or Cheife Magistrate such Summe of Money not exceeding Five pounds as the said Justices or Cheife Magistrate (who are hereby thereunto authorized and required) shall fine the said offender at for his or her said offence which Money shall be paid to the ChurchWardens for the releife of the Poore of the Parish where such offender did last inhabite.
+
+## II Second Offence, Imprisonment, unless Penalty not exceeding £10 paid.
+
+And be it further enacted by the Authoritie aforesaid That if such Offender soe convicted as aforesaid shall at any time againe committ the like offence contrary to this Act, and be thereof in manner aforesaid convicted then such Offender soe convict of such second offence shall incurr the penalty of Imprisonment in the Goale or House of Correction for any time not exceeding six Monethes without Baile or Mainprize unlesse such Offender shall pay downe to the said Justices or Cheife Magistrate such summe of money not exceeding Ten pounds as the said Justices or Cheife Magistrate (who are thereunto authorized and required as aforesaid) shall fine the said offender at for his or her said second offence, the said Fine to be disposed in manner aforeraid.
+
+## III Third Offence, Imprisonment till next Quarter Sessions or Assizes;
+
+*Proceedings by Indictment; and on Conviction, or refusing to plead or confess,; Transportation for Seven Years.; Sheriffs not transporting Offender; Penalty £40.; Court to issue Warrant to sequester the Lands and distrain and sell the Goods of Offender for Reimbursement of Sheriff.; Overplus to Party unless Security given*.
+
+And be it further enacted by the Authoritie aforesaid That if any such Offender soe convict of a second offence contrary to this Act in manner aforesaid shall at any time againe committ the like offence contrary to this Act, then any two Justices of the Peace and Cheife Magistrate as aforesaid respectively shall committ every such Offender to the Goale or House of Correction there to remaine without Baile or Mainprize untill the next Generall Quarter Sessions Assizes, Goale-delivery Great Sessions or sitting of any Co[m]mission of Oyer and Terminer in the respective County Limitt Division or Liberty which shall first happen when and where every such Offender shall be proceeded against by Indictment for such offence, and shall forthwith be arraigned upon such Indictment, and shall then pleade the Generall Issue of Not guilty, and give any speciall matter in Evidence or confesse the Indictment, And if such Offender proceeded against shall be lawfully convict of such Offence either by Confession or Verdict, or if such Offender shall refuse to pleade the Generall Issue or to confesse the Indictment then the respective Justices of the Peace at their Generall Quarter Sessions Judges of Assize and Goale delivery at the Assizes and Goale delivery Justices of the Great Sessions at the Great Sessions and Co[m]missioners of Oyer and Terminer at their sitting are hereby enabled and required to cause Judgment to be entred against such Offender That such Offender shall be transported beyond the Seas to any of His Majestyes Forreigne Plantations (Virginia and New England onely excepted) there to remaine Seven Yeares And shall forthwith under their Hands and Seales make out Warrants to the Sheriffe or Sheriffes of the same County where such Conviction or Refusall to pleade or to confesse as aforesaid shall be safely to convey such Offender to some Port or Haven neerest or most co[m]modious to be appointed by them respectively, And from thence to [[^X1]embarque] such Offender to be safely transported to any of His Majestyes Plantations beyond the Seas as shall be alsoe by them respectively appointed (Virginia and New England onely excepted) Whereupon the said Sheriffe shall safely convey and [[^X1]embarque,] or cause to be conveyed and [[^X2]embarqued] such Offender to be transported as aforesaid under paine of forfeiting for defaulte of soe transporting every such Offender the summe of Forty pounds of lawfull money the moyety thereof to the King and the other moyety to him or them that shall sue for the same in any of the Kings Courts of Record by Bill Plaint Action of Debt or Information, In any of which noe Wager of Law Essoigne or Protection shall be admitted, And the said respective Court shall then alsoe make out Warrants to the severall Constables Headboroughes or Tythingmen of the respective places where the Estate reall or personall of such Offender soe to be transported shall happen to be commanding them thereby to sequester into their hands the proffitts of the Lands and to destraine and sell the Goods of the Offender soe to be transported for the reimbursing of the said Sheriffe all such reasonable charges as he shall be at and shall be allowed him by the said respective Court for such conveying and [[^X3]embarqueing] of such Offender soe to be transported rendring to the party or his or her Assignes the overplus of the same, if any be, unlesse such Offender or some other on the behalfe of such Offender soe to be transported shall give the Sheriffe such Security as he shall approve of for the paying all the said Charges unto him,
+
+## IV Where Default of Payment of Charges or Security not given, transported Offenders to serve to Merchants as Labourers for Five Years.
+
+*Sheriffs to be allowed their Charges upon their Accounts*.
+
+And bee it further enacted by the Authoritie aforesaid That in defaulte of defraying such Charges by the partyes soe to be transported or some other on their behalfe, or in defaulte of Securitie given to the Sheriffe as aforesaid It shall and may be lawfull for every such Sheriffe to contract with any Master of a Shipp Merchant or other person for the transporting of such Offender at the best rate he can, And that in every such Case it shall and may be lawfull for such persons soe contracting with any Sheriffe for transporting such Offender as aforesaid to and employ every such Offender soe by them transported as a Labourer to them or their Assignes for the space of Five yeares to all intents and purposes as if he or she were bound by Indentures to such person for that purpose, And that the respective Sheriffes shall be allowed or paid from the King upon their respective Accompts in the Exchequer all such charges by them expended for conveying embarguing and transporting of such persons which shall be allowed by the said respective Courts from whence they received their respective Warrants and which shall not have beene by any of the wayes aforementioned paid secured or reimbursed unto them as aforesaid.
+
+## V If the Offender pay £100 for Third Offence, not to be transported
+
+[[^X4]Provided alwayes and be it further enacted That in case the Offender soe indicted and convicted for the said Third offence shall pay into the hands of the Register or Clerke of the Court or Sessions where he shall be convicted (before the said Court or Sessions shall be ended) the summe of One hundred pounds That then the said Offender shall be discharged from Imprisonment and Transportation and the Judgement for the same.
+
+## VI VI. How Fourth and further Offences punished:
+
+*How Penalties to be distributed; Officers not executing Act, and in respect of First and Second Offence; Penalty £5. In Actions for executing Act General Issue may be pleaded.; Treble Costs*.
+
+And be it further enacted That the like Imprisonment Indictment Arraignment and Proceedings shall be against every such Offender as often as he shall againe offend after such Third offence Neverthelesse [[^X5]is] dischargeable and discharged by the payment of the like summe as was paid by such Offender for his or her said offence next before committed together with the additionall and increased summe of One hundred pounds more upon every new offence committed, the said respective summes to be paid as aforesaid and to be disposed of as followeth (viz) The one moyety for the Repaire of the Parish Church or Churches Chappell or Chappells of such Parish within which such Conventicle Assembly or Meeteing shall be held, and the other moyety to the repaire of the Highwayes of the said Parish or Parishes (if neede require) or otherwise for the amendment of such High-wayes as the Justices of the Peace at their respective Quarter Sessions shall direct and appoint.] And if any Constable Headborough or Tythingman shall negclectt to execute any the said Warrants made unto them for sequestring destraining and selling the Estate or Goods of any person soe to be transported or for destraining and selling any of the Goods and Chattells of any Offender against this Actt for the levying [[^X5]of] such summes of money as shall be imposed for the first or second offence he shall forfeit for every such negclectt the summe of Five pounds of lawfull money of England, the one moyety thereof to the King and the other moyetie to him that will sue for the same in any of the Kings Courts of Record as is aforesaid, And if any person be at any time sued for putting in Execution any of the powers contained in this Actt such person shall and may pleade the generall Issue and give the speciall matter in evidence, And if the Plaintiffe be Nonsuite or a Verdictt passe for the Defendant thereupon, or if the Plaintiffe discontinue his Action or if upon Demurrer Judgment be given for the Defendant every such Defendant shall, have his or their treble Costs,
+
+## VII Persons transported escaping or returning without Leave; Felony without Clergy:
+
+*Wife not to lose her Dower.; No Corruption of Blood*.
+
+And be it further enacted That if any person against whom Judgement of Transportation shall be given in manner aforesaid shall make escape before Transportation, or being transported as aforesaid shall returne into this Realme of England Dominion of Wales and Towne of Berwicke upon Tweede without the speciall License of His Majestie His Heires and Successors in that behalfe first had and obtained; That the party soe escapeing or returning shall be adjudged a Felon and shall suffer death as in case of Felony without benefit of Clergy, and shall forfeite and loose to His Majestie all his or her Goods and Chattells for ever, and shall further lose to His Majestie all his or her Lands Tenements and Hereditaments for and dureing the life onely of such Offender and noe longer, And that the wife of any such Offender by force of this Act shall not lose her Dower, nor shall any Corruption of blood grow or be by reason of any such Offence mentioned in this Act, But that the heire of every such Offender by force of this Act shall and may after the death of such Offender have and enjoy the Lands Tenements and Hereditaments of such Offenders as if this Act had not beene made.
+
+## VIII Lieutenants and Deputy Lieutenants, &c. to dissolve or prevent Conventicles; and to take Persons assembled into Custody
+
+And for better preventing of the mischeifes which may grow by such Seditious and Tumultuous Meeteings under pretence of Religious Worship Be it further enacted by the Authoritie aforesaid That the Leiutenants or Deputie Leiutenants or any Commissioned Officers of the Militia, or any other of His Majestyes Forces with such Troops or Companies of Horse or Foote And alsoe the Sheriffes and Justices of Peace and other Magistrates and Ministers of Justice or any of them joyntly or severally within any of the Countyes or Places within this Kingdome of England Dominion of Wales or Towne of Berwicke upon Tweede with such other assistance as they shall thinke meete or can gett in readines with the soonest on Certificate made to them respectively under the Hand and Seale of any one Justice [[^X6]of the Peace] or Cheife Magistrate as aforesaid of his perticular Information or Knowledge of such unlawfull Meetings or Conventicles held or to be held in their respective Countyes or Places, and that he (with such assistance as he can gett together is not able to suppresse or dissolve the same) shall and may and are hereby required and enjoyned to repaire unto the place where they are soe held or to be held, and by the best meanes they can to dissolve and dissipate or prevent all such unlawfull Meetings, and take into their custody such of those persons soe unlawfully assembled as they shall judge to be the Leaders and Seducers of the rest and such others as they shall thinke fitt to be proceeded against according to Law for such their offences.
+
+## IX Owner of House, &c. suffering Conventicle; Penalty
+
+And be it enacted by the Authoritie aforesaid That every person who shall wittingly and willingly suffer any such Conventicle unlawfull Assembly or Meeteing aforesaid to be held in his or her House, Outhouse, Barne or Roome Yard or Backeside Woods or Grounds shall incurr the same penaltyes and forfeitures as any other Offender against this Act ought to incurr, and be procceeded against in all points in such manner as any other Offender against this Act ought to be proceeded against,
+
+## X Gaoler letting Prisoner at large, or permitting Persons at large to join Prisoner; Penalty £10
+
+Provided alsoe and be it enacted by the Authoritie aforesaid That if any Keeper of any Goale or House of Correction shall suffer any person committed to his custody for any offence against this Act to goe at large contrary to the Warrant of his Commitment according to this Act, or shall [^X5] person who is at large to joyne with any person committed to his Custody by vertue of this Act in the exercise of Religion differing from the Rites of the Church of England then every such Keeper of a Goale or House of Correction shall for every such Offence forfeit the summe of Tenn pounds to be levyed raised and disposed by such persons and in such manner as the penaltyes for the first and second Offences against this Act are to be levyed raised and disposed
+
+## XI Limitation of Prosecution:
+
+*No Double Punishment*.
+
+Provided alwayes That noe Person shall be punished for any Offence against this Act unlesse such Offender be prosecuted for the same within Three monethes after the Offence committed, And that noe Perron who shall be punished for any Offence by vertue of this Act shall be punished for the same Offence by vertue of any other Act or Law whatsoever,
+
+## XII Wife not to be transported, (Exception) but imprisoned. Husband may redeem her
+
+Provided alsoe and be it enacted That Judgement of Transportation shall not be given against any Feme Covert unlesse her husband be at the same time under the [[^X5]same] Judgement and not discharged by the payment of Money as aforesaid but that instead thereof she shall by the respective Court be committed to the Goale or House of Correction there to remaine without Baile or Maineprize for any [[^X6]terme] not exceeding Twelve Monethes unlesse her Husband shall pay downe such summe not exceeding Forty pounds to redeeme her from Imprisonement as shall be imposed by the said Court, the said summe to be disposed by such persons, and in such manner as the Penaltyes for the First and Second Offence against this Act are to be disposed.
+
+## XIII Houses may be broken open where Conventicle held
+
+Provided alsoe and be it enacted by the Authoritie aforesaid That the Justices of the Peace and Cheife Magistrate respectively impowered as aforesaid to putt this Act in execution shall and may with what aide force and assistance they shall thinke fitt for the better execution of this Act after refusall or denyall enter into any House or other place where they shall be informed any such Conventicle as aforesaid is or shall be held.
+
+## XIV How Peers Houses shall be searched:
+
+*In the City of London*.
+
+[[^X7]Provided That noe Dwelling house of any Peere of this Realme whilst he or his Wife shall be there resident shall be searched by vertue of this Act but by immediate Warrant from His Majestie under His Signe Manuall or in the presence of the Lieutenant or one of the Deputy Lieutenants or two Justices of the Peace whereof one to be of the Quorum of the same County or Riding, Nor shall any other Dwelling house of any Peere or other person whatsoever be entred into [[^X8]by] force by vertue of this Act but in the presence of one Justice of the Peace or Cheife Magistrate respectively except within the Citty of London where it shall be lawfull for any such other Dwelling house to be entred into as aforesaid in the presence of one Justice of the Peace Alderman Deputy Alderman or any one Commissioner of the Leiutenancy for the Citty of London.]
+
+## XV What Persons not to be sent to House of Correction
+
+Provided alsoe and bee it enacted by the Authoritie aforesaid That noe person shall by vertue of this Act be committed to the House of Correction that shall satisfie the said Justices of the Peace or Cheife Magistrate respectively that he or she (and in case of a Feme Covert that her Husband) hath an Estate of Freehold or Copyhold to the value of Five pounds per annu[m], or personall Estate to the value of Fifty pounds, Any thing in this Act to the contrary notwithstanding.
+
+## XVI Recital that Quakers and others refuse to take Oaths:
+
+*Refusing, except in Court Leet, to take Oath as a Witness, or to answer of Oath Bill Equity, &c., Refusal to be recorded, and Recorded taken as a Conviction. Transportation.*
+
+[And [[^X9]in regard a certaine Sect called Quakers and other Sectaryes are found not onely to offend in the matters provided against by this Act but alsoe to obstruct the proceeding of Justice by their obstinate refusall to take Oathes lawfully tendred unto them in the ordinary course of Law Therefore] [[^X10]be it further enacted by the Authoritie aforesaid That if any person or persons being duely and legally served with Processe or other Summons to appeare in any Court of Record except Courts Leet as a Witnesse or returned to serve of any Jury or ordered to be examined upon Interrogatoryes or being present in Court shall refuse to take any Judiciall Oath legally tendred [^X11] him by the Judge or Judges of the same Court haveing noe legall Plea to justifie or excuse the refusall of the same Oath, or if any person or persons being duely served with Processe to answere any Bill exhibited against him or them in any Court of Equity or any Suite in any Court Ecclesiasticall shall refuse to answere such Bill or Suite upon his or their Corporall Oath in cases where the Law requires such Answere to be putt in upon Oath, or being summoned to be a Witnesse in any such Court or ordered to be examined upon Interrogatoryes shall for any cause or reason not allowed by Law refuse to take such Oath, as in such cases is required by Law that then and in such case the severall and respective Courts wherein such refusall shall be made shall be and are hereby enabled to record, enter or register such refusall which Record or Entry shall be and is hereby made a Conviction of such Offence, And all and every person and persons soe as aforesaid offending shall for every such Offence incurr the Judgement and Punishment of Transportation in such manner as is appointed by this Act for other Offences,]
+
+## XVII Taking the Oath herein mentioned to excuse the last-mentioned Offences
+
+Provided alwayes That if any the person or persons aforesaid shall come into such Court and take his or their Oath in these words.
+
+I doe sweare that I doe not hold the takeing of an Oath to be unlawfull nor refuse to take an Oath on that account.
+
+[[^X12]Which Oath the said respective Court and Courts aforesaid are hereby authorized and required forthwith to tender administer and register before the Entry of the Conviction aforesaid,] or shall take such Oath before some Justice of the Peace who is hereby authorized and required to administer the same to be returned into such Court such Oath soe made shall acquitt him or them from such punishment Any thing herein to the contrary notwithstanding.[^X10]
+
+## XVIII Persons so convicted in certain Courts, (Exception) to be imprisoned till Assizes: then refusing to take the Oath, Transportation
+
+[[^X12]Provided alwayes That every person convicted as aforesaid in any Courts aforesaid (other then His Majestyes Court of Kings Bench or before the Justices of Assize or Generall Goale Delivery) shall by Warrant containing a Certificate of such Conviction under the Hand and Seale of the respective Judge or Judges before whom such Conviction shall be had be sent to some one of His Majestyes Goales in the same County where such Conviction was had there to remaine without Baile or Maineprize untill the next Assizes or Generall Goale Delivery where if such person soe convicted shall refuse to take the Oath aforesaid being tendred unto him by the Justice or Justices of Assize or Goale Delivery then such Justice or Justices shall cause Judgement of Transportation to be executed in such manner as Judgement of Transportation by this Act is to be executed, but in case such person shall take the said Oath then he shall thereupon be discharged.]
+
+## XIX Peers offending; Penalty for First and Second Offence; for Third and further Offences to be tried by his Peers
+
+[[^X10]Provided alwayes and bee it enacted by the Authoritie aforesaid That if any Peere of this Realme shall offend against this Act he shall pay Ten pounds for the first offence and Twenty pounds for the second offence to be levyed upon his Goods and Chattells by Warrant from any two Justices of the Peace or Cheife Magistrate of the Place or Division where such Peere shall dwell, and that every Peere for the third and every further offence against the Tenoure of this Act shall be tryed by his Peeres and not otherwise.]
+
+## XX Continuance of Act
+
+Provided alsoe and be it further enacted by the Authoritie aforesaid That this Act shall continue in force for Three yeares after the end of this present Session of Parliament, and from thence forward to the end of the next Session of Parliament after the said Three yeares and noe longer.
+
+---
+
+[^X1]: Variant reading of the text noted in *The Statutes of the Realm* as follows: embargue *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X2]: Variant reading of the text noted in *The Statutes of the Realm* as follows: embargued *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X3]: Variant reading of the text noted in *The Statutes of the Realm* as follows: embarguing *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X4]: Variant reading of the text noted in *The Statutes of the Realm* as follows: like *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X5]: Variant reading of the text noted in *The Statutes of the Realm* as follows: permitt any *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X6]: Variant reading of the text noted in *The Statutes of the Realm* as follows: tyme *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X7]: annexed to the Original Act in a feparate Schedule.
+[^X8]: Variant reading of the text noted in *The Statutes of the Realm* as follows: w[i]th *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X9]: annexed to the Schedule.
+[^X10]: annexed to the Original Act in a separate Schedule.
+[^X11]: Variant reading of the text noted in *The Statutes of the Realm* as follows: to *O*. [*O.* refers to a collection in the library of Trinity College, Cambridge]
+[^X12]: annexed to the Schedule.

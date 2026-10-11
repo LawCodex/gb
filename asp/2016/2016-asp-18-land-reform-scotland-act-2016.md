@@ -936,7 +936,7 @@ The Tenant Farming Commissioner is to promote the observance of the codes of pra
 
 (2) Before submitting the report to the Scottish Ministers under this section, the Commissioner must consult any persons appearing to the Commissioner to have an interest in the draft recommendations.
 
-#### Tenant Farming Commissioner: power to refer questions of law toLand Court
+#### Tenant Farming Commissioner: power to refer questions of law to Land Court
 
 ##### 38 Referral of questions of law by Tenant Farming Commissioner to Land Court
 
@@ -3270,7 +3270,7 @@ In schedule 3 of the Deer (Scotland) Act 1996, in the entry relating to section 
 
 .
 
-#### Conversion of1991 Acttenancies
+#### Conversion of 1991 Act tenancies
 
 ##### 90 Conversion of 1991 Act tenancies into modern limited duration tenancies
 
@@ -3642,7 +3642,7 @@ In schedule 3 of the Deer (Scotland) Act 1996, in the entry relating to section 
 
 > **PART 2A — Sale where landlord in breach**
 >
-> **Application toLand Courtfor order for sale**
+> **Application to Land Court for order for sale**
 >
 > **38A Application to Land Court for order for sale**
 >
@@ -4210,7 +4210,7 @@ In schedule 3 of the Deer (Scotland) Act 1996, in the entry relating to section 
 
 ### CHAPTER 5 — Rent review
 
-#### 1991 Acttenancies: rent review
+#### 1991 Act tenancies: rent review
 
 ##### 101 1991 Act tenancies: rent review
 
@@ -5774,7 +5774,7 @@ intends to claim compensation under section 45 of that Act.
 
 (5) In this Chapter the “holding”, in the case of a short limited duration tenancy, limited duration tenancy or modern limited duration tenancy, means the land comprised in the lease.
 
-#### Objection to amnesty notice and referral toLand Court
+#### Objection to amnesty notice and referral to Land Court
 
 ##### 115 Objection by landlord
 

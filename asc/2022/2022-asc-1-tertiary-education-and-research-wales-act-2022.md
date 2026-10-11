@@ -1367,9 +1367,9 @@ if the provider of the education or training asks the Chief Inspector to do so.
 
 (11) In subsection (1)—
 
-- “persons who are aged 15” *(“personau sy’n 15 oed”)*includes persons for whom education is being provided at a school who will attain that age in the current school year;
+- “persons who are aged 15” *(“personau sy’n 15 oed”)* includes persons for whom education is being provided at a school who will attain that age in the current school year;
 
-- “specified” *(“penodedig”)*means—
+- “specified” *(“penodedig”)* means—
 
   - in the case of an area inspection requested under subsection (2), specified in the request;
   - in the case of an area inspection carried out by the Chief Inspector other than by request, specified by the Chief Inspector.
@@ -1554,8 +1554,8 @@ For the purposes of sections 70 and 71, the grounds for intervention in the cond
 
 (3) In subsection (2)—
 
-- “the governing body” *(“y corff llywodraethu”)*means the person responsible for the provider’s management;
-- “provider of further education or training” *(“darparwr addysg bellach neu hyfforddiant”)*does not include a registered provider.
+- “the governing body” *(“y corff llywodraethu”)* means the person responsible for the provider’s management;
+- “provider of further education or training” *(“darparwr addysg bellach neu hyfforddiant”)* does not include a registered provider.
 
 (4) If the Commission is satisfied that a governing body has failed to comply with subsection (1) or (2), it may direct it to take (or not to take) specified steps for the purpose of securing the provision of information, assistance or access as described in subsection (1) or (2) (as appropriate).
 
@@ -1739,7 +1739,7 @@ If the Commission gives a governing body a notice or direction to which this sec
 
 (7) In this section—
 
-- “annual report” *(“adroddiad blynyddol”)*means the annual report under paragraph 16 of Schedule 1;
+- “annual report” *(“adroddiad blynyddol”)* means the annual report under paragraph 16 of Schedule 1;
 - “financial year” (“*blwyddyn ariannol*”) has the same meaning as in that Schedule (see paragraph 17).
 
 ##### 81 Commission’s statement on intervention functions
@@ -1822,9 +1822,9 @@ In this Part—
 
 - “applicable fee limit” (“*terfyn ffioedd cymwys*”) has the meaning given by section 32(8);
 
-- “Chief Inspector” *(“Prif Arolygydd”)*means Her Majesty’s Chief Inspector of Education and Training in Wales;
+- “Chief Inspector” *(“Prif Arolygydd”)* means Her Majesty’s Chief Inspector of Education and Training in Wales;
 
-- “decision reviewer” *(“adolygydd penderfyniadau”)*has the meaning given by section 79(5);
+- “decision reviewer” *(“adolygydd penderfyniadau”)* has the meaning given by section 79(5);
 
 - “excess fees” (“*ffioedd uwchlaw’r terfyn*”) has the meaning given by section 39(7);
 
@@ -1845,7 +1845,7 @@ In this Part—
 
 - “governing body” (“*corff llywodraethu*”), in relation to an external provider that is not an institution, has the meaning given by section 54(7) (see section 144 for the meaning of “governing body” generally);
 
-- “ongoing registration condition” *(“amod cofrestru parhaus”)*has the meaning given by section 25(10);
+- “ongoing registration condition” *(“amod cofrestru parhaus”)* has the meaning given by section 25(10);
 
 - “qualifying course” (“*cwrs cymhwysol*”) means a course specified in regulations under section 32(4);
 
@@ -2042,12 +2042,12 @@ that sets out the activities to be carried out by that person for the purposes o
 
 (5) In this section—
 
-- “collaborating body” *(“corff sy’n cydlafurio”),*in relation to a provider, means a person—
+- “collaborating body” *(“corff sy’n cydlafurio”),* in relation to a provider, means a person—
 
   - to whom the provider proposes to pay, with the consent of the Welsh Ministers, all or some of the financial resources provided to it under subsection (1), and
   - who is providing, is proposing to provide or has provided a relevant higher education course (or part of such a course) on behalf of the provider, or who is working, is proposing to work or has worked in collaboration with the provider for the purpose for which the financial resources are provided;
 
-- “relevant higher education course” *(“cwrs addysg uwch perthnasol”)*means a course within paragraph 1(g) or (h) of Schedule 6 to the Education Reform Act 1988 (c. 40) (courses in preparation for professional examinations at a higher level or providing education at a higher level).
+- “relevant higher education course” *(“cwrs addysg uwch perthnasol”)* means a course within paragraph 1(g) or (h) of Schedule 6 to the Education Reform Act 1988 (c. 40) (courses in preparation for professional examinations at a higher level or providing education at a higher level).
 
 ### Further education and training
 
@@ -2277,8 +2277,8 @@ that sets out the activities to be carried out by that person for the purposes o
 
 (5) In this section—
 
-- “funding period” *(“cyfnod cyllido”)*means a financial year or, if some other period is prescribed in relation to Wales under subsection (1B) of section 45 of the School Standards and Framework Act 1998 (c. 31) (maintained schools to have budget shares), that other period;
-- “schools budget” *(“cyllideb ysgolion”)*has the same meaning as in section 45A(2) of the School Standards and Framework Act 1998 (determination of specified budgets of local authority).
+- “funding period” *(“cyfnod cyllido”)* means a financial year or, if some other period is prescribed in relation to Wales under subsection (1B) of section 45 of the School Standards and Framework Act 1998 (c. 31) (maintained schools to have budget shares), that other period;
+- “schools budget” *(“cyllideb ysgolion”)* has the same meaning as in section 45A(2) of the School Standards and Framework Act 1998 (determination of specified budgets of local authority).
 
 #### 102 Persons with additional learning needs
 
@@ -2398,8 +2398,8 @@ that sets out the activities to be carried out by that person for the purposes o
 
 (11) In this section—
 
-- “apprenticeship framework” *(“fframwaith prentisiaeth”)*has the meaning given by section 114;
-- “approved Welsh apprenticeship” *(“prentisiaeth Gymreig gymeradwy”)*has the meaning given by section 111.
+- “apprenticeship framework” *(“fframwaith prentisiaeth”)* has the meaning given by section 114;
+- “approved Welsh apprenticeship” *(“prentisiaeth Gymreig gymeradwy”)* has the meaning given by section 111.
 
 ### Research and innovation
 

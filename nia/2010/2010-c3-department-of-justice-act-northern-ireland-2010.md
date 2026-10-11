@@ -1,0 +1,171 @@
+---
+title: "Department of Justice Act (Northern Ireland) 2010"
+identifier: "nia/2010/3"
+citation: "2010 CHAPTER 3"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2010-02-12
+last_amended: 2016-05-08
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2010/3"
+source_modified: 2017-07-06
+retrieved: 2026-10-11
+---
+
+# Department of Justice Act (Northern Ireland) 2010
+
+**2010 CHAPTER 3**
+
+An Act to provide for the establishment of the Department of Justice and for the appointment of the Minister to be in charge of that Department.
+
+[12th February 2010]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## 1 The Department of Justice
+
+(1) There shall be established a Northern Ireland department to be known as the Department of Justice.
+
+(2) The purpose of that department is to exercise functions consisting wholly or mainly of devolved policing and justice functions within the meaning of section 21A of the Northern Ireland Act 1998 (c. 47).
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In the Ombudsman (Northern Ireland) Order 1996 (NI 8) in Schedule 2 (which lists the bodies subject to investigation) at the appropriate place insert— “ The Department of Justice ”.
+
+(5) The statutory provisions mentioned in the Schedule (which refer to the department established by this section) are amended as set out in that Schedule.
+
+## 2 Minister in charge of Department of Justice
+
+(1) The Department of Justice is to be in the charge of a Northern Ireland Minister appointed by virtue of a nomination—
+
+(a) made by one or more members of the Assembly; and
+
+(b) approved by a resolution of the Assembly passed with the support of—
+
+(i) a majority of the members voting on the motion for the resolution,
+
+(ii) a majority of the designated Nationalists voting, and
+
+(iii) a majority of the designated Unionists voting.
+
+(2) Expressions used in subsection (1) and in the Northern Ireland Act 1998 have the same meanings in that subsection as in that Act.
+
+## 3 Short title and commencement
+
+(1) This Act may be cited as the Department of Justice Act (Northern Ireland) 2010.
+
+(2) Sections 1 and 2 and the Schedule come into operation on such day or days as the First Minister and deputy First Minister, acting jointly, may by order appoint.
+
+## SCHEDULE — AMENDMENTS
+
+*Section 1(5).*
+
+### The Pensions Appeal Tribunals Act 1943 (c. 39)
+
+**1** In the Schedule, in paragraph 2(3C) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The County Courts Act (Northern Ireland) 1959 (c. 25)
+
+**2** In section 107(1A) and (3) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Magistrates' Courts Act (Northern Ireland) 1964 (c. 21)
+
+**3** In sections 10(1)(a) and 12A(2) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Rates (Northern Ireland) Order 1977 (NI 28)
+
+**4** In Schedule 9B, in paragraphs 3(1A) and (3) and 4 for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Judicature (Northern Ireland) Act 1978 (c. 23)
+
+**5** (1) In sections 2(3), 3(4), 8(1A)(b), 12B(14), 12C(15) and 70(5) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+(2) In section 70(6) for “justice department” substitute “ Department of Justice ”.
+
+(3) In section 74(1) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+(4) In section 74(1A) for “justice department” substitute “ Department of Justice ”.
+
+(5) In sections 103(3) and 119(1) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Mental Health (Northern Ireland) Order 1986 (NI 4)
+
+**6** In Schedule 3, in paragraphs 1(a) and (c) and 2(2) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Child Support Act 1991 (c. 48)
+
+**7** In Schedule 4, in paragraph 4(2)(b) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+
+**8** In section 50(2) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Tribunals and Inquiries Act 1992 (c. 53)
+
+**9** In section 6(8A)(b) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Education (Northern Ireland) Order 1996 (NI 1)
+
+**10** In Article 22(3)(a) and (5A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Plant Varieties Act 1997 (c. 66)
+
+**11** In Schedule 3, in paragraph 5(1A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997 (SR 1997/269)
+
+**12** In the Schedule, in rule 6(3A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Social Security (Northern Ireland) Order 1998 (NI 10)
+
+**13** In Article 7(3) and paragraph 1(1A) of Schedule 1 for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Justice (Northern Ireland) Act 2002 (c. 26)
+
+**14** (1) In section 2(5) omit the definition of “the justice department”.
+
+(2) In sections 8(7) and 9(2)(a), (3), (4), (5) and (11) for “justice department” substitute “ Department of Justice ”.
+
+(3) In section 88 omit “ “the justice department”,”.
+
+(4) In section 90(1)(c) for “justice department” substitute “ Department of Justice ”.
+
+(5) In Schedule 3, in paragraph 5(2) and (3) for “justice department” substitute “ Department of Justice ”.
+
+### The Criminal Injuries (Compensation) (Northern Ireland) Order 2002 (NI 1)
+
+**15** In Article 7(3A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (NI 9)
+
+**16** In Schedule 2, in paragraphs 1(2)(a) and 3(1A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Traffic Management (Northern Ireland) Order 2005 (NI 14)
+
+**17** In Article 29(4A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (SR 2005/150)
+
+**18** In regulation 4(2A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Fair Employment Tribunal (Rules of Procedure) Regulations (Northern Ireland) 2005 (SR 2005/151)
+
+**19** In regulation 5(2A) for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Charities Act (Northern Ireland) 2008 (c. 12)
+
+**20** In Schedule 2, in paragraphs 1(4), 3(1A) and 5 for “justice department (within the meaning of the Justice (Northern Ireland) Act 2002)” substitute “ Department of Justice ”.
+
+### The Northern Ireland Act 2009 (c. 3)
+
+**21** In Schedule 3, omit paragraphs 1(3) and 12.
+
+**22** In Schedule 4, omit paragraphs 15(4) and (5), 17(a), 20(2)(b), 26(3), 30(3), 33(3), 41(2) and 47(3).
+
+---
+
+[^F1]: S. 1(3) repealed (8.5.2016) by Departments Act (Northern Ireland) 2016 (c. 5), s. 3(2), Sch. 2; S.R. 2016/89, art. 2

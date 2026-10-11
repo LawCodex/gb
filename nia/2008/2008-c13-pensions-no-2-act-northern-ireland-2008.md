@@ -1,0 +1,5376 @@
+---
+title: "Pensions (No. 2) Act (Northern Ireland) 2008"
+identifier: "nia/2008/13"
+citation: "2008 CHAPTER 13"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2008-12-15
+last_amended: 2026-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2008/13"
+source_modified: 2026-07-02
+retrieved: 2026-10-11
+---
+
+# Pensions (No. 2) Act (Northern Ireland) 2008
+
+**2008 CHAPTER 13**
+
+An Act to make provision relating to pensions; and for connected purposes.
+
+[15th December 2008]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## PART 1 — PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS
+
+### CHAPTER 1 — EMPLOYERS' DUTIES
+
+#### Jobholders
+
+##### 1 Jobholders
+
+(1) For the purposes of this Part a jobholder is a worker—
+
+(a) who is working or ordinarily works in Northern Ireland under the worker's contract,
+
+(b) who is aged at least 16 and under 75, and
+
+(c) to whom qualifying earnings are payable by the employer in the relevant pay reference period (see sections 13 and 15).
+
+(2) Where a jobholder has more than one employer, or a succession of employers, this Chapter applies separately in relation to each employment.
+
+(3) Accordingly—
+
+(a) references to the employer are references to the employer concerned;
+
+(b) references to membership of a pension scheme are references to membership in relation to the employment concerned.
+
+#### Employers' duties
+
+##### 2 Continuity of scheme membership
+
+(1) If a jobholder is an active member of a qualifying scheme, the employer must not take any action, or make any omission, by which (without the jobholder ceasing to be employed by the employer)—
+
+(a) the jobholder ceases to be an active member of the scheme, or
+
+(b) the scheme ceases to be a qualifying scheme.
+
+(2) Subsection (1) is not contravened if the jobholder remains an active member of another qualifying scheme.
+
+[[^F1](3) Subsection (1) is not contravened if by virtue of section 5 the jobholder becomes an active member of an automatic enrolment scheme with effect from—
+
+(a) the day after the cessation referred to in paragraph (a) or (b) of subsection (1), or
+
+(b) a day within the prescribed period (if a period is prescribed).]
+
+(4) Subsection (1) is not contravened if the action or omission is at the jobholder's request.
+
+(5) In this Part as it applies in the case of any jobholder, references to a qualifying scheme are references to a pension scheme which is a qualifying scheme in relation to that jobholder (see section 16).
+
+##### [[^F2]3 Automatic enrolment
+
+(1) This section applies to a jobholder—
+
+(a) who is aged at least 22,
+
+(b) who has not reached pensionable age, and
+
+(c) to whom earnings of more than [[^F3]£10,000] are payable by the employer in the relevant pay reference period (see section 15).]
+
+(2) The employer must make prescribed arrangements by which the jobholder becomes an active member of an automatic enrolment scheme with effect from the automatic enrolment date.
+
+(3) Subsection (2) does not apply if the jobholder was an active member of a qualifying scheme on the automatic enrolment date.
+
+(4) Subsection (2) does not apply if, within the prescribed period before the automatic enrolment date, the jobholder ceased to be an active member of a qualifying scheme because of any action or omission by the jobholder.
+
+(5) For the purposes of arrangements under subsection (2) regulations may require information to be provided to any person by the employer or—
+
+(a) where the arrangements relate to an occupational pension scheme, the trustees or managers of the scheme;
+
+(b) where the arrangements relate to a personal pension scheme, the provider of the scheme.
+
+(6) For the purposes of arrangements made under subsection (2) in relation to a personal pension scheme, regulations may deem an agreement to exist (subject to section 8) between the jobholder and the provider of the scheme for the jobholder to be an active member of the scheme on terms and conditions determined in accordance with the regulations.
+
+[[^F4](6A) In this section “earnings” has the meaning given in section 13(3).
+
+(6B) In the case of a pay reference period of less or more than 12 months, subsection (1) applies as if the amount in paragraph (c) were proportionately less or more.]
+
+(7) The automatic enrolment date, in relation to any person, is the first day on which this section applies to the person as a jobholder of the employer.[[^F5]This is subject to section 4.]
+
+(8) In this Part as it applies in the case of any jobholder, references to an automatic enrolment scheme are references to a pension scheme which is an automatic enrolment scheme in relation to that jobholder (see section 17).
+
+##### [[^F6]4 Postponement or disapplication of automatic enrolment
+
+(1) Where—
+
+(a) an employer (E) gives to a person employed by E on E's staging date (“the worker”) notice that E intends to defer automatic enrolment for the worker until a date specified in the notice (“the deferral date”), and
+
+(b) any prescribed requirements in relation to the notice are met,
+
+the worker's automatic enrolment date is the deferral date if on that date section 3 applies to the worker as a jobholder of E; if not, subsection (4) applies.
+
+(2) Where—
+
+(a) a person (“the worker”) begins to be employed by an employer (E) after E's staging date,
+
+(b) E gives the worker notice that E intends to defer automatic enrolment until a date specified in the notice (“the deferral date”), and
+
+(c) any prescribed requirements in relation to the notice are met,
+
+the worker's automatic enrolment date is the deferral date if on that date section 3 applies to the worker as a jobholder of E; if not, subsection (4) applies.
+
+(3) Where—
+
+(a) a person (“the worker”) employed by an employer (E) becomes, after E's staging date, a jobholder to whom section 3 applies,
+
+(b) E gives the worker notice that E intends to defer automatic enrolment until a date specified in the notice (“the deferral date”), and
+
+(c) any prescribed requirements in relation to the notice are met,
+
+the worker's automatic enrolment date is the deferral date if on that date section 3 applies to the worker as a jobholder of E; if not, subsection (4) applies.
+
+(4) Where this subsection applies, section 3(2) does not apply in relation to any employment of the worker by E in the period beginning with the starting day and ending with the deferral date.
+
+(5) A notice under this section may be given on or before the starting day or within a prescribed period after that day.
+
+(6) The deferral date may be any date in the period of 3 months after the starting day.
+
+(7) An employer who gives a worker a notice under subsection (1) or (2) may not give the worker a notice under subsection (3) in relation to any occasion on or before the deferral date specified in the notice on which the worker becomes a jobholder to whom section 3 applies.
+
+(8) In this section—
+
+- “staging date”, in relation to an employer of a particular description, means the date prescribed under section 12 in relation to employers of that description;
+
+- “starting day” means—
+
+  - (a) E's staging date, in the case of a notice under subsection (1);
+  - (b) the day on which the worker begins to be employed by E, in the case of a notice under subsection (2);
+  - (c) the day on which the worker becomes a jobholder to whom section 3 applies, in the case of a notice under subsection (3).]
+
+##### 5 Automatic re-enrolment
+
+[[^F7](1) This section applies to a jobholder—
+
+(a) who is aged at least 22,
+
+(b) who has not reached pensionable age, and
+
+(c) to whom earnings of more than [[^F8]£10,000] are payable by the employer in the relevant pay reference period (see section 15).]
+
+[[^F9](1A) This section also applies to a jobholder who—
+
+(a) is aged at least 22,
+
+(b) has not reached pensionable age, and
+
+(c) is not an active member of a qualifying scheme because there has been a period beginning at any time after the jobholder's automatic enrolment date during which the requirements of section 1(1)(a) or (c) were not met (so that the person was not a jobholder for that period).
+
+(1B) This section also applies to a jobholder who has ceased to be an active member of a qualifying scheme because of something other than an action or omission by the jobholder.]
+
+(2) The employer must make prescribed arrangements by which the jobholder becomes an active member of an automatic enrolment scheme with effect from the automatic re-enrolment date.
+
+(3) Subsection (2) does not apply if the jobholder was an active member of a qualifying scheme on the automatic re-enrolment date.
+
+[[^F10](3A) Subsection (2) does not apply if the jobholder's automatic enrolment date is deferred under section 4 from a date before the automatic re-enrolment date to a date after the automatic re-enrolment date.]
+
+[^F11]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F12]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) For the purposes of arrangements under subsection (2) regulations may require information to be provided to any person by the employer or—
+
+(a) where the arrangements relate to an occupational pension scheme, the trustees or managers of the scheme;
+
+(b) where the arrangements relate to a personal pension scheme, the provider of the scheme.
+
+(7) For the purposes of arrangements made under subsection (2) in relation to a personal pension scheme, regulations may deem an agreement to exist (subject to section 8) between the jobholder and the provider of the scheme for the jobholder to be an active member of the scheme on terms and conditions determined in accordance with the regulations.
+
+[[^F13](7A) In this section “earnings” has the meaning given in section 13(3).
+
+(7B) In the case of a pay reference period of less or more than 12 months, subsection (1) applies as if the amount in paragraph (c) were proportionately less or more.]
+
+(8) Automatic re-enrolment dates are dates[^F14]... that are to be determined in accordance with regulations.
+
+##### 6 Timing of automatic re-enrolment
+
+(1) Regulations under section 5(8) must either—
+
+(a) secure that for any jobholder there is no automatic re-enrolment date less than three years after the jobholder's automatic enrolment date, and that there is not more than one automatic re-enrolment date in any period of three years, or
+
+(b) secure that for any employer there is not more than one automatic re-enrolment date in any period of [[^F15]2 years and 9 months] .
+
+(2) Subsection (1) does not restrict the provision that regulations may make about the timing of a jobholder's automatic re-enrolment date (“the relevant date”) in the following cases.
+
+[^F16]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The [[^F17]first case] is where—
+
+(a) [^F18]... the jobholder ceases to be an active member of a qualifying scheme [^F19]...,
+
+(b) that event is not the effect of any action or omission by the jobholder [^F20]..., and
+
+(c) the relevant date is the jobholder's first automatic re-enrolment date after that [[^F21]event] .
+
+(5) The [[^F22]second case] is where—
+
+(a) there is a period beginning at any time after the jobholder's automatic enrolment date during which the requirements of section 1(1)(a) or (c) are not met (so that the person is not a jobholder for that period), and
+
+(b) the relevant date is the jobholder's first automatic re-enrolment date after that period.
+
+[^F23]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 7 Jobholder's right to opt in
+
+(1) This section applies to a jobholder who is not an active member of a qualifying scheme.
+
+(2) But it does not apply at a time when—
+
+(a) arrangements are required to be made under section 3 or 5 in respect of the jobholder, [^F24]...
+
+[^F24]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The jobholder may by notice require the employer to arrange for the jobholder to become an active member of an automatic enrolment scheme.
+
+(4) The Department may by regulations make provision—
+
+(a) about the form and content of the notice;
+
+(b) about the arrangements that the employer is required to make;
+
+(c) for determining the date with effect from which the jobholder is to become an active member under the arrangements.
+
+(5) For the purposes of arrangements under subsection (3) regulations may require information to be provided to any person by the employer or—
+
+(a) where the arrangements relate to an occupational pension scheme, the trustees or managers of the scheme;
+
+(b) where the arrangements relate to a personal pension scheme, the provider of the scheme.
+
+(6) For the purposes of arrangements made under subsection (3) in relation to a personal pension scheme, regulations may deem an agreement to exist (subject to section 8) between the jobholder and the provider of the scheme for the jobholder to be an active member of the scheme on terms and conditions determined in accordance with the regulations.
+
+(7) Subsections (8) and (9) apply where a jobholder becomes an active member of an automatic enrolment scheme in pursuance of a notice under this section and, within the period of 12 months beginning with the day on which that notice was given—
+
+(a) ceases to be an active member of that scheme, and
+
+(b) gives the employer a further notice under this section.
+
+(8) The further notice does not have effect to require the employer to arrange for the jobholder to become an active member of an automatic enrolment scheme.
+
+(9) But any arrangements the employer makes for the jobholder to become, within that period, an active member of such a scheme must be made in accordance with regulations under this section.
+
+##### 8 Jobholder's right to opt out
+
+(1) This section applies on any occasion when arrangements under section 3(2), 5(2) or 7(3) apply to a jobholder (arrangements for the jobholder to become an active member of an automatic enrolment scheme).
+
+(2) If the jobholder gives notice under this section—
+
+(a) the jobholder is to be treated for all purposes as not having become an active member of the scheme on that occasion;
+
+(b) any contributions paid by the jobholder or by the employer on behalf or in respect of the jobholder, on the basis that the jobholder has become an active member of the scheme on that occasion must be refunded in accordance with prescribed requirements.
+
+(3) Regulations under subsection (2)(b) may, in particular, make provision about—
+
+(a) the time within which contributions must be refunded;
+
+(b) how the amount to be refunded is calculated;
+
+(c) the procedure for refunding contributions.
+
+(4) The Department may by regulations make further provision in relation to notices under this section.
+
+(5) The regulations may in particular make provision—
+
+(a) as to the form and content of a notice;
+
+(b) as to the period within which a notice must be given;
+
+(c) as to the person to whom a notice must be given;
+
+(d) requiring any person to make prescribed arrangements for enabling notices to be given;
+
+(e) requiring any person to take prescribed action in consequence of a notice (in addition to any action prescribed under subsection (2)(b)).
+
+(6) The regulations must provide for the notice—
+
+(a) to include information about the effect in relation to jobholders of giving notice under this section, and
+
+(b) to be signed or otherwise authorised by the jobholder.
+
+#### Duty in relation to workers without qualifying earnings
+
+##### 9 Workers without qualifying earnings
+
+(1) This section applies to a worker—
+
+(a) to whom paragraphs (a) and (b) of section 1(1) apply (working in Northern Ireland and aged between 16 and 75),
+
+(b) to whom paragraph (c) of section 1(1) does not apply (qualifying earnings), and
+
+(c) who is not an active member of a pension scheme that satisfies the requirements of this section.
+
+(2) The worker may by notice require the employer to arrange for the worker to become an active member of a pension scheme that satisfies the requirements of this section.
+
+(3) The Department may by regulations make provision—
+
+(a) about the form and content of the notice;
+
+(b) about the arrangements that the employer is required to make;
+
+(c) for determining the date with effect from which the worker is (subject to compliance with any requirements of the scheme) to become an active member under the arrangements.
+
+(4) Subsections (5) and (6) apply where a worker becomes an active member of a pension scheme in pursuance of a notice under this section and, within the period of 12 months beginning with the day on which that notice was given—
+
+(a) ceases to be an active member of that scheme because of any action or omission by the worker, and
+
+(b) gives the employer a further notice under this section.
+
+(5) The further notice does not have effect to require the employer to arrange for the worker to become an active member of a pension scheme.
+
+(6) But any arrangements the employer makes for the worker to become, within that period, an active member of a pension scheme that satisfies the requirements of this section must be made in accordance with regulations under this section.
+
+(7) A pension scheme satisfies the requirements of this section if—
+
+(a) it is registered under Chapter 2 of Part 4 of the Finance Act 2004 (c. 12), and
+
+(b) in the case of a personal pension scheme, there are, in relation to the worker concerned, direct payment arrangements (within the meaning of section 107A of the Pension Schemes (Northern Ireland) Act 1993 (c. 49) (in this Act referred to as “the Pension Schemes Act”)) between the worker and the employer.
+
+#### Supplementary provision about the duties
+
+##### 10 Information to be given to workers
+
+(1) The Department [[^F25]may] make provision by regulations—
+
+(a) for [^F26]... jobholders to be given information about the effect of sections 2 to 8 in relation to them;
+
+(b) for [^F27]... workers to whom section 9 applies to be given information about the effect of that section in relation to them;
+
+(c) for a prescribed person to be required to provide the information.
+
+(2) Regulations under this section [[^F28]may in particular make provision about] —
+
+(a) what information must be given;
+
+(b) in what circumstances it must be given;
+
+(c) how and when it must be given.
+
+##### 11 Information to be given to the Pensions Regulator
+
+(1) The Department may make regulations requiring employers to provide the Pensions Regulator (“the Regulator”) with information about action they have taken or intend to take for the purposes of any provision of, or of regulations under, sections 2 to 10.
+
+(2) The regulations may in particular—
+
+(a) require an employer to provide information about pension schemes to which any action relates;
+
+(b) require an employer to identify which of any prescribed descriptions a scheme falls within;
+
+(c) require an employer to provide information that appears to the Department to be required for the performance by the Regulator of its functions under Chapter 2;
+
+(d) make provision about how and in what form any information is to be provided.
+
+##### 12 Introduction of employers' duties
+
+The Department may by regulations provide that sections 2 to 9 do not apply in the case of an employer of any description until such date after the coming into operation of those sections as is prescribed in relation to employers of that description.
+
+#### [[^F29]Qualifying earnings and earnings trigger]
+
+##### 13 Qualifying earnings
+
+(1) A person's qualifying earnings in a pay reference period of 12 months are the part (if any) of the gross earnings payable to that person in that period that is—
+
+(a) more than [[^F30]£6,240], and
+
+(b) not more than [[^F31]£50,270].
+
+(2) In the case of a pay reference period of less or more than 12 months, subsection (1) applies as if the amounts in paragraphs (a) and (b) were proportionately less or more.
+
+(3) In this section, “earnings”, in relation to a person, means sums of any of the following descriptions that are payable to the person in connection with the person's employment—
+
+(a) salary, wages, commission, bonuses and overtime;
+
+(b) statutory sick pay under Part 11 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) (in this Act referred to as “the Contributions and Benefits Act”);
+
+(c) statutory maternity pay under Part 12 of that Act;
+
+(d) [[^F32]statutory paternity pay ] under Part 12ZA of that Act;
+
+(e) statutory adoption pay under Part 12ZB of that Act;
+
+[[^F33](ea) statutory shared parental pay under Part 12ZC of that Act;]
+
+[[^F34](eb) statutory parental bereavement pay under Part 12ZD of that Act;]
+
+(f) sums prescribed for the purposes of this section.
+
+##### 14 Review of [[^F35]earnings trigger and] qualifying earnings band
+
+Whenever the Secretary of State makes an order under section 14 of the Pensions Act 2008 (c. 30) (review of [[^F36]earnings trigger and] qualifying earnings band), the Department may make a corresponding order for Northern Ireland.
+
+##### 15 Pay reference period
+
+(1) In relation to any person a pay reference period is the period prescribed.
+
+(2) The Department may by regulations—
+
+(a) make provision for determining a person's earnings in any pay reference period;
+
+(b) make provision for determining the first date of each pay reference period in relation to a person.
+
+(3) A reference in any provision to the relevant pay reference period is a reference to the period determined in accordance with regulations under this section, as they apply for the purposes of that provision in the case concerned.
+
+##### 15A [[^F37]Power to specify rounded figures
+
+(1) Whenever the Secretary of State makes an order under section 15A of the Pensions Act 2008 specifying rounded figures for the purposes of section 3(6B), 5(7B) or 13(2) of that Act, the Department may make an order specifying corresponding rounded figures for the purposes of section 3(6B), 5(7B) or 13(2) of this Act.
+
+(2) A rounded figure so specified applies in place of the amount that would otherwise apply.]
+
+#### Qualifying schemes and automatic enrolment schemes
+
+##### 16 Qualifying schemes
+
+(1) A pension scheme is a qualifying scheme in relation to a jobholder (J) if—
+
+(a) it is an occupational pension scheme or a personal pension scheme,
+
+(b) it is registered under Chapter 2 of Part 4 of the Finance Act 2004 (c. 12), and
+
+(c) while J is an active member, the scheme satisfies the quality requirement in relation to J.
+
+(2) The Department may by regulations provide that subsection (1)(b) does not apply in relation to a scheme to which section 25 or 27 applies, if prescribed requirements are satisfied.
+
+(3) The Department may by regulations provide that a scheme is not a qualifying scheme in relation to J if—
+
+[^F38]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F39]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]ab . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) while J is an active member, the contributions that must be paid to the scheme by, or on behalf or in respect of, J exceed a prescribed amount, or
+
+(c) the scheme provides for average salary benefits to be provided to or in respect of J and contains prescribed features.
+
+[[^F41](3A) See also paragraphs1(4) and 2(4) of Schedule 18 to the Pensions Act (Northern Ireland) 2015, which confer power to make regulations providing for a scheme not to be a qualifying scheme in relation to a jobholder in certain circumstances.]
+
+[^F42]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F42]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 17 Automatic enrolment schemes
+
+(1) A pension scheme is an automatic enrolment scheme in relation to a jobholder (J) if—
+
+(a) it is a qualifying scheme in relation to J,
+
+(b) it satisfies the conditions in subsection (2), and
+
+(c) it satisfies any further conditions prescribed.
+
+(2) The conditions mentioned in subsection (1)(b) are that—
+
+(a) no provision of the scheme prevents the employer from making arrangements prescribed under section 3(2), 5(2) or 7(4) for J to become an active member of the scheme;
+
+(b) no provision of the scheme requires J to express a choice in relation to any matter, or to provide any information, in order to remain an active member.
+
+##### 18 Occupational pension schemes
+
+For the purposes of this Part, each of these is an occupational pension scheme—
+
+(a) an occupational pension scheme within the meaning of section 1(1) of the Pension Schemes Act that has its main administration in the United Kingdom;
+
+[^F43]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) a pension scheme that is prescribed or is of a prescribed description and that has its main administration elsewhere than in [[^F44]the United Kingdom].
+
+##### 19 Personal pension schemes
+
+For the purposes of this Part, a personal pension scheme is a pension scheme that is not an occupational pension scheme.
+
+#### Quality requirements
+
+##### 20 Quality requirement: UK money purchase schemes
+
+(1) A money purchase scheme that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if under the scheme—
+
+(a) the jobholder's employer must pay contributions in respect of the jobholder;
+
+(b) the employer's contribution, however calculated, must be equal to or more than 3% of the amount of the jobholder's qualifying earnings in the relevant pay reference period;
+
+(c) the total amount of contributions paid by the jobholder and the employer, however calculated, must be equal to or more than 8% of the amount of the jobholder's qualifying earnings in the relevant pay reference period.
+
+[^F45]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A scheme does not fail to satisfy the quality requirement under this section merely because the trustees or managers of the scheme may on any occasion refuse to accept a contribution below an amount prescribed for the purposes of this section on the grounds that it is below that amount.
+
+##### [[^F46]21 Quality requirement: UK defined benefits schemes
+
+A defined benefits scheme that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if it satisfies the test scheme standard in relation to that jobholder]
+
+##### 22 Test scheme standard
+
+(1) A scheme satisfies the test scheme standard in relation to a jobholder (J) if the pensions to be provided for the relevant members of the scheme are broadly equivalent to, or better than, the pensions which would be provided for them under a test scheme.
+
+[[^F47](2) Subject to subsection (3), the relevant members are J and all active members who are jobholders of the same employer as J.]
+
+(3) In applying this section the pensions to be provided for relevant members must be considered as a whole.
+
+(4) The Department may by regulations make provision for the manner of, and criteria for, determining whether the pensions to be provided for the relevant members under a scheme are broadly equivalent to, or better than, the pensions which would be provided for them under a test scheme.
+
+(5) Regulations under subsection (4) may provide for the determination to be made in accordance with guidance issued from time to time by the Department.
+
+(6) The Department may by regulations provide that a scheme only satisfies the test scheme standard if the scheme actuary certifies that it does.
+
+(7) Except in prescribed circumstances, the scheme actuary is the actuary appointed under Article 47(1)(b) of the Pensions (Northern Ireland) Order 1995 (NI 22) (in this Act referred to as “the 1995 Order”) (professional advisers) in relation to the scheme.
+
+[[^F48](8) In the case of a scheme under which a sum of money is made available for the provision of benefits to a relevant member, references in this section to pensions are to be read as references to such sums.]
+
+##### [[^F49]23 Test scheme
+
+(1) A test scheme is an occupational pension scheme which satisfies—
+
+(a) the requirement in subsection (2),
+
+(b) the requirement in subsection (4) or requirements prescribed under subsection (6) (as appropriate), and
+
+(c) any further requirements that are prescribed.
+
+(2) The scheme must either—
+
+(a) provide for a member to be entitled to a pension commencing at the appropriate age and continuing for life, or
+
+(b) provide for a sum of money to be made available for the provision of benefits to a member commencing at the appropriate age and continuing for life.
+
+(3) The appropriate age is 65 or any higher age prescribed.
+
+(4) In the case of a scheme that provides entitlement to a pension as mentioned in subsection (2)(a), the annual rate of the pension at the appropriate age must be—
+
+(a) 1/120th of average qualifying earnings in the last three tax years preceding the end of pensionable service,
+
+multiplied by
+
+(b) the number of years of pensionable service, up to a maximum of 40.
+
+(5) Section 13(1) (qualifying earnings) applies for the purposes of subsection (4) as if the reference to a pay reference period were a reference to a tax year.
+
+(6) In the case of a scheme that provides for a sum of money to be made available as mentioned in subsection (2)(b), regulations must prescribe requirements relating to that sum.]
+
+##### 23A [[^F50]Alternative quality requirements for UK defined benefits schemes
+
+(1) The Department may by regulations provide that a defined benefits scheme that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if any one or more of the following is satisfied—
+
+(a) the scheme is of a prescribed description and satisfies the quality requirement under section 20 in relation to that jobholder;
+
+(b) the cost of providing the benefits accruing for or in respect of the relevant members over a relevant period would require contributions to be made of a total amount equal to at least a prescribed percentage of the members' total relevant earnings over that period;
+
+(c) in the case of each of at least 90% of the relevant members, the cost of providing the benefits accruing for or in respect of the member over a relevant period would require contributions to be made of a total amount equal to at least a prescribed percentage of the member's total relevant earnings over that period.
+
+(2) For this purpose—
+
+- “contributions” means contributions to the scheme by, or on behalf or in respect of, a relevant member;
+- “relevant earnings” means earnings of a prescribed description;
+- “relevant members” means members of the scheme of a prescribed description;
+- “relevant period” means a period specified in or determined in accordance with the regulations.
+
+(3) A percentage prescribed under subsection (1)(b) or (c) must be at least 8%.
+
+(4) Regulations under subsection (1)(b) or (c) may make provision—
+
+(a) about how to calculate whether the requirement is satisfied, including provision requiring the calculation to be made in accordance with prescribed methods or assumptions;
+
+(b) requiring benefits of a prescribed description to be disregarded in determining whether the requirement is satisfied;
+
+(c) that a scheme only satisfies the requirement if the scheme actuary certifies that it does; and for this purpose “scheme actuary” has the prescribed meaning.
+
+(5) Section 13(3) (meaning of “earnings”) applies for the purposes of this section as it applies for the purposes of that section.]
+
+##### 24 Quality requirement: UK hybrid schemes
+
+(1) A hybrid scheme that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if it satisfies the requirements mentioned in whichever of these is the appropriate paragraph—
+
+(a) the requirements for a money purchase scheme under section 20, subject to any prescribed modifications;
+
+(b) the requirements for a defined benefits scheme under sections 21 to [[^F51]23A ] , subject to any prescribed modifications.
+
+(2) Which paragraph of subsection (1) is appropriate for any hybrid scheme is to be determined by rules made by the Department.
+
+(3) The rules may provide for different paragraphs to be appropriate for different provisions of a scheme.
+
+(4) The rules may provide for the paragraphs to be appropriate as alternatives, for any scheme or any provisions of a scheme.
+
+##### 25 Quality requirement: non-UK occupational pension schemes
+
+The Department may by regulations make provision as to the quality requirement to be satisfied in the case of an occupational pension scheme within section 18(b) or (c).
+
+##### 26 Quality requirement: UK personal pension schemes
+
+(1) This section applies to a personal pension scheme if the operation of the scheme—
+
+(a) is carried on in such a way as to be a regulated activity for the purposes of the Financial Services and Markets Act 2000 (c. 8), and
+
+(b) is carried on in the United Kingdom by a person who is in relation to that activity an authorised person or an exempt person under section 19 of that Act.
+
+(2) The scheme satisfies the quality requirement in relation to a jobholder if the following conditions are satisfied.
+
+(3) The first condition is that all of the benefits that may be provided to the jobholder under the scheme are money purchase benefits.
+
+(4) The second condition is that, in relation to the jobholder, there is an agreement between the provider of the scheme and the employer under which—
+
+(a) the employer must pay contributions in respect of the jobholder;
+
+(b) the employer's contribution, however calculated, must be equal to or more than 3% of the amount of the jobholder's qualifying earnings in the relevant pay reference period.
+
+(5) In subsection (6), “shortfall” means the difference (if any) between—
+
+(a) the employer's contribution in respect of the jobholder under the agreement referred to in subsection (4), and
+
+(b) 8% of the amount of the jobholder's qualifying earnings in the relevant pay reference period.
+
+(6) The third condition is that if there is a shortfall there is an agreement between the provider of the scheme and the jobholder under which the jobholder must pay contributions which, however calculated, are equal to or more than the shortfall.
+
+(7) The fourth condition is that, in relation to the jobholder, there are direct payment arrangements (within the meaning of section 107A of the Pension Schemes Act) between the jobholder and the employer.
+
+[^F52]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) A scheme does not fail to satisfy the quality requirement under this section merely because the provider of the scheme may on any occasion refuse to accept a contribution below an amount prescribed for the purposes of this section on the grounds that it is below that amount.
+
+##### 27 Quality requirement: other personal pension schemes
+
+The Department may by regulations make provision as to the quality requirement to be satisfied in the case of a personal pension scheme to which section 26 does not apply.
+
+##### [^F54]28 [[^F53]Certification that quality requirement or alternative requirement is satisfied]
+
+(1) The Department may by regulations provide that, subject to provision within subsection (6)(f), a scheme to which this section applies is to be taken to satisfy the relevant quality requirement in relation to [[^F55]each of an employer's relevant jobholders ] if a certificate given in accordance with the regulations is in force in relation to the employer.
+
+[[^F56](1A) In this section—
+
+(a) “relevant jobholder” means a jobholder to whom the certificate in question applies;
+
+(b) a reference to a scheme includes a reference to part of a scheme.]
+
+(2) The certificate must [[^F57]state—
+
+(a) that], in relation to [[^F58]relevant jobholders ] of the employer who are active members of the scheme, the scheme is in the opinion of the person giving the certificate able to satisfy the relevant quality requirement throughout the certification period[[^F59], or
+
+(b) that, in relation to those jobholders, the scheme is in that person's opinion able to satisfy a prescribed alternative requirement throughout the certification period.]
+
+(3) This section applies to—
+
+(a) a money purchase scheme to which section 20 applies;
+
+(b) a personal pension scheme to which section 26 applies;
+
+(c) a hybrid scheme, to the extent that requirements within section 24(1)(a) apply.
+
+[[^F60](3A) This section also applies to—
+
+(a) a money purchase scheme that is an occupational pension scheme within section 18(b);
+
+(b) a personal pension scheme of a prescribed description for which provision is made under section 27;
+
+(c) a hybrid scheme that is an occupational pension scheme within section 18(b), to the extent prescribed.]
+
+[[^F61](3B) This section also applies to a defined benefits scheme that has its main administration in the United Kingdom and is of a description prescribed under section 23A(1)(a).]
+
+(4) The “relevant quality requirement”—
+
+(a) for a scheme within subsection (3)(a), means the quality requirement under section 20;
+
+(b) for a scheme within subsection (3)(b), means the quality requirement under section 26;
+
+(c) for a scheme within paragraph (c) of subsection (3), means the requirements mentioned in that paragraph.
+
+[[^F62](d) for a scheme within subsection (3A), means a prescribed requirement.]
+
+[[^F63](e) for a scheme within subsection (3B), means the quality requirement under section 23A(1)(a).]
+
+(5) Regulations may make further provision in relation to certification under this section.
+
+(6) Regulations may in particular make provision—
+
+(a) as to the period for which a certificate is in force (the “certification period”);
+
+(b) as to the persons by whom a certificate may be given;
+
+(c) as to procedures in connection with certification or where a certificate has been given;
+
+(d) requiring persons to have regard to guidance issued by the Department;
+
+(e) requiring an employer to calculate the amount of contributions that a scheme, and any [[^F64]contribution agreements] , required to be paid by or in respect of [[^F65]any relevant jobholder] in the certification period;
+
+(f) as to cases where the requirements of a scheme, and any [[^F66]contribution agreements] , as to payment of contributions by or in respect of [[^F67]relevant jobholders] of an employer did not satisfy prescribed conditions.
+
+(7) Provision within subsection (6)(f) includes in particular provision for a scheme not to be treated by virtue of regulations under this section as having satisfied the relevant quality requirement unless prescribed steps are taken (which may include the making of prescribed payments).
+
+(8) In subsection (6) [[^F68]“contribution agreements” means—
+
+(a) the agreement] required, in the case of a scheme within subsection (3)(b), by section 26(4) and any agreement required, in the case of such a scheme, by section 26(6).[[^F69], or
+
+(b) any agreement of the same or a similar kind that is required, in the case of a scheme within subsection (3A)(b), by regulations under section 27.]
+
+(9) The Department may by order repeal this section.
+
+#### Transitional
+
+##### 29 Transitional periods for money purchase and personal pension schemes
+
+(1) During the first transitional period [^F70]...—
+
+(a) sections 20(1)(b) and 26(4)(b) have effect as if for “3%” there were substituted “ 1% ”;
+
+(b) sections 20(1)(c) and 26(5)(b) have effect as if for “8%” there were substituted “ 2% ”.
+
+(2) The first transitional period is a prescribed period of at least one year, beginning with the coming into operation of section 20.
+
+(3) During the second transitional period [^F71]...—
+
+(a) sections 20(1)(b) and 26(4)(b) have effect as if for “3%” there were substituted “ 2% ”;
+
+(b) sections 20(1)(c) and 26(5)(b) have effect as if for “8%” there were substituted “ 5% ”.
+
+(4) The second transitional period is a prescribed period of at least one year, beginning with the end of the first transitional period.
+
+##### 30 Transitional period for defined benefits and hybrid schemes
+
+(1) Subsection (3) applies if, in relation to a person who on the employer's first enrolment date is a jobholder to whom section 3 applies, the conditions in subsection (2) are satisfied, and continue to be satisfied during the transitional period for defined benefits and hybrid schemes.
+
+(2) The conditions are that—
+
+(a) the jobholder has been employed by the employer for a continuous period beginning before the employer's first enrolment date,
+
+(b) at a time in that period before the employer's first enrolment date, the jobholder became entitled to become an active member of a defined benefits scheme or [[^F72]a defined benefits member of a hybrid scheme],
+
+(c) the jobholder is, and has always since that time been, entitled to become an active member of a defined benefits scheme or [[^F73]a defined benefits member of a hybrid scheme], and
+
+(d) the scheme to which that entitlement relates is a qualifying scheme, and any scheme to which it has related on or after the employer's first enrolment date has been a qualifying scheme.
+
+(3) [[^F74]If by the end of the prescribed period the employer has given the jobholder notice that the employer intends to defer automatic enrolment until the end of the transitional period for defined benefits and hybrid schemes ], section 3 has effect in relation to the jobholder with the substitution for subsection (2) of the following subsection—
+
+> (2) The employer must make prescribed arrangements by which the jobholder becomes
+>
+> [[^F75](a)] an active member, with effect from the end of the transitional period for defined benefits and hybrid schemes, of an automatic enrolment scheme which is a defined benefits scheme [[^F76], or
+>
+> (b) a defined benefits member, with effect from the end of that period, of an automatic enrolment scheme which is a hybrid scheme.]
+
+[[^F77]A reference in this subsection to a scheme does not include a scheme to which section 30(11)(a) or (b) applies.]
+
+(4) If [[^F78]a notice is given under subsection (3) and at any later time] in the transitional period for defined benefits and hybrid schemes the condition in subsection (2)(c) or (d) ceases to be satisfied, subsection (5) applies instead of subsection (3) (and the day after the last day on which that condition is satisfied is referred to as “the closure date”).
+
+(5) Where this subsection applies, section 3 has effect in relation to the jobholder with the substitution for subsection (2) of the following subsection—
+
+> (2) The employer must make prescribed arrangements by which the jobholder either—
+>
+> (a) becomes an active member, with effect from the closure date, of an automatic enrolment scheme which is a defined benefits scheme [[^F79]other than a scheme to which section 30(11)(a) applies] or
+>
+> [[^F80](aa) becomes a defined benefits member, with effect from the closure date of an automatic enrolment scheme which is a hybrid scheme [[^F81]other than a scheme to which section 30(11)(b) applies] ;]
+>
+> (b) becomes an active member, with effect from the automatic enrolment date, of an automatic enrolment scheme which is a money purchase scheme [[^F82]or personal pension scheme].
+>
+> [[^F83](c) becomes a money purchase member, with effect from the automatic enrolment date, of an automatic enrolment scheme which is a hybrid scheme.]
+>
+> [[^F84](d) becomes an active member, with effect from the automatic enrolment date, of an automatic enrolment scheme which is a defined benefits scheme to which section 30(11)(b) applies, or
+>
+> (e) becomes a defined benefits member, with effect from the automatic enrolment date, of an automatic enrolment scheme which is a hybrid scheme to which section 30(11)(b) applies.]
+
+(6) If the jobholder becomes a member of a scheme under arrangements made under subsection (2)(b) of that section (as substituted by subsection (5))—
+
+(a) the employer's contributions are payable with effect from the automatic enrolment date;
+
+(b) any requirement of the scheme [^F85]... for contributions to be payable by the jobholder does not apply in respect of the period of the jobholder's membership before the closure date;
+
+(c) regulations made for the purposes of section 3(2)(b) must secure that the jobholder may pay, within a period prescribed by the regulations, any contributions which would have been payable by the jobholder but for paragraph (b) of this subsection.
+
+(7) Where subsection (3) or (5) [[^F86]applies—
+
+(a) section] 3(3) and (4) applies as if references to the automatic enrolment date were references to the [[^F87]day with effect from which] arrangements would by virtue of this section fall to be made in respect of the jobholder.
+
+[[^F88](b) section 4 applies as if—
+
+(i) the reference in subsection (1) to the employer's staging date were a reference to the employer's first enrolment date;
+
+(ii) in that subsection, for “the worker's automatic enrolment date is the deferral date” there were substituted “ the day with effect from which arrangements fall to be made by virtue of section 30 in respect of the jobholder is changed to the deferral date ”;
+
+(iii) in subsections (4) to (6), references to the starting day were references to the day with effect from which arrangements would by virtue of this section fall to be made in respect of the jobholder.]
+
+[[^F89](c) section 5(2) does not apply in relation to an automatic re-enrolment date that falls before the day with effect from which arrangements would by virtue of this section fall to be made in respect of the jobholder.]
+
+[[^F90](7A) The Department may by regulations make provision about the form and content of a notice under subsection (3).]
+
+(8) The transitional period for defined benefits and hybrid schemes is a prescribed period beginning with the day on which section 3 comes into operation.
+
+(9) In this section, the “employer's first enrolment date” means the first day on which section 3 applies in the case of the employer (where that day falls within the transitional period for defined benefits and hybrid schemes).
+
+[[^F91](10) For the purposes of this section—
+
+(a) a person is a “money purchase member” of a hybrid scheme if—
+
+(i) the person is an active member of the scheme, and
+
+(ii) all the benefits accruing in respect of his or her membership are money purchase benefits, and
+
+(b) a person is a “defined benefits member” of a hybrid scheme if the person is an active member of the scheme other than a money purchase member.]
+
+[[^F92](11) In subsection (2) references to a scheme do not include—
+
+(a) a defined benefits scheme that satisfies the quality requirement in relation to the jobholder by reason only of section 23A(1)(a), or
+
+(b) a hybrid scheme if—
+
+(i) the appropriate paragraph of section 24(1) for any provisions of the scheme is paragraph (b) (those provisions are referred to below as “the defined benefits section”),
+
+(ii) the defined benefits section satisfies section 23A(1)(a) as applied by section 24(1)(b), and
+
+(iii) the defined benefits section does not satisfy any of the other requirements mentioned in section 24(1)(b).]
+
+#### Miscellaneous
+
+##### 31 [^F93]Effect of freezing order [[^F94], assessment period or pause order]
+
+(1) Where a jobholder is an active member of a qualifying scheme and a freezing event occurs in relation to the scheme, the jobholder does not, for the purposes of this Chapter, cease to be an active member of the scheme, and the scheme does not, for those purposes, cease to be a qualifying scheme, by virtue of any relevant provision.
+
+(2) Where a worker is an active member of a scheme that satisfies the requirements of section 9 and a freezing event occurs in relation to the scheme, the worker does not, for the purposes of section 9(1)(c), cease to be an active member of the scheme by virtue of any relevant provision.
+
+(3) In this section—
+
+- “freezing event” in relation to a scheme means—
+
+  - (a) the making of a freezing order under Article 19 of the Pensions (Northern Ireland) Order 2005 (NI 1) (in this Act referred to as “the 2005 Order”) in relation to the scheme, [^F95]...
+  - (b) the beginning of an assessment period within the meaning of Article 116 of that Order in relation to the scheme [[^F96], or
+  - (c) the making of a pause order under section 95 of the Pension Schemes Act 2021;] [[^F97], or
+  - (d) the making of a pause order under section 31 of the Pension Schemes Act (Northern Ireland) 2021;]
+
+- “relevant provision” means—
+
+  - (a) in relation to a freezing order, provision contained in the order, or the provision made with respect to the order by Article 19 of the 2005 Order;
+  - (b) in relation to an assessment period, the provision made with respect to the period by Article 117 of that Order.
+  - (c) [[^F98]in relation to a pause order, provision contained in the order or the provision made with respect to the order by section 95 of the Pension Schemes Act 2021.]
+  - (d) [[^F99]in relation to a pause order, provision contained in the order or the provision made with respect to the order by section 31 of the Pension Schemes Act (Northern Ireland) 2021.]
+
+##### 32 [^F93]Power of trustees [[^F100]or managers] to modify by resolution
+
+(1) The trustees [[^F101]or managers] of an occupational pension scheme may by resolution modify the scheme—
+
+(a) with a view to enabling the scheme to comply with the conditions in section 17(2), or
+
+(b) by increasing the amount required to be paid in contributions in order for the scheme[[^F102]to satisfy—
+
+(i) the requirements contained in section 20(1),
+
+(ii) those requirements as modified under section 24(1)(a), or
+
+(iii) a requirement prescribed under section 28(2)(b).]
+
+(2) An increase under subsection (1)(b) may be made only—
+
+(a) by increasing the amount of any contribution, directly or by modifying the basis on which it is calculated, or
+
+(b) by increasing the frequency of any contributions.
+
+(3) No modification may be made by virtue of subsection (1) without the consent of the employer in relation to the scheme.
+
+(4) In the application of subsection (3) to a scheme in relation to which there is more than one employer, references to the employer have effect as if they were references to a person nominated by the employers, or by the scheme, to act as the employers' representative for the purposes of this section or, if no such nomination is made, to all of the employers.
+
+(5) Regulations may provide that this section does not apply to occupational pension schemes within a prescribed class or description.
+
+##### 33 [^F93]Deduction of contributions
+
+(1) An employer who arranges for a person to become a member of a scheme in accordance with section 3(2), 5(2) or 7(3), or of an occupational pension scheme in accordance with section 9(2), may deduct the person's contributions to the scheme from the person's remuneration and pay them to the trustees or managers of the scheme (in the case of an occupational pension scheme) or the provider of the scheme (in the case of a personal pension scheme).
+
+(2) Regulations prescribing arrangements for the purposes of section 3(2), 5(2), 7(3) or 9(2), may require the employer to make such a deduction or payment at any time on or after the date with effect from which the jobholder is to become an active member of a scheme under the arrangements.
+
+### CHAPTER 2 — COMPLIANCE
+
+#### Effect of failure to comply
+
+##### 34 Effect of failure to comply
+
+(1) Contravention of any of the employer duty provisions does not give rise to a right of action for breach of statutory duty.
+
+(2) But nothing in the employer duty provisions or this Chapter affects any right of action arising apart from those provisions.
+
+(3) In this Chapter, references to the employer duty provisions are references to any provision of sections 2 to 11 or of regulations under those sections.
+
+#### Compliance notices and unpaid contributions notices
+
+##### 35 Compliance notices
+
+(1) The Regulator may issue a compliance notice to a person if it is of the opinion that the person has contravened one or more of the employer duty provisions.
+
+(2) A compliance notice is a notice directing the person to whom it is issued to take, or refrain from taking, the steps specified in the notice in order to remedy the contravention.
+
+(3) A compliance notice may, in particular—
+
+(a) state the period within which any step must be taken or must cease to be taken;
+
+(b) require the person to whom it is issued to provide within a specified period specified information relating to the contravention;
+
+(c) require the person to inform the Regulator, within a specified period, how the person has complied or is complying with the notice;
+
+(d) state that, if the person fails to comply with the requirements of the notice, the Regulator may issue a fixed penalty notice under section 40.
+
+(4) The steps specified in the notice may, in particular, include such steps as the Regulator thinks appropriate for placing the worker in the same position (as nearly as possible) as if the contravention had not occurred.
+
+(5) If the compliance notice is issued in respect of a failure to comply with an enrolment duty and the specified steps relate to membership of a defined benefits scheme or a hybrid scheme, the notice may, in particular, require the employer to ensure that the worker is entitled to the same benefits under the scheme as if the employer had complied with that duty.
+
+##### 36 Third party compliance notices
+
+(1) The Regulator may issue a third party compliance notice if it is of the opinion that—
+
+(a) a person has contravened one or more of the employer duty provisions,
+
+(b) the contravention is or was, wholly or partly, a result of a failure of another person (the “third party”) to do any thing, and
+
+(c) that failure is not itself a contravention of any of the employer duty provisions.
+
+(2) A third party compliance notice is a notice directing the third party to take, or refrain from taking, the steps specified in the notice in order to remedy or prevent a recurrence of the failure.
+
+(3) A third party notice may, in particular—
+
+(a) state the period within which any step must be taken or must cease to be taken;
+
+(b) require the third party to inform the Regulator, within a specified period, how the third party has complied or is complying with the notice;
+
+(c) state that, if the third party fails to comply with the requirements of the notice, the Regulator may issue a fixed penalty notice under section 40.
+
+(4) A third party notice may give the third party a choice between different ways of remedying or preventing the recurrence of the third party's failure.
+
+##### 37 Unpaid contributions notices
+
+(1) The Regulator may issue an unpaid contributions notice to an employer if it is of the opinion that relevant contributions have not been paid on or before the due date.
+
+(2) An unpaid contributions notice is a notice requiring an employer to pay into a pension scheme by a specified date an amount in respect of relevant contributions that have not been paid.
+
+(3) “Due date” has the meaning prescribed.
+
+(4) An unpaid contributions notice may, in particular—
+
+(a) specify the scheme to which the contributions are due;
+
+(b) specify the workers, or category of workers, in respect of whom the contributions are due;
+
+(c) state the period in respect of which the contributions are due;
+
+(d) state the due date in respect of the contributions;
+
+(e) require the employer to take such other steps in relation to remedying the failure to pay the contributions as the Regulator considers appropriate;
+
+(f) state that if the employer fails to comply with the notice, the Regulator may issue a fixed penalty notice under section 40.
+
+(5) In this section, “employer” in relation to a worker means the person by whom the worker is or, if the employment has ceased, was employed.
+
+##### 38 Calculation and payment of contributions
+
+(1) This section applies to—
+
+(a) a compliance notice issued to an employer in respect of a contravention of section 2(1) or a failure to comply with an enrolment duty;
+
+(b) an unpaid contributions notice.
+
+(2) The notice may, in particular, include—
+
+(a) a requirement to calculate the amount of relevant contributions that are of a description specified in the notice (“unpaid relevant contributions”);
+
+(b) if the contributions are being paid within the prescribed period after the appropriate date, a requirement to pay an amount equal to the amount of unpaid relevant contributions within section 39(2)(a);
+
+(c) if the contributions are not being paid within the prescribed period after the appropriate date, a requirement to pay (on the employer's own account) an amount equal to the amount of unpaid relevant contributions;
+
+(d) if paragraph (b) applies, a requirement to ensure—
+
+(i) that the worker is not required to pay an amount equal to the balance of the unpaid relevant contributions during the prescribed period, and
+
+(ii) that, if the worker chooses to pay that amount, it may be paid in instalments;
+
+(e) if the contributions are payable to a money purchase scheme, a hybrid scheme or a personal pension scheme, a requirement to pay interest on the amount required by the notice to be paid in respect of unpaid relevant contributions, at a rate and in respect of a period determined in accordance with regulations.
+
+(3) The Department may by regulations make provision about the way in which the Regulator may (without prejudice to subsection (2)(a)) estimate the amount of contributions that an employer has failed to pay on behalf or in respect of a worker.
+
+(4) Regulations under subsection (3) may include, in particular, provision about the sources of information that the Regulator may use in estimating that amount, other than information provided by the employer.
+
+(5) In this section, “appropriate date” means—
+
+(a) in the case of a compliance notice, such date as may be specified in the notice;
+
+(b) in the case of an unpaid contributions notice, the due date within the meaning of section 37(3).
+
+(6) In this section, “employer” in relation to a worker means the person by whom the worker is or, if the employment has ceased, was employed.
+
+##### 39 Meaning of “relevant contributions”
+
+(1) In sections 37 and 38 “relevant contributions” are—
+
+(a) in relation to a jobholder, employer contributions payable to a qualifying scheme in relation to the jobholder;
+
+(b) in relation to a worker to whom section 9 applies, employer contributions payable to a pension scheme which satisfies the requirements of that section.
+
+(2) In subsection (1), “employer contributions” means contributions payable by the employer—
+
+(a) on the employer's own account (but in respect of the worker), or
+
+(b) on behalf of the worker out of deductions from the worker's earnings.
+
+#### Penalty notices
+
+##### 40 Fixed penalty notices
+
+(1) The Regulator may issue a fixed penalty notice to a person if it is of the opinion that the person has failed to comply with—
+
+(a) a compliance notice under section 35,
+
+(b) a third party compliance notice under section 36,
+
+(c) an unpaid contributions notice under section 37, [^F103]...
+
+(d) a notice issued under Article 67 of the 2005 Order (provision of information) [[^F104], so far as relevant to the exercise of any of its functions under or by virtue of this Part ][[^F105],or
+
+(e) a notice issued under Article 67A of that Order (interviews), so far as relevant to the exercise of its functions under or by virtue of this Part.]
+
+(2) The Regulator may issue a fixed penalty notice to a person if it is of the opinion that the person has contravened—
+
+(a) any provision of regulations under section 3(2) or 5(2) (prescribed arrangements for automatic enrolment or re-enrolment),
+
+(b) any provision of regulations under section 7(4) (prescribed arrangements: jobholder's right to opt in),
+
+(c) section 8(2)(b) (refund of contributions if jobholder opts out of scheme membership), and any provision of regulations under that provision,
+
+(d) section 10 (requirement to give information to workers) and any provision of regulations under that section, or
+
+(e) any provision of regulations under section 59 (requirement to keep records).
+
+(3) A fixed penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+
+(4) The penalty—
+
+(a) is to be determined in accordance with regulations, and
+
+(b) must not exceed £50,000.
+
+(5) A fixed penalty notice must—
+
+(a) state the amount of the penalty;
+
+(b) state the date, which must be at least four weeks after the date on which the notice is issued, by which the penalty must be paid;
+
+(c) state the period to which the penalty relates;
+
+(d) if the notice is issued under subsection (1), specify the failure to which the notice relates;
+
+(e) if the notice is issued under subsection (2), specify the provision or provisions that have been contravened;
+
+(f) if the notice is issued under subsection (1), state that, if the failure to comply continues, the Regulator may issue an escalating penalty notice under section 41;
+
+(g) notify the person to whom the notice is issued of the review process under section 43 and the right of referral to [[^F106]a tribunal] under section 44.
+
+##### 41 Escalating penalty notices
+
+(1) The Regulator may issue an escalating penalty notice to a person if it is of the opinion that the person has failed to comply with—
+
+(a) a compliance notice under section 35,
+
+(b) a third party compliance notice under section 36,
+
+(c) an unpaid contributions notice under section 37, [^F107]...
+
+(d) a notice under Article 67 of the 2005 Order (provision of information) [[^F108], so far as relevant to the exercise of any of its functions under or by virtue of this Part ][[^F109], or
+
+(e) a notice issued under Article 67A of that Order (interviews), so far as relevant to the exercise of its functions under or by virtue of this Part.]
+
+(2) But the Regulator may not issue an escalating penalty notice if—
+
+(a) it relates to failure to comply with a notice within subsection (1)(a), (b) or (c), the person to whom that notice was issued has applied for a review of it under section 43, and any review has not been completed;
+
+(b) it relates to failure to comply with any notice within subsection (1), the person has exercised the right of referral to [[^F110]a tribunal] under section 44 in respect of a fixed penalty notice issued in relation to that notice, and the reference has not been determined.
+
+(3) An escalating penalty notice is a notice requiring a person to pay an escalating penalty if the person fails to comply with a notice referred to in subsection (1) before a specified date.
+
+(4) An escalating penalty is a penalty which is calculated by reference to a prescribed daily rate.
+
+(5) The prescribed daily rate—
+
+(a) is to be determined in accordance with regulations, and
+
+(b) must not exceed £10,000.
+
+(6) An escalating penalty notice must—
+
+(a) specify the failure to which the notice relates;
+
+(b) state that, if the person fails to comply with the notice referred to in subsection (1) before a specified date, the person will be liable to pay an escalating penalty;
+
+(c) state the daily rate of the escalating penalty and the way in which the penalty is calculated;
+
+(d) state the date from which the escalating penalty will be payable, which must not be earlier than the date specified in the fixed penalty notice under section 40(5)(b);
+
+(e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the notice referred to in subsection (1) or such earlier date as the Regulator may determine;
+
+(f) notify the person of the review process under section 43 and the right of referral to [[^F111]a tribunal] under section 44.
+
+##### 42 Penalty notices: recovery
+
+(1) Any penalty payable under section 40 or section 41 is recoverable by the Regulator.
+
+(2) The Regulator must pay into the Consolidated Fund any penalty recovered under this section.
+
+#### Reviews and references
+
+##### 43 Review of notices
+
+(1) The Regulator may review a notice to which this section applies—
+
+(a) on the written application of the person to whom the notice was issued, or
+
+(b) if the Regulator otherwise considers it appropriate.
+
+(2) This section applies to—
+
+(a) a compliance notice issued under section 35;
+
+(b) a third party compliance notice issued under section 36;
+
+(c) an unpaid contributions notice issued under section 37;
+
+(d) a fixed penalty notice issued under section 40;
+
+(e) an escalating penalty notice issued under section 41.
+
+(3) Regulations may prescribe the period within which—
+
+(a) an application to review a notice may be made under subsection (1)(a);
+
+(b) a notice may be reviewed under subsection (1)(b).
+
+(4) On a review of a notice, the effect of the notice is suspended for the period beginning when the Regulator determines to carry out the review and ending when the review is completed.
+
+(5) In carrying out a review, the Regulator must consider any representations made by the person to whom the notice was issued.
+
+(6) The Regulator's powers on a review include power to—
+
+(a) confirm, vary or revoke the notice;
+
+(b) substitute a different notice.
+
+##### 44 References to [[^F112]First-tier Tribunal or Upper Tribunal]
+
+(1) A person to whom a notice is issued under section 40 or section 41 may, if one of the conditions in subsection (2) is satisfied, make a reference to [[^F113]the Tribunal] in respect of—
+
+(a) the issue of the notice;
+
+(b) the amount of the penalty payable under the notice.
+
+(2) The conditions are—
+
+(a) that the Regulator has completed a review of the notice under section 43;
+
+(b) that the person to whom the notice was issued has made an application for the review of the notice under section 43(1)(a) and the Regulator has determined not to carry out such a review.
+
+(3) On a reference to [[^F114]the Tribunal] in respect of a notice, the effect of the notice is suspended for the period beginning when the Tribunal receives notice of the reference and ending—
+
+(a) when the reference is withdrawn or completed, or
+
+(b) if the reference is made out of time, on the Tribunal determining not to allow the reference to proceed.
+
+(4) For the purposes of subsection (3), a reference is completed when—
+
+(a) the reference has been determined,
+
+(b) the Tribunal has remitted the matter to the Regulator, and
+
+(c) any directions of the Tribunal for giving effect to its determination have been complied with.
+
+[[^F115](4A) In this section “the Tribunal”, in relation to a reference under this section, means—
+
+(a) the Upper Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the Upper Tribunal is to hear the reference;
+
+(b) the First-tier Tribunal, in any other case.]
+
+[^F116]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F117]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Offences and monitoring
+
+##### 45 Offences of failing to comply
+
+(1) An offence is committed by an employer who wilfully fails to comply with—
+
+(a) the duty under section 3(2) (automatic enrolment),
+
+(b) the duty under section 5(2) (automatic re-enrolment), or
+
+(c) the duty under section 7(3) (jobholder's right to opt in).
+
+(2) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or both;
+
+(b) on summary conviction to a fine not exceeding the statutory maximum.
+
+##### 46 Offences by bodies corporate
+
+For the purposes of an offence under section 45, section 20(2) of the Interpretation Act (Northern Ireland) 1954 (c. 33) applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a director of the body corporate.
+
+##### 47 Offences by partnerships and unincorporated associations
+
+(1) Proceedings for an offence under section 45 alleged to have been committed by a partnership or an unincorporated association may be brought in the name of the partnership or association.
+
+(2) For the purposes of such proceedings—
+
+(a) rules of court relating to the service of documents are to have effect as if the partnership or association were a body corporate;
+
+(b) Schedule 4 to the Magistrates' Courts (Northern Ireland) Order 1981 (NI 26) applies in relation to the partnership or association as it applies in relation to a body corporate.
+
+(3) A fine imposed on a partnership or association on its conviction of an offence under section 45 is to be paid out of the funds of the partnership or association.
+
+(4) Subsection (5) applies where an offence under section 45 committed by a partnership is proved—
+
+(a) to have been committed with the consent or connivance of a partner, or
+
+(b) to be attributable to any neglect on the part of a partner.
+
+(5) The partner, as well as the partnership, is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(6) Subsection (7) applies where an offence under section 45 committed by an unincorporated association is proved—
+
+(a) to have been committed with the consent or connivance of an officer of the association, or
+
+(b) to be attributable to any neglect on the part of an officer of the association.
+
+(7) The officer, as well as the association, is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(8) “Officer” in this section means—
+
+(a) an officer of the association or a member of its governing body, or
+
+(b) a person purporting to act in such capacity.
+
+(9) “Partner” in this section includes a person purporting to act as a partner.
+
+##### 48 Offences of providing false or misleading information
+
+In Article 75(1)(a) of the 2005 Order (offences of providing false or misleading information)—
+
+(a) at the end of head (iv) add
+
+> or
+>
+> (v) regulations under section 11 of the Pensions (No. 2) Act (Northern Ireland) 2008 (information to be given to the Pensions Regulator);
+
+;
+
+(b) omit “or” at the end of head (iii).
+
+##### 49 Monitoring of employers' payments to personal pension schemes
+
+In section 107A of the Pension Schemes Act, at the end add—
+
+> (18) In this section, “employee” includes a jobholder within the meaning of section 1 of the Pensions (No. 2) Act (Northern Ireland) 2008 and “employer” is to be read accordingly.
+
+.
+
+### CHAPTER 3 — SAFEGUARDS: EMPLOYMENT AND PRE-EMPLOYMENT
+
+#### Prohibited recruitment conduct
+
+##### 50 Prohibited recruitment conduct
+
+(1) An employer contravenes this section if any statement made or question asked by or on behalf of the employer for the purposes of recruitment indicates (expressly or impliedly) that an application for employment with the employer may be determined by reference to whether or not an applicant might opt out of automatic enrolment.
+
+(2) The reference in subsection (1) to a statement made or a question asked for the purposes of recruitment is a reference to one made or asked in the course of any of the following—
+
+(a) inviting applications for employment;
+
+(b) requesting information from an applicant, referee or other person in connection with an application for employment;
+
+(c) providing information about employment;
+
+(d) proposing terms or conditions of employment.
+
+(3) The reference in subsection (1) to an applicant opting out of automatic enrolment is a reference to the applicant, if becoming at any time in the course of the employment a jobholder to whom section 3 or 5 applies, giving notice in accordance with section 8 in relation to arrangements made by the employer under the relevant section.
+
+(4) In this section and sections 51 and 52, “employer” means the prospective employer in relation to any employment.
+
+##### 51 Compliance notices
+
+(1) The Regulator may issue a compliance notice to an employer if it is of the opinion that the employer has contravened section 50.
+
+(2) A compliance notice is a notice directing the employer to take, or refrain from taking, the steps specified in the notice in order to—
+
+(a) remedy the contravention, or
+
+(b) prevent the contravention being repeated.
+
+(3) A compliance notice may, in particular—
+
+(a) state the period within which any step must be taken or must cease to be taken;
+
+(b) require the employer to provide within a specified period specified information relating to the contravention;
+
+(c) require the employer to inform the Regulator, within a specified period, how the employer has complied or is complying with the notice;
+
+(d) state that, if the employer fails to comply with the requirements of the notice, the Regulator may issue a penalty notice under section 52.
+
+(4) A compliance notice must specify the contravention to which the notice relates.
+
+##### 52 Penalty notices
+
+(1) The Regulator may issue a penalty notice to an employer if it is of the opinion that the employer—
+
+(a) has contravened section 50, or
+
+(b) has failed to comply with a compliance notice under section 51.
+
+(2) A penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+
+(3) The penalty—
+
+(a) is to be determined in accordance with regulations, and
+
+(b) must not exceed £50,000.
+
+(4) A penalty notice must—
+
+(a) state the amount of the penalty;
+
+(b) state the date, which must be at least four weeks after the date on which the notice is issued, by which the penalty must be paid;
+
+(c) specify the contravention or failure to which the notice relates;
+
+(d) notify the employer of the review process under section 43 and the right to make a reference under section 44 (as applied by section 53).
+
+(5) Section 42 (penalty notices: recovery) applies to a penalty payable under this section, and to a notice under this section, as it applies to a penalty payable under section 40, and to a notice under that section.
+
+##### 53 Review of notices and references to the [[^F118]First-tier Tribunal or Upper Tribunal]
+
+(1) Section 43 (review of notices) also applies to a compliance notice issued under section 51 and to a penalty notice issued under section 52.
+
+(2) Section 44 (references to the [[^F119]First-tier Tribunal or Upper Tribunal]) applies in relation to a penalty notice issued under section 52 as it applies in relation to a notice issued under section 40 or 41.
+
+#### Inducements
+
+##### 54 Inducements
+
+(1) An employer contravenes this section if the employer takes any action for the sole or main purpose of—
+
+(a) inducing a worker to give up membership of a relevant scheme without becoming an active member of another relevant scheme [[^F120]with effect from—
+
+(i) the day after the membership is given up, or
+
+(ii) a day within the prescribed period (if a period is prescribed)], or
+
+(b) inducing a jobholder to give a notice under section 8 without becoming an active member of a qualifying scheme [[^F121]with effect from—
+
+(i) the day on which the jobholder became an active member of the scheme to which the notice relates, or
+
+(ii) a day within the prescribed period (if a period is prescribed)].
+
+(2) Section 35 applies in relation to a contravention of this section as it applies in relation to a contravention of section 2(1), and sections 38 to 44 apply accordingly.
+
+(3) But the Regulator may not issue a compliance notice in respect of a contravention of this section unless the contravention occurred within the prescribed period before—
+
+(a) the time when a complaint was made to the Regulator about the contravention, or
+
+(b) the time when the Regulator informed the employer of an investigation of the contravention, if no complaint was made before that time.
+
+(4) A compliance notice in respect of a contravention of this section may direct the employer to take or refrain from taking specified steps in order to prevent the contravention being repeated.
+
+(5) For the purposes of this section a worker gives up membership of a relevant scheme if the worker—
+
+(a) takes action or makes an omission by which the worker, without ceasing to be employed by the employer, ceases to be an active member of the scheme, or
+
+(b) requests or authorises the employer to take such action or to make such an omission.
+
+(6) In this section, “relevant scheme” means—
+
+(a) in relation to a jobholder, a qualifying scheme;
+
+(b) in relation to a worker to whom section 9 applies, a scheme which satisfies the requirements of that section.
+
+#### Protection of employment rights
+
+##### 55 The right not to suffer detriment
+
+(1) A worker has the right not to be subjected to any detriment by an act, or a deliberate failure to act, by the worker's employer, done on the ground that—
+
+(a) any action was taken, or was proposed to be taken, with a view to enforcing in favour of the worker a requirement to which this section applies,
+
+(b) the employer was prosecuted for an offence under section 45 as a result of action taken for the purpose of enforcing in favour of the worker a requirement to which this section applies, or
+
+(c) any provision of Chapter 1 applies to the worker, or will or might apply.
+
+(2) It is immaterial for the purposes of paragraph (a) or (b) of subsection (1)—
+
+(a) whether or not the requirement applies in favour of the worker, or
+
+(b) whether or not the requirement has been contravened,
+
+but, for that subsection to apply, the claim that the requirement applies and, if applicable, the claim that it has been contravened must be made in good faith.
+
+(3) This section applies to any requirement imposed on the employer by or under any provision of Chapter 1.
+
+(4) This section does not apply where the detriment in question amounts to dismissal within the meaning of Part 11 of the Employment Rights (Northern Ireland) Order 1996 (NI 16) (in this Act referred to as “the Employment Rights Order”) (unfair dismissal).
+
+(5) In this section references to enforcing a requirement include references to securing its benefit in any way.
+
+##### 56 Enforcement of the right
+
+(1) A worker may present a complaint to an industrial tribunal that the worker has been subjected to a detriment in contravention of section 55.
+
+(2) Subject to the following provisions of this section, the provisions of Articles 71(2) to (4) and 72 of the Employment Rights Order (complaints to industrial tribunals and remedies), apply in relation to a complaint under this section as they apply in relation to a complaint under Article 71 of that Order, but taking references in those provisions to the employer as references to the employer within the meaning of section 55(1).
+
+(3) Where—
+
+(a) the detriment to which the worker is subjected is the termination of the worker's contract, but
+
+(b) that contract is not a contract of employment,
+
+any compensation awarded under Article 72 of the Employment Rights Order by virtue of subsection (2) must not exceed the limit specified in subsection (4).
+
+(4) The limit is the total of—
+
+(a) the sum which would be the basic award for unfair dismissal, calculated in accordance with Article 153 of the Employment Rights Order, if the worker had been an employee within the meaning of that Order and the contract terminated had been a contract of employment, and
+
+(b) the sum for the time being specified in Article 158(1) of that Order which is the limit for a compensatory award to a person calculated in accordance with Article 157 of that Order.
+
+(5) Where the worker has been working under arrangements which do not fall to be regarded as a worker's contract for the purposes of the Employment Rights Order, the worker is to be treated for the purposes of subsections (3) and (4) as if any arrangements under which the worker has been working constituted a worker's contract falling within Article 3(3)(b) of that Order.
+
+(6) In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) (proceedings where conciliation is available), after sub-paragraph (q) add
+
+> , or
+>
+> (r) under section 56 of the Pensions (No. 2) Act (Northern Ireland) 2008.
+
+.
+
+##### 57 Right of employee not to be unfairly dismissed
+
+(1) The Employment Rights Order is amended as follows.
+
+(2) After Article 135C (flexible working) insert—
+
+> **135D Pension enrolment**
+>
+> (1) An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that—
+>
+> (a) any action was taken, or was proposed to be taken, with a view to enforcing in favour of the employee a requirement to which this Article applies;
+>
+> (b) the employer was prosecuted for an offence under section 45 of the Pensions (No. 2) Act (Northern Ireland) 2008 as a result of action taken for the purposes of enforcing in favour of the employee a requirement to which this Article applies; or
+>
+> (c) any provision of Chapter 1 of that Part of that Act applies to the employee, or will or might apply.
+>
+> (2) It is immaterial for the purposes of sub-paragraph (a) or (b) of paragraph (1)—
+>
+> (a) whether or not the requirement applies in favour of the employee, or
+>
+> (b) whether or not the requirement has been contravened,
+>
+> but, for that paragraph to apply, the claim that the requirement applies and, if applicable, the claim that it has been contravened must be made in good faith.
+>
+> (3) This Article applies to any requirement imposed on the employer by or under any provision of Chapter 1 of Part 1 of the Pensions (No. 2) Act (Northern Ireland) 2008.
+>
+> (4) In this Article references to enforcing a requirement include references to securing its benefit in any way.
+
+.
+
+(3) In Article 137 (redundancy as unfair dismissal), in paragraph (1)(c) (which refers to any of paragraphs (2A) to (7I) of that Article applying) for “(7I)” substitute “ (7J) ”.
+
+(4) After paragraph (7I) of that Article insert—
+
+> (7J) This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in paragraph (1) of Article 135D (read with paragraph (2) of that Article).
+
+.
+
+(5) In Article 140 (exclusion of right: qualifying period of employment) in paragraph (3) (cases where no qualifying period is required) after sub-paragraph (fh) insert—
+
+> (fi) paragraph (1) of Article 135D (read with paragraph (2) of that Article) applies,
+
+.
+
+(6) In Article 143(2) (cases where employee may complain of unfair dismissal despite participation in unofficial industrial action), after sub-paragraph (d) insert—
+
+> (dd) Article 135D applies,
+
+.
+
+(7) In Article 144(2) (cases where industrial tribunal to determine whether dismissal of an employee is unfair despite limitation in paragraph (1) of that Article), after sub-paragraph (d) insert—
+
+> (dd) Article 135D applies;
+
+.
+
+##### 58 Restrictions on agreements to limit operation of this Part
+
+(1) Any provision in any agreement (whether a worker's contract or not) is void in so far as it purports—
+
+(a) to exclude or limit the operation of any provision of this Part, or
+
+(b) to preclude a person from bringing proceedings under section 56 before an industrial tribunal.
+
+(2) The fact that an agreement is to any extent void under subsection (1) does not entitle the employer to recover any property transferred, or the value of any benefit conferred, as an inducement to enter into, or otherwise in connection with, the agreement.
+
+(3) Subsection (1) does not apply to any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under [[^F122]any of Articles 20A to 20C] of the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) (conciliation).
+
+(4) Subsection (1) does not apply to any agreement to refrain from instituting or continuing before an industrial tribunal any proceedings within Article 20(1)(r) of the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) (proceedings under this Act where conciliation is available) if the conditions regulating compromise agreements under this Act are satisfied in relation to the agreement.
+
+(5) For the purposes of subsection (4) the conditions regulating compromise agreements under this Act are that—
+
+(a) the agreement must be in writing,
+
+(b) the agreement must relate to the particular proceedings,
+
+(c) the worker must have received advice from a relevant independent adviser as to the terms and effect of the proposed agreement and, in particular, its effect on his ability to pursue his rights before an industrial tribunal,
+
+(d) there must be in force, when the adviser gives the advice, a contract of insurance, or an indemnity provided for members of a profession or a professional body, covering the risk of a claim by the worker in respect of loss arising in consequence of the advice,
+
+(e) the agreement must identify the adviser, and
+
+(f) the agreement must state that the conditions regulating compromise agreements under this Act are satisfied.
+
+(6) A person is a relevant independent adviser for the purposes of subsection (5)(c) if that person—
+
+(a) is a qualified lawyer,
+
+(b) is an officer, official, employee or member of an independent trade union who has been certified in writing by the trade union as competent to give advice and as authorised to do so on behalf of the trade union,
+
+(c) works at an advice centre (whether as an employee or a volunteer) and has been certified in writing by the centre as competent to give advice and as authorised to do so on behalf of the centre, or
+
+(d) is a person of a description specified in an order made by the Department.
+
+(7) But a person is not a relevant independent adviser for the purposes of subsection (5)(c) in relation to the worker—
+
+(a) if the person is employed by, or is acting in the matter for, the employer or an associated employer,
+
+(b) in the case of a person within subsection (6)(b) or (c), if the trade union or advice centre is the employer or an associated employer,
+
+(c) in the case of a person within subsection (6)(c), if the worker makes a payment for the advice received from the person, or
+
+(d) in the case of a person of a description specified in an order under subsection (6)(d), if any condition specified in the order in relation to the giving of advice by persons of that description is not satisfied.
+
+(8) In this section “qualified lawyer” means—
+
+(a) a barrister (whether in practice as such or employed to give legal advice), or
+
+(b) a solicitor who holds a practising certificate.
+
+(9) For the purposes of this section any two employers are associated if—
+
+(a) one is a company of which the other (directly or indirectly) has control, or
+
+(b) both are companies of which a third person (directly or indirectly) has control,
+
+and “associated employer” is to be read accordingly.
+
+### CHAPTER 4 — SUPPLEMENTARY PROVISION ABOUT COMPLIANCE AND INFORMATION-SHARING
+
+#### Records and information
+
+##### 59 Requirement to keep records
+
+(1) For the purposes of Chapter 1 or 2, the Department may by regulations make provision requiring any person—
+
+(a) to keep, in such form and manner as may be prescribed, such records as may be prescribed;
+
+(b) to preserve those records for such period, not exceeding 6 years, as may be prescribed;
+
+(c) to provide those records [[^F123]to the Regulator on receiving a notification requesting them] .
+
+(2) Regulations under subsection (1) may provide that Article 10 of the 1995 Order (civil penalties) applies to a person who fails to comply with those requirements.
+
+##### 60 Powers to require information and to enter premises
+
+(1) The 2005 Order is amended as follows.
+
+(2) In Article 67 (provision of information), after paragraph (1) insert—
+
+> (1A) If the Regulator requires information which is relevant to the exercise of its functions under Chapter 2 of Part 1 of the Pensions (No. 2) Act (Northern Ireland) 2008 or section 51 of that Act, the Regulator may, by notice in writing, require a person to whom paragraph (2) applies—
+>
+> (a) to furnish the Regulator with an explanation of any document or information required under paragraph (1);
+>
+> (b) to attend before the Regulator at such time and place as may be specified in the notice under that paragraph to furnish any such explanation.
+>
+> (1B) The Regulator may not require a person to answer any question or furnish any information which might incriminate the person or, if that person is married or a civil partner, the person's spouse or civil partner.
+
+.
+
+(3) In Article 69 (inspection of premises in respect of employers' obligations), before paragraph (1) insert—
+
+> (A1) An inspector may, for the purposes of investigating whether an employer is contravening, or has contravened—
+>
+> (a) any provision of, or of regulations under, Chapter 1 of Part 1, or section 50 or 54, of the Pensions (No. 2) Act (Northern Ireland) 2008, or
+>
+> (b) any corresponding provision in force in Great Britain,
+>
+> at any reasonable time enter premises liable to inspection.
+>
+> (B1) Premises are liable to inspection for the purposes of paragraph (A1) if the inspector has reasonable grounds to believe that—
+>
+> (a) the employer employs workers there,
+>
+> (b) documents relevant to any of the following are being kept there—
+>
+> (i) the administration of the employer's business,
+>
+> (ii) the duties of the employer under Chapter 1 of Part 1 of the Pensions (No. 2) Act (Northern Ireland) 2008 or any corresponding provision in force in Great Britain,
+>
+> (iii) the administration of a pension scheme that is relevant to the discharge of those duties, or
+>
+> (c) the administration of the employer's business, or work connected with that administration, is being carried out there.
+>
+> (C1) In paragraphs (A1) and (B1) “employer” and “worker” have the meaning given by section 70 of the Pensions (No. 2) Act (Northern Ireland) 2008.
+>
+> (D1) In the application of paragraphs (A1) and (B1) in relation to any provision mentioned in paragraph (A1)(b) (a “corresponding GB provision”), references in those paragraphs to “employer” or “worker” are to be read as having the meaning that they have for the purposes of the corresponding GB provision.
+
+.
+
+(4) In Article 70(1) (inspection of premises: powers of inspectors), after “paragraph” (in the third place where it occurs) insert “ (A1), ”.
+
+(5) In Article 71(9) (inspection of premises: supplementary), after “paragraph” (in the second place where it occurs) insert “ (A1), ”.
+
+##### 61 Disclosure of tax information etc.
+
+(1) In the 2005 Order, for Article 83 (tax information) substitute—
+
+> **83 Tax information etc.**
+>
+> (1) This Article applies to information held by the Revenue and Customs if it is held by them in connection with a function of the Revenue and Customs that relates to any of these matters—
+>
+> (a) tax or duty;
+>
+> (b) national insurance contributions;
+>
+> (c) the national minimum wage.
+>
+> (2) An officer of Revenue and Customs may disclose to the Regulator information to which this Article applies, if the disclosure is made for the purpose of enabling or assisting the Regulator to discharge its functions.
+>
+> (3) Where information to which this Article applies is disclosed to the Regulator by virtue of paragraph (2) or section 19 of the Anti-terrorism, Crime and Security Act 2001 (disclosure of information held by revenue departments), it must, subject to paragraphs (4) and (5), be treated for the purposes of Article 77 as restricted information.
+>
+> (4) Information to which this Article applies which is disclosed to the Regulator as mentioned in paragraph (3) may not be disclosed by the Regulator or any person who receives the information directly or indirectly from the Regulator except—
+>
+> (a) to, or in accordance with authority given by, the Commissioners for Her Majesty's Revenue and Customs,
+>
+> (b) with a view to the institution of, or otherwise for the purposes of, any criminal proceedings,
+>
+> (c) with a view to the institution of any other proceedings by the Regulator, or for the purposes of any such proceedings instituted by the Regulator,
+>
+> (d) in accordance with Article 79, otherwise than for the purposes of any proceedings, or
+>
+> (e) in the form of a summary or collection of information so framed as not to enable information relating to any particular person to be ascertained from it.
+>
+> (5) Accordingly Articles 77(3), 78 and 80 to 82, and section 235 of and paragraph 4 of Schedule 10 to, the Pensions Act 2004, do not apply to such information, and Article 79 applies subject to paragraph (4)(d).
+>
+> (6) In paragraph (4)(c) and (d), “proceedings” includes the issue of notices or any other enforcement action taken by the Regulator under Chapter 2 of Part 1 of the Pensions (No. 2) Act (Northern Ireland) 2008 or any other provision.
+>
+> (7) In this Article “the Revenue and Customs” and a “function of the Revenue and Customs” have the same meaning as in section 18 of the Commissioners for Revenue and Customs Act 2005 (confidentiality).
+
+.
+
+(2) In Article 77 of that Order (restricted information) in paragraph (3) for “83(4)” substitute “ 83(4)(d) ”.
+
+##### 62 Penalty for disclosure
+
+In Article 77(5)(a) of the 2005 Order (penalty for disclosure of restricted information, on summary conviction) at the end add “ , or imprisonment for a term not exceeding six months, or both ”.
+
+#### Objectives of the Regulator
+
+##### 63 Objectives of the Regulator
+
+In Article 4(1) of the 2005 Order (Regulator's objectives), before “and” at the end of sub-paragraph (c) insert—
+
+> (ca) to maximise compliance with the duties under Chapter 1 of Part 1 (and the safeguards in sections 50 and 54) of the Pensions (No. 2) Act (Northern Ireland) 2008,
+
+.
+
+#### Functions of the Pensions Ombudsman
+
+##### 64 Functions of the Pensions Ombudsman
+
+(1) Section 142 of the Pension Schemes Act (functions of the Pensions Ombudsman) is amended as follows.
+
+(2) In subsection (7), after paragraph (ba) insert—
+
+> (bb) a person who has given notice in accordance with section 8 of the Pensions (No. 2) Act (Northern Ireland) 2008 (right to opt out of membership of an automatic enrolment scheme);
+
+.
+
+(3) In paragraph (c)(i) of that subsection, for “or (ba)” substitute “ , (ba) or (bb) ”.
+
+### CHAPTER 5 — PERSONAL ACCOUNTS DELIVERY AUTHORITY
+
+#### Functions
+
+##### 65 Functions and winding up
+
+(1) [^F124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^F124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) If the Secretary of State makes an order containing provision under section 23(7) of the Pensions Act 2007 (c. 22), the Department may by order make corresponding provision in relation to Northern Ireland.
+
+##### 66 Principles
+
+[^F125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 67 Directions and guidance
+
+[^F126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 68 Disclosure of information by the Regulator
+
+[^F127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 6 — STAKEHOLDER PENSION SCHEMES
+
+#### 69 Stakeholder pension schemes
+
+(1) The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11) is amended as follows.
+
+(2) Article 5 (duty of employers to facilitate access to stakeholder pension schemes) is amended as follows.
+
+(3) In paragraph (1), for “the requirements set out below” substitute “ the requirement in paragraph (5) ”.
+
+(4) After paragraph (1) insert—
+
+> (1A) A relevant employee, in relation to an employer, is an employee of the employer who, on the relevant date, satisfies the conditions in paragraph (1B).
+>
+> (1B) The conditions are that—
+>
+> (a) the employee is a member of a stakeholder pension scheme;
+>
+> (b) the employee made a request under paragraph (5) before the relevant date and that request has not been withdrawn;
+>
+> (c) the employee pays contributions (which are deducted in accordance with that request) to the scheme at regular intervals;
+>
+> (d) at least one deduction has been made before the relevant date in accordance with that request.
+>
+> (1C) A person ceases to be a relevant employee—
+>
+> (a) on ceasing to be employed by the employer;
+>
+> (b) on withdrawing a request under paragraph (5);
+>
+> (c) on ceasing to pay contributions at regular intervals.
+
+.
+
+(5) Omit paragraphs (2) to (4).
+
+(6) In paragraph (5)—
+
+(a) omit the word “fourth”;
+
+(b) omit the words from “of his” to “qualifying scheme”;
+
+(c) in sub-paragraph (a), for “scheme” substitute “ stakeholder pension scheme ”.
+
+(7) After paragraph (5) insert—
+
+> (5A) That requirement only applies in relation to a request to make deductions made before the relevant date (whether or not that request is varied after that date).
+
+.
+
+(8) Omit paragraph (6).
+
+(9) In paragraph (7), for “any of the requirements” substitute “ the requirement ”.
+
+(10) In paragraph (8)—
+
+(a) for the words from “whether before” to “those purposes” substitute “ while subject to the requirement in paragraph (5) ”;
+
+(b) omit sub-paragraph (a)(ii) and (iii).
+
+(11) In paragraph (9), after the definition of “regulations” insert—
+
+> “relevant date” means the date on which section 69 of the Pensions (No. 2) Act (Northern Ireland) 2008 comes into operation.
+
+.
+
+(12) In that paragraph—
+
+(a) omit the definition of “qualifying scheme”;
+
+(b) omit the definition of “relevant employees”.
+
+(13) In Article 8 (application of certain statutory provisions) omit paragraphs (1), (2) and (4).
+
+(14) In Article 9 (interpretation), in paragraph (1), omit the definition of “designated scheme”.
+
+### CHAPTER 7 — APPLICATION AND INTERPRETATION
+
+#### [[^F128]Exceptions
+
+##### 69A Power to create exceptions from the employer duties etc.
+
+(1) The Department may by regulations provide for exceptions tothe employer duties; and an exception may in particular—
+
+(a) turn an employer duty into a power;
+
+(b) be framed by reference to a description of worker, particular circumstances or in some other way.
+
+(2) But the regulations may not provide for an exception for employers of a particular size.
+
+(3) Regulations which make provision under subsection (1)(a) may make provision modifying this Part or regulations made under it in connection with that provision.
+
+(4) The regulations may make provision in connection with the coming to an end of the state of affairs that caused an exception to apply, including provision—
+
+(a) modifying this Part or regulations made under it in relation to a person;
+
+(b) for the purpose of putting a person, wholly or partly, in the position he or she would have been in if the exception had never applied.
+
+(5) In this section “employer duties” means any duty of an employer under any provision of sections 2 to 11 and 54 or of regulations made under those sections.]
+
+#### Workers
+
+##### 70 “Employer”, “worker” and related expressions
+
+(1) This section applies for the purposes of this Part.
+
+(2) “Contract of employment” means a contract of service or apprenticeship whether express or implied, and (if it is express) whether oral or in writing.
+
+(3) “Worker” means an individual who has entered into or works under—
+
+(a) a contract of employment, or
+
+(b) any other contract by which the individual undertakes to do work or perform services personally for another party to the contract.
+
+(4) But a contract is not within subsection (3)(b) if the status of the other party is by virtue of the contract that of a client or customer of a profession or business undertaking carried on by the individual concerned.
+
+(5) For the purposes of subsection (3)(b), it does not matter whether the contract is express or implied or (if it is express) whether it is oral or in writing.
+
+(6) Any reference to a worker's contract is to be read in accordance with subsections (3) to (5).
+
+(7) “Employer”, in relation to a worker, means the person by whom the worker is employed (subject to sections 37(5) and 38(6)).
+
+(8) “Employment” in relation to a worker, means employment under the worker's contract.
+
+##### 71 Agency workers
+
+(1) This section applies to an individual (“the agency worker”)—
+
+(a) who is supplied by a person (“the agent”) to do work for another person (“the principal”) under a contract or other arrangements made between the agent and the principal,
+
+(b) who is not, as respects that work, a worker, because of the absence of a worker's contract between the individual and the agent or the principal, and
+
+(c) who is not a party to a contract under which the agency worker undertakes to do the work for another party to the contract whose status is, by virtue of the contract, that of a client or customer of a profession or business undertaking carried on by the individual.
+
+(2) Where this section applies, the other provisions of this Part have effect—
+
+(a) as if there were a worker's contract for the doing of the work by the agency worker, made between the agency worker and the relevant person under subsection (3), and
+
+(b) as if that person were the agency worker's employer.
+
+(3) The relevant person is—
+
+(a) whichever of the agent and the principal is responsible for paying the agency worker in respect of the work, or
+
+(b) if neither the agent nor the principal is responsible for doing so, whichever of them pays the agency worker in respect of the work.
+
+##### 72 Directors
+
+(1) A person who holds office as a director of a company is not, by virtue of that office or of any employment by the company, a worker for the purposes of this Part, unless—
+
+(a) the person is employed by the company under a contract of employment, and
+
+(b) there is at least one other person who is employed by the company under a contract of employment.
+
+(2) In this section, “company” includes any body corporate.
+
+##### 73 Crown employment
+
+(1) This Part has effect in relation to employment by or under the Crown as it has effect in relation to other employment.
+
+(2) For the purposes of the application of the provisions of this Part in accordance with subsection (1)—
+
+(a) references to a worker are to be construed as references to a person employed by or under the Crown;
+
+(b) references to a worker's contract are to be construed as references to the terms of employment of a person employed by or under the Crown.
+
+(3) This section does not impose criminal liability on the Crown.
+
+(4) But on the application of the Regulator the High Court may declare unlawful a failure by the Crown to comply with any of the duties mentioned in section 45(1).
+
+##### 74 Armed forces
+
+(1) A person serving as a member of the naval, military or air forces of the Crown is not, by virtue of that service, a worker for the purposes of this Part.
+
+(2) A member of any of the forces specified in subsection (3) who assists the activities of any of those forces is not, by virtue of anything done in assisting those activities, a worker for the purposes of this Part.
+
+(3) The forces are—
+
+(a) the Combined Cadet Force;
+
+(b) the Sea Cadet Corps;
+
+(c) the Army Cadet Force;
+
+(d) the Air Training Corps.
+
+##### 75 Police
+
+This Part has effect in relation to a person who—
+
+(a) (subject to such exceptions as may be prescribed), holds the office of constable as a police officer or an appointment as a police trainee or police reserve trainee under section 39 or 40 of the Police (Northern Ireland) Act 2000 (c. 32) or as a police cadet under section 42 of that Act, and
+
+(b) does not hold that office or appointment under a contract of employment,
+
+as if the person were employed by the Chief Constable under a worker's contract.
+
+##### 76 Persons working on vessels
+
+(1) Subject to regulations under section 96 of the Pensions Act 2008 (c. 30), a person employed or engaged in any capacity on board a ship is not, by virtue of that employment or engagement, a worker for the purposes of this Part.
+
+(2) In this section, “ship” includes—
+
+(a) a hovercraft within the meaning of the Hovercraft Act 1968 (c. 59), and
+
+(b) every description of vessel used in navigation.
+
+##### 77 Extension of definition of worker
+
+The Department may by regulations make provision for this Part to apply with or without modifications—
+
+(a) as if any individual of a prescribed description (who would not otherwise be a worker) were a worker,
+
+(b) as if there were in the case of any such individual a worker's contract of a prescribed description under which the individual works, and
+
+(c) as if a person of a prescribed description were the employer under that contract.
+
+#### General
+
+##### 78 Interpretation of Part
+
+In this Part—
+
+- “active member”—
+
+  - (a) in relation to an occupational pension scheme, means a person who is in pensionable service under the scheme;
+  - (b) in relation to a personal pension scheme, means a jobholder in relation to whom there is an agreement within section 26(4) between the provider of the scheme and the employer or (where section 9 applies) a worker in relation to whom there are direct payment arrangements (within the meaning of section 107A of the Pension Schemes Act) between the worker and the employer;
+
+- “automatic enrolment scheme” is to be read in accordance with section 3(8);
+
+- “average salary benefits” means benefits the rate or amount of which is calculated by reference to the average salary of a member over the period of service on which the benefits are based;
+
+- [[^F129]“collective money purchase benefit” has the meaning given by section 52 of the Pension Schemes Act 2021;]
+
+- “contract of employment” has the meaning given by section 70;
+
+- “defined benefits”, in relation to a member of an occupational pension scheme, means benefits which are not money purchase benefits (but the rate or amount of which is calculated by reference to earnings or service of the member or any other factor other than an amount available for their provision);
+
+- “defined benefits scheme” means an occupational pension scheme under which all the benefits that may be provided are defined benefits;
+
+- “employer” and “employment” have the meaning given by section 70;
+
+- “enrolment duty” means a duty under section 3(2), 5(2), 7(3) or 9(2);
+
+- “hybrid scheme” means an occupational pension scheme which is neither a defined benefits scheme nor a money purchase scheme;
+
+- [^F130]...
+
+- “jobholder” has the meaning given by section 1(1);
+
+- “money purchase benefits”, in relation to a member of a pension scheme, [[^F131]means—
+
+  - benefits] the rate or amount of which is calculated by reference to a payment or payments made by the member or by any other person in respect of the member and [[^F132]which fall within section 78A] [[^F133], and
+  - collective money purchase benefits;]
+
+- “money purchase scheme” means an occupational pension scheme under which all the benefits that may be provided are money purchase benefits;
+
+- “occupational pension scheme” has the meaning given by section 18;
+
+- “pension scheme” has the meaning given by section 1(5) of the Pension Schemes Act;
+
+- “pensionable age” has the meaning given by the rules in paragraph 1 of Schedule 2 to the 1995 Order;
+
+- “pensionable service”, in relation to a member of an occupational pension scheme, means service in any description of employment to which the scheme relates which qualifies the member (on the assumption that it continues for the appropriate period) for pension or other benefits under the scheme;
+
+- “personal pension scheme” has the meaning given by section 19;
+
+- “provider”—
+
+  - (a) in relation to a personal pension scheme to which section 26 applies, means the person referred to in subsection (1)(b) of that section;
+  - (b) in relation to any other personal pension scheme, has the meaning prescribed;
+
+- “qualifying earnings” has the meaning given by section 13;
+
+- “qualifying scheme” is to be read in accordance with section 2(5);
+
+- “tax year” means the 12 months beginning with 6th April in any year;
+
+- “trustee or manager” is to be construed in accordance with section 173 of the Pension Schemes Act (trustees or managers of schemes);
+
+- “worker” has the meaning given by section 70.
+
+##### 78A [[^F134]Money purchase benefits: supplementary
+
+(1) This section applies for the purposes of [[^F135]paragraph (a) of the definition] of “money purchase benefits” in section 78.
+
+(2) A benefit other than a pension in payment falls within this section if its rate or amount is calculated solely by reference to assets which (because of the nature of the calculation) must necessarily suffice for the purpose of its provision to or in respect of the member.
+
+(3) A benefit which is a pension in payment falls within this section if—
+
+(a) its provision to or in respect of the member is secured by an annuity contract or insurance policy made or taken out with an insurer, and
+
+(b) at all times before coming into payment the pension was a benefit falling within this section by virtue of subsection (2).
+
+(4) For the purposes of subsection (2) it is immaterial if the calculation of the rate or amount of the benefit includes deductions for administrative expenses or commission.
+
+(5) In this section references to a pension do not include income withdrawal or dependants' income withdrawal (within the meaning of paragraphs 7 and 21 of Schedule 28 to the Finance Act 2004).]
+
+## PART 2 — SIMPLIFICATION ETC.
+
+### Private pensions
+
+#### 79 Abolition of safeguarded rights
+
+Part 3A of the Pension Schemes Act (safeguarded rights) ceases to have effect.
+
+#### 80 Revaluation of accrued benefits etc.
+
+(1) Schedule 1, which—
+
+(a) amends Schedule 2 to the Pension Schemes Act (methods of revaluing accrued pension benefits),
+
+(b) amends Schedule 6 to the 2005 Order (pension compensation provisions), and
+
+(c) makes consequential amendments,
+
+has effect.
+
+(2) The amendments made by Parts 1 and 3 of Schedule 1 do not apply in relation to a revaluation period ending before this section comes into operation.
+
+(3) In subsection (2) “revaluation period” has the same meaning as in paragraph 2(2) of Schedule 2 to the Pension Schemes Act.
+
+### State pensions etc.
+
+#### [^F136]81 Consolidation of additional pension (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F137]82 Effect of entitlement to guaranteed minimum pension (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 83 Additional State Pension etc.: minor and consequential amendments
+
+Schedule 3 (Additional State Pension etc.: minor and consequential amendments) has effect.
+
+#### [^F138]84 State pension credit: extension of assessed income period for those aged 75 or over
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 85 Contracting-out: abolition of all protected rights
+
+(1) As from the contracting-out abolition date, pension schemes are not required to make special provision in relation to the protected rights of members.
+
+(2) Accordingly—
+
+(a) the provisions of the Pension Schemes Act within subsection (3) cease to have effect as from that date, and
+
+(b) sections 21A, 23A and 28A of the Pension Schemes Act (as inserted by paragraphs 9, 10 and 12 of Schedule 4 to the Pensions Act (Northern Ireland) 2008 (c. 1)) are not to have any effect as from that date (in spite of section 13(4) of that Act of 2008).
+
+(3) The provisions of the Pension Schemes Act within this subsection are—
+
+(a) section 6 (protected rights and money purchase benefits),
+
+(b) section 22 (persons who may establish scheme),
+
+(c) section 23 (identification and valuation of protected rights),
+
+(d) section 26 (securing of liability for protected rights),
+
+(e) section 28 (suspension or forfeiture), and
+
+(f) section 29A (appropriate schemes: “blowing the whistle”).
+
+(4) In this section—
+
+- “the contracting-out abolition date” means the day appointed under section 21 of the Pensions Act (Northern Ireland) 2008 for the coming into operation of section 13(1) of that Act (abolition of contracting-out for defined contribution pension schemes), and
+- “protected rights” has the same meaning as in the Pension Schemes Act (see section 6 of that Act).
+
+## PART 3 — PENSION COMPENSATION
+
+### CHAPTER 1 — PENSION COMPENSATION ON DIVORCE ETC.
+
+#### 86 Scope of mechanism
+
+(1) Pension compensation sharing is available under this Chapter in relation to a person's shareable rights to PPF compensation.
+
+(2) For the purposes of this Chapter, a right of a person to PPF compensation is “shareable” unless it is of a description specified by regulations made by the Department.
+
+#### 87 Interpretation
+
+In this Chapter—
+
+- “the Board” means the Board of the Pension Protection Fund;
+
+- “PPF compensation” means compensation payable under the pension compensation provisions;
+
+- “the pension compensation provisions” means—
+
+  - (a) Chapter 3 of Part 3 of the 2005 Order (pension protection) and any regulations or order made under it,
+  - (b) this Chapter and any regulations or order made under it, and
+  - (c) any provision corresponding to the provisions mentioned in paragraph (a) or (b) in force in Great Britain;
+
+- “the relevant order or provision” means the pension compensation sharing order, or provision contained in a qualifying agreement, which gives rise to the pension compensation sharing;
+
+- “the transfer day” means the day on which the relevant order or provision takes effect;
+
+- “the transferee” means the person for whose benefit the relevant order or provision is made;
+
+- “the transferor” means the person to whose rights the relevant order or provision relates.
+
+#### 88 Activation of pension compensation sharing
+
+Section 89 applies on the taking effect of any of the following relating to a person's shareable rights to PPF compensation—
+
+(a) a pension compensation sharing order under the Matrimonial Causes (Northern Ireland) Order 1978 (NI 15);
+
+(b) a pension compensation sharing order under Schedule 15 to the Civil Partnership Act 2004 (c. 33) (financial relief in the High Court or a county court: Northern Ireland);
+
+(c) an order under Part 4 of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989 (NI 4) (financial relief in Northern Ireland in relation to overseas divorce etc.) corresponding to such an order as is mentioned in paragraph (a);
+
+(d) an order under Schedule 17 to the Civil Partnership Act 2004 (financial relief in Northern Ireland after overseas dissolution etc. of a civil partnership) corresponding to such an order as is mentioned in paragraph (b);
+
+(e) an order or provision to which any of paragraphs (a) to (d), (f) or (g) of section 109 of the Pensions Act 2008 (c. 30) applies (orders or provisions in Great Britain).
+
+#### 89 Creation of pension compensation debits and credits
+
+(1) On the application of this section—
+
+(a) the transferor's shareable rights to PPF compensation that derive from rights under the specified scheme become subject to a debit of the appropriate amount, and
+
+(b) the transferee becomes entitled to a credit of that amount as against the Board.
+
+(2) For the purposes of subsection (1) “the appropriate amount” means—
+
+(a) where the relevant order or provision specifies a percentage to be transferred, that percentage of the cash equivalent of the relevant compensation on the valuation day;
+
+(b) where the relevant order or provision specifies an amount to be transferred, the lesser of—
+
+(i) that specified amount, and
+
+(ii) the cash equivalent of the relevant compensation on the valuation day.
+
+(3) For the purposes of subsection (2) “the relevant compensation” means the payments or future payments to which, immediately before the transfer day, the transferor is entitled under the pension compensation provisions by virtue of the transferor's shareable rights to PPF compensation that derive from rights under the specified scheme.
+
+(4) The Department may by regulations provide for any description of payment to be disregarded for the purposes of subsection (3).
+
+(5) For the purposes of this section—
+
+- “the specified scheme” means the pension scheme specified in the relevant order or provision;
+- “the valuation day” means such day within the implementation period for the credit under subsection (1)(b) as the Board may specify by notice in writing to the transferor and transferee.
+
+(6) The credit to which the transferee becomes entitled under subsection (1)(b) is referred to in this Chapter as a “pension compensation credit”.
+
+#### 90 Cash equivalents
+
+(1) The Department may by regulations make provision about the calculation and verification of cash equivalents for the purposes of section 89.
+
+(2) Regulations under this section may include provision for calculation and verification in a manner approved by the Board.
+
+#### 91 Reduction of compensation
+
+(1) Where any of a person's shareable rights to PPF compensation are subject to a pension compensation debit, each payment or future payment—
+
+(a) to which the person is entitled under the pension compensation provisions by virtue of those rights, and
+
+(b) which is a qualifying payment,
+
+is reduced by the appropriate percentage.
+
+(2) For the purposes of subsection (1) a payment is “a qualifying payment” if the cash equivalent by reference to which the amount of the pension compensation debit is determined includes an amount in respect of it.
+
+(3) In this section “the appropriate percentage”, in relation to a pension compensation debit, means—
+
+(a) the percentage specified in the pension compensation sharing order or provision on which the debit depends; or
+
+(b) if the pension compensation sharing order or provision on which the debit depends specifies an amount to be transferred, the percentage which the appropriate amount for the purposes of subsection (1) of section 89 represents of the amount mentioned in subsection (2)(b)(ii) of that section.
+
+#### 92 Time for discharge of liability
+
+(1) This section applies where the Board is subject to a liability in respect of a pension compensation credit.
+
+(2) The Board must discharge the liability before the end of the implementation period for the credit.
+
+(3) The Department may make provision by regulations as to circumstances in which the implementation period for the credit is extended for the purposes of this section.
+
+#### 93 “Implementation period”
+
+(1) For the purposes of this Chapter, the implementation period for a pension compensation credit is the period of 4 months beginning with the later of—
+
+(a) the transfer day, and
+
+(b) the first day on which the Board is in receipt of—
+
+(i) the relevant documents, and
+
+(ii) such information relating to the transferor and transferee as the Department may prescribe by regulations.
+
+(2) In subsection (1)(b)(i) “the relevant documents” means copies of—
+
+(a) the relevant order or provision, and
+
+(b) the order, decree or declarator responsible for the divorce, dissolution or annulment to which it relates.
+
+(3) Subsection (1) is subject to any provision made by regulations under section 95(2)(a).
+
+(4) The Department may by regulations—
+
+(a) make provision requiring the Board to notify the transferor and transferee of the day on which the implementation period for the credit begins;
+
+(b) provide for this section to have effect with modifications where the credit depends on a pension compensation sharing order and the order is the subject of an application for leave to appeal out of time.
+
+#### 94 Discharge of liability
+
+(1) This section applies where the Board is subject to a liability in respect of a pension compensation credit.
+
+(2) The Board must discharge the liability by sending a notice to the transferee.
+
+(3) On the sending of the notice the transferee becomes entitled, with effect from (and including) the transfer day, to compensation calculated in accordance with Schedule 4.
+
+(4) For the purposes of that calculation, the initial annual rate of compensation is an amount determined by the Board.
+
+(5) The Board must determine that amount in such a way as to secure that the cash equivalent value of the compensation to which the transferee becomes entitled under subsection (3) equals the amount of the credit.
+
+(6) The Department may by regulations make provision about the calculation of cash equivalents for the purposes of subsection (5).
+
+(7) The notice sent under this section must—
+
+(a) state that the transferee is entitled to periodic pension compensation calculated under Schedule 4, and
+
+(b) specify the amount determined under subsection (4).
+
+(8) Where the transferee dies before liability in respect of the credit has been discharged—
+
+(a) subsections (2) to (7) do not have effect in relation to the discharge of liability in respect of the credit, and
+
+(b) liability in respect of the credit must be discharged in accordance with regulations made by the Department.
+
+#### 95 Charges in respect of pension compensation sharing costs
+
+(1) The Department may by regulations make provision for the purpose of enabling the Board to recover from the parties to pension compensation sharing prescribed charges in respect of prescribed descriptions of pension compensation sharing activity.
+
+(2) Regulations under subsection (1) may include—
+
+(a) provision for the start of the implementation period for a pension compensation credit to be postponed in prescribed circumstances;
+
+(b) provision enabling the Board to set off against any PPF compensation payable to a party to pension compensation sharing any charges owed to it by that party under the regulations;
+
+(c) provision, in relation to payments in respect of charges recoverable under the regulations, for reimbursement as between the parties to pension compensation sharing.
+
+(3) For the purposes of regulations under subsection (1), the question of how much of a charge recoverable under the regulations is attributable to a party to pension compensation sharing is to be determined as follows—
+
+(a) where the relevant order or provision includes provision (“provision for apportionment”) about the apportionment of charges under this section, there is attributable to the party so much of the charge as is apportioned to that party by that provision for apportionment;
+
+(b) where the relevant order or provision does not include provision for apportionment, the charge is attributable to the transferor.
+
+(4) In subsection (1) the reference to pension compensation sharing activity is to activity attributable directly or indirectly to the application of section 89 by virtue of the relevant order or provision.
+
+#### 96 Supply of information about pension compensation in relation to divorce etc.
+
+(1) The Department may by regulations—
+
+(a) make provision imposing on the Board requirements with respect to the supply of information relevant to any power with respect to—
+
+(i) financial relief under Part 3 of the Matrimonial Causes (Northern Ireland) Order 1978 (NI 15) or Part 4 of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989 (NI 4) (Northern Ireland powers in relation to domestic and overseas divorce etc.),
+
+(ii) financial relief under Schedule 15 or 17 to the Civil Partnership Act 2004 (c. 33) (Northern Ireland powers in relation to domestic and overseas dissolution of civil partnerships etc.),
+
+(iii) financial relief, orders for financial provision or provision as to pension sharing or pension compensation sharing to which any of sub-paragraphs (i), (ii), (iv) or (v) of subsection (1)(a) of section 118 of the Pensions Act 2008 (c. 30) applies (financial relief etc. in Great Britain);
+
+(b) make provision about calculation and verification in relation to the valuation of PPF compensation for the purposes of regulations under paragraph (a);
+
+(c) make provision for the purpose of enabling the Board to recover prescribed charges in respect of providing information in accordance with regulations under paragraph (a).
+
+(2) Regulations under subsection (1)(b) may include provision for calculation and verification in a manner approved by the Board.
+
+(3) Regulations under subsection (1)(c) may include provision for the application in prescribed circumstances, with or without modification, of any provision made by virtue of section 95(2).
+
+#### 97 Supply of information about pension compensation sharing
+
+The Department may by regulations require the Board to supply, to such persons as the Department may specify in the regulations, such information relating to anything which follows from the application of section 89 as the Department may so specify.
+
+#### 98 Pension compensation sharing and attachment on divorce etc.
+
+Schedule 5 (which amends matrimonial and civil partnership legislation for the purpose of enabling the court to make pension compensation sharing orders, and orders for the attachment of pension compensation, in connection with proceedings in Northern Ireland) has effect.
+
+### CHAPTER 2 — OTHER PROVISION ABOUT PENSION COMPENSATION
+
+#### 99 Charges in respect of pension sharing etc.
+
+After Article 152 of the 2005 Order (administration of compensation) insert—
+
+> **Charges in respect of pension sharing etc.**
+>
+> **152A Charges in respect of pension sharing etc.**
+>
+> (1) Regulations may make provision for the purpose of enabling the Board to recover prescribed charges in respect of complying with a relevant order or provision.
+>
+> (2) In paragraph (1) “a relevant order or provision” means any of the following—
+>
+> (a) an order under Article 25 of the Matrimonial Causes (Northern Ireland) Order 1978 (financial provision in connection with divorce etc.) so far as the order—
+>
+> (i) includes provision made by virtue of Article 27B or 27C of that Order (powers to include provision about pensions), and
+>
+> (ii) applies in relation to the Board by virtue of Article 27E of that Order;
+>
+> (b) an order under Article 25 of that Order so far as the order includes provision made by virtue of Article 27F of that Order (attachment of pension compensation on divorce etc.);
+>
+> (c) an order under Part 1 of Schedule 15 to the Civil Partnership Act 2004 (financial provision orders in connection with dissolution of civil partnerships etc.: Northern Ireland) so far as the order—
+>
+> (i) includes provision made by virtue of Part 5 of that Schedule (powers to include provision about pensions), and
+>
+> (ii) applies in relation to the Board by virtue of Part 6 of that Schedule;
+>
+> (d) an order under Part 1 of that Schedule so far as the order includes provision made by virtue of paragraph 29A of that Schedule (attachment of pension compensation on dissolution of civil partnership etc.: Northern Ireland);
+>
+> (e) an order made under any provision corresponding to a provision mentioned in sub-paragraphs (a) to (d) in force in England and Wales;
+>
+> (f) an order or provision to which any of paragraphs (f) and (g) of section 168A(2) of the Pensions Act 2004 applies;
+>
+> (g) an order or provision of a kind mentioned in Article 25(1) of the 1999 Order (pension sharing) so far as the order or provision applies in relation to the Board by virtue of Article 199 of this Order.
+>
+> (3) Regulations under paragraph (1) may include provision enabling the Board to set off against any PPF compensation payable to a person any charges owed to it by that person under the regulations.
+>
+> (4) In this Article “PPF compensation” means compensation payable—
+>
+> (a) under or by virtue of this Chapter, or
+>
+> (b) under or by virtue of Chapter 1 of Part 3 of the Pensions (No. 2) Act (Northern Ireland) 2008 (pension compensation on divorce etc.).
+
+.
+
+#### 100 Amendments of Schedule 6 to the 2005 Order
+
+Schedule 6 (amendments of Schedule 6 to the 2005 Order) has effect.
+
+#### 101 Consequential amendments
+
+(1) The 2005 Order is amended as follows.
+
+(2) After paragraph 2(2)(d) of Schedule 4 (Board of the Pension Protection Fund) insert—
+
+> (da) Article 152A (charges in respect of pension sharing etc.);
+
+.
+
+(3) After paragraph 2(2)(g) of that Schedule insert—
+
+> (ga) section 94 of, and Schedule 4 to, the Pensions (No. 2) Act (Northern Ireland) 2008 (discharge of liability in respect of pension compensation credit);
+>
+> (gb) section 95 of that Act (charges in respect of pension compensation sharing costs);
+>
+> (gc) section 96 of that Act (supply of information about pension compensation in relation to divorce etc.);
+>
+> (gd) section 97 of that Act (supply of information about pension compensation sharing);
+
+.
+
+(4) In paragraph 2(2)(h) of that Schedule, for “(g)” substitute “ (gd) ”.
+
+## PART 4 — ADDITIONAL PENSIONS
+
+### 102 Additional pension: upper accrual point to replace upper earnings limit from 2009–10
+
+(1) The Contributions and Benefits Act is amended in accordance with subsections (2) to (4).
+
+(2) In section 22(2B) (earnings factors), for “the flat rate introduction year” (in both places) substitute “ 2009–10 ”.
+
+(3) In section 44(7)(c) (Category A retirement pension), for “the flat rate introduction year” (in both places) substitute “ 2009–10 ”.
+
+(4) In section 121 (interpretation)—
+
+(a) in subsection (1), for the definition of “the upper accrual point” substitute—
+
+> “the upper accrual point” is £770;
+
+,
+
+(b) after subsection (6) insert—
+
+> (6A) Whenever regulations are made under section 122(6A) of the Great Britain Contributions and Benefits Act, regulations may make corresponding provision for Northern Ireland (and references in this or any other statutory provision to “the prescribed equivalent”, in the context of the upper accrual point, are to the equivalent prescribed under this subsection in relation to earners paid otherwise than weekly).
+
+, and
+
+(c) omit subsections (7) and (8).
+
+(5) Section 149(2) of the Social Security Administration (Northern Ireland) Act 1992 (c. 8) (referral of regulations to Social Security Advisory Committee) does not apply to regulations under section 121(6A) of the Contributions and Benefits Act.
+
+(6) Schedule 7 contains consequential amendments.
+
+## PART 5 — MISCELLANEOUS
+
+### Miscellaneous provisions relating to pensions
+
+#### 103 Amendments of provisions of the 2005 Order relating to contribution notices or financial support directions
+
+Schedule 8 (which amends the 2005 Order in relation to contribution notices and financial support directions) has effect.
+
+#### 104 Interest on late payment of levies
+
+Schedule 9 (which makes provision about payment of interest on late payment of levies) has effect.
+
+#### 105 Payments to employers
+
+In Article 37 of the 1995 Order (payment of surplus to employer) after paragraph (1) insert—
+
+> (1A) But this Article does not apply in the case of any of the payments listed in paragraphs (c) to (f) of section 175 of the Finance Act 2004 (authorised employer payments other than public service scheme payments or authorised surplus payments).
+
+.
+
+#### 106 Appointment of trustees
+
+(1) In Article 7 of the 1995 Order (appointment of trustees), in paragraph (3)—
+
+(a) for “necessary”, in the first place where it occurs, substitute “ reasonable ”;
+
+(b) omit “or” at the end of sub-paragraph (b);
+
+(c) at the end add
+
+> , or
+>
+> (d) otherwise to protect the interests of the generality of the members of the scheme.
+
+.
+
+(2) In paragraph 9(b) of Schedule 2 to the 2005 Order (reserved regulatory functions), for “or (c)” substitute “ , (c) or (d) ”.
+
+#### 107 Intervention by the Regulator where scheme's technical provisions improperly determined
+
+In Article 210 of the 2005 Order (powers of the Regulator), before sub-paragraph (a) of paragraph (1) insert—
+
+> (za) that the trustees or managers, when determining the methods and assumptions to be used in calculating the scheme's technical provisions, have failed to comply with a requirement imposed under Article 201(4)(c);
+
+.
+
+#### 108 Delegation of powers by the Regulator
+
+(1) In paragraph 2 of Schedule 1 to the 2005 Order (regulations relating to delegation of the Pensions Regulator's functions) the existing provision becomes sub-paragraph (1).
+
+(2) For paragraph (d) of that sub-paragraph substitute—
+
+> (d) permitting the Regulator to authorise such persons, in such circumstances and under such arrangements, as the Regulator may determine, to exercise on behalf of the Regulator—
+>
+> (i) the power to determine whether to exercise any of the functions listed in sub-paragraph (2) ;
+>
+> (ii) the power to exercise any of the functions listed in sub-paragraph (2) or such other functions as may be prescribed.
+
+.
+
+(3) After that sub-paragraph insert—
+
+> (2) The functions mentioned in sub-paragraph (1)(d) are—
+>
+> (a) the power to issue an improvement notice under Article 9;
+>
+> (b) the power to issue a third party notice under Article 10;
+>
+> (c) the power to recover unpaid contributions under Article 13;
+>
+> (d) the power to require information under Article 67;
+>
+> (e) the power to vary or revoke a determination, order, notice or direction under Article 96;
+>
+> (f) the power to require payment of a penalty under Article 10 of the 1995 Order;
+>
+> (g) the power to issue a compliance notice under section 35 of the Pensions (No. 2) Act (Northern Ireland) 2008;
+>
+> (h) the power to issue a third party compliance notice under section 36 of that Act;
+>
+> (i) the power to issue an unpaid contributions notice under section 37 of that Act;
+>
+> (j) the power to issue a fixed penalty notice under section 40 of that Act;
+>
+> (k) the power to issue an escalating penalty notice under section 41 of that Act;
+>
+> (l) the power to recover penalties under section 42 of that Act;
+>
+> (m) the power to review a notice under section 43 of that Act;
+>
+> (n) the power to issue a compliance notice in respect of prohibited recruitment conduct under section 51 of that Act;
+>
+> (o) the power to issue a penalty notice in respect of prohibited recruitment conduct under section 52 of that Act.
+
+.
+
+(4) Subsections (1) to (3)—
+
+(a) do not affect any regulations made under paragraph 2(d) of Schedule 1 to the 2005 Order before the coming into operation of this section, and
+
+(b) do not affect the powers conferred by that paragraph, so far as exercisable for the purpose of making, by way of consolidation, provision having the same effect as any provision of those regulations.
+
+#### 109 Exclusion of transfers out in certain cases
+
+(1) The Pension Schemes Act is amended as follows.
+
+(2) In section 89(1B) (regulations as to the application of provisions relating to transfers for early leavers) after paragraph (a) insert—
+
+> (aa) provide for this Chapter not to apply in prescribed circumstances in relation to a member of a prescribed scheme or schemes of a prescribed description;
+
+.
+
+(3) In section 97F (transfer notice in respect of pension credit benefit) after subsection (6) insert—
+
+> (6A) Regulations may provide for this Chapter not to apply in prescribed circumstances in relation to a member of a prescribed scheme or schemes of a prescribed description.
+
+.
+
+### Official pensions
+
+#### 110 Official pensions: adjustment of increases in survivors' pensions
+
+(1) Article 69 of the Social Security Pensions (Northern Ireland) Order 1975 (NI 15) (increase of official pensions) is amended as follows.
+
+(2) Paragraph (5ZA) is amended as follows.
+
+(3) In the words before sub-paragraph (a)—
+
+(a) for “or widower's” substitute “ , widower's or surviving civil partner's ”;
+
+(b) after “spouse” insert “ or civil partner ”.
+
+(4) In sub-paragraph (a), after “spouse” insert “ or civil partner ”.
+
+(5) In sub-paragraph (b)—
+
+(a) after “period” insert “ (“the relevant time”) ”;
+
+(b) for the words from “one half” to the end substitute “ the rate provided for in paragraph (5ZB); ”.
+
+(6) In sub-paragraph (c), for “or widower's” substitute “ , widower's or surviving civil partner's ”.
+
+(7) Omit the words from “but this paragraph” to the end.
+
+(8) After paragraph (5ZA) insert—
+
+> (5ZB) The rate referred to in paragraph (5ZA)(b) is—
+>
+> (a) in the case of a widow's pension, one half of the rate of the deceased husband's guaranteed minimum pension at the relevant time;
+>
+> (b) in the case of a widower's pension, one half of so much of the rate of the deceased wife's guaranteed minimum pension at the relevant time as is attributable to earnings factors for the tax year 1988–89 and subsequent tax years;
+>
+> (c) in the case of a surviving civil partner's pension, one half of so much of the rate of the deceased civil partner's guaranteed minimum pension at the relevant time as is attributable to earnings factors for the tax year 1988–89 and subsequent tax years.
+>
+> (5ZC) Paragraph (5ZA)—
+>
+> (a) does not apply to a widow's or widower's pension in respect of any service of the deceased spouse if the deceased spouse's pension in respect of that service became payable before 24th September 1990;
+>
+> (b) applies to a surviving civil partner's pension only in respect of amounts payable after the coming into operation of this paragraph.
+
+.
+
+### Information relating to state pension credit recipients
+
+#### 111 Disclosure of information relating to state pension credit recipients
+
+(1) The Department may by regulations make provision authorising the Department, or a person providing services to the Department, to supply relevant persons with social security information about persons in receipt of state pension credit.
+
+(2) In this section “relevant person” means—
+
+(a) a person who holds a licence under Article 10(1)(c) or (2) of the Electricity (Northern Ireland) Order 1992 (NI 1) or Article 8(1)(c) of the Gas (Northern Ireland) Order 1996 (NI 2) (supply of electricity or gas to premises), or
+
+(b) a person providing services to the Department or to a person within paragraph (a).
+
+(3) Regulations under this section must specify the purposes for which information may be supplied by virtue of subsection (1), which must be purposes in connection with enabling the provision of assistance to persons in receipt of state pension credit.
+
+(4) Regulations under this section may authorise the supply of information by a relevant person to the Department or another relevant person—
+
+(a) for the purpose of determining what information is to be supplied by virtue of subsection (1), or
+
+(b) to enable information supplied to a relevant person by virtue of subsection (1) to be used by that or another relevant person for purposes within subsection (3).
+
+(5) Regulations under this section may—
+
+(a) make provision as to the use or disclosure of information supplied under the regulations (including provision creating criminal offences);
+
+(b) provide for the recovery by the Department of costs incurred in connection with the supply or use of information under the regulations.
+
+(6) In this section—
+
+- “social security information” means information held by or on behalf of the Department and obtained as a result of, or for the purpose of, the exercise of the Department's functions in relation to social security;
+- “state pension credit” has the meaning given by section 1(1) of the State Pension Credit Act (Northern Ireland) 2002 (c. 14).
+
+## PART 6 — GENERAL
+
+### 112 Orders and regulations
+
+(1) Subject to the following provisions of this section, any orders or regulations made by the Department under this Act are subject to negative resolution.
+
+(2) Subsection (1) does not apply to an order under section 118.
+
+(3) Orders or regulations to which this subsection applies—
+
+(a) must be laid before the Assembly after being made; and
+
+(b) take effect on such date as may be specified in the order or regulations, but (without prejudice to the validity of anything done thereunder or to the making of a new order or regulations) cease to have effect upon the expiration of a period of six months from that date unless at some time before the expiration of that period the order or regulations are approved by a resolution of the Assembly.
+
+(4) Subsection (3) applies to—
+
+(a) regulations under section 16(3)(c), 17(1)(c), 28, 77 or 111;
+
+(b) the first regulations under section 3(2) or (6), 5(2) or (7), 7(4)(b) or (6) or 9(3)(b);
+
+(c) an order under section 28(9);
+
+(d) an order under section 114 amending or repealing any relevant statutory provision;
+
+(e) an order under paragraph 9(7) of Schedule 4.
+
+(5) This subsection applies to any regulations or orders made by the Department under this Act which—
+
+(a) but for subsection (6), would be subject to negative resolution, and
+
+(b) are contained in a statutory rule which includes any regulations or order subject to the confirmatory procedure.
+
+(6) Any regulations or orders to which subsection (5) applies shall not be subject to negative resolution, but shall be subject to the confirmatory procedure.
+
+(7) In this section—
+
+- “the confirmatory procedure” means the procedure described in subsection (3);
+
+- “relevant statutory provision” means a statutory provision contained in—
+
+  - (a) an Act of the Parliament of Northern Ireland;
+  - (b) an Order in Council under Schedule 1 to the Northern Ireland Act 1974 (c. 28) or the Schedule to the Northern Ireland Act 2000 (c. 1);
+  - (c) an Act of the Assembly; or
+  - (d) an Act of the Parliament of the United Kingdom.
+
+### 113 Orders and regulations: supplementary
+
+(1) This section applies to an order or regulations made by the Department under this Act.
+
+(2) An order or regulations may include—
+
+(a) such incidental, supplemental, consequential or transitional provision as appears to the Department to be expedient;
+
+(b) provision conferring a discretion on any person.
+
+### 113A [[^F139]Service of documents and electronic working
+
+In Articles 2(7)(a), 277 and 278 of the 2005 Order (service of documents and electronic working) references to that Order are to be treated as including references to the following provisions of this Act—
+
+- Chapters 2 and 3 of Part 1;
+- section 59(1)(c);
+- Chapter 1 of Part 3.]
+
+### 114 Further provision etc.
+
+(1) The Department may by order make—
+
+(a) such supplemental, incidental or consequential provision, or
+
+(b) such transitory, transitional or saving provision,
+
+as the Department thinks appropriate for the general purposes, or any particular purpose, of this Act or in consequence of any provision made by or under this Act or for giving full effect to this Act or any such provision.
+
+(2) An order under this section may, for purposes of or in consequence of or for giving full effect to any provision of or made under section 85, make provision for applying (with or without modifications) or amending, repealing or revoking any statutory provision.
+
+(3) Amendments made under this section are in addition, and without prejudice, to those made by or under any other provision of this Act.
+
+(4) No other provision of this Act restricts the powers conferred by this section.
+
+(5) In Article 17 of the Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11) (social security: amendments following certain orders), at the end of paragraph (2) add “ the Pensions Act 2008 ”.
+
+### 115 Pre-consolidation amendments
+
+(1) The Department may by order make such modification of statutory provisions within subsection (2) as in the Department's opinion facilitate, or are otherwise desirable in connection with, the consolidation of any of those statutory provisions.
+
+(2) The statutory provisions are—
+
+(a) the Pension Schemes Act;
+
+(b) the 1995 Order;
+
+(c) Parts 2 to 5 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11);
+
+(d) Chapter 2 of Part 2 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4);
+
+(e) the 2005 Order;
+
+(f) the Pensions Act (Northern Ireland) 2008 (c. 1);
+
+(g) this Act;
+
+(h) statutory provisions referring to any provision within paragraphs (a) to (g).
+
+### 116 Repeals
+
+Schedule 10 (repeals) has effect.
+
+### 117 Interpretation
+
+(1) In this Act—
+
+- “the 1995 Order” means the Pensions (Northern Ireland) Order 1995 (NI 22);
+- “the 2005 Order” means the Pensions (Northern Ireland) Order 2005 (NI 1);
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7);
+- “the Department” means the Department for Social Development;
+- “the Employment Rights Order” means the Employment Rights (Northern Ireland) Order 1996 (NI 16);
+- [[^F140]“First-tier Tribunal” and “Upper Tribunal” mean those tribunals established under section 3 of the Tribunals, Courts and Enforcement Act 2007;]
+- “the Pension Schemes Act” means the Pension Schemes (Northern Ireland) Act 1993 (c. 49);
+- “prescribed” means prescribed by regulations;
+- “regulations” means regulations made by the Department;
+- “the Regulator” means the Pensions Regulator;
+- “statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
+- [[^F141]“Tribunal Procedure Rules” has the same meaning as in the Tribunals, Courts and Enforcement Act 2007.]
+
+(2) In the application, for the purposes of this Act, of section 39(2) of the Interpretation Act (Northern Ireland) 1954 (time beginning on a particular day), omit the word “not”.
+
+### 118 Commencement
+
+(1) Subject to the following provisions, this Act comes into operation in accordance with provision made by order by the Department.
+
+(2) Subsection (1) does not apply to—
+
+(a) sections 65 to 68;
+
+(b) section 84;
+
+(c) section 102 (and Schedule 7 and Part 6 of Schedule 10 and section 116 so far as relating thereto);
+
+(d) section 108;
+
+(e) section 109;
+
+(f) section 111;
+
+(g) this Part, except Parts 1 to 5 of Schedule 10 and section 116 so far as relating thereto;
+
+(h) the provisions mentioned in subsection (3);
+
+(i) the provisions mentioned in subsection (5);
+
+(j) any other provision of this Act so far as it confers any power to make regulations, rules or an order under this Act.
+
+(3) The provisions mentioned in this subsection are—
+
+(a) in Schedule 8—
+
+(i) paragraph 1 so far as relating to any of the following paragraphs;
+
+(ii) paragraph 3 (and paragraph 2 so far as necessary for the purposes of that paragraph);
+
+(iii) paragraphs 5 to 7;
+
+(iv) paragraph 8 for purposes other than those of the material detriment test;
+
+(v) paragraphs 9 to 14;
+
+(vi) in paragraph 15, sub-paragraph (1) so far as relating to paragraphs 6 and 7, sub-paragraph (2) for purposes other than those of the material detriment test, and sub-paragraphs (3) and (4);
+
+(vii) paragraph 16;
+
+(b) section 103 so far as relating to any of the paragraphs of that Schedule mentioned in paragraph (a) of this subsection;
+
+(c) the repeal in Schedule 10 relating to Article 34(5)(a)(ii) of the 2005 Order, the note in that Schedule relating to that repeal and section 116 so far as relating to that repeal and that note.
+
+(4) Section 84 comes into operation on 6th April 2009.
+
+(5) Sub-paragraph (3) of paragraph 6 of Schedule 7, and Part 6 of Schedule 10 so far as relating to the repeals mentioned in that sub-paragraph, come into operation on the day appointed by an order under section 21(1) of the Pensions Act (Northern Ireland) 2008 (c. 1) for the coming into operation of paragraph 44(2) of Schedule 4 to that Act.
+
+### 119 Short title
+
+This Act may be cited as the Pensions (No. 2) Act (Northern Ireland) 2008.
+
+## SCHEDULE 1 — REVALUATION OF ACCRUED BENEFITS ETC.
+
+*Section 80.*
+
+### PART 1 — REVALUATION OF ACCRUED PENSION BENEFITS
+
+#### Amendments to Schedule 2 to the Pension Schemes (Northern Ireland) Act 1993
+
+**1** This Part makes amendments to Schedule 2 to the Pension Schemes Act (methods of revaluing accrued pension benefits).
+
+**2** In paragraph 1 (the final salary method), for sub-paragraphs (1) to (3) substitute—
+
+> (1) The final salary method is to add to the amount that would be payable but for Chapter 2 of Part 4, or regulations made under it, the additional amount specified in sub-paragraph (1A), (1B), (1C) or (1D) (whichever applies).
+>
+> (1A) Where—
+>
+> (a) the termination of pensionable service occurs before 1st January 1991, and
+>
+> (b) the whole of the member's pensionable service falls on or after 1st January 1985,
+>
+> the additional amount is the appropriate higher revaluation percentage of the accrued benefit.
+>
+> (1B) Where—
+>
+> (a) the termination of pensionable service occurs before 1st January 1991, and
+>
+> (b) some of the member's pensionable service falls before 1st January 1985,
+>
+> the additional amount is such proportion of the appropriate higher revaluation percentage of the accrued benefit as the member's pensionable service falling on or after 1st January 1985 bears to the member's total pensionable service.
+>
+> (1C) Where the termination of pensionable service occurs—
+>
+> (a) on or after 1st January 1991, but
+>
+> (b) before the day on which section 80 of the Pensions (No. 2) Act (Northern Ireland) 2008 comes into operation (“the Pensions Act commencement day”),
+>
+> the additional amount is the appropriate higher revaluation percentage of the accrued benefit.
+>
+> (1D) Where the termination of pensionable service occurs on or after the Pensions Act commencement day, the additional amount is the aggregate of—
+>
+> (a) the appropriate higher revaluation percentage of so much of the accrued benefit as is attributable to the member's pensionable service falling before the Pensions Act commencement day, and
+>
+> (b) the appropriate lower revaluation percentage of so much of the accrued benefit as is attributable to the member's pensionable service falling on or after that day.
+>
+> (1E) In this paragraph “the accrued benefit” means the amount of the pension or other benefit which on the termination date has accrued to the member or to any other person in respect of the member (excluding any part of that amount which consists of—
+>
+> (a) the member's guaranteed minimum, or
+>
+> (b) the guaranteed minimum of the member's widow, widower or surviving civil partner).
+>
+> (2) For the purposes of this paragraph, a member's pensionable service includes any notional pensionable service which is credited to the member by the scheme (“notional service”).
+>
+> But notional service shall not be taken into account in determining which of sub-paragraphs (1A), (1B), (1C) and (1D) applies.
+>
+> (3) For the purposes of determining the additional amount where sub-paragraph (1B) applies, any notional service shall be taken to have ended immediately before the member's actual pensionable service began.
+>
+> (3A) For the purposes of determining the additional amount where sub-paragraph (1D) applies, any notional service shall be treated as falling on or after the Pensions Act commencement day only if, or to the extent that, it is so treated for the purposes of the scheme.
+
+.
+
+**3** (1) Paragraph 2 (the revaluation percentage and the appropriate revaluation percentage) is amended as follows.
+
+(2) In sub-paragraph (1)—
+
+(a) for “a revaluation percentage” substitute “ a higher revaluation percentage and a lower revaluation percentage ”;
+
+(b) for “a corresponding revaluation percentage” substitute “ a corresponding higher revaluation percentage and a corresponding lower revaluation percentage ”.
+
+(3) For sub-paragraph (3) substitute—
+
+> (3) In paragraph 1—
+>
+> - “the appropriate higher revaluation percentage” means the higher revaluation percentage specified in the last calendar year before the date on which the member attains normal pension age as the higher revaluation percentage for the revaluation period which is of the same length as the number of complete years in the pre-pension period;
+> - “the appropriate lower revaluation percentage” has a corresponding meaning.
+
+.
+
+### PART 2 — REVALUATION OF ACCRUED AMOUNTS ETC.
+
+#### Amendments to Schedule 6 to the 2005 Order
+
+**4** This Part makes amendments to Schedule 6 to the 2005 Order (pension compensation provisions).
+
+**5** (1) Paragraph 12 (active members who have not attained normal pension age at assessment date: the revaluation amount for the revaluation period) is amended as follows.
+
+(2) In sub-paragraph (3), for paragraph (b) substitute—
+
+> (b) in any other case, the aggregate of—
+>
+> (i) the higher revaluation percentage of so much of the accrued amount as is attributable to the active member's pensionable service falling before the day on which section 80 of the Pensions (No. 2) Act (Northern Ireland) 2008 comes into operation (“the Pensions Act commencement day”), and
+>
+> (ii) the lower revaluation percentage of so much of the accrued amount as is attributable to the active member's pensionable service falling on or after that day.
+
+.
+
+(3) After sub-paragraph (3) insert—
+
+> (3A) For the purposes of sub-paragraph (3)(b)—
+>
+> (a) any service within paragraph 36(4)(b) (notional pensionable service) is to be treated as falling on or after the Pensions Act commencement day if, or to the extent that, it is so treated for the purposes of the scheme;
+>
+> (b) regulations may make provision in relation to cases where it is unclear whether or not any particular pensionable service (either actual or notional) falls, or is to be treated as falling, on or after that day.
+
+.
+
+(4) For sub-paragraphs (4) and (5) substitute—
+
+> (4) In sub-paragraph (3)(b)—
+>
+> - “the higher revaluation percentage” means the lesser of—
+>
+>   - (a) the percentage increase referred to in paragraph (a) of the definition of “the higher revaluation percentage” in paragraph 12(4) of Schedule 7 to the Pensions Act 2004 (“the inflation percentage”), and
+>   - (b) the higher maximum revaluation rate;
+>
+> - “the lower revaluation percentage” means the lesser of—
+>
+>   - (a) the inflation percentage, and
+>   - (b) the lower maximum revaluation rate.
+>
+> (5) For the purposes of sub-paragraph (4)—
+>
+> - “the higher maximum revaluation rate”, in relation to the revaluation period, is—
+>
+>   - (a) if that period is a period of 12 months, 5%, and
+>   - (b) in any other case, the percentage referred to in paragraph (b) of the definition of “the higher maximum revaluation rate” in paragraph 12(5) of Schedule 7 to the Pensions Act 2004;
+>
+> - “the lower maximum revaluation rate”, in relation to the revaluation period, is—
+>
+>   - (a) if that period is a period of 12 months, 2.5%, and
+>   - (b) in any other case, the percentage referred to in paragraph (b) of the definition of “the lower maximum revaluation rate” in paragraph 12(5) of Schedule 7 to the Pensions Act 2004.
+>
+> This is subject to paragraph 29 (power of Board to determine maximum revaluation rates etc.).
+
+.
+
+**6** (1) Paragraph 17 (deferred members who have not attained normal pension age at assessment date: the revaluation amount for the second revaluation period) is amended as follows.
+
+(2) In sub-paragraph (3), for paragraph (b) substitute—
+
+> (b) in any other case, the aggregate of—
+>
+> (i) the higher revaluation percentage of so much of the relevant amount as is attributable to the deferred member's pensionable service falling before the day on which section 80 of the Pensions (No. 2) Act (Northern Ireland) 2008 comes into operation (“the Pensions Act commencement day”), and
+>
+> (ii) the lower revaluation percentage of so much of the relevant amount as is attributable to the deferred member's pensionable service falling on or after that day.
+
+.
+
+(3) After sub-paragraph (3) insert—
+
+> (3A) For the purposes of sub-paragraph (3)(b)—
+>
+> (a) any service within paragraph 36(4)(b) (notional pensionable service) is to be treated as falling on or after the Pensions Act commencement day if, or to the extent that, it is so treated for the purposes of the scheme;
+>
+> (b) regulations may make provision in relation to cases where it is unclear whether or not any particular pensionable service (either actual or notional) falls, or is to be treated as falling, on or after that day.
+
+.
+
+(4) For sub-paragraphs (4) and (5) substitute—
+
+> (4) In sub-paragraph (3)—
+>
+> - “the higher revaluation percentage” means the lesser of—
+>
+>   - (a) the percentage increase referred to in paragraph (a) of the definition of “the higher revaluation percentage” in paragraph 17(4) of Schedule 7 to the Pensions Act 2004 (“the inflation percentage”), and
+>   - (b) the higher maximum revaluation rate;
+>
+> - “the lower revaluation percentage” means the lesser of—
+>
+>   - (a) the inflation percentage, and
+>   - (b) the lower maximum revaluation rate;
+>
+> - “the relevant amount” means the aggregate of—
+>
+>   - (a) the accrued amount, and
+>   - (b) the revaluation amount for the first revaluation period (see paragraph 16).
+>
+> (5) For the purposes of sub-paragraph (3)—
+>
+> - “the higher maximum revaluation rate”, in relation to the second revaluation period, is—
+>
+>   - (a) if that period is a period of 12 months, 5%, and
+>   - (b) in any other case, the percentage referred to in paragraph (b) of the definition of “the higher maximum revaluation rate” in paragraph 17(5) of Schedule 7 to the Pensions Act 2004;
+>
+> - “the lower maximum revaluation rate”, in relation to the second revaluation period, is—
+>
+>   - (a) if that period is a period of 12 months, 2.5%, and
+>   - (b) in any other case, the percentage referred to in paragraph (b) of the definition of “the lower maximum revaluation rate” in paragraph 17(5) of Schedule 7 to the Pensions Act 2004.
+>
+> This is subject to paragraph 29 (power of Board to determine maximum revaluation rates etc.).
+
+.
+
+**7** In paragraph 29 (Board's powers to alter rates of revaluation etc.), for sub-paragraph (1) substitute—
+
+> (1) The Board may determine what is to be the higher maximum revaluation rate or the lower maximum revaluation rate for the purposes of paragraphs 12(4) and 17(4), and where it does so the relevant definitions in paragraphs 12(5) and 17(5) do not apply.
+
+.
+
+### PART 3 — CONSEQUENTIAL AMENDMENTS
+
+**8** In Article 51ZA of the 1995 Order (meaning of “the appropriate percentage”)—
+
+(a) in paragraph (a), for “revaluation percentage” substitute “ higher revaluation percentage ”;
+
+(b) for paragraph (b) substitute—
+
+> (b) in the case of a category Y pension, means the lower revaluation percentage for that period.
+
+.
+
+**9** In Article 54(3) of the 1995 Order (Articles 51 to 53: supplementary)—
+
+(a) after the definition of “the commencement day” insert—
+
+> “higher revaluation percentage” and “lower revaluation percentage” mean the higher revaluation percentage and the lower revaluation percentage specified for a revaluation period by a revaluation order;
+
+;
+
+(b) omit the definition of “revaluation percentage”.
+
+## [^F142]SCHEDULE 2 — ADDITIONAL PENSION CONSOLIDATION (prospective)
+
+*Section 81.*
+
+### [^F142] (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — ADDITIONAL STATE PENSION ETC.: MINOR AND CONSEQUENTIAL AMENDMENTS
+
+*Section 83.*
+
+### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**1** The Contributions and Benefits Act is amended as follows.
+
+**2** In section 21(5A)(c) (contribution conditions) after “5(2)(b) and (4)(a)” insert “ , 5A(3)(a) ”.
+
+**3** In section 39(1) (rate of widowed mother's allowance and widow's pension) for “46(2)” substitute “ 46 ”.
+
+**4** (1) Section 39C (rate of widowed parent's allowance and bereavement allowance) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “45” substitute “ 45AA ”;
+
+[^F143]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) for “46(2) and (4)” substitute “ 46 ”.
+
+(3) In subsections (3) and (4)—
+
+(a) for “45” substitute “ 45AA ”;
+
+[^F144]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** (1) After section 45 (additional pension in Category A retirement pension) insert—
+
+> **Effect of working families' tax credit and disabled person's tax credit on earnings factor**
+>
+> **45AA** (1) For the purposes of calculating additional pension under sections 44 and 45 where, in the case of any relevant year, working families' tax credit is paid in respect of any employed earner, or disabled person's tax credit is paid to any employed earner, section 44(6)(a)(i) shall have effect as if—
+>
+> (a) where that person had earnings of not less than the qualifying earnings factor for that year, being earnings upon which primary Class 1 contributions were paid or treated as paid (“qualifying earnings”) in respect of that year, the amount of those qualifying earnings were increased by the aggregate amount (“AG”) of working families' tax credit, or, as the case may be, disabled person's tax credit paid in respect of that year, and
+>
+> (b) in any other case, that person had qualifying earnings in respect of that year and the amount of those qualifying earnings were equal to AG plus the qualifying earnings factor for that year.
+>
+> (2) The reference in subsection (1) to the person in respect of whom working families' tax credit is paid—
+>
+> (a) where it is paid to one of a couple, is a reference to the prescribed member of the couple, and
+>
+> (b) in any other case, is a reference to the person to whom it is paid.
+>
+> (3) A person's qualifying earnings in respect of any year cannot be treated by virtue of subsection (1) as exceeding the upper earnings limit for that year multiplied by 53.
+>
+> (4) Subsection (1) does not apply to any woman who has made, or is treated as having made, an election under regulations under section 19(4), which has not been revoked, that her liability in respect of primary Class 1 contributions shall be at a reduced rate.
+>
+> (5) In this section—
+>
+> - “couple” has the same meaning as in Part 7 (see section 133);
+> - “relevant year” has the same meaning as in section 44.
+
+.
+
+(2) Sub-paragraph (1) together with paragraphs 4(2)(a) and (3)(a), 9(2)(a) and (3)(a) and 11 (which make amendments consequential on sub-paragraph (1)) are referred to in the following provisions of this paragraph as “the relevant provisions”.
+
+(3) Subject to sub-paragraphs (4) and (5), the relevant provisions apply to a person (“the pensioner”) who attains pensionable age after 5th April 1999 and, in relation to such a person—
+
+(a) have effect for 1995–96 and subsequent tax years, and
+
+(b) are deemed so to have had effect (with the necessary modifications) during the period—
+
+(i) beginning with 6th April 2003, and
+
+(ii) ending with the coming into operation of this paragraph.
+
+(4) Where the pensioner is a woman, the relevant provisions have effect in the case of additional pension falling to be calculated under sections 44 and 45 of the Contributions and Benefits Act by virtue of section 39 of that Act (widowed mother's allowance and widow's pension), including Category B retirement pension payable under section 48B(4), if her husband—
+
+(a) dies after 5th April 1999, and
+
+(b) has not attained pensionable age on or before that date.
+
+(5) The relevant provisions have effect, where additional pension falls to be calculated under sections 44 and 45 of the Contributions and Benefits Act as applied by section 48A or 48B(2) of that Act (other Category B retirement pension) if—
+
+(a) the pensioner attains pensionable age after 5th April 1999, and
+
+(b) the pensioner's spouse has not attained pensionable age on or before that date.
+
+**6** (1) Section 46 (modifications of section 45 for calculating the additional pension in certain benefits) is amended as follows.
+
+(2) In subsection (2) for “, 48B(2) or 48BB(5)” substitute “ or 48B(2) ”.
+
+[^F145]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** In section 48A(4) (Category B retirement pension for married person)—
+
+[^F146]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) for “46(2)” substitute “ 46 ”.
+
+**8** In section 48B(2) (Category B retirement pension for widows and widowers)—
+
+[^F147]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) for “46(2)” substitute “ 46 ”.
+
+**9** (1) Section 48BB (Category B retirement pension: entitlement by reference to benefits under section 39A or 39B) is amended as follows.
+
+(2) In subsection (5)—
+
+(a) for “45” substitute “ 45AA ”;
+
+(b) after “45AA” (inserted by paragraph (a)) insert “ and 45B ”;
+
+[^F148]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) for “46(3)” substitute “ 46 ”.
+
+(3) In subsection (6)—
+
+(a) for “45” substitute “ 45AA ”;
+
+(b) after “45AA” (inserted by paragraph (a)) insert “ and 45B ”.
+
+**[^F149]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** In section 51(2) and (3) (Category B retirement pension for widowers) for “45” substitute “ 45AA ”.
+
+**12** (1) Schedule 4B (additional pension: accrual rates for purposes of section 45(2)(d)) is amended as follows.
+
+(2) In paragraph 2 (application of Part 2 of Schedule)—
+
+(a) after “if” insert
+
+> —
+>
+> (a)
+
+;
+
+(b) after paragraph (a) (created by virtue of paragraph (a) above) insert
+
+> and
+>
+> (b) there is a surplus in the pensioner's earnings factor for the year.
+
+.
+
+(3) In paragraph 3 (appropriate amount for year)—
+
+(a) in paragraph (a), for the words from “there is” to “which” substitute “ the pensioner's earnings factor for the year ”;
+
+(b) in paragraph (b), for “there is such a surplus which” substitute “ that earnings factor ”.
+
+(4) In paragraph 5(a) for “surplus” substitute “ earnings factor ”.
+
+(5) In paragraph 6 (application of Part 3 of Schedule)—
+
+(a) after “if” insert
+
+> —
+>
+> (a)
+
+;
+
+(b) after paragraph (a) (created by virtue of paragraph (a) above) insert
+
+> and
+>
+> (b) there would be a surplus in the pensioner's earnings factor for the year if section 44A of the Pensions Act did not apply in relation to any tax week falling in the year.
+
+.
+
+(6) In paragraph 8(1) (calculation of amount A: assumed surplus not exceeding LET), for the words from “there” to “which” substitute “ the pensioner's assumed earnings factor for the year ”; and, accordingly, in the heading before paragraph 8 for “*surplus*” substitute “ *earnings factor* ”.
+
+(7) In paragraph 9 (calculation of amount A: assumed surplus exceeding LET)—
+
+(a) in sub-paragraph (1), for the words from “there” to “which” substitute “ the pensioner's assumed earnings factor for the year ”;
+
+(b) in sub-paragraph (2)(a), for “assumed surplus” substitute “ assumed earnings factor ”,
+
+and, accordingly, in the heading before paragraph 9 for “*surplus*” substitute “ *earnings factor* ”.
+
+(8) In paragraph 10(1)(a) (amount B), for “assumed surplus” substitute “ pensioner's assumed earnings factor ”.
+
+(9) In paragraph 12 (interpretation)—
+
+(a) omit the definition of “assumed surplus”;
+
+(b) before the definition of “the QEF” insert—
+
+> “the pensioner's assumed earnings factor”, in relation to a year, means the earnings factor that the pensioner would have for the year if section 44A(1) of the Pensions Act did not apply in relation to any tax week falling in the year;
+
+.
+
+**[^F150]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+
+**[^F150]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**[^F150]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — PENSION COMPENSATION PAYABLE ON DISCHARGE OF PENSION COMPENSATION CREDIT
+
+*Section 94.*
+
+### PART 1 — INTRODUCTORY
+
+#### Introductory
+
+**1** This Schedule applies for the purposes of determining the compensation payable to or in respect of a person entitled to compensation on the discharge of a pension compensation credit in accordance with this Chapter.
+
+#### Interpretation
+
+**2** In this Schedule—
+
+- “the initial annual rate of compensation” is the amount determined by the Board under section 94(4);
+- the “pension compensation age” of the transferee is the age determined in accordance with paragraph 3.
+
+#### Pension compensation age
+
+**3** (1) This paragraph applies for the purpose of determining the transferee's pension compensation age.
+
+(2) Sub-paragraphs (3) and (4) apply where the transferor's PPF compensation, or any of it, is determined under Schedule 6 to the 2005 Order.
+
+(3) Where the transferor's right to PPF compensation arises by virtue of his or her status as a member of a pension scheme for which the Board assumed responsibility in accordance with Chapter 3 of Part 3 of that Order, the transferee's pension compensation age is the same as—
+
+(a) the normal pension age of the transferor, or
+
+(b) where the transferor was a pension credit member, the normal benefit age of the transferor.
+
+(4) Where the transferor's right to PPF compensation arises by virtue of his or her status as a person connected with a member of a scheme for which the Board assumed responsibility in accordance with Chapter 3 of Part 3 of that Order, the transferee's pension compensation age is the same as—
+
+(a) the normal pension age of that member, or
+
+(b) where that member was a pension credit member, the normal benefit age of that member.
+
+(5) Sub-paragraph (6) applies where the transferor's PPF compensation is determined only under this Schedule.
+
+(6) The transferee's pension compensation age is the same as the pension compensation age of the transferor.
+
+(7) In this paragraph, “normal benefit age”, “normal pension age” and “pension credit member” have the same meanings as in Schedule 6 to the 2005 Order.
+
+### PART 2 — TRANSFEREE ATTAINS PENSION COMPENSATION AGE BEFORE OR ON TRANSFER DAY
+
+#### Compensation payable to transferee
+
+**4** (1) Compensation is payable in accordance with this paragraph where the transferee attains pension compensation age before or on the transfer day.
+
+(2) The transferee is entitled to periodic compensation commencing on the transfer day and continuing for life.
+
+(3) The annual rate of the periodic compensation is the aggregate of—
+
+(a) the initial annual rate of compensation, [^F151]...
+
+[[^F152](aa) if the commencement of periodic compensation under this paragraph has been postponed for any period by virtue of paragraph 16A, the amount of the actuarial increase under that paragraph, and]
+
+(b) any increases under paragraph 17 (annual increases in periodic compensation).
+
+(4) This paragraph is subject to [[^F153]paragraph 16A (postponement of compensation) and] paragraph 18 (compensation cap).
+
+#### Compensation payable to widow, widower or surviving civil partner
+
+**5** (1) This paragraph applies where—
+
+(a) the transferee dies after liability in respect of the pension compensation credit has been discharged under section 94,
+
+(b) the transferee was before death entitled under paragraph 4 to periodic compensation commencing on the transfer day, and
+
+(c) the transferee is survived by a widow, widower or surviving civil partner (“the surviving partner”).
+
+(2) Subject to sub-paragraph (4), the surviving partner is entitled to periodic compensation commencing on the day following the transferee's death and continuing for life.
+
+(3) The annual rate of the periodic compensation at any time is half of the annual rate of the periodic compensation (including [[^F154]any actuarial increase under paragraph 16A and] any increases under paragraph 17) to which the transferee would at that time have been entitled under paragraph 4 had the transferee not died.
+
+[[^F155](3A) If, on the day the transferee (“T”) died, commencement of T's periodic compensation under paragraph 4 was postponed by virtue of paragraph 16A, assume for the purposes of sub-paragraph (3) that the periodic compensation commenced immediately before the date of T's death.]
+
+(4) The surviving partner is not entitled to periodic compensation under this paragraph in such circumstances as may be prescribed.
+
+### PART 3 — TRANSFEREE ATTAINS PENSION COMPENSATION AGE AFTER TRANSFER DAY
+
+#### Compensation payable to transferee
+
+**6** (1) Compensation is payable in accordance with this paragraph where the transferee attains pension compensation age after the transfer day.
+
+(2) The transferee is entitled to periodic compensation commencing at that age and continuing for life.
+
+(3) The annual rate of the periodic compensation is the aggregate of—
+
+(a) the initial annual rate of compensation,
+
+(b) the revaluation amount (see paragraph 8), [^F156]...
+
+[[^F157](ba) if the commencement of periodic compensation under this paragraph has been postponed for any period by virtue of paragraph 16A, the amount of the actuarial increase under that paragraph, and]
+
+(c) any increases under paragraph 17 (annual increases in periodic compensation).
+
+(4) This paragraph is subject to—
+
+- paragraph 9 (commutation),
+- paragraph 10 (early payment),
+- [^F158]...
+- paragraph 15 (terminal illness lump sum), [^F159]...
+- [[^F160]paragraph 16A (postponement of compensation), and]
+- paragraph 18 (compensation cap).
+
+#### Compensation payable to widower, widow or surviving civil partner
+
+**7** (1) This paragraph applies where—
+
+(a) the transferee dies after liability in respect of the pension compensation credit has been discharged under section 94,
+
+(b) the transferee—
+
+(i) was, before death, entitled under paragraph 6 to periodic compensation commencing at pension compensation age, or
+
+(ii) would have become so entitled had he or she not died, and
+
+(c) the transferee is survived by a widow, widower or surviving civil partner (“the surviving partner”).
+
+(2) Subject to sub-paragraph (4), the surviving partner is entitled to periodic compensation commencing on the day following the transferee's death and continuing for life.
+
+(3) The annual rate of the periodic compensation at any time is—
+
+(a) where the transferee dies after attaining pension compensation age, half of the annual rate of the periodic compensation (including the revaluation amount (see paragraph 8) [[^F161], any actuarial increase under paragraph 16A] and any increases under paragraph 17) to which the transferee would at that time have been entitled under paragraph 6 had the transferee not died;
+
+(b) where the transferee dies before attaining pension compensation age, half of the annual rate of the periodic compensation (including the revaluation amount (see paragraph 8) and any increases under paragraph 17) to which the transferee would at that time have been entitled under paragraph 6 if—
+
+(i) the transferee's pension compensation age had been the transferee's actual age immediately before the date of the transferee's death, and
+
+(ii) the transferee had not died.
+
+[[^F162](assuming commencement of the periodic compensation was not postponed by virtue of paragraph 16A).]
+
+[[^F163](3A) For the purposes of sub-paragraph (3)(a), if on the day the transferee (“T”) died commencement of T's periodic compensation under paragraph 6 was postponed by virtue of paragraph 16A, assume that the periodic compensation commenced immediately before the date of T's death.]
+
+(4) For the purposes of this paragraph, a person's entitlement under paragraph 6 is to be determined disregarding paragraph 15(1)(b) (successful applicant for terminal illness lump sum loses entitlement to periodic compensation).
+
+(5) The surviving partner is not entitled to periodic compensation under this paragraph in such circumstances as may be prescribed.
+
+#### Revaluation
+
+**8** (1) This paragraph applies for the purpose of calculating the revaluation amount mentioned in paragraph 6(3)(b).
+
+(2) In this paragraph “the revaluation period” means the period—
+
+(a) beginning with the transfer day, and
+
+(b) ending with the day before the transferee attains pension compensation age.
+
+(3) The revaluation amount is—
+
+(a) in a case in which the revaluation period is less than a month, nil;
+
+(b) in any other case, the revaluation percentage of the initial annual rate of compensation.
+
+(4) For the purposes of sub-paragraph (3)(b) “the revaluation percentage” means the lesser of—
+
+(a) the percentage increase referred to in paragraph 8(4)(a) of Schedule 5 to the Pensions Act 2008, and
+
+(b) the maximum revaluation rate.
+
+(5) For the purposes of sub-paragraph (4)(b) “the maximum revaluation rate” is—
+
+(a) in a case in which the revaluation period is a period of 12 months, 2.5%, and
+
+(b) in any other case, the percentage referred to in paragraph 8(5)(b) of Schedule 5 to the Pensions Act 2008.
+
+This is subject to paragraph 20 (power of Board to alter rates of revaluation and indexation).
+
+#### Commutation of periodic compensation
+
+**9** (1) A transferee who is entitled to periodic compensation under paragraph 6 may, in prescribed circumstances, opt to commute for a lump sum a portion of the periodic compensation with effect from the time it [[^F164]commences] .
+
+(2) Except in such circumstances as may be prescribed, the portion commuted under sub-paragraph (1) must not exceed 25%.
+
+(3) Any reduction required to be made by virtue of paragraph 18 (compensation cap) must be made before determining the amount of the transferee's periodic compensation which may be commuted under this paragraph.
+
+(4) Where the transferee opts to commute any part of his or her periodic compensation under this paragraph, the lump sum payable under sub-paragraph (1) is the actuarial equivalent of the commuted portion of the periodic compensation calculated from tables designated for this purpose by the Board.
+
+(5) The Board must publish in such manner as it considers appropriate the tables designated by it for the purposes of sub-paragraph (4).
+
+(6) Regulations may prescribe the manner in which an option to commute periodic compensation under this paragraph may be exercised.
+
+(7) The Department may, by order, amend sub-paragraph (2) so as to substitute a different percentage for that for the time being specified there.
+
+#### Early payment of compensation
+
+**10** (1) Regulations may prescribe circumstances in which, and conditions subject to which, the transferee may become entitled to periodic compensation under paragraph 6 before attaining pension compensation age.
+
+(2) The Board must determine the amount of the actuarial reduction to be applied to compensation to which the transferee is entitled by virtue of this paragraph.
+
+(3) Where, by virtue of this paragraph, periodic compensation is payable to the transferee before he or she attains pension compensation age, paragraph 8(2)(b) (end of revaluation period) applies as if the reference to the day before the transferee attains pension compensation age were to the day on which compensation is payable by virtue of this paragraph.
+
+#### Deferral of compensation
+
+**[^F165]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Terminal illness lump sum: eligibility
+
+**12** (1) This paragraph applies where all of the following conditions are met—
+
+(a) the transferee is terminally ill;
+
+(b) if the transferee lived to the relevant age, he or she would become entitled on attaining that age to compensation under paragraph 6 in respect of the pension compensation credit;
+
+(c) the transferee has not yet become entitled to any compensation under this Chapter in respect of the pension compensation credit;
+
+[^F166]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The transferee may make an application to the Board to commute the future entitlement mentioned in sub-paragraph (1)(b) for a lump sum (“a terminal illness lump sum”) payable on the granting of the application.
+
+(3) For the purposes of this Chapter a person is “terminally ill” at any time if at that time the person suffers from a progressive disease and the person's death in consequence of that disease can reasonably be expected within [[^F167]12 months].
+
+(4) In this paragraph—
+
+- [^F168]...
+
+- “relevant age”, in relation to a person, means—
+
+  - (a) in relation to compensation entitlement to which has been accelerated [^F169]... under regulations under paragraph 10 [^F169]..., the age at which the person becomes entitled to the compensation in accordance with the regulations;
+  - (b) in relation to compensation entitlement to which has not been so accelerated [^F170]..., pension compensation age.
+
+[[^F171](5) Sub-paragraph (6) applies where the commencement of a person's periodic compensation under paragraph 6 is postponed by virtue of paragraph 16A.
+
+(6) This paragraph applies as if—
+
+(a) the person first becomes entitled to compensation under paragraph 6 immediately after the period of postponement ends, and
+
+(b) in sub-paragraph (1)(b), for “if the transferee lived to the relevant age, he or she would become entitled on attaining that age” there were substituted “ if the period of postponement ended, the transferee would become entitled ”.]
+
+#### Terminal illness lump sum: application and evidence
+
+**13** An application for a terminal illness lump sum—
+
+(a) must be made in writing, either on a form approved by the Board for the purposes of this paragraph or in such other manner as the Board may accept as sufficient in the circumstances of the case;
+
+(b) must be accompanied by such information as the Board may require for the purpose of determining the application.
+
+#### Terminal illness lump sum: determination of application
+
+**14** (1) The Board must determine an application for a terminal illness lump sum in accordance with this paragraph.
+
+(2) The Board must—
+
+(a) if satisfied that the conditions in paragraph 12(1) are met, grant the application;
+
+(b) in any other case (subject to sub-paragraph (3)), reject the application.
+
+(3) The Board may hold over the application for determination at a later date if it is satisfied that—
+
+(a) although the condition in paragraph 12(1)(a) is not met, the transferee suffers from a progressive disease and may become terminally ill within six months, and
+
+(b) the conditions in paragraph 12(1)(b) to (d) are met.
+
+#### Terminal illness lump sum: effect of successful application
+
+**15** (1) If the Board grants an application for a terminal illness lump sum, the transferee—
+
+(a) becomes entitled to a terminal illness lump sum calculated in accordance with this paragraph, and
+
+(b) loses the entitlement he or she otherwise would have had on attaining the relevant age to compensation under paragraph 6 in respect of the pension compensation credit.
+
+(2) The amount of the terminal illness lump sum is 2 times the amount to which the transferee would have been entitled under paragraph 6 in respect of the pension compensation credit in the year following the granting of the application, if he or she had attained the relevant age on the granting of the application.
+
+(3) In this paragraph “the relevant age” has the same meaning as in paragraph 12.
+
+[[^F172](4) Where on the granting of the application the commencement of a person's periodic compensation under paragraph 6 is postponed by virtue of paragraph 16A, this paragraph applies as if the references to the transferee attaining the relevant age were references to the period of postponement ending.]
+
+#### Terminal illness lump sum: information
+
+**16** (1) Relevant information held by the Department or the Secretary of State about an individual may be disclosed to the Board for use for a purpose relating to its functions under paragraphs 12 to 15.
+
+(2) In sub-paragraph (1) “relevant information” means—
+
+(a) information held for the purposes of any function of the Department relating to social security; or
+
+(b) information held for the purposes of any function of the Secretary of State relating to any scheme made under section 286 of the Pensions Act 2004 (c. 35) (financial assistance scheme).
+
+### PART 4 — PROVISIONS APPLICABLE IRRESPECTIVE OF AGE OF TRANSFEREE ON TRANSFER DAY
+
+#### [[^F173]Postponement of compensation
+
+**16A** (1) Regulations may prescribe circumstances in which, and conditions subject to which, a person who becomes entitled to periodic compensation under paragraph 4 or 6 may elect to postpone the commencement of periodic compensation under that paragraph.
+
+(2) Where the commencement of periodic compensation under paragraph 4 or 6 ceases to be postponed, the Board must determine—
+
+(a) the relevant amount, as at the time the periodic compensation would have commenced if its commencement had not been postponed, and
+
+(b) the amount in paragraph (a), increased in accordance with actuarial factors published by the Board.
+
+(3) References in this Schedule to the amount of an actuarial increase under this paragraph are to the difference between the amounts in sub-paragraphs (2)(a) and (2)(b).
+
+(4) In sub-paragraph (2) the “relevant amount” means (as appropriate)—
+
+(a) the amount mentioned in paragraph 4(3)(a), or
+
+(b) the aggregate of the amounts mentioned in paragraph 6(3)(a) and (b).]
+
+#### Annual increase in periodic compensation
+
+**17** (1) This paragraph provides for annual increases to compensation payable to the transferee.
+
+(2) The transferee is entitled, on each indexation date, to an increase of the appropriate percentage of the underlying rate.
+
+(3) The increase to which the transferee is entitled on the first indexation date is restricted to 1/12 of the amount calculated under sub-paragraph (2) for each full month in the period beginning with the transfer day and ending with that indexation date.
+
+(4) For the purposes of sub-paragraph (2)—
+
+- “the appropriate percentage”, as at an indexation date, is the lesser of—
+
+  - (a) the percentage increase referred to in paragraph (a) of the definition of “the appropriate percentage” in paragraph 17(4) of Schedule 5 to the Pensions Act 2008, and
+  - (b) 2.5%;
+
+- “the indexation date” means—
+
+  - (a) the 1st January next falling after the transferee first becomes entitled to the periodic compensation, and
+  - (b) each subsequent 1st January during the transferee's lifetime;
+
+- “the underlying rate”, as at an indexation date, is the aggregate of—
+
+  - (a) the indexed proportion (as determined under sub-paragraph (5) or (6)) of the aggregate of the initial annual rate of compensation and (in the case of compensation payable under paragraph 6) the revaluation amount, [^F174]...
+  - (aa) [[^F175]so much of any actuarial increase under paragraph 16A as relates to the amount in paragraph (a), and]
+  - (b) any annual increase to which the transferee is entitled under this paragraph in respect of earlier indexation dates.
+
+(5) Where the transferor's PPF compensation is payable in accordance with paragraph 3, 5, 8, 11, 15 or 22 of Schedule 6 to the 2005 Order (“the relevant paragraph of Schedule 6”), “the indexed proportion” is the proportion of the amount mentioned in sub-paragraph (3)(a) of the relevant paragraph of Schedule 6 that is attributable to the transferor's post-1997 service.
+
+Paragraph 28(4) of that Schedule applies for the purpose of attributing amounts to the transferor's post-1997 service under this sub-paragraph.
+
+(6) Where the transferor's PPF compensation is payable otherwise than as mentioned in sub-paragraph (5), “the indexed proportion” is such proportion as is determined in accordance with regulations made by the Department.
+
+(7) Where the compensation payable to the transferee is—
+
+(a) reduced as a result of the commutation of periodic compensation under paragraph 9, or
+
+(b) restricted under regulations under paragraph 18 (compensation cap),
+
+the references in [[^F176]paragraph (a) of ] the definition of “the underlying rate” in sub-paragraph (4) to the initial annual compensation rate and the revaluation amount are to that rate and that amount as so restricted or reduced [[^F177](and paragraph (aa) of the definition applies accordingly). ] .
+
+[[^F178](7A) Where the commencement of periodic compensation has been postponed by virtue of paragraph 16A, this paragraph applies as if the transferee first becomes entitled to the periodic compensation on the day on which the periodic compensation commences.]
+
+(8) the definition of “the appropriate percentage” in sub-paragraph (4) is subject to paragraph 20 (power of Board to alter rates of revaluation and indexation).
+
+(9) In this paragraph “post-1997 service” has the same meaning as in paragraph 28 of Schedule 6 to the 2005 Order (annual increase in periodic pension compensation).
+
+#### Compensation cap
+
+**18** (1) The Department may by regulations make provision for restricting the amount of periodic compensation payable under this Schedule in a case in which, on the transfer day, the transferor is not entitled to present payment of PPF compensation.
+
+[^F179]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Compensation in form of dependant's benefits
+
+**19** (1) The Department may by regulations make provision for compensation to be payable to—
+
+(a) prescribed descriptions of partners, or
+
+(b) prescribed descriptions of dependants,
+
+of prescribed descriptions of transferees.
+
+(2) The regulations may, in particular—
+
+(a) provide for compensation in the form of periodic or lump sum payments;
+
+(b) provide for periodic compensation to be payable for a prescribed period;
+
+(c) apply paragraph 17 (annual increases in respect of periodic compensation), with or without modifications, in respect of compensation in the form of periodic payments.
+
+#### Board's power to alter rates of revaluation and indexation
+
+**20** (1) The Board may determine the percentage that is to be—
+
+(a) the maximum revaluation rate for the purposes of paragraph 8(4)(b);
+
+(b) the appropriate percentage for the purposes of paragraph 17(2).
+
+(2) Before making a determination under this paragraph the Board must—
+
+(a) consult such persons as it considers appropriate, and
+
+(b) publish details of the proposed determination in such manner as it considers appropriate and consider any representations made in respect of it.
+
+(3) The rate determined under this paragraph may be nil.
+
+(4) A determination under this paragraph may be expressed so as to have effect for a limited period.
+
+(5) A determination under sub-paragraph (1)(b)—
+
+(a) has effect in relation to future increases under paragraph 17 only, and
+
+(b) may be expressed to have effect—
+
+(i) in all cases (whether the entitlement to the periodic compensation first arose before or after the date the determination is made), or
+
+(ii) only in cases where entitlement to the periodic compensation first arose on or after a date determined by the Board.
+
+[[^F180](5A) A determination under sub-paragraph (1)(b) which has effect as mentioned in sub-paragraph (5)(b)(ii) may provide that, where the payment of periodic compensation to the transferee is postponed by virtue of paragraph 16A, the determination applies as if the transferee first becomes entitled to the periodic compensation on the day on which the periodic compensation commences.]
+
+(6) Notice of any determination under this paragraph must be published in such manner as the Board considers appropriate.
+
+## SCHEDULE 5 — PENSION COMPENSATION ON DIVORCE ETC.
+
+*Section 98.*
+
+### PART 1 — AMENDMENTS OF THE MATRIMONIAL CAUSES (NORTHERN IRELAND) ORDER 1978
+
+**1** The Matrimonial Causes (Northern Ireland) Order 1978 (NI 15) is amended as follows.
+
+**2** After Article 23A (pension sharing orders) insert—
+
+> **Pension compensation sharing orders**
+>
+> **23B** (1) For the purposes of this Order, a pension compensation sharing order is an order which—
+>
+> (a) provides that one party's shareable rights to PPF compensation that derive from rights under a specified pension scheme are to be subject to pension compensation sharing for the benefit of the other party, and
+>
+> (b) specifies the percentage value to be transferred.
+>
+> (2) In paragraph (1)—
+>
+> (a) the reference to shareable rights to PPF compensation is to rights in relation to which pension compensation sharing is available under Chapter 1 of Part 3 of the Pensions (No. 2) Act (Northern Ireland) 2008 or under Chapter 1 of Part 3 of the Pensions Act 2008;
+>
+> (b) “party” means a party to a marriage;
+>
+> (c) “specified” means specified in the order.
+>
+> **Pension compensation: interpretation**
+>
+> **23C** In this Part—
+>
+> - “PPF compensation” means compensation payable under the pension compensation provisions;
+>
+> - “the pension compensation provisions” means—
+>
+>   - (a) Chapter 3 of Part 3 of the Pensions (Northern Ireland) Order 2005 (pension protection) and any regulations or order made under it,
+>   - (b) Chapter 1 of Part 3 of the Pensions (No. 2) Act (Northern Ireland) 2008 (pension compensation on divorce etc.) and any regulations or order made under it, and
+>   - (c) any provision corresponding to the provisions mentioned in paragraph (a) or (b) in force in Great Britain.
+
+.
+
+**3** After Article 26C (pension sharing orders: apportionment of charges) insert—
+
+> **Pension compensation sharing orders in connection with divorce proceedings**
+>
+> **26D** (1) On granting a decree of divorce or a decree of nullity of marriage or at any time thereafter (whether before or after the decree is made absolute), the court may, on an application made under this Article, make a pension compensation sharing order in relation to the marriage.
+>
+> (2) A pension compensation sharing order under this Article is not to take effect unless the decree on or after which it is made has been made absolute.
+>
+> (3) A pension compensation sharing order under this Article may not be made in relation to rights to PPF compensation that—
+>
+> (a) are the subject of pension attachment,
+>
+> (b) derive from rights under a pension scheme that were the subject of pension sharing between the parties to the marriage,
+>
+> (c) are the subject of pension compensation attachment, or
+>
+> (d) are or have been the subject of pension compensation sharing between the parties to the marriage.
+>
+> (4) For the purposes of paragraph (3)(a), rights to PPF compensation “are the subject of pension attachment” if any of the following three conditions is met.
+>
+> (5) The first condition is that—
+>
+> (a) the rights derive from rights under a pension scheme in relation to which an order was made under Article 25 imposing a requirement by virtue of Article 27B(4), and
+>
+> (b) that order, as modified under Article 27E(3), remains in force.
+>
+> (6) The second condition is that—
+>
+> (a) the rights derive from rights under a pension scheme in relation to which an order was made under Article 25 imposing a requirement by virtue of Article 27B(7), and
+>
+> (b) that order—
+>
+> (i) has been complied with, or
+>
+> (ii) has not been complied with and, as modified under Article 27E(5), remains in force.
+>
+> (7) The third condition is that—
+>
+> (a) the rights derive from rights under a pension scheme in relation to which an order was made under Article 25 imposing a requirement by virtue of Article 27C, and
+>
+> (b) that order remains in force.
+>
+> (8) For the purposes of paragraph (3)(b), rights under a pension scheme “were the subject of pension sharing between the parties to the marriage” if the rights were at any time the subject of a pension sharing order in relation to the marriage or a previous marriage between the same parties.
+>
+> (9) For the purposes of paragraph (3)(c), rights to PPF compensation “are the subject of pension compensation attachment” if there is in force a requirement imposed by virtue of Article 27F relating to them.
+>
+> (10) For the purposes of paragraph (3)(d), rights to PPF compensation “are or have been the subject of pension compensation sharing between the parties to the marriage” if they are or have ever been the subject of a pension compensation sharing order in relation to the marriage or a previous marriage between the same parties.
+>
+> **Pension compensation sharing orders: duty to stay**
+>
+> **26E** (1) No pension compensation sharing order may be made so as to take effect before the end of such period after the making of the order as may be prescribed by regulations made by the [[^F181] Department of Justice] .
+>
+> (2) Regulations under this Article shall be subject to [[^F182] negative resolution] .
+>
+> **Pension compensation sharing orders: apportionment of charges**
+>
+> **26F** The court may include in a pension compensation sharing order provision about the apportionment between the parties of any charge under section 95 of the Pensions (No. 2) Act (Northern Ireland) 2008 (charges in respect of pension compensation sharing costs), or under section 117 of the Pensions Act 2008.
+
+.
+
+**4** (1) Article 27 (matters to which court is to have regard) is amended as follows.
+
+(2) In the heading, for “and 26” substitute “ , 26, 26A and 26D ”.
+
+(3) In paragraphs (1) and (2) for “or 26A” substitute “ , 26A or 26D ”.
+
+**5** In Article 27A(1) (exercise of court's powers in favour of party to marriage on decree of divorce or nullity of marriage) for “or 26A” substitute “ , 26A or 26D ”.
+
+**6** In Article 27E(9) (the Pension Protection Fund) omit the definition of “PPF compensation”.
+
+**7** After Article 27E insert—
+
+> **Attachment of pension compensation**
+>
+> **27F** (1) This Article applies where, having regard to any PPF compensation to which a party to the marriage is or is likely to be entitled, the court determines to make an order under Article 25.
+>
+> (2) To the extent to which the order is made having regard to such compensation, the order may require the Board of the Pension Protection Fund, if at any time any payment in respect of PPF compensation becomes due to the party with compensation rights, to make a payment for the benefit of the other party.
+>
+> (3) The order must express the amount of any payment required to be made by virtue of paragraph (2) as a percentage of the payment which becomes due to the party with compensation rights.
+>
+> (4) Any such payment by the Board of the Pension Protection Fund—
+>
+> (a) shall discharge so much of its liability to the party with compensation rights as corresponds to the amount of the payment, and
+>
+> (b) shall be treated for all purposes as a payment made by the party with compensation rights in or towards the discharge of that party's liability under the order.
+>
+> (5) Where the party with compensation rights has a right to commute any PPF compensation, the order may require that party to exercise it to any extent; and this Article applies to any payment due in consequence of commutation in pursuance of the order as it applies to other payments in respect of PPF compensation.
+>
+> (6) The power conferred by paragraph (5) may not be exercised for the purpose of commuting compensation payable to the party with compensation rights to compensation payable to the other party.
+>
+> (7) The power conferred by paragraph (2) or (5) may not be exercised in relation to rights to PPF compensation that—
+>
+> (a) derive from rights under a pension scheme that were at any time the subject of a pension sharing order in relation to the marriage, or a previous marriage between the same parties, or
+>
+> (b) are or have ever been the subject of a pension compensation sharing order in relation to the marriage or a previous marriage between the same parties.
+>
+> **Pension compensation: supplementary**
+>
+> **27G** (1) The [[^F183]Department of Justice] may by regulations—
+>
+> (a) make provision, in relation to any provision of Article 27F which authorises the court making an order under Article 25 to require the Board of the Pension Protection Fund to make a payment for the benefit of the other party, as to the person to whom, and the terms on which, the payment is to be made;
+>
+> (b) make provision, in relation to payment under a mistaken belief as to the continuation in force of a provision included by virtue of Article 27F in an order under Article 25, about the rights or liabilities of the payer, the payee or the person to whom the payment was due;
+>
+> (c) require notices to be given in respect of changes of circumstances relevant to orders under Article 25 which include provision made by virtue of Article 27F;
+>
+> (d) make provision for the Board of the Pension Protection Fund to be discharged in prescribed circumstances from a requirement imposed by virtue of Article 27F;
+>
+> (e) make provision about calculation and verification in relation to the valuation of PPF compensation for the purposes of the court's functions in connection with the exercise of any of its powers under this Part.
+>
+> (2) Regulations under paragraph (1)(e) may include—
+>
+> (a) provision for calculation or verification in accordance with guidance from time to time prepared by a prescribed person;
+>
+> (b) provision by reference to regulations under section 90 of the Pensions (No. 2) Act (Northern Ireland) 2008.
+>
+> (3) Regulations under this Article shall be subject to [[^F184] negative resolution] .
+>
+> (4) In this Article and Article 27F—
+>
+> - “the party with compensation rights” means the party to the marriage who is or is likely to be entitled to PPF compensation, and “the other party” means the other party to the marriage;
+> - “prescribed” means prescribed by regulations.
+
+.
+
+**8** (1) Article 33 (variation, discharge etc. of certain orders for financial relief) is amended as follows.
+
+(2) In paragraph (2)(dd)—
+
+(a) omit “or” at the end of head (i);
+
+(b) at the end of head (ii) add “ or ”;
+
+(c) after that head insert—
+
+> (iii) Article 27F(2),
+
+;
+
+(d) in the closing words, after “pension rights” insert “ or pension compensation rights ”.
+
+(3) In paragraph (2)(f) after “a pension sharing order under Article 26A” insert “ , or a pension compensation sharing order under Article 26D, ”.
+
+(4) In paragraph (4B) after “pension sharing order” insert “ , or a pension compensation sharing order, ”.
+
+(5) In paragraph (4C) after “pension sharing order” insert “ , or a pension compensation sharing order, ”.
+
+(6) In paragraph (5) after “pension sharing order” insert “ or pension compensation sharing order ”.
+
+**9** After Article 42A (appeals relating to pension sharing orders which have taken effect) insert—
+
+> **Appeals relating to pension compensation sharing orders which have taken effect**
+>
+> **42B** (1) This Article applies where an appeal against a pension compensation sharing order is begun on or after the day on which the order takes effect.
+>
+> (2) If the Board of the Pension Protection Fund has acted to its detriment in reliance on the taking effect of the order the appeal court—
+>
+> (a) may not set aside or vary the order;
+>
+> (b) may make such further orders (including a pension compensation sharing order) as it thinks fit for the purpose of putting the parties in the position it considers appropriate.
+>
+> (3) In determining for the purposes of paragraph (2) whether the Board has acted to its detriment the appeal court may disregard any detriment which in the court's opinion is insignificant.
+>
+> (4) Article 26E (duty to stay) only applies to a pension compensation sharing order under this Article if the decision of the appeal court can itself be the subject of an appeal.
+
+.
+
+### PART 2 — AMENDMENTS OF THE MATRIMONIAL AND FAMILY PROCEEDINGS (NORTHERN IRELAND) ORDER 1989
+
+**10** The Matrimonial and Family Proceedings (Northern Ireland) Order 1989 (NI 4) is amended as follows.
+
+**11** In Article 21 (orders for financial provision and property adjustment) at the end of paragraph (b) add—
+
+> (c) if the marriage has been dissolved or annulled, make an order which would, within the meaning of that Part, be a pension compensation sharing order in relation to the marriage.
+
+.
+
+**12** In Article 22(7) (matters to which court is to have regard) for sub-paragraph (c) substitute—
+
+> (c) “PPF compensation” means compensation payable under—
+>
+> (i) Chapter 3 of Part 3 of the Pensions (Northern Ireland) Order 2005 (pension protection) or any regulations or order made under it,
+>
+> (ii) Chapter 1 of Part 3 of the Pensions (No. 2) Act (Northern Ireland) 2008 (pension compensation sharing) or any regulations or order made under it, or
+>
+> (iii) any provision corresponding to the provisions mentioned in head (i) or (ii) in force in Great Britain.
+
+.
+
+**13** (1) Article 25 (application of certain provisions of Part 3 of the Matrimonial Causes (Northern Ireland) Order 1978) is amended as follows.
+
+(2) After paragraph (1)(bc) insert—
+
+> (bca) Article 26D(3) to (10) (provisions about pension compensation orders in relation to divorce and nullity);
+>
+> (bcb) Article 26E (duty to stay pension compensation sharing orders);
+>
+> (bcc) Article 26F (apportionment of pension compensation sharing charges);
+
+.
+
+(3) After paragraph (1)(bf) insert—
+
+> (bg) Article 27F (power, by financial provision order, to attach pension compensation payments, or to require the exercise of a right of commutation of pension compensation);
+
+.
+
+(4) After paragraph (1)(l) add—
+
+> (m) Article 42B (appeals relating to pension compensation sharing orders which have taken effect).
+
+.
+
+(5) In paragraph (2) for “and (be)” substitute “ , (be) and (bg) ”.
+
+(6) In paragraph (4) at the end add “ or under paragraphs (1) and (2) of Article 27G of that Order ”.
+
+### PART 3 — AMENDMENTS OF THE CIVIL PARTNERSHIP ACT 2004
+
+**14** The Civil Partnership Act 2004 (c. 33) is amended as follows.
+
+**15** After Part 3 of Schedule 15 (pension sharing orders on or after dissolution or nullity order) insert—
+
+> **PART 3A — PENSION COMPENSATION SHARING ORDERS ON OR AFTER DISSOLUTION OR NULLITY ORDER**
+>
+> **Circumstances in which pension compensation sharing orders may be made**
+>
+> **14A** (1) The court may make a pension compensation sharing order—
+>
+> (a) on making a dissolution or nullity order, or
+>
+> (b) at any time afterwards.
+>
+> (2) In this Schedule “pension compensation sharing order” means a pension compensation sharing order under this Part.
+>
+> **Pension compensation sharing orders**
+>
+> **14B** (1) A pension compensation sharing order is an order which—
+>
+> (a) provides that one civil partner's shareable rights to PPF compensation that derive from rights under a specified pension scheme are to be subject to pension compensation sharing for the benefit of the other civil partner, and
+>
+> (b) specifies the percentage value to be transferred.
+>
+> (2) Shareable rights to PPF compensation are rights in relation to which pension compensation sharing is available under—
+>
+> (a) Chapter 1 of Part 3 of the Pensions (No. 2) Act (Northern Ireland) 2008, or
+>
+> (b) Chapter 1 of Part 3 of the Pensions Act 2008.
+>
+> (3) In sub-paragraph (1) “specified” means specified in the order.
+>
+> **Pension compensation sharing orders: apportionment of charges**
+>
+> **14C** The court may include in a pension compensation sharing order provision about the apportionment between the civil partners of any charge under—
+>
+> (a) section 95 of the Pensions (No. 2) Act (Northern Ireland) 2008 (charges in respect of pension compensation sharing costs), or
+>
+> (b) section 117 of the Pensions Act 2008.
+>
+> **Restrictions on making pension compensation sharing orders**
+>
+> **14D** (1) A pension compensation sharing order may not be made in relation to rights to PPF compensation that—
+>
+> (a) are the subject of pension attachment,
+>
+> (b) derive from rights under a pension scheme that were the subject of pension sharing between the civil partners,
+>
+> (c) are the subject of pension compensation attachment, or
+>
+> (d) are or have been the subject of pension compensation sharing between the civil partners.
+>
+> (2) For the purposes of sub-paragraph (1)(a), rights to PPF compensation “are the subject of pension attachment” if any of the following three conditions is met.
+>
+> (3) The first condition is that—
+>
+> (a) the rights derive from rights under a pension scheme in relation to which an order was made under Part 1 imposing a requirement by virtue of paragraph 20(2), and
+>
+> (b) that order, as modified under paragraph 26, remains in force.
+>
+> (4) The second condition is that—
+>
+> (a) the rights derive from rights under a pension scheme in relation to which an order was made under Part 1 imposing a requirement by virtue of paragraph 20(5), and
+>
+> (b) that order—
+>
+> (i) has been complied with, or
+>
+> (ii) has not been complied with and, as modified under paragraph 27, remains in force.
+>
+> (5) The third condition is that—
+>
+> (a) the rights derive from rights under a pension scheme in relation to which an order was made under Part 1 imposing a requirement by virtue of paragraph 21, and
+>
+> (b) that order remains in force.
+>
+> (6) For the purposes of sub-paragraph (1)(b), rights under a pension scheme “were the subject of pension sharing between the civil partners” if the rights were at any time the subject of a pension sharing order in relation to the civil partnership or a previous civil partnership between the same parties.
+>
+> (7) For the purposes of sub-paragraph (1)(c), rights to PPF compensation “are the subject of pension compensation attachment” if there is in force a requirement imposed by virtue of Part 5 relating to them.
+>
+> (8) For the purposes of sub-paragraph (1)(d), rights to PPF compensation “are or have been the subject of pension compensation sharing between the civil partners” if they are or have ever been the subject of a pension compensation sharing order in relation to the civil partnership or a previous civil partnership between the same parties.
+>
+> **When pension compensation sharing orders may take effect**
+>
+> **14E** (1) A pension compensation sharing order is not to take effect unless the dissolution or nullity order on or after which it is made has been made final.
+>
+> (2) No pension compensation sharing order may be made so as to take effect before the end of such period after the making of the order as may be prescribed by regulations made by the [[^F185]Department of Justice] .
+>
+> (3) The power to make regulations under sub-paragraph (2) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+>
+> (4) Regulations under sub-paragraph (2) are subject to [[^F186]negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954) ] .
+>
+> **Interpretation**
+>
+> **14F** In this Schedule—
+>
+> - “PPF compensation” means compensation payable under the pension compensation provisions;
+>
+> - “the pension compensation provisions” means—
+>
+>   - (a) Chapter 3 of Part 3 of the Pensions (Northern Ireland) Order 2005 (pension protection) and any regulations or order made under it,
+>   - (b) Chapter 1 of Part 3 of the Pensions (No. 2) Act (Northern Ireland) 2008 (pension compensation sharing) and any regulations or order made under it, and
+>   - (c) any provision corresponding to the provisions mentioned in paragraph (a) or (b) in force in Great Britain.
+
+.
+
+**16** (1) Part 4 of Schedule 15 (matters to which court is to have regard under Parts 1 to 3) is amended as follows.
+
+(2) In the heading of the Part for “3” substitute “ 3A ”.
+
+(3) In paragraph 15—
+
+(a) omit “or” at the end of paragraph (a)(ii);
+
+(b) for “and” at the end of paragraph (a)(iii) substitute “ or ”;
+
+(c) after that provision add—
+
+> (iv) any provision of Part 3A (pension compensation sharing orders) other than paragraph 14C (apportionment of charges), and
+
+.
+
+(4) In paragraph 16(1)—
+
+(a) omit “or” at the end of paragraph (b);
+
+(b) at the end of paragraph (c) insert “ , or ”;
+
+(c) after that paragraph add—
+
+> (d) Part 3A (pension compensation sharing orders).
+
+.
+
+(5) In paragraph 18(1)—
+
+(a) omit “or” at the end of paragraph (b);
+
+(b) at the end of paragraph (c) insert “ or ”;
+
+(c) after that paragraph add—
+
+> (d) Part 3A (pension compensation sharing orders),
+
+.
+
+**17** (1) Part 6 of Schedule 15 (pension protection fund compensation etc.) is amended as follows.
+
+(2) Omit paragraph 25(3) (definition of PPF compensation).
+
+(3) After paragraph 29 insert—
+
+> **Attachment of PPF compensation**
+>
+> **29A** (1) This paragraph applies if, having regard to any PPF compensation to which a civil partner is or is likely to be entitled, the court decides to make an order under Part 1.
+>
+> (2) To the extent to which the Part 1 order is made having regard to such compensation, it may require the Board, if at any time any payment in respect of PPF compensation becomes due to the civil partner with compensation rights, to make a payment for the benefit of the other civil partner.
+>
+> (3) The Part 1 order must express the amount of any payment required to be made by virtue of sub-paragraph (2) as a percentage of the payment which becomes due to the civil partner with compensation rights.
+>
+> (4) Any such payment by the Board—
+>
+> (a) discharges so much of its liability to the civil partner with compensation rights as corresponds to the amount of the payment, and
+>
+> (b) is to be treated for all purposes as a payment made by the civil partner with compensation rights in or towards the discharge of that civil partner's liability under the order.
+>
+> (5) If the civil partner with compensation rights has a right to commute any PPF compensation, the Part 1 order may require that civil partner to exercise it to any extent.
+>
+> (6) This paragraph applies to any payment due in consequence of commutation in pursuance of the Part 1 order as it applies to other payments in respect of PPF compensation.
+>
+> (7) The power conferred by sub-paragraph (5) may not be exercised for the purpose of commuting a benefit payable to the civil partner with compensation rights to a benefit payable to the other civil partner.
+>
+> (8) The powers conferred by sub-paragraphs (2) and (5) may not be exercised in relation to rights to PPF compensation that—
+>
+> (a) derive from rights under a pension scheme that were at any time the subject of a pension sharing order in relation to the civil partnership or a previous civil partnership between the same parties, or
+>
+> (b) are or have ever been the subject of a pension compensation sharing order in relation to the civil partnership or a previous civil partnership between the same parties.
+
+.
+
+(4) Before paragraph 30 insert—
+
+> **29B** (1) Regulations may—
+>
+> (a) make provision, in relation to any provision of paragraph 29A which authorises the court making a Part 1 order to require the Board to make a payment for the benefit of the other civil partner, as to the person to whom, and the terms on which, the payment is to be made;
+>
+> (b) make provision, in relation to payment under a mistaken belief as to the continuation in force of a provision included by virtue of paragraph 29A in a Part 1 order, about the rights or liabilities of the payer, the payee or the person to whom the payment was due;
+>
+> (c) require notices to be given in respect of changes of circumstances relevant to Part 1 orders which include provision made by virtue of paragraph 29A;
+>
+> (d) make provision for the Board to be discharged in prescribed circumstances from a requirement imposed by virtue of paragraph 29A;
+>
+> (e) make provision about calculation and verification in relation to the valuation of PPF compensation for the purposes of the court's functions in connection with the exercise of any of its powers under this Schedule.
+>
+> (2) Regulations under sub-paragraph (1)(e) may include—
+>
+> (a) provision for calculation or verification in accordance with guidance from time to time prepared by a prescribed person;
+>
+> (b) provision by reference to regulations under section 90 of the Pensions (No. 2) Act (Northern Ireland) 2008.
+
+.
+
+(5) In paragraph 32(1) of that Schedule—
+
+(a) after the definition of “the Board” insert—
+
+> “the civil partner with compensation rights” means the civil partner who is or is likely to be entitled to PPF compensation;
+
+;
+
+(b) after the definition of “occupational pension scheme” insert—
+
+> “prescribed” means prescribed by regulations;
+
+.
+
+**18** (1) Part 10 of Schedule 15 (variation, discharge etc. of certain orders for financial relief) is amended as follows.
+
+(2) In paragraph 45(1)(f)—
+
+(a) omit “or” at the end of sub-paragraph (i);
+
+(b) at the end of sub-paragraph (ii) insert “ or ”;
+
+(c) after that sub-paragraph add—
+
+> (iii) paragraph 29A(2),
+
+;
+
+(d) in the closing words after “pension rights” insert “ or pension compensation rights ”.
+
+(3) In paragraph 45(1)(h) after “a pension sharing order” insert “ , or a pension compensation sharing order, ”.
+
+(4) In the italic heading before paragraph 49 for “and pension sharing orders” substitute “ , pension sharing and pension compensation sharing orders ”.
+
+(5) In the following provisions of paragraph 50, after “pension sharing order” insert “ or pension compensation sharing order ”
+
+(a) the opening words of sub-paragraph (1);
+
+(b) sub-paragraph (1)(a)(i);
+
+(c) sub-paragraph (1)(b);
+
+(d) sub-paragraph (2);
+
+(e) sub-paragraph (3).
+
+(6) In paragraph 51(1) for “or pension sharing order” substitute “ , pension sharing order or pension compensation sharing order ”.
+
+**19** In Part 13 of Schedule 15 (miscellaneous and supplementary) after paragraph 74 insert—
+
+> **Appeals relating to pension compensation sharing orders which have taken effect**
+>
+> **74A** (1) This paragraph applies where an appeal against a pension compensation sharing order is begun on or after the day on which the order takes effect.
+>
+> (2) If the Board of the Pension Protection Fund has acted to its detriment in reliance on the taking effect of the order the appeal court—
+>
+> (a) may not set aside or vary the order;
+>
+> (b) may make such further orders (including a pension compensation sharing order) as it thinks fit for the purpose of putting the parties in the position it considers appropriate.
+>
+> (3) In determining for the purposes of sub-paragraph (2) whether the Board has acted to its detriment the appeal court may disregard any detriment which in the court's opinion is insignificant.
+>
+> (4) Paragraph 14E only applies to a pension compensation sharing order under this paragraph if the decision of the appeal court can itself be the subject of an appeal.
+
+.
+
+**20** (1) In Schedule 17 (financial relief in Northern Ireland after overseas dissolution etc. of a civil partnership), in the italic heading before paragraph 9, for “and pension sharing” substitute “ , pension sharing and pension compensation sharing ”.
+
+(2) In paragraph 9(2) of that Schedule—
+
+(a) for “or 3” substitute “ , 3 or 3A ”;
+
+(b) for “and pension sharing” substitute “ , pension sharing and pension compensation sharing ”.
+
+(3) In paragraph 10(9)(c) of that Schedule omit “Part 6 of”.
+
+(4) In paragraph 14 of that Schedule—
+
+(a) after sub-paragraph (1)(b) insert—
+
+> (ba) paragraphs 14C, 14D and 14E(2) to (4) (pension compensation sharing);
+
+;
+
+(b) in sub-paragraph (1)(d) for “32” substitute “ 29 and 30 to 32 ”;
+
+(c) after that provision insert—
+
+> (da) paragraph 29A (orders under Part 1 relating to pension compensation attachment);
+
+;
+
+(d) in sub-paragraph (1)(h) for “74” substitute “ 74A ”;
+
+(e) in that provision for “and pension-sharing appeals” substitute “ pension-sharing appeals and pension compensation-sharing appeals ”;
+
+(f) in sub-paragraph (2) after “Sub-paragraph (1)(d)” insert “ and (da) ”;
+
+(g) in sub-paragraph (4) at the end add “ or under paragraphs 29B to 31 of that Schedule (supplementary provision about orders relating to pension compensation) ”.
+
+## SCHEDULE 6 — AMENDMENTS OF SCHEDULE 6 TO THE 2005 ORDER
+
+*Section 100.*
+
+**1** Schedule 6 to the 2005 Order (pension compensation provisions) is amended as follows.
+
+**2** In paragraph 3(6), at the end, add “ to the scheme ”.
+
+**3** In paragraph 5(5), at the end, add “ to the scheme ”.
+
+**4** In paragraph 11(8), after paragraph (b) insert—
+
+> (ba) paragraph 25E (terminal illness lump sum),
+
+.
+
+**5** In paragraph 13, after sub-paragraph (3) insert—
+
+> (3A) For the purposes of this paragraph, a person's entitlement under paragraph 11 is to be determined disregarding paragraph 25E(1)(b) (successful applicant for terminal illness lump sum loses entitlement to periodic compensation).
+
+.
+
+**6** In paragraph 14(9), after paragraph (a) insert—
+
+> (aa) paragraph 25E (terminal illness lump sum),
+
+.
+
+**7** In paragraph 15(6), after paragraph (a) insert—
+
+> (aa) paragraph 25E (terminal illness lump sum),
+
+.
+
+**8** In paragraph 18, after sub-paragraph (3) insert—
+
+> (3A) For the purposes of this paragraph, a person's entitlement under paragraph 15 is to be determined disregarding paragraph 25E(1)(b) (successful applicant for terminal illness lump sum loses entitlement to periodic compensation).
+
+.
+
+**9** In paragraph 19(8), after “This paragraph is subject to—” insert—
+
+> (za) paragraph 25E (terminal illness lump sum),
+
+.
+
+**[^F187]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F187]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** In paragraph 25(3), after “before that person attains normal pension age” insert “ (or, in a case to which paragraph 21 applies, normal benefit age) ”.
+
+**13** After paragraph 25 insert—
+
+> **Deferral of compensation**
+>
+> **25A** (1) Regulations may prescribe circumstances in which, and conditions subject to which, a person may elect to defer entitlement to any relevant compensation until some time after attaining normal pension age (or, in a case to which paragraph 21 applies, normal benefit age).
+>
+> (2) For this purpose “any relevant compensation” means any compensation to which a person is or will be entitled under the pension compensation provisions, except for compensation payable in accordance with paragraph 3 (pensions in payment at assessment date).
+>
+> (3) The Board must determine the amount of the actuarial increase to be applied to compensation to which a person is entitled by virtue of this paragraph.
+>
+> (4) Where, by virtue of this paragraph, periodic compensation is payable to a person under paragraph 11 or 15 after that person attains normal pension age (or, in a case to which paragraph 21 applies, normal benefit age)—
+>
+> (a) paragraph 12(2) applies as if the reference to the date on which the active member attains normal pension age were a reference to the date on which the compensation is payable by virtue of this paragraph, and
+>
+> (b) paragraph 17(2)(b) applies as if the reference to the date on which the deferred member attains normal pension age were a reference to the date on which the compensation is payable by virtue of this paragraph.
+
+.
+
+**14** After paragraph 25A (inserted by paragraph 13) insert—
+
+> **Terminal illness lump sum: eligibility**
+>
+> **25B** (1) This paragraph applies to a person in relation to whom all of the following conditions are met—
+>
+> (a) the person is terminally ill;
+>
+> (b) if the person lived to the relevant age, the person would become entitled on attaining that age to relevant compensation in relation to the scheme;
+>
+> (c) the person has not yet become entitled to any compensation under the pension compensation provisions in relation to the scheme;
+>
+> (d) the whole or any part of the person's lifetime allowance is available.
+>
+> (2) A person to whom this paragraph applies may make an application to the Board to commute the future entitlement mentioned in sub-paragraph (1)(b) for a lump sum (“a terminal illness lump sum”) payable on the granting of the application.
+>
+> (3) For the purposes of this Chapter a person is “terminally ill” at any time if at that time the person suffers from a progressive disease and the person's death in consequence of that disease can reasonably be expected within six months.
+>
+> (4) In this paragraph—
+>
+> - “lifetime allowance”, in relation to a person, has the same meaning as in Part 4 of the Finance Act 2004 (c. 12) (pension schemes etc.) (see section 218 of that Act);
+>
+> - “relevant age”, in relation to a person, means—
+>
+>   - (a) in relation to compensation entitlement to which has been accelerated or deferred under regulations under paragraph 25 or (as the case may be) 25A, the age at which the person becomes entitled to the compensation in accordance with the regulations;
+>   - (b) in relation to compensation entitlement to which has not been so accelerated or deferred, normal pension age (or, in a case to which paragraph 21 applies, normal benefit age);
+>
+> - “relevant compensation” means—
+>
+>   - (a) periodic compensation under paragraph 11 or 15, or
+>   - (b) lump sum compensation under paragraph 14 or 19.
+>
+> **Terminal illness lump sum: application**
+>
+> **25C** An application for a terminal illness lump sum—
+>
+> (a) must be made in writing, either on a form approved by the Board for the purposes of this paragraph or in such other manner as the Board may accept as sufficient in the circumstances of the case;
+>
+> (b) must be accompanied by such information as the Board may require for the purpose of determining the application.
+>
+> **Terminal illness lump sum: determination of application**
+>
+> **25D** (1) The Board must determine an application for a terminal illness lump sum in accordance with this paragraph.
+>
+> (2) The Board must—
+>
+> (a) if satisfied that the conditions in paragraph 25B(1) are met in relation to the applicant, grant the application;
+>
+> (b) in any other case (subject to sub-paragraph (3)), reject the application.
+>
+> (3) The Board may hold over the application for determination at a later date if it is satisfied that—
+>
+> (a) although the condition in paragraph 25B(1)(a) is not met in relation to the applicant, the applicant suffers from a progressive disease and may become terminally ill within six months, and
+>
+> (b) the conditions in paragraph 25B(1)(b) to (d) are met in relation to the applicant.
+>
+> **Terminal illness lump sum: effect of successful application**
+>
+> **25E** (1) If the Board grants an application for a terminal illness lump sum, the applicant—
+>
+> (a) becomes entitled to a terminal illness lump sum calculated in accordance with this paragraph, and
+>
+> (b) loses the entitlement the applicant otherwise would have had on attaining the relevant age to relevant compensation in relation to the scheme.
+>
+> (2) The amount of the terminal illness lump sum is 2 times the sum of—
+>
+> (a) the periodic compensation annual amount, and
+>
+> (b) the lump sum compensation annual amount.
+>
+> (3) In sub-paragraph (2) “the periodic compensation annual amount” means the annual amount to which the applicant would have been entitled under paragraph 11 or 15 in relation to the scheme in the year following the granting of the application, if the applicant had attained the relevant age on the granting of the application.
+>
+> (4) In sub-paragraph (2) “the lump sum compensation annual amount” means the annualised value of the lump sum to which the applicant would have been entitled under paragraph 14 or 19 in relation to the scheme on the granting of the application, if the applicant had attained the relevant age on the granting of the application.
+>
+> (5) In sub-paragraph (4) “the annualised value” of a lump sum means the annualised actuarially equivalent amount of that sum, determined in accordance with actuarial factors published by the Board.
+>
+> (6) In this paragraph “relevant compensation” and “the relevant age” have the same meanings as in paragraph 25B.
+>
+> **Terminal illness lump sum: information**
+>
+> **25F** (1) Relevant information held by the Department or the Secretary of State about an individual may be disclosed to the Board for use for a purpose relating to—
+>
+> (a) the Board's functions under paragraphs 25B to 25E;
+>
+> (b) the compliance of the trustees or managers of a pension scheme with Article 122 (limit on amount of scheme benefits payable during an assessment period).
+>
+> (2) In sub-paragraph (1) “relevant information” means—
+>
+> (a) information held for the purposes of any function of the Department relating to social security; or
+>
+> (b) information held for the purposes of any function of the Secretary of State relating to any scheme made under section 286 of the Pensions Act 2004 (financial assistance scheme).
+
+.
+
+**15** In paragraph 33 make the existing provision sub-paragraph (1) and at the end add—
+
+> (2) Where the scheme is a variable-rate scheme, regulations under this paragraph may have the effect that the amount of periodic compensation payable to a person is, from a specified time, to be different from the amount that would otherwise be payable under this Schedule.
+>
+> (3) A “variable-rate scheme” is a scheme under which the annual rate of pension to which a person is entitled would have increased (otherwise than by way of revaluation) or decreased at any time after the assessment date, had the scheme continued in existence until that time (and had the scheme rules remained unchanged).
+>
+> (4) Where the scheme is a fixed-term scheme, regulations under this paragraph may have the effect that no periodic compensation is to be payable to a person from a specified time.
+>
+> (5) A “fixed-term scheme” is a scheme under which a person's entitlement to benefits would have ceased at any time after the assessment date, had the scheme continued in existence until that time (and had the scheme rules remained unchanged).
+>
+> (6) In this paragraph “a specified time” means a time determined in accordance with regulations under this paragraph.
+
+.
+
+**16** In paragraph 34(1) after “ill health” insert “ or otherwise ”.
+
+**17** For paragraph 35(2)(a) substitute—
+
+> (a) in the case of a scheme to which sub-paragraph (3) applies, any recent rule changes, and
+
+.
+
+**18** For paragraph 35(3) substitute—
+
+> (3) This sub-paragraph applies to a scheme if, in calculating the protected liabilities in relation to the scheme at the relevant time, the effect of taking into account—
+>
+> (a) any recent rule changes, and
+>
+> (b) any recent discretionary increases,
+>
+> is that those liabilities are greater than they otherwise would be.
+
+.
+
+## SCHEDULE 7 — ADDITIONAL PENSION: CONSEQUENTIAL AMENDMENTS
+
+*Section 102.*
+
+### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+
+**1** The Contributions and Benefits Act is amended as follows.
+
+**2** In section 22 (earnings factors), after subsection (8) add—
+
+> (9) References in this Act or any other statutory provision to earnings factors derived from so much of a person's earnings as do not exceed the upper accrual point or the upper earnings limit are to be read, in relation to earners paid otherwise than weekly, as references to earnings factors derived from so much of those earnings as do not exceed the prescribed equivalent.
+
+.
+
+**3** (1) Section 23 is amended as follows.
+
+(2) In subsection (3)(a), for “subsection” substitute “ subsections (3A) and ”.
+
+(3) After subsection (3) insert—
+
+> (3A) For the purposes specified in section 22(2)(b) (additional pension), subsection (3)(a) has effect in relation to 2009–10 and subsequent tax years as if the reference to the upper earnings limit were to the upper accrual point.
+
+.
+
+**4** (1) Section 44A (deemed earnings factors) is amended as follows.
+
+(2) In subsection (1)(a), for “the upper earnings limit” substitute “ the applicable limit ”.
+
+(3) After subsection (5) insert—
+
+> (5A) In subsection (1)(a) “the applicable limit” has the same meaning as in section 44.
+
+.
+
+**5** In section 44B(2)(a) (deemed earnings factors: 2010–11 onwards), for “the applicable limit” substitute “ the upper accrual point ”.
+
+**6** (1) Paragraph 1 of Schedule 1 (Class 1 contributions where earner employed in more than one employment) is amended as follows.
+
+(2) In sub-paragraph (3) (as it has effect without the amendments made by paragraph 44(2) of Schedule 4 to the Pensions Act (Northern Ireland) 2008 (c. 1))—
+
+(a) in paragraph (b), for “the current upper earnings limit” (in both places) substitute “ the upper accrual point ”,
+
+(b) after that paragraph insert—
+
+> (ba) if paragraph (b) applies, the amount obtained by applying the main primary percentage referred to in paragraph (d) to such part of the aggregated earnings attributable to COMPS service as, when added to the APPS earnings (if any), exceeds the upper accrual point and does not exceed the current upper earnings limit,
+
+,
+
+(c) in paragraph (c), for “the current upper earnings limit” (in both places) substitute “ the upper accrual point ”, and
+
+(d) after that paragraph insert—
+
+> (ca) if paragraph (c) applies, the amount obtained by applying the main primary percentage referred to in paragraph (d) to such part of the aggregated earnings attributable to COSRS service as, when added to the APPS earnings or the part attributable to COMPS service (or both), exceeds the upper accrual point and does not exceed the current upper earnings limit,
+
+.
+
+(3) In sub-paragraph (3) (as amended by sub-paragraph (2) and by paragraph 44(2) of Schedule 4 to the Pensions Act (Northern Ireland) 2008 (c. 1))—
+
+(a) omit paragraph (ba),
+
+(b) in paragraph (c)—
+
+(i) omit “if some of the aggregated earnings are attributable to COSRS service,”, and
+
+(ii) for “the current upper earnings limit” substitute “ the upper accrual point ”, and
+
+(c) in paragraph (ca), omit—
+
+(i) “if paragraph (c) applies,”, and
+
+(ii) “, when added to the APPS earnings or the part attributable to COMPS service (or both),”.
+
+(4) After sub-paragraph (10) add—
+
+> (11) In relation to such earnings, any reference in this paragraph to the upper accrual point is to be read as a reference to the prescribed equivalent (see section 121(6A)).
+
+.
+
+(5) The amendments made by sub-paragraphs (2) and (4) have effect in relation to 2009–10 and subsequent tax years.
+
+### The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+
+**7** The Pension Schemes Act is amended as follows.
+
+**8** (1) Section 4 (meaning of “contracted-out employment” etc.) is amended as follows.
+
+(2) In subsection (2), in the definition of “minimum payment”, for “the current upper earnings limit” substitute “ the applicable limit ”.
+
+(3) After that subsection insert—
+
+> (2A) In subsection (2) “the applicable limit” means—
+>
+> (a) in relation to a tax year before 2009–10, the upper earnings limit;
+>
+> (b) in relation to 2009–10 or any subsequent tax year, the upper accrual point.
+
+.
+
+**9** In section 8B(7) (contracted-out pension scheme: reference scheme), in the definition of “the applicable limit”—
+
+(a) for “the flat rate introduction year” (in both places) substitute “ 2009–10 ”, and
+
+(b) in paragraph (b), after “point” insert “ multiplied by 53 ”.
+
+**10** (1) Section 37 (reduced rates of Class 1 contributions for members of salary related contracted-out schemes) is amended as follows.
+
+(2) In subsection (1) for “the applicable limit for that week” substitute “ the upper accrual point ”.
+
+(3) Omit subsection (1ZA).
+
+(4) The amendments made by this paragraph have effect in relation to 2009–10 and subsequent tax years.
+
+**11** (1) In section 38A(1) (reduced rates of Class 1 contributions, and rebates, for members of money purchase contracted-out schemes), for “the current upper earnings limit for that week” substitute “ the upper accrual point ”.
+
+(2) The amendment made by sub-paragraph (1) has effect in relation to 2009–10 and subsequent tax years.
+
+**12** (1) In section 41(1) (personal pensions: amount of minimum contributions), for “the current upper earnings limit for that week” substitute “ the upper accrual point ”.
+
+(2) The amendment made by sub-paragraph (1) has effect in relation to 2009–10 and subsequent tax years.
+
+**13** (1) Paragraph 2 of Schedule 3 (priority in bankruptcy etc.: employee's contributions to occupational pension scheme) is amended as follows.
+
+(2) In sub-paragraph (5), in paragraph (b) of the definition of “reckonable earnings”, for “the applicable limit” substitute “ the upper accrual point ”.
+
+(3) Omit sub-paragraph (6).
+
+(4) The amendments made by this paragraph have effect in relation to payments made in a tax week falling in 2009–10 or any subsequent tax year.
+
+## SCHEDULE 8 — CONTRIBUTION NOTICES AND FINANCIAL SUPPORT DIRECTIONS UNDER 2005 ORDER
+
+*Section 103.*
+
+### Introduction
+
+**1** The 2005 Order is amended as follows.
+
+### Contributions notices: material detriment test
+
+**2** (1) In Article 34(5)(a) (main purpose or one of main purposes of act or failure to prevent recovery of employer debt under Article 75 of the 1995 Order etc.), after “is of the opinion that” insert “ the material detriment test is met in relation to the act or failure (see Article 34A) or that ”.
+
+(2) After Article 34 insert—
+
+> **Article 34 contribution notice: meaning of “material detriment test”**
+>
+> **34A** (1) For the purposes of Article 34 the material detriment test is met in relation to an act or failure if the Regulator is of the opinion that the act or failure has detrimentally affected in a material way the likelihood of accrued scheme benefits being received (whether the benefits are to be received as benefits under the scheme or otherwise).
+>
+> (2) In this Article any reference to accrued scheme benefits being received is a reference to benefits the rights to which have accrued by the relevant time being received by, or in respect of, the persons who were members of the scheme before that time.
+>
+> (3) In this Article “the relevant time” means—
+>
+> (a) in the case of an act, the time of the act, or
+>
+> (b) in the case of a failure—
+>
+> (i) the time when the failure occurred, or
+>
+> (ii) where the failure continued for a period of time, the time which the Regulator determines and which falls within that period;
+>
+> and, in the case of acts or failures to act forming part of a series, any reference in this paragraph to an act or failure is a reference to the last of the acts or failures in that series.
+>
+> (4) In deciding for the purposes of Article 34 whether the material detriment test is met in relation to an act or failure, the Regulator must have regard to such matters as it considers relevant, including (where relevant)—
+>
+> (a) the value of the assets or liabilities of the scheme or of any relevant transferee scheme,
+>
+> (b) the effect of the act or failure on the value of those assets or liabilities,
+>
+> (c) the scheme obligations of any person,
+>
+> (d) the effect of the act or failure on any of those obligations (including whether the act or failure causes the country or territory in which any of those obligations would fall to be enforced to be different),
+>
+> (e) the extent to which any person is likely to be able to discharge any scheme obligation in any circumstances (including in the event of insolvency or bankruptcy),
+>
+> (f) the extent to which the act or failure has affected, or might affect, the extent to which any person is likely to be able to do as mentioned in sub-paragraph (e), and
+>
+> (g) such other matters as may be prescribed.
+>
+> (5) In paragraph (4) “scheme obligation” means a liability or other obligation (including one that is contingent or otherwise might fall due) to make a payment, or transfer an asset, to—
+>
+> (a) the scheme, or
+>
+> (b) any relevant transferee scheme in respect of any persons who were members of the scheme before the relevant time.
+>
+> (6) In this Article—
+>
+> (a) “relevant transferee scheme” means any work-based pension scheme to which any accrued rights to benefits under the scheme are transferred;
+>
+> (b) any reference to the assets or liabilities of any relevant transferee scheme is a reference to those assets or liabilities so far as relating to persons who were members of the scheme before the relevant time.
+>
+> (7) For the purposes of paragraph (6)(a) the reference to the transfer of accrued rights of members of a pension scheme to another pension scheme includes a reference to the extinguishing of those accrued rights in consequence of the obligation to make a payment, or transfer an asset, to that other scheme.
+>
+> (8) In this Article—
+>
+> (a) “work-based pension scheme” has the meaning given by Article 4(3);
+>
+> (b) any reference to rights which have accrued is to be read in accordance with Article 67A(6) and (7) of the 1995 Order (reading any reference in those paragraphs to a subsisting right as a reference to a right which has accrued).
+>
+> (9) In deciding for the purposes of this Article whether an act or failure has detrimentally affected in a material way the likelihood of accrued scheme benefits being received, the following statutory provisions are to be disregarded—
+>
+> (a) Chapter 3 of Part 3 (the Board of the Pension Protection Fund: pension protection), and
+>
+> (b) section 286 of the Pensions Act 2004 (the financial assistance scheme for members of certain pension schemes).
+>
+> (10) Regulations may amend any provision of paragraphs (4) to (8).
+>
+> **Article 34 contribution notice issued by reference to material detriment test: defence**
+>
+> **34B** (1) This Article applies where—
+>
+> (a) a warning notice is given to any person (“P”) in respect of a contribution notice under Article 34, and
+>
+> (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the material detriment test is met in relation to an act or deliberate failure to act to which P was a party.
+>
+> (2) If the Regulator is satisfied that P has shown that—
+>
+> (a) conditions A and C are met, and
+>
+> (b) where applicable, condition B is met,
+>
+> the Regulator must not issue the contribution notice by reference to its being of the opinion mentioned in paragraph (1)(b).
+>
+> (3) Condition A is that, before becoming a party to the act or failure, P gave due consideration to the extent to which the act or failure might detrimentally affect in a material way the likelihood of accrued scheme benefits being received.
+>
+> (4) Condition B is that, in any case where as a result of that consideration P considered that the act or failure might have such an effect, P took all reasonable steps to eliminate or minimise the potential detrimental effects that the act or failure might have on the likelihood of accrued scheme benefits being received.
+>
+> (5) Condition C is that, having regard to all relevant circumstances prevailing at the relevant time, it was reasonable for P to conclude that the act or failure would not detrimentally affect in a material way the likelihood of accrued scheme benefits being received.
+>
+> (6) P is to be regarded as giving the consideration mentioned in condition A only if P has made the enquiries, and done the other acts, that a reasonably diligent person would have made or done in the circumstances.
+>
+> (7) For the purposes of condition C—
+>
+> (a) “the relevant time” means the time at which the act occurred or the failure to act first occurred;
+>
+> (b) the reference to the circumstances mentioned in that condition is a reference to those circumstances of which P was aware, or ought reasonably to have been aware, at that time (including acts or failures to act which have occurred before that time and P's expectation at that time of other acts or failures to act occurring).
+>
+> (8) In the case of acts or failures to act forming part of a series, P is to be regarded as having shown the matters mentioned in paragraph (2) if P shows in the case of each of the acts or failures in the series that—
+>
+> (a) conditions A and C are met, and (where applicable) condition B is met, in relation to the act or failure, or
+>
+> (b) the act or failure was one of a number of acts or failures (a “group” of acts or failures) selected by P in relation to which the following matters are shown.
+>
+> (9) The matters to be shown are that—
+>
+> (a) before becoming a party to the first of the acts or failures in the group, condition A is met in relation to the effect of the acts or failures in the group taken together,
+>
+> (b) condition B is (where applicable) met in relation to that effect, and
+>
+> (c) condition C is then met in relation to each of the acts or failures in the group (determined at the time at which each act or failure concerned occurred or first occurred).
+>
+> (10) If at any time P considers that condition C will not be met in relation to any particular act or failure in the group—
+>
+> (a) the previous acts or failures in the group are to be regarded as a separate group for the purposes of paragraph (8), and
+>
+> (b) P may then select another group consisting of the particular act or failure concerned, and any subsequent act or failure, in relation to which P shows the matters mentioned in paragraph (9).
+>
+> Nothing in sub-paragraph (b) is to be read as preventing P from showing the matters mentioned in paragraph (8)(a).
+>
+> (11) If—
+>
+> (a) P is unable to show in the case of each of the acts or failures in the series that the matters set out in paragraph (8)(a) or (b) are met, but
+>
+> (b) does show in the case of some of them that those matters are met,
+>
+> the acts or failures within sub-paragraph (b) are not to count for the purposes of Article 34A as acts or failures to act in the series.
+>
+> (12) In this Article—
+>
+> (a) “a warning notice” means a notice given as mentioned in Article 91(2)(a);
+>
+> (b) any reference to an act or failure to which a person is a party has the same meaning as in Article 34(6)(a);
+>
+> (c) any reference to the accrued scheme benefits being received has the same meaning as in Article 34A;
+>
+> and paragraph (9) of Article 34A applies for the purposes of conditions A to C as it applies for the purposes of that Article.
+>
+> (13) Regulations may amend this Article.
+
+.
+
+**3** In Article 85(2) (the matters in relation to which the Pensions Regulator must issue codes of practice), after sub-paragraph (a) insert—
+
+> (aa) the circumstances in which the Regulator expects to issue contribution notices under Article 34 as a result of being of the opinion that the material detriment test is met in relation to an act or failure;
+
+.
+
+**4** In Article 91 (standard procedure), after paragraph (1) insert—
+
+> (1A) In any case where—
+>
+> (a) a warning notice is given to any person in respect of a contribution notice under Article 34, and
+>
+> (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the material detriment test is met in relation to an act or failure,
+>
+> the standard procedure must provide for the following matters.
+>
+> (1B) The matters are—
+>
+> (a) a requirement for the warning notice to explain the general effect of Article 34B, and
+>
+> (b) a requirement for the person to be given an opportunity before the contribution notice is issued to show the matters mentioned in paragraph (2) of that Article.
+
+.
+
+**5** In Article 288(3) (orders and regulations under Order that are subject to confirmatory procedure), after sub-paragraph (a) insert—
+
+> (aa) regulations under Article 34A(10) or 34B(13) (Article 34 contribution notices: “the material detriment test”);
+
+.
+
+### Contribution notices: acting or failing to act otherwise than in good faith
+
+**6** In Article 34(5) (acts or failures to act in relation to which Pensions Regulator may issue contribution notices), in sub-paragraph (a)(ii), omit “otherwise than in good faith,”.
+
+### Whether reasonable for Pensions Regulator to issue contribution notice
+
+**7** (1) Article 34 (contribution notices where avoidance of employer debt) is amended as follows.
+
+(2) In paragraph (3) (conditions which must be met before Pensions Regulator can issue contribution notice), for sub-paragraph (d) substitute—
+
+> (d) the Regulator is of the opinion that it is reasonable to impose liability on the person to pay the sum specified in the notice, having regard to—
+>
+> (i) the extent to which, in all the circumstances of the case, it was reasonable for the person to act, or fail to act, in the way that the person did, and
+>
+> (ii) such other matters as the Regulator considers relevant, including (where relevant) the matters falling within paragraph (7).
+
+.
+
+(3) In paragraph (7) (list of relevant matters for purposes of paragraph (3)(d))—
+
+(a) for the words from the beginning to “the following matters—” substitute “ The matters within this paragraph are— ”; and
+
+(b) after sub-paragraph (e) insert—
+
+> (ea) the value of any benefits which directly or indirectly the person receives, or is entitled to receive, from the employer or under the scheme;
+>
+> (eb) the likelihood of relevant creditors being paid and the extent to which they are likely to be paid;
+
+.
+
+(4) After that paragraph insert—
+
+> (7A) In paragraph (7)(eb) “relevant creditors” means—
+>
+> (a) creditors of the employer, and
+>
+> (b) creditors of any other person who has incurred a liability or other obligation (including one that is contingent or otherwise might fall due) to make a payment, or transfer an asset, to the scheme.
+
+.
+
+### Contribution notices: series of acts or failures to act
+
+**8** (1) In Article 34 (contribution notices where avoidance of employer debt), at the end add—
+
+> (12) Paragraph (13) applies if the Regulator is of the opinion that—
+>
+> (a) a person was a party to a series of acts or failures to act,
+>
+> (b) each of the acts or failures in the series falls within paragraph (5)(b) and (c), and
+>
+> (c) the material detriment test is met in relation to the series, or the main purpose or one of the main purposes of the series was as mentioned in paragraph (5)(a)(i) or (ii).
+>
+> (13) The series of acts or failures to act is to be regarded as an act or failure to act falling within paragraph (5) (and, accordingly, the reference in paragraph (6)(b)(i) to the act or failure to act falling with paragraph (5) is to the first of the acts or failures to act in the series).
+
+.
+
+(2) In Article 35 (the sum specified in an Article 34 contribution notice)—
+
+(a) in paragraph (4), after “means” insert “ (subject to paragraph (4A)) ”; and
+
+(b) after paragraph (4) insert—
+
+> (4A) In the case of a series of acts or failures to act, “the relevant time” is determined by reference to whichever of the acts or failures in the series is, in the Regulator's opinion, most appropriate.
+
+.
+
+### Contribution notices and financial support directions: bulk transfers
+
+**9** After Article 35 (the sum specified in an Article 34 contribution notice) insert—
+
+> **Article 34 contribution notice: transfer of members of the scheme**
+>
+> **35A** (1) This Article applies where—
+>
+> (a) the Regulator is of the opinion that in relation to a scheme (“the initial scheme”) in relation to which Article 34 applies—
+>
+> (i) an act or failure to act falling within paragraph (5) of that Article has occurred (or first occurred) at any time, and
+>
+> (ii) the other conditions in that Article for issuing a contribution notice are met in relation to the initial scheme (or, but for any transfer falling within sub-paragraph (b), would be met), and
+>
+> (b) the accrued rights of at least two persons who were members of the initial scheme are transferred at that or any subsequent time to one or more work-based pension schemes (whether by virtue of the act or otherwise).
+>
+> (2) The Regulator may issue a contribution notice under Article 34 in relation to any transferee scheme (and, accordingly, any reference in Article 36 or 37 to the scheme is to the transferee scheme).
+>
+> (3) In the case of any contribution notice issued by virtue of paragraph (2) to any transferee scheme which is not within paragraph (5)(a) or (b), Article 35 has effect as if any reference in that Article to the scheme were a reference to whichever of—
+>
+> (a) the initial scheme, and
+>
+> (b) the transferee scheme,
+>
+> the Regulator determines to be more appropriate in the circumstances.
+>
+> (4) In any case where Article 35 has effect in relation to the transferee scheme by virtue of paragraph (3), any reference in that Article to a debt under Article 75 of the 1995 Order is a reference to so much of that debt as, in the Regulator's opinion, is attributable to those members of the transferee scheme who were members of the initial scheme.
+>
+> (5) In the case of any contribution notice issued by virtue of paragraph (2) to any transferee scheme which is—
+>
+> (a) a scheme to which Article 75 of the 1995 Order does not apply, or
+>
+> (b) a scheme to which that Article does apply in a case where the liabilities of the scheme that would be taken into account for the purposes of that Article do not relate to the members of the initial scheme,
+>
+> the sum specified by the Regulator in the notice is determined in accordance with regulations (and not in accordance with Article 35).
+>
+> (6) The Regulator may also issue a direction to the trustees or managers of any transferee scheme requiring them to take specified steps to secure that the sum payable under the notice is applied for the benefit of the members of the transferee scheme who were members of the initial scheme.
+>
+> (7) If the trustees or managers fail to comply with a direction issued to them under paragraph (6), Article 10 of the 1995 Order (civil penalties) applies to any trustee or manager who has failed to take all reasonable steps to secure compliance.
+>
+> **Article 35A: supplemental**
+>
+> **35B** (1) In Article 35A a “transferee scheme”, in relation to any time, means any work-based pension scheme—
+>
+> (a) to which the accrued rights of at least two persons who were members of the initial scheme have been transferred, and
+>
+> (b) of which any of those persons are members at that time.
+>
+> (2) For the purposes of Article 35A(1) and paragraph (1) it does not matter whether any rights are transferred to a work-based pension scheme directly from the initial scheme or following one or more other transfers to other work-based pension schemes.
+>
+> (3) For the purposes of Article 35A and this Article references to the transfer of accrued rights of members of a pension scheme to another pension scheme include references to the extinguishing of those accrued rights in consequence of the obligation to make a payment, or transfer an asset, to that other scheme.
+>
+> (4) In Article 35A and this Article—
+>
+> (a) “work-based pension scheme” has the meaning given by Article 4(3);
+>
+> (b) any reference to rights which have accrued is to be read in accordance with Article 67A(6) and (7) of the 1995 Order (reading any reference in those paragraphs to a subsisting right as a reference to a right which has accrued).
+>
+> (5) Article 35A applies even if the initial scheme—
+>
+> (a) is wound up as a result of any transfer falling within paragraph (1)(b) of that Article, or
+>
+> (b) otherwise ceases to exist at the time of the transfer or at any subsequent time.
+>
+> (6) Accordingly, in any such case, in paragraph (1) of that Article—
+>
+> (a) the reference to a scheme to which Article 34 applies is a reference to a scheme which was such a scheme before the transfer;
+>
+> (b) the reference to any conditions in Article 34 being met is a reference to any conditions in that Article that, but for the transfer, would have been met in relation to the scheme.
+>
+> (7) Nothing in Article 35A or this Article is to be read as preventing the Regulator from issuing a contribution notice in relation to the initial scheme.
+>
+> (8) Regulations may make provision applying, with or without modifications, any provision made by or under Article 35A or this Article in relation to any scheme or other arrangement in any case where the accrued rights of persons who were members of the initial scheme are transferred or extinguished directly or indirectly in consequence of or otherwise in connection with—
+>
+> (a) the making of any payment at any time to or for the benefit of the scheme or other arrangement,
+>
+> (b) the transfer of any asset at any time to or for the benefit of the scheme or other arrangement,
+>
+> (c) the discharge (wholly or partly) at any time of any liability incurred by or on behalf of the scheme or other arrangement, or
+>
+> (d) the incurring at any time of any obligation to do any act falling within sub-paragraphs (a) to (c).
+>
+> (9) Any reference in paragraph (8)(a) to (d) to the doing of an act of any description at any time in relation to the scheme or other arrangement includes a reference to the doing of an act of that description at any previous time in relation to any other scheme or other arrangement.
+>
+> (10) Regulations under paragraph (8) may—
+>
+> (a) make provision having effect in relation to any case where rights are transferred or extinguished on or after the date on which the Department publishes a statement of the intention to make the regulations; and
+>
+> (b) without prejudice to Article 287(3), make consequential provision applying with modifications any provision of this Order which relates to contribution notices under Article 34.
+
+.
+
+**10** After Article 39 (financial support directions) insert—
+
+> **Financial support directions: transfer of members of the scheme**
+>
+> **39A** (1) This Article applies where—
+>
+> (a) the Regulator is of the opinion by reference to any time that the conditions in Article 39 for issuing a financial support direction are met in relation to a scheme (“the initial scheme”) in relation to which that Article applies (or, but for any transfer falling within sub-paragraph (b), would be met), and
+>
+> (b) the accrued rights of at least two persons who were members of the initial scheme are transferred at any subsequent time to one or more work-based pension schemes.
+>
+> (2) The Regulator may issue a financial support direction under that Article in relation to any transferee scheme (and, accordingly, any reference in Article 41 or any of Articles 43 to 46 to the scheme is to the transferee scheme).
+>
+> (3) The Regulator may also issue a direction to the trustees or managers of any transferee scheme requiring them to take specified steps to secure that the financial support is put in place for the benefit of the members of the transferee scheme who were members of the initial scheme.
+>
+> (4) If the trustees or managers fail to comply with a direction issued to them under paragraph (3), Article 10 of the 1995 Order (civil penalties) applies to any trustee or manager who has failed to take all reasonable steps to secure compliance.
+>
+> **Article 39A: supplemental**
+>
+> **39B** (1) In Article 39A a “transferee scheme”, in relation to any time, means any work-based pension scheme—
+>
+> (a) to which the accrued rights of at least two persons who were members of the initial scheme have been transferred, and
+>
+> (b) of which any of those persons are members at that time.
+>
+> (2) For the purposes of Article 39A(1) and paragraph (1) it does not matter whether any rights are transferred to a work-based pension scheme directly from the initial scheme or following one or more other transfers to other work-based pension schemes.
+>
+> (3) For the purposes of Article 39A and this Article references to the transfer of accrued rights of members of a pension scheme to another pension scheme include references to the extinguishing of those accrued rights in consequence of the obligation to make a payment, or transfer an asset, to that other scheme.
+>
+> (4) In Article 39A and this Article—
+>
+> (a) “work-based pension scheme” has the meaning given by Article 4(3);
+>
+> (b) any reference to rights which have accrued is to be read in accordance with Article 67A(6) and (7) of the 1995 Order (reading any reference in those paragraphs to a subsisting right as a reference to a right which has accrued).
+>
+> (5) Article 39A applies even if the initial scheme—
+>
+> (a) is wound up as a result of any transfer falling within paragraph (1)(b) of that Article, or
+>
+> (b) otherwise ceases to exist at the time of the transfer or at any subsequent time.
+>
+> (6) Accordingly, in any such case, in paragraph (1) of that Article—
+>
+> (a) the reference to a scheme to which Article 39 applies is a reference to a scheme which was such a scheme before the transfer;
+>
+> (b) the reference to any conditions in Article 39 being met is a reference to any conditions in that Article that, but for the transfer, would have been met in relation to the scheme.
+>
+> (7) Nothing in Article 39A or this Article is to be read as preventing the Regulator from issuing a financial support direction in relation to the initial scheme.
+>
+> (8) Regulations may make provision applying, with or without modifications, any provision made by Article 39A or this Article in relation to any scheme or other arrangement in any case where the accrued rights of persons who were members of the initial scheme are transferred or extinguished directly or indirectly in consequence of or otherwise in connection with—
+>
+> (a) the making of any payment at any time to or for the benefit of the scheme or other arrangement,
+>
+> (b) the transfer of any asset at any time to or for the benefit of the scheme or other arrangement,
+>
+> (c) the discharge (wholly or partly) at any time of any liability incurred by or on behalf of the scheme or other arrangement, or
+>
+> (d) the incurring at any time of any obligation to do any act falling within sub-paragraphs (a) to (c).
+>
+> (9) Any reference in paragraph (8)(a) to (d) to the doing of an act of any description at any time in relation to the scheme or other arrangement includes a reference to the doing of an act of that description at any previous time in relation to any other scheme or other arrangement.
+>
+> (10) Regulations under paragraph (8) may—
+>
+> (a) make provision having effect in relation to any case where rights are transferred or extinguished on or after the date on which the Department publishes a statement of the intention to make the regulations; and
+>
+> (b) without prejudice to Article 287(3), make consequential provision applying with modifications any provision of this Order which relates to financial support directions under Article 39.
+
+.
+
+**11** In Article 279(2) (overriding requirements)—
+
+(a) after sub-paragraph (d) insert—
+
+> (da) any direction issued by the Regulator under Article 35A(6);
+
+; and
+
+(b) after sub-paragraph (e) insert—
+
+> (ea) any direction issued by the Regulator under Article 39A(3);
+
+.
+
+**12** In Article 288(3) (orders and regulations under Order that are subject to confirmatory procedure), after sub-paragraph (aa) (as inserted by paragraph 5 of this Schedule) insert—
+
+> (ab) regulations under Article 35A(5), 35B(8) or 39B(8) (contribution notices and financial support directions: bulk transfers);
+
+.
+
+**13** In Part 4 of Schedule 2 (the reserved regulatory functions of Pensions Regulator: functions under Order)—
+
+(a) after paragraph 30 insert—
+
+> **30A** The power to issue a direction under Article 35A(6) to any person.
+
+; and
+
+(b) after paragraph 33 insert—
+
+> **33A** The power to issue a direction under Article 39A(3) to any person.
+
+.
+
+### Financial support directions: meaning of “insufficiently resourced”
+
+**14** (1) In Article 40(3) (meaning of “insufficiently resourced”), for sub-paragraph (b) substitute—
+
+> (b) condition A or B is met.
+
+.
+
+(2) After paragraph (3) insert—
+
+> (3A) Condition A is met if—
+>
+> (a) there is at that time a person who falls within Article 39(6)(b) or (c), and
+>
+> (b) the value at that time of that person's resources is not less than the relevant deficit, that is to say the amount which is the difference between—
+>
+> (i) the value of the resources of the employer, and
+>
+> (ii) the amount which is the prescribed percentage of the estimated Article 75 debt.
+>
+> (3B) Condition B is met if—
+>
+> (a) there are at that time two or more persons who—
+>
+> (i) fall within Article 39(6)(b) or (c), and
+>
+> (ii) are connected with, or associates of, each other, and
+>
+> (b) the aggregate value at that time of the resources of the persons who fall within sub-paragraph (a) (or any of them) is not less than the relevant deficit.
+
+.
+
+(3) In paragraph (4), for “paragraph (3)” substitute “ paragraphs (3) to (3B) ”.
+
+### Effect of amendments made by this Schedule
+
+**15** (1) The amendments made by paragraphs 2, 6 and 7 have effect in relation to any act occurring, or any failure to act first occurring, on or after 14th April 2008.
+
+(2) The amendments made by paragraph 8 have effect—
+
+(a) for the purposes of the material detriment test, where at least one of the acts or failures to act occurs or first occurs on or after 14th April 2008, and
+
+(b) for all other purposes, where at least one of the acts or failures to act occurs or first occurs on or after the day on which the Pensions Act 2008 is passed.
+
+(3) The amendments made by paragraphs 9 and 10 have effect in relation to any case where rights are transferred or extinguished on or after 14th April 2008.
+
+(4) The amendments made by paragraph 14 have effect so as to enable the Regulator to make a financial support direction under Article 39 of that Order by reference to any time falling on or after 14th April 2008.
+
+### Transitional provision
+
+**16** (1) In the case of the first set of regulations made under paragraph (8) of Article 35B, paragraph (10)(a) of that Article has effect as if for the words from “the date” to “the regulations” there were substituted “ 20th October 2008 ”.
+
+(2) In the case of the first set of regulations made under paragraph (8) of Article 39B, paragraph (10)(a) of that Article has effect as if for the words from “the date” to “the regulations” there were substituted “ 20th October 2008. ”.
+
+## SCHEDULE 9 — INTEREST ON LATE PAYMENT OF LEVIES
+
+*Section 104.*
+
+### The Pension Schemes (Northern Ireland) Act 1993 (c. 49) (prospective)
+
+**1** After section 170 of the Pension Schemes Act (levies towards certain expenditure) insert—
+
+> **Levies: interest for late payment**
+>
+> **170A** (1) Regulations may make provision for interest to be charged at the prescribed rate in the case of late payment of a levy imposed under section 170(1).
+>
+> (2) Interest is payable by or on behalf of the person or persons by or on behalf of whom the levy is payable.
+>
+> (3) Interest payable by a person by virtue of this section is a debt due from the person to the Department.
+>
+> (4) Interest is recoverable by the Department or, if the Department so determines, by the Regulatory Authority on the Department's behalf.
+>
+> (5) Without prejudice to the generality of subsection (1), regulations under this section may include provision relating to—
+>
+> (a) the collection and recovery of interest;
+>
+> (b) the circumstances in which interest may be waived.
+
+.
+
+### The Pensions (Northern Ireland) Order 2005 (NI 1)
+
+**2** The 2005 Order is amended as follows.
+
+**3** After Article 103 (PPF administration levy) insert—
+
+> **Administration levy: interest for late payment**
+>
+> **103A** (1) Regulations may make provision for interest to be charged at the prescribed rate in the case of late payment of an administration levy.
+>
+> (2) Interest is payable by or on behalf of the person or persons by or on behalf of whom the levy is payable.
+>
+> (3) Interest payable by a person by virtue of this Article is a debt due from the person to the Department.
+>
+> (4) Interest is recoverable by the Department or, if the Department so determines, by the Regulator on the Department's behalf.
+>
+> (5) Without prejudice to the generality of paragraph (1), regulations under this Article may include provision relating to—
+>
+> (a) the collection and recovery of interest;
+>
+> (b) the circumstances in which interest may be waived.
+
+.
+
+**4** After Article 164 (calculation, collection and recovery of levies) insert—
+
+> **Pension protection levy: interest for late payment**
+>
+> **164A** (1) Regulations may make provision for interest to be charged at the prescribed rate in the case of late payment of a pension protection levy.
+>
+> (2) Interest is payable by or on behalf of the person or persons by or on behalf of whom the levy is payable.
+>
+> (3) Interest payable by a person by virtue of this Article is a debt due from the person to the Board.
+>
+> (4) Interest is recoverable by the Board or, if the Board so determines, by the Regulator on its behalf.
+>
+> (5) Without prejudice to the generality of paragraph (1), regulations under this Article may include provision relating to—
+>
+> (a) the collection and recovery of interest;
+>
+> (b) the circumstances in which interest may be waived.
+
+.
+
+**5** After Article 171 (fraud compensation levy) insert—
+
+> **Fraud compensation levy: interest for late payment**
+>
+> **171A** (1) Regulations may make provision for interest to be charged at the prescribed rate in the case of late payment of a fraud compensation levy.
+>
+> (2) Interest is payable by or on behalf of the person or persons by or on behalf of whom the levy is payable.
+>
+> (3) Interest payable by a person by virtue of this Article is a debt due from the person to the Board.
+>
+> (4) Interest is recoverable by the Board or, if the Board so determines, by the Regulator on its behalf.
+>
+> (5) Without prejudice to the generality of paragraph (1), regulations under this Article may include provision relating to—
+>
+> (a) the collection and recovery of interest;
+>
+> (b) the circumstances in which interest may be waived.
+
+.
+
+**6** In Article 191 (the PPF Ombudsman) at the end add—
+
+> (5) Where regulations make provision under paragraph (3), Article 103A (interest for late payment of administration levy) applies in relation to the levy as it applies in relation to an administration levy.
+
+.
+
+## SCHEDULE 10 — REPEALS
+
+*Section 116.*
+
+### PART 1 — PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11) | In Article 5–<br>- (a) paragraphs (2) to (4);<br>- (b) in paragraph (5), “fourth” and the words from “of his” to “qualifying scheme”;<br>- (c) paragraph (6);<br>- (d) paragraph (8)(a)(ii) and (iii);<br>- (e) in paragraph (9), the definitions of “qualifying scheme” and “relevant employees”. Article 8(1), (2) and (4). In Article 9(1), the definition of “designated scheme”. |
+| The Pensions (Northern Ireland) Order 2005 (NI 1) | In Article 75(1)(a) at the end of head (iii), the word “or”. |
+| The Pensions Act (Northern Ireland) 2008 (c. 1) | Section 16. |
+
+### PART 2 — SAFEGUARDED RIGHTS
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) | In Schedule 4B, in paragraph 12, the definition of “assumed surplus”. |
+| The Pension Schemes (Northern Ireland) Act 1993 (c. 49) | In section 46(1)–<br>- (a) paragraph (a)(iii);<br>- (b) in paragraph (b), the words “, or safeguarded,”. In section 48–<br>- (a) subsection (2A)(c);<br>- (b) in subsection (3)(b), the words “, or safeguarded,” (in both places). Part 3A. In section 176(1), the definition of “safeguarded rights”. |
+| The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11) | Article 33. In Article 37–<br>- (a) paragraph (2)(b) and the word “and” preceding it;<br>- (b) in paragraph (3), in the definition of “relevant pension credit”, the words “or, as the case may be, the safeguarded rights”;<br>- (c) in that paragraph, the definition of “safeguarded rights”. In Schedule 5, paragraph 7(2) and (6). In Schedule 9–<br>- (a) paragraphs 18 and 19;<br>- (b) paragraph 30(b). |
+| The Proceeds of Crime Act 2002 (c. 29) | In Schedule 11, paragraph 23(5). |
+| The Pensions Act (Northern Ireland) 2008 (c. 1) | In Schedule 4–<br>- (a) paragraph 27;<br>- (b) paragraph 39. |
+
+### PART 3 — CONTRACTING-OUT: ABOLITION OF ALL PROTECTED RIGHTS
+
+<table>
+<tbody>
+<tr><th>Short Title</th><th>Extent of repeal</th></tr>
+<tr><td>The Pension Schemes (Northern Ireland) Act 1993 (c. 49)</td><td>Section 6. Sections 21A to 23A. Section 26. Sections 28 and 28A. Section 29A.</td></tr>
+<tr><td>The Pensions (Northern Ireland) Order 1995 (NI 22)</td><td>In Schedule 3, paragraph 18.</td></tr>
+<tr><td>The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11)</td><td>Article 29(2).</td></tr>
+<tr><td>The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ( SI 1999/671)</td><td>In Schedule 1, paragraphs 39, 45 and 47.</td></tr>
+<tr><td>The Proceeds of Crime Act 2002 (c. 29)</td><td>In Schedule 11, paragraph 23(2).</td></tr>
+<tr><td>The Pensions Act (Northern Ireland) 2008 (c. 1)</td><td>In Schedule 4, paragraphs 5, 8 to 10 and 12 to 14.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">These repeals have effect in accordance with section 85.</td></tr>
+</tfoot>
+</table>
+
+### PART 4 — PENSION COMPENSATION
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Matrimonial Causes (Northern Ireland) Order 1978 (NI 15) | In Article 27E(9), the definition of “PPF compensation”. In Article 33(2)(dd), at the end of head (i), the word “or”. |
+| The Civil Partnership Act 2004 (c. 33) | In Schedule 15–<br>- (a) at the end of paragraph 15(a)(ii), the word “or”;<br>- (b) at the end of paragraph 16(1)(b), the word “or”;<br>- (c) at the end of paragraph 18(1)(b), the word “or”;<br>- (d) paragraph 25(3);<br>- (e) at the end of paragraph 45(1)(f)(i), the word “or”. In Schedule 17, in paragraph 10(9)(c), the words “Part 6 of”. |
+
+### PART 5 — MISCELLANEOUS
+
+<table>
+<tbody>
+<tr><th>Short Title</th><th>Extent of repeal</th></tr>
+<tr><td>The Social Security Pensions (Northern Ireland) Order 1975 (NI 15)</td><td>In Article 69(5ZA) the words from “but this paragraph” to the end.</td></tr>
+<tr><td>The Pensions (Northern Ireland) Order 1995 (NI 22)</td><td>In Article 7(3), at the end of sub-paragraph (b), the word “or”. In Article 54(3), the definition of “revaluation percentage”.</td></tr>
+<tr><td>The Tax Credits Act 2002 (c. 21)</td><td>In Schedule 3, paragraph 41.</td></tr>
+<tr><td>The Pensions (Northern Ireland) Order 2005 (NI 1)</td><td>In Article 34(5)(a)(ii), the words “otherwise than in good faith;”. Article 294.</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2">The repeal in Article 34(5)(a)(ii) of the 2005 Order has effect in accordance with paragraph 15(1) of Schedule 8.</td></tr>
+</tfoot>
+</table>
+
+### PART 6 — ADDITIONAL PENSIONS
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) | Section 44B(7)(a). Section 121(7) and (8). In section 172(2)(c), “121(8)”. In Schedule 1, in paragraph 1(3)–<br>- (a) paragraph (ba),<br>- (b) in paragraph (c), the words “if some of the aggregated earnings are attributable to COSRS service,”, and<br>- (c) in paragraph (ca), the words “if paragraph (c) applies,” and “, when added to the APPS earnings or the part attributable to COMPS service (or both),”. In Schedule 4A–<br>- (a) in paragraph 2, in sub-paragraph (4A) in table 2A the words “but not exceeding AUEL”, and sub-paragraph (6)(d),<br>- (b) in paragraph 5(4A), in table 4A the words “but not exceeding AUEL”,<br>- (c) in paragraph 7(4A), in table 6A the words “but not exceeding AUEL”, and<br>- (d) paragraph 8(4)(d). In Schedule 4B–<br>- (a) in paragraph 5(a), the words “but which does not exceed the UAP”,<br>- (b) in paragraph 9(2)(a), the words “but which does not exceed the UAP”,<br>- (c) in paragraph 10(1)(a), the words “but which does not exceed the UAP”, and<br>- (d) in paragraph 12, the definition of “the UAP”. |
+| The Pension Schemes (Northern Ireland) Act 1993 (c. 49) | Section 37(1ZA). In section 176(1), the definition of “the flat rate introduction year”. In Schedule 3, paragraph 2(6). |
+| The Pensions Act (Northern Ireland) 2008 (c. 1) | Section 8(2)(c) and (5). Section 10(3). In Schedule 1, paragraphs 32(a), 34 and 36. In Schedule 2, paragraph 4(2). |
+
+**1** The repeals of—
+
+(a) section 37(1ZA) of the Pension Schemes Act,
+
+(b) The definition of “the flat rate introduction year” in section 176(1) of that Act, and
+
+(c) paragraph 34 of Schedule 1 to the Pensions Act (Northern Ireland) 2008 (c. 1),
+
+have effect in relation to 2009–10 and subsequent tax years.
+
+**2** The repeals of—
+
+(a) paragraph 2(6) of Schedule 3 to the Pension Schemes Act, and
+
+(b) paragraph 36 of Schedule 1 to the Pensions Act (Northern Ireland) 2008,
+
+have effect in relation to payments made in a tax week falling in 2009–10 or any subsequent tax year.
+
+---
+
+[^F1]: S. 2(3) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(1), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F2]: S. 3(1) substituted (30.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 6(1), 34(3); S.R. 2012/265, art. 2(2)(a)
+[^F3]: Sum in s. 3(1)(c) substituted (6.4.2014) by The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2014 (S.R. 2014/81), arts. 1(1), 2(1)
+[^F4]: S. 3(6A)(6B) inserted (30.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 6(2), 34(3); S.R. 2012/265, art. 2(2)(a)
+[^F5]: Words in s. 3(7) added (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(1), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F6]: S. 4 substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(2), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F7]: S. 5(1) substituted (30.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 6(3), 34(3); S.R. 2012/265, art. 2(2)(a)
+[^F8]: Sum in s. 5(1)(c) substituted (6.4.2014) by The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2014 (S.R. 2014/81), arts. 1(1), 2(1)
+[^F9]: S. 5(1A)-(1B) inserted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(2), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F10]: S. 5(3A) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 36(2), 53(1); S.R. 2015/307, art. 2(1)(b)
+[^F11]: S. 5(4) repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 37(3)(b), 53(1); S.R. 2015/307, art. 2(1)(c)
+[^F12]: S. 5(5) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(3), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F13]: S. 5(7A)(7B) inserted (30.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 6(4), 34(3); S.R. 2012/265, art. 2(2)(a)
+[^F14]: Words in s. 5(8) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(4), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F15]: Words in s. 6(1)(b) substituted (2.6.2012 for specified purposes, 1.4.2015 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 8, 34(1)(3); S.R. 2015/206, art. 2
+[^F16]: S. 6(3) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(4)(a), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F17]: Words in s. 6(4) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(4)(b), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F18]: Words in s. 6(4)(a) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(5)(a), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F19]: Words in s. 6(4)(a) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(5)(b), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F20]: Words in s. 6(4)(b) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(5)(c), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F21]: Word in s. 6(4)(c) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(5)(d), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F22]: Words in s. 6(5) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(4)(c), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F23]: S. 6(6) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(4)(a), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F24]: S. 7(2)(b) and preceding word omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(5), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F25]: Word in s. 10(1) substituted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 37(1)(a)(i), 53(1); S.R. 2015/307, art. 2(1)(c)
+[^F26]: Word in s. 10(1)(a) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), ss. 37(1)(a)(ii), 53(1); S.R. 2015/307, art. 2(1)(c)
+[^F27]: Word in s. 10(1)(b) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), ss. 37(1)(a)(ii), 53(1); S.R. 2015/307, art. 2(1)(c)
+[^F28]: Words in s. 10(2) substituted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 37(1)(b), 53(1); S.R. 2015/307, art. 2(1)(c)
+[^F29]: S. 13 crossheading substituted (7.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 9(2), 34(3); S.R. 2012/233, art. 2(2)(d)
+[^F30]: Sum in s. 13(1)(a) substituted (6.4.2020) by The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2020 (S.R. 2020/51), arts. 1(1), 2
+[^F31]: Sum in s. 13(1)(b) substituted (6.4.2021) by The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2021 (S.R. 2021/66), arts. 1(1), 2
+[^F32]: Words in s. 13(3)(d) substituted (5.4.2015) by Work and Families Act (Northern Ireland) 2015 (c. 1), s. 23(1), Sch. 1 para. 8(a); S.R. 2015/86, art. 4(2)(g) (with art. 7(2))
+[^F33]: S. 13(3)(ea) inserted (15.3.2015) by Work and Families Act (Northern Ireland) 2015 (c. 1), s. 23(1), Sch. 1 para. 8(b); S.R. 2015/86, art. 3(2)(h)
+[^F34]: S. 13(3)(eb) inserted (23.3.2022) by Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5), s. 5(5), Sch. para. 35; S.R. 2022/136, art. 3
+[^F35]: Words in s. 14 heading inserted (7.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 9(1), 34(3); S.R. 2012/233, art. 2(2)(d)
+[^F36]: Words in s. 14 inserted (7.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 9(1), 34(3); S.R. 2012/233, art. 2(2)(d)
+[^F37]: S. 15A inserted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 10, 34(1)(3); S.R. 2012/233, art. 2(1)(a)
+[^F38]: S. 16(3)(a) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(1), Sch. 18 para. 11(2); S.R. 2015/307, art. 2(1)(n)
+[^F39]: S. 16(3)(aa) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(1), Sch. 18 para. 11(2); S.R. 2015/307, art. 2(1)(n)
+[^F40]: S. 16(3)(ab) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(1), Sch. 18 para. 11(2); S.R. 2015/307, art. 2(1)(n)
+[^F41]: S. 16(3A) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(1), Sch. 18 para. 11(3); S.R. 2015/307, art. 2(1)(n)
+[^F42]: S. 16(4)(5) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(1), Sch. 18 para. 11(4); S.R. 2015/307, art. 2(1)(n)
+[^F43]: S. 18(b) omitted (31.12.2020) by virtue of The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193), regs. 1, 6(2)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F44]: Words in s. 18(c) substituted (31.12.2020) by The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193), regs. 1, 6(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F45]: S. 20(2) omitted (6.4.2012) by virtue of The Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/120), regs. 1(a), 3(2)
+[^F46]: S. 21 substituted (6.4.2016) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 80
+[^F47]: S. 22(2) substituted (6.4.2016) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 13 para. 81
+[^F48]: S. 22(8) added (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 12(1), 34(1)(3); S.R. 2012/265, art. 2(1)(c)
+[^F49]: S. 23 substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 12(2), 34(1)(3); S.R. 2012/265, art. 2(1)(c)
+[^F50]: S. 23A inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(2), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F51]: Word in s. 24(1)(b) substituted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(3), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F52]: S. 26(8) omitted (6.4.2012) by virtue of The Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/120), regs. 1(a), 3(3)
+[^F53]: S. 28 heading substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(2), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F54]: S. 28 applied by S.R. 2010/122, reg. 32J (as inserted (1.7.2012) by The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237), regs. 1(1)(a), 2(3))
+[^F55]: Words in s. 28(1) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(3), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F56]: S. 28(1A) inserted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(4), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F57]: Words in s. 28(2) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(5)(a), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F58]: Words in s. 28(2) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(5)(b), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F59]: S. 28(2)(b) and preceding word added (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(5)(c), 34(1)(3); S.R. 2012/233, art. 2(1)(b)S.R. 2012/233, art. 2(1)(b)
+[^F60]: S. 28(3A) inserted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 14(2), 34(1)(3); S.R. 2012/233, art. 2(1)(c)
+[^F61]: S. 28(3B) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(4)(a), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F62]: S. 28(4)(d) added (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 14(3), 34(1)(3); S.R. 2012/233, art. 2(1)(c)
+[^F63]: S. 28(4)(e) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(4)(b), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F64]: Words in s. 28(6)(e) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 14(4), 34(1)(3); S.R. 2012/233, art. 2(1)(c)
+[^F65]: Words in s. 28(6)(e) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(6)(a), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F66]: Words in s. 28(6)(f) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 14(4), 34(1)(3); S.R. 2012/233, art. 2(1)(c)
+[^F67]: Words in s. 28(6)(f) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(6)(b), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F68]: Words in s. 28(8) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 14(5)(a), 34(1)(3); S.R. 2012/233, art. 2(1)(c)
+[^F69]: S. 28(8)(b) and preceding word added (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 14(5)(b), 34(1)(3); S.R. 2012/233, art. 2(1)(c)
+[^F70]: Words in s. 29(1) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(5), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F71]: Words in s. 29(3) omitted (16.7.2015) by virtue of Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(5), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F72]: Words in s. 30(2)(b) substituted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 39(2), 53(1); S.R. 2015/307, art. 2(1)(e)
+[^F73]: Words in s. 30(2)(c) substituted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 39(2), 53(1); S.R. 2015/307, art. 2(1)(e)
+[^F74]: Words in s. 30(3) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 15(2), 34(1)(3); S.R. 2012/265, art. 2(1)(d)
+[^F75]: Word in s. 30(3) (in the substituted ss. (2)) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 39(3)(a), 53(1); S.R. 2015/307, art. 2(1)(e)
+[^F76]: Words in s. 30(3) (in the substituted ss. (2)) substituted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 39(3)(b), 53(1); S.R. 2015/307, art. 2(1)(e)
+[^F77]: Words in s. 30(3) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(7), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F78]: Words in s. 30(4) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 15(3), 34(1)(3); S.R. 2012/265, art. 2(1)(d)
+[^F79]: Words in s. 30(5) (in the substituted ss. (2)) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(8)(a), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F80]: Words in s. 30(5) (in the substituted ss. (2)) substituted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 39(4)(a), 53(1); S.R. 2015/307, art. 2(1)(e)
+[^F81]: Words in s. 30(5) (in the substituted ss. (2)) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(8)(b), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F82]: Words in s. 30(5) (in the substituted ss. (2)) inserted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 16(2), 34(1)(3); S.R. 2012/265, art. 2(1)(e)
+[^F83]: Words in s. 30(5) (in the substituted ss. (2)) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 39(4)(b), 53(1); S.R. 2015/307, art. 2(1)(e)
+[^F84]: Words in S. 30(5) (in the substituted ss. (2)) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(8)(c), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F85]: Words in s. 30(6)(b) omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), ss. 16(3), 34(1)(3); S.R. 2012/265, art. 2(1)(e)
+[^F86]: Words in s. 30(7) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(6)(a), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F87]: Words in s. 30(7) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(6)(b), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F88]: S. 30(7)(b) added (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 7(6)(c), 34(1)(3); S.R. 2012/265, art. 2(1)(b)
+[^F89]: S. 30(7)(c) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 36(3), 53(1); S.R. 2015/307, art. 2(1)(b)
+[^F90]: S. 30(7A) inserted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 15(4), 34(1)(3); S.R. 2012/265, art. 2(1)(d)
+[^F91]: S. 30(10) inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 39(5), 53(1); S.R. 2015/307, art. 2(1)(e)
+[^F92]: S. 30(11) added (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 38(9), 53(1); S.R. 2015/307, art. 2(1)(d)
+[^F93]: Words in s. 31 heading heading substituted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 6 para. 22(2); S.R. 2022/197, art. 3(a)
+[^F94]: Words in s. 31 heading substituted (11.2.2021 for specified purposes) by Pension Schemes Act 2021 (c. 1), s. 131(2)(a)(3)(a), Sch. 6 para. 22(2) and (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by Pension Schemes Act (Northern Ireland) 2021 (c. 6), s. 44(2), Sch. 3 para. 20(c); S.R. 2022/110, art. 2(a)(b)
+[^F95]: Word in s. 31(3) omitted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by virtue of Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 6 para. 22(3)(a)(i); S.R. 2022/197, art. 3(a)
+[^F96]: Words in s. 31(3) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 6 para. 22(3)(a)(ii); S.R. 2022/197, art. 3(a)
+[^F97]: Words in s. 31(3) added (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by Pension Schemes Act (Northern Ireland) 2021 (c. 6), s. 44(2), Sch. 3 para. 20(a); S.R. 2022/110, art. 2(a)(b)
+[^F98]: Words in s. 31(3) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 6 para. 22(3)(b); S.R. 2022/197, art. 3(a)
+[^F99]: Words in s. 31(3) added (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by Pension Schemes Act (Northern Ireland) 2021 (c. 6), s. 44(2), Sch. 3 para. 20(b); S.R. 2022/110, art. 2(a)(b)
+[^F100]: Words in s. 32 heading inserted (30.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 17, 34(3); S.R. 2012/265, art. 2(2)(b)
+[^F101]: Words in s. 32(1) inserted (30.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 17, 34(3); S.R. 2012/265, art. 2(2)(b)
+[^F102]: Words in s. 32(1)(b) substituted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 13(7), 34(1)(3); S.R. 2012/233, art. 2(1)(b)
+[^F103]: Word in s. 40(1) omitted (28.7.2022) by virtue of Pension Schemes Act 2021 (c. 1), s. 131(2)(b), Sch. 8 para. 30(a); S.R. 2022/197, art. 2(b)
+[^F104]: Words in s. 40(1)(d) inserted (24.6.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 40(1), 53(2)(d)
+[^F105]: S. 40(1)(e) and word inserted (28.7.2022) by Pension Schemes Act 2021 (c. 1), s. 131(2)(b), Sch. 8 para. 30(b); S.R. 2022/197, art. 2(b)
+[^F106]: Words in s. 40(5)(g) substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 29 (with Sch. 2); S.R. 2010/101, art. 2
+[^F107]: Word in s. 41(1) omitted (28.7.2022) by virtue of Pension Schemes Act 2021 (c. 1), s. 131(2)(b), Sch. 8 para. 31(a); S.R. 2022/197, art. 2(b)
+[^F108]: Words in s. 41(1)(d) inserted (24.6.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 40(1), 53(2)(d)
+[^F109]: S. 41(1)(e) and word inserted (28.7.2022) by Pension Schemes Act 2021 (c. 1), s. 131(2)(b), Sch. 8 para. 31(b); S.R. 2022/197, art. 2(b)
+[^F110]: Words in s. 41(2)(b) substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 30 (with Sch. 2); S.R. 2010/101, art. 2
+[^F111]: Words in s. 41(6)(f) substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 30 (with Sch. 2); S.R. 2010/101, art. 2
+[^F112]: S. 44: words in heading substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 31(a) (with Sch. 2); S.R. 2010/101, art. 2
+[^F113]: Words in s. 44(1) substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 31(b) (with Sch. 2); S.R. 2010/101, art. 2
+[^F114]: Words in s. 44(3) substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 31(b) (with Sch. 2); S.R. 2010/101, art. 2
+[^F115]: S. 44(4A) inserted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 31(c) (with Sch. 2); S.R. 2010/101, art. 2
+[^F116]: S. 44(5) repealed (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(3), 5(2), Sch. 3 (with Sch. 2); S.R. 2010/101, art. 2
+[^F117]: S. 44(6) repealed (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(3), 5(2), Sch. 3 (with Sch. 2); S.R. 2010/101, art. 2
+[^F118]: S. 53: words in heading substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 32 (with Sch. 2); S.R. 2010/101, art. 2
+[^F119]: Words in s. 53(2) substituted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 32 (with Sch. 2); S.R. 2010/101, art. 2
+[^F120]: Words in s. 54(1)(a) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(6)(a), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F121]: Words in s. 54(1)(b) substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 5(6)(b), 34(1)(3); S.R. 2012/265, art. 2(1)(a)
+[^F122]: Words in s. 58(3) substituted (27.1.2020) by Employment Act (Northern Ireland) 2016 (c. 15), s. 29(2), Sch. 1 para. 6; S.R. 2020/1, art. 2(m)
+[^F123]: Words in s. 59(1)(c) substituted (7.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 33(2), 34(3); S.R. 2012/233, art. 2(2)(i)
+[^F124]: Art. 65(1)-(5) repealed (5.7.2010) by Personal Accounts Delivery Authority Winding Up (Consequential Provisions) Order (Northern Ireland) 2010 (S.R. 2010/212), art. 2(b)
+[^F125]: Arts. 66-68 repealed (5.7.2010) by Personal Accounts Delivery Authority Winding Up (Consequential Provisions) Order (Northern Ireland) 2010 (S.R. 2010/212), art. 2(b)
+[^F126]: Arts. 66-68 repealed (5.7.2010) by Personal Accounts Delivery Authority Winding Up (Consequential Provisions) Order (Northern Ireland) 2010 (S.R. 2010/212), art. 2(b)
+[^F127]: Arts. 66-68 repealed (5.7.2010) by Personal Accounts Delivery Authority Winding Up (Consequential Provisions) Order (Northern Ireland) 2010 (S.R. 2010/212), art. 2(b)
+[^F128]: S. 69A and preceding cross-heading inserted (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 37(2), 53(1); S.R. 2015/307, art. 2(1)(c)
+[^F129]: Words in s. 78 inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 4 para. 6(2); S.R. 2022/197, art. 3(a)
+[^F130]: Words in s. 78 omitted (31.12.2020) by virtue of The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193), regs. 1, 6(3); 2020 c. 1, Sch. 5 para. 1(1)
+[^F131]: Words in s. 78 substituted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 4 para. 6(3)(a); S.R. 2022/197, art. 3(a)
+[^F132]: Words in s. 78 substituted (retrospectively) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 27(3)(6), 34(3); S.R. 2014/203, art. 2
+[^F133]: Words in s. 78 inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 4 para. 6(3)(b); S.R. 2022/197, art. 3(a)
+[^F134]: S. 78A inserted (retrospectively) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 27(3)(6), 34(3); S.R. 2014/203, art. 2
+[^F135]: Words in s. 78A(1) substituted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by Pension Schemes Act 2021 (c. 1), s. 131(1)(3)(a), Sch. 4 para. 7; S.R. 2022/197, art. 3(a)
+[^F136]: S. 81 never in operation, repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(a); S.R. 2015/307, art. 2(1)(k)
+[^F137]: S. 82 repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(a); S.R. 2015/307, art. 2(1)(k)
+[^F138]: S. 84(6) repealed (24.6.2015 and is to be treated as never having had effect) by Pensions Act (Northern Ireland) 2015 (c. 5), ss. 28(1), 53(2)(b)
+[^F139]: S. 113A inserted (30.6.2012) by Pensions Act (Northern Ireland) 2012 (c. 3), ss. 33(1), 34(3); S.R. 2012/265, art. 2(1)(f)
+[^F140]: S. 117(1): definition of "First-tier Tribunal" and "Upper Tribunal" inserted (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 33(a) (with Sch. 2); S.R. 2010/101, art. 2
+[^F141]: S. 117(1): definition of "Tribunal Procedure Rules" added (6.4.2010) by Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4), ss. 3(1), 5(2), Sch. 1 para. 33(b) (with Sch. 2); S.R. 2010/101, art. 2
+[^F142]: Sch. 2 repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(b); S.R. 2015/307, art. 2(1)(k)
+[^F143]: Sch. 3 para. 4(2)(b) repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F144]: Sch. 3 para. 4(3)(b) repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F145]: Sch. 3 para. 6(3) never in operation, repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F146]: Sch. 3 para. 7(a) never in operation, repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F147]: Sch. 3 para. 8(a) never in operation, repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F148]: Sch. 3 para. 9(2)(c) never in operation, repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F149]: Sch. 3 para. 10 never in operation, repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F150]: Sch. 3 paras. 13-22 never in operation, repealed (16.7.2015) by Pensions Act (Northern Ireland) 2015 (c. 5), s. 53(3), Sch. 12 para. 81(c); S.R. 2015/307, art. 2(1)(k)
+[^F151]: Word in Sch. 4 para. 4(3)(a) omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(1)(a); S.R. 2013/83, art. 2(b)(iii)
+[^F152]: Sch. 4 para. 4(3)(aa) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(1)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F153]: Words in Sch. 4 para. 4(4) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(2); S.R. 2013/83, art. 2(b)(iii)
+[^F154]: Words in Sch. 4 para. 5(3) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 32(1)(a); S.R. 2013/83, art. 2(b)(iii)
+[^F155]: Sch. 4 para. 5(3A) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 32(1)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F156]: Word in Sch. 4 para. 6(3)(b) omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(3)(a); S.R. 2013/83, art. 2(b)(iii)
+[^F157]: Sch. 4 para. 6(3)(ba) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(3)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F158]: Words in Sch. 4 para. 6(4) omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(4)(a); S.R. 2013/83, art. 2(b)(iii)
+[^F159]: Word in Sch. 4 para. 6(4) omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(4)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F160]: Words in Sch. 4 para. 6(4) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 31(4)(c); S.R. 2013/83, art. 2(b)(iii)
+[^F161]: Words in Sch. 4 para. 7(3)(a) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 32(2)(a); S.R. 2013/83, art. 2(b)(iii)
+[^F162]: Words in Sch. 4 para. 7(3)(b) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 32(2)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F163]: Sch. 4 para. 7(3A) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 32(2)(c); S.R. 2013/83, art. 2(b)(iii)
+[^F164]: Words in Sch. 4 para. 9(1) substituted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 33; S.R. 2013/83, art. 2(b)(iii)
+[^F165]: Sch. 4 para. 11 omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 30(1); S.R. 2013/83, art. 2(b)(iii)
+[^F166]: Sch. 4 para. 12(1)(d) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012), regs. 1(2)(3), 12(a)
+[^F167]: Words in Sch. 4 para. 12(3) substituted (29.6.2026) by Pension Schemes Act 2026 (c. 22), ss. 122(d), 133(11)(a)
+[^F168]: Words in Sch. 4 para. 12(4) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012), regs. 1(2)(3), 12(b)
+[^F169]: Words in Sch. 4 para. 12(4)(a) omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 34(1)(a)(i); S.R. 2013/83, art. 2(b)(iii)
+[^F170]: Words in Sch. 4 para. 12(4)(b) omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 34(1)(a)(ii); S.R. 2013/83, art. 2(b)(iii)
+[^F171]: Sch. 4 para. 12(5)(6) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 34(1)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F172]: Sch. 4 para. 15(4) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 34(2); S.R. 2013/83, art. 2(b)(iii)
+[^F173]: Sch. 4 para. 16A and preceding cross-heading inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 30(2); S.R. 2013/83, art. 2(b)(iii)
+[^F174]: Word in Sch. 4 para. 17(4)(a) omitted (27.3.2013) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 35(2)(a); S.R. 2013/83, art. 2(b)(iii)
+[^F175]: Sch. 4 para. 17(4)(aa) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 35(2)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F176]: Words in Sch. 4 para. 17(7) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 35(3)(a); S.R. 2013/83, art. 2(b)(iii)
+[^F177]: Words in Sch. 4 para. 17(7) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 35(3)(b); S.R. 2013/83, art. 2(b)(iii)
+[^F178]: Sch. 4 para. 17(7A) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 35(4); S.R. 2013/83, art. 2(b)(iii)
+[^F179]: Sch. 4 para. 18(2) omitted (31.12.2023) by virtue of The Pensions (Pension Protection Fund Compensation) (Northern Ireland) Regulations 2023 (S.I. 2023/1312), regs. 1(2), 4
+[^F180]: Sch. 4 para. 20(5A) inserted (27.3.2013) by Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 36; S.R. 2013/83, art. 2(b)(iii)
+[^F181]: Words in Sch. 5 para. 3 substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 173(a) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F182]: Words in Sch. 5 para. 3 substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 173(b) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F183]: Words in Sch. 5 para. 7 substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 174(a) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F184]: Words in Sch. 5 para. 7 substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 174(b) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F185]: Words in Sch. 5 para. 15 substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 175(a) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F186]: Words in Sch. 5 para. 15 substituted (12.4.2010) by Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), arts. 1(2), 15(5), Sch. 18 para. 175(b) (with arts. 28-31); S.I. 2010/977, art. 1(2)
+[^F187]: Sch. 6 paras. 10-11 (never in operation) omitted (7.6.2012) by virtue of Pensions Act (Northern Ireland) 2012 (c. 3), s. 34(3), Sch. 4 para. 20; S.R. 2012/233, art. 2(2)(k)(iv)

@@ -1861,7 +1861,7 @@ In this Act, “ancillary activity” means—
 
 In this Act—
 
-- “the CMO Regulation” (“*y Rheoliad*CMO”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products;
+- “the CMO Regulation” (“*y Rheoliad* CMO”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products;
 
 - “functions” (“*swyddogaethau*”) includes powers and duties;
 

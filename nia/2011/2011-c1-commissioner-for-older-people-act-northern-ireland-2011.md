@@ -1,0 +1,1085 @@
+---
+title: "Commissioner for Older People Act (Northern Ireland) 2011"
+identifier: "nia/2011/1"
+citation: "2011 CHAPTER 1"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2011-01-25
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2011/1"
+source_modified: 2026-10-05
+retrieved: 2026-10-11
+---
+
+# Commissioner for Older People Act (Northern Ireland) 2011
+
+**2011 CHAPTER 1**
+
+An Act to provide for the appointment and functions of the Commissioner for Older People for Northern Ireland.
+
+[25th January 2011]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## The Commissioner
+
+### 1 The Commissioner for Older People for Northern Ireland
+
+(1) There is to be an officer known as the Commissioner for Older People for Northern Ireland.
+
+(2) The Commissioner is to be appointed by the First Minister and deputy First Minister acting jointly.
+
+(3) The appointment of the Commissioner under subsection (2) may be made only after taking account of the views of persons aged 60 or over in accordance with arrangements made by [[^F1]the Executive Office] .
+
+(4) Schedule 1 has effect in relation to the Commissioner.
+
+### 2 Principal aim of the Commissioner
+
+(1) The principal aim of the Commissioner in exercising the functions of the Commissioner under this Act is to safeguard and promote the interests of older persons.
+
+(2) In determining whether and, if so, how to exercise the functions of the Commissioner under this Act in relation to any particular older person the Commissioner's paramount consideration must be the interests of that older person but, in the Commissioner's dealings with any body or person under this Act, the Commissioner must at all times have regard to any statutory provision or rule of law which authorises or requires that body or person to act in a particular manner or authorises or requires that body or person to have regard to any consideration other than that mentioned above.
+
+(3) In—
+
+(a) considering, for the purposes of this Act, what constitutes the interests of older persons, and
+
+(b) determining whether and, if so, how to exercise the functions of the Commissioner under this Act,
+
+the Commissioner must have regard to the United Nations Principles for Older Persons adopted by the General Assembly of the United Nations on 16 December 1991.
+
+## Functions of the Commissioner
+
+### 3 Duties of the Commissioner
+
+(1) The Commissioner must promote an awareness of matters relating to the interests of older persons and of the need to safeguard those interests.
+
+(2) The Commissioner must keep under review the adequacy and effectiveness of law and practice relating to the interests of older persons.
+
+(3) The Commissioner must keep under review the adequacy and effectiveness of services provided for older persons by relevant authorities.
+
+(4) The Commissioner must promote the provision of opportunities for, and the elimination of discrimination against, older persons.
+
+(5) The Commissioner must encourage best practice in the treatment of older persons.
+
+(6) The Commissioner must promote positive attitudes towards older persons and encourage participation by older persons in public life.
+
+(7) The Commissioner must advise the Secretary of State, the Executive Committee of the Assembly and a relevant authority on matters concerning the interests of older persons—
+
+(a) as soon as reasonably practicable after receipt of a request for advice; and
+
+(b) on such other occasions as the Commissioner thinks appropriate.
+
+(8) The Commissioner must take reasonable steps to ensure that—
+
+(a) older persons are made aware of—
+
+(i) the functions of the Commissioner;
+
+(ii) the location of the Commissioner's office; and
+
+(iii) the ways in which they may communicate with the Commissioner;
+
+(b) older persons are encouraged to communicate with the Commissioner;
+
+(c) the views of older persons are sought concerning the exercise by the Commissioner of the Commissioner's functions;
+
+(d) the services of the Commissioner are, so far as practicable, made available to older persons in the locality in which they live.
+
+### 4 General powers of the Commissioner
+
+(1) The Commissioner may undertake, commission or provide financial or other assistance for research or educational activities concerning the interests of older persons or the exercise of the Commissioner's functions.
+
+(2) The Commissioner may, after consultation with such bodies or persons as the Commissioner thinks appropriate, issue guidance on best practice in relation to any matter concerning the interests of older persons.
+
+(3) The Commissioner may, for the purposes of any of the Commissioner's functions, conduct such investigations as the Commissioner considers necessary or expedient.
+
+(4) If the Commissioner so determines, Schedule 2 is to apply in relation to an investigation conducted by the Commissioner for the purposes of the Commissioner's functions under section 3(2) or (3).
+
+(5) The Commissioner may—
+
+(a) compile information concerning the interests of older persons;
+
+(b) provide advice or information on any matter concerning the interests of older persons;
+
+(c) publish any matter concerning the interests of older persons, including—
+
+(i) the outcome of any research or activities mentioned in subsection (1);
+
+(ii) the outcome of any investigations conducted under subsection (3);
+
+(iii) any advice provided by the Commissioner.
+
+(6) The Commissioner may make representations or recommendations to any body or person about any matter concerning the interests of older persons.
+
+### 5 General review of advocacy, complaint, inspection and whistle-blowing arrangements of relevant authorities
+
+(1) This section and section 6 apply to the following arrangements of a relevant authority—
+
+(a) advocacy arrangements, that is to say arrangements for making persons available—
+
+(i) to represent the views, wishes and interests of older persons in relation to whom any functions of the authority are exercisable; and
+
+(ii) to provide such older persons—
+
+(A) with information, advice and support to enable or assist them to express their views and wishes to the authority; and
+
+(B) with advice about their interests;
+
+(b) complaint arrangements, that is to say arrangements for dealing with complaints made to the authority by older persons about actions taken in relation to them by that or another relevant authority;
+
+(c) inspection arrangements, that is to say arrangements for examining the state and management of, and the treatment of older persons on, any premises managed by that or another relevant authority in which—
+
+(i) an older person is living or being looked after;
+
+(ii) an older person is being detained whether under any statutory provision or otherwise; or
+
+(iii) health, welfare or any other services are provided for older persons; and
+
+(d) whistle-blowing arrangements, that is to say arrangements for ensuring that proper action is taken in response to any disclosure of information which may tend to show—
+
+(i) that a criminal offence has been committed;
+
+(ii) that a person has failed to comply with any legal obligation to which that person is subject;
+
+(iii) that the health and safety of any older person has been endangered;
+
+(iv) that the rights of any older person have been infringed; or
+
+(v) that any matter falling within one of the preceding paragraphs has been deliberately concealed,
+
+in the course of, or in connection with, the exercise by the relevant authority of any of its functions in relation to older persons.
+
+(2) Subject to subsections (3) and (4), the Commissioner may review the operation of any arrangements to which this section applies for the purpose of ascertaining whether, and to what extent, the arrangements are effective in safeguarding and promoting the interests of older persons.
+
+(3) The Commissioner may not exercise the Commissioner's power under subsection (2) in relation to any arrangements made by a relevant authority unless the Commissioner has reasonable grounds to believe that—
+
+(a) the arrangements in question are ineffective in safeguarding and promoting the interests of older persons; or
+
+(b) those arrangements have not been operated, or have been operated incorrectly.
+
+(4) The Commissioner may not review the operation of the inspection arrangements made by a relevant authority unless it appears to the Commissioner that there is no other body or person likely to review those arrangements.
+
+(5) Where a relevant authority has failed to make any arrangements of a kind mentioned in subsection (1), the Commissioner may assess the effect of that failure on older persons.
+
+(6) The power conferred by this section to review the operation of any arrangements includes power to review the failure of any such arrangements to operate.
+
+### 6 Review of advocacy, complaint, inspection and whistle-blowing arrangements of relevant authorities in individual cases
+
+(1) Subject to subsections (2) and (3), the Commissioner may review the operation of any arrangements to which this section applies in the case of a particular older person (or, as regards inspection arrangements, in the case of any particular premises).
+
+(2) The Commissioner may not exercise the Commissioner's power under subsection (1) in relation to the operation of any arrangements made by a relevant authority in the case of a particular older person unless the Commissioner has reasonable grounds to believe that—
+
+(a) the arrangements in question were ineffective in safeguarding and promoting the interests of the older person concerned; or
+
+(b) those arrangements did not operate, or were operated incorrectly, in relation to the older person concerned.
+
+(3) The Commissioner may not review the operation of the inspection arrangements made by a relevant authority unless it appears to the Commissioner that there is no other body or person likely to review those arrangements.
+
+(4) The power conferred by subsection (1) to review the operation of any arrangements includes power to review the failure of any such arrangements to operate.
+
+(5) Where a relevant authority has failed to make any arrangements of a kind mentioned in subsection (1), the Commissioner may assess the effect of that failure on any particular older person.
+
+### 7 Assistance with complaints to relevant authorities
+
+(1) The Commissioner may provide assistance (including financial assistance) to an older person in making a complaint to a relevant authority that the interests of the older person have been adversely affected by any action taken by that or another relevant authority.
+
+(2) The Commissioner may act on behalf of an older person in—
+
+(a) making such a complaint to a relevant authority; and
+
+(b) any investigation or other proceedings conducted by that authority pursuant to the complaint.
+
+(3) In deciding whether to provide assistance to an older person under subsection (1), the Commissioner may take account of the financial or other assistance available to the older person in relation to the complaint.
+
+(4) In deciding whether to take action on behalf of an older person under subsection (2), the Commissioner may take account of whether there is any other person or body likely to take such action.
+
+(5) Where the making of a complaint to a relevant authority is regulated by a statutory provision, nothing in this section authorises a complaint to be made to that authority otherwise than in accordance with that provision.
+
+(6) For the purposes of this section, “relevant authority” also includes [[^F2]the Northern Ireland Public Services Ombudsman], the [[^F3]Information Commission], the Pensions Ombudsman and the Northern Ireland Office.
+
+### 8 Investigation of complaints against relevant authorities
+
+(1) Subject to subsection (2) and section 9, the Commissioner may conduct an investigation into a complaint made by an older person that the interests of the older person have been adversely affected by any action taken by a relevant authority.
+
+(2) The Commissioner may not exercise the Commissioner's power under subsection (1) in relation to a complaint unless the Commissioner is satisfied that—
+
+(a) the complaint raises a question of principle; and
+
+(b) the complaint does not fall within an existing statutory complaints system.
+
+(3) For the purposes of subsection (2), a complaint falls within an existing statutory complaints system if a statutory provision confers power on a person to make the complaint to a body or person and—
+
+(a) that body or person has power under a statutory provision to investigate the complaint; or
+
+(b) that body or person would have power under a statutory provision to investigate the complaint but for some exclusion or restriction in that statutory provision.
+
+(4) Where the Commissioner decides not to conduct an investigation into a complaint made under subsection (1), the Commissioner must prepare a statement of the Commissioner's reasons for that decision and must send a copy of the statement to—
+
+(a) the complainant; and
+
+(b) such other persons (if any) as the Commissioner considers appropriate.
+
+### 9 Actions which may be investigated: restrictions and exclusions
+
+(1) The Commissioner may not conduct an investigation in respect of any action in respect of which the complainant has or had—
+
+(a) a right of appeal, complaint, reference or review to or before a tribunal constituted under any statutory provision or otherwise; or
+
+(b) a remedy by way of proceedings in any court,
+
+unless the Commissioner is satisfied that, in the particular circumstances, it is not reasonable to expect the complainant to resort to or have resorted to the right or remedy.
+
+(2) The Commissioner may not conduct an investigation in respect of—
+
+(a) the commencement before any court in the United Kingdom of—
+
+(i) any criminal proceedings; or
+
+(ii) any civil proceedings by any person other than a relevant authority;
+
+(b) the conduct of any civil or criminal proceedings before any court in the United Kingdom; or
+
+(c) the commencement or conduct of any proceedings before any international court or tribunal.
+
+(3) The Commissioner may not conduct an investigation in respect of any action which is, or has been, the subject of a local or public inquiry.
+
+(4) The Commissioner may not conduct an investigation into a complaint if it appears to the Commissioner that there has been an unreasonable delay in making the complaint to the Commissioner.
+
+### 10 Power to bring, intervene in or assist in legal proceedings
+
+(1) Subject to the following provisions of this section, the Commissioner may in any court or tribunal—
+
+(a) bring proceedings (other than criminal proceedings) involving law or practice concerning the interests of older persons;
+
+(b) intervene in any proceedings involving law or practice concerning the interests of older persons;
+
+(c) act as *amicus curiae* in any such proceedings.
+
+(2) An intervention under subsection (1)(b) may not be made except—
+
+(a) with the leave of the court or tribunal; and
+
+(b) in accordance with any such provision as may be made by the rules regulating the practice and procedure of the court or tribunal.
+
+(3) The Commissioner may not bring or apply to intervene in proceedings unless the Commissioner is satisfied that—
+
+(a) the case raises a question of principle; or
+
+(b) there are other special circumstances which make it appropriate for the Commissioner to do so.
+
+### 11 Assistance in relation to legal proceedings
+
+(1) This section applies to—
+
+(a) proceedings involving law or practice concerning the interests of older persons which an older person has commenced, or wishes to commence; or
+
+(b) proceedings in the course of which an older person relies, or wishes to rely, on such law or practice.
+
+(2) Where the older person applies to the Commissioner for assistance in relation to proceedings to which this section applies, the Commissioner may, subject to subsection (3), grant the application if the Commissioner is satisfied that—
+
+(a) the case raises a question of principle;
+
+(b) it would be unreasonable to expect the older person to deal with the case without assistance because of its complexity, or because of that person's position in relation to another person involved, or for some other reason; or
+
+(c) there are other special circumstances which make it appropriate for the Commissioner to provide assistance.
+
+(3) The Commissioner may not grant an application for assistance under subsection (2) unless it appears to the Commissioner that there is no other person or body likely to provide such assistance.
+
+(4) Where the Commissioner grants an application under subsection (2) the Commissioner may arrange for the provision of legal advice or representation and any other assistance which the Commissioner thinks appropriate.
+
+(5) Arrangements made by the Commissioner for the provision of assistance to an older person may, if the Commissioner thinks it reasonable in the circumstances, include provision for recovery of expenses from the older person.
+
+### 12 Conciliation of disputes
+
+(1) The Commissioner may make arrangements with any other person for the provision of conciliation services by, or by persons appointed by, that person in relation to disputes which may lead to proceedings involving law or practice concerning the interests of older persons.
+
+(2) Neither the Commissioner nor any officer of the Commissioner may participate in the provision of conciliation services for which arrangements are made under this section.
+
+(3) The Commissioner must ensure that any arrangements under this section include appropriate safeguards to prevent the disclosure to the Commissioner or officers of the Commissioner of information obtained by a person in connection with the provision of conciliation services in pursuance of the arrangements.
+
+(4) Subsection (3) does not apply to information relating to a dispute which is disclosed with the consent of the parties to that dispute.
+
+(5) Subsection (3) does not apply to information which—
+
+(a) is not identifiable with a particular dispute or a particular person; and
+
+(b) is reasonably required by the Commissioner for the purpose of monitoring the operation of the arrangements concerned.
+
+(6) Anything communicated to a person while providing conciliation services in pursuance of any arrangements under this section is not admissible in evidence in any proceedings except with the consent of the person who communicated it to that person.
+
+(7) In this section “conciliation services” means services provided—
+
+(a) by a person who is not a party to a dispute;
+
+(b) to the parties to the dispute; and
+
+(c) with the aim of enabling the dispute to be settled by agreement and without proceedings.
+
+## Formal investigations
+
+### 13 Formal investigations
+
+(1) Subject to section 14, the Commissioner may determine to conduct an investigation under this section (“a formal investigation”)—
+
+(a) for the purposes of the Commissioner's functions under section 5;
+
+(b) for the purposes of the Commissioner's functions under section 6; or
+
+(c) into a complaint under section 8(1).
+
+(2) In determining whether to conduct or discontinue a formal investigation, the Commissioner may act in accordance with the Commissioner's own discretion.
+
+(3) Where the Commissioner determines to conduct a formal investigation for the purposes of the Commissioner's functions under section 5 or 6 the Commissioner must—
+
+(a) produce terms of reference for the investigation;
+
+(b) send notice of the proposed investigation and a copy of the terms of reference to—
+
+(i) the relevant authority concerned; and
+
+(ii) in the case of an investigation for the purposes of the Commissioner's functions under section 6, the particular older person mentioned in that section;
+
+(c) afford to the relevant authority concerned an opportunity to comment on the matters being investigated and to give oral or other evidence respecting those matters.
+
+(4) Where the Commissioner determines to conduct a formal investigation into a complaint under section 8(1) the Commissioner must—
+
+(a) give to—
+
+(i) the relevant authority concerned; and
+
+(ii) any other person who is alleged in the complaint to have taken or authorised the action complained of or who is otherwise involved in allegations made in the complaint,
+
+information as to the substance of the allegations made in the complaint so far as they relate to that authority or (as the case may be) to that person; and
+
+(b) afford to every such authority or person an opportunity to comment on any allegations made in the complaint and to give oral or other evidence respecting those matters.
+
+(5) Every formal investigation must be conducted in private.
+
+(6) Except as otherwise provided by this Act, the procedure for conducting a formal investigation must be such as the Commissioner considers appropriate in the circumstances of the case; and, in particular, it is for the Commissioner to determine whether any person may be represented by counsel or solicitor or otherwise in the investigation.
+
+(7) The Commissioner may for the purposes of a formal investigation obtain information from such persons and in such manner, and make such enquiries, as the Commissioner thinks fit.
+
+(8) Subject to subsections (9) and (10), in conducting a formal investigation the Commissioner is not obliged to hold any hearing, and no person is entitled as of right to be heard by the Commissioner.
+
+(9) If at any time during the course of a formal investigation it appears to the Commissioner that there may be grounds for making any report or recommendation that may adversely affect any relevant authority or other person, the Commissioner must afford to that authority or person—
+
+(a) an opportunity to give oral or other evidence; and
+
+(b) an opportunity of testing by cross-examination any evidence which may affect that authority or person.
+
+(10) Where the opportunities mentioned in subsection (9) are given to a relevant authority or other person, then—
+
+(a) in any formal investigation for the purposes of the Commissioner's functions under section 6, the same opportunities must be given to the older person mentioned in that section; and
+
+(b) in any formal investigation into a complaint under section 8(1), the same opportunities must be given to the complainant.
+
+(11) The Commissioner may, if the Commissioner thinks fit, pay to any person (including a complainant) who attends or supplies information for the purposes of a formal investigation—
+
+(a) sums in respect of expenses properly incurred by that person;
+
+(b) allowances by way of compensation for the loss of that person's time,
+
+in accordance with such scales and subject to such conditions as the Office may determine.
+
+(12) A formal investigation does not affect—
+
+(a) any action taken by a relevant authority or by any department or Minister with respect to that authority; or
+
+(b) any power or duty of that authority, department or Minister to take further action with respect to any matters subject to the investigation.
+
+### 14 Formal investigations: exclusions
+
+(1) The Commissioner may not conduct a formal investigation for the purposes of the Commissioner's functions under section 6 in relation to the operation of the advocacy, complaint, inspection or whistle-blowing arrangements of a relevant authority in the case of any older person if the Commissioner has under section 10 or 11 brought or intervened in, or provided assistance in relation to, any proceedings—
+
+(a) against the relevant authority which relate to the operation of the arrangements in question in the case of that older person; or
+
+(b) in which the correctness in law of any action of the relevant authority in relation to the operation of any such arrangements in the case of that older person is called into question.
+
+(2) The Commissioner may not conduct a formal investigation into a complaint under section 8(1) in respect of any action of a relevant authority if the Commissioner has under section 10 or 11 brought, intervened in or provided assistance in relation to any proceedings—
+
+(a) against the relevant authority in respect of that action; or
+
+(b) in which the correctness in law of that action is called into question.
+
+### 15 Report on formal investigation
+
+(1) Where the Commissioner conducts a formal investigation for the purposes of the Commissioner's functions under section 5 or 6, the Commissioner must prepare a report on the outcome of that investigation and send it to—
+
+(a) the relevant authority concerned and, where the report contains recommendations as to action to be taken by any other relevant authority, that relevant authority; and
+
+(b) such other bodies or persons as the Commissioner thinks appropriate.
+
+(2) Where the Commissioner conducts a formal investigation into a complaint under section 8(1), the Commissioner must prepare a report on the outcome of that investigation and send it to—
+
+(a) the complainant;
+
+(b) the relevant authority concerned and, where the report contains recommendations as to action to be taken by any other relevant authority, that relevant authority;
+
+(c) any person who is alleged in the complaint to have taken or authorised the action complained of or otherwise to be involved in the allegation made in the complaint; and
+
+(d) such other bodies or persons as the Commissioner thinks appropriate.
+
+(3) Apart from identifying any relevant authority concerned, a report under this section must not—
+
+(a) mention the name of any person; or
+
+(b) contain any particulars which, in the Commissioner's opinion, are likely to identify any person and can be omitted without impairing the effectiveness of the report,
+
+unless the Commissioner determines that it is necessary to do so (whether for the purposes of subsection (4) or otherwise).
+
+(4) A report under this section may include recommendations as to action to be taken by a relevant authority mentioned in the report; and any such recommendations must be accompanied by the Commissioner's reasons for making them.
+
+(5) In particular, the report on a formal investigation conducted for the purposes of the Commissioner's functions under section 6 in relation to any complaint arrangements may recommend that the relevant authority concerned reconsider afresh the complaint in question.
+
+(6) Where a report contains a recommendation as to action to be taken by a relevant authority, the authority must—
+
+(a) consider the recommendation; and
+
+(b) determine what action (if any) to take in response to the recommendation.
+
+### 16 Further action following report on formal investigation
+
+(1) Where the Commissioner has made a report under section 15 which contains a recommendation as to action to be taken by a relevant authority, the Commissioner may by notice require that authority to provide the Commissioner within 3 months of the date of the notice with—
+
+(a) such information as will enable the Commissioner to determine whether the authority has complied with the recommendation or will be complying with it; or
+
+(b) a statement of the authority's reason for not complying with the recommendation.
+
+(2) A notice under subsection (1) must include a statement that a failure by the authority to respond within the period mentioned in that subsection may be published in such manner as the Commissioner considers appropriate.
+
+(3) If, on receipt of a response from the authority, the Commissioner considers that—
+
+(a) the action taken or proposed to be taken by the authority to comply with the recommendation is inadequate; or
+
+(b) the authority's reason for not complying with the recommendation is inadequate,
+
+the Commissioner may send to the authority concerned a further notice setting out the inadequacy and requiring the authority to reconsider the matter and respond within one month of the date of the notice.
+
+(4) A notice under subsection (3) must include a statement that a failure by the authority—
+
+(a) to provide what the Commissioner considers to be a satisfactory response; or
+
+(b) to provide any response within the period mentioned in that subsection,
+
+may be published in such manner as the Commissioner considers appropriate.
+
+(5) The Commissioner must maintain a register containing details of—
+
+(a) recommendations (together with the reasons for them) contained in reports made under section 15;
+
+(b) action taken by the Commissioner under subsections (1) and (3); and
+
+(c) the results of any such action.
+
+(6) Any register maintained under subsection (5) must be open to inspection by any person at all reasonable times at the offices of the Commissioner and the Commissioner may make arrangements for copies of the register to be available for inspection in such other place or places or by such other means as the Commissioner considers appropriate.
+
+(7) The Commissioner must publish those arrangements in such a way as to bring them to the attention of persons likely to be interested.
+
+### 17 Evidence in formal investigations
+
+(1) For the purposes of a formal investigation the Commissioner may require any person who in the Commissioner's opinion is able to supply information or produce documents relevant to the investigation to supply any such information or produce any such documents.
+
+(2) For the purposes of such an investigation the Commissioner has the same powers as the High Court in respect of—
+
+(a) the attendance and examination of witnesses, including the administration of oaths or affirmations and the examination of witnesses abroad; and
+
+(b) the production of documents.
+
+(3) A person may not be compelled for the purposes of a formal investigation to give any evidence or produce any document which that person could not be compelled to give or produce in civil proceedings in the High Court.
+
+(4) Where any information required to be supplied under this section consists of, or includes, information held by means of a computer or in any other form, the Commissioner may require any person having charge of, or otherwise connected with the operation of, the computer or other device holding that information to make the information available, or produce the information, in legible form.
+
+### 18 Powers of entry and inspection for purposes of formal investigation
+
+(1) Where the Commissioner considers it necessary to do so for the proper conduct of a formal investigation, the Commissioner may, at any reasonable time, enter any premises managed by a relevant authority in which—
+
+(a) an older person is living or being looked after;
+
+(b) an older person is being detained whether under any statutory provision or otherwise; or
+
+(c) health, welfare or any other services are provided for older persons.
+
+(2) On entering any premises under this section, the Commissioner may—
+
+(a) make any examination into the state and management of the premises and the treatment of older persons there which the Commissioner thinks appropriate;
+
+(b) subject to subsection (3), inspect and take copies of any documents or records which are required by any statutory provision to be kept there;
+
+(c) subject to subsection (4), interview any older person present on the premises who consents to be interviewed;
+
+(d) interview in private any other person present on the premises who is employed there (whether the employment is paid or unpaid or under a contract or otherwise).
+
+(3) The Commissioner may not exercise the Commissioner's power under subsection (2)(b) unless the Commissioner considers it necessary to do so for the proper conduct of the investigation.
+
+(4) An interview under subsection (2)(c) must be conducted—
+
+(a) if the older person requires another person to be present, in that other person's presence; and
+
+(b) otherwise in the presence of others only to the extent that the older person and the Commissioner have consented to their being present.
+
+(5) Where the Commissioner proposes to exercise the power of entry conferred by this section the Commissioner must, if so required, produce some duly authenticated document showing the Commissioner's authority to exercise the power.
+
+(6) Nothing in this section authorises the Commissioner to enter any premises (or any part of any premises) used wholly or mainly as a private dwelling.
+
+### 19 Obstruction and contempt in relation to formal investigation
+
+(1) If any person without lawful excuse—
+
+(a) obstructs the Commissioner or any officer of the Commissioner in the conduct of a formal investigation; or
+
+(b) is guilty of any act in relation to such an investigation which, if that investigation were a proceeding in the High Court, would constitute contempt of court,
+
+the Commissioner may certify the offence to the High Court.
+
+(2) Where an offence is certified under this section, the High Court may inquire into the matter and, after hearing—
+
+(a) any witnesses who may be produced against or on behalf of the person charged with the offence; and
+
+(b) any statement that may be offered in defence,
+
+may deal with the person charged with the offence in any manner in which the court could deal with that person if the person had committed the same offence in relation to the court.
+
+(3) This section does not apply to the taking in good faith of any action mentioned in section 13(12).
+
+### 20 Disclosure of information by Commissioner
+
+(1) Information obtained by the Commissioner or the Commissioner's officers in the course of, or for the purposes of, a formal investigation must not be disclosed except as permitted by subsection (2) or for the purposes of—
+
+(a) the investigation and any report to be made thereon under this Act;
+
+(b) any civil proceedings or proceedings for a criminal offence;
+
+(c) an inquiry with a view to the taking of proceedings for a criminal offence; or
+
+(d) any proceedings under section 19.
+
+(2) Where information is to the effect that any person (“the subject”) is likely to constitute a threat to the health or safety of any other person (“the person at risk”), the Commissioner may disclose that information to any person to whom the Commissioner thinks it should be disclosed in the interests of the health or safety of the person at risk.
+
+(3) If the Commissioner discloses information as permitted by subsection (2), the Commissioner must—
+
+(a) where the Commissioner knows the identity of the subject, inform the subject—
+
+(i) that the Commissioner has disclosed the information; and
+
+(ii) of the identity of any person to whom the Commissioner has disclosed it; and
+
+(b) inform the person from whom the information was obtained that the Commissioner has disclosed it.
+
+## Review of this Act
+
+### 21 Review of this Act
+
+(1) The Commissioner must—
+
+(a) keep under review the working of this Act;
+
+(b) make reports on it to the [[^F4]Department for Communities] in accordance with the following provisions of this section.
+
+(2) The first report under this section must be made as soon as practicable after the third anniversary of this Act receiving Royal Assent.
+
+(3) A subsequent report under this section must be made at such time as the Commissioner thinks fit, not being earlier than three years, or later than five years, after the making of the last previous report.
+
+(4) A report under this section—
+
+(a) must include the views of the Commissioner on the adequacy and effectiveness of this Act; and
+
+(b) may contain recommendations as to amendments to this Act which in the opinion of the Commissioner are necessary or desirable.
+
+(5) The [[^F5]Department for Communities] must lay a copy of every report sent to them under this section before the Assembly.
+
+## Supplementary provisions
+
+### 22 Privilege for certain publications
+
+For the purposes of the law of defamation, publication by the Commissioner of any matter which the Commissioner is required or authorised to publish under this Act is absolutely privileged.
+
+### 23 Application of this Act: relevant authorities with mixed functions
+
+(1) In relation to a general health care provider, the relevant authority provisions of this Act apply only in relation to matters arising in connection with any general health care provided by that provider.
+
+(2) In relation to an independent provider, the relevant authority provisions of this Act apply only in relation to matters arising in connection with a service which the independent provider was providing, or which it was the independent provider's function to provide, under arrangements with a health and social care body or a general health care provider.
+
+(3) In relation to any other relevant authority (except a person carrying on or managing a residential care home or nursing home), the relevant authority provisions of this Act apply only in relation to matters arising in connection with the exercise by the authority of its public functions.
+
+(4) For the purposes of this section—
+
+- “public functions” means functions other than those of a private nature;
+
+- “the relevant authority provisions of this Act” are—
+
+  - (a) section 3(3) and (7);
+  - (b) section 4(4);
+  - (c) sections 5 to 9;
+  - (d) sections 13 to 20; and
+  - (e) Schedule 2.
+
+### 24 Application of this Act: matters arising before commencement
+
+This Act applies in relation to matters arising before as well as after it comes into operation.
+
+## Interpretation
+
+### 25 Interpretation: “older person”
+
+(1) Subject to subsections (2) to (4), for the purposes of this Act “older person” means a person aged 60 or over.
+
+(2) If the Commissioner is of the opinion that a matter raises a question of principle affecting persons aged 50 or over, the Commissioner may direct that, for the purposes of this Act, “older person” means a person aged 50 or over in relation to that matter.
+
+(3) If, in the case of a person aged 50 or over (“P”), there are in the opinion of the Commissioner exceptional circumstances which make it appropriate to do so, the Commissioner may direct that subsection (4) applies in relation to P.
+
+(4) Where this subsection applies in relation to P, then—
+
+(a) anything which is required or authorised by this Act to be done by an older person may be done by P; and
+
+(b) anything which is required or authorised by this Act to be done by the Commissioner in relation to an older person may be done in relation to P.
+
+(5) Anything which is required or authorised by this Act to be done by an older person may, where the older person—
+
+(a) has died; or
+
+(b) is for some reason unable to act for himself or herself,
+
+be done by the older person's personal representative or by a member of the older person's family or other body or individual suitable to represent the older person.
+
+(6) Subject to subsection (7), the Office may by order amend the ages specified in subsections (1) to (3).
+
+(7) An order under subsection (6) may not amend the ages specified in subsection (2) or (3) to any age above the age of 60.
+
+(8) No order may be made under subsection (6) unless a draft of the order has been laid before, and approved by resolution of, the Assembly.
+
+(9) An order under subsection (6) may contain such transitional provisions as the Office thinks appropriate.
+
+### 26 Interpretation: “relevant authority”
+
+(1) In this Act “relevant authority” means—
+
+[[^F6](a) any authority (other than the Office of the Commissioner, the board of governors of a grant-aided school or the Comptroller and Auditor General) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities).]
+
+(c) any body or person listed in Schedule 3.
+
+(2) The Office may by order amend Schedule 3 so as to—
+
+(a) add a body or person to that Schedule;
+
+(b) remove a body or person from that Schedule; or
+
+(c) modify any entry in that Schedule.
+
+(3) No order may be made under subsection (2) unless a draft of the order has been laid before, and approved by resolution of, the Assembly.
+
+(4) An order under subsection (2) may contain such transitional provisions as the Office thinks appropriate.
+
+(5) An order under subsection (2) which adds a body or person to Schedule 3 may provide for this Act to apply to that person or body subject to such modifications or exceptions as are specified in the order.
+
+(6) In this Act “relevant authority concerned” means—
+
+(a) in relation to an investigation for the purposes of the Commissioner's functions under section 3(2) or (3), a relevant authority mentioned in the terms of reference produced for that investigation under paragraph 2(2)(a) of Schedule 2;
+
+(b) in relation to an investigation for the purposes of the Commissioner's functions under section 5 or 6, the relevant authority in relation to which the investigation is to be, is being, or (as the case may be) has been conducted; and
+
+(c) in relation to a formal investigation into a complaint under section 8(1), the relevant authority against which the complaint was made.
+
+(7) In this Act any reference to action taken by a relevant authority is a reference to action taken for the purposes of a function exercisable in or as regards Northern Ireland and includes a reference to action taken by—
+
+(a) a member or committee of the authority (if it is a body);
+
+(b) an officer or member of staff of the authority;
+
+(c) any person acting on behalf of the authority;
+
+(d) any person to whom the authority has delegated functions.
+
+### 27 Interpretation: general
+
+In this Act—
+
+- “action” includes failure to act;
+
+- “advocacy arrangements”, “complaint arrangements”, “inspection arrangements” and “whistle-blowing arrangements” have the meanings given by section 5(1);
+
+- “the Commissioner” means the Commissioner for Older People for Northern Ireland;
+
+- “the complainant”, in relation to a formal investigation into a complaint under section 8(1), means the older person by whom or on whose behalf the complaint was made;
+
+- “formal investigation” means an investigation under section 13;
+
+- “general health care provider” has the meaning given in paragraph 1 of Schedule 3 and references to general health care are to any of the services mentioned in that paragraph;
+
+- “health and social care body” means any of the following bodies—
+
+  - (a) [^F7]...
+  - (b) the Regional Agency for Public Health and Social Well-being;
+  - (c) the Regional Support Services Organisation;
+  - (d) a Health and Social Care trust;
+  - (e) a special health and social care agency;
+
+- “independent provider” has the meaning given in paragraph 2 of Schedule 3;
+
+- “information” includes information recorded in any form;
+
+- “interests” includes rights;
+
+- “notice” means notice in writing;
+
+- “the Office” means the Office of the First Minister and deputy First Minister;
+
+- “practice” includes policy;
+
+- “statutory provision” has the same meaning as in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
+
+## General
+
+### 28 Commencement
+
+(1) The following provisions of this Act come into operation two weeks after the day on which this Act receives Royal Assent—
+
+(a) section 1 (together with Schedule 1);
+
+(b) sections 25 to 27 (together with Schedule 3); and
+
+(c) this section and section 29.
+
+(2) The other provisions of this Act come into operation on such day or days as the Office may by order appoint.
+
+(3) An order under subsection (2) may contain such transitional provisions as appear to the Office to be appropriate.
+
+### 29 Short title
+
+This Act may be cited as the Commissioner for Older People Act (Northern Ireland) 2011.
+
+## SCHEDULE 1 — The Commissioner for Older People for Northern Ireland
+
+*Section 1(4).*
+
+### Status
+
+**1** (1) The person for the time being holding the office of Commissioner for Older People for Northern Ireland is by that name to be a corporation sole.
+
+(2) The Commissioner is not to be regarded—
+
+(a) as the servant or agent of the Crown; or
+
+(b) as enjoying any status, immunity or privilege of the Crown.
+
+(3) The property held by the Commissioner is not to be regarded as property of, or held on behalf of, the Crown.
+
+### General powers
+
+**2** (1) The Commissioner may do anything, apart from borrowing money, which the Commissioner considers is—
+
+(a) appropriate for facilitating, or
+
+(b) incidental or conducive to,
+
+the exercise of the Commissioner's functions.
+
+(2) That includes in particular—
+
+(a) co-operating with other bodies exercising functions relating to older persons or their interests (whether in the United Kingdom or elsewhere);
+
+(b) acquiring, holding and disposing of real or personal property;
+
+(c) entering into contracts.
+
+### Tenure of office
+
+**3** (1) Subject to the provisions of this paragraph, a person holds and vacates office as the Commissioner in accordance with the terms of that person's appointment.
+
+(2) An appointment as the Commissioner is for a term of 4 years.
+
+(3) A person who ceases to be the Commissioner on the expiration of that person's first term of office is eligible for re-appointment, but a person who has been re-appointed by virtue of this sub-paragraph is not eligible for appointment or re-appointment as the Commissioner at any time after the end of that person's second term of office.
+
+(4) A person may at any time resign from office as the Commissioner by notice to the First Minister and deputy First Minister.
+
+(5) The First Minister and deputy First Minister acting jointly may remove a person from office as the Commissioner if satisfied that that person has—
+
+(a) been convicted of a criminal offence;
+
+(b) become bankrupt [[^F8]or is the subject of a bankruptcy restrictions order] [[^F9]or had a debt relief order made in respect of him or is the subject of a debt relief restrictions order] or made an arrangement or composition with that person's creditors;
+
+(c) without reasonable excuse, failed to discharge the functions of the Commissioner for a continuous period of 3 months; or
+
+(d) become unfit or unable to exercise the functions of the Commissioner.
+
+### Salary, etc.
+
+**4** (1) The Office may pay to or in respect of the Commissioner—
+
+(a) such remuneration,
+
+(b) such allowances, and
+
+(c) such sums for the provision of a pension,
+
+as the Office may determine.
+
+(2) Where a person ceases to hold office as Commissioner otherwise than on the expiration of that person's term of office and the Office determines that there are special circumstances that make it right for that person to receive compensation, the Office may make to that person a payment of such amount as the Office may determine.
+
+(3) A determination of the Office under this paragraph requires the approval of the Department of Finance and Personnel.
+
+### Staff
+
+**5** (1) The Commissioner may appoint such number of officers as the Commissioner may determine.
+
+(2) The remuneration and other conditions of service of the officers appointed under this paragraph are to be determined by the Commissioner.
+
+(3) The Commissioner may make such payments towards the provision of such pensions or allowances to or in respect of the officers appointed under this paragraph as the Commissioner may determine.
+
+(4) The reference in sub-paragraph (3) to pensions or allowances to or in respect of the officers appointed under this paragraph includes reference to pensions or allowances by way of compensation to or in respect of any of those officers who suffer loss of employment.
+
+(5) A determination of the Commissioner under this paragraph requires the approval of the Office and the Department of Finance and Personnel.
+
+(6) Employment as an officer of the Commissioner is among the kinds of employment to which a superannuation scheme under Article 3 of the Superannuation (Northern Ireland) Order 1972 (NI 10) can apply and, accordingly, in Schedule 1 to that Order (employments to which Article 3 can apply) the following entry is inserted at the appropriate place— “ Employment by the Commissioner for Older People for Northern Ireland. ”.
+
+### Exercise of functions of Commissioner
+
+**6** Any function of the Commissioner may be exercised by any officer of the Commissioner who has been authorised (whether generally or specially) by the Commissioner for the purpose.
+
+### Seal
+
+**7** The application of the seal of the Commissioner must be authenticated by the Commissioner's signature or by the signature of any officer of the Commissioner who has been authorised (whether generally or specially) by the Commissioner for the purpose.
+
+### Evidence
+
+**8** A document purporting to be an instrument issued by the Commissioner and to be duly executed under the Commissioner's seal or to be signed by, or on behalf of, the Commissioner is to be received in evidence and, unless the contrary is proved, taken to be such an instrument.
+
+### Property
+
+**9** (1) Any real or personal property vested in the Commissioner must (unless and until disclaimed or disposed of) vest in the Commissioner's successor in office.
+
+(2) Where there is a vacancy in the office of Commissioner at the time when real or personal property would otherwise have vested, the property must vest in the successor on that person's appointment.
+
+### Funding
+
+**10** (1) The Office may make grants to the Commissioner of such amounts as it may determine.
+
+(2) Subject to sub-paragraph (3), the Commissioner must pay to the Office all sums received by the Commissioner in the course of, or in connection with, the carrying out of the functions of the Commissioner.
+
+(3) Sub-paragraph (2) does not apply to such sums, or sums of such description, as the Office may, with the approval of the Department of Finance and Personnel, direct.
+
+(4) Any sums received by the Office under sub-paragraph (2) must be paid into the Consolidated Fund.
+
+### Accounts
+
+**11** (1) The Commissioner must—
+
+(a) keep proper accounts and proper records in relation to the accounts, and
+
+(b) prepare a statement of accounts in respect of each financial year.
+
+(2) The statement of accounts must—
+
+(a) be in such form, and
+
+(b) contain such information,
+
+as the Office may, with the approval of the Department of Finance and Personnel, direct.
+
+(3) The Commissioner must, within such period after the end of each financial year as the Office may direct, send copies of the statement of accounts relating to that year to—
+
+(a) the Office, and
+
+(b) the Comptroller and Auditor General.
+
+(4) The Comptroller and Auditor General must—
+
+(a) examine, certify and report on every statement of accounts sent to the Comptroller and Auditor General by the Commissioner under this paragraph, and
+
+(b) send a copy of the Comptroller and Auditor General's report to the Office.
+
+(5) The Office must lay a copy of the statement of accounts and of the Comptroller and Auditor General's report before the Assembly.
+
+(6) In this paragraph and paragraph 12 “financial year” means—
+
+(a) the period beginning with the day on which the first person appointed under section 1(2) takes office and ending with the next 31st March following that date, and
+
+(b) each successive period of twelve months ending with 31st March.
+
+### Annual report
+
+**12** (1) As soon as practicable after the end of each financial year, the Commissioner must send to the Office a report on the carrying out of the functions of the Commissioner during that year.
+
+(2) A report under this paragraph in respect of any year must give details of the steps taken by the Commissioner in that year for the purpose of complying with the Commissioner's duty under section 3(8).
+
+(3) The Office must—
+
+(a) lay a copy of every report sent to it under this paragraph before the Assembly; and
+
+(b) send a copy of every such report to the Secretary of State.
+
+### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+
+**13** In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices) insert, at the appropriate place— “ Commissioner for Older People for Northern Ireland ”.
+
+### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
+
+**[^F10]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Freedom of Information Act 2000 (c. 36)
+
+**15** In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies which are public authorities for the purposes of the Act) insert, at the appropriate place— “ The Commissioner for Older People for Northern Ireland ”.
+
+## SCHEDULE 2 — Investigation under section 4(4)
+
+*Section 4(4).*
+
+### Interpretation
+
+**1** In this Schedule any reference to an investigation is a reference to an investigation in relation to which the Commissioner has made a determination under section 4(4).
+
+### Conduct of investigation
+
+**2** (1) In determining whether to conduct or discontinue an investigation, the Commissioner may act in accordance with the Commissioner's own discretion.
+
+(2) Where the Commissioner determines under section 4(4) to conduct an investigation the Commissioner must—
+
+(a) produce terms of reference for the investigation;
+
+(b) send notice of the proposed investigation and a copy of the terms of reference to any relevant authority concerned and such other bodies or persons as the Commissioner thinks fit; and
+
+(c) afford to every such authority an opportunity to comment on the matter being investigated and to give oral or other evidence respecting those matters.
+
+(3) An investigation must be conducted in private.
+
+(4) Except as otherwise provided by this Act, the procedure for conducting an investigation is such as the Commissioner considers appropriate in the circumstances of the case; and, in particular, it is for the Commissioner to determine whether any person may be represented by counsel or solicitor or otherwise in the investigation.
+
+(5) The Commissioner may for the purposes of an investigation obtain information from such persons and in such manner, and make such enquiries, as the Commissioner thinks fit.
+
+(6) Subject to sub-paragraph (7), in conducting an investigation the Commissioner is not obliged to hold any hearing, and no person is entitled as of right to be heard by the Commissioner.
+
+(7) If at any time during the course of an investigation it appears to the Commissioner that there may be grounds for making any report or recommendation that may adversely affect any relevant authority or person, the Commissioner must afford to that authority or person—
+
+(a) an opportunity to give oral or other evidence; and
+
+(b) an opportunity of testing by cross-examination any evidence which may affect that authority or person.
+
+(8) The Commissioner may, if the Commissioner thinks fit, pay to any person who attends or supplies information for the purposes of a formal investigation—
+
+(a) sums in respect of expenses properly incurred by that person;
+
+(b) allowances by way of compensation for the loss of that person's time,
+
+in accordance with such scales and subject to such conditions as the Office may determine.
+
+(9) An investigation does not affect—
+
+(a) any action taken by a relevant authority or by any department or Minister with respect to that authority; or
+
+(b) any power or duty of that authority, department or Minister to take further action with respect to any matters subject to the investigation.
+
+### Report on investigation
+
+**3** (1) Where the Commissioner has conducted an investigation pursuant to a determination under section 4(4), the Commissioner must prepare a report on the outcome of the investigation and send it to—
+
+(a) any relevant authority concerned and, where the report contains recommendations as to action to be taken by any other relevant authority, that relevant authority; and
+
+(b) such other bodies or persons as the Commissioner thinks appropriate.
+
+(2) Apart from identifying any relevant authority concerned, a report under this paragraph must not—
+
+(a) mention the name of any person; or
+
+(b) contain any particulars which, in the Commissioner's opinion, are likely to identify any person and can be omitted without impairing the effectiveness of the report,
+
+unless the Commissioner determines that it is necessary to do so (whether for the purposes of sub-paragraph (3) or otherwise).
+
+(3) A report under this paragraph may include recommendations as to action to be taken by a relevant authority mentioned in the report; and any such recommendations must be accompanied by the Commissioner's reasons for making them.
+
+(4) Where a report contains a recommendation as to action to be taken by a relevant authority, the authority must—
+
+(a) consider the recommendation; and
+
+(b) determine what action (if any) to take in response to the recommendation.
+
+### Further action following report on investigation
+
+**4** (1) Where the Commissioner has made a report under paragraph 3 which contains a recommendation in respect of a relevant authority, the Commissioner may by notice require that authority to provide the Commissioner within 3 months of the date of the notice with—
+
+(a) such information as will enable the Commissioner to determine whether the authority has complied with the recommendation or will be complying with it; or
+
+(b) a statement of the authority's reason for not complying with the recommendation.
+
+(2) A notice under sub-paragraph (1) must include a statement that a failure by the authority to respond within the period mentioned in that sub-paragraph may be published in such manner as the Commissioner considers appropriate.
+
+(3) If, on receipt of a response from the authority, the Commissioner considers that—
+
+(a) the action taken or proposed to be taken by the authority to comply with the recommendation is inadequate; or
+
+(b) the authority's reason for not complying with the recommendation is inadequate,
+
+the Commissioner may send to the authority concerned a further notice setting out the inadequacy and requiring the authority to reconsider the matter and respond within one month of the date of the notice.
+
+(4) A notice under sub-paragraph (3) must include a statement that a failure by the authority—
+
+(a) to provide what the Commissioner considers to be a satisfactory response; or
+
+(b) to provide any response within the period mentioned in that sub-paragraph,
+
+may be published in such manner as the Commissioner considers appropriate.
+
+(5) The Commissioner must include in the register maintained under section 16(5) details of—
+
+(a) recommendations (together with the reasons for them) contained in reports made under paragraph 3;
+
+(b) action taken by the Commissioner under sub-paragraphs (1) and (3); and
+
+(c) the results of any such action.
+
+## SCHEDULE 3 — Relevant authorities
+
+*Section 26(1).*
+
+The following bodies and persons are relevant authorities by virtue of section 26(1)(c)—
+
+### Health and social care
+
+**[^F11]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F12]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** Any person carrying on or managing any of the following within the meaning of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (NI 9)—
+
+(a) a residential care home, nursing home or independent hospital in which older persons are accommodated;
+
+(b) an independent clinic;
+
+(c) an independent medical agency or domiciliary care agency;
+
+(d) a day care setting.
+
+### Education
+
+**[^F13]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Others
+
+**5** The ombudsman scheme operator as defined by section 225(2) of the Financial Services and Markets Act 2000 (c. 8).
+
+**6** The Office of Qualifications and Examinations Regulation.
+
+**7** The Police Ombudsman for Northern Ireland.
+
+**8** The Northern Ireland Judicial Appointments Commission.
+
+**9** The Northern Ireland Judicial Appointments Ombudsman.
+
+---
+
+[^F1]: Words in s. 1(3) substituted (8.5.2016) by The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76), art. 1(2), Sch. 6 para. 12 (with art. 9(2))
+[^F2]: Words in s. 7(6) substituted (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 8 para. 11 (with s. 23, 50(3))
+[^F3]: Words in s. 7(6) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 38; S.I. 2026/1015, reg. 2(c)
+[^F4]: Words in s. 21(1)(b) substituted (8.5.2016) by The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76), art. 1(2), Sch. 6 para. 13(a) (with art. 9(2))
+[^F5]: Words in s. 21(5) substituted (8.5.2016) by The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76), art. 1(2), Sch. 6 para. 13(b) (with art. 9(2))
+[^F6]: S. 26(1)(a) substituted for s. 26(1)(a)(b) (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 8 para. 12 (with s. 23, 50(3))
+[^F7]: Words in s. 27 omitted (1.4.2022) by virtue of Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 243; S.R. 2022/102, art. 2(b)
+[^F8]: Words in Sch. 1 para. 3(5)(b) inserted (21.4.2015) by The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159), art. 1, Sch. para. 18
+[^F9]: Words in Sch. 1 para. 3(5)(b) inserted (7.3.2016) by The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108), art. 1, Sch. para. 24
+[^F10]: Sch. 1 para. 14 repealed (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 9 (with s. 23, 50(3))
+[^F11]: Sch. 3 para. 1 repealed (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 9 (with s. 23, 50(3))
+[^F12]: Sch. 3 para. 2 repealed (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 9 (with s. 23, 50(3))
+[^F13]: Sch. 3 para. 4 repealed (1.10.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 9 (with s. 23, 50(3))

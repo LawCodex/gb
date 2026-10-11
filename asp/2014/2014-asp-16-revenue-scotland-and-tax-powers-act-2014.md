@@ -2532,7 +2532,7 @@ A person is not liable to a penalty under this Act in respect of anything in res
 
 (6) Sections 164 to 167 apply in the case of a return falling within item 2 [[^F18]or 3] of the table.
 
-#### Amounts of penalties for failure to make returns:LBTT
+#### Amounts of penalties for failure to make returns: LBTT
 
 ##### 160 Land and buildings transaction tax: first penalty for failure to make return
 
@@ -2667,7 +2667,7 @@ A person is not liable to a penalty under this Act in respect of anything in res
 
 (5) Sections 170 to 173 apply in the case of a payment falling within item 2 [[^F32]or 3] of the table.
 
-#### Amounts of penalties for failure to pay tax:LBTT
+#### Amounts of penalties for failure to pay tax: LBTT
 
 ##### 169 Land and buildings transaction tax: amounts of penalties for failure to pay tax
 

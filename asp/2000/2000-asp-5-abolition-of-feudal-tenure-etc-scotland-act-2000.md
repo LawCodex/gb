@@ -1898,7 +1898,7 @@ Where the title has not been registered in the Land Register and the superior—
 >
 > **Signature of superior:**
 >
-> **Date:**.”.
+> **Date:** .”.
 
 *Explanatory Note*
 
@@ -2080,7 +2080,7 @@ Where the title—
 
 This notice is sent by your feudal superior.
 
-At present the use of your property is subject to certain burdens and conditions enforceable by the feudal superior. The feudal system is shortly to be abolished. [By the regulations mentioned in the notice, the Scottish Ministers have prescribed that your superior should be a conservation body. Such a body is entitled to enforce certain real burdens (referred to prospectively as (“conservation burdens”.]*or* [The feudal superior is the Scottish Ministers and it is intended that they shall enforce certain real burdens (referred to prospectively as (“conservation burdens”[^F80]. . . .] These are burdens which have been imposed in the public interest for the preservation or protection either of architectural or historic characteristics of land or of some other special characteristic of land derived from the flora, fauna, or general appearance of the land. By this notice [the conservation body is] [the Scottish Ministers are] claiming the right to continue to enforce a conservation burden, not as superior but [in its capacity as a conservation body] [in their capacity as the Scottish Ministers]. The notice, if it is registered in the Land Register of Scotland or recorded in the Register of Sasines under section 27 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow the burden and conditions to be so enforced after the feudal system has been abolished.
+At present the use of your property is subject to certain burdens and conditions enforceable by the feudal superior. The feudal system is shortly to be abolished. [By the regulations mentioned in the notice, the Scottish Ministers have prescribed that your superior should be a conservation body. Such a body is entitled to enforce certain real burdens (referred to prospectively as (“conservation burdens”.] *or* [The feudal superior is the Scottish Ministers and it is intended that they shall enforce certain real burdens (referred to prospectively as (“conservation burdens”[^F80]. . . .] These are burdens which have been imposed in the public interest for the preservation or protection either of architectural or historic characteristics of land or of some other special characteristic of land derived from the flora, fauna, or general appearance of the land. By this notice [the conservation body is] [the Scottish Ministers are] claiming the right to continue to enforce a conservation burden, not as superior but [in its capacity as a conservation body] [in their capacity as the Scottish Ministers]. The notice, if it is registered in the Land Register of Scotland or recorded in the Register of Sasines under section 27 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow the burden and conditions to be so enforced after the feudal system has been abolished.
 
 If you think that there is a mistake in this notice or if you wish to challenge it, you are advised to consult your solicitor or other adviser.
 
@@ -2338,7 +2338,7 @@ Date: .”.
 
 > **ASSIGNATION [OR DISCHARGE OR RESTRICTION] OF RESERVED RIGHT TO CLAIM COMPENSATION**
 >
-> I, [A. B.] (*designation*), hereby [assign to C. D. (*designation*)]*or* [*discharge*] the right to claim compensation reserved by a notice dated (*specify date*) and [recorded in the Register of Sasines for (*specify county*) on (*specify date*) under (*specify fiche and frame*) *or* registered in the Land Register of Scotland on (*specify date*) against the subjects in title number (*specify number*)] [*add if applicable* but only to the extent of (*specify percentage*) of each claim which may come to be made]*or* [*add if applicable* but only to the extent of (*specify restriction*) *or* but only in relation to (*specify restriction*)]. [*Where the person assigning or as the case may be discharging or restricting the right to claim compensation is not registered as having that right, add a note setting out the midcouples or links between that person and the person last so registered so as sufficiently to identify them.*]
+> I, [A. B.] (*designation*), hereby [assign to C. D. (*designation*)] *or* [*discharge*] the right to claim compensation reserved by a notice dated (*specify date*) and [recorded in the Register of Sasines for (*specify county*) on (*specify date*) under (*specify fiche and frame*) *or* registered in the Land Register of Scotland on (*specify date*) against the subjects in title number (*specify number*)] [*add if applicable* but only to the extent of (*specify percentage*) of each claim which may come to be made]*or* [*add if applicable* but only to the extent of (*specify restriction*) *or* but only in relation to (*specify restriction*)]. [*Where the person assigning or as the case may be discharging or restricting the right to claim compensation is not registered as having that right, add a note setting out the midcouples or links between that person and the person last so registered so as sufficiently to identify them.*]
 
 .
 
@@ -2633,7 +2633,7 @@ Where the title has not been registered in the Land Register and the superior—
 
 (d) the definition of “charter” and of “writ” shall cease to have effect;
 
-(e) in the definition of “deed” and of “conveyance”, the words “charters,”, “whether containing a warrant or precept of sasine or not, and”, “feu contracts, contracts of ground annual,”, “, whether such decrees contain warrant to infeft or precept of sasine or not,” and “, procuratories of resignation*an remanentiam*,” shall cease to have effect;
+(e) in the definition of “deed” and of “conveyance”, the words “charters,”, “whether containing a warrant or precept of sasine or not, and”, “feu contracts, contracts of ground annual,”, “, whether such decrees contain warrant to infeft or precept of sasine or not,” and “, procuratories of resignation *an remanentiam*,” shall cease to have effect;
 
 (f) the definition of “deed of entail” shall cease to have effect;
 
@@ -2677,7 +2677,7 @@ Where the title has not been registered in the Land Register and the superior—
 
 shall cease to have effect.
 
-(7) Sections 14 (certain clauses in entails no longer necessary), 15 (instrument of sasine no longer necessary), 17 (not necessary to record the whole conveyance or discharge), 18 (instrument of resignation*an remanentiam* unnecessary), 19 (notarial instruments in favour of general disponees) and 23 (notarial instruments in favour of parties acquiring rights to unrecorded conveyances) shall cease to have effect.
+(7) Sections 14 (certain clauses in entails no longer necessary), 15 (instrument of sasine no longer necessary), 17 (not necessary to record the whole conveyance or discharge), 18 (instrument of resignation *an remanentiam* unnecessary), 19 (notarial instruments in favour of general disponees) and 23 (notarial instruments in favour of parties acquiring rights to unrecorded conveyances) shall cease to have effect.
 
 (8) In section 24 (mode of completing title by judicial factor on trust estate etc.), the words “, with warrant of registration thereon,” shall cease to have effect.
 
@@ -2703,7 +2703,7 @@ shall cease to have effect.
 
 (13) In section 62 (effect of decree of adjudication or sale), for the words from “feudal titles to said lands” to the end, substitute “ title by recording the decree as a conveyance or by using the decree as a midcouple or link of title. ”.
 
-(14) Sections 63 to 93 (Crown writs), 96 (provision for temporary absence or disability of Sheriff of Chancery), 100 (all writs and charters from subject superiors may refer to *tenendas* and*reddendo*) 104 to 109 (ways of completing title where superior did not or could not grant entry), 110 (mode of relinquishing superiority), 111 (investiture by over superior), 112 (forfeiture or relinquishment of rights of superiority does not operate as contravention of entail, etc.), 113 (payment in lieu of casualties of superiority in case of lands conveyed for religious purposes), 114 and 116 (provisions as respects writs of*clare constat*, etc.) shall cease to have effect.
+(14) Sections 63 to 93 (Crown writs), 96 (provision for temporary absence or disability of Sheriff of Chancery), 100 (all writs and charters from subject superiors may refer to *tenendas* and *reddendo*) 104 to 109 (ways of completing title where superior did not or could not grant entry), 110 (mode of relinquishing superiority), 111 (investiture by over superior), 112 (forfeiture or relinquishment of rights of superiority does not operate as contravention of entail, etc.), 113 (payment in lieu of casualties of superiority in case of lands conveyed for religious purposes), 114 and 116 (provisions as respects writs of *clare constat*, etc.) shall cease to have effect.
 
 (15) For section 117 (heritable securities to form moveable estate; except where conceived in favour of heirs, excluding executors, and*quoad fiscum*) there shall be substituted—
 
@@ -3243,7 +3243,7 @@ shall cease to have effect.
 
 (3) In section 20 (consideration in respect of discharge of feu-duty etc.)—
 
-(a) in subsection (1), the words “the*dominium utile* in”, in both places where they occur, shall cease to have effect;
+(a) in subsection (1), the words “the *dominium utile* in”, in both places where they occur, shall cease to have effect;
 
 (b) in subsection (2), the words “feu-duty, or ground annual or other” and “(not being stipend or standard charge in lieu of stipend)” shall cease to have effect;
 
@@ -3259,7 +3259,7 @@ shall cease to have effect.
 
 (a) in paragraph (e), the words “the *dominium utile* of” and, in both places where they occur, “feu-duty or”; and
 
-(b) in paragraph (f), the words “the*dominium utile* of”,
+(b) in paragraph (f), the words “the *dominium utile* of”,
 
 shall cease to have effect.
 
@@ -3293,7 +3293,7 @@ and
 
 (2) In section 5(3) (recording of forestry dedication agreement affecting land in Scotland), in the proviso, for the words “completed by infeftment” substitute “ title has been completed ”.
 
-(3) In section 34(3) (Scottish interpretation of expression “owner”), the words “the proprietor of the*dominium utile* or, in the case of land other than feudal land, is” shall cease to have effect.
+(3) In section 34(3) (Scottish interpretation of expression “owner”), the words “the proprietor of the *dominium utile* or, in the case of land other than feudal land, is” shall cease to have effect.
 
 (4) In section 49 (interpretation), subsection (3) shall cease to have effect.
 
@@ -3709,7 +3709,7 @@ and
 
 (3) In section 18(4) (capacities relevant to limited ownership), in paragraph (c), the words “or heir of entail” shall cease to have effect.
 
-(4) In section 57(1) (power to require information), the words “of the*dominium utile*,” shall cease to have effect.
+(4) In section 57(1) (power to require information), the words “of the *dominium utile*,” shall cease to have effect.
 
 #### Education (Scotland) Act 1980 (c.44)
 
@@ -3950,9 +3950,9 @@ shall cease to have effect.
 
 **56** (1) The Coal Industry Act 1994 shall be amended in accordance with this paragraph.
 
-(2) In section 8 (exploitation rights: territorial waters and continental shelf), in subsection (6), for the words “a proprietor of the*dominium utile*” substitute “ an owner ”.
+(2) In section 8 (exploitation rights: territorial waters and continental shelf), in subsection (6), for the words “a proprietor of the *dominium utile*” substitute “ an owner ”.
 
-(3) In section 9 (exploitation rights: oil and gas), in subsection (4)(b), for the words “proprietor of the*dominium utile* as respects” substitute “ an owner in ”.
+(3) In section 9 (exploitation rights: oil and gas), in subsection (4)(b), for the words “proprietor of the *dominium utile* as respects” substitute “ an owner in ”.
 
 (4) In section 10 (protection for certain interests in coal and coal mines), in subsection (7), paragraph (b) and the word “and” immediately preceding that paragraph shall cease to have effect.
 
@@ -3960,7 +3960,7 @@ shall cease to have effect.
 
 **57** In section 96(1) of the Value Added Tax Act 1994 (interpretation) in the definition of—
 
-(a) “fee simple”, in paragraph (a), the words “estate or interest of the proprietor of the*dominium utile* or, in the case of land not held on feudal tenure, the estate or” shall cease to have effect; and
+(a) “fee simple”, in paragraph (a), the words “estate or interest of the proprietor of the *dominium utile* or, in the case of land not held on feudal tenure, the estate or” shall cease to have effect; and
 
 (b) “major interest”, for the words from “-(a) the estate” to “tenure, the estate or” substitute “ the ”.
 

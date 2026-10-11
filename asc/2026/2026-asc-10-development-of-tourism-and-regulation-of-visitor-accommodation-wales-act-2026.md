@@ -1820,7 +1820,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 - “regulated visitor accommodation” (“*llety ymwelwyr rheoleiddiedig*”) has the meaning given in section 5(1);
 - “short-term basis” (“*ar sail tymor byr*”) has the meaning given in section 5(7);
 - “specific fitness standards” (“*safonau ffitrwydd penodol*”) has the meaning given in section 8;
-- “tourist amenities, facilities and services in Wales”*(“amwynderau, cyfleusterau a gwasanaethau i dwristiaid yng Nghymru”)*have the meaning given in section 2(4);
+- “tourist amenities, facilities and services in Wales” *(“amwynderau, cyfleusterau a gwasanaethau i dwristiaid yng Nghymru”)* have the meaning given in section 2(4);
 - “visitor” (“*ymwelydd*”) has the meaning given in section 5(7);
 - “visitor accommodation” (“*llety ymwelwyr*”) has the meaning given in section 5(7);
 - “visitor accommodation contract” (“*contract llety ymwelwyr*”) has the meaning given in section 38;

@@ -3735,7 +3735,7 @@ A direction given under or by virtue of this Act must be in writing.
 
 - “marine impact report” (“*adroddiad effaith ar y môr*”) has the meaning given by section 37(4);
 
-- “minerals” (“*mwynau”)*includes all substances ordinarily worked for removal (including in the sea);
+- “minerals” (“*mwynau”)* includes all substances ordinarily worked for removal (including in the sea);
 
 - “monument” (“*heneb*”) has the same meaning as in the Historic Environment (Wales) Act 2023 (asc. 3) (see section 2 of that Act);
 

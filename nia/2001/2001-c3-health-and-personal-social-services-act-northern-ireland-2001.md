@@ -1,0 +1,2231 @@
+---
+title: "Health and Personal Social Services Act (Northern Ireland) 2001"
+identifier: "nia/2001/3"
+citation: "2001 CHAPTER 3"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2001-03-20
+last_amended: 2022-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2001/3"
+source_modified: 2024-05-20
+retrieved: 2026-10-11
+---
+
+# Health and Personal Social Services Act (Northern Ireland) 2001
+
+**2001 CHAPTER 3**
+
+An Act to establish a Northern Ireland Social Care Council and make provision for the registration, regulation and training of social care workers; to make provision about the recovery of charges in connection with the treatment of road traffic casualties in health services hospitals; to amend the law about the health and personal social services; to confer power to regulate the profession of pharmaceutical chemist; and for connected purposes.
+
+[20th March 2001]
+
+## PART I — SOCIAL CARE WORKERS
+
+### Preliminary
+
+#### 1 The Northern Ireland Social Care Council
+
+(1) There shall be a body corporate to be known as the Northern Ireland Social Care Council (referred to in this Part as “the Council”) which shall have the functions conferred on it by or under this Part or any other statutory provision.
+
+(2) It shall be the duty of the Council to promote—
+
+(a) high standards of conduct and practice among social care workers; and
+
+(b) high standards in their training.
+
+(3) The Council shall, in the exercise of its functions, act—
+
+(a) in accordance with any directions given to it by the Department; and
+
+(b) under the general guidance of the Department.
+
+(4) Schedule 1 shall have effect with respect to the Council.
+
+#### 2 “Social care worker”, etc.
+
+(1) This section has effect for the purposes of this Part.
+
+(2) “Social care worker” means a person (other than a person excepted by regulations) who—
+
+(a) engages in relevant social work (referred to in this Part as a “social worker”);
+
+(b) is employed at—
+
+(i) a children's home;
+
+(ii) a residential care home;
+
+(iii) a nursing home;
+
+(iv) a day care setting;
+
+(v) a residential family centre;
+
+(c) manages an establishment of a description mentioned in paragraph (b); or
+
+(d) is supplied by a domiciliary care agency to provide personal care in their own homes for persons who by reason of illness, infirmity or disability are unable to provide it for themselves without assistance.
+
+(3) Regulations may provide that persons of any of the following descriptions shall be treated as social care workers—
+
+(a) a person engaged in work for the purposes of the [[^F1]social care] functions of [[^F2]the Department or an] [[^F3]HSC trust];
+
+(b) a person engaged in the provision of personal care for any person;
+
+(c) a person who manages, or is employed in, an undertaking which consists of or includes supplying, or providing services for the purpose of supplying, persons to provide personal care;
+
+(d) a person engaged in the provision of services which are similar to services which may or must be provided by [[^F4]the Department] or [[^F5]HSC trusts] in the exercise of their [[^F1]social care] functions;
+
+(e) a person employed in connection with the discharge of functions of the Department under Article 149 of the Children (Northern Ireland) Order 1995 (NI 2) (inspection of children's homes etc.);
+
+(f) a person participating in a course approved by the Council under section 10 for persons wishing to become social workers.
+
+(4) “Relevant social work” means social work which is required in connection with any health, education, probation or [[^F1]social care] provided by any person.
+
+[^F6]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F6]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F6]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Registration
+
+#### 3 The register
+
+(1) The Council shall maintain a register of—
+
+(a) social workers [[^F7]and] ; [^F8]. . .
+
+(b) social care workers of any other description specified by order made by the Department.; [^F9]
+
+[^F9]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F10](2) There shall be a separate part of the register for—
+
+(a) social workers [[^F11]and] ;
+
+(b) each description of social care workers specified pursuant to subsection (1)(b); [^F12]
+
+[^F12]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A) For the purposes of this Part—
+
+(a) the part mentioned in subsection (2)(a) is the “principal part” of the register;
+
+(b) a part mentioned in subsection (2)(b) is an “added part” of the register;[^F13]
+
+[^F13]c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Department may by order provide for a specified part of the register to be closed, as from a date specified by the order, so that on or after that date no further persons can become registered in that part.
+
+(4) The Department shall consult the Council before making, varying or revoking any order under this section.
+
+(5) The register may be kept by means of a computer.
+
+#### 4 Applications for registration
+
+(1) An application for registration [[^F14] in the principal part**,** or an added part, of the register [^F15]...] shall be made to the Council in accordance with rules made by it.
+
+(2) An application under subsection (1) shall specify each part of the register in which registration is sought and such other matters as may be required by the rules.
+
+#### 5 Grant or refusal of registration
+
+(1) [[^F16]In the case of an application under section 4(1), if the Council] is satisfied that the applicant—
+
+(a) is of good character;
+
+(b) is physically and mentally fit to perform the whole or part of the work of persons registered in any part of the register to which his application relates; and
+
+(c) satisfies the following conditions,
+
+it shall grant the application, either unconditionally or subject to such conditions as it thinks fit; and in any other case it shall refuse it.
+
+(2) The first condition is that—
+
+(a) in the case of an applicant for registration as a social worker—
+
+(i) he has successfully completed a course approved by the Council under section 10 for persons wishing to become social workers;
+
+(ii) he satisfies the requirements of section 11; or
+
+(iii) he satisfies any requirements as to training which the Council may by rules impose in relation to social workers;
+
+(b) in the case of an applicant for registration as a social care worker of any other description, he satisfies any requirements as to training which the Council may by rules impose in relation to social care workers of that description.
+
+(3) The second condition is that the applicant satisfies any requirements as to conduct and competence which the Council may by rules impose.
+
+[[^F17](4) For the purposes of subsection (1)(a), in considering whether a person is of good character, the Council may have regard to whether he is included in a barred list (within the meaning of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007).]
+
+#### [^F18]5A Visiting social workers from relevant European States
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6 Removal, etc. from register
+
+(1) The Council shall by rules determine circumstances in which, and the means by which—
+
+(a) a person may be removed from a part of the register, whether or not for a specified period;
+
+(b) a person who has been removed from a part of the register may be restored to that part;
+
+(c) a person's registration in a part of the register may be suspended for a specified period;
+
+(d) the suspension of a person's registration in a part of the register may be terminated;
+
+[[^F19](da) a person's registration in a part of the register may be made subject to conditions (whether or not for a specified period);
+
+(db) the conditions to which a person's registration in a part of the register is subject may be varied or revoked;
+
+(dc) the duration for which a person's registration in a part of the register is subject to conditions may be varied;
+
+(dd) an agreement with a registered person that the person will comply with specified undertakings (whether or not for a specified period) may be made;
+
+(de) an agreement of a kind mentioned in paragraph (dd) may be varied or revoked;
+
+(df) a warning may be given to a registered person;
+
+(dg) advice may be given to a registered person;]
+
+(e) an entry in a part of the register may be removed, altered or restored.
+
+(2) The rules shall make provision as to the procedure to be followed, and the rules of evidence to be observed, in proceedings brought for the purposes of the rules, whether before the Council or any committee of the Council.
+
+(3) The rules shall provide for such proceedings to be in public except in such cases (if any) as the rules may specify.
+
+(4) Where a person's registration in a part of the register is suspended under subsection (1)(c), he shall be treated as not being registered in that part notwithstanding that his name still appears in it.
+
+#### 7 Rules about registration
+
+The Council may by rules make provision about the registration of persons under this Part and, in particular—
+
+(a) as to the keeping of the register;
+
+(b) as to the documentary and other evidence to be produced by those applying [[^F20]under section 4(1) for registration or applying] for additional qualifications to be recorded, or for any entry in the register to be altered or restored;
+
+(c) for a person's registration to remain effective without limitation of time (subject to removal from the register [^F21]... in accordance with rules made by virtue of section 6) or to lapse after a specified period or in specified cases, or to be subject to renewal as and when provided by the rules.
+
+#### 7A [[^F22]Power to obtain information etc
+
+(1) The power under subsection (2) may be exercised for thepurpose of assisting the Council in performing a function under section 5[^F23]... or 6 in respect of a person (“the relevant person”).
+
+(2) If the Council considers that any person (except the relevant person)is able to provide information or produce a document that appears relevant to the performance of the function, it may by notice require the person to provide the information or produce the document.
+
+(3) Subsection (2) does not require or permit any disclosure ofinformation which is prohibited by or under any other statutory provision [[^F24]or the [[^F25]UK GDPR]] .
+
+(4) But where information is held in a form in which the prohibitionoperates because the information is capable of identifying an individual, the Council may, in exercising the power under subsection (2), require that the information be put into a form which is not capable of identifying that individual.
+
+[[^F26](5) In determining for the purposes of subsection (3) whether a disclosure is prohibited, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this section.]
+
+(6) Subsection (2) does not apply to information or a document whichthe person could not be compelled to provide or produce in civil proceedings before the county court.
+
+(7) If a person fails to provide any information or produce any documentwithin 14 days of the person being required to do so under this section, the Council may apply to the county court for an order requiring the information to be provided or the document to be produced.
+
+[[^F27](8) In this section, “the UK GDPR” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act).]]
+
+#### 7B [[^F28]Investigations under section 6: information about, and to, a registered person's employers
+
+(1) This section applies where a specified kind of investigationunder section 6 is being undertaken in respect of a registered person.
+
+(2) The Council may by notice require the registered person to givedetails of—
+
+(a) all relevant employers, and
+
+(b) any person who was a relevant employer at any time during a period stated in the notice.
+
+(3) The Council may notify any relevant employer of the investigation.
+
+(4) Section 7A(3), (5) and (7) apply for the purposes of subsection (2).
+
+(5) In this section—
+
+- “relevant employer” means—
+
+  - (a) any person who employs the registered person to do relevant work, and
+  - (b) any person who has an arrangement with the registered person for the registered person to do relevant work;
+
+- “relevant work” means—
+
+  - (a) anything that, if done by a person, would result in the person being a social care worker, and
+  - (b) anything done anywhere outside Northern Ireland that, if done in Northern Ireland by a person, would result in the person being a social care worker;
+
+- “specified” means specified by rules made by the Council.”.]
+
+#### 8 Registration – enforcement
+
+(1) If a person who is not registered [[^F29]in the register as a social worker [^F30]...,] with intent to deceive another—
+
+(a) takes or uses the title of social worker;
+
+(b) takes or uses any title or description implying that he is [[^F31]so registered ] , or in any way holds himself out as so registered,
+
+he is guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) The Department may by regulations make provision for prohibiting persons from working in such positions as may be prescribed unless they are registered in, or in a particular part of, [[^F32]the register] .
+
+(4) Regulations under subsection (3) may provide that a contravention of any specified provision of the regulations shall be an offence.
+
+(5) A person guilty of an offence under such regulations shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+[^F33]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Codes of practice
+
+#### 9 Codes of practice
+
+(1) The Council shall prepare and from time to time publish codes of practice laying down—
+
+(a) standards of conduct and practice expected of social care workers; and
+
+(b) standards of conduct and practice in relation to social care workers, being standards expected of persons employing or seeking to employ them.
+
+(2) The Council shall—
+
+(a) keep the codes under review; and
+
+(b) vary their provisions whenever it considers it appropriate to do so.
+
+(3) Before issuing or varying a code, the Council shall consult any persons it considers appropriate to consult.
+
+(4) A code published by the Council shall be taken into account—
+
+(a) by the Council in making a decision under this Part; and
+
+(b) in any proceedings on an appeal against such a decision.
+
+(5) A public body making any decision about the conduct of any social care worker employed by it shall, unless the Department otherwise directs, take into account any code published by the Council.
+
+(6) In subsection (5) “public body” means a body established by a statutory provision.
+
+(7) Any person who asks the Council for a copy of a code shall be entitled to have one.
+
+### Training
+
+#### 10 Approval of courses, etc.
+
+(1) The Council may, in accordance with rules made by it, approve courses in relevant social work for persons who are or wish to become social workers.
+
+(2) An approval given under this section may be either unconditional or subject to such conditions as the Council thinks fit.
+
+(3) Rules made by virtue of this section may in particular make provision—
+
+[[^F34](a) about the provision of courses, including their content and methods of completing them;]
+
+(b) as to the provision to the Council of information about courses;
+
+(c) as to the persons who may participate in courses, or in parts of courses specified in the rules;
+
+(d) as to the numbers of persons who may participate in courses;
+
+(e) for the award by the Council of certificates of the successful completion of courses;
+
+(f) about the lapse and renewal of approvals; and
+
+(g) about the withdrawal of approvals.
+
+(4) The Council may—
+
+(a) conduct, or make arrangements for the conduct of, examinations in connection with such courses as are mentioned in this section or section 14; and
+
+(b) carry out, or assist other persons in carrying out, research into matters relevant to training for relevant social work.
+
+(5) A course for persons who wish to become social workers shall not be approved under this section unless the Council considers that it is such as to enable persons completing it to attain the required standard of proficiency in relevant social work.
+
+(6) In subsection (5) “the required standard of proficiency in relevant social work” means the standard described in rules made by the Council.
+
+(7) The Council shall from time to time publish a list of the courses which are approved under this section.
+
+#### 10A [[^F35]Recognition of attainment of standards by social workers
+
+(1) The Council may—
+
+(a) make rules describing standards of proficiency that may be attained by persons who are social workers;
+
+(b) by rules make provision for and in connection with the recognition by the Council of the attainment of any standard of proficiency described in the rules.
+
+(2) Rules made by virtue of subsection (1)(b) may—
+
+(a) provide for the way in which a standard is to be attained in order for it to be recognised (which may be by completing a course or otherwise);
+
+(b) provide for the way in which the attainment of a standard is to be recognised (which may be by the award of a certificate or otherwise).
+
+(3) The Council may conduct, or make arrangements for the conduct of,assessments in connection with the recognition by the Council of the attainment of any standard of proficiency described in the rules.]
+
+#### 11 Qualifications gained outside Northern Ireland
+
+[^F36]A1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1) An applicant for registration [[^F37]in the principal part of the register] satisfies the requirements of this section if—
+
+(a) [^F38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) he has, elsewhere than in Northern Ireland, undergone training in relevant social work and either—
+
+(i) that training is recognised by the Council as being to a standard sufficient for such registration; or
+
+(ii) it is not so recognised, but the applicant has undergone in Northern Ireland or elsewhere such additional training as the Council may require.
+
+(2) [^F39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12 Post registration training
+
+(1) The Council may make rules requiring persons registered under this Part in any part of the register to undertake further training.
+
+(2) The rules may, in particular, make provision with respect to persons who fail to comply with any requirements of rules made by the Council, including provision for their registration to cease to have effect.
+
+[^F40]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]2B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]2C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]2D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Before making, or varying, any rules by virtue of this section the Council shall take such steps as are reasonably practicable to consult the persons who are registered in the relevant part of the register and such other persons as the Council considers appropriate.
+
+#### 13 Visitors for certain social work courses
+
+(1) The Council may by rules make provision for the visiting of places at which or institutions by which or under whose direction—
+
+(a) any relevant course (or part of such a course) is, or is proposed to be, given; or
+
+(b) any examination is, or is proposed to be, held in connection with any relevant course.
+
+(2) The rules may make provision—
+
+(a) for the appointment of visitors;
+
+(b) for reports to be made by visitors on—
+
+(i) the nature and quality of the instruction given, or to be given, and the facilities provided or to be provided, at the place or by the institution visited; and
+
+(ii) such other matters as may be specified in the rules;
+
+(c) for the payment by the Council of fees, allowances and expenses to persons appointed as visitors;
+
+(d) for such persons to be treated, for the purposes of Schedule 1, as members of the Council's staff.
+
+(3) In subsection (1) “relevant course” means—
+
+(a) any course for which approval by the Council has been given, or is being sought, under section 10; or
+
+(b) any training which a person registered [[^F41]in the principal part of the register] may be required to undergo after registration.
+
+#### 14 Functions of the Department
+
+(1) The Department has the function of—
+
+(a) ascertaining what training is required by persons who are or wish to become social care workers;
+
+(b) ascertaining what financial and other assistance is required for promoting such training;
+
+(c) encouraging the provision of such assistance;
+
+(d) drawing up occupational standards for social care workers.
+
+(2) The Department shall encourage persons to take part in courses approved by the Council under section 10 and other courses relevant to the training of persons who are or wish to become social care workers.
+
+(3) If it appears to the Department that adequate provision is not being made for training persons who are or wish to become social care workers, the Department may provide, or secure the provision of, courses for that purpose.
+
+(4) The Department may, upon such terms and subject to such conditions as it considers appropriate—
+
+(a) make grants, and pay travelling and other allowances, to persons resident in Northern Ireland in order to secure their training in the work of social care workers;
+
+(b) make grants to organisations providing training in the work of social care workers.
+
+(5) Any functions of the Department under this section—
+
+(a) may be delegated by it to the Council; or
+
+(b) may be exercised by any person, or by employees of any person, authorised to do so by the Department.
+
+(6) Articles 13 to 15 of the Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11) apply in relation to an authorisation given under subsection (5)(b) as they apply in relation to an authorisation given under Part III of that Order; and in subsection (5)(b) “employee” has the same meaning as in that Order.
+
+### Miscellaneous and supplemental
+
+#### 15 [[^F42]Appeals to the Care Tribunal
+
+(1) A person may appeal to the Care Tribunal against a relevantdecision.
+
+(2) On the appeal, the Care Tribunal may—
+
+(a) confirm the decision,
+
+(b) set aside the decision [[^F43]or, in [^F44]... amended] , or
+
+(c) substitute for the decision appealed against any other decision that could have been made.
+
+(3) “Relevant decision” means—
+
+(a) a decision under this Part in respect of registration, [^F45]...
+
+[^F46]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In subsection (3)(a) the reference to a decision under this Part inrespect of registration includes a decision under section 6 to give a warning (but not a decision to enter into, vary or revoke an agreement of a kind mentioned in section 6(1)(dd) or a decision to give advice).]
+
+#### 16 Publication, etc. of register
+
+(1) The Council shall publish the register in such manner, and at such times, as it considers appropriate.
+
+(2) Any person who asks the Council for a copy of, or of an extract from, the register shall be entitled to have one.
+
+#### 16A [[^F48]Publication etc of information about fitness to practise
+
+(1) If it considers it is in the public interest to do so, the Councilmay publish or disclose to any person—
+
+(a) information relating to a particular registered person's fitness to practise, or
+
+(b) information of a particular description relating to the fitness to practise of—
+
+(i) every registered person, or
+
+(ii) every registered person of a particular description.
+
+(2) For the purposes of subsection (1)(b) the Council need not considerwhether it is in the public interest to publish or disclose the information in question in relation to each registered person to whom it relates.
+
+(3) In this section “information” includes—
+
+(a) information relating to, or arising, before a person's registration (as well as after it), and
+
+(b) information arising outside the United Kingdom (as well as in it).
+
+(4) In this section references to a registered person include a person whohas at any time been a registered person.]
+
+#### 17 Cesser of functions of CCETSW
+
+The Central Council for Education and Training in Social Work shall cease to exercise in relation to Northern Ireland the functions conferred on it by or under section 10 of the Health and Social Services and Social Security Adjudications Act 1983 (c. 41).
+
+#### 18 Rules
+
+(1) Rules made by the Council under this Part may make provision for the payment of reasonable fees to the Council in connection with the discharge of the Council's functions [^F49]....
+
+(2) In particular, the rules may make provision for the payment of such fees in connection with—
+
+(a) registration (including applications for registration or for amendment of the register [^F50]...;
+
+(b) the approval of courses under section 10;
+
+[[^F51](ba) assessments of a kind mentioned in section 10A(3);]
+
+(c) the provision of training;
+
+(d) the provision of copies of codes of practice or copies of, or extracts, from the register,
+
+including provision requiring persons registered under this Part to pay a periodic fee to the Council of such amount, and at such time, as the rules may specify.
+
+[^F52]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) No rules shall be made by the Council under this Part without the consent of the Department.
+
+[[^F53](4) Rules under this Part may contain transitional, transitory or savingprovision.
+
+(5) Transitional provision made by rules under section 6 may inparticular provide that where a person appeals against a decision made before the coming into operation of the rules (or any amendment of the rules), for the purposes of section 15(2)(c) the rules are (or the amendment is) to be treated as having been in operation at the time of that decision.]
+
+#### 19 Default powers of Department
+
+(1) The powers conferred by this section are exercisable by the Department if it is satisfied that the Council—
+
+(a) has without reasonable excuse failed to discharge any of its functions; or
+
+(b) in discharging any of its functions, has without reasonable excuse failed to comply with any directions or guidance given by it under section 1(3) in relation to those functions.
+
+(2) The Department may—
+
+(a) make an order declaring the Council to be in default; and
+
+(b) direct the Council to discharge such of its functions, and in such manner and within such period or periods, as may be specified in the direction.
+
+(3) If the Council fails to comply with the Department's direction under subsection (2), the Department may—
+
+(a) discharge the functions to which the direction relates itself; or
+
+(b) make arrangements for any other person to discharge those functions on its behalf.
+
+*Ss. 20‐21 rep. by 2003 NI 9*
+
+#### 22 [[^F54]Interpretation of this Part
+
+[[^F55](1)] In this Part “child”, “children's home”, “day care setting”, “domiciliary care agency”, “nursing home”, “personal care”, “registered care home”, “residential family centre”, “school” and “undertaking” have the same meanings as in the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.]
+
+[[^F56](2) In this Part—
+
+- “the register” means the register maintained under section 3;
+- “registered person” means a person registered in a part of the register.]
+
+## [^F57]PART II — RECOVERY OF CHARGES IN CONNECTION WITH THE TREATMENT OF ROAD TRAFFIC CASUALTIES
+
+### Payment for hospital treatment
+
+#### 23 Payment for hospital treatment of traffic casualties
+
+[^F58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Certificates of health services charges
+
+#### 24 Applications for certificates of health services charges
+
+[^F59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25 Information contained in certificates
+
+[^F60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Recovery of health services charges
+
+#### 26 Payment of health services charges
+
+[^F61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27 Recovery of health services charges
+
+[^F62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reviews and appeals
+
+#### 28 Review of certificates
+
+[^F63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 29 Appeals against a certificate
+
+[^F64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 30 Appeal tribunals
+
+[^F65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31 Appeal to the court on point of law
+
+[^F66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 32 Reviews and appeals: supplementary
+
+[^F67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Information
+
+#### 33 Provision of information
+
+[^F68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 34 Use of information held by the Department
+
+[^F69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Payments to hospitals
+
+#### 35 Payment of health services charges to hospitals
+
+[^F70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous and general
+
+#### 36 Regulations governing payments into court, etc.
+
+[^F71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 37 Interpretation of this Part
+
+[^F72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38 Consequential amendments
+
+[^F73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — HEALTH AND [[^F74]SOCIAL CARE]– GENERAL
+
+### Fund-holding practices
+
+#### 39 Repeal of law about fund-holding practices
+
+In the 1991 Order, Articles 17 to 20 (which make provision in relation to fund-holding practices) shall cease to have effect.
+
+### Local administration
+
+#### 40 Remuneration for Part VI services
+
+(1) For Article 64A of the principal Order (regulations as to remuneration for Part VI services) there shall be substituted—
+
+> **64A Remuneration for Part VI services**
+>
+> (1) The remuneration to be paid to persons who provide general medical services, general dental services, general ophthalmic services or pharmaceutical services under this Part shall be determined by determining authorities (and they may also determine the remuneration to be paid to persons providing those services in respect of the instruction of any person in matters relating to those services).
+>
+> (2) For the purposes of this Article and Article 64B determining authorities are—
+>
+> (a) the Department; and
+>
+> (b) so far as authorised by the Department to exercise the functions of determining authorities, any Health and Social Services Board or other person appointed by the Department in an instrument (referred to in this Article and Article 64B as an instrument of appointment).
+>
+> (3) An instrument of appointment—
+>
+> (a) may contain requirements with which a determining authority appointed by that instrument must comply in making determinations; and
+>
+> (b) may be contained in regulations.
+>
+> (4) Subject to this Article and Article 64B, regulations may make provision about determining remuneration under paragraph (1) and may in particular impose requirements with which determining authorities must comply in making, or in connection with, determinations (including requirements as to consultation and publication).
+>
+> (5) Regulations may provide—
+>
+> (a) that determinations may be made by reference to any of the following—
+>
+> (i) rates or conditions of remuneration of any persons or any descriptions of persons which are fixed or determined, or to be fixed or determined, otherwise than by way of a determination under paragraph (1);
+>
+> (ii) scales, indices or other data of any description specified in the regulations;
+>
+> (b) that any determination which in accordance with regulations made by virtue of sub-paragraph (a)(ii) falls to be made by reference to a scale or an index or to any other data may be made not only by reference to that scale or index or those data in the form current at the time of the determination but also by reference to the scale, index or data in any subsequent form attributable to amendment or revision taking effect after that time or to any other cause.
+>
+> (6) Regulations may—
+>
+> (a) provide that determining authorities may make determinations which have effect in relation to remuneration in respect of a period beginning on or after a date specified in the determination, which may be the date of the determination or an earlier or later date, but may be an earlier date only if, taking the determination as a whole, it is not detrimental to the persons to whose remuneration it relates;
+>
+> (b) provide that any determination which does not specify such a date shall have effect in relation to remuneration in respect of a period beginning—
+>
+> (i) if it is required to be published, on the date of publication;
+>
+> (ii) if it is not so required, on the date on which it is made.
+>
+> (7) A reference in this Article or Article 64B to a determination is to a determination of remuneration under paragraph (1).
+>
+> **64B Part VI remuneration: supplementary**
+>
+> (1) Before a determination is made by the Department which relates to all persons who provide services of, or of a category falling within, one of the descriptions of services mentioned in Article 64A(1), the Department—
+>
+> (a) shall consult a body appearing to it to be representative of persons to whose remuneration the determination would relate; and
+>
+> (b) may consult such other persons as it considers appropriate.
+>
+> (2) Determinations may make different provision for different cases including different provision for any particular case, class of case or area.
+>
+> (3) Determinations may—
+>
+> (a) be made in more than one stage;
+>
+> (b) be made by more than one determining authority;
+>
+> (c) be varied or revoked by subsequent determinations.
+>
+> (4) A determination may be varied—
+>
+> (a) to correct an error; or
+>
+> (b) where it appears to the determining authority that it was made in ignorance of or under a mistake as to a relevant fact.
+>
+> (5) Determinations may, in particular, provide that the whole or any part of the remuneration—
+>
+> (a) is payable only if the determining authority is satisfied as to certain conditions; or
+>
+> (b) is to be applied for certain purposes or is otherwise subject to certain conditions.
+>
+> (6) Subject to Article 57(1), remuneration under Article 64A may consist of payments by way of—
+>
+> (a) salary;
+>
+> (b) fees;
+>
+> (c) allowances;
+>
+> (d) reimbursement (in full or in part) of expenses incurred or expected to be incurred in connection with the provision of the services or instruction,
+>
+> and may be determined from time to time.
+>
+> (7) At the time a determination is made or varied, certain matters which require determining may be reserved to be decided at a later time.
+>
+> (8) The matters which may be reserved include in particular—
+>
+> (a) the amount of remuneration to be paid in particular cases;
+>
+> (b) whether any remuneration is to be paid in particular cases.
+>
+> (9) Any determination shall be made after taking into account all the matters which are considered to be relevant by the determining authority and such matters may include in particular—
+>
+> (a) the amount or estimated amount of expenses (taking into account any discounts) incurred in the past or likely to be incurred in the future (whether or not by persons to whose remuneration the determination will relate) in connection with the provision of services of the description in Article 64A(1) to which the determination will relate or of any category falling within that description;
+>
+> (b) the amount or estimated amount of any remuneration paid or likely to be paid to persons providing such services;
+>
+> (c) the amount or estimated amount of any other payments or repayments or other benefits received or likely to be received by any such persons;
+>
+> (d) the extent to which it is desirable to encourage the provision, either generally or in particular places, of the description or category of services to which the determination will relate;
+>
+> (e) the desirability of promoting services which are—
+>
+> (i) economic and efficient; and
+>
+> (ii) of an appropriate standard.
+>
+> (10) If the determination is of remuneration for a category of services falling within one of the descriptions of services mentioned in Article 64A(1), the reference in paragraph (9)(a) to a category of services is a reference to the same category of services or to any other category of services falling within the same description.
+
+.
+
+(2) This section and the associated repeals in Schedule 5 have effect in relation to—
+
+(a) the making of determinations after the coming into operation of this section; and
+
+(b) the variation or revocation after the coming into operation of this section of determinations whenever made,
+
+and in this subsection “determinations” means determinations under Part VI of the principal Order of the remuneration to be paid to persons who provide services mentioned in Article 64A(1) of that Order.
+
+#### 41 Indemnity cover for Part VI services
+
+(1) After Article 64B of the principal Order there shall be inserted the following Article—
+
+> **64C Indemnity cover**
+>
+> (1) Regulations may make provision for the purpose of securing that, in prescribed circumstances, prescribed Part VI practitioners hold approved indemnity cover.
+>
+> (2) The regulations may, in particular, make provision as to the consequences of a failure to hold approved indemnity cover, including provision—
+>
+> (a) for securing that a person is not to be added to any list unless he holds approved indemnity cover;
+>
+> (b) for the removal from a list prepared by a Health and Social Services Board of a Part VI practitioner who does not within a prescribed period after the making of a request by the Board in the prescribed manner satisfy that Board that he holds approved indemnity cover.
+>
+> (3) For the purposes of this Article—
+>
+> - “approved body” means a person or persons approved in relation to indemnity cover of any description, after such consultation as may be prescribed, by the Department or by such other person as may be prescribed;
+>
+> - “approved indemnity cover” means indemnity cover made—
+>
+>   - (a) on prescribed terms; and
+>   - (b) with an approved body;
+>
+> - “indemnity cover”, in relation to a Part VI practitioner (or person who proposes to provide Part VI services), means a contract of insurance or other arrangement made for the purpose of indemnifying him and any person prescribed in relation to him to any prescribed extent against any liability which—
+>
+>   - (a) arises out of the provision of Part VI services in accordance with arrangements made by him with a Health and Social Services Board under this Part; and
+>   - (b) is incurred by him or any such person in respect of the death or personal injury of a person;
+>
+> - “list” has the same meaning as in paragraph 1(8) of Schedule 11;
+>
+> - “Part VI practitioner” means a person whose name is on a list;
+>
+> - “personal injury” means any disease or impairment of a person's physical or mental condition and includes the prolongation of any disease or such impairment;
+>
+> and a person holds approved indemnity cover if he has entered into a contract or arrangement which constitutes approved indemnity cover.
+>
+> (4) The regulations may provide that a person of any description who has entered into a contract or arrangement which is—
+>
+> (a) in a form identified in accordance with the regulations in relation to persons of that description; and
+>
+> (b) made with a person or persons so identified,
+>
+> is to be treated as holding approved indemnity cover for the purposes of the regulations.
+
+.
+
+(2) In Article 2(2) of the principal Order (interpretation) after the definition of “parental responsibility” there shall be inserted—
+
+> “Part VI services” means general medical services, general dental services, general ophthalmic services or pharmaceutical services;
+
+.
+
+(3) In Article 61(2)(b) of the principal Order (arrangements for general dental services) after “paragraphs (2A) and (2AA)” there shall be inserted “, to any provision made under Article 64C”.
+
+(4) In Article 62(2)(b) of the principal Order (arrangements for general ophthalmic services) after “subject” there shall be inserted “to any provision made under Article 64C and”.
+
+#### 42 Local representative committees
+
+For Article 55 of the principal Order (local representative committees) there shall be substituted—
+
+> **55 Recognition of local representative committees**
+>
+> (1) A Health and Social Services Board may recognise a committee formed for its area which it is satisfied is representative of—
+>
+> (a) the medical practitioners providing general medical services or general ophthalmic services in that area;
+>
+> (b) those medical practitioners and the deputy medical practitioners for that area; or
+>
+> (c) the medical practitioners mentioned in—
+>
+> (i) sub-paragraph (a); or
+>
+> (ii) sub-paragraph (b),
+>
+> and the Article 15B medical practitioners for that area,
+>
+> and any committee so recognised shall be called the Local Medical Committee for the area.
+>
+> (2) A Health and Social Services Board may recognise a committee formed for its area which it is satisfied is representative of—
+>
+> (a) the dental practitioners providing general dental services in that area;
+>
+> (b) those dental practitioners and the deputy dental practitioners for that area; or
+>
+> (c) the dental practitioners mentioned in—
+>
+> (i) sub-paragraph (a); or
+>
+> (ii) sub-paragraph (b),
+>
+> and the Article 15B dental practitioners for that area,
+>
+> and any committee so recognised shall be called the Local Dental Committee for the area.
+>
+> (3) Where a Health and Social Services Board is satisfied that a committee formed for its area is representative—
+>
+> (a) of the ophthalmic opticians providing general ophthalmic services in that area, or
+>
+> (b) of the persons providing pharmaceutical services in that area,
+>
+> the Health and Social Services Board may recognise that committee; and any committee so recognised shall be called the Local Optical Committee or the Local Pharmaceutical Committee, as the case may be, for the area concerned.
+>
+> (4) Any committee recognised under this Article may with the approval of the Health and Social Services Board delegate any of its functions, with or without restrictions or conditions, to sub-committees composed of members of that committee.
+>
+> (5) For the purposes of this Article and Article 55A, a person who meets the condition in paragraph (6)—
+>
+> (a) is a deputy medical practitioner for the area of a Health and Social Services Board if he is a medical practitioner who assists a medical practitioner providing general medical services in that area in the provision of those services but is not himself on a list;
+>
+> (b) is an Article 15B medical practitioner for the area of a Health and Social Services Board if he is a medical practitioner who provides or performs personal medical services in accordance with arrangements made under Article 15B by the Health and Social Services Board (whether with himself or another);
+>
+> (c) is a deputy dental practitioner for the area of a Health and Social Services Board if he is a dental practitioner who assists a dental practitioner providing general dental services in that area in the provision of those services but is not himself on a list;
+>
+> (d) is an Article 15B dental practitioner for the area of a Health and Social Services Board if he is a dental practitioner who provides or performs personal dental services in accordance with arrangements made under Article 15B by the Health and Social Services Board (whether with himself or another).
+>
+> (6) The condition referred to in paragraph (5) is that the person concerned has notified the Health and Social Services Board that he wishes to be represented under this Article by the appropriate committee for its area (and has not notified it that he wishes to cease to be so represented).
+>
+> (7) For the purposes of paragraph (5)—
+>
+> (a) a person is to be treated as assisting a medical practitioner or dental practitioner in the provision of services if he is employed by that practitioner for that purpose or if he acts as his deputy in providing those services; and
+>
+> (b) “list” has the same meaning as in paragraph 1(8) of Schedule 11.
+>
+> **55A Functions of local representative committees**
+>
+> (1) Regulations may require a Health and Social Services Board—
+>
+> (a) in the exercise of its functions under this Part to consult committees recognised by it under Article 55;
+>
+> (b) in the exercise of any of its functions which relate to arrangements under Article 15B to consult committees recognised by it under Article 55(1)(c) or (2)(c),
+>
+> on such occasions and to such extent as may be prescribed.
+>
+> (2) The power conferred by paragraph (1) is without prejudice to any other power to require a Health and Social Services Board to consult any committee recognised under Article 55.
+>
+> (3) Committees recognised under Article 55 shall exercise such other functions as may be prescribed.
+>
+> (4) A committee recognised for an area under paragraph (1)(b) or (c) or (2)(b) or (c) of Article 55 shall, in respect of each year, determine the amount of its administrative expenses for that year attributable—
+>
+> (a) in the case of a committee recognised under paragraph (1)(b) or (c)(ii) of that Article, to the deputy medical practitioners for the area;
+>
+> (b) in the case of a committee recognised under paragraph (1)(c) of that Article, to the Article 15B medical practitioners for the area;
+>
+> (c) in the case of a committee recognised under paragraph (2)(b) or (c)(ii) of that Article, to the deputy dental practitioners for the area;
+>
+> (d) in the case of a committee recognised under paragraph (2)(c) of that Article, to the Article 15B dental practitioners for the area.
+>
+> (5) A Health and Social Services Board may, on the request of any committee recognised under Article 55 for its area, allot to that committee such sums for defraying the committee's administrative expenses as may be determined by the Board.
+>
+> (6) Any sums so allotted shall be out of the moneys available to the Health and Social Services Board for the remuneration of persons of whom the committee so recognised is representative and who provide general medical services, general dental services, general ophthalmic services or pharmaceutical services, as the case may be, under this Part.
+>
+> (7) The amount of any such sums shall be deducted from the remuneration of those persons in such manner as may be determined by the Health and Social Services Board.
+>
+> (8) Where a committee has made a determination under paragraph (4), it shall apportion the amount so determined among the deputy medical practitioners, Article 15B medical practitioners, deputy dental practitioners or Article 15B dental practitioners, as the case may be, for the area and each such practitioner shall pay in accordance with the committee's directions the amount so apportioned to him.
+>
+> (9) References in this Article to administrative expenses of a committee include references to travelling and subsistence allowances payable to its members; but the reference in paragraph (5) to a committee's administrative expenses does not include so much of the committee's administrative expenses as are determined under paragraph (4) to be attributable to any practitioners mentioned in that paragraph.
+
+.
+
+### [[^F75]Health and Social Care trusts]
+
+#### 43 Establishment orders
+
+(1) In Article 10 of the 1991 Order ([[^F76]HSC trusts]) for paragraphs (1) and (2) there shall be substituted—
+
+> (1) Subject to paragraph (2), the Department may by order establish bodies, to be known as [[^F77]Health and Social Care trusts] (in this Order referred to as [[^F76]HSC trusts])—
+>
+> (a) to provide goods and services for the purposes of the health and [[^F78]social care]; or
+>
+> (b) to exercise, on behalf of Health and Social Services Boards, such functions as are so exercisable by virtue of authorisations for the time being in operation under Article 3(1) of the Health and Personal Social Services (Northern Ireland) Order 1994.
+>
+> (2) Before making an order under paragraph (1), the Department shall consult—
+>
+> (a) such Health and Social Services Councils; and
+>
+> (b) such other persons and bodies,
+>
+> as the Department considers appropriate.
+
+.
+
+(2) In Article 10 of the 1991 Order ([[^F76]HSC trusts]) for paragraph (5) there shall be substituted—
+
+> (5) The functions which may be specified in an order under paragraph (1) include a duty to provide goods or services so specified at or from a hospital or other establishment or facility so specified.
+
+.
+
+(3) In Article 2(2) of the 1991 Order (interpretation) after the definition of “the principal Order” there shall be inserted—
+
+> “provide” includes manage;
+
+.
+
+(4) Any order under Article 10(1) of that Order—
+
+(a) is to be treated as always having had effect with the omission of any obligation for the [[^F79]HSC trust] to which the order relates to own land specified in the order; and
+
+(b) so far as any functions specified in it could have been specified under that provision as amended by this Act, is to be treated as having been made under that provision as so amended.
+
+(5) Any restriction preventing the acquisition of any land by any [[^F79]HSC trust] (including an [[^F79]HSC trust] dissolved before the coming into operation of this section) merely because the land did not comprise a hospital or other establishment or facility previously managed or provided by a relevant body (within the meaning of Article 10(3) of the 1991 Order) is to be treated as never having had effect.
+
+(6) An order under section 58 may—
+
+(a) provide for any provision made by it for the purposes of, in consequence of or for giving full effect to this section to be treated as having had effect from a time before the coming into operation of this section;
+
+(b) make such provision about an [[^F79]HSC trust] dissolved before the coming into operation of this section.
+
+(7) In Article 16(1) of the 1991 Order (trust funds and trustees for [[^F76]HSC trusts]) for “which is owned and managed” there shall be substituted “at or from which services are provided”.
+
+(8) In paragraph 3(2) of Schedule 3 to that Order (establishment orders), for “assume responsibility for the ownership and management of” there shall be substituted “provide services at”.
+
+(9) In paragraph 16(c) of that Schedule (general powers of [[^F76]HSC trusts]) for “which is owned and managed” there shall be substituted “at or from which services are provided”.
+
+(10) The 1991 Order is to be treated as always having had effect subject to the amendments made by this section.
+
+#### 44 Exercise of powers
+
+(1) For Article 10(8) of the 1991 Order (restrictions on exercise of certain powers) there shall be substituted—
+
+> (8) A power conferred by paragraph 14 or 15 of Part II of Schedule 3 may only be exercised—
+>
+> (a) to the extent that its exercise does not to any significant extent interfere with the performance by the [[^F80]HSC trust] of its functions or of its obligations under [[^F81]HSC contracts]; and
+>
+> (b) in circumstances specified in directions under paragraph 6 of that Schedule, with the consent of the Department.
+
+.
+
+(2) In Schedule 3 to the 1991 Order ([[^F82]HSC trusts]) for paragraph 6 there shall be substituted—
+
+> **6**
+>
+> (1) An [[^F80]HSC trust] shall carry out effectively, efficiently and economically the functions for the time being conferred on it by an order under Article 10(1) and by the provisions of this Schedule.
+>
+> (2) An [[^F80]HSC trust] shall comply with any directions given to it by the Department about the exercise of the trust's functions.
+>
+> (3) Any directions under this paragraph with respect to—
+>
+> (a) the power conferred on an [[^F80]HSC trust] by paragraph 1 of Schedule 4; or
+>
+> (b) the maximum amount which an [[^F80]HSC trust] may invest in any investments or class of investments,
+>
+> may be given only with the consent of the Department of Finance and Personnel.
+
+.
+
+(3) Paragraph 16 of that Schedule (general powers of [[^F82]HSC trusts]) shall be renumbered as sub-paragraph (1) of that paragraph, and
+
+(a) in that sub-paragraph head (d) (general power to employ staff) shall cease to have effect; and
+
+(b) after that sub-paragraph there shall be added —
+
+> (2) An [[^F80]HSC trust] may employ such staff at it thinks fit.
+>
+> (3) Subject to any directions given by the Department under paragraph 6, an [[^F80]HSC trust] may—
+>
+> (a) pay its staff such remuneration and allowances; and
+>
+> (b) employ them on such other terms and conditions,
+>
+> as it thinks fit.
+
+.
+
+#### 45 Public dividend capital
+
+(1) Article 14 of the 1991 Order (originating capital debt of, and other financial provisions relating to, [[^F83]HSC trusts]) shall be amended in accordance with subsections (2) to (6).
+
+(2) In paragraphs (1), (2) and (3), for “originating capital debt” there shall be substituted “originating capital”.
+
+(3) For paragraph (4) there shall be substituted—
+
+> (4) An [[^F83]HSC trust's] originating capital shall be public dividend capital.
+
+.
+
+(4) Paragraphs (5) and (6) shall cease to have effect.
+
+(5) In paragraph (7) for the words from “the terms” to the end there shall be substituted
+
+> —
+>
+> (a) the dividend which is to be payable at any time on any public dividend capital issued, or treated as issued, under this Order;
+>
+> (b) the amount of any such public dividend capital which is to be repaid at any time;
+>
+> (c) any other terms on which any public dividend capital is so issued or treated as issued.
+
+.
+
+(6) In paragraph (8) the words “, (5), (6)” shall cease to have effect.
+
+(7) In Schedule 4 to the 1991 Order—
+
+(a) in paragraph 3 (limits on indebtedness), sub-paragraph (2) shall cease to have effect;
+
+(b) in paragraph 4 (additional public dividend capital), sub-paragraph (2) shall cease to have effect.
+
+#### 46 Existing [[^F84]HSC trusts]: conversion of initial loan
+
+(1) This section applies to any [[^F85]HSC trust] in existence immediately before commencement.
+
+(2) On commencement so much of the originating capital debt of the [[^F85]HSC trust] as remains outstanding immediately before commencement is to be treated as the originating capital of the [[^F85]HSC trust] and accordingly is public dividend capital.
+
+(3) Any reference in any statutory provision, instrument or other document to the originating capital debt of the [[^F85]HSC trust] is to be construed (except where the context otherwise requires) as a reference to its originating capital.
+
+(4) The Department may with the consent of the Department of Finance and Personnel determine the amount and time for payment of interest on the [[^F84]HSC trust's] initial loan in respect of the period ending with commencement.
+
+(5) In this section—
+
+- “commencement” means the coming into operation of this section;
+- “initial loan” means that part of a trust's originating capital debt other than public dividend capital.
+
+#### 47 Borrowing, surplus funds and investment
+
+(1) Schedule 4 to the 1991 Order shall be amended as follows.
+
+(2) In paragraph 1(1) (borrowing powers of [[^F86]HSC trusts]) after “Subject to” there shall be inserted “any direction given by the Department under paragraph 6 of Schedule 3, to”.
+
+(3) In paragraph 1 for sub-paragraphs (3) to (6) there shall be substituted—
+
+> (3) It shall be for the Department, with the consent of the Department of Finance and Personnel, to determine the terms of any loan made by it to an [[^F87]HSC trust] (including terms as to the payment of interest, if any).
+
+.
+
+(4) In paragraph 5 (surplus funds)—
+
+(a) for “amount standing in the reserves of an HSS trust” there shall be substituted “sum held by an HSC trust otherwise than as trustee”;
+
+(b) for “that amount” there shall be substituted “that sum”.
+
+(5) For paragraph 6 (investment) there shall be substituted—
+
+> **6**
+>
+> An [[^F87]HSC trust] shall have power to invest money held by it in any investments, including investments which do not produce income, specified in directions under paragraph 6 of Schedule 3, but nothing in this paragraph applies in relation to money held by an [[^F87]HSC trust] as trustee.
+
+.
+
+### Evasion of charges, fraud etc.
+
+#### 48 Evasion of charges etc.
+
+(1) In Schedule 15 to the principal Order (charges in respect of certain services and related matters) for paragraphs 5 to 8 there shall be substituted—
+
+> **5**
+>
+> (1) Where goods or services are provided under this Order and either—
+>
+> (a) any charge payable by any person under this Order in respect of the provision of the goods or services is reduced, remitted or repaid, but that person is not entitled to the reduction, remission or repayment; or
+>
+> (b) any payment under this Order is made to, or for the benefit of, any person in respect of the cost of obtaining the goods or services, but that person is not entitled to, or to the benefit of, the payment,
+>
+> the amount mentioned in sub-paragraph (2) is recoverable summarily as a debt from the person in question by the responsible authority.
+>
+> (2) That amount—
+>
+> (a) in a case within sub-paragraph (1)(a), is the amount of the charge or (where it has been reduced) reduction;
+>
+> (b) in a case within sub-paragraph (1)(b), is the amount of the payment.
+>
+> (3) Where two or more persons are liable under paragraph 3 or this paragraph to pay an amount in respect of the same charge or payment, those persons shall be jointly and severally liable.
+>
+> (4) For the purposes of this paragraph, the circumstances in which a person is to be treated as not entitled to a reduction, remission or repayment of a charge, or to (or to the benefit of) a payment, include in particular those in which it is received (wholly or partly)—
+>
+> (a) on the ground that he or another is a person of a particular description, where the person in question is not in fact of that description;
+>
+> (b) on the ground that he or another holds a particular certificate, when the person in question does not in fact hold such a certificate or does hold such a certificate but is not entitled to it;
+>
+> (c) on the ground that he or another has made a particular statement, when the person in question has not made such a statement or the statement made by him is false.
+>
+> (5) In this paragraph and paragraph 6, “responsible authority” means—
+>
+> (a) in relation to the recovery of any charge under paragraph 3 in respect of the provision of goods or services under this Order, the person by whom the charge is recoverable;
+>
+> (b) in relation to the recovery by virtue of this paragraph of the whole or part of the amount of any such charge, the person by whom the charge would have been recoverable;
+>
+> (c) in a case within sub-paragraph (1)(b), the person who made the payment.
+>
+> (6) But the Department may by directions provide for—
+>
+> (a) the functions of any responsible authority of recovering any charges under this Order in respect of the provision of goods or services under this Order;
+>
+> (b) the functions of any responsible authority under this paragraph and paragraph 6,
+>
+> to be exercised on behalf of the authority by another [[^F88]health care] body.
+>
+> **6**
+>
+> (1) Regulations may provide that, where a person fails to pay—
+>
+> (a) any amount recoverable from him under paragraph 3 in respect of the provision of goods or services under this Order; or
+>
+> (b) any amount recoverable from him under paragraph 5,
+>
+> a notice (referred to in this paragraph as a penalty notice) may be served on the person by the responsible authority requiring him to pay to the authority, within a prescribed period, that amount together with a charge (referred to in this paragraph as a penalty charge) of an amount determined i n accordance with the regulations.
+>
+> (2) The regulations may not provide for the amount of the penalty charge to exceed whichever is the smaller of—
+>
+> (a) £100;
+>
+> (b) the amount referred to in sub-paragraph (1)(a) or (b) multiplied by 5.
+>
+> (3) The Department may by order provide for sub-paragraph (2) to have effect as if, for the sum specified in head (a) or the multiplier specified in head (b) (including that sum or multiplier as substituted by a previous order), there were substituted a sum or (as the case may be) multiplier specified in the order.
+>
+> (4) Regulations may provide that, if a person fails to pay the amount he is required to pay under a penalty notice within the period in question, he must also pay to the responsible authority by way of penalty a further sum determined in accordance with the regulations.
+>
+> (5) The further sum must not exceed 50 per cent of the amount of the penalty charge.
+>
+> (6) Any sum payable under the regulations (including the amount referred to in sub-paragraph (1)(a) or (b)) may be recovered by the responsible authority summarily as a debt.
+>
+> (7) But a person is not liable by virtue of a penalty notice—
+>
+> (a) to pay at any time so much of any amount referred to in sub-paragraph (1)(a) or (b) for which he is jointly and severally liable with another as at that time has been paid, or ordered by a court to be paid, by that other; or
+>
+> (b) to a penalty charge, or a further sum by way of penalty, if he shows that he did not act wrongfully, or with any lack of care, in respect of the charge or payment in question.
+>
+> (8) No order shall be made under sub-paragraph (3) unless a draft has been laid before, and approved by resolution of the Assembly.
+>
+> **7**
+>
+> (1) A person is guilty of an offence if he does any act mentioned in paragraph (2) with a view to securing for himself or another—
+>
+> (a) the evasion of the whole or part of any charge under this Order in respect of the provision of goods or services under this Order;
+>
+> (b) the reduction, remission or repayment of any such charge, where he or (as the case may be) the other is not entitled to the reduction, remission or repayment;
+>
+> (c) a payment under this Order (whether to, or for the benefit of, himself or the other) in respect of the cost of obtaining such goods or services, where he or (as the case may be) the other is not entitled to, or to the benefit of, the payment.
+>
+> (2) The acts referred to in sub-paragraph (1) are—
+>
+> (a) knowingly making, or causing or knowingly allowing another to make, a false statement or representation; or
+>
+> (b) in the case of any document or information which he knows to be false in a material particular, producing or providing it or causing or knowingly allowing another to produce or provide it.
+>
+> (3) A person guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+>
+> (4) A person, although he is not a barrister or solicitor, may conduct any proceedings under this paragraph before a magistrates' court if he is authorised to do so by the Department.
+>
+> (5) Proceedings for an offence under this paragraph may be begun within either of the following periods—
+>
+> (a) the period of three months beginning with the date on which evidence, sufficient in the opinion of the Department to justify a prosecution for the offence, comes to its knowledge;
+>
+> (b) the period of 12 months beginning with the commission of the offence.
+>
+> (6) For the purposes of sub-paragraph (5), a certificate purporting to be signed by or on behalf of the Department as to the date on which such evidence as is mentioned in head (a) of that sub-paragraph came to its knowledge is conclusive evidence of that date.
+>
+> (7) Where, in respect of any charge or payment under this Order—
+>
+> (a) a person is convicted of an offence under this paragraph; or
+>
+> (b) a person pays any penalty charge, and any further sum by way of penalty, recoverable from him under paragraph 6,
+>
+> he shall not, in a case within head (a), be liable to pay any such penalty charge or further sum by way of penalty or, in a case within head (b), be convicted of such an offence.
+>
+> (8) Sub-paragraph (4) of paragraph 5 applies for the purposes of this paragraph as it applies for the purposes of that paragraph.
+
+.
+
+(2) Paragraphs 5 to 7 of Schedule 15 to the principal Order apply to charges which may be made and recovered under Article 20 of the Health Services (Primary Care) (Northern Ireland) Order 1997 (NI 7) as they apply to charges under the principal Order which may be recovered under paragraph 3 of that Schedule.
+
+#### 49 Disqualification of Part VI practitioners
+
+For Schedule 11 to the principal Order there shall be substituted the Schedule set out in Schedule 2.
+
+### Miscellaneous
+
+#### [^F89]50 Disclosure of information by the Commissioner for Complaints
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 51 Provision of information as to births and deaths
+
+(1) The Registrar General of Births and Deaths in Northern Ireland may provide to the Department [[^F90], RBSO] any information to which this subsection applies.
+
+(2) Any information provided under subsection (1) shall be provided in such form as appears to the Registrar General appropriate for the purpose of assisting the Department [[^F90], RBSO] in the performance of its functions in relation to [[^F91]health care].
+
+(3) Subsection (1) applies to any information—
+
+(a) entered in any register kept under the Births and Deaths Registration (Northern Ireland) Order 1976 (NI 14); or
+
+(b) which is kept by the Registrar General under any other statutory provision and relates to any birth or death.
+
+(4) The registrar of each district may furnish to [[^F92]the Department] such particulars of each birth and death [^F93]... as are entered in a register of births and deaths kept for that district.
+
+(5) The Department may by regulations make provision as to the manner in which and the times at which particulars are to be furnished under subsection (4).
+
+#### 52 Liability of officers of Health and Social Services Councils
+
+In Article 97(1) of the principal Order (protection for officers of health and [[^F94]social care] bodies acting in execution of duty) after sub-paragraph (d) there shall be inserted—
+
+> or
+>
+> (e) a Health and Social Services Council,
+
+.
+
+#### 53 Regulations under section 11 of the Medical Act 1983
+
+In section 11 of the Medical Act 1983 (c. 54) (supplementary provisions regarding experience required for full registration)—
+
+(a) in subsection (4) in the definition of “prescribed” for “Secretary of State” there shall be substituted “Department of Health, Social Services and Public Safety”;
+
+(b) for subsection (7) there shall be substituted—
+
+> (7) The power of the Department of Health, Social Services and Public Safety to make regulations under this section shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 and regulations made by that Department under this section shall be subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were statutory instruments within the meaning of that Act.
+
+.
+
+#### 54 Public access to meetings of certain bodies
+
+(1) Sections 23 to 27 of the Local Government Act (Northern Ireland) 1972 (c. 9) (which provide for public access to meetings of a district council and for the publication of information concerning such meetings) shall, with the modifications set out in subsection (2) apply in relation to meetings of—
+
+[[^F95](a) [^F96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(aa) the Regional Agency;
+
+(b) RBSO;]
+
+(c) a special agency;
+
+(d) an [[^F97]HSC trust];
+
+[[^F98](e) the Patient and Client Council, and]
+
+(f) the Northern Ireland Social Care Council,
+
+as they apply in relation to meetings of a district council.
+
+(2) The modifications are—
+
+(a) any reference to a district council shall be read as a reference to a body mentioned in subsection (1); and
+
+(b) any reference to councillors or members of the council shall be read as a reference to members of such a body.
+
+[^F99]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 55 Sale of medical practices: goodwill
+
+For Schedule 10 to the principal Order there shall be substituted the Schedule set out in Schedule 3.
+
+## PART IV — MISCELLANEOUS AND GENERAL
+
+### Pharmaceutical chemists
+
+#### 56 Regulation of the profession of pharmaceutical chemist
+
+(1) The Department may by order make provision modifying the regulation of the profession of pharmaceutical chemist, so far as appears to it to be necessary or expedient for the purpose of securing or improving the regulation of that profession or the services which that profession provides or to which it contributes.
+
+(2) Schedule 4 (which makes further provision about orders under this section) shall have effect.
+
+### General
+
+#### 57 Orders, regulations and directions
+
+(1) Subject to [[^F100]subsection (2)] , any regulations or orders made by the Department under this Act shall be subject to negative resolution.
+
+(2) Subsection (1) does not apply to—
+
+(a) an order under section 56;
+
+(b) an order under section 58 which contains only provision for or in connection with the transfer of any property, rights or liabilities; or
+
+(c) an order under section 61(2).
+
+(3) Regulations or orders under this Act may contain—
+
+(a) any supplementary, incidental or consequential provision;
+
+(b) any transitory, transitional or saving provision,
+
+which the Department considers necessary or expedient.
+
+(4) Section 17(2) of the Interpretation Act (Northern Ireland) 1954 (c. 33) shall apply to a direction given by the Department under this Act as if the direction were a statutory instrument.
+
+#### 58 Supplementary and consequential provision
+
+(1) The Department may by order make—
+
+(a) such supplementary, incidental or consequential provision; or
+
+(b) such transitory, transitional or saving provision,
+
+as it considers necessary or expedient for the purposes of, in consequence of, or for giving full effect to, any provision of this Act.
+
+(2) The provision which may be made under subsection (1) includes provision amending or repealing any statutory provision, instrument or document.
+
+#### 59 Interpretation
+
+(1) In this Act “the principal Order” means the Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14).
+
+(2) Except where any provision of this Act otherwise provides, any word or expression to which a meaning is assigned by Article 2(2) [[^F101]or (2A)] of the principal Order has the same meaning in this Act as in that Order.
+
+#### 60 Amendments and repeals
+
+(1) In Article 8(1)(b) of the 1991 Order (health and [[^F102]social care] contracts) for “(f) to (j)” there shall be substituted “(g) to (j)”.
+
+(2) In Article 21(1) of that Order (indicative amount for doctors' practices) for “paragraphs (2) and (8)” there shall be substituted “paragraph (8)”.
+
+(3) The statutory provisions specified in Schedule 5 are repealed to the extent specified in the second column of that Schedule.
+
+#### 61 Short title and commencement
+
+(1) This Act may be cited as the Health and Personal Social Services Act (Northern Ireland) 2001.
+
+(2) Parts I to III, sections 56 and 60 and the Schedules to this Act shall come into operation on such day or days as the Department may by order appoint[^F103]; but section 39 shall not be brought into operation by such an order before 1 April 2002.
+
+## SCHEDULE 1 — THE NORTHERN IRELAND SOCIAL CARE COUNCIL
+
+*Section 1.*
+
+### Status
+
+**1** The Council shall not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown; and the Council's property shall not be regarded as property of, or property held on behalf of, the Crown.
+
+### General powers
+
+**2** (1) Subject to any directions given by the Department, the Council may do anything which appears to it to be necessary or expedient for the purpose of, or in connection with, the exercise of its functions.
+
+(2) That includes, in particular—
+
+(a) co-operating with other public authorities in the United Kingdom;
+
+(b) acquiring and disposing of land and other property; and
+
+(c) entering into contracts.
+
+### General duty
+
+**3** It is the duty of the Council to carry out its functions effectively, efficiently and economically.
+
+### Membership
+
+**4** The Council shall consist of a chairman and other members appointed by the Department.
+
+### Appointment, procedure etc.
+
+**5** The Department may by regulations make provision as to—
+
+(a) the appointment of the chairman and other members of the Council (including the number, or limits on the number, of members who may be appointed and any conditions to be fulfilled for appointment);
+
+(b) the tenure of office of the chairman and other members of the Council (including the circumstances in which they cease to hold office or may be removed or suspended from office);
+
+(c) the appointment of, constitution of and exercise of functions by committees and sub-committees of the Council (including committees and sub-committees which consist of or include persons who are not members of the Council); and
+
+(d) the procedure of the Council and any committees or sub-committees of the Council (including the validation of proceedings in the event of vacancies or defects in appointment).
+
+### Remuneration and allowances
+
+**6** (1) The Council may pay to its chairman, to any other member of the Council and to any member of a committee or sub-committee who is not a member of the Council, such remuneration and allowances as the Department may determine.
+
+(2) If the Department so determines, the Council shall make provision for the payment of such pension, allowance or gratuities as the Department may determine to or in respect of a person who is or has been the chairman or any other member of the Council.
+
+(3) If the Department determines that there are special circumstances that make it right for a person ceasing to hold office as chairman of the Council to receive compensation, the Council shall pay to him such compensation as the Department may determine.
+
+(4) Any determination of the Department under this paragraph shall be subject to the approval of the Department of Finance and Personnel.
+
+### Chief officer
+
+**7** (1) There shall be a chief officer of the Council who shall be a member of the staff of the Council and shall be responsible to the Council for the general exercise of its functions.
+
+(2) The first chief officer shall be appointed by the Department on such terms and conditions as the Department may determine.
+
+(3) Subject to paragraph 8(3), any chief officer subsequent to the first shall be appointed by the Council on such terms and conditions as the Council may determine.
+
+(4) An appointment under sub-paragraph (3) requires the approval of the Department.
+
+### Staff
+
+**8** (1) The Council may appoint such other staff as it considers appropriate.
+
+(2) Subject to sub-paragraph (3), appointments under this paragraph shall be on such terms and conditions as the Council may determine.
+
+(3) The Department may give directions as to—
+
+(a) the appointment of staff under this paragraph and paragraph 7(3) (including any conditions to be fulfilled for appointment); and
+
+(b) the terms and conditions of appointment of staff under the provisions mentioned in sub-paragraph (a).
+
+(4) Different directions may be given under sub-paragraph (3) in relation to different categories of staff.
+
+### Delegation of functions
+
+**9** The Council may arrange for the discharge of any of its functions by a committee, sub-committee, member or member of staff of the Council or any other person.
+
+### Arrangements for the use of staff
+
+**10** The Department may by regulations provide for arrangements under which—
+
+(a) members of staff of the Council are placed at the disposal of a prescribed person for the purpose of discharging, or assisting in the discharge of, prescribed functions of that person; or
+
+(b) members of staff of a prescribed person are placed at the disposal of the Council for the purpose of discharging, or assisting in the discharge of, any functions of the Council.
+
+### Payments to Council
+
+**11** The Department may make payments to the Council of such amounts, at such times and on such conditions (if any) as it considers appropriate.
+
+### Accounts
+
+**12** (1) The Council shall keep accounts in such form as the Department may determine.
+
+(2) The Council shall prepare annual accounts in respect of each financial year in such form as the Department may determine.
+
+(3) The Council shall send copies of the annual accounts to the Department and the Comptroller and Auditor General within such period after the end of the financial year to which the accounts relate as the Department may determine.
+
+(4) The Comptroller and Auditor General shall examine, certify and report on the annual accounts and lay copies of the accounts and of his report before the Assembly.
+
+(5) In this paragraph and paragraph 13 “financial year” means—
+
+(a) the period beginning with the date on which the Council is established and ending with the next 31st March following that date; and
+
+(b) each successive period of twelve months ending with 31st March.
+
+### Reports and other information
+
+**13** (1) As soon as possible after the end of each financial year, the Council shall make a report to the Department on the exercise of its functions during the year.
+
+(2) The Council shall provide the Department with such reports and information relating to the exercise of its functions as the Department may from time to time require.
+
+(3) A report made under sub-paragraph (1) shall be published in a manner which the Council considers appropriate.
+
+### Application of seal and evidence
+
+**14** The application of the seal of the Council shall be authenticated by the signature—
+
+(a) of any member of the Council; or
+
+(b) of any other person who has been authorised by the Council (whether generally or specifically) for that purpose.
+
+**15** A document purporting to be duly executed under the seal of the Council or to be signed on its behalf shall be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
+
+### General
+
+**16** In the Northern Ireland Assembly Disqualification Act 1975 (c. 25), in Part II of Schedule 1 (bodies of which all members are disqualified), the following entry shall be inserted at the appropriate place—
+
+> The Northern Ireland Social Care Council.
+
+.
+
+**[^F104]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** In the Superannuation (Northern Ireland) Order 1972 (NI 10) in Schedule 1 (employments to which Article 3 of that Order applies) at the end add—
+
+> Employment by the Northern Ireland Social Care Council.
+
+.
+
+## SCHEDULE 2 — SCHEDULE 11 TO THE PRINCIPAL ORDER, AS SUBSTITUTED
+
+*Section 49.*
+
+- > **SCHEDULE 11 — DISQUALIFICATION OF PERSONS PROVIDING PART VI SERVICES**
+  >
+  > **PART I — THE TRIBUNAL**
+  >
+  > **The Tribunal: general provisions**
+  >
+  > **1** (1) There shall continue to be a tribunal ( “the Tribunal”) constituted in accordance with Part II for the purposes set out in this Part.
+  >
+  > (2) If the Tribunal receives from a Health and Social Services Board representations that—
+  >
+  > (a) a person who is included in any list meets either of the conditions for disqualification; or
+  >
+  > (b) a person who has applied to be included in any list meets the second condition for disqualification,
+  >
+  > the Tribunal shall inquire into the case.
+  >
+  > (3) If the Tribunal receives such representations from any other person, it may inquire into the case.
+  >
+  > (4) Representations under this paragraph shall be made—
+  >
+  > (a) in the prescribed manner; and
+  >
+  > (b) where the representations are that the second condition for disqualification is met and regulations prescribe the time within which such representations are to be made, within that time.
+  >
+  > (5) Sub-paragraphs (6) to (11) apply for the purposes of this Schedule.
+  >
+  > (6) The first condition for disqualification is that the continued inclusion of the person concerned in the list would be prejudicial to the efficiency of the services which those included in the list undertake to provide.
+  >
+  > (7) The second condition for disqualification is that the person concerned—
+  >
+  > (a) has (whether on his own or together with another) by an act or omission caused, or risked causing, detriment to any health scheme by securing or trying to secure for himself or another any financial or other benefit; and
+  >
+  > (b) knew that he or (as the case may be) the other was not entitled to the benefit.
+  >
+  > (8) A “list” means—
+  >
+  > (a) a list of medical practitioners undertaking to provide general medical services;
+  >
+  > (b) a list of medical practitioners undertaking to provide general ophthalmic services;
+  >
+  > (c) a list of dental practitioners undertaking to provide general dental services;
+  >
+  > (d) a list of ophthalmic opticians undertaking to provide general ophthalmic services; or
+  >
+  > (e) a list of persons undertaking to provide pharmaceutical services,
+  >
+  > prepared (in each case) under Part VI of this Order.
+  >
+  > (9) “Health scheme” means—
+  >
+  > (a) any of the [[^F105]health care] under Article 4(a) or any corresponding statutory provision extending to Scotland or England and Wales; and
+  >
+  > (b) any prescribed scheme,
+  >
+  > and regulations may prescribe any scheme for the purposes of this sub-paragraph which appears to the Department to be a health or medical scheme paid for out of public funds.
+  >
+  > (10) Detriment to a health scheme includes detriment to any patient of, or person working in, that scheme or any person liable to pay charges for services provided under that scheme.
+  >
+  > (11) Cases in which representations are made that the first condition for disqualification is met are referred to as efficiency cases; and cases in which representations are made that the second condition for disqualification is met are referred to as fraud cases.
+  >
+  > **The Tribunal: supplementary**
+  >
+  > **2** (1) Where an ophthalmic optician is a body corporate, the body corporate is to be treated for the purposes of this Schedule as meeting the second condition for disqualification if any director meets that condition (whether or not he first met that condition when he was a director).
+  >
+  > (2) Where a body corporate carries on a retail pharmacy business, the body corporate is to be treated for the purposes of this Schedule as meeting the second condition for disqualification if any one of the body of persons controlling the body corporate meets that condition (whether or not he first met that condition when he was one of them).
+  >
+  > (3) A person who is included in any list ( “the practitioner”) is to be treated for the purposes of this Schedule as meeting the second condition for disqualification if—
+  >
+  > (a) another person, because of an act or omission of his occurring in the course of providing any services mentioned in paragraph 1(8) on the practitioner's behalf, meets that condition; and
+  >
+  > (b) the practitioner failed to take all such steps as were reasonable to prevent acts or omissions within paragraph 1(7)(a) occurring in the course of the provision of those services on his behalf.
+  >
+  > (4) The Tribunal is not required to inquire into a fraud case if it has previously inquired into representations in respect of the person concerned and the same acts or omissions.
+  >
+  > (5) In a fraud case, regulations may make provision (including provision modifying the effect of Part VI of this Order and this Schedule) for the purpose of securing that the person subject to the inquiry is not added to any list until proceedings in that case are finally concluded.
+  >
+  > (6) For the purposes of this Schedule, in a fraud or efficiency case proceedings are finally concluded—
+  >
+  > (a) if the Tribunal determines not to disqualify, or conditionally disqualify, him, when it makes that determination;
+  >
+  > (b) if it determines to disqualify, or conditionally disqualify, him and no appeal is brought against the determination, at the end of the period for bringing an appeal;
+  >
+  > (c) if it determines to disqualify, or conditionally disqualify, him and an appeal is brought against the determination, when the appeal process is exhausted.
+  >
+  > (7) An inquiry under paragraph 1 is not affected by the person subject to the inquiry withdrawing from, withdrawing any application to be included in or being removed from the list to which the case relates.
+  >
+  > **Powers of the Tribunal**
+  >
+  > **3** (1) Sub-paragraph (2) applies where the Tribunal is of the opinion—
+  >
+  > (a) on inquiring into an efficiency case, that the person meets the first condition for disqualification;
+  >
+  > (b) on inquiring into a fraud case, that the person meets the second condition for disqualification.
+  >
+  > (2) The Tribunal—
+  >
+  > (a) shall make a local disqualification, that is disqualify him for inclusion in the list to which the case relates; and
+  >
+  > (b) may also make a general disqualification, that is disqualify him for inclusion in all lists within the same head of paragraph 1(8) as that list.
+  >
+  > (3) If the Tribunal makes a general disqualification it may also declare that the person is not fit to be engaged in any capacity in the provision of the services to which the lists in question relate (referred to in this Schedule as a declaration of unfitness).
+  >
+  > (4) The Tribunal shall not make any disqualification or declaration under this paragraph if it is of the opinion that it would be unjust to do so.
+  >
+  > (5) A disqualification under this paragraph shall have effect when proceedings in the case are finally concluded.
+  >
+  > (6) If a person is disqualified for inclusion in any list prepared by a Health and Social Services Board, the Board shall not enter him in the list and (if he is already included in the list) shall remove him from the list.
+  >
+  > **Conditional disqualification**
+  >
+  > **4** (1) The functions of making disqualifications under paragraph 3 include making a conditional disqualification, that is, a disqualification which is to come into effect only if the Tribunal determines (on a review under paragraph 5) that the person subject to the inquiry has failed to comply with any conditions imposed by the Tribunal.
+  >
+  > (2) Conditions may be imposed by virtue of sub-paragraph (1) with a view to—
+  >
+  > (a) removing any prejudice to the efficiency of the services in question; or
+  >
+  > (b) preventing any acts or omissions within paragraph 1(7)(a),
+  >
+  > (as the case may be).
+  >
+  > (3) Conditions so imposed shall have effect when proceedings in the case are finally concluded.
+  >
+  > (4) Paragraph 3(4) applies to a conditional disqualification as it applies to a disqualification.
+  >
+  > (5) The Tribunal may by directions—
+  >
+  > (a) vary the terms of service of the person subject to the inquiry (including terms imposed by regulations under Part VI of this Order);
+  >
+  > (b) confer functions on any Health and Social Services Board,
+  >
+  > for the purpose of or in connection with the imposition of any conditions by virtue of this paragraph.
+  >
+  > (6) References in any statutory provision to a disqualification by the Tribunal do not include a conditional disqualification.
+  >
+  > **Review etc. of disqualification**
+  >
+  > **5** (1) The Tribunal may review any disqualification, conditional disqualification or declaration of unfitness—
+  >
+  > (a) if the disqualified or conditionally disqualified person requests a review; or
+  >
+  > (b) in any other circumstances in which it considers it appropriate.
+  >
+  > (2) On a review under sub-paragraph (1), the Tribunal may—
+  >
+  > (a) remove a disqualification or provide that a declaration of unfitness is to cease to have effect;
+  >
+  > (b) make a disqualification conditional;
+  >
+  > (c) in the case of a conditional disqualification, remove it, vary the conditions or make it unconditional,
+  >
+  > and, on a review of a fraud case, may make any further disqualification or conditional disqualification which it considers appropriate.
+  >
+  > (3) If any Health and Social Services Board requests a review of a conditional disqualification on the ground that—
+  >
+  > (a) there has been a change in the circumstances by reference to which the conditions were imposed;
+  >
+  > (b) the person concerned has failed to comply with the conditions; or
+  >
+  > (c) in a fraud case, the person concerned has since the Tribunal imposed the conditions (or made the disqualification conditional) again satisfied the second condition for disqualification,
+  >
+  > the Tribunal shall review the conditional disqualification.
+  >
+  > (4) In the case of a person who is providing services in Scotland or England and Wales, the reference in sub-paragraph (3) to a Health and Social Services Board includes any corresponding authority under the provisions in force in Scotland or England and Wales corresponding to Part VI of this Order.
+  >
+  > (5) On a review under sub-paragraph (3) of a conditional disqualification, the Tribunal may remove it, vary the conditions or make it unconditional and, on a review of a fraud case, may make any further disqualification or conditional disqualification which it considers appropriate.
+  >
+  > (6) If, on a review under this paragraph of a fraud case—
+  >
+  > (a) there is a general disqualification which the Tribunal does not remove or make conditional;
+  >
+  > (b) there is a general disqualification which is conditional and which the Tribunal makes unconditional; or
+  >
+  > (c) the Tribunal makes a general disqualification,
+  >
+  > it may also make a declaration of unfitness.
+  >
+  > (7) The Tribunal shall not under this paragraph—
+  >
+  > (a) in the case of a conditional disqualification, make it unconditional or vary the conditions;
+  >
+  > (b) make any further disqualification or conditional disqualification; or
+  >
+  > (c) make a declaration of unfitness,
+  >
+  > if it is of the opinion that it would be unjust to do so.
+  >
+  > (8) A determination of the Tribunal under this paragraph shall have effect—
+  >
+  > (a) if no appeal is brought against it, at the end of the period for bringing an appeal;
+  >
+  > (b) if an appeal is brought against it, when the appeal process is exhausted.
+  >
+  > (9) The Tribunal may hold an inquiry for the purposes of any review under this paragraph.
+  >
+  > **Appeals**
+  >
+  > **6** Any person aggrieved by any determination of the Tribunal under this Part may appeal to the Court of Appeal in accordance with rules of court; and the decision given on any such appeal shall be final and conclusive.
+  >
+  > **Disqualification provisions in Scotland or England and Wales**
+  >
+  > **7** (1) Where, under any provision in force in Scotland or England and Wales corresponding to the provisions of this Schedule, a person is for the time being disqualified for inclusion in all lists prepared under those provisions of persons undertaking to provide any of the services mentioned in paragraph 1(8), then, in relation to the services in question, that person shall, so long as that disqualification is in force, be disqualified for inclusion in any list and (if also the subject of a declaration under those provisions corresponding to a declaration of unfitness) be treated as if a declaration of unfitness had been made in respect of him.
+  >
+  > (2) Where under the conditional disqualification provisions in Scotland or England and Wales—
+  >
+  > (a) any conditions are imposed in relation to the provision by any person of any services mentioned in paragraph 1(8); or
+  >
+  > (b) any conditions so imposed are varied,
+  >
+  > the Department may, by a notice in writing given to each Health and Social Services Board and to the person in question, impose those conditions in relation to the provision by that person of those services under Part VI of this Order.
+  >
+  > (3) A notice under sub-paragraph (2) may make such modifications of the conditions as the Department considers necessary for them to have the like effect in relation to Northern Ireland as they have in relation to Scotland or (as the case may be) England and Wales, but only if the Department has previously given the person concerned written notice of the proposed modifications and an opportunity (in accordance with such requirements, if any, as may be prescribed) to make representations about them.
+  >
+  > (4) Conditions imposed by a notice under sub-paragraph (2) shall cease to have effect if the Department withdraws the notice by giving written notice to the person concerned.
+  >
+  > (5) In this paragraph “the conditional disqualification provisions in Scotland or England and Wales” means any provision in force in Scotland or England and Wales corresponding to paragraphs 4 and (so far as relating to conditional disqualifications) paragraph 5.
+  >
+  > **Regulations**
+  >
+  > **8** (1) Regulations shall make provision—
+  >
+  > (a) for inquiries under this Schedule to be held in accordance with such procedure as may be prescribed by or determined under the regulations and, in particular—
+  >
+  > (i) for any person who is the subject of any such inquiry to have an opportunity of appearing, either in person or by counsel or solicitor or such other representative as may be prescribed, before, and of being heard by, the Tribunal, and of calling witnesses and producing other evidence on his behalf; and
+  >
+  > (ii) for the hearing by the Tribunal to be in public if the person who is the subject of the inquiry so requests;
+  >
+  > (b) for conferring on the Tribunal such powers as appear to the Department to be necessary for the purpose of holding inquiries under this Schedule, including power to require the attendance of witnesses and the production of documents, and to administer oaths; and
+  >
+  > (c) for the publication of the decisions of the Tribunal under this Schedule and of the imposition and removal of any disqualification or conditions imposed by virtue of paragraph 7.
+  >
+  > (2) Regulations under sub-paragraph (1)(a) may in particular provide that, where (apart from the regulations) it would be the duty of the Tribunal to inquire into both an efficiency case and a fraud case in respect of the same person, it may inquire into one case before inquiring into the other and, after proceedings in the first case are finally disposed of may if it thinks it appropriate adjourn the other case indefinitely.
+  >
+  > **Applications for interim suspension**
+  >
+  > **9** (1) A Health and Social Services Board which has made representations under paragraph 1 may, at any time before the case is disposed of by the Tribunal, apply to the Tribunal for a direction to be made under sub-paragraph (3) in relation to the person to whom the case relates.
+  >
+  > (2) A Health and Social Services Board may, if it has requested a review of a conditional disqualification on the ground mentioned in paragraph 5(3)(b) or (c), at any time before the review is concluded apply to the Tribunal for a direction to be made under sub-paragraph (3) in relation to the person to whom the review relates.
+  >
+  > (3) If, on an application under this paragraph, the Tribunal is satisfied that either of the conditions for doing so is satisfied, it shall direct that sub-paragraph (5) shall apply to the person concerned as respects services of the kind to which the case in question, or the case to which the review in question, relates.
+  >
+  > (4) The conditions for giving such a direction are—
+  >
+  > (a) that it is necessary to do so in order to protect persons who are, or may be, provided with services under Part VI of this Order to which the case in question, or the case to which the review in question, relates;
+  >
+  > (b) in, or in the case of a review relating to, a fraud case, that unless it does so there is a significant risk that—
+  >
+  > (i) an act or omission within paragraph 1(7)(a) will occur; or
+  >
+  > (ii) the investigation of the case of the review will be prejudiced.
+  >
+  > (5) A person to whom this sub-paragraph applies shall—
+  >
+  > (a) be deemed to have been removed from any relevant list in which his name is included;
+  >
+  > (b) be disqualified for inclusion in any relevant list in which his name is not included; and
+  >
+  > (c) be deemed to be a person in relation to whom there is in force a declaration of unfitness in relation to the provision of services of the relevant kind.
+  >
+  > (6) A direction under sub-paragraph (3) shall cease to have effect on the Tribunal's disposing of the case or review in connection with which it is made.
+  >
+  > (7) In the application of sub-paragraph (5) to any person—
+  >
+  > (a) “relevant list” means a list of persons undertaking to provide services of the kind to which the direction applying the sub-paragraph to him relates; and
+  >
+  > (b) “services of the relevant kind” means services of the kind to which that direction relates.
+  >
+  > **Suspension pending appeal**
+  >
+  > **10** (1) Where, on disposing of a case under paragraph 3, the Tribunal makes a general disqualification, it may, if it considers that either of the conditions mentioned in paragraph 9(4) is satisfied, direct that paragraph 9(5) shall apply or, if a direction has been given under paragraph 9(3), shall continue to apply to him as respects services of the kind to which the disqualification relates.
+  >
+  > (2) A direction under sub-paragraph (1) shall cease to have effect—
+  >
+  > (a) where no appeal against the general disqualification is brought, at the end of the period for bringing an appeal; and
+  >
+  > (b) where an appeal against the disqualification is brought, when the appeal process has been exhausted.
+  >
+  > (3) Where the power conferred by sub-paragraph (1) is exercisable by virtue of a disqualification which is not coupled with a declaration of unfitness, paragraph 9(5) shall have effect, in relation to the exercise of that power, with the omission of head (c).
+  >
+  > **Paragraphs 9 and 10: procedure**
+  >
+  > **11** (1) Before making a direction under paragraph 9(3) or 10(1) in relation to any person, the Tribunal shall give him an opportunity—
+  >
+  > (a) to appear before the Tribunal, either in person or by counsel or solicitor or such other representative as may be prescribed; and
+  >
+  > (b) to be heard and to call witnesses and produce other evidence.
+  >
+  > (2) Regulations may—
+  >
+  > (a) make provision for, or for the determination of, procedure in relation to determining applications under paragraph 9 or the exercise of the power conferred by paragraph 10(1); and
+  >
+  > (b) provide for the functions of the Tribunal under paragraph 9 or 10 to be carried out, or to be carried out in prescribed circumstances, by the chairman or a deputy chairman of the Tribunal.
+  >
+  > **Suspension provisions in Scotland or England and Wales**
+  >
+  > **12** (1) This paragraph applies where, under any provisions in force in Scotland or England and Wales corresponding to paragraph 9 or 10, a person ( “the practitioner”) is disqualified for inclusion in all lists prepared under the provisions in force there corresponding to the provisions of Part VI of this Order of persons undertaking to provide services of one or more of the kinds specified in paragraph 1(8), other than those in which his name is included.
+  >
+  > (2) The practitioner shall, while he is so disqualified—
+  >
+  > (a) be disqualified for inclusion in any list prepared under Part VI of this Order of persons undertaking to provide services of the same kinds ( “relevant list”) in which his name is not included; and
+  >
+  > (b) be deemed to have been removed from any relevant list in which his name is included.
+  >
+  > **Payments in consequence of suspension**
+  >
+  > **13** (1) Regulations may provide for the making to persons to whom paragraph 9(5) or 12(2) applies of payments in consequence of the application of that provision.
+  >
+  > (2) Regulations under sub-paragraph (1) may provide for the determination by the Department in a prescribed manner of anything for which provision may be made by regulations under that sub-paragraph.
+  >
+  > **Removal of persons from list**
+  >
+  > **14** Where any of the services mentioned in paragraph 1(8)(a) to (e) is administered pursuant to arrangements made by any Health and Social Services Board, and that Board is satisfied that any person whose name is on the list of persons undertaking to provide those services has never provided or has ceased to provide those services, it may remove his name from that list.
+  >
+  > **PART II — CONSTITUTION OF THE TRIBUNAL**
+  >
+  > **Membership**
+  >
+  > **15** The Tribunal shall consist of—
+  >
+  > (a) a chairman appointed by the Lord Chief Justice;
+  >
+  > (b) such number of deputy chairmen as the Lord Chief Justice may appoint;
+  >
+  > (c) such number of persons as the Department may appoint for the purposes of this sub-paragraph;
+  >
+  > (d) such number of medical practitioners as the Department may appoint for the purposes of this sub-paragraph;
+  >
+  > (e) such number of medical practitioners having the qualifications prescribed under Article 62 as the Department may appoint for the purposes of this sub-paragraph;
+  >
+  > (f) such number of dental practitioners as the Department may appoint for the purposes of this sub-paragraph;
+  >
+  > (g) such number of ophthalmic opticians as the Department may appoint for the purposes of this sub-paragraph; and
+  >
+  > (h) such number of pharmacists as the Department may appoint for the purposes of this sub-paragraph.
+  >
+  > **Chairman and deputy chairman**
+  >
+  > **16** A person appointed as the chairman or a deputy chairman shall be either a barrister-at-law practising in Northern Ireland or a practising solicitor of the[[^F106]Court of Judicature] of not less than ten years' standing.
+  >
+  > **Other members of the Tribunal**
+  >
+  > **17** (1) Any appointment for the purposes of paragraph 15(c) shall be made after consultation with Health and Social Services Boards.
+  >
+  > (2) Any appointment for the purposes of any of sub-paragraphs (d) to (h) of paragraph 15 shall be made after consultation with such organisations as the Department may recognise as representative of the profession or calling concerned.
+  >
+  > **Functions of the Tribunal**
+  >
+  > **18** (1) The functions of the Tribunal shall be exercised by three members consisting of—
+  >
+  > (a) the chairman or a deputy chairman;
+  >
+  > (b) a person appointed under paragraph 15(c); and
+  >
+  > (c) a person appointed under such one of sub-paragraphs (d) to (h) of paragraph 15 as provides for the appointment of persons of the same profession or calling as that of the person concerned.
+  >
+  > (2) In sub-paragraph (1)(c) as it has effect in relation to the functions mentioned below, the reference to the person concerned is—
+  >
+  > (a) in the case of functions under paragraphs 1 to 4, to the person to whom the representations in question relate;
+  >
+  > (b) in the case of functions under paragraph 5, to the person whose disqualification, conditional disqualificationor declaration of unfitness is under consideration;
+  >
+  > (c) in the case of functions under paragraph 9, to the person to whom the application in question relates; and
+  >
+  > (d) in the case of functions under paragraph 10, to the person in relation to whom paragraph 9(5) may be made to apply or continue to apply.
+  >
+  > (3) In sub-paragraph (1)(c) as it has effect in relation to functions of the Tribunal conferred by or under any statutory provision relating to the preferential treatment of medical practitioners on transferring to medical lists, the reference to the person concerned is a reference to the medical practitioner to whom the matter before the Tribunal relates.
+  >
+  > (4) In the case of functions under paragraph 9 or 10, sub-paragraph (1) is subject to paragraph 11(2)(b).
+  >
+  > **Regulations**
+  >
+  > **19** Regulations may provide for the appointment, tenure of office and vacation of office of members of the Tribunal.
+
+  .
+
+## SCHEDULE 3 — SCHEDULE 10 TO THE PRINCIPAL ORDER, AS SUBSTITUTED
+
+*Section 55.*
+
+- > **SCHEDULE 10 — PROHIBITION OF SALE OF MEDICAL PRACTICES**
+  >
+  > **Sale of medical practices**
+  >
+  > **1** (1) It is unlawful to sell the goodwill of the medical practice of a person who has at any time—
+  >
+  > (a) provided general medical services under arrangements made with a Health and Social Services Board under this Order; or
+  >
+  > (b) provided or performed personal medical services in accordance with Article 15B arrangements made with a Health and Social Services Board,
+  >
+  > unless that person no longer provides or performs such services and has never carried on the practice in that Board's area.
+  >
+  > (2) In this Schedule—
+  >
+  > - “goodwill” includes any part of goodwill and, in relation to a person practising in partnership, means his share of the goodwill of the partnership practice;
+  > - “medical practice” includes any part of a medical practice.
+  >
+  > **Prohibition, and certificate of Health and Social Services Board**
+  >
+  > **2** (1) Any person who sells or buys the goodwill of a medical practice which it is unlawful to sell by virtue of paragraph 1 is guilty of an offence and liable on conviction on indictment to a fine not exceeding—
+  >
+  > (a) such amount as will in the court's opinion secure that he derive no benefit from the offence; and
+  >
+  > (b) the further amount of £500;
+  >
+  > or to imprisonment for a term not exceeding three months, or to both such fine and such imprisonment.
+  >
+  > (2) Any person proposing to be a party to a transaction or series of transactions which he thinks might amount to a sale of the goodwill of a medical practice in contravention of paragraph 1 may ask the Health and Social Services Board for the area in which the practice is situated for a certificate under this paragraph.
+  >
+  > (3) The Health and Social Services Board shall consider any such application, and, if it is satisfied that the transaction or series of transactions does not involve the giving of valuable consideration in respect of the goodwill of such a medical practice, it shall issue to the applicant a certificate to that effect, which shall be in the prescribed form and shall set out all material circumstances disclosed to the Board.
+  >
+  > (4) Where any person is charged with an offence under this paragraph in respect of any transaction or series of transactions, it shall be a defence to the charge to prove that the transaction or series of transactions was certified by the Health and Social Services Board under sub-paragraph (3).
+  >
+  > (5) Any document purporting to be such a certificate shall be admissible in evidence and shall be deemed to be such a certificate unless the contrary is proved.
+  >
+  > (6) If it appears to the court that the applicant for any such certificate failed to disclose to the Health and Social Services Board all the material circumstances, or made any misrepresentation with respect thereto, the court may disregard the certificate, and sub-paragraph (4) shall not apply thereto.
+  >
+  > (7) A prosecution for an offence under this paragraph shall only be instituted by or with the consent of the Director of Public Prosecutions, and the Health and Social Services Board shall, at the request of the Director, furnish him with a copy of any certificate issued by it under sub-paragraph (3), and with copies of any documents produced to it in connection with the application for that certificate.
+  >
+  > **Certain transactions deemed sale of goodwill**
+  >
+  > **3** (1) For the purposes of paragraphs 1 and 2, a disposal of premises previously used for the purposes of a medical practice shall be deemed to be a sale of the goodwill of a medical practice if—
+  >
+  > (a) the person disposing of the premises did so knowing that another person ( “A”) intended to use them for the purposes of A's medical practice; and
+  >
+  > (b) the consideration for the disposal substantially exceeded the consideration that might reasonably have been expected if the premises had not previously been used for the purposes of a medical practice.
+  >
+  > (2) If a person disposes of any premises together with any other property, the court shall, for the purposes of sub-paragraph (1), make such apportionment of the consideration as it thinks just.
+  >
+  > (3) For the purposes of sub-paragraphs (1) and (2)—
+  >
+  > (a) “disposal” means any sale, letting or other form of disposal (whether by a single transaction or a series of transactions); and
+  >
+  > (b) a person who procures the disposal of any premises is to be treated as having disposed of them.
+  >
+  > (4) Where in pursuance of any partnership agreement—
+  >
+  > (a) any valuable consideration, other than the performance of services in the partnership business, is given by a partner or proposed partner as consideration for his being taken into partnership;
+  >
+  > (b) any valuable consideration is given to a partner, on or in contemplation of his retirement or of his acceptance of a reduced share of the partnership profits, or to the personal representative of a partner on his death, not being a payment in respect of that partner's share in past earnings of the partnership or in any partnership assets or any other payment required to be made to him as the result of the final settlement of accounts, as between him and the other partners, in respect of past transactions of the partnership; or
+  >
+  > (c) services are performed by any partner for a consideration substantially less than those services might reasonably have been expected to be worth having regard to the circumstances at the time when the agreement was made,
+  >
+  > there shall be deemed for the purposes of paragraphs 1 and 2 to have been a sale of the goodwill of the practice of any partner to whom, or to whose personal representative, the consideration or any part thereof is given or, as the case may be, for whose benefit the services are performed, to the partner or each of the partners by or on whose behalf the consideration or any part thereof was given or, as the case may be, the partner who performed the services, and the said sale shall be deemed for the purposes of sub-paragraphs (1) and (2) to have been effected—
+  >
+  > (i) in a case to which head (a) or head (b) applies, at the time when the consideration was given, or, if the consideration was not all given at the same time, at the time when the first part thereof was given; or
+  >
+  > (ii) in a case to which head (c) applies, at the time when the agreement was made.
+  >
+  > (5) Sub-paragraph (6) applies if a person ( “the assistant”)—
+  >
+  > (a) performs services on behalf of a person who carries on a medical practice (or as an employee of a person employing a practitioner who carries on a medical practice);
+  >
+  > (b) receives substantially less remuneration for performing those services than might reasonably have been expected, having regard to the circumstances at the time when the remuneration was fixed; and
+  >
+  > (c) subsequently succeeds, whether as a result of a partnership agreement or otherwise, to that practice.
+  >
+  > (6) For the purposes of paragraphs 1 and 2, a sale of the goodwill of the practice is to be deemed to have taken place (at the time when the remuneration was fixed), unless it is proved that the remuneration was not fixed in contemplation of the assistant's succeeding to the practice.
+  >
+  > (7) For the purposes of paragraphs 1 and 2, the goodwill of a medical practice shall be deemed to have been sold if—
+  >
+  > (a) a person carrying on the practice (or employing a practitioner who carries on a medical practice) agrees, for valuable consideration—
+  >
+  > (i) to do or refrain from doing any act, for the purpose of facilitating the succession of another person to the practice; or
+  >
+  > (ii) to allow any act to be done, for that purpose; or
+  >
+  > (b) a person—
+  >
+  > (i) gives valuable consideration to a person carrying on the practice (or employing a practitioner who carries on a medical practice); and
+  >
+  > (ii) succeeds, or has previously succeeded, to the practice.
+  >
+  > (8) Sub-paragraph (7) does not apply—
+  >
+  > (a) if it is proved that no part of the consideration was given in respect of the goodwill; or
+  >
+  > (b) to anything done—
+  >
+  > (i) in relation to the acquisition of premises for the purposes of a medical practice;
+  >
+  > (ii) in pursuance of a partnership agreement; or
+  >
+  > (iii) in the performance of medical services by one person as an assistant to another.
+  >
+  > (9) In determining for the purposes of this Schedule the consideration given in respect of any transaction, the court shall have regard to any other transaction appearing to the court to be associated with the first transaction, and shall estimate the total consideration given in respect of both or all the transactions, and apportion it between those transactions in such manner as it thinks just.
+  >
+  > (10) For the purposes of this Schedule—
+  >
+  > (a) consideration is deemed to be given to a person ( “B”) if—
+  >
+  > (i) it is given to another person but with B's knowledge and consent; and
+  >
+  > (ii) it appears to the court that B has derived, or will derive, a substantial benefit from the giving of the consideration; and
+  >
+  > (b) unless the context otherwise requires, references to a person include, in the case of an individual who has died, references to his personal representative.
+  >
+  > **Carried-over goodwill**
+  >
+  > **4** The fact that a person's medical practice was previously carried on by another person who at any time provided general medical services or personal medical services does not, by itself, make it unlawful under paragraph 1 for the goodwill of his practice to be sold.
+
+  .
+
+## SCHEDULE 4 — REGULATION OF THE PROFESSION OF PHARMACEUTICAL CHEMIST
+
+*Section 56.*
+
+### Matters generally within the scope of an order
+
+**1** An order may make provision, in relation to the profession, for any of the following matters (among others)—
+
+(a) the constitution of the Council;
+
+(b) keeping a register of members admitted to practice;
+
+(c) education and training before and after admission to practice;
+
+(d) privileges of members admitted to practice;
+
+(e) standards of conduct and performance;
+
+(f) discipline and fitness to practise;
+
+(g) investigation and enforcement by or on behalf of the Council;
+
+(h) appeals;
+
+(i) default powers exercisable by a person other than the Council.
+
+### Manner of exercise of power
+
+**2** (1) The power to make an order may be exercised by amending or repealing any statutory provision (including the Pharmacy (Northern Ireland) Order 1976 (NI 22)) and any other instrument or document.
+
+(2) But an order may not amend any provision of the Medicines Act 1968 (c. 67) other than one contained in Part IV of that Act (pharmacies).
+
+**3** The power may be exercised so as to make provision for the delegation of functions, including provision conferring power to make, confirm or approve subordinate legislation.
+
+**4** The power may be exercised so as to make provision for the charging of fees.
+
+**5** The power may be exercised so as to—
+
+(a) confer functions (including power to pay grants) on Northern Ireland Ministers or departments; or
+
+(b) modify their functions.
+
+**6** The power may not be exercised so as to create any criminal offence, except an offence punishable on summary conviction with a fine not exceeding the amount specified as level 5 on the standard scale.
+
+### Matters outside the scope of an order
+
+**7** (1) An order may not abolish the Council.
+
+(2) An order may not impose any requirement which would have the effect that a majority of the members of the Council would be persons not included in the register of members admitted to practice.
+
+**8** (1) An order may not provide for any person other than the Council or any of its [committees or] officers to exercise any of the following functions—
+
+(a) keeping the register of members admitted to practice;
+
+(b) determining standards of education and training for admission to practice;
+
+(c) giving advice about standards of conduct and performance.
+
+(2) An order may not provide for any functions conferred by Part IV of the Pharmacy (Northern Ireland) Order 1976 to be exercised otherwise than by the committee appointed under Article 19 of that Order.
+
+### Preliminary procedure for making an order
+
+**9** (1) No order shall be made unless a draft of the order has been laid before, and approved by resolution of, the Assembly.
+
+(2) If it is proposed to lay a draft of an order before the Assembly, the Department must first—
+
+(a) publish a draft of the order; and
+
+(b) invite representations to be made to the Department about the draft by—
+
+(i) persons appearing to the Department appropriate to represent the profession,
+
+(ii) persons appearing to the Department appropriate to represent those provided with services by the profession; and
+
+(iii) any other persons appearing to the Department appropriate to consult about the draft.
+
+(3) After the end of the period of three months beginning with the publication of the draft, the Department may lay before the Assembly the draft as published or that draft with any modifications it considers appropriate, together with a report about the consultation.
+
+### Interpretation and application
+
+**10** In this Schedule—
+
+- “the Council” means the Council of the Pharmaceutical Society of Northern Ireland;
+- “order” means an order under section 56;
+- “the profession” means the profession of pharmaceutical chemist.
+
+**11** References to regulation of the profession in section 56 include—
+
+(a) the regulation of persons seeking admission to practice or who were, but are no longer, allowed to practise as members of the profession;
+
+(b) the regulation of activities carried on by persons who are not members of the profession but which are carried on in connection with the practice of the profession,
+
+but do not include regulation in relation to any matters for which, by virtue of paragraph 12 of Schedule 3 to the Health Act 1999 (c. 8), provision may be made by an Order in Council under section 60 of that Act.
+
+*Schedule 5—Repeals*
+
+---
+
+[^F1]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F2]: Words in s. 2(3)(a) substituted (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 189(2)(a); S.R. 2022/102, art. 2(b)
+[^F3]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F4]: Words in s. 2(3)(d) substituted (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 189(2)(b); S.R. 2022/102, art. 2(b)
+[^F5]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F6]: S. 2(5)-(7) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 3 (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F7]: Word in s. 3(1)(a) inserted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 4(a)(i) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: Word in s. 3(1)(a) omitted (3.12.2007) by virtue of European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 245(a)
+[^F9]: S. 3(1)(c) and word omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 4(a)(ii) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F10]: S. 3(2)(2A) substituted (3.12.2007) for s. 3(2) by European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 245(b)
+[^F11]: Word in s. 3(2)(a) inserted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 4(a)(i) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F12]: S. 3(2)(c) and word omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 4(a)(ii) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F13]: S. 3(2A)(c) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 4(b) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F14]: Words in s. 4(1) substituted (3.12.2007) by European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 246
+[^F15]: Words in s. 4(1) omitted (13.5.2016) by virtue of Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 6(3), 8
+[^F16]: Words in s. 5(1) substituted (3.12.2007) by European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 247
+[^F17]: S. 5(4) added (12.10.2009) by Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351 (N.I. 11)), arts. 1(3), 60(1), Sch. 7 para. 5 (with arts. 2(4), 53, 57(3), 61(4)); S.R. 2009/346, art. 3, Sch.
+[^F18]: S. 5A omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 5 (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F19]: S. 6(1)(da)-(dg) inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 1, 8
+[^F20]: Words in s. 7(b) substituted (3.12.2007) by European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 249(a)
+[^F21]: Words in s. 7(c) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 6 (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F22]: S. 7A inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 2(1), 8
+[^F23]: Word in s. 7A(1) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 7 (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F24]: Words in s. 7A(3) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 77(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F25]: Words in s. 7A(3) substituted (31.12.2020) by The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419), reg. 1(2), Sch. 3 para. 21(2) (with Sch. 3 para. 112); 2020 c. 1, Sch. 5 para. 1(1)
+[^F26]: S. 7A(5) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 77(3) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F27]: S. 7A(8) substituted (31.12.2020) by The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419), reg. 1(2), Sch. 3 para. 21(3) (with Sch. 3 para. 112); 2020 c. 1, Sch. 5 para. 1(1)
+[^F28]: S. 7B inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 2(2), 8
+[^F29]: Words in s. 8(1) substituted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 3(2), 8
+[^F30]: Words in s. 8(1) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 8(a) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F31]: Words in s. 8(1)(b) substituted (31.12.2020) by The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 8(b) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F32]: Words in s. 8(3) substituted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 3(3), 8
+[^F33]: S. 8(6) omitted (13.5.2016) by virtue of Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 3(4), 8
+[^F34]: 2003 NI 9
+[^F35]: S. 10A inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 4(1), 8
+[^F36]: S. 11(A1) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 9 (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F37]: Words in s. 11(1) substituted (3.12.2007) by virtue of European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 251(b)(i)
+[^F38]: S. 11(1)(a) omitted (3.12.2007) by European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 251(b)(ii)
+[^F39]: S. 11(2)-(4) omitted (3.12.2007) by European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 251(c)
+[^F40]: S. 12(2A)-(2D) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 10 (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F41]: Words in s. 13(3)(b) substituted (3.12.2007) by European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 253
+[^F42]: S. 15 substituted (13.5.2016 with effect as mentioned in s. 5(2)) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 5(1), 8
+[^F43]: Words in s. 15(2)(b) inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 114(2) (with reg. 155)
+[^F44]: Words in s. 15(2)(b) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 11(a) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F45]: Word in s. 15(3)(a) omitted (18.11.2016) by virtue of The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 114(3)(a) (with reg. 155)
+[^F46]: S. 15(3)(b) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 11(b) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F47]: S. 15(3)(c) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 11(b) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F48]: S. 16A inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 2(3), 8
+[^F49]: Words in s. 18(1) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 12(a) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F50]: Words in s. 18(2)(a) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 12(b) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F51]: S. 18(2)(ba) inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 4(2), 8
+[^F52]: S. 18(2A) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 10 para. 12(c) (with reg. 12A, Sch. 10 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 18); 2020 c. 1, Sch. 5 para. 1(1)
+[^F53]: S. 18(4)(5) inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 6(4), 8
+[^F54]: 2003 NI 9
+[^F55]: S. 22: renumbered as s. 22(1) (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 6(5)(a), 8
+[^F56]: S. 22(2) inserted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 6(5)(b), 8
+[^F57]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise 29.1.2007) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F58]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F59]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F60]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F61]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise 29.1.2007) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F62]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise 29.1.2007) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F63]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F64]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F65]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F66]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F67]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F68]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F69]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise 29.1.2007) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F70]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F71]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F72]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise prosp.) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F73]: Pt. II (ss. 23-38) repealed (4.12.2006 for certain purposes, otherwise 29.1.2007) by Recovery of Health Services Charges (Northern Ireland) Order 2006 (S.I. 2006/1944 (N.I. 13)), arts. 1(2), 21(1), Sch. 2 (with arts. 18, 21(2)); S.R. 2006/484, art. 2
+[^F74]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F75]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(c) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F76]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F77]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(c) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F78]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F79]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F80]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F81]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(e) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F82]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F83]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F84]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F85]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F86]: Words in Act substituted (1.4.2009) by virtue of Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F87]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F88]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(b) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F89]: S. 50 repealed (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 9 (with s. 23, 50(3))
+[^F90]: Words in s. 51(1)(2) substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 18(1)(a); S.R. 2009/114, art. 2
+[^F91]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(b) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F92]: Words in s. 51(4) substituted (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 189(3)(a); S.R. 2022/102, art. 2(b)
+[^F93]: Words in s. 51(4) omitted (1.4.2022) by virtue of Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 189(3)(b); S.R. 2022/102, art. 2(b)
+[^F94]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F95]: S. 54(1)(a)(aa)(b) substituted (1.4.2009) for s. 54(1)(a)(b) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 18(2)(a); S.R. 2009/114, art. 2
+[^F96]: S. 54(1)(a) omitted (1.4.2022) by virtue of Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 189(4); S.R. 2022/102, art. 2(b)
+[^F97]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F98]: S. 54(1)(e) substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 18(2)(b); S.R. 2009/114, art. 2
+[^F99]: S. 54(3) repealed (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 33, 34(3), Sch. 7; S.R. 2009/114, art. 2
+[^F100]: Words in s. 57(1) substituted (13.5.2016) by Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23), ss. 6(6), 8
+[^F101]: Words in s. 59(2) inserted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 18(3); S.R. 2009/114, art. 2
+[^F102]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F103]: partly exercised by SRs 2001/128, 324; SRs 2002/73, 180; SR2003/69, SR2004/107, SR 2005/226
+[^F104]: Sch. 1 para. 17 repealed (1.4.2016) by Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4), s. 64, Sch. 9 (with s. 23, 50(3))
+[^F105]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(b) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F106]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 59(5), 148(1), Sch. 11 para. 6; S.I. 2009/1604, art. 2

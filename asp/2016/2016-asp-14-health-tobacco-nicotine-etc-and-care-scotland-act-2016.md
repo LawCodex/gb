@@ -406,7 +406,7 @@ In section 21(1) of the 2010 Act (public inspection of the Register), for “at 
 
 .
 
-#### The2010 Act: miscellaneous
+#### The 2010 Act: miscellaneous
 
 ##### 13 Power to exclude certain premises
 

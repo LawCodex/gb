@@ -1,0 +1,26 @@
+---
+title: "Lands of Irish Rebels (Adventurers' Subscriptions) (No. 2) Act 1640"
+identifier: "aep/Cha1/16/35"
+citation: "1640 CHAPTER 35 16 Cha 1"
+type: act
+legislation_type: aep
+jurisdiction: gb
+language: en
+version: enacted
+status: unknown
+source: "https://www.legislation.gov.uk/aep/Cha1/16/35"
+source_modified: 2024-12-11
+retrieved: 2026-10-11
+---
+
+# Lands of Irish Rebels (Adventurers' Subscriptions) (No. 2) Act 1640
+
+**1640 CHAPTER 35 16 Cha 1**
+
+An Act to inable Corporations & Bodies Politique to participate of the benefit of an Act lately passed entituled An Act for the speedie and effectuall reducing of the Rebells in his Majesties Kingdome of Ireland to theire due obedience to his Majestie and the Crowne of England.
+
+## c. 33. ante.
+
+*Corporations and Bodies Politic enabled to be Adventurers.; Times for Underwriting and Payment within 60 Miles from London.; Moneys to be paid to the Treasurers appointed by the said Act.; Times for Underwriting and Payment by Corporations, &c. being 60 Miles and more from London.; On Payment entitled to Allotments*.
+
+Whereas diverse of his Majesties well affected Subjects of this Kingdome have taken notice of the said Act and are willing to contribute to so good a Worke according to theire severall Estates and Abilities but every Person in himselfe is not able to undertake any great su[m]m of money yet many of them united and incorporated into one Body Companie or Societie may by joyning togeather make up a considerable intire su[m]m which may very much advance so Honourable and Pious a Worke as the reducing of that Kingdome of Ireland And alsoe for the better inabling of all Corporations and Bodies politique thorowout this Kingdome to be adventurers and undertakers in the same Be it enacted by the King our Soveraigne Lord and by the Lords and Commons in this Parliament assembled and the Authoritie of the same That all and every Cities Boroughs and other Towns Corporate which have perpetuall Communaltie and Succession being within sixtie miles of London And all and every Companies Guilds and Fraternities of any Craft Mysterie or Trade united and incorporated within the said Citie of London or within any other Citie within threescore miles distance thereof which at any time before the twentieth day of May in the yeare of our Lord God one thousand six hundred fourty two by theire Citizens or Burgesses or by any one of them respectively for that place which he serveth in this present Parliament or by theire Maior Bailiffe Master Warden or other Head Officer of any the said Cities Boroughs Towns Corporate Companies Guilds or Fraternities aforesaid shall underwrite any such su[m]m of money as in the said Act is mentioned and pay the fourth part thereof on or before the said twentieth day of May aforesaid and the other three parts of the su[m]m or su[m]ms so to be subscribed within three moneths three moneths and three monthes by equall porc[i]ons accounting eight and twentie dayes to every moneth to be accounted to begin from the said twentieth day of May aforesaid And all the said su[m]ms to be paid at the Chamber of the Citie of London to the four persons appointed to attend there by the said Act or to any two of them Who are hereby authorized and required to give Receipts for the same and to enter the said su[m]m and the times of such Subscription as aforesaid And all and every Cities Boroughs and other Towns corporate within the Kingdome of England which have perpetuall Communalty and Succession being threescore miles or more from the said City of London And all Companies Guildes and Fraternities of any Craft Mystery or Trade united & incorporated within any of the said Cities which at any time before the last day of May in the yeare of our Lord God one thousand six hundred fourty two shall by theire Citizens or Burgesses or by any one of them respectively for that place which he serveth in this present Parliament or by theire Maior Bayliffe Master Warden or other Head Officer of any of the said Cities Boroughs Towns Corporate Companies Guildes or Fraternities aforesaid underwrite any such sum of money as in the said Act is mentioned and pay the fourth part thereof on or before the said last day of May aforesaid and the other three parts of the said su[m]m or su[m]ms so to be subscribed within three monthes three monthes and three monthes by equall porc[i]ons accounting eight and twentie dayes to every moneth to be accounted to begin from the said last day of May aforesaid and at such place and to such Persons as in and by the said Act is appointed shall have a *15 R. II. c. 5*. proportionable share of the said Rebels Lands and of other Lands forfeited and to be forfeited by the said Act according to the su[m]ms to be by them underwritten and paid in as aforesaid under all other the Conditions and Limitations in the said Act or Propositions mentioned to all intents and purposes and in as large and beneficiall manner as if such Underwriting had beene at the dayes in the said recited Act or the Propositions therein expressed Any thing therein contained or any thing in the Statute made the fifteenth yeare of King Richard the second entituled Assurance of Lands to certaine Places Persons and Uses shall be adjudged Mortmain or any thing in any other Statute of Mortmain whatsoever contained to the contrary notwithstanding.

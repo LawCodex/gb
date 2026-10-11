@@ -1,0 +1,193 @@
+---
+title: "Family Law Act (Northern Ireland) 2001"
+identifier: "nia/2001/12"
+citation: "2001 CHAPTER 12"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2001-07-17
+last_amended: 2020-01-13
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2001/12"
+source_modified: 2024-05-20
+retrieved: 2026-10-11
+---
+
+# Family Law Act (Northern Ireland) 2001
+
+**2001 CHAPTER 12**
+
+An Act to make further provision for the acquisition of parental responsibility under Article 7 of the Children (Northern Ireland) Order 1995; and to provide for certain presumptions of parentage and for tests to determine parentage.
+
+[17th July 2001]
+
+## 1 Acquisition of parental responsibility by father or step-parent
+
+(1) Article 7 of the Children (Northern Ireland) Order 1995 (NI 2) (acquisition of parental responsibility) shall be amended as follows.
+
+(2) In paragraph (1) (acquisition of parental responsibility by father who is not married to child's mother), for the words after “birth” substitute
+
+> , the father shall acquire parental responsibility for the child if—
+>
+> (a) he becomes registered as the child's father;
+>
+> (b) he and the child's mother make an agreement (a “parental responsibility agreement”) providing for him to have parental responsibility for the child; or
+>
+> (c) the court, on his application, orders that he shall have parental responsibility for the child
+
+.
+
+(3) After paragraph (1) there shall be inserted—
+
+> (1A) A child's step-parent shall acquire parental responsibility for the child if the court, on the application of the step-parent, orders that he shall have parental responsibility for the child.
+>
+> (1B) Where a person has parental responsibility for a child as a result of paragraph (1A), he shall not have the right—
+>
+> (a) to consent, or refuse to consent, to the making of an application with respect to the child under Article 17 of the Adoption Order;
+>
+> (b) to agree, or refuse to agree, to the making of an adoption order, or an order under Article 57 of the Adoption Order, with respect to the child; or
+>
+> (c) to appoint a guardian for the child.
+>
+> (1C) In paragraph (1A) “step-parent” means a person who is married to a child's parent who has parental responsibility for the child.
+
+.
+
+(4) [^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For paragraph (4) there shall be substituted—
+
+> (3A) A person who has acquired parental responsibility under paragraph (1) or (1A) shall cease to have that responsibility if the court so orders.
+>
+> (4) The court may make an order under paragraph (3A) on the application—
+>
+> (a) of any person who has parental responsibility for the child; or
+>
+> (b) with leave of the court, of the child himself,
+>
+> subject, in the case of parental responsibility acquired by the father of the child under paragraph (1)(c), to Article 12(4) (residence orders and parental responsibility).
+
+.
+
+(6) The Children (Northern Ireland) Order 1995 shall be further amended as follows—
+
+(a) in Article 3(4) (circumstances in which the court must have regard in particular to matters listed in Article 3(3)), after sub-paragraph (a) there shall be inserted—
+
+> (aa) the court is considering whether to make an order under Article 7; or
+
+;
+
+(b) in Article 5(2)(b) (father who is not married to child's mother shall not have parental responsibility for the child unless he acquires it in accordance with the provisions of the Order), for the words from “shall not” to “acquires it” substitute “shall have parental responsibility for the child if he has acquired it (and has not ceased to have it)”; and
+
+(c) in Article 179(7) (duration of orders), after the words “Article 7(1)” there shall be inserted “or (1A)”.
+
+(7) Sub-paragraph (a) of Article 7(1) of the Children (Northern Ireland) Order 1995, as substituted by subsection (2), does not confer parental responsibility on a man who was registered (within the meaning of that sub-paragraph) as the child's father before the commencement of that subsection.
+
+## 2 Presumption of parentage
+
+(1) A man shall be presumed to be the father of a child—
+
+(a) if he was married to [[^F2], or was the civil partner of,] the mother of the child at any time in the period beginning with the conception and ending with the birth of the child;
+
+(b) where paragraph (a) does not apply, if he has been registered as the father of the child under—
+
+(i) Article 14 or 18(1)(b)(ii) of the Births and Deaths Registration (Northern Ireland) Order 1976 (NI 14);
+
+(ii) section 10 or 10A of the Births and Deaths Registration Act 1953 (c. 20); or
+
+(iii) in any register kept under section 13 (register of births and still-births) or section 44 (Register of Corrections Etc.) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49).
+
+(2) Any presumption under this section may be rebutted by proof on a balance of probabilities.
+
+## 3 Tests for determining parentage
+
+(1) Part III of the Family Law Reform (Northern Ireland) Order 1977 (NI 17) (provisions for use of blood tests in determining parentage) shall be amended as follows.
+
+(2) In Article 8 (power of court to require use of blood tests)—
+
+(a) for paragraph (1) there shall be substituted—
+
+> (1) In any civil proceedings in which the parentage of any person falls to be determined, the court may, on an application by any party to the proceedings, give a direction—
+>
+> (a) for the use of scientific tests to ascertain whether such tests show that a party to the proceedings is or is not the father or mother of that person; and
+>
+> (b) for the taking, within a period specified in the direction, of bodily samples from all or any of the following, namely, that person, any party who is alleged to be the father or mother of that person and any other party to the proceedings.
+
+;
+
+(b) for paragraph (2) there shall be substituted—
+
+> (2) The individual carrying out scientific tests in pursuance of a direction under paragraph (1) ( “the tester”) shall make to the court a report in which he shall state—
+>
+> (a) the results of the tests;
+>
+> (b) whether any party to whom the report relates is or is not excluded by the results from being the father or mother of the person whose parentage is to be determined; and
+>
+> (c) in relation to any party who is not so excluded, the value, if any, of the results in determining whether that party is the father or mother of that person;
+>
+> and the report shall be received by the court as evidence in the proceedings of the matters stated in it.
+>
+> (2A) Where the proceedings in which the parentage of any person falls to be determined are proceedings on an application under Article 31B of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989, any reference in paragraph (1) or (2) to any party to the proceedings shall include a reference to any person named in the application.
+
+;
+
+(c) in paragraph (6), for the words “blood samples” there shall be substituted “bodily samples”.
+
+(3) In Article 9 (consents, etc., required)—
+
+(a) for the words “blood sample” wherever they occur there shall be substituted “bodily sample”;
+
+(b) in paragraph (4), for the words “blood tests” there shall be substituted “scientific tests”.
+
+(4) In Article 10(1) (power to provide for manner of giving effect to direction for use of tests)—
+
+(a) for the words “blood samples”, “blood sample” and “blood tests” wherever they occur there shall be respectively substituted “bodily samples”, “bodily sample” and “scientific tests”;
+
+(b) after sub-paragraph (a) there shall be inserted—
+
+> (aa) prescribe the bodily samples to be taken;
+
+;
+
+(c) in sub-paragraph (d), after the word “illness” there shall be inserted “or condition or undergone any such treatment”.
+
+(5) In Article 11 (failure to comply with direction)—
+
+(a) in paragraph (2), for the word “paternity” there shall be substituted “parentage”;
+
+(b) in paragraph (3), for the words “blood sample” there shall be substituted “bodily sample”.
+
+(6) In Article 12 (penalty for impersonating another, etc.), for the words “blood sample” there shall be substituted “bodily sample”.
+
+(7) In Article 13 (interpretation of Part III of Order)—
+
+(a) for the definitions of “blood samples” and “blood tests” there shall be substituted—
+
+> “bodily sample” means a sample of bodily fluid or bodily tissue taken for the purpose of scientific tests;
+
+; and
+
+(b) after the definition of “excluded” there shall be inserted—
+
+> “scientific tests” means scientific tests carried out under this Part and made with the object of ascertaining the inheritable characteristics of bodily fluids or bodily tissue
+
+.
+
+(8) The amendments made by this section shall not have effect in relation to any proceedings pending at the commencement of this section.
+
+## 4 Commencement
+
+Sections 1 to 3 shall come into operation on such day or days as the Department of Finance and Personnel may by order appoint[^F3].
+
+## 5 Short title
+
+This Act may be cited as the Family Law Act (Northern Ireland) 2001.
+
+---
+
+[^F1]: S. 1(4) repealed (1.9.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), ss. 66, 68(2), Sch. 8 Pt. 1; S.I. 2009/479, art. 6(3) (with transitional provisions in art. 7, Sch. 1)
+[^F2]: Words in s. 2(1)(a) inserted (13.1.2020) by The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514), regs. 1(2), 21 (with regs. 6-9)
+[^F3]: fully exercised by SR 2002/138

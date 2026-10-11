@@ -3902,7 +3902,7 @@ ar ddiwedd y dydd ar y dyddiad y mae’r trafodiad yn cael effaith.
 
 (a) mae adran 78 o DCRhT yn gymwys at ddibenion is-baragraff (6) fel pe bai’r canlynol wedi ei roi yn lle “4 blynedd” hyd at y diwedd, sef “12 mis sy’n dechrau ag—
 
-(i) dyddiad cael effaith y trafodiad gwaredu (o fewn ystyr paragraff 8(4)(b) o Atodlen 5 i DTTT) a thrwy gyfeirio ato y mae’r trafodiad o dan sylw (o fewn ystyr paragraff 23(1) o’r Atodlen honno) yn peidio â bod yn drafodiad eiddo preswyl cyfraddau uwch at ddiben rheoliadau o dan adran 24(1)(b) o DTTT os yw’r dyddiad y mae’r trafodiad gwaredu yn cael effaith ar neu ar ôl 12 Gorffennaf 2024*,*neu
+(i) dyddiad cael effaith y trafodiad gwaredu (o fewn ystyr paragraff 8(4)(b) o Atodlen 5 i DTTT) a thrwy gyfeirio ato y mae’r trafodiad o dan sylw (o fewn ystyr paragraff 23(1) o’r Atodlen honno) yn peidio â bod yn drafodiad eiddo preswyl cyfraddau uwch at ddiben rheoliadau o dan adran 24(1)(b) o DTTT os yw’r dyddiad y mae’r trafodiad gwaredu yn cael effaith ar neu ar ôl 12 Gorffennaf 2024*,* neu
 
 (ii) 12 Gorffennaf 2024 os yw dyddiad cael effaith y trafodiad gwaredu (o fewn ystyr paragraff 8(4)(b) o Atodlen 5 i DTTT) a thrwy gyfeirio ato y mae’r trafodiad o dan sylw (o fewn ystyr paragraff 23(1) o’r Atodlen honno) yn peidio â bod yn drafodiad eiddo preswyl cyfraddau uwch at ddiben rheoliadau o dan adran 24(1)(b) o DTTT ar neu ar ôl 1 Ebrill 2021 ond cyn 12 Gorffennaf 2024.”;
 
@@ -3918,7 +3918,7 @@ ar ddiwedd y dydd ar y dyddiad y mae’r trafodiad yn cael effaith.
 
 (a) mae adran 78 o DCRhT yn gymwys at ddibenion is-baragraff (6) fel pe bai’r canlynol wedi ei roi yn lle “4 blynedd” hyd at y diwedd, sef “12 mis sy’n dechrau ag—
 
-(i) dyddiad cael effaith y trafodiad gwaredu (o fewn ystyr paragraff 17(4)(b) o Atodlen 5 i DTTT) a thrwy gyfeirio ato y mae’r trafodiad o dan sylw (o fewn ystyr paragraff 23(1) o’r Atodlen honno) yn peidio â bod yn drafodiad eiddo preswyl cyfraddau uwch at ddiben rheoliadau o dan adran 24(1)(b) o DTTT os yw’r dyddiad y mae’r trafodiad gwaredu yn cael effaith ar neu ar ôl 12 Gorffennaf 2024*,*neu
+(i) dyddiad cael effaith y trafodiad gwaredu (o fewn ystyr paragraff 17(4)(b) o Atodlen 5 i DTTT) a thrwy gyfeirio ato y mae’r trafodiad o dan sylw (o fewn ystyr paragraff 23(1) o’r Atodlen honno) yn peidio â bod yn drafodiad eiddo preswyl cyfraddau uwch at ddiben rheoliadau o dan adran 24(1)(b) o DTTT os yw’r dyddiad y mae’r trafodiad gwaredu yn cael effaith ar neu ar ôl 12 Gorffennaf 2024*,* neu
 
 (ii) 12 Gorffennaf 2024 os yw dyddiad cael effaith y trafodiad gwaredu (o fewn ystyr paragraff 17(4)(b) o Atodlen 5 i DTTT) a thrwy gyfeirio ato y mae’r trafodiad o dan sylw (o fewn ystyr paragraff 23(1) o’r Atodlen honno) yn peidio â bod yn drafodiad eiddo preswyl cyfraddau uwch at ddiben rheoliadau o dan adran 24(1)(b) o DTTT ar neu ar ôl 1 Ebrill 2021 ond cyn 12 Gorffennaf 2024.”;
 

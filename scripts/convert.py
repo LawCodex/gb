@@ -167,11 +167,9 @@ class Doc:
             m = self.note("c", c.get("CommentaryRef")) if c.get("CommentaryRef") else ""
             return m + self.inline(c)
         if n == "Emphasis":
-            t = self.inline(c)
-            return f"*{t.strip()}*" if t.strip() else t
+            return wrap(self.inline(c), "*")
         if n == "Strong":
-            t = self.inline(c)
-            return f"**{t.strip()}**" if t.strip() else t
+            return wrap(self.inline(c), "**")
         if n == "Superior":
             return f"<sup>{self.inline(c)}</sup>"
         if n == "Inferior":
@@ -481,6 +479,15 @@ class Doc:
             out.append(f"[^{label}]: {self.clean(txt)}")
             i += 1
         return out
+
+
+def wrap(t, mark):
+    core = t.strip()
+    if not core:
+        return t
+    lead = t[: len(t) - len(t.lstrip())]
+    trail = t[len(t.rstrip()):]
+    return f"{lead}{mark}{core}{mark}{trail}"
 
 
 def paren_label(lab):

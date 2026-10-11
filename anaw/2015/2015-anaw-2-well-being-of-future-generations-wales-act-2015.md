@@ -435,7 +435,7 @@ For section 79 of the Government of Wales Act 2006 (c.32) (sustainable developme
 
 ## PART 3 — THE FUTURE GENERATIONS COMMISSIONER FOR WALES
 
-### TheCommissioner
+### The Commissioner
 
 #### 17 Future Generations Commissioner for Wales
 
@@ -459,7 +459,7 @@ The general duty of the Commissioner is—
 
 (b) for that purpose to monitor and assess the extent to which well-being objectives set by public bodies are being met.
 
-### TheCommissioner's functions
+### The Commissioner's functions
 
 #### 19 Commissioner's functions
 
@@ -635,7 +635,7 @@ The general duty of the Commissioner is—
 
 (ii) a report of the review or inquiry referred to in subsection (1) of this section.
 
-### Advisory panel to theCommissioner
+### Advisory panel to the Commissioner
 
 #### 26 Advisory panel
 

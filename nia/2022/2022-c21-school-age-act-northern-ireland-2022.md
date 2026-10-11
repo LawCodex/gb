@@ -1,0 +1,122 @@
+---
+title: "School Age Act (Northern Ireland) 2022"
+identifier: "nia/2022/21"
+citation: "2022 Chapter 21"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2022-04-27
+last_amended: 2022-04-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2022/21"
+source_modified: 2026-03-20
+retrieved: 2026-10-11
+---
+
+# School Age Act (Northern Ireland) 2022
+
+**2022 Chapter 21**
+
+An Act to amend the meaning of “compulsory school age” in the Education Orders; and for connected purposes.
+
+[27th April 2022]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## 1 Meaning of “compulsory school age”
+
+(1) In Article 46 of the Education and Libraries (Northern Ireland) Order 1986 (compulsory school age), in paragraph (1), after “sixteen years”, in each place it appears, insert “or, in some deferred cases, seventeen years”.
+
+(2) After paragraph (1) of that Article insert—
+
+> (1A) In this Article, “deferred case” means a case in which a person who attains the age of four years on any date occurring in the period beginning on (and including) 1st April in any year and ending on (and including) 1st July in the same year does not begin to receive full-time education until the following year, having attained the age of five years.
+>
+> (1B) A reference in this Article to a person who attains a specified age on any date occurring in the period beginning on (and including) 1st April in any year and ending on (and including) 1st July in the same year includes—
+>
+> (a) a reference to a person who would have attained that age on a day in that period were it not for having been born prematurely, and
+>
+> (b) a reference to a person who was born before the beginning of that period but in whose case the expected week of childbirth was after the end of that period.
+
+.
+
+(3) In paragraph (2) of that Article, in sub-paragraph (a), at the beginning insert “except in a deferred case,”.
+
+(4) After paragraph (2) of that Article insert—
+
+> (2A) In a deferred case, where a person attains the age of four years on any date occurring in the period beginning on (and including) 1st April in any year and ending on (and including) 1st July in the same year, the person shall be deemed not to have attained the lower limit of compulsory school age until 1st August in the year in which the person attained the age of five years.
+
+.
+
+(5) In paragraph (3) of that Article—
+
+(a) in sub-paragraph (a), at the beginning insert “except in a deferred case,”, and
+
+(b) in each of sub-paragraphs (a) and (b), for “such other date as the Department may, by order subject to affirmative resolution, prescribe” substitute “a prescribed date”.
+
+(6) After paragraph (3) of that Article insert—
+
+> (4) In a deferred case, where a person attains the age of sixteen years on any date occurring in the period beginning on (and including) 1st April in any year and ending on (and including) 1st July in the same year, the person shall be deemed not to have attained the upper limit of compulsory school age until or, as the case may be, deemed to have attained that upper limit on 30th June in the following year or on a prescribed date.
+
+.
+
+(7) After paragraph (4) of that Article (inserted by subsection (6)), insert—
+
+> (5) In this Article—
+>
+> - “full-time education” means full-time education of the kind referred to in Article 45(1);
+> - “prescribed date” means such date as the Department may, by order subject to affirmative resolution, prescribe.
+
+.
+
+## 2 Consequential amendments
+
+(1) In Article 46A of the Education and Libraries (Northern Ireland) Order 1986 (commencement of secondary education), in paragraph (1), in sub-paragraph (a), after “where” insert “, except in a deferred case,”.
+
+(2) In paragraph (1) of that Article, after sub-paragraph (a) insert—
+
+> (aa) in a deferred case, where the child attains the age of eleven years on a date occurring in the period beginning on (and including) 1st April in any year and ending on (and including) 1st July in the same year, on 1st August in the following year, with the child having attained the age of twelve years;
+
+.
+
+(3) In paragraph (1) of that Article, in sub-paragraph (b), after “1st August in the following year” insert “, with the child having attained the age of twelve years”.
+
+(4) In paragraph (9) of that Article (interpretation), at the appropriate place insert—
+
+> - “deferred case” has the meaning given in Article 46 and paragraph (1B) of that Article applies for the purposes of this Article as it applies for the purposes of that Article;
+
+.
+
+(5) In regulation 2 of the Pre-School Education in Schools (Admissions Criteria) Regulations (Northern Ireland) 1999 (interpretation), in paragraph (1), for the definition of “final pre-school year” substitute—
+
+> - “final pre-school year”, in relation to a child, means—
+>
+>   - in the case of a child born in the period beginning on (and including) 2nd July in a year and ending on (and including) 31st March in the following year, the school year immediately prior to the school year in which the child is of compulsory school age;
+>   - subject to paragraph (c), in the case of a child born in the period beginning on (and including) 1st April in a year and ending on (and including) 1st July in the same year, the next school year beginning after the child attains the age of 3 years;
+>   - in the case of a child born in the period referred to in paragraph (b), but whose application for admission to pre-school education indicated the intention to defer that admission for one year or who has not previously had a funded pre-school education place (as to which, see paragraph (b)), the next school year beginning after the child attains the age of 4 years;
+
+.
+
+(6) In regulation 2 of those Regulations, after paragraph (1) insert—
+
+> (1A) Paragraph (b) of the definition of “final pre-school year” in paragraph (1) is to be read with Article 46(1B) of the Education and Libraries (Northern Ireland) Order 1986.
+>
+> (1B) In paragraph (c) of the definition of “final pre-school year” in paragraph (1), “funded pre-school education” has the meaning given in Article 21 of the 1998 Order.
+
+.
+
+(7) The amendments made by subsections (5) and (6) do not affect the power to make regulations amending or revoking the provision made by those amendments.
+
+## 3 Review
+
+(1) The Department of Education must, before the fifth anniversary of the commencement of this Act, review and make a report on the effectiveness of the definition of “deferred case” contained in the amendment made by section 1(2).
+
+(2) The Department must lay a copy of the report before the Assembly.
+
+## 4 Commencement and short title
+
+(1) This Act comes into operation on the day after Royal Assent.
+
+(2) This Act may be cited as the School Age Act (Northern Ireland) 2022.

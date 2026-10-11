@@ -1,0 +1,2356 @@
+---
+title: "Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010"
+identifier: "nia/2010/2"
+citation: "2010 CHAPTER 2"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2010-01-22
+last_amended: 2022-07-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2010/2"
+source_modified: 2024-05-15
+retrieved: 2026-10-11
+---
+
+# Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010
+
+**2010 CHAPTER 2**
+
+An Act to make provision concerning the licensing of operators of certain goods vehicles.
+
+[22nd January 2010]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## Operators' licences
+
+### 1 Operators' licences
+
+(1) Subject to subsection (2) and [[^F1]sections 2A and 3] , a person shall not use a goods vehicle on a road for the carriage of goods—
+
+(a) for hire or reward, or
+
+(b) for or in connection with any trade or business carried on by that person,
+
+except under a licence issued under this Act; and in this Act such a licence is referred to as an “operator's licence”.
+
+(2) Subsection (1) does not apply to—
+
+(a) the use of a small goods vehicle;
+
+[^F2]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) the use of a goods vehicle for international carriage by a haulier established in Great Britain and not established in Northern Ireland; or
+
+(d) the use of a vehicle of any class specified in regulations.
+
+[[^F3](2A) A class of vehicles that may be specified in regulations under subsection (2)(d) includes goods vehicles used for international carriage by a haulier established in a member State.]
+
+(3) For the purposes of subsection (2)(a) a goods vehicle is a small goods vehicle if—
+
+(a) it does not form part of a vehicle combination and—
+
+[[^F4](i) in the case of a vehicle used for hire or reward, it has a relevant plated weight not exceeding—
+
+(A) 2.5 tonnes, or
+
+(B) 3.5 tonnes if it is used only for national transport operations,]
+
+[[^F5](ia) in the case of a vehicle used for or in connection with any trade or business carried on by the person using the vehicle, it has a relevant plated weight not exceeding 3.5 tonnes, or]
+
+(ii) in the case of a vehicle which does not have a relevant plated weight, it has an unladen weight not exceeding 1525 kilograms; or
+
+(b) it forms part of a vehicle combination and complies with such conditions as may be prescribed;
+
+and “relevant plated weight” in [[^F6]this Act] means a plated weight of the description specified in relation to [[^F7]this Act] by regulations.
+
+[[^F8](4) In subsection [[^F9](2)(c) and (2A)], “established”, “haulier” and “international carriage” have the same meaning as in Regulation (EC) No 1072/2009 on common rules for access to the international road haulage market.]
+
+(5) For the purposes of this Act, the performance by a statutory body of its functions constitutes the carrying on of a business.
+
+(6) A person who uses a vehicle in contravention of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7) In this section “statutory body” means a body established by a statutory provision.
+
+### 2 “Standard” and “restricted” licences
+
+(1) An operator's licence may be either a standard licence or a restricted licence.
+
+(2) A standard licence is an operator's licence under which a goods vehicle may be used on a road for the carriage of goods—
+
+(a) for hire or reward, or
+
+(b) for or in connection with any trade or business carried on by the holder of the licence.
+
+(3) A restricted licence is an operator's licence under which a goods vehicle may be used on a road for the carriage of goods for or in connection with any trade or business carried on by the holder of the licence, other than that of carrying goods for hire or reward.
+
+(4) Notwithstanding subsections (2) and (3), a company may use a goods vehicle on a road for the carriage of goods for hire or reward under a restricted licence instead of a standard licence if (but only if) the goods concerned are the property of a company which is—
+
+(a) a subsidiary of the first company,
+
+(b) a holding company for the first company, or
+
+(c) a subsidiary of a company which is a holding company both for that subsidiary and for the first company.
+
+(5) A standard licence may authorise a goods vehicle to be used for the carriage of goods by road—
+
+(a) on both national and international transport operations; or
+
+(b) on national transport operations only.
+
+(6) Except as provided in subsection (4) and subject to [[^F10]sections 2A and 3] , a person who uses a goods vehicle under a restricted licence for carrying goods for hire or reward is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(7) A person who uses a goods vehicle for carrying goods by road for hire or reward on international transport operations under a standard licence which covers the carriage of goods on national transport operations only is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 2A [[^F11]Temporary exemptions for international operators
+
+(1) The Department for Infrastructure may grant an international operator a temporary exemption from any requirement to hold a standard licence which would otherwise be imposed by sections 1 and 2, for the purpose of—
+
+(a) enabling an emergency to be dealt with, or
+
+(b) enabling some other special need to be met.
+
+(2) A temporary exemption under subsection (1) may be granted—
+
+(a) by giving a notice in writing to the operator to whom it relates, or
+
+(b) by publishing a notice specifying the class of operators to whom it relates.
+
+(3) A notice under subsection (2) must specify—
+
+(a) the vehicle or class of vehicles to which it relates;
+
+(b) the transport operations to which it relates, or that it relates to all transport operations.
+
+(4) A temporary exemption under subsection (1) permits the person to whom it relates to use the specified vehicle or (as the case may be) any vehicle of the specified class for the carriage of goods for the purposes of the transport operations to which it relates.
+
+(5) Accordingly, sections 1(1) and 2(6) do not to that extent apply to that person’s use of goods vehicles.
+
+(6) In this section “international operator” means a person who [[^F12]has an effective and stable establishment in a country or territory other than the United Kingdom that is comparable to an effective and stable establishment in Northern Ireland (as determined in such manner as may be set out in regulations made for the purposes of section 12A(2)(a))] .
+
+[^F13]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### 3 [[^F14]Other] temporary exemptions
+
+(1) The Department may, for the purpose of—
+
+(a) enabling an emergency to be dealt with, or
+
+(b) enabling some other special need to be met,
+
+by notice grant to any person falling within subsection (2) a temporary exemption from any requirement to hold a standard licence which would otherwise be imposed by sections 1 and 2 in respect of any vehicle specified in the notice or any vehicle of a class so specified.
+
+[[^F15](1A) Where the Department for Infrastructure considers it appropriate (for example because an exemption is to be granted to all persons falling within subsection (2)), an exemption under subsection (1) may be granted by publishing a notice in writing instead of by giving notice in writing to the persons to whom the exemption is granted.]
+
+(2) A person falls within this subsection if the person is engaged exclusively in national transport operations which have only a minor impact on the transport market because of the nature of the goods carried or the short distances over which goods are carried.
+
+(3) A temporary exemption granted under subsection (1) permits the person to whom it is granted to use the specified vehicle or (as the case may be) any vehicle of the specified class for the carriage of goods by road for hire or reward for the purposes of transport operations such as are referred to in subsection (2) (and, accordingly, sections 1(1) and 2(6) shall not to that extent apply to that person's use of goods vehicles).
+
+[^F16]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Vehicles authorised to be used under a licence
+
+### 4 Vehicles authorised to be used under operator's licence
+
+(1) Subject to the following provisions of this section, the vehicles authorised to be used under an operator's licence are—
+
+(a) any motor vehicle in the lawful possession of the licence-holder (whether that motor vehicle is specified in the licence or not); and
+
+(b) any trailer in the lawful possession of the licence-holder.
+
+(2) An operator's licence may provide—
+
+(a) that no motor vehicle, or no trailer, whose relevant weight exceeds a weight specified in the licence is authorised to be used under it;
+
+(b) that no trailers are authorised to be used under the licence; or
+
+(c) that no motor vehicle that is not specified in the licence is authorised to be used under it.
+
+(3) In subsection (2) “relevant weight”, in relation to a motor vehicle or trailer of any prescribed class, means a weight of the description specified in relation to motor vehicles or trailers of that class by regulations.
+
+[[^F17](3A) An operator’s licence shall not authorise the use of any light goods vehicle unless the vehicle is registered under the Vehicle Excise and Registration Act 1994 (c. 22).]
+
+(4) [[^F18]A heavy goods vehicle] licence shall not authorise the use of any [[^F19]heavy goods] vehicle unless—
+
+(a) the place which is for the time being its operating centre is in Northern Ireland; and
+
+(b) the vehicle is registered under the Vehicle Excise and Registration Act 1994 (c. 22).
+
+(5) A motor vehicle which is not specified in an operator's licence is not authorised to be used under that licence by virtue of subsection (1) after the prescribed period beginning with—
+
+(a) the day on which the vehicle was first in the lawful possession of the licence-holder, or
+
+(b) (if later) the day on which the licence came into force,
+
+unless, during that period, the licence-holder has given to the Department a notice in such form and containing such information about the vehicle as the Department may require, and has paid to the Department a prescribed fee (if any).
+
+(6) Where notice of a vehicle has been duly given and the prescribed fee (if any) has been duly paid under subsection (5), the Department shall vary the licence by directing that the vehicle be specified in it.
+
+(7) A motor vehicle specified in an operator's licence shall not, while it remains so specified, be capable of being effectively specified in any other operator's licence.
+
+(8) Where it comes to the knowledge of the Department that a vehicle specified in a licence (“the first licence”)—
+
+(a) has ceased to be used under the licence (otherwise than because of a fluctuation in business or because it is undergoing repair or maintenance), or
+
+(b) is specified in another operator's licence,
+
+the Department may vary the first licence by directing that the vehicle be removed from it.
+
+### 5 Maximum numbers of vehicles
+
+(1) An operator's licence—
+
+(a) shall specify a maximum number for motor vehicles, and
+
+(b) may specify a maximum number for motor vehicles whose relevant weight exceeds a weight specified in the licence.
+
+(2) An operator's licence that does not contain a provision such as is mentioned in section 4(2)(b)—
+
+(a) shall specify a maximum number for trailers, and
+
+(b) may specify a maximum number for trailers whose relevant weight exceeds a weight specified in the licence.
+
+(3) The number of motor vehicles which at any one time are being used under an operator's licence while not specified in that licence may not exceed the maximum number specified in the licence under subsection (1)(a) less however many motor vehicles are specified in the licence.
+
+(4) Where, under subsection (1)(b), an operator's licence specifies a maximum number for motor vehicles whose relevant weight exceeds a specified weight—
+
+(a) the number of such motor vehicles which at any one time are being used under the licence while not specified in it may not exceed that maximum number less however many motor vehicles whose relevant weight exceeds the specified weight are specified in the licence, and
+
+(b) the number of such motor vehicles that are specified in the licence and are being used under it at any one time may not exceed that maximum number.
+
+(5) The number of trailers being used under an operator's licence at any one time may not exceed the maximum number specified in the licence under subsection (2)(a).
+
+(6) Where, under subsection (2)(b), an operator's licence specifies a maximum number for trailers whose relevant weight exceeds a specified weight, the number of such trailers being used under the licence at any one time may not exceed that maximum number.
+
+(7) The definition of “relevant weight” in section 4(3) applies for the purposes of this section as it applies for the purposes of section 4(2).
+
+(8) If subsection (3), (4)(a) or (b), (5) or (6) is contravened, the licence-holder is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## Operating centres
+
+### 6 Operating centres to be specified in [[^F20]heavy goods vehicle] licences
+
+(1) A person may not use a place as an operating centre for [[^F21]heavy goods] vehicles authorised to be used under a [[^F22]heavy goods vehicle] licence issued to that person unless that place is specified as an operating centre of that person in that licence.
+
+(2) Any person who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(3) In this Act “operating centre”, in relation to any [[^F23]heavy goods] vehicle, means the base or centre at which the vehicle is normally kept, and references to an operating centre of the holder of [[^F24]a heavy goods vehicle] licence are references to any place which is an operating centre for [[^F25]heavy goods] vehicles used under that licence.
+
+## Applications for licences
+
+### 7 Application for operators' licences
+
+(1) An application for an operator's licence shall be made to the Department.
+
+(2) A person may not at any time hold more than one operator's licence.
+
+(3) An application for an operator's licence shall be made in such form, and include such declarations and information, as may be prescribed.
+
+(4) Without prejudice to subsection (3), regulations under that subsection shall require the applicant to provide prescribed particulars as to—
+
+(a) the motor vehicles proposed to be used under the licence;
+
+(b) any trailers proposed to be used under the licence;
+
+(c) [[^F26]in the case of an application for a heavy goods vehicle licence,] each place which will be an operating centre of the applicant if the licence is issued.
+
+(5) The Department may require an applicant to furnish, in such form as the Department may require, such further information as the Department may consider necessary for dealing with the application.
+
+(6) If a person fails without reasonable excuse to furnish information when required to do so under subsection (5), the Department may decline to proceed further with the application and refuse to grant the licence.
+
+### 8 Notification of events subsequent to the making of an application
+
+(1) A person who has made an application for an operator's licence shall notify the Department if, in the interval between the making of the application and the date on which it is disposed of, there occurs any prescribed event affecting any information given to the Department under section 7.
+
+(2) A person who knowingly fails to comply with subsection (1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(3) For the purposes of this section an application shall be taken to be disposed of—
+
+(a) in a case where the Department is required by virtue of regulations under section 57(2)(a), to cause a statement containing its decision on the application to be issued, on the date on which that statement is issued, and
+
+(b) in any other case, on the date on which the applicant receives notice from the Department of its decision on the application.
+
+### 9 Publication by Department of notice of application for licence
+
+(1) The Department shall publish, in such form and in such manner as may be prescribed, notice of any application for an operator's licence made to it.
+
+(2) The notice shall state—
+
+(a) the time within which, and
+
+(b) the manner in which,
+
+any objection to, or representations against, the grant of the application may be made under section 11 (that is to say the time and manner prescribed under subsection (6) or (as the case may be) (7) of that section).
+
+### 10 Publication in locality affected of notice of application for [[^F27]heavy goods vehicle] licence
+
+(1) Subject to subsection (3), the Department shall refuse the application [[^F28]for a heavy goods vehicle licence] without considering the merits unless it is satisfied that subsection (2) has been complied with.
+
+(2) This subsection has been complied with in respect of a locality affected by an application [[^F29]for a heavy goods vehicle licence] if, within the period beginning 21 days before the date on which the application is made and ending 21 days after that date, notice of the application in such form and containing such information as may be prescribed has been published in one or more local newspapers circulating in the locality.
+
+(3) The Department is not required by this section to refuse an application [[^F30]for a heavy goods vehicle licence] if—
+
+(a) it is satisfied as mentioned in subsection (1), except only that the form or contents of the notice of application as published in any newspaper did not comply with the prescribed requirements, and
+
+(b) it is satisfied that no person's interests are likely to have been prejudiced by the failure to comply with those requirements.
+
+(4) For the purposes of this section a locality is affected by an application for [[^F31]a heavy goods vehicle] licence if it contains any place that will be an operating centre of the licence-holder if the application is granted.
+
+### 11 Objections to, and representations against, issue of operators' licences
+
+(1) Any of the persons mentioned in subsection (2) may make an objection to the grant of an application for an operator's licence on the ground—
+
+(a) that any of the requirements of [[^F32]sections 12A to 12E] are not satisfied in the case of the application; or
+
+(b) [[^F33]in the case of a heavy goods vehicle licence,] that any place which will be an operating centre of the holder of the licence will be unsuitable on environmental grounds for use as such.
+
+(2) The persons who may make such an objection are—
+
+(a) a prescribed trade union or association;
+
+(b) the Chief Constable;
+
+(c) a district council; and
+
+(d) a Northern Ireland department.
+
+(3) The trade unions and associations which may be prescribed for the purposes of subsection (2)(a) are trade unions or associations whose membership consists of or includes—
+
+(a) persons holding operators' licences, or
+
+(b) employees of any such persons.
+
+(4) Where an application for [[^F34]a heavy goods vehicle] licence is made, any person who is the owner or occupier of land in the vicinity of any place which will be an operating centre of the holder of the licence may make representations against the grant of the application on the ground that that place will be unsuitable on environmental grounds for use as such.
+
+(5) A person may not make representations under subsection (4) unless any adverse effects on environmental conditions arising from the use of the place in question as an operating centre of the holder of the licence would be capable of prejudicially affecting the use or enjoyment of the land mentioned in that subsection.
+
+(6) Any objection under subsection (1)(a) shall be made—
+
+(a) within the prescribed time; and
+
+(b) in the prescribed manner.
+
+(7) Any objection under subsection (1)(b) or representations under subsection (4) shall be made—
+
+(a) within the prescribed time after the making of the application to which they relate; and
+
+(b) in the prescribed manner.
+
+(8) Where the Department considers there to be exceptional circumstances that justify its doing so, it may direct that an objection or representations be treated for the purposes of this Act as duly made under this section, notwithstanding that the objection was not, or the representations were not, made within the prescribed time or in the prescribed manner.
+
+(9) Any objection under subsection (1) shall contain—
+
+(a) in the case of an objection under paragraph (a), particulars of the ground on which it is made, and
+
+(b) in the case of an objection under paragraph (b), particulars of any matters alleged by the person making the objection to be relevant to the issue to which it relates.
+
+(10) Any representations under subsection (4) shall contain particulars of any matters alleged by the person making the representations to be relevant to the issue to which they relate.
+
+(11) In subsection (1)(a) the reference to the requirements of [[^F35]sections 12A to 12E] is a reference—
+
+(a) in the case of an application for a standard licence, to the requirements of [[^F36]sections 12A, 12C and 12D] ; and
+
+(b) in the case of an application for a restricted licence, to the requirements of [[^F37]sections 12B, 12C and 12D] .
+
+(12) In this section “trade union” has the same meaning as in Article 3(1) of the Industrial Relations (Northern Ireland) Order 1992 (NI 5).
+
+## Determination of applications
+
+### [[^F38]12 Determination of applications for operators' licences
+
+(1) On an application for a standard licence the Department must consider—
+
+(a) whether the requirements of sections 12A and 12C are satisfied; and
+
+(b) if the Department thinks fit, whether the requirement of section 12D is satisfied.
+
+(2) On an application for a restricted licence the Department must consider—
+
+(a) whether the requirements of sections 12B and 12C are satisfied; and
+
+(b) if the Department thinks fit, whether the requirement of section 12D is satisfied.
+
+(3) Subsections (1) and (2) are subject to [[^F39]section 10 (publication of application), if applicable, and] 47(2) (payment of application fee).
+
+(4) In considering whether any of the requirements of sections 12A to 12D are satisfied, the Department must have regard to any objection duly made under section 11(1)(a) in respect of the application.
+
+(5) If the Department determines that any of the requirements that it has taken into consideration in accordance with subsection (1) or (2) are not satisfied, it must refuse the application.
+
+(6) In any other case the Department must grant the application, unless either of the following provisions applies—
+
+(a) section 13(2) (power to refuse application on environmental grounds);
+
+(b) section 47(2) (power to refuse to proceed until fee is paid).
+
+### 12A Requirements for standard licences
+
+(1) The requirements of this section are set out in subsections (2) and (3).
+
+(2) The first requirement is that the Department is satisfied that the applicant—
+
+(a) has an effective and stable establishment in Northern Ireland (as determined in [[^F40]such manner as may be prescribed] );
+
+(b) is of good repute (as determined in [[^F41]such manner as may be prescribed] ); [[^F42]and]
+
+(c) has appropriate financial standing (as determined in [[^F43]such manner as may be prescribed] ); [^F44]...
+
+[^F44]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The second requirement is that the Department is satisfied that the applicant [^F45]...—
+
+[[^F46](a) is an individual who—
+
+(i) is professionally competent (as determined in such manner as may be prescribed) and
+
+(ii) has designated a suitable number of individuals (which may include the applicant) who satisfy such requirements as may be prescribed, or
+
+(b) if the applicant is not an individual, or is an individual who is not professionally competent, has designated a suitable number of individuals who satisfy such other requirements as may be prescribed.]
+
+[^F47]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F48](4) For the purposes of subsection (3), a number of designated individuals is suitable if the Department is satisfied it is proportionate to the maximum numbers of motor vehicles and trailers that may be used by the applicant in accordance with section 5 if the standard licence is issued.
+
+(5) In this Act, “transport manager” means an individual designated under subsection (3)(a)(ii) or (b).]
+
+### 12B Requirements for restricted licences
+
+The requirement of this section is that the applicant is not unfit to hold an operator’s licence by reason of—
+
+(a) any matter of which particulars are required to be given under section 7; or
+
+(b) any event required to be notified in accordance with section 8(1).
+
+### 12C Requirements for standard and restricted licences
+
+(1) The requirements of this section are that it must be possible (taking into account the Department’s powers under section 14(3) to issue a licence in terms that differ from those applied for) to issue a licence in relation [[^F49]to which—
+
+(a) in the case of a light goods vehicle licence, subsections (2) to (4) will apply, or
+
+(b) in the case of a heavy goods vehicle licence, subsections (2) to (6) will apply.]
+
+(2) There must be satisfactory arrangements for securing that the following are complied with in the case of vehicles used under the licence—
+
+(a) Article 56 of the Road Traffic (Northern Ireland) Order 1981 (drivers’ hours); and
+
+(b) the applicable Community rules, within the meaning of Article 2 of that Order.
+
+(3) There must be satisfactory arrangements for securing that vehicles used under the licence are not overloaded.
+
+(4) There must be satisfactory facilities and arrangements for maintaining the vehicles used under the licence in a fit and serviceable condition.
+
+(5) [[^F50]A heavy goods vehicle licence] must specify at least one place in Northern Ireland as an operating centre of the licence-holder, and each place so specified must be available and suitable for use as an operating centre of the licence-holder (disregarding any respect in which it may be unsuitable on environmental grounds).
+
+(6) The capacity of the place specified as an operating centre (if there is only one) or both or all of the places so specified taken together (if there is more than one) must be sufficient to provide an operating centre for all the [[^F51]heavy goods] vehicles used under the licence.
+
+(7) In considering whether the requirements of subsections (2) [[^F52]to (4), or (2) to (6),] are satisfied, the Department may take into account any undertakings given by the applicant (or procured by the applicant to be given) for the purposes of the application, and may assume that those undertakings will be fulfilled.
+
+(8) In considering whether subsection (5) will apply in relation to a [[^F53]heavy goods vehicle] licence, the Department may take into account any conditions that could be attached to the licence under section 20(1)(a) (conditions of licences) and may assume that any conditions so attached will not be contravened.
+
+(9) In considering whether subsection (5) or (6) will apply in relation to a [[^F54]heavy goods vehicle] licence, the Department may take into account whether any proposed operating centre of the applicant would be used—
+
+(a) as an operating centre of the holders of other [[^F55]heavy goods vehicle] licences as well as an operating centre of the applicant; or
+
+(b) by the applicant or by other persons for purposes other than keeping [[^F56]heavy goods] vehicles used under the licence.
+
+### 12D Further requirement for standard and restricted licences
+
+The requirement of this section is that the provision of the facilities and arrangements for maintaining the vehicles in a fit and serviceable condition is not prejudiced by reason of the applicant’s having insufficient financial resources for that purpose.
+
+### 12E Professional competence for restricted licence holders
+
+As from such date as may be prescribed, section 12B shall have effect [[^F57]as if—
+
+(a) the existing text of section 12B were renumbered subsection (1),
+
+(b) in section 12B(1), in the words before paragraph (a), before “requirement of” there were inserted “first”, and
+
+(c) after section 12B(1) there were inserted—
+
+> (2) The second requirement of this section is that the applicant—
+>
+> (a) if an individual, is professionally competent (as determined in such manner as may be set out in regulations made for the purposes of section 12A(3)(a)(i)), or
+>
+> (b) if not an individual, or an individual who is not professionally competent, complies with section 12A(3)(b) as if the applicant were an applicant for a standard licence who is not an individual or is an individual who is not professionally competent.
+
+.]]
+
+### 13 Determination where objections etc are made on environmental grounds
+
+(1) This section applies to any application for [[^F58]a heavy goods vehicle] licence in respect of which—
+
+(a) any objection is duly made under section 11(1)(b), or
+
+(b) any representations are duly made under section 11(4).
+
+(2) The Department may refuse an application to which this section applies on the ground that, as respects any place which, if the licence were issued, would be an operating centre of the holder of the licence—
+
+(a) the parking of [[^F59]heavy goods] vehicles used under the licence at or in the vicinity of the place in question would cause adverse effects on environmental conditions in the vicinity of that place; or
+
+(b) the place in question would be unsuitable for use as an operating centre of the holder of the licence on other environmental grounds.
+
+(3) The Department may not refuse an application for [[^F60]a heavy goods vehicle] licence on the ground that any place would be unsuitable as mentioned in subsection (2)(b) if—
+
+(a) on the date the application was made, that place was already specified in [[^F61]a heavy goods vehicle] licence as an operating centre of the holder of that licence, or
+
+(b) the applicant has produced to the Department a certificate in force in respect of that place under [[^F62]section 169 or 170 of the Planning Act (Northern Ireland) 2011] stating that its use as an operating centre for vehicles used under any operator's licence is or would be lawful.
+
+(4) Subsection (3) does not apply in relation to any place that, at the time the application is determined by the Department, is specified in [[^F63]a heavy goods vehicle] licence as an operating centre of the holder of that licence.
+
+(5) A place is not to be regarded for the purposes of paragraph (a) of subsection (3) as being specified in [[^F64]a heavy goods vehicle] licence by reason only that it forms part of a place so specified; and a place that was, on the date mentioned in that paragraph, a place specified in [[^F64]a heavy goods vehicle] licence as mentioned in that paragraph shall be disregarded for the purposes of that paragraph if, on that date—
+
+(a) the [[^F65]heavy goods vehicle] licence in which that place was specified was an interim licence issued under section 21; or
+
+(b) that place was so specified by virtue of an interim direction such as is mentioned in section 22; or
+
+(c) such conditions relating to—
+
+(i) the exercise of the right of any person to appeal against a place being specified in [[^F66]a heavy goods vehicle] licence, or
+
+(ii) the review under section 34 of any decision so to specify a place,
+
+as may be prescribed were not satisfied in relation to that place.
+
+(6) Where in the case of any application for [[^F67]a heavy goods vehicle] licence—
+
+(a) the Department has power to refuse the application under subsection (2), and
+
+(b) any place other than a place that will be unsuitable for use as an operating centre is mentioned in the particulars given by the applicant under section 7(4) as a proposed operating centre,
+
+the Department may, instead of refusing the application, issue the licence but specify in it only such place or such places mentioned in those particulars as will not be unsuitable for use as an operating centre.
+
+(7) For the purposes of subsection (6), a place will be unsuitable for use as an operating centre if the Department has power to refuse the application under subsection (2) in consequence of the proposed use of that place as an operating centre.
+
+### 14 Issue of operators' licences
+
+(1) Subject to subsection (2) and to sections 13(6), 20 and 47(2), on granting an application for an operator's licence the Department shall issue that licence in the terms applied for.
+
+(2) If the Department has determined that any of the requirements of [[^F68]section 12C or 12D] that it has taken into consideration in accordance with subsection (1) or (as the case may be) (2) of [[^F69]section 12] would not be satisfied unless it were to exercise any of its powers under subsection (3), it shall exercise those powers accordingly.
+
+(3) The Department may issue the licence in terms that differ from the terms applied for in any of the following respects—
+
+(a) more or fewer motor vehicles are specified in the licence;
+
+(b) different motor vehicles are specified in it;
+
+(c) it includes a provision such as is mentioned in section 4(2);
+
+(d) it includes a provision such as is mentioned in section 5(1)(b) or (2)(b);
+
+(e) higher or lower maximum numbers are specified in it under section 5;
+
+(f) [[^F70]in the case of a heavy goods vehicle licence,] fewer places are specified in it as operating centres of the licence-holder.
+
+(4) Any undertakings taken into account by the Department under [[^F71]section 12C(7)] that it considers to be material to the granting of the application shall be recorded in the licence issued.
+
+(5) A statement shall appear on the face of every operator's licence indicating whether it is a standard licence or a restricted licence.
+
+(6) A statement shall appear on the face of every standard licence indicating whether it covers both national and international transport operations or national transport operations only.
+
+### 15 Duration of operators' licences
+
+(1) The date on which an operator's licence is to come into force shall be specified in the licence.
+
+(2) Subject to its revocation or other termination under any provision of this Act or any other statutory provision, an operator's licence (other than an interim licence issued under section 21) shall continue in force indefinitely.
+
+(3) If the holder of an operator's licence requests the Department to terminate it at any time, the Department shall, subject to subsection (4), comply with the request.
+
+(4) The Department may refuse to comply with the request if it is considering giving a direction in respect of the licence under section 23 or 24.
+
+(5) An operator's licence held by an individual terminates if—
+
+(a) the individual dies, or
+
+(b) the individual becomes a patient within the meaning of Article 2(2) of the Mental Health (Northern Ireland) Order 1986 (NI 4).
+
+## Variation of licences
+
+### 16 Variation of operators' licences
+
+(1) Subject to section 17, on the application of the holder of an operator's licence, the Department may vary the licence by directing—
+
+(a) that additional motor vehicles be specified in the licence or that any maximum number specified in it under section 5 be increased;
+
+(b) that any vehicle cease to be specified in the licence or that any maximum number specified in it under section 5 be reduced;
+
+(c) that any provision in the licence such as is mentioned in section 4(2) cease to have effect;
+
+(d) that a provision such as is mentioned in section 4(2) be included in the licence;
+
+(e) that any provision in the licence such as is mentioned in section 5(1)(b) or (2)(b) cease to have effect;
+
+(f) that a provision such as is mentioned in section 5(1)(b) or (2)(b) be included in the licence;
+
+(g) [[^F72]in the case of a heavy goods vehicle] that a new place be specified in the licence as an operating centre of the licence-holder, or that any place cease to be so specified;
+
+(h) that any undertaking recorded in the licence be varied or removed;
+
+(i) that any condition attached to the licence be varied or removed;
+
+(j) in the case of a restricted licence, that it be converted into a standard licence or, in the case of a standard licence, that it be converted into a restricted licence;
+
+(k) in the case of a standard licence, that it cover both international and national transport operations instead of national transport operations only, or vice versa.
+
+(2) An application for the variation of a licence under this section shall be made in such form and include such declarations and information as may be prescribed.
+
+(3) The Department may require an applicant to furnish such other information as it considers necessary for dealing with the application.
+
+(4) Except in the cases mentioned in subsection (5), the Department shall publish notice of any application for the variation of an operator's licence under this section, and shall do so in the manner prescribed for the publication of notices under section 9(1).
+
+(5) The excepted cases are—
+
+(a) where the application is for a direction under subsection (1)(a) that additional motor vehicles be specified in the licence;
+
+(b) where the application is for a direction under subsection (1)(b), (d) or (f);
+
+(c) where the application is for a direction under subsection (1)(g) that a place cease to be specified in a [[^F73]heavy goods vehicle] licence as an operating centre of the licence-holder;
+
+(d) where the application is for a direction under subsection (1)(j) that a standard licence be converted into a restricted licence;
+
+(e) where the application is for a direction under subsection (1)(k) that a licence cover national transport operations only, instead of both national and international transport operations;
+
+(f) where the Department is satisfied that the application is of so trivial a nature that it is not necessary that an opportunity should be given for objecting to it or making representations against it.
+
+(6) Where notice of an application is published under subsection (4), the following provisions, namely—
+
+(a) section 9(2),
+
+(b) section 11(1)(a), (6), (8) and (9)(a),
+
+(c) [[^F74]sections 12 to 12E] , and
+
+(d) section 14,
+
+shall, with any necessary modifications and subject to section 18, apply in relation to that application as they apply in relation to an application for an operator's licence of which notice is published under section 9(1).
+
+### 17 Publication of notice of applications for variation [[^F75]of heavy goods vehicle licences] in any locality affected
+
+(1) Subject to subsection (4), [[^F76]in relation to a heavy goods vehicle licence,] the Department shall refuse an application for any of the directions mentioned in subsection (2) without considering the merits unless it is satisfied that subsection (3) has been complied with in respect of each locality affected by the application.
+
+(2) The directions referred to in subsection (1) are—
+
+(a) any direction under section 16(1)(a) that a maximum number [[^F77]of heavy goods vehicles] specified in a [[^F78]heavy goods vehicle] licence under section 5 be increased;
+
+(b) any direction under section 16(1)(c) or (e) [[^F79]that has the effect of authorising the use of a heavy goods vehicle] ;
+
+(c) any direction under section 16(1)(g) that a new place be specified in a [[^F80]heavy goods vehicle] licence as an operating centre of the licence-holder; and
+
+(d) any direction under section 16(1)(h) or (i) which might result in a material change in the use of any operating centre of the licence-holder.
+
+(3) This subsection has been complied with in respect of a locality affected by an application [[^F81]for the variation of a heavy goods vehicle licence] if, within the period beginning 21 days before the date on which the application is made and ending 21 days after that date, notice of the application in such form and containing such information as may be prescribed has been published in one or more local newspapers circulating in the locality.
+
+(4) The Department is not required by this section to refuse an application if—
+
+(a) it is satisfied as mentioned in subsection (1), except that the form or contents of the notice of application as published in any newspaper did not comply with the prescribed requirements; and
+
+(b) it is satisfied that no person's interests are likely to have been prejudiced by the failure to comply with those requirements.
+
+(5) For the purposes of this section a locality is affected by an application for the variation of [[^F82]a heavy goods vehicle] licence if—
+
+(a) it contains any place that will be an operating centre of the licence-holder if the application is granted; or
+
+(b) it contains an existing operating centre of the licence-holder and—
+
+(i) the granting of the application would or could result in an increase in the number of [[^F83]heavy goods] vehicles, or the number of [[^F83]heavy goods] vehicles above a certain weight, that have that centre as their operating centre; or
+
+(ii) any undertaking recorded in, or condition attached to, the licence that the application seeks to have varied or removed relates to that centre.
+
+### 18 Objection to, and refusal of, applications to vary [[^F84]heavy goods vehicle] licences on environmental grounds
+
+(1) This section applies where notice of an application for the variation of [[^F85]a heavy goods vehicle] licence has been published under section 16(4).
+
+(2) Where the application relates to an existing operating centre of the licence-holder—
+
+(a) any of the persons mentioned in section 11(2) may object to the grant of the application on the ground that the use of that operating centre in any manner which would be permitted if the application were granted would cause adverse effects on environmental conditions in the vicinity of that centre;
+
+(b) subject to subsection (5), any person who is the owner or occupier of any land in the vicinity of that operating centre may make representations against the grant of the application on the ground mentioned in paragraph (a); and
+
+(c) whether or not anyone objects or makes representations under paragraph (a) or (b), the Department may refuse the application on the ground mentioned in paragraph (a).
+
+(3) For the purposes of subsection (2), an application shall be taken to relate to an operating centre if—
+
+(a) granting it would or could result in an increase in the number of [[^F86]heavy goods] vehicles, or the number of [[^F86]heavy goods] vehicles above a certain weight, that have that centre as their operating centre; or
+
+(b) any undertaking recorded in, or condition attached to, the licence that the application seeks to have varied or removed relates to that centre.
+
+(4) Where the application is for a place to be specified in the licence as an operating centre of the licence-holder—
+
+(a) any of the persons mentioned in section 11(2) may object to the grant of the application on the ground that that place will be unsuitable on environmental grounds for use as an operating centre of the licence-holder; and
+
+(b) subject to subsection (5), any person who is the owner or occupier of any land in the vicinity of that place may make representations against the grant of the application on that ground.
+
+(5) A person may not make representations under subsection (2)(b) or (4)(b) unless any adverse effects on environmental conditions arising from the use of the operating centre or place in question would be capable of prejudicially affecting the use or enjoyment of the land there mentioned.
+
+(6) If any person duly objects or makes representations under subsection (4) against an application for a place to be specified in the licence as an operating centre of the licence-holder, the Department may refuse the application—
+
+(a) on the ground that the parking of [[^F87]heavy goods] vehicles used under the licence at or in the vicinity of that place would cause adverse effects on environmental conditions in the vicinity of that place; or
+
+(b) subject to subsection (7), on the ground that that place would be unsuitable on environmental grounds other than the ground mentioned in paragraph (a) for use as an operating centre of the licence-holder.
+
+(7) The Department may not refuse the application on the ground mentioned in subsection (6)(b) if—
+
+(a) on the date the application was made, the place in question was already specified in [[^F88]a heavy goods vehicle] licence as an operating centre of the holder of that licence, or
+
+(b) the applicant has produced to the Department a certificate in force in respect of that place under [[^F89]section 169 or 170 of the Planning Act (Northern Ireland) 2011] stating that its use as an operating centre for vehicles used under any operator's licence is or would be lawful.
+
+(8) Subsection (7) does not apply in relation to any place that, at the time the application is determined by the Department, is specified in [[^F90]a heavy goods vehicle] licence as an operating centre of the holder of that licence.
+
+(9) A place is not to be regarded for the purposes of paragraph (a) of subsection (7) as being specified in [[^F91]a heavy goods vehicle] licence by reason only that it forms part of a place so specified; and a place that was, on the date mentioned in that paragraph, a place specified in [[^F91]a heavy goods vehicle] licence as mentioned in that paragraph shall be disregarded for the purposes of that paragraph if, on that date—
+
+(a) the [[^F92]heavy goods vehicle] licence in which that place was specified was an interim licence issued under section 21; or
+
+(b) that place was so specified by virtue of an interim direction such as is mentioned in section 22; or
+
+(c) such conditions relating to—
+
+(i) the exercise of the right of any person to appeal against a place being specified in [[^F93]a heavy goods vehicle] licence, or
+
+(ii) the review under section 34 of any decision so to specify a place,
+
+as may be prescribed were not satisfied in relation to that place.
+
+(10) Any objection or representations under this section—
+
+(a) shall contain particulars of any matters alleged by the person making the objection or representations to be relevant to the issue to which the objection relates or the representations relate; and
+
+(b) shall be made in the prescribed manner and within the prescribed time after the making of the application to which the objection relates or the representations relate.
+
+(11) Where the Department considers there to be exceptional circumstances that justify its doing so, it may direct that an objection or representations be treated for the purposes of this Act as duly made under this section, notwithstanding that the objection was not, or the representations were not, made within the prescribed time or in the prescribed manner.
+
+### 19 Variation of licences: further provisions
+
+Regulations may make provision (including provision modifying any provision of this Act) for cases—
+
+(a) where the holder of a restricted licence makes an application under section 16(1)(j) to the Department to vary the licence by directing that it be converted into a standard licence; and
+
+(b) where the holder of a standard licence which covers only national transport operations makes an application under section 16(1)(k) to the Department for a direction that the licence be varied to cover both national and international transport operations.
+
+## Conditions of licences
+
+### 20 Conditions of licences
+
+(1) On issuing an operator's licence, or on varying such a licence under section 16, the Department may attach to the licence such conditions as it thinks fit—
+
+(a) [[^F94]in the case of a heavy goods vehicle licence,] for preventing [[^F95]heavy goods] vehicles that are authorised to be used under the licence from causing danger to the public while entering or leaving any road adjoining an operating centre of the licence holder;
+
+(b) for requiring the holder of the licence to inform the Department of the occurrence of any event of a kind specified in the licence which affects the licence holder and which is relevant to the exercise by the Department of any power in relation to the licence;
+
+(c) [[^F96]in the case of a heavy goods vehicle licence,] for preventing or minimising any adverse effects on environmental conditions arising from the use of a place as an operating centre of the licence-holder;
+
+(d) for any other prescribed purpose.
+
+(2) On varying an operator's licence under section 16 the Department may vary or remove any condition attached to the licence under this section.
+
+(3) Any person who contravenes any condition attached under this section to a licence of which that person is the holder is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## Interim licences and interim variations
+
+### 21 Interim operators' licences
+
+(1) On an application for an operator's licence (a “full” licence), the Department may, if the applicant so requests, issue an interim licence.
+
+(2) An interim licence is an operator's licence that (subject to its revocation or other termination under any provision of this Act or any other statutory provision) will continue in force until it terminates under subsection (4), (5) or (6).
+
+(3) The Department may issue an interim licence in the same terms as those applied for in relation to the full licence or in terms that differ from those terms in any of the respects mentioned in section 14(3).
+
+(4) If the Department grants the application and issues to the applicant a full licence that—
+
+(a) is in the terms applied for, or
+
+(b) is in those terms subject only to the attachment under section 20 of any conditions that are also attached to the interim licence,
+
+the interim licence shall terminate on the date on which the full licence comes into force.
+
+(5) If, on an appeal under section 35 arising out of the application, the Upper Tribunal orders the Department to issue a full licence to the applicant, the interim licence shall terminate—
+
+(a) on the date on which the full licence issued in pursuance of the order comes into force, or
+
+(b) at the time at which the application is withdrawn or treated as withdrawn by virtue of section 47(3).
+
+(6) If neither subsection (4) nor subsection (5) applies, the interim licence shall terminate on the date on which the application is finally disposed of or such earlier date as the applicant may specify in a written request to the Department.
+
+(7) Where, in a case within subsection (6), the application is granted, the full licence issued to the applicant shall be of no effect before the interim licence terminates (notwithstanding any statement in it to the contrary).
+
+[[^F97](7A) A request for the issuing of an interim standard licence—
+
+(a) shall not be treated as an application for an operator’s licence for the purposes of section 9,10,11,13,14(1) to (4), 34 or 35 or Schedule 1, but
+
+(b) shall be treated as such an application for the purposes of any other provision of this Act.]
+
+(8) A request for the issuing of an interim [[^F98]restricted] licence—
+
+(a) shall not be treated as an application for an operator's licence for the purposes of sections 9 to 13, 14(1) to (4), 34 or 35 or Schedule 1, but
+
+(b) shall be treated as such an application for the purposes of any other provision of this Act.
+
+(9) In this section and section 22 references to the date on which an application is finally disposed of are references—
+
+(a) subject to paragraph (b), to the earliest date by which the application and any appeal to the Upper Tribunal arising out of the application have been determined and any time for bringing such an appeal has expired, or
+
+(b) if the application is withdrawn or any such appeal is abandoned, to the date of the withdrawal or abandonment.
+
+### 22 Interim variations
+
+(1) On an application for the variation of an operator's licence under section 16, if the applicant so requests the Department may, before it has determined the application, vary the licence by giving an interim direction in respect of it.
+
+(2) An interim direction is a direction under section 16(1) that is expressed to continue in force until it ceases to have effect under subsection (3) or (4).
+
+(3) If on determining the application the Department varies the licence by giving a direction in the terms applied for and does not also under section 20(1)(a) or (c) or 20(2) attach or vary any conditions, the interim direction shall cease to have effect on the date on which the direction given on the application comes into force.
+
+(4) If subsection (3) does not apply, the interim direction shall cease to have effect on the date on which the application is finally disposed of or such earlier date as the applicant may specify in a written request to the Department.
+
+(5) Where, in a case within subsection (4), on determining the application the Department gives a direction varying the licence, that direction shall be of no effect before the interim direction ceases to have effect.
+
+(6) A request for an interim direction to be given—
+
+(a) shall not be treated as an application for the variation of an operator's licence for the purposes of section 16(4) or 35 or Schedule 1, but
+
+(b) shall be treated as such an application for the purposes of any other provision of this Act.
+
+(7) The reference in subsection (4) to the date on which an application is finally disposed of is to be construed in accordance with section 21(9).
+
+## Revocation etc of operators' licences
+
+### 23 Revocation, suspension and curtailment of operators' licences
+
+(1) Subject to the following provisions of this section and the provisions of section 26, the Department may direct that an operator's licence be revoked, suspended or curtailed (within the meaning given in subsection (9)) for any reasonable cause including any of the following—
+
+(a) [[^F99]in the case of a heavy goods vehicle licence,] that a place has, at a time when it was not specified in the licence as an operating centre of the licence-holder, been used as an operating centre for [[^F100]heavy goods] vehicles authorised to be used under the licence;
+
+(b) that the licence-holder has contravened any condition attached to the licence;
+
+(c) that during the 5 years ending with the date on which the direction is given there has occurred a prescribed event affecting information required to be given to the Department under section 7 or 8;
+
+(d) that the licence-holder made, or procured to be made, for the purposes of—
+
+(i) the licence-holder's application for the licence,
+
+(ii) an application for the variation of the licence, or
+
+(iii) a request for a direction under paragraph 1 or 3 of Schedule 1,
+
+a statement of fact that, whether to the licence-holder's knowledge or not, was false, or a statement of expectation that has not been fulfilled;
+
+(e) that any undertaking recorded in the licence has not been fulfilled;
+
+(f) that the licence-holder, being an individual, has been adjudged bankrupt [[^F101]or has become the subject of a bankruptcy restrictions order] [[^F102]or a debt relief order has been made in respect of him or he has become the subject of a debt relief restrictions order] or, being a company, has gone into liquidation, other than voluntary liquidation for the purposes of reconstruction;
+
+(g) that since the licence was issued or varied there has been a material change in any of the circumstances of the licence-holder that were relevant to the issue or variation or the licence;
+
+(h) that the licence is liable to revocation, suspension or curtailment by virtue of a direction under section 25(3).
+
+(2) Where the Department has power to give a direction in respect of a licence under subsection (1) the Department also has power to direct that a condition or additional condition such as is mentioned in section 20(1)(b) be attached to the licence.
+
+(3) In this Act any reference, in relation to an operator's licence, to a condition attached to the licence under section 20(1)(b) includes any condition attached to the licence under subsection (2).
+
+(4) Where the existence of any of the grounds mentioned in subsection (1) is brought to the notice of the Department, the Department shall consider whether or not to give a direction under this section in respect of that licence.
+
+(5) Where the Department directs that an operator's licence be suspended or curtailed, the Department may order—
+
+(a) in the case of a suspension, that any motor vehicle specified in the licence may not be used under any other operator's licence (notwithstanding anything in section 4(1)(a)), or
+
+(b) in the case of a curtailment having the effect of removing any motor vehicle from the licence, that the motor vehicle may not be used as mentioned in paragraph (a) and shall not be capable of being effectively specified in any other operator's licence.
+
+(6) An order made under subsection (5) shall cease to have effect—
+
+(a) on such date, not being more than 6 months after the order is made, as may be specified in the order, or
+
+(b) if, before that date, the licence which is directed to be suspended or curtailed ceases to be in force, on the date on which it ceases to be in force.
+
+(7) Where the Department has given a direction suspending or curtailing a licence under subsection (1) it may—
+
+(a) cancel the direction together with any order under subsection (5) that was made when the direction was given;
+
+(b) cancel any such order; or
+
+(c) with the consent of the licence-holder, vary the direction or any such order (or both the direction and any such order).
+
+(8) Where an operator's licence is suspended under this section, the licence remains in force during the time of its suspension subject to the limitation that no vehicles are authorised to be used under it.
+
+(9) In this Act references to directing that an operator's licence be curtailed are references to directing (with effect for the remainder of the duration of the licence or for any shorter period) all or any of the following—
+
+(a) that one or more of the vehicles specified in the licence be removed from it;
+
+(b) that a provision such as is mentioned in section 4(2) or 5(1)(b) or (2)(b) be included in the licence;
+
+(c) that any maximum number specified in the licence under section 5 be reduced;
+
+(d) [[^F103]“in the case of a heavy goods vehicle licence,] that any one or more of the places specified in the licence as operating centres be removed from it.
+
+### 24 Revocation of standard licences
+
+(1) The Department shall direct that a standard licence be revoked if at any time it appears to the Department that the licence-holder [[^F104]—
+
+(a) the licence-holder no longer satisfies [[^F105]one or more of] the requirements of section [[^F106]12A] , or
+
+[[^F107](b) a transport manager for the licence-holder ceases to satisfy such requirements as may be set out in regulations made for the purposes of section 12A(3)(a)(ii) or (b).]]
+
+[^F108]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A notice under section 26(1) shall state the grounds on which the Department is considering giving a direction under subsection (1) and shall also state—
+
+(a) that written representations with respect to those grounds may be made to the Department by the licence-holder, and
+
+(b) that any such representations must be received by the Department within 21 days of the date of the notice;
+
+and the Department shall consider any representations duly made under this subsection.
+
+[[^F109](3A) A notice under section 26(1) which relates to a direction under subsection (1) may set a time limit[^F110]... for the licence-holder to rectify the situation.
+
+[[^F111](3AA) The time limit set under subsection (3A) may not exceed, beginning with the day after the date of the notice—
+
+(a) 6 months, or
+
+(b) 9 months if the licence-holder ceases to have a suitable number of individuals designated under section 12A(3)(a)(ii) or (b) because—
+
+(i) a transport manager is physically incapacitated or deceased, and
+
+(ii) more than 6 months is required to recruit a replacement transport manager.]
+
+(3B) If the licence-holder rectifies the situation within the time limit set under subsection (3A), the Department must not make the direction under subsection (1).]
+
+(4) This section has effect subject to section 26 (and, in particular, nothing in [[^F112]subsections (3) to (3B)] shall be taken to affect a person's right under section 26(1) to require the holding of an inquiry).
+
+### 25 Disqualification
+
+(1) Where, under section 23(1) or 24(1), the Department directs that an operator's licence be revoked, the Department may order the person who was the holder of the licence to be disqualified (either indefinitely or for such period as the Department thinks fit) from holding or obtaining an operator's licence; and so long as the disqualification is in force, notwithstanding anything in [[^F113]sections 12 to 12E] or 21, no operator's licence may be issued to that person.
+
+(2) If a person applies for or obtains an operator's licence while disqualified under subsection (1)—
+
+(a) the person is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale, and
+
+(b) any operator's licence issued on the application, or (as the case may be) the operator's licence obtained by that person, shall be void.
+
+(3) Where the Department makes an order under subsection (1) in respect of any person, the Department may direct that if that person, at any time or during such period as the Department specify—
+
+(a) is a director of, or holds a controlling interest in—
+
+(i) a company which holds a licence of the kind to which the order in question applies, or
+
+(ii) a company of which such a company is a subsidiary, or
+
+(b) operates any goods vehicles in partnership with a person who holds such a licence,
+
+that licence of that company or, as the case may be, of that person, shall be liable to revocation, suspension or curtailment under section 23.
+
+(4) The powers conferred by subsections (1) and (3) in relation to the person who was the holder of a licence shall be exercisable also—
+
+(a) where that person was a company, in relation to any director of that company, and
+
+(b) where that person operated vehicles under the licence in partnership with other persons, in relation to any of those other persons;
+
+and any reference in this section or in section 23 or 26 to subsection (1) or (3) includes a reference to that subsection as it applies by virtue of this subsection.
+
+(5) Where the Department makes any order disqualifying a person under subsection (1), it may at any time—
+
+(a) cancel that order together with any direction that was given under subsection (4) when the order was made;
+
+(b) cancel any such direction; or
+
+(c) with the consent of the person disqualified, vary the order or any such direction (or both the order and any such direction).
+
+(6) Where an operator's licence is suspended under this section, the licence remains in force during the time of its suspension subject to the limitation that no vehicles are authorised to be used under it.
+
+(7) For the purposes of this section a person holds a controlling interest in a company if the person is the beneficial owner of more than half its equity share capital (as defined in section 548 of the Companies Act 2006 (c. 46)).
+
+### 26 Revocation, disqualification, etc: supplementary provisions
+
+(1) The Department shall not—
+
+(a) give a direction under section 23(1) or (2) or 24(1) in respect of any licence,
+
+(b) make an order under section 23(5) in respect of any vehicle, or
+
+(c) make an order or give a direction under section 25(1) or (3) in respect of any person,
+
+without first giving the holder of the licence or (as the case may be) the person concerned notice that it is considering doing so and holding an inquiry if the holder of the licence or (as the case may be) the person concerned requests the Department to do so.
+
+(2) The Department may direct that any direction or order given or made by it under—
+
+(a) section 23(1), (2) or (5),
+
+(b) section 24(1), or
+
+(c) section 25(1) or (3),
+
+shall not take effect until the expiry of the time within which an appeal may be made to the Upper Tribunal against the direction or order and, if such an appeal is made, until the appeal has been disposed of.
+
+(3) If the Department refuses to give a direction under subsection (2) the holder of the licence or, as the case may be, the person in respect of whom the direction or order was given or made may apply to the Upper Tribunal for such a direction.
+
+(4) The Upper Tribunal shall give its decision on any application under subsection (3) within 14 days.
+
+(5) An order under section 23(5) or 25(1) is not a statutory rule for the purpose of the Statutory Rules (Northern Ireland) Order 1979 (NI 12).
+
+## Review of operating centres
+
+### 27 Periods of review for operating centres
+
+(1) Within such time after any period of review as may be prescribed, the Department may serve a notice [[^F114]on the holder of a heavy goods vehicle licence] stating that the Department is considering whether to exercise any of its powers under sections 28 and 29 in relation to a place specified in the licence as an operating centre of the licence-holder.
+
+(2) The periods of review in relation to [[^F115]a heavy goods vehicle] licence are—
+
+(a) the period of 5 years beginning with the date specified in the licence as the date on which it came into force; and
+
+(b) each consecutive period of 5 years.
+
+(3) Regulations may amend subsection (2) by substituting a higher or lower number for the number of years for the time being specified in paragraphs (a) and (b).
+
+### 28 Power to remove operating centres on review
+
+(1) If, having served notice under section 27 in respect of a place specified in [[^F116]a heavy goods vehicle] licence, the Department determines that the place is unsuitable—
+
+(a) on grounds other than environmental grounds, or
+
+(b) on the ground mentioned in subsection (2),
+
+for use as an operating centre of the licence-holder, the Department may (subject to subsection (3)) direct that the place cease to be specified in the licence.
+
+(2) The ground referred to in subsection (1)(b) is that the parking of [[^F117]heavy goods] vehicles used under the licence at or in the vicinity of the place causes adverse effects on environmental conditions in that vicinity.
+
+(3) Where the only ground for giving a direction under subsection (1) is the ground mentioned in subsection (2), the Department may not give such a direction unless during the period of review in question representations were made to the Department—
+
+(a) by such a person as is mentioned in section 11(2), or
+
+(b) by a person who is the owner or occupier of any land in the vicinity of the place in question,
+
+as to the unsuitability of the place on environmental grounds for continued use as an operating centre for [[^F118]heavy goods] vehicles used under any [[^F119]heavy goods vehicle] licence.
+
+(4) Representations made by a person such as is mentioned in paragraph (b) of subsection (3) shall be disregarded for the purposes of this section if, when they were made, any adverse effects on environmental conditions arising from the continued use of the place in question would not have been capable of prejudicially affecting the use or enjoyment of the land mentioned in that paragraph.
+
+(5) Any representations under this section—
+
+(a) shall be made in the prescribed manner; and
+
+(b) shall contain particulars of any matters alleged by the person making the representations to be relevant to the issue to which they relate;
+
+but where the Department considers there to be exceptional circumstances that justify its doing so, the Department may direct that representations be treated for the purposes of this Act as duly made under this section notwithstanding that they were not made in the prescribed manner or within the period of review in question.
+
+### 29 Power to attach conditions on review
+
+(1) If, having served notice under section 27 in respect of a place specified in [[^F120]a heavy goods vehicle] licence, the Department does not give a direction in respect of the place under section 28, it may direct—
+
+(a) that conditions (or additional conditions) such as are mentioned in section 20(1)(a), (b) or (c) be attached to the licence;
+
+(b) that any conditions already attached to the licence under section 20(1)(a), (b) or (c) be varied.
+
+(2) Any conditions attached to the licence under subsection (1)(a) shall relate or, in the case of conditions such as are mentioned in section 20(1)(b), shall only require the Department to be informed of events that relate—
+
+(a) only to the place referred to in subsection (1), or
+
+(b) only to that place and any other places in respect of which the Department has power to attach conditions under that subsection.
+
+(3) Any variation under subsection (1)(b) shall be such as imposes new or further restrictions or requirements—
+
+(a) only in relation to the place referred to in subsection (1), or
+
+(b) only in relation to that place and any other places in respect of which the Department has power to attach conditions under that subsection.
+
+(4) Where the Department gives a direction in respect of [[^F121]a heavy goods vehicle] licence under section 28 or subsection (1)(a), it may also vary the licence by directing—
+
+(a) that any [[^F122]heavy goods] vehicle cease to be specified in the licence;
+
+(b) that any maximum number [[^F123]of heavy goods vehicles] specified in the licence under section 5 be reduced;
+
+(c) that a provision [[^F124]relating to heavy goods vehicles] such as is mentioned in section 4(2) be included in the licence;
+
+(d) that a provision [[^F125]relating to heavy goods vehicles] such as is mentioned in section 5(1)(b) or (2)(b) be included in the licence.
+
+(5) In this Act any reference, in relation to [[^F126]a heavy goods vehicle] licence, to a condition attached to the licence under section 20(1)(a), (b) or (c) includes reference to any condition such as is mentioned in section 20(1)(a), (b) or (as the case may be) (c) attached to the licence under subsection (1)(a).
+
+## Transfer of operating centres
+
+### 30 Transfer of operating centres
+
+Schedule 1 (which makes provision in relation to certain applications for, or for the variation of, [[^F127]heavy goods vehicle] licences where the proposed operating centres of the applicant are already specified in [[^F128]a heavy goods vehicle] licence) shall have effect.
+
+## Environmental matters
+
+### 31 Determinations as to environmental matters
+
+(1) In making any determination of a description mentioned in subsection (2), the Department shall have regard to such considerations as may be prescribed as relevant to determinations of the description.
+
+(2) The determinations referred to are—
+
+(a) any determination with respect to the suitability of any place on environmental grounds for use as an operating centre of the holder of [[^F129]a heavy goods vehicle] licence;
+
+(b) any determination with respect to attaching to [[^F130]a heavy goods vehicle] licence any condition such as is mentioned in section 20(1)(c) or varying or removing any such condition attached to [[^F130]a heavy goods vehicle] licence; and
+
+(c) any determination with respect to the effect on environmental conditions in any locality of the use in any particular manner of any operating centre of the holder of [[^F131]a heavy goods vehicle] licence.
+
+(3) In making any such determination for the purposes of exercising—
+
+(a) any of its functions in relation to an application for, or for the variation of, [[^F132]a heavy goods vehicle] licence, or
+
+(b) any of its functions under sections 27 to 29,
+
+the Department may take into account any undertakings given by the applicant or licence-holder (or procured by the applicant or licence-holder to be given) for the purposes of the application or the review under sections 27 to 29, and may assume that those undertakings will be fulfilled.
+
+(4) In making for those purposes a determination of a description mentioned in subsection (2)(a) or (c), the Department may take into account any conditions such as are mentioned in section 20(1)(c) that could be attached to the licence in question, and may assume that any conditions so attached will not be contravened.
+
+(5) Where the Department—
+
+(a) grants an application for, or for the variation of, [[^F133]a heavy goods vehicle] licence, or
+
+(b) having served notice under section 27 in respect of any place specified in such a licence, exercises or determines not to exercise any of its powers under sections 28 and 29 in relation to that place,
+
+any undertakings taken into account by the Department under subsection (3) that it considers to be material to the application or (as the case may be) to its decision under sections 28 and 29 shall be recorded in the licence in question.
+
+## Inquiries and assessors
+
+### 32 Power of Department to hold inquiries
+
+(1) The Department may hold such inquiries as it thinks necessary for the proper exercise of its functions under this Act [[^F134]or the 2009 Regulation] .
+
+(2) Where, as respects the proposed exercise on any occasion of any of its powers under [[^F135]this Act or the 2009 Regulation] , the Department receives a request for an inquiry (made pursuant to section 26(1)) from 2 or more persons, it may hold a single inquiry in response to both or all of those requests.
+
+(3) Subject to any provision made by regulations, any inquiry held by the Department for the purposes of this Act [[^F136]or the 2009 Regulation] shall be held in public.
+
+(4) Information with respect to any particular trade or business which is given at any such inquiry while admission to the inquiry is restricted in accordance with regulations shall not, so long as that trade or business continues to be carried on, be disclosed except—
+
+(a) with the consent of the person for the time being carrying on that trade or business;
+
+(b) for the purpose of the discharge by any person of that person's functions under this Act [[^F137]or the 2009 Regulation] ; or
+
+(c) with a view to the institution of, or otherwise for the purposes of, any legal proceedings pursuant to or arising out of this Act [[^F138]or the 2009 Regulation] , including proceedings before the Upper Tribunal.
+
+(5) Any person who discloses any information in contravention of subsection (4) is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### 33 Power of Department to appoint assessors
+
+(1) In considering any financial question which appears to the Department to arise in relation to the exercise of its functions under this Act [[^F139]or the 2009 Regulation] , the Department may be assisted by an assessor drawn from a panel of persons appointed for the purpose by the Department.
+
+(2) The Department shall pay to any such assessor in respect of the assessor's services such remuneration as may be determined by the Department.
+
+## Review of decisions and appeals
+
+### 34 Review of decisions
+
+(1) Subject to subsection (2), the Department may review and, if it thinks fit, vary or revoke any decision it makes to grant or refuse—
+
+(a) an application for an operator's licence, or
+
+(b) an application for the variation of such a licence in a case where section 16(4) required notice of the application to be published,
+
+if the Department is satisfied that a procedural requirement imposed by or under any statutory provision has not been complied with in relation to the decision.
+
+(2) The Department may under subsection (1) review a decision only—
+
+(a) if, within such period after taking the decision as may be prescribed, the Department has given notice to the applicant or (as the case may be) the licence-holder that it intends to review the decision;
+
+(b) if, within that period, a person who appears to the Department to have an interest in the decision has requested the Department to review the decision; or
+
+(c) (where neither paragraph (a) nor paragraph (b) applies), if the Department considers there to be exceptional circumstances that justify the review.
+
+(3) The variation or revocation under this section of any decision shall not make unlawful anything done in reliance on the decision before the variation or revocation takes effect.
+
+### 35 Rights of appeal in connection with operators' licences
+
+(1) An applicant for, or for the variation of, an operator's licence may appeal to the Upper Tribunal against the refusal of the application or (as the case may be) against the terms of the licence or of the variation.
+
+(2) The holder of an operator's licence may appeal to the Upper Tribunal against any direction given under section 4(8), 23(1) or (2), 24(1), 28 or 29 in respect of the licence.
+
+(3) The holder of an operator's licence may appeal to the Upper Tribunal against any order made under section 23(5) on the suspension or curtailment of the licence.
+
+(4) A person in respect of whom an order has been made under section 25(1) (including section 25(1) as it applies by virtue of section 25(4)) may appeal to the Upper Tribunal against that order and against any direction given under section 25(3) (including section 25(3) as it so applies) when the order was made.
+
+(5) A person who has duly made an objection to an application for, or for a variation of, an operator's licence may appeal to the Upper Tribunal against the grant of the application.
+
+(6) A person who—
+
+(a) within the prescribed period has made an application for a review under section 34, and
+
+(b) has been certified by the Department as a person such as is mentioned in subsection (2)(b) of that section,
+
+may appeal to the Upper Tribunal against the refusal of the application.
+
+(7) Regulations may confer on prescribed persons a right of appeal to the Upper Tribunal in prescribed circumstances.
+
+(8) In subsections (1) and (2) “operator's licence” does not include an interim licence issued under section 21.
+
+## Forgery, false statements, etc
+
+### 36 Forgery of documents etc
+
+(1) A person who, with intent to deceive—
+
+(a) forges, alters or uses a document or other thing to which this section applies;
+
+(b) lends to, or allows to be used by, any other person a document or other thing to which this section applies; or
+
+(c) makes or has in the person's possession any document or other thing so closely resembling a document or other thing to which this section applies as to be calculated to deceive;
+
+is guilty of an offence.
+
+(2) This section applies to—
+
+(a) any operator's licence;
+
+(b) any document, plate, mark or other thing by which, in pursuance of regulations, a vehicle is to be identified as being authorised to be used, or as being used, under an operator's licence;
+
+(c) any document evidencing the authorisation of any person by the Department for the purposes of this Act;
+
+(d) any certificate of qualification under section 49;
+
+(e) any international road haulage permit; and
+
+(f) such other documents or things as are prescribed.
+
+(3) A person guilty of an offence under subsection (1) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine or to both.
+
+(4) In subsection (1) “forges” means makes a false document or other thing in order that it may be used as genuine.
+
+### 37 False statements
+
+(1) A person who knowingly or recklessly makes, or causes to be made, a statement or furnishes information which is false or misleading in any material particular for the purpose of—
+
+(a) obtaining the issue of an operator's licence;
+
+(b) obtaining the variation of any such licence;
+
+(c) preventing the issue or variation of any such licence;
+
+(d) procuring the imposition of a condition or limitation in relation to any such licence;
+
+(e) obtaining the grant of an international road haulage permit;
+
+(f) obtaining the issue of a certificate of qualification under section 49; or
+
+(g) obtaining the issue of any other prescribed document;
+
+is guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## Enforcement
+
+### 38 Powers of entry
+
+(1) The powers conferred on an authorised person by this section are exerciseable for the purpose of ascertaining whether any provisions of, or made under, this Act are being complied with.
+
+(2) An authorised person shall have the power to enter and inspect any vehicle used for the carriage of goods by road; and for that purpose the authorised person may stop and detain the vehicle during such time as is required for the inspection.
+
+(3) Subject to subsection (4), an authorised person shall at any time which is reasonable having regard to the circumstances have the power to enter and inspect any premises—
+
+(a) in or on which the authorised person has reason to believe that a vehicle used for the carriage of goods by road is kept;
+
+(b) which the authorised person has reason to believe are used or intended to be used—
+
+(i) in connection with the carriage of goods by road; or
+
+(ii) in connection with the maintenance of vehicles used for the carriage of goods by road.
+
+(4) An authorised person may not under subsection (3) enter premises which are occupied as a private dwelling unless under the authority of a warrant issued under subsection (5)(c).
+
+(5) Where a lay magistrate is satisfied by complaint on oath—
+
+(a) that an authorised person has been refused admission to any premises which the authorised person has a right to enter under subsection (3), or that such a refusal is apprehended, and that notice of the intention to apply for the warrant has been given to the occupier;
+
+(b) that an application for admission to the premises, or the giving of such a notice, would defeat the object of the entry, or that the premises are unoccupied or that the owner is temporarily absent; or
+
+(c) that admission to the premises is reasonably required for the purposes specified in the complaint and that an authorised person would, apart from subsection (4), be entitled for that purpose to exercise in respect of the premises a power of entry under subsection (3);
+
+the lay magistrate may issue a warrant authorising the authorised person to enter the premises.
+
+(6) An authorised person entering any premises under this section may be accompanied by such other persons as appear to the authorised person to be necessary.
+
+(7) A warrant issued under subsection (5) shall continue in force until the purpose for which entry is required has been satisfied.
+
+(8) Where an authorised person exercises a power of entry on any premises by virtue of this section, the authorised person shall ensure that the premises are left no less secure by reason of the entry, and the Department shall make good or pay compensation for any damage to property caused by the authorised person in entering the premises, in carrying out any inspection or in making the premises secure.
+
+(9) Any question of disputed compensation shall be referred to and determined by the Lands Tribunal.
+
+(10) Where an authorised person exercises a power of entry under this section, the authorised person may seize and remove anything found on the vehicle or premises which the authorised person has reasonable cause to believe may be required as evidence in any proceedings for an offence under this Act.
+
+(11) For the purposes of subsection (10) the power to seize includes power to detach from a vehicle.
+
+### 39 Power to seize documents etc
+
+(1) If an authorised person has reason to believe that—
+
+(a) a document or article carried on, or by the driver of, a goods vehicle, or
+
+(b) a document produced in pursuance of this Act,
+
+is a document or article in relation to which an offence has been committed under section 36 or 37, the authorised person may seize that document or article.
+
+(2) Where—
+
+(a) a document or article is seized under subsection (1),
+
+(b) no person has, within 6 months of the date on which the document or article was seized, been charged with an offence in relation to it under section 36 or 37, and
+
+(c) the document or article is still detained,
+
+then any of the persons mentioned in subsection (3) may make an application to a court of summary jurisdiction.
+
+(3) The persons who may make an application under subsection (2) are—
+
+(a) an authorised person;
+
+(b) the driver or owner of the vehicle;
+
+(c) the person from whom the document or article was seized.
+
+(4) On an application under subsection (2), the court of summary jurisdiction shall make such order respecting the disposal of the document or article, and award such costs, as the justice of the case may require.
+
+(5) For the purposes of subsection (1), the power to seize includes a power to detach from a vehicle.
+
+### 40 Obtaining of information etc by authorised persons
+
+(1) Where an authorised person has reasonable cause to believe that a vehicle is used for the carriage of goods by road—
+
+(a) the owner or driver of the vehicle,
+
+(b) any person who has made, is making or intends to make, use of that vehicle for the carriage of goods by road, or
+
+(c) any servant or agent of any person of the kind referred to in paragraphs (a) or (b),
+
+shall furnish to that authorised person all such information, and produce for inspection all such documents, as the authorised person may reasonably require from that person for the purposes set out in subsection (2).
+
+(2) The purposes referred to in subsection (1) are—
+
+(a) obtaining the name and address of the owner of the vehicle or of the person whose servant or agent the driver is, and
+
+(b) ascertaining, in relation to any goods which have been, or are being, or are to be, carried on the vehicle particulars of—
+
+(i) the description of the goods and the name and address of the owner of the goods;
+
+(ii) the places from which and to which the goods have been, are being, or are to be, carried.
+
+(3) The owner or occupier of any premises entered by an authorised person under section 38, or any servant or agent of any such person, or any person found on any such premises, shall give to the authorised person such information as it is in the person's power to give as to—
+
+(a) the name and address of the owner of any vehicle used for the carriage of goods by road which is kept in or on those premises or of the person whose servant or agent the driver of any such vehicle is;
+
+(b) the matters referred to in subsection (2)(b)(i), and (ii), in relation to any goods which have been, are being, or are to be, carried on any such vehicle kept in or on those premises;
+
+(c) any use of those premises in connection with the carriage of goods by road or the maintenance of vehicles used for the carriage of goods by road.
+
+(4) An authorised person may take copies of any documents—
+
+(a) produced under this section; or
+
+(b) relating to the carriage of goods by road or the maintenance of vehicles used for the carriage of goods by road, being documents which are found by the authorised person or constable on any vehicle or premises entered under section 38;
+
+and for that purpose the authorised person may detain any document or vehicle for such time as is required for such copying.
+
+### 41 Obstruction of authorised persons
+
+Any person who—
+
+(a) wilfully obstructs an authorised person acting in the exercise of functions under this Act,
+
+(b) without reasonable cause fails to give an authorised person any information, or to produce any documents, or to allow that authorised person to copy any documents, being information or documents which that authorised person may reasonably require of that person for the purpose of the exercise of those functions,
+
+(c) prevents, or attempts to prevent, any other person from giving any such information to any authorised person, or
+
+(d) in giving any such information to any authorised person makes any statement which that person knows to be false in a material particular,
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale or to imprisonment for a term not exceeding 6 months, or to both.
+
+### 42 Exercise of enforcement powers: authorised persons and constables
+
+(1) The powers conferred on an authorised person by this Act are exercisable on production by that person, if so required, of that person's authority.
+
+(2) A constable may exercise the functions of an authorised person under this Act, but it shall not be necessary for a constable in uniform to produce any authority pursuant to subsection (1).
+
+(3) Section 41 applies in relation to a constable as it applies in relation to an authorised person.
+
+### 43 Evidence by certificate
+
+(1) In any proceedings for an offence under this Act a certificate such as is mentioned in subsection (2) shall be evidence of the facts stated in it.
+
+(2) The certificate referred to in subsection (1) is a certificate issued by the Department which states—
+
+(a) that, on any date, a person was or was not the holder of an operator's licence;
+
+(b) that, by virtue of a direction given by the Department under regulations made under section 48(2)(b) or (3), a person is to be treated as having been the holder of an operator's licence on any date;
+
+(c) the date of the coming into force of any operator's licence;
+
+(d) the date on which any operator's licence ceased to be in force;
+
+(e) the terms and conditions of any operator's licence;
+
+(f) that a person is by virtue of an order of the Department disqualified from holding or obtaining an operator's licence, either indefinitely or for a specified period;
+
+(g) that a direction, having effect indefinitely or for a specified period, has been given by the Department under section 25(3) in relation to any person;
+
+(h) that an operator's licence was on any date or during any specified period suspended by virtue of a direction given by the Department under section 23(1); or
+
+[[^F140](ha) that a person is by virtue of an order of the Department disqualified from acting as a transport manager, either indefinitely or for a specified period;]
+
+(i) that, by virtue of a direction given by the Department under regulations made under section 48(2)(a), an operator's licence is to be treated as having been suspended on any date or during any specified period.
+
+(3) Any such certificate which purports to be issued by the Department shall be taken to be so issued unless the contrary is proved.
+
+### 44 Detention of vehicle used without operator's licence
+
+Schedule 2 (which relates to the detention, removal and disposal of goods vehicles in respect of which it appears that section 1 is contravened) shall have effect.
+
+### 45 Prosecutions
+
+(1) Proceedings for an offence under any of the provisions of this Act shall not be instituted except by the Department or a constable.
+
+(2) Article 10 of the Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10) (time for bringing summary proceedings for certain offences) shall apply to an offence under section 8(2) or 37.
+
+## Miscellaneous
+
+### 46 Disclosure of information
+
+(1) Any information which is obtained under this Act shall not, without the previous consent in writing of the person from whom the information was obtained, be disclosed except for the purposes of—
+
+(a) the execution of this Act;
+
+(b) any legal proceedings arising out of this Act, or any criminal proceedings, whether so arising or not; or
+
+(c) any reports of any proceedings of the kind referred to in paragraph (b).
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on summary conviction, to a fine not exceeding level 4 on the standard scale, or to imprisonment for a term not exceeding 6 months, or to both.
+
+### 47 Fees
+
+(1) Such fees, payable at such times, and whether in one sum or by instalments, as may be prescribed shall be charged by the Department in respect of—
+
+(a) applications for, or for the variation of, operators' licences;
+
+(b) the issue or variation of operators' licences;
+
+(c) the continuation in force of operators' licences.
+
+(2) The Department may decline to proceed with—
+
+(a) any application for, or for the variation of, an operator's licence, or
+
+(b) the issue or variation of any operator's licence,
+
+until any fee or instalment of a fee in respect of the application, issue or variation (as the case may be) is duly paid.
+
+(3) If, in the case of any application for, or for the variation of, an operator's licence, any fee or instalment of a fee in respect of the application or the issue or variation of the licence is not duly paid by the prescribed time—
+
+(a) the application shall be treated as withdrawn at that time, and
+
+(b) any decision made or direction given on the application, and any licence issued or variation effected in pursuance of such a direction, ceases to have effect or terminates at that time.
+
+(4) If any fee or instalment of a fee in respect of the continuation in force of an operator's licence is not duly paid by the prescribed time, the licence terminates at that time.
+
+(5) The Department may, if it considers there to be exceptional circumstances that justify its doing so in any case where subsection (3) or (4) has applied, direct that as from the time mentioned in that subsection its effect in that case be disregarded.
+
+(6) Where, by virtue of such a direction, the effect of subsection (3)(a) is to be disregarded in any case, any termination—
+
+(a) of an interim licence under section 21(5)(b) or (6), or
+
+(b) of an interim direction under section 22(4),
+
+by virtue of the operation of subsection (3)(a) in that case before the direction was given shall be cancelled with effect from the same time.
+
+(7) Where such a direction is given in respect of an operator's licence—
+
+(a) any condition attached to the licence under section 20(1)(b) shall be treated as having been of no effect during the period beginning with the time when the licence terminated by virtue of subsection (3) or (4) and ending with the time when the direction comes into force, and
+
+(b) subject to paragraph (a), the Department may vary any such condition as it applies in relation to events occurring before the direction comes into force.
+
+(8) Regulations under this section may provide for fees to be remitted or refunded (in whole or part) in prescribed cases.
+
+### 48 Operators' licences not to be transferable
+
+(1) Subject to any regulations under section 52, an operator's licence is neither transferable nor assignable.
+
+(2) Regulations may make provision enabling the Department, where the holder of an operator's licence has died or become a patient within the meaning of Article 2(2) of the Mental Health (Northern Ireland) Order 1986 (NI 4), to direct that the licence be treated—
+
+(a) as not having terminated at the time when the licence-holder died or became a patient but as having been suspended (that is, as having remained in force but subject to the limitation that no vehicles were authorised to be used under it) from that time until the time when the direction comes into force; and
+
+(b) as having effect from the time when the direction comes into force for a specified period and as being held during that period (for such purposes and to such extent as may be specified) not by the person to whom it was issued but by such other person carrying on that person's business, or part of that person's business, as may be specified.
+
+(3) Regulations may make provision enabling the Department in prescribed circumstances to direct that any operator's licence is to be treated (for such purposes, for such period and to such extent as may be specified) as held not by the person to whom it was issued but by such other person carrying on that person's business, or part of that person's business, as may be specified.
+
+(4) Regulations may make provision enabling the Department to direct, for the purpose of giving effect to or supplementing a direction given by it by virtue of subsection (2) or (3), that this Act is to apply with specified modifications in relation to the person who is to be treated under the direction as the holder of an operator's licence.
+
+(5) In this section “specified”, in relation to a direction, means specified—
+
+(a) in the regulations under which the direction was given; or
+
+(b) in the direction in accordance with those regulations.
+
+### 49 Certificates of qualification
+
+(1) On an application made to the Department by a person wishing to engage in [[^F141]an] undertaking [[^F142]established] in a member State [[^F143]that involves the use of goods vehicles] [^F144]..., the Department shall issue to the applicant a certificate (a “certificate of qualification”) as to such matters relating to the applicant's—
+
+(a) repute,
+
+(b) professional competence, or
+
+(c) financial standing (where relevant),
+
+as the Department is satisfied it may properly certify and as appear to the Department to be of assistance to the applicant in satisfying any requirements imposed by the law of the [^F145]... member State as regards the repute, professional competence and financial standing of persons engaged in [[^F146]such an undertaking established] in that member State.
+
+(2) A certificate of qualification shall—
+
+(a) be in such form as the Department may prescribe;
+
+[^F147]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) No certificate of qualification shall be issued before a prescribed fee has been paid to the Department.
+
+(4) The applicant shall give to the Department such information as it may reasonably require for the discharge of its duties in relation to the application.
+
+[^F148]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 50 Method of calculating weight of vehicles
+
+For the purposes of this Act the weight unladen of a vehicle shall be taken to be the weight of the vehicle inclusive of the body and all parts (the heavier being taken where alternative bodies or parts are used) which are necessary to or ordinarily used with the vehicle when working on a road, but exclusive of the weight of water, fuel or accumulators used for the purpose of the supply of power for the propulsion of the vehicle, and of loose tools and loose equipment.
+
+### 51 Payment of grants
+
+(1) The Department may, with the approval of the Department of Finance and Personnel, pay such grants to such persons or bodies as it considers appropriate in connection with any provision of, or the purposes of, this Act.
+
+(2) Grants under this section shall be subject to such terms and conditions as the Department may, with the approval of the Department of Finance and Personnel, determine.
+
+## Application of this Act: special cases
+
+### 52 Application of Act to holding companies and subsidiaries
+
+(1) Regulations may make provision for the purpose of enabling any company or other body corporate which has one or more subsidiaries to hold an operator's licence under which the vehicles authorised to be used consist of or include vehicles belonging to or in the possession of any of its subsidiaries.
+
+(2) Regulations under this section may modify or supplement any of the provisions of this Act, so far as appears to the Department to be necessary or expedient for or in connection with the purpose mentioned in subsection (1).
+
+### 53 Application of Act to partnerships
+
+Regulations may provide for this Act to apply in relation to partnerships with such modifications as may be prescribed.
+
+### 54 Application of Act to the Crown
+
+The provisions of this Act apply to vehicles and persons in the service of the Crown as they apply to other vehicles and persons.
+
+### 55 Application of Act to harbours
+
+A road vested in or under the control of—
+
+(a) the Belfast Harbour Commissioners, or
+
+(b) any other harbour authority having in relation to their harbour area powers similar to those of the Belfast Harbour Commissioners for restricting access to, and regulating motor traffic on, roads,
+
+shall be treated for the purposes of this Act as a road to which the public has access.
+
+## Supplementary
+
+### 56 Supplementary provision
+
+(1) The Department may by order make such incidental, supplementary, consequential, transitory, transitional or saving provisions as it considers necessary or expedient for the purposes of, in consequence of or for giving full effect to this Act or any provision of it, or in connection with the coming into operation of any provision of this Act.
+
+(2) An order under this section may amend, repeal or modify any statutory provision (including this Act).
+
+(3) The power conferred by this section is not restricted by any other provision of this Act.
+
+(4) An order shall not be made under this section unless a draft of the order has been laid before, and approved by resolution of, the Assembly.
+
+### 57 Regulations
+
+(1) The Department may make regulations for any purpose for which regulations may be made under this Act, and for prescribing anything which may be prescribed under this Act, and generally for carrying this Act into effect.
+
+(2) In particular, but without prejudice to the generality of subsection (1), the Department may make regulations with respect to the following matters—
+
+(a) the procedure on applications for, and the determination of questions in connection with, the issuing and variation of operators' licences and the procedure under, and the determination of questions for the purposes of, sections 23 to 29 and 34;
+
+(b) the issue of operators' licences and the issue on payment of the prescribed fee of copies of such licences in the case of licences lost or defaced;
+
+(c) the forms which operators' licences are to take in order to show a distinction—
+
+(i) between a standard licence and a restricted licence; and
+
+(ii) between a licence covering both international and national transport operations and a licence covering national transport operations only;
+
+(d) the means by which vehicles may be identified, whether by plates, marks or otherwise, as being used or authorised to be used under an operator's licence;
+
+(e) the custody, production, return and cancellation of operators' licences and of documents, plates and any other means of identification prescribed under paragraph (d);
+
+(f) the payment of a prescribed fee in respect of any document, plate or other means of identification so prescribed that has been lost, defaced or broken;
+
+(g) the notification to the Department of vehicles which have ceased to be used under an operator's licence;
+
+(h) the circumstances in which goods are to be treated for the purposes of this Act as carried for hire or reward and the circumstances in which goods are to be treated for those purposes as carried by any person for or in connection with a trade or business carried on by that person.
+
+(3) The power under subsection (2)(a) shall include power to require a person applying for an operator's licence to state in the application—
+
+(a) whether the application is for a standard licence or a restricted licence, and
+
+(b) (if the application is for a standard licence) whether the application is for a licence to cover both international and national transport operations or for one to cover national transport operations only.
+
+(4) The power under subsection (2)(d) shall include power to require that any means of identification prescribed for a vehicle shall be carried notwithstanding that for the time being the vehicle is not being used for a purpose for which an operator's licence is required.
+
+(5) The power under subsection (2)(d) shall also include power to make provision with respect to the means by which—
+
+(a) any vehicle may be identified as being used under a standard licence or, as the case may be, a restricted licence; and
+
+(b) any vehicle which is being used under a standard licence may be identified as being used under a licence that permits it to be used—
+
+(i) for both international and national transport operations, or
+
+(ii) for national transport operations only.
+
+(6) The Department may make regulations for providing that any provision of this Act shall, in relation to vehicles brought temporarily into Northern Ireland, have effect subject to such modifications as may be prescribed.
+
+(7) A definition or description of a class of vehicles for the purposes of any regulation under this Act may be framed by reference to any characteristic of the vehicles or to any other circumstances whatever.
+
+(8) Any person who contravenes a provision of regulations under this section, a contravention of which is declared by the regulations to be an offence, is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(9) No regulations shall be made under section 1(2)(d), [[^F149]12E] or 27(3) unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+
+(10) Any other regulations under this Act shall be subject to negative resolution.
+
+(11) Before making any regulations under this Act the Department shall consult with such representative organisations as the Department thinks fit.
+
+(12) Regulations under this Act may contain such incidental, supplementary, consequential, transitory or saving provisions as the Department considers necessary or expedient.
+
+### 58 General interpretation
+
+(1) In this Act—
+
+- “the 1995 Order” means the Road Traffic (Northern Ireland) Order 1995 (NI 18);
+
+- [[^F150]“the 2009 Regulation” means Regulation (EC) No 1071/2009 of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive 96/26/EC;]
+
+- “articulated combination” means a combination made up of—
+
+  - (a) a motor vehicle which is so constructed that a trailer may by partial superimposition be attached to the vehicle in such a manner as to cause a substantial part of the weight of the trailer to be borne by the vehicle, and
+  - (b) a trailer attached to it as described in paragraph (a);
+
+- “authorised person” means—
+
+  - (a) an examiner appointed by the Department under Article 74 of the 1995 Order; or
+  - (b) any person authorised in writing by the Department for the purposes of this Act;
+
+- “carriage of goods” includes haulage of goods;
+
+- “contravention”, in relation to any condition or provision, includes a failure to comply with the condition or provision;
+
+- “the Department” means the Department [[^F151]for Infrastructure] ;
+
+- “driver”—
+
+  - (a) where a separate person acts as steersman of a motor vehicle, includes that person as well as any other person engaged in the driving of the vehicle; and
+  - (b) in relation to a trailer, means the driver of the vehicle by which the trailer is drawn;
+
+- “goods” includes goods or burden of any description;
+
+- “goods vehicle” has the same meaning as in Article 2(2) of the 1995 Order;
+
+- [[^F152]“heavy goods vehicle” means a goods vehicle, or a vehicle combination including a goods vehicle, that has a relevant plated weight exceeding 3.5 tonnes;
+
+- “heavy goods vehicle licence” means an operator’s licence that authorises the use of one or more heavy goods vehicles (whether or not it also authorises the use of one or more light goods vehicles);]
+
+- “holding company” and “subsidiary” have the meaning given by section 1159 of the Companies Act 2006 (c. 46);
+
+- “international road haulage permit” means
+
+  - (a) [^F153]a licence, permit, authorisation or other document issued in pursuance of a Community instrument relating to the carriage of goods by road between member States or an international agreement to which the United Kingdom is a party and which relates to the international carriage of goods by road[[^F154], or
+  - (b) an international road transport permit, within the meaning given by section 1(2) of the Haulage Permits and Trailer Registration Act 2018];
+
+- [[^F155]“international transport operations” means the carriage of goods—
+
+  - from the United Kingdom to any other country or territory (or vice versa);
+  - through the United Kingdom from and to any other country or territory;
+  - within a country or territory other than the United Kingdom;]
+
+- [[^F156]“light goods vehicle” means a goods vehicle, or a vehicle combination including a goods vehicle, that has a relevant plated weight not exceeding 3.5 tonnes;
+
+- “light goods vehicle licence” means an operator’s licence that authorises the use of only one or more light goods vehicles;]
+
+- “modification” includes addition, omission and alteration;
+
+- “motor vehicle” and “trailer” have the same meaning as in Article 3(1) of the 1995 Order;
+
+- [[^F157]“national transport operations” means the carriage of goods within only the United Kingdom;]
+
+- “notice” means notice in writing;
+
+- “operating centre” has the meaning given in section 6(3);
+
+- “operator's licence” has the meaning given in section 1(1);
+
+- “owner”, in relation to any land in Northern Ireland, means a person, other than a mortgagee not in possession, who, whether in that person's own right or as trustee for any other person, is entitled to receive the rack rent of the land or, where the land is not let at a rack rent, would be so entitled if it were so let;
+
+- “plated weight”, in relation to a vehicle, means a weight required to be marked on it by means of a plate in pursuance of regulations made by virtue of Article 55 of the 1995 Order;
+
+- “prescribed” means prescribed by regulations;
+
+- “regulations” means regulations made by the Department;
+
+- [[^F158]“relevant plated weight” has the meaning given in section 1(3);]
+
+- “restricted licence” has the meaning given in section 2(3);
+
+- “road” has the same meaning as in Article 2(2) of the 1995 Order;
+
+- [^F159]...
+
+  - (a) 
+  - (b) [^F160]
+
+- “standard licence” has the meaning given in section 2(2);
+
+- “statutory provision” has the same meaning as in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33);
+
+- [[^F161]“transport manager” has the [[^F162]meaning given in section 12A(5)] ;]
+
+- “Upper Tribunal” means the Upper Tribunal constituted under section 3 of the Tribunals, Courts and Enforcement Act 2007 (c. 15);
+
+- “vehicle combination” means a combination of goods vehicles made up of one or more motor vehicles and one or more trailers all of which are linked together when travelling.
+
+(2) For the purposes of this Act, the driver of a vehicle, if it belongs to the driver or is in the driver's possession under an agreement for hire, hire-purchase or loan, and in any other case the person whose servant or agent the driver is, shall be deemed to be the person using the vehicle.
+
+(3) In this Act references to vehicles being authorised to be used under an operator's licence are to be read in accordance with section 4.
+
+(4) In its application to this Act, the Interpretation Act (Northern Ireland) 1954 (c. 33) has effect as if—
+
+(a) in section 20 (offences by corporations), subsection (3) were omitted; and
+
+(b) in section 24(1) (notice by post) the word “registering” were omitted.
+
+### 59 Amendments and repeals
+
+(1) Schedule 3 (which contains amendments) shall have effect.
+
+(2) The statutory provisions set out in the first column of Schedule 4 are repealed to the extent specified in the second column of that Schedule.
+
+### 59A [[^F163]Transitional provisions
+
+Schedule 5 (which contains transitional provisions) has effect.]
+
+### 60 Commencement
+
+(1) The following provisions of this Act come into operation on Royal Assent—
+
+(a) section 54;
+
+(b) section 57;
+
+(c) section 58;
+
+(d) this section; and
+
+(e) section 61.
+
+(2) The other provisions of this Act come into operation on such day or days as the Department may by order appoint.
+
+(3) An order under subsection (2) may contain—
+
+(a) such transitional provisions and savings;
+
+(b) such supplementary, incidental or consequential provisions (including any provision amending this Act),
+
+as the Department considers necessary or expedient in connection with the coming into operation of any of the provisions of this Act.
+
+### 61 Short title
+
+This Act may be cited as the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010.
+
+## SCHEDULE 1 — TRANSFER OF OPERATING CENTRES
+
+*Section 30*
+
+### Transfers in connection with new licences
+
+**1** (1) Where in the case of any application for [[^F164]a heavy goods vehicle] licence—
+
+(a) the requirements of sub-paragraphs (2) to (5) are satisfied at the time when the application is made, and
+
+(b) the applicant so requests,
+
+the Department may direct that paragraph 2 is to apply in relation to the application.
+
+(2) Each place referred to in the application under section 7(4)(c) as a proposed operating centre of the applicant must already be specified in [[^F165]a heavy goods vehicle] licence as an operating centre of its holder.
+
+(3) That licence must be the same in the case of each such place, and no such place may be specified in more than the one [[^F166]heavy goods vehicle] licence.
+
+(4) Where any conditions under section 20(1)(a) or (c) relating to any such place are attached to that licence, the applicant must have consented to conditions in the same terms being attached to the licence the applicant is applying for.
+
+(5) Where any undertakings relating to any such place are recorded in that licence, undertakings in the same terms must have been given by the applicant (or have been procured by the applicant to be given) for the purposes of the application.
+
+(6) In determining whether to give a direction under this paragraph, the Department shall take account of whether any new adverse effects on environmental conditions are likely to arise from the use as an operating centre of the applicant of any such place, and may take account of any other matters it considers relevant.
+
+(7) A place is not to be regarded for the purposes of sub-paragraph (2) as being specified in [[^F167]a heavy goods vehicle] licence by reason only that it forms part of a place so specified; and a place that was, at the time mentioned in sub-paragraph (1)(a), a place specified in [[^F167]a heavy goods vehicle] licence as mentioned in sub-paragraph (2) shall be disregarded for the purposes of sub-paragraph (2) if, at that time—
+
+(a) that place was so specified by virtue of an interim direction such as is mentioned in section 22; or
+
+(b) such conditions relating to—
+
+(i) the exercise of the right of any person to appeal against a place being specified in [[^F168]a heavy goods vehicle] licence, or
+
+(ii) the review under section 34 of any decision so to specify a place,
+
+as may be prescribed were not satisfied in relation to that place.
+
+(8) In this paragraph “ [[^F169]heavy goods vehicle] licence” does not include an interim licence issued under section 21
+
+**2** (1) The provisions of this paragraph have effect in relation to any application for [[^F170]a heavy goods vehicle] licence in respect of which a direction has been given under paragraph 1.
+
+(2) The notice published under section 9(1) shall state that the direction has been given.
+
+(3) The following provisions of this Act shall not apply—
+
+(a) section 10;
+
+(b) section 11(1)(b) and (4);
+
+(c) [[^F171]section 12C(5)] so far as relating to the suitability of any place specified in the licence for use as an operating centre of the licence-holder;
+
+(d) section 13; and
+
+(e) section 14(3)(f).
+
+(4) Notwithstanding anything in [[^F172]section 12(6)] the Department may refuse the application if—
+
+(a) any statement of fact made by the applicant (or procured by the applicant to be made) for the purposes of the request for the direction under paragraph 1 was false, whether to the applicant's knowledge or not; or
+
+(b) any undertaking given or statement of expectation made by the applicant (or procured by the applicant to be given or made) for those purposes has not been fulfilled.
+
+(5) If the application is granted, the Department—
+
+(a) shall attach to the licence issued to the applicant any conditions in respect of which the applicant has consented under paragraph 1(4); and
+
+(b) shall not attach any other conditions to the licence under section 20(1)(a) or (c).
+
+(6) If the application is granted, the Department shall record in the licence—
+
+(a) any undertakings given or procured to be given under paragraph 1(5); and
+
+(b) any other undertakings given by the applicant (or procured by the applicant to be given), whether for the purposes of the application or for the purposes of the request for the direction under paragraph 1, that the Department considers to be material to the Department's decision to give the direction (and that would not otherwise be required by section 14(4) to be recorded in the licence).
+
+### Transfers in connection with the variation of licences
+
+**3** (1) Where in the case of an application for the variation of [[^F173]a heavy goods vehicle] licence under section 16—
+
+(a) the only direction applied for is one under subsection (1)(g) of that section that one or more new places be specified in the licence as an operating centre of the licence-holder,
+
+(b) the requirements of sub-paragraphs (2) to (5) are satisfied at the time when the application is made, and
+
+(c) the applicant so requests
+
+the Department may direct that paragraph 4 is to apply in relation to the application.
+
+(2) Each new place that is proposed to be specified in the licence must already be specified in another [[^F174]heavy goods vehicle] licence as an operating centre of its holder.
+
+(3) That other licence must be the same in the case of each such place, and no such place may be specified in more than the one other [[^F175]heavy goods vehicle] licence.
+
+(4) Where any conditions under section 20(1)(a) or (c) relating to any such place are attached to that other licence, the applicant must have consented to conditions in the same terms being attached to the licence the applicant is applying to have varied.
+
+(5) Where any undertakings relating to any such place are recorded in that other licence, undertakings in the same terms must have been given by the applicant (or have been procured by the applicant to be given) for the purposes of the application.
+
+(6) In determining whether to give a direction under this paragraph, the Department shall take account of whether any new adverse effects on environmental conditions are likely to arise from the use as an operating centre of the applicant of any such place, and may take account of any other matters the Department considers relevant.
+
+(7) A place is not to be regarded for the purposes of sub-paragraph (2) as being specified in [[^F176]a heavy goods vehicle] licence by reason only that it forms part of a place so specified; and a place that was, at the time mentioned in sub-paragraph (1)(b), a place specified in [[^F176]a heavy goods vehicle] licence as mentioned in sub-paragraph (2) shall be disregarded for the purposes of sub-paragraph (2) if, at that time—
+
+(a) that place was so specified by virtue of an interim direction such as is mentioned in section 22; or
+
+(b) such conditions relating to—
+
+(i) the exercise of the right of any person to appeal against a place being specified in [[^F177]a heavy goods vehicle] licence, or
+
+(ii) the review under section 34 of any decision so to specify a place,
+
+as may be prescribed were not satisfied in relation to that place.
+
+(8) In this paragraph “ [[^F178]heavy goods vehicle] licence” does not include an interim licence issued under section 21.
+
+**4** (1) The provisions of this paragraph have effect in relation to any application for the variation of [[^F179]a heavy goods vehicle] licence in respect of which a direction has been given under paragraph 3.
+
+(2) Sections 16(4) and 17 shall not apply.
+
+(3) If the application is granted, the Department—
+
+(a) shall attach to the licence as varied any conditions in respect of which the applicant has consented under paragraph 3(4); and
+
+(b) shall not attach any other conditions to the licence under section 20(1)(a) or (c).
+
+(4) If the application is granted, the Department shall record in the licence as varied
+
+(a) any undertakings given or procured to be given under paragraph 3(5); and
+
+(b) any other undertakings given by the applicant (or procured by the applicant to be given), whether for the purposes of the application or for the purposes of the request for the direction under paragraph 3, that the Department considers to be material to its decision to give the direction.
+
+## SCHEDULE 2 — DETENTION OF VEHICLES USED WITHOUT OPERATOR'S LICENCE
+
+*Section 44*
+
+### Detention of property
+
+**1** Regulations may provide that where an authorised person has reason to believe that a goods vehicle is being, or has been, used on a road in contravention of section 1, the authorised person may detain the vehicle and its contents.
+
+**2** Regulations may make provision with respect to property detained by virtue of paragraph 1.
+
+### Immobilisation and removal
+
+**3** (1) Regulations may provide that an authorised person may, before a goods vehicle is moved by virtue of paragraph 5—
+
+(a) fix an immobilisation device to the vehicle in the place where the vehicle has been detained, or
+
+(b) move the vehicle, or require it to be moved, to a more convenient place and fix an immobilisation device to the vehicle in that other place.
+
+(2) Regulations may provide that on any occasion when an immobilisation device is fixed to a goods vehicle in accordance with the regulations the person fixing the device must also fix to the vehicle a notice—
+
+(a) indicating that the device has been fixed to the vehicle and warning that no attempt should be made to drive it or otherwise put it in motion until it has been released from the device,
+
+(b) specifying the steps to be taken to secure its release, and
+
+(c) giving such other information as may be prescribed.
+
+(3) Regulations may provide that—
+
+(a) a goods vehicle to which an immobilisation device has been fixed in accordance with the regulations may only be released from the device by or under the direction of an authorised person;
+
+(b) an immobilisation notice shall not be removed or interfered with except by or on the authority of an authorised person.
+
+**4** (1) Regulations may provide that a person who, without being authorised to do so in accordance with paragraph 3(3)(a), removes or attempts to remove an immobilisation device fixed to a goods vehicle under regulations made by virtue of paragraph 3(1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Regulations may provide that a person who removes or interferes with an immobilisation notice in contravention of regulations made by virtue of paragraph 3(3)(b) is guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale
+
+**5** (1) Regulations may make provision for an authorised person to direct that any property detained by virtue of paragraph 1 be removed and delivered into the custody of a person specified in the direction.
+
+(2) Regulations may provide that a direction under sub-paragraph (1) may only specify a person—
+
+(a) who is identified in accordance with prescribed rules, and
+
+(b) who has made arrangements with the Department and has agreed to accept delivery of the property in accordance with those arrangements;
+
+and the arrangements may include the payment of a sum to a person into whose custody any property is delivered.
+
+(3) Regulations may also provide that, where an authorised person has given a direction by virtue of sub-paragraph (1) in respect of a goods vehicle, the authorised person may allow the driver of the vehicle to deliver its contents to their destination or some other suitable place before delivering the vehicle into the custody of the person specified in the direction.
+
+**6** (1) Regulations may make provision for informing persons who may be entitled to the property that it has been detained.
+
+(2) Provision made by virtue of sub-paragraph (1) may, in particular, include provision requiring—
+
+(a) the publication by an authorised person of such notices as may be prescribed, and
+
+(b) the giving of notice by an authorised person to such persons as may be prescribed.
+
+### Return or disposal of vehicle
+
+**7** Regulations may make provision authorising a vehicle detained by virtue of paragraph 1 to be returned to the owner, in prescribed circumstances, without the need for any application under paragraph 8.
+
+**8** (1) Regulations shall make provision enabling the owner of a goods vehicle detained by virtue of paragraph 1 to apply to the Department for the return of the vehicle.
+
+(2) Regulations may, in particular—
+
+(a) require notice of an application to be given to the Department within such period as may be determined in accordance with the regulations, and
+
+(b) require notice of an application to be made in such form as may be prescribed.
+
+(3) Regulations shall make provision as to the grounds upon which the owner may apply for the return of the vehicle.
+
+(4) Those grounds may include the following grounds—
+
+(a) that at the time the vehicle was detained the person using the vehicle held an operator's licence (whether or not authorising the use of the vehicle)
+
+(b) that at the time the vehicle was detained the vehicle was not being, and had not been, used in contravention of section 1, or
+
+(c) that, although at the time the vehicle was detained it was being, or had been, used in contravention of section 1, the owner did not know that it was being, or had been, so used.
+
+**9** (1) Regulations shall make provision—
+
+(a) enabling the Department to hold a hearing before determining an application by virtue of paragraph 8,
+
+(b) requiring the Department to hold a hearing if requested by a person who claims to be the owner,
+
+(c) as to the time within which the hearing must be held, and
+
+(d) subject to such provision as may be made by the regulations, for the hearing to be held in public.
+
+(2) Regulations shall also provide that, if no hearing is held, the Department must determine the application within a prescribed time after receiving notice of the application.
+
+(3) Regulations shall provide that—
+
+(a) if the Department determines that one of the grounds prescribed by virtue of paragraph 8(3) is made out, it must order the person specified in a direction by virtue of paragraph 5(1) to return the goods vehicle to the owner;
+
+(b) if the Department determines that none of those grounds is made out, the vehicle may be sold or destroyed by the person specified, in such manner as may be prescribed.
+
+**10** (1) Regulations shall provide for an appeal to the Upper Tribunal against the determination of the Department.
+
+(2) Regulations—
+
+(a) may prescribe the period within which an appeal must be made, and
+
+(b) may make provision for notice of the appeal to be given to the Upper Tribunal, the Department and such other persons as may be prescribed.
+
+**11** Regulations may provide that, if no application is made to the Department in accordance with regulations made by virtue of paragraph 8, any goods vehicle detained by virtue of paragraph 1 may be sold or destroyed in such manner as may be prescribed.
+
+### Return or disposal of contents of vehicle
+
+**12** (1) Regulations may provide that the person specified in a direction by virtue of paragraph 5(1) may retain custody of the contents of a goods vehicle until—
+
+(a) the contents are returned, in accordance with the regulations, to a person who establishes that that person is entitled to them, or
+
+(b) the contents are sold or destroyed by the person specified in such manner as may be prescribed
+
+(2) Regulations may also make provision as to—
+
+(a) the period within which a person who claims to be entitled to the contents may make a claim for their return,
+
+(b) the requirements to be satisfied by a person who claims to be entitled to the contents (including requirements as to the person's entitlement), and
+
+(c) the manner in which entitlement to such contents is to be determined where there is more than one claim to them.
+
+(3) The person specified in a direction by virtue of paragraph 5(1) may not sell or destroy the contents unless—
+
+(a) such steps as may be required by regulations made by virtue of paragraph 6(1) have been taken and no person has, before the expiry of the period referred to in sub-paragraph (2)(a), established an entitlement to the contents, or
+
+(b) the condition of the contents requires them to be disposed of without delay.
+
+### Custody of property
+
+**13** Regulations shall provide that, subject to the powers of a person specified in a direction by virtue of paragraph 5(1) to sell or destroy any property by virtue of this Schedule, it shall be the duty of that person while any property is in that person's custody to take such steps as are necessary for the safe custody of that property.
+
+### Proceeds of sale
+
+**14** (1) Regulations shall provide for the proceeds of sale of any property sold under regulations made by virtue of paragraph 9(3)(b), 11 or 12(1)(b)—
+
+(a) to be applied towards meeting expenses incurred by any authorised person in exercising functions by virtue of this Schedule, and
+
+(b) in so far as they are not so applied, to be applied in such other manner as may be prescribed.
+
+(2) Regulations may in particular provide for a sum determined in accordance with the regulations to be paid to a person if—
+
+(a) the person claims after the sale of property under regulations made by virtue of paragraph 9(3)(b), 11 or 12(1)(b) to be or to have been its owner,
+
+(b) the claim is made within a prescribed time of the sale, and
+
+(c) any other prescribed conditions are fulfilled.
+
+### Disputes
+
+**15** (1) Regulations may make provision about the proceedings to be followed where a dispute occurs as a result of regulations made by virtue of paragraph 12 or 14.
+
+(2) Provision made by virtue of sub-paragraph (1) may in particular provide—
+
+(a) for an application to be made to a court of summary jurisdiction;
+
+(b) for a court to order a sum to be paid by the Department
+
+### Offences as to securing possession of property
+
+**16** (1) Regulations may provide that where—
+
+(a) a person makes a declaration with a view to securing the return of a goods vehicle under regulations made by virtue of paragraph 9,
+
+(b) the declaration is that the vehicle was not being, or had not been, used in contravention of section 1, and
+
+(c) the declaration is to the person's knowledge either false or in any material respect misleading,
+
+the person is guilty of an offence.
+
+(2) Regulations may provide that a person guilty of such an offence is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum,
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or to a fine, or both.
+
+### Interpretation
+
+**17** (1) In this Schedule—
+
+- “contents”, in relation to a goods vehicle, means any goods carried by that vehicle;
+- “immobilisation device” means any device or appliance which is an immobilisation device for the purposes of paragraph 11 of Schedule 1 to the Road Traffic (Northern Ireland) Order 2007 (NI 10).
+
+(2) Regulations may, for the purposes of regulations made by virtue of this Schedule, make provision as to the meaning of “owner” as regards a goods vehicle.
+
+(3) Regulations made by virtue of sub-paragraph (2) may, in particular, provide that the owner of a goods vehicle at a particular time shall be taken to be—
+
+(a) any person in whose name the goods vehicle is then registered by virtue of the Vehicle Excise and Registration Act 1994 (c. 22), or
+
+(b) any person in whose operator's licence the goods vehicle is then specified.
+
+## SCHEDULE 3 — AMENDMENTS
+
+*Section 59*
+
+### The Transport Act (Northern Ireland) 1967 (c. 37)
+
+**1** In section 31(1) for “Parts II and III” substitute “ Part 2 ”.
+
+**2** In section 34(b) for “mark or permit” substitute “ or control document ”.
+
+**3** In section 37(2) for “Parts II and III” substitute “ Part 2 ”.
+
+**4** In section 43(1) for “Parts II and III” substitute “ Part 2 ”.
+
+**5** In section 45(g) for “Parts II and III” substitute “ Part 2 ”.
+
+**6** In section 45(i) for “Parts II and III” substitute “ Part 2 ”
+
+**7** In section 46 for “Parts II and III” substitute “ Part 2 ”.
+
+**8** In section 46A(1) for “7, 10, 15, 15A, 28A and 29” substitute “ 7 and 10 ”.
+
+### The International Road Haulage Permits Act 1975 (c. 46)
+
+**9** In section 1(8) for “Part III of the Transport Act (Northern Ireland) 1967” substitute “ the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 ”.
+
+### The Road Traffic (Northern Ireland) Order 1981 (NI 1)
+
+**10** In Article 87(1) after “the Transport Act (Northern Ireland) Act 1967” insert “ or section 57 of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010, ”.
+
+**11** In Schedule 1 at the end insert—
+
+> |  |  |
+> |---|---|
+> | Sections 38, 39 and 40 of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010. | To enter and inspect goods vehicles, to inspect and copy documents required to be carried on such vehicles and to seize certain articles. |
+
+.
+
+### The Road Traffic (Northern Ireland) Order 1995 (NI 18)
+
+**12** In Article 74(1) for “Parts II to IV” substitute “ Parts 2 and 4 ”.
+
+**13** In Article 111(2)—
+
+(a) for the words “Parts II and III” substitute “ Part 2 ”;
+
+(b) at the end add “ or the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 ”.
+
+## SCHEDULE 4 — REPEALS
+
+*Section 59*
+
+|  |  |
+|---|---|
+| Short Title | Extent of repeal |
+| The Transport Act (Northern Ireland) 1967(c. 37). | Part 3. In section 31(1) the words “and operators' licences”. In section 32 the words “or Part III”. In section 33—<br>- (a) in subsection (1) the words “or Part III”;<br>- (b) in subsection (2) the words “or Part III”;<br>- (c) in subsection (2)(e) the words from the beginning to “or operator's licence” and “or 29(2B), as the case may be,”. In section 34<br>- (a) in paragraph (a) the words “or Part III, or any notice or distinguishing mark prescribed under section 26” and “or 46E(1) or any international road haulage permit”;<br>- (b) in paragraph (b) the words “or mark”. In section 35(a) the words “or Part III”.Section 35(d). In section 36(1) the words “Part III”. In section 37(2)(a), (b) and (c) the words “or goods” wherever they occur. In section 38(1)—<br>- (a) the words “or goods” wherever they occur;<br>- (b) in paragraph (i) the words “or the description of the goods and the name and address of the owner of the goods”. In section 38(2) the words “or goods” wherever they occur. In section 38(3)(b) the words “or goods”. In section 39(3)—<br>- (a) the words “or mark” wherever they occur;<br>- (b) paragraph (a). In section 39(4) the words “or mark” wherever they occur. In section 43(2) the words “Part III”. In section 45—<br>- (a) the words “Part III”;<br>- (b) in paragraph (g) the words “or of any notice or distinguishing mark prescribed under section 26”. In section 46(b)—<br>- (a) the words “or any goods”;<br>- (b) the words “or goods” wherever they occur. Section 46(c), (d) and (e). Section 46A(2)(a)(i). In section 46A(2)(a)(ii) the word “other”. In section 46C—<br>- (a) in subsection (1) the words “or an operator's licence”;<br>- (b) in subsection (2) the words “or an operator's licence”. Section 46E. In section 81(1) the definitions of “goods”, “operators' licences”, “road freight operators” and “vehicle licences”. |
+| The International Road Haulage Permits Act 1975 (c. 46). | Section 4. |
+| The Road Traffic (Northern Ireland) Order 1981(NI 1). | In Schedule 1, in the entry relating to sections 37, 38 and 39 of the Transport Act (Northern Ireland) 1967 in the second column the words “and goods vehicles”. In Schedule 2 the entry relating to section 17 of the Transport Act (Northern Ireland) 1967. In Schedule 7, paragraphs 6 and 7. |
+| The Road Traffic, Transport and Roads (Northern Ireland) Order 1984(NI 15). | Articles 11, 12 and 13. |
+| The Insolvency (Northern Ireland) Order 2005(NI 10). | Paragraph 8 and 9 of Schedule 2. |
+| The Road Traffic (Northern Ireland) Order 2007(NI 10). | Article 79(2)(b), (c), and (d). |
+
+## [[^F180]SCHEDULE 5 — TRANSITIONAL PROVISIONS
+
+*Section 59A*
+
+### Provisions relating to the Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022
+
+#### Interpretation for paragraphs 2 and 3
+
+**[^F181]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Existing operator’s licence to be treated as heavy goods vehicle licence
+
+**2** For the purposes of this Act, beginning with [[^F182]17th March 2022] —
+
+(a) any application for an operator’s licence made to the Department under section 7 before [[^F183]17th March 2022] is to be treated by the Department as an application for a heavy goods vehicle licence;
+
+(b) any objection to, or representations against, the grant of an application for an operator’s licence made to the Department under section 11 before [[^F183]17th March 2022] is to be treated by the Department as an objection to, or representations against, the grant of an application for a heavy goods vehicle licence;
+
+(c) an operator’s licence issued under section 14 before [[^F183]17th March 2022] is to be treated as a heavy goods vehicle licence;
+
+(d) any application for a variation of an operator’s licence made to the Department under section 16 before [[^F183]17th March 2022] is to be treated by the Department as an application for a variation of a heavy goods vehicle licence;
+
+(e) any objection to, or representations against, the grant of an application for a variation of an operator’s licence made to the Department under section 18 before [[^F183]17th March 2022] is to be treated by the Department as an objection to, or representations against, the grant of an application for a variation of a heavy goods vehicle licence;
+
+(f) any request for an interim operator’s licence made to the Department under section 21 before [[^F183]17th March 2022] is to be treated by the Department as a request for an interim heavy goods vehicle licence; and
+
+(g) any interim operator’s licence issued under section 21 before [[^F183]17th March 2022] is to be treated as an interim heavy goods vehicle licence.
+
+#### Transport manager to continue under Act [^F184]... as amended
+
+**3** For the purposes of this Act [^F185]..., an individual who before [[^F186]17th March 2022] was designated a transport manager under section 12A(3)—
+
+(a) in accordance with Article 4(1) of the 2009 Regulation is, beginning with that date, to be treated by the Department as an individual designated under section 12A(3)(a)(ii) [^F187]..., or
+
+(b) in accordance with Article 4(2) of the 2009 Regulation is, beginning with that date, to be treated by the Department as an individual designated under section 12A(3)(b) [^F188]....]
+
+---
+
+[^F1]: Words in s. 1(1) substituted (19.7.2018) by Haulage Permits and Trailer Registration Act 2018 (c. 19), ss. 12(2), 27(1)
+[^F2]: S. 1(2)(b) omitted (31.12.2020) by virtue of The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708), regs. 1(1), 3(2)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F3]: S. 1(2A) inserted (31.12.2020) by The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708), regs. 1(1), 3(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F4]: S. 1(3)(a)(i) substituted (20.5.2022 at 11.00 p.m.) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(2), 74(a)(i)
+[^F5]: S. 1(3)(a)(ia) inserted (20.5.2022 at 11.00 p.m.) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(2), 74(a)(ii)
+[^F6]: Words in s. 1(3) substituted (20.5.2022 at 11.00 p.m.) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(2), 74(b)(i)
+[^F7]: Words in s. 1(3) substituted (20.5.2022 at 11.00 p.m.) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(2), 74(b)(ii)
+[^F8]: S. 1(4) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(2)
+[^F9]: Words in s. 1(4) substituted (31.12.2020) by The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708), regs. 1(1), 3(2)(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F10]: Words in s. 2(6) substituted (19.7.2018) by Haulage Permits and Trailer Registration Act 2018 (c. 19), ss. 12(3), 27(1)
+[^F11]: S. 2A inserted (19.7.2018) by Haulage Permits and Trailer Registration Act 2018 (c. 19), ss. 12(4), 27(1)
+[^F12]: Words in s. 2A(6) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 75(1)
+[^F13]: S. 2A(7) omitted (17.3.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 75(2)
+[^F14]: Word in s. 3 heading inserted (19.7.2018) by Haulage Permits and Trailer Registration Act 2018 (c. 19), ss. 12(5)(a), 27(1)
+[^F15]: S. 3(1A) inserted (19.7.2018) by Haulage Permits and Trailer Registration Act 2018 (c. 19), ss. 12(5)(b), 27(1)
+[^F16]: S. 3(4) omitted (1.7.2012) by virtue of The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(3)
+[^F17]: S. 4(3A) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 76(1)
+[^F18]: Words in s. 4(4) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 76(2)(a)
+[^F19]: Words in s. 4(4) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 76(2)(b)
+[^F20]: Words in cross-heading heading substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 77(1)
+[^F21]: Words in s. 6(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 77(2)(a)
+[^F22]: Words in s. 6(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 77(2)(b)
+[^F23]: Words in s. 6(3) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 77(3)(a)
+[^F24]: Words in s. 6(3) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 77(3)(b)
+[^F25]: Words in s. 6(3) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 77(3)(c)
+[^F26]: Words in s. 7(4)(c) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 78
+[^F27]: Words in cross-heading heading inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 79(1)
+[^F28]: Words in s. 10(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 79(2)
+[^F29]: Words in s. 10(2) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 79(3)
+[^F30]: Words in s. 10(3) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 79(4)
+[^F31]: Words in s. 10(4) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 79(5)
+[^F32]: Words in s. 11(1)(a) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(4)(a)
+[^F33]: Words in s. 11(1)(b) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 80(1)
+[^F34]: Words in s. 11(4) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 80(2)
+[^F35]: Words in s. 11(11) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(4)(b)(i)
+[^F36]: Words in s. 11(11)(a) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(4)(b)(ii)
+[^F37]: Words in s. 11(11)(b) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(4)(b)(iii)
+[^F38]: Ss. 12-12E substituted for s. 12 (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(5)
+[^F39]: Words in s. 12(3) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 81
+[^F40]: Words in s. 12A(2)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(1)(a)
+[^F41]: Words in s. 12A(2)(b) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(1)(b)
+[^F42]: Word in s. 12A(2)(b) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(1)(c)
+[^F43]: Words in s. 12A(2)(c) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(1)(d)
+[^F44]: S. 12A(2)(d) and word omitted (17.3.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(1)(e)
+[^F45]: Words in s. 12A(3) omitted (17.3.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(2)(a)
+[^F46]: S. 12A(3)(a)(b) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(2)(b)
+[^F47]: S. 12A(3)(c) omitted (1.7.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 9
+[^F48]: S. 12A(4)(5) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 82(3)
+[^F49]: S. 12C(1)(a)(b) substituted for words (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(1)
+[^F50]: Words in s. 12C(5) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(2)
+[^F51]: Words in s. 12C(6) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(3)
+[^F52]: Words in s. 12C(7) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(4)
+[^F53]: Words in s. 12C(8) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(5)
+[^F54]: Words in s. 12C(9) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(6)(a)
+[^F55]: Words in s. 12C(9)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(6)(b)
+[^F56]: Words in s. 12C(9)(b) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 83(6)(c)
+[^F57]: Words in s. 12E substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 84
+[^F58]: Words in s. 13(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(1)
+[^F59]: Words in s. 13(2)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(2)
+[^F60]: Words in s. 13(3) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(3)(a)
+[^F61]: Words in s. 13(3)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(3)(b)
+[^F62]: Words in s. 13(3)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by Planning Act (Northern Ireland) 2011 (c. 25), s. 254(1)(2), Sch. 6 para. 105 (with s. 211); S.R. 2015/49, arts. 2, 3, Sch. 1 (with Sch. 2) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^F63]: Words in s. 13(4) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(4)
+[^F64]: Words in s. 13(5) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(5)(a)
+[^F65]: Words in s. 13(5)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(5)(b)
+[^F66]: Words in s. 13(5)(c)(i) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(5)(c)
+[^F67]: Words in s. 13(6) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 85(6)
+[^F68]: Words in s. 14(2) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(6)(a)(i)
+[^F69]: Words in s. 14(2) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(6)(a)(ii)
+[^F70]: Words in s. 14(3)(f) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 86
+[^F71]: Words in s. 14(4) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(6)(b)
+[^F72]: Words in s. 16(1)(g) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 87(1)
+[^F73]: Words in s. 16(5)(c) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 87(2)
+[^F74]: Words in s. 16(6)(c) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(7)
+[^F75]: Words in cross-heading heading inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(1)
+[^F76]: Words in s. 17(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(2)
+[^F77]: Words in s. 17(2)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(3)(a)(i)
+[^F78]: Words in s. 17(2)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(3)(a)(ii)
+[^F79]: Words in s. 17(2)(b) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(3)(b)
+[^F80]: Words in s. 17(2)(c) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(3)(c)
+[^F81]: Words in s. 17(3) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(4)
+[^F82]: Words in s. 17(5) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(5)(a)
+[^F83]: Words in s. 17(5)(b)(i) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 88(5)(b)
+[^F84]: Words in cross-heading heading substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(1)
+[^F85]: Words in s. 18(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(2)
+[^F86]: Words in s. 18(3)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(3)
+[^F87]: Words in s. 18(6)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(4)
+[^F88]: Words in s. 18(7)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(5)
+[^F89]: Words in s. 18(7)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by Planning Act (Northern Ireland) 2011 (c. 25), s. 254(1)(2), Sch. 6 para. 106 (with s. 211); S.R. 2015/49, arts. 2, 3, Sch. 1 (with Sch. 2) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^F90]: Words in s. 18(8) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(6)
+[^F91]: Words in s. 18(9) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(7)(a)
+[^F92]: Words in s. 18(9)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(7)(b)
+[^F93]: Words in s. 18(9)(c)(i) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 89(7)(c)
+[^F94]: Words in s. 20(1)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 90(a)(i)
+[^F95]: Words in s. 20(1)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 90(a)(ii)
+[^F96]: Words in s. 20(1)(c) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 90(b)
+[^F97]: S. 21(7A) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(8)(a)
+[^F98]: Word in s. 21(8) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(8)(b)
+[^F99]: Words in s. 23(1)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 91(1)(a)
+[^F100]: Words in s. 23(1)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 91(1)(b)
+[^F101]: Words in s. 23(1)(f) inserted (21.4.2015) by The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159), art. 1, Sch. para. 17
+[^F102]: Words in s. 23(1)(f) inserted (7.3.2016) by The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108), art. 1, Sch. para. 23
+[^F103]: Words in s. 23(9)(d) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 91(2)
+[^F104]: Words in s. 24(1) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(9)(a)
+[^F105]: Words in s. 24(1)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 92(1)(a)(i)
+[^F106]: Word in s. 24(1)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 92(1)(a)(ii)
+[^F107]: S. 24(1)(b) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 92(1)(b)
+[^F108]: S. 24(2) omitted (1.7.2012) by virtue of The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(9)(b)
+[^F109]: S. 24(3A)(3B) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(9)(c)
+[^F110]: Words in s. 24(3A) omitted (17.3.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 92(2)
+[^F111]: S. 24(3AA) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 92(3)
+[^F112]: Words in s. 24(4) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(9)(d)
+[^F113]: Words in s. 25(1) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(10)
+[^F114]: Words in s. 27(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 93(1)
+[^F115]: Words in s. 27(2) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 93(2)
+[^F116]: Words in s. 28(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 94(1)
+[^F117]: Words in s. 28(2) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 94(2)
+[^F118]: Words in s. 28(3) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 94(3)(a)
+[^F119]: Words in s. 28(3) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 94(3)(b)
+[^F120]: Words in s. 29(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 95(1)
+[^F121]: Words in s. 29(4) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 95(2)(a)
+[^F122]: Words in s. 29(4)(a) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 95(2)(b)
+[^F123]: Words in s. 29(4)(b) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 95(2)(c)
+[^F124]: Words in s. 29(4)(c) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 95(2)(d)
+[^F125]: Words in s. 29(4)(d) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 95(2)(d)
+[^F126]: Words in s. 29(5) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 95(3)
+[^F127]: Words in s. 30 substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 96(a)
+[^F128]: Words in s. 30 substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 96(b)
+[^F129]: Words in s. 31(2)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 97(1)(a)
+[^F130]: Words in s. 31(2)(b) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 97(1)(b)
+[^F131]: Words in s. 31(2)(c) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 97(1)(c)
+[^F132]: Words in s. 31(3)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 97(2)
+[^F133]: Words in s. 31(5)(a) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 97(2)
+[^F134]: Words in s. 32(1) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(11)(a)
+[^F135]: Words in s. 32(2) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(11)(b)
+[^F136]: Words in s. 32(3) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(11)(c)
+[^F137]: Words in s. 32(4)(b) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(11)(d)(i)
+[^F138]: Words in s. 32(4)(c) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(11)(d)(ii)
+[^F139]: Words in s. 33(1) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(12)
+[^F140]: S. 43(2)(ha) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(13)
+[^F141]: Word in s. 49(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 98(1)(a)(i)
+[^F142]: Word in s. 49(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 98(1)(a)(ii)
+[^F143]: Words in s. 49(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 98(1)(a)(iii)
+[^F144]: Words in s. 49(1) omitted (31.12.2020) by virtue of The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708), regs. 1(1), 3(3)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F145]: Word in s. 49(1) omitted (31.12.2020) by virtue of The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708), regs. 1(1), 3(3)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F146]: Words in s. 49(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 98(1)(b)
+[^F147]: S. 49(2)(b) omitted (17.3.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 98(2)
+[^F148]: S. 49(5) omitted (17.3.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 98(3)
+[^F149]: Words in s. 57(9) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(15)
+[^F150]: Words in s. 58(1) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(16)(a)
+[^F151]: Words in s. 58(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(a)
+[^F152]: Words in s. 58(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(b)
+[^F153]: Words in s. 58 renumbered (19.7.2018) by Haulage Permits and Trailer Registration Act 2018 (c. 19), s. 27(1), Sch. para. 4(a)
+[^F154]: Words in s. 58 inserted (19.7.2018) by Haulage Permits and Trailer Registration Act 2018 (c. 19), s. 27(1), Sch. para. 4(b)
+[^F155]: Words in s. 58(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(c)
+[^F156]: Words in s. 58(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(d)
+[^F157]: Words in s. 58(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(e)
+[^F158]: Words in s. 58(1) inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(f)
+[^F159]: Words in s. 58(1) omitted (17.3.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(g)
+[^F160]: Words in s. 58(1) omitted (31.12.2020) by virtue of The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708), regs. 1(1), 3(4); 2020 c. 1, Sch. 5 para. 1(1)
+[^F161]: Words in s. 58(1) inserted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(16)(c)
+[^F162]: Words in s. 58(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 99(h)
+[^F163]: S. 59A inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 100
+[^F164]: Words in Sch. 1 para. 1(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(1)(a)
+[^F165]: Words in Sch. 1 para. 1(2) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(1)(b)
+[^F166]: Words in Sch. 1 para. 1(3) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(1)(c)
+[^F167]: Words in Sch. 1 para. 1(7) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(1)(d)(i)
+[^F168]: Words in Sch. 1 para. 1(7)(b)(i) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(1)(d)(ii)
+[^F169]: Words in Sch. 1 para. 1(8) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(1)(e)
+[^F170]: Words in Sch. 1 para. 2(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(2)
+[^F171]: Words in Sch. 1 para. 2(3)(c) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(17)(a)
+[^F172]: Words in Sch. 1 para. 2(4) substituted (1.7.2012) by The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257), regs. 1(1), 17(17)(b)
+[^F173]: Words in Sch. 1 para. 3(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(3)(a)
+[^F174]: Words in Sch. 1 para. 3(2) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(3)(b)
+[^F175]: Words in Sch. 1 para. 3(3) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(3)(b)
+[^F176]: Words in Sch. 1 para. 3(7) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(3)(c)(i)
+[^F177]: Words in Sch. 1 para. 3(7)(b)(i) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(3)(c)(ii)
+[^F178]: Words in Sch. 1 para. 3(8) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(3)(d)
+[^F179]: Words in Sch. 1 para. 4(1) substituted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 101(4)
+[^F180]: Sch. 5 inserted (17.3.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293), regs. 2(1), 102
+[^F181]: Sch. 5 para. 1 omitted (1.7.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(a)
+[^F182]: Words in Sch. 5 para. 2 substituted (1.7.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(b)(i)
+[^F183]: Words in Sch. 5 paras. 2(a)-(g) substituted (1.7.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(b)(ii)
+[^F184]: Words in Sch. 5 para. 3 heading omitted (1.7.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(c)
+[^F185]: Words in Sch. 5 para. 3 omitted (1.7.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(d)(i)(aa)
+[^F186]: Words in Sch. 5 para. 3 substituted (1.7.2022) by The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(d)(i)(bb)
+[^F187]: Words in Sch. 5 para. 3(a) omitted (1.7.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(d)(ii)
+[^F188]: Words in Sch. 5 para. 3(b) omitted (1.7.2022) by virtue of The Goods Vehicles (Licensing of Operators) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/727), regs. 1(b), 10(d)(ii)

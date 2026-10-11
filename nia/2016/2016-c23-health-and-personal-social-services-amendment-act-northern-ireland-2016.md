@@ -1,0 +1,240 @@
+---
+title: "Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016"
+identifier: "nia/2016/23"
+citation: "2016 CHAPTER 23"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2016-05-12
+last_amended: 2022-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2016/23"
+source_modified: 2022-09-26
+retrieved: 2026-10-11
+---
+
+# Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016
+
+**2016 CHAPTER 23**
+
+An Act to Make provision about the Northern Ireland Social Care Council and other provision about social care workers.
+
+[12th May 2016]
+
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
+
+## 1 Additional powers in respect of registered persons
+
+In section 6(1) of the 2001 Act (removal etc from register) after paragraph (d)insert—
+
+> (da) a person's registration in a part of the register may be made subject to conditions (whether or not for a specified period);
+>
+> (db) the conditions to which a person's registration in a part of the register is subject may be varied or revoked;
+>
+> (dc) the duration for which a person's registration in a part of the register is subject to conditions may be varied;
+>
+> (dd) an agreement with a registered person that the person will comply with specified undertakings (whether or not for a specified period) may be made;
+>
+> (de) an agreement of a kind mentioned in paragraph (dd) may be varied or revoked;
+>
+> (df) a warning may be given to a registered person;
+>
+> (dg) advice may be given to a registered person;
+
+.
+
+## 2 Powers to obtain and disclose information etc
+
+(1) In the 2001 Act after section 7 insert—
+
+> **7A Power to obtain information etc**
+>
+> (1) The power under subsection (2) may be exercised for thepurpose of assisting the Council in performing a function under section 5, 5A or 6 in respect of a person (“the relevant person”).
+>
+> (2) If the Council considers that any person (except the relevant person)is able to provide information or produce a document that appears relevant to the performance of the function, it may by notice require the person to provide the information or produce the document.
+>
+> (3) Subsection (2) does not require or permit any disclosure ofinformation which is prohibited by or under any other statutory provision.
+>
+> (4) But where information is held in a form in which the prohibitionoperates because the information is capable of identifying an individual, the Council may, in exercising the power under subsection (2), require that the information be put into a form which is not capable of identifying that individual.
+>
+> (5) In determining for the purposes of subsection (3) whether adisclosure is not prohibited, by reason of being a disclosure of personal data which is exempt from the non-disclosure provisions of the Data Protection Act 1998 by virtue of section 35(1) of that Act, assume that the disclosure is required by this section.
+>
+> (6) Subsection (2) does not apply to information or a document whichthe person could not be compelled to provide or produce in civil proceedings before the county court.
+>
+> (7) If a person fails to provide any information or produce any documentwithin 14 days of the person being required to do so under this section, the Council may apply to the county court for an order requiring the information to be provided or the document to be produced.
+
+.
+
+(2) After section 7A insert—
+
+> **7B Investigations under section 6: information about, and to, a registered person's employers**
+>
+> (1) This section applies where a specified kind of investigationunder section 6 is being undertaken in respect of a registered person.
+>
+> (2) The Council may by notice require the registered person to givedetails of—
+>
+> (a) all relevant employers, and
+>
+> (b) any person who was a relevant employer at any time during a period stated in the notice.
+>
+> (3) The Council may notify any relevant employer of the investigation.
+>
+> (4) Section 7A(3), (5) and (7) apply for the purposes of subsection (2).
+>
+> (5) In this section—
+>
+> - “relevant employer” means—
+>
+>   - (a) any person who employs the registered person to do relevant work, and
+>   - (b) any person who has an arrangement with the registered person for the registered person to do relevant work;
+>
+> - “relevant work” means—
+>
+>   - (a) anything that, if done by a person, would result in the person being a social care worker, and
+>   - (b) anything done anywhere outside Northern Ireland that, if done in Northern Ireland by a person, would result in the person being a social care worker;
+>
+> - “specified” means specified by rules made by the Council.”.
+
+;
+
+(3) After section 16 insert—
+
+> **16A Publication etc of information about fitness to practise**
+>
+> (1) If it considers it is in the public interest to do so, the Councilmay publish or disclose to any person—
+>
+> (a) information relating to a particular registered person's fitness to practise, or
+>
+> (b) information of a particular description relating to the fitness to practise of—
+>
+> (i) every registered person, or
+>
+> (ii) every registered person of a particular description.
+>
+> (2) For the purposes of subsection (1)(b) the Council need not considerwhether it is in the public interest to publish or disclose the information in question in relation to each registered person to whom it relates.
+>
+> (3) In this section “information” includes—
+>
+> (a) information relating to, or arising, before a person's registration (as well as after it), and
+>
+> (b) information arising outside the United Kingdom (as well as in it).
+>
+> (4) In this section references to a registered person include a person whohas at any time been a registered person.
+
+.
+
+## 3 Social workers etc to be registered in Northern Ireland register
+
+(1) Section 8 of the 2001 Act (registration: enforcement) is amended as follows.
+
+(2) In subsection (1) for the words from “as a social worker” to the second “relevant register,” substitute “ in the register as a social worker or a visiting social worker from a relevant European State, ”.
+
+(3) In subsection (3) for “a relevant register” substitute “ the register ”.
+
+(4) Omit subsection (6).
+
+## 4 Recognition of attainment of standards by social workers
+
+(1) In the 2001 Act after section 10 insert—
+
+> **10A Recognition of attainment of standards by social workers**
+>
+> (1) The Council may—
+>
+> (a) make rules describing standards of proficiency that may be attained by persons who are social workers;
+>
+> (b) by rules make provision for and in connection with the recognition by the Council of the attainment of any standard of proficiency described in the rules.
+>
+> (2) Rules made by virtue of subsection (1)(b) may—
+>
+> (a) provide for the way in which a standard is to be attained in order for it to be recognised (which may be by completing a course or otherwise);
+>
+> (b) provide for the way in which the attainment of a standard is to be recognised (which may be by the award of a certificate or otherwise).
+>
+> (3) The Council may conduct, or make arrangements for the conduct of,assessments in connection with the recognition by the Council of the attainment of any standard of proficiency described in the rules.
+
+.
+
+(2) In section 18(2) of that Act (fees) after paragraph (b) insert—
+
+> (ba) assessments of a kind mentioned in section 10A(3);
+
+.
+
+## 5 Appeals to the Care Tribunal
+
+(1) For section 15 of the 2001 Act substitute—
+
+> **15 Appeals to the Care Tribunal**
+>
+> (1) A person may appeal to the Care Tribunal against a relevantdecision.
+>
+> (2) On the appeal, the Care Tribunal may—
+>
+> (a) confirm the decision,
+>
+> (b) set aside the decision, or
+>
+> (c) substitute for the decision appealed against any other decision that could have been made.
+>
+> (3) “Relevant decision” means—
+>
+> (a) a decision under this Part in respect of registration, and
+>
+> (b) a decision under Part 3 of the General Systems Regulations in respect of an aptitude test, or period of adaptation, in connection with a person's becoming permitted (by virtue of that Part of those regulations) to have access to, and to pursue, the profession of social worker in the United Kingdom.
+>
+> (4) In subsection (3)(a) the reference to a decision under this Part inrespect of registration includes a decision under section 6 to give a warning (but not a decision to enter into, vary or revoke an agreement of a kind mentioned in section 6(1)(dd) or a decision to give advice).
+
+.
+
+(2) Section 15 of the 2001 Act as substituted by subsection (1) applies in relation to an appeal made before, but not determined by, the time this section comes into operation (as well as in relation to appeals made after that time).
+
+## 6 Minor and consequential amendments
+
+(1) The 2001 Act is amended as follows.
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In sections 4(1), 5A(3), (6)(b) and (7) and 11(A1) omit “maintained by the Council”.
+
+(4) In section 18 (rules) after subsection (3) insert—
+
+> (4) Rules under this Part may contain transitional, transitory or savingprovision.
+>
+> (5) Transitional provision made by rules under section 6 may inparticular provide that where a person appeals against a decision made before the coming into operation of the rules (or any amendment of the rules), for the purposes of section 15(2)(c) the rules are (or the amendment is) to be treated as having been in operation at the time of that decision.
+
+.
+
+(5) In section 22 (interpretation)—
+
+(a) the existing provision becomes subsection (1) of that section;
+
+(b) after that subsection insert—
+
+> (2) In this Part—
+>
+> - “the register” means the register maintained under section 3;
+> - “registered person” means a person registered in a part of the register.
+
+.
+
+(6) In section 57(1) (regulations and orders) for “subsections (2) and (3)” substitute “ subsection (2) ”.
+
+## 7 Interpretation
+
+In this Act “the 2001 Act” means the Health and Personal Social Services Act(Northern Ireland) 2001.
+
+## 8 Commencement
+
+This Act comes into operation on the day after Royal Assent.
+
+## 9 Short title
+
+This Act may be cited as the Health and Personal Social Services(Amendment) Act (Northern Ireland) 2016.
+
+---
+
+[^F1]: S. 6(2) omitted (1.4.2022) by virtue of Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 255; S.R. 2022/102, art. 2(b)

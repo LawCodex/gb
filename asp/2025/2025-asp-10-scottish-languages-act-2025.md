@@ -326,7 +326,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
-(2) In the italic heading immediately preceding section 2, for “*National Gaelic language plan”*substitute “*National Gaelic language strategy and standards”.*
+(2) In the italic heading immediately preceding section 2, for “*National Gaelic language plan”* substitute “*National Gaelic language strategy and standards”.*
 
 (3) After section 2 insert—
 

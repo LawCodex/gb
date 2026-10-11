@@ -1,0 +1,492 @@
+---
+title: "Carers and Direct Payments Act (Northern Ireland) 2002"
+identifier: "nia/2002/6"
+citation: "2002 CHAPTER 6"
+type: act
+legislation_type: nia
+jurisdiction: gb
+language: en
+extent: "N.I."
+date: 2002-05-02
+last_amended: 2022-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/nia/2002/6"
+source_modified: 2022-09-21
+retrieved: 2026-10-11
+---
+
+# Carers and Direct Payments Act (Northern Ireland) 2002
+
+**2002 CHAPTER 6**
+
+An Act to make provision about the assessment of carers' needs; to provide for services to help carers; to provide for the making of direct payments to persons in lieu of the provision of personal social services or carers' services; and for connected purposes.
+
+[2nd May 2002]
+
+## Carers: assessments and services
+
+### 1 Right of carers to assessment
+
+(1) Where—
+
+(a) the carer of an adult requests an authority to carry out an assessment of the carer's ability to provide and to continue to provide care for the person cared for; and
+
+(b) the authority is satisfied that the person cared for is someone for whom it may provide [[^F1]social care],
+
+the authority shall carry out such an assessment.
+
+(2) Where—
+
+(a) an authority carries out an assessment under the 1972 Order of the needs of a person for [[^F1]social care]; and
+
+(b) a carer of that person requests the authority, before it makes a decision as to whether the needs of that person call for the provision of any [[^F1]social care], to carry out an assessment of the carer's ability to provide and to continue to provide care for that person,
+
+the authority—
+
+(i) shall carry out such an assessment; and
+
+(ii) shall take the results of that assessment into account in deciding what, if any, [[^F1]social care] to provide to that person.
+
+(3) Subsections (1) and (2) do not apply if the carer provides or will provide the care in question—
+
+(a) by virtue of a contract of employment or other contract with any person; or
+
+(b) as a volunteer for a voluntary organisation.
+
+[[^F2](4) An assessment under this section is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.]
+
+(5) For the purposes of an assessment under this section, the authority may take into account, so far as it considers it to be material, any other assessment made under this section or Article 18A of the Children Order.
+
+(6) Section 8 of the Disabled Persons (Northern Ireland) Act 1989 (c. 10) (duty of authority to take into account ability of carer of disabled person) does not apply in any case where an assessment is made under subsection (2) in respect of the carer in question.
+
+### 2 Services for carers
+
+(1) Where an authority carries out an assessment under section 1(1) in respect of a carer, it shall consider the assessment and decide—
+
+(a) whether the carer has needs in relation to the care which he provides or intends to provide;
+
+(b) if so, whether they could be satisfied (wholly or partly) by services which the authority may provide; and
+
+(c) if they could be so satisfied, whether or not to provide services to the carer.
+
+(2) The services referred to are any services which—
+
+(a) the authority sees fit to provide; and
+
+(b) will in the authority's view help the carer care for the person cared for,
+
+and may take the form of physical help or other forms of support.
+
+(3) A service, although provided to the carer, may take the form of a service delivered to the person cared for if—
+
+(a) it is one which, if provided to him instead of to the carer, could fall within [[^F3]social care]; and
+
+(b) they both agree it is to be so delivered;
+
+but if a service is delivered to the person cared for it may not, except in prescribed circumstances, include anything of an intimate nature.
+
+(4) Regulations may make provision about what is, or is not, of an intimate nature for the purposes of subsection (3).
+
+(5) The authority may make in respect of any services provided under this section such charges (if any) as the authority may determine; and any sum falling to be paid to the authority by virtue of this subsection shall be recoverable as a debt due to the authority.
+
+(6) [[^F3]Social care] shall not be provided to a carer solely by reason of his needs in relation to the care he provides or intends to provide.
+
+(7) Subsection (9) applies if an authority—
+
+(a) is either providing services under this section to the carer, or is providing [[^F3]social care] to or in respect of the person cared for (but not both); and
+
+(b) proposes to provide another service to (or in respect of) the one who is not receiving any such service,
+
+and the new service, or any service already being provided, is one which could be provided either under this section, or by way of [[^F3]social care].
+
+(8) Subsection (9) also applies if—
+
+(a) an authority is not providing services to the carer (under this section) or to the person cared for (by way of [[^F3]social care]), but proposes to provide services to each of them following an assessment under section 1(1) and under the 1972 Order; or
+
+(b) an authority is providing services both to the carer (under this section) and to the person cared for (by way of [[^F3]social care]), and proposes to provide to either of them a new service,
+
+and (in a paragraph (a) case) any of the services, or (in a paragraph (b) case) the new service, is one which could be provided either under this section, or by way of [[^F3]social care].
+
+(9) In the case of each such service, the authority shall decide whether the service is, or is in future, to be provided under this section, or by way of [[^F3]social care] (and hence whether it is, or is in future, to be provided to the carer, or to the person cared for).
+
+(10) The authority's decision under subsection (9) is to be made without regard to the means of the carer or of the person cared for.
+
+### 3 Vouchers
+
+(1) Regulations may make provision for the issue of vouchers by an authority.
+
+(2) “Voucher” means a document whereby, if an authority agrees with the carer that it would help him care for the person cared for if the carer had a break from caring, the person cared for may secure that services in lieu of the care which would otherwise have been provided to him by the carer are delivered temporarily to him by another person by way of [[^F4]social care].
+
+(3) The regulations may, in particular, provide—
+
+(a) for the value of a voucher to be expressed in terms of money, or of the delivery of a service for a period of time, or both;
+
+(b) for the person who supplies a service against a voucher, or for the arrangement under which it is supplied, to be approved by the authority;
+
+(c) for vouchers to be issued to the carer or to the person cared for;
+
+(d) for a maximum period during which a service (or a service of a prescribed description) can be provided against a voucher.
+
+### 4 Assessments and services for children who are carers
+
+After Article 17 of the Children Order there shall be inserted—
+
+> **17A Assessments and services for children who are carers**
+>
+> (1) If —
+>
+> (a) a child ( “the carer”) provides or intends to provide a substantial amount of care on a regular basis for a person aged 18 or over;
+>
+> (b) the child requests an authority to carry out an assessment for the purposes of determining whether he is to be taken to be in need for the purposes of this Part; and
+>
+> (c) the authority is satisfied that the person cared for is someone for whom it may provide [[^F5]social care],
+>
+> the authority—
+>
+> (i) shall carry out such an assessment; and
+>
+> (ii) taking the results of that assessment into account, shall determine whether the child is to be taken to be in need for the purposes of this Part.
+>
+> (2) Paragraph (1) does not apply if the child provides or will provide the care in question—
+>
+> (a) by virtue of a contract of employment or other contract with any person; or
+>
+> (b) as a volunteer for a voluntary organisation.
+>
+> (3) Subject to any directions given by the Department to the authority under—
+>
+> (a) Article 17 of the Health and Personal Social Services (Northern Ireland) Order 1972 (in the case of a Board); or
+>
+> (b) paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991 (NI 1)(in the case of an [[^F6]HSC trust]),
+>
+> an assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate.
+
+.
+
+## Carers of disabled children: assessments and vouchers
+
+### 5 Assessments: carers of disabled children
+
+After Article 18 of the Children Order there shall be inserted—
+
+> **18A Assessments: carers of disabled children**
+>
+> (1) Where—
+>
+> (a) the carer of a disabled child who has parental responsibility for the child requests an authority to carry out an assessment of the carer's ability to provide and to continue to provide care for the child; and
+>
+> (b) the authority is satisfied that the child and his family are persons for whom it may provide services under Article 18,
+>
+> the authority—
+>
+> (i) shall carry out such an assessment; and
+>
+> (ii) shall take the results of that assessment into account when deciding what, if any, services to provide under Article 18.
+>
+> (2) Where—
+>
+> (a) an authority carries out an assessment of the needs of a disabled child for the purposes of this Part or section 2 of the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 (c. 53); and
+>
+> (b) the carer of that child requests the authority, before it makes a decision as to whether the needs of that child call for the provision of any services, to carry out an assessment of the carer's ability to provide and to continue to provide care for that child,
+>
+> the authority—
+>
+> (i) shall carry out such an assessment; and
+>
+> (ii) shall take the results of that assessment into account in deciding what, if any, services to provide.
+>
+> (3) Paragraph (2) does not apply if the carer provides or will provide the care in question—
+>
+> (a) by virtue of a contract of employment or other contract with any person; or
+>
+> (b) as a volunteer for a voluntary organisation.
+>
+> (4) Subject to any directions given by the Department to the authority under—
+>
+> (a) Article 17 of the Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14) (in the case of a Board); or
+>
+> (b) paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991 (in the case of an [[^F7]HSC trust]),
+>
+> an assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate.
+>
+> (5) For the purposes of an assessment under this Article, the authority may take into account, so far as it considers it to be material, any other assessment made under this Article.
+>
+> (6) Section 8 of the Disabled Persons (Northern Ireland) Act 1989 (c. 10) (duty of authority to take into account ability of carer of disabled person) does not apply in any case where an assessment is made under subsection (2).
+>
+> (7) In this Article “carer”, in relation to a disabled child, means an individual who provides or intends to provide a substantial amount of care on a regular basis for that child.
+
+.
+
+### 6 Vouchers for persons with parental responsibility for disabled children
+
+After Article 18A of the Children Order there shall be inserted—
+
+> **18B Vouchers for persons with parental responsibility for disabled children**
+>
+> (1) The Department may by regulations make provision for the issue by an authority of vouchers to a person with parental responsibility for a disabled child.
+>
+> (2) “Voucher” means a document whereby, if the authority agrees with the person with parental responsibility that it would help him care for the child if the person with parental responsibility had a break from caring, that person may secure the temporary provision of services for the child under Article 18.
+>
+> (3) The regulations may, in particular, provide—
+>
+> (a) for the value of a voucher to be expressed in terms of money, or of the delivery of a service for a period of time, or both;
+>
+> (b) for the person who supplies a service against a voucher, or for the arrangement under which it is supplied, to be approved by the authority;
+>
+> (c) for a maximum period during which a service (or a service of a prescribed description) can be provided against a voucher.
+
+.
+
+## Information for carers
+
+### 7 Information for carers
+
+(1) An authority shall take such steps as are reasonably practicable to ensure—
+
+(a) that information is generally available in its area concerning the right of a carer to request an assessment under section 1(1) or (2); and
+
+(b) that those in its area who might benefit from such an assessment receive the information relevant to them;
+
+and nothing in subsection (2) or (3) prejudices the generality of this subsection.
+
+(2) Where it appears to an authority that—
+
+(a) an adult is cared for by a carer; and
+
+(b) the adult is a person for whom the authority may provide [[^F8]social care],
+
+the authority shall notify the carer that he may be entitled to request an assessment under section 1(1).
+
+(3) Where—
+
+(a) an authority proposes to carry out an assessment under the 1972 Order of the needs of a person for [[^F9]social care]; and
+
+(b) it appears to the authority that that person is cared for by a carer,
+
+the authority shall notify the carer that he may be entitled to request an assessment under section 1(2).
+
+(4) After Article 18C of the Children Order (inserted by section 9) there shall be inserted—
+
+> **18D Information for carers**
+>
+> (1) An authority shall take such steps as are reasonably practicable to ensure—
+>
+> (a) that information is generally available in its area concerning the right of a person to request an assessment under Article 17A or 18A; and
+>
+> (b) that those in its area who might benefit from such an assessment receive the information relevant to them;
+>
+> and nothing in paragraph (2) or (3) prejudices the generality of this paragraph.
+>
+> (2) Where it appears to an authority that—
+>
+> (a) a child ( “the carer”) provides or intends to provide a substantial amount of care on a regular basis for a person aged 18 or over; and
+>
+> (b) the person cared for is someone for whom it may provide [[^F9]social care],
+>
+> the authority shall notify the carer that he may be entitled to request an assessment under Article 17A(1).
+>
+> (3) Where it appears to an authority that—
+>
+> (a) a disabled child is cared for by a carer who has parental responsibility for the child; and
+>
+> (b) the disabled child and his family are persons for whom the authority may provide services under Article18,
+>
+> the authority shall notify the carer that he may be entitled to request an assessment under Article 18A(1).
+>
+> (4) Where—
+>
+> (a) an authority proposes to carry out an assessment of the needs of a disabled child for the purposes of this Part or section 2 of the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 (c. 53); and
+>
+> (b) it appears to the authority that that child is cared for by a carer,
+>
+> the authority shall notify the carer that he may be entitled to request an assessment under Article 18A(2).
+
+.
+
+## Direct payments
+
+### 8 Direct payments
+
+(1) Regulations may make provision for and in connection with requiring or authorising an authority in the case of a person of a prescribed description who falls within subsection (2) to make, with that person's consent, such payments to him as the authority may determine in accordance with the regulations in respect of his securing the provision of the service mentioned in paragraph (a) or (b) of that subsection.
+
+(2) A person falls within this subsection if the authority has decided—
+
+(a) under the 1972 Order that his needs call for the provision by it of a particular [[^F10]social care service]; or
+
+(b) under section 2(1) to provide him with a particular service under that section.
+
+(3) Regulations under this section may, in particular, make provision—
+
+(a) specifying circumstances in which the authority is not required or authorised to make any payments under the regulations to a person, whether those circumstances relate to the person in question or to the particular service mentioned in subsection (2)(a) or (b);
+
+(b) for any payments required or authorised by the regulations to be made to a person by the authority ( “direct payments”) to be made to that person ( “the payee”) as gross payments or alternatively as net payments;
+
+(c) for the authority to make for the purposes of subsection (4) or (5) such determinations as to—
+
+(i) the payee's means; and
+
+(ii) the amount (if any) which it would be reasonably practicable for him to pay to the authority by way of reimbursement or contribution,
+
+as may be prescribed;
+
+(d) as to the conditions falling to be complied with by the payee which must or may be imposed by the authority in relation to the direct payments (and any conditions which may not be so imposed);
+
+(e) specifying circumstances in which the authority—
+
+(i) may or must terminate the making of direct payments;
+
+(ii) may require repayment (whether by the payee or otherwise) of the whole or part of the direct payments);
+
+(f) for any sum falling to be paid or repaid to the authority by virtue of any condition or other requirement imposed in pursuance of the regulations to be recoverable as a debt due to the authority;
+
+(g) displacing functions or obligations of the authority with respect to the provision of the service mentioned in subsection (2)(a) or (b) only to such extent, and subject to such conditions, as may be prescribed;
+
+(h) authorising direct payments to be made to any prescribed person on behalf of the payee.
+
+(4) For the purposes of subsection (3)(b) “gross payments” means payments—
+
+(a) which are made at such rate as the authority estimates to be equivalent to the reasonable cost of securing the provision of the service concerned; but
+
+(b) which may be made subject to the condition that the payee pays to the authority, by way of reimbursement, an amount or amounts determined under the regulations.
+
+(5) For the purposes of subsection (3)(b) “net payments” means payments—
+
+(a) which are made on the basis that the payee will himself pay an amount or amounts determined under the regulations by way of contribution towards the cost of securing the provision of the service concerned; and
+
+(b) which are accordingly made at such a rate below that mentioned in subsection (4)(a) as reflects any such contribution by the payee.
+
+(6) Regulations made for the purposes of subsection (3)(a) may provide that direct payments shall not be made in respect of the provision of residential accommodation for any person for a period in excess of a prescribed period.
+
+*Subs. (7)—Repeals*
+
+[[^F11](8) In this section “social care service” means a service designed to secure any of the objects of section 2(1)(b) of the Health and Social Care (Reform) Act (Northern Ireland) 2009.]
+
+### 9 Direct payments in respect of children
+
+After Article 18B of the Children Order there shall be inserted—
+
+> **18C Direct payments**
+>
+> (1) The Department may by regulations make provision for and in connection with requiring or authorising an authority in the case of a person of a prescribed description who falls within paragraph (2) to make, with that person's consent, such payments to him as the authority may determine in accordance with the regulations in respect of his securing the provision of the service mentioned in that paragraph.
+>
+> (2) A person falls within this paragraph if he is—
+>
+> (a) a person with parental responsibility for a disabled child;
+>
+> (b) a disabled person with parental responsibility for a child; or
+>
+> (c) a disabled child aged 16 or 17,
+>
+> and the authority has decided for the purposes of Article 18 that the child's needs (or, if he is such a disabled child, his needs) call for the provision by it of a service under that Article.
+>
+> (3) Regulations under this Article may, in particular, make provision—
+>
+> (a) specifying circumstances in which the authority is not required or authorised to make any payments under the regulations to a person, whether those circumstances relate to the person in question or to the particular service mentioned in paragraph (2);
+>
+> (b) for any payments required or authorised by the regulations to be made to a person by the authority ( “direct payments”) to be made to that person ( “the payee”) as gross payments or alternatively as net payments;
+>
+> (c) for the authority to make for the purposes of paragraph (4) or (5) such determinations as to—
+>
+> (i) the payee's means; and
+>
+> (ii) the amount (if any) which it would be reasonably practicable for him to pay to the authority by way of reimbursement or contribution,
+>
+> as may be prescribed;
+>
+> (d) as to the conditions falling to be complied with by the payee which must or may be imposed by the authority in relation to the direct payments (and any conditions which may not be so imposed);
+>
+> (e) specifying circumstances in which the authority—
+>
+> (i) may or must terminate the making of direct payments;
+>
+> (ii) may require repayment (whether by the payee or otherwise) of the whole or part of the direct payments);
+>
+> (f) for any sum falling to be paid or repaid to the authority by virtue of any condition or other requirement imposed in pursuance of the regulations to be recoverable as a debt due to the authority;
+>
+> (g) displacing functions or obligations of the authority with respect to the provision of the service mentioned in paragraph (2) only to such extent, and subject to such conditions, as may be prescribed;
+>
+> (h) authorising direct payments to be made to any prescribed person on behalf of the payee.
+>
+> (4) For the purposes of paragraph (3)(b) “gross payments” means payments—
+>
+> (a) which are made at such rate as the authority estimates to be equivalent to the reasonable cost of securing the provision of the service concerned; but
+>
+> (b) which may be made subject to the condition that the payee pays to the authority, by way of reimbursement, an amount or amounts determined under the regulations.
+>
+> (5) For the purposes of paragraph (3)(b) “net payments” means payments—
+>
+> (a) which are made on the basis that the payee will himself pay an amount or amounts determined under the regulations by way of contribution towards the cost of securing the provision of the service concerned; and
+>
+> (b) which are accordingly made at such a rate below that mentioned in paragraph (4)(a) as reflects any such contribution by the payee.
+>
+> (6) Regulations under this section shall provide that, where payments are made under the regulations to a person falling within paragraph (7)—
+>
+> (a) the payments shall be made at the rate mentioned in paragraph (4)(a); and
+>
+> (b) paragraph (4)(b) shall not apply.
+>
+> (7) A person falls within this subsection if he is—
+>
+> (a) a person falling within paragraph (2)(a) or (b) and the child in question is aged 16 or 17; or
+>
+> (b) a person who is in receipt of income support, working families' tax credit or disabled person's tax credit under Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) or of an income-based jobseeker's allowance.
+>
+> (8) Regulations made for the purposes of paragraph (3)(a) may provide that direct payments shall not be made in respect of the provision of residential accommodation for any person for a period in excess of a prescribed period.
+>
+> (9) In this Article “prescribed” means specified in or determined in accordance with regulations under this Article.
+
+.
+
+## Supplementary
+
+### 10 Interpretation and regulations
+
+(1) In this Act—
+
+- “the 1972 Order” means the Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14);
+- “area”, in relation to an authority, has the same meaning as in the Children Order;
+- “carer”, in relation to any person ( “the person cared for”), means an individual aged 16 or over who provides or intends to provide a substantial amount of care on a regular basis for that person;
+- “adult” means a person aged 18 or over;
+- “the Children Order” means the Children (Northern Ireland) Order 1995 (NI 2);
+- “the Department” means the Department of Health, Social Services and Public Safety;
+- “prescribed” means specified in or determined in accordance with regulations;
+- “regulations” means regulations made by the Department.
+
+(2) Subject to subsection (1), this Act shall be construed as one with the 1972 Order.
+
+[[^F12](3) In this Act “authority”, in relation to a person, means the HSC trusting whose area the person resides.]
+
+(4) References in this Act (however expressed) to services provided by an authority include services which the authority arranges to provide, where it has power to do so.
+
+(5) Regulations under this Act may include such supplementary, incidental, consequential and transitional provisions and savings as the Department thinks fit.
+
+(6) Regulations under this Act shall be subject to negative resolution.
+
+### 11 Commencement
+
+(1) The preceding provisions of this Act come into operation on such day or days as the Department may by order appoint[^F13].
+
+(2) An order under this section may contain such transitional provisions and savings as the Department thinks necessary or expedient.
+
+### 12 Short title
+
+This Act may be cited as the Carers and Direct Payments Act (Northern Ireland) 2002.
+
+*Schedule—Repeals*
+
+---
+
+[^F1]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F2]: S. 1(4) substituted (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 190(2); S.R. 2022/102, art. 2(b)
+[^F3]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F4]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F5]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F6]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F7]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(d) (with Sch. 6 para. 1(3)); S.R. 2009/114, art. 2
+[^F8]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F9]: Words in Act substituted (1.4.2009) by Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1), ss. 32, 34(3), Sch. 6 para. 1(1)(a) (with Sch. 6 para. 1(2)(3)); S.R. 2009/114, art. 2
+[^F10]: Words in s. 8(2)(a) substituted (11.4.2014) by Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5), Sch. para. 3(a)
+[^F11]: S. 8(8) inserted (11.4.2014) by Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5), Sch. para. 3(b)
+[^F12]: S. 10(3) substituted (1.4.2022) by Health and Social Care Act (Northern Ireland) 2022 (c. 3), s. 8(1)(b), Sch. 1 para. 190(3); S.R. 2022/102, art. 2(b)
+[^F13]: partly exercised by SR 2003/201; 2004/119
