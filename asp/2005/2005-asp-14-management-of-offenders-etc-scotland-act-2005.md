@@ -1,0 +1,843 @@
+---
+title: "Management of Offenders etc. (Scotland) Act 2005"
+identifier: "asp/2005/14"
+citation: "2005 asp 14"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2005-12-08
+last_amended: 2019-10-11
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2005/14"
+source_modified: 2019-11-27
+retrieved: 2026-10-11
+---
+
+# Management of Offenders etc. (Scotland) Act 2005
+
+**2005 asp 14**
+
+An Act of the Scottish Parliament to make provision for the establishment of community justice authorities; to make further provision for the supervision and care of persons put on probation or released from prison etc.; to make further provision as respects the procedures etc. of the Risk Management Authority; to make further provision as respects the powers of the High Court following the submission of a risk assessment report or of a report under section 210D of the Criminal Procedure (Scotland) Act 1995; to amend Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 so as to make further provision as respects the release of prisoners on licence; to make further provision for testing prisoners for drugs; to make further provision as respects the jurisdiction of the Scottish courts in proceedings for offences in relation to the notification requirements of Part 2 of the Sexual Offences Act 2003; to make further provision as respects proceedings in relation to an objection to the content of a risk assessment report; to make provision about the recovery of compensation from offenders; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 3rd November 2005 and received Royal Assent on 8 December 2005
+
+## Co-operation
+
+### 1 Duty to co-operate
+
+(1) The [[^F1]following public authorities] are to co-operate with one another in carrying out their respective functions in relation to relevant persons [[^F2]—
+
+(a) the Scottish Ministers,
+
+(b) local authorities,
+
+(c) the Scottish Courts and Tribunals Service,
+
+(d) the chief constable of the Police Service of Scotland].
+
+(2) In this Act—
+
+(a) to “co-operate” may, without prejudice to the generality of that expression, include to exchange information (“co-operation” being construed accordingly); and
+
+(b) “relevant person” means—
+
+(i) a person who is supervised by, provided with advice, guidance or assistance by, or the subject of a report by a local authority [^F3]... as part of the provision by the local authority [^F4]... of a service for the purposes mentioned in any of sections 27(1) or (1A) or 27ZA of the Social Work (Scotland) Act 1968 (c. 49) (supervision and care of persons put on probation or released from prison etc.); or
+
+(ii) any other person if that person is detained in custody.
+
+(3) The reference in subsection (1) to the Scottish Ministers is to the Scottish Ministers in exercise of their functions under the Prisons (Scotland) Act 1989 (c. 45) [[^F5] and Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9) ].
+
+### 2 Co-operation for purposes of inspections
+
+(1) Where any person mentioned in subsection (2) is conducting an inspection of the provision of services to relevant persons, the persons mentioned in that subsection may co-operate with one another for the purposes of that inspection.
+
+(2) The persons are—
+
+(a) Her Majesty's Chief Inspector of Prisons for Scotland;
+
+(b) Her Majesty's Chief Inspector of Constabulary;
+
+[[^F6](c) Social Care and Social Work Improvement Scotland.]
+
+(3) The Scottish Ministers may by order made by statutory instrument amend the list of persons in subsection (2).
+
+(4) A statutory instrument containing an order under subsection (3) is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+## Community justice authorities
+
+### [^F7]3 Community justice authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]4 Further provisions as respects community justice authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]5 Special duties of chief officer of community justice authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]6 Power of Scottish Ministers to require action by community justice authority: failure by that authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]7 Power of Scottish Ministers to require action by community justice authority: failure by local authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]8 Transfer of functions to community justice authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F7]9 Transfer of property to community justice authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Assessing and managing risks posed by certain offenders
+
+### 10 Arrangements for assessing and managing risks posed by certain offenders
+
+(1) Subject to subsection (11), the responsible authorities for the area of a local authority must jointly establish arrangements for the assessment and management of the risks posed in that area by any person who—
+
+(a) is subject to the notification requirements of Part 2 of the Sexual Offences Act 2003 (c. 42);
+
+(b) has been convicted on indictment of an offence inferring personal violence and—
+
+[[^F8](i) is subject to a community payback order imposed under section 227A of the Criminal Procedure (Scotland) Act 1995 (c.46) imposing an offender supervision requirement (within the meaning given by section 227G(1) of that Act) whether alone or along with any other requirement, or]
+
+(ii) is required, having been released from imprisonment or detention, (or will be required when so released), to be under supervision under any enactment or by the terms of an order or licence of the Scottish Ministers or of a condition or requirement imposed in pursuance of an enactment;
+
+(c) has, in proceedings on indictment, been acquitted of an offence inferring personal violence if—
+
+(i) the acquittal is [[^F9]by reason of the special defence set out in section 51A of that Act of 1995]; and
+
+(ii) a restriction order is made in respect of the person under section 59 of that Act of 1995 (hospital orders: restriction on discharge);
+
+(d) has been prosecuted on indictment for such an offence but found, under [[^F10]section 53F of that Act of 1995 (unfitness for trial) to be unfit for trial;]
+
+(e) has been convicted of an offence if, by reason of that conviction, the person is considered by the responsible authorities to be a person who may cause serious harm to the public at large.
+
+(2) It is immaterial—
+
+(a) for the purposes of paragraph (a) of subsection (1), where the offence by virtue of which the person is subject to the notification requirements was committed (or, if the person is subject to the notification requirements by virtue of a finding under section 80(1)(b) of the Sexual Offences Act 2003 (c. 42), where anything that he was charged with having done took place);
+
+(b) for the purposes of paragraph (b) or (e) of that subsection, where the offence of which the person has been convicted was committed; or
+
+(c) for the purposes of paragraph (c) or (d) of that subsection, where anything that the person was charged with having done took place.
+
+(3) Subject to subsection (11), in the establishment and implementation of those arrangements, the responsible authorities must act in co-operation with such persons as the Scottish Ministers may, by order made by statutory instrument, specify.
+
+(4) Subject to subsection (11), it is the duty of—
+
+(a) any persons specified under subsection (3) to co-operate; and
+
+(b) the responsible authorities to co-operate with each other,
+
+in the establishment and implementation of those arrangements; but only to the extent that such co-operation is compatible with the exercise by those persons and authorities of their functions under any other enactment.
+
+(5) In the area of each local authority the responsible authorities and the persons specified under subsection (3) must together draw up a memorandum setting out the ways in which they are to co-operate with each other.
+
+(6) The Scottish Ministers may issue guidance to responsible authorities on the discharge of the functions conferred on those authorities by this section and section 11.
+
+(7) In this section and in section 11, the “responsible authorities” for the area of a local authority are—
+
+[[^F11](a) the chief constable of the Police Service of Scotland;]
+
+(b) the local authority;
+
+(c) a Health Board or Special Health Board for an area any part of which is comprised within the area of the local authority; and
+
+(d) the Scottish Ministers.
+
+(8) The Scottish Ministers may by order made by statutory instrument amend the definition of the “responsible authorities” in subsection (7).
+
+(9) A statutory instrument containing an order under—
+
+(a) subsection (3) is subject to annulment in pursuance of a resolution of the Parliament;
+
+(b) subsection (8) is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+(10) Different provision may be made under subsection (3) for different purposes and for different areas.
+
+(11) The functions and duties, under the preceding provisions of this section and under section 11, of the responsible authorities mentioned in subsection (7)(c) extend only to the establishment, implementation and review of arrangements for the assessment and management of—
+
+(a) persons subject to an order under section 57(2)(b) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (imposition of special restrictions in disposal of case where accused found [[^F12]not criminally responsible or unfit for trial ]);
+
+(b) those subject to a restriction order under section 59 of that Act (provision for restrictions on discharge);
+
+(c) those subject to a hospital direction under section 59A of that Act (direction authorising removal to and detention in specified hospital); or
+
+(d) those subject to a transfer for treatment direction under section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) (transfer of prisoners for treatment for mental disorder).
+
+(12) But it is the duty of the responsible authorities mentioned in subsection (7)(c) to co-operate (to the extent mentioned in subsection (4)) with the other responsible authorities, with each other and with any persons specified under subsection (3), in the establishment and implementation of arrangements for the assessment and management of persons other than those mentioned in paragraphs (a) to (d) of subsection (11).
+
+(13) In subsection (7)(c)—
+
+- “Health Board” means a board constituted by order under section 2(1)(a) of the National Health Service (Scotland) Act 1978 (c. 29); and
+- “Special Health Board” means a board so constituted under section 2(1)(b) of that Act.
+
+(14) The reference in subsection (7)(d) to the Scottish Ministers is to the Scottish Ministers in exercise of their functions under the Prisons (Scotland) Act 1989 (c. 45).
+
+### 11 Review of arrangements
+
+(1) The responsible authorities must keep the arrangements established by them under section 10 under review for the purpose of monitoring the effectiveness of those arrangements and making any changes to them that appear necessary or expedient.
+
+(2) As soon as practicable after the end of each period of 12 months beginning with 1st. April, the responsible authorities must—
+
+(a) jointly prepare a report on the discharge by them during that period of the functions conferred by section 10;
+
+(b) publish the report in the area of the local authority; and
+
+[^F13]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must include—
+
+(a) details of the arrangements established by the responsible authorities; and
+
+(b) information of such description as the Scottish Ministers have notified to the responsible authorities that they wish to be included in the report.
+
+[[^F14](4) Publication, for the purposes of subsection (2)(b), must be in such manner as will ensure that the report is likely to come to the attention of the other community justice partners for the area of the local authority.
+
+(5) The reference in subsection (4) to “the other community justice partners for the area of the local authority” is to the persons—
+
+(a) who are community justice partners for the area of the local authority, but
+
+(b) who are not responsible authorities for the area of the local authority.
+
+(6) The reference in subsection (5)(a) to “community justice partners for the area of the local authority” has the same meaning as in the Community Justice (Scotland) Act 2016 (see section 13(2) of that Act).]
+
+## Probation progress review
+
+### 12 Probation progress review
+
+[^F15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Accreditation etc.
+
+### 13 Scheme of accreditation and procedure etc. of the Risk Management Authority
+
+(1) The Criminal Justice (Scotland) Act 2003 (asp 7) is amended as follows.
+
+(2) In section 11 (accreditation, education and training), after subsection (1) insert—
+
+> (1A) The order may authorise—
+>
+> (a) decisions as to cases arising in relation to a scheme of accreditation to be taken by a committee; and
+>
+> (b) any appeal as to such a decision to be determined by a committee,
+>
+> in accordance with such procedure as may be prescribed; and without prejudice to the generality of this subsection the order may make provision as to the membership of the committees and as to any quorum.
+
+.
+
+(3) In paragraph 4 of schedule 2 (constitution etc. of the Risk Management Authority)—
+
+(a) for sub-paragraph (1) substitute—
+
+> (1) Subject to any order under subsection (1) of section 11 of this Act, the Authority may—
+>
+> (a) make provision for the appointment and constitution of committees and sub-committees;
+>
+> (b) make provision for the exercise of any of its functions by any of its committees, sub-committees, members or employees; and
+>
+> (c) regulate its own procedure and the procedure of—
+>
+> (i) any of its committees or sub-committees (including any such committee as is mentioned in paragraph (a) or (b) of subsection (1A) of that section); or
+>
+> (ii) any member or employee to whom a function has been delegated under head (b) above.
+>
+> (1A) Delegation under sub-paragraph (1)(b) is to be without prejudice to the power of the Authority itself to exercise the function in question.
+>
+> (1B) Without prejudice to the generality of head (c) of sub-paragraph (1), regulation under that head may include provision as to any quorum.
+
+; and
+
+(b) in sub-paragraph (2), after “Authority” insert “ or of any of its committees or sub-committees or of any of its members by whom functions are exercised by virtue of sub-paragraph (1)(b) ”.
+
+## Orders after assessment of risk
+
+### 14 Orders after assessment of risk
+
+(1) The Criminal Procedure (Scotland) Act 1995 (c. 46) is amended as follows.
+
+(2) In section 210F(1) (making of order for lifelong restriction)—
+
+(a) in paragraph (a), for the word “a” substitute “ any ”;
+
+(b) for the words from “shall” to the end substitute “ , in a case where it may make a compulsion order in respect of the convicted person under section 57A of this Act, either make such an order or make an order for lifelong restriction in respect of that person and in any other case make an order for lifelong restriction in respect of that person. ”.
+
+(3) The title of section 210F becomes “ Order for lifelong restriction or compulsion order ”.
+
+## Amendment of Prisoners and Criminal Proceedings (Scotland) Act 1993
+
+### 15 Amendment of Prisoners and Criminal Proceedings (Scotland) Act 1993
+
+(1) The 1993 Act is amended as follows.
+
+(2) In section 1(1) (release of short-term prisoners), after “short-term prisoner” insert “ , not being a prisoner to whom section 1AA of this Act applies, ”.
+
+(3) After section 1 insert—
+
+> **1AA Release of certain sexual offenders**
+>
+> (1) As soon as a prisoner to whom this section applies has served one-half of his sentence the Scottish Ministers are to release him on licence.
+>
+> (2) This section applies to any short-term prisoner—
+>
+> (a) sentenced to a term of 6 months or more; and
+>
+> (b) who, by virtue of the conviction in respect of which that sentence was imposed, is subject to the notification requirements of Part 2 of the Sexual Offences Act 2003 (c. 42).
+>
+> (3) It is immaterial, for the purposes of subsections (1) and (2) above, when the offence of which the prisoner was convicted was committed.
+>
+> (4) But this section does not apply to a prisoner who was released under section 1(1) of this Act in relation to the sentence mentioned in subsection (2)(a) above before the date on which section 15(3) of the Management of Offenders etc. (Scotland) Act 2005 (asp 14) came into force (except that where the prisoner is serving terms which by virtue of section 27(5) of this Act fall to be treated as a single term, the reference in the preceding provisions of this subsection to his being released in relation to the sentence mentioned in subsection (2)(a) above is to be construed as a reference to his being released in relation to the single term).
+>
+> (5) Section 17 of this Act applies to such short-term prisoners as are mentioned in subsection (2) above as that section applies to long-term prisoners.
+>
+> (6) Where a prisoner is released on licence under this section, the licence (unless revoked) remains in force until the entire period specified in his sentence (reckoned from the commencement of the sentence) has elapsed; but this subsection is subject to subsections (7) and (8) below.
+>
+> (7) Where the prisoner is serving terms which by virtue of section 27(5) of this Act fall to be treated as a single term the licence (unless revoked) remains in force until the relevant period (reckoned from the commencement of the single term) has elapsed.
+>
+> (8) The “relevant period” mentioned in subsection (7) above is—
+>
+> (a) the single term after deduction of half the number of days (if any) by which that term exceeds what it would be were there disregarded in determining it such terms (if any) as are imposed for a conviction other than one by virtue of which the prisoner is subject to the notification requirements mentioned in subsection (2)(b) above; or
+>
+> (b) if to disregard such terms as are so imposed would have the consequence—
+>
+> (i) that there would not remain two or more terms to treat as a single term; or
+>
+> (ii) that though two or more terms would remain they would no longer be consecutive or wholly or partly concurrent,
+>
+> the single term after deduction of half the number of days (if any) by which that term exceeds the term imposed for the conviction, or as the case may be the terms imposed for the convictions, by virtue of which the prisoner is subject to those requirements.
+
+.
+
+(4) In section 1A(1)(c) (release of persons serving more than one sentence to be on a single licence), after the word “Act” where it first occurs insert “ , other than on licence under section 3AA ”.
+
+(5) After section 3 insert—
+
+> **3AA Further powers to release prisoners**
+>
+> (1) Subject to subsections (2) to (5) below, the Scottish Ministers may release on licence under this section—
+>
+> (a) a short-term prisoner serving a sentence of imprisonment for a term of three months or more; or
+>
+> (b) a long-term prisoner whose release on having served one-half of his sentence has been recommended by the Parole Board.
+>
+> (2) The power in subsection (1) above is not to be exercised before the prisoner has served whichever is the greater of—
+>
+> (a) one quarter of his sentence; and
+>
+> (b) four weeks of his sentence.
+>
+> (3) Without prejudice to subsection (2) above, the power in subsection (1) above is to be exercised only during that period of 121 days which ends on the day 14 days before that on which the prisoner will have served one half of his sentence.
+>
+> (4) In exercising the power conferred by subsection (1) above, the Scottish Ministers must have regard to considerations of—
+>
+> (a) protecting the public at large;
+>
+> (b) preventing re-offending by the prisoner; and
+>
+> (c) securing the successful re-integration of the prisoner into the community.
+>
+> (5) Subsection (1) above does not apply where—
+>
+> (a) the prisoner's sentence was imposed under section 210A of the 1995 Act;
+>
+> (b) the prisoner is subject to a supervised release order made under section 209 of that Act;
+>
+> (c) the prisoner is subject to a hospital direction imposed under section 59A of that Act or a transfer for treatment direction made under section 136(2) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13);
+>
+> (d) the prisoner is subject to the notification requirements of Part 2 of the Sexual Offences Act 2003 (c. 42);
+>
+> (e) the prisoner is liable to removal from the United Kingdom (within the meaning of section 9 of this Act);
+>
+> (f) the prisoner has been released on licence under this Part of this Act or under the 1989 Act but—
+>
+> (i) has been recalled to prison other than by virtue of section 17A(1)(b) of this Act; or
+>
+> (ii) before the date on which he would but for his release have served his sentence in full, has received a further sentence of imprisonment; or
+>
+> (g) the prisoner has been released (whether or not on licence) during the currency of his sentence but has been returned to custody under section 16(2) or (4) of this Act.
+>
+> (6) The Scottish Ministers may by order do any or all of the following—
+>
+> (a) amend the number of months for the time being specified in subsection (1)(a) above;
+>
+> (b) amend the number of weeks for the time being specified in subsection (2)(b) above;
+>
+> (c) amend a number of days for the time being specified in subsection (3) above;
+>
+> (d) amend any paragraph of subsection (5) above, add a further paragraph to that subsection or repeal any of its paragraphs.
+
+.
+
+(6) In section 5(1) (fine defaulters and persons in contempt of court), after the words “except sections” insert “ 3AA, ”.
+
+(7) In section 9(3) (persons liable to removal from the United Kingdom)—
+
+(a) in paragraph (d), for the word “immigrant” there is substituted “ entrant ”; and
+
+(b) (the word “or” immediately preceding that paragraph being omitted) after that paragraph there is added
+
+> or
+>
+> (e) if he is liable to removal under section 10 of the Immigration and Asylum Act 1999 (c. 33).
+
+.
+
+(8) In section 11 (duration of licence), after subsection (3) insert—
+
+> (3A) Subsections (1) to (3) above do not apply in relation to release on licence under section 3AA of this Act.
+>
+> (3B) A licence granted under section 3AA of this Act remains in force (unless it is revoked) until the date on which the released person would, but for his release under that section, fall to be released under section 1 of this Act.
+
+.
+
+(9) In section 12 (conditions in licence)—
+
+(a) after subsection (2) insert—
+
+> (2A) In its application to a licence granted under section 3AA of this Act, subsection (2) above is to be construed as if, for the words “shall include” there were substituted “ may include ”.
+
+; and
+
+(b) after subsection (4) insert—
+
+> (4A) Subsection (3)(b) above does not apply in relation to a condition in a licence granted under section 3AA of this Act; but in exercising their powers under this section in relation to a long-term prisoner released on such a licence the Scottish Ministers must have regard to any recommendations which the Parole Board has made for the purposes of section 1(3) of this Act as to conditions to be included on release.
+
+.
+
+(10) After section 12 insert—
+
+> **12AA Conditions for persons released on licence under section 3AA**
+>
+> (1) Without prejudice to the generality of section 12(1) of this Act, any licence granted under section 3AA of this Act must include—
+>
+> (a) the standard conditions; and
+>
+> (b) a curfew condition complying with section 12AB of this Act.
+>
+> (2) Subsection (1) above is without prejudice to any power exercisable under section 12 of this Act.
+>
+> (3) In this section, “the standard conditions” means such conditions as may be prescribed as such for the purposes of this section.
+>
+> (4) In subsection (3) above, “prescribed” means prescribed by order by the Scottish Ministers.
+>
+> (5) Different standard conditions may be so prescribed for different classes of prisoner.
+>
+> (6) Subsection (4) of section 3AA of this Act applies in relation to—
+>
+> (a) the exercise of the power of prescription conferred by subsection (3) above; and
+>
+> (b) the specification, variation or cancellation of conditions, other than the standard conditions, in a licence granted under section 3AA of this Act,
+>
+> as it applies in relation to the exercise of the power conferred by subsection (1) of that section.
+>
+> **12AB Curfew condition**
+>
+> (1) For the purposes of this Part, a curfew condition is a condition which—
+>
+> (a) requires the released person to remain, for periods for the time being specified in the condition, at a place for the time being so specified; and
+>
+> (b) may require him not to be in a place, or class of place, so specified at a time or during a period so specified.
+>
+> (2) The curfew condition may specify different places, or different periods, for different days but a condition such as is mentioned in paragraph (a) of subsection (1) above may not specify periods which amount to less than nine hours in any one day (excluding for this purpose the first and last days of the period for which the condition is in force).
+>
+> (3) Section 245C of the 1995 Act (contractual and other arrangements for, and devices which may be used for the purposes of, remote monitoring) applies in relation to the imposition of, and compliance with, a condition specified by virtue of subsection (1) above as that section applies in relation to the making of, and compliance with, a restriction of liberty order.
+>
+> (4) A curfew condition is to be monitored remotely and the Scottish Ministers must designate in the licence a person who is to be responsible for the remote monitoring and must, as soon as practicable after they do so, send that person a copy of the condition together with such information as they consider requisite to the fulfilment of the responsibility.
+>
+> (5) Subject to subsection (6) below, the designated person's responsibility—
+>
+> (a) commences on that person's receipt of the copy so sent;
+>
+> (b) is suspended during any period in which the curfew condition is suspended; and
+>
+> (c) ends when the licence is revoked or otherwise ceases to be in force.
+>
+> (6) The Scottish Ministers may from time to time designate a person who, in place of the person designated under subsection (4) above (or last designated under this subsection), is to be responsible for the remote monitoring; and on the Scottish Ministers amending the licence in respect of the new designation, that subsection and subsection (5) above apply in relation to the person designated under this subsection as they apply in relation to the person replaced.
+>
+> (7) If a designation under subsection (6) above is made, the Scottish Ministers must, in so far as it is practicable to do so, notify the person replaced accordingly.
+
+.
+
+(11) In section 12B (certain licences to be replaced by one), after subsection (3) insert—
+
+> (4) References in this section to release on licence do not include release on licence under section 3AA of this Act.
+
+.
+
+(12) In section 17 (revocation of licence), at the end add—
+
+> (7) References in this section to release on licence do not include release on licence under section 3AA of this Act.
+
+.
+
+(13) After section 17 insert—
+
+> **17A Recall of prisoners released under section 3AA**
+>
+> (1) If it appears to the Scottish Ministers as regards a prisoner released on licence under section 3AA of this Act that—
+>
+> (a) he has failed to comply with any condition included in his licence; or
+>
+> (b) his whereabouts can no longer be monitored remotely at the place for the time being specified in the curfew condition included in the licence,
+>
+> they may revoke the licence and recall the person to prison under this section.
+>
+> (2) A person whose licence is revoked under subsection (1) above—
+>
+> (a) must, on his return to prison, be informed of the reasons for the revocation and of his right under paragraph (b) below; and
+>
+> (b) may make representations in writing with respect to the revocation to the Scottish Ministers.
+>
+> (3) The Scottish Ministers are to refer to the Parole Board the case of any person who makes such representations.
+>
+> (4) After considering the case the Parole Board may direct, or decline to direct, the Scottish Ministers to cancel the revocation.
+>
+> (5) Where the revocation of a person's licence is cancelled by virtue of subsection (4) above, the person is to be treated for the purposes of section 3AA of this Act as if he had not been recalled to prison under this section.
+>
+> (6) On the revocation under this section of a person's licence, he shall be liable to be detained in pursuance of his sentence and, if at large, shall be deemed to be unlawfully at large.
+
+.
+
+(14) In section 45 (making of rules and orders)—
+
+(a) in subsection (2), after the word “Any” insert “ order made under section 12AA(3) or ”; and
+
+(b) in subsection (3), after the word “section” insert “ 3AA(6), ”.
+
+## Testing prisoners for drugs
+
+### 16 Testing prisoners for drugs
+
+In section 41B of the Prisons (Scotland) Act 1989 (c. 45) (testing prisoners for drugs)—
+
+(a) in subsection (1), after the word “urine” insert “ or saliva ”;
+
+(b) in subsection (2), at the end add “or saliva”; and
+
+(c) in subsection (3)—
+
+(i) in the definition of “intimate sample”, for the words from “blood” to the end substitute
+
+> —
+>
+> (a) blood, semen or any other tissue fluid;
+>
+> (b) pubic hair; or
+>
+> (c) material from a body orifice other than the mouth;
+
+;
+
+(ii) the word “and” which immediately follows the definition of “drug” is repealed; and
+
+(iii) at the end add
+
+> ; and
+>
+> “saliva” includes oral fluid
+
+.
+
+## Miscellaneous
+
+### 17 Notification requirements where sentence of imprisonment for public protection is imposed in England and Wales
+
+(1) In the table in section 82(1) of the Sexual Offences Act 2003 (c. 42) (notification period for persons convicted of sexual offences under requirement to notify the police about certain matters), in the entry relating to a person sentenced to imprisonment for life or for a term of 30 months or more, for the words “or for” substitute “ , to imprisonment for public protection under section 225 of the Criminal Justice Act 2003 or to imprisonment for ”.
+
+(2) This section applies in relation to sentences passed before the date on which this section comes into force, as well as to those passed on or after that date.
+
+### 18 Offender's failure to comply with notification requirements: jurisdiction of Scottish courts
+
+In section 91 of the Sexual Offences Act 2003 (c. 42) (offences relating to the notification requirements of Part 2 of that Act), for subsection (4) substitute—
+
+> (4) Proceedings for an offence under this section may be commenced in any court—
+>
+> (a) having jurisdiction in any place where the accused—
+>
+> (i) resides;
+>
+> (ii) is last known to have resided; or
+>
+> (iii) is found;
+>
+> (b) which has convicted the accused of an offence if the accused is subject to the notification requirements of this Part by virtue of that conviction; or
+>
+> (c) which has made an order under section 104(1)(b) in respect of the accused if the accused is subject to those requirements by virtue of that order.
+
+.
+
+### 19 Objection to content or finding of risk assessment report: conduct of proceedings
+
+After section 210E of the Criminal Procedure (Scotland) Act 1995 (c. 46) insert—
+
+> **210EA Application of certain sections of this Act to proceedings under section 210C(7)**
+>
+> (1) Sections 271 to 271M, 274 to 275C and 288C to 288F of this Act (in this section referred to as the “applied sections”) apply in relation to proceedings under section 210C(7) of this Act as they apply in relation to proceedings in or for the purposes of a trial, references in the applied sections to the “trial” and to the “trial diet” being construed accordingly.
+>
+> (2) But for the purposes of this section the references—
+>
+> (a) in sections 271(1)(a) and 271B(1)(b) to the date of commencement of the proceedings in which the trial is being held or is to be held; and
+>
+> (b) in section 288E(2)(b) to the date of commencement of the proceedings,
+>
+> are to be construed as references to the date of commencement of the proceedings in which the person was convicted of the offence in respect of which sentence falls to be imposed (such proceedings being in this section referred to as the “original proceedings”).
+>
+> (3) And for the purposes of this section any reference in the applied sections to—
+>
+> (a) an “accused” (or to a person charged with an offence) is to be construed as a reference to the convicted person except that the reference in section 271(2)(e)(iii) to an accused is to be disregarded;
+>
+> (b) an “alleged” offence is to be construed as a reference to any or all of the following—
+>
+> (i) the offence in respect of which sentence falls to be imposed;
+>
+> (ii) any other offence of which the convicted person has been convicted;
+>
+> (iii) any alleged criminal behaviour of the convicted person; and
+>
+> (c) a “complainer” is to be construed as a reference to any or all of the following—
+>
+> (i) the person who was the complainer in the original proceedings;
+>
+> (ii) in the case of any such offence as is mentioned in paragraph (b)(ii) above, the person who was the complainer in the proceedings relating to that offence;
+>
+> (iii) in the case of alleged criminal behaviour if it was alleged behaviour directed against a person, the person in question.
+>
+> (4) Where—
+>
+> (a) any person who is giving or is to give evidence at an examination under section 210C(7) of this Act gave evidence at the trial in the original proceedings; and
+>
+> (b) a special measure or combination of special measures was used by virtue of section 271A, 271C or 271D of this Act for the purpose of taking the person's evidence at that trial,
+>
+> that special measure or, as the case may be, combination of special measures is to be treated as having been authorised, by virtue of the same section, to be used for the purpose of taking the person's evidence at or for the purposes of the examination.
+>
+> (5) Subsection (4) above does not affect the operation, by virtue of subsection (1) above, of section 271D of this Act.
+
+.
+
+### 20 Recovery of criminal injuries compensation from offenders
+
+(1) The Criminal Injuries Compensation Act 1995 (c. 53) is amended as provided for in subsection (2) of section 57 of the Domestic Violence, Crime and Victims Act 2004 (c. 28).
+
+(2) But in the provision to be inserted, by virtue of subsection (1) (above), into that Act of 1995—
+
+(a) as section 7A(1), for the words “Secretary of State” substitute “ Scottish Ministers ”;
+
+(b) as section 7B(3), for the words “Secretary of State” substitute “ Scottish Ministers ”; and
+
+(c) as section 7D, for subsection (4) substitute—
+
+> (4) For the purposes of section 6(3) of the Prescription and Limitation (Scotland) Act 1973 (extinction of obligations by prescriptive periods of 5 years), the date when the obligation to pay that amount became enforceable shall be taken to be—
+>
+> (a) the date on which the compensation was paid; or
+>
+> (b) if later, the date on which the person from whom the amount is sought to be recovered was convicted of an offence to which the injury is directly attributable.
+
+.
+
+(3) In section 11 of that Act of 1995, after subsection (8) insert—
+
+> (8A) No regulations under section 7A(1) or order under section 7B(3) shall be made unless a draft of the regulations or order has been laid before, and approved by a resolution of, the Scottish Parliament.
+
+.
+
+(4) In Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c. 52), in paragraph 1 (application of section 6 of that Act), after sub-paragraph (d) insert—
+
+> (dd) to any obligation arising by virtue of section 7A(1) of the Criminal Injuries Compensation Act 1995 (recovery of compensation from offenders: general);
+
+.
+
+### 21 Further amendments and repeal
+
+(1) In section 27 of the Social Work (Scotland) Act 1968 (c. 49) (supervision and care of persons put on probation or released from prisons etc.)—
+
+(a) in subsection (1)—
+
+(i) at the beginning insert “ Subject to any order or determination under section 8 of the Management of Offenders etc. (Scotland) Act 2005 (asp 14), ”; and
+
+(ii) after paragraph (ad) insert—
+
+> (ae) making available to the Scottish Ministers such background and other reports as the Scottish Ministers may request in relation to the exercise of their functions under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9);
+
+;
+
+(b) after subsection (1B) insert—
+
+> (1C) In paragraphs (ac) and (b)(i) and (ii) of subsection (1) above, “enactment” includes an Act of the Scottish Parliament.
+>
+> (1D) The Scottish Ministers may by order amend subsection (1) above so as (any or all)—
+>
+> (a) to add to the functions for the time being described;
+>
+> (b) to omit any of those functions;
+>
+> (c) to alter any of those functions.
+
+; and
+
+(c) in subsection (2), for the words “the foregoing subsection” substitute “ subsection (1) above ”.
+
+(2) In section 27A of that Act (grants in respect of community service facilities)—
+
+(a) for subsection (1) substitute—
+
+> (1) The Scottish Ministers may (any or all)—
+>
+> (a) pay to a community justice authority, for allocation under section 3(5)(e)(i) of the Management of Offenders etc. (Scotland) Act 2005 (asp 14) as grants to the local authorities within its area;
+>
+> (b) make a grant to a local authority of;
+>
+> (c) make a grant to a community justice authority, in respect of any function exercisable by that authority by virtue of section 8(2) or (3) of that Act of 2005, of,
+>
+> such amount as the Scottish Ministers may determine in respect of expenditure incurred by, as the case may be, those local authorities, that local authority or that community justice authority, in providing a relevant service.
+>
+> (1A) In subsection (1) above, a “relevant service” means a service—
+>
+> (a) for the purposes mentioned in section 27(1) of this Act;
+>
+> (b) for enabling those local authorities, that local authority or that community justice authority to comply with the area plan prepared by the community justice authority under section 3(5)(a)(i) of that Act of 2005; or
+>
+> (c) for such other similar purposes as the Scottish Ministers may prescribe.
+>
+> (1B) Any grant made under, or paid by virtue of, subsection (1) above is subject to such conditions as the Scottish Ministers may determine.
+
+; and
+
+(b) in subsection (2), for the words “(1)(b)” substitute “ (1)(c) ”.
+
+(3) In section 27B of that Act (grants in respect of hostel accommodation for persons under supervision)—
+
+(a) for subsection (1) substitute—
+
+> (1) The Scottish Ministers may (any or all)—
+>
+> (a) pay to a community justice authority, for allocation under section 3(5)(e)(ii) of the Management of Offenders etc. (Scotland) Act 2005 (asp 14) as grants to the local authorities within its area;
+>
+> (b) make a grant to a local authority of;
+>
+> (c) make a grant to a community justice authority, in respect of any function exercisable by that authority by virtue of section 8(2) or (3) of that Act of 2005, of,
+>
+> such amount as the Scottish Ministers may determine in respect of relevant expenditure.
+>
+> (1A) In subsection (1) above, “relevant expenditure” means expenditure incurred by, as the case may be, those local authorities or that local authority in—
+>
+> (a) providing; or
+>
+> (b) contributing by way of grant under section 10(3) of this Act to the provision by a voluntary organisation of,
+>
+> residential accommodation wholly or mainly for the persons mentioned in subsection (2) below.
+>
+> (1B) Any grant made under, or paid by virtue of, subsection (1) above is subject to such conditions as the Scottish Ministers may determine.
+
+; and
+
+(b) in subsection (2), for “subsection (1)” substitute “ subsection (1A) ”.
+
+(4) In section 90 of that Act (orders, regulations etc.), after subsection (3) add—
+
+> (4) A statutory instrument containing an order under section 27(1D) or 27A(1A)(c) of this Act is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+.
+
+(5) In the Schedule to the Repatriation of Prisoners Act 1984 (c. 47) (operation of certain enactments in relation to prisoner), in paragraph 2 as substituted by section 33(1)(b)(i) of the Criminal Justice (Scotland) Act 2003 (asp 7) (prisoners repatriated to Scotland)—
+
+(a) in sub-paragraph (1), for the words “2(2) and (7)” substitute “ 1AA, 2(2) and (7), 3AA ”; and
+
+(b) in sub-paragraph (2), for the words “or 2(2) or (7)” substitute “ , 2(2) or (7) or 3AA ”.
+
+[^F16]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 27(4A) of the 1993 Act (construction of references in Part 1 of that Act to wholly concurrent or partly concurrent terms of imprisonment or detention), in sub-paragraph (i) of paragraph (a) and in each of sub-paragraphs (i) and (ii) of paragraph (b), for the words “is imposed” substitute “ commences ”.
+
+(8) In Schedule 1 to the Crime (Sentences) Act 1997 (c. 43) (transfer of prisoners within the British Isles)—
+
+(a) in paragraph 10—
+
+(i) in sub-paragraph (2)(a), for the words “1A, 3” substitute “ 1AA, 1A, 3, 3AA ”; and
+
+(ii) in sub-paragraph (5)(a), for the words “1A, 2(4)” substitute “ 1AA, 1A, 2(4), 3AA ”;
+
+(b) in paragraph 11(2)—
+
+(i) for the word “or”, where it occurs for the second time, substitute “ to ”; and
+
+(ii) in head (a), for the words “1A, 3” substitute “ 1AA, 1A, 3, 3AA ”; and
+
+(c) in paragraph 11(4)(a), for the words “1A” substitute “ 1AA, 1A, 3AA ”.
+
+[^F17]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In section 24(c) of the International Criminal Court (Scotland) Act 2001 (asp 13) (limited disapplication of certain provisions relating to sentences), for the words “1A, 2, 3” substitute “ 1AA, 1A, 2, 3, 3AA ”.
+
+[^F18]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F18]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13) In section 40(1) of the Criminal Justice (Scotland) Act 2003 (asp 7) (remote monitoring of released prisoners), the words from “but” to the end are repealed.
+
+## General
+
+### 22 Supplementary and consequential provision etc.
+
+(1) The Scottish Ministers may by order made by statutory instrument make—
+
+(a) any supplementary, incidental or consequential provision;
+
+(b) any transitory, transitional or saving provision,
+
+which they consider necessary or expedient for the purposes of, in consequence of, or for giving full effect to, any provision of this Act.
+
+(2) An order under subsection (1) may amend or repeal any enactment (including any provision of this Act).
+
+(3) Subject to subsection (4), a statutory instrument containing an order under subsection (1) is subject to annulment in pursuance of a resolution of the Parliament.
+
+(4) A statutory instrument containing an order made by virtue of subsection (2) is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+### 23 Interpretation
+
+In this Act—
+
+- “the 1993 Act” means the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9);
+- [^F19]...
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39); and
+- “relevant person” has the meaning given by section 1(2).
+
+### 24 Commencement
+
+(1) This section and sections 13, 17, 20, 22, 23, and 25 come into force on Royal Assent.
+
+(2) The remaining provisions of this Act come into force in accordance with provision made by the Scottish Ministers by order made by statutory instrument.
+
+(3) Different provision may be made under subsection (2) for different purposes and for different areas.
+
+### 25 Short title
+
+This Act may be cited as the Management of Offenders etc. (Scotland) Act 2005
+
+---
+
+[^F1]: Words in s. 1(1) substituted (11.10.2019) by Management of Offenders (Scotland) Act 2019 (asp 14), ss. 56(2)(a), 63(2); S.S.I. 2019/309, reg. 2, sch.
+[^F2]: S. 1(1)(a)-(d) inserted (11.10.2019) by Management of Offenders (Scotland) Act 2019 (asp 14), ss. 56(2)(b), 63(2); S.S.I. 2019/309, reg. 2, sch.
+[^F3]: Words in s. 1(2)(b)(i) repealed (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 2 para. 5(2)(b)(i); S.S.I. 2017/33, reg. 2(1)(2), sch.
+[^F4]: Words in s. 1(2)(b)(i) repealed (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 2 para. 5(2)(b)(ii); S.S.I. 2017/33, reg. 2(1)(2), sch.
+[^F5]: Words in s. 1(3) inserted (11.10.2019) by Management of Offenders (Scotland) Act 2019 (asp 14), ss. 56(3), 63(2); S.S.I. 2019/309, reg. 2, sch.
+[^F6]: S. 2(2)(c) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, Sch. 1 para. 16(a)
+[^F7]: Ss. 3-9 repealed (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), ss. 36(3), 41(2); S.S.I. 2017/33, reg. 2(1)(2), sch.
+[^F8]: S. 10(1)(b)(i) substituted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 14(2), 206, Sch. 2 para. 51(2); S.S.I. 2010/413, art. 2, Sch. (with art. 3)
+[^F9]: Words in s. 10(1)(c)(i) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 76(a)(i); S.S.I. 2012/160, art. 3, Sch.
+[^F10]: Words in s. 10(1)(d) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 76(a)(ii); S.S.I. 2012/160, art. 3, Sch.
+[^F11]: S. 10(7)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 28; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F12]: Words in s. 10(11)(a) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 76(b); S.S.I. 2012/160, art. 3, Sch.
+[^F13]: S. 11(2)(c) repealed (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 2 para. 5(3)(a); S.S.I. 2017/33, reg. 2(1)(2), sch.
+[^F14]: S. 11(4)-(6) inserted (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 2 para. 5(3)(b); S.S.I. 2017/33, reg. 2(1)(2), sch.
+[^F15]: S. 12 repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 14(2), 206, Sch. 2 para. 51(3); S.S.I. 2010/413, art. 2, Sch. (with art. 3)
+[^F16]: S. 21(6) repealed (31.8.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39), art. 1, Sch. para. 7
+[^F17]: S. 21(9) repealed (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 2 para. 5(4); S.S.I. 2017/33, reg. 2(1)(2), sch.
+[^F18]: S. 21(11)(12) repealed (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 2 para. 5(4); S.S.I. 2017/33, reg. 2(1)(2), sch.
+[^F19]: Words in s. 23 repealed (31.3.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 2 para. 5(5); S.S.I. 2017/33, reg. 2(1)(2), sch.

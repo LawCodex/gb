@@ -1,0 +1,3408 @@
+---
+title: "Environment (Wales) Act 2016"
+identifier: "anaw/2016/3"
+citation: "2016 anaw 3"
+type: act
+legislation_type: anaw
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2016-03-21
+last_amended: 2026-06-27
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/anaw/2016/3"
+source_modified: 2026-07-31
+retrieved: 2026-10-11
+---
+
+# Environment (Wales) Act 2016
+
+**2016 anaw 3**
+
+An Act of the National Assembly for Wales to promote sustainable management of natural resources; to provide for targets for reducing emissions of greenhouse gases; to reform the law on charges for carrier bags; to provide for the separate collection of waste, prohibit disposal of food waste to sewers and provide for prohibiting or regulating disposal of waste by incineration; to make provision about several and regulated fisheries for shellfish; to make provision about fees for marine licences; to establish the Flood and Coastal Erosion Committee; and to make minor changes to the law about land drainage and byelaws made by the Natural Resources Body for Wales.
+
+[21 March 2016]
+
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
+
+## PART 1 — SUSTAINABLE MANAGEMENT OF NATURAL RESOURCES
+
+### Introduction
+
+#### 1 Purpose of this Part
+
+The purpose of this Part is to promote sustainable management of natural resources.
+
+#### 2 Natural resources
+
+In this Part, “natural resources” includes (but is not limited to)—
+
+(a) animals, plants and other organisms;
+
+(b) air, water and soil;
+
+(c) minerals;
+
+(d) geological features and processes;
+
+(e) physiographical features;
+
+(f) climatic features and processes.
+
+#### 3 Sustainable management of natural resources
+
+(1) In this Part, “sustainable management of natural resources” means—
+
+(a) using natural resources in a way and at a rate that promotes achievement of the objective in subsection (2),
+
+(b) taking other action that promotes achievement of that objective, and
+
+(c) not taking action that hinders achievement of that objective.
+
+(2) The objective is to maintain and enhance the resilience of ecosystems and the benefits they provide and, in so doing—
+
+(a) meet the needs of present generations of people without compromising the ability of future generations to meet their needs, and
+
+(b) contribute to the achievement of the well-being goals in section 4 of the Well-being of Future Generations (Wales) Act 2015 (anaw 2).
+
+#### 4 Principles of sustainable management of natural resources
+
+In this Part, the “principles of sustainable management of natural resources” are—
+
+(a) manage adaptively, by planning, monitoring, reviewing and, where appropriate, changing action;
+
+(b) consider the appropriate spatial scale for action;
+
+(c) promote and engage in collaboration and co-operation;
+
+(d) make appropriate arrangements for public participation in decision-making;
+
+(e) take account of all relevant evidence and gather evidence in respect of uncertainties;
+
+(f) take account of the benefits and intrinsic value of natural resources and ecosystems;
+
+(g) take account of the short, medium and long term consequences of actions;
+
+(h) take action to prevent significant damage to ecosystems;
+
+(i) take account of the resilience of ecosystems, in particular the following aspects—
+
+(i) diversity between and within ecosystems;
+
+(ii) the connections between and within ecosystems;
+
+(iii) the scale of ecosystems;
+
+(iv) the condition of ecosystems (including their structure and functioning);
+
+(v) the adaptability of ecosystems.
+
+### General duties of public authorities
+
+#### 5 General purpose of Natural Resources Body for Wales
+
+(1) The Natural Resources Body for Wales (Establishment) Order 2012 (S.I. 2012/1903) is amended as follows.
+
+(2) For article 4 substitute—
+
+> **4 General purpose**
+>
+> (1) The Body must—
+>
+> (a) pursue sustainable management of natural resources in relation to Wales, and
+>
+> (b) apply the principles of sustainable management of natural resources,
+>
+> in the exercise of its functions, so far as consistent with their proper exercise.
+>
+> (2) In this article—
+>
+> - “principles of sustainable management of natural resources” (“*egwyddorion rheoli cynaliadwy ar adnoddau naturiol*”) has the meaning given by section 4 of the Environment (Wales) Act 2016;
+> - “sustainable management of natural resources” (“*rheoli cynaliadwy ar adnoddau naturiol*”) has the meaning given by section 3 of the Environment (Wales) Act 2016.
+
+(3) In article 5—
+
+(a) in the heading, after “Body's” insert “ general ”;
+
+(b) in paragraph (1), for “purpose” substitute “ general purpose in article 4 ”;
+
+(c) in paragraph (3) for “functions” substitute “ general purpose in article 4 ”.
+
+(4) Omit articles 5B and 5E.
+
+#### 6 Biodiversity and resilience of ecosystems duty
+
+(1) A public authority must seek to maintain and enhance biodiversity in the exercise of functions in relation to Wales, and in so doing promote the resilience of ecosystems, so far as consistent with the proper exercise of those functions.
+
+(2) In complying with subsection (1), a public authority must take account of the resilience of ecosystems, in particular the following aspects—
+
+(a) diversity between and within ecosystems;
+
+(b) the connections between and within ecosystems;
+
+(c) the scale of ecosystems;
+
+(d) the condition of ecosystems (including their structure and functioning);
+
+(e) the adaptability of ecosystems.
+
+[[^F1](2A) In complying with subsection (1), a public authority within subsection (11) that has been designated in regulations under section 6F must take action to contribute to meeting the target in relation to which it has been designated.]
+
+(3) Subsection (1) does not apply to—
+
+(a) the exercise of a function by Her Majesty's Revenue and Customs, or
+
+(b) the exercise of a judicial function of a court or tribunal.
+
+(4) In complying with subsection (1)—
+
+(a) the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Government, a Minister of the Crown and a government department must have regard to the United Nations Environmental Programme Convention on Biological Diversity of 1992, and
+
+(b) any other public authority must have regard to any guidance given to it by the Welsh Ministers.
+
+(5) In complying with subsection (1), a public authority other than a Minister of the Crown or government department must have regard to—
+
+(a) the list published under section 7;
+
+(b) the state of natural resources report published under section 8;
+
+(c) any area statement published under section 11 for an area that includes all or part of an area in relation to which the authority exercises functions.
+
+[[^F2](d) [[^F3]where the public authority is one within subsection (11),] the sustainable land management report published under section 6 of the Agriculture (Wales) Act 2023.]
+
+(6) A public authority other than a Minister of the Crown or government department must prepare and publish a plan setting out what it proposes to do to comply with subsection (1).
+
+[[^F4](6A) The Welsh Ministers must—
+
+(a) when preparing their plan under subsection (6)—
+
+(i) consult the Office of Environmental Governance Wales, and
+
+(ii) apply the principles of sustainable management of natural resources,
+
+(b) when preparing their plan under subsection (6), consult—
+
+(i) such persons or bodies as the Welsh Ministers reasonably consider have an interest in matters relating to biodiversity in Wales, and
+
+(ii) members of the public in Wales, and
+
+(c) when they publish that plan, also publish a report summarising—
+
+(i) the consultation that was carried out in preparing the plan, and
+
+(ii) any representations that were received as a result of the consultation.
+
+(6B) The plan prepared and published by the Welsh Ministers under subsection (6) must, in particular, set out—
+
+(a) what action they propose to take to contribute to the fulfilment of the vision of the Global Biodiversity Framework, namely that “by 2050, biodiversity is valued, conserved, restored and wisely used, maintaining ecosystem services, sustaining a healthy planet and delivering benefits essential for all people,
+
+(b) proposals covering the areas of responsibility of each of the Welsh Ministers,
+
+(c) what action they propose to take to ensure that the targets set in regulations under section 6B are met and when they propose to take that action,
+
+(d) how the targets, if met, will contribute to halting and reversing the decline in biodiversity or to restoring biodiversity to resilient levels,
+
+(e) where the standard specified under section 6B(4) in relation to a target is achieved, how they propose to maintain that standard, and
+
+(f) what action they propose to take to comply with the duty in section 8A to promote awareness of biodiversity.
+
+(6C) In subsection (6B)(a), the “Global Biodiversity Framework means the Kunming-Montreal Global Biodiversity Framework, adopted under the United Nations Convention on Biological Diversity referred to in subsection (4)(a) at the fifteenth meeting of the Conference of the Parties in December 2022.]
+
+(7) A public authority must, before the end of 2019 and before the end of every third year after 2019, publish a report on what it has done
+
+[[^F5](a) to comply with subsection (1), and
+
+(b) where subsection (2A) applies, to contribute to meeting the target in relation to which it has been designated].
+
+[[^F6](7A) The report published by the Welsh Ministers under subsection (7) must, in particular, report on the progress being made towards meeting the targets set in regulations under section 6B and whether they are likely to be met.
+
+(7B) As soon as reasonably practicable after publishing their report under subsection (7), the Welsh Ministers must send a copy of it to the Office of Environmental Governance Wales.
+
+(7C) Sending a copy of the report under subsection (7B) is to be treated as a request by the Welsh Ministers to the Office of Environmental Governance Wales for advice under section 13 of the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc xx).]
+
+(8) A public authority that has published a plan under subsection (6)—
+
+(a) must review the plan in the light of each report that it publishes under subsection (7), and
+
+(b) may revise the plan at any time.
+
+(9) In this section—
+
+- “Minister of the Crown” (“*Gweinidog y Goron*”) has the same meaning as in the Ministers of the Crown Act 1975 (c. 26);
+
+- “public authority” (“*awdurdod cyhoeddus*”) means—
+
+  - (a) the Welsh Ministers;
+  
+  - (b) the First Minister for Wales;
+  
+  - (c) the Counsel General to the Welsh Government;
+  
+  - (d) a Minister of the Crown;
+  
+  - (e) a public body (including a government department, a local [[^F7]authority [[^F8], a corporate joint committee] and] a local planning authority [^F9]...) [[^F10], but not the Office of Environmental Governance Wales];
+  
+  - (f) a person holding an office—
+  
+    - (i) under the Crown,
+    - (ii) created or continued in existence by a public general Act of the National Assembly for Wales or of Parliament, or
+    - (iii) the remuneration in respect of which is paid out of money provided by the National Assembly for Wales or Parliament;
+  
+  - (g) a statutory undertaker.
+
+(10) In subsection (9)—
+
+- [[^F11]“corporate joint committee” (“*cyd-bwyllgor corfforedig*”) means a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1);]
+
+- “local authority” (“*awdurdod lleol*”) means a council of a county, county borough or community in Wales;
+
+- “local planning authority” (“*awdurdod cynllunio lleol*”) has the meaning given by the Town and Country Planning Act 1990 (c. 8);
+
+- “statutory undertaker” (“*ymgymerwr statudol*”) means any of the following—
+
+  - (a) a person authorised by any enactment to carry on any railway, light railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier or lighthouse undertaking or any undertaking for the supply of hydraulic power;
+  - (b) an operator of an electronic communications code network (within the meaning of paragraph 1(1) of Schedule 17 to the Communications Act 2003 (c. 21));
+  - (c) an airport operator (within the meaning of the Airports Act 1986 (c. 31)) operating an airport to which Part 5 of that Act applies;
+  - (d) [[^F12]a holder of a licence under section 7 or 7AA of the Gas Act 1986 (c. 44);]
+  - (e) a holder of a licence under section 6(1) of the Electricity Act 1989 (c. 29);
+  - (f) a water or sewerage undertaker;
+  - (g) the Civil Aviation Authority or a holder of a licence under Chapter 1 of Part 1 of the Transport Act 2000 (c. 38), to the extent that the person holding the licence is carrying out activities authorised by it;
+  - (h) a universal service provider within the meaning of Part 3 of the Postal Services Act 2011 (c. 5);
+
+- [^F13]...
+
+[[^F14](11) A public authority is within this subsection if it is—
+
+(a) a devolved Welsh authority within the meaning given by section 157A of the Government of Wales Act 2006 (c. 32), or
+
+(b) listed in paragraph 9(2) or (6) of Schedule 7B to that Act.]
+
+#### 6A [[^F15]Evaluation of action to maintain and enhance biodiversity
+
+(1) The Welsh Ministers must prepare a report under this section (an “evaluation report”).
+
+(2) The evaluation report must set out the Welsh Ministers’ assessment of the impact and effectiveness of the proposals set out in accordance with section 6(6) and (6B) in the plan most recently published by them and of action taken in accordance with those proposals.
+
+(3) The Welsh Ministers must publish the first evaluation report before the end of 2031, and, subsequently, before the end of every third year after 2031.
+
+(4) As soon as reasonably practicable after publishing an evaluation report, the Welsh Ministers must send a copy of it to the Office of Environmental Governance Wales.
+
+(5) Sending a copy of the report under subsection (4) is to be treated as a request by the Welsh Ministers to the Office of Environmental Governance Wales for advice under section 13 of the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc xx).]
+
+### [[^F16]Biodiversity targets
+
+#### 6B Biodiversity targets: general
+
+(1) The Welsh Ministers may by regulations set targets in respect of any matter relating to biodiversity in Wales.
+
+(2) The Welsh Ministers may set a target in the regulations only if they are satisfied that meeting it would contribute to halting and reversing the decline in biodiversity or to restoring biodiversity to resilient levels, in particular through one or more of the following—
+
+(a) increasing the abundance of native species;
+
+(b) enhancing the resilience of ecosystems (in particular the aspects specified in section 6(2)(a) to (e));
+
+(c) increasing genetic diversity.
+
+(3) In considering whether a target would contribute to‍ the matters specified in subsection (2)(a), (b) or (c), the Welsh Ministers must have regard to the list published under section 7.
+
+(4) The regulations must, in relation to each target—
+
+(a) specify a standard to be achieved, which must be capable of being objectively measured, and
+
+(b) specify a date by which the standard is to be achieved.
+
+(5) The regulations must—
+
+(a) include provision about how to measure—
+
+(i) progress towards achieving each standard specified under subsection (4), and
+
+(ii) whether the standard has been achieved, and
+
+(b) specify indicators as a means of measuring those things.
+
+(6) A target under this section is set when the regulations setting it come into force.
+
+(7) In this section—
+
+- “native species” means species that naturally occur or have in the past naturally occurred in Wales, including—
+
+  - regularly occurring migratory species (both breeding and non-breeding) and natural colonists, and
+  - species that have been reintroduced in Wales following past extinction;
+
+- “natural colonists” means species that arrived in Wales of their own accord and have become established, including those that become migratory species.
+
+(8) In sections 6C, 6D, 6G, 6H and 6I, “specified standard” and “specified date”, in relation to a target set under this section, mean the standard and date specified under subsection (4).
+
+#### 6C Duty to make regulations setting targets: priority areas
+
+(1) The Welsh Ministers must exercise the power in section 6B to‍ —
+
+(a) set a long-term target in respect of at least one matter within each of the priority areas in subsection (2)(a) and (b),
+
+(b) set a short-term target in respect of at least one matter within each of the priority areas in subsection (2)(a) and (b), and
+
+(c) set a target in respect of at least one matter within each of the priority areas in subsection (2)(c) and (d).
+
+(2) The priority areas are—
+
+(a) reducing the risk of the extinction of native species;
+
+(b) the effective management of ecosystems;
+
+(c) reducing pollution;
+
+(d) the quality of evidence to inform decisions relating to biodiversity, access to that evidence and its use and application.
+
+(3) A target is a “long-term target” if the specified date is at least 15 years after the date on which the target is set.
+
+(4) A target is a “short-term target” if the specified date is less than 15 years after the date on which the target is set.
+
+(5) Targets may not be set in respect of a matter within the priority area in subsection (2)(c) if a target may be set in respect of that matter under the Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2).
+
+(6) In subsection (2)(a), ”native species” has the meaning given by section 6B(7).
+
+(7) The Welsh Ministers must lay a draft of a Welsh statutory instrument containing the regulations required by this section before Senedd Cymru before the end of the period of‍ 2 years beginning with the date on which the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc xx) receives Royal Assent.
+
+#### 6D Target-setting process
+
+(1) Before making regulations under section 6B, the Welsh Ministers must seek advice from persons they consider to be independent and to have relevant expertise.
+
+(2) The Welsh Ministers must publish a summary of any such advice they receive.
+
+(3) When making regulations under section 6B, the Welsh Ministers must apply the principles of sustainable management of natural resources.
+
+(4) Before making regulations under section 6B, the Welsh Ministers must publish a report summarising—
+
+(a) the consultation that was carried out in connection with the regulations, and
+
+(b) any representations that were received as a result of the consultation.
+
+(5) Before making regulations under section 6B that set or amend a target, the Welsh Ministers must be satisfied that the target or amended target can be met.
+
+(6) For the purposes of this Part, a target is met if the specified standard is achieved by the specified date.
+
+(7) Subsections (1) to‍ (4) do not apply to provisions in regulations under section 6B that revoke a target that has been met.
+
+#### 6E Duty to meet targets
+
+The Welsh Ministers must ensure that targets set in regulations made under section 6B are met.
+
+#### 6F Designation of public authorities for the purpose of section 6(2A)
+
+(1) The Welsh Ministers may by regulations designate a public authority within section 6(11) in relation to a target set in regulations made under section 6B.
+
+(2) Before making regulations under this section, the Welsh Ministers must consult—
+
+(a) the public authority they propose to designate, and
+
+(b) such other persons as they consider appropriate.
+
+#### 6G Review of targets
+
+(1) The Welsh Ministers may, from time to time, review a target set in regulations under section 6B.
+
+(2) The Welsh Ministers must review a target set in regulations under section 6B if it appears to them—
+
+(a) that the target may not be met, or
+
+(b) that the target may no longer be appropriate.‍
+
+(3) The Welsh Ministers may, from time to time, review the effectiveness of all current targets for the purpose of determining whether setting further targets in regulations under section 6B would be more effective in contributing to halting and reversing the decline in biodiversity or to restoring biodiversity to resilient levels.
+
+(4) The Welsh Ministers must review the effectiveness of all current targets for the purpose mentioned in subsection (3)—
+
+(a) if a target set in regulations under section 6B has not been met by the specified date in relation to that target;
+
+(b) if 10 years have passed since the most recently completed review under any of subsection (3), this subsection or subsection (5).
+
+(5) If no review under subsection (3) or (4) has been completed before the end of 2041, the Welsh Ministers must review the effectiveness of all current targets for the purpose mentioned in subsection (3).
+
+(6) A target is current for the purpose of subsections (3) to (5) if—
+
+(a) it has been set in regulations under section 6B that are in force at the time of the review, and
+
+(b) it has not been met at that time.
+
+(7) In carrying out a review under this section, the Welsh Ministers must seek advice from persons they consider to be independent and to have relevant expertise.
+
+(8) The Welsh Ministers must publish a summary of any such advice they receive.
+
+(9) After carrying out a review under this section, the Welsh Ministers must lay before Senedd Cymru, and publish, a statement noting its conclusions.
+
+(10) If‍ a review under subsection (1) or (2) concludes that a target will not be met or is no longer appropriate, the statement must note the reasons for that conclusion and the steps, if any, the Welsh Ministers intend to take in relation to the target in consequence of the review.
+
+(11) If a review under subsection (3), (4) or (5) concludes that further targets should be set in regulations under section 6B, the Welsh Ministers must lay a draft of a Welsh statutory instrument containing such regulations before Senedd Cymru before the end of the period of 2 years beginning with the day on which the review was completed.
+
+(12) A review is completed for the purpose of subsections (4)(b), (5) and (11) when the statement required by subsection (9) is published.
+
+#### 6H Revoking or lowering targets
+
+(1) The Welsh Ministers may not make regulations under section 6B that revoke or lower a target (the “existing target”) unless they are satisfied that—
+
+(a) because of changes to the evidence to which they had regard when setting the existing target, meeting it would not contribute to halting and reversing the decline in biodiversity or to restoring biodiversity to resilient levels,
+
+(b) meeting the existing target would have no significant benefit compared with not meeting it or with meeting a lower target,
+
+(c) because of changes in circumstances since the existing target was set, the environmental, social, economic or other costs of meeting it would be disproportionate to the benefits, or
+
+(d) meeting the existing target is no longer achievable—
+
+(i) because of changes in circumstances since the existing target was set, or
+
+(ii) because of changes to the evidence to which the Welsh Ministers had regard when setting the existing target.
+
+(2) If the Welsh Ministers are satisfied that—
+
+(a) the costs of meeting the existing target would be disproportionate to the benefits as mentioned in subsection (1)(c), or
+
+(b) meeting the existing target is no longer achievable as mentioned in subsection (1)(d),
+
+they must, before making regulations under section 6B that revoke the target, consider whether to make regulations that lower the target.
+
+(3) Before making regulations under section 6B that revoke or lower a target, the Welsh Ministers must lay before Senedd Cymru, and publish, a statement explaining why the Welsh Ministers are satisfied as mentioned in subsection (1).
+
+(4) Regulations lower a target if, to any extent, they—
+
+(a) replace the specified standard with a lower standard, or
+
+(b) replace the specified date with a later date.
+
+(5) This section does not apply to provisions in regulations under section 6B that revoke a target that has been met.
+
+#### 6I Statement about targets
+
+(1) On or before the specified date in relation to each target set under regulations under section 6B, the Welsh Ministers must lay before Senedd Cymru, and publish, a statement containing the required information.
+
+(2) The required information is (as appropriate)—
+
+(a) that the target has been met,
+
+(b) that the target has not been met, or
+
+(c) that the Welsh Ministers are not yet able to determine whether the target has been met, the reasons for that and the steps the Welsh Ministers intend to take in order to determine whether the target has been met.
+
+(3) Where the Welsh Ministers make a statement that a target has not been met, the Welsh Ministers must, before the end of‍ 6 months beginning with the date on which the statement is laid, lay before Senedd Cymru, and publish, a report.
+
+(4) The report must—
+
+(a) explain why the target has not been met, and
+
+(b) set out the steps the Welsh Ministers have taken, or intend to take, to ensure the target is met as soon as reasonably practicable.
+
+(5) Before deciding on the steps referred to in subsection (4)(b), the Welsh Ministers must seek advice from persons they consider to be independent and to have relevant expertise.
+
+(6) The Welsh Ministers must publish a summary of any such advice they receive.
+
+(7) Where the Welsh Ministers make a statement that they are not yet able to determine whether a target has been met, the Welsh Ministers must, before the end of 6 months beginning with the date on which the statement is laid, lay before Senedd Cymru, and publish, a further statement containing the required information.
+
+(8) Subsections (2) to (7) apply to further statements under subsection (7) as they apply to a statement under subsection (1).]
+
+### [[^F17]Biodiversity lists]
+
+#### 7 Biodiversity lists and duty to take steps to maintain and enhance biodiversity
+
+(1) The Welsh Ministers must prepare and publish a list of the living organisms and types of habitat which in their opinion are of principal importance for the purpose of maintaining and enhancing biodiversity in relation to Wales.
+
+(2) Before publishing a list under this section the Welsh Ministers must consult the Natural Resources Body for Wales (“NRW”) as to the living organisms or types of habitat to be included in the list.
+
+(3) Without prejudice to section 6, the Welsh Ministers must—
+
+(a) take all reasonable steps to maintain and enhance the living organisms and types of habitat included in any list published under this section, and
+
+(b) encourage others to take such steps.
+
+(4) The Welsh Ministers must, in consultation with NRW—
+
+(a) keep under review any list published by them under this section,
+
+(b) make such revisions of any such list as appear to them appropriate, and
+
+(c) publish any list so revised as soon as is reasonably practicable after revising it.
+
+(5) In exercising their functions under this section, the Welsh Ministers must apply the principles of sustainable management of natural resources.
+
+### State of natural resources report
+
+#### 8 Duty to prepare and publish state of natural resources report
+
+(1) NRW must prepare and publish reports in accordance with this section containing its assessment of the state of natural resources in relation to Wales.
+
+(2) Each report must, among other things, set out—
+
+(a) NRW's assessment of the extent to which sustainable management of natural resources is being achieved;
+
+(b) NRW's assessment of biodiversity (including the living organisms and types of habitat included in any list published under section 7);
+
+(c) what NRW considers to be the main trends and factors that are affecting, and are likely to affect, the state of natural resources;
+
+(d) any aspects of the state of natural resources about which NRW considers that it does not have sufficient information to make an assessment.
+
+(3) NRW must publish its first report before the end of four months starting with the day this section comes into force.
+
+(4) Subsequently, NRW must publish a report before the end of the calendar year preceding a year in which an ordinary general election is due to be held.
+
+(5) NRW must publish a draft of each report required by subsection (4) before the end of the calendar year preceding the year in which the report must be published.
+
+(6) In this section, “ordinary general election” means the poll held at an ordinary general election under section 3 of the Government of Wales Act 2006 (c. 32).
+
+### [[^F18]Duties of the Welsh Ministers]
+
+#### 8A [[^F19]Duty to promote awareness of biodiversity
+
+The Welsh Ministers must take steps to promote awareness in Wales of the importance of biodiversity and of the threats to biodiversity.]
+
+#### 9 Duty to prepare, publish and implement national natural resources policy
+
+(1) The Welsh Ministers must prepare and publish a document setting out their general and specific policies for contributing to achieving sustainable management of natural resources in relation to Wales (the “national natural resources policy”).
+
+(2) The national natural resources policy must set out what the Welsh Ministers consider to be the key priorities, risks and opportunities for sustainable management of natural resources in relation to Wales, including what they consider should be done in relation to climate change and biodiversity.
+
+(3) The Welsh Ministers may include anything in the national natural resources policy which they consider relevant to achieving sustainable management of natural resources in relation to Wales.
+
+(4) The Welsh Ministers must—
+
+(a) take all reasonable steps to implement the national natural resources policy, and
+
+(b) encourage others to take such steps.
+
+(5) The Welsh Ministers must publish the first national natural resources policy before the end of 10 months starting with the day this section comes into force.
+
+(6) The Welsh Ministers—
+
+(a) must review the national natural resources policy after each general election, and
+
+(b) may review the policy at any other time.
+
+(7) The Welsh Ministers may at any time revise the national natural resources policy and must publish the national natural resources policy as revised.
+
+(8) In exercising their functions under this section, the Welsh Ministers must apply the principles of sustainable management of natural resources.
+
+(9) In preparing or revising the national natural resources policy, the Welsh Ministers must have regard to the most recent report under section 8 on the state of natural resources in relation to Wales.
+
+(10) When the Welsh Ministers publish the national natural resources policy (or a revised policy), they must also publish a report summarising—
+
+(a) any consultation that was carried out in preparing the policy, and
+
+(b) any representations that were received as a result of the consultation.
+
+(11) In subsection (6), “general election” means a poll held at an ordinary general election under section 3 of the Government of Wales Act 2006 (c. 32) or an extraordinary general election under section 5 of that Act.
+
+### Area-based implementation of the national policy
+
+#### 10 Meaning of public body in sections 11 to 15
+
+(1) In sections 11 to 15, “public body” means any one of the following—
+
+(a) a council of a county or county borough in Wales;
+
+(b) a Local Health Board;
+
+(c) the following NHS Trusts—
+
+(i) Public Health Wales;
+
+(ii) Velindre;
+
+(d) a National Park authority for a National Park in Wales;
+
+(e) a Welsh fire and rescue authority;
+
+(f) [[^F20]the Commission for Tertiary Education and Research];
+
+(g) the Arts Council of Wales;
+
+(h) the Sports Council for Wales;
+
+(i) the National Library of Wales;
+
+(j) the National Museum of Wales.
+
+(2) The Welsh Ministers may by regulations amend subsection (1) by—
+
+(a) adding a person,
+
+(b) removing a person, or
+
+(c) amending a description of a person.
+
+(3) But the regulations—
+
+(a) may amend subsection (1) by adding a person only if that person exercises functions of a public nature;
+
+(b) may amend that subsection by adding a Minister of the Crown only if the Secretary of State consents.
+
+(4) If the regulations amend subsection (1) so as to add a person who has functions of a public nature and other functions, sections 11 to 15 apply to that person only in relation to those of the person's functions that are of a public nature.
+
+(5) Before making regulations under subsection (2), the Welsh Ministers must consult—
+
+(a) NRW,
+
+(b) each person the Welsh Ministers propose to add or remove by the regulations, and
+
+(c) such other persons as the Welsh Ministers consider appropriate.
+
+#### 11 Area statements
+
+(1) NRW must prepare and publish statements (“area statements”) for the areas of Wales that it considers appropriate for the purpose of facilitating the implementation of the national natural resources policy.
+
+(2) NRW may use the area statements for any other purpose in the exercise of its functions.
+
+(3) Each area statement must—
+
+(a) explain why a statement has been prepared for the area, by reference to—
+
+(i) the natural resources in the area,
+
+(ii) the benefits which the natural resources provide, and
+
+(iii) the priorities, risks and opportunities for the sustainable management of natural resources which need to be addressed;
+
+(b) explain how the principles of sustainable management of natural resources have been applied in preparing the statement;
+
+(c) state how NRW proposes to address the priorities, risks and opportunities, and how it proposes to apply the principles of sustainable management of natural resources in doing so;
+
+(d) specify the public bodies which NRW considers may assist in addressing the priorities, risks and opportunities.
+
+(4) NRW must ensure that every part of Wales is included in at least one of the areas for which it prepares an area statement.
+
+(5) NRW must—
+
+(a) take all reasonable steps to implement an area statement, and
+
+(b) encourage others to take such steps.
+
+(6) NRW must keep area statements under review and it may revise them at any time.
+
+(7) Before publishing an area statement, NRW must consider whether—
+
+(a) another plan, strategy or similar document should be incorporated into the area statement, or
+
+(b) the area statement should be incorporated into another plan, strategy or similar document.
+
+#### 12 Welsh Ministers' directions to implement area statements
+
+(1) The Welsh Ministers may direct a public body to take such steps as appear to them to be reasonably practicable to address the matters specified in an area statement under section 11(3).
+
+(2) Before giving a direction the Welsh Ministers must consult the public body they intend to direct.
+
+(3) Where a direction is given to a public body under this section, the body must comply with it.
+
+(4) A direction under this section may not require a public body to do something it may not otherwise do in the exercise of its functions.
+
+(5) A direction under this section—
+
+(a) must be published;
+
+(b) may be varied or revoked by a later direction;
+
+(c) is enforceable by mandatory order on an application by, or on behalf of, the Welsh Ministers.
+
+#### 13 Guidance about implementing area statements
+
+(1) In exercising its functions, a public body must have regard to any guidance given to it by the Welsh Ministers about steps that should be taken to address the matters specified in an area statement under section 11(3).
+
+(2) The Welsh Ministers must publish any guidance they give for the purposes of this section.
+
+#### 14 Duty of public bodies to provide information or other assistance to NRW
+
+(1) If NRW asks a public body to provide NRW with information which it requires for the purpose of exercising functions under section 8 or 11, the public body must provide the information unless the public body is prohibited from providing it by virtue of an enactment or any other rule of law.
+
+(2) If NRW asks a public body to exercise its functions to provide NRW with other assistance which NRW requires for the purpose of exercising functions under section 8 or 11, the public body must provide the assistance unless the public body considers that doing so would—
+
+(a) be incompatible with the public body's own duties, or
+
+(b) otherwise have an adverse effect on the exercise of the public body's functions.
+
+(3) The duties of a public body in subsections (1) and (2) are also duties of the Future Generations Commissioner for Wales, but they only apply to the Commissioner if the information or other assistance is required for the production of a report under section 8 on the state of natural resources.
+
+#### 15 Duty of NRW to provide information or other assistance to public bodies
+
+(1) If a public body asks NRW to provide the public body with information which it requires for the purpose of implementing an area statement, NRW must provide the information unless NRW is prohibited from providing it by virtue of an enactment or any other rule of law.
+
+(2) If a public body asks NRW to exercise its functions to provide the public body with other assistance which the public body requires for the purpose of implementing an area statement, NRW must provide the assistance unless NRW considers that doing so would⁠—
+
+(a) be incompatible with NRW's own duties, or
+
+(b) otherwise have an adverse effect on the exercise of NRW's functions.
+
+### Land management agreements
+
+#### 16 Power to enter into land management agreements
+
+(1) NRW may make an agreement with a person who has an interest in land in Wales about the management or use of the land (a “land management agreement”), if doing so appears to it to promote the achievement of any objective it has in the exercise of its functions.
+
+(2) A land management agreement may, among other things—
+
+(a) impose on the person who has an interest in the land obligations in respect of the use of the land;
+
+(b) impose on the person who has an interest in the land restrictions on the exercise of rights over the land;
+
+(c) provide for the carrying out of such work as may be expedient for the purposes of the agreement by any person or persons;
+
+(d) provide for any matter for which a management scheme relating to a site of special scientific interest provides (or could provide);
+
+(e) provide for the making of payments by either party to the other party or to any other person;
+
+(f) contain incidental and consequential provision.
+
+(3) In this section—
+
+- “interest in land” (“*buddiant mewn tir*”) includes any estate in land and any right over land, whether the right is exercisable by virtue of ownership of an interest in land or by virtue of a licence or agreement, and in particular includes sporting rights;
+- “management scheme” (“*cynllun rheoli*”) has the meaning given by Part 2 of the Wildlife and Countryside Act 1981 (c. 69) (see section 28J);
+- “site of special scientific interest” (“*safle o ddiddordeb gwyddonol arbennig*”) has the meaning given by Part 2 of the Wildlife and Countryside Act 1981 (see section 52(1)).
+
+#### 17 Effect on successors in title of certain land management agreements
+
+(1) Where a land management agreement is made with a person with a qualifying interest in land subject to the agreement which is not registered land, and the agreement provides that the provisions of this subsection have effect in relation to the agreement—
+
+(a) the agreement may be registered as a land charge under the Land Charges Act 1972 (c. 61) as if it were a charge affecting land falling within paragraph (ii) of Class D,
+
+(b) the provisions of section 4 of that Act (which relates to the effect of non-registration) apply as if the agreement were such a land charge, and
+
+(c) subject to the provisions of section 4 of that Act, the agreement is binding upon any successor of the person with the qualifying interest to the same extent as it is binding upon that person, despite the fact that it would not have been binding upon that successor apart from the provisions of this subsection.
+
+(2) Where a land management agreement is made with a person with a qualifying interest in land subject to the agreement which is registered land, and the agreement provides that the provisions of this subsection have effect in relation to the agreement—
+
+(a) the agreement may be the subject of a notice in the register of title under the Land Registration Act 2002 (c. 9) as if it were an interest affecting the registered land,
+
+(b) the provisions of sections 28 to 30 of that Act (effect of dispositions of registered land on priority of adverse interests) apply as if the agreement were such an interest, and
+
+(c) subject to the provisions of those sections, the agreement is binding upon any successor of the person with the qualifying interest to the same extent as it is binding upon that person, despite the fact that it would not have been binding upon that successor apart from the provisions of this subsection.
+
+(3) A person has a qualifying interest in land for the purpose of this section if the interest is⁠—
+
+(a) an estate in fee simple absolute in possession;
+
+(b) a term of years absolute granted for a term of more than seven years from the date of the grant and in the case of which some part of the period for which the term of years was granted remains unexpired.
+
+(4) In this section—
+
+- “registered land” (“*tir cofrestredig*”) has the same meaning as in the Land Registration Act 2002;
+
+- “successor” (“*olynydd*”), in relation to an agreement with a person with a qualifying interest in any land, means a person deriving title or otherwise claiming under that person with a qualifying interest, otherwise than in right of an interest or charge to which the interest of the person with the qualifying interest was subject immediately before—
+
+  - (a) the time when the agreement was made, where the land is not registered land, or
+  - (b) the time when the notice of the agreement was registered, where the land is registered land.
+
+#### 18 Application of Schedule 2 to the Forestry Act 1967 to land management agreements
+
+Schedule 2 to the Forestry Act 1967 (c. 10) (power for tenant for life and others to enter into forestry dedication covenants) applies to land management agreements as it applies to forestry dedication covenants.
+
+#### 19 Effect of agreements on dedication of highway and grant of easement
+
+For the purposes of any enactment or rule of law as to the circumstances in which the dedication of a highway or the grant of an easement may be presumed, or may be established by prescription, the use by the public or by any person of a way across land by virtue of a land management agreement is to be disregarded.
+
+#### 20 Transitional provisions
+
+(1) An agreement relating to land in Wales entered into by NRW, or any predecessor of that body, under a disapplied enactment is to be treated as a land management agreement.
+
+(2) The disapplied enactments are—
+
+(a) section 16 of the National Parks and Access to the Countryside Act 1949 (c. 97);
+
+(b) section 15 of the Countryside Act 1968 (c. 41);
+
+(c) section 39 of the Wildlife and Countryside Act 1981 (c. 69).
+
+#### 21 Crown land
+
+(1) The appropriate authority may enter into a land management agreement as respects an interest in Crown land held by or on behalf of the Crown.
+
+(2) A land management agreement as respects any other interest in Crown land is of no effect unless approved by the appropriate authority.
+
+(3) “Crown land” means land an interest in which—
+
+(a) belongs to Her Majesty in right of the Crown,
+
+(b) belongs to Her Majesty in right of the Duchy of Lancaster,
+
+(c) belongs to the Duchy of Cornwall, or
+
+(d) belongs to a government department or is held in trust for Her Majesty for the purposes of a government department.
+
+(4) “The appropriate authority”, in relation to any land, means—
+
+(a) if the land belongs to Her Majesty in right of the Crown, the Crown Estate Commissioners or other government department having the management of the land in question;
+
+(b) if the land belongs to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy;
+
+(c) if the land belongs to the Duchy of Cornwall, such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints;
+
+(d) if the land belongs to a government department or is held in trust for Her Majesty for the purposes of a government department, that department.
+
+(5) If any question arises under this section as to what authority is the appropriate authority in relation to any land, that question is to be referred to the Treasury, whose decision is final.
+
+### Experimental schemes
+
+#### 22 Power to suspend statutory requirements for experimental schemes
+
+(1) On the application of NRW, the Welsh Ministers may by regulations make provision in relation to Wales—
+
+(a) conferring on any person exemption from a statutory requirement for which NRW is responsible;
+
+(b) relaxing any such requirement r in its application to a person;
+
+(c) requiring a person to whom an exemption or relaxation applies to comply with conditions specified in the regulations;
+
+(d) modifying an enactment in a way the Welsh Ministers consider necessary for the enforcement of, or in consequence of, any provision made by virtue of paragraphs (a) to (c)?.
+
+(2) Regulations under subsection (1) may not make provision removing or modifying a function of a Minister of the Crown that was exercisable by a Minister of the Crown before 5 May 2011 unless the Secretary of State consents to the provision.
+
+(3) Before making provision under subsection (1), the Welsh Ministers—
+
+(a) must be satisfied that the provision is necessary to enable an experimental scheme that is likely to contribute to the sustainable management of natural resources to be carried out,
+
+(b) must be satisfied that the regulations will not have the overall effect of increasing the regulatory burden on any person, and
+
+(c) must consult—
+
+(i) persons they think are likely to be affected by provision in the regulations, and
+
+(ii) persons they think are likely to be otherwise affected by the experimental scheme.
+
+(4) Regulations under subsection (1) have effect during a period specified in the regulations which must not exceed three years.
+
+(5) But regulations under subsection (1) may, on one occasion only, extend the period for which previous regulations under that subsection have effect by a period of not more than three years from the end of the period specified in the previous regulations.
+
+(6) Where the only substantive effect of regulations under subsection (1) is to revoke previous regulations under that subsection, the regulations may be made without an application from NRW.
+
+(7) And subsection (3) does not apply to provisions in regulations under subsection (1) which revoke previous regulations under that subsection (whether or not NRW applies for the revocation).
+
+(8) Where provision has been made under subsection (1) to enable an experimental scheme to be carried out, NRW must—
+
+(a) evaluate the scheme at such time as it considers appropriate, and
+
+(b) publish a report setting out the evaluation and describing any action that NRW considers should be taken in light of it.
+
+(9) For the purposes of this section—
+
+(a) a statutory requirement is a requirement imposed by an enactment;
+
+(b) NRW is responsible for a statutory requirement if—
+
+(i) it is a requirement to comply with a standard set or requirement imposed by NRW,
+
+(ii) it is a requirement to obtain a licence or other authorisation from NRW before doing something,
+
+(iii) it is a requirement that may be enforced by NRW, or
+
+(iv) it is a requirement that applies to NRW and is concerned with the way in which, or the purposes for which, natural resources are managed or used.
+
+(10) In this section, “experimental scheme” means a scheme carried out under arrangements made by NRW under article 10C of the Natural Resources Body for Wales (Establishment) Order 2012 (S.I. 2012/1903).
+
+#### 23 Power of NRW to conduct experimental schemes etc.
+
+In the Natural Resources Body for Wales (Establishment) Order 2012 (S.I. 2012/1903), for article 10C substitute—
+
+> **10C Research and experimental schemes**
+>
+> (1) The Body may make arrangements for the carrying out (whether by the Body or by other persons) of research and experimental schemes that are relevant to the exercise of its functions.
+>
+> (2) The Body may provide support (by financial means or otherwise) for research and experimental schemes that are relevant to the exercise of its functions; and paragraphs (2) and (3) of article 10B apply to the giving of financial assistance under this paragraph.
+>
+> (3) In carrying out activities under this article relating to nature conservation, the Body must have regard to any common standards established under section 34(2)(c) of the Natural Environment and Rural Communities Act 2006 in so far as they are applicable to the activities.
+>
+> (4) In this article—
+>
+> - “experimental scheme” (“*cynllun arbrofol*”) means a scheme designed—
+>
+>   - (a) to develop or apply new or modified methods, concepts or techniques, or
+>   - (b) to develop or test proposals for regulatory change;
+>
+> - “research” (“*ymchwil*”) includes inquiries and investigations.
+
+### General
+
+#### 24 Power to amend periods for the preparation and publication of documents
+
+(1) The Welsh Ministers may by regulations make provision changing the time by which the following documents must be prepared or published—
+
+[[^F21](za) an evaluation report prepared under section 6A;]
+
+(a) a state of natural resources report or a draft of such a report;
+
+(b) the national natural resources policy.
+
+(2) Regulations under subsection (1) may make provision by way of amendment of this Part.
+
+(3) Before making regulations under subsection (1) [[^F22]in relation to the documents mentioned in subsection (1)(a) or (b),] the Welsh Ministers must consult NRW.
+
+#### 25 Regulations under this Part
+
+(1) A power to make regulations under this Part is to be exercised by statutory instrument.
+
+(2) A power to make regulations under this Part includes power—
+
+(a) to make different provision for different purposes or cases;
+
+(b) to make transitional or saving provision.
+
+(3) A statutory instrument containing regulations under this Part may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(4) A statutory instrument containing regulations whose only substantive effect is to revoke regulations made under section 22(1) [[^F23], or to revoke a target that has been set in regulations under section 6B and that has been met,] is not subject to the requirement in subsection (3), but must be laid before the National Assembly for Wales after being made.
+
+#### 26 General interpretation of this Part
+
+In this Part—
+
+- “biodiversity” (“*bioamrywiaeth*”) means the diversity of living organisms, whether at the genetic, species or ecosystem level;
+- “land” (“*tir*”) includes land covered by water;
+- “land management agreement” (“*cytundeb rheoli tir*”) means an agreement under section 16;
+- “national natural resources policy” (“*polisi adnoddau naturiol cenedlaethol*”) has the meaning given by section 9;
+- “natural resources” (“*adnoddau naturiol*”) is to be interpreted in accordance with section 2;
+- “NRW” (“*CNC*”) means the Natural Resources Body for Wales;
+- “principles of sustainable management of natural resources” (“*egwyddorion rheoli cynaliadwy ar adnoddau naturiol*”) has the meaning given by section 4;
+- “sustainable management of natural resources” (“*rheoli cynaliadwy ar adnoddau naturiol*”) has the meaning given by section 3.
+
+#### 27 Minor and consequential provision
+
+(1) The amendments made by this Part to the Natural Resources Body for Wales (Establishment) Order 2012 (S.I. 2012/1903) do not affect the power of the Welsh Ministers to make further orders under sections 13 and 15 of the Public Bodies Act 2011 (c. 24) amending or revoking the provision made by those amendments.
+
+(2) Part 1 of Schedule 2 provides for minor and consequential amendments and repeals relating to this Part.
+
+## PART 2 — CLIMATE CHANGE
+
+### Introduction
+
+#### 28 Purpose of this Part
+
+The purpose of this Part is to require the Welsh Ministers to meet targets for reducing emissions of greenhouse gases from Wales.
+
+### Emissions targets and carbon budgets: main duties of the Welsh Ministers
+
+#### 29 The 2050 emissions target
+
+(1) The Welsh Ministers must ensure that the net Welsh emissions account for the year 2050 is at least [[^F24]100%] lower than the baseline.
+
+(2) For the meaning of the “net Welsh emissions account” see section 33, and for the meaning of the “baseline” see section 38.
+
+(3) The Welsh Ministers may by regulations amend subsection (1) so that it specifies a percentage greater than 80%.
+
+(4) In this Part, the target in subsection (1) is referred to as the “2050 emissions target”.
+
+#### 30 Interim emissions targets
+
+(1) For each interim target year, the Welsh Ministers must by regulations set a maximum amount for the net Welsh emissions account, expressed as a percentage below the baseline (an “interim emissions target”).
+
+(2) The Welsh Ministers must ensure that the net Welsh emissions account for each interim target year does not exceed the interim emissions target for that year.
+
+(3) The interim target years are 2020, 2030 and 2040.
+
+(4) The Welsh Ministers must set the interim emissions targets before the end of 2018.
+
+#### 31 Carbon budgets
+
+(1) For each budgetary period, the Welsh Ministers must by regulations set a maximum total amount for the net Welsh emissions account (a “carbon budget”).
+
+(2) The Welsh Ministers must ensure that the net Welsh emissions account for each budgetary period does not exceed the carbon budget for that period.
+
+(3) The budgetary periods are—
+
+(a) 2016 to 2020, and
+
+(b) each succeeding period of five years, ending with 2046 to 2050.
+
+(4) The Welsh Ministers must—
+
+(a) set the carbon budgets for the first two budgetary periods before the end of 2018, and
+
+(b) set the carbon budget for the third and later budgetary periods at least five years before the start of the period in question.
+
+#### 32 Emissions targets and carbon budgets: principles
+
+(1) The Welsh Ministers must—
+
+(a) set each interim emissions target at a level that they are satisfied is consistent with meeting the 2050 emissions target, and
+
+(b) set the carbon budget for each budgetary period at a level that they are satisfied is consistent with meeting—
+
+(i) the 2050 emissions target, and
+
+(ii) the interim emissions target for any interim target year that falls within or after that budgetary period.
+
+(2) The Welsh Ministers may not make regulations changing the 2050 emissions target, an interim emissions target or a carbon budget unless at least one of the following conditions is met—
+
+(a) they are satisfied that it is appropriate to make the change as a result of significant developments in—
+
+(i) scientific knowledge about climate change, or
+
+(ii) EU or international law or policy relating to climate change;
+
+(b) the change has been recommended by the advisory body;
+
+(c) the change is in connection with provision made under section 35(1) or 37(2).
+
+(3) When making regulations changing the 2050 emissions target, or setting or changing an interim emissions target or a carbon budget, the Welsh Ministers must have regard to—
+
+(a) the most recent report under section 8 on the state of natural resources in relation to Wales,
+
+(b) the most recent future trends report under section 11 of the Well-being of Future Generations (Wales) Act 2015 (anaw 2),
+
+(c) the most recent report (if any) under section 23 of that Act (future generations report),
+
+(d) scientific knowledge about climate change,
+
+(e) technology relevant to climate change, and
+
+(f) EU and international law and policy relating to climate change (including international agreements on measures designed to limit increases in global average temperatures).
+
+(4) Sections 49 and 50 make provision about advice that the Welsh Ministers must obtain from the advisory body and take into account before making regulations changing the 2050 emissions target or setting or changing an interim emissions target or a carbon budget.
+
+### Targets and budgets: scope and main concepts
+
+#### 33 The net Welsh emissions account
+
+(1) The “net Welsh emissions account” for a period is the amount calculated as follows—
+
+(a) determine the amount of net Welsh emissions of greenhouse gases for the period in accordance with section 34;
+
+(b) subtract the amount of carbon units credited to the net Welsh emissions account for the period;
+
+(c) add the amount of carbon units debited from the net Welsh emissions account for the period.
+
+(2) The Welsh Ministers may by regulations make provision about—
+
+(a) the circumstances in which carbon units may be credited to the net Welsh emissions account for a period;
+
+(b) the circumstances in which carbon units must be debited from the net Welsh emissions account for a period;
+
+(c) how this is to be done.
+
+(3) The regulations must contain provision for ensuring that carbon units that are credited to the net Welsh emissions account for a period cease to be available to offset other greenhouse gas emissions.
+
+(4) The Welsh Ministers must by regulations set a limit on the net amount of carbon units by which the net Welsh emissions account for a period may be reduced as a result of applying subsection (1)(b) and (c).
+
+(5) The regulations may provide that carbon units of a description specified in the regulations do not count towards the limit.
+
+#### 34 Net Welsh emissions
+
+(1) In this Part, the “net Welsh emissions” of a greenhouse gas for a period means the amount of Welsh emissions of that gas for the period, reduced by the amount of Welsh removals of that gas for the period.
+
+(2) “Welsh emissions” of a greenhouse gas are—
+
+(a) emissions of that gas from sources in Wales, and
+
+(b) emissions of that gas from international aviation or international shipping that count as Welsh emissions by virtue of regulations under section 35.
+
+(3) “Welsh removals” of a greenhouse gas are removals of that gas from the atmosphere due to land use in Wales, land-use change in Wales or forestry activities in Wales.
+
+(4) The amounts of Welsh emissions and Welsh removals of a greenhouse gas for a period must, so far as reasonably practicable, be determined consistently with international carbon reporting practice.
+
+#### 35 Welsh emissions from international aviation and shipping
+
+(1) The Welsh Ministers may by regulations make provision for emissions of a greenhouse gas from international aviation and international shipping to count as Welsh emissions of the gas.
+
+(2) The regulations may—
+
+(a) specify activities which are to be regarded as international aviation or international shipping;
+
+(b) specify the circumstances in which, and the extent to which, emissions of a greenhouse gas from international aviation or international shipping are to count as Welsh emissions of that gas;
+
+(c) specify the period (whether past or future) from which emissions of a greenhouse gas from international aviation or international shipping are to count as Welsh emissions of that gas;
+
+(d) make provision about how emissions of a greenhouse gas from international aviation or international shipping are to be taken into account in determining Welsh emissions of that gas for the baseline year for that gas;
+
+(e) make different provision for different greenhouse gases and different periods.
+
+#### 36 Carbon units
+
+(1) In this Part, a “carbon unit” means a unit of a kind specified in regulations made by the Welsh Ministers and representing—
+
+(a) a reduction in an amount of greenhouse gas emissions,
+
+(b) the removal of an amount of greenhouse gas from the atmosphere, or
+
+(c) an amount of greenhouse gas emissions allowed under a scheme or arrangement imposing a limit on such emissions.
+
+(2) The Welsh Ministers may by regulations make provision for a scheme—
+
+(a) for registering or otherwise keeping track of carbon units, or
+
+(b) for establishing and maintaining accounts in which carbon units may be held, and between which they may be transferred, by the Welsh Ministers.
+
+(3) The regulations may, in particular, provide for an existing scheme to be adapted for these purposes (including by amending any enactment relating to the existing scheme).
+
+(4) The regulations may make provision—
+
+(a) appointing a person (an “administrator”) to administer the scheme;
+
+(b) conferring or imposing functions on the administrator for that purpose (including by amending any enactment relating to the administrator);
+
+(c) conferring power on the Welsh Ministers to give guidance or directions to the administrator;
+
+(d) conferring power on the Welsh Ministers to delegate the performance of any of the functions conferred or imposed on the Welsh Ministers by the regulations;
+
+(e) requiring the payment by persons using the scheme of charges (of an amount determined by or under the regulations) towards the cost of operating it.
+
+#### 37 Greenhouse gases
+
+(1) For the purposes of this Part, each of the following is a “greenhouse gas”—
+
+(a) carbon dioxide;
+
+(b) methane;
+
+(c) nitrous oxide;
+
+(d) hydrofluorocarbons;
+
+(e) perfluorocarbons;
+
+(f) sulphur hexafluoride;
+
+(g) nitrogen trifluoride.
+
+(2) The Welsh Ministers may by regulations amend subsection (1) to add a gas or modify a description of a gas.
+
+#### 38 The baseline
+
+(1) In this Part, the “baseline” means the aggregate amount of net Welsh emissions of greenhouse gases for the baseline years.
+
+(2) The baseline year for each greenhouse gas is—
+
+(a) carbon dioxide: 1990;
+
+(b) methane: 1990;
+
+(c) nitrous oxide: 1990;
+
+(d) hydrofluorocarbons: 1995;
+
+(e) perfluorocarbons: 1995;
+
+(f) sulphur hexafluoride: 1995;
+
+(g) nitrogen trifluoride: 1995.
+
+(3) The Welsh Ministers may by regulations amend subsection (2) to—
+
+(a) specify the baseline year for a greenhouse gas added by regulations under section 37(2);
+
+(b) modify the baseline year for a greenhouse gas.
+
+(4) The Welsh Ministers may make provision under subsection (3)(b) only if they are satisfied that it is appropriate to do so as a result of significant developments in EU or international law or policy relating to climate change.
+
+### Compliance with carbon budgets: reports and statements by the Welsh Ministers
+
+#### 39 Proposals and policies for meeting carbon budget
+
+(1) The Welsh Ministers must prepare and publish a report for each budgetary period setting out their proposals and policies for meeting the carbon budget for that period.
+
+(2) The report must set out proposals and policies covering the areas of responsibility of each of the Welsh Ministers.
+
+(3) The Welsh Ministers must—
+
+(a) publish the report for the first budgetary period as soon as reasonably practicable after setting the carbon budget for that period;
+
+(b) publish the report for the second and later budgetary periods before the end of the first year of the period in question.
+
+#### 40 Carrying amounts from one budgetary period to another
+
+(1) The Welsh Ministers may decide to carry part of the carbon budget for a budgetary period back to the preceding budgetary period.
+
+(2) The carbon budget for the later period is reduced, and that for the earlier period is increased, by the amount carried back.
+
+(3) The amount carried back must not exceed 1% of the carbon budget for the later period.
+
+(4) The Welsh Ministers may decide to carry any unused part of the carbon budget for a budgetary period forward to the next budgetary period.
+
+(5) The carbon budget for the later period is increased, and that for the earlier period is reduced, by the amount carried forward.
+
+(6) The carbon budget for a period is “unused” to the extent that it exceeds the net Welsh emissions account for the period.
+
+(7) Before deciding to carry an amount back or forward under this section, the Welsh Ministers must consult the advisory body.
+
+#### 41 Final statement for budgetary period
+
+(1) The Welsh Ministers must—
+
+(a) prepare a final statement for each budgetary period in accordance with this section, and
+
+(b) lay the statement before the National Assembly for Wales before the end of the second year after the period to which it relates.
+
+(2) A final statement under this section must state, in respect of each greenhouse gas, the total amount of Welsh emissions, Welsh removals and net Welsh emissions for the budgetary period to which the statement relates.
+
+(3) It must—
+
+(a) state the total amount of carbon units that have been credited to or debited from the net Welsh emissions account for the period, and
+
+(b) give details of the number and type of those units.
+
+(4) It must state the final amount of the net Welsh emissions account for the period.
+
+(5) It must state whether the Welsh Ministers have decided to carry an amount back or forward under section 40 so as to increase or reduce the carbon budget for the period, and if so must state the amount carried back or forward.
+
+(6) It must state the final amount of the carbon budget for the period.
+
+(7) Whether the carbon budget for the period has been met is to be determined by reference to the information in the statement.
+
+(8) The statement must explain what the Welsh Ministers consider to be the reasons why the carbon budget for the period has, or has not, been met.
+
+(9) In particular, it must include the Welsh Ministers' assessment of the extent to which their proposals and policies for meeting the carbon budget for the period—
+
+(a) have been carried out, and
+
+(b) have contributed to the carbon budget for the period being met (or not being met).
+
+(10) The assessment must cover the areas of responsibility of each of the Welsh Ministers.
+
+(11) A statement under this section must also include—
+
+(a) an estimate of the total amount of Welsh consumer emissions for the budgetary period to which the statement relates, and
+
+(b) an explanation of how the Welsh Ministers have calculated the estimate.
+
+(12) The “Welsh consumer emissions” for a period are the emissions of greenhouse gases, whether in Wales or elsewhere, that may reasonably be attributed to the consumption and use of goods and services in Wales during the period.
+
+#### 42 Proposals and policies where carbon budget not met
+
+(1) This section applies if the Welsh Ministers have laid a final statement before the National Assembly for Wales in respect of a budgetary period for which the net Welsh emissions account exceeds the carbon budget.
+
+(2) No later than three months after laying the statement, the Welsh Ministers must lay before the National Assembly for Wales a report setting out proposals and policies to compensate for the excess emissions in later budgetary periods.
+
+### Compliance with emissions targets: statements by the Welsh Ministers
+
+#### 43 Statements for interim target years and 2050
+
+(1) The Welsh Ministers must—
+
+(a) prepare a statement for each interim target year and for the year 2050 in accordance with this section, and
+
+(b) lay each statement before the National Assembly for Wales before the end of the second year after the year to which it relates.
+
+(2) A statement under this section must state, in respect of each greenhouse gas, the total amount of Welsh emissions, Welsh removals and net Welsh emissions for the year to which the statement relates.
+
+(3) It must—
+
+(a) state the total amount of carbon units that have been credited to or debited from the net Welsh emissions account for the year, and
+
+(b) give details of the number and type of those units.
+
+(4) It must state the amount of the net Welsh emissions account for the year.
+
+(5) Whether an interim emissions target or the 2050 emissions target has been met is to be determined by reference to the information in the statement for the year to which the target relates.
+
+(6) The statement must explain what the Welsh Ministers consider to be the reasons why the target has, or has not, been met.
+
+(7) A statement A under this section for a year may be combined with the statement under section 41 for the budgetary period that includes that year.
+
+### Functions of advisory body: reports and advice
+
+#### 44 Advisory body
+
+(1) The Welsh Ministers may by regulations—
+
+(a) establish a body corporate to exercise the functions of the advisory body under this Part, or
+
+(b) designate a person to be the advisory body for the purposes of this Part.
+
+(2) The regulations may designate a person only if the person exercises functions of a public nature.
+
+(3) If no regulations under subsection (1) are in force, the advisory body is the Committee on Climate Change established under section 32 of the Climate Change Act 2008 (c. 27).
+
+(4) Regulations under subsection (1)(a) may, in particular, include provision about—
+
+(a) the status and membership of the body established by the regulations;
+
+(b) the employment of staff by the body;
+
+(c) remuneration, allowances and pensions for members and staff;
+
+(d) the organisation and procedure of the body;
+
+(e) reports and accounts (including audit).
+
+(5) Regulations under subsection (1)(a) may enable the Welsh Ministers to give directions to the body in relation to the matters mentioned in subsection (4).
+
+(6) Regulations under subsection (1) may make incidental, supplementary, consequential, transitional or saving provision, which may include provision amending, repealing or revoking an enactment.
+
+#### 45 Progress reports
+
+(1) Before the end of the first budgetary period, the advisory body must send a report to the Welsh Ministers setting out the body's views on—
+
+(a) the progress that has been made towards meeting—
+
+(i) the carbon budgets that have been set under this Part,
+
+(ii) the interim emissions targets﻿, and
+
+(iii) the 2050 emissions target,
+
+(b) whether those budgets and targets are likely to be met, and
+
+(c) any further measures that are needed to meet those budgets and targets.
+
+(2) No later than six months after the Welsh Ministers lay the final statement for a budgetary period before the National Assembly for Wales under section 41, the advisory body must send a report to the Welsh Ministers setting out the body's views on—
+
+(a) the way in which the carbon budget for the period was or was not met,
+
+(b) the action taken by the Welsh Ministers to reduce net Welsh emissions of greenhouse gases during the period, and
+
+(c) the matters set out in subsection (1).
+
+(3) No later than six months after the Welsh Ministers lay the statement under section 43 relating to 2030 before the National Assembly for Wales, the advisory body must send a report to the Welsh Ministers setting out the body's views on—
+
+(a) whether the interim emissions target for 2040 and the 2050 emissions target are the highest achievable targets, and
+
+(b) if either of them is not the highest achievable target, what is the highest achievable target.
+
+(4) No later than six months after the Welsh Ministers lay the statement under section 43 relating to 2040 before the National Assembly for Wales, the advisory body must send a report to the Welsh Ministers setting out the body's views on—
+
+(a) whether the 2050 emissions target is the highest achievable target, and
+
+(b) if not, what is the highest achievable target.
+
+(5) A report under subsection (3) or (4) may be combined with a report under subsection (2).
+
+(6) The Welsh Ministers must lay a copy of each report they receive under this section before the National Assembly for Wales.
+
+(7) The Welsh Ministers must lay a response to the points raised by the report before the National Assembly for Wales no later than six months after receiving the report.
+
+#### 46 Duty of advisory body to provide advice and assistance
+
+If requested to do so by the Welsh Ministers, the advisory body must provide the Welsh Ministers with advice, analysis, information or other assistance that is relevant to—
+
+(a) the exercise of the Welsh Ministers' functions under this Part, or
+
+(b) any other matters relating to climate change.
+
+#### 47 Guidance to advisory body
+
+(1) In exercising its functions under this Part, the advisory body must have regard to any guidance given to it by the Welsh Ministers.
+
+(2) The Welsh Ministers may not give the advisory body guidance as to the content of any advice or report.
+
+### Regulations: procedure and advice
+
+#### 48 Regulations: procedure
+
+(1) A power to make regulations under this Part is to be exercised by statutory instrument.
+
+(2) A statutory instrument is subject to annulment in pursuance of a resolution of the National Assembly for Wales if it contains only—
+
+(a) regulations under section 44(1)(b) which do not make provision amending or repealing an enactment contained in an Act of Parliament or a Measure or Act of the National Assembly for Wales;
+
+(b) regulations under section 52.
+
+(3) Any other statutory instrument containing regulations under this Part may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the National Assembly for Wales.
+
+#### 49 Requirement to obtain advice about proposals to make regulations
+
+(1) Before laying draft regulations before the National Assembly for Wales in accordance with section 48, the Welsh Ministers must—
+
+(a) request advice from the advisory body about the proposal to make the regulations, and
+
+(b) take the advisory body's advice into account.
+
+(2) When the Welsh Ministers request advice from the advisory body under this section, they must specify a reasonable period within which the advice must be provided.
+
+(3) The advisory body must provide the advice within that period.
+
+(4) The advisory body's advice must set out the reasons for the advice.
+
+(5) The Welsh Ministers must publish the advisory body's advice as soon as reasonably practicable after receiving it.
+
+(6) If the draft regulations laid before the National Assembly for Wales make different provision from that recommended by the advisory body, the Welsh Ministers must also lay before the National Assembly a statement setting out the reasons why.
+
+(7) This section does not apply to regulations under section 44.
+
+#### 50 Advice about proposed regulations relating to targets and budgets
+
+(1) When the advisory body provides the Welsh Ministers with advice about a proposal to make regulations under section 29 changing the 2050 emissions target or regulations under section 30 setting or changing an interim emissions target, the advice must include the advisory body's opinion as to—
+
+(a) whether the target proposed by the Welsh Ministers is the highest achievable target, and
+
+(b) if not, what is the highest achievable target.
+
+(2) When the advisory body provides the Welsh Ministers with advice about a proposal to make regulations under section 31 setting or changing a carbon budget for a budgetary period, the advice must include the advisory body's opinion as to—
+
+(a) the appropriate level of the carbon budget for the period;
+
+(b) the extent to which the carbon budget for the period should be met—
+
+(i) by reducing the amount of net Welsh emissions of greenhouse gases, or
+
+(ii) by the use of carbon units that in accordance with regulations under sections 33 and 36 may be credited to the net Welsh emissions account for the period;
+
+(c) the respective contributions towards meeting the carbon budget for the period that should be made—
+
+(i) by the sectors of the Welsh economy covered by trading schemes (taken as a whole);
+
+(ii) by the sectors of the Welsh economy not so covered (taken as a whole);
+
+(d) the sectors of the Welsh economy in which there are particular opportunities for contributions to be made towards meeting the carbon budget for the period through reductions in emissions of greenhouse gases.
+
+(3) When advising the Welsh Ministers about a proposal to make regulations changing the 2050 emissions target, or setting or changing an interim emissions target or a carbon budget, the advisory body must have regard to the matters mentioned in section 32(3).
+
+(4) In subsection (2), “trading scheme” has the meaning given by section 44 of the Climate Change Act 2008 (c. 27).
+
+### Measurement and interpretation
+
+#### 51 Measurement of emissions
+
+(1) For the purposes of this Part, each of the following must be measured or calculated in tonnes of carbon dioxide equivalent—
+
+(a) emissions of greenhouse gases;
+
+(b) reductions in greenhouse gas emissions;
+
+(c) removals of greenhouse gases from the atmosphere.
+
+(2) A “tonne of carbon dioxide equivalent” means one metric tonne of carbon dioxide or an amount of any other greenhouse gas with an equivalent global warming potential (calculated consistently with international carbon reporting practice).
+
+#### 52 International carbon reporting practice
+
+In this Part, “international carbon reporting practice” means accepted practice in relation to reporting for the purposes of—
+
+(a) the protocols to the United Nations Framework Convention on Climate Change, or
+
+(b) such other international agreements or arrangements, or obligations under EU law, as the Welsh Ministers may specify by regulations.
+
+#### 53 General interpretation of this Part
+
+In this Part—
+
+- “2050 emissions target” (“*targed allyriadau 2050*”) has the meaning given by section 29;
+
+- “advisory body” (“*corff cynghori*”) is to be interpreted in accordance with section 44;
+
+- “baseline” (“*gwaelodlin*”) has the meaning given by section 38;
+
+- “budgetary period” (“*cyfnod cyllidebol*”) has the meaning given by section 31(3);
+
+- “carbon budget” (“*cyllideb garbon*“) has the meaning given by section 31(1);
+
+- “carbon unit” (“*uned garbon*”) has the meaning given by section 36(1);
+
+- “emissions” (“*allyriadau*”), in relation to a greenhouse gas, means emissions of that gas into the atmosphere that are attributable to human activity;
+
+- “EU law” (“*cyfreithiau'r UE*”) means—
+
+  - (a) all the rights, powers, liabilities, obligations and restrictions from time to time created or arising by or under the EU Treaties, and
+  - (b) all the remedies and procedures from time to time provided for by or under the EU Treaties;
+
+- “greenhouse gas” (“*nwy tŷ gwydr*”) has the meaning given by section 37;
+
+- “interim emissions target” (“*targed allyriadau interim*”) has the meaning given by section 30(1);
+
+- “interim target year” (“*blwyddyn darged interim*”) has the meaning given by section 30(3);
+
+- “international carbon reporting practice” (“*arferion rhyngwladol adrodd ar garbon*”) has the meaning given by section 52;
+
+- “net Welsh emissions” (“*allyriadau net Cymru*”) has the meaning given by section 34(1);
+
+- “net Welsh emissions account” (“*cyfrif allyriadau net Cymru*”) has the meaning given by section 33;
+
+- “Welsh emissions” (“*allyriadau Cymru*”) has the meaning given by section 34(2);
+
+- “Welsh removals” (“*echdyniadau Cymru*”) has the meaning given by section 34(3).
+
+## PART 3 — CHARGES FOR CARRIER BAGS (prospective)
+
+### Regulations about charges for carrier bags (prospective)
+
+#### 54 Meaning of “carrier bag” (prospective)
+
+In this Part, “carrier bag” means a bag supplied for the purpose of—
+
+(a) enabling goods to be taken away from the place where they are sold, or
+
+(b) enabling goods to be delivered.
+
+#### 55 Requirement to charge (prospective)
+
+(1) The Welsh Ministers must make regulations under this section (“carrier bag regulations”).
+
+(2) Carrier bag regulations may require sellers of goods to charge for the supply of carrier bags of descriptions specified in the regulations in the circumstances mentioned in subsection (3).
+
+(3) The circumstances are that the goods are—
+
+(a) sold at or from a place in Wales, or
+
+(b) intended to be delivered to a person in Wales.
+
+(4) The regulations may specify a description of carrier bag by reference (for example) to—
+
+(a) the bag's size, thickness, construction, composition or other characteristics,
+
+(b) the bag's intended use,
+
+(c) the price charged by the seller of goods for supplying the bag (excluding any charge required by the regulations),
+
+or any combination of those factors.
+
+(5) The regulations may—
+
+(a) specify the minimum amount that must be charged for a carrier bag, or
+
+(b) provide for that amount to be determined in accordance with the regulations.
+
+(6) In this Part, “the charge” means any charge for the supply of carrier bags made in accordance with carrier bag regulations.
+
+#### 56 Sellers of goods (prospective)
+
+(1) In this Part, “seller of goods” means a person who sells goods in the course of a business.
+
+(2) For the purposes of subsection (1), a person is acting in the course of a business if the person is—
+
+(a) carrying on any business or undertaking, whether for profit or not, or
+
+(b) exercising any functions of a public nature.
+
+(3) Subsections (1) and (2) are subject to any provision made by carrier bag regulations about persons who are, or are not, to be regarded as sellers in relation to goods.
+
+(4) Carrier bag regulations may make provision which applies to—
+
+(a) all sellers of goods,
+
+(b) specified sellers of goods,
+
+(c) sellers of goods of a specified description, or
+
+(d) sellers within paragraph (b) and sellers within paragraph (c).
+
+(5) The regulations may specify a description of seller by reference to—
+
+(a) the place or places at or from which a seller supplies goods;
+
+(b) the type of goods that a seller supplies;
+
+(c) the value of goods that a seller supplies;
+
+(d) a seller's turnover or any part of the turnover;
+
+(e) a seller's arrangements for applying the net proceeds of the charge (see section 57);
+
+(f) any other factor that the Welsh Ministers consider appropriate, whether or not that factor is of the same kind as those listed in paragraphs (a) to (e).
+
+#### 57 Application of proceeds (prospective)
+
+(1) Carrier bag regulations must require the net proceeds of the charge to be applied to charitable purposes which—
+
+(a) relate to environmental protection or improvement, and
+
+(b) directly or indirectly benefit the whole or any part of Wales (whether or not they also benefit any other area).
+
+(2) But the regulations must provide for an exception enabling a seller of goods to apply the net proceeds of the charge to other charitable purposes where—
+
+(a) the seller has, within a specified period occurring before provision made under subsection (1) first comes into force, applied amounts received by way of charges for carrier bags to those purposes, and
+
+(b) the seller has given notice of having applied amounts to those purposes as mentioned in paragraph (a) and of the seller's wish to be able to apply some or all of the net proceeds of the charge to those purposes.
+
+(3) The regulations may make provision—
+
+(a) about how, when and to whom notice must be given;
+
+(b) about information that must be provided when giving notice;
+
+(c) for the exception to apply subject to conditions.
+
+(4) The provision made by the regulations under subsection (1) may require a seller of goods to apply the net proceeds of the charge—
+
+(a) to such charitable purposes within that subsection as the seller may determine, or
+
+(b) where the regulations specify one or more charitable purposes, to those specified purposes or to such of them as the seller may determine.
+
+(5) Carrier bag regulations may (among other things)—
+
+(a) provide for the net proceeds of the charge to be treated as having been applied in accordance with provision made under this section if they are accepted by specified persons or persons of a specified description (or both);
+
+(b) make provision about the arrangements under which the net proceeds of the charge are to be given by sellers to the persons mentioned in paragraph (a) or any other person;
+
+(c) require persons who accept any net proceeds of the charge to apply the proceeds to charitable purposes in accordance with provision made under subsection (1) or (2).
+
+(6) The regulations may—
+
+(a) provide for recovery by the Welsh Ministers of sums equal to the proceeds of the charge that have been accepted or applied otherwise than in accordance with provision made under this section;
+
+(b) provide for the application of sums recovered by the Welsh Ministers to charitable purposes within subsection (1) (including such charitable purposes within that subsection as the Welsh Ministers may determine);
+
+(c) provide that sums recovered by the Welsh Ministers are not to be paid into the Welsh Consolidated Fund.
+
+(7) Carrier bag regulations may make provision that applies to persons other than sellers of goods, if the Welsh Ministers consider that such provision is appropriate for the enforcement of provision made under this section or for otherwise making such provision effective.
+
+(8) In this Part, “charitable purpose” has the meaning given in the Charities Act 2011 (c. 25) (see section 2 of that Act); but carrier bag regulations may provide for the definition to apply for the purposes of this Part with such modifications as the Welsh Ministers consider necessary or expedient for securing an appropriate application of the net proceeds of the charge.
+
+### Administration and enforcement (prospective)
+
+#### 58 Administration (prospective)
+
+(1) Carrier bag regulations may appoint a person (an “administrator”) to administer provision made by the regulations.
+
+(2) More than one person may be appointed as administrator.
+
+(3) The regulations may confer powers, or impose duties, on an administrator
+
+(4) The provision that may be made by virtue of subsection (3) includes provision—
+
+(a) making modifications to any enactment applying to the administrator, or
+
+(b) for any such enactment to apply, with or without modifications, for the purposes of the regulations.
+
+(5) References in this Part to an administrator include a person appointed by an administrator.
+
+#### 59 Record-keeping and publication of records (prospective)
+
+(1) Carrier bag regulations may require records to be kept relating to charges made by sellers of goods for carrier bags (whether or not the charges are required by the regulations).
+
+(2) The regulations may require—
+
+(a) the records, or such other information as may be specified, to be published at such times and in such manner as may be specified;
+
+(b) the records, or such other information as may be specified, to be supplied on request and in such manner as may be specified to—
+
+(i) the Welsh Ministers,
+
+(ii) an administrator, or
+
+(iii) members of the public.
+
+(3) The regulations may (for example) require the publication or supply of records or information relating to any of the following—
+
+(a) the amount received by a seller of goods by way of charges for carrier bags (whether in accordance with the regulations or otherwise);
+
+(b) the seller's gross or net proceeds of the charge;
+
+(c) the uses to which the net proceeds of the charge have been put.
+
+(4) Carrier bag regulations may also require the publication or supply of records or information relating to the amount that a person has received from a seller by way of net proceeds of the charge to be applied to charitable purposes.
+
+#### 60 Enforcement (prospective)
+
+(1) Carrier bag regulations may confer or impose powers or duties on an administrator to enforce provision made by the regulations.
+
+(2) The regulations may (for example) confer powers on an administrator to—
+
+(a) require the production of documents or the provision of information, or
+
+(b) question a seller of goods or officers or employees of a seller.
+
+(3) The regulations may also confer powers on an administrator to question a person the administrator reasonably believes has received any net proceeds of the charge or officers or employees of such a person.
+
+(4) Carrier bag regulations that confer a power within subsection (2) must contain provision for ensuring that the power is exercised by an administrator only where the administrator reasonably believes there has been a failure to comply with a requirement of the regulations.
+
+#### 61 Civil sanctions (prospective)
+
+Schedule 1 makes provision about civil sanctions.
+
+### General (prospective)
+
+#### 62 Regulations under this Part (prospective)
+
+(1) The power to make carrier bag regulations is to be exercised by statutory instrument.
+
+(2) The power to make carrier bag regulations includes power—
+
+(a) to make different provision for different purposes or cases;
+
+(b) to make incidental, supplementary, consequential, transitional or saving provision.
+
+(3) Provision under subsection (2)(b) may amend, repeal or revoke an enactment.
+
+(4) A statutory instrument containing carrier bag regulations may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+#### 63 General interpretation of this Part (prospective)
+
+In this Part—
+
+- “carrier bag” (“*bag siopa*”) has the meaning given by section 54;
+- “carrier bag regulations” (“*rheoliadau bagiau siopa*”) has the meaning given by section 55;
+- “the charge” (“*y tâl*”) has the meaning given by section 55;
+- “charitable purpose” (“*diben elusennol*”) is to be interpreted in accordance with section 57(8);
+- “gross proceeds of the charge” (“*enillion gros o'r tâl*”) means the amount received by a seller of goods by way of the charge;
+- “net proceeds of the charge” (“*enillion net o'r tâl*”) means a seller's gross proceeds of the charge reduced by such amounts as may be specified;
+- “seller of goods” (“*gwerthwr nwyddau*”) is to be interpreted in accordance with section 56;
+- “specified” (“*penodedig*”) means specified in carrier bag regulations.
+
+#### 64 Minor and consequential amendments and repeals (prospective)
+
+Part 2 of Schedule 2 contains minor and consequential amendments and repeals relating to this Part.
+
+## PART 4 — COLLECTION AND DISPOSAL OF WASTE
+
+### Separate collection etc. of waste
+
+#### 65 Requirements relating to separate collection etc. of waste
+
+In the Environmental Protection Act 1990 (c. 43), after section 45A insert—
+
+> **45AA Wales: separate collection etc. of waste**
+>
+> (1) Where a waste collection authority in Wales arranges for the collection of controlled waste in its area under section 45, it must arrange for the waste to be collected in accordance with any applicable separation requirements.
+>
+> (2) A person acting in the course of a business who—
+>
+> (a) collects controlled waste from premises in Wales, or
+>
+> (b) receives, keeps, treats or transports controlled waste in Wales,
+>
+> must do so in accordance with any applicable separation requirements.
+>
+> (3) For the purposes of subsection (2), a person is acting in the course of a business if the person is—
+>
+> (a) carrying on any business or undertaking, whether for profit or not, or
+>
+> (b) exercising any functions of a public nature.
+>
+> (4) An occupier of premises in Wales who presents controlled waste for collection (whether by a waste collection authority or by any other person) must do so in accordance with any applicable separation requirements.
+>
+> (5) Subsection (4) does not apply to an occupier of premises within paragraph (a) or (b) of section 75(5) (domestic property and caravans).
+>
+> (6) A separation requirement is a requirement to take steps specified in regulations made by the Welsh Ministers for the purpose of ensuring or maintaining the separation of one or more types of waste from other types of waste or from other substances or articles.
+>
+> (7) A separation requirement is applicable in the circumstances specified in relation to that requirement in regulations made by the Welsh Ministers.
+>
+> (8) A person commits an offence if the person fails without reasonable excuse to comply with subsection (2) or (4).
+>
+> (9) A person who commits an offence under subsection (8) is liable on summary conviction, or on conviction on indictment, to a fine.
+>
+> (10) The Welsh Ministers may by regulations make provision (which may include provision amending this section)—
+>
+> (a) for subsection (1) or (2) to apply subject to exceptions;
+>
+> (b) for subsection (4) to apply subject to exceptions in addition to those in subsection (5).
+>
+> (11) Regulations under this section may make different provision for different purposes, different cases (including different persons, premises or types of waste) and different areas.
+>
+> **45AB Code of practice**
+>
+> (1) The Welsh Ministers may issue one or more codes of practice for the purpose of giving practical guidance about how to comply with requirements imposed by or under section 45AA.
+>
+> (2) The Welsh Ministers may revoke or revise a code of practice issued under this section.
+>
+> (3) Before issuing a code of practice (or revised code), the Welsh Ministers must consult such persons as they think appropriate.
+>
+> (4) Where the Welsh Ministers issue a code of practice (or revised code) they must—
+>
+> (a) publish the code, and
+>
+> (b) lay a copy before the National Assembly for Wales.
+>
+> (5) A code of practice issued under this section is admissible in evidence in any proceedings and must be taken into account by a court in determining any question to which it appears to the court to be relevant.
+
+### Disposal of waste
+
+#### 66 Prohibition on disposal of food waste to sewer
+
+(1) In the Environmental Protection Act 1990, after section 34C insert—
+
+> **Wales: disposal of food waste**
+>
+> **34D Prohibition on disposal of food waste to sewer**
+>
+> (1) An occupier of premises in Wales must not—
+>
+> (a) discharge food waste produced on or brought onto the premises, or
+>
+> (b) knowingly cause or knowingly permit food waste produced on or brought onto the premises to be discharged,
+>
+> into a public sewer or a sewer or drain communicating with a public sewer.
+>
+> (2) Subsection (1) does not apply to an occupier of premises within paragraph (a) or (b) of section 75(5) (domestic property and caravans).
+>
+> (3) A person commits an offence if, without reasonable excuse, the person contravenes subsection (1).
+>
+> (4) A person who commits an offence under subsection (3) is liable on summary conviction, or on conviction on indictment, to a fine.
+>
+> (5) In subsection (1)—
+>
+> - “food waste” means controlled waste that—
+>
+>   - (a) has at any time been food (which for this purpose does not include drink) intended for human consumption, or
+>   - (b) is biodegradable waste arising from the processing or preparation of food or drink,
+>
+>   but does not include waste that is mixed with water or any other liquid as a result of the water or liquid having been used to clean any place or equipment used in processing or preparing food or drink;
+>
+> - “drain”, “public sewer” and “sewer” have the meanings given in section 219(1) of the Water Industry Act 1991.
+>
+> (6) The Welsh Ministers may by regulations—
+>
+> (a) provide for subsection (1) to apply only in circumstances specified in the regulations;
+>
+> (b) make provision (which may include provision amending this section) for subsection (1) to apply subject to exceptions in addition to those in subsection (2);
+>
+> (c) amend the definition of “food waste” in subsection (5).
+>
+> (7) Regulations under subsection (6)(a) or (b) may make different provision for different purposes, different cases (including different persons, premises or types of food waste) and different areas.
+
+(2) In section 118 of the Water Industry Act 1991 (c. 56)—
+
+(a) in subsection (1), after “trade premises” insert “ in England ”;
+
+(b) after subsection (1) insert—
+
+> (1A) Subject to the following provisions of this Chapter and section 34D of the Environmental Protection Act 1990, the occupier of any trade premises in Wales in the area of a sewage undertaker may discharge any trade effluent proceeding from those premises into the undertaker's public sewers if the occupier does so with the undertaker's consent.
+
+#### 67 Power to prohibit or regulate disposal of waste by incineration
+
+In the Waste (Wales) Measure 2010 (nawm 8), after section 9 insert—
+
+> **9A Regulations prohibiting incineration of waste**
+>
+> (1) The Welsh Ministers may by regulations make provision for and in connection with prohibiting or otherwise regulating the incineration in Wales of specified kinds of waste.
+>
+> (2) Regulations under subsection (1) may (among other things)—
+>
+> (a) amend regulations made under section 2 of the Pollution Prevention and Control Act 1999 which relate to the operation of waste incineration plants or waste co-incineration plants;
+>
+> (b) provide for offences in relation to failure to comply with provision made under the regulations;
+>
+> (c) provide for penalties in relation to such offences;
+>
+> (d) provide for enforcement authorities and the functions of such authorities.
+>
+> (3) In this section—
+>
+> - “incineration” (“*llosgi*”), in relation to waste, means—
+>
+>   - (a) incineration of the waste in a waste incineration plant or waste co-incineration plant, and
+>   - (b) any other thermal treatment of the waste prior to its incineration;
+>
+> - “waste incineration plant” (“*peiriant llosgi gwastraff*”) has the meaning given in Article 3(40) of Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) (Recast);
+>
+> - “waste co-incineration plant” (“*peiriant cydlosgi gwastraff*”) has the meaning given in Article 3(41) of that Directive.
+
+### Enforcement
+
+#### 68 Civil sanctions
+
+(1) For the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (c. 13) (“RESA 2008”), the offences under sections 34D and 45AA of the Environmental Protection Act 1990 (as inserted by sections 65 and 66) are to be treated as having been contained in that Act immediately before the day on which RESA 2008 was passed.
+
+(2) Section 10 of the Waste (Wales) Measure 2010 is amended as follows.
+
+(3) In the title, for “the deposit of waste in a landfill” substitute “ offences created by regulations under sections 9 and 9A ”.
+
+(4) In subsection (1), after “9(1)” insert “ or 9A(1) ”.
+
+(5) In subsection (2), for “Regulations under section 9(1) may” substitute “ The power may be exercised to ”.
+
+(6) For subsection (3) substitute—
+
+> (3) But sections 39(4) and 42(6) of RESA 2008 do not apply to the provision that may be made by regulations under section 9(1) or 9A(1) by virtue of subsection (2).
+
+(7) In subsection (4), for “to provision made under or by virtue of regulations under subsection (2) as they apply to provision” substitute “ where regulations under section 9(1) or 9A(1) make provision by virtue of subsection (2) as they apply where provision is ”.
+
+(8) In subsection (6), after “9(1)” insert “ or 9A(1) (as appropriate) ”.
+
+### General
+
+#### 69 Regulations
+
+(1) Section 161 of the Environmental Protection Act 1990 (regulations, orders and directions) is amended in accordance with subsections (2) to (4).
+
+(2) In subsection (1), for “National Assembly for Wales” substitute “ the Welsh Ministers ”.
+
+(3) In subsection (2A), for “made solely by the National Assembly for Wales” substitute “ containing regulations made solely by the Welsh Ministers ”.
+
+(4) After subsection (2A) insert—
+
+> (2AA) A statutory instrument containing regulations under section 34D or 45AA(10) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+>
+> (2AB) Any other statutory instrument containing regulations made by the Welsh Ministers under this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(5) In section 20(3) of the Waste (Wales) Measure 2010 (orders and regulations requiring approval of National Assembly for Wales), after “9,” insert “ 9A ”.
+
+#### 70 Minor and consequential amendments and repeals
+
+Part 3 of Schedule 2 contains minor and consequential amendments and repeals relating to this Part.
+
+## PART 5 — FISHERIES FOR SHELLFISH
+
+### Applications for orders relating to fisheries
+
+#### 71 Applications for orders relating to fisheries
+
+(1) In section 1 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (power to make orders as to fisheries for shellfish), after subsection (2) insert—
+
+> (2A) In relation to applications to the Welsh Ministers, subsection (2) has effect as if for “prescribed by regulations made by the appropriate Minister” there were substituted “ specified by the Welsh Ministers ”.
+>
+> (2B) The Welsh Ministers may require a person who applies to them for an order under this section to provide them with such further information as they think necessary to enable them to determine the application.
+
+(2) The amendment made by subsection (1) does not apply in relation to applications that have been made to the Welsh Ministers before this section comes into force.
+
+### Protection of marine environment
+
+#### 72 Requirement to include environmental provisions in orders relating to fisheries
+
+(1) The Sea Fisheries (Shellfish) Act 1967 is amended as follows.
+
+(2) After section 5 insert—
+
+> **5A Orders made by Welsh Ministers: protection of marine environment**
+>
+> (1) An order made by the Welsh Ministers under section 1 of this Act must contain—
+>
+> (a) such provision (if any) as the Welsh Ministers consider appropriate for the purpose of preventing harm to any European marine site identified in the order, and
+>
+> (b) such other provision (if any) as they consider appropriate for the purpose of protecting the marine environment.
+>
+> (2) For the purposes of this section, “the marine environment” includes—
+>
+> (a) the natural beauty or amenity of marine or coastal areas (including their geological or physiographical features);
+>
+> (b) features of archaeological or historic interest in such areas;
+>
+> (c) flora and fauna which are dependent on, or associated with, a marine or coastal environment.
+
+(3) In section 3, in subsection (2), for “section 4” substitute “ sections 4 and 5A ”.
+
+#### 73 Power to serve notices for protection of European marine sites
+
+In the Sea Fisheries (Shellfish) Act 1967, after section 5A (as inserted by section 72) insert⁠—
+
+> **5B European marine sites: power of Welsh Ministers to serve site protection notice**
+>
+> (1) If it appears to the Welsh Ministers that harm to a European marine site has occurred, or is likely to occur, as a result of any activity—
+>
+> (a) carried on in the exercise of a right conferred by an order made by them under section 1 of this Act, or
+>
+> (b) authorised in pursuance of provision made by or under such an order which confers a right of regulating a fishery,
+>
+> the Welsh Ministers may serve a site protection notice on the grantees of the order.
+>
+> (2) A site protection notice is a notice which requires the grantees to take steps specified in the notice for the purpose of preventing harm (or further harm) to the European marine site.
+>
+> (3) The provision that may be made by a site protection notice includes provision prohibiting, restricting or interfering with the exercise of any right conferred by the order.
+>
+> (4) A site protection notice must—
+>
+> (a) be in writing,
+>
+> (b) set out the reasons for giving the notice, and
+>
+> (c) specify the time by which, or the period for which, the steps specified in the notice must be taken.
+>
+> (5) The Welsh Ministers must consult the grantees of the order before serving a site protection notice on them, unless it appears to the Welsh Ministers that there is an urgent need to take steps to prevent harm (or further harm) to the European marine site.
+>
+> (6) The Welsh Ministers may vary or cancel a site protection notice by serving notice of the variation or cancellation on the grantees of the order.
+>
+> (7) The Welsh Ministers must publish every notice served by them under this section in such manner as they consider appropriate for the purpose of bringing the notice to the attention of persons likely to be affected by it.
+>
+> (8) Provision under subsection (4)(c) may specify a time after, or a period which ends after, the expiry of the order; and in such a case, references in sections 5C and 5D of this Act to the grantees of the order are, in relation to any time after its expiry, references to the persons who were the grantees immediately before the order expired.
+>
+> (9) Subsections (2) to (7) of section 5 of this Act apply for the purposes of this section as they apply for the purposes of subsection (1) of that section.
+>
+> **5C Appeal against site protection notice**
+>
+> (1) An appeal lies to the First-tier Tribunal against—
+>
+> (a) a site protection notice;
+>
+> (b) any provision of a site protection notice;
+>
+> (c) the variation of a site protection notice;
+>
+> (d) the refusal of a request for the variation or cancellation of a site protection notice.
+>
+> (2) An appeal may be brought—
+>
+> (a) in the case of an order made under section 1 of this Act which confers a right of several fishery, by the grantees of the order;
+>
+> (b) in the case of such an order which confers a right of regulating a fishery—
+>
+> (i) by the grantees of the order, or
+>
+> (ii) by a person authorised to carry on an activity in pursuance of provision made by or under the order who is affected by the site protection notice or variation.
+>
+> (3) Where an appeal is brought by a person mentioned in subsection (2)(b)(ii), the grantees of the order are entitled to be parties to the appeal.
+>
+> (4) The First-tier Tribunal may suspend a site protection notice, or a variation of such a notice, pending the determination of an appeal.
+>
+> (5) On an appeal the Tribunal may confirm, vary or cancel a site protection notice.
+>
+> (6) If the Tribunal varies or cancels the notice, it may order the Welsh Ministers to pay compensation to any other party to the appeal for loss or damage suffered by that party as a result of the notice.
+>
+> **5D Failure to comply with site protection notice**
+>
+> (1) If the grantees of an order made under section 1 of this Act fail to comply with a site protection notice, the Welsh Ministers may themselves do anything that could be done by the grantees for the purpose of complying with the notice.
+>
+> (2) If the Welsh Ministers incur expenses in doing anything under subsection (1), they may recover those expenses from the grantees as a debt.
+
+#### 74 Power to vary or revoke orders to protect European marine sites
+
+(1) The Sea Fisheries (Shellfish) Act 1967 is amended as follows.
+
+(2) After section 5D (as inserted by section 73) insert—
+
+> **5E European marine sites: power of Welsh Ministers to vary or revoke order under section 1**
+>
+> (1) This section applies where—
+>
+> (a) the Welsh Ministers have served a site protection notice on the grantees of an order made under section 1 of this Act,
+>
+> (b) the notice has not been cancelled under section 5B(6) or 5C(5) of this Act, and
+>
+> (c) no appeal under section 5C of this Act is pending.
+>
+> (2) The Welsh Ministers may vary or revoke the order to reflect the effect of the site protection notice.
+>
+> (3) Before making an order by virtue of this section, the Welsh Ministers must consult—
+>
+> (a) any persons who are entitled to a right of several fishery or a right of regulating a fishery in any part of the area to which the order relates, and
+>
+> (b) any other persons the Welsh Ministers think are likely to be interested in the order or affected by it.
+>
+> (4) For the purposes of subsection (1)(c), an appeal under section 5C is pending if—
+>
+> (a) an appeal under that section (or a further appeal) has been brought and has not been determined or withdrawn, or
+>
+> (b) an appeal under that section (or a further appeal) has not been brought but the period for bringing such an appeal is still running.
+
+(3) In section 1 (power to make orders as to fisheries for shellfish), in subsection (8), after “subsection (10) below” insert “ or by virtue of section 5E of this Act ”.
+
+#### 75 Supplementary provision
+
+In the Sea Fisheries (Shellfish) Act 1967, after section 5E (as inserted by section 74) insert⁠—
+
+> **5F Protection of marine environment: supplementary provision**
+>
+> (1) In sections 5A to 5E of this Act—
+>
+> - “European marine site” has the same meaning as in the Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490) (see regulation 8);
+>
+> - “the grantees”, in relation to a right of several fishery, means the persons for the time being entitled to that right;
+>
+> - “harm”, in relation to a European marine site, means—
+>
+>   - (a) an adverse effect on the integrity of the site,
+>   - (b) the deterioration of a relevant natural habitat or of the habitat of a relevant species, or
+>   - (c) the disturbance of a relevant species, in so far as the disturbance could be significant in relation to the objectives of the Habitats Directive.
+>
+> (2) For the purposes of the definition of “harm” in subsection (1)—
+>
+> - a “relevant” natural habitat or species is one for which the site in question has been designated or classified as a European marine site;
+> - “the Habitats Directive” means Council Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora.
+>
+> (3) Sections 5A to 5E of this Act do not apply in relation to an order made under section 1 of this Act before the coming into force of Part 5 of the Environment (Wales) Act 2016.
+
+## PART 6 — MARINE LICENSING
+
+### 76 Advice and assistance in relation to marine licensing
+
+In the Marine and Coastal Access Act 2009 (c. 23), after section 67 insert—
+
+> **67A Advice and other assistance from the Welsh Ministers**
+>
+> (1) This section applies where the Welsh Ministers are the appropriate licensing authority.
+>
+> (2) The licensing authority may provide advice or other assistance to any person who requests it in connection with—
+>
+> (a) an application which the person proposes to make to the licensing authority for a marine licence, or
+>
+> (b) any other matter in respect of which the licensing authority exercises functions under this Part.
+>
+> (3) The licensing authority may charge fees in respect of the reasonable costs incurred by it in connection with the provision of advice or other assistance under subsection (2).
+
+### 77 Fees for monitoring, variation etc. of marine licences
+
+(1) In the Marine and Coastal Access Act 2009, after section 72 insert—
+
+> **72A Further fees chargeable where the Welsh Ministers are the appropriate licensing authority**
+>
+> (1) This section applies where the Welsh Ministers are the appropriate licensing authority in relation to a marine licence granted under this Part.
+>
+> (2) The licensing authority may require the licensee to pay a fee for—
+>
+> (a) monitoring an activity authorised by the licence,
+>
+> (b) assessing and interpreting the results of any monitoring of an activity authorised by the licence, or
+>
+> (c) dealing with an application by the licensee for a variation, suspension, revocation or transfer of the licence under section 72.
+>
+> (3) In subsection (2) “monitoring”, in relation to a licence, means monitoring carried out for the purposes of enabling the licensing authority to determine—
+>
+> (a) the environmental, economic or social consequences of any activity authorised by the licence, or
+>
+> (b) whether the licensee is complying with any conditions attached to that licence.
+>
+> (4) The fees that may be charged under subsection (2) are to be determined by or in accordance with regulations made by the licensing authority.
+>
+> (5) Regulations under subsection (4) may provide for different fees for different cases.
+>
+> (6) If the licensing authority carries out any investigation, examination or test which in its opinion is necessary or expedient to enable it to determine an application by a licensee for a variation, suspension, revocation or transfer of a licence under section 72, the authority may require the licensee to pay a fee towards the reasonable expenses of that investigation, examination or test.
+>
+> (7) If a licensee fails to comply with a requirement to pay a fee charged under subsection (2)(a) or (b), the licensing authority may by notice vary, suspend or revoke the licence.
+>
+> (8) The suspension of a licence under subsection (7) continues in effect until the fee is paid (but this is subject to any provision made under section 108(3)(b) in relation to notices under that subsection).
+>
+> (9) If a licensee who has applied for a variation, suspension, revocation or transfer of a licence under section 72 fails to comply with a requirement to pay a fee charged under this section in connection with that application, the licensing authority may—
+>
+> (a) refuse to proceed with the application, or
+>
+> (b) refuse to proceed with it until the failure is remedied.
+
+(2) The amendment made by subsection (1) has effect in relation to marine licences whenever granted.
+
+### 78 Further provision about payment of fees
+
+In the Marine and Coastal Access Act 2009, after section 107 insert—
+
+> **107A Deposits on account of fees payable to the Welsh Ministers**
+>
+> (1) This section applies where the Welsh Ministers are the appropriate licensing authority.
+>
+> (2) Where a person is required to pay a fee to the licensing authority under this Part, the licensing authority may require the person to pay a deposit on account of the fee.
+>
+> (3) The amount that a person may be required to pay under subsection (2) is to be determined by or in accordance with regulations made by the licensing authority.
+>
+> (4) If a licensee fails to comply with a requirement to pay a deposit charged under subsection (2) on account of a fee charged under section 72A(2)(a) or (b), the licensing authority may by notice vary, suspend or revoke the licence.
+>
+> (5) The suspension of a licence under subsection (4) continues in effect until the deposit is paid (but this is subject to any provision made under section 108(3)(b) in relation to notices under that subsection).
+>
+> (6) If a person who has applied for a licence under section 67 or for a variation, suspension, revocation or transfer of a licence under section 72 fails to comply with a requirement to pay a deposit charged under subsection (2) in connection with that application, the licensing authority may—
+>
+> (a) refuse to proceed with the application, or
+>
+> (b) refuse to proceed with it until the failure is remedied.
+>
+> **107B Supplementary provision about fees payable to the Welsh Ministers**
+>
+> (1) This section applies where the Welsh Ministers are the appropriate licensing authority.
+>
+> (2) When making provision under section 67(2) or 72A(4) about fees payable in respect of a type of application to the licensing authority or in respect of an activity of the licensing authority, the licensing authority must decide what provision to make by reference to the expected costs of dealing with that type of application or of carrying out that activity.
+>
+> (3) The licensing authority may require a fee charged by it under this Part to be payable in advance of the activity to which the fee relates being carried out.
+>
+> (4) The licensing authority may waive or reduce a fee.
+>
+> (5) The licensing authority may by regulations make provision about how and when a fee or deposit charged by it under this Part is to be paid.
+>
+> (6) A fee or deposit charged under this Part may be recovered by the licensing authority as a civil debt (in addition to any other action that may be taken by the licensing authority).
+
+### 79 Appeal against variation etc. of marine licence for non-payment of fee or deposit
+
+In section 108 of the Marine and Coastal Access Act 2009 (appeals against notices), after subsection (2) insert—
+
+> (2A) The Welsh Ministers must by regulations make provision for any person to whom a notice is issued under section 72A(7) or 107A(4) to appeal against that notice.
+
+### 80 Exceptions from power to delegate licensing authority functions
+
+In section 98(6) of the Marine and Coastal Access Act 2009 (functions excepted from power to delegate)—
+
+(a) after paragraph (c) insert—
+
+> (ca) section 72A(4) (making regulations regarding fees for monitoring, variation etc of licences for which the Welsh Ministers are the licensing authority);
+
+;
+
+(b) after paragraph (h) insert—
+
+> (ha) section 107A(3) (making regulations regarding deposits payable on account of fees where the Welsh Ministers are the licensing authority);
+>
+> (hb) section 107B(5) (making regulations regarding payment of fees and deposits where the Welsh Ministers are the licensing authority);
+
+.
+
+## PART 7 — MISCELLANEOUS
+
+### Flood and Coastal Erosion Committee
+
+#### 81 Establishment of Flood and Coastal Erosion Committee
+
+(1) In the Flood and Water Management Act 2010 (c. 29), before section 27 (and the italic cross-heading before it) insert—
+
+> **4A. Flood and Coastal Erosion Committee for Wales**
+>
+> **26B Establishment and functions**
+>
+> (1) There is established a committee to be known as the Flood and Coastal Erosion Committee or Pwyllgor Llifogydd ac Erydu Arfordirol.
+>
+> (2) The purpose of the Committee is to advise the Welsh Ministers on matters relating to flood and coastal erosion risk management.
+>
+> (3) The Welsh Ministers may by regulations confer or impose additional functions on the Committee for any purpose connected with flood or coastal erosion risk management in Wales.
+>
+> **26C Constitution**
+>
+> (1) The Welsh Ministers may by regulations make provision about the membership of the Flood and Coastal Erosion Committee, including⁠—
+>
+> (a) the number of members,
+>
+> (b) conditions of eligibility for appointment, and
+>
+> (c) the method of selection and appointment of members (including who is to appoint them).
+>
+> (2) The Welsh Ministers may by regulations make provision about the proceedings of the Committee, including—
+>
+> (a) quorum, and
+>
+> (b) the nature and extent of a majority required for specified purposes.
+>
+> **26D Payments relating to members**
+>
+> (1) The Welsh Ministers may by regulations make provision for the payment to or in respect of persons who chair or have chaired the Flood and Coastal Erosion Committee of—
+>
+> (a) remuneration;
+>
+> (b) allowances;
+>
+> (c) sums by way of or in respect of pension;
+>
+> (d) compensation for loss of office.
+>
+> (2) The Welsh Ministers may by regulations make provision for the payment of allowances to members of the Committee.
+>
+> (3) Regulations under this section—
+>
+> (a) must specify who is to make any payment for which the regulations make provision;
+>
+> (b) may make provision about the circumstances in which a payment is to be made;
+>
+> (c) may determine, or provide for the determination of, the amount or maximum amount of a payment.
+
+(2) The Regional Flood and Coastal Committee established under section 22(1)(c) of the Flood and Water Management Act 2010 is abolished.
+
+(3) Part 4 of Schedule 2 provides for minor and consequential amendments and repeals relating to this section.
+
+### Land drainage
+
+#### 82 Repeal of requirements to publish in local newspapers etc.
+
+(1) In the Land Drainage Act 1991 (c. 59), omit—
+
+- section 2(2A);
+- section 3(4A);
+- section 38(6A);
+- section 39(5A);
+- section 48(3A);
+- section 58(3A);
+- paragraph 1(1A) of Schedule 5.
+
+(2) In Schedule 9 to the Water Act 2014 (c. 21), omit paragraphs 2(3), 3(3), 4(3), 5(3), 6(3), 7(3) and 8(3).
+
+#### 83 Valuation of non-agricultural land for apportionment of drainage expenses (prospective)
+
+(1) The Land Drainage Act 1991 (c. 59) is amended as follows.
+
+(2) In section 37 (apportionment of expenses of internal drainage boards)—
+
+(a) in subsection (5), after “this section” insert “ as it applies in relation to England, ”;
+
+(b) after subsection (5) insert—
+
+> (5A) For the purposes of this section as it applies in relation to Wales, the value of other land in an internal drainage district is to be determined in accordance with regulations made by the Welsh Ministers.
+>
+> (5B) The regulations may, among other things, make provision—
+>
+> (a) about methods to be applied, or factors to be taken into account, in determining the value of land;
+>
+> (b) for the value of land to be determined on the basis of estimates, assumptions or averages;
+>
+> (c) for the value of land to be determined for the purposes of this section by reference to the value shown for the time being in a list or register prepared for the purposes of another enactment;
+>
+> (d) for determining the value of land which is only partly within the internal drainage district in question.
+>
+> (5C) The regulations may—
+>
+> (a) make different provision for different cases, including different provision in relation to different circumstances or descriptions of land;
+>
+> (b) make such incidental, supplementary, consequential, transitional or saving provision as the Welsh Ministers consider appropriate.
+>
+> (5D) Regulations may not be made under subsection (5A) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(3) In section 65(2) (regulations), after “Subject to” insert “ section 37(5D) and ”.
+
+#### 84 Power to make provision for appeals against special levies
+
+(1) The Local Government Finance Act 1988 (c. 41) is amended as follows.
+
+(2) In section 75 (special levies), after subsection (7) insert—
+
+> (7A) Regulations made by the Welsh Ministers may include provision for appeals to be made to the Welsh Ministers from special levies issued to meet expenses incurred in the exercise of functions relating to land drainage.
+
+(3) In section 138 (judicial review)—
+
+(a) in subsection (2)(f), after “above” insert “ (subject to subsection (4)) ”;
+
+(b) after subsection (3) insert—
+
+> (4) Subsection (1) does not affect appeals made by virtue of provision made in regulations under section 75(7A)
+
+.
+
+(4) In section 143 (orders and regulations)—
+
+[^F25]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) omit subsection (4A).
+
+(5) In Schedule 7 to the Local Government Act 2003 (c. 26), omit paragraph 24(4).
+
+#### 85 Power of entry: compliance with order for cleansing ditches etc.
+
+(1) In section 29 of the Land Drainage Act 1991 (c. 59) (effect of orders requiring cleansing of ditches etc.), after subsection (1) insert—
+
+> (1A) Where, in the case of an order made under section 28 by the Agricultural Land Tribunal in relation to land in Wales, the Welsh Ministers, at any time after the end of three months or such longer period as may be specified in the order, have reasonable grounds for believing that any work specified in the order has not been carried out⁠—
+>
+> (a) the Welsh Ministers, or
+>
+> (b) any person authorised by them, either generally or in a particular case,
+>
+> may, in order to ascertain whether the work has been carried out, enter any land which it is necessary to enter for that purpose.
+
+(2) The amendment made by subsection (1) has effect in relation to orders whenever made.
+
+### Byelaws
+
+#### 86 Byelaws made by the Natural Resources Body for Wales
+
+Part 5 of Schedule 2 contains amendments relating to byelaws made by the Natural Resources Body for Wales.
+
+## PART 8 — GENERAL
+
+### 87 Interpretation
+
+In this Act—
+
+- “enactment”(“*deddfiad*”) means a provision contained in any of the following (whenever enacted or made)—
+
+  - (a) an Act of Parliament;
+  - (b) a Measure or an Act of the National Assembly for Wales;
+  - (c) subordinate legislation within the meaning of the Interpretation Act 1978 (c. 30) (including subordinate legislation made under an Act of Parliament or a Measure or Act of the National Assembly for Wales);
+
+- “Wales” (“*Cymru*”) has the meaning given by section 158 of the Government of Wales Act 2006 (c. 32).
+
+### 88 Coming into force
+
+(1) This Part comes into force on the day on which this Act receives Royal Assent.
+
+(2) The following provisions come into force at the end of the period of two months beginning with the day on which this Act receives Royal Assent—
+
+(a) Part 1 (sustainable management of natural resources);
+
+(b) Part 2 (climate change);
+
+(c) Part 5 (fisheries for shellfish);
+
+(d) section 82 (repeal of publication requirements);
+
+(e) section 84 (appeals against special drainage levies);
+
+(f) section 85 (power of entry);
+
+(g) section 86 (byelaws).
+
+(3) The following provisions come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument—
+
+(a) Part 3 (charges for carrier bags);
+
+(b) Part 4 (collection and disposal of waste);
+
+(c) Part 6 (marine licensing);
+
+(d) section 81 (flood and coastal erosion committee);
+
+(e) section 83 (valuation of non-agricultural land).
+
+(4) An order under subsection (3) may—
+
+(a) appoint different days for different purposes;
+
+(b) make such transitional or saving provision in connection with the coming into force of a provision of this Act as the Welsh Ministers consider appropriate.
+
+### 89 Short title
+
+The short title of this Act is the Environment (Wales) Act 2016.
+
+## SCHEDULE 1 — CHARGES FOR CARRIER BAGS: CIVIL SANCTIONS (prospective)
+
+*(introduced by section )*
+
+### Civil sanctions (prospective)
+
+**1** (1) Carrier bag regulations may make provision about civil sanctions for breaches of the regulations.
+
+(2) For the purposes of this Schedule, a person breaches carrier bag regulations if, in such circumstances as may be specified, the person—
+
+(a) fails to comply with a requirement made by or under the regulations, or
+
+(b) obstructs or fails to assist an administrator.
+
+(3) In this Schedule, “civil sanction” means—
+
+(a) a fixed monetary penalty, or
+
+(b) a discretionary requirement.
+
+### Fixed monetary penalties (prospective)
+
+**2** (1) Carrier bag regulations may confer on an administrator the power by notice to impose a fixed monetary penalty on a person who breaches the regulations.
+
+(2) The regulations may only confer such a power in relation to a case where the administrator is satisfied on the balance of probabilities that the breach has occurred.
+
+(3) For the purposes of this Schedule, a “fixed monetary penalty” is a requirement to pay to an administrator a penalty of an amount specified in or determined in accordance with the regulations.
+
+(4) The regulations may not provide for the imposition of a fixed monetary penalty in excess of £5,000.
+
+### Fixed monetary penalties: procedure (prospective)
+
+**3** (1) Carrier bag regulations that make provision under paragraph 2 must secure that—
+
+(a) where an administrator proposes to impose a fixed monetary penalty on a person, the administrator must serve on that person a notice of what is proposed (a “notice of intent”) that complies with sub-paragraph (2),
+
+(b) the notice of intent also offers the person the opportunity to discharge the person's liability for the fixed monetary penalty by payment of a specified sum (which must be less than or equal to the amount of the penalty),
+
+(c) if the person does not so discharge liability—
+
+(i) the person may make written representations and objections to the administrator in relation to the proposed imposition of the fixed monetary penalty, and
+
+(ii) the administrator must at the end of the period for making representations and objections decide whether to impose the fixed monetary penalty,
+
+(d) where the administrator decides to impose the fixed monetary penalty, the notice imposing it (“the final notice”) complies with sub-paragraph (4), and
+
+(e) the person on whom a fixed monetary penalty is imposed may appeal against the decision to impose it.
+
+(2) To comply with this sub-paragraph, the notice of intent must include information as to—
+
+(a) the grounds for the proposal to impose the fixed monetary penalty,
+
+(b) the effect of payment of the sum referred to in sub-paragraph (1)(b),
+
+(c) the right to make representations and objections,
+
+(d) the circumstances in which the administrator may not impose the fixed monetary penalty,
+
+(e) the period within which liability to the fixed monetary penalty may be discharged, which may not exceed the period of 28 days beginning with the day on which the notice of intent was received, and
+
+(f) the period within which representations and objections may be made, which may not exceed the period of 28 days beginning with the day on which the notice of intent was received.
+
+(3) Provision pursuant to sub-paragraph (1)(c)(ii) must include provision for circumstances in which the administrator may not decide to impose a fixed monetary penalty.
+
+(4) To comply with this sub-paragraph the final notice referred to in sub-paragraph (1)(d) must include information as to—
+
+(a) the grounds for imposing the penalty,
+
+(b) how payment may be made,
+
+(c) the period within which payment must be made,
+
+(d) any early payment discounts or late payment penalties,
+
+(e) rights of appeal, and
+
+(f) the consequences of non-payment.
+
+(5) Provision pursuant to sub-paragraph (1)(e) must secure that the grounds on which a person may appeal against a decision of the administrator include the following—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that the decision was unreasonable.
+
+### Discretionary requirements (prospective)
+
+**4** (1) Carrier bag regulations may confer on an administrator the power by notice to impose one or more discretionary requirements on a person who breaches the regulations.
+
+(2) The regulations may only confer such a power in relation to a case where the administrator is satisfied on the balance of probabilities that the breach has occurred.
+
+(3) For the purposes of this Schedule, a “discretionary requirement” means—
+
+(a) a requirement to pay a monetary penalty to an administrator of such amount as the administrator may determine, or
+
+(b) a requirement to take such steps as an administrator may specify, within such period as the administrator may specify, to secure that the breach does not continue or recur.
+
+(4) In this Schedule—
+
+- “variable monetary penalty” (“*cosb ariannol amrywiadwy*”) means a requirement referred to in sub-paragraph (3)(a), and
+- “non-monetary discretionary requirement” (“*gofyniad yn ôl disgresiwn nad yw'n un ariannol*”) means a requirement referred to in sub-paragraph (3)(b).
+
+(5) Carrier bag regulations must, in relation to each kind of breach of the regulations for which a variable monetary penalty may be imposed—
+
+(a) specify the maximum penalty that may be imposed for a breach of that kind, or
+
+(b) provide for that maximum to be determined in accordance with the regulations.
+
+(6) The regulations may not permit discretionary requirements to be imposed on a person on more than one occasion in relation to the same act or omission.
+
+### Discretionary requirements: procedure (prospective)
+
+**5** (1) Carrier bag regulations that make provision under paragraph 4 must secure that—
+
+(a) where an administrator proposes to impose a discretionary requirement on a person, the administrator must serve on that person a notice of what is proposed (a “notice of intent”) that complies with sub-paragraph (2),
+
+(b) that person may make written representations and objections to the administrator in relation to the proposed imposition of the discretionary requirement,
+
+(c) after the end of the period for making such representations and objections, the administrator must decide whether to—
+
+(i) impose the discretionary requirement, with or without modifications, or
+
+(ii) impose any other discretionary requirement that the administrator has power to impose under paragraph 4,
+
+(d) where the administrator decides to impose a discretionary requirement, the notice imposing it (the “final notice”) complies with sub-paragraph (4), and
+
+(e) the person on whom a discretionary requirement is imposed may appeal against the decision to impose it.
+
+(2) To comply with this sub-paragraph, the notice of intent must include information as to—
+
+(a) the grounds for the proposal to impose the discretionary requirement,
+
+(b) the right to make representations and objections,
+
+(c) the circumstances in which the administrator may not impose the discretionary requirement,
+
+(d) the period within which representations and objections may be made, which may not be less than the period of 28 days beginning with the day on which the notice of intent is received.
+
+(3) Provision pursuant to sub-paragraph (1)(c) must include provision for circumstances in which the administrator may not decide to impose a fixed monetary penalty.
+
+(4) To comply with this sub-paragraph, the final notice referred to in sub-paragraph (1)(d) must include information as to—
+
+(a) the grounds for imposing the discretionary requirement,
+
+(b) where the discretionary requirement is a variable monetary penalty—
+
+(i) how payment may be made,
+
+(ii) the period within which payment must be made, and
+
+(iii) any early payment discounts or late payment penalties,
+
+(c) rights of appeal, and
+
+(d) the consequences of non-compliance.
+
+(5) Provision pursuant to sub-paragraph (1)(e) must secure that the grounds on which a person may appeal against a decision of the administrator include the following—
+
+(a) that the decision was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) in the case of a variable monetary penalty, that the amount of the penalty is unreasonable;
+
+(d) in the case of a non-monetary discretionary requirement, that the nature of the requirement is unreasonable;
+
+(e) that the decision was unreasonable for any other reason.
+
+### Discretionary requirements: enforcement (prospective)
+
+**6** (1) If carrier bag regulations make provision under paragraph 4, they may confer on an administrator the power to require a person to pay a monetary penalty (a “non-compliance penalty”) to the administrator if the person fails to comply with a non-monetary discretionary requirement imposed on the person.
+
+(2) The regulations may—
+
+(a) specify the amount of the non-compliance penalty or provide for that amount to be determined in accordance with the regulations, or
+
+(b) provide for the amount to be determined by the administrator or in some other way.
+
+(3) If carrier bag regulations make provision within sub-paragraph (2)(b), they must, in relation to each kind of failure for which a non-compliance penalty may be imposed—
+
+(a) specify the maximum penalty that may be imposed for a failure of that kind, or
+
+(b) provide for that maximum to be determined in accordance with the regulations.
+
+(4) Carrier bag regulations that make provision under sub-paragraph (1) must secure that—
+
+(a) the non-compliance penalty is imposed by notice served by the administrator, and
+
+(b) the person on whom it is imposed may appeal against that notice.
+
+(5) Provision pursuant to paragraph (b) of sub-paragraph (4) must secure that the grounds on which a person may appeal against a notice referred to in that paragraph include the following—
+
+(a) that the decision to serve the notice was based on an error of fact;
+
+(b) that the decision was wrong in law;
+
+(c) that the decision was unfair or unreasonable for any reason (including, in a case where the amount of the non-compliance penalty was determined by the administrator, that the amount is unreasonable).
+
+### Combination of sanctions (prospective)
+
+**7** (1) Carrier bag regulations may not make provision under paragraphs 2 and 4 conferring powers on an administrator in relation to the same kind of breach of the regulations unless the following requirements are complied with.
+
+(2) The regulations must secure that the administrator may not serve a notice of intent referred to in paragraph 3(1)(a) on a person in relation to a breach where a discretionary requirement has been imposed on that person in relation to the same breach.
+
+(3) The regulations must secure that the administrator may not serve a notice of intent referred to in paragraph 5(1)(a) on a person in relation to a breach where—
+
+(a) a fixed monetary penalty has been imposed on that person in relation to the same breach, or
+
+(b) the person has discharged liability to a fixed monetary penalty in relation to that breach pursuant to paragraph 3(1)(b).
+
+### Monetary penalties (prospective)
+
+**8** (1) If carrier bag regulations confer power on an administrator to require a person to pay a fixed monetary penalty, a variable monetary penalty or a non-compliance penalty, they may include provision—
+
+(a) for early payment discounts;
+
+(b) for the payment of interest or other financial penalties for late payment of the penalty, such interest or other financial penalties not in total to exceed the amount of that penalty;
+
+(c) for enforcement of the penalty.
+
+(2) Provision under sub-paragraph (1)(c) may include—
+
+(a) provision for the administrator to recover a penalty, and any interest or other financial penalty for late payment, as a civil debt;
+
+(b) provision for the penalty, and any interest or other financial penalty for late payment to be recoverable, on the order of a court, as if payable under a court order.
+
+### Costs recovery (prospective)
+
+**9** (1) If carrier bag regulations make provision under paragraph 4, they may confer on an administrator the power by notice to require a person on whom a discretionary requirement is imposed to pay the costs incurred by the administrator in relation to the imposition of the discretionary requirement up to the time of its imposition.
+
+(2) In sub-paragraph (1), the reference to costs includes (among other things)—
+
+(a) investigation costs;
+
+(b) administration costs;
+
+(c) costs of obtaining expert advice (including legal advice).
+
+(3) Carrier bag regulations that make provision under this paragraph must secure that, in any case where a notice requiring payment of costs is served—
+
+(a) the notice specifies the amount required to be paid;
+
+(b) the administrator may be required to provide a detailed breakdown of that amount;
+
+(c) the person required to pay costs is not liable to pay any costs shown by the person to have been unnecessarily incurred;
+
+(d) the person required to pay costs may appeal against—
+
+(i) the decision of the administrator to impose the requirement to pay costs;
+
+(ii) the decision of the administrator as to the amount of those costs.
+
+(4) Provision under this paragraph may include the provision referred to in paragraph 8(1)(b) and (c) and (2).
+
+### Appeals (prospective)
+
+**10** (1) Carrier bag regulations may not provide for the making of an appeal other than to—
+
+(a) the First-tier Tribunal, or
+
+(b) another tribunal created under an enactment.
+
+(2) In sub-paragraph (1)(b), “tribunal” does not include an ordinary court of law.
+
+(3) If the regulations make provision for an appeal in relation to the imposition of any requirement or the service of any notice, they may include—
+
+(a) provision suspending the requirement or notice pending determination of the appeal;
+
+(b) provision as to the powers of the tribunal to which the appeal is made;
+
+(c) provision as to how any sum payable in pursuance of a decision of that tribunal is to be recoverable.
+
+(4) The provision referred to in sub-paragraph (3)(b) includes provision conferring on the tribunal to which the appeal is made power—
+
+(a) to withdraw the requirement or notice;
+
+(b) to confirm the requirement or notice;
+
+(c) to take such steps as the administrator could take in relation to the act or omission giving rise to the requirement or notice;
+
+(d) to remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the administrator;
+
+(e) to award costs.
+
+### Publicity for imposition of civil sanctions (prospective)
+
+**11** (1) Carrier bag regulations may confer on an administrator the power to give a publicity notice to a person on whom a civil sanction has been imposed in accordance with the regulations.
+
+(2) A “publicity notice” is a notice requiring the person to publicise—
+
+(a) the fact that the civil sanction has been imposed, and
+
+(b) such other information as may be specified in the regulations,
+
+in such manner as may be specified in the notice.
+
+(3) The regulations may provide for a publicity notice to—
+
+(a) specify the time for compliance with the notice, and
+
+(b) require the person to whom it is given to supply an administrator with evidence of compliance within such time as may be specified in the notice.
+
+(4) The regulations may provide that, if a person fails to comply with a publicity notice, an administrator may—
+
+(a) publicise the information required to be publicised by the notice, and
+
+(b) recover the costs of doing so from that person.
+
+### Persons liable to civil sanctions (prospective)
+
+**12** (1) Carrier bag regulations may make provision about the persons who are liable to civil sanctions under the regulations.
+
+(2) The provision that may be made by virtue of this paragraph includes provision for—
+
+(a) the officers of a body corporate to be so liable as well the body corporate itself, and
+
+(b) for the partners of a partnership to be liable as well as the partnership itself,
+
+in such circumstances as may be specified.
+
+### Guidance about use of powers to impose civil sanctions and recover costs (prospective)
+
+**13** (1) Where carrier bag regulations confer power on an administrator to impose a civil sanction in relation to a breach of the regulations, they must secure that—
+
+(a) the administrator must publish guidance about the administrator's use of the civil sanction,
+
+(b) the guidance must contain the relevant information,
+
+(c) the administrator must revise the guidance where appropriate,
+
+(d) the administrator must consult such persons as the regulations may specify before publishing any guidance or revised guidance, and
+
+(e) the administrator must have regard to the guidance or revised guidance in exercising the administrator's functions.
+
+(2) In the case of guidance relating to a fixed monetary penalty, the relevant information referred to in sub-paragraph (1)(b) is information as to—
+
+(a) the circumstances in which the penalty is likely to be imposed,
+
+(b) the circumstances in which it may not be imposed,
+
+(c) the amount of the penalty,
+
+(d) how liability for the penalty may be discharged and the effect of discharge, and
+
+(e) rights to make representations and objections and rights of appeal.
+
+(3) In the case of guidance relating to a discretionary requirement, the relevant information referred to in sub-paragraph (1)(b) is information as to—
+
+(a) the circumstances in which the requirement is likely to be imposed,
+
+(b) the circumstances in which it may not be imposed,
+
+(c) in the case of a variable monetary penalty, the matters likely to be taken into account by the administrator in determining the amount of the penalty (including, where relevant, any discounts for voluntary reporting of non-compliance), and
+
+(d) rights to make representations and objections and rights of appeal.
+
+(4) If carrier bag regulations make provision under paragraph 9, they must secure that the administrator is required to publish guidance about how the administrator will exercise the power conferred by the provision.
+
+### Publication of enforcement action (prospective)
+
+**14** (1) Where carrier bag regulations confer power on an administrator to impose a civil sanction in relation to a breach of the regulations, they must secure that the administrator must from time to time publish reports specifying—
+
+(a) the cases in which the civil sanction has been imposed, and
+
+(b) where the civil sanction is a fixed monetary penalty, the cases in which liability to the penalty has been discharged pursuant to paragraph 3(1)(b).
+
+(2) In sub-paragraph (1)(a), the reference to cases in which the civil sanction has been imposed do not include cases where the sanction has been imposed but overturned on appeal.
+
+(3) The regulations need not secure the result in sub-paragraph (1) in cases where the Welsh Ministers consider that it would be inappropriate to do so.
+
+### Compliance with regulatory principles (prospective)
+
+**15** Carrier bag regulations may not confer power on an administrator to impose a civil sanction in relation to a breach of the regulations unless the Welsh Ministers are satisfied that the administrator will act in accordance with the principles that—
+
+(a) regulatory activities should be carried out in a way that is transparent, accountable, proportionate and consistent;
+
+(b) regulatory activities should be targeted only at cases in which action is needed.
+
+### Review (prospective)
+
+**16** (1) The Welsh Ministers must review the operation of any provision of carrier bag regulations conferring power on an administrator to impose a civil sanction in relation to a breach of the regulations.
+
+(2) The first review must take place as soon as practicable after 1 October 2017; and each subsequent review must take place as soon as practicable after the end of the period of three years beginning with the date on which the previous review took place.
+
+(3) A review under this paragraph must in particular consider whether the provision has implemented its objectives efficiently and effectively.
+
+(4) In conducting a review under this paragraph, the Welsh Ministers must consult such persons as they consider appropriate.
+
+(5) The Welsh Ministers must—
+
+(a) publish the results of a review under this paragraph, and
+
+(b) lay a copy of the review before the National Assembly for Wales.
+
+### Suspension (prospective)
+
+**17** (1) Where carrier bag regulations confer power on an administrator to impose a civil sanction in relation to a breach of the regulations, the Welsh Ministers may direct the administrator—
+
+(a) where the power is power to impose a fixed monetary penalty, not to serve any further notice of intent referred to in paragraph 3(1)(a) in relation to a breach of that kind, and
+
+(b) where the power is power to impose a discretionary requirement, not to serve any further notice of intent referred to in paragraph 5(1)(a) in relation to a breach of that kind.
+
+(2) The Welsh Ministers may only give a direction under sub-paragraph (1) in relation to a breach of carrier bag regulations if they are satisfied that the administrator has failed on more than one occasion—
+
+(a) to comply with any duty imposed on it under or by virtue of this Schedule in relation to a breach of that kind,
+
+(b) to act in accordance with the guidance it has published in relation to a breach of that kind (in particular, the guidance published under paragraph 13), or
+
+(c) to act in accordance with the principles referred to in paragraph 15 or with other principles of best practice in relation to the enforcement of a breach of that kind.
+
+(3) The Welsh Ministers may by direction revoke a direction given by them under sub-paragraph (1) if they are satisfied that the administrator has taken the appropriate steps to remedy the failure to which that direction related.
+
+(4) Before giving a direction under sub-paragraph (1) or (3), the Welsh Ministers must consult—
+
+(a) the administrator, and
+
+(b) such other persons as they consider appropriate.
+
+(5) Where the Welsh Ministers give a direction under this paragraph, they must lay a copy of the direction before the National Assembly for Wales.
+
+(6) The administrator must take steps to bring a direction under this paragraph to the attention of other persons likely to be affected by it; and must do so in such manner (if any) as the Welsh Ministers may require.
+
+### Payment of penalties into Welsh Consolidated Fund (prospective)
+
+**18** Where pursuant to any provision made under this Schedule an administrator receives—
+
+(a) a fixed monetary penalty, a variable monetary penalty or a non-compliance penalty,
+
+(b) any interest or other financial penalty for late payment of such a penalty, or
+
+(c) a sum paid in discharge of liability to a fixed monetary penalty pursuant to paragraph 3(1)(b),
+
+the administrator must pay it into the Welsh Consolidated Fund.
+
+### Index of defined terms (prospective)
+
+**19** In this Schedule, the following expressions are defined or otherwise explained in the provisions indicated—
+
+- “breach” (“*torri” a “toriad*”) (in relation to carrier bag regulations): paragraph 1(2);
+- “civil sanction” (“*sancsiwn sifil*”): paragraph 1(3);
+- “discretionary requirement” (“*gofyniad yn ôl disgresiwn*”): paragraph 4(3);
+- “fixed monetary penalty” (“*cosb ariannol benodedig*”): paragraph 2(3);
+- “non-compliance penalty” (“*cosb am beidio â chydymffurfio*”): paragraph 6(1);
+- “non-monetary discretionary requirement” (“*gofyniad yn ôl disgresiwn nad yw'n un ariannol*”): paragraph 4(4) and (3)(b);
+- “notice of intent” (“*hysbysiad o fwriad*”) (in relation to a proposed discretionary requirement): paragraph 5(1)(a);
+- “notice of intent” (“*hysbysiad o fwriad*”) (in relation to a proposed fixed monetary penalty): paragraph 3(1)(a);
+- “publicity notice” (“*hysbysiad cyhoeddusrwydd*”): paragraph 11(2);
+- “variable monetary penalty” (“*cosb ariannol amrywiadwy*”): paragraph 4(4) and (3)(a).
+
+## SCHEDULE 2 — MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
+
+*(introduced by sections 27, 64, 70, 81 and 86)*
+
+### PART 1 — SUSTAINABLE MANAGEMENT OF NATURAL RESOURCES
+
+#### National Parks and Access to the Countryside Act 1949 (c. 97)
+
+**1** (1) The National Parks and Access to the Countryside Act 1949 is amended as follows.
+
+(2) In section 15A(2)—
+
+(a) in paragraph (a)—
+
+(i) after “Act” insert “ or section 16 of the 2016 Act ”;
+
+(ii) omit the “and” at the end;
+
+(b) after paragraph (b) insert—
+
+> (c) “the 2016 Act” means the Environment (Wales) Act 2016.
+
+(3) In section 16—
+
+(a) in subsection (1)—
+
+(i) for “The Natural Resources Body for Wales” the first time it appears substitute “ A Welsh local authority ”;
+
+(ii) for “Natural Resources Body for Wales” the second time it appears substitute “ Welsh local authority ”;
+
+(b) after subsection (1) insert—
+
+> (1A) The power of a Welsh local authority in subsection (1)—
+>
+> (a) is also exercisable where it appears to the authority that it is expedient in the interests of the locality that land should be managed as a nature reserve;
+>
+> (b) is exercisable only in relation to land in the authority's area that is not held by, or managed in accordance with an agreement entered into with, the Natural Resources Body for Wales.
+
+;
+
+(c) in subsection (3), in paragraphs (b) and (c), for “the Natural Resources Body for Wales” substitute “ a Welsh local authority ”;
+
+(d) in subsection (4), for “the Natural Resources Body for Wales” substitute “ a Welsh local authority ”;
+
+(e) after subsection (5) insert—
+
+> (6) In this section a “Welsh local authority” means—
+>
+> (a) the council of a county or county borough in Wales, and
+>
+> (b) a National Park authority for a National Park in Wales.
+
+(4) In section 21(4)—
+
+(a) omit “, the Natural Resources Body for Wales”;
+
+(b) for “references in subsection (1) of sections sixteen and seventeen respectively of this Act to the national interest were references” substitute “ reference in subsection (1) of section 17 of this Act to the national interest were a reference ”.
+
+#### Countryside Act 1968 (c. 41)
+
+**2** (1) The Countryside Act 1968 is amended as follows.
+
+(2) Omit section 4.
+
+(3) Omit section 15.
+
+(4) In section 15A(6)(b), for “such agreement as is referred to in section 15(2)” substitute “ an agreement under section 16 of the Environment (Wales) Act 2016 imposing, for the purpose of conserving flora, fauna, or geographical or physiographical features of special interest, restrictions on the exercise of rights over land by persons having an interest in the land ”.
+
+(5) In section 41(2)(b)—
+
+(a) in sub-paragraph (i), for “section 4” substitute “ an experimental scheme under article 10C of the Natural Resources Body for Wales (Establishment) Order 2012 (S.I. 2012/1903), where the scheme is designed to facilitate the enjoyment of the countryside, or to conserve or enhance its natural beauty or amenity ”;
+
+(b) in sub-paragraph (ii), for “section 4(5)(b)” substitute “ section 16 of the Environment (Wales) Act 2016 that is designed to facilitate the enjoyment of the countryside, or to conserve or enhance its natural beauty or amenity ”.
+
+(6) In section 45(1), omit “the NRBW or”.
+
+(7) In section 47(3), omit “section 4(5)(b) or”.
+
+#### Wildlife and Countryside Act 1981 (c. 69)
+
+**3** (1) The Wildlife and Countryside Act 1981 is amended as follows.
+
+(2) In section 28E(3)(b) for “, section 15 of the 1968 Act or section 7 of the Natural Environment and Rural Communities Act 2006” substitute “ , section 7 of the Natural Environment and Rural Communities Act 2006 or section 16 of the Environment (Wales) Act 2016 ”.
+
+(3) In section 28J, omit subsection (13).
+
+(4) In section 32, after subsection (2) insert—
+
+> (2A) Subsection (2) has effect in relation to Wales as if the reference to an agreement under section 16 of the 1949 Act or section 15 of the 1968 Act were a reference to an agreement under section 16 of the Environment (Wales) Act 2016.
+
+(5) In section 39(5), omit paragraph (e).
+
+(6) Omit section 40.
+
+(7) In section 41(5)—
+
+(a) in the definition of “management agreement”, in paragraph (b), after “39” insert “ or under section 16 of the Environment (Wales) Act 2016 ”;
+
+(b) in the definition of “the relevant authority”, after “Natural England” insert “ and in relation to Wales it also includes the Natural Resources Body for Wales ”.
+
+(8) In section 50(1)(a), omit “or an agreement under section 16 of the 1949 Act or section 15 of the 1968 Act”.
+
+(9) In section 51(1)—
+
+(a) in paragraph (c), omit “or an agreement under section 16 of the 1949 Act or section 15 of the 1968 Act”;
+
+(b) in paragraph (h), omit “or an agreement under section 16 of the 1949 Act or section 15 of the 1968 Act”.
+
+#### Road Traffic Regulation Act 1984 (c. 27)
+
+**4** In section 22(1)(a) of the Road Traffic Regulation Act 1984—
+
+(a) in sub-paragraph (iv), for “or the Natural Resources Body for Wales are conducting a scheme under section 4 of the 1968 Act” substitute “ , or in which the Natural Resources Body for Wales is conducting a scheme under article 10C of the Natural Resources Body for Wales (Establishment) Order 2012 (S.I. 2012/1903) that is designed to facilitate the enjoyment of the countryside or to conserve or enhance its natural beauty or amenity ”;
+
+(b) in sub-paragraph (v), omit “or an agreement under section 15 of the 1968 Act”.
+
+#### Water Industry Act 1991 (c. 56)
+
+**5** In section 156(8) of the Water Industry Act 1991, in the definition of “management agreement”, in paragraph (b), after “1981” insert “ or section 16 of the Environment (Wales) Act 2016 ”.
+
+#### Environment Act 1995 (c. 25)
+
+**6** (1) The Environment Act 1995 is amended as follows.
+
+(2) In section 9(5)(b)(ii), omit “, 5E”.
+
+(3) In section 66, after subsection (7) insert—
+
+> (7A) A National Park authority for a park in Wales which is proposing to publish, adopt or review any plan under this section must have regard to—
+>
+> (a) the state of natural resources report published under section 8 of the Environment (Wales) Act 2016, and
+>
+> (b) any area statement published under section 11 of that Act for an area that includes all or part of the park.
+
+#### Countryside and Rights of Way Act 2000 (c. 37)
+
+**7** In section 90 of the Countryside and Rights of Way Act 2000, after subsection (1) insert—
+
+> (1A) In the case of an area of outstanding natural beauty in Wales, a conservation board or relevant local authority which is proposing to publish, adopt or review any plan under section 89 must have regard to—
+>
+> (a) the state of natural resources report published under section 8 of the Environment (Wales) Act 2016, and
+>
+> (b) any area statement published under section 11 of that Act for an area that includes all or part of the area of outstanding natural beauty.
+
+#### Planning and Compulsory Purchase Act 2004 (c. 5)
+
+**8** (1) The Planning and Compulsory Purchase Act 2004 is amended as follows.
+
+(2) In section 60(5), as substituted by section 3 of the 2015 Act, before paragraph (a) insert—
+
+> (za) the national natural resources policy published under section 9 of the Environment (Wales) Act 2016,
+
+.
+
+(3) In section 62(5), after paragraph (ba), as inserted by paragraph 25 of Schedule 2 to the 2015 Act, insert—
+
+> (bb) any area statement published under section 11 of the Environment (Wales) Act 2016 for an area that includes all or part of the area of the authority;
+
+.
+
+(4) In this paragraph, “the 2015 Act” means the Planning (Wales) Act 2015 (anaw 4).
+
+#### Natural Environment and Rural Communities Act 2006 (c. 16)
+
+**9** (1) The Natural Environment and Rural Communities Act 2006 is amended as follows.
+
+(2) In section 40—
+
+(a) before subsection (1) insert—
+
+> (A1) This section applies where—
+>
+> (a) Her Majesty's Revenue and Customs are exercising their functions;
+>
+> (b) any other public authority is exercising its functions in relation to England.
+
+(b) in subsection (1), for “Every” substitute “ The ”;
+
+(c) in subsection (2) for “, government department or the National Assembly for Wales” substitute “ or government department ”;
+
+(d) in subsection (4)—
+
+(i) omit paragraph (b);
+
+(ii) in paragraph (c), for “, a local planning authority and a strategic planning panel” substitute “ and a local planning authority ”;
+
+(e) in subsection (5), in the definition of “local authority”—
+
+(i) in paragraph (a), for “in relation to England, a county council” substitute “ a county council in England ”;
+
+(ii) omit paragraph (b);
+
+(f) in that subsection, omit the definition of “strategic planning panel”.
+
+(3) Omit section 42.
+
+(4) In Schedule 11, omit the following—
+
+(a) paragraphs 6 to 8;
+
+(b) paragraph 14(4);
+
+(c) paragraphs 41 and 42;
+
+(d) in paragraph 43—
+
+(i) sub-paragraphs (2) and (3);
+
+(ii) in sub-paragraph (4), paragraphs (a), (b) and (c)(i);
+
+(iii) sub-paragraph (5);
+
+(iv) sub-paragraph (7);
+
+(e) paragraph 44;
+
+(f) paragraph 50;
+
+(g) paragraph 55(2);
+
+(h) paragraph 57;
+
+(i) paragraph 59;
+
+(j) paragraph 80;
+
+(k) paragraphs 117 to 121;
+
+(l) paragraph 123;
+
+(m) paragraph 126;
+
+(n) paragraph 141(2)(b).
+
+#### Well-being of Future Generations (Wales) Act 2015 (anaw 2)
+
+**10** (1) The Well-being of Future Generations (Wales) Act 2015 is amended as follows.
+
+(2) In section 11(3), for the words after “means” substitute “ the goals set out in “Transforming our world: the 2030 Agenda for Sustainable Development”, adopted by the General Assembly of the United Nations by resolution A/Res/70/1 of 25 September 2015 ”.
+
+(3) In section 38(3), after paragraph (g) insert—
+
+> (ga) each area statement under section 11 of the Environment (Wales) Act 2016 (if any) which relates to any part of the local authority's area;
+
+.
+
+#### Planning (Wales) Act 2015 (anaw 4)
+
+**11** In Schedule 2 to the Planning (Wales) Act 2015, omit paragraph 28.
+
+### PART 2 — CHARGES FOR CARRIER BAGS (prospective)
+
+#### Climate Change Act 2008 (c. 27) (prospective)
+
+**12** (1) The Climate Change Act 2008 is amended as follows.
+
+(2) In section 77, omit the following—
+
+(a) subsection (3)(b);
+
+(b) subsection (4)(aa).
+
+(3) In section 98, omit the entries for “children”, “nuisance”, “pollution” and “young people”.
+
+(4) In Schedule 6—
+
+(a) omit paragraphs 4A and 4B;
+
+(b) omit paragraph 7(3A);
+
+(c) omit paragraph 8(2A);
+
+(d) omit paragraph 24(6)(b);
+
+(e) omit paragraph 25(5)(b);
+
+(f) omit paragraph 26(2)(a);
+
+(g) omit paragraph 27(5);
+
+(h) in the italic cross-heading before paragraph 28, for “two or more” substitute “ both ”;
+
+(i) in paragraph 28(1)—
+
+(i) omit “any two or more of”;
+
+(ii) omit paragraph (b) (but not the following “and”).
+
+#### Waste (Wales) Measure 2010 (nawm 8) (prospective)
+
+**13** (1) The Waste (Wales) Measure 2010 is amended as follows.
+
+(2) Omit sections 1 and 2.
+
+(3) In the Schedule, omit paragraph 2.
+
+### PART 3 — COLLECTION AND DISPOSAL OF WASTE
+
+#### Environmental Protection Act 1990 (c. 43)
+
+**14** (1) The Environmental Protection Act 1990 is amended as follows.
+
+(2) In the heading of section 45A, for “Arrangements” substitute “ England: arrangements ”.
+
+(3) Omit section 45B.
+
+#### Household Waste Recycling Act 2003 (c. 29)
+
+**15** In the Household Waste Recycling Act 2003, omit section 2.
+
+#### Government of Wales Act 2006 (c. 32)
+
+**16** In Schedule 11 to the Government of Wales Act 2006, in paragraph 35(3), in Table 1, omit the entry relating to section 45B(1) of the Environmental Protection Act 1990.
+
+#### Waste (Wales) Measure 2010 (nawm 8)
+
+**17** (1) The Waste (Wales) Measure 2010 is amended as follows.
+
+(2) For the italic cross-heading before section 9 substitute— “ Disposal in a landfill or by incineration ”.
+
+(3) In section 11—
+
+(a) in subsection (1), after “9” insert “ or 9A ”;
+
+(b) omit subsection (2).
+
+### PART 4 — FLOOD AND COASTAL EROSION COMMITTEE
+
+#### Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+
+**18** In the Schedule to the Public Bodies (Admission to Meetings) Act 1960, in paragraph 1, after sub-paragraph (i) insert—
+
+> (ia) the Flood and Coastal Erosion Committee established by section 26B of the Flood and Water Management Act 2010;
+
+.
+
+#### Local Government Act 1974 (c. 7)
+
+**19** In section 25(1)(d) of the Local Government Act 1974, omit “for an area wholly or partly in England”.
+
+#### Water Resources Act 1991 (c. 57)
+
+**20** (1) The Water Resources Act 1991 is amended as follows.
+
+(2) In section 118(7)—
+
+(a) before “means” insert—
+
+> —
+>
+> (a) in relation to the Agency,
+
+;
+
+(b) after “2010” insert—
+
+> , and
+>
+> (b) in relation to the NRBW, means Wales, within the meaning of section 158 of the Government of Wales Act 2006
+
+.
+
+(3) In section 134(2), for “appropriate agency” substitute “ Agency ”.
+
+(4) In section 138(3), after “relevant chargeable land” insert “ (where that land is in England) or by the NRBW (where the relevant chargeable land is in Wales) ”.
+
+(5) In section 145, in the definition of “flood risk management region”—
+
+(a) before “means” insert—
+
+> —
+>
+> (a) in relation to the Agency,
+
+;
+
+(b) after “2010” insert—
+
+> , and
+>
+> (b) in relation to the NRBW, means Wales, within the meaning of section 158 of the Government of Wales Act 2006
+
+.
+
+(6) In Schedule 26, in paragraph 7, in the definition of “the relevant Minister”, in paragraph (a)(ii), omit “the whole or the greater part of which is”.
+
+#### Land Drainage Act 1991 (c. 59)
+
+**21** In section 1(1)(a) of the Land Drainage Act 1991, after “2010)” insert “ or within Wales (within the meaning of section 158 of the Government of Wales Act 2006) ”.
+
+#### Environment Act 1995 (c. 25)
+
+**22** In section 6 of the Environment Act 1995—
+
+(a) in subsection (5), omit “and the Natural Resources Body for Wales' flood defence functions shall extend to the territorial sea adjacent to Wales”;
+
+(b) after subsection (5) insert—
+
+> (5A) The flood defence functions of the Natural Resources Body for Wales extend to the territorial sea adjacent to Wales.
+
+#### Freedom of Information Act 2000 (c. 36)
+
+**23** In Part 6 of Schedule 1 to the Freedom of Information Act 2000, after the entry for the Firearms Consultative Committee insert— “ Flood and Coastal Erosion Committee or Pwyllgor Llifogydd ac Erydu Arfordirol. ”
+
+#### Public Services Ombudsman (Wales) Act 2005 (c. 10)
+
+**24** In Schedule 3 to the Public Services Ombudsman (Wales) Act 2005, for “A Regional Flood and Coastal Committee for an area wholly or partly in Wales” substitute “ The Flood and Coastal Erosion Committee ”.
+
+#### Flood and Water Management Act 2010 (c. 29)
+
+**25** (1) The Flood and Water Management Act 2010 is amended as follows.
+
+(2) In section 6, at the end insert—
+
+> (17) “Wales” has the meaning given by section 158 of the Government of Wales Act 2006.
+
+(3) In section 17(4), after “section 23(3)” insert “ for the Agency ”.
+
+(4) In the italic cross-heading before section 22, after “Committees” insert “ for regions in England ”.
+
+(5) In section 22—
+
+(a) in subsection (1)—
+
+(i) for “appropriate agency” substitute “ Environment Agency ”;
+
+(ii) omit “and Wales”;
+
+(iii) omit the words from “that is wholly or mainly in England” to the end of the subsection;
+
+(b) in subsection (2)—
+
+(i) for “Minister” substitute “ Secretary of State ”;
+
+(ii) for “appropriate agency” substitute “ Agency ”;
+
+(c) omit subsection (3).
+
+(6) In section 23—
+
+(a) in subsection (1)—
+
+(i) in the opening words, for “appropriate agency” substitute “ Environment Agency ”;
+
+(ii) in paragraph (a), for “appropriate agency” substitute “ Agency ”;
+
+(iii) in paragraph (b), for “appropriate agency's” substitute “Agency's”;
+
+(b) in subsections (2) to (4), for “appropriate agency” substitute “ Agency ”.
+
+(7) In section 24, for “Minister” substitute “ Secretary of State ”.
+
+(8) In section 25—
+
+(a) in subsection (1)—
+
+(i) in the opening words, for “Minister may direct the appropriate agency” substitute “ Secretary of State may direct the Environment Agency ”;
+
+(ii) in paragraph (d), for “Minister” substitute “ Secretary of State ”;
+
+(b) in subsection (2), for “appropriate agency” substitute “ Agency ”;
+
+(c) in subsection (3), for “Minister” substitute “ Secretary of State ”.
+
+(9) Omit sections 26 and 26A.
+
+(10) In section 49(3), omit paragraph (c).
+
+#### Public Bodies Act 2011 (c. 24)
+
+**26** (1) The Public Bodies Act 2011 is amended as follows.
+
+(2) In section 13—
+
+(a) in subsection (1)—
+
+(i) at the end of paragraph (b), insert “ or ”;
+
+(ii) omit paragraph (d) and the “or” before it;
+
+(b) omit subsection (4);
+
+(c) omit subsections (8) and (9).
+
+(3) In section 36(1), in the definition of “cross-border operator”—
+
+(a) at the end of paragraph (za), insert “ or ”;
+
+(b) omit paragraph (b) and the “or” before it.
+
+#### Water Act 2014 (c. 21)
+
+**27** In Schedule 10 to the Water Act 2014, omit paragraph 18.
+
+### PART 5 — BYELAWS
+
+#### National Parks and Access to the Countryside Act 1949 (c. 97)
+
+**28** (1) The National Parks and Access to the Countryside Act 1949 is amended as follows.
+
+(2) In section 106(5), for “Countryside Council for Wales” substitute “ Natural Resources Body for Wales ”.
+
+(3) In section 106A, in the heading and in subsection (1), for “Countryside Council for Wales” substitute “ Natural Resources Body for Wales ”.
+
+#### Countryside Act 1968 (c. 41)
+
+**29** In section 41(7A) of the Countryside Act 1968, for “Council” substitute “ NRBW ”.
+
+#### Local Government Byelaws (Wales) Act 2012 (anaw 2)
+
+**30** (1) The Local Government Byelaws (Wales) Act 2012 is amended as follows.
+
+(2) In section 3(d), for “Countryside Council for Wales” substitute “ Natural Resources Body for Wales ”.
+
+(3) In section 7(8)(b), for “Countryside Council for Wales” substitute “ Natural Resources Body for Wales ”.
+
+(4) In section 8(8), in the opening words—
+
+(a) for “Countryside Council for Wales” substitute “ Natural Resources Body for Wales ”;
+
+(b) for “the Council” substitute “ the Body ”.
+
+(5) In Schedule 2, omit paragraph 11.
+
+---
+
+[^F1]: S. 6(2A) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 36(1), 46(2)(f)
+[^F2]: S. 6(5)(d) inserted (17.10.2023) by Agriculture (Wales) Act 2023 (asc 4), s. 56(3)(d), Sch. 2 para. 6
+[^F3]: Words in s. 6(5)(d) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 36(2), 46(2)(f)
+[^F4]: S. 6(6A)-(6C) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 37, 46(2)(f)
+[^F5]: S. 6(7)(a)(b) substituted for words (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 38(1), 46(2)(f)
+[^F6]: S. 6(7A)-(7C) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 38(2), 46(2)(f)
+[^F7]: Words in s. 6(9) substituted (21.1.2021) by Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 46(a)(i)
+[^F8]: Words in s. 6(9) inserted (3.12.2021) by The Environment (Wales) Act 2016 (Public Authorities subject to the Biodiversity and Resilience of Ecosystems Duty) Regulations 2021 (S.I. 2021/1350), regs. 1(2), 2(2)
+[^F9]: Words in s. 6(9) omitted (21.1.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 46(a)(ii)
+[^F10]: Words in s. 6(9) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 36(3), 46(2)(f)
+[^F11]: Words in s. 6(10) inserted (3.12.2021) by The Environment (Wales) Act 2016 (Public Authorities subject to the Biodiversity and Resilience of Ecosystems Duty) Regulations 2021 (S.I. 2021/1350), regs. 1(2), 2(3)
+[^F12]: Words in s. 6(10) substituted (1.10.2024) by The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706), regs. 1(1), 22(b); S.I. 2024/957, reg. 2(a)
+[^F13]: Words in s. 6(10) omitted (21.1.2021) by virtue of Local Government and Elections (Wales) Act 2021 (asc 1), s. 175(1)(e), Sch. 9 para. 46(b)
+[^F14]: S. 6(11) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 36(4), 46(2)(f)
+[^F15]: S. 6A inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 39(1), 46(2)(f)
+[^F16]: Ss. 6B-6I and cross-heading inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 35(1), 46(2)(f)
+[^F17]: S. 7 cross-heading inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 35(2), 46(2)(f)
+[^F18]: S. 9 cross-heading substituted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 40(1), 46(2)(f)
+[^F19]: S. 8A inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 40(2), 46(2)(f)
+[^F20]: Words in s. 10(1)(f) substituted (1.8.2024) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 36 (with s. 19); S.I. 2024/806, art. 2(k)(xix) (with art. 28)
+[^F21]: S. 24(1)(za) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 39(2)(a), 46(2)(f)
+[^F22]: Words in s. 24(3) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 39(2)(b), 46(2)(f)
+[^F23]: Words in s. 25(4) inserted (27.6.2026) by Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4), ss. 35(3), 46(2)(f)
+[^F24]: Word in s. 29(1) substituted (19.3.2021) by The Environment (Wales) Act 2016 (Amendment of 2050 Emissions Target) Regulations 2021 (S.I. 2021/333), regs. 1(2), 2
+[^F25]: S. 84(4)(a) omitted (16.11.2024) by virtue of Local Government Finance (Wales) Act 2024 (asc 6), s. 23(2)(g), Sch. para. 20(2)

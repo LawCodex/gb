@@ -1,0 +1,1001 @@
+---
+title: "Housing (Cladding Remediation) (Scotland) Act 2024"
+identifier: "asp/2024/7"
+citation: "2024 asp 7"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2024-06-21
+last_amended: 2025-01-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2024/7"
+source_modified: 2025-01-08
+retrieved: 2026-10-11
+---
+
+# Housing (Cladding Remediation) (Scotland) Act 2024
+
+**2024 asp 7**
+
+An Act of the Scottish Parliament to confer on the Scottish Ministers powers to identify external wall cladding systems on residential buildings that create or exacerbate risks to human life and to address those risks; to establish a register to record that a building’s cladding has been assessed and that remediation works have been completed; to enable one or more schemes to be established to require persons in the building industry to contribute towards assessing and remediating dangerous cladding; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 14th May 2024 and received Royal Assent on 21st June 2024
+
+## Part 1 — The Cladding Assurance Register
+
+### 1 The register
+
+(1) The Scottish Ministers are to maintain a register of buildings (“the cladding assurance register”).
+
+(2) An entry for a building is to be created in the register once a single-building assessment has been carried out in relation to it.
+
+(3) A building’s entry in the register—
+
+(a) must, when first created, include the following information—
+
+(i) when a single-building assessment was carried out in relation to it,
+
+(ii) what work (if any) a single-building assessment report identified as being needed to eliminate or mitigate risks to human life that are (directly or indirectly) created or exacerbated by the building’s external wall cladding system,
+
+(b) must be amended, as soon as reasonably practicable after any additional work assessment is carried out in relation to it, to include the following information—
+
+(i) when the additional work assessment was carried out,
+
+(ii) what additional work (if any) the additional work assessment report identified as being needed to eliminate or mitigate risks to human life that are (directly or indirectly) created or exacerbated by the building’s external wall cladding system,
+
+(c) must be amended, as soon as reasonably practicable after the Scottish Ministers are satisfied that any work mentioned in paragraph (a)(ii) and any work mentioned in paragraph (b)(ii) has been completed, to include the date on which they were so satisfied,
+
+(d) may include any other information that the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers may amend an entry in the register if they consider any information contained in it to be inaccurate.
+
+(5) The Scottish Ministers may charge for access to the register.
+
+### 2 Offence of providing false or misleading information for the register
+
+(1) A person commits an offence if—
+
+(a) the person gives information that the person knows, or ought to know, is false or misleading to—
+
+(i) the Scottish Ministers, or
+
+(ii) a person carrying out a single-building assessment or an additional work assessment, and
+
+(b) the person knows, or is reckless as to whether, giving the information is likely to result in—
+
+(i) a material inaccuracy in an entry in the cladding assurance register, or
+
+(ii) an entry for a building not being created in the register when it otherwise would.
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) For the avoidance of doubt, the reference in subsection (1) to giving the Scottish Ministers information is not limited to doing so in response to a requirement imposed under section 5.
+
+## Part 2 — Powers to assess and address danger
+
+### Chapter 1 — Scottish Ministers’ powers
+
+#### Powers to assess danger
+
+##### 3 Power to arrange single-building assessment
+
+(1) The Scottish Ministers may arrange for a single-building assessment to be carried out in relation to a building.
+
+(2) Anything that needs to be done on premises for the purposes of carrying out an assessment arranged under subsection (1) may not be done, without the consent of the premises’ owner, before the end of the notice period.
+
+(3) The notice period is a period of 7 days beginning with the day that the Scottish Ministers give the premises’ owner a written notice explaining what the carrying out of the assessment may entail.
+
+(4) At the same time as giving notice to the premises’ owner in order to begin the notice period, the Scottish Ministers are to give a written notice in the same terms to any occupier of the premises.
+
+##### 4 Power to arrange additional work assessment
+
+(1) The Scottish Ministers may arrange for an additional work assessment to be carried out in relation to a building in relation to which a single-building assessment has been carried out.
+
+(2) Subsection (3) applies where—
+
+(a) something needs to be done on premises for the purposes of carrying out an assessment arranged under subsection (1), and
+
+(b) the premises are not premises on which a person carrying out work under an arrangement made under this Chapter is entitled, by virtue of section 13, to do anything reasonably required to carry out that work.
+
+(3) Anything that needs to be done on the premises for the purposes of carrying out an assessment arranged under subsection (1) may not be done, without the consent of the owner, before the end of the notice period.
+
+(4) The notice period is a period of 7 days beginning with the day that the Scottish Ministers give the premises’ owner a written notice explaining what the carrying out of the assessment may entail.
+
+(5) At the same time as giving notice to the premises’ owner in order to begin the notice period, the Scottish Ministers are to give a written notice in the same terms to any occupier of the premises.
+
+##### 5 Power to require information for assessments and the register
+
+(1) The Scottish Ministers may require any person to supply them with information which is reasonably required—
+
+(a) by a person for the purpose of carrying out a single-building assessment or an additional work assessment, or
+
+(b) by them for the purpose of maintaining the cladding assurance register.
+
+(2) A requirement under subsection (1) is imposed on a person by the Scottish Ministers giving the person a written notice specifying—
+
+(a) the information, or the nature of the information, which is to be supplied,
+
+(b) the form in which it is to be supplied,
+
+(c) the date on or by which it is to be supplied,
+
+(d) why it is required.
+
+(3) A person may not be required under subsection (1) to supply information which that person would be entitled to refuse to provide in proceedings in a court in Scotland.
+
+(4) The Scottish Ministers may relieve a person from a requirement to supply information under subsection (1) by giving the person a written notice to that effect.
+
+(5) In this section, “information” includes unrecorded information.
+
+##### 6 Offence of failing to comply with requirement under section 5
+
+(1) A person who is required under section 5(1) to supply information commits an offence if the person fails, without reasonable excuse, to supply the information in the required form by the date on or by which it is to be supplied.
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### Powers to address danger
+
+##### 7 Power to arrange remediation work
+
+(1) The Scottish Ministers may arrange for work to be carried out that is identified as being needed to eliminate or mitigate risks to human life that are (directly or indirectly) created or exacerbated by a building’s external wall cladding system in—
+
+(a) a single-building assessment report, or
+
+(b) an additional work assessment report.
+
+(2) Work arranged under subsection (1)(a) or (b) may not begin on premises, without the consent of the premises’ owner—
+
+(a) before the end of the notice period in relation to the work identified as mentioned in subsection (1)(a) or, as the case may be, (b), or
+
+(b) if an appeal against the decision to arrange for the work to be carried out is made within that period, before the appeal is finally determined or withdrawn.
+
+(3) The notice period is a period of 21 days beginning with the day that the Scottish Ministers give the premises’ owner a written notice explaining—
+
+(a) what work is to be carried out,
+
+(b) what a person carrying it out is entitled to do by section 13,
+
+(c) the right to appeal under section 12 against the decision to arrange for the work to be carried out.
+
+(4) At the same time as giving notice to the premises’ owner in order to begin the notice period, the Scottish Ministers are to give a written notice in the same terms to any occupier of the premises.
+
+##### 8 Power to arrange urgent remediation work
+
+(1) The Scottish Ministers may arrange for work to be carried out where—
+
+(a) the work is identified as being needed to eliminate or mitigate a risk to human life that is (directly or indirectly) created or exacerbated by a building’s external wall cladding system either—
+
+(i) in a single-building assessment report or an additional work assessment report, or
+
+(ii) by a person carrying out a single-building assessment or an additional work assessment raising the risk with the Scottish Ministers before completing the assessment, and
+
+(b) the risk to human life is so immediate that it would be inappropriate to delay the work starting by arranging for it to be carried out under section 7 instead.
+
+(2) Where the Scottish Ministers arrange under subsection (1) for work to be carried out on premises, they are to give the premises’ owners and occupiers such notice of the work (if any) as the circumstances permit.
+
+##### 9 Power to evacuate
+
+(1) The Scottish Ministers may require the occupants of premises to remove from them in any of the following circumstances—
+
+(a) in the Scottish Ministers’ opinion—
+
+(i) there is a substantial risk to the occupants’ lives, or
+
+(ii) continued occupation of the premises would mean that there would be a substantial risk to the lives of the occupants of any other premises,
+
+due (directly or indirectly) to the external wall cladding system of a building that is undergoing, or has undergone, a single-building assessment or an additional work assessment,
+
+(b) the Scottish Ministers have arranged for work to be carried out under section 7 or 8 and, in their opinion, the occupants of the premises may be endangered by the carrying out of the work.
+
+(2) A requirement to remove from premises in the circumstance mentioned in subsection (1)(a)—
+
+(a) may be imposed by informing the occupants verbally, or by giving them written notice, that they are to remove from the premises,
+
+(b) may require the occupants to remove from the premises immediately.
+
+(3) A requirement to remove from premises in the circumstance mentioned in subsection (1)(b)—
+
+(a) may be imposed only by giving the occupants a written notice that they are to remove from the premises by a date specified in the notice,
+
+(b) may not require the occupants to remove before the end of the 14 day period beginning with the day that the notice required by paragraph (a) is given.
+
+(4) Having imposed a requirement to remove from premises under this section, and having since become satisfied that no-one would be endangered by occupying the premises, the Scottish Ministers must—
+
+(a) cause notice to that effect to be conspicuously displayed on or near the premises for a period of at least 14 days, and
+
+(b) take all reasonable steps to give notice to that effect to any person who—
+
+(i) removed from the premises in accordance with a requirement imposed under this section, or
+
+(ii) was ejected from them by virtue of a warrant granted under paragraph 3 of the schedule.
+
+(5) A person’s tenancy of premises is not to be taken to have been terminated, varied or altered by reason of the person’s—
+
+(a) removing from the premises in accordance with a requirement imposed under this section, or
+
+(b) being ejected from the premises by virtue of a warrant granted under paragraph 3 of the schedule.
+
+(6) The schedule makes provision about the granting of warrants for the ejection of occupants required to remove under this section.
+
+##### 10 Offence of occupying evacuated premises
+
+(1) A person commits an offence if the person occupies premises when forbidden to do so.
+
+(2) A person is forbidden to occupy premises during the period that—
+
+(a) begins with the person’s—
+
+(i) removing from the premises in accordance with a requirement imposed under section 9, or
+
+(ii) being ejected from the premises by virtue of a warrant granted under paragraph 3 of the schedule, and
+
+(b) ends with the first day on which notice is displayed in accordance with section 9(4)(a) that the Scottish Ministers have become satisfied that no-one would be endangered by occupying the premises.
+
+(3) A person who commits an offence under subsection (1) is liable on summary conviction to—
+
+(a) a fine not exceeding level 5 on the standard scale,
+
+(b) a term of imprisonment not exceeding 3 months, or
+
+(c) both.
+
+#### Personal emergency evacuation plans
+
+##### 11 Personal emergency evacuation plans
+
+(1) The Scottish Ministers may by regulations make provision in relation to the development and provision of personal emergency evacuation plans for occupiers of a building to which a single-building assessment applies who have a disability.
+
+(2) Regulations must provide for any personal emergency evacuation plan to expire on the day on which the Scottish Ministers amend the cladding assurance register under section 1(3)(c) to confirm that all necessary works have been completed.
+
+(3) Regulations under subsection (1) are subject to the affirmative procedure.
+
+#### Appeal
+
+##### 12 Appeal against arranged remediation work
+
+(1) The owner of premises, having received notice under section 7 that the Scottish Ministers have arranged for work to be carried out on the premises, may appeal to the sheriff against the Scottish Ministers’ decision to make that arrangement.
+
+(2) An appeal may be made under this section—
+
+(a) without the sheriff’s permission within the 21 day period described by section 7(3),
+
+(b) only with the sheriff’s permission on cause shown outwith that period.
+
+(3) The sheriff must—
+
+(a) hold a hearing on an appeal under this section within 21 days of the appeal being made, and
+
+(b) give the parties to the appeal an opportunity to make representations at the hearing.
+
+(4) At the hearing, the sheriff may—
+
+(a) determine the appeal, or
+
+(b) on a motion of a party or on the sheriff’s own initiative, continue the proceedings.
+
+(5) In deciding whether to continue the proceedings and, if so, to when, the sheriff must have regard to all the circumstances of the case, including the effect that any continuation of proceedings would have in relation to the elimination or mitigation of risks to human life that—
+
+(a) are (directly or indirectly) created or exacerbated by a building’s external wall cladding system, and
+
+(b) were identified in the single-building assessment report or the additional work assessment report which identified the need for the work to which the decision appealed relates.
+
+(6) On an appeal under this section, the sheriff may—
+
+(a) dismiss it,
+
+(b) order that only some of the work in question be carried out,
+
+(c) order that none of the work be carried out,
+
+(d) make any other order the sheriff thinks just.
+
+(7) The decision of the sheriff on an appeal under this section is final.
+
+### Chapter 2 — Carrying out assessments and work
+
+#### 13 Authority for carrying out assessment or work
+
+(1) A person carrying out, under an arrangement made under Chapter 1, a single-building assessment, an additional work assessment or work is entitled by this subsection to do anything reasonably required to carry out that assessment or work, including—
+
+(a) entering premises (subject to subsections (3) and (4)(a)),
+
+(b) taking other persons, and equipment, onto premises,
+
+(c) removing things from premises and arranging for their retention until claimed by a person having a right of possession to them,
+
+(d) carrying out reasonable tests to determine the properties of any material.
+
+(2) Subsection (1) does not, of itself, entitle a person to use force to enter premises (for that a warrant is required under section 14).
+
+(3) Subsection (1) does not entitle a person to enter Crown premises without the owner’s consent.
+
+(4) A person entitled to enter premises by subsection (1)—
+
+(a) is entitled by that subsection to do so—
+
+(i) only at a reasonable time of day, and
+
+(ii) only if the premises’ occupants have been given at least 24 hours’ notice (subject to subsection (5)),
+
+(b) if requested to do so when seeking entry to the premises, or while on them, must produce written evidence of the legal basis for the person’s entitlement to enter them,
+
+(c) must leave the premises no less effectually secured against unauthorised entry as the person found them.
+
+(5) The requirement for notice under subsection (4)(a)(ii) does not apply in an urgent situation.
+
+(6) A person’s entitlement to do anything mentioned in this section is subject to any contrary or qualifying provision in a warrant under section 14.
+
+(7) Nothing in this section entitles a person to do any thing—
+
+(a) in breach of section 3(2), 4(3) or 7(2),
+
+(b) without any warrant, permission, consent or other approval (however described) from a public authority that would ordinarily be required in relation to doing the thing.
+
+#### 14 Warrant authorising use of force to effect entry
+
+(1) The holder of a judicial office mentioned in subsection (6) may grant a warrant authorising a person entitled to enter premises by section 13(1) to use reasonable force in accordance with the terms of the warrant.
+
+(2) An application for a warrant under this section may be made only by the Scottish Ministers.
+
+(3) A warrant under this section may be granted only if the judicial office-holder is satisfied, by evidence on oath—
+
+(a) that there are reasonable grounds for the person to enter the premises for the purpose of doing something the person is entitled to do by section 13(1), and
+
+(b) that—
+
+(i) entry to the premises has been refused,
+
+(ii) such a refusal is reasonably expected,
+
+(iii) the premises are unoccupied,
+
+(iv) the premises’ occupier is temporarily absent,
+
+(v) the case is one of urgency, or
+
+(vi) that an application for admission would defeat the object of the proposed entry.
+
+(4) A judicial office-holder may not be satisfied that a condition specified by any of sub-paragraphs (ii) to (iv) of subsection (3)(b) is met unless the office-holder is also satisfied that notice of intention to apply for a warrant has been given to the premises’ occupier.
+
+(5) A warrant under this section ceases to have effect—
+
+(a) when the purpose for which it was granted is fulfilled, or
+
+(b) if the warrant specifies a date for its own expiry, on that date (if it has not already ceased to have effect by virtue of paragraph (a)).
+
+(6) The judicial offices referred to in subsection (1) are—
+
+(a) sheriff,
+
+(b) summary sheriff.
+
+#### 15 Offence of obstructing assessment or work
+
+(1) A person (“A”) commits an offence if—
+
+(a) another person (“B”) is carrying out a single-building assessment, an additional work assessment or work arranged under Chapter 1,
+
+(b) the use of reasonable force by B is authorised in connection with the carrying out of the assessment or work by a warrant under section 14, and
+
+(c) without reasonable excuse, A intentionally obstructs B from doing something that B is entitled to do by section 13(1).
+
+(2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### 16 Offence of failing to assist with assessment or work
+
+(1) A person (“A”) commits an offence if—
+
+(a) another person (“B”)—
+
+(i) is on premises carrying out a single-building assessment, an additional work assessment or work arranged under Chapter 1, and
+
+(ii) reasonably requests assistance or information from A for the purposes of carrying out the assessment or work,
+
+(b) the use of reasonable force by B is authorised in connection with the carrying out of the assessment or work by a warrant under section 14,
+
+(c) A is either—
+
+(i) also on the premises, or
+
+(ii) is the owner or occupier of the premises, and
+
+(d) without reasonable excuse A fails to provide the requested assistance or information.
+
+(2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### Chapter 3 — Notices
+
+#### 17 Power to require information to give notice
+
+(1) The Scottish Ministers may, for the purpose of enabling them to give a notice under this Part, require any person to whom subsection (2) applies to state, in writing, to the Ministers—
+
+(a) the nature of the person’s interest in the premises in connection with which the notice is to be given, and
+
+(b) the name and address of any other person known by that person to have an interest in the premises.
+
+(2) This subsection applies to the following—
+
+(a) the owner of the premises in question,
+
+(b) the occupier of the premises,
+
+(c) any person who receives rent (directly or indirectly) in respect of the premises.
+
+(3) A requirement under subsection (1) is imposed on a person by the Scottish Ministers giving the person notice of—
+
+(a) the information required, and
+
+(b) the deadline for providing it.
+
+(4) A person may not be required under subsection (1) to disclose any information which that person would be entitled to refuse to provide in proceedings in a court in Scotland.
+
+(5) The Scottish Ministers may relieve a person from a requirement to provide information under subsection (1) by giving the person a written notice to that effect.
+
+(6) A person who is required under subsection (1) to provide information commits an offence if the person—
+
+(a) without reasonable excuse fails to provide it by the deadline, or
+
+(b) knowingly or recklessly provides in response to the requirement a statement that is false, or misleading, in a material particular.
+
+(7) A person who commits an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+#### 18 Giving notice where recipient’s address is unknown
+
+(1) Where—
+
+(a) under this Part, the Scottish Ministers are required to give notice to a person, and
+
+(b) despite having made reasonable inquiries they cannot ascertain that person’s proper address,
+
+a written notice is to be taken to have been given to the person 48 hours after the Scottish Ministers cause the notice to be conspicuously displayed on or near the premises in connection with which the notice is to be given.
+
+(2) In subsection (1), “proper address” has the meaning given in section 26(4) of the Interpretation and Legislative Reform (Scotland) Act 2010.
+
+#### 19 Deemed receipt of notice
+
+For the purposes of this Part, where a notice is served as mentioned in section 26(2)(b) or (c) of the Interpretation and Legislative Reform (Scotland) Act 2010, it is to be taken to have been received 48 hours after it is sent.
+
+## Part 3 — Offences under Parts 1 and 2
+
+### 20 Individual culpability where organisation commits an offence
+
+(1) This section applies where—
+
+(a) an offence under Part 1 or 2 is committed by an organisation, and
+
+(b) the commission of the offence—
+
+(i) involves consent or connivance on the part of a responsible individual, or
+
+(ii) is attributable to neglect on the part of a responsible individual.
+
+(2) The responsible individual (as well as the organisation) commits the offence.
+
+(3) For the purposes of this section, “responsible individual” means, in relation to an organisation listed in the first column of the following table—
+
+(a) an individual falling within the corresponding entry in the second column of the table,
+
+(b) an individual purporting to act in the capacity of an individual falling within the corresponding entry.
+
+| Organisation | Individual |
+|---|---|
+| Company as mentioned in section 1 of the Companies Act 2006 | Director, manager, secretary or other similar officer, or, where the company’s affairs are managed by its members, member |
+| Limited liability partnership | Member |
+| Other partnership | Partner |
+| Any other body or association | Individual who is concerned in the management or control of its affairs |
+
+### 21 Crown application: criminal offences
+
+(1) Nothing in Part 1 or 2 makes the Crown criminally liable.
+
+(2) But the Court of Session may, on an application by the Lord Advocate, declare unlawful any act or omission for which the Crown would be criminally liable were it not for subsection (1).
+
+(3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
+
+## Part 4 — Engagement with owners and occupiers
+
+### 22 Pre-assessment engagement
+
+(1) The Scottish Ministers must, where a relevant assessment arranged by them under Chapter 1 of Part 2 in relation to a building involves entry on premises, use their best endeavours to ensure that, before the first premises are entered for the purposes of the arrangement, the persons mentioned in subsection (2) are—
+
+(a) informed that the assessment is to be carried out, and
+
+(b) given a reasonable opportunity to put questions about the assessment to a person appointed for that purpose by the Scottish Ministers.
+
+(2) The persons are—
+
+(a) where the assessment is arranged by the Scottish Ministers in order to enable a relevant assessment arranged by another person to be completed, the owners and occupiers of premises that—
+
+(i) form part of the building to which the assessment relates, and
+
+(ii) are to be entered pursuant to the arrangement made by the Scottish Ministers,
+
+(b) otherwise, the owners and occupiers of the building to which the assessment relates.
+
+(3) Without prejudice to the generality of subsection (1), the Scottish Ministers’ duty under that subsection is to be regarded as fulfilled if the person carrying out the assessment arranged by the Scottish Ministers has a duty, under an agreement with the Scottish Ministers, to use the person’s best endeavours to ensure that the persons mentioned in subsection (2) are—
+
+(a) informed that the assessment is to be carried out, and
+
+(b) given a reasonable opportunity to put questions about the assessment to a person appointed for that purpose by the person carrying out the assessment.
+
+(4) In this section and sections 23 and 24, “relevant assessment” means—
+
+(a) a single-building assessment, or
+
+(b) an additional work assessment.
+
+### 23 Post-assessment engagement: reports
+
+(1) The Scottish Ministers must, where they arranged a relevant assessment in relation to a building under Chapter 1 of Part 2, use their best endeavours to ensure that the persons mentioned in subsection (2) are—
+
+(a) so far as practicable, informed, in plain language, of the conclusions contained in the report of the assessment, and
+
+(b) given a reasonable opportunity to put questions about the report to a person appointed for that purpose by the Scottish Ministers.
+
+(2) The persons are—
+
+(a) where the assessment was arranged by the Scottish Ministers in order to enable a relevant assessment arranged by another person to be completed, the owners and occupiers of premises that—
+
+(i) form part of the building to which the assessment related, and
+
+(ii) were entered pursuant to the arrangement made by the Scottish Ministers,
+
+(b) otherwise, the owners and occupiers of the building to which the assessment related.
+
+(3) Without prejudice to the generality of subsection (1), the Scottish Ministers’ duty under that subsection is to be regarded as fulfilled if the person who carried out the assessment has a duty, under an agreement with the Scottish Ministers, to use the person’s best endeavours to ensure that the persons mentioned in subsection (2) are—
+
+(a) so far as practicable, informed, in plain language, of the conclusions contained in the report of the assessment, and
+
+(b) given a reasonable opportunity to put questions about the report to a person appointed for that purpose by the person who carried out the assessment.
+
+### 24 Post-assessment engagement: remediation work
+
+(1) The Scottish Ministers must, where they arrange remediation work in relation to a building under Chapter 1 of Part 2, use their best endeavours to ensure that the persons mentioned in subsection (2) are—
+
+(a) before the remediation work begins—
+
+(i) informed that the work is to be carried out, and
+
+(ii) given a reasonable opportunity to put questions about the work to a person appointed for that purpose by the Scottish Ministers,
+
+(b) while the remediation work is carried out—
+
+(i) kept informed, so far as is practicable, about the progress of the work, and
+
+(ii) given a reasonable opportunity to put questions about the progress of the work to a person appointed for the purpose by the Scottish Ministers,
+
+(c) as soon as practicable after the building’s entry in the cladding assurance register is amended to record the date on which the Sottish Ministers were satisfied that the work had been completed, informed of that fact.
+
+(2) The persons are—
+
+(a) where the work is arranged by the Scottish Ministers in order to enable remediation work arranged by another person to be completed, the owners and occupiers of premises that—
+
+(i) form part of the building to which the relevant assessment that identified the work as being needed related, and
+
+(ii) are to be entered pursuant to the arrangement made by the Scottish Ministers,
+
+(b) otherwise, the owners and occupiers of the building to which the relevant assessment that identified the work as being needed related.
+
+(3) Without prejudice to the generality of subsection (1), the Scottish Ministers’ duty under that subsection is to be regarded as fulfilled if the person carrying out the work arranged by the Scottish Ministers has a duty, under an agreement with the Scottish Ministers, to use the person’s best endeavours to ensure that the persons mentioned in subsection (2) are—
+
+(a) informed that the work is to be carried out, and
+
+(b) given a reasonable opportunity to put questions about the work to a person appointed for that purpose by the person carrying out the assessment.
+
+(4) Where remediation work is arranged by the Scottish Ministers under section 8, the Scottish Ministers need comply with the duties imposed by subsection (1)(a) and (b) only to the extent that is practicable in the circumstances.
+
+(5) In this section, “remediation work” means work identified in a single-building assessment report or an additional work assessment report as being needed to eliminate or mitigate risks to human life that are (directly or indirectly) created or exacerbated by a building’s external wall cladding system.
+
+## Part 5 — Responsible developers scheme
+
+### 25 Power to establish scheme
+
+(1) The Scottish Ministers may by regulations establish a responsible developers scheme (or more than one).
+
+(2) The purpose of a responsible developers scheme is to secure that persons in the building industry address, or contribute towards the costs of addressing, risks to human life created or exacerbated (directly or indirectly) by the external wall cladding systems of buildings that are wholly or partly residential.
+
+(3) Regulations establishing a scheme are to include provision about—
+
+(a) who is eligible to be a member of a responsible developers scheme,
+
+(b) the conditions of becoming, and remaining, a member,
+
+(c) loss of membership,
+
+(d) the consequences of a person who is eligible to be a member not being a member.
+
+(4) Without prejudice to the generality of any other provision in this Part, regulations under subsection (1) may in particular—
+
+(a) make provision about who is to operate a scheme (including by allowing a person to be appointed for that purpose in accordance with the regulations),
+
+(b) confer functions on persons,
+
+(c) require members, or persons seeking to become members, of a scheme to pay fees,
+
+(d) make provision about the processes to be followed by the person operating a scheme (including in relation to decisions by the person about another person’s membership of the scheme),
+
+(e) make different provision for different developers with regard to the size or other characteristics of a developer,
+
+(f) make provision—
+
+(i) requiring the Scottish Ministers to use their best endeavours to secure the outcome mentioned in subsection (5), and
+
+(ii) describing circumstances in which such a requirement is to be regarded as having been complied with.
+
+(5) The outcome is that, in relation to any single-building assessment, additional work assessment or work identified in a single-building assessment report or an additional work assessment report as being needed to eliminate or mitigate risks to human life that are (directly or indirectly) created or exacerbated by a building’s external wall cladding system arranged by a member of the scheme, the member uses the member’s best endeavours to ensure that the owners and occupiers of the building are—
+
+(a) informed that the assessment or work is to be carried out, and
+
+(b) given a reasonable opportunity to put questions about the assessment or work to a person appointed for that purpose by the member.
+
+(6) Before making regulations under subsection (1), the Scottish Ministers must consult—
+
+(a) such persons as appear to the Scottish Ministers to represent the interests of persons carrying on, for business purposes, activities connected with the construction or other development of buildings which are wholly or partly residential, and
+
+(b) such other persons,
+
+as the Scottish Ministers consider appropriate.
+
+### 26 Eligibility for membership
+
+(1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(a).
+
+(2) Regulations must make being eligible for membership of a scheme depend on a person—
+
+(a) being a developer, and
+
+(b) having a connection to a building of a kind described by the regulations that has problematic cladding.
+
+(3) It is for the regulations to describe the kind of connection to a building that a developer must have in order to be eligible for membership of a scheme.
+
+(4) The regulations may provide for a connection of an indirect kind to suffice.
+
+(5) Subsection (2) is not exhaustive of the matters that regulations may specify as criteria for being eligible for membership of a scheme.
+
+(6) In this section—
+
+- “developer” means a person carrying on, for business purposes, activities connected with the construction or other development of buildings,
+
+- “problematic cladding” means an external wall cladding system in relation to which a single-building assessment report states that—
+
+  - (directly or indirectly) the cladding system creates or exacerbates a risk to human life, and
+  - work is needed to eliminate or mitigate that risk.
+
+### 27 Conditions of membership
+
+(1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(b).
+
+(2) Conditions of becoming, and remaining, a member of a scheme may include conditions relating to—
+
+(a) carrying out single-building assessments and additional work assessments and the carrying out of work identified as needed in a single-building assessment report or an additional work assessment report,
+
+(b) making financial contributions towards meeting costs associated with carrying out single-building assessments and additional work assessments and the carrying out of work identified as needed in a single-building assessment report or an additional work assessment report,
+
+(c) the provision of information to the Scottish Ministers or any other person,
+
+(d) abiding by the terms of an agreement.
+
+(3) Regulations must provide for a right of appeal to a court or tribunal against a decision of the person operating a scheme to refuse to allow another person to become a member of the scheme on the grounds that the person does not meet the conditions for becoming a member.
+
+### 28 Loss of membership
+
+(1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(c).
+
+(2) Regulations must enable a person who has become a member of a scheme to choose to stop being a member.
+
+(3) Regulations must provide for a right of appeal to a court or tribunal against a decision of the person operating a scheme to stop another person’s membership of a scheme on the grounds that the person has not met the conditions for becoming or remaining a member.
+
+### 29 Consequences of not being a member
+
+(1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(d).
+
+(2) Regulations are to provide that the person operating a scheme is to publish a list of persons who are eligible to be members of the scheme but are not (“a prohibited developers list”).
+
+(3) Regulations may, in relation to a person included on a prohibited developers list—
+
+(a) prohibit the person from carrying out—
+
+(i) any development, or
+
+(ii) development of a kind described in the regulations,
+
+(b) prevent a building warrant from being granted, or amended, on an application by the person,
+
+(c) require a verifier to reject any completion certificate submitted by the person.
+
+(4) Regulations may modify any enactment for a purpose mentioned in subsection (3).
+
+(5) Regulations may, in particular, modify Part 6 (enforcement) of the Town and Country Planning (Scotland) Act 1997 so that its provisions apply in relation to the carrying out of development in breach of a prohibition created by virtue of subsection (3)(a) as though doing so were a breach of planning control.
+
+(6) Regulations may create offences in connection with breaching a prohibition on carrying out development created by virtue of subsection (3)(a).
+
+(7) The maximum penalties that may be provided for in respect of offences created by virtue of subsection (6) are—
+
+(a) on summary conviction, a fine not exceeding £50,000,
+
+(b) on conviction on indictment, a fine.
+
+(8) Regulations must provide for a right to appeal to a court against a decision to include a person on a prohibited developers list.
+
+(9) In this section—
+
+(a) “development” has the meaning given by section 26 (meaning of “development”) of the Town and Country Planning (Scotland) Act 1997,
+
+(b) the following terms have the meanings given by section 56 (interpretation) of the Building (Scotland) Act 2003—
+
+(i) building warrant,
+
+(ii) completion certificate,
+
+(iii) verifier.
+
+## Part 6 — Progress reports
+
+### 30 Reports on progress with single-building assessments and remediation work
+
+(1) The Scottish Ministers must prepare a report on the progress made during each reporting period in the arranging and carrying out of—
+
+(a) single-building assessments, and
+
+(b) remediation work identified as being needed in single-building assessment reports and additional work assessment reports.
+
+(2) A report under subsection (1)—
+
+(a) must include the information described in section 31(1),
+
+(b) may include such other information as the Scottish Ministers consider appropriate.
+
+(3) The Scottish Ministers must, as soon as practicable after the end of each reporting period—
+
+(a) lay the report prepared under subsection (1) for that period before the Scottish Parliament, and
+
+(b) publish the report.
+
+(4) In this section and section 31—
+
+- “remediation work” means work to eliminate or mitigate any risk to human life that is (directly or indirectly) created or exacerbated by a building’s external wall cladding system,
+
+- “reporting period” means—
+
+  - the period of 18 months beginning with [[^F1]6 January 2025],
+  - each of the subsequent 9 periods of one year beginning with the day after the last day of the preceding reporting period.
+
+(5) The Scottish Ministers may by regulations amend subsection (4) to increase the number of one year reporting periods in relation to which a report under subsection (1) must be prepared.
+
+### 31 Content of reports under section 30
+
+(1) The information referred to in section 30(2)(a) is the following information—
+
+(a) the number of persons who are, on the last day of the reporting period, a member of a responsible developers scheme established by regulations made under section 25(1),
+
+(b) the number of buildings in relation to which a single-building assessment arranged by—
+
+(i) the Scottish Ministers,
+
+(ii) a responsible developers scheme member,
+
+is in progress on the last day of the reporting period,
+
+(c) the number of buildings in relation to which remediation work identified as being needed in a single-building assessment report or an additional work assessment report and arranged by—
+
+(i) the Scottish Ministers,
+
+(ii) a responsible developers scheme member,
+
+is in progress on the last day of the reporting period,
+
+(d) the number of times during the reporting period that each type of event listed in subsection (2) occurred,
+
+(e) the number of entries for buildings in the cladding assurance register (whenever created) that—
+
+(i) record that the single-building assessment report relating to the building identifies remediation work as being needed, but
+
+(ii) have not, on or before the last day of the reporting period, been amended to include a date on which the Scottish Ministers were satisfied that the work was completed,
+
+(f) the number of entries for buildings in the register (whenever created) that—
+
+(i) have been amended (at any time) to record that an additional work assessment relating to the building identifies remediation work as being needed, but
+
+(ii) have not, on or before the last day of the reporting period, been amended to include a date on which the Scottish Ministers were satisfied that the work was completed.
+
+(2) The events referred to in subsection (1)(d) are—
+
+(a) the creation of an entry for a building in the register that records that the single-building assessment report relating to the building—
+
+(i) identifies remediation work as being needed,
+
+(ii) does not identify any such work as being needed,
+
+(b) the amendment of an entry for a building in the register (whenever created) to record that an additional work assessment report relating to the building—
+
+(i) identifies remediation work as being needed,
+
+(ii) does not identify any such work as being needed,
+
+(c) the amendment of an entry for a building in the register (whenever created) that records that a single-building assessment report relating to the building identifies remediation work as being needed to include the date on which the Scottish Ministers were satisfied that the work was complete,
+
+(d) the amendment of an entry for a building in the register (whenever created) that has been amended (at any time) to record that an additional work assessment report relating to the building identifies remediation work as being needed to include the date on which the Scottish Ministers were satisfied that the work was complete.
+
+## Part 7 — Interpretation and final provisions
+
+### Chapter 1 — Interpretation
+
+#### 32 Meaning of single-building assessment
+
+(1) In this Act, a “single-building assessment” means an assessment that—
+
+(a) relates to a building that—
+
+(i) is a flatted building as defined in section 16(4) of the Land Registration etc. (Scotland) Act 2012,
+
+(ii) contains at least one flat that is used, or intended to be used, as a dwelling,
+
+(iii) has an external wall cladding system,
+
+(iv) stands 11 metres or more above the ground, and
+
+(v) has been constructed, or otherwise undergone development, at any time within the period beginning with 1 June 1992 and ending with 1 June 2022,
+
+(b) assesses, and culminates in a report on—
+
+(i) any risk to human life that is (directly or indirectly) created or exacerbated by the building’s external wall cladding system, and
+
+(ii) what work (if any) is needed to eliminate or mitigate any risk of that kind which is identified, and
+
+(c) is carried out—
+
+(i) in accordance with the standards for the time being specified by the Scottish Ministers, and
+
+(ii) by a person authorised by the Scottish Ministers to carry it out.
+
+(2) For the purposes of—
+
+(a) subsection (1), a building stands 11 metres or more above the ground if, excluding roof-top plant areas and any top storey consisting exclusively of plant rooms, the building has at least one storey the finished floor level of which, measuring vertically, is (or would be if it was directly above the building’s lowest point) 11 metres or more higher than the building’s lowest point,
+
+(b) paragraph (a), a building’s lowest point is the point at which the surface of the ground adjacent to the building is lowest.
+
+#### 33 Power to modify meaning of single-building assessment
+
+(1) The Scottish Ministers may by regulations modify section 32 so as to change or clarify the types of building in relation to which a single-building assessment may be carried out.
+
+(2) Regulations under this section may not modify section 32 so that a single-building assessment may be carried out in relation to a building that—
+
+(a) is not, and does not contain any premises that are, a dwelling or intended to be used as a dwelling,
+
+(b) does not have an external wall cladding system.
+
+#### 34 Meaning of additional work assessment
+
+In this Act, an “additional work assessment” means an assessment that—
+
+(a) relates to a building in relation to which a single-building assessment has been carried out,
+
+(b) is required as a result of additional information coming to light in the period between—
+
+(i) the single-building assessment report being completed, and
+
+(ii) the date on which the Scottish Ministers were satisfied that any work identified in that report, or in an additional work assessment report, as being needed to eliminate or mitigate risks to human life that are (directly or indirectly) created or exacerbated by the building’s external wall cladding system had been completed,
+
+(c) assesses, and culminates in a report on, whether any additional work is needed to eliminate or mitigate such risks, and
+
+(d) is carried out—
+
+(i) in accordance with the standards for the time being specified by the Scottish Ministers, and
+
+(ii) by a person authorised by the Scottish Ministers to carry it out.
+
+#### 35 Meaning of “owner” in relation to Crown premises
+
+(1) In this Act, “owner” in relation to Crown premises specified in the first column of the following table means the person specified in the corresponding entry in the second column.
+
+| Crown premises | Person to be treated as owner |
+|---|---|
+| Premises an interest in which belongs to His Majesty in right of the Crown and which forms part of the Crown Estate (that is, the property, rights and interests under the management of the Crown Estate Commissioners) | The Crown Estate Commissioners |
+| Premises an interest in which belongs to His Majesty in right of the Crown and which forms part of the Scottish Crown Estate | The person managing the premises |
+| Premises an interest in which belongs to His Majesty in right of the Crown other than premises forming part of the Crown Estate or the Scottish Crown Estate | The office-holder in the Scottish Administration or, as the case may be, the government department managing the premises |
+| Premises an interest in which belongs to His Majesty in right of His private estates | The person appointed by His Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers |
+| Premises an interest in which belongs to an office-holder in the Scottish Administration | The office-holder in the Scottish Administration |
+| Premises an interest in which belongs to a government department | The government department |
+| Premises an interest in which is held in trust for His Majesty by an office-holder in the Scottish Administration for the purposes of the Scottish Administration | The office-holder in the Scottish Administration |
+| Premises an interest in which is held in trust for His Majesty for the purposes of a government department | The government department |
+
+(2) In subsection (1)—
+
+(a) the reference to His Majesty’s private estates is to be construed in accordance with section 1 of the Crown Private Estates Act 1862,
+
+(b) “government department” means a department of the Government of the United Kingdom,
+
+(c) “Scottish Crown Estate” means the property, rights and interests to which section 90B(5) of the Scotland Act 1998 applies.
+
+(3) It is for the Scottish Ministers to determine any question that arises as to who is to be treated as the “owner” of any premises in accordance with subsection (1), and their decision is final.
+
+#### 36 Interpretation of other words and expressions
+
+(1) In this Act—
+
+- “additional work assessment report” means the report of an additional work assessment by the person who carried out the assessment,
+- “occupier”, in relation to premises, means any person entitled to occupy them under a lease, licence or other occupancy arrangement,
+- “on”, in relation to premises, includes “in” (and “onto” includes “into”),
+- “premises” includes land,
+- “single-building assessment report” means the report of a single-building assessment by the person who carried out the assessment.
+
+(2) It is for the Scottish Ministers to determine any question that arises as to whether, and to what extent, a structure constitutes, or a number of conjoined structures constitute, one building for the purposes of any provision of this Act, and their decision is final.
+
+### Chapter 2 — Final provisions
+
+#### 37 Ancillary provision
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, or in connection with, or for giving full effect to this Act or any provision made under it.
+
+(2) Regulations under subsection (1) may modify any enactment (including this Act).
+
+#### 38 Regulation-making powers
+
+(1) A power to make regulations conferred by this Act includes the power to make different provision for different purposes.
+
+(2) Regulations under section 30 are subject to the negative procedure.
+
+(3) Regulations under sections 25 and 33 are subject to the affirmative procedure.
+
+(4) Regulations under section 37—
+
+(a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, but
+
+(b) otherwise are subject to the negative procedure.
+
+#### 39 Commencement
+
+(1) This Part comes into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under this section may amend subsection (4) of section 30 so that the text referring to the day on which the section comes into force instead specifies the date on which the section actually comes into force.
+
+#### 40 Short title
+
+The short title of this Act is the Housing (Cladding Remediation) (Scotland) Act 2024.
+
+## Schedule — Warrant to eject from evacuated premises
+
+*(introduced by section 9)*
+
+### Application
+
+**1** (1) The Scottish Ministers may apply to the sheriff for a warrant for the ejection from premises of any occupants who have not removed from them in accordance with a requirement to do so imposed under section 9.
+
+(2) Where the requirement to remove is imposed in the circumstance mentioned in section 9(1)(b), an application for the ejection of an occupant may not be made before the day after the date for removal specified in the written notice to the occupant in accordance with section 9(3)(a).
+
+(3) An application under this paragraph must be accompanied by a certificate signed on behalf of the Scottish Ministers—
+
+(a) specifying which paragraph of section 9(1) was the basis for their imposing the requirement to remove from the premises, and
+
+(b) certifying that they continue to be of the opinion mentioned in that paragraph.
+
+### Notice to occupants
+
+**2** On an application under paragraph 1, the sheriff may require the Scottish Ministers to give a written notice to an occupant of the premises in question.
+
+### Disposal of application
+
+**3** (1) Where the certificate accompanying an application under paragraph 1 specifies that a requirement to remove was imposed under section 9(1)(a), the sheriff must, if satisfied that it is reasonable to do so, grant a warrant of ejection within the period of 7 days beginning with—
+
+(a) the date of the application, or
+
+(b) if the Scottish Ministers were required to give written notice under paragraph 2, the date that notice was given.
+
+(2) Where the certificate accompanying an application under paragraph 1 specifies that a requirement to remove was imposed under section 9(1)(b), the sheriff may, if satisfied that it is reasonable to do so, grant a warrant of ejection.
+
+(3) A warrant under this paragraph may include such conditions (including conditions with respect to payment of rent) as the sheriff thinks just and equitable.
+
+(4) The sheriff’s decision on an application under paragraph 1 is final.
+
+### Evidence
+
+**4** In proceedings under this schedule, a certificate required by paragraph 1(3) is sufficient evidence of the facts stated in it.
+
+---
+
+[^F1]: Words in s. 30(4) substituted (6.1.2025) by The Housing (Cladding Remediation) (Scotland) Act 2024 (Commencement) Regulations 2024 (S.S.I. 2024/370), regs. 1(1), 3

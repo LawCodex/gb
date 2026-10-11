@@ -1,0 +1,2012 @@
+---
+title: "Wildlife Management and Muirburn (Scotland) Act 2024"
+identifier: "asp/2024/4"
+citation: "2024 asp 4"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2024-04-30
+last_amended: 2026-09-15
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2024/4"
+source_modified: 2026-09-15
+retrieved: 2026-10-11
+---
+
+# Wildlife Management and Muirburn (Scotland) Act 2024
+
+**2024 asp 4**
+
+An Act of the Scottish Parliament to make provision for the management of wildlife through the prohibition of glue traps and snares and regulation of other wildlife traps and the licensing of land on which certain birds are to be killed or taken; and for the licensing of the making of muirburn; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st March 2024 and received Royal Assent on 30th April 2024
+
+## Part 1 — Wildlife management
+
+### Glue traps
+
+#### 1 Offence of using glue trap
+
+(1) It is an offence for a person, without reasonable excuse, to use a glue trap for the purpose of killing or taking any animal other than an invertebrate.
+
+(2) It is an offence for a person, without reasonable excuse, to use a glue trap in a manner that is likely to cause bodily injury to any animal other than an invertebrate that comes into contact with it.
+
+(3) It is an offence for a person to knowingly cause or permit an unauthorised person to commit an offence under subsection (1) or (2).
+
+(4) A person does not commit an offence under subsection (1) or (2) if the person is an authorised person.
+
+(5) A person who commits an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding £40,000 (or both),
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine (or both).
+
+(6) The Wildlife and Countryside Act 1981 is amended as follows—
+
+(a) in section 5 (prohibition of certain methods of killing or taking wild birds), in subsection (1)(a), after “trap” insert “(other than a glue trap within the meaning of section 1 of the Wildlife Management and Muirburn (Scotland) Act 2024)”,
+
+(b) in section 11 (prohibition of certain methods of killing or taking wild animals), after subsection (2) insert—
+
+> (2A) In subsection (2), “trap” does not include a glue trap within the meaning of section 1 of the Wildlife Management and Muirburn (Scotland) Act 2024.
+
+.
+
+(7) In this section—
+
+- “authorised person” means a person—
+
+  - authorised by the scheme made under section 5, and
+  - acting in accordance with the person’s authorisation,
+
+  and references to the authorisation of a person are to be construed accordingly,
+
+- “glue trap” means a trap that—
+
+  - is designed, or is capable of being used, to catch an animal other than an invertebrate, and
+  - uses an adhesive substance as the means, or one of the means, of capture.
+
+#### 2 Offence of supplying glue trap
+
+(1) It is an offence for a person, without reasonable excuse, to supply, or offer to supply, a glue trap.
+
+(2) It is an offence for a person to knowingly cause or permit an unauthorised person to commit an offence under subsection (1).
+
+(3) A person does not commit an offence under subsection (1) if the person is an authorised person.
+
+(4) A person who commits an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding £40,000 (or both),
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine (or both).
+
+(5) In this section—
+
+- “authorised person” has the meaning given in section 1(7),
+
+- “glue trap” has the meaning given in section 1(7),
+
+- “supply” of a glue trap includes—
+
+  - selling it,
+  - exchanging it for a consideration other than money,
+  - giving it as a prize or otherwise making a gift of it,
+  - otherwise making the glue trap available.
+
+#### 3 Offence of possessing glue trap
+
+(1) It is an offence for a person, without reasonable excuse, to possess a glue trap.
+
+(2) A person does not commit an offence under subsection (1) if the person is an authorised person.
+
+(3) A person who commits an offence under subsection (1) is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding £40,000 (or both),
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine (or both).
+
+(4) In this section—
+
+- “authorised person” has the meaning given in section 1(7),
+- “glue trap” has the meaning given in section 1(7).
+
+#### 4 Forfeiture and disposal of glue traps
+
+(1) Where a person is convicted of an offence under section 1, 2 or 3, the court may make an order for the forfeiture or disposal of a glue trap—
+
+(a) to which the offence relates, or
+
+(b) that is in the possession of the person.
+
+(2) A constable may seize and retain a glue trap which may be the subject of an order for forfeiture under this section.
+
+(3) Where a court orders the disposal of a glue trap seized and retained under this Act by a constable, the glue trap may be disposed of in such manner as the chief constable considers appropriate.
+
+(4) A sheriff or summary sheriff may, on an application of the chief constable, order the disposal (by any means the chief constable considers appropriate) of any glue trap seized and detained under section 1, 2 or 3.
+
+(5) In this section—
+
+- “chief constable” has the same meaning as in section 99(1) of the Police and Fire Reform (Scotland) Act 2012,
+- “constable” has the same meaning as in section 99(1) of the Police and Fire Reform (Scotland) Act 2012,
+- “glue trap” has the meaning given in section 1(7).
+
+#### 5 Authorisation for use, supply or possession of glue trap
+
+(1) The Scottish Ministers may, by regulations, make a scheme for the authorisation of the use, supply or possession of glue traps (“the scheme”)—
+
+(a) by specified persons,
+
+(b) in specified circumstances.
+
+(2) Regulations under subsection (1) must provide that a person may only be authorised under the scheme to use, supply or possess a glue trap if—
+
+(a) it is necessary or expedient to do so for the purpose of protecting public health, and
+
+(b) no other method of rodent control is practicable.
+
+(3) Regulations under subsection (1) may in particular—
+
+(a) make provision about the application for authorisation under the scheme, including the payment of such reasonable fee as the Scottish Ministers may require in connection with an application,
+
+(b) make provision for the form and content of an application, including the information that must be provided,
+
+(c) make provision relating to the grant of an authorisation, including the criteria for granting an authorisation,
+
+(d) specify the maximum period for which an authorisation may be granted,
+
+(e) enable conditions to be attached to authorisations,
+
+(f) create an offence in connection with the provision of false statements for the purposes of obtaining an authorisation,
+
+(g) make provision relating to the modification, suspension and revocation of an authorisation,
+
+(h) provide for an appeal to be made against a decision to refuse to grant authorisation, or to modify, suspend or revoke an authorisation,
+
+(i) require an applicant to complete a training course,
+
+(j) make provision relating to training courses, including—
+
+(i) determining training requirements, such as—
+
+(A) the form and content of the training course,
+
+(B) requiring a person providing training to meet specified criteria (such as having relevant experience or holding a particular qualification),
+
+(ii) accrediting courses and the persons providing courses,
+
+(iii) determining the minimum criteria for successful completion and how successful completion is to be recorded,
+
+(k) enable the Scottish Ministers to delegate their functions under the scheme to local authorities.
+
+(4) The maximum penalty that may be provided for in regulations under subsection (1) creating an offence is, on summary conviction, imprisonment for a term not exceeding 12 months or a fine not exceeding level 5 on the standard scale (or both).
+
+(5) Before making regulations under subsection (1), the Scottish Ministers must consult—
+
+(a) local authorities, and
+
+(b) such other persons as they consider likely to be interested in, or affected, by the authorisation of the use, supply or possession of glue traps.
+
+(6) Regulations under subsection (1) are subject to the affirmative procedure.
+
+(7) In this section—
+
+- “glue trap” has the meaning given in section 1(7),
+- “specified” means specified in regulations made under subsection (1),
+- “supply” has the meaning given in section 2(5).
+
+### Snares
+
+#### 6 Prohibition of use of snares
+
+(1) The Wildlife and Countryside Act 1981 is amended as follows.
+
+(2) In section 11 (prohibition of certain methods of killing or taking wild animals)—
+
+(a) for subsection (1)(a) and (aa) substitute—
+
+> (ab) sets in position or otherwise uses a snare for the purpose of killing any animal other than a wild bird,
+>
+> (ac) sets in position or otherwise uses a snare, other than a snare that is operated by hand, for the purpose of taking any animal other than a wild bird,
+>
+> (ad) uses a snare which is of a nature or is placed (or both) so as to be likely to cause bodily injury to any animal (other than a wild bird) coming into contact with it,
+
+,
+
+(b) subsection (1A) is repealed,
+
+(c) in subsection (2)—
+
+(i) in paragraph (a), the words “or snare” are repealed,
+
+(ii) after paragraph (a), insert—
+
+> (aa) uses a snare for the purpose of killing any wild animal included in Schedule 6 or 6ZA,
+>
+> (ab) uses a snare, other than a snare that is operated by hand, for the purpose of taking or restraining any wild animal included in Schedule 6 or 6ZA,
+
+,
+
+(d) in subsection (3C), in the closing words, for “an order under subsection (1)(a)” substitute “regulations under subsection (3CA)”,
+
+(e) after subsection (3C), insert—
+
+> (3CA) The Scottish Ministers may by regulations specify types of snare for the purpose of subsection (3C).
+
+.
+
+(3) Sections 11A to 11F are repealed.
+
+(4) In section 16 (power to grant licences)—
+
+(a) in subsection (1A)—
+
+(i) the word “and” immediately following paragraph (a) is repealed,
+
+(ii) after paragraph (b) insert—
+
+> (c) must not grant a licence for any purpose mentioned in subsection (1) that permits the use of a snare to kill a wild bird, and
+>
+> (d) must not grant a licence for any purpose mentioned in subsection (1)(cb) to (k) that permits the use of a snare to take a wild bird.
+
+,
+
+(b) in subsection (3), in the opening words, the word “, 11C” is repealed,
+
+(c) after subsection (3) insert—
+
+> (3ZZA) The appropriate authority must not grant a licence for any purpose mentioned in subsection (3) that permits the use of a snare.
+
+,
+
+(d) in subsection (3ZA), in the opening words, in both places they occur, the words “or snare” are repealed,
+
+(e) in subsection (3ZB)—
+
+(i) in paragraph (a), the words “or snare” are repealed,
+
+(ii) in paragraph (b), the words “or snare” are repealed,
+
+(iii) in paragraph (c), the words “or snare” are repealed,
+
+(f) in subsection (3ZC), in both places they occur, the words “or snare” are repealed,
+
+(g) in subsection (3ZD), in both places they occur, the words “or snare” are repealed,
+
+(h) in subsection (3ZE), in paragraph (a), the words “and snares” are repealed,
+
+(i) in subsection (3ZG), in the opening words, the words “or snare” are repealed,
+
+(j) in subsection (3ZH), in paragraph (a), the words “or snare” are repealed,
+
+(k) in subsection (3ZI)—
+
+(i) in paragraph (a), the words “or snares” are repealed,
+
+(ii) in paragraph (b), the words “or snares” are repealed,
+
+(iii) in paragraph (c), the words “or snares” are repealed.
+
+(5) In section 17—
+
+(a) in the opening words, the words “, an identification number under section 11A(4)” are repealed,
+
+(b) the title of the section becomes “**False statements made for obtaining registration or licence etc.**”.
+
+(6) In section 21 (penalties)—
+
+(a) in subsection (1A), paragraphs (e) to (g) are repealed,
+
+(b) in subsection (1C), paragraph (e) is repealed.
+
+(7) In section 26 (regulations, orders, notices etc.)—
+
+(a) in subsection (2), at the end of paragraph (e) (as inserted by section 7(5)(a) of this Act) insert
+
+> ; and
+>
+> (f) regulations under section 11(3CA),
+
+,
+
+(b) in subsection (3), at the end of paragraph (e) (as inserted by section 7(5)(b) of this Act) insert
+
+> ; or
+>
+> (f) regulations under section 11(3CA),
+
+.
+
+### Regulation of certain wildlife traps (prospective)
+
+#### 7 Regulation of certain wildlife traps (prospective)
+
+(1) The Wildlife and Countryside Act 1981 is amended as follows.
+
+(2) After section 12 insert—
+
+> **Wildlife trap licensing**
+>
+> **12A Requirements for use of traps**
+>
+> (1) A person who uses a trap to which this section applies, for the purpose of killing or taking a wild bird or wild animal that can otherwise be lawfully killed or taken by those means, must have a wildlife trap licence.
+>
+> (2) This section applies to the following traps—
+>
+> (a) a trap for the purpose of taking wild birds,
+>
+> (b) a trap approved by an order made under section 50 of the Agriculture (Scotland) Act 1948 for the purposes of that section (other than a trap of a description specified in an order made under subsection (7) of that section).
+>
+> (3) A person who fails to comply with subsection (1) is guilty of an offence.
+>
+> (4) A person who uses a trap to which this section applies must ensure—
+>
+> (a) that the wildlife trap licence number of the person is displayed (in a manner in which it will remain readable at all times) either—
+>
+> (i) directly on the trap, or
+>
+> (ii) on a tag that is fitted on the trap in such a manner that it is not capable of being easily removed from the trap, and
+>
+> (b) that the trap is used and monitored appropriately in accordance with the approved training course for such a trap.
+>
+> (5) A person who—
+>
+> (a) has a wildlife trap licence and uses a trap to which this section applies, but
+>
+> (b) fails to comply with subsection (4) in any respect,
+>
+> is guilty of an offence.
+>
+> (6) A person who, without reasonable excuse—
+>
+> (a) tampers with a trap so that it no longer complies with the requirements of this section, or
+>
+> (b) disarms or destroys a trap to which this section applies,
+>
+> is guilty of an offence.
+>
+> (7) A person who knowingly causes or permits another person to commit an offence under subsection (6) is guilty of an offence.
+>
+> (8) It is a defence for a person charged with an offence under this Part to show that—
+>
+> (a) the trap was used for the purpose of killing or taking a wild bird or wild animal which could be lawfully killed or taken by those means,
+>
+> (b) the person had a wildlife trap licence and complied with subsection (4), and
+>
+> (c) the person took all reasonable steps to prevent the killing, taking or injury of any other animal (other than an invertebrate) not intended to be taken by the trap.
+>
+> (9) The wildlife trap licence number which is displayed on a trap to which this section applies, or on a tag fitted to such a trap, is presumed in any proceedings to be the wildlife trap licence number of the person who used the trap.
+>
+> (10) The Scottish Ministers may by regulations amend subsection (2) to add, modify or remove traps (or descriptions of traps) to which this section applies.
+>
+> (11) Before making regulations under subsection (10), the Scottish Ministers must consult Scottish Natural Heritage and such persons as they consider likely to be interested in or affected by wildlife trap licensing.
+>
+> (12) In this section—
+>
+> - “approved training course” means a course approved under section 12E,
+> - “wildlife trap licence” means a licence granted under section 12C(1) and “wildlife trap licence number” is to be construed accordingly.
+>
+> **12B Application for wildlife trap licence**
+>
+> (1) An application for a wildlife trap licence must—
+>
+> (a) be made to the relevant authority,
+>
+> (b) be made in such manner and form as the relevant authority may require,
+>
+> (c) contain or be accompanied by such information as the relevant authority may require,
+>
+> (d) be accompanied by payment of such reasonable fee as the relevant authority may require,
+>
+> (e) include evidence that the applicant has completed a training course approved under section 12E in respect of the type of trap in question.
+>
+> (2) The relevant authority must publicise any requirements which are for the time being set under subsection (1)(b), (c) or (d).
+>
+> (3) In this section, “relevant authority” means—
+>
+> (a) the Scottish Ministers, or
+>
+> (b) where the Scottish Ministers have delegated (by virtue of section 16A) their functions under this section, Scottish Natural Heritage.
+>
+> **12C Grant and content of wildlife trap licence**
+>
+> (1) The relevant authority may, on receipt of an application under section 12B, grant or renew a wildlife trap licence if—
+>
+> (a) the applicant has completed an approved training course in respect of the type of trap in question, and
+>
+> (b) it is satisfied that it is appropriate to do so.
+>
+> (2) A person may be issued with the same wildlife trap licence number—
+>
+> (a) in respect of different types of traps (but must make an application and complete the approved training course in respect of each type), and
+>
+> (b) in respect of the renewal of an existing wildlife trap licence.
+>
+> (3) A wildlife trap licence granted or renewed under subsection (1)—
+>
+> (a) must—
+>
+> (i) specify the person to whom the licence is granted,
+>
+> (ii) specify the wildlife trap licence number,
+>
+> (iii) identify the type (or types) of wildlife traps to which the licence applies,
+>
+> (iv) specify any conditions the relevant authority considers appropriate to attach to the licence,
+>
+> (b) may be granted or renewed for a period not exceeding 10 years.
+>
+> (4) In this section—
+>
+> - “approved training course” means a course approved under section 12E,
+>
+> - “relevant authority” means—
+>
+>   - the Scottish Ministers, or
+>   - where the Scottish Ministers have delegated (by virtue of section 16A) their functions under this section, Scottish Natural Heritage.
+>
+> **12D Modification, suspension and revocation of licence**
+>
+> (1) The relevant authority may—
+>
+> (a) modify a wildlife trap licence at any time,
+>
+> (b) suspend or revoke a wildlife trap licence if—
+>
+> (i) the licence holder fails to comply with any conditions attached to the licence,
+>
+> (ii) the relevant authority is satisfied that the licence holder has committed a relevant offence.
+>
+> (2) The relevant authority must—
+>
+> (a) notify the licence holder of the modification, suspension or revocation of the person’s wildlife trap licence,
+>
+> (b) specify in the notice the reason for the modification, suspension or revocation, and
+>
+> (c) specify in the notice the date from which the modification, suspension or revocation is to have effect (which may be immediate).
+>
+> (3) A licence holder whose wildlife trap licence is suspended is to be treated as not having a wildlife trap licence for the duration of the suspension.
+>
+> (4) A court which convicts a person of a relevant offence must notify the relevant authority of the conviction.
+>
+> (5) In this section—
+>
+> - “relevant authority” means—
+>
+>   - the Scottish Ministers, or
+>   - where the Scottish Ministers have delegated (by virtue of section 16A) their functions under this section, Scottish Natural Heritage.
+>
+> - “relevant offence” means an offence under—
+>
+>   - section 11 to 11C, 11E, 12A, 12F or 17 of this Act,
+>   - section 50 or 50A of the Agriculture (Scotland) Act 1948,
+>   - regulation 41 of The Conservation (Natural Habitats, &c.) Regulations 1994 (S.I. 1994/2716),
+>   - the Wild Mammals Protection Act 1996,
+>   - section 19 of the Animal Health and Welfare (Scotland) Act 2006,
+>   - section 1 or 2 of the Wildlife Management and Muirburn (Scotland) Act 2024.
+>
+> **12E Approved training courses**
+>
+> (1) The relevant authority is to approve training courses in respect of the traps to which section 12A applies.
+>
+> (2) For the purposes of subsection (1) (and subject to any regulations made under section 12G), the relevant authority may—
+>
+> (a) determine training requirements, such as—
+>
+> (i) the form and content of courses for the appropriate use of different types of trap,
+>
+> (ii) requiring a person providing training to meet certain criteria (such as having relevant experience or holding a particular qualification),
+>
+> (b) require that any fee payable in connection with a course is reasonable,
+>
+> (c) accredit courses and the persons providing courses,
+>
+> (d) determine the minimum criteria for successful completion of courses, and
+>
+> (e) determine how successful completion of such courses is to be recorded.
+>
+> (3) In this section, “relevant authority” means—
+>
+> (a) the Scottish Ministers, or
+>
+> (b) where the Scottish Ministers have delegated (by virtue of section 16A) their functions under this section, Scottish Natural Heritage.
+>
+> **12F Authorisation from landowners etc. to use traps**
+>
+> (1) Subject to the other provisions of this Part, a person who without reasonable excuse—
+>
+> (a) while on any land has in the person’s possession a trap without the authorisation of the owner or occupier of the land, or
+>
+> (b) uses a trap on any land without the authorisation of the owner or occupier of the land,
+>
+> is guilty of an offence.
+>
+> (2) In this section, a reference to a trap is a reference to a trap to which section 12A applies.
+>
+> **12G Further provision**
+>
+> (1) The Scottish Ministers may by regulations make provision—
+>
+> (a) about the use of a wildlife trap to which section 12A applies,
+>
+> (b) about how the licence number of the person using such a trap is to be displayed directly on the trap or on a tag fitted on it, and
+>
+> (c) relating to approved training courses.
+>
+> (2) Regulations under subsection (1) may, in particular, include provision—
+>
+> (a) relating to the training course (or courses) that a person must complete in relation to the correct and appropriate use of a trap of the type the person wishes to use,
+>
+> (b) about the manner in which a tag is to be fitted for the purposes of section 12A(4) and the material from which a tag is to be made,
+>
+> (c) about the manner in which a wildlife trap licence number (and any additional information required) is to appear on a trap or tag,
+>
+> (d) amending the definition of “relevant offence” in section 12D(5).
+>
+> (3) Before making regulations under subsection (1), the Scottish Ministers must consult Scottish Natural Heritage and such persons as they consider likely to be interested in or affected by wildlife trap licensing.
+
+.
+
+(3) In section 16 (power to grant licences), in subsection (3), after “11G(1)” insert “, 12F”.
+
+(4) In section 16A (delegation of licence-granting power: Scotland)—
+
+(a) after subsection (1) insert—
+
+> (1A) The Scottish Ministers may delegate their functions in sections 12B, 12C, 12D and 12E to Scottish Natural Heritage.
+
+,
+
+(b) after subsection (5)(a) insert—
+
+> (ab) Scottish Natural Heritage under subsection (1A) is to be made by written direction;
+
+,
+
+(c) after subsection (5) insert—
+
+> (5B) A direction under subsection (5)(ab) may include provision allowing Scottish Natural Heritage to modify or revoke licences that were granted before the direction.
+
+,
+
+(d) in subsection (7), after “subsection (5)(a)” insert “or (ab)”.
+
+(5) In section 17 (false statements made for obtaining registration, identification number or licence etc.), in the opening words, before “16” insert “12C,”.
+
+(6) In section 21 (penalties, forfeitures etc.), after subsection (1A)(g) insert—
+
+> (ga) section 12A,
+>
+> (gb) section 12F,
+
+.
+
+(7) In section 26 (regulations, orders, notices etc.)—
+
+(a) in subsection (2)—
+
+(i) the “and” immediately following paragraph (a) is repealed,
+
+(ii) at the end of paragraph (b) insert—
+
+> (c) regulations under section 12A(8) or 12G(1),
+
+,
+
+(b) in subsection (3)—
+
+(i) the “or” immediately following paragraph (a) is repealed,
+
+(ii) at the end of paragraph (b) insert—
+
+> (c) regulations under section 12A(8) or 12G(1),
+
+.
+
+(8) In section 27 (interpretation of Part I), in subsection (1), after the definition of “wild plant” insert—
+
+> - “wildlife trap licence” has the meaning given in section 12A(12),
+> - “wildlife trap licence number” is to be construed in accordance with section 12A(12).
+
+.
+
+#### 8 Penalties relating to use of spring traps (prospective)
+
+(1) The Agriculture (Scotland) Act 1948 is amended as follows.
+
+(2) In section 50 (prohibition of night shooting, and use of spring traps)—
+
+(a) in subsection (2), for “the foregoing subsection” substitute “subsection (1)(a)”,
+
+(b) after subsection (2) insert—
+
+> (2A) A person guilty of an offence under subsection (1)(b), (c) or (d) is liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding £40,000 (or both),
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).
+
+.
+
+### Licensing of land for killing and taking of certain birds
+
+#### 9 Killing and taking of certain birds permitted only on land with section 16AA licence
+
+(1) The Wildlife and Countryside Act 1981 is amended as follows.
+
+(2) In section 2 (exception to s. 1: acts by certain persons outside close season)—
+
+(a) for subsection (1A) substitute—
+
+> (1A) This subsection applies where—
+>
+> (a) whatever the kind of bird in question—
+>
+> (i) the person who killed or injured it had a legal right, or permission, to kill such a bird; or
+>
+> (ii) the person who took it had a legal right, or permission, to take such a bird; and
+>
+> (b) in the case of a bird included in Part 1B of Schedule 2—
+>
+> (i) an owner or occupier of the land on which the bird was killed, injured or taken held an unsuspended section 16AA licence; or
+>
+> (ii) the person who killed, injured or took the bird reasonably believed that an owner or occupier held an unsuspended section 16AA licence in relation to that land.
+>
+> (1B) In subsection (1A), “permission” means permission from a person who has a right to give it.
+>
+> (1C) Where subsection (1D) applies, a person does not commit an offence under section 1 by reason of killing or taking a bird included in Part 1B of Schedule 2 outside the close season for that bird, or the injuring of such a bird outside that season in the course of an attempt to kill it.
+>
+> (1D) This subsection applies where—
+>
+> (a) the bird was killed or taken through the use of a bird of prey, or injured in an attempt to do so,
+>
+> (b) either—
+>
+> (i) the person who killed or injured it had a legal right, or permission, to kill such a bird, or
+>
+> (ii) the person who took it had a legal right, or permission, to take such a bird, and
+>
+> (c) in the case where the person subsequently killed the injured bird, the person took all reasonable steps to kill it in a way that caused it the minimum possible suffering.
+
+,
+
+(b) in subsection (3C)—
+
+(i) in paragraph (a), the “and” immediately following sub-paragraph (ii) is repealed,
+
+(ii) at the end of paragraph (b)(ii) insert
+
+> ; and
+>
+> (c) either—
+>
+> (i) an owner or occupier of the land on which the bird was taken held an unsuspended section 16AA licence in relation to the land; or
+>
+> (ii) the person reasonably believed that an owner or occupier held an unsuspended section 16AA licence in relation to that land.
+
+.
+
+(3) In section 26 (regulations, orders, notices etc.)—
+
+(a) in subsection (2) at the end of paragraph (c) (as inserted by section 7(7)(a) of this Act) insert—
+
+> (d) an order under section 22(1)(a) which adds any bird to, or removes any bird from, Part 1B of Schedule 2,
+
+,
+
+(b) in subsection (3), at the end of paragraph (c) insert—
+
+> (d) an order under section 22(1)(a) which adds any bird to, or removes any bird from, Part 1B of Schedule 2,
+
+.
+
+(4) In section 27 (interpretation of Part I), in subsection (1), after the definition of “sale” insert—
+
+> - “section 16AA licence” has the meaning given by section 16AA(1).
+
+.
+
+(5) In schedule 2, after Part IA insert—
+
+> **Part 1B — Birds included in Part 1 which may only be killed or taken on land with section 16AA licence**
+>
+> | Common name | Scientific name |
+> |---|---|
+> | Grouse, red | Lagopus lagopus scoticus |
+
+.
+
+#### 10 Licensing: land on which certain birds may be killed or taken
+
+(1) The Wildlife and Countryside Act 1981 is amended as follows.
+
+(2) After section 16 insert—
+
+> **16AA Licensing: land on which certain birds may be killed or taken**
+>
+> (1) The relevant authority may, on the application of an owner or occupier of an area of land, grant a licence for the purposes of permitting the killing or taking of any type of bird included in Part 1B of Schedule 2 on the land (a “section 16AA licence”), if it is satisfied that it is appropriate to do so.
+>
+> (2) In determining whether it is appropriate to grant a section 16AA licence the relevant authority must have regard in particular to the applicant’s compliance with a code of practice made in accordance with section 16AC.
+>
+> (3) Where the relevant authority refuses to grant a licence to an applicant, the relevant authority must give written notice to the applicant of the reasons for doing so.
+>
+> (4) An application for a section 16AA licence must—
+>
+> (a) be made to the relevant authority,
+>
+> (b) be made in such manner and form as the relevant authority may require,
+>
+> (c) specify the area of land to which the licence is to relate,
+>
+> (d) contain or be accompanied by such information as the relevant authority may require, and
+>
+> (e) be accompanied by payment of such reasonable fee as the relevant authority may require.
+>
+> (5) The relevant authority must publicise any requirements which are for the time being set under subsection (4)(b) to (e).
+>
+> (6) A section 16AA licence—
+>
+> (a) must—
+>
+> (i) specify the person to whom the licence is granted (“the licence holder”),
+>
+> (ii) identify the area of land, by reference to a map, to which the licence relates,
+>
+> (iii) specify any reasonable conditions the relevant authority considers appropriate to attach to the licence, and
+>
+> (b) may be granted or renewed for a period not exceeding 5 years.
+>
+> (7) Every section 16AA licence is subject to the condition that the licence holder must have regard to a code of practice made in accordance with section 16AC.
+>
+> (8) Conditions which may be specified under subsection (6)(a)(iii) include, in particular, conditions drawn from a code of practice made in accordance with section 16AC.
+>
+> (9) The relevant authority may—
+>
+> (a) modify a section 16AA licence at any time,
+>
+> (b) suspend or revoke a section 16AA licence if—
+>
+> (i) the licence holder—
+>
+> (A) fails to comply with any conditions attached to the licence, or
+>
+> (B) ceases to be in a position to ensure compliance with the conditions,
+>
+> (ii) the relevant authority is satisfied that the licence holder or a person involved in managing the land to which the licence relates—
+>
+> (A) has committed a relevant offence on the land, or
+>
+> (B) has knowingly caused or permitted another person to do so.
+>
+> (10) Where the relevant authority has modified, suspended or revoked a person’s section 16AA licence—
+>
+> (a) the relevant authority must give written notice to the person of the modification, suspension or revocation and specify in the notice the reason for the modification, suspension or revocation, and
+>
+> (b) the modification, suspension or revocation may not take effect until the end of—
+>
+> (i) the period of 14 days beginning with the day on which the notice is given, or
+>
+> (ii) such other period as the relevant authority considers appropriate and specifies in the notice.
+>
+> (11) A licence holder whose section 16AA licence is suspended is to be treated as not having a section 16AA licence for the duration of the suspension.
+>
+> (12) A court which convicts a person of a relevant offence must notify the Scottish Ministers (or Scottish Natural Heritage if the functions under this section have been delegated to that body) of the conviction.
+>
+> (13) In this section—
+>
+> - “relevant authority” means—
+>
+>   - the Scottish Ministers, or
+>   - where the Scottish Ministers have delegated (by virtue of section 16A) their functions in relation to section 16AA licences, Scottish Natural Heritage,
+>
+> - “relevant offence” means an offence under—
+>
+>   - Part 1 of this Act,
+>   - the Protection of Badgers Act 1992,
+>   - Part 3 of the Conservation (Natural Habitats, &c.) Regulations 1994 (S.I. 1994/2716),
+>   - section 1 of the Wild Mammals (Protection) Act 1996,
+>   - section 19 of the Animal Health and Welfare (Scotland) Act 2006,
+>   - the Hunting with Dogs (Scotland) Act 2023.
+>
+> (14) The Scottish Ministers may by regulations modify the definition of “relevant offence” in subsection (13).
+>
+> **16AB Appeals relating to section 16AA licences**
+>
+> (1) A person may appeal to the appropriate sheriff against a decision of the relevant authority to—
+>
+> (a) refuse to grant to the person a section 16AA licence,
+>
+> (b) attach a condition to the person’s section 16AA licence,
+>
+> (c) modify, suspend or revoke the person’s section 16AA licence.
+>
+> (2) An appeal under this section must be made within the period of 21 days beginning with the day on which notice of the decision being appealed against was given.
+>
+> (3) An appeal under this section is to be determined on the merits rather than by way of review.
+>
+> (4) The sheriff hearing the appeal may consider any evidence or other matter, whether or not it was available at the time the relevant authority made the decision being appealed against.
+>
+> (5) Where a summary sheriff is hearing an appeal, the summary sheriff is to have the same power to make an interim order under section 88(1) of the Courts Reform (Scotland) Act 2014 as a sheriff hearing the appeal would have.
+>
+> (6) On determining the appeal, the sheriff may—
+>
+> (a) dismiss the appeal, or
+>
+> (b) give the relevant authority such direction as the sheriff considers appropriate in respect of the decision that is the subject of the appeal.
+>
+> (7) The determination of the sheriff may be appealed against only on a point of law.
+>
+> (8) In this section—
+>
+> - “appropriate sheriff” means—
+>
+>   - in a case where the appellant resides in Scotland, a sheriff or summary sheriff of the sheriffdom in which the appellant resides, or
+>   - in a case where the appellant resides outwith Scotland, a sheriff or summary sheriff of the sheriffdom of Lothian and Borders, sitting at Edinburgh,
+>
+> - “relevant authority” means—
+>
+>   - the Scottish Ministers, or
+>   - where the Scottish Ministers have delegated (by virtue of section 16A) their functions in relation to licences, Scottish Natural Heritage,
+>
+> - “section 16AA licence” is to be construed in accordance with section 16AA(1).
+>
+> **16AC Section 16AA Licence: code of practice**
+>
+> (1) The Scottish Ministers must prepare a code of practice for the purpose of providing guidance about managing land to which a section 16AA licence relates.
+>
+> (2) A code of practice may, in particular, provide guidance on—
+>
+> (a) how land should be managed to reduce disturbance of and harm to any wild animal, wild bird and wild plant (including the use of medicated grit for such purposes),
+>
+> (b) how the taking or killing of any wild birds should be carried out,
+>
+> (c) how predators should be controlled.
+>
+> (3) The Scottish Ministers must review the current code of practice by the end of every review period.
+>
+> (4) Following a review, the Scottish Ministers may revise the current code of practice.
+>
+> (5) Before making, reviewing or revising a code of practice the Scottish Ministers must consult—
+>
+> (a) Scottish Natural Heritage,
+>
+> (b) such other persons as they consider likely to be interested in or affected by the management of land to which a section 16AA licence relates.
+>
+> (6) Subsection (5)(a) does not apply during any period for which the functions under this section are delegated to Scottish Natural Heritage under section 16AD**.**
+>
+> (7) As soon as practicable after the latest version of the code of practice is made, it must be made publicly available.
+>
+> (8) In this section, “review period” means—
+>
+> (a) in relation to the first review, the period of 5 years starting on the day on which subsection (1) is complied with, and
+>
+> (b) each subsequent period of 5 years.
+>
+> **16AD Section 16AA Licence: delegation of power in relation to code of practice**
+>
+> (1) The Scottish Ministers may delegate the preparation, publication, review and revision of the code of practice under section 16AC to Scottish Natural Heritage.
+>
+> (2) Any delegation must be made by written direction.
+>
+> (3) The Scottish Ministers may modify or revoke a direction.
+>
+> **16AE Report on operation and effect of section 16AA licences**
+>
+> (1) The Scottish Ministers must, for each reporting period, prepare a report on the operation and effect of section 16AA licences.
+>
+> (2) The report must include an assessment of the conservation status, including population size and range, of the following species—
+>
+> (a) golden eagle (*aquila chrysaetos*),
+>
+> (b) hen harrier (*circus cyaneus*),
+>
+> (c) peregrine falcon (*falco peregrinus*),
+>
+> (d) merlin (*falco columbarius*).
+>
+> (3) The report may include—
+>
+> (a) the number of licences issued under section 16AA and the area of land affected,
+>
+> (b) the number of licences that have been, or are, subject to suspension or revocation, the duration of those suspensions or revocations, and the reasons for those suspensions or revocations,
+>
+> (c) the number and outcomes of any appeals undertaken under section 16AB, and
+>
+> (d) such other matters as the Scottish Ministers consider appropriate.
+>
+> (4) As soon as practicable after each reporting period, the Scottish Ministers must lay the report before the Scottish Parliament.
+>
+> (5) The Scottish Ministers may by regulations amend subsection (2) to add or remove species of birds.
+>
+> (6) In this section, “reporting period” means—
+>
+> (a) in relation to the first report, the period of 5 years beginning on the day on which section 16AA comes into force, and
+>
+> (b) in relation to each subsequent report, the period of 5 years beginning on the day after the expiry of the previous reporting period.
+>
+> **16AF Report on operation and effect of section 16AA licences: delegation**
+>
+> (1) The Scottish Ministers may delegate the preparation and publication of the report under section 16AE to Scottish Natural Heritage.
+>
+> (2) Any delegation must be made by written direction.
+>
+> (3) The Scottish Ministers may modify or revoke a direction.
+
+.
+
+(3) In section 16A (delegation of licence-granting power: Scotland)—
+
+(a) after subsection (1) insert—
+
+> (1B) The Scottish Ministers may delegate their functions in relation to licences under section 16AA (other than the function in section 16AA(14)) to Scottish Natural Heritage.
+
+,
+
+(b) in subsection (3), in the opening words, after “delegation” insert “under subsection (1)”,
+
+(c) in subsection (5), after paragraph (a) insert—
+
+> (aa) Scottish Natural Heritage under subsection (1B) is to be made by written direction,
+
+,
+
+(d) after subsection (5) insert—
+
+> (5A) A direction under subsection (5)(aa) may include provision allowing Scottish Natural Heritage to modify or revoke licences that were granted before the direction.
+
+,
+
+(e) in subsection (7), after “subsection (5)(a)” insert “or (5)(aa)”.
+
+(4) In section 17 (false statements made for obtaining registration, identification number or licence etc.), in the opening words, after “section 16” insert “or 16AA”.
+
+(5) In section 26 (regulations, orders, notices etc.)—
+
+(a) in subsection (2), at the end of paragraph (d) (as inserted by section 9(3)(a) of this Act) insert—
+
+> (e) regulations under section 16AA(14) or 16AE(5).
+
+,
+
+(b) in subsection (3), at the end of paragraph (d) (as inserted by section 9(3)(b) of this Act) insert—
+
+> (e) regulations under section 16AA(14) or 16AE(5).
+
+.
+
+### Investigation of wildlife offences
+
+#### 11 Powers to inspect and investigate certain wildlife offences
+
+(1) The Animal Health and Welfare (Scotland) Act 2006 is amended as follows.
+
+(2) In section 49 (vets, inspectors and constables)—
+
+(a) after subsection (2) insert—
+
+> (2A) A local authority may not appoint a person as an inspector under subsection (2)(b) for the purposes of paragraph 5A of schedule 1.
+
+,
+
+(b) in subsection (3), for “subsection (2)(b)” substitute “subsections (2)(b) and (2A)”.
+
+(3) In section 51 (regulations), after subsection (3) insert—
+
+> (4) For the avoidance of doubt, in this section “this Part” includes schedule 1.
+
+.
+
+(4) In schedule 1 (powers of inspectors and constables for Part 2), after paragraph 5 insert—
+
+> **5A Supplementary powers of inspectors: evidence gathering in connection with wildlife offences**
+>
+> (1) An inspector, having entered non-domestic premises in exercise of a relevant power, may search for, examine and seize any thing tending to provide evidence of the commission of, or participation in, a relevant offence.
+>
+> (2) In this paragraph—
+>
+> - “relevant offence” is an offence under—
+>
+>   - the following provisions of the Wildlife and Countryside Act 1981—
+>   
+>     - section 1 (protection of wild birds etc.),
+>     - section 5 (prohibition of certain methods of killing or taking wild birds),
+>     - section 6 (sale etc. of wild birds),
+>     - section 7 (registration of certain captive birds),
+>     - section 8 (protection of captive birds),
+>     - section 9 (protection of certain wild animals),
+>     - section 10A (protection of wild hares),
+>     - section 11 (prohibition of certain methods of killing or taking wild animals),
+>     - section 11G (prevention of poaching: wild hares, rabbits etc.),
+>     - section 11I (sale, possession, etc. of wild hares, rabbits etc.),
+>     - section 12A (requirements for use of traps),
+>     - section 12F (authorisation from landowners etc. to use traps),
+>     - section 15A (possession of pesticides),
+>   
+>   - section 1 or 2 of the Wildlife Management and Muirburn (Scotland) Act 2024,
+>
+> - “thing” includes any animal (including the carcase of an animal), equipment or document.
+>
+> (3) The Scottish Ministers may by regulations modify the definition of “relevant offence” in sub-paragraph (2).
+
+.
+
+## Part 2 — Muirburn licensing
+
+### Requirement for muirburn licence
+
+#### 12 Requirement for muirburn licence
+
+(1) A person must not, without reasonable excuse, make muirburn on any land except under and in accordance with a muirburn licence which has effect in relation to the land.
+
+(2) It is an offence for a person to—
+
+(a) make muirburn in contravention of subsection (1), or
+
+(b) cause or permit another person to make muirburn in contravention of subsection (1).
+
+(3) It is not an offence under subsection (2) for a person to make muirburn on peatland if the muirburn licence relating to that land specifies that the land is not peatland.
+
+(4) It is not an offence under subsection (2) for a person to make muirburn on land to which a muirburn licence relates if muirburn is made in connection with the person’s completion of a training course approved under section 17.
+
+(5) A person who commits an offence under subsection (2) is liable, on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+### Muirburn licences
+
+#### 13 Application for muirburn licence
+
+(1) An owner or occupier of land may apply for a licence permitting muirburn to be made, for a purpose mentioned in subsection (2), on the land to which the application relates.
+
+(2) The purposes are—
+
+(a) where the land to which the application relates is not peatland—
+
+(i) managing the habitats of moorland game or wildlife,
+
+(ii) improving the grazing potential of moorland for livestock,
+
+(iii) conserving, restoring, enhancing or managing the natural environment,
+
+(iv) preventing, or reducing the risk of, wildfires causing damage to habitats,
+
+(v) preventing, or reducing the risk of, wildfires causing harm to people or damage to property,
+
+(vi) research,
+
+[[^F1](vii) training as part of a training course approved under section 17,]
+
+(b) where the land to which the application relates is peatland—
+
+(i) restoring the natural environment,
+
+(ii) preventing, or reducing the risk of, wildfires causing damage to habitats,
+
+(iii) preventing, or reducing the risk of, wildfires causing harm to people or damage to property,
+
+(iv) research.
+
+[[^F2](v) training as part of a training course approved under section 17.]
+
+(3) An application under subsection (1)—
+
+(a) must be made—
+
+(i) to the Scottish Ministers, and
+
+(ii) in such manner and form as the Scottish Ministers may require,
+
+(b) must—
+
+(i) identify the land to which the application relates, specifying whether the land is or is not peatland,
+
+(ii) specify for which of the purposes mentioned in subsection (2)(a) or, as the case may be, (b) muirburn is proposed to be made, and
+
+(iii) include or be accompanied by such other information as the Scottish Ministers may require,
+
+(c) must be accompanied by payment of such reasonable fee as the Scottish Ministers may require, and
+
+(d) must include evidence that the person who will make muirburn has completed a training course approved under section 17.
+
+(4) The Scottish Ministers must publicise any requirements which are for the time being set under subsection (3)(a)(ii), (b)(iii) or (c).
+
+(5) The Scottish Ministers may, by regulations, modify the lists of purposes in paragraphs (a) and (b) of subsection (2) so as to amend, remove or add to the purposes for the time being mentioned in those lists.
+
+(6) Before making regulations under subsection (5), the Scottish Ministers must consult—
+
+(a) Scottish Natural Heritage, and
+
+(b) such other persons as they consider likely to be interested in or affected by the licensing of muirburn.
+
+(7) Regulations under subsection (5) are subject to the affirmative procedure.
+
+(8) It is an offence for a person to knowingly or recklessly make any statement which is false in any material particular for the purpose of obtaining a muirburn licence.
+
+(9) A person who commits an offence under subsection (8) is liable, on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+#### 14 Grant of muirburn licence
+
+(1) Subject to subsection (2), the Scottish Ministers must grant a licence permitting muirburn to be made on land to which an application under section 13 relates for a purpose specified in the application if—
+
+(a) they consider it appropriate to do so, having regard in particular to the applicant’s compliance with the Muirburn Code,
+
+(b) where the land to which the application relates is peatland, they are satisfied that—
+
+(i) the making of muirburn is necessary for the specified purpose, and
+
+[^F3]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) they are satisfied that the person who will make muirburn has completed a training course approved under section 17.
+
+(2) The Scottish Ministers—
+
+(a) must not grant a licence permitting muirburn to be made outwith the muirburn season for the purpose mentioned in section 13(2)(a)(i) or (ii) [[^F4]or (b)(i) to (iii)],
+
+(b) may grant a licence permitting muirburn to be made outwith the muirburn season for any of the purposes mentioned in section 13(2)(a)(iii) to [[^F5](vii) or (b)(iv) or (v)] only if they are satisfied that it is necessary to do so.
+
+(3) The Scottish Ministers may, if they consider it appropriate to do so, grant a licence under subsection (1) in relation to only some of the—
+
+(a) land to which the application relates,
+
+(b) purposes specified in the application.
+
+(4) In this Part, “muirburn licence” means a licence granted under subsection (1).
+
+#### 15 Muirburn licences: content and conditions
+
+(1) A muirburn licence must—
+
+(a) specify the person to whom it is granted,
+
+(b) identify, by reference to a map, the land to which the licence relates,
+
+(c) specify—
+
+(i) whether the land to which the licence relates is not peatland or is peatland, and
+
+(ii) for which of the purposes mentioned in section 13(2)(a) or, as the case may be, (b) the licence permits muirburn to be made, and
+
+(d) specify the period for which the licence is to have effect.
+
+(2) Every muirburn licence is subject to the following conditions—
+
+(a) the person to whom the licence is issued must have regard to the Muirburn Code,
+
+(b) a person intending to make muirburn on land to which the licence relates must—
+
+(i) complete a training course approved under section 17 before making muirburn,
+
+(ii) have regard to the Muirburn Code, and
+
+(iii) comply with the requirements of section 19.
+
+(3) The Scottish Ministers may, if they consider it appropriate to do so, specify in a muirburn licence additional conditions to which the licence is subject.
+
+(4) Conditions which may be specified under subsection (3) include, in particular—
+
+(a) provisions of the Muirburn Code,
+
+(b) conditions as to the persons, or types of person, who may make muirburn on the land to which the licence relates,
+
+(c) conditions as to the reporting of activities carried out under the licence,
+
+(d) further conditions as to the giving of notice prior to the making of muirburn on the land to which the licence relates.
+
+(5) Different conditions may be specified under subsection (3) for different purposes, including in particular—
+
+(a) different conditions for different times of the year, and
+
+(b) different conditions for different land.
+
+#### 16 Modification, suspension and revocation of muirburn licence
+
+(1) The Scottish Ministers may—
+
+(a) modify a muirburn licence at any time,
+
+(b) suspend or revoke a muirburn licence if they are satisfied that a relevant person has committed an offence under this Part.
+
+(2) The Scottish Ministers must give the person to whom the muirburn licence was issued written notice of the modification, suspension or revocation of the licence.
+
+(3) Notice under subsection (2) must give reasons for the modification, suspension or revocation of the muirburn licence.
+
+(4) The modification, suspension or revocation of the licence may not take effect until the end of—
+
+(a) the period of 14 days beginning with the day on which notice under subsection (2) is given, or
+
+(b) such other period as the Scottish Ministers consider appropriate and specify in the notice.
+
+(5) A muirburn licence is of no effect while suspended.
+
+(6) A court which convicts a person of an offence under this Part must notify the Scottish Ministers (or Scottish Natural Heritage if the functions under this section have been delegated to that body under section 21) of the conviction.
+
+(7) In this section, “relevant person” means—
+
+(a) the person to whom the muirburn licence was issued,
+
+(b) any other person involved in managing the land to which the muirburn licence relates.
+
+#### 17 Approved training courses
+
+(1) The Scottish Ministers are to approve training courses on muirburn and the Muirburn Code.
+
+(2) The Scottish Ministers may—
+
+(a) determine training requirements, such as—
+
+(i) the form and content of the training course,
+
+(ii) requiring a person providing training to meet specified criteria (such as having relevant experience or holding a particular qualification),
+
+(b) require that any fee payable in connection with a course is reasonable,
+
+(c) accredit courses and the persons providing courses,
+
+(d) determine the minimum criteria for successful completion of courses, and
+
+(e) determine how successful completion of such courses is to be recorded.
+
+### Making muirburn
+
+#### 18 Muirburn Code
+
+(1) The Scottish Ministers must prepare a code (the “Muirburn Code”) in relation to how to make muirburn safely and appropriately.
+
+(2) The Muirburn Code may, in particular, include provision as to—
+
+(a) how the thickness of a layer of peat is to be determined,
+
+(b) the times of day muirburn may be made,
+
+(c) safety requirements when making muirburn.
+
+(3) The Scottish Ministers must review and, if they consider it appropriate, revise the Muirburn Code by the end of each review period.
+
+(4) The Scottish Ministers must publish the Muirburn Code prepared under subsection (1) and any revised code under subsection (3) as soon as practicable after it is prepared or, as the case may be, revised.
+
+(5) The Scottish Ministers must, in preparing, reviewing or revising the Muirburn Code, consult—
+
+(a) Scottish Natural Heritage, and
+
+(b) such other persons as they consider likely to be interested in or affected by the making of muirburn including persons involved in the management of land on which muirburn may be made.
+
+(6) Subsection (5)(a) does not apply during any period for which the functions under this section are delegated to Scottish Natural Heritage under section 21.
+
+(7) In this section, “review period” means—
+
+(a) the period of 5 years beginning with the day on which section 12 comes into force, and
+
+(b) each subsequent period of 5 years.
+
+#### 19 Notice of muirburn activity
+
+(1) A person who intends to make muirburn must give notice in writing under this section to—
+
+(a) the owner of the proposed muirburn site (if different from the person making the muirburn), and
+
+(b) any occupier of land situated within 1 kilometre of the proposed muirburn site.
+
+(2) Notice need not be given to a person (“A”) under this section if A has given notice in writing to the person intending to make muirburn that A wishes not to be notified of any intention to make muirburn.
+
+(3) Where there are 10 or more occupiers of land situated within 1 kilometre of the proposed muirburn site, the person intending to make muirburn may, instead of giving notice under subsection (1)(b) to each occupier separately, notify those occupiers collectively—
+
+(a) by placing a notice in at least one newspaper circulating in the area which includes the proposed muirburn site, or
+
+(b) by such other method as the Scottish Ministers may specify (whether in the Muirburn Code or otherwise) having regard to the need for the cost of giving notice to be reasonable to a person who intends to make muirburn.
+
+(4) The Scottish Ministers must publicise any method for the time being specified (otherwise than in the Muirburn Code) for the purposes of subsection (3)(b).
+
+(5) Notice under subsection (1) must—
+
+(a) be given not less than 7 days before the muirburn is made,
+
+(b) identify the proposed muirburn site (or sites),
+
+(c) inform the person to whom notice is given (“A”) that A may require the person intending to make muirburn to provide further information in relation to—
+
+(i) the dates on or between which the muirburn is intended to be made,
+
+(ii) the proposed muirburn site (or sites), and
+
+(iii) the approximate extent of the proposed muirburn.
+
+(6) Where the owner of the proposed muirburn site or an occupier of land situated within 1 kilometre of the proposed muirburn site requests any of the further information mentioned in subsection (5)(c), the person intending to make the muirburn must make reasonable efforts to comply with the request no later than the end of the day before the muirburn is made.
+
+(7) Any notice required to be given to an owner of land under this section may be given to any person purporting to be authorised by the owner to receive the notice.
+
+(8) Any notice required to be given under this section may, as an alternative to being given by a method specified in section 26 of the Interpretation and Legislative Reform (Scotland) Act 2010, be given—
+
+(a) by leaving it at an address to which it may be sent by virtue of subsection (2)(b) of that section, or
+
+(b) where the identity of an occupier cannot, after reasonable inquiry, be ascertained by—
+
+(i) addressing the notice to “Any occupiers of the land” (describing it), and
+
+(ii) affixing it to some conspicuous object on the land.
+
+#### 20 Muirburn season
+
+(1) For the purposes of this Part, the muirburn season is the period of time from 15 September in any year to 31 March in the following year.
+
+(2) The Scottish Ministers may, by regulations, amend the dates in subsection (1) to extend or reduce the muirburn season.
+
+(3) The Scottish Ministers may make regulations under subsection (2) only if they consider it necessary or expedient to do so—
+
+(a) in relation to climate change, or
+
+(b) for the purpose of—
+
+(i) conserving, restoring, enhancing or managing the natural environment,
+
+(ii) preventing, or reducing the risk of, wildfires causing harm to people or damage to property.
+
+(4) The power under subsection (2) (by virtue of section 33) to make different provision for different purposes includes in particular power to make different provision for—
+
+(a) different land (for example, land at different altitudes),
+
+(b) different years.
+
+(5) Before making regulations under subsection (2), the Scottish Ministers must consult—
+
+(a) Scottish Natural Heritage, and
+
+(b) such other persons as they consider likely to be interested in or affected by the making of muirburn, including persons involved in the management of land on which muirburn may be made.
+
+(6) Regulations under subsection (2) are subject to the affirmative procedure.
+
+### Miscellaneous
+
+#### 21 Delegation
+
+(1) The Scottish Ministers may delegate the following functions to Scottish Natural Heritage—
+
+(a) the application and granting of muirburn licences under sections 13, 14 and 15,
+
+(b) the modification, suspension and revocation of muirburn licences under section 16,
+
+(c) the approval of training courses under section 17,
+
+(d) the preparation, publication, review and revision of the Muirburn Code under section 18,
+
+(e) the functions in relation to the methods by which notice of the making of muirburn may be given conferred by section 19(3)(b) and (4).
+
+(2) Any delegation must be made by written direction.
+
+(3) Unless it specifies otherwise, a delegation under this section includes power to modify, suspend or revoke licences granted before the direction is made.
+
+(4) The Scottish Ministers may modify or revoke a direction.
+
+(5) Any licence which is in effect at the time a direction is revoked continues in effect following the revocation of the direction (unless the revocation specifies otherwise).
+
+#### 22 Interpretation of Part
+
+(1) In this Part—
+
+- “Muirburn Code” is to be construed in accordance with section 18(1) and includes any supplementary material,
+- “muirburn licence” has the meaning given in section 14(4),
+- “muirburn season” is to be construed in accordance with section 20(1),
+- “peat” means soil which has an organic content (that is, content consisting of living and dead plant and animal material) of more than 60%,
+- “peatland” means land where the soil has a layer of peat with a thickness of more than 40 centimetres.
+
+(2) In this Part, references to the making of muirburn include references to the setting of fire to, or the burning of, any heath or muir.
+
+(3) The Scottish Ministers may, by regulations, amend the definition of “peat” and “peatland” in subsection (1).
+
+(4) Before making regulations under subsection (3), the Scottish Ministers must consult—
+
+(a) Scottish Natural Heritage, and
+
+(b) such other persons as they consider likely to be interested in or affected by the making of muirburn.
+
+(5) Regulations under subsection (3) are subject to the affirmative procedure.
+
+#### 23 Repeals and consequential amendments
+
+(1) The Hill Farming Act 1946 is amended as follows.
+
+(2) Sections 23 to 23C are repealed.
+
+(3) In section 24 (right of tenant to make muirburn notwithstanding terms of lease)—
+
+(a) in subsection (1), after “Act” insert “and Part 2 of the Wildlife Management and Muirburn (Scotland) Act 2024”,
+
+(b) in subsection (4), after “Act” insert “and Part 2 of the Wildlife Management and Muirburn (Scotland) Act 2024”.
+
+(4) Sections 25 and 26 are repealed.
+
+(5) In section 26A—
+
+(a) in subsection (1), the words “or 26” are repealed,
+
+(b) subsection (2) is repealed,
+
+(c) the title to the section becomes “**Giving of muirburn notices under section 24(2)**”.
+
+(6) Section 27 is repealed.
+
+(7) In section 27A—
+
+(a) in subsection (1), for “23 to 27 (including orders made under section 23B)” substitute “24 and 26A”,
+
+(b) in subsection (2), for “23 to 27” substitute “24 and 26A”,
+
+(c) in subsection (3), for “23 to 27 (including orders made under section 23B)” substitute “24 and 26A”,
+
+(d) the title to the section becomes “**Crown application: sections 24 and 26A**”.
+
+## Part 3 — Miscellaneous and general provisions
+
+### Enforcement provisions
+
+#### 24 Powers of entry, search and seizure with warrant
+
+(1) A sheriff or justice of the peace may grant a warrant under this section if the sheriff or justice of the peace is satisfied—
+
+(a) by evidence on oath, that there are reasonable grounds for suspecting—
+
+(i) that an offence under section 1, 2, 3 or 12 has been, or is being, committed at the premises, or
+
+(ii) that there is evidence at the premises of the commission of an offence under section 1, 2, 3 or 12, and
+
+(b) condition A or condition B has been satisfied in relation to the premises.
+
+(2) Condition A is—
+
+(a) admission to the premises has been refused or a refusal may be reasonably expected, and
+
+(b) notice of the intention to seek a warrant has been given to the occupier of the premises, or the giving of such notice would frustrate the purpose for which the warrant is sought.
+
+(3) Condition B is—
+
+(a) that the premises are unoccupied, or
+
+(b) that the occupier is temporarily absent.
+
+(4) A warrant granted under this section remains in force until—
+
+(a) it is no longer required for the purpose for which it is granted, or
+
+(b) otherwise, the expiry of the period of 28 days beginning with the day on which it was granted.
+
+(5) A warrant granted under this section may authorise a constable to—
+
+(a) enter the premises by force if necessary,
+
+(b) search the premises and any person found in the premises,
+
+(c) seize and retain any item or material found on the premises, or on any person in the premises, if the constable has reasonable grounds for suspecting that it may provide evidence of the commission of an offence under section 1, 2, 3 or 12.
+
+(6) A constable may take to a place entered by virtue of this section any other person, or any equipment, as may be necessary for the purposes of assisting the constable (and such a person is to act under the constable’s direction at all times).
+
+(7) A constable who is authorised by a warrant granted under this section to seize and detain material may, if the material is only capable of being looked at, read, watched or listened to (as the case may be) after conversion from data stored in another form, require that the material—
+
+(a) be converted into such a form in a way which enables it to be taken away, or
+
+(b) be produced in a form which is capable of being taken away and from which it can be readily converted.
+
+(8) In this section, “premises” includes any—
+
+(a) land or building,
+
+(b) vehicle, vessel, trailer, aircraft or hovercraft,
+
+(c) tent or moveable structure,
+
+(whether or not the premises are used wholly or mainly as a private dwelling).
+
+(9) In this section and in section 25, “constable” has the same meaning as in section 99(1) of the Police and Fire Reform (Scotland) Act 2012.
+
+#### 25 Further restrictions on power of entry
+
+(1) The power of entry under section 24 may be exercised only at a reasonable time of day.
+
+(2) On leaving any premises which a constable is authorised to enter under a warrant, the constable must, if the premises are unoccupied or the occupier is temporarily absent, leave the premises as effectively secured against entry as the constable found them.
+
+#### 26 Powers of local weights and measures authorities
+
+The schedule makes provision about the powers of a local weights and measures authority (and its officers) to enforce the offences under sections 2 and 3 in its area and related matters.
+
+#### 27 Offence of obstructing officer of local weights and measures authority
+
+(1) It is an offence for a person to—
+
+(a) intentionally obstruct an officer of a local weights and measures authority who is exercising powers under the schedule,
+
+(b) intentionally fail to comply with any requirement made of the person by an officer of a local weights and measures authority under paragraph 9, 10 or 12 of the schedule,
+
+(c) fail, without reasonable cause, to give an officer of a local weights and measures authority any other assistance or information which the officer may reasonably require for the purposes of the exercise of the officer’s powers under the schedule.
+
+(2) It is an offence for a person, in giving any information that is required of the person by virtue of subsection (1)(c)—
+
+(a) to make any statement that the person knows is false in a material particular, or
+
+(b) recklessly to make a statement that is false in a material particular.
+
+(3) A person who commits an offence under this section is liable, on summary conviction, to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale (or both).
+
+#### 28 Offence of impersonating officer of a local weights and measures authority
+
+(1) It is an offence for a person who is not an officer of a local weights and measures authority to purport to act as such an officer in the exercise of powers under the schedule.
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 29 Individual culpability where organisation commits offence
+
+(1) This section applies where—
+
+(a) an offence under section 1, 2 or 3 or Part 2 is committed by a relevant organisation, and
+
+(b) the commission of the offence involves consent or connivance on the part of a responsible individual.
+
+(2) The responsible individual (as well as the relevant organisation) commits the offence.
+
+(3) For the purposes of this section—
+
+(a) “relevant organisation” means an organisation listed in the first column of the table in subsection (4),
+
+(b) “responsible individual” means, in relation to a relevant organisation—
+
+(i) an individual falling within the corresponding entry in the second column of the table in subsection (4), or
+
+(ii) an individual purporting to act in the capacity of an individual falling within the corresponding entry.
+
+(4) The table is as follows—
+
+<table>
+<thead>
+<tr><th><b><i>Relevant organisation</b></i></th><th><b><i>Responsible individual</b></i></th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="2">company as mentioned in section 1 of the Companies Act 2006</td><td>director, manager, secretary or other similar officer</td></tr>
+<tr><td>member, where the company's affairs are managed by its members</td></tr>
+<tr><td>limited liability partnership</td><td>member</td></tr>
+<tr><td>other partnership</td><td>partner</td></tr>
+<tr><td>any other body or association</td><td>individual who is concerned in the management or control of its affairs</td></tr>
+</tbody>
+</table>
+
+#### 30 Crown application: criminal offences
+
+(1) Nothing in this Act makes the Crown criminally liable.
+
+(2) The Court of Session may, on an application by the Lord Advocate, declare unlawful any act or omission for which the Crown would be criminally liable if it were not for subsection (1).
+
+(3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
+
+#### 31 Crown application: powers of entry
+
+(1) A warrant granted under section 24 is exercisable in relation to Crown land specified in column 1 of the following table only with the consent of the person specified in the corresponding entry in column 2 of the table (the “appropriate authority”).
+
+| ***Crown land*** | ***Appropriate authority*** |
+|---|---|
+| Land an interest in which belongs to His Majesty in right of the Crown and which forms part of the Crown Estate (that is, the property, rights and interests under the management of the Crown Estate Commissioners) | The Crown Estate Commissioners |
+| Land an interest in which belongs to His Majesty in right of the Crown and which forms part of the Scottish Crown Estate | The person managing the land |
+| Land an interest in which belongs to His Majesty in right of the Crown other than land forming part of the Crown Estate or the Scottish Crown Estate | The office-holder in the Scottish Administration or, as the case may be, the Government department managing the land |
+| Land an interest in which belongs to His Majesty in right of His private estates | The person appointed by His Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers |
+| Land an interest in which belongs to an office-holder in the Scottish Administration | The office-holder in the Scottish Administration |
+| Land an interest in which belongs to a Government department | The Government department |
+| Land an interest in which is held in trust for His Majesty by an office-holder in the Scottish Administration for the purposes of the Scottish Administration | The office-holder in the Scottish Administration |
+| Land an interest in which is held in trust for His Majesty for the purposes of a Government department | The Government department |
+
+(2) In subsection (1)—
+
+(a) the reference to His Majesty’s private estates is to be construed in accordance with section 1 of the Crown Private Estates Act 1862,
+
+(b) “Government department” means a department of the Government of the United Kingdom,
+
+(c) “Scottish Crown Estate” means the property, rights and interests to which section 90B(5) of the Scotland Act 1998 applies.
+
+(3) It is for the Scottish Ministers to determine any question that arises as to who in accordance with subsection (1) is the appropriate authority in relation to any land, and their decision is final.
+
+### Review of operation and effectiveness (prospective)
+
+#### 32 Review of operation and effectiveness (prospective)
+
+(1) The Scottish Ministers must carry out a review of the operation and effectiveness of—
+
+(a) the prohibition of the use of glue traps under this Act,
+
+(b) the prohibition of the use of snares under the Wildlife and Countryside Act 1981,
+
+(c) the extension of the powers of inspectors under the Animal Health and Welfare (Scotland) Act 2006 by section 11 of this Act, and
+
+(d) the licensing of the making of muirburn under this Act.
+
+(2) The review may also review the operation and effectiveness of any other matter included in this Act.
+
+(3) The review must be completed no later than 5 years after the day on which this Act receives Royal Assent.
+
+(4) When conducting the review, the Scottish Ministers must consult—
+
+(a) Scottish Natural Heritage, and
+
+(b) such persons as they consider are likely to be interested in or affected by the matters that are included in the review.
+
+(5) As soon as reasonably practicable after carrying out the review, the Scottish Ministers must—
+
+(a) prepare a report of the review’s findings and include—
+
+(i) a statement of any action the Scottish Ministers intend to take as a result of the review, and
+
+(ii) where the Scottish Ministers do not intend to take any action, their reasons for this,
+
+(b) lay the report before the Scottish Parliament, and
+
+(c) publish the report.
+
+### General provisions
+
+#### 33 Regulations
+
+(1) Any power of the Scottish Ministers to make regulations under this Act includes power to make—
+
+(a) different provision for different purposes,
+
+(b) incidental, supplementary, consequential, transitional, transitory or saving provision.
+
+(2) This section does not apply to section 35(2).
+
+#### 34 Ancillary provision
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
+
+(2) Regulations under this section may modify any enactment (including this Act).
+
+(3) Regulations under subsection (1)—
+
+(a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act (including this Act), but
+
+(b) otherwise, are subject to the negative procedure.
+
+#### 35 Commencement
+
+(1) This section and section 36 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under subsection (2) may—
+
+(a) include transitional, transitory or saving provision,
+
+(b) make different provision for different purposes.
+
+#### 36 Short title
+
+The short title of this Act is the Wildlife Management and Muirburn (Scotland) Act 2024.
+
+## Schedule — Investigatory powers of a local weights and measures authority
+
+*(introduced by section 26)*
+
+### General
+
+**1** (1) A local weights and measures authority (and its officers) may exercise the powers under this schedule for the purpose of ascertaining whether an offence under section 2 (offence of supplying glue trap) or 3 (offence of possessing glue trap) has been, or is being, committed.
+
+(2) A local weights and measures authority (and its officers) may exercise the power under paragraph 8 (power to seize and retain items) in relation to—
+
+(a) an item which an officer of the authority reasonably suspects may disclose (by means of testing or otherwise) the commission of an offence under section 2 or 3,
+
+(b) an item which an officer of the authority reasonably suspects is liable to forfeiture under this Act, and
+
+(c) an item which an officer of the authority reasonably suspects may be required as evidence in proceedings for an offence under section 2 or 3.
+
+(3) A local weights and measures authority (and its officers) may not exercise the power under paragraph 9 (powers in relation to documents) or paragraph 11 (power of entry with warrant) for the purpose mentioned in sub-paragraph (1) unless an officer of the authority reasonably suspects that an offence under section 2 or 3 has been, or is being, committed.
+
+**2** An officer of a local weights and measures authority (or a person acting under the direction of an officer) does not commit an offence under section 2 or 3 if the supply or possession of the glue trap is in connection with the officer’s duties under this Act.
+
+**3** In this schedule, “glue trap” has the meaning given in section 1(7).
+
+### Power to purchase glue trap
+
+**4** (1) An officer of a local weights and measures authority may—
+
+(a) make a purchase of a glue trap, or
+
+(b) direct or enter into an agreement with a person to secure the acquisition or supply of such a glue trap.
+
+(2) For the purpose of exercising the power under sub-paragraph (1), the officer may—
+
+(a) at any reasonable time, enter premises to which the public has access (whether or not the public has access at that time), and
+
+(b) inspect any product on the premises which the public may inspect.
+
+(3) The power of entry in sub-paragraph (2) may be exercised without first giving notice or obtaining a warrant.
+
+(4) In this paragraph, “premises” includes any—
+
+(a) land or building,
+
+(b) vehicle, vessel, trailer, aircraft or hovercraft,
+
+(c) tent or moveable structure,
+
+except where the premises are used wholly or mainly as a private dwelling.
+
+### Power to observe carrying on of business etc.
+
+**5** (1) An officer of a local weights and measures authority may enter premises to which the public has access in order to observe the carrying on of a business on those premises.
+
+(2) The power under sub-paragraph (1) may be exercised at any reasonable time (whether or not the public has access at that time).
+
+(3) The power of entry under sub-paragraph (1) may be exercised without first giving notice or obtaining a warrant.
+
+(4) In this paragraph, “premises” includes any—
+
+(a) land or building,
+
+(b) vehicle, vessel, trailer, aircraft or hovercraft,
+
+(c) tent or moveable structure,
+
+except where the premises are used wholly or mainly as a private dwelling.
+
+### Power to enter premises without warrant
+
+**6** (1) An officer of a local weights and measures authority may enter premises at any reasonable time.
+
+(2) In the case of a routine inspection, the power of entry in sub-paragraph (1) may only be exercised if a notice has been given to the occupier of the premises in accordance with the requirements in sub-paragraph (3), unless sub-paragraph (4) applies.
+
+(3) Those requirements are that—
+
+(a) the notice is in writing and is given by the officer,
+
+(b) the notice sets out why the entry is necessary and indicates the nature of the offence under section 27 (offence of obstructing officer of local weights and measures authority), and
+
+(c) there are at least two working days between the date of receipt of the notice and the date of entry.
+
+(4) A notice need not be given if the occupier has waived the requirement to give notice.
+
+(5) In this paragraph “routine inspection” means an exercise of the power under sub-paragraph (1) other than where—
+
+(a) the power is exercised by an officer who reasonably suspects that an offence has been, or is being, committed under section 2 or 3, or
+
+(b) the officer reasonably considers that to give notice in accordance with sub-paragraph (2) would defeat the purpose of the entry.
+
+(6) If an officer enters premises under sub-paragraph (1) that are occupied, otherwise than in the course of a routine inspection, the officer must provide to an occupier a document that—
+
+(a) sets out why the entry is necessary, and
+
+(b) indicates the nature of the offence under section 27.
+
+(7) If an officer enters premises under sub-paragraph (1) that are occupied, the officer must produce evidence of the officer’s identity and authority to an occupier.
+
+(8) An officer need not comply with sub-paragraph (6) or (7) if it is not reasonably practicable to do so.
+
+(9) Proceedings resulting from the exercise of the power under sub-paragraph (1) are not invalid merely because of a failure to comply with sub-paragraph (6) or (7).
+
+(10) An officer entering premises under sub-paragraph (1) may be accompanied by such persons, and may take onto the premises such equipment, as the officer considers necessary.
+
+(11) In this paragraph—
+
+- “occupier”, in relation to premises, means any person an officer of a weights and measures authority reasonably suspects to be the occupier of the premises,
+
+- “premises” includes any—
+
+  - land or building,
+  - vehicle, vessel, trailer, aircraft or hovercraft,
+  - tent or moveable structure,
+
+  except where the premises are used wholly or mainly as a private dwelling,
+
+- “working day” means any day other than—
+
+  - Saturday or Sunday,
+  - Christmas Day or Good Friday, or
+  - a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in Scotland.
+
+### Power to inspect and test glue trap
+
+**7** (1) An officer of a local weights and measures authority may—
+
+(a) inspect a glue trap or an item suspected to be a glue trap on the premises,
+
+(b) arrange for a glue trap or an item suspected to be a glue trap to be tested (and may seize and retain the item under paragraph 8).
+
+(2) Inspection and testing under this paragraph may carried out only for the purposes of determining whether or not an item is a glue trap.
+
+### Power to seize and retain items
+
+**8** (1) An officer of a local weights and measures authority may seize and retain an item other than a document (for which see paragraph 9).
+
+(2) An officer seizing an item under this paragraph from premises which are occupied must produce evidence of the officer’s identity and authority to an occupier of the premises before seizing it.
+
+(3) The officer need not comply with sub-paragraph (2) if it is not reasonably practicable to do so.
+
+(4) An officer seizing an item under this paragraph must take reasonable steps to—
+
+(a) inform the person from whom it is seized that it has been seized, and
+
+(b) provide that person with a written record of what has been seized.
+
+(5) An item seized under this paragraph (except an item seized for the purpose in paragraph 1(2)(b)) may not be detained—
+
+(a) for a period of more than 3 months beginning with the day on which it was seized, or
+
+(b) where the item is reasonably required to be retained for a longer period by the officer for a purpose for which it was seized, for longer than it is required for that purpose.
+
+### Powers in relation to documents
+
+**9** (1) An officer of a local weights and measures authority may, at any reasonable time—
+
+(a) require a person who is, or is suspected of, offering to supply glue traps to the public in the course of a business (“the trader”), an employee of the trader or any other person acting on behalf of the trader, to produce any document relating to the trader’s business to which the trader, employee or other person has access,
+
+(b) take copies of, or copies of any entry in, any such document,
+
+(c) seize and retain any such document which the officer reasonably suspects may be required as evidence.
+
+(2) The powers in sub-paragraph (1) include power to require the trader, employee or other person to give an explanation of the document.
+
+(3) Where a document required to be produced under sub-paragraph (1) contains information recorded electronically, the power under that sub-paragraph includes power to require the production of a copy of the document in a form in which it can easily be taken away and in which it is visible and legible.
+
+(4) This paragraph does not permit an officer to require a person to create a document other than as described in sub-paragraph (3).
+
+(5) An officer seizing a document under this paragraph from premises which are occupied must produce evidence of the officer’s identity and authority to an occupier of the premises before seizing it.
+
+(6) The officer need not comply with sub-paragraph (5) if it is not reasonably practicable to do so.
+
+(7) An officer seizing a document under this paragraph must take reasonable steps to—
+
+(a) inform the person from whom it is seized that it has been seized, and
+
+(b) provide that person with a written record of what has been seized.
+
+(8) This paragraph does not permit an officer to require a person to produce or seize any document which the person would be entitled to refuse to produce in proceedings in the Court of Session on the grounds of confidentiality of communications.
+
+(9) In sub-paragraph (8), “communications” means—
+
+(a) communications between a professional legal adviser and the adviser’s client, or
+
+(b) communications made in connection with or in contemplation of legal proceedings or for the purposes of those proceedings.
+
+(10) In this paragraph, “occupier”, in relation to premises, means any person an officer of a weights and measures authority reasonably suspects to be the occupier of the premises.
+
+### Power to break open container etc.
+
+**10** (1) An officer of a local weights and measures authority may, for the purpose of exercising the powers under paragraph 7, 8 or 9, require a person with authority to do so to—
+
+(a) break open any container, or
+
+(b) access any electronic device in which information may be stored or from which it may be accessed.
+
+(2) Where a requirement under sub-paragraph (1) has not been complied with, the officer may, for the purpose of exercising any of the powers in paragraph 9—
+
+(a) break open the container, or
+
+(b) access the electronic device.
+
+(3) Sub-paragraph (1) or (2) applies if and to the extent that the exercise of the power under that sub-paragraph is reasonably necessary for the purposes for which that power may be exercised.
+
+(4) In this paragraph, “container” means anything in which an item or document may be stored.
+
+### Power of entry with warrant
+
+**11** (1) A sheriff may grant a warrant under this paragraph authorising an officer of a local weights and measures authority to enter premises if the sheriff is satisfied, by evidence on oath, that—
+
+(a) there are reasonable grounds for suspecting—
+
+(i) that an offence under section 2 or 3 has been, or is being, committed at the premises, or
+
+(ii) that there is an item or document on the premises that the officer has the power to inspect or require to be produced, and
+
+(b) one of the following conditions is met—
+
+(i) access to the premises has been or is likely to be refused and notice of the officer’s intention to apply for a warrant under this paragraph has been given to the occupier of the premises,
+
+(ii) it is likely that items or documents on the premises would be concealed or interfered with if notice of entry on the premises were given to the occupier of the premises, or
+
+(iii) the premises are unoccupied or the occupier of the premises is absent and it might defeat the purpose of the entry to wait for the occupier’s return.
+
+(2) A warrant granted under this paragraph remains in force for a period of 28 days beginning with the day on which it was granted.
+
+(3) An officer may be accompanied by such persons, and may take onto the premises such equipment, as the officer considers necessary.
+
+(4) A warrant granted under this paragraph may authorise an officer to—
+
+(a) enter the premises by force if necessary,
+
+(b) exercise the powers in paragraph 7, 8, 9 or 10.
+
+(5) If the premises are occupied when the officer enters them, the officer must produce the warrant for inspection to an occupier of the premises.
+
+(6) Sub-paragraph (7) applies if the premises are unoccupied or the occupier is temporarily absent.
+
+(7) On leaving the premises, the officer must—
+
+(a) leave a notice on the premises stating that the premises have been entered under a warrant under this paragraph, and
+
+(b) leave the premises as effectively secured as the officer found them.
+
+(8) In this paragraph—
+
+- “occupier”, in relation to premises, means any person an officer of a weights and measures authority reasonably suspects to be the occupier of the premises,
+
+- “premises” includes any—
+
+  - land or building,
+  - vehicle, vessel, trailer, aircraft or hovercraft,
+  - tent or moveable structure,
+
+  (whether or not the premises are used wholly or mainly as a private dwelling).
+
+### Power to require assistance from person on premises
+
+**12** If an officer of a local weights and measures authority has entered premises under paragraph 6(1) or under a warrant under paragraph 11, the officer may require any person on the premises to provide such assistance or information as the officer reasonably considers necessary.
+
+### Access to seized items and documents
+
+**13** (1) This paragraph applies where a thing seized by an officer of a local weights and measures authority under this schedule is retained by the authority.
+
+(2) If a request for permission to be granted access to that thing is made to the local weights and measures authority by a person who had custody or control of it immediately before it was seized, the authority must allow that person access to it under the supervision of an officer of the authority.
+
+(3) If a request for a photograph or copy of that thing is made to the local weights and measures authority by a person who had custody or control of it immediately before it was seized, the authority must—
+
+(a) allow that person access to it under the supervision of an officer of the authority for the purpose of photographing or copying it, or
+
+(b) photograph or copy it, or cause it to be photographed or copied.
+
+(4) Where anything is photographed or copied under sub-paragraph (3), the photograph or copy must be supplied to the person who made the request within a reasonable time from the making of the request.
+
+(5) This paragraph does not require access to be granted to, or a photograph or copy to be supplied of, a thing if the local weights and measures authority has reasonable grounds for believing that to do so would prejudice the investigation for the purposes of which it was seized.
+
+(6) A local weights and measures authority may recover the reasonable costs of complying with a request under this paragraph from the person by whom or on whose behalf it was made.
+
+(7) References in this paragraph to a person who had custody or control of a thing immediately before it was seized include a representative of such a person.
+
+### Notice of testing of item
+
+**14** (1) Sub-paragraphs (2) and (3) apply where—
+
+(a) a glue trap purchased (or acquired under direction or by agreement) by an officer of a local weights and measures authority under paragraph 4 is submitted to a test and as a result proceedings are brought for an offence under section 2 or 3, or
+
+(b) a glue trap or item seized by an officer of a local weights and measures authority under paragraph 8 is submitted to a test.
+
+(2) The local weights and measures must inform the relevant person of the results of the test.
+
+(3) The local weights and measures authority must allow a relevant person to have the glue trap or item tested if it is reasonably practicable to do so.
+
+(4) In sub-paragraph (2), “relevant person” means the person from whom the glue trap or item was purchased or seized.
+
+(5) In sub-paragraph (3), “relevant person” means—
+
+(a) in a case within sub-paragraph (1)(a), a person who is a party to the proceedings, or
+
+(b) in any other case, a person referred to in sub-paragraph (4).
+
+### Application for release of item or document
+
+**15** (1) This paragraph applies where an item or document is being retained as the result of the exercise of a power under this schedule.
+
+(2) A person with an interest in the item or document may apply to the sheriff for an order requiring it to be released to that or another person.
+
+(3) The sheriff may make an order requiring an item or document to be released only if satisfied that condition A or B is met.
+
+(4) Condition A is that—
+
+(a) no proceedings have been brought for an offence as the result of the investigation in the course of which the item or document was seized, and
+
+(b) the period of 12 months beginning with the day on which the item or document was seized has expired.
+
+(5) Condition B is that—
+
+(a) proceedings of the kind mentioned in sub-paragraph (4)(a) have been brought, and
+
+(b) those proceedings have been concluded without the item or document being forfeited.
+
+### Compensation
+
+**16** (1) This paragraph applies where an officer of a local weights and measures authority has seized and retained an item under this schedule for a purpose within paragraph 1(2)(a).
+
+(2) The local weights and measures authority must pay compensation to any person with an interest in the item in respect of any loss or damage caused by the seizure and retention if—
+
+(a) the item has not disclosed an offence under section 2 or 3, and
+
+(b) the power to seize and retain the item was not exercised as a result of any neglect or default of the person seeking the compensation.
+
+(3) Any dispute about the right to or amount of any compensation payable under this paragraph is to be determined by a single arbitrator appointed by the parties or, if there is no agreement between the parties as to that appointment, by the sheriff.
+
+---
+
+[^F1]: S. 13(2)(a)(vii) inserted (18.6.2026) by Natural Environment (Scotland) Act 2026 (asp 6), ss. 55(2)(a), 59(2); S.S.I. 2026/200, reg. 2(a)
+[^F2]: S. 13(2)(b)(v) inserted (18.6.2026) by Natural Environment (Scotland) Act 2026 (asp 6), ss. 55(2)(b), 59(2); S.S.I. 2026/200, reg. 2(a)
+[^F3]: S. 14(1)(b)(ii) repealed (18.6.2026) by Natural Environment (Scotland) Act 2026 (asp 6), ss. 56(2), 59(2); S.S.I. 2026/200, reg. 2(b)
+[^F4]: Words in s. 14(2)(a) inserted (18.6.2026) by Natural Environment (Scotland) Act 2026 (asp 6), ss. 55(3)(a), 59(2); S.S.I. 2026/200, reg. 2(a)
+[^F5]: Words in s. 14(2)(b) substituted (18.6.2026) by Natural Environment (Scotland) Act 2026 (asp 6), ss. 55(3)(b), 59(2); S.S.I. 2026/200, reg. 2(a)

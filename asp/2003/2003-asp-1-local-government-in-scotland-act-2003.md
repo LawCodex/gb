@@ -1,0 +1,1583 @@
+---
+title: "Local Government in Scotland Act 2003"
+identifier: "asp/2003/1"
+citation: "2003 asp 1"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2003-02-11
+last_amended: 2026-01-12
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2003/1"
+source_modified: 2026-01-20
+retrieved: 2026-10-11
+---
+
+# Local Government in Scotland Act 2003
+
+**2003 asp 1**
+
+An Act of the Scottish Parliament to provide anew about the way in which local authorities discharge their functions and about the local provision of certain public services; to give local authorities power to do things which they consider will advance well-being; to provide exemptions and reliefs from non-domestic rates in relation to certain lands and heritages; to confer power on the Scottish Ministers to combine certain lands and heritages for the purposes of assessing rateable value; to require local authorities to prepare, and endeavour to implement, a plan relating to the carrying out of their waste disposal and collection functions; to make new provision about the capital expenditure of those authorities and about the making of capital grants to them; to make some miscellaneous provisions connected with the functions of local authorities; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th January 2003 and received Royal Assent on 11th February 2003
+
+## Part 1 — Best value and accountability
+
+### Duty to secure best value
+
+#### 1 Local authorities' duty to secure best value
+
+(1) It is the duty of a local authority to make arrangements which secure best value.
+
+(2) Best value is continuous improvement in the performance of the authority’s functions.
+
+(3) In securing best value, the local authority shall maintain an appropriate balance among—
+
+(a) the quality of its performance of its functions;
+
+(b) the cost to the authority of that performance; and
+
+(c) the cost to persons of any service provided by it for them on a wholly or partly rechargeable basis.
+
+(4) In maintaining that balance, the local authority shall have regard to—
+
+(a) efficiency;
+
+(b) effectiveness;
+
+(c) economy; and
+
+(d) the need to meet the equal opportunity requirements.
+
+(5) The local authority shall discharge its duties under this section in a way which contributes to the achievement of sustainable development.
+
+(6) In measuring the improvement of the performance of a local authority’s functions for the purposes of this section, regard shall be had to the extent to which the outcomes of that performance have improved.
+
+(7) In this section, “equal opportunity requirements” has the same meaning as in Section L2 of Part II of Schedule 5 to the Scotland Act 1998 (c. 46).
+
+#### 2 Considerations bearing on performance of duty under section 1
+
+(1) In the performance of its duties under section 1 above, a local authority shall have regard—
+
+(a) to any guidance provided by the Scottish Ministers for local authorities on the performance of those duties; and such guidance may include guidance on—
+
+(i) how to make and what is to be included in the arrangements referred to in subsection (1) of that section;
+
+(ii) how to implement the duty imposed by that subsection; and
+
+(b) to what are, whether by reference to any generally recognised, published code or otherwise, regarded as proper arrangements for the purposes of section 1(1) above (or purposes which include those purposes).
+
+(2) Before providing guidance under this section, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think appropriate.
+
+(3) In the event of a conflict in any respect between the considerations to which a local authority is to have regard under paragraph (a) of subsection (1) above and those to which it has to have regard under paragraph (b) of that subsection, it shall in that respect have regard only to those within paragraph (a).
+
+### Enforcement
+
+#### 3 Action by Accounts Commission following report by Controller of Audit
+
+(1) On a report being made to it by the Controller of Audit under section 102(1) of the Local Government (Scotland) Act 1973 (c. 65) (the “1973 Act”), the Accounts Commission for Scotland may do, in any order, all or any of the following, or none of them—
+
+(a) direct the Controller of Audit to carry out further investigations;
+
+(b) hold a hearing;
+
+(c) state its findings.
+
+(2) Findings which do not follow a hearing shall, for the purposes of section 103D of the 1973 Act, as applied by section 4 below, be treated as the findings of the members of the Commission holding a hearing.
+
+#### 4 Hearings under section 3 above
+
+(1) Sections 103C (procedure, evidence etc. at hearings held by Commission) and 103D (findings of hearings) of the 1973 Act apply to hearings held under section 3(1)(b) above as they apply to hearings held under section 103B(1)(b) of that Act.
+
+(2) For the purposes of subsection (1) above—
+
+(a) sections 103C(2) and (5) and 103D(a) of the 1973 Act shall be ignored; and
+
+(b) the other provisions of section 103D shall be taken to extend to findings which do not follow a hearing.
+
+(3) Findings made under section 103D as applied by this section may include recommendations and the persons to whom those recommendations may be made include the Scottish Ministers.
+
+(4) The Accounts Commission shall give a copy of findings so made to any member or officer of a local authority who was named in the report upon which proceeded the hearing to which the findings relate.
+
+(5) At a hearing held under section 3 above, the Accounts Commission shall afford—
+
+(a) any local authority likely to be affected by any findings made; and
+
+(b) any person likely to be so affected (or the representative of such a person),
+
+the opportunity of appearing and being heard.
+
+(6) Subsections (1), (6) and (7) of section 103 of the 1973 Act (which are superseded by provisions of section 3 above and this section) are repealed.
+
+#### 5 Action by local authorities on receipt of findings
+
+(1) A local authority receiving a copy of findings under section 103D of the 1973 Act as applied by section 4 above shall consider those findings in accordance with section 103E(1) and (2) of that Act and subsections (3) to (7) of the said section 103E shall apply accordingly.
+
+(2) Sections 5 and 6 of the Local Government Act 1992 (c. 19) are repealed.
+
+### Other provisions about best value
+
+#### 6 Accounts Commission’s studies and recommendations to include aspects of securing best value
+
+(1) In subsection (1) of section 97A (Commission’s studies for improving economy etc.) of the 1973 Act—
+
+(a) after “for”, where first occurring, there is inserted—
+
+> (a) the securing by local authorities of best value;
+>
+> (b)
+
+; and
+
+(b) for “for”, where second occurring, there is inserted—
+
+> (c)
+
+.
+
+(2) After that subsection there is inserted—
+
+> (1A) In subsection (1)(a) above, the references to best value and the securing of it are references to best value within the meaning of section 1 of the Local Government in Scotland Act 2003 (asp 1) and the securing of it in accordance with that section.
+
+.
+
+### Relaxation of rules about contracts and supply of goods and services
+
+#### 7 Local authority contracts: relaxation of exclusion of non-commercial considerations
+
+(1) The following provisions of section 17(5) of the Local Government Act 1988 (c. 9) (the “1988 Act”) do not operate in relation to a local authority in any of the cases specified in subsection (2) below—
+
+- paragraph (a) (which provides that the terms and conditions of employment of, and certain other arrangements affecting, contractors' workers are to be disregarded by authorities when exercising certain functions relating to public supply or works contracts);
+- paragraph (b) (which provides that the question whether contractors sub-contract to self-employed individuals on a services-only basis is to be likewise disregarded); and
+- paragraph (d) so far as relating to the conduct of contractors or their workers in industrial disputes between them (which paragraph provides that such conduct is to be likewise disregarded).
+
+(2) Those cases are—
+
+(a) where the local authority reasonably seeks to ensure that a contractor with the authority will comply with the contractor’s obligations under the contract;
+
+(b) where the local authority reasonably seeks to ensure that a contractor with the authority will perform the contractor’s obligations under the contract in a way which will not prevent the authority from securing best value or hinder it in doing so; and
+
+(c) where the local authority has reasonable grounds for believing that the trade contractor’s implementation of the contract with the authority would entail a relevant transfer within the meaning of the Transfer of Undertakings (Protection of Employment) Regulations 1981 (S.I. 1981/1794) or any regulations replacing those regulations, as from time to time amended.
+
+(3) Section 17(5)(h) of the 1988 Act (which provides that the use or non-use by contractors of services provided under the Building (Scotland) Act [[^F1]2003 (asp 8)] is to be disregarded by authorities when exercising certain functions relating to public supply or works' contracts) ceases to have effect in relation to local authorities.
+
+(4) In this section, “contractor” has the same meaning as in section 17 of the 1988 Act.
+
+#### 8 Relaxation of restrictions on supply of goods and services etc. by local authorities
+
+(1) The Local Authorities (Goods and Services) Act 1970 (c. 39) is modified as provided in subsections (2) and (3) below.
+
+(2) In section 1 (supply of goods and services etc. by local authorities to public bodies)—
+
+(a) in subsection (1)—
+
+(i) for “public body within the meaning of this section” and “body”, wherever subsequently occurring, there is, in each case, substituted “ person ”;
+
+(ii) after “may”, where it first occurs, there is inserted “ , in relation to any relevant trading operation carried on by the authority, ”;
+
+(iii) in paragraph (b), the words “administrative, professional or technical” are repealed;
+
+(iv) in paragraph (c), for “vehicle, plant or apparatus belonging to” there is substituted “ property belonging to or facilities under the control of ” and for “vehicle or other property” there is substituted “ property or facility ”; and
+
+(v) paragraph (d) and the words which follow it are repealed;
+
+(b) after that subsection there is inserted—
+
+> (1A) A local authority shall not, in relation to any trading operation carried on by them, enter into an agreement under subsection (1) above if the likely result of doing so would be that the commercial services income accruing to the authority in any financial year under that and all other such agreements already entered into by the authority with such persons in relation to that operation would exceed the statutory limit.
+>
+> (1B) Subsection (1A) above does not apply in respect of an agreement entered into by a local authority with—
+>
+> (a) another local authority;
+>
+> (b) a public authority or body; or
+>
+> (c) a person who, in the circumstances set out in subsection (1L) below, enters into the contract in order to provide the local authority with goods or services,
+>
+> or with a person who, not being a public body, has functions of a public nature or engages in activities of that nature and the purpose or effect of the agreement is to facilitate discharge by that person of those functions or that person’s engagement in those activities.
+>
+> (1C) The restriction in subsection (1A) does not prevent a local authority from entering into an agreement where the likely result of doing so would be that the income referred to in that subsection will exceed the limit there referred to if the Scottish Ministers give prior consent to the authority doing so.
+>
+> (1D) In subsection (1A) above—
+>
+> (a) the “commercial services” income of a local authority is that part of their income which—
+>
+> (i) is derived from agreements entered into for all or any of the purposes set out in subsection (1) above and is, in accordance with proper accounting practices, credited to a trading account kept by the authority for a trading operation;
+>
+> (ii) is derived from relevant dividends; or
+>
+> (iii) is derived from relevant profit sharing agreements; and
+>
+> (b) the “statutory limit” for a trading operation is such amount as the Scottish Ministers may, by order, fix.
+>
+> (1E) For the purposes of subsection (1D) above—
+>
+> “relevant dividend” means a dividend paid by a body corporate which carries on operations which, if they were carried on by the authority to which the dividend is paid, would be relevant trading operations;
+>
+> “relevant profit sharing agreement” means an agreement between a local authority and a body corporate which carries on such operations in terms of which the body corporate undertakes to pay to the authority a proportion of any income which it derives from carrying out those operations.
+>
+> (1F) An amount so fixed may be expressed as a fraction of any other amount specified or referred to in the order.
+>
+> (1G) Different amounts may be so fixed for different trading operations or classes of trading operation, and an amount may be so fixed for all trading operations.
+>
+> (1H) Where, for any trading operation, no amount has been so fixed, the prohibition in subsection (1A) above applies, the condition of its application set out in that subsection being ignored.
+>
+> (1I) If, however, in the case of a trading operation for which no amount has been fixed, the Scottish Ministers give prior consent to a local authority entering into an agreement under subsection (1) above in relation to that trading operation, that prohibition does not apply.
+>
+> (1J) An order under subsection (1D)(b) above shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+>
+> (1K) Before making such an order, the Scottish Ministers shall consult such persons as they think fit.
+>
+> (1L) The circumstances referred to in paragraph (c) of subsection (1B) above are that the local authority considers that the provision of the goods or services under the contract mentioned in that paragraph will be facilitated if the person who has entered into the contract is within that paragraph.
+>
+> (1M) A local authority shall, before entering any such agreement as is referred to in subsection (1) above, have regard to whether doing so will be likely to promote or improve the well-being of—
+>
+> (a) their area and persons within that area;
+>
+> (b) either of those.
+>
+> (1N) For the purposes of subsection (1M) above, “well-being” is to be construed in the same way as it is construed for the purposes of section 20 of the Local Government in Scotland Act 2003 (asp 1).
+>
+> (1O) References in this section to a trading operation are, in relation to a local authority, references to a trading operation for which, in accordance with proper accounting practices (within the meaning of section 12 of the Local Government in Scotland Act 2003 (asp 1)) the authority keep trading accounts.
+>
+> (1P) The reference in subsection (1) above to a relevant trading operation is a reference to a trading operation which is carried on for the purpose of enabling a local authority to raise money, by borrowing or otherwise.
+
+;
+
+(c) in subsection (2)—
+
+(i) for the words “preceding subsection” there is substituted “ subsection (1) above ”;
+
+(ii) paragraph (a) and the word “or” which immediately follows it are repealed;
+
+(iii) after “property” there is inserted “ , goods or materials ”; and
+
+(iv) after “except” there is inserted “ (i) ” and at the end there is inserted
+
+> ;
+>
+> (ii) for the purpose of enabling the authority to supply the property, goods or materials or, as the case may be, provide the service to another authority;
+>
+> (iii) in the case of the supply of goods or materials, where that supply is for the purpose of, or is incidental to the purpose of, enabling the authority to supply property or, as the case may be, provide a service; or
+>
+> (iv) in any other case, where the Scottish Ministers have consented to the supply or provision.
+
+;
+
+(d) in subsection (4)—
+
+(i) the definitions of “public body” and “works of maintenance” are repealed; and
+
+(ii) in their place there is inserted—
+
+“property” includes land, accommodation, vehicles, plant and apparatus;”; and
+
+(e) subsections (5) and (6) are repealed.
+
+(3) In section 2 (supplemental)—
+
+(a) in subsection (1) for “public body” there is substituted “ person ”; and
+
+(b) subsections (4) and (5) are repealed.
+
+#### 9 Special provision for local authority contracts for construction of buildings or works (prospective)
+
+(1) A local authority may, in accordance with regulations made under this section, enter into an agreement with any person for the construction or maintenance by the authority of any buildings or works.
+
+(2) The Scottish Ministers may make regulations—
+
+(a) restricting the exercise of the power under subsection (1) above by reference to the likely gross expenditure of the local authority in any financial year occasioned by its exercise of the power when taken together with the likely gross expenditure of the authority in that year on—
+
+(i) all other construction of building or works; and
+
+(ii) all works of maintenance of land or buildings,
+
+undertaken by the authority, and
+
+(b) otherwise prescribing how local authorities are to exercise the power.
+
+(3) Those regulations may, under subsection (2)(b) above, provide that any code or other document referred to in the regulation is to have effect for the purpose of regulating the exercise of the power under subsection (1) above.
+
+(4) Those regulations may include provision for the making of reports to the Scottish Ministers and to the public on the exercise of the power under subsection (1) above.
+
+(5) Those regulations may make different provision for different authorities or different classes of authority.
+
+(6) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(7) Before making any such regulations, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+#### 10 Trading operations and accounts
+
+(1) It is the duty of a local authority to conduct each of its significant trading operations so that, as respects that operation—
+
+(a) in relation to every three year period; and
+
+(b) taking every year with the two previous years,
+
+revenue is not less than expenditure.
+
+(2) In subsection (1) above, the references to a local authority’s significant trading operations are references to those of its trading operations for which it must, in accordance with proper accounting practices, disclose trading accounts and, in this subsection, “proper accounting practices” is to be construed in accordance with section 12(2) below.
+
+### Disposal of land for less than full value
+
+#### 11 Disposal of land by local authorities for less than full value
+
+(1) In section 74 of the 1973 Act—
+
+(a) in subsection (2) (prohibition of disposal of land for less than best consideration reasonably obtainable except with consent) for the words “with the consent of the Secretary of State,” there is substituted “ in accordance with regulations under subsection (2C) below, ”;
+
+(b) after subsection (2) there are inserted the following subsections—
+
+> (2A) Subsection (2) does not extend to a disposal where—
+>
+> (a) the best consideration that can reasonably be obtained is less than the threshold amount; or
+>
+> (b) the difference between that consideration and the proposed consideration is less than the marginal amount.
+>
+> (2B) The Scottish Ministers shall, by regulations, fix the threshold amount and the marginal amount for the purposes of subsection (2A) above.
+>
+> (2C) The Scottish Ministers may, by regulations, provide as to the circumstances in which and procedure by which local authorities may, under this section, dispose of land for a consideration less than the best that can reasonably be obtained.
+>
+> (2D) Those regulations may include provision—
+>
+> (a) requiring a local authority proposing to dispose of land at less than the best consideration that can reasonably be obtained to appraise and compare the costs and other disbenefits and the benefits of the proposal;
+>
+> (b) requiring the local authority, before deciding in favour of the proposal, to be satisfied that so deciding would be reasonable; and
+>
+> (c) setting out factors to which the local authority must have regard when considering whether its decision would be reasonable.
+>
+> (2E) References in this section to the best consideration that can reasonably be obtained by a local authority are references to that consideration as assessed by a suitably qualified valuer.
+>
+> (2F) In appointing and instructing a suitably qualified valuer for the purposes of subsection (2E) above, the local authority shall have regard to any guidance provided by the Scottish Ministers on—
+>
+> (a) what are suitable qualifications;
+>
+> (b) what factors are to be or not to be taken into account by the valuer in assessing the consideration referred to in that subsection.
+>
+> (2G) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+>
+> (2H) Before making such regulations, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+.
+
+(2) [^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounts, finance and performance accountability
+
+#### 12 Proper accounting practices
+
+(1) It is the duty of a local authority to observe proper accounting practices.
+
+(2) In subsection (1) above and in paragraph (b) of section 99 (auditor to be satisfied that proper accounting practices have been observed) of the 1973 Act, the references to proper accounting practices are references to accounting practices which fall within one or more of the following—
+
+(a) those which the local authority is required to observe by virtue of any enactment;
+
+(b) those which have been specified in guidance issued for the purposes of this section and that section by the Scottish Ministers;
+
+(c) those which, whether by reference to any generally recognised, published code or otherwise, are regarded as proper accounting practices to be observed in the preparation and publication of accounts of local authorities.
+
+(3) In the event of a conflict in any respect between the practices within paragraph (a) of subsection (2) above and those within paragraph (b) or (c) of that subsection, only those within paragraph (a) are to be regarded as proper accounting practices in that respect, and in the event of a conflict in any respect between those within paragraph (b) and paragraph (c) of that subsection, only those within paragraph (b) are, in that respect, to be so regarded.
+
+#### 13 Publication by local authorities of information about finance and performance
+
+(1) It is the duty of a local authority to make arrangements for the reporting to the public of the outcome of the performance of its functions.
+
+(2) Subject to subsections (3) and (6) below, it is for the local authority to determine the form, content and frequency of and time limits for reports made under subsection (1) above, to whom they are to be given and by what means they are to be published or made available to members of the public.
+
+(3) The Scottish Ministers may, by regulations, make provision governing any of the matters set out in subsection (2) above.
+
+(4) Such regulations shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(5) Before making such regulations, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+(6) Such regulations may include provision—
+
+(a) for a summary of the local authority’s assets and their value, its sources of income, the amounts derived from those sources, and its expenditures to be included in that which is to be reported under subsection (1) above;
+
+(b) for the local authority’s trading accounts or a summary thereof to be included in that which is to be reported under subsection (1) above;
+
+(c) for a summary of the authority’s expenditure under such works contracts as may be specified in the regulations to be included in that which is to be reported under subsection (1) above;
+
+(d) for the publication of the information which is to be provided under section 1 (power of Accounts Commission to direct publication of information about standards of performance) of the Local Government Act 1992 (c. 19), to be included in that which is to be reported under subsection (1) above; and
+
+(e) for—
+
+(i) a statement setting out the arrangements the local authority had in place under section 1 above during the financial year immediately preceding that in which the statement is made and describing what it did under those arrangements and to what effect, including an account of how what it did contributed to the achievement of sustainable development;
+
+(ii) a statement specifying by what means and when the local authority proposes to carry out its duties under this section during the remainder of the year in which the statement is made; and
+
+(iii) a statement specifying any unimplemented recommendations about the performance of the authority’s functions made to the authority by any person discharging a power or duty under an enactment to make the recommendation,
+
+to be included in that which is to be reported under subsection (1) above.
+
+(7) The Scottish Ministers may issue guidance to local authorities on how those authorities might carry out their functions under this section.
+
+(8) Before doing so, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+(9) In section 1 (Accounts Commission’s power to direct publication of information about the activities, in a financial year of local authorities etc.) of the Local Government Act 1992 (c. 19)—
+
+(a) in subsection (1)—
+
+(i) after “year”, where first occurring, there is inserted “ or such other period as is specified in the direction being a period beginning not less than 3 months after the giving of the direction ”;
+
+(ii) after “effectiveness” there is inserted “ and of securing best value in accordance with section 1 of the Local Government in Scotland Act 2003 (asp 1) ”;
+
+(iii) after “year”, where secondly occurring, there is inserted “ or other period ”;
+
+(iv) after “years”, there is inserted “ or, as the case may be, other periods ”;
+
+(b) in subsection (2), after “year”, in each place where that word occurs, there is inserted “ or other period ”.
+
+(10) In section 2 (further provisions about directions) of that Act—
+
+(a) in subsection (1)(a), after “years” there is inserted “ or other periods ”; and
+
+(b) in subsection (4) there is inserted at the end “ or, where another period has, under section 1(1) above, been specified in the direction, than such date as is there specified for the purposes of this subsection. ”.
+
+#### 14 Application of this Part to other bodies
+
+This Part of this Act applies also to those bodies to which Part VII (finance) of the 1973 Act applies by virtue of section 106(1) of that Act (application to committees, joint committees and joint boards the members of which are appointed by local authorities and to charities etc. the trustees of which are local authorities or their members).
+
+## [^F3]Part 2 — Community planning
+
+### [^F3]15 Community planning
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F3]16 Community planning: further provision
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F3]17 Reports and information
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F3]18 Guidance
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F3]19 Establishment of corporate bodies to co-ordinate and further community planning etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Power to advance well-being
+
+### 20 Power to advance well-being
+
+(1) A local authority has power to do anything which it considers is likely to promote or improve the well-being of—
+
+(a) its area and persons within that area; or
+
+(b) either of those.
+
+(2) The power under subsection (1) above includes power to—
+
+(a) incur expenditure,
+
+(b) give financial assistance to any person,
+
+(c) enter into arrangements or agreements with any person,
+
+(d) co-operate with, or facilitate or co-ordinate the activities of, any person,
+
+(e) exercise on behalf of any person any functions of that person, and
+
+(f) provide staff, goods, materials, facilities, services or property to any person.
+
+(3) The power under subsection (1) above may be exercised in relation to, or for the benefit of—
+
+(a) the whole or any part of the area of the local authority;
+
+(b) all or some of the persons within that area.
+
+(4) The power under subsection (1) above includes power to do anything—
+
+(a) in relation to, or for the benefit of, any persons or place outwith the area of the local authority; or
+
+(b) in any such place,
+
+if the authority considers that doing so is likely to achieve the purpose set out in that subsection.
+
+(5) The Scottish Ministers may, by order, extend the meaning of “well-being” for the purposes of this section.
+
+(6) Such an order shall be made by statutory instrument but not unless a draft of it has been laid before and approved by resolution of the Scottish Parliament.
+
+(7) Before laying such a statutory instrument, the Scottish Ministers shall consult such associations of local authorities as they think fit.
+
+### 21 Guidance on exercise of power under section 20
+
+(1) Before exercising the power under section 20 above, a local authority shall have regard to any guidance provided by the Scottish Ministers about the exercise of the power.
+
+(2) Before providing any such guidance, the Scottish Ministers shall consult such associations of local authorities and other persons as they think fit.
+
+### 22 Limits on power under section 20
+
+(1) The power under section 20 above does not enable a local authority to do anything which it is, by virtue of a limiting provision, unable to do.
+
+(2) In subsection (1) above, a “limiting provision” is one which—
+
+(a) prohibits or prevents the local authority from doing anything or limits its powers in that respect; and
+
+(b) is expressed in an enactment (whenever passed or made).
+
+(3) The absence from any enactment of provision conferring any power does not of itself make that enactment a limiting provision.
+
+(4) The power under section 20 above shall not be exercised in a way which unreasonably duplicates anything which may or must be done in pursuance of a function, under any enactment (whenever passed or made), of a person other than the local authority.
+
+(5) Subsection (4) above does not prevent the exercise of the power under section 20 in a way which duplicates anything of the kind mentioned in that subsection if the person there mentioned consents to that exercise of the power.
+
+(6) The power under section 20 above does not enable the doing of anything which may be done under the Local Authorities (Goods and Services) Act 1970 (c. 39).
+
+(7) The power under section 20 above does not enable a local authority to do anything for the purposes of enabling the authority to raise money by levying or imposing any form of tax or charge, by borrowing or otherwise.
+
+(8) Nothing in subsection (7) above prevents a local authority from—
+
+(a) setting and determining amounts of council tax; or
+
+(b) subject to subsection (9) below, imposing reasonable charges for anything done by the authority under section 20 above.
+
+(9) [^F4]... the saving in subsection (8)(b) above does not enable a local authority to impose charges in respect of anything done by it in pursuance of any of the following functions—
+
+(a) functions relating to education in schools;
+
+(b) functions relating to the provision of a public library service;
+
+[^F5]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) functions relating to the registration of elections;
+
+(e) functions relating to the conduct of elections;
+
+(f) such other functions as may by order be prescribed for the purposes of this subsection by the Scottish Ministers.
+
+(10) Before making an order under subsection (9)(f) above, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+(11) Where, under section 20 above, a local authority imposes any charge, it shall publish its reason for doing so and an explanation of how it arrived at the amount of the charge.
+
+(12) Any order under subsection (9)(f) above shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(13) A local authority shall not, without the prior consent of the Scottish Ministers, do anything under section 20 above outside the United Kingdom for the purpose of promoting or improving the economic development of its area.
+
+(14) Nothing in section 20 above affects section 92(5) of the Housing (Scotland) Act 2001 (asp 10) (by which it is provided that certain assistance, including financial assistance, provided by a local authority for certain housing purposes requires the consent of the Scottish Ministers).
+
+## Part 4 — Enforcement and scrutiny
+
+### 23 Enforcement: preliminary notice
+
+(1) Where, on a recommendation having been made to them under section 103D of the 1973 Act as applied by section 4 above, it appears to the Scottish Ministers—
+
+(a) that a local authority is not complying or has not complied with its duties under section 1, 13, 15 or, as the case may be, 17 above; and
+
+(b) that an enforcement notice is justified,
+
+they may service a preliminary notice on the authority.
+
+(2) Where, without a recommendation having been so made to them, it appears to Scottish Ministers—
+
+(a) that a local authority is not complying or has not complied with section 1; and
+
+(b) that giving the local authority an enforcement direction is justified in order to protect the public interest from substantial harm,
+
+they may serve a preliminary notice on the authority.
+
+(3) A preliminary notice is a written notice which—
+
+(a) informs the authority of its apparent failure to comply with its duties under sections 1, 13, 15 or, as the case may be, 17 above; and
+
+(b) requires the authority to submit to the Scottish Ministers, within such time as is specified in the notice, a written response which—
+
+(i) states that it has not failed to comply with its duties under section 1, 13, 15 or, as the case may be, 17 above in the respects described in the notice and justifies the statement; or
+
+(ii) states it has so failed but gives reasons why they should not give it an enforcement direction.
+
+### 24 Enforcement directions
+
+(1) Where, following the service of a preliminary notice and the expiry of the time specified in it under section 23(3)(b) above, it still appears to the Scottish Ministers that the local authority is not complying with its duties under section 1, 13, 15 or, as the case may be, 17 above and that action by them under this section is justified they may give the authority an enforcement direction.
+
+(2) An enforcement direction is a direction by the Scottish Ministers requiring the local authority to which it is given to take such action as is specified in the direction being action calculated to remedy or prevent the recurrence of its failure to comply with its duties under section 1, 13, 15 or, as the case may be, 17 above.
+
+(3) An enforcement direction may place such conditions as the Scottish Ministers may specify in it upon the carrying out of such functions of the local authority as are so specified.
+
+(4) The action referred to in subsection (2) above may include rectification of accounts.
+
+(5) The Scottish Ministers may vary an enforcement direction by giving a further such direction.
+
+(6) A further such direction need not proceed upon a further preliminary notice under section 23 above.
+
+(7) An enforcement direction may be revoked by the Scottish Ministers.
+
+(8) It is the duty of the local authority to which an enforcement direction is given to comply with it.
+
+(9) The Scottish Ministers may, instead of or as well as giving an enforcement direction, make such recommendations to such persons as they think appropriate.
+
+(10) If the Scottish Ministers exercise their power to give, vary or revoke an enforcement direction they shall—
+
+(a) prepare a report on their exercise of that power; and
+
+(b) lay that report before the Scottish Parliament.
+
+### [^F6]25 Scrutiny of local authorities' police and fire functions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26 Excess of power: preliminary notice
+
+(1) If it appears to the Scottish Ministers—
+
+(a) that a local authority has significantly exceeded its power under section 20 above; and
+
+(b) that giving the local authority an enforcement direction is justified,
+
+they may serve a preliminary notice on the authority.
+
+(2) A preliminary notice is a written notice which—
+
+(a) informs the authority of the apparent excess of power; and
+
+(b) requires the authority to submit to the Scottish Ministers, within such time as is specified in the notice, a written response which—
+
+(i) states that it has not significantly exceeded the power in the respects described in the notice and justifies the statement; or
+
+(ii) states it has so exceeded the power but gives reasons why they should not give a direction under subsection (3) below.
+
+(3) Where, following the service of a preliminary notice and the expiry of the time specified in it under subsection (2)(b) above, it still appears to the Scottish Ministers that the local authority is significantly exceeding the power and that action by them under this section is justified, they may give the authority an enforcement direction.
+
+### 27 Excess of power: enforcement
+
+(1) An enforcement direction is a direction by the Scottish Ministers requiring the local authority to which it is given to take such action as is specified in the direction being action calculated to remedy or prevent the recurrence of its significant excess of power.
+
+(2) An enforcement direction may place such conditions as the Scottish Ministers may specify in it upon the carrying out of such functions of the local authority as are so specified.
+
+(3) The action referred to in subsection (1) above may include rectification of accounts.
+
+(4) The Scottish Ministers may vary an enforcement direction by giving a further such direction.
+
+(5) A further such direction need not proceed upon a further preliminary notice under section 26 above.
+
+(6) An enforcement direction may be revoked by the Scottish Ministers.
+
+(7) It is the duty of the local authority to which an enforcement direction is given to comply with it.
+
+(8) If the Scottish Ministers exercise their power to give, vary or revoke an enforcement direction they shall—
+
+(a) prepare a report on their exercise of that power; and
+
+(b) lay that report before the Scottish Parliament.
+
+## Part 5 — Rating and council tax
+
+### 28 Rate relief on former agricultural premises etc.
+
+(1) In section 5 of the Local Government and Rating Act 1997 (c. 29) (which provides that Schedule 2 to that Act (which gives rate relief for certain lands and heritages in rural settlements) is to have effect), the words “in rural settlements” are repealed.
+
+(2) In section 8(2) of that Act (procedure for orders under that Schedule), after “3(2)(c)(ii)” there is inserted “ and 3A(9) ”.
+
+(3) After paragraph 3 of that Schedule there is inserted—
+
+> **3A**
+>
+> (1) For any period (“the relevant period”) in a financial year beginning on or after 1st April 2003 where sub-paragraph (2) applies to lands and heritages, the non-domestic rate leviable in respect of the lands and heritages is to be one half of the non-domestic rate which would have been leviable apart from this paragraph.
+>
+> (2) This sub-paragraph applies where—
+>
+> (a) the rateable value of the lands and heritages shown in the valuation roll at the beginning of the financial year in which the relevant period falls is not more than any amount prescribed by the Scottish Ministers by order,
+>
+> (b) the lands and heritages consist wholly or mainly of land or a building which, on at least 183 days during the period of one year which ends immediately before this sub-paragraph comes into effect, was (or was, by virtue of any enactment, treated as being) agricultural lands and heritages for the purposes of section 7(3) (no agricultural lands and heritages to be entered in the valuation roll) of the Valuation and Rating (Scotland) Act 1956 (c. 60), and
+>
+> (c) during the relevant period, the land or building—
+>
+> (i) is not (and is not, by virtue of any enactment, treated as being) agricultural lands and heritages for those purposes, and
+>
+> (ii) is occupied by a relevant person.
+>
+> (3) For the purposes of sub-paragraph (2)(b)—
+>
+> (a) any part of the lands and heritages which was, on the days which are taken into account for the purposes of determining whether the condition set out in that sub-paragraph is met, a dwelling (within the meaning of Part II (council tax) of the Local Government Finance Act 1992 (c. 14)) is to be disregarded for the purposes of determining whether that condition is met, and
+>
+> (b) a building which has replaced a building which was, on those days, an agricultural building (within the meaning of section 7(2) of that Act of 1956) is to be treated as if it were the original building.
+>
+> (4) For the purposes of sub-paragraph (2)(c), land or a building is occupied by a relevant person if it is occupied by—
+>
+> (a) the person who occupied the land or building on the days which are taken into account for the purposes of determining whether the condition set out in sub-paragraph (2)(b) is met, or
+>
+> (b) a member of that person’s family.
+>
+> (5) If the land or building was occupied, on the days which are taken into account for the purposes of determining whether the condition set out in sub-paragraph (2)(b) is met, by a body corporate or a partnership, the reference in subsection (4)(a) above to a person is to be treated as a reference to—
+>
+> (a) any person who, on each of those days, had (alone or together with members of that person’s family)—
+>
+> (i) more than half the voting rights in the company, or
+>
+> (ii) the right to appoint or remove a majority of the directors of the company, or, as the case may be
+>
+> (b) any person who, together with members of that person’s family, were, on each of those days, both, all or a majority of the partners in the partnership.
+>
+> (6) In determining, for the purposes of sub-paragraph (4)(b) or (5), whether a person is a member of the same family as another—
+>
+> (a) a person is to be so treated if that person is—
+>
+> (i) the spouse or a brother or sister of the spouse,
+>
+> (ii) a parent or other ascendant or child (or step-child) or other descendant,
+>
+> (iii) a brother or sister or the spouse of a brother or sister, or
+>
+> (iv) an uncle, aunt, niece, nephew or cousin,
+>
+> of the other, and
+>
+> (b) a person is to be treated as another’s spouse if they live together—
+>
+> (i) as if they were husband and wife, or
+>
+> (ii) in a relationship which has the characteristics of the relationship between husband and wife except that the persons are of the same gender.
+>
+> (7) Sub-paragraph (2) does not apply to land and heritages during any period in which section 7B (rate relief for certain buildings used for breeding or rearing horses) of that Act of 1956 applies in relation to the land and heritages.
+>
+> (8) Subject to sub-paragraph (9), this paragraph ceases to have effect at the end of the period of five years beginning with the day on which this paragraph comes into effect.
+>
+> (9) The Scottish Ministers may by order extend or further extend the period mentioned in sub-paragraph (8).
+>
+> (10) If the period is extended or further extended sub-paragraph (2) does not apply to lands and heritages after the end of the period of five years beginning with the day on which it first applied to the lands and heritages.
+
+.
+
+(4) In paragraph 4 (discretionary rate relief) of that Schedule—
+
+(a) in sub-paragraph (1), for the words “the condition mentioned in sub-paragraph (2) applies to the lands and heritages” there is substituted “ any of the conditions mentioned in sub-paragraphs (2) to (2B) applies ”;
+
+(b) in sub-paragraph (2), for the words “The condition” there is substituted “ The first of those conditions ”;
+
+(c) after that sub-paragraph there is inserted—
+
+> (2A) The second of those conditions is that paragraph 3A(2) applies in relation to the lands and heritages.
+>
+> (2B) The third of those conditions is that—
+>
+> (a) section 7B (rate relief for certain buildings used for breeding or rearing horses) of that Act of 1956 applies in relation to the lands and heritages,
+>
+> (b) that section did not apply in relation to the lands and heritages before 1st April 2003, and
+>
+> (c) the rateable value of the lands and heritages shown in the valuation roll at the beginning of the financial year is not more than any amount prescribed by the Scottish Ministers by order.
+
+; and
+
+(d) after sub-paragraph (3) there is inserted—
+
+> (4) The amendments to this paragraph made by section 28 of the Local Government in Scotland Act 2003 (asp 1) (which allow discretionary relief to be given to certain former agricultural premises and certain buildings used for breeding or rearing horses) are to have effect only as respects financial years beginning on or after 1st April 2003.
+
+.
+
+### 29 Rate relief for food stores in rural settlements
+
+In paragraph 3 (mandatory rate relief for general stores etc. in rural settlements) of that Schedule—
+
+(a) in sub-paragraph (2)(c)(i), after the word “store” there is inserted “ , qualifying food store ”;
+
+(b) after sub-paragraph (3) there is inserted—
+
+> (3A) The whole or part of lands and heritages is used as a qualifying food store for any period in a financial year if a trade or business consisting wholly or mainly of the sale by retail of food for human consumption (excluding confectionery and excluding the supply of food in the course of catering) is carried on there.
+>
+> (3B) In subsection (3A) above, the supply of food in the course of catering includes—
+>
+> (a) any supply of food for consumption on the premises on which it is supplied; and
+>
+> (b) any supply of hot food for consumption off those premises;
+>
+> and for the purposes of paragraph (b) above “hot food” means food which, or any part of which—
+>
+> (i) has been heated for the purposes of enabling it to be consumed at a temperature above the ambient air temperature; and
+>
+> (ii) is at the time of supply above that temperature.
+
+; and
+
+(c) after sub-paragraph (5) there is inserted—
+
+> (6) The amendments to this paragraph made by section 29 of the Local Government in Scotland Act 2003 (asp 1) (which extend mandatory relief to certain food stores) are to have effect only as respects financial years beginning on or after 1st April 2003.
+
+.
+
+### 30 Derating of automatic telling machine sites
+
+After section 8B of the Valuation and Rating (Scotland) Act 1956 (c. 60) there is inserted—
+
+> **8C Exclusion of automatic telling machine sites from valuation roll**
+>
+> (1) There shall not, subject to subsection (2) of this section, be entered in the valuation roll for any year beginning on or after 1st April 2003 any lands or heritages which—
+>
+> (a) are within a settlement identified in a rating authority’s rural settlement list (compiled and maintained under paragraph 1 of Schedule 2 to the Local Government and Rating Act 1997 (c. 29)) having effect in the year; and
+>
+> (b) consist of a building, or any part of a building, which is used only for purposes connected with the use of an automatic telling machine situated therein.
+>
+> (2) Subsection (1) of this section does not apply in relation to a building, or any part of a building, occupied by the bank or building society to which the automatic telling machine situated therein relates if that bank or building society otherwise provides services in that building or that part of that building.
+>
+> (3) For the purposes of this section, an “automatic telling machine” is a machine which provides automatic telling and other services on behalf of a bank or building society.
+
+.
+
+### 31 Derating of certain buildings used in connection with agricultural operations
+
+In section 14 (which provides that certain buildings used in connection with agricultural operations are not to be entered on the valuation roll) of the Local Government (Financial Provisions) (Scotland) Act 1963 (c. 12)—
+
+(a) in subsection (1)(a), the words “being agricultural land occupied by that person,” are repealed;
+
+(b) in subsection (2)(b)—
+
+(i) the word “for” is repealed; and
+
+(ii) for the words from “occupied”, where it first occurs, to “land”, where it second occurs, there is substituted “ is to be treated as a reference to such land only so far as it is ”;
+
+(c) in subsection (3), the words “not more than twenty” are repealed; and
+
+(d) after subsection (4) there is inserted—
+
+> (5) The amendments to subsections (1)(a) and (2)(b) (which removed, in relation to persons but not in relation to associations, the requirement that the building must be used in connection with agricultural operations on land occupied by the occupier of the building) and (3) above (which removed the upper limit of members of an association) made by section 31 of the Local Government in Scotland Act 2003 (asp 1) are to have effect only as respects the year 2003-04 and subsequent years.
+
+.
+
+### 32 Power to combine lands and heritages situated in more than one valuation area
+
+(1) In section 6A (power of Scottish Ministers to combine and divide lands and heritages) of the Valuation and Rating (Scotland) Act 1956 (c. 60)—
+
+(a) in subsection (1)(a), after the word “entry” there is inserted—
+
+> (aa) lands and heritages so specified which would, apart from the order, be treated as justifying separate entries in two or more valuation rolls shall, subject to subsection (1B)(b) below, be treated as if they justified only one entry in a single valuation roll;
+
+; and
+
+(b) after subsection (1A) there is inserted—
+
+> (1B) An order specifying lands and heritages for the purposes of paragraph (aa) of subsection (1) above may provide that the lands and heritages are to be entered—
+>
+> (a) in the valuation roll for the area of the rating authority specified in the order; or
+>
+> (b) subject to subsection (1C) below, in each of the valuation rolls in which they would, apart from the order, be entered separately at a proportion, calculated in the manner set out in the order, of the rateable value assessed by virtue of paragraph (aa) above.
+>
+> (1C) An order specifying lands and heritages for the purposes of paragraph (aa) of subsection (1) above may not permit a rateable value assessed by virtue of paragraph (aa) above to be apportioned so as to cause the total of the apportioned values to amount to a value other than the rateable value so assessed.
+>
+> (1D) Before making an order specifying lands and heritages for the purposes of paragraph (aa) of subsection (1) above, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think appropriate.
+
+.
+
+(2) In section 27 (valuation areas and appointment of assessors etc.) of the Local Government etc. (Scotland) Act 1994 (c. 39)—
+
+(a) after subsection (6) there is inserted—
+
+> (6A) The Scottish Ministers may, if lands and heritages specified in an order made under section 6A(1)(aa) of the Valuation and Rating (Scotland) Act 1956 (c. 60) (power of Scottish Ministers to combine lands and heritages) are situated in more than one valuation area, provide, by order, that an assessor appointed by a valuation authority is to—
+>
+> (a) value those lands and heritages; and
+>
+> (b) if the order under that section of that Act so requires, apportion their rateable value in the manner set out in the order.
+>
+> (6B) An order under subsection (6A) above may include such incidental, consequential and supplemental provision as the Scottish Ministers consider necessary or expedient for bringing the order into operation and for giving full effect thereto.
+>
+> (6C) Without prejudice to the generality of subsections (6A) and (6B) above, an order under subsection (6A) above may provide—
+>
+> (a) that the assessor to whom the order relates is, for the purposes of giving effect to the order, to have such powers in relation to each valuation area in which there is situated lands and heritages to be valued in pursuance of the order as he has in relation to the area of the valuation authority which appointed him; and
+>
+> (b) that a valuation appeal committee constituted in relation to the area of the local authority which appointed the assessor may hear and determine appeals and complaints under the Valuation Acts in relation to the assessment of the lands and heritages to be valued in pursuance of the order.
+>
+> (6D) Before making an order under subsection (6A) above, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think appropriate.
+
+; and
+
+(b) for the words “this section”, where they appear in subsections (8), (9) and (10), there is substituted “ subsection (7) above ”.
+
+### 33 Council tax: [[^F7]variation] for unoccupied dwellings
+
+(1) The Scottish Ministers may, by regulations—
+
+[^F8]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) provide [^F9]... that the amount of council tax payable in respect of a chargeable dwelling and any day is to be subject to a [[^F10]variation] if, on that day, there is no resident of the dwelling and for the calculation of the amount of that [[^F10]variation].
+
+[^F11]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Regulations made under paragraph (b) of subsection (1) above may, in particular—
+
+(a) provide in relation to some circumstances in which there is no resident of a chargeable dwelling but not in relation to others;
+
+(b) confer on local authorities powers—
+
+[^F12]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) to modify the application of the regulations within their respective areas so that [[^F13]a different amount of variation, or no variation, applies] in relation to some circumstances in which there is no resident of a chargeable dwelling but not in relation to others (and to make different modifications for different cases or different classes of case, including for different areas);
+
+(c) make different provision for different cases or different classes of case, including different provision for different areas or for different local authorities.
+
+[[^F14](2A) Regulations under subsection (1) may not provide (or allow provision to be made by local authorities) for unoccupied dwellings owned by a local authority or a registered social landlord to be treated more favourably than other unoccupied dwellings solely on the ground of that ownership.]
+
+(3) The circumstances referred to in subsections (2)(a) and (b)(ii) above include—
+
+(a) those deriving from the use to which a chargeable dwelling is put; and
+
+(b) the personal circumstances of the owner of the dwelling.
+
+(4) A power conferred under subsection (2)(b)(ii) above may not permit local authorities to modify regulations under this section so as to [[^F15]—
+
+[^F16]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) contravene any limits that may be specified in the regulations.]
+
+[[^F17](4A) If regulations under subsection (1) confer on local authorities a power under subsection (2)(b)(ii), the regulations may provide that, in exercising the power, a local authority must have regard to any guidance issued by the Scottish Ministers about the exercise of the power.]
+
+(5) Expressions used in this section and in section 79 of the Local Government Finance Act 1992 (c. 14) have in this section the same meaning as they have in that one.
+
+(6) Regulations under this section shall be made by statutory instrument but no such regulations shall be made unless a draft of them has been approved by a resolution of the Scottish Parliament.
+
+(7) Before making such regulations, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+## Part 6 — Waste management
+
+### 34 Integrated waste management plans
+
+(1) After section 44 of the Environmental Protection Act 1990 (c. 43) there is inserted—
+
+> **Integrated waste management plans: Scotland**
+>
+> **44ZA Duty to prepare integrated waste management plan**
+>
+> (1) It shall be the duty of a local authority to—
+>
+> (a) prepare an integrated waste management plan; and
+>
+> (b) submit it to the Scottish Ministers for approval.
+>
+> (2) An integrated waste management plan is a plan which—
+>
+> (a) sets out, by reference to policies contained in the National Waste Strategy, how the local authority intends to carry out its functions as waste disposal authority and waste collection authority (its “waste management functions”); and
+>
+> (b) without prejudice to the generality of paragraph (a) above, contains statements on such matters relating to the carrying out of those functions as the Scottish Ministers may specify in directions.
+>
+> (3) Directions under subsection (2)(b) above may, in particular, require integrated waste management plans to include statements setting out—
+>
+> (a) levels of performance (“performance targets”) which the local authority shall, in performing its waste management functions, endeavour to meet;
+>
+> (b) steps which the local authority proposes to take in endeavouring to meet performance targets;
+>
+> (c) arrangements which the local authority proposes to enter into with one or more other local authorities for the purpose of securing co-operation, in the carrying out of their respective waste management functions, between the local authorities.
+>
+> (4) Integrated waste management plans shall—
+>
+> (a) be prepared, and submitted, under subsection (1) above by such date; and
+>
+> (b) relate to such period of time,
+>
+> as the Scottish Ministers may direct.
+>
+> (5) A local authority shall, in preparing its integrated waste management plan, have regard to such matters as the Scottish Ministers may direct.
+>
+> (6) In this section, and in sections 44ZB to 44ZD below—
+>
+> - “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+> - “National Waste Strategy” means the strategy prepared by SEPA under section 44B below, as modified from time to time; and
+> - “SEPA” means the Scottish Environment Protection Agency.
+>
+> **44ZB Approval of integrated waste management plan**
+>
+> (1) The Scottish Ministers shall—
+>
+> (a) approve an integrated waste management plan submitted to them under section 44ZA(1)(b) above without modification;
+>
+> (b) approve the plan with such modifications as they consider appropriate; or
+>
+> (c) refuse to approve the plan.
+>
+> (2) If the Scottish Ministers refuse to approve a plan which has been so submitted they shall—
+>
+> (a) notify the local authority in writing of that fact; and
+>
+> (b) require the local authority to prepare and submit, by such date as the Scottish Ministers may specify, a further integrated waste management plan.
+>
+> (3) The Scottish Ministers shall—
+>
+> (a) approve an integrated waste management plan submitted to them under subsection (2)(b) above without modification; or
+>
+> (b) approve the plan with such modifications as they consider appropriate.
+>
+> (4) The Scottish Ministers shall—
+>
+> (a) give written notice of their approval, under subsection (1) or (3) above, of an integrated waste management plan to the local authority; and
+>
+> (b) if they have modified the plan, send a copy of the plan as modified to the local authority.
+>
+> (5) The local authority shall, on receipt of notice given under subsection (4)(a) above—
+>
+> (a) give public notice of the approved integrated waste management plan; and
+>
+> (b) send a copy of it to SEPA.
+>
+> (6) It shall be the duty of a local authority to make arrangements for allowing any person to—
+>
+> (a) inspect its approved integrated waste management plan at its principal offices at any reasonable time;
+>
+> (b) obtain a copy of it, or any part of it, on payment of such reasonable fee (if any) as the local authority may determine.
+>
+> **44ZC Implementation of integrated waste management plan**
+>
+> (1) It shall be the duty of a local authority—
+>
+> (a) to endeavour to carry out its waste management functions in accordance with its approved integrated waste management plan; and
+>
+> (b) if requested by the Scottish Ministers, to provide the Scottish Ministers, by the date specified in their request, with a statement setting out whether the local authority is so carrying out its waste management functions.
+>
+> (2) A statement provided under subsection (1)(b) above shall contain such information as the Scottish Ministers may direct.
+>
+> (3) Directions under subsection (2) above may, in particular, require a local authority to—
+>
+> (a) advise whether it has met, or is likely to meet, any performance targets set out in the plan; and
+>
+> (b) if it has not done so, or is not likely to do so, explain why it considers the performance targets have not been, or are not likely to be, met.
+>
+> **44ZD Modification of integrated waste management plan**
+>
+> (1) A local authority—
+>
+> (a) may, from time to time; and
+>
+> (b) shall, if requested by the Scottish Ministers,
+>
+> modify its integrated waste management plan and submit it, as modified, to the Scottish Ministers for approval.
+>
+> (2) Sections 44ZA to 44ZC apply in relation to a plan which is modified as they apply in relation to a plan prepared and submitted under section 44ZA(1) above.
+
+.
+
+(2) Section 49(waste recycling plans) of that Act of 1990 is repealed.
+
+## Part 7 — Finance
+
+### 35 Capital expenditure limits
+
+(1) It is the duty of a local authority to determine and keep under review the maximum amount which it can afford to allocate to capital expenditure.
+
+(2) In discharging that duty, the local authority shall comply with regulations made by the Scottish Ministers for the purposes of this section.
+
+(3) Those regulations may, in particular, make provision—
+
+(a) prescribing when and in respect of what period determinations under subsection (1) above are to be made;
+
+(b) prescribing how those determinations are to be arrived at and any considerations to which regard is to be had in arriving at them;
+
+(c) prescribing how local authorities are to keep those determinations under review under subsection (1) above and any considerations to which they must have regard in doing so;
+
+(d) requiring local authorities to make to the Scottish Ministers such reports containing such information as is prescribed by the regulations;
+
+(e) requiring the amount determined under subsection (1) above and factors on which the determination was based to be subjected to such process of audit as is prescribed by the regulations;
+
+(f) requiring information about that amount and those factors to be published,
+
+and they may make different provision for different cases or different classes of case.
+
+(4) The considerations referred to in paragraphs (b) and (c) above may include codes of practice referred to in the regulations.
+
+### 36 Imposition of capital expenditure limits
+
+(1) The Scottish Ministers may—
+
+(a) by order, set the maximum amounts which local authorities may allocate to capital expenditure;
+
+(b) by direction, set the maximum amounts which a particular local authority may allocate to capital expenditure.
+
+(2) A maximum amount set under subsection (1) above supersedes any corresponding amount determined under section 35 above.
+
+(3) Different amounts may be set under subsection (1) above in relation to different kinds of capital expenditure.
+
+(4) As soon as practicable after the making of an order or direction under subsection (1) above, the Scottish Ministers shall lay before the Scottish Parliament a report containing information about the effect of the order or, as the case may be, direction and the reasons for making it.
+
+### 37 Capital grants
+
+(1) The Scottish Ministers may make grants to local authorities in respect of their capital expenditure.
+
+(2) Grants made under this section shall be of such amount and may be made subject to such conditions (including conditions requiring their repayment in specified circumstances) as the Scottish Ministers may determine.
+
+### 38 Scottish Ministers' power to pay off loans made to local authorities
+
+(1) The Scottish Ministers may make to the [[^F18]Treasury, in respect of a local loan made under section 3 of the National Loans Act 1968,] or to any other person payment reducing or extinguishing a local authority’s liability to the [[^F19]Treasury] or, as the case may be, that other person in respect of a loan made by the [[^F19]Treasury] or that other person to the authority for the purposes of capital expenditure.
+
+(2) If the Scottish Ministers make a payment in pursuance of subsection (1) above they shall—
+
+(a) prepare a report on their reasons for making that payment; and
+
+(b) lay that report before the Scottish Parliament.
+
+### 39 Provisions supplementary to sections 35 to 38
+
+(1) In sections 35 to 38 above, references to capital expenditure are, in relation to a local authority, references to that expenditure of the authority which, in accordance with proper accounting practices, falls to be capitalised.
+
+(2) In subsection (1) above, “proper accounting practices” is to be construed in accordance with section 12 above.
+
+(3) Sections 35 to 38 above apply to the bodies to which Part VII (finance) of the 1973 Act applies by virtue of section 106(1)(b) of that Act (application of Part VII of that Act to trustees of charities etc. where those trustees are local authorities or members of local authorities) as they apply to local authorities.
+
+(4) The Scottish Ministers may, by order, apply sections 35 to 38 to such other persons, being persons having functions appearing to those Ministers to be similar to those of local authorities, as they think fit.
+
+(5) Before making regulations under section 35 or an order under this section, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+(6) Regulations made under section 35 above and orders made under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+### 40 Power of local authorities to invest money
+
+(1) A local authority may, in accordance with regulations made under this section, invest money.
+
+(2) The Scottish Ministers may make regulations—
+
+(a) specifying (by reference or otherwise) the investments or kinds of investments which a local authority may, or may not, make;
+
+(b) providing that any code or other document containing guidance or advice specified or referred to in the regulations is to have effect for the purpose of regulating the investments or kinds of investments which a local authority may, or may not, make;
+
+(c) providing for the amendment, disapplication or repeal of any enactment relating to the subject matter of the regulations.
+
+(3) Those regulations may make different provision—
+
+(a) for investments for different purposes;
+
+(b) for different local authorities or classes of local authority.
+
+(4) Those regulations may impose requirements as to the obtaining by a local authority of consent to its doing of anything in pursuance of the power conferred on it by virtue of this section.
+
+(5) Those regulations shall be made by statutory instrument which shall, subject to subsection (6) below, be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(6) No such regulations containing provisions which amend, disapply or repeal any part of the text of an Act are to be made unless a draft of the instrument containing them has been approved by resolution of the Scottish Parliament.
+
+(7) Before making any such regulations, the Scottish Ministers shall consult such associations of local authorities and such other persons as they think fit.
+
+### 41 Establishment of local authority funds other than general fund: setting of council tax
+
+(1) In section 93 of the 1973 Act—
+
+(a) in subsection (2) (sums which need not be paid into or out of a local authority’s general fund) there is inserted at the end—
+
+> (d) with respect to which regulations made by the Scottish Ministers provide that they be paid into or out of a fund (other than the general fund) established by the local authority for the purposes of this paragraph.
+
+; and
+
+(b) after that subsection there is inserted—
+
+> (3) A statutory instrument containing regulations under subsection (2)(d) above shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+.
+
+(2) In section 93 of the Local Government Finance Act 1992 (c. 14)—
+
+(a) in subsection (4) (calculation of the part of a local authority’s expenses falling to be met out of council tax) there is inserted at the end “ but not of any amounts in such fund (other than the local authority’s general fund) as is established by the authority under regulations made for the purposes of this subsection. ”; and
+
+(b) after that subsection there is inserted—
+
+> (5) Regulations made under subsection (4) above shall specify what kind of sums are to be paid into or out of the fund established under the regulations.
+
+.
+
+## Part 8 — Miscellaneous
+
+### 42 Paid time off for councillors not to be political donation
+
+(1) In paragraph 4 (matters that are not donations) of Schedule 7 to the Political Parties, Elections and Referendums Act 2000 (c. 41)—
+
+(a) after sub-paragraph (1)(a) there is inserted—
+
+> (aa) remuneration allowed to an employee by his employer if the employee is a member of a local authority and the remuneration is in respect of time the employer permits the employee to take off during the employee’s working hours for qualifying business—
+>
+> (i) of the authority,
+>
+> (ii) of any other body to which the employee is appointed by, or is appointed following nomination by, the authority or a group of bodies that includes the authority, or
+>
+> (iii) of any other body if it is a public body;
+
+; and
+
+(b) after sub-paragraph (3) there is inserted—
+
+> (4) In sub-paragraph (1)(aa)—
+>
+> “employee” and “employer” have the same meaning as in the Employment Rights Act 1996 (c. 18);
+>
+> “local authority” means a local authority in any part of the United Kingdom, including the Common Council of the City of London but excluding a parish or community council;
+>
+> “working hours” of an employee has the same meaning as in section 50 of the Employment Rights Act 1996; and
+>
+> “qualifying business”, in relation to a body, means—
+>
+> (a) the doing of anything for the discharge of the functions of the body or of any of its committees or sub-committees, and
+>
+> (b) where the body is a local authority operating executive arrangements within the meaning of Part 2 of the Local Government Act 2000 (c. 22) and arrangements exist for functions of any other body to be discharged by the authority’s executive or any committee or member of the executive, the doing of any other thing for the purpose of the discharge of the functions.
+
+.
+
+(2) Subsection (1) above shall be deemed to have come into force on 16th February 2001.
+
+(3) The Electoral Commission shall remove from the register kept by it under section 69 (register of recordable donations) of that Act of 2000 any entry that they would not have been required to make had subsection (1) above actually been in force throughout the period beginning with 16th February 2001 and ending on the day immediately before the day on which this subsection comes into force.
+
+### 43 Remote participation in and calling of local authority meetings
+
+(1) The meetings of a local authority and its committees, including joint committees, and sub-committees thereof may (as well as being conducted in the way in which they have been conducted before the commencement of this section, that is to say, by all members being present together in a pre-determined place) be conducted in any other way in which each member is enabled to participate although not present with others in such a place.
+
+(2) A meeting shall be conducted by virtue of subsection (1) above, however, only on the direction of the convener, whom failing, the deputy convener of the authority, committee or, as the case may be, sub-committee.
+
+(3) Schedule 7 (meetings and proceedings of local authorities) to the 1973 Act has effect in relation to meetings so conducted as if—
+
+(a) paragraph 1(3) (place of meetings) and the reference in paragraph 2(1)(a) to the place of an intended meeting were omitted; and
+
+(b) the references in paragraphs 3 to 7 and 10 to the presence of members were references to their participation in a meeting so conducted.
+
+(4) In paragraph 2 of that Schedule, in each of sub-paragraphs (1)(b) and (2)(b), the words “by post” are repealed.
+
+### 44 Travel concessions
+
+(1) In section 93(7) of the Transport Act 1985 (c. 67) (persons eligible for travel concessions), for paragraph (a) there is substituted—
+
+> (a) persons who have attained the age of 60 years;
+
+.
+
+(2) In section 68 of the Transport (Scotland) Act 2001 (asp 2) (travel concession schemes), in subsection (7), for paragraph (a) of the definition of “eligible person” there is substituted—
+
+> (a) has attained the age of 60 years;
+
+.
+
+(3) The Scottish Ministers may by order provide that on and after 6th April 2010 for the references to the age of 60 years in the paragraphs substituted by subsections (1) and (2) above there are substituted references to—
+
+(a) in the case of a woman, her pensionable age;
+
+(b) in the case of a man, the pensionable age of a woman born on the same day,
+
+- “pensionable age” having the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995 (c. 26).
+
+(4) An order under subsection (3) above shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+### 45 Power to charge for vacant places on school buses etc.
+
+(1) In subsection (2) (duty to allow certain pupils to use vacant places) of section 51 of the Education (Scotland) Act 1980 (c. 44), the words “without charge” are repealed.
+
+(2) After that subsection, there is inserted—
+
+> (2AA) An education authority may—
+>
+> (a) subject to subsection (2BB) below, charge the parent of a pupil using a vacant place by virtue of subsection (2) above such sum as the authority consider appropriate; or
+>
+> (b) allow a vacant place to be so used without charge,
+>
+> and the authority may make different charges for different cases or different classes of case.
+>
+> (2BB) An education authority may not charge any sum under subsection (2AA)(a) above unless, having had regard to the financial circumstances of the parent to be charged, the authority consider that the charge can be paid by the parent without undue hardship.
+
+.
+
+### 46 Power to provide funds for speed cameras etc.
+
+(1) The Scottish Ministers may make payments in respect of the whole or any part of the expenditure of a local authority [^F20]... in relation to—
+
+(a) the prevention or detection of offences to which subsection (2) below applies; or
+
+(b) any enforcement action or proceedings in respect of such offences or any alleged such offences.
+
+(2) This subsection applies to offences under—
+
+(a) section 16 of the Road Traffic Regulation Act 1984 (c. 27) which consist of contraventions of restrictions on the speed of vehicles imposed under section 14 (temporary restrictions) of that Act;
+
+(b) subsection (4) of section 17 (traffic regulation on special roads) of that Act which consist of contraventions of restrictions on the speed of vehicles imposed in regulations made under subsection (2) of that section;
+
+(c) section 88(7) (temporary minimum speed limits) of that Act;
+
+(d) section 89(1) (speeding offences generally) of that Act;
+
+(e) section 36(1) (compliance with traffic signs) of the Road Traffic Act 1988 (c. 52) which consist of failure to comply with an indication given by a light signal that vehicular traffic is not to proceed.
+
+(3) Payments under this section shall be made to—
+
+(a) the authority [^F21]... in respect of whose expenditure the payments are being made; or
+
+(b) any other authority [^F22]... for payment, in accordance with arrangements agreed with the Scottish Ministers, to, or on behalf of, the authority [^F22]... in respect of whose expenditure the payments are being made.
+
+(4) Payments under this section shall be paid at such times, in such manner and subject to such conditions as the Scottish Ministers may determine.
+
+### 47 Power to provide funds for private water supplies
+
+(1) It is the duty of a local authority to make grants to eligible persons for the purpose of enabling them to improve their private water supply or to provide themselves with a private water supply.
+
+(2) In this section—
+
+- “eligible persons” are such persons as are or persons of such class as is prescribed by regulations; and
+- “private water supply” means a supply of water (including an abstraction of water from a source situated on the premises in which it is used or consumed) other than a supply provided by Scottish Water in pursuance of its core functions (within the meaning of section 70(2) of the Water Industry (Scotland) Act 2002 (asp 3)).
+
+(3) The Scottish Ministers may, by regulations—
+
+(a) prescribe the conditions which may, must, or must not be imposed in relation to grants made under this section;
+
+(b) prescribe the procedures which must be followed by eligible persons in making applications for those grants and by local authorities when considering such applications and making payments of those grants;
+
+(c) provide for the payment of those grants, in such cases as are specified in the regulations, to persons other than the applicants;
+
+(d) provide for the calculation of those grants;
+
+(e) fix, or provide for the fixing of, maximum amounts for those grants;
+
+(f) provide for the delegation of any function of a local authority under this section to any person specified , or referred to, in the regulations;
+
+(g) repeal, or suspend the effect of, subsection (1) above;
+
+(h) make provision incidental or supplemental to that made under paragraphs (a) to (g) above.
+
+(4) Regulations under this section may make different provision for different cases or different classes of case.
+
+(5) The power to make regulations under this section is exercisable by statutory instrument which shall, subject to subsection (6) below, be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(6) No regulations under this section which repeal, or suspend the effect of, subsection (1) above are to be made unless a draft of the instrument containing them has been approved by resolution of the Scottish Parliament.
+
+(7) The Scottish Ministers shall make grants to local authorities in respect of their expenditure reasonably incurred in making grants under this section.
+
+### 48 Delegation of Strathclyde Passenger Transport Authority functions to officials
+
+In paragraph 7 of Part II of Schedule 5 to the Local Government etc. (Scotland) Act 1994 (c. 39) (which paragraph enables certain orders made in relation to the Strathclyde Passenger Transport Authority to provide for the delegation of functions of the Authority to a committee or to its chairman), for “or to the chairman” there is inserted “ , to the chairman or to an officer or member of staff ”.
+
+### 49 Parliamentary procedure for regulations about vehicles used as taxis and private hire cars
+
+In section 20 (regulations about, among other things, taxis and private hire cars) of the Civic Government (Scotland) Act 1982 (c. 45)—
+
+(a) in subsection (2), the words “made by statutory instrument” are repealed; and
+
+(b) in subsection (3), for “subsection (1) above” there is substituted “ subsection (1) or (2) above ”.
+
+### 50 Suspension of requirement to advertise principal teacher posts
+
+[^F23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 51 Arrangements and agreements with bodies corporate
+
+(1) It is the duty of a local authority—
+
+(a) in entering any arrangement or agreement with a body corporate; and
+
+(b) in implementing any such arrangement or agreement,
+
+to comply with any code or other document which the Scottish Ministers direct is to have effect for the purposes of regulating local authorities in entering and implementing such arrangements or agreements.
+
+(2) Directions for the purposes of subsection (1) above may include requirements calculated to ensure compliance by local authorities with their duties under section 1 above.
+
+### 52 Guidance on contractual matters
+
+It is the duty of a local authority, in exercising a power to enter into a contract, to have regard to any guidance issued to it by the Scottish Ministers in that respect.
+
+### 53 Qualification of and assistance for Accounts Commission auditors
+
+(1) In section 97 of the 1973 Act, in subsection (7) (qualification of auditors appointed by Accounts Commission), for paragraph (b) there is substituted—
+
+> (b) he is a member of a body of accountants established in the United Kingdom or another EEA State.
+
+.
+
+(2) After that subsection there is inserted—
+
+> (7A) In subsection (7) above, “EEA State” means any State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992, as adjusted by the Protocol signed at Brussels on 17th March 1993.
+
+.
+
+(3) Auditors appointed under section 97 of the 1973 Act by the Accounts Commission (whether or not officers of the Commission) may be assisted by having such of their functions as may be specified in arrangements approved by the Commission carried out by other persons so specified or so referred to.
+
+(4) Such arrangements may apply generally or to a particular case or cases.
+
+### 54 Accounts Commission’s and auditor’s powers to obtain information from persons other than local authorities etc.
+
+(1) In section 97B(1) (power of Accounts Commission to require the furnishing of information and documents) of the 1973 Act—
+
+(a) after “require”, where first occurring, there is inserted “ (a) ”; and
+
+(b) after “body”, where secondly occurring, there is inserted
+
+> ;
+>
+> (b) any person who, by arrangement or agreement with any such body, is discharging any function of the body,
+
+.
+
+(2) In section 100 (auditor’s right of access to documents) of that Act—
+
+(a) in subsection (1B)—
+
+(i) after “Act” there is inserted “ and any person who, by arrangement or agreement with the authority or body, is discharging any function of the authority or body ”; and
+
+(ii) at the end there is inserted “ or, where that person is a body corporate, to require that person to appoint a representative to attend before the auditor for that purpose. ”;
+
+(b) in subsection (2), at the end, there is inserted “ and every person who, by arrangement or agreement with a local authority, is discharging any function of the authority shall make that provision for the purpose of the auditing of the authority’s accounts. ”.
+
+### 55 Auditor’s duty in relation to aspects of best value and community planning
+
+(1) Section 99 (duties of auditors) of the 1973 Act is renumbered as subsection (1) of that section and, in that subsection, in paragraph (c), for the words from “economy” onward there is substituted “ best value and is complying with its duties under sections 15 to 17 (community planning) of the Local Government in Scotland Act 2003 (asp 1). ”.
+
+(2) After that subsection there is inserted—
+
+> (2) In subsection (1) above, the references to best value and arrangements for securing it are references to best value within the meaning of section 1 of the Local Government in Scotland Act 2003 (asp 1) and the arrangements for securing it which are to be made under that section.
+
+.
+
+### 56 Extension of Controller of Audit’s reporting functions to best value and community planning: amendment of section 102 of 1973 Act
+
+For subsections (1) and (2) of section 102 (reports by Controller of Audit) of the 1973 Act there is substituted—
+
+> (1) The Controller of Audit may and, if so required by the Commission, shall make reports to the Commission with respect to—
+>
+> (a) the accounts of local authorities audited under this Part of this Act;
+>
+> (b) any matters arising from the accounts of any of those authorities or from the auditing of those accounts being matters that the Controller considers should be considered by the local authority or brought to the attention of the public;
+>
+> (c) the performance by a local authority of their duties under Part 1 (best value and accountability) and Part 2 (community planning) of the Local Government in Scotland Act 2003 (asp 1).
+>
+> (2) The Controller of Audit shall send a copy of a report made under subsection (1) above to—
+>
+> (a) any local authority named in the report; and
+>
+> (b) any other person the Controller thinks fit.
+
+.
+
+## Part 9 — General
+
+### 57 Power to modify enactments
+
+(1) The Scottish Ministers may, by order, amend, repeal, revoke or disapply any enactment to which this section applies.
+
+(2) This section applies to—
+
+(a) any enactment which the Scottish Ministers consider prevents local authorities from discharging their duty under section 1(1) [[^F24]or 13(1)] above or hinders them in that discharge;
+
+[^F25]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) any enactment which the Scottish Ministers consider prevents local authorities from exercising their power under section 20(1) above.
+
+(3) The power under subsection (1) above may be exercised in relation to—
+
+(a) all authorities, bodies or other persons as respects which and whom it may be exercised;
+
+(b) any class or classes of such authorities, bodies or persons; or
+
+(c) a particular such authority, body or person.
+
+(4) The power under subsection (1) above includes power to amend or disapply an enactment for a specified period.
+
+(5) An order under this section shall be made by statutory instrument.
+
+(6) No such order shall be made unless the statutory instrument has been laid in draft before and approved by resolution of the Scottish Parliament.
+
+### 58 Ancillary provision
+
+(1) The Scottish Ministers may by order made by statutory instrument make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes or in consequence of this Act.
+
+(2) Such an order may modify any enactment, instrument or document.
+
+(3) A statutory instrument containing such an order shall, subject to subsection (4) below, be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(4) No such order containing provisions which add to, replace or omit any part of the text of an Act is to be made unless a draft of the instrument containing it has been approved by resolution of the Scottish Parliament.
+
+(5) Any power of the Scottish Ministers to make orders or regulations under this Act includes power to make such incidental, supplemental, consequential, transitional, transitory or saving provision as the Scottish Ministers think necessary or expedient.
+
+### 59 Equal opportunities
+
+(1) The Scottish Ministers, local authorities, the authorities, bodies, office holders and other persons mentioned in section 16(1) of this Act and any other person discharging functions under this Act shall discharge those functions in a manner which encourages equal opportunities and, in particular, the observance of the equal opportunity requirements.
+
+(2) The duty imposed by subsection (1) above on a local authority is, in relation to its functions under section 1 above, additional to that set out in subsection (1) of that section.
+
+(3) In subsection (1) above, “equal opportunities” and “equal opportunity requirements” have the same meanings as in Section L2 of Part II of Schedule 5 to the Scotland Act 1998 (c. 46).
+
+### 60 Repeals and consequential amendments
+
+(1) The following enactments are repealed—
+
+(a) in section 83 (general power of local authorities to incur expenditure) of the 1973 Act, subsections (1), (2), (2C), (2D) and (4) to (7) and, in subsection (3), the words “subject as aforesaid”;
+
+(b) section 94 (capital expenses of local authorities) of that Act;
+
+(c) section 122A(duty of local authorities to use resources efficiently) of that Act;
+
+(d) sections 171A, 171B and 171C(promotion by local authorities of economic development of its area) of that Act;
+
+(e) Part III (direct labour organisations) of the Local Government, Planning and Land Act 1980 (c. 65);
+
+(f) Part I (competition in certain local authority activities) and sections 32 (direct labour organisations) and 33 (local authority companies) of and Schedule 6 to the Local Government Act 1988 (c. 9);
+
+(g) section 31 (National Code of Local Government Conduct) of the Local Government and Housing Act 1989 (c. 42);
+
+(h) sections 1A (permitted methods of publishing information about performance) and 8 to 11 (competition and competitive tendering) of and Schedule 1 to the Local Government Act 1992 (c. 19);
+
+(i) in section 188 (acquisition of land by planning authority by agreement) of the Town and Country Planning (Scotland) Act 1997 (c. 8), subsection (3);
+
+(j) in section 189 (compulsory acquisition of land by local authority) of that Act, subsection (8).
+
+(2) In section 9A(4)(b) of the Transport Act 1968 (c. 73) (application of sections 89 to 92 of the Transport Act 1985 to Passenger Transport Executives), for the words “sections 89 to” there is substituted “ section ”.
+
+(3) The Transport Act 1985 (c. 67) is amended as follows—
+
+(a) in section 63(5)(b) (limitations on agreements for service subsidies), for the words “sections 89 to” there is substituted “ section ”;
+
+(b) in section 88(1) (limitations on agreements for service subsidies), for the words “sections 89 to” there is substituted “ section ”; and
+
+(c) sections 89 to 91(obligation on local authorities to invite tenders for subsidised transport services) are repealed.
+
+### 61 Definitions
+
+In this Act—
+
+[^F26]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F27]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) “local authority” means—
+
+(i) in Part 1, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39) and the Strathclyde Passenger Transport Authority;
+
+(ii) in Parts 2, 5 and 8 (other than sections 51 and 52 above) and section 25 above, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+
+(iii) in Part 3 [^F28]. . . , a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^F29]... [^F30]...;
+
+(iv) in Parts 4 (other than section 25 above) and 7, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^F29]..., a joint police board [[^F31], a Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12)] and the Strathclyde Passenger Transport Authority;
+
+[[^F32](iva) in sections 51 and 52 above, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^F29]..., a joint police board and a Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12); ]
+
+(v) in each of those provisions of this Part which refer to provisions of other Parts, the same meaning as it has in those respective provisions of those other Parts;
+
+(d) the “1973 Act” means the Local Government (Scotland) Act 1973 (c. 65).
+
+### 62 Short title and commencement
+
+(1) This Act may be cited as the Local Government in Scotland Act 2003.
+
+(2) This Act (except this section, section 42(1) and (2) and section 50 above) comes into force on such day as the Scottish Ministers may by order made by statutory instrument appoint; and different days may be so appointed for different purposes.
+
+(3) Such an order may include such transitional, transitory or saving provision in connection with the coming into force of the provisions brought into force as the Scottish Ministers think fit.
+
+---
+
+[^F1]: Words in s. 7(3) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), ss. 58, 59, Sch. 6 para. 25 (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^F2]: S. 11(2) repealed (2.8.2005) by Fire (Scotland) Act 2005 (asp 5), ss. 89(2), 90, {sch. 4) (with s. 77)}; S.S.I. 2005/392, art. 2(k)
+[^F3]: Pt. 2 repealed (20.12.2016) by Community Empowerment (Scotland) Act 2015 (asp 6), s. 142(1), sch. 5; S.S.I. 2016/410, art. 2(b)
+[^F4]: Words in s. 22(9) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F5]: S. 22(9)(c) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F6]: S. 25 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 3; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F7]: Word in the title of s. 33 substituted (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(7), 5(1)
+[^F8]: S. 33(1)(a) repealed (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(2)(a), 5(1)
+[^F9]: Words in s. 33(1)(b) repealed (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(2)(b)(i), 5(1)
+[^F10]: Words in s. 33(1)(b) substituted (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(2)(b)(ii), 5(1)
+[^F11]: S. 33(1A) repealed (12.1.2026) by Housing (Scotland) Act 2025 (asp 13), ss. 75(2)(a), 86(2); S.S.I. 2025/408, reg. 2(a)
+[^F12]: S. 33(2)(b)(i) repealed (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(4)(a), 5(1)
+[^F13]: Words in s. 33(2)(b)(ii) substituted (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(4)(b), 5(1)
+[^F14]: S. 33(2A) inserted (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(5), 5(1)
+[^F15]: S. 33(4)(a)(b) substituted (5.12.2012) by Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11), ss. 2(6), 5(1)
+[^F16]: S. 33(4)(a) repealed (12.1.2026) by Housing (Scotland) Act 2025 (asp 13), ss. 75(2)(b), 86(2); S.S.I. 2025/408, reg. 2(a)
+[^F17]: S. 33(4A) inserted (12.1.2026) by Housing (Scotland) Act 2025 (asp 13), ss. 75(2)(c), 86(2); S.S.I. 2025/408, reg. 2(a)
+[^F18]: Words in s. 38(1) substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 85(2)(a) (with art. 9)
+[^F19]: Word in s. 38(1) substituted (25.2.2020) by The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176), art. 1(2), Sch. 1 para. 85(2)(b) (with art. 9)
+[^F20]: Words in s. 46(1) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F21]: Words in s. 46(3)(a) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F22]: Words in s. 46(3)(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F23]: S. 50 repealed (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), ss. 23, 24(2), sch.; S.S.I. 2007/31, art. 2(b), Sch. 2
+[^F24]: Words in s. 57(2)(a) substituted (20.12.2016) by Community Empowerment (Scotland) Act 2015 (asp 6), s. 142(1), sch. 4 para. 7; S.S.I. 2016/410, art. 2(a)
+[^F25]: S. 57(2)(b) repealed (20.12.2016) by Community Empowerment (Scotland) Act 2015 (asp 6), s. 142(1), sch. 5; S.S.I. 2016/410, art. 2(b)
+[^F26]: S. 61(a) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F27]: S. 61(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F28]: Words in s. 61(c)(iii) repealed (10.10.2005) by Transport (Scotland) Act 2005 (asp 12), ss. 4, 54(2), sch. 1 para. 16(5)(a); S.S.I. 2005/454, art. 2, Sch. 2
+[^F29]: Words in s. 61(c) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F30]: Words in s. 61(c)(iii) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F31]: Words in s. 61(c)(iv) inserted (10.10.2005) by Transport (Scotland) Act 2005 (asp 12), ss. 4, 54(2), sch. 1 para. 15(5); S.S.I. 2005/454, art. 2, Sch. 2
+[^F32]: S. 61(c)(iva) inserted (10.10.2005) by Transport (Scotland) Act 2005 (asp 12), ss. 4, 54(2), sch. 1 para. 16(5)(b); S.S.I. 2005/454, art. 2, Sch. 2

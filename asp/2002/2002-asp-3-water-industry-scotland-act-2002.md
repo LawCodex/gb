@@ -1,0 +1,4629 @@
+---
+title: "Water Industry (Scotland) Act 2002"
+identifier: "asp/2002/3"
+citation: "2002 asp 3"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2002-03-01
+last_amended: 2026-03-18
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2002/3"
+source_modified: 2026-04-15
+retrieved: 2026-10-11
+---
+
+# Water Industry (Scotland) Act 2002
+
+**2002 asp 3**
+
+An Act of the Scottish Parliament to make further provision in relation to the Water Industry Commissioner for Scotland and to provide for the establishment of Water Customer Consultation Panels; to make further provision in relation to the regulation of the quality of drinking water; to make provision for the establishment of Scottish Water, the transfer to Scottish Water of the functions of the water and sewerage authorities established by section 62(1) of the Local Government
+
+etc.
+
+(Scotland) Act 1994 and the dissolution of those authorities and in relation to the functions of Scottish Water; to make further amendments of the law relating to water and sewerage; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 14th February 2002 and received Royal Assent on 1st March 2002
+
+## Part 1 — Water Industry Commissioner and [[^F1]the representation of consumers]
+
+### 1 [[^F2]Water Industry Commission for Scotland
+
+(1) There is established a body to be known as the Water Industry Commission for Scotland (referred to in this Act as “the Commission”).
+
+(2) The Commission has the general function of promoting the interests of persons (taken as a whole) whose premises—
+
+(a) are connected to the public water supply system or the public sewerage system (within the meaning of Part 2 of the Water Services etc. (Scotland) Act 2005 (asp 3)) or both, or
+
+(b) might reasonably become connected to either or both of those systems,
+
+relating to the provision to them of water and sewerage services.
+
+(3) The Scottish Ministers may, after consulting the Commission, give the Commission directions of a general or specific character as to the financial management or administration of the Commission; and the Commission must comply with any such directions.
+
+(4) Schedule A1 makes further provision about the Commission.]
+
+### [^F3]2 Water Customer Consultation Panels
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2A [[^F4][[^F5]Citizens Advice Scotland] representations
+
+(1) This section applies where [[^F6]Citizens Advice Scotland] has exercised a function under section 8(1) of the Consumers, Estate Agents and Redress Act 2007 (c. 17) (representative functions) in relation to the activities of Scottish Water.
+
+(2) The persons listed in subsection (4) must have regard to any advice, information, proposal or representation made to them by [[^F7]Citizens Advice Scotland] under section 8(1) of that Act.
+
+(3) Any persons listed in subsection (4) to whom a proposal is made under section 8(1)(b) of that Act must, within 6 months of receipt, publish a summary of their responses to the proposal.
+
+(4) The persons are—
+
+(a) the Scottish Ministers,
+
+(b) Scottish Water,
+
+(c) the Water Industry Commission,
+
+(d) the Drinking Water Quality Regulator for Scotland,
+
+(e) the Scottish Environment Protection Agency.]
+
+### 3 Functions of the Commissioner
+
+[^F8]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The [[^F9]Commission] is to advise the Scottish Ministers on any matter which appears to the [[^F9]Commission] or to them to relate to—
+
+(a) the standard of service provided by Scottish Water to [[^F10]persons whose premises are connected to the public water supply system or the public sewerage system (within the meaning of Part 2 of the Water Services etc. (Scotland) Act 2005 (asp 3)) or both] , or
+
+(b) the manner in which [[^F11]Scottish Water conducts its relations with those persons or persons whose premises have been, or might reasonably become, connected to either or both of those systems] ,
+
+in the exercise of its core functions.
+
+(7) The [[^F9]Commission] has power to do anything which is calculated to facilitate, or is incidental or conducive to, the exercise of the [[^F9]Commission's] functions.
+
+### 4 Power of the Commissioner to require information
+
+(1) Scottish Water must, on being requested to do so by the [[^F12]Commission], provide the [[^F12]Commission] with such information held by it as the [[^F12]Commission] may reasonably seek in the exercise of the [[^F12]Commission's] functions.
+
+[[^F13](2) Subsection (1) does not authorise the Commission to require the disclosure of anything which a person would be entitled to refuse to disclose on grounds of confidentiality in proceedings in the Court of Session.
+
+(3) Where Scottish Water considers that it is entitled to withhold information from the Commission—
+
+(a) because it is not reasonably sought, or
+
+(b) by virtue of subsection (2),
+
+it must intimate that fact to the Commission in writing.]
+
+[[^F14](4) Scottish Water must comply with any direction given to it by the Commission under section 25(5) of the Consumers, Estate Agents and Redress Act 2007 (enforcement by regulator of notice to provide [[^F15]Citizens Advice Scotland] [[^F16]or Consumer Scotland] with information).]
+
+### 5 Annual reports by, and information from, the Commissioner
+
+(1) The [[^F17]Commission] must—
+
+(a) as soon as practicable after the end of each financial year, submit to the Scottish Ministers, and publish, a report on the exercise of the [[^F17]Commission's] functions during that year, and
+
+(b) provide the Scottish Ministers with such information regarding the exercise of those functions as they may require.
+
+(2) A report under subsection (1)(a) must include a summary of—
+
+(a) action taken by the [[^F17]Commission] during the year to which the report relates in response [[^F18]to—
+
+(i) any [[^F19]advice, information or representation made to it by [[^F20]Citizens Advice Scotland] under section 8(1)(a) or (c) of the Consumers, Estate Agents and Redress Act 2007 (representative functions)] , and
+
+(ii) any [[^F21]proposals made to it under section 8(1)(b) of that Act]] , and
+
+(b) where the [[^F17]Commission] has decided during that year not to take any action in response to any such [[^F22]advice, information, proposal or] representation [^F23]... [^F24]..., the reasons for that decision.
+
+(3) A report under subsection (1)(a) must set out any directions under section 1 which have been given to the [[^F17]Commission] during the period to which the report relates.
+
+[[^F25](4) The Scottish Ministers must lay before the Parliament a copy of each report submitted to them under subsection (1)(a).]
+
+### 6 Funding of the [[^F26]Commission] [[^F27]and [[^F28]Consumer Scotland]]
+
+(1) The Scottish Ministers may make grants to the [[^F26]Commission] in respect of the [[^F26]Commission's] expenses.
+
+(2) Scottish Water must make to the [[^F26]Commission], in respect of the [[^F26]Commission's] expenses, payments of such amounts, and at such times, as the Scottish Ministers may direct.
+
+[[^F29](2A) Scottish Water must make to [[^F30]Consumer Scotland], in respect of [[^F31]Consumer Scotland’s] expenses (as respects its activities relating to Scottish Water), payments of such amounts, and at such times, as the Scottish Ministers may direct.
+
+(2B) Before making a direction under subsection (2A), the Scottish Ministers must consult [[^F32]Consumer Scotland].]
+
+### [^F33]6A Convener of Customer Panels to investigate complaints
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F34]6B Annual reports and information regarding Customer Panels
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F35]6C Co-operation between the Commission and Customer Panels
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Drinking Water Quality Regulator
+
+### Appointment
+
+#### 7 Drinking Water Quality Regulator for Scotland
+
+(1) The Scottish Ministers may appoint a person to be known as the Drinking Water Quality Regulator for Scotland (in this Part referred to as the “Regulator”) to exercise the functions conferred on the Regulator by this Part.
+
+(2) The Regulator is to have the general functions of—
+
+(a) seeking to ensure that the drinking water quality duties imposed on a public water supplier are complied with, and
+
+(b) supervising the enforcement by local authorities of the drinking water quality duties which it is their responsibility to enforce.
+
+(3) Any person authorised by the Regulator for the purpose (an “authorised person”) may exercise, on behalf of the Regulator, any function of the Regulator.
+
+(4) In relation to the exercise by an authorised person of a function of the Regulator which that person is authorised to exercise, references in this Part to the Regulator are, so far as necessary, to be construed as, or as including, references to the authorised person.
+
+(5) An authorisation given for the purposes of subsection (3) does not prevent the Regulator from exercising any function to which the authorisation relates.
+
+(6) The Scottish Ministers may, after consulting the Regulator, give the Regulator directions of a general or specific character as to the exercise of the Regulator’s functions; and the Regulator must comply with any such direction.
+
+(7) In this Part—
+
+- “drinking water quality duty” means a duty in relation to the quality of water imposed on a water supplier by, under or by virtue of—
+
+  - (a) Part VIA of the 1980 Act,
+  - (b) this Act, or
+  - (c) such other enactment relating to the quality of water supplied by a water supplier as the Scottish Ministers may by order specify,
+
+- “public water supplier” means Scottish Water.
+
+### Public water suppliers: general powers of Regulator
+
+#### 8 Power to obtain information
+
+(1) The Regulator may serve on a person a notice requiring the person—
+
+(a) to provide the Regulator, or a person authorised by the Regulator, at a time and place and in the form and manner specified in the notice, with such information relating to the quality of water supplied by a public water supplier as may be specified or described in the notice, or
+
+(b) to produce to the Regulator, or to a person authorised by the Regulator, at a time and a place specified in the notice, any documents relating to that matter which are specified or described in the notice and are in that person’s custody or under that person’s control.
+
+(2) A notice under subsection (1) may be served on—
+
+(a) the public water supplier,
+
+(b) an officer or employee of the public water supplier,
+
+(c) any other person whom the Regulator has reason to believe is or may be in possession of relevant information or documents.
+
+(3) Nothing in this section authorises the Regulator to require the disclosure of anything which a person would be entitled to refuse to disclose on grounds of confidentiality in proceedings in the Court of Session.
+
+(4) References in this section to a document are to anything in which information of any description is recorded; and in relation to a document in which information is recorded otherwise than in legible form, references to producing it are to producing it in legible form.
+
+(5) Where by virtue of this section documents are produced to any person, that person may take copies of or make extracts from them.
+
+(6) A person who—
+
+(a) refuses or fails, without reasonable excuse, to do anything required of that person by a notice under subsection (1), or
+
+(b) intentionally alters, suppresses or destroys a document which that person has been required by such a notice to produce,
+
+is guilty of an offence.
+
+(7) A person guilty of an offence under subsection (6) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum,
+
+(b) on conviction on indictment, to a fine.
+
+#### 9 Powers of entry, inspection etc.
+
+(1) For the purpose of establishing whether any drinking water quality duty to which a public water supplier is subject has been, is being or is likely to be complied with, the Regulator may exercise the powers specified in subsection (2).
+
+(2) Those powers are—
+
+(a) power to enter—
+
+(i) any premises of the water supplier,
+
+(ii) any premises to which a supply of water is provided by the water supplier,
+
+(iii) any premises of any other person,
+
+for the purpose of exercising any of the powers specified in paragraphs (b) to (d),
+
+(b) power to carry out such inspections, measurements and tests on those premises or of substances, articles or documents found there as the Regulator thinks necessary,
+
+(c) for the purpose of carrying out such inspections, measurements and tests as the Regulator thinks necessary, power to take away from those premises substances, articles or documents found there,
+
+(d) power to take away from those premises such samples of water, land, substances or articles as the Regulator thinks necessary.
+
+(3) The powers specified in subsection (2) must not be exercised in relation to premises referred to in paragraph (a)(iii) of that subsection unless the Regulator is satisfied that the exercise of those powers in relation to the premises referred to in paragraph (a)(i) and (ii) of that subsection would be insufficient for the purpose specified in subsection (1).
+
+(4) The owner and occupier of any premises in relation to which the Regulator exercises the powers specified in subsection (2) and any person on such premises when those powers are being exercised must—
+
+(a) give the Regulator such assistance, and
+
+(b) provide the Regulator with such information,
+
+as the Regulator may reasonably require.
+
+(5) A person who—
+
+(a) refuses or fails, without reasonable excuse, to comply with a requirement made under subsection (4), or
+
+(b) intentionally obstructs a person acting in the exercise of any power conferred by subsection (1),
+
+is guilty of an offence.
+
+(6) A person guilty of an offence under subsection (5) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum,
+
+(b) on conviction on indictment, to a fine.
+
+### Enforcement of duties of public water suppliers
+
+#### 10 Enforcement notices
+
+(1) Where the Regulator reasonably believes (whether or not following the exercise of the Regulator’s powers under section 9)—
+
+(a) that a public water supplier has contravened any drinking water quality duty and the contravention is likely to recur, or
+
+(b) that a public water supplier is contravening any drinking water quality duty and the contravention is likely to continue or to recur or both,
+
+and (in either case) that the water supplier is not taking appropriate steps for the purpose of rectifying the contravention or (as the case may be) preventing its recurrence, the Regulator may serve on the water supplier an enforcement notice.
+
+(2) In considering whether to serve an enforcement notice the Regulator may consult—
+
+(a) the local authority for any area affected by the contravention, and
+
+(b) the Health Board for any such area.
+
+(3) An enforcement notice must specify—
+
+(a) the contravention to which it relates,
+
+(b) the Regulator’s reasons for believing (as the case may be) that the contravention—
+
+(i) has occurred and is likely to recur, or
+
+(ii) is occurring and is likely to continue or to recur or both,
+
+(c) the date by which the water supplier is required to rectify the contravention or (as the case may be) take steps to prevent its recurrence,
+
+(d) any particular steps which the Regulator requires the water supplier to take for that purpose, and
+
+(e) the date on which the notice is to take effect.
+
+(4) An enforcement notice may specify different dates by which different steps specified under subsection (3)(d) must be completed.
+
+(5) The date referred to in subsection (3)(e) must be no earlier than the day following the last day on which an appeal may be brought under section 11(2).
+
+(6) Before serving an enforcement notice on a public water supplier under subsection (1), the Regulator must serve a copy of the proposed notice on the water supplier and specify a period, which must expire no less than 7 days and no more than 28 days from the date of service of the notice, within which the water supplier may make representations to the Regulator about the proposed notice.
+
+(7) The Regulator must take into account any representations in relation to the proposed enforcement notice duly made by the water supplier and may adjust the notice in light of those representations.
+
+#### 11 Enforcement notices: further provisions
+
+(1) The Regulator must—
+
+(a) send a copy of an enforcement notice to the [[^F36]Commission] and to any local authority or Health Board consulted by the Regulator under section 10(2), and
+
+(b) arrange for the notice to be published in such manner as the Regulator thinks appropriate for bringing it to the attention of persons affected, or who may be affected, by the contravention.
+
+(2) A public water supplier on whom an enforcement notice has been served may, by summary application made within 14 days of the date of service, appeal to the sheriff against the notice.
+
+(3) Where an appeal is brought under subsection (2) the enforcement notice is of no effect until the appeal is withdrawn or finally determined.
+
+(4) On an appeal under subsection (2) the sheriff may make such order as the sheriff thinks fit.
+
+(5) The decision of the sheriff on such an appeal is final.
+
+(6) A public water supplier on whom an enforcement notice has been served—
+
+(a) must consult the Health Board for any area affected by the contravention to which the notice relates, and
+
+(b) must, in rectifying the contravention or taking steps to prevent its recurrence, have regard to any views expressed by the Health Board.
+
+(7) The duty under subsection (6) does not apply during any period in which the enforcement notice is of no effect by virtue of subsection (3).
+
+[[^F37](7A) Where a public water supplier has rectified the contravention specified in an enforcement notice, the Regulator must publish (or arrange for the publication of) information to this effect, in such a manner as the Regulator thinks appropriate for bringing it to the attention of persons affected, or who may have been affected, by the contravention.]
+
+#### 12 Failure to comply with enforcement notices
+
+(1) This section applies where, in relation to an enforcement notice, a public water supplier—
+
+(a) fails to rectify, or (as the case may be) to take steps to prevent the recurrence of, a contravention specified in the notice by the date specified in relation to the contravention under subsection (3)(c) of section 10, or
+
+(b) fails to complete a step specified under subsection (3)(d) of that section by a date specified in relation to that step under subsection (4),
+
+(or, in either case, by such later date as the Regulator may have substituted under section 14(1)(b)).
+
+(2) Where this section applies, the Regulator may—
+
+(a) enter any premises and carry out the work necessary to rectify or prevent the recurrence of the contravention or, as the case may be, to complete the step, and
+
+(b) recover from the water supplier any expenses which the Regulator reasonably incurs in carrying out, or securing the carrying out, of that work.
+
+(3) The expenses which may be recovered under subsection (2)(b) include such proportion of the Regulator’s administrative expenses (including expenses incurred in establishing the contravention and in connection with the enforcement notice) as the Regulator considers appropriate.
+
+(4) A person who intentionally obstructs a person acting in the exercise of any power conferred by subsection (2)(a) is guilty of an offence.
+
+(5) If, at any time after a date referred to in subsection (1), anything which the enforcement notice requires the water supplier to do by that date has not been done, the water supplier is guilty of an offence.
+
+(6) A person guilty of an offence under subsection (4) or (5) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum,
+
+(b) on conviction on indictment, to a fine.
+
+(7) An offence under subsection (5) may be charged by reference to any day or longer period of time and a public water supplier may be convicted of a second or subsequent offence under that subsection by reference to any period of time following conviction for such an offence.
+
+#### 13 Emergencies
+
+(1) Where the Regulator reasonably believes—
+
+(a) that a public water supplier has contravened or is contravening any drinking water quality duty,
+
+(b) that as a result of the contravention there is a significant risk to public health or the quality of a public drinking water supply, and
+
+(c) that urgent action is necessary to reduce or remove that risk,
+
+the Regulator may take action in accordance with this section.
+
+(2) The Regulator may serve on the water supplier an emergency notice requiring the water supplier, by such date as the notice may specify, to take such steps as the notice may specify, being steps which the Regulator considers necessary for the purpose of reducing or removing the risk referred to in subsection (1)(b).
+
+(3) Without prejudice to subsection (2), the Regulator may—
+
+(a) enter any premises and carry out such work as the Regulator considers necessary for the purpose mentioned in that subsection, and
+
+(b) recover from the water supplier any expenses which the Regulator reasonably incurs in carrying out, or securing the carrying out, of that work.
+
+(4) The expenses which may be recovered under subsection (3)(b) include such proportion of the Regulator’s administrative expenses (including expenses incurred in establishing the contravention and in connection with the emergency notice) as the Regulator considers appropriate.
+
+(5) A person who intentionally obstructs a person acting in the exercise of any power conferred by subsection (3)(a) is guilty of an offence.
+
+(6) If, at any time after the date specified in the emergency notice (or such later date as the Regulator may have substituted under section 14(1)(b)), anything which the notice requires the water supplier to do has not been done, the water supplier is guilty of an offence.
+
+(7) A person guilty of an offence under subsection (5) or (6) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum,
+
+(b) on conviction on indictment, to a fine.
+
+(8) An offence under subsection (6) may be charged by reference to any day or longer period of time and a public water supplier may be convicted of a second or subsequent offence under that subsection by reference to any period of time following conviction for such an offence.
+
+#### 14 Variation and withdrawal of notices
+
+(1) The Regulator may—
+
+(a) withdraw an enforcement notice or an emergency notice,
+
+(b) waive or relax any requirement of an enforcement notice or an emergency notice, including substituting a later date for a date specified under section 10(3)(c) or (4) or, as the case may be, section 13(2).
+
+(2) The powers in subsection (1) may be exercised whether or not the notice has taken effect.
+
+(3) The withdrawal of an enforcement notice or an emergency notice does not affect the Regulator’s power to issue a further such notice.
+
+#### 15 Register of enforcement notices and emergency notices
+
+(1) The Regulator must keep a register of enforcement notices and emergency notices.
+
+(2) The register must, in relation to each such notice, specify—
+
+(a) the name and address of the water supplier on whom the notice was served,
+
+(b) the date of service,
+
+(c) the compliance date, and
+
+(d) in the case of an enforcement notice, the date specified under section 10(3)(e).
+
+(3) The Scottish Ministers may by order make provision as to—
+
+(a) the manner in which the register is to be kept,
+
+(b) the information, in addition to that required by subsection (2), which the register is to contain.
+
+(4) In subsection (2)(c), “the compliance date” means—
+
+(a) in relation to an enforcement notice, the date specified under section 10(3)(c),
+
+(b) in relation to an emergency notice, the date specified under section 13(2),
+
+and, in either case, includes any date substituted for that date under section 14(1)(b).
+
+(5) The register must be made available for inspection by any person at any reasonable time.
+
+### Supervision of local authority enforcement
+
+#### 16 Power to require information from local authorities
+
+(1) A local authority must, on being requested to do so by the Regulator, provide the Regulator with such information held by it as the Regulator may reasonably seek in relation to the enforcement by the local authority of the drinking water quality duties which it is the authority’s responsibility to enforce.
+
+(2) Where a local authority and the Regulator cannot agree whether information is being sought reasonably, either of them may refer the matter to the Scottish Ministers, whose decision is final.
+
+### Supplementary
+
+#### 17 Annual reports
+
+The Regulator must, as soon as practicable after the end of each calendar year, submit to the Scottish Ministers, and publish, a report on the exercise of the Regulator’s functions during that year.
+
+#### 18 Powers of entry etc.: further provision
+
+(1) Schedule 2 makes further provision about the exercise of powers of entry etc. conferred by sections 9(1), 12(2)(a) and 13(3)(a).
+
+(2) References in this Part to a power conferred by any of those provisions include references to such a power exercisable by virtue of a warrant under that schedule.
+
+#### 19 Interpretation of Part 2
+
+In this Part—
+
+- “drinking water quality duty” has the meaning given by section 7(7),
+- “emergency notice” means a notice under section 13(2),
+- “enforcement notice” means a notice under section 10(1),
+- “public water supplier” has the meaning given by section 7(7),
+- “Regulator” means the Drinking Water Quality Regulator for Scotland.
+
+## Part 3 — Scottish Water
+
+### Establishment
+
+#### 20 Scottish Water
+
+(1) There is established a body corporate to be known as Scottish Water, with the functions conferred on it by or under this Act and any other enactment.
+
+(2) Schedule 3 makes further provision about the status, constitution, proceedings etc. of Scottish Water.
+
+#### 21 Transfer of functions from new water and sewerage authorities
+
+The functions of each of the new water and sewerage authorities are transferred to Scottish Water.
+
+#### 22 Transfer of property and liabilities
+
+(1) The property and liabilities to which the new water and sewerage authorities are entitled or subject are transferred to Scottish Water.
+
+(2) Subsection (1) has effect in relation to property and liabilities to which it applies despite any provision (of whatever nature) which would otherwise prevent, penalise or restrict the transfer of the property or liabilities.
+
+#### 23 Transfer of staff
+
+The Transfer of Undertakings (Protection of Employment) Regulations 1981 (S.I.1981/1794) apply to the transfer of functions by section 21, whether or not they would so apply apart from this section.
+
+#### 24 Dissolution of new water and sewerage authorities etc.
+
+(1) The new water and sewerage authorities are dissolved on such date as the Scottish Ministers may by order specify.
+
+(2) Different dates may be specified in relation to different such authorities.
+
+(3) Without prejudice to section 69, the Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they think necessary or expedient in consequence of or in connection with—
+
+(a) the establishment of Scottish Water,
+
+(b) the transfer of functions, property, liabilities and staff of the new water and sewerage authorities,
+
+(c) the dissolution of those authorities.
+
+### General powers
+
+#### 25 General powers
+
+(1) Scottish Water may engage in any activity (whether in Scotland or elsewhere) which it considers is not inconsistent with the economic, efficient and effective exercise of its core functions (within the meaning of section 70(2)).
+
+[[^F38](1A) Subsection (1) extends to allowing Scottish Water to engage in any activity that it considers will assist in the development of the value of Scotland's water resources (as construed in accordance with section 1 of the Water Resources (Scotland) Act 2013).]
+
+(2) Scottish Water may do anything (whether in Scotland or elsewhere) which it considers is necessary or expedient for the purpose of or in connection with its functions (including any activity in which it engages by virtue of subsection (1)).
+
+(3) The power in subsection (2) includes, in particular, power to—
+
+(a) form or promote (whether alone or with others) companies [[^F39]under the Companies Act 2006] ,
+
+(b) subscribe for share or loan capital of any person,
+
+(c) guarantee the discharge of any obligation (whether financial or not) of any person,
+
+(d) form partnerships, enter into arrangements or agreements and co-operate in any way with any person,
+
+(e) enter into a contract with any person for the provision or making available of assets or services, or both (whether or not together with goods) whether by Scottish Water or by that person.
+
+(4) Where—
+
+(a) under subsection (2), Scottish Water enters into a contract such as is referred to in subsection (3)(e) (a “provision contract”), and
+
+(b) in connection with the provision contract, a person (the “financier”) makes a loan to, or provides any other form of finance for, a party to the provision contract other than Scottish Water,
+
+the power in subsection (2) also includes power to enter into a contract with the financier, or any insurer of or trustee for the financier, in connection with the provision contract.
+
+(5) In subsection (3)(e), “assets” means assets of any description (whether tangible or intangible), including (in particular) land, buildings, roads, works, plant, machinery, vehicles, vessels, apparatus, equipment and computer software.
+
+(6) This section is without prejudice to any power otherwise exercisable by Scottish Water but does not enable Scottish Water—
+
+(a) to do anything in contravention of any express prohibition, restriction or limitation on its powers which is contained in any other enactment,
+
+(b) to raise money (whether by borrowing or otherwise) in a manner which is not authorised apart from this section.
+
+### Codes of practice
+
+#### 26 Customer standards code
+
+(1) In relation to services provided in the exercise of its core functions, Scottish Water must prepare and submit to the [[^F40]Commission] a code of practice (a “customer standards code”) making provision—
+
+(a) as to its standards of performance in providing services to [[^F41]persons whose premises are connected to the public water supply system or the public sewerage system (within the meaning of Part 2 of the Water Services etc. (Scotland) Act 2005 (asp 3)) or both] ,
+
+(b) for procedures for dealing with complaints by [[^F42]those persons or persons whose premises have been, or might reasonably become, connected to either or both of those systems] ,
+
+(c) as respects the circumstances in which it will pay compensation if or in so far as those standards are not attained,
+
+(d) as respects such matters as are incidental to the provision made under paragraphs (a) to (c), and such supplemental matters (if any) as it thinks fit.
+
+[^F43]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Subject to subsection (1), Scottish Water may from time to time—
+
+(a) vary, or
+
+(b) revoke and replace,
+
+its customer standards code, and must submit the varied or new code to the [[^F40]Commission] .
+
+(4) A customer standards code submitted to the [[^F40]Commission] under subsection (1) or (3) comes into force only when it is approved in accordance with section 27.
+
+(5) Scottish Water must endeavour to comply with its approved customer standards code; but contravention of that code does not of itself give rise to any criminal or civil liability.
+
+(6) Scottish Water must publish the approved customer standards code and provide a copy of the code to any person who requests it.
+
+(7) The [[^F44]Commission] —
+
+(a) must monitor the compliance by Scottish Water with its approved customer standards code,
+
+(b) may advise the Scottish Ministers on such compliance, and
+
+(c) may require Scottish Water to review its customer standards code, or any provision of it, in such respects as the [[^F44]Commission] may specify.
+
+#### 27 Approval of customer standards code
+
+(1) The [[^F45]Commission] may, after consulting [[^F46]every water services provider and sewerage services provider and] [[^F47]Consumer Scotland], approve a customer standards code submitted under section 26(1) or (3)—
+
+(a) without modifications, or
+
+(b) with such modifications as are agreed by the [[^F45]Commission] and Scottish Water.
+
+(2) Where—
+
+(a) the [[^F45]Commission] is not prepared to give approval under subsection (1)(a), and
+
+(b) Scottish Water does not agree to some or all of the modifications proposed by the [[^F45]Commission] under subsection (1)(b),
+
+the [[^F45]Commission] must send the code (with any modifications to it agreed by the [[^F45]Commission] and Scottish Water) to the Scottish Ministers.
+
+(3) Where 3 months have elapsed since the [[^F45]Commission] has received a customer standards code by virtue of section 26(1) or (3) and the [[^F45]Commission] has neither—
+
+(a) given approval under subsection (1) of this section, nor
+
+(b) sent the scheme to the Scottish Ministers under subsection (2) of this section,
+
+Scottish Water may require the [[^F45]Commission] to send it to the Scottish Ministers.
+
+(4) The Scottish Ministers may, after consulting [[^F48]every water services provider and sewerage services provider and] [[^F49]Consumer Scotland], approve a code sent to them under subsection (2) or (3)—
+
+(a) without modifications or further modifications, or
+
+(b) with such modifications as, after consulting Scottish Water and the [[^F45]Commission] , they think fit.
+
+(5) Where the [[^F45]Commission] approves a customer standards code under subsection (1), the [[^F45]Commission] must send a copy of the code as so approved to the Scottish Ministers.
+
+(6) Where the Scottish Ministers approve a customer standards code under subsection (4), they must send a copy of the code as so approved to the [[^F45]Commission].
+
+#### 28 Consultation code
+
+(1) Scottish Water must prepare and submit to the Scottish Ministers a code of practice (a “consultation code”) making provision as to the consultation which it will carry out in relation to—
+
+(a) proposals for, and
+
+(b) the undertaking of,
+
+any significant activity in the exercise of its core functions.
+
+(2) The consultation code must, in particular, make provision—
+
+(a) as to consultation with persons who live, work or carry on business in any area significantly affected by such an activity, or who represent the interests of such persons,
+
+(b) as to the manner of such consultation, the information to be provided to consultees and the time to be allowed for consultees to express views,
+
+(c) for Scottish Water to have regard to the views of the persons consulted in pursuance of the code,
+
+and may make different provision in relation to different cases or descriptions of case.
+
+(3) Before submitting the consultation code to the Scottish Ministers, Scottish Water—
+
+(a) must consult [[^F50]every water services provider and sewerage services provider and] [[^F51]Consumer Scotland] on the code and have regard to any comments on it made by [[^F50]any such provider or] [[^F51]Consumer Scotland], and
+
+(b) may adjust the code in light of those comments.
+
+(4) The Scottish Ministers may approve the consultation code—
+
+(a) without modifications, or
+
+(b) with such modifications as, after consulting Scottish Water, they think fit.
+
+(5) A consultation code submitted to the Scottish Ministers under subsection (1) comes into force only when it is approved in accordance with subsection (4).
+
+(6) Scottish Water must publish the approved consultation code and provide a copy of the code to any person who requests it.
+
+(7) Scottish Water must endeavour to comply with the approved consultation code; but contravention of the code does not of itself give rise to any criminal or civil liability.
+
+(8) Subject to subsection (1), Scottish Water may from time to time—
+
+(a) vary, or
+
+(b) revoke or replace,
+
+the consultation code; and this section applies to the varied or new code as it does to the original code.
+
+### Charges
+
+#### 29 [[^F52]Charges for goods and services
+
+(1) Scottish Water may—
+
+(a) demand and recover charges for any services provided by it in the exercise of its core functions, and
+
+(b) fix, demand and recover charges for any goods supplied or services provided in exercise of its other functions.
+
+(2) Scottish Water is to exercise the power conferred by subsection (1)(a) in accordance with—
+
+(a) a charges scheme, or
+
+(b) a departure from a charges scheme for which consent has been given under section 29E.
+
+(3) The power conferred by subsection (1)(b) is exercisable by or in accordance with an agreement with the person to be charged.
+
+(4) Subsections (1) to (3) are subject to sections 9A and 47 of the 1980 Act (which provide for no charge for water in certain circumstances).
+
+#### 29A Charges schemes
+
+(1) Scottish Water must make a scheme (referred to in this Act as a “charges scheme”) which fixes the charges to be paid for services provided by Scottish Water in the exercise of its core functions.
+
+(2) A charges scheme must be made by reference to a determination made under section 29B.
+
+(3) In particular, the scheme must not fix in any case a charge exceeding any maximum charge applying to the case by virtue of the determination.
+
+(4) A charges scheme may make provision with respect to the times and methods of payment of the charges fixed by the scheme.
+
+(5) The Scottish Ministers and the Commission must provide Scottish Water with such information as it reasonably requires for the purposes of making a charges scheme.
+
+(6) Scottish Water must send a charges scheme to the Commission for approval by such date as the Scottish Ministers may direct.
+
+(7) The Commission may approve a charges scheme with or without modifications.
+
+(8) If the Commission approves a charges scheme with modifications, it must give its reasons for doing so.
+
+(9) When a charges scheme is approved by the Commission, Scottish Water must—
+
+(a) make arrangements for allowing any person to—
+
+(i) inspect the scheme at any reasonable time,
+
+(ii) obtain a copy of the scheme or part of it on payment of such reasonable fee (if any) as Scottish Water may determine, and
+
+(b) publicise those arrangements and publish a summary of the scheme.
+
+(10) Following approval of a charges scheme by the Commission, the scheme comes into effect on such date as is specified in the scheme.
+
+#### 29B Determination of maximum charges
+
+(1) The Commission must—
+
+(a) determine in writing maximum amounts of charges by reference to which a charges scheme is to be made, and
+
+(b) send the determination to Scottish Water by such time as the Scottish Ministers may specify.
+
+(2) Maximum amounts determined under subsection (1)(a) apply in relation to such period as the Scottish Ministers may specify.
+
+(3) A determination made under subsection (1)(a) may make different provision for different cases or categories of case.
+
+(4) Before making a determination under subsection (1)(a), the Commission—
+
+(a) must send a draft determination to—
+
+(i) the Scottish Ministers,
+
+(ii) Scottish Water, [^F53]...
+
+[[^F54](iia) every water services provider and sewerage services provider, and]
+
+(iii) [[^F55]Consumer Scotland],
+
+(b) must—
+
+(i) publish the draft determination, and
+
+(ii) invite (by way of advertisement or otherwise) representations as regards the draft determination by such time as the Commission may specify, and
+
+(c) must have regard to any representations made to the Commission by virtue of paragraph (a) or (b).
+
+(5) The Scottish Ministers and Scottish Water must provide the Commission with such information as it reasonably requires for the purposes of making a determination under subsection (1)(a).
+
+#### 29C Exercise of functions regarding charges
+
+(1) Scottish Water must exercise its functions under sections 29A and 29F for the purposes of ensuring that subsections (4) and (5) are complied with.
+
+(2) The Commission must—
+
+(a) exercise its functions under sections 29A, 29B and 29F for the purposes of ensuring that subsections (4) and (5) are complied with,
+
+(b) exercise its functions under section 29E for the purposes of ensuring that subsection (5) is complied with, and
+
+(c) in exercising its functions under those sections, have regard to—
+
+(i) any guidance issued to Scottish Water by the Scottish Ministers, and
+
+(ii) any directions given to Scottish Water under section 44 or 56,
+
+so far as relevant in relation to charges schemes.
+
+(3) The Scottish Ministers must—
+
+(a) provide the Commission with such information as it may require for the purpose of subsection (2)(c); and
+
+(b) in particular, send to the Commission copies of any guidance and directions referred to in that subsection when issued or given.
+
+(4) This subsection is complied with if (so far as is consistent with compliance with subsection (5)) a charges scheme gives effect to any statement issued under section 29D.
+
+(5) This subsection is complied with if (so far as is consistent with compliance with section 41(1)) Scottish Water's receipts from the aggregate of—
+
+(a) its income from charges for services provided in the exercise of its core functions, and
+
+(b) the amount of—
+
+(i) any grants paid to it under subsection (1) of section 42,
+
+(ii) money it may borrow under subsection (3) of that section, and
+
+(iii) any other resources reasonably available to it,
+
+for the purposes of the exercise of those functions,
+
+is not less than sufficient to meet the expenditure required for the effective exercise of those functions.
+
+#### 29D Statements regarding charges
+
+(1) The Scottish Ministers must—
+
+(a) in respect of a period specified under section 29B(2), and
+
+(b) by reference to such economic or other factors as they consider relevant,
+
+issue to Scottish Water and the Commission a statement of policy regarding charges under a charges scheme.
+
+(2) A statement under subsection (1) is to include provision with respect to harmonisation of charges (that is to say, provision with a view to ensuring that a charges scheme does not fix different charges for similar services provided to persons of a similar category).
+
+(3) A statement under subsection (1) may (so far as is consistent with the provision described in subsection (2)) include provision with respect to—
+
+(a) the funding of particular services by charges for services as a whole,
+
+(b) the proportion of the amount of income requiring to be raised by charges fixed by a charges scheme to be contributed by each category of person to whom Scottish Water provides services,
+
+(c) the fixing of levels of charges by reference to—
+
+(i) different categories of person to whom Scottish Water provides services, or
+
+(ii) liability for council tax under Part II (Council tax: Scotland) of the Local Government Finance Act 1992 (c. 14), and
+
+(d) such other matters as the Scottish Ministers think fit.
+
+(4) In preparing a statement under subsection (1), the Scottish Ministers must have regard to Scottish Water's duty under section 51(1).
+
+(5) Before issuing a statement under subsection (1), the Scottish Ministers must consult—
+
+(a) the Commission,
+
+[[^F56](aa) every water services provider and sewerage services provider,]
+
+(b) [[^F57]Consumer Scotland],
+
+(c) Scottish Water.
+
+#### 29E Departure from certain charges
+
+(1) Scottish Water may, in any particular case, apply to the Commission for its consent to depart from a charges scheme in respect of charges to be paid for services provided to a water services or sewerage services provider.
+
+(2) The Commission may consent to a departure from a charges scheme only if satisfied that—
+
+(a) a customer of the provider has done, or has agreed to, something which reduces or increases the costs incurred by Scottish Water in providing the services to the provider, and
+
+(b) the departure is otherwise justified in the circumstances of the case.
+
+(3) Where the Commission consents to a departure, it may do so subject to such reasonable conditions as it considers are appropriate in the case.
+
+(4) Where the Commission withholds its consent to a departure, it must give its reasons for doing so.
+
+(5) The Commission is to make provision in writing which specifies—
+
+(a) the procedure to be followed for the purposes of determining applications made under subsection (1), and
+
+(b) any matters to be taken into account and the criteria to be applied in—
+
+(i) determining whether a departure from a charges scheme is justified, and
+
+(ii) the fixing, by Scottish Water, of lower or (as the case may be) higher charges to be paid for the services in question where it is determined that a departure is justified.
+
+(6) The Commission may from time to time revise the provision.
+
+(7) In preparing or revising the provision, the Commission must consult—
+
+(a) the Scottish Ministers and Scottish Water, and
+
+(b) such other persons as it thinks fit,
+
+as to the procedure to be followed in considering applications made under subsection (1).
+
+(8) The Commission must send a copy of the provision to—
+
+(a) the Scottish Ministers,
+
+(b) Scottish Water, and
+
+(c) every water services and sewerage services provider.
+
+(9) Scottish Water must publish details of every departure from a charges scheme.
+
+#### 29F Review of determinations and charges
+
+(1) This subsection applies where, since the making of a determination under section 29B(1)(a), there has been or is likely to be material change to—
+
+(a) Scottish Water's income from charges for services provided in the exercise of its core functions,
+
+(b) the amount of—
+
+(i) any grants paid to it under subsection (1) of section 42,
+
+(ii) money it may borrow under subsection (3) of that section, or
+
+(iii) any other resources reasonably available to it,
+
+for the purposes of the exercise of those functions, or
+
+(c) the expenditure required for the effective exercise of those functions.
+
+(2) Where subsection (1) applies, Scottish Water—
+
+(a) may of its own accord,
+
+(b) must, if the Commission requests it to do so,
+
+send to the Commission proposals for revising the maximum amounts of charges determined under section 29B(1)(a).
+
+(3) The Commission—
+
+(a) must, after receipt of the proposals, review those amounts, and
+
+(b) may revise those amounts to such extent as it thinks fit.
+
+(4) In reviewing those amounts, the Commission must take into account all matters affecting the resources available to Scottish Water for the purposes of the exercise of its core functions.
+
+(5) Before revising those amounts, the Commission must—
+
+(a) intimate to the Scottish Ministers that revision of those amounts is under consideration,
+
+(b) invite (by way of advertisement or otherwise) representations as regards revision of those amounts by such time as the Commission may specify, and
+
+(c) have regard to any representations made to the Commission by virtue of paragraph (a) or (b).
+
+(6) The Commission must give its reasons for deciding whether or not to revise those amounts.
+
+(7) Where the Commission revises those amounts, it must send to Scottish Water written notice which specifies the revised amounts.
+
+(8) Scottish Water—
+
+(a) may, after receipt of the notice, revise any charges fixed by the charges scheme by reference to the revised amounts specified in the notice, and
+
+(b) if it does so, must send written notice of the revised charges to the Commission for approval.
+
+(9) The Commission may approve any revised charges with or without modifications.
+
+(10) If the Commission approves any revised charges with modifications, it must give its reasons for doing so.
+
+(11) When revised charges are approved by the Commission, Scottish Water must publish a summary of the revised charges and the date from which they have effect.
+
+(12) The date from which the revised charges have effect is to be determined by the Commission.
+
+#### 29G Effective exercise of core functions
+
+For the purposes of sections 29C(5) and 29F(1), Scottish Water is to be taken to be exercising its core functions effectively if (in discharging its statutory duties and contractual obligations relating to the exercise of those functions) it makes such use of its resources that, year on year, it—
+
+(a) achieves the objectives contained in any directions given by reference to section 56A, and
+
+(b) does so at the lowest reasonable overall cost.]
+
+#### 30 Maximum charges for services provided with help of Scottish Water
+
+(1) [[^F58]A charges scheme must also] fix maximum charges which a person other than Scottish Water may recover from another such person in respect of the supply of water to, the provision of sewerage to, or the disposal of sewage for that other person with the help of services provided by Scottish Water.
+
+(2) For the purposes of this section, water is supplied to, sewerage provided to, or sewage disposed of for a person with the help of services provided by Scottish Water if—
+
+(a) a facility for that person to have access to a supply of water provided by Scottish Water in pipes, or to make use of sewerage which is, or facilities for the disposal of sewage which are, provided by Scottish Water is made available to that person otherwise than by Scottish Water,
+
+(b) that person is provided with a supply of water in pipes by a person to whom the water is supplied, directly or indirectly, by Scottish Water, or
+
+(c) that person is provided with sewerage, or with facilities for the disposal of sewage, by a person who, for the purposes of providing the sewerage or facilities, makes use of sewerage or of such facilities provided, directly or indirectly, by Scottish Water.
+
+(3) [[^F59]In relation to maximum charges fixed by virtue of subsection (1), the charges scheme] may make different provision in relation to different persons, circumstances or localities and may fix a maximum charge either by specifying the maximum amount of the charge or by specifying a method of calculating that amount.
+
+(4) Where a person pays a charge in respect of anything to which [[^F60], by virtue of subsection (1), a charges scheme] relates and the amount paid exceeds the maximum charge fixed by the [[^F61]scheme] , the amount of the excess is recoverable by that person from the person to whom the charge was paid.
+
+#### [^F62]31 Charges schemes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F62]32 Approval of charges schemes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F62]33 Commissioner’s advice on charges
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F62]34 Publication of summary of charges scheme
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 35 Liability of occupiers etc. for charges
+
+(1) Supplies of water provided by Scottish Water to any premises and the provision and maintenance by Scottish Water of communication pipes and supply pipes for the purposes of such supplies are to be treated for the purposes of this Act as services provided to the occupier for the time being of those premises.
+
+(2) The provision of sewerage, and the disposal of sewage, provided by Scottish Water are to be treated for the purposes of this Act as provision to, or as disposal for, the occupier for the time being of any premises which—
+
+(a) are drained by a sewer or drain connecting, either directly or through an intermediate sewer or drain, with a public sewer provided for foul water or surface water or both, or
+
+(b) are premises the occupier of which has, in respect of the premises, the benefit of facilities which drain to a sewer or drain so connecting.
+
+(3) Subject to subsection (5), in relation to any period during which premises referred to in subsection (1) or (2) are unoccupied, references to the occupier in the subsection in question are to be construed as references to the owner of the premises.
+
+(4) Subsections (1) to (3) do not apply so far as provision to the contrary is made by any agreement to which Scottish Water is a party.
+
+(5) Charges which, under section 29, are fixed in relation to any premises by reference to volume may be imposed so that a person remains liable, in relation to those premises, to pay charges for—
+
+(a) a supply of water, and
+
+(b) provision of sewerage or disposal of sewage,
+
+provided by Scottish Water after the person has ceased to be occupier of the premises.
+
+(6) A person is liable by virtue of subsection (5) for any charges fixed in relation to any premises by Scottish Water only where that person fails to inform Scottish Water of the ending of that person’s occupation of the premises at least 48 hours before that person ceases to occupy them.
+
+(7) The charges for which a person may be liable by virtue of subsection (5) are charges in respect of a period ending no later than whichever of the following first occurs after the person ceases to occupy the premises—
+
+(a) where the person informs Scottish Water of the ending of that person’s occupation, the 28th day after informing Scottish Water,
+
+(b) any day on which any meter would normally have been read in order for the amount of the charges to be determined,
+
+(c) any day on which any other person informs the authority that that other person has become the new occupier of the premises.
+
+(8) In calculating the period of 48 hours referred to in subsection (6) any time falling on—
+
+(a) a Saturday or Sunday,
+
+(b) Christmas Day or Good Friday, or
+
+(c) a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 (c.80),
+
+is to be disregarded.
+
+(9) In subsection (1), “communication pipes” and “supply pipes” have the same meanings as in the 1980 Act.
+
+[[^F63](10) This section does not apply to or in relation to any services provided by Scottish Water under section 16 of the Water Services etc. (Scotland) Act 2005 (asp 3) except where the provision of the service is continued under section 17(1) or 20(1) or (3) of that Act.]
+
+#### 35A [[^F64]Charges for services arranged by licensed providers
+
+(1) Supplies of water provided to any premises by Scottish Water under subsection (2) of section 16 of the Water Services etc. (Scotland) Act 2005 (asp 3) are to be treated, for the purposes of sections 29 to 29F, as services provided solely to the water services provider who made the related request under subsection (1) of that section in respect of the premises.
+
+(2) The provision of sewerage to, and disposal of sewage from, any premises by Scottish Water under subsection (5) of that section of that Act are to be treated, for the purposes of sections 29 to 29F, as services provided solely to the sewerage services provider who made the related request under subsection (4) of that section in respect of the premises.
+
+(3) But—
+
+(a) where the supplies of water provided to the premises are continued under subsection (1) of section 17 of that Act, subsection (1) does not apply,
+
+(b) where the provision of sewerage to, or disposal of sewerage from, the premises is continued under subsection (1) or (3) of section 20 of that Act, subsection (2) does not apply.]
+
+#### 36 Section 35: meaning of “occupier”
+
+(1) In the application of section 35 to services which are the subject of a determination under section 37(1)(a), references in section 35(1) and (2) to the occupier of premises are references to the person—
+
+(a) who is liable under or by virtue of sections 75 to 77 of the Local Government Finance Act 1992 (c.14) to pay council tax (within the meaning of section 70(1) of that Act) in respect of the premises, or
+
+(b) who would be so liable but for the premises being an exempt dwelling (within the meaning of Part II of that Act).
+
+(2) Without prejudice to subsections (3) and (4) of section 35, the Scottish Ministers may, after consulting such persons as they think fit, by order make provision, in relation to such premises or description of premises as the order may specify, as to the persons who are, for the purposes of subsections (1) and (2) of that section, to be treated as being, or as not being, occupiers of the premises.
+
+(3) Section 35(3) and subsection (2) of this section do not apply in a case to which subsection (1) of this section applies.
+
+#### 37 Collection of charges by local authority
+
+(1) The Scottish Ministers may by order determine—
+
+(a) that as respects specified services provided, within a financial year specified in the order, by Scottish Water to dwellings, or to such description of dwellings as the order may specify—
+
+(i) within the area of a local authority, or
+
+(ii) within such part of that area as the order may specify,
+
+the authority and not Scottish Water is to demand and recover charges payable for those services under a charges scheme, and
+
+(b) that the authority is, at such intervals as may be so specified, to make such payments to Scottish Water (to which no other amount is to be payable under the charges scheme for the services provided) as may be so specified or as may be determined in accordance with the provisions of the order.
+
+(2) In subsection (1), “specified services” means services specified, or of a description specified, in the order.
+
+(3) An order under subsection (1) may include provision as to—
+
+(a) forms and procedures which the local authority is to adopt in demanding payment,
+
+(b) circumstances in which a customer of Scottish Water who is aggrieved by a decision or calculation of the local authority may appeal—
+
+(i) except in a case specified by virtue of sub-paragraph (ii), to [[^F65]the First-tier Tribunal for Scotland], or
+
+(ii) in such cases as the order may specify, to a body constituted under the order (or under a previous such order) to consider appeals as respects any such case,
+
+(c) procedures to be followed in any appeal by virtue of paragraph (b),
+
+(d) the provision, for the purposes of this section, of information by Scottish Water to the local authority,
+
+(e) the keeping by the local authority of accounts and records as respects their functions by virtue of this section and the exhibition of, or of copies of, such accounts and records to Scottish Water.
+
+(4) Schedule 4 makes provision about recovery by a local authority of unpaid charges.
+
+(5) In this section and section 38, “dwelling” has the same meaning as in Part II of the Local Government Finance Act 1992 (c.14).
+
+#### 38 Suspension of collection of charges by local authority
+
+(1) This section applies in relation to any dwellings to which Scottish Water provides services which are the subject of a determination under section 37(1)(a).
+
+(2) Where, in relation to any such dwellings, Scottish Water serves a notice under this subsection on the relevant local authority, the services which are the subject of the determination, so far as provided to dwellings to which the notice relates, are to be treated for so long as the notice remains in force as if they were not subject to the determination.
+
+(3) A notice under subsection (2) may be withdrawn in whole or in part by Scottish Water by serving a further notice on the relevant local authority.
+
+(4) The Scottish Ministers may by regulations make provision as to—
+
+(a) the form and content of a notice under subsection (2) or (3),
+
+(b) when such a notice comes into force,
+
+(c) (either or both) the maximum and minimum numbers of dwellings to which such a notice may relate,
+
+(d) such other matters in relation to such a notice as the Scottish Ministers think necessary or expedient.
+
+(5) Regulations under subsection (4) may also make provision for the payment by Scottish Water to the relevant local authority of a sum, specified in or calculated in accordance with the regulations, in respect of any reasonable administrative expenses incurred by the authority in consequence of the service of a notice under subsection (2) or (3).
+
+(6) In this section, “the relevant local authority” means the local authority which—
+
+(a) is, by virtue of the determination under section 37(1)(a), responsible for demanding and recovering charges payable for services provided by Scottish Water to the dwellings to which the notice under subsection (2) or (3) relates and which are the subject of the determination, or
+
+(b) was, until the notice came into force, so responsible.
+
+#### 39 Primacy of duty to maintain domestic water supply etc.
+
+Sections 29(1) and 37 are without prejudice to—
+
+(a) the duties of Scottish Water under section 6 of the 1980 Act (which include the duty to maintain a supply of wholesome water provided to meet a requirement for domestic purposes),
+
+(b) the entitlements of any person under section 12 of the 1968 Act (which include the entitlement of an occupier of premises to drain into public sewers to which the drains or private sewers of the owner of the premises are connected).
+
+#### [^F66]40 Reduced charges
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Finances
+
+#### 41 Duties and powers relating to finance
+
+(1) Scottish Water must exercise its functions so as to secure that, taking one year with another, its income is not less than sufficient to meet its expenditure.
+
+(2) The Scottish Ministers may by order direct Scottish Water to exercise its functions, during any period specified in the order, with a view to securing that it achieves in respect of that period a rate of return on the value of its average net assets (as for the time being defined for the purposes of this section by the Scottish Ministers) which is not less than the rate specified in the order as the rate of return which the Scottish Ministers consider it is reasonable for Scottish Water to achieve.
+
+(3) Without prejudice to subsection (1), the Scottish Ministers may, after consulting Scottish Water, determine that Scottish Water is (in addition to or in place of a duty imposed by virtue of subsection (2)) subject to a specified duty of a financial nature; and different determinations may be so made in relation to different functions of Scottish Water.
+
+(4) A determination under subsection (3) may—
+
+(a) relate to a period beginning before the date on which it is made,
+
+(b) contain incidental or supplemental provisions,
+
+(c) be varied by a subsequent determination under that subsection.
+
+(5) A determination under subsection (3) must be made by order where—
+
+(a) the duty specified in it is in place of a duty imposed by virtue of subsection (2), or
+
+(b) it varies a previous determination made by order.
+
+(6) Scottish Water must secure that its charges make a proper contribution to its duties, as respect financial matters, under this Act, taking into account—
+
+(a) its present circumstances and future prospects, and
+
+(b) any duty imposed on it by virtue of subsection (2) or (3).
+
+#### 42 [[^F67]Financing and borrowing: Scottish Water]
+
+(1) The Scottish Ministers may pay to Scottish Water grants of such amounts as they may determine—
+
+(a) in respect of the exercise of its functions and its administrative expenses,
+
+(b) for the purpose of meeting, or alleviating, any loss it may sustain by virtue of regulations made under section 40.
+
+(2) A grant under subsection (1) may be made subject to such conditions as the Scottish Ministers think fit.
+
+(3) For the purpose of the exercise of any of its functions, Scottish Water may—
+
+(a) subject to such conditions as the Scottish Ministers think fit, borrow from them, and they may lend to it, sums of such amounts as they may determine, and
+
+(b) with the consent of the Scottish Ministers, borrow money, whether in sterling or otherwise, from any person or body, whether in the United Kingdom or elsewhere.
+
+[^F68]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F68]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Any loans made in pursuance of subsection (3)(a) are to be repaid to the Scottish Ministers at such times and by such methods, and interest on the loans is to be paid to them at such times and at such rates, as they may from time to time direct.
+
+#### 42A [[^F69]Financing and borrowing: subsidiaries
+
+(1) The Scottish Ministers may pay to a subsidiary of Scottish Water grants of such amounts as they may determine.
+
+(2) A subsidiary of Scottish Water may borrow—
+
+(a) from the Scottish Ministers (and they may lend to it) sums of such amounts as they may determine,
+
+(b) money from any other person, whether—
+
+(i) in sterling or otherwise,
+
+(ii) the person is in the United Kingdom or elsewhere.
+
+(3) A grant or loan in pursuance of subsection (1) or (as the case may be) (2)(a) may be made subject to such conditions as the Scottish Ministers think fit.
+
+(4) A loan made in pursuance of subsection (2)(a) is to be repaid to the Scottish Ministers at such times and by such methods (and interest on the loan is to be paid to them at such times and at such rates) as they may from time to time direct.
+
+(5) Borrowing may be made in pursuance of subsection (2) only with the consent of Scottish Water (except where it is the lender).
+
+(6) This section does not apply where the subsidiary is an undertaking established under section 13(1) of the Water Services etc. (Scotland) Act 2005.
+
+(7) In this section and section 42B(1), “subsidiary” is as defined in section 1159 of the Companies Act 2006.
+
+#### 42B Borrowing: Budget Acts
+
+(1) In any financial year, the net amount of sums borrowed by Scottish Water and any subsidiary of Scottish Water in pursuance of sections 42 and 42A (taken together) must not exceed the amount specified for that year for the purposes of this section in a Budget Act.
+
+(2) In subsection (1), “net amount” means amount of sums borrowed in the financial year less—
+
+(a) any repayments made during that year (otherwise than by way of interest) in respect of sums borrowed in that or any other year, and
+
+(b) any sums borrowed, with the consent of the Scottish Ministers, by way of overdraft or otherwise for the purpose of meeting a temporary excess of expenditure over sums otherwise available to meet that expenditure.]
+
+#### 43 Guarantees
+
+(1) The Scottish Ministers may guarantee, in such manner and on such conditions as they think fit, the discharge of any financial obligation in connection with any sums borrowed by Scottish Water or any subsidiary of Scottish Water.
+
+(2) Immediately after a guarantee is given under this section, the Scottish Ministers must lay a statement of the guarantee before the Parliament.
+
+(3) Where any sum is paid out in fulfilment of a guarantee under this section, Scottish Water must make to the Scottish Ministers, at such times and in such manner as they may from time to time direct—
+
+(a) payments of such amounts as they may so direct in or towards repayment of the sums so paid out, and
+
+(b) payments of interest, at such rate as they may so direct, on the amount outstanding for the time being in respect of sums so paid out.
+
+(4) In subsection (1), “subsidiary” [[^F70]has the meaning given by section 1159 of the Companies Act 2006].
+
+#### 44 Directions as to payment and investment
+
+(1) The Scottish Ministers may, after consulting Scottish Water, direct it to pay to them, on a date specified in the direction, a sum specified in, or calculated in accordance with, the direction, being a sum not required for the exercise of its functions.
+
+(2) The Scottish Ministers may, after consulting Scottish Water, direct it to invest, in such manner as may be specified in the direction, a sum specified in, or calculated in accordance with, the direction, being a sum not immediately required for the exercise of its functions.
+
+(3) A direction under subsection (1) or (2) is not competent in relation to any sum which is payable to the Scottish Ministers under or by virtue of any other provision of this Act.
+
+#### 45 Accounts and audit
+
+(1) Scottish Water must—
+
+(a) keep proper accounts and accounting records,
+
+(b) prepare for each financial year a statement of accounts giving a true and fair view of the state of its affairs and its income and expenditure, and
+
+(c) send the statement of accounts, by such time as the Scottish Ministers may direct, to the Auditor General for Scotland for auditing.
+
+(2) Every statement of accounts prepared by Scottish Water in accordance with this section must comply with any direction given by the Scottish Ministers relating to—
+
+(a) the information to be contained in the statement of accounts,
+
+(b) the manner in which that information is to be presented, or
+
+(c) the methods and principles according to which the statement of accounts is to be prepared.
+
+### Land transactions
+
+#### 46 Acquisition of land by agreement
+
+(1) Scottish Water may under this subsection—
+
+(a) for the purposes of any of its functions, or
+
+(b) for the purpose of the provision, by some person other than itself, of—
+
+(i) a supply of water to the public, or
+
+(ii) a system, to which the public is to have access, of drains, sewers[[^F71], sustainable urban drainage systems] or sewage treatment works,
+
+acquire by agreement any land (other than water rights) wherever situated.
+
+(2) Subsection (3) applies in relation to any acquisition of land under subsection (1) for the purposes of any of the core functions of Scottish Water or for the purpose mentioned in paragraph (b) of that subsection.
+
+(3) In relation to any such acquisition of land, the Lands Clauses Acts (except in so far as they relate to acquisition other than by agreement and to access to the special Act and except sections 120 to 125 of the Lands Clauses Consolidation (Scotland) Act 1845 (c.19)), and—
+
+(a) in a case where the acquisition is—
+
+(i) in relation to Scottish Water’s functions under or by virtue of the 1968 Act, or
+
+(ii) for the purpose of the provision of a system such as is mentioned in paragraph (b)(ii) of subsection (1) of this section,
+
+sections 6 and 70 to 78 of the Railways Clauses Consolidation (Scotland) Act 1845 (c.33) (as originally enacted and not as amended by section 15 of the Mines (Working Facilities and Support) Act 1923 (c.20)), and
+
+(b) in any other case, section 6 of the Railways Clauses Consolidation (Scotland) Act 1845 (as referred to in paragraph (a)) and Part IV of Schedule 4 to the 1980 Act,
+
+are hereby incorporated with this section; and, in construing those Acts for the purposes of that subsection, this section is to be taken to be the special Act and Scottish Water is to be taken to be the promoter of the undertaking or company as the case may require.
+
+#### 47 Compulsory acquisition of land
+
+(1) Scottish Water may—
+
+(a) for the purposes of any of its core functions, or
+
+(b) for the purpose specified in section 46(1)(b),
+
+be authorised by the Scottish Ministers to purchase compulsorily under this subsection land (other than water rights) situated in Scotland.
+
+(2) Subsection (1) is—
+
+(a) without prejudice to any order under section 17 (acquisition of water rights) of the 1980 Act, and
+
+(b) subject to section 18 (authorisation of compulsory acquisition of land necessary for purposes of order under section 17) of that Act.
+
+(3) Scottish Water is, in respect of all of its core functions, a statutory undertaker for the purposes of section 120(1)(b) of the Local Government, Planning and Land Act 1980 (c.65) (persons to whose compulsory acquisition of an interest in land the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c.42) in certain circumstances applies).
+
+(4) Scottish Water may be authorised by the Scottish Ministers to purchase compulsorily, or may acquire by agreement, land in Scotland for giving in exchange for such land as is mentioned in section 1(2)(b) of that Act of 1947.
+
+(5) This section is subject to section 67(4).
+
+#### 48 Disposal of land
+
+(1) Scottish Water may dispose of land held by it in any manner, to whomsoever and for whatever purpose it wishes.
+
+(2) But Scottish Water may not, except with the consent of the Scottish Ministers, dispose of land under subsection (1) for a consideration less than the best that could reasonably be expected to be obtained on the open market.
+
+### General duties
+
+#### 49 Interests of customers
+
+The Scottish Ministers, when exercising their functions under or by virtue of this Act, the 1968 Act or the 1980 Act and Scottish Water, when exercising its functions, must have regard to the interests of every person [[^F72]whose premises are connected to, or might reasonably become connected to, the public water supply system or the public sewerage system (within the meaning of Part 2 of the Water Services etc. (Scotland) Act 2005 (asp 3)) or both;] and especially of such of those persons as—
+
+(a) are likely, by reason of a persistent disability or medical condition or of family circumstances, to require to have a much greater supply of water, or to make much greater use of facilities for the disposal of sewage, than might ordinarily have been expected, or
+
+(b) are ordinarily resident in a rural or remote part of Scotland.
+
+#### 50 Economy, efficiency and effectiveness
+
+Scottish Water must, in exercising its functions, seek to ensure that its resources are used economically, efficiently and effectively.
+
+#### 50A [[^F73]Development of assets
+
+(1) So far as it considers is not inconsistent with the economic, efficient and effective exercise of its functions, Scottish Water must take reasonable steps to develop the commercial value of its assets and expertise.
+
+(2) In complying with subsection (1), Scottish Water must have regard to any guidance for the time being issued by the Scottish Ministers.
+
+(3) In this section, “assets” means property, rights and other assets (whether tangible or intangible).]
+
+#### 51 Sustainable development
+
+(1) Scottish Water must, in exercising its functions, act in the way best calculated to contribute to the achievement of sustainable development.
+
+(2) Subsection (1) applies so far as is consistent with the purposes of any enactment relating to the functions of Scottish Water.
+
+(3) In complying with subsection (1) Scottish Water must have regard to any guidance for the time being issued by the Scottish Ministers.
+
+#### 51A [[^F74]Supporting renewable energy
+
+(1) So far as it considers is not inconsistent with the economic, efficient and effective exercise of its functions, Scottish Water must take reasonable steps to promote the use of its assets for the generation of renewable energy.
+
+(2) In complying with subsection (1), Scottish Water must have regard to any guidance for the time being issued by the Scottish Ministers.
+
+(3) In this section, “assets” means property, rights and other assets (whether tangible or intangible).]
+
+#### 52 Public access to land held by Scottish Water
+
+(1) The Scottish Ministers, in exercising their functions under or by virtue of this Act, the 1968 Act or the 1980 Act and Scottish Water, in exercising its functions, must have regard to the desirability of preserving for the public any freedom of access (including access for recreational purposes) to land held by Scottish Water.
+
+(2) This section is without prejudice to section 53(1) and (2)(a).
+
+#### 53 Environmental matters
+
+(1) The Scottish Ministers, in exercising their functions under or by virtue of this Act, the 1968 Act or the 1980 Act and Scottish Water, in exercising its functions, must have regard to the matters specified in subsection (2).
+
+(2) Those matters are—
+
+(a) the desirability of preserving for the public any freedom of access (including access for recreational purposes) to areas of forest, woodland, mountains, moor, bog, cliff, foreshore, loch or reservoir and to other places of natural beauty, and
+
+(b) the desirability of protecting and conserving—
+
+(i) buildings,
+
+(ii) sites, and
+
+(iii) objects,
+
+of archaeological, architectural, historic or scientific interest and of maintaining the availability to the public of any facility for visiting or inspecting any such building, site or object.
+
+(3) The Scottish Ministers and Scottish Water must, in exercising the functions referred to in subsection (1), further—
+
+(a) the conservation and enhancement of natural beauty and the conservation of flora and fauna, and
+
+(b) the conservation of geological or physiographical features of special interest.
+
+(4) Subsection (3) applies so far as is consistent with the purposes of any enactment relating to the functions of the Scottish Ministers or, as the case may be, Scottish Water (whether or not functions under or by virtue of this Act, the 1968 Act or the 1980 Act).
+
+#### 54 Protection of natural heritage
+
+(1) Scottish Natural Heritage (“SNH”) must by notice in writing notify Scottish Water of any area of land in Scotland which is a [[^F75]European site within the meaning of Regulation 10 of the Conservation (Natural Habitats, &c.) Regulations 1994 (S.I. 1994/2716)] .
+
+[^F76]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where SNH has given notice under subsection (1) in respect of an area of land and—
+
+[^F77]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F77]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F78]... the area ceases to be a European site,
+
+SNH must by notice in writing advise Scottish Water of that fact.
+
+(4) Where Scottish Water has received notice under subsection (1), it must (unless SNH has given notice under subsection (3) to the effect that the area of land in question is no longer a [[^F79]European site] ) consult SNH before commencing any scheme, work, operation or activity which is likely to prejudice significantly the qualities by reference to which the area of land [^F80]... is a European site.
+
+(5) Before commencing any scheme, work, operation or activity which appears to Scottish Water to be likely to affect adversely an area of land designated as a National Park under the National Parks (Scotland) Act 2000 (asp 10), Scottish Water must consult the National Park authority for the National Park.
+
+(6) Subsections (4) and (5) do not apply in relation to anything to be done by Scottish Water in an emergency but particulars of what is done and of the emergency must be notified by Scottish Water to SNH or, as the case may be, the National Park authority as soon as is practicable after the thing is done.
+
+#### 55 Consultation with Health Boards
+
+(1) Where it appears to Scottish Water that (whether or not as a result of any act or omission by it) services provided by it in the exercise of its core functions give rise to, or are likely to give rise to, a significant risk to public health in relation to the area of any Health Board, Scottish Water must—
+
+(a) consult the Health Board, and
+
+(b) exercise its core functions with a view to reducing or eliminating the risk to public health, having regard to any views expressed by the Health Board.
+
+(2) This section is without prejudice to section 11(6).
+
+### Miscellaneous
+
+#### 56 Directions
+
+(1) The Scottish Ministers must give Scottish Water directions—
+
+(a) as to the exercise of its powers under section 25 and schedule 3, and
+
+[[^F81](aa) requiring it to promote water conservation and water-use efficiency,]
+
+(b) otherwise as to how its affairs are to be managed and conducted.
+
+(2) Directions under subsection (1) may be of a general or specific character and may, in particular, include provision—
+
+(a) as to the nature and allocation of the responsibilities of the members and employees of Scottish Water,
+
+(b) requiring Scottish Water to obtain the approval of, or to consult, the Scottish Ministers before exercising such of its powers, or exercising them in such ways, as the directions may specify,
+
+(c) for any matter to which the directions relate to be determined, in such manner (if any) as the directions may specify, by a person other than the Scottish Ministers.
+
+(3) The Scottish Ministers may give Scottish Water other directions of a general or specific character as to the exercise of its functions.
+
+(4) Before giving any direction under this section, the Scottish Ministers must consult Scottish Water.
+
+(5) Scottish Water must comply with directions given under this Part.
+
+#### 56A [[^F82]Directions may set objectives
+
+(1) In particular, directions under section 56 may in respect of a period specified under section 29B(2) set objectives as to—
+
+(a) the standard of the services to be provided in the exercise of Scottish Water's core functions, and
+
+(b) the time by which—
+
+(i) a particular standard of any of those services is to be attained,
+
+(ii) any particular work required for or in connection with the provision of those services is (in part or whole) to be commenced or completed.
+
+(2) Different objectives may be set for different cases or categories of case.
+
+(3) In formulating objectives of a type referred to in subsection (1) for inclusion in directions under section 56, the Scottish Ministers must have regard to Scottish Water's duty under section 51(1).
+
+(4) Before giving directions under section 56 which set objectives of a type referred to in subsection (1), the Scottish Ministers must consult [[^F83]every water services provider and sewerage services provider and] [[^F84]Consumer Scotland] on the objectives.
+
+#### 56B Supplementary functions
+
+(1) The Scottish Ministers may by order confer on Scottish Water such additional or supplementary functions relating to the provision of water and sewerage services by Scottish Water as the Scottish Ministers consider appropriate so to confer.
+
+(2) The Scottish Ministers are to consult Scottish Water and the Commission on any order they propose to make under subsection (1).]
+
+#### 57 Information and reports
+
+(1) Scottish Water must provide the Scottish Ministers with such information relating to the exercise of its functions as they may require.
+
+(2) For that purpose Scottish Water must—
+
+(a) permit any person authorised to do so by the Scottish Ministers to inspect and make copies of its accounts and other records, and
+
+(b) provide that person with such explanations in relation to those accounts and records as the person or the Scottish Ministers may require.
+
+(3) Scottish Water must prepare—
+
+(a) a report on its activities during the period from the beginning of each financial year to 30th September in that year, and
+
+(b) a report on its activities during the whole of each financial year,
+
+as soon as practicable after the end of the period to which the report relates.
+
+(4) A report prepared under subsection (3)(a) must include a statement of accounts for the period to which the report relates; and subsection (2) of section 45 applies to such a statement of accounts as it applies to a statement of accounts prepared in accordance with that section.
+
+(5) A report prepared under subsection (3)(b) must include—
+
+(a) a description of the manner in which Scottish Water has complied, during the period to which the report relates, with its duties under sections 26, 28, 50 and 51, and
+
+(b) the reasons for any failure, during that period, to comply with its duties under sections 26 and 28.
+
+(6) Scottish Water must—
+
+(a) send a copy of each report prepared under subsection (3) to the Scottish Ministers, the [[^F85]Commission] [[^F86], every water services provider and sewerage services provider] and [[^F87]Consumer Scotland], and
+
+(b) publish the report.
+
+(7) A report prepared under subsection (3) must set out—
+
+[[^F88](a)] any directions under section 56 which have been given to Scottish Water during the period to which the report relates [[^F89], and
+
+(b) the extent to which Scottish Water has, during that period, complied with any requirements made under section 13(2) or 15(1) or (5) of the Water Services etc. (Scotland) Act 2005 (asp 3).]
+
+(8) The Scottish Ministers must lay a copy of a report sent to them under subsection (6) before the Parliament.
+
+#### 58 Records
+
+(1) This section applies to all records (in whatever form or medium)—
+
+(a) transferred to Scottish Water by virtue of this Act,
+
+(b) created or acquired by it in the exercise of any of its functions, or
+
+(c) otherwise in its keeping.
+
+[^F90]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F90]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F90]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Scottish Water—
+
+(a) must ensure that the Keeper has, at all reasonable hours, unrestricted access to the records preserved by it,
+
+(b) may afford facilities for any person to inspect and, on payment of a reasonable fee, to obtain copies of or extracts from those records.
+
+(6) Nothing in subsection (5)(b) permits infringement of copyright or contravention of conditions subject to which records are in the keeping of Scottish Water.
+
+(7) If any enactment makes provision relating to records of a specific kind which is inconsistent with subsections (1) to (6), those subsections are subject to that enactment.
+
+#### 59 Validity of actings
+
+The validity of any actings of Scottish Water is not affected by any failure to comply with a duty imposed on it under or by virtue of this Part.
+
+#### 60 Private legislation
+
+(1) Scottish Water may, if it thinks fit—
+
+(a) with the consent of the Scottish Ministers, promote private legislation in the Scottish Parliament,
+
+(b) oppose private legislation in the Parliament of the United Kingdom or the Scottish Parliament.
+
+(2) An application for consent under subsection (1)(a) must be accompanied by a concise summary of the purposes of the proposed legislation.
+
+(3) Such consent must be withheld if the Scottish Ministers consider that the powers sought by the private legislation could be obtained by means of an order under the 1968 Act or, as the case may be, the 1980 Act.
+
+#### 61 Supply of goods and services to and by local authorities
+
+The Local Authorities (Goods and Services) Act 1970 (c.39) has effect as if Scottish Water were both a local authority and a public body for the purposes of that Act.
+
+#### 62 Information from local authorities and assessors
+
+(1) The Scottish Ministers may by regulations require a local authority or an assessor to provide Scottish Water with relevant information in such form as the regulations may specify.
+
+(2) For the purposes of subsection (1), information is relevant if—
+
+(a) it is information falling within subsection (3), and
+
+(b) its possession by Scottish Water would, in the opinion of the Scottish Ministers, be likely to assist Scottish Water to make a charges scheme or to collect, or arrange to have collected, such charges as may be fixed by a charges scheme made by it.
+
+(3) Information falls within this subsection if it is held—
+
+(a) by the local authority in connection with their—
+
+(i) setting, levying or collecting council tax or council water charges (within the meaning of Part II of the Local Government Finance Act 1992 (c.14)) or the non-domestic water rate or non-domestic sewerage rate (as defined in paragraphs (c) and (d) of section 99(2) of that Act before the repeal of those paragraphs by the 1994 Act), or
+
+(ii) levying or collecting the non-domestic rate (as for the time being defined in section 37(1) of the Local Government (Scotland) Act 1975 (c.30), or
+
+(b) as the case may be, by the assessor in connection with the assessor’s functions under any enactment.
+
+(4) In this section—
+
+- “assessor” is to be construed in accordance with section 27 of the 1994 Act,
+- “information” includes, in particular, a copy of the whole, or of any part of, a valuation roll or valuation list.
+
+## Part 4 — Miscellaneous and general
+
+### Miscellaneous
+
+#### 63 Register of trade effluents: confidential information
+
+After section 37B of the 1968 Act insert—
+
+> **37C Exclusion from register of commercially confidential information**
+>
+> (1) Despite subsection (2) of section 37A of this Act, Scottish Water shall not enter in the register maintained under that section information relating to the affairs of any individual or business if—
+>
+> (a) it determines, on the application of the person providing the information, that it is commercially confidential (as regards that or any other person), and
+>
+> (b) the information is not information which is required to be entered in the register in pursuance of a direction under subsection (4) below.
+>
+> (2) If, on an application under subsection (1) above, Scottish Water fails to make a determination within the period of 21 days beginning with the date of the application, it shall be treated as having determined that the information is commercially confidential.
+>
+> (3) Where, on an application under subsection (1) above, Scottish Water determines that information is not commercially confidential, the information shall not be entered on the register until the end of the period of 21 days beginning with the date on which the determination is notified to the person concerned.
+>
+> (4) The Scottish Ministers may give Scottish Water directions as to specified information, or descriptions of information, which the public interest requires to be included in the register regardless of whether the information is commercially confidential.
+>
+> (5) Information excluded from the register by virtue of subsection (1) above shall be treated as ceasing to be commercially confidential for the purposes of this section on the expiry of the period of 4 years beginning with the date of the determination by virtue of which it was excluded unless Scottish Water determines, on the application of the person who provided the information, that it is still commercially confidential.
+>
+> (6) Subsection (2) above applies in relation to an application under subsection (5) above as it applies in relation to an application under subsection (1) above.
+>
+> (7) The Scottish Ministers may, by order made by statutory instrument, substitute (whether in all cases or in such descriptions of case as the order may specify) for the period for the time being specified in subsection (2) above such other period as they consider appropriate.
+>
+> (8) A statutory instrument containing an order under subsection (7) above is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+>
+> (9) Information is, for the purposes of any determination under this section, commercially confidential, in relation to any person, if its inclusion in the register would prejudice to an unreasonable degree the commercial interests of that person.
+
+#### 64 Works in connection with metering
+
+After section 24A of the 1980 Act insert—
+
+> **24B Works in connection with metering**
+>
+> (1) This section applies where, in relation to any premises (“the premises concerned”), the conditions specified in subsection (2) are satisfied.
+>
+> (2) The conditions referred to in subsection (1) are that—
+>
+> (a) Scottish Water is supplying or proposes to supply water to the premises,
+>
+> (b) such supply is or is to be by meter, and
+>
+> (c) there is a service pipe which is connected with a water main vested in Scottish Water and by which a supply of water is or could be provided to those premises.
+>
+> (3) Where this section applies, Scottish Water may serve a notice on the owner of the premises concerned requiring the execution, within such period of not less than 3 months as the notice shall specify, of such of the works mentioned in subsection (4) as the notice may specify.
+>
+> (4) The works referred to in subsection (3) are, in relation to the premises concerned—
+>
+> (a) works consisting of the installation and connection of any meter for use in determining the quantity of water supplied to the premises,
+>
+> (b) where a supply of water is or could be provided by the service pipe referred to in subsection (2)(c) to other premises as well as the premises concerned, works consisting of the installation, for any purpose connected with the installation or connection of such a meter, of a separate service pipe for the premises concerned, but only to the extent that such a pipe will constitute a supply pipe and is not required to be laid in a road,
+>
+> (c) works for the purpose of maintaining, repairing, disconnecting or removing—
+>
+> (i) any meter which has been installed for use in determining the quantity of water supplied to the premises, or
+>
+> (ii) any pipes or apparatus installed in the course of any works specified in this section, and
+>
+> (d) any other works appearing to Scottish Water to be necessary or expedient for any purpose connected with the carrying out of any works specified in paragraph (a), (b) or (c), including the installation and connection of any pipes or other apparatus on the premises and the alteration or removal of any of the plumbing of the premises.
+>
+> (5) In the case of any of the works mentioned in paragraph (a) of subsection (4) and paragraph (c)(i) of that subsection so far as relating to maintenance and repair of a meter, Scottish Water may execute the works itself instead of requiring the owner, under subsection (3), to execute the works.
+>
+> (6) If an owner upon whom a notice has been served under subsection (3) fails to comply with it, Scottish Water may itself execute the works which the owner was required by the notice to execute.
+>
+> (7) Where Scottish Water has served a notice under that subsection requiring the execution of the works mentioned in paragraph (b) of subsection (4), it shall, within 14 days after those works have been executed, lay so much of the separate service pipe referred to in that paragraph as will constitute a communication pipe or a supply pipe to be laid in a road and shall make all necessary connections.
+>
+> (8) Scottish Water may recover from the owner of the premises concerned any expenses reasonably incurred by it in executing any works under subsection (5), (6) or (7).
+>
+> (9) Subsection (8) is without prejudice to the rights and obligations, as between themselves, of the owner and occupier of the premises.
+
+#### 65 Contravention of water byelaws: penalties and proceedings
+
+(1) Section 72 (general provisions as to byelaws) of the 1980 Act is amended as follows.
+
+(2) In subsection (3) (maximum level of penalty), for “level 4” substitute “ level 5 ”.
+
+(3) After that subsection, insert—
+
+> (3A) Subject to subsection (3B), proceedings for any offence against such byelaws may be commenced at any time—
+>
+> (a) within 6 months after the date on which evidence sufficient in the opinion of the procurator fiscal to justify the proceedings came to the procurator fiscal’s knowledge, or
+>
+> (b) where such evidence was reported to the procurator fiscal by Scottish Water, within 6 months after the date on which it came to Scottish Water’s knowledge.
+>
+> (3B) No such proceedings shall be commenced more than 3 years after—
+>
+> (a) the date of the commission of the offence, or
+>
+> (b) in the case of a continuing offence, the last date on which the offence was committed.
+>
+> (3C) Subsection (3) of section 136 (time limit for certain offences) of the Criminal Procedure (Scotland) Act 1995 (c.46) applies for the purposes of this section as it applies for the purposes of that section.
+>
+> (3D) For the purposes of subsection (3A), a certificate signed by or on behalf of the procurator fiscal or, as the case may be, Scottish Water, and stating the date on which evidence such as is mentioned in that subsection came to the procurator fiscal’s or, as the case may be, Scottish Water’s knowledge shall be conclusive evidence of that fact.
+>
+> (3E) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+### General
+
+#### 66 Offences by bodies corporate and partnerships
+
+(1) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) any director, manager, secretary, member or other similar officer of the body corporate, or
+
+(b) any person who was purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where an offence under this Act which has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+#### 67 Crown application
+
+(1) This Act binds the Crown, but nothing in this section is to be taken as in any way affecting Her Majesty in her private capacity.
+
+(2) No contravention by the Crown of any provision made by or under this Act makes the Crown criminally liable; but the Court of Session may, on the application of any public authority or office-holder having responsibility for enforcing that provision, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(3) Despite subsection (2), any provision made by or under this Act applies to persons in the public service of the Crown as it applies to other persons.
+
+[[^F91](4) The powers conferred by section 47 are only exercisable—
+
+(a) in relation to land forming part of the Crown Estate, with the consent of the Crown Estate Commissioners, and
+
+(b) in relation to land to which section 90B(5) of the Scotland Act 1998 applies, with the consent of the person having the management of the land concerned.]
+
+#### 68 Orders and regulations
+
+(1) Any power of the Scottish Ministers to make orders or regulations under this Act is exercisable by statutory instrument.
+
+(2) Any such power includes power—
+
+(a) to make such incidental, supplemental, consequential, transitional, transitory or saving provision as the Scottish Ministers think necessary or expedient,
+
+(b) to make different provision for different purposes and different areas.
+
+(3) An order under section 24(3) or 69 may modify any enactment, instrument or document.
+
+(4) A statutory instrument containing an order or regulations under this Act (except sections 41(5)[[^F92], 56B] and 72(1) and, where subsection (5) of this section applies, sections 24(3) and 69) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(5) No order under section 24(3) or 69 containing provisions which add to, replace or omit any part of the text of an Act is to be made unless a draft has been laid before, and approved by resolution of, the Parliament.
+
+(6) No order is to be made under section 41(5) [[^F93]or 56B] unless a draft has been laid before, and approved by resolution of, the Parliament.
+
+#### 69 Ancillary provision
+
+The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes or in consequence of this Act.
+
+#### 70 Interpretation
+
+(1) In this Act, unless the context otherwise requires—
+
+- “the 1968 Act” means the Sewerage (Scotland) Act 1968 (c.47),
+
+- “the 1980 Act” means the Water (Scotland) Act 1980 (c.45),
+
+- “the 1994 Act” means the Local Government etc. (Scotland) Act 1994 (c.39),
+
+- “charges scheme” has the meaning given by section [[^F94]29A(1)] ,
+
+- [[^F95]“Citizens Advice Scotland” means the Scottish Association of Citizens Advice Bureaux,]
+
+- [[^F96]“the Commission” means the Water Industry Commission for Scotland established under section 1(1) of this Act,]
+
+- “financial year” means a period of 12 months ending with 31st March,
+
+- [[^F97]“the First-tier Tribunal for Scotland” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;]
+
+- “local authority” means a council constituted under section 2 of the 1994 Act,
+
+- “new water and sewerage authorities” means the bodies established by section 62(1) of the 1994 Act and—
+
+  - (a) a reference to a new water and sewerage authority is a reference to any of those bodies,
+  - (b) “water area” and “sewerage area”, in relation to any such authority, are to be construed in accordance with that section,
+
+- “the Parliament” means the Scottish Parliament.
+
+- [[^F98]“sewerage services provider” has the meaning given in section 6(4) of Water Services etc. (Scotland) Act 2005 (asp 3),
+
+- “water services provider” has the meaning given in section 6(2) of the Water Services etc. (Scotland) Act 2005.]
+
+[[^F99](2) In this Act, the references to core functions in relation to Scottish Water are to its functions under or by virtue of—
+
+(a) the 1968 Act and the 1980 Act,
+
+(b) any other enactment (including this Act) so far as relating to the provision of water or sewerage services in Scotland.]
+
+#### 71 Modification of enactments
+
+(1) Schedules 5 and 6 make modifications of, respectively, the 1968 Act and the 1980 Act.
+
+(2) Schedule 7 makes modifications of other enactments.
+
+#### 72 Commencement and short title
+
+(1) The provisions of this Act, other than this section and sections 66 to 70, come into force on such day as the Scottish Ministers may by order appoint.
+
+(2) This Act may be cited as the Water Industry (Scotland) Act 2002.
+
+## [[^F100]SCHEDULE A1 — Water Industry Commission for Scotland
+
+*(introduced by section 1(4))*
+
+### Status
+
+**1** (1) The Commission is a body corporate.
+
+(2) The Commission—
+
+(a) is not a servant or agent of the Crown,
+
+(b) has no status, immunity or privilege of the Crown,
+
+and its property is not to be regarded as property of, or held on behalf of, the Crown.
+
+### Membership
+
+**2** The Commission is to consist of the following members—
+
+(a) not fewer than 3, nor more than 5, ordinary members, and
+
+(b) the person holding the post of chief executive.
+
+### Tenure and removal from office
+
+**3** (1) Each ordinary member—
+
+(a) is to be appointed by the Scottish Ministers for such period as is specified in the appointment,
+
+(b) may, by written notice to the Scottish Ministers, resign as a member,
+
+(c) in other respects, holds and vacates office on such terms and conditions as the Scottish Ministers may determine, and
+
+(d) after ceasing to hold office is eligible for reappointment as a member.
+
+(2) The Scottish Ministers may remove an ordinary member from office and the Commission may, with the approval of the Scottish Ministers, remove the member who is the chief executive from office if satisfied that—
+
+(a) the member's estate has been sequestrated or the member has been adjudged bankrupt, has made an arrangement with creditors or has granted a trust deed for creditors or a composition contract, or
+
+(b) the member—
+
+(i) is incapacitated by physical or mental illness,
+
+(ii) has been absent from meetings of the Commission for a period longer than 3 consecutive months without the permission of the Commission, or
+
+(iii) is otherwise unable or unfit to discharge the functions of a member or is unsuitable to continue as a member.
+
+### Disqualification
+
+**4** A person is disqualified from appointment, and from holding office, as a member of the Commission if that person is a member of—
+
+(a) the House of Lords,
+
+(b) the House of Commons,
+
+(c) the Scottish Parliament, or
+
+(d) the European Parliament.
+
+### Chairing
+
+**5** (1) The Scottish Ministers—
+
+(a) must appoint one of the ordinary members to chair meetings of the Commission, and
+
+(b) may, after consulting that member, appoint another ordinary member to act as deputy to that member.
+
+(2) The member appointed to chair the meetings and any member appointed to act as deputy to that member hold and vacate office as such in accordance with the terms of their appointments.
+
+(3) A member so appointed may, by written notice to the Scottish Ministers, resign from office as such.
+
+(4) A member so appointed vacates office on ceasing to be a member of the Commission.
+
+(5) Where a member—
+
+(a) is appointed to chair meetings or to act as deputy to the member so appointed, or
+
+(b) ceases to hold office as such,
+
+the Scottish Ministers may vary the terms of the member's appointment so as to alter the date on which office as a member is to be vacated.
+
+### Remuneration, allowances and pensions
+
+**6** (1) The Commission must pay to each ordinary member such remuneration as the Scottish Ministers may determine.
+
+(2) The Commission must pay to each ordinary member and the chief executive such allowances as the Scottish Ministers may determine in respect of expenses properly incurred in the performance of their duties as a member.
+
+(3) Where a person ceases to be an ordinary member otherwise than on the expiry of that person's term of appointment, the Scottish Ministers may, if they think there are special circumstances, direct the Commission to pay to the person such amount of compensation as they may determine.
+
+(4) The Scottish Ministers may direct the Commission to pay—
+
+(a) such pension, allowance or gratuity to, or in respect of, any person who is or has been an ordinary member,
+
+(b) such contribution or other payment towards provision for such pension, allowance or gratuity,
+
+as they consider appropriate.
+
+### Chief executive
+
+**7** (1) The Commission is to employ a chief executive.
+
+(2) The Scottish Ministers are to appoint the first chief executive of the Commission on such terms and conditions as the Scottish Ministers may determine.
+
+(3) Before making the appointment of the first chief executive, the Scottish Ministers must consult the member of the Commission appointed, or to be appointed, to chair the meetings of the Commission (if there is a person holding, or as the case may be designated to hold, that office).
+
+(4) The Commission may, with the approval of the Scottish Ministers, make subsequent appointments to the post of chief executive on such terms and conditions as it may with the approval of the Scottish Ministers determine.
+
+(5) The chief executive is to be appointed from amongst persons who appear—
+
+(a) as regards the first appointment, to the Scottish Ministers, and
+
+(b) thereafter, to the Commission,
+
+to have knowledge, skills or experience relevant to the functions of the Commission.
+
+(6) The Commission may, with the approval of the Scottish Ministers—
+
+(a) vary any terms and conditions of a person's appointment to the post of chief executive, or
+
+(b) terminate a person's appointment to the post of chief executive if the Commission is satisfied that the person is not adequately discharging the functions of that post.
+
+### Staff
+
+**8** (1) All staff employed, immediately before the coming into force of this sub-paragraph, by the Water Industry Commissioner for Scotland are transferred to the employment of the Commission.
+
+(2) The contract of employment of a person transferred by virtue of sub-paragraph (1)—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the date of transfer as if originally made between the person and the Commission.
+
+(3) Without prejudice to sub-paragraph (2), where a person becomes a member of staff of the Commission under sub-paragraph (1)—
+
+(a) all the rights, powers, duties and liabilities of the Water Industry Commissioner for Scotland under or in connection with that person's contract of employment are by virtue of this sub-paragraph transferred to the Commission on the date of transfer, and
+
+(b) anything done before that date by or in relation to the Water Industry Commissioner for Scotland in respect of that contract of employment or that person is to be treated from that date as having been done by, or in relation to, the Commission.
+
+(4) Sub-paragraphs (1) to (3) do not prejudice the right of any person to terminate that person's contract of employment if the terms and conditions of employment are changed substantially to the detriment of the person; but such a change is not to be taken to have occurred by reason only that the identity of that person's employer changes by virtue of those sub-paragraphs.
+
+(5) The Commission may, with the consent of the Scottish Ministers as to numbers, terms and conditions, appoint such other employees as it considers appropriate.
+
+(6) The Commission must, as regards such of its employees as it may with the approval of the Scottish Ministers determine, make such arrangements as it considers appropriate for providing, to or in respect of those employees, pensions, allowances or gratuities.
+
+(7) Such arrangements—
+
+(a) may include the establishment and administration, by the Commission or otherwise, of one or more pension schemes, and
+
+(b) must, in any case, be approved by the Scottish Ministers.
+
+(8) The reference in sub-paragraph (6) to the provision of pensions, allowances or gratuities includes a reference to their provision by way of compensation for loss of office or employment or loss or diminution of emoluments.
+
+### Transfer of property and liabilities
+
+**9** (1) All property (including rights) and liabilities, subsisting immediately before the coming into force of this paragraph, of the Water Industry Commissioner for Scotland are transferred to the Commission.
+
+(2) Sub-paragraph (1) has effect in relation to any property and liabilities to which it applies despite any provision (of whatever nature) which would otherwise prevent, penalise or prohibit the transfer of the property or liabilities.
+
+### Committees
+
+**10** (1) The Commission may establish committees for or in connection with the exercise of such of its functions as it may determine.
+
+(2) Any committee established under this paragraph must be chaired by a person who is an ordinary member of the Commission.
+
+(3) Employees of the Commission who are not members of the Commission may be appointed to be members of any committee established by it.
+
+### Delegation of powers
+
+**11** (1) Anything authorised or required under any enactment to be done by the Commission may be done by any of its committees which, or by any of its members or employees who, are authorised (whether generally or specifically) by it for the purpose.
+
+(2) Nothing in sub-paragraph (1) prevents the Commission from doing anything that a committee, member or employee has been authorised or required to do.
+
+### Proceedings
+
+**12** (1) The Commission may regulate its own procedure (including any quorum) and that of any of its committees.
+
+(2) The validity of any proceedings or actings of the Commission is not affected by—
+
+(a) any vacancy among its members, or
+
+(b) any defect in the appointment of a member.
+
+### General powers
+
+**13** (1) The Commission may do anything which appears necessary or expedient for the purpose of, or in connection with, the exercise of its functions including, in particular—
+
+(a) entering into contracts; and
+
+(b) acquiring and disposing of property.
+
+(2) But the Commission may not acquire or dispose of land without the consent of the Scottish Ministers.
+
+### Accounts
+
+**14** The Commission must—
+
+(a) prepare for each financial year, in accordance with directions given by the Scottish Ministers, an account of the Commission's income and expenditure, and
+
+(b) send the account, by such time as the Scottish Ministers may direct, to the Auditor General for Scotland for auditing.]
+
+## SCHEDULE 1 — Water Industry Commissioner and Customer Panels: further provision
+
+*(*introduced by sections 1 and 2*)*
+
+### [^F101]Part 1 — The Commissioner
+
+#### Appointment
+
+**[^F101]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Staff
+
+**[^F101]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Status
+
+**[^F101]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Accounts
+
+**[^F101]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F102]Part 2 — Customer Panels
+
+#### Convener
+
+**[^F102]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Membership
+
+**[^F102]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Remuneration and allowances
+
+**[^F102]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Administrative support
+
+**[^F102]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Proceedings
+
+**[^F102]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Drinking Water Quality Regulator: further provision as to powers of entry etc.
+
+*(*introduced by section 18*)*
+
+### Notice of entry
+
+**1** (1) The Regulator is entitled to demand entry into any premises as of right by virtue of section 9(1), 12(2)(a) or 13(3)(a) (in this schedule referred to as “the relevant provisions”) only at a reasonable time, except in an emergency.
+
+(2) Unless the premises are premises of a public water supplier, the Regulator must give 24 hours’ notice of the intended entry to the occupier of the premises.
+
+### Warrant to exercise right or power
+
+**2** (1) If a sheriff or a justice of the peace is satisfied, by evidence on oath, that—
+
+(a) there are reasonable grounds for the exercise in relation to any premises of a power conferred by the relevant provisions, and
+
+(b) one or more of the conditions specified in sub-paragraph (2) is fulfilled in relation to those premises,
+
+the sheriff or justice may by warrant authorise the Regulator and any person authorised by the Regulator for the purpose to exercise the power in relation to those premises in accordance with the warrant and, if need be, by force.
+
+(2) The conditions mentioned in sub-paragraph (1) are—
+
+(a) that the exercise of the power in relation to the premises has been refused,
+
+(b) that such a refusal is reasonably apprehended,
+
+(c) that the premises are unoccupied,
+
+(d) that the occupier is temporarily absent from the premises,
+
+(e) that the case is one of urgency,
+
+(f) that an application for admission to the premises would defeat the object of the proposed entry.
+
+(3) A sheriff or justice must not issue a warrant under this schedule by virtue only of being satisfied that a condition specified in sub-paragraph (2)(a) or (b) is fulfilled unless the sheriff or justice is also satisfied—
+
+(a) that notice of the intention to apply for the warrant has been given to the occupier of the premises, or
+
+(b) that the giving of such notice would defeat the object of the proposed entry.
+
+(4) A warrant under this schedule continues in force until the purposes for which the warrant was issued have been fulfilled.
+
+### Evidence of authority
+
+**3** A person entitled to exercise any power conferred by the relevant provisions must, if required to do so, produce written evidence of that entitlement.
+
+### Supplementary powers
+
+**4** A person entitled to enter any premises by virtue of any power conferred by the relevant provisions is entitled, subject in the case of a power exercisable under a warrant to the terms of the warrant, to take on to the premises such other persons and such equipment as may be necessary.
+
+### Duty to secure premises
+
+**5** A person who enters any premises in the exercise of any power conferred by the relevant provisions must leave the premises as effectually secured against trespassers as that person found them.
+
+### Compensation
+
+**6** (1) Where any person exercises any power conferred by the relevant provisions, the Scottish Ministers must make full compensation to any person who has sustained loss or damage by reason of—
+
+(a) the exercise by the person of that power or of any power to take any person or equipment on to the premises in relation to which the power is exercised, or
+
+(b) the performance of, or failure of the person to perform, the duty imposed by paragraph 5.
+
+(2) Compensation is not payable by virtue of sub-paragraph (1) in respect of any loss or damage if the loss or damage—
+
+(a) is attributable to the default of the person who sustained it, or
+
+(b) is loss or damage in respect of which compensation is payable by virtue of any other provision of this Act.
+
+(3) Any dispute as to a person’s entitlement to compensation under this paragraph, or as to the amount of any such compensation, is to be referred to the arbitration of a single arbiter appointed by agreement between the Scottish Ministers and the person who claims to have sustained the loss or damage or, in default of agreement, by the President of the Lands Tribunal for Scotland.
+
+### Commercially confidential information
+
+**7** (1) Any person who enters any premises in the exercise of any power conferred by the relevant provisions and who makes use of or discloses any information obtained by that person on those premises with regard to any manufacturing process or trade secret is guilty of an offence.
+
+(2) A person guilty of an offence under sub-paragraph (1) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum,
+
+(b) on conviction on indictment, to a fine.
+
+### Interpretation
+
+**8** For the purposes of paragraphs 5 and 6 a person enters any premises in the exercise of a power conferred by the relevant provisions despite a failure (whether by virtue of the waiver of the requirement by the occupier of the premises or otherwise) to comply with—
+
+(a) any requirement to enter those premises at a reasonable time or after giving notice of intended entry, or
+
+(b) the requirement imposed by paragraph 3.
+
+## SCHEDULE 3 — Scottish Water: status, constitution, proceedings etc.
+
+*(*introduced by section 20*)*
+
+### Status
+
+**1** Scottish Water—
+
+(a) is not to be regarded as a servant or agent of the Crown,
+
+(b) does not have any status, immunity or privilege of the Crown,
+
+and its property is not to be regarded as property of, or held on behalf of, the Crown.
+
+### Membership
+
+**2** (1) Scottish Water is to consist of a board comprising—
+
+(a) not fewer than 5, nor more than 8, non-executive members, and
+
+(b) not fewer than [[^F103]2], nor more than 5, executive members.
+
+[[^F104](2) Where the number of executive members is 2, the number of non-executive members must not be fewer than 5, in accordance with paragraph 2(1).]
+
+[[^F105](2A) Where the number of executive members is 3 or more, the number of non-executive members must exceed the number of executive members by at least 2.]
+
+(3) The non-executive members are to be appointed by the Scottish Ministers from amongst persons who appear to them to have knowledge or experience relevant to the functions of Scottish Water.
+
+(4) One of the non-executive members to be appointed under sub-paragraph (3) must be a person appearing to the Scottish Ministers to have special knowledge of the interests of the employees of Scottish Water.
+
+(5) Before inviting applications for appointment as that member, the Scottish Ministers must consult such persons representing those employees as they think fit as to—
+
+(a) the particular knowledge of such interests, and
+
+(b) any other attributes,
+
+that persons seeking such appointment should possess.
+
+(6) The chief executive of Scottish Water is to be one of its executive members and the other executive members are to be appointed by Scottish Water, with the approval of the Scottish Ministers, from amongst its other employees.
+
+### Tenure and removal from office
+
+**3** (1) Each member other than the chief executive—
+
+(a) is to be appointed for such period as is specified in the appointment,
+
+(b) may, by written notice to—
+
+(i) in the case of a non-executive member, the Scottish Ministers,
+
+(ii) in the case of an executive member, Scottish Water,
+
+resign as a member,
+
+(c) in other respects, holds and vacates office on such terms and conditions as—
+
+(i) in the case of a non-executive member, the Scottish Ministers,
+
+(ii) in the case of an executive member, Scottish Water with the approval of the Scottish Ministers,
+
+may determine,
+
+(d) after ceasing to hold office is eligible for reappointment as a member.
+
+(2) The Scottish Ministers may remove a non-executive member, and Scottish Water may, with the approval of the Scottish Ministers, remove an executive member, from office if satisfied that—
+
+(a) the member’s estate has been sequestrated or the member has been adjudged bankrupt, has made an arrangement with creditors or has granted a trust deed for creditors or a composition contract, or
+
+(b) the member—
+
+(i) is incapacitated by physical or mental illness,
+
+(ii) has been absent from meetings of Scottish Water for a period longer than 3 consecutive months without the permission of Scottish Water, or
+
+(iii) is otherwise unable or unfit to discharge the member’s functions as a member or is unsuitable to continue as a member.
+
+(3) Without prejudice to its powers under sub-paragraph (2), Scottish Water may, with the approval of the Scottish Ministers, remove an executive member from office if it considers it necessary or expedient to do so in connection with the management of the affairs of Scottish Water.
+
+(4) An executive member ceases to hold office as such on ceasing to be an employee of Scottish Water.
+
+(5) A person who ceases to be an executive member does not, by reason only of that, cease to be an employee of Scottish Water.
+
+### Chairing
+
+**4** (1) The Scottish Ministers—
+
+(a) must appoint one of the non-executive members to chair the board, and
+
+(b) may, after consulting that member, appoint another non-executive member to act as deputy to that member.
+
+(2) The member appointed to chair the board and any member appointed to act as deputy to that member hold and vacate office as such in accordance with the terms of their appointments.
+
+(3) A member so appointed may, by written notice to the Scottish Ministers, resign from office as such.
+
+(4) A member so appointed vacates office on ceasing to be a non-executive member of Scottish Water.
+
+(5) Where a non-executive member—
+
+(a) is appointed to chair the board or to act as deputy to the member so appointed, or
+
+(b) ceases to hold office as such,
+
+the Scottish Ministers may vary the terms of the member’s appointment so as to alter the date on which office as a non-executive member is to be vacated.
+
+### Remuneration, allowances and pensions
+
+**5** (1) Scottish Water must pay to those of its members holding an office specified in sub-paragraph (5) such remuneration as the Scottish Ministers may determine.
+
+(2) Scottish Water must pay to those members and the other members such allowances as the Scottish Ministers may determine in respect of expenses properly incurred in the performance of their duties.
+
+(3) Where a person ceases to be a non-executive member otherwise than on the expiry of that person’s term of office, the Scottish Ministers may, if they think there are special circumstances, direct Scottish Water to pay to the person such amount of compensation as they may determine.
+
+(4) The Scottish Ministers may direct Scottish Water to pay—
+
+(a) such pension, allowance or gratuity to, or in respect of, any person who holds or has held any office specified in sub-paragraph (5),
+
+(b) such contribution or other payment towards provision for such pension, allowance or gratuity,
+
+as they consider appropriate.
+
+(5) The offices referred to in sub-paragraphs (1) and (4)(a) are—
+
+(a) non-executive member,
+
+(b) member appointed to chair the board, and
+
+(c) member appointed to act as deputy to that member.
+
+### Chief executive and other staff
+
+**6** (1) The Scottish Ministers must, after consultation with the member appointed, or to be appointed, to chair the board (if there is a person holding, or as the case may be designated to hold, that office), make the first appointment of chief executive of Scottish Water on such terms and conditions as the Scottish Ministers may determine.
+
+(2) Scottish Water may, with the approval of the Scottish Ministers, make subsequent appointments to the post of chief executive on such terms and conditions as it may with the approval of the Scottish Ministers determine.
+
+(3) Scottish Water may appoint on such terms and conditions as it may with the approval of the Scottish Ministers determine such other employees as it considers appropriate.
+
+(4) Scottish Water must, as regards such of its employees as it may with the approval of the Scottish Ministers determine, make such arrangements as it considers appropriate for providing, to or in respect of those employees, pensions, allowances or gratuities.
+
+(5) Such arrangements—
+
+(a) may include the establishment and administration, by Scottish Water or otherwise, of one or more pension schemes, and
+
+(b) must, in any case, be approved by the Scottish Ministers.
+
+(6) The reference in sub-paragraph (4) to the provision of pensions, allowances or gratuities includes a reference to their provision by way of compensation for loss of office or employment or loss or diminution of emoluments.
+
+### Committees
+
+**7** (1) Scottish Water may establish committees for or in connection with the exercise of such of its functions as it may determine.
+
+(2) Employees of Scottish Water who are not members of Scottish Water may be appointed to be members of any committee established by it.
+
+### Proceedings
+
+**8** The quorum of Scottish Water and any committee established under paragraph 7(1), and the arrangements for its meetings and meetings of any such committee, are to be such as Scottish Water may determine.
+
+### Delegation of powers
+
+**9** (1) Anything authorised or required under any enactment to be done by Scottish Water may be done by any of its committees which, or by any of its members or employees who, are authorised (whether generally or specifically) for the purpose by it.
+
+(2) Nothing in sub-paragraph (1) prevents Scottish Water from doing anything that a committee, member or employee has been authorised or required to do.
+
+### Validity of proceedings and actings
+
+**10** The validity of any proceedings or actings of Scottish Water is not affected by—
+
+(a) any vacancy among its members, or
+
+(b) any defect in the appointment of a member.
+
+### Transitory arrangements: initial appointments
+
+**11** (1) Until the first appointment of the non-executive member mentioned in sub-paragraph (4) of paragraph 2—
+
+(a) sub-paragraph (1)(a) of that paragraph has effect as if for “5” there were substituted “ 4 ”,
+
+(b) sub-paragraph (2) of that paragraph has effect as if for “2” there were substituted “ 1 ”, and
+
+(c) the constitution of Scottish Water, and the validity of any of its proceedings or actings, may not be questioned by reason only that sub-paragraph (4) of that paragraph has not been complied with.
+
+(2) Sub-paragraph (1)(c) of this paragraph is without prejudice to paragraph 10.
+
+**12** (1) The Scottish Ministers may appoint, on such terms and conditions as they may determine, persons to act as executive members until the appointment of the first executive members by Scottish Water under paragraph 2(6).
+
+(2) A person appointed by the Scottish Ministers under sub-paragraph (1)—
+
+(a) must be a person who is expected to become an employee of Scottish Water (whether by virtue of section 23 or paragraph 6(3) of this schedule),
+
+(b) is to be treated (except for the purposes of paragraph 3 of this schedule) as an executive member whilst acting as such,
+
+(c) may resign office by written notice to the Scottish Ministers,
+
+(d) may be removed from office by the Scottish Ministers,
+
+(e) in other respects, holds and vacates offices in accordance with the terms and conditions of the appointment.
+
+## SCHEDULE 4 — Recovery by local authority of unpaid charges
+
+*(*introduced by section 37*)*
+
+**1** This schedule applies to any sum which has become payable to a local authority by virtue of section 37 and has not been paid (including a sum forming part of a larger sum which has become payable and the other part of which has been paid).
+
+**2** (1) Any sum to which this schedule applies may be recovered by the local authority by diligence—
+
+(a) authorised by a summary warrant granted under sub-paragraph (2), or
+
+(b) in pursuance of a decree granted in an action for payment.
+
+(2) The sheriff, on an application by the authority which is accompanied by a certificate from them containing such particulars as may be prescribed by the Scottish Ministers by regulations, must grant a summary warrant in a form provided for by Act of Sederunt authorising the recovery, by way of any of the diligences mentioned in sub-paragraph (3), of the amount of the sum remaining due and unpaid along with a surcharge of 10 per cent of that amount.
+
+(3) The diligences referred to in sub-paragraph (2) are—
+
+[[^F106](za) an attachment,]
+
+[[^F107](zb) a money attachment;]
+
+(a) an earnings arrestment,
+
+(b) an arrestment and action of furthcoming or sale.
+
+(4) It is incompetent for the sheriff to grant a summary warrant under sub-paragraph (2) in respect of any sum to which this schedule applies if an action has already been raised for the recovery of that sum; and, without prejudice to sub-paragraph (5), on the raising of an action for the recovery of any such sum, any existing summary warrant, in so far as it relates to the recovery of that sum, ceases to have effect.
+
+(5) It is incompetent to raise an action for the recovery of any sum to which this schedule applies if, in pursuance of a summary warrant, any of the diligences mentioned in sub-paragraph (3) for the recovery of that sum has been executed.
+
+(6) The Scottish Ministers may by order substitute another percentage for the percentage which is for the time being mentioned in sub-paragraph (2).
+
+**3** No misnomer or inaccurate description of any person or place, or mistake of informality, in any notice or other document or communication relating to a demand for, or the recovery of, charges payable to the local authority by virtue of section 37 or in any proceedings for the payment of such charges prejudices such recovery.
+
+**4** (1) [[^F108]Without prejudice to section 39(1) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) (expenses of attachment) and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment),] the sheriff officer’s fees, together with the outlays necessarily incurred by the sheriff officer, in connection with the execution of a summary warrant under paragraph 2 are chargeable against the debtor.
+
+(2) But no fees are chargeable by the sheriff officer against the debtor for collecting, and accounting to the local authority for, the sums paid to the sheriff officer by the debtor in satisfaction of an amount owing to the authority by way of charges payable to them by virtue of section 37.
+
+## SCHEDULE 5 — Modifications of Sewerage (Scotland) Act 1968
+
+*(*introduced by section 71*)*
+
+**1** The Sewerage (Scotland) Act 1968 (c.47) is amended as follows.
+
+**2** In each of the following provisions, for “a sewerage authority” wherever the expression occurs substitute “ Scottish Water ”
+
+- section 1(2)(a) and (3),
+- section 3(1), (2) and (3),
+- section 3A(1),
+- section 4,
+- section 7(1) and (3),
+- section 10(1),
+- section 11(1), (2) and (3),
+- section 12(3), (4) and (8),
+- section 14(1) and (6),
+- section 15(1) and (4),
+- section 16(1) and (3),
+- section 16A(1),
+- section 17(2) and (4),
+- section 20(1), (4) and (5),
+- section 22(1), (2A) and (3),
+- section 23,
+- section 24,
+- section 25,
+- section 26,
+- section 27(1),
+- section 28(1),
+- section 29(1),
+- section 30(1),
+- section 32(1),
+- section 36(1),
+- section 37(1) and (3),
+- section 37A(1) and (3),
+- section 38(1),
+- section 39,
+- section 44,
+- section 45(1),
+- section 48(1),
+- section 53.
+
+**3** In each of the following provisions, for “the sewerage authority” wherever the expression occurs substitute “ Scottish Water ”
+
+- section 1(2)(b) and (4),
+- section 3(2),
+- section 3A(2),
+- section 11(4),
+- section 12(8),
+- section 15(1),
+- section 16(2),
+- section 16A(2),
+- section 17(3),
+- section 20(4),
+- section 21(1),
+- section 23,
+- section 31,
+- section 32(2),
+- section 33(2),
+- section 34,
+- section 35,
+- section 36(2),
+- section 37(4) and (6),
+- section 42(2),
+- section 48(3),
+- section 51(2) and (4).
+
+**4** In each of the following provisions, for “the authority” wherever the expression occurs substitute “ Scottish Water ”
+
+- section 1(4),
+- section 3A(2),
+- section 4,
+- section 8(1),
+- section 10(2),
+- section 11(1),
+- section 12(3),
+- section 14(1) and (5),
+- section 16(1)(b) and (2),
+- section 20(1) and (3),
+- section 21(1),
+- section 24(1) and (2),
+- section 26,
+- section 27(1), (3), (4) and (5),
+- section 28(2),
+- section 29(3) and (6),
+- section 31,
+- section 32(3), (5) and (7),
+- section 35,
+- section 36(2),
+- section 37(4), (5), (6) and (7),
+- section 37A(2),
+- section 38(2),
+- section 45(1),
+- section 48(1),
+- section 51(3).
+
+**5** In section 1 (duty of sewerage authority to provide for sewerage of their area)—
+
+(a) in subsection (1)—
+
+(i) for “each of the sewerage authorities” substitute “ Scottish Water ”,
+
+(ii) for “their”, in both places where it occurs, substitute “ its ”,
+
+(b) in subsection (2)(a), for “their”, in the first place where it occurs, substitute “ its ”,
+
+(c) in subsection (4), before “private provider”, in the second and third places where the expression occurs, insert “ the ”.
+
+**6** In section 2 (maintenance of public sewers and other works)—
+
+(a) for “each of the sewerage authorities” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”,
+
+(c) for the words from “Part” to the end substitute “ the Water Industry (Scotland) Act 2002 (asp 3) ”.
+
+**7** In section 3 (construction etc. of public sewers and public sewage treatment works)—
+
+(a) in subsection (1)—
+
+(i) the words “within or outwith their area” are repealed,
+
+(ii) in paragraph (b), for “them” substitute “ it ”,
+
+(b) in subsection (2), for “their” substitute “ its ”,
+
+(c) subsection (4) is repealed.
+
+**8** In section 3A (authorisation of construction of certain private sewers)—
+
+(a) in subsection (1)—
+
+(i) for “their” in each place where it occurs substitute “ its ”,
+
+(ii) for “them” substitute “ it ”,
+
+(b) in subsection (2)—
+
+(i) for “their” substitute “ its ”,
+
+(ii) for “they” in the first place where it occurs substitute “ it ”,
+
+(iii) for “them” in both places where it occurs substitute “ it ”,
+
+(iv) for “they think” substitute “ it thinks ”.
+
+**9** In section 4 (power of sewerage authority to close or alter public sewers etc.)—
+
+(a) for “they think” substitute “ it thinks ”,
+
+(b) for “them” substitute “ it ”,
+
+(c) for the words from “Part” to “1994” substitute “ the Water Industry (Scotland) Act 2002 (asp 3) ”,
+
+(d) for “they” in the second place where it occurs substitute “ it ”,
+
+(e) for “their” substitute “ its ”.
+
+**10** Section 6(functions outwith area of a sewerage authority) is repealed.
+
+**11** In section 7 (agreements between roads and sewerage authorities)—
+
+(a) subsection (2) is repealed,
+
+(b) in subsection (3)—
+
+(i) the words from “and” where it first occurs to “thereto” are repealed,
+
+(ii) for “any authority” substitute “ a roads authority or Scottish Water ”,
+
+(iii) for “authorities concerned” substitute “ authority concerned and Scottish Water ”.
+
+**12** In section 8 (agreements as to provision of sewers etc. for new premises)—
+
+(a) in subsection (1)—
+
+(i) for “a sewerage authority are” substitute “ Scottish Water is ”,
+
+(ii) for “their” substitute “ its ”,
+
+(iii) for “they” substitute “ it ”,
+
+(iv) for “them” substitute “ it ”,
+
+(b) in subsection (2)—
+
+(i) for “an authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority have” substitute “ it has ”.
+
+**13** In section 9 (loan of temporary sanitary conveniences), for—
+
+(a) “the sewerage authority concerned”, and
+
+(b) in the proviso, “the sewerage authority”,
+
+substitute “ Scottish Water ”.
+
+**14** In section 10 (emptying of septic tanks)—
+
+(a) in subsection (1), for “their” in each place where it occurs substitute “ its ”,
+
+(b) in subsection (2), for “they think” substitute “ it thinks ”,
+
+(c) in subsection (4), for the words from “Part” to “1994” substitute “ the Water Industry (Scotland) Act 2002 (asp 3) ”.
+
+**15** In section 11 (duty of sewerage authority to keep map showing public sewers etc.)—
+
+(a) for “their” wherever it occurs substitute “ its ”,
+
+(b) in subsection (1)—
+
+(i) for “them” substitute “ it ”,
+
+(ii) for the words from “Part” to “1994” substitute “ the Water Industry (Scotland) Act 2002 (asp 3) ”,
+
+(iii) for “they have” substitute “ it has ”,
+
+(c) in subsection (3)—
+
+(i) for “they consider” substitute “ it considers ”,
+
+(ii) for “the authority” substitute “ it ”,
+
+(iii) for “they do” substitute “ it does ”.
+
+**16** In section 12 (rights of owners and occupiers to connect with and drain into public sewers etc.)—
+
+(a) in subsection (1)—
+
+(i) the words “within the area of a sewerage authority” are repealed,
+
+(ii) for “that authority” substitute “ Scottish Water ”,
+
+(b) in subsection (2), for “an authority” substitute “ Scottish Water ”,
+
+(c) in subsection (3)—
+
+(i) for “them” in the second place where it occurs substitute “ it ”,
+
+(ii) for “they think” substitute “ it thinks ”,
+
+(d) in subsection (4), for “their” in both places where it occurs substitute “ its ”,
+
+(e) in subsection (6)—
+
+(i) for “the sewerage authority who granted it” substitute “ Scottish Water ”,
+
+(ii) for “them” in both places where it occurs substitute “ it ”,
+
+(f) in subsection (7)—
+
+(i) for “the sewerage authority who granted the permission” substitute “ Scottish Water ”,
+
+(ii) for “them” substitute “ it ”,
+
+(g) in subsection (8), for “them” substitute “ it ”.
+
+**17** Section 13(rights of owners and occupiers to connect with and drain into sewers etc. of another sewerage authority) is repealed.
+
+**18** In section 14 (direction by sewerage authority as to manner of construction of works)—
+
+(a) in subsection (1)—
+
+(i) the words “or that subsection as applied by section 13 above” are repealed,
+
+(ii) for “they consider” substitute “ it considers ”,
+
+(iii) for “they have” substitute “ it has ”,
+
+(iv) for “them” substitute “ it ”,
+
+(b) in subsection (2), for the words from “the sewerage” to the end substitute “ Scottish Water ”,
+
+(c) in subsection (4)—
+
+(i) for the words “the sewerage authority who issued it” substitute “ Scottish Water ”,
+
+(ii) for “them” in both places where it occurs substitute “ it ”,
+
+(d) in subsection (5)—
+
+(i) for the words “An authority who issue a direction under subsection (1) above” substitute “ Where Scottish Water has issued a direction under subsection (1) above, it ”,
+
+(ii) for “they” substitute “ it ”,
+
+(iii) for “their” substitute “ its ”.
+
+**19** In section 15 (owner or occupier to remedy defects in drains and other works)—
+
+(a) in subsection (1)—
+
+(i) after “their” insert “ or, as the case may be, its ”,
+
+(ii) for “the authority in question” substitute “ the local authority or, as the case may be, Scottish Water ”,
+
+(b) in subsection (3)—
+
+(i) before “authority” in both places where it occurs insert “ local ”,
+
+(ii) after “notice” in the second place where it occurs insert “ or, where the notice was served by Scottish Water, that body ”,
+
+(iii) after “them” in both places where it occurs insert “ or, as the case may be, it ”,
+
+(iv) after “question” insert “ or, as the case may be, Scottish Water ”,
+
+(v) after “think” insert “ or it thinks ”,
+
+(c) in subsection (4)(c)—
+
+(i) before “authority” insert “ local ”,
+
+(ii) after “notice” insert “ or, where the notice was served by Scottish Water, that body ”,
+
+**20** In section 16 (vesting of sewers and other works in sewerage authority)—
+
+(a) in subsection (1)—
+
+(i) for “them” in each place where it occurs substitute “ it ”,
+
+(ii) for “their” in each place where it occurs substitute “ its ”,
+
+(iii) in paragraph (cc), for “they enter” substitute “ it enters ”,
+
+(b) in subsection (2), for “1st April 1996” substitute “ the date when section 21 of the Water Industry (Scotland) Act 2002 (asp 3) comes into force ”,
+
+(c) in subsection (3), for “the authority who” substitute “ Scottish Water which ”.
+
+**21** In section 16A (vesting of certain private sewers)—
+
+(a) in subsection (1), for “their” substitute “ its ”,
+
+(b) in subsection (2)—
+
+(i) for “they think” substitute “ it thinks ”,
+
+(ii) for “them” substitute “ it ”.
+
+**22** In section 17 (sewerage authority may take over private sewage treatment works)—
+
+(a) in subsection (1)—
+
+(i) for the words from “a sewerage” to “situated” substitute “ Scottish Water ”,
+
+(ii) for “the works” where that expression first occurs substitute “ any private sewage treatment works ”,
+
+(iii) for “them” substitute “ it ”,
+
+(b) in subsection (2)—
+
+(i) for “their” substitute “ its ”,
+
+(ii) for “they think” substitute “ it thinks ”,
+
+(iii) for “them” substitute “ it ”,
+
+(iv) the words from “and shall” to “situated” are repealed,
+
+(c) in subsection (4), for “them” substitute “ it ”.
+
+**23** In section 20 (compensation for loss etc. resulting from exercise of powers under this Act)—
+
+(a) in subsection (1), for “their” substitute “ its ”,
+
+(b) in subsection (3), for “an authority” substitute “ Scottish Water ”,
+
+(c) in subsection (4), for “their” substitute “ its ”.
+
+**24** In section 21(1) (buildings not to interfere with sewers), for “they have” substitute “ it has ”.
+
+**25** In section 23 (restriction on working minerals), for “section 98(1)(b) of the Local Government etc. (Scotland) Act 1994” substitute “ section 46(1)(b)(ii) of the Water Industry (Scotland) Act 2002 (asp 3) ”.
+
+**26** In section 27 (procedure on application for consent to new discharge)—
+
+(a) in subsection (4)—
+
+(i) paragraph (a) and the following “and” are repealed,
+
+(ii) the words “the second authority or” are repealed,
+
+(b) subsection (6) is repealed.
+
+**27** In section 28 (time to dispose of application), for “them” in each place where it occurs substitute “ it ”.
+
+**28** In section 29 (decision on application)—
+
+(a) in subsection (1)—
+
+(i) for “their” in each place where it occurs substitute “ its ”,
+
+(ii) for “they” in each place where it occurs substitute “ it ”,
+
+(b) in subsection (2)—
+
+(i) for “the authority have” substitute “ Scottish Water has ”,
+
+(ii) for “their” in each place where it occurs substitute “ its ”,
+
+(iii) for “they” substitute “ it ”,
+
+(c) in subsection (3)—
+
+(i) for “their” substitute “ its ”,
+
+(ii) in paragraph (h), for “are” substitute “ is ”,
+
+(iii) in paragraph (j), for “them” substitute “ it ”, and for “their” substitute “ its ”,
+
+(d) in subsection (5), for “an authority” substitute “ Scottish Water ”.
+
+**29** In section 30(1) (intimation of decision)—
+
+(a) for “their” substitute “ its ”,
+
+(b) the words “authority or” are repealed.
+
+**30** In section 32 (review of consents, conditions and refusals)—
+
+(a) in subsection (1), for “them” substitute “ it ”,
+
+(b) in subsection (2)—
+
+(i) for “they propose” substitute “ it proposes ”,
+
+(ii) for “their” substitute “ its ”,
+
+(iii) for “the authority” substitute “ it ”,
+
+(c) in subsection (4), the words “authority or” are repealed.
+
+**31** In section 36 (review of continuation of existing discharge)—
+
+(a) in subsection (1), for “they” substitute “ it ”,
+
+(b) in subsection (4)—
+
+(i) for “the authority have” substitute “ Scottish Water has ”,
+
+(ii) for “them” substitute “ it ”.
+
+(iii) for “the authority” in the second place where that expression occurs substitute “ Scottish Water ”.
+
+**32** In section 37 (agreements as respects trade premises)—
+
+(a) in subsection (1)—
+
+(i) for “their” substitute “ its ”,
+
+(ii) for “the authority” substitute “ it ”,
+
+(b) in subsection (3), for “the authority” substitute “ it ”,
+
+(c) in subsection (5)(c), for “their” substitute “ its ”.
+
+**33** In section 37A (register for purposes of Part II)—
+
+(a) in subsection (2), for “their” in each place where it occurs substitute “ its ”,
+
+(b) in subsection (3), for “them” in each place where it occurs substitute “ it ”.
+
+**34** In section 38 (power to extend Part II to other effluents), in subsection (3), for “and such sewerage authorities” substitute “ , Scottish Water and such ”.
+
+**35** In section 39 (sewerage authority to have right to sewage)—
+
+(a) for “their” substitute “ its ”,
+
+(b) for “them” substitute “ it ”.
+
+**36** In section 41 (breaking open of roads etc.)—
+
+(a) for “a sewerage authority or” substitute “ Scottish Water or any ”,
+
+(b) in the proviso, for “they” substitute “ Scottish Water or, as the case may be, that person ”.
+
+**37** In section 42(1) (execution of works by sewerage authorities for other persons)—
+
+(a) for “the sewerage authority concerned” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”.
+
+**38** In section 44 (power of sewerage authorities to require information as to ownership etc. of premises)—
+
+(a) for “them” in each place where it occurs substitute “ it ”,
+
+(b) for “their” substitute “ its ”.
+
+**39** In section 48(1) (powers of entry)—
+
+(a) in paragraph (d), for “them” substitute “ it ”,
+
+(b) in paragraph (dd), for “section 98(1)(b) of the Local Government etc. (Scotland) Act 1994” substitute “ section 46(1)(b)(ii) of the Water Industry (Scotland) Act 2002 (asp 3) ”,
+
+(c) in paragraph (e), for “their” substitute “ its ”,
+
+(d) in paragraph (f)(ii), for “section 98(1)(b)” substitute “ section 46(1)(b)(ii) ”.
+
+**40** In section 55(2) (application of Act to Crown), for the words from “the sewerage” to “situated” substitute “ Scottish Water ”.
+
+**41** In section 59(interpretation)—
+
+(a) for the definition of “area” substitute—
+
+> “area”, in relation to Scottish Water, means the area comprising all of the local government areas established by virtue of section 1 of the Local Government etc. (Scotland) Act 1994 (c.39);
+
+,
+
+(b) in the definitions of—
+
+(i) “private sewage treatment works”,
+
+(ii) “public drain”,
+
+(iii) “public sewage treatment works”, and
+
+(iv) “public sewer”,
+
+for “a sewerage authority” substitute “ Scottish Water ”,
+
+(c) the definition of “sewerage authority” is repealed.
+
+## SCHEDULE 6 — Modifications of Water (Scotland) Act 1980
+
+*(*introduced by section 71*)*
+
+**1** The Water (Scotland) Act 1980 (c.45) is amended as follows.
+
+**2** In section 1 (general duties of Scottish Ministers and of water authorities), for “the water authorities” substitute “ Scottish Water ”.
+
+**3** (1) Section 6 (duty of authority to provide supply) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “every water authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”.
+
+(3) In subsection (2)—
+
+(a) for “every water authority” substitute “ Scottish Water ”,
+
+(b) for “their” in both places where it occurs substitute “ its ”,
+
+(c) for “a water authority” substitute “ Scottish Water ”.
+
+(4) In subsection (3)—
+
+(a) for “the water authority concerned” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+(5) In subsection (4)—
+
+(a) for “Every water authority” substitute “ Scottish Water ”,
+
+(b) for “them” in each place where it occurs substitute “ it ”,
+
+(c) for “they think” substitute “ it thinks ”,
+
+(d) for “they consider” substitute “ it considers ”,
+
+(e) for “their” substitute “ its ”.
+
+**4** In section 8 (water supplied for domestic purposes to be wholesome)—
+
+(a) for “Every water authority” substitute “ Scottish Water ”,
+
+(b) for “their” in both places where it occurs substitute “ its ”.
+
+**5** (1) Section 9 (supply of water for non-domestic purposes) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”,
+
+(c) for “them” substitute “ it ”.
+
+(3) In subsection (2)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”.
+
+(4) In subsection (3)—
+
+(a) for “The water authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”,
+
+(c) for “the authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+(5) In subsection (4), for “the authority are” substitute “ Scottish Water is ”.
+
+(6) In subsection (5)—
+
+(a) for “a water authority are” substitute “ Scottish Water is ”,
+
+(b) for “the authority” substitute “ Scottish Water ”,
+
+(c) for “them” substitute “ it ”.
+
+**6** In section 9A (no charge for supply of water for extinguishing fires etc.), for “a water authority” substitute “ Scottish Water ”.
+
+**7** In section 10 (compensation for damage resulting from exercise of powers)—
+
+(a) in subsection (1)—
+
+(i) for “water authority” substitute “ Scottish Water ”,
+
+(ii) after “them” insert “ or it ”,
+
+(iii) after “their” insert “ or its ”,
+
+(b) in subsection (1A)—
+
+(i) for “a water authority’s” substitute “ Scottish Water’s ”,
+
+(ii) for “them” substitute “ it ”.
+
+**8** (1) Section 11 (power of Scottish Ministers on default of authority) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “a water authority have” substitute “ Scottish Water has ”,
+
+(b) for “they are” substitute “ it is ”,
+
+(c) for “their limits of supply, or have” substitute “ its limits of supply, or has ”,
+
+(d) for “they have” substitute “ it has ”,
+
+(e) for “their” in the second place where it occurs substitute “ its ”,
+
+(f) for “any authority have” substitute “ Scottish Water has ”.
+
+(3) In subsection (2)—
+
+(a) for “the authority in question” substitute “ Scottish Water ”,
+
+(b) for “them” in both places where it occurs substitute “ it ”,
+
+(c) for “their” in both places where it occurs substitute “ its ”.
+
+(4) In subsection (3)—
+
+(a) for the words from “the authority” to “fail” substitute “ Scottish Water fails ”,
+
+(b) for “that order” substitute “ an order made under subsection (2) ”,
+
+(c) paragraph (a) and the following “and” are repealed.
+
+(5) Subsections (4) to (7) are repealed.
+
+**9** Section 12(supply of water to premises outwith limits of supply) is repealed.
+
+**10** (1) Section 13 (supply of water in bulk) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) the words “whether a water authority or not” are repealed,
+
+(c) for “the authority” substitute “ Scottish Water ”,
+
+(d) the words from “and, where” to the end are repealed.
+
+(3) Subsection (2) is repealed.
+
+(4) In subsection (3)—
+
+(a) the words “or order” are repealed,
+
+(b) for “a water authority” substitute “ Scottish Water ”,
+
+(c) the words “either within or outside their limits of supply” are repealed,
+
+(d) for “them” substitute “ it ”.
+
+(5) Subsections (4) and (5) are repealed.
+
+(6) In subsection (6), for “a water authority” substitute “ Scottish Water ”.
+
+**11** In section 13A (supply of water for use outwith Scotland)—
+
+(a) in subsection (1)—
+
+(i) for “A water authority” substitute “ Scottish Water ”,
+
+(ii) for “they are” substitute “ it is ”,
+
+(iii) for “them” in both places where it occurs substitute “ it ”,
+
+(iv) for “their” substitute “ its ”,
+
+(v) for “they think” substitute “ it thinks ”,
+
+(b) in subsection (2)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) the words “either within or outwith their limits of supply” are repealed,
+
+(iii) for “them” substitute “ it ”.
+
+**12** In section 14 (power of water authority to give guarantee for supply of water)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+**13** (1) Section 16 (powers of survey and search for water on land) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) The Scottish Ministers may, on application made to them by Scottish Water, authorise it to survey, in accordance with this section—
+>
+> (a) any land which it proposes to acquire for the purposes of its water undertaking or proposed water undertaking; or
+>
+> (b) any land in, on or over which it is proposed to lay a water main.
+
+(3) In subsection (2), for “the authority” substitute “ Scottish Water ”.
+
+(4) In subsection (3)—
+
+(a) for “an authority are” substitute “ Scottish Water is ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+(5) In subsection (8)—
+
+(a) for “the authority on whose behalf the works were carried out” substitute “ Scottish Water ”,
+
+(b) for “they” substitute “ it ”.
+
+**14** (1) Section 17 (acquisition of water rights) is amended as follows.
+
+(2) In subsection (1), for “A water authority” substitute “ Scottish Water ”.
+
+(3) In subsection (2)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”,
+
+(c) for “the authority” substitute “ Scottish Water ”.
+
+(4) In subsection (3)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(c) in subsection (4), for “a water authority” substitute “ Scottish Water ”.
+
+**15** In section 18(1) (compulsory acquisition of land for water works)—
+
+(a) for “an authority to which that section applies” substitute “ Scottish Water ”,
+
+(b) for “an authority” in the second place where the expression occurs substitute “ Scottish Water ”,
+
+(c) for “section 99 of the Local Government etc. (Scotland) Act 1994” substitute “ section 47 of the Water Industry (Scotland) Act 2002 (asp 3) ”.
+
+**16** In section 21 (power to carry out works)—
+
+(a) for “they” substitute “ it ”,
+
+(b) for “a water authority” in the first place where the expression occurs substitute “ Scottish Water ”,
+
+(c) in paragraph (b), the words “other than a water authority” are repealed,
+
+(d) in paragraph (c), for “the authority” substitute “ Scottish Water ”,
+
+(e) in paragraph (e)—
+
+(i) for “them” substitute “ it ”,
+
+(ii) for “their” substitute “ its ”.
+
+**17** In section 22 (power to break open roads)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “they are” substitute “ it is ”.
+
+**18** (1) Section 23 (power to lay mains etc.) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”.
+
+(3) After subsection (1) insert—
+
+> (1ZA) Section 192 of the Local Government (Scotland) Act 1973 (c.65) (service of notices) shall apply to notices served by Scottish Water under subsection (1) above relating to land as it applies to notices served by a local authority relating to premises.
+
+(4) In subsection (1A)—
+
+(a) for “the water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+(5) In subsection (2)—
+
+(a) for “an authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”,
+
+(c) for “they” substitute “ it ”.
+
+(6) In subsection (3)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”.
+
+**19** (1) Section 24A (keeping of map showing water mains etc.) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”,
+
+(c) for “them” substitute “ it ”,
+
+(d) for “Part II of the Local Government etc. (Scotland) Act 1994” substitute “ the Water Industry (Scotland) Act 2002 (asp 3) ”,
+
+(e) for “the authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+(3) In subsection (2)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “their” in each place where it occurs substitute “ its ”,
+
+(c) for “they consider” substitute “ it considers ”,
+
+(d) for “the authority” substitute “ Scottish Water ”,
+
+(e) for “they do” substitute “ it does ”.
+
+(4) In subsection (3), for “the water authority” substitute “ Scottish Water ”.
+
+**20** In section 25(1) (power of authority to provide public wells)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “their” in the second place where it occurs substitute “ its ”.
+
+**21** In section 26 (power to close, or restrict use of, wells)—
+
+(a) for “or a water authority are” substitute “ are or Scottish Water is ”,
+
+(b) in paragraph (a)—
+
+(i) for “their” in the second place where it occurs substitute “ its ”,
+
+(ii) after “them” insert “ or, as the case may be, it ”,
+
+(iii) after “they” insert “ or, as the case may be, it ”.
+
+**22** In section 28 (water works code)—
+
+(a) in subsection (1), for “a water authority” substitute “ Scottish Water ”,
+
+(b) in subsection (2), for “the water authority” substitute “ Scottish Water ”.
+
+**23** In section 29 (applications of enactments by order)—
+
+(a) in subsection (1), the words “13 or” are repealed,
+
+(b) in subsection (2), for “any water authority” substitute “ Scottish Water ”,
+
+(c) in subsection (3), for “the authority concerned” substitute “ Scottish Water ”.
+
+**24** In section 31(1) (consultation with authorities in England)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “that water authority” substitute “ Scottish Water ”,
+
+(c) for “the water authority” substitute “ Scottish Water ”,
+
+(d) for “they consider” substitute “ it considers ”.
+
+**25** In section 32(1) (power of water undertakers to supply water to water authorities), for “a water authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+**26** (1) Section 33 (temporary discharge of water into watercourses) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the words “a water authority who are carrying out or are” substitute “ where Scottish Water is carrying out or is ”,
+
+(b) for “their” in the first place where it occurs substitute “ its ”,
+
+(c) after “undertaking” insert “ , it ”,
+
+(d) the words “whether within or outside their limits of supply” are repealed,
+
+(e) for “the authority” substitute “ Scottish Water ”.
+
+(3) In subsection (3)—
+
+(a) for “the water authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”,
+
+(c) for “them” substitute “ it ”.
+
+(4) In subsection (4)—
+
+(a) for “the authority propose” substitute “ Scottish Water proposes ”,
+
+(b) for “them” in each place where it occurs substitute “ it ”.
+
+(5) In subsection (6)(b), for “the authority” substitute “ Scottish Water ”.
+
+(6) In subsection (7)—
+
+(a) for “the authority are” substitute “ Scottish Water is ”,
+
+(b) for “the authority” in the second and third places where the expression occurs substitute “ Scottish Water ”,
+
+(c) for “them” substitute “ it ”,
+
+(d) for “they are” substitute “ it is ”.
+
+(7) In subsection (8)—
+
+(a) for “the authority discharge” substitute “ Scottish Water discharges ”,
+
+(b) for “they” substitute “ it ”.
+
+(8) In subsection (9)—
+
+(a) for “The authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”.
+
+(9) In subsection (11), for “the authority” substitute “ Scottish Water ”.
+
+**27** In section 34 (persons supplying water to supply to authority)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “that authority” substitute “ Scottish Water ”,
+
+(c) for “they” where it first occurs substitute “ it ”,
+
+(d) for “the authority” substitute “ Scottish Water ”.
+
+**28** In section 35 (power to supply water fittings)—
+
+(a) in subsection (1)—
+
+(i) for “A water authority” substitute “ Scottish Water ”,
+
+(ii) for “they supply or propose” substitute “ it supplies or proposes ”,
+
+(iii) for “their” substitute “ its ”,
+
+(iv) for “them” substitute “ it ”,
+
+(v) for “The authority” substitute “ Scottish Water ”,
+
+(b) in subsection (2), for “the authority” in each place where the expression occurs substitute “ Scottish Water ”,
+
+(c) in subsection (5)—
+
+(i) for “the authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(ii) for “the water authority” substitute “ Scottish Water ”.
+
+**29** In section 36 (power to execute work on behalf of owner or occupier), for “A water authority” substitute “ Scottish Water ”.
+
+**30** In section 38(1) (entry of premises)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” in each place where the expression occurs substitute “ Scottish Water ”,
+
+(c) for paragraph (a) substitute—
+
+> (aa) where the conditions set out in subsection (2) of section 24B are satisfied in relation to the premises, for the purpose of carrying out any survey or tests to determine—
+>
+> (i) whether the carrying out of any works by virtue of paragraph (a) or (b) of subsection (4) of that section is practicable,
+>
+> (ii) whether it is necessary or expedient for any purpose connected with the carrying out of any works by virtue of either of those paragraphs for any other works to be carried out, or
+>
+> (iii) how any works specified in that subsection should be carried out;
+>
+> (ab) for the purpose of inspecting, examining or testing—
+>
+> (i) any meter which is on the premises and which is used by Scottish Water for measuring the quantity of water supplied, or
+>
+> (ii) any pipes or apparatus installed in the course of any works which were carried out for any purpose which is connected with the installation, connection, testing, maintenance or repair of any such meter;
+>
+> (ac) for the purpose of ascertaining from any such meter the quantity of water supplied to the premises;
+
+.
+
+**31** In section 41A (supply of water by meter)—
+
+(a) in paragraph (a), for “the authority” substitute “ Scottish Water ”,
+
+(b) in paragraph (b), for “the water authority” substitute “ Scottish Water ”.
+
+**32** (1) Section 50 (power to require supply by meter) is amended as follows.
+
+(2) The existing provision becomes subsection (1).
+
+(3) In that subsection—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) the word “or” following paragraph (c) is repealed.
+
+(4) At the end of that subsection insert
+
+> ; or
+>
+> (e) any other premises specified, or of a description specified, in an order made by the Scottish Ministers.
+>
+> (2) Before making an order under subsection (1)(e) the Scottish Ministers shall consult such persons as they think fit.
+>
+> (3) The power to make such an order shall be exercisable by statutory instrument; and a statutory instrument containing such an order shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+**33** In section 51 (power to require supplies for refrigerating apparatus etc. to be taken by meter)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+**34** In section 52 (power to require supply for hose pipe to be taken by meter)—
+
+(a) for “a water authority supply” substitute “ Scottish Water supplies ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+**35** In section 53(1) (provision as to supply to tents, vans, sheds, etc.)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) in paragraph (a)—
+
+(i) for “the authority” substitute “ Scottish Water ”,
+
+(ii) for “them” in each place where it occurs substitute “ it ”,
+
+(c) in paragraph (b), for “the authority” substitute “ Scottish Water ”.
+
+**36** In section 54 (register of meter to be evidence)—
+
+(a) in subsection (1), for “a water authority supply” substitute “ Scottish Water supplies ”,
+
+(b) in subsection (3), for “the authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+**37** (1) Section 55 (charges for water supplied by meter) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “Every water authority” substitute “ Scottish Water ”,
+
+(b) for “they are” substitute “ it is ”,
+
+(c) for “the authority” substitute “ Scottish Water ”.
+
+(3) In subsection (2)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”.
+
+(4) Subsections (3) and (4) are repealed.
+
+**38** In section 56 (provision as to supply of water to agricultural subjects)—
+
+(a) in subsection (1)—
+
+(i) for “the water authority” substitute “ Scottish Water ”,
+
+(ii) for “they” substitute “ it ”,
+
+(iii) for “their” substitute “ its ”,
+
+(b) in subsection (2)—
+
+(i) for “a water authority supply” substitute “ Scottish Water supplies ”,
+
+(ii) for “supply” in the second place where it occurs substitute “ supplies ”,
+
+(iii) for “the authority” substitute “ Scottish Water ”.
+
+**39** (1) Section 58 (termination of right to supply of water on special terms) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “a water authority are” substitute “ Scottish Water is ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+(3) In subsection (2), for “the water authority” substitute “ Scottish Water ”.
+
+(4) In subsection (4)—
+
+(a) for “any water authority” substitute “ Scottish Water ”,
+
+(b) the words “or a water authority” are repealed.
+
+(5) In subsection (5), for “The water authority” substitute “ Scottish Water ”.
+
+(6) Subsection (6) is repealed.
+
+(7) In subsection (7), for “a water authority” substitute “ Scottish Water ”.
+
+**40** In section 59 (limitation of liability of water authority to supply water on special terms), for “a water authority” substitute “ Scottish Water ”.
+
+**41** In section 63 (provision of water supply for new buildings and houses)—
+
+(a) in subsection (1A), for the words from “the water” to the end substitute “ Scottish Water ”,
+
+(b) in subsection (2)—
+
+(i) for “the water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” substitute “ Scottish Water ”,
+
+(iii) for “their” substitute “ its ”.
+
+**42** In section 68(1) (agreements as to drainage)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority consider” substitute “ Scottish Water considers ”,
+
+(c) for “they are” substitute “ it is ”,
+
+(d) for “the authority” substitute “ Scottish Water ”.
+
+**43** In section 69 (power to restrict use of hose pipes)—
+
+(a) in subsection (1)—
+
+(i) for “a water authority are” substitute “ Scottish Water is ”,
+
+(ii) for “them” in both places where it occurs substitute “ it ”,
+
+(iii) for “they” in the first place where it occurs substitute “ it ”,
+
+(iv) for “they think” substitute “ it thinks ”,
+
+(v) for “their” substitute “ its ”,
+
+(b) in subsection (2)—
+
+(i) for “The authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” substitute “ it ”.
+
+**44** (1) Section 70 (byelaws for preventing misuse of water) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”.
+
+(3) In subsection (2)—
+
+(a) for “the authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”.
+
+(4) In subsection (3), for “the authority” substitute “ Scottish Water ”.
+
+(5) In subsection (4)—
+
+(a) for “a water authority consider” substitute “ Scottish Water considers ”,
+
+(b) for “them” substitute “ it ”,
+
+(c) for “they” substitute “ it ”,
+
+(d) for “the authority” substitute “ Scottish Water ”.
+
+**45** (1) Section 71 (byelaws for preventing pollution of water) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”,
+
+(c) for “they are” substitute “ it is ”,
+
+(d) for “they” in the second place where it occurs substitute “ it ”,
+
+(e) for “they deem” substitute “ it deems ”.
+
+(3) In subsection (2)—
+
+(a) for “the water authority” substitute “ Scottish Water ”,
+
+(b) for “they consider” substitute “ it considers ”,
+
+(c) for “their” substitute “ its ”.
+
+(4) In subsection (3)—
+
+(a) for “The water authority” substitute “ Scottish Water ”,
+
+(b) for “the local authority” in both places where that expression occurs substitute “ Scottish Water ”.
+
+(5) In subsection (4)—
+
+(a) for “the local authority” in both places where that expression occurs substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”.
+
+(6) Subsection (5) is repealed.
+
+(7) In subsection (6), for “the authorities” substitute “ Scottish Water ”.
+
+**46** In section 72(2) (general provision as to byelaws)—
+
+(a) for the words from “a water” to “those” in the first place where it occurs substitute “ Scottish Water to enforce such ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+**47** In section 73 (power of Scottish Ministers to require the making of byelaws)—
+
+(a) in subsection (1)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority do” substitute “ Scottish Water does ”,
+
+(b) in subsection (2)—
+
+(i) for “an authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(ii) for “the authority” in the first place where the expression occurs substitute “ Scottish Water ”,
+
+(iii) for “the authority do” substitute “ Scottish Water does ”,
+
+(c) in subsection (3), for “the authority concerned” substitute “ Scottish Water ”.
+
+**48** (1) Section 76 (acquisition of land for protection of water) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the words “Local Government etc. (Scotland) Act 1994” substitute “ Water Industry (Scotland) Act 2002 (asp 3) ”,
+
+(b) for “a water authority” substitute “ Scottish Water ”,
+
+(c) for “their” substitute “ its ”,
+
+(d) for “the authority” substitute “ Scottish Water ”,
+
+(e) for “they are” substitute “ it is ”.
+
+(3) In subsection (2)—
+
+(a) for “A water authority” substitute “ Scottish Water ”,
+
+(b) for “them” substitute “ it ”,
+
+(c) for “they have” substitute “ it has ”,
+
+(d) for “the authority” in each place where the expression occurs substitute “ Scottish Water ”,
+
+(e) for “they are” substitute “ it is ”.
+
+(4) In subsection (3)—
+
+(a) for “A water authority proposing” substitute “ Where Scottish Water proposes ”,
+
+(b) after “(2)” insert “ it ”,
+
+(c) the words “whether within or outside their limits of supply” are repealed,
+
+(d) for “the authority” substitute “ Scottish Water ”,
+
+(e) for “any authority” substitute “ Scottish Water ”,
+
+(f) for “that authority” substitute “ Scottish Water ”.
+
+**49** (1) Section 76A (duties of water authorities with respect to water quality) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “that authority” substitute “ Scottish Water ”.
+
+(3) In subsection (2)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority’s” substitute “ Scottish Water’s ”.
+
+(4) In subsection (3)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority’s” in both places where the expression occurs substitute “ Scottish Water’s ”,
+
+(c) for “the authority” substitute “ Scottish Water ”.
+
+(5) In subsection (4)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+**50** (1) Section 76B (regulations for preserving water quality) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for “a water authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(b) for “that authority” in each place where the expression occurs substitute “ Scottish Water ”.
+
+(3) In subsection (2)—
+
+(a) for “water authorities” in each place where the expression occurs substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”.
+
+(4) In subsection (3)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “that authority” substitute “ Scottish Water ”.
+
+(5) In subsection (4)—
+
+(a) for “a water authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+**51** In section 76C (offence of supplying water unfit for human consumption)—
+
+(a) in subsection (1)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” substitute “ Scottish Water ”,
+
+(b) in subsection (2), for “the water authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+**52** In section 76D (provision of water where piped supplies insufficient or unwholesome)—
+
+(a) in subsection (1)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” substitute “ Scottish Water ”,
+
+(iii) for “the water authority” in each place where the expression occurs substitute “ Scottish Water ”,
+
+(b) in subsection (2)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the water authority” substitute “ Scottish Water ”.
+
+**53** In section 76E (enforcement of sections 76A to 76D)—
+
+(a) in subsection (1), for “water authorities” substitute “ Scottish Water ”,
+
+(b) in subsection (4)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the water authority have” substitute “ Scottish Water has ”,
+
+(iii) for “are” in the third place where it occurs substitute “ is ”,
+
+(iv) for “them” substitute “ it ”.
+
+**54** In section 76F (general functions of local authorities in relation to water quality)—
+
+(a) in subsection (2)—
+
+(i) for “any water authority” substitute “ Scottish Water and the Drinking Water Quality Regulator for Scotland ”,
+
+(ii) for “that water authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(b) in subsection (3)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the water authority” substitute “ Scottish Water, to notify the Drinking Water Quality Regulator for Scotland of that fact and ”.
+
+**55** In section 76G(6)(a) (remedial powers of local authorities in relation to private supplies), for “a water authority” substitute “ Scottish Water ”.
+
+**56** In section 76H(5)(b) (effect, confirmation and variation of notice under section 76G)—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) for “their” substitute “ its ”.
+
+**57** In section 76I(2) (incidental powers of local authorities), for “a water authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+**58** In section 76L (interpretation etc. of Part VIA), in the definition of “private supply”, for “a water authority” substitute “ Scottish Water ”.
+
+**59** In section 100(2) (orders), for the words from “all” to the end substitute “ Scottish Water ”.
+
+**60** In section 103 (notices to be in writing), for “water authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+**61** In section 107 (repeal, amendment and adaptation of local enactments)—
+
+(a) in subsection (1)(b)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) in sub-paragraph (i), for “the applicant” substitute “ Scottish Water ”,
+
+(iii) sub-paragraph (ii) is repealed,
+
+(b) in subsection (5), for “a water authority” substitute “ Scottish Water ”.
+
+**62** In section 109 (interpretation)—
+
+(a) in subsection (1)—
+
+(i) for the definition of “area” substitute—
+
+> “area”, in relation to Scottish Water, means the area comprising all of the local government areas established by virtue of section 1 of the Local Government etc. (Scotland) Act 1994 (c.39);
+
+,
+
+(ii) for the definition of “limits of supply” substitute—
+
+> “limits of supply”, in relation to Scottish Water, means the area of Scottish Water;
+
+,
+
+(iii) the definition of “water authority” is repealed,
+
+(iv) in the definition of “supply of water in bulk” for “the water authority taking the supply” substitute “ Scottish Water ”,
+
+(b) in subsection (3), for “the water authority” substitute “ Scottish Water ”.
+
+**63** In section 110(2) (further provisions as to communication pipes etc.)—
+
+(a) for “the water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+**64** (1) Schedule 1 (procedure for making orders and making and confirming byelaws) is amended as follows.
+
+(2) In paragraph 1—
+
+(a) for “Applicants” substitute “ Where Scottish Water proposes to apply ”,
+
+(b) after “applies” insert “ it ”,
+
+(c) for “they desire” substitute “ it desires ”.
+
+(3) In paragraph 2—
+
+(a) for “the applicants” substitute “ Scottish Water ”,
+
+(b) in sub-paragraph (i), the words “water authority and” are repealed,
+
+(c) in sub-paragraph (ii), for “the applicants” substitute “ Scottish Water ”.
+
+(4) In paragraph 3—
+
+(a) for “The applicants” substitute “ Scottish Water ”,
+
+(b) for “they are” substitute “ it is ”,
+
+(c) the words from“naming” to “order” in the second place where it occurs are repealed.
+
+(5) In paragraph 4—
+
+(a) for “The applicants” substitute “ Scottish Water ”,
+
+(b) for “they think” substitute “ it thinks ”.
+
+(6) In paragraph 5, for “the applicants” in both places where the expression occurs substitute “ Scottish Water ”.
+
+(7) In paragraph 8—
+
+(a) for “the applicants” substitute “ Scottish Water ”,
+
+(b) the words from “and the” to the end are repealed.
+
+(8) In paragraph 11, in sub-paragraph (i), for “the water authority and” substitute “ Scottish Water and on the ”.
+
+(9) In paragraph 12, the words from “naming” to “order” in the second place where it occurs are repealed.
+
+(10) In paragraph 14, for the words “the authority to whom the order relates” substitute “ Scottish Water ”.
+
+(11) In paragraph 15, after “from” in the second place where it occurs insert “ Scottish Water or ”.
+
+(12) In paragraph 17, for the words from “the authority” to the end substitute “ Scottish Water ”.
+
+(13) In paragraph 19—
+
+(a) for “A water authority who propose” substitute “ Where Scottish Water proposes ”,
+
+(b) after “applies” insert “ it ”,
+
+(c) for “their” substitute “ its ”,
+
+(d) the words “water authority and” are repealed,
+
+(e) for “the water authority” in the second place where that expression occurs substitute “ Scottish Water ”.
+
+(14) In paragraph 20—
+
+(a) for “The water authority” substitute “ Scottish Water ”,
+
+(b) for “they propose” substitute “ it proposes ”.
+
+(15) In paragraph 23, for the words from “the authority” to the end substitute “ Scottish Water ”.
+
+(16) In paragraph 24, the words from “shall be” to “and” are repealed.
+
+(17) In paragraph 26, for “the water authority” substitute “ Scottish Water ”.
+
+(18) In paragraph 27—
+
+(a) for “The water authority” substitute “ Scottish Water ”,
+
+(b) for “they” substitute “ it ”.
+
+(19) In paragraph 30—
+
+(a) for “the water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+(20) In paragraph 31, for “the authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+**65** In Schedule 2 (orders under section 17 authorising compulsory acquisition of land)—
+
+(a) in paragraph 4—
+
+(i) for “the water authority” substitute “ Scottish Water ”,
+
+(ii) for “they” substitute “ it ”,
+
+(b) in paragraph 6, for “the water authority” in both places where the expression occurs substitute “ Scottish Water ”.
+
+**66** (1) Schedule 3 (provisions as to breaking open roads and laying communication and supply pipes) is amended as follows.
+
+(2) In paragraph 1—
+
+(a) for “a water authority” substitute “ Scottish Water ”,
+
+(b) in the proviso, for “they” substitute “ it ”.
+
+(3) In paragraph 2(2)—
+
+(a) for “the authority propose” substitute “ Scottish Water proposes ”,
+
+(b) for “they” substitute “ it ”,
+
+(c) for “the authority” substitute “ Scottish Water ”.
+
+(4) In paragraph 4—
+
+(a) in sub-paragraph (1)—
+
+(i) for “A water authority” substitute “ Scottish Water ”,
+
+(ii) for “they deem” substitute “ it deems ”,
+
+(iii) in the proviso, for “the authority” substitute “ Scottish Water ”,
+
+(b) in sub-paragraph (2), for “the authority” substitute “ Scottish Water ”.
+
+(5) In paragraph 5—
+
+(a) for “any water authority” substitute “ Scottish Water ”,
+
+(b) for “the authority” substitute “ Scottish Water ”.
+
+(6) In paragraph 6—
+
+(a) in sub-paragraph (1)—
+
+(i) for “the authority” substitute “ Scottish Water ”,
+
+(ii) for “they” in the first place where it occurs substitute “ it ”,
+
+(iii) for “they think” substitute “ it thinks ”,
+
+(b) in sub-paragraph (2)—
+
+(i) for “the water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” in the first place where the expression occurs substitute “ Scottish Water ”,
+
+(iii) for “they are” substitute “ it is ”,
+
+(iv) for “them” in each place where it occurs substitute “ it ”,
+
+(v) for “the authority lay” substitute “ Scottish Water lays ”,
+
+(c) in sub-paragraph (3)—
+
+(i) for “an authority to whom such a notice as aforesaid is given”, substitute “ where such a notice as aforesaid is given to Scottish Water, it ”,
+
+(ii) for “them” in both places where it occurs substitute “ it ”,
+
+(iii) for “their” in both places where it occurs substitute “ its ”,
+
+(iv) for “they make” substitute “ it makes ”,
+
+(v) for “the authority” substitute “ Scottish Water ”,
+
+(vi) for “they” in the second and third places where it occurs substitute “ it ”.
+
+(7) In paragraph 7—
+
+(a) in sub-paragraph (1)—
+
+(i) for “the authority” substitute “ Scottish Water ”,
+
+(ii) for “them” substitute “ it ”,
+
+(b) in sub-paragraph (2)—
+
+(i) for “the authority give” substitute “ Scottish Water gives ”,
+
+(ii) for “three months” substitute “ such period of not less than three months as the notice shall specify ”,
+
+(iii) for “the authority” in the second place where the expression occurs substitute “ Scottish Water ”,
+
+(c) in sub-paragraph (3)—
+
+(i) for “the authority” substitute “ Scottish Water ”,
+
+(ii) for “themselves” substitute “ itself ”,
+
+(d) in sub-paragraph (4)—
+
+(i) for “the authority” substitute “ Scottish Water ”,
+
+(ii) for “they are” in both places where the expression occurs substitute “ it is ”,
+
+(iii) for “them” in both places where it occurs substitute “ it ”,
+
+(e) in sub-paragraph (5)—
+
+(i) for “the authority” in the first place where the expression occurs substitute “ Scottish Water ”,
+
+(ii) for “the authority have” substitute “ Scottish Water has ”.
+
+(8) In paragraph 9—
+
+(a) in sub-paragraph (1), for “the authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(b) in sub-paragraph (2), for “the authority deem” substitute “ Scottish Water deems ”.
+
+**67** In Schedule 10 (amendment of enactments), Part I is repealed.
+
+## SCHEDULE 7 — Modifications of other enactments
+
+*(*introduced by section 71*)*
+
+### Fire Services Act 1947 (c.41)
+
+**[^F109]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Rivers (Prevention of Pollution) (Scotland) Act 1951 (c.66)
+
+**2** In section 35(1) (interpretation) of the Rivers (Prevention of Pollution) (Scotland) Act 1951—
+
+(a) the definition of “sewerage authority” is repealed, and
+
+(b) in the definition of “stream”, in paragraph (b), for “a sewerage authority” substitute “ Scottish Water ”.
+
+### Flood Prevention (Scotland) Act 1961 (c.41)
+
+**[^F110]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government (Scotland) Act 1966 (c.51)
+
+**4** In section 46(1) (general interpretation) of the Local Government (Scotland) Act 1966, in the definition of “water undertaking”, for “a local water authority” substitute “ Scottish Water ”.
+
+### Countryside (Scotland) Act 1967 (c.86) (prospective)
+
+**5** (1) The Countryside (Scotland) Act 1967 is amended as follows.
+
+(2) In section 61 (improvement of waterways for purposes of open-air recreation)—
+
+(a) in subsection (5), for “every water authority having” substitute “ Scottish Water so far as it has ”,
+
+(b) in subsection (6)—
+
+(i) for “any water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” substitute “ Scottish Water ”,
+
+(c) in subsection (8), for “to every water authority which has refused its consent” substitute “ , where it has refused its consent, to Scottish Water ”.
+
+(3) In section 63 (provision of recreational facilities by water authorities)—
+
+(a) in subsection (1)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “them” substitute “ it ”,
+
+(iii) for “the authority have” substitute “ Scottish Water has ”,
+
+(b) in subsection (2)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority have” substitute “ Scottish Water has ”,
+
+(iii) for “they do” substitute “ it does ”,
+
+(iv) for “the authority are” substitute “ Scottish Water is ”,
+
+(c) in subsection (4)—
+
+(i) for “A water authority” substitute “ Scottish Water ”,
+
+(ii) for “they” substitute “ it ”,
+
+(iii) for “the authority” substitute “ Scottish Water ”,
+
+(d) in subsection (5)—
+
+(i) for “A water authority” substitute “ Scottish Water ”,
+
+(ii) for “they think” substitute “ it thinks ”,
+
+(iii) for “them” substitute “ it ”,
+
+(iv) for “the authority” substitute “ it ”,
+
+(e) in subsection (6), for “a water authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(f) in subsection (7)—
+
+(i) for “A water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” substitute “ Scottish Water ”,
+
+(g) in subsection (8)—
+
+(i) for “the water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” substitute “ Scottish Water ”,
+
+(h) in subsection (9)—
+
+(i) for “A water authority” substitute “ Scottish Water ”,
+
+(ii) for “they consider” substitute “ it considers ”,
+
+(iii) for “them” substitute “ it ”,
+
+(i) in subsection (11)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “they have” substitute “ it has ”.
+
+(4) In section 78(1)(interpretation), the definition of “water authority” is repealed.
+
+### Local Government (Scotland) Act 1973 (c.65)
+
+**6** (1) The Local Government (Scotland) Act 1973 is amended as follows.
+
+(2) In section 170A(5)(c) (production and supply of heat and electricity etc. by local authorities), for “a water authority” substitute “ Scottish Water ”.
+
+(3) In section 170B(2) (provision supplementary to section 170A)—
+
+(a) for “water authorities” substitute “ Scottish Water ”,
+
+(b) for “a water authority” substitute “ Scottish Water ”.
+
+(c) in paragraph (a), for “paragraph (a)” substitute “ paragraphs (aa) to (ac) ”.
+
+### Reservoirs Act 1975 (c.23)
+
+**[^F111]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### House of Commons Disqualification Act 1975 (c.24)
+
+**8** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified for membership of the House of Commons), the entries for the East of Scotland Water Authority, the North of Scotland Water Authority and the West of Scotland Water Authority are repealed.
+
+### Race Relations Act 1976 (c.74)
+
+**9** In Schedule 1A (bodies and other persons subject to general statutory duty) to the Race Relations Act 1976, paragraph 23 is repealed.
+
+### Competition Act 1980 (c.21)
+
+**10** Section 11(3)(cc)(reference of public bodies and certain other persons to the Commission) of the Competition Act 1980 is repealed.
+
+### Wildlife and Countryside Act 1981 (c.69)
+
+**11** (1) The Wildlife and Countryside Act 1981 is amended as follows.
+
+(2) In section 27(1) (interpretation of Part I), the definition of “water authority” is repealed.
+
+[^F112]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government and Planning (Scotland) Act 1982 (c.43)
+
+**12** In section 14 (local authority’s duties in relation to the provision of recreational, sporting, cultural and social facilities and activities)—
+
+(a) in subsection (2), for the words “a water authority” substitute “ Scottish Water ”, and
+
+(b) subsection (3) is repealed.
+
+### Civic Government (Scotland) Act 1982 (c.45)
+
+**13** In section 54 (playing of instruments, singing, playing radios etc.) of the Civic Government (Scotland) Act 1982, in subsection (3)—
+
+(a) in paragraph (a), for “a water authority” substitute “ Scottish Water ”, and
+
+(b) the words from “In this subsection” to the end are repealed.
+
+### Roads (Scotland) Act 1984 (c.54)
+
+**14** (1) The Roads (Scotland) Act 1984 is amended as follows.
+
+[^F113]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F113]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 135 (restriction of powers of sewerage authorities)—
+
+(a) in subsection (1), for “any sewerage authority” substitute “ Scottish Water ”,
+
+(b) in subsection (2), for “a sewerage authority” substitute “ Scottish Water ”.
+
+(5) In section 151(1)(interpretation), the definitions of “sewerage authority” and “water authority” are repealed.
+
+(6) In Schedule 1 (procedure for making or confirming certain orders and schemes)—
+
+(a) in Part I, in paragraph 3, in the Table, in entry (ii), in the second column—
+
+(i) the words “or water authority” are repealed,
+
+(ii) at the end insert “ and Scottish Water ”,
+
+(b) in Part II, in paragraph 10(b)—
+
+(i) after “on” insert “ (i) ”,
+
+(ii) the words “or water authority” are repealed,
+
+(iii) at the end insert
+
+> , and
+>
+> (ii) Scottish Water.
+
+### Water (Fluoridation) Act 1985 (c.63)
+
+**15** In section 5(1) (interpretation) of the Water (Fluoridation) Act 1985—
+
+(a) in the definition of “statutory water undertaker”, for “a water authority” substitute “ Scottish Water ”, and
+
+(b) the definition of “water authority” is repealed.
+
+### Bankruptcy (Scotland) Act 1985 (c.66)
+
+**[^F114]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Debtors (Scotland) Act 1987 (c.18)
+
+**17** (1) The Debtors (Scotland) Act 1987 is amended as follows.
+
+(2) In each of sections 1(5)(e) (competence of time to pay direction) and 5(4)(e) (competence of time to pay order), after sub-paragraph (iia) insert—
+
+> (iib) a local authority (within the meaning of section 70 of the Water Industry (Scotland) Act 2002 (asp 3)) in respect of any charges payable to them by virtue of section 37 of that Act;
+
+.
+
+(3) In section 106 (interpretation), in the definition of “summary warrant”, after paragraph (cc) insert—
+
+> (cca) paragraph 2 of schedule 4 to the Water Industry (Scotland) Act 2002 (asp 3);
+
+.
+
+### Housing (Scotland) Act 1987 (c.26)
+
+**18** (1) The Housing (Scotland) Act 1987 is amended as follows.
+
+(2) In section 61 (secure tenant’s right to purchase)—
+
+(a) in subsection (2)(a), for paragraph (iia) substitute—
+
+> (iia) Scottish Water;
+
+,
+
+(b) in subsection (11)(l)—
+
+(i) for “a water authority or sewerage authority in Scotland” substitute “ Scottish Water ”,
+
+(ii) after “of” insert “ Scottish Water and ”.
+
+(3) In section 212(4) (rent increase notices), for paragraph (e) substitute—
+
+> (e) Scottish Water
+
+.
+
+(4) In section 233(3) (power of local authority to assist in provision of separate service water pipes for houses)—
+
+(a) for “a water authority” substitute “ Scottish Water ”, and
+
+(b) for “the water authority” substitute “ Scottish Water ”.
+
+(5) In section 300(1)(a) (meaning of “public sector authority”), for “a water authority” substitute “ Scottish Water ”.
+
+(6) In section 338(1) (interpretation), the definitions of “sewerage authority” and “water authority” are repealed.
+
+### Food Safety Act 1990 (c.16)
+
+**19** In section 56(1) (water supply: Scotland) of the Food Safety Act 1990—
+
+(a) for the words from “a water” to “1980)” substitute “ Scottish Water ”,
+
+(b) for “that Act” substitute “ the Water (Scotland) Act 1980 ”.
+
+### Environmental Protection Act 1990 (c.43)
+
+**20** (1) The Environmental Protection Act 1990 is amended as follows.
+
+(2) In section 45 (collection of controlled waste)—
+
+(a) in subsection (10), for “a sewerage authority” in each place where it occurs substitute “ Scottish Water ”,
+
+(b) after subsection (10), insert—
+
+> (10A) Where a waste collection authority, in the exercise of its powers under subsection (7)(a) above, proposes to execute works outside its area, it shall, in addition to any notice served under section 3(2) of the Sewerage (Scotland) Act 1968 as applied by virtue of subsection (10) above, serve notice of its intention on the waste collection authority within whose area it is proposed to execute the works together with a description of the proposed works and if, within two months after the service of the notice, the waste collection authority on whom it was served objects to the proposed works, and that objection is not withdrawn, the first-mentioned authority shall not proceed to execute the works without consent aftermentioned but may refer the matter for the determination of the Scottish Ministers who may grant consent to the proposed works either unconditionally or subject to such terms and conditions as they think just, or who may withhold their consent, and their decision on the matter shall be final.
+
+(3) In section 53 (duty of authorities as respects disposal of controlled waste: Scotland)—
+
+(a) in subsection (2), for “and (10)” substitute “ , (10) and (10A) ”,
+
+(b) in subsections (4) and (5), for “the sewerage authority” wherever it occurs substitute “ Scottish Water ”,
+
+(c) in subsection (5), for “a sewerage authority” substitute “ Scottish Water ”,
+
+(d) subsection (5A) is repealed.
+
+### New Roads and Street Works Act 1991 (c.22)
+
+**21** (1) The New Roads and Street Works Act 1922 is amended as follows.
+
+(2) In section 108(6)(a) (the road works authority and other relevant authorities), for the words from “a sewer” to the end substitute “ a public sewer, Scottish Water; ”.
+
+(3) In section 109(6)(a) (permission to execute works), for the words from “a sewer” to the end substitute “ a public sewer, Scottish Water; ”.
+
+(4) In section 117(3)(a) (restriction on works following substantial works carried out for roads purposes)—
+
+(a) for “a sewer vested in a sewerage authority” substitute “ a public sewer ”,
+
+(b) for “that authority” substitute “ Scottish Water ”.
+
+(5) In section 148 (sewers)—
+
+(a) in subsection (1)—
+
+(i) for “a sewer vested in a sewerage authority” substitute “ a public sewer ”,
+
+(ii) for “that authority” substitute “ Scottish Water ”,
+
+(b) in subsection (3)(a)—
+
+(i) for “a sewerage authority” substitute “ Scottish Water ”,
+
+(ii) for “authority” in the second place where it occurs substitute “ body ”,
+
+(c) in subsection (4), for “a sewer vested in a sewerage authority” substitute “ a public sewer ”.
+
+(6) In section 149(4)(a) (provision as to reinstatement of sewers, drains or tunnels), for the words from “a sewer” to “that authority” substitute “ a public sewer, Scottish Water ”.
+
+(7) In section 164(1) (minor definitions)—
+
+(a) after the definition of “in” insert—
+
+> “public sewer” has the same meaning as in the Sewerage (Scotland) Act 1968;
+
+,
+
+(b) the definition of “sewerage authority” is repealed.
+
+(8) In Schedule 6 (roads with special engineering difficulties)—
+
+(a) in paragraph 7(3)(b), for “a sewer vested in a sewerage authority” substitute “ a public sewer ”,
+
+(b) in paragraph 9—
+
+(i) for “A sewerage authority in whom a sewer is vested” substitute “ Scottish Water ”,
+
+(ii) for “their sewer” substitute “ a public sewer ”.
+
+### Natural Heritage (Scotland) Act 1991 (c.28)
+
+**22** (1) The Natural Heritage (Scotland) Act 1991 is amended as follows.
+
+(2) In section 20 (drought orders)—
+
+(a) in subsection (3), for “a water authority” substitute “ Scottish Water ”,
+
+(b) in subsection (5), for “the water authority” in both places where it occurs substitute “ Scottish Water ”,
+
+(c) in subsection (6)—
+
+(i) for “a water authority” substitute “ Scottish Water ”,
+
+(ii) for “the authority” in both places where the expression occurs substitute “ Scottish Water ”,
+
+(d) in subsection (7)—
+
+(i) for “the water authority” substitute “ Scottish Water ”,
+
+(ii) for “water authorities generally” substitute “ Scottish Water ”.
+
+(3) In section 22(1) (interpretation), in the definition of “compensation water”—
+
+(a) for “a water authority” substitute “ Scottish Water ”, and
+
+(b) for “their” substitute “ its ”.
+
+(4) In section 24 (rights of entry and inspection under Parts II and III)—
+
+(a) in subsection (1)—
+
+(i) for “a water authority” substitute “ Scottish Water ”, and
+
+(ii) in paragraph (a), for “the authority” substitute “ Scottish Water ”,
+
+(b) in subsection (9)—
+
+(i) for “a water authority” substitute “ Scottish Water ”, and
+
+(ii) in paragraph (a), for “the authority” substitute “ Scottish Water ”.
+
+(5) In Schedule 7 (further provisions regarding drought orders)—
+
+(a) in paragraph 3, for “a water authority” substitute “ Scottish Water ”,
+
+(b) in paragraph 3(b)—
+
+(i) for “the authority” substitute “ Scottish Water ”,
+
+(ii) for “they think” in both places where the expression occurs substitute “ it thinks ”,
+
+(iii) in sub-sub-paragraph (i), for “the authority’s” substitute “ its ”,
+
+(c) in paragraph 5—
+
+(i) in sub-paragraph (1), for “a water authority” and “that authority” substitute “ Scottish Water ”,
+
+(ii) in sub-paragraph (2), for “a water authority” substitute “ Scottish Water ”,
+
+(iii) in sub-paragraph (3), for “a water authority” and “the authority” substitute “ Scottish Water ”,
+
+(d) in paragraph 6, for “a water authority” substitute “ Scottish Water ”,
+
+(e) in paragraph 7—
+
+(i) for the words from the beginning to “order” substitute “ Where powers have been conferred on Scottish Water by a drought order, the Scottish Ministers may require it ”,
+
+(ii) for “them” substitute “ it ”.
+
+(6) In Schedule 8 (procedure for making drought orders), in paragraph 1(3), in the Table, in the second column of the first entry, paragraph (b) is repealed.
+
+(7) In Schedule 9 (compensation in respect of drought orders), in paragraph 1, for “a water authority” substitute “ Scottish Water ”.
+
+### Local Government etc. (Scotland) Act 1994 (c.39)
+
+**23** In the Local Government etc. (Scotland) Act 1994, the following provisions are repealed—
+
+(a) sections 62 to 64 (new water and sewerage authorities and their areas),
+
+(b) section 65(2) (general duties of Scottish Ministers and of water authorities),
+
+(c) section 66 (codes of practice for new water and sewerage authorities),
+
+(d) sections 67A to 100 (Water Industry Commissioner and other provisions about new authorities),
+
+(e) sections 116 to 126 (miscellaneous provisions about new authorities),
+
+(f) Schedules 7 (constitution etc. of new authorities), 8 (water and sewerage areas) and 9A to 11 (Water Industry Commissioner, recovery by diligence of water charges and water and sewerage transfer schemes), and
+
+(g) in Schedule 13 (modifications of enactments)—
+
+(i) paragraph 38(8)(b) and (c),
+
+(ii) paragraph 56(5),
+
+(iii) paragraph 66(3),
+
+(iv) paragraph 72(7)(a) and (9)(b),
+
+(v) paragraph 75(2)(a) and (c), (3), (4)(a), (5), (6), (7)(a)(ii), (b)(ii) and (c)(ii), (8)(b), (9) to (11), (13)(c), (15), (17)(a) and (c), (18)(a), (19)(a), (21), (22), (25)(a), (27) and (28)(a), (c), (e) and (f),
+
+(vi) paragraph 92(55)(b),
+
+(vii) paragraph 119(6)(d) and (e), (7)(b), (11)(b), (31)(c), (38)(e), (53)(a)(ii), (iii) and (v),
+
+(viii) paragraph 128(3)(c),
+
+(ix) paragraph 133(3),
+
+(x) paragraph 135(8) and (10)(a)(iv) and (v),
+
+(xi) paragraph 137(2)(b) and (6)(b) and (c),
+
+(xii) paragraph 152(2)(c) and (7)(b) and (c),
+
+(xiii) paragraph 167(8)(c),
+
+(xiv) paragraph 168(2), (3), (4)(a) and (6),
+
+(xv) paragraph 181(b).
+
+### Environment Act 1995 (c.25)
+
+**24** (1) The Environment Act 1995 is amended as follows.
+
+[^F115]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Part II of Schedule 21 (application of certain enactments to the Crown), paragraph 6 is repealed.
+
+### Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)
+
+**25** Paragraph 58 of Schedule 2 (consequential amendments) to the Planning (Consequential Provisions) (Scotland) Act 1997 is repealed.
+
+### Water Industry Act 1999 (c.9)
+
+**26** (1) The Water Industry Act 1999 is amended as follows.
+
+(2) The following provisions are repealed—
+
+(a) in section 12 (Water Industry Commissioner for Scotland), subsections (1), (2) and (4),
+
+(b) section 13 (Commissioner’s advice on charges),
+
+(c) Schedule 2 (Water Industry Commissioner and consultative committees), and
+
+(d) in Part II of Schedule 3 (minor and consequential amendments), paragraphs 7 to 15.
+
+### Public Finance and Accountability (Scotland) Act 2000 (asp 1)
+
+**27** (1) The Public Finance and Accountability (Scotland) Act 2000 is amended as follows.
+
+(2) In section 23(7) (economy, efficiency and effectiveness examinations), for the words from “a new” to “1994 (c.39))” substitute “ Scottish Water ”.
+
+(3) The following provisions are repealed—
+
+(a) in schedule 1 (capital expenditure of and borrowing by certain statutory bodies), paragraph 6, and
+
+(b) in schedule 4 (modifications of enactments relating to Part 2), paragraph 12(2) and (4).
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**28** In schedule 3(devolved public bodies) to the Ethical Standards in Public Life etc. (Scotland) Act 2000—
+
+(a) the entries for the East of Scotland Water Authority, the North of Scotland Water Authority and the West of Scotland Water Authority are repealed, and
+
+(b) at the appropriate place, the following entry is inserted—
+
+> Scottish Water
+
+---
+
+[^F1]: Words in Pt. 1 title substituted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 7; S.S.I. 2011/278, art. 2(d)
+[^F2]: S. 1 substituted (20.6.2005 for specified purposes, 1.7.2005 in so far as not already in force) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 1(1), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 1, sch. 2
+[^F3]: S. 2 repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 21; S.S.I. 2011/278, art. 2(d)
+[^F4]: S. 2A inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 2; S.S.I. 2011/278, art. 2(d)
+[^F5]: Words in s. 2A heading substituted (1.4.2014) by The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 15(2)(a) (with Sch. 1 para. 28, Sch. 2 paras. 13-15)
+[^F6]: Words in s. 2A(1) substituted (1.4.2014) by The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 15(2)(b) (with Sch. 1 para. 28, Sch. 2 paras. 13-15)
+[^F7]: Words in s. 2A(2) substituted (1.4.2014) by The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 15(2)(c) (with Sch. 1 para. 28, Sch. 2 paras. 13-15)
+[^F8]: S. 3(1)-(5) repealed (1.4.2006) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 3(2), 37(2) (with s. 36); S.S.I. 2006/167, art. 2, sch. 1
+[^F9]: Words in s. 3 substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F10]: Words in s. 3(6)(a) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(2)(a) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F11]: Words in s. 3(6)(b) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(2)(b) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F12]: Words in s. 4(1) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F13]: S. 4(2)(3) substituted for s. 4(2) (1.7.2005 in so far as not already in force) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 1(2), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F14]: S. 4(4) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 3; S.S.I. 2011/278, art. 2(d)
+[^F15]: Words in s. 4(4) substituted (1.4.2014) by The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 15(3) (with Sch. 1 para. 28, Sch. 2 paras. 13-15)
+[^F16]: Words in s. 4(4) inserted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(2) (with reg. 3)
+[^F17]: Words in s. 5(1)-(3) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F18]: Words in s. 5(2)(a) substituted (1.4.2006) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(3)(a) (with s. 36); S.S.I. 2006/167, art. 2, sch. 1
+[^F19]: Words in s. 5(2)(a)(i) substituted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 4(a); S.S.I. 2011/278, art. 2(d)
+[^F20]: Words in s. 5(2)(a)(i) substituted (1.4.2014) by The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 15(4) (with Sch. 1 para. 28, Sch. 2 paras. 13-15)
+[^F21]: Words in s. 5(2)(a)(ii) substituted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 4(b); S.S.I. 2011/278, art. 2(d)
+[^F22]: Words in s. 5(2)(b) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 4(c)(i); S.S.I. 2011/278, art. 2(d)
+[^F23]: Word in s. 5(2)(b) repealed (1.4.2006) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(3)(b) (with s. 36); S.S.I. 2006/167, art. 2, sch. 1
+[^F24]: Words in s. 5(2)(b) repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 4(c)(ii); S.S.I. 2011/278, art. 2(d)
+[^F25]: S. 5(4) added (1.7.2005 in so far as not already in force) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 1(3), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F26]: Words in s. 6 substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F27]: Words in s. 6 title inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 6; S.S.I. 2011/278, art. 2(d)
+[^F28]: Words in s. 6 heading substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(3)(a) (with reg. 3)
+[^F29]: S. 6(2A)(2B) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 5; S.S.I. 2011/278, art. 2(d)
+[^F30]: Words in s. 6(2A) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(3)(b)(i) (with reg. 3)
+[^F31]: Words in s. 6(2A) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(3)(b)(ii) (with reg. 3)
+[^F32]: Words in s. 6(2B) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(3)(c) (with reg. 3)
+[^F33]: S. 6A repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 21 (with sch. 3 para. 8(2)(4)); S.S.I. 2011/278, art. 2(d)
+[^F34]: S. 6B repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 21; S.S.I. 2011/278, art. 2(d)
+[^F35]: S. 6C repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 21; S.S.I. 2011/278, art. 2(d)
+[^F36]: Word in s. 11(1)(a) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F37]: S. 11(7A) inserted (20.4.2010) by The Water Quality (Scotland) Regulations 2010 (S.S.I. 2010/95), regs. 1(1), 6
+[^F38]: S. 25(1A) inserted (21.12.2013) by Water Resources (Scotland) Act 2013 (asp 5), ss. 23, 56(1)(2); S.S.I. 2013/342, art. 2(a)
+[^F39]: Words in s. 25(3)(a) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 200(2) (with art. 10)
+[^F40]: Words in s. 26(1)-(4) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F41]: Words in s. 26(1)(a) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(4)(a)(i) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F42]: Words in s. 26(1)(b) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(4)(a)(ii) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F43]: S. 26(2) repealed (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(4)(b) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F44]: Words in s. 26(7) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F45]: Words in s. 27 substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F46]: Words in s. 27(1) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(2)(a), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F47]: Words in s. 27(1) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(4)(a) (with reg. 3)
+[^F48]: Words in s. 27(4) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(2)(b), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F49]: Words in s. 27(4) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(4)(b) (with reg. 3)
+[^F50]: Words in s. 28(3)(a) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(3), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F51]: Words in s. 28(3)(a) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(5) (with reg. 3)
+[^F52]: Ss. 29-29G substituted for s. 29 (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(1), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F53]: Word in s. 29B(4)(a) repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(4)(a), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F54]: S. 29B(4)(iia) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(4)(b), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F55]: Words in s. 29B(4)(a)(iii) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(6) (with reg. 3)
+[^F56]: S. 29D(5)(aa) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(5), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F57]: Words in s. 29D(5)(b) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(7) (with reg. 3)
+[^F58]: Words in s. 30(1) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(2)(a), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F59]: Words in s. 30(3) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(2)(b), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F60]: Words in s. 30(4) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(2)(c)(i), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F61]: Word in s. 30(4) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(2)(c)(ii), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F62]: Ss. 31-34 repealed (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(3), 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2 (with art. 3(1)(3))
+[^F63]: S. 35(10) added (7.9.2006) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(4), 37(2) (with s. 36); S.S.I. 2006/445, art. 2, sch.
+[^F64]: S. 35A inserted (7.9.2006) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 21(5), 37(2) (with s. 36); S.S.I. 2006/445, art. 2, sch.
+[^F65]: Words in s. 37(3)(b)(i) substituted (1.4.2023) by The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45), reg. 1(2), sch. 2 para. 11(2) (with sch. 1 paras. 1-4, 13-20)
+[^F66]: S. 40 repealed (22.7.2012) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(5) (with s. 36); S.S.I. 2012/192, art. 2
+[^F67]: S. 42 title substituted (21.12.2013) by Water Resources (Scotland) Act 2013 (asp 5), ss. 27(3), 56(1)(2); S.S.I. 2013/342, art. 2(a)
+[^F68]: S. 42(4)(5) repealed (21.12.2013) by Water Resources (Scotland) Act 2013 (asp 5), ss. 27(2), 56(1)(2); S.S.I. 2013/342, art. 2(a)
+[^F69]: Ss. 42A, 42B inserted (21.12.2013) by Water Resources (Scotland) Act 2013 (asp 5), ss. 27(1), 56(1)(2); S.S.I. 2013/342, art. 2(a)
+[^F70]: Words in s. 43(4) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 200(3) (with art. 10)
+[^F71]: Words in s. 46(1)(b)(ii) inserted (30.11.2007) by Water Environment and Water Services (Scotland) Act 2003 (asp 3), s. 38(1), sch. 3 para. 24; S.S.I. 2007/512, art. 2(c)
+[^F72]: Words in s. 49 substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(6) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F73]: S. 50A inserted (21.12.2013) by Water Resources (Scotland) Act 2013 (asp 5), ss. 24, 56(1)(2); S.S.I. 2013/342, art. 2(a)
+[^F74]: S. 51A inserted (21.12.2013) by Water Resources (Scotland) Act 2013 (asp 5), ss. 25, 56(1)(2); S.S.I. 2013/342, art. 2(a)
+[^F75]: Words in s. 54(1) substituted (29.11.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), s. 59(2), sch. 7 para. 13(a) (with s. 55(2)); S.S.I. 2004/495, art. 2
+[^F76]: S. 54(2) repealed (29.11.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), s. 59(2), sch. 7 para. 13(b) (with s. 55(2)); S.S.I. 2004/495, art. 2
+[^F77]: S. 54(3)(a)(b) repealed (29.11.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), s. 59(2), sch. 7 para. 13(c)(i) (with s. 55(2)); S.S.I. 2004/495, art. 2
+[^F78]: Words in s. 54(3)(c) repealed (29.11.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), s. 59(2), sch. 7 para. 13(c)(ii) (with s. 55(2)); S.S.I. 2004/495, art. 2
+[^F79]: Words in s. 54(4) substituted (29.11.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), s. 59(2), sch. 7 para. 13(d)(i) (with s. 55(2)); S.S.I. 2004/495, art. 2
+[^F80]: Words in s. 54(4) repealed (29.11.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), s. 59(2), sch. 7 para. 13(d)(ii) (with s. 55(2)); S.S.I. 2004/495, art. 2
+[^F81]: S. 56(1)(aa) inserted (31.10.2009) by Climate Change (Scotland) Act 2009 (asp 12), ss. 74, 100(2) (with s. 95); S.S.I. 2009/341, art. 2(2)(a)
+[^F82]: Ss. 56A, 56B inserted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), ss. 22, 37(2) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F83]: Words in s. 56A(4) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(6), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F84]: Words in s. 56A(4) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(8) (with reg. 3)
+[^F85]: Words in s. 57(6)(a) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(1) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F86]: Words in s. 57(6) inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(7), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F87]: Words in s. 57(6)(a) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 1(9) (with reg. 3)
+[^F88]: Words in s. 57(7) renumbered as s. 57(7)(a) (7.9.2006) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(7)(a) (with s. 36); S.S.I. 2006/445, art. 2, sch.
+[^F89]: S. 57(7)(b) and word inserted (7.9.2006) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(7)(b) (with s. 36); S.S.I. 2006/445, art. 2, sch.
+[^F90]: S. 58(2)-(4) repealed (1.1.2013) by Public Records (Scotland) Act 2011 (asp 12), ss. 14(e), 16(1); S.S.I. 2012/247, art. 2
+[^F91]: S. 67(4) substituted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 31
+[^F92]: Words in s. 68(4) inserted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(8)(a) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F93]: Words in s. 68(6) inserted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(8)(b) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F94]: Words in s. 70(1) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(9)(a) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F95]: Words in s. 70(1) inserted (1.4.2014) by The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 15(12) (with Sch. 1 para. 28, Sch. 2 paras. 13-15)
+[^F96]: Words in s. 70(1) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(9)(b) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2
+[^F97]: Words in s. 70 inserted (1.4.2023) by The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45), reg. 1(2), sch. 2 para. 11(3) (with sch. 1 paras. 1-4, 13-20)
+[^F98]: Words in s. 70 inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 130(8), 134(7)(8); S.S.I. 2011/278, art. 2(b)
+[^F99]: S. 70(2) substituted (21.12.2013) by Water Resources (Scotland) Act 2013 (asp 5), ss. 26, 56(1)(2); S.S.I. 2013/342, art. 2(a)
+[^F100]: Sch. A1 inserted (20.6.2005 for the insertion of Sch. A1 paras. 1-7, 1.7.2005 in so far as not already in force) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 1 (with s. 36); S.S.I. 2005/351, art. 2, sch. 1, sch. 2
+[^F101]: Sch. 1 Pt. 1 repealed (8.1.2007) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 7(10) (with s. 36); S.S.I. 2006/599, art. 2, sch.
+[^F102]: Sch. 1 Pt. 2 repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 21; S.S.I. 2011/278, art. 2(d)
+[^F103]: Word in sch. 3 para. 2(1)(b) substituted (18.3.2026) by The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146), arts. 1, 2(2)
+[^F104]: Sch. 3 para. 2(2) substituted (18.3.2026) by The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146), arts. 1, 2(3)
+[^F105]: Sch. 3 para. 2(2A) inserted (18.3.2026) by The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146), arts. 1, 2(4)
+[^F106]: Sch. 4 para. 2(3)(za) inserted (30.12.2002) by 2002 asp 17, ss. 61, 64(2)-(4), Sch. 3 Pt. I para. 28
+[^F107]: Sch. 4 para. 2(3)(zb) inserted (23.11.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 26(2) (with s. 223); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F108]: Words in sch. 4 para. 4(1) inserted (1.4.2008 for specified purposes, 23.11.2009 for specified purposes) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 26(3) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F109]: Sch. 7 para. 1 repealed (2.8.2005) by Fire (Scotland) Act 2005 (asp 5), s. 90, sch. 4 (with s. 77); S.S.I. 2005/392, art. 2(k)
+[^F110]: Sch. 7 para. 3 repealed (24.12.2010) by Flood Risk Management (Scotland) Act 2009 (asp 6), s. 97(1), sch. 3 para. 13 (with s. 91); S.S.I. 2010/401, art. 3(h)
+[^F111]: Sch. 7 para. 7 repealed (1.4.2016) by Reservoirs (Scotland) Act 2011 (asp 9), ss. 112(3), 116(1) (with s. 110); S.S.I. 2016/42, art. 2, sch. (with art. 3)
+[^F112]: Sch. 7 para. 11(3) repealed (1.7.2010) by Marine (Scotland) Act 2010 (asp 5), s. 168(1), sch. 4 para. 9 (with s. 162); S.S.I. 2010/230, art. 2(h)
+[^F113]: Sch. 7 para. 14(2)(3) repealed (28.12.2007) by Transport and Works (Scotland) Act 2007 (asp 8), s. 30(4), sch. 3; S.S.I. 2007/516, art. 2; S.S.I. 2007/516, art. 2
+[^F114]: Sch. 7 para. 16 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 Pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F115]: Sch. 7 para. 24(2) repealed (30.6.2014) by Regulatory Reform (Scotland) Act 2014 (asp 3), s. 61(2), sch. 3 para. 15; S.S.I. 2014/160, art. 2(1)(2), sch.

@@ -1,0 +1,3696 @@
+---
+title: "Criminal Justice (Scotland) Act 2003"
+identifier: "asp/2003/7"
+citation: "2003 asp 7"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2003-03-26
+last_amended: 2026-03-19
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2003/7"
+source_modified: 2026-04-15
+retrieved: 2026-10-11
+---
+
+# Criminal Justice (Scotland) Act 2003
+
+**2003 asp 7**
+
+An Act of the Scottish Parliament to make provision in relation to criminal justice, criminal procedure and evidence in criminal proceedings; to make provision as to the arrest, sentencing, custody and release of offenders and the obtaining of reports in relation to offenders; to make provision for the provision of assistance by local authorities to persons who are arrested and are in police custody or who are subject to a deferred sentence and for the making of grants to local authorities exercising jointly certain functions in relation to offenders and other persons; to make provision for the protection of the public at large from persons with a propensity to commit certain offences and for the establishment of the Risk Management Authority; to make provision for the granting of certain rights to the victims of crime; to make provision as to the jurisdiction of courts and the designation of certain courts as drugs courts; to make provision in relation to the physical punishment of children; to create offences in connection with traffic in prostitution or for purposes connected with pornography; to make provision as to the criminal law as it relates to bribery and the acceptance of bribes; to make provision in relation to criminal legal assistance; to require the aggravation of an offence by religious prejudice to be taken into account in sentencing; to make provision as respects police ranks and the powers and duties of certain civilians employed by police authorities; to make provision for the disqualification of convicted persons from jury service in both criminal and civil proceedings and for the separation of juries after retiral; to make provision for the use of live television links between prisons and courts; to make provision in relation to warrants to search; to amend Part V of the Police Act 1997 in its application to Scotland; to make provision in relation to the prohibition of certain matters in respect of cases referred to the Principal Reporter; to amend the law relating to penalties for wildlife offences; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th February 2003 and received Royal Assent on 26th March 2003
+
+## Part 1 — Protection of the public at large
+
+### Risk assessment and order for lifelong restriction
+
+#### 1 Risk assessment and order for lifelong restriction
+
+(1) In Part XI of the 1995 Act (sentencing), after section 210AA (which is inserted into that Act by section 20 of this Act) there is inserted—
+
+> **Risk assessment**
+>
+> **210B Risk assessment order**
+>
+> (1) This subsection applies where it falls to the High Court to impose sentence on a person convicted of an offence other than murder and that offence—
+>
+> (a) is (any or all)—
+>
+> (i) a sexual offence (as defined in section 210A(10) of this Act);
+>
+> (ii) a violent offence (as so defined);
+>
+> (iii) an offence which endangers life; or
+>
+> (b) is an offence the nature of which, or circumstances of the commission of which, are such that it appears to the court that the person has a propensity to commit any such offence as is mentioned in sub-paragraphs (i) to (iii) of paragraph (a) above.
+>
+> (2) Where subsection (1) above applies, the court, at its own instance or (provided that the prosecutor has given the person notice of his intention in that regard) on the motion of the prosecutor, if it considers that the risk criteria may be met, shall make an order under this subsection (a “risk assessment order”) unless—
+>
+> (a) the court makes an [[^F1]interim compulsion order] by virtue of section 210D(1) of this Act in respect of the person; or
+>
+> (b) the person is subject to an order for lifelong restriction previously imposed.
+>
+> (3) A risk assessment order is an order—
+>
+> (a) for the convicted person to be taken to a place specified in the order, so that there may be prepared there—
+>
+> (i) by a person accredited for the purposes of this section by the Risk Management Authority; and
+>
+> (ii) in such manner as may be so accredited,
+>
+> a risk assessment report (that is to say, a report as to what risk his being at liberty presents to the safety of the public at large); and
+>
+> (b) providing for him to be remanded in custody there for so long as is necessary for those purposes and thereafter there or elsewhere until such diet as is fixed for sentence.
+>
+> (4) On making a risk assessment order, the court shall adjourn the case for a period not exceeding ninety days.
+>
+> (5) The court may on one occasion, on cause shown, extend the period mentioned in subsection (4) above by not more than ninety days; and it may exceptionally, where by reason of circumstances outwith the control of the person to whom it falls to prepare the risk assessment report (the “assessor”), or as the case may be of any person instructed under section 210C(5) of this Act to prepare such a report, the report in question has not been completed, grant such further extension as appears to it to be appropriate.
+>
+> (6) There shall be no appeal against a risk assessment order or against any refusal to make such an order.
+>
+> **210C Risk assessment report**
+>
+> (1) The assessor may, in preparing the risk assessment report, take into account not only any previous conviction of the convicted person but also any allegation that the person has engaged in criminal behaviour (whether or not that behaviour resulted in prosecution and acquittal).
+>
+> (2) Where the assessor, in preparing the risk assessment report, takes into account any allegation that the person has engaged in criminal behaviour, the report is to—
+>
+> (a) list each such allegation;
+>
+> (b) set out any additional evidence which supports the allegation; and
+>
+> (c) explain the extent to which the allegation and evidence has influenced the opinion included in the report under subsection (3) below.
+>
+> (3) The assessor shall include in the risk assessment report his opinion as to whether the risk mentioned in section 210B(3)(a) of this Act is, having regard to such standards and guidelines as are issued by the Risk Management Authority in that regard, high, medium or low.
+>
+> (4) The assessor shall submit the risk assessment report to the High Court by sending it, together with such documents as are available to the assessor and are referred to in the report, to the Principal Clerk of Justiciary, who shall then send a copy of the report and of those documents to the prosecutor and to the convicted person.
+>
+> (5) The convicted person may, during the period of his detention at the place specified in the risk assessment order, himself instruct the preparation (by a person other than the assessor) of a risk assessment report; and if such a report is so prepared then the person who prepares it shall submit it to the court by sending it, together with such documents as are available to him (after any requirement under subsection (4) above is met) and are referred to in the report, to the Principal Clerk of Justiciary, who shall then send a copy of it and of those documents to the prosecutor.
+>
+> (6) When the court receives the risk assessment report submitted by the assessor a diet shall be fixed for the convicted person to be brought before it for sentence.
+>
+> (7) If, within such period after receiving a copy of that report as may be prescribed by Act of Adjournal, the convicted person intimates, in such form, or as nearly as may be in such form, as may be so prescribed—
+>
+> (a) that he objects to the content or findings of that report; and
+>
+> (b) what the grounds of his objection are,
+>
+> the prosecutor and he shall be entitled to produce and examine witnesses with regard to—
+>
+> (i) that content or those findings; and
+>
+> (ii) the content or findings of any risk assessment report instructed by the person and duly submitted under subsection (5) above.
+>
+> **210D Interim hospital order and assessment of risk**
+>
+> (1) Where subsection (1) of section 210B of this Act applies, the High Court, if—
+>
+> (a) it may make an [[^F2] interim compulsion order] in respect of the person under section 53 of this Act; and
+>
+> (b) it considers that the risk criteria may be met,
+>
+> shall make such an order unless the person is subject to an order for lifelong restriction previously imposed.
+>
+> (2) Where an [[^F3]interim compulsion order] is made by virtue of subsection (1) above, a report as to the risk the convicted person’s being at liberty presents to the safety of the public at large shall be prepared by a person accredited for the purposes of this section by the Risk Management Authority and in such manner as may be so accredited.
+>
+> (3) Section 210C(1) to (4) and (7) (except paragraph (ii)) of this Act shall apply in respect of any such report as it does in respect of a risk assessment report.
+>
+> **210E The risk criteria**
+>
+> For the purposes of sections 195(1), 210B(2), 210D(1) and 210F(1) and (3) of this Act, the risk criteria are that the nature of, or the circumstances of the commission of, the offence of which the convicted person has been found guilty either in themselves or as part of a pattern of behaviour are such as to demonstrate that there is a likelihood that he, if at liberty, will seriously endanger the lives, or physical or psychological well-being, of members of the public at large.
+>
+> **Order for lifelong restriction etc.**
+>
+> **210F Order for lifelong restriction**
+>
+> (1) The High Court, at its own instance or on the motion of the prosecutor, if it is satisfied, having regard to—
+>
+> (a) a risk assessment report submitted under section 210C(4) or (5) of this Act;
+>
+> (b) any report submitted by virtue of section 210D of this Act;
+>
+> (c) any evidence given under section 210C(7) of this Act; and
+>
+> (d) any other information before it,
+>
+> that, on a balance of probabilities, the risk criteria are met, shall make an order for lifelong restriction in respect of the convicted person.
+>
+> (2) An order for lifelong restriction constitutes a sentence of imprisonment, or as the case may be detention, for an indeterminate period.
+>
+> (3) The prosecutor may, on the grounds that on a balance of probabilities the risk criteria are met, appeal against any refusal of the court to make an order for lifelong restriction.
+>
+> **210G Disposal of case where certain orders not made**
+>
+> (1) Where, in respect of a convicted person—
+>
+> (a) a risk assessment order is not made under section 210B(2) of this Act, or (as the case may be) an [[^F4]interim compulsion order] is not made by virtue of section 210D(1) of this Act, because the court does not consider that the risk criteria may be met; or
+>
+> (b) the court considers that the risk criteria may be met but a risk assessment order, or (as the case may be) an [[^F4]interim compulsion order], is not so made because the person is subject to an order for lifelong restriction previously imposed,
+>
+> the court shall dispose of the case as it considers appropriate.
+>
+> (2) Where, in respect of a convicted person, an order for lifelong restriction is not made under section 210F of this Act because the court is not satisfied (in accordance with subsection (1) of that section) that the risk criteria are met, the court, in disposing of the case, shall not impose on the person a sentence of imprisonment for life, detention for life or detention without limit of time.
+>
+> **Report of judge**
+>
+> **210H Report of judge**
+>
+> (1) This subsection applies where a person falls to be sentenced—
+>
+> (a) in the High Court for an offence (other than murder) mentioned in section 210B(1) of this Act; or
+>
+> (b) in the sheriff court for such an offence prosecuted on indictment.
+>
+> (2) Where subsection (1) above applies, the court shall, as soon as reasonably practicable, prepare a report in writing, in such form as may be prescribed by Act of Adjournal—
+>
+> (a) as to the circumstances of the case; and
+>
+> (b) containing such other information as it considers appropriate,
+>
+> but no such report shall be prepared if a report is required to be prepared under section 21(4) of the Criminal Justice (Scotland) Act 2003 (asp 7).
+
+.
+
+(2) Schedule 1, which contains amendments consequential upon the provisions of subsection (1), has effect.
+
+### Disposal in case of insanity
+
+#### 2 Disposal of case where accused found to be insane
+
+In section 57 (disposal of case where accused found to be insane) of the 1995 Act—
+
+(a) in subsection (2) after paragraph (b) there is inserted—
+
+> (bb) make an interim hospital order;
+
+; and
+
+(b) for subsection (3) there is substituted—
+
+> (3) Where the court is satisfied, having regard to a report submitted in respect of the person following an interim hospital order, that, on a balance of probabilities, the risk his being at liberty presents to the safety of the public at large is high, it shall make orders under both paragraphs (a) and (b) of subsection (2) above in respect of that person.
+
+.
+
+### The Risk Management Authority
+
+#### 3 The Risk Management Authority
+
+(1) There is established an authority (to be known as the “Risk Management Authority”) whose functions under this Act and any other enactment are to be exercised for the purpose of ensuring the effective assessment and minimisation of risk.
+
+(2) For the purposes of subsection (1) and sections 4 to 6, “risk” means, as regards—
+
+(a) a person convicted of an offence; or
+
+(b) a person who is subject to a disposal under section 57 (disposal of case where accused found [[^F5]not criminally responsible or unfit for trial] ) of the 1995 Act,
+
+the risk the person’s being at liberty presents to the safety of the public at large.
+
+(3) Schedule 2 has effect with respect to the Authority.
+
+#### 4 Policy and research
+
+In, or as the case may be in relation to, the assessment and minimisation of risk—
+
+(a) the Risk Management Authority is to—
+
+(i) compile and keep under review information about the provision of services in Scotland;
+
+(ii) compile and keep under review research and development;
+
+(iii) promote effective practice; and
+
+(iv) give such advice and make such recommendations to the Scottish Ministers as it considers appropriate; and
+
+(b) the Authority may—
+
+(i) carry out, commission or co-ordinate research and publish the results of such research; and
+
+(ii) undertake pilot schemes for the purposes of developing and improving methods.
+
+#### 5 Guidelines and standards
+
+(1) The Risk Management Authority is to—
+
+(a) prepare and issue guidelines as to the assessment and minimisation of risk; and
+
+(b) set and publish standards according to which measures taken in respect of the assessment and minimisation of risk are to be judged.
+
+(2) Any person having functions in relation to the assessment and minimisation of risk is to have regard to such guidelines and standards in the exercise of those functions.
+
+#### 6 Risk management plans
+
+(1) A plan (a “risk management plan”) must be prepared in respect of—
+
+(a) any offender who is subject to an order for lifelong restriction made under section 210F (order for lifelong restriction) of the 1995 Act; and
+
+(b) any offender falling within such other category as may be prescribed.
+
+(2) Before making an order by virtue of subsection (1)(b), the Scottish Ministers are to consult—
+
+(a) the Risk Management Authority; and
+
+(b) such other persons as they consider appropriate.
+
+(3) The risk management plan must—
+
+(a) set out an assessment of risk;
+
+(b) set out the measures to be taken for the minimisation of risk, and how such measures are to be co-ordinated; and
+
+(c) be in such form as is specified under subsection (5).
+
+(4) The risk management plan may provide for any person who may reasonably be expected to assist in the minimisation of risk to have functions in relation to the implementation of the plan.
+
+(5) The Risk Management Authority is to specify and publish the form of risk management plans.
+
+(6) The Risk Management Authority may issue guidance (either generally or in a particular case) as to the preparation, implementation or review of any risk management plan.
+
+#### 7 Preparation of risk management plans
+
+(1) Where the offender is serving a sentence—
+
+(a) of imprisonment in a prison;
+
+(b) of detention in a young offenders institution; or
+
+(c) by virtue of section 208 (detention of children convicted on indictment) of the 1995 Act, of detention in some other place,
+
+the risk management plan is to be prepared by the Scottish Ministers.
+
+(2) Where the offender is detained [^F6]. . . in a hospital by virtue of—
+
+(a) a [[^F7]compulsion order under section 57A (compulsion order)] of the 1995 Act;
+
+(b) a hospital direction under section 59A (hospital directions) of the 1995 Act;
+
+[[^F8](c) Part 5 (emergency detention), 6 (short term detention) or 7 (compulsory treatment orders) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) (“the 2003 Act”);]
+
+(d) a transfer [[^F9]for treatment direction under section 136 of the 2003 Act],
+
+the risk management plan is to be prepared by the managers of the hospital in which the offender is detained (or liable to be detained).
+
+(3) Where the risk management plan does not require to be prepared by the Scottish Ministers or the managers of a hospital under subsections (1) and (2), the plan is to be prepared by the local authority in whose area the offender resides.
+
+(4) In this section, the expressions “managers of a hospital” and “hospital” are to be construed in accordance with [[^F10]section 329 (interpretation) of the 2003 Act].
+
+(5) Whoever is required by virtue of this section to prepare the risk management plan is referred to in sections 8 and 9 as the “lead authority”.
+
+#### 8 Preparation of risk management plans: further provision
+
+(1) Preparation of the risk management plan is to be completed no later than 9 months after the offender is sentenced or detained (or becomes liable to be detained) in hospital; but if there is an appeal under subsection (7), it may be completed within such longer period as the Risk Management Authority may reasonably require.
+
+(2) In preparing the risk management plan, the lead authority is to consult—
+
+(a) any person on whom, by virtue of section 6(4), the lead authority is considering conferring functions; and
+
+(b) such other persons as it considers appropriate.
+
+(3) Any person so consulted is to provide such assistance to the lead authority as it may reasonably require for the purposes of preparing the plan.
+
+(4) The lead authority is to submit the risk management plan to the Risk Management Authority and the Risk Management Authority is to—
+
+(a) approve it; or
+
+(b) where it considers that a plan does not comply with section 6(3) or that the lead authority has, in preparing the plan, disregarded any guideline or standard under section 5 or any guidance under section 6(6), reject it.
+
+(5) Where any plan is rejected, the lead authority is to prepare a revised plan and submit it to the Risk Management Authority by such time as the Authority may reasonably require.
+
+(6) Where the Risk Management Authority—
+
+(a) rejects a revised plan; and
+
+(b) considers that, unless it exercises its power under this subsection to give directions, subsection (1) would not be complied with,
+
+the Authority may give directions to the lead authority and any other person having functions under the plan as to the preparation of a revised plan; and the lead authority and such other person must, subject to subsection (7), comply with any such direction.
+
+(7) The lead authority or any other person to whom any direction is given under subsection (6) may appeal to the sheriff against the direction on the grounds that it is unreasonable.
+
+#### 9 Implementation and review of risk management plans
+
+(1) The lead authority and any other person having functions under the risk management plan are to implement the plan in accordance with their respective functions.
+
+(2) Where the Risk Management Authority considers that the lead authority or any such other person is failing, without reasonable excuse, to implement the plan in accordance with those functions, the Authority may give directions to the lead authority or, as the case may be, the person as to the implementation of the plan; and the lead authority and the person must, subject to subsection (3), comply with any such direction.
+
+(3) The lead authority or any other person to whom any direction is given under subsection (2) may appeal to the sheriff against the direction on the grounds that it is unreasonable.
+
+(4) The lead authority is to report annually to the Risk Management Authority as to the implementation of the plan.
+
+(5) Where there has been, or there is likely to be, a significant change in the circumstances of the offender, the lead authority is to review the plan.
+
+(6) Where a review has been carried out under subsection (5), and the lead authority considers that the plan for the time being in force is, or is likely to become, unsuitable, either—
+
+(a) the lead authority is to prepare an amended plan; or
+
+(b) if it is not appropriate for it to continue as lead authority, a different lead authority (determined in accordance with section 7) is to prepare an amended plan,
+
+within such period as the Risk Management Authority may reasonably require.
+
+(7) Sections 6(3) and (4), 8(2) to (7) and this section apply to the preparation of an amended plan under subsection (6) as they do to the preparation of a plan under sections 6 to 8 but as if, in subsection (6)(b) of section 8, the reference to subsection (1) of that section were a reference to subsection (6).
+
+#### 10 Grants to local authorities in connection with risk management plans
+
+(1) The Scottish Ministers may make to any local authority grants of such amount, and subject to such conditions, as they may determine in respect of expenditure incurred by the authority in preparing and implementing any risk management plan.
+
+(2) Before making any such grant, the Scottish Ministers must consult such local authorities and such other persons as they consider appropriate.
+
+#### 11 Accreditation, education and training
+
+(1) The Scottish Ministers may by order make a scheme of accreditation as to—
+
+(a) any manner of assessing and minimising risk (being accreditation in recognition of the effectiveness of any methods and practices which may be employed in the assessment and minimisation of risk); and
+
+(b) persons having functions in relation to the assessment and minimisation of risk (being accreditation in recognition of education or training received, or of any expertise relevant to those functions otherwise held or acquired, by them).
+
+[[^F11](1A) The order may authorise—
+
+(a) decisions as to cases arising in relation to a scheme of accreditation to be taken by a committee; and
+
+(b) any appeal as to such a decision to be determined by a committee,
+
+in accordance with such procedure as may be prescribed; and without prejudice to the generality of this subsection the order may make provision as to the membership of the committees and as to any quorum.]
+
+(2) The Risk Management Authority—
+
+(a) is to administer any scheme of accreditation made under subsection (1) (including awarding, generally or for any particular purpose, suspending or withdrawing accreditation where it considers that to be appropriate); and
+
+(b) may provide, or secure the provision of, education and training in relation to the assessment and minimisation of risk for any person having functions in that regard.
+
+#### 12 Functions: supplementary
+
+(1) The Risk Management Authority may, subject to subsection (3), do anything it considers necessary or expedient for the purpose of or in connection with the exercise of its functions.
+
+(2) In particular, the Authority may—
+
+(a) acquire and dispose of land;
+
+(b) enter into contracts;
+
+(c) charge for goods and services;
+
+(d) with the consent of the Scottish Ministers, invest and borrow money.
+
+(3) The Scottish Ministers may for the purpose of or in connection with the exercise of the Risk Management Authority’s functions give directions to the Authority; and the Authority is to comply with any such direction.
+
+#### 13 Accounts and annual reports
+
+(1) The Risk Management Authority is to—
+
+(a) keep proper accounts and accounting records;
+
+(b) prepare for each financial year (the financial year being the period of 12 months ending with 31st March) an account of its expenditure and receipts; and
+
+(c) send the account to the Scottish Ministers,
+
+and the Scottish Ministers are to send the account to the Auditor General for Scotland for auditing.
+
+(2) The Authority is, as soon as practicable after the end of each financial year, to prepare a report on its activities during that year and send a copy of the report to the Scottish Ministers.
+
+(3) The Scottish Ministers are to lay a copy of the report before the Parliament and publish the report.
+
+## Part 2 — Victims' rights
+
+### 14 Victim statements
+
+(1) This section applies only where proceedings in respect of an offence are to be taken, or are likely to be taken, in a prescribed court or class of court.
+
+(2) In so far as is reasonably practicable, a natural person against whom a prescribed offence has been (or appears to have been) perpetrated is—
+
+(a) after a decision has been taken to bring proceedings in respect of that offence; or
+
+(b) if a procurator fiscal so determines, before any such decision has been taken,
+
+to be afforded an opportunity to make a statement (to be known as a “victim statement”) as to the way in which, and degree to which, that offence (or apparent offence) has affected and as the case may be continues to affect, that person; but this subsection is subject to subsection (6).
+
+(3) Where a person who has made a victim statement by virtue of subsection (2) (or that subsection and subsection (6)) so requests and sentence may yet fall to be imposed in respect of the offence (or apparent offence), that person is to be afforded an opportunity to make a statement supplementary to, or in amplification of, the victim statement.
+
+(4) A copy of any—
+
+(a) victim statement made; or
+
+(b) statement made by virtue of subsection (3) in relation to a victim statement,
+
+is, if the accused tenders a plea of guilty to, or is found guilty of, the offence in question, to be provided forthwith to the accused by the prosecutor.
+
+(5) A prosecutor must—
+
+(a) in solemn proceedings, when [[^F12]or after] moving for sentence as respects an offence [[^F13]but before sentence is imposed]; and
+
+(b) in summary proceedings, when [[^F14]or after] a plea of guilty is tendered in respect of, or the accused is convicted of, an offence [[^F15]but before sentence is imposed],
+
+lay before the court any victim statement which relates (whether in whole or in part) to the offence in question, and the court must in determining sentence have regard to so much of—
+
+(i) that statement; and
+
+(ii) any statement made by virtue of subsection (3) in relation to that statement,
+
+as it considers to be relevant to that offence.
+
+(6) Where—
+
+(a) because a person has died no such opportunity as is mentioned in subsection (2) can be afforded that person then subsections (2) and (3) apply as if the references in them to the person and to how the offence (or apparent offence) affected, or continues to affect, the person—
+
+(i) were references to any or all of the four qualifying persons highest listed in subsection (10) and to how the offence (or apparent offence) affected, or continues to affect, the maker of the statement; and
+
+(ii) without prejudice to sub-paragraph (i), where the person died a child (that is to say not having attained the age of sixteen years), included references to any other person who, immediately before the offence (or apparent offence) was perpetrated, cared for the child (that expression being construed in accordance with the definition of “person who cares for” in [[^F16]paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010] (asp 8)) and to how the offence (or apparent offence) affected, or continues to affect, that other person; or
+
+(b) a person who (but for this paragraph and other than by virtue of paragraph (a)) would be afforded such an opportunity as is so mentioned is—
+
+(i) incapable, by reason of mental disorder or inability to communicate, of making a victim statement, subsections (2) and (3) apply as if the person to be afforded an opportunity were not the incapable person but the qualifying person highest listed in subsection (10) [[^F17](taking no account of qualifying persons who have not attained the age of 12 years)]; [^F18]...
+
+[^F19]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and as if the other references in those subsections to a person continued to be to the incapable person [^F20]....
+
+(7) For the purposes of subsection (6)(b)(i), inability to communicate by reason only of a lack or deficiency in a faculty of communication is to be disregarded if that lack or deficiency can be made good by human or mechanical aid (whether of an interpretative nature or otherwise).
+
+(8) In subsection (6), “qualifying person” means a person whose relationship to the victim is listed in subsection (10), who is [[^F21]not] incapable as mentioned in sub-paragraph (i) of paragraph (b) of subsection (6) [^F22]... and who is not a person referred to by subsection (9).
+
+(9) This subsection refers to a person accused of, or reasonably suspected of being the perpetrator of, or of having been implicated in, the offence (or apparent offence) in question.
+
+(10) The list is—
+
+(a) spouse [[^F23]or civil partner];
+
+(b) cohabitee;
+
+(c) son or daughter or any person in relation to whom the victim has or had parental responsibilities or rights vested by, under or by virtue of the Children (Scotland) Act 1995 (c. 36);
+
+(d) father or mother or any person in whom parental responsibilities or rights are or were vested by, under or by virtue of that Act in relation to the victim;
+
+(e) brother or sister;
+
+(f) grandparent;
+
+(g) grandchild;
+
+(h) uncle or aunt;
+
+(i) nephew or niece,
+
+and the elder of any two persons described in any one of paragraphs (a) to (i) is to be taken to be the higher listed person, regardless of sex.
+
+[[^F24](11) In subsection (10)(b), “cohabitee” means a person who has lived with the victim—
+
+(a) as if in a married relationship; or
+
+(b) in a relationship which had the characteristics of the relationship between civil partners,
+
+for at least six months and was so living immediately before the offence (or apparent offence) was perpetrated.]
+
+[[^F25](11A) Where a child who has not attained the age of 12 years has (but for this subsection) the opportunity to make a statement by virtue of subsection (2), (3) or (6)(a)(i)—
+
+(a) any statement made by virtue of the subsection must instead be made by a carer of the child, but
+
+(b) those subsections otherwise apply as if references in them to a person and to the maker of a statement are to the child.
+
+(11B) For the purposes of subsection (11A), “carer of the child” means—
+
+(a) a person who cared for the child when the offence (or apparent offence) was perpetrated,
+
+(b) a person who cares for the child when the statement is made,
+
+(c) a person who has cared for the child at any other time.
+
+(11C) If more than one person comes within the meaning of “carer of the child” the persons may agree which carer is to make the statement after, so far as practicable and having regard to the age and maturity of the child—
+
+(a) giving the child an opportunity to express any views on which carer is to make the statement, and
+
+(b) taking account of any views expressed by the child.
+
+(11D) If no agreement is reached in accordance with subsection (11C)—
+
+(a) the statement may be made by each person coming within the description in subsection (11B)(a), and
+
+(b) if there is no such person, the statement may be made by each person coming within the description in subsection (11B)(b).
+
+(11E) In subsection (11B), the expressions “cared for” and “cares for” are to be construed in accordance with the definition of “someone who cares for” in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010.]
+
+(12) The Scottish Ministers may by order (either or both)—
+
+(a) amend [[^F26]this section] by substituting for the age for the time being specified [[^F27]in any part of this section] such other age as they think fit;
+
+(b) amend the list in subsection (10).
+
+[[^F28](13) A victim statement, or a statement made by virtue of subsection (3) in relation to a victim statement, may be made in such form and manner as may be prescribed.
+
+(14) An order under subsection (13) may—
+
+(a) include such incidental, supplementary or consequential provision as the Scottish Ministers consider appropriate,
+
+(b) modify any enactment (including this Act).
+
+[[^F29](15) An order under subsection (1), (2) or (13) may make different provision for different purposes including—
+
+(a) in the case of an order under subsection (1), provision to prescribe a court or class of court only in relation to a specific offence or offences triable in that court;
+
+(b) in the case of an order under subsection (2), provision to prescribe an offence—
+
+(i) by reference to the nature of the offence; or
+
+(ii) only insofar as it is triable in a specific court or class of court;
+
+(c) in the case of an order under subsection (1), (2) or (13), provision of temporary or local effect.]
+
+[[^F29](16) An order under subsection (2) may prescribe all offences triable in a prescribed court.]]
+
+### 15 Prohibition of personal conduct of defence in proofs ordered in relation to victim statements in cases of certain sexual offences
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 288C(1) (prohibition of personal conduct of defence in cases of certain sexual offences), at the end there is added “ or in any proof ordered in relation to a statement made by virtue of subsection (2) (or by virtue of that subsection and subsection (6)) of section 14 of the Criminal Justice (Scotland) Act 2003 (asp 7) ”.
+
+(3) In section 288D(2)(a) (appointment by court of solicitor in such cases), at the end there is added “ or as the case may be at any proof ordered as is mentioned in section 288C(1) of this Act ”.
+
+### [^F30]15A Application of sections 271 to 271M of the 1995 Act in proofs ordered in relation to victim statements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16 Victim’s right to receive information concerning release etc. of offender
+
+(1) Subject to subsection (2), the Scottish Ministers must, unless they consider that there are exceptional circumstances which make it inappropriate to do so, give any natural person against whom [[^F31]an offence] has been perpetrated such information as is described in subsection (3), being information in relation to any person who has been convicted of that offence and sentenced in respect of it—
+
+(a) to imprisonment or detention for a period of [[^F32]18 months or more];
+
+(b) to life imprisonment or detention for life; or
+
+(c) under section 205(2) (punishment for murder where convicted person under 18) or 208 (detention of children convicted on indictment) of the 1995 Act, to detention without limit of time,
+
+provided that the person to be given the information wishes to receive it and has so intimated.
+
+(2) Subsection (1) does not apply where the convicted person is released before attaining the age of sixteen years.
+
+(3) The information mentioned in subsection (1) is—
+
+(a) the date on which the convicted person is, under or by virtue of the 1989 Act or the 1993 Act, released (other than by being granted temporary release);
+
+[[^F33](aa) the date on which the convicted person is released under or by virtue of regulations made under paragraph 19(1) of schedule 4 of the Coronavirus (Scotland) Act 2020;]
+
+(b) if the convicted person dies before that date, the date of death;
+
+(c) that the convicted person has been transferred to a place outwith Scotland;
+
+[[^F34](d) that the convicted person is for the first time entitled to be considered for temporary release by virtue of rules under section 39(6) of the 1989 Act,]
+
+(e) that the convicted person is unlawfully at large from a prison[[^F35], young] offenders institution [[^F36]or hospital] [[^F37]; [^F38]...
+
+(f) where the convicted person–
+
+(i) was released as described in paragraph (a) or was unlawfully at large as described in paragraph (e), and
+
+(ii) subsequently has been returned to a prison[[^F39], young] offenders institution [[^F40]or hospital] to continue serving the sentence,
+
+the date of the person's return.]
+
+[[^F41](g) where the convicted person is liable to be detained in a hospital under a hospital direction or transfer for treatment direction—
+
+(i) that a certificate has been granted, for the first time, under the Mental Health Act which suspends the person's detention and does not impose a supervision requirement,
+
+(ii) that the certificate mentioned in sub-paragraph (i) has been revoked.]
+
+(4) The Scottish Ministers may by order—
+
+(a) amend subsection (1)(a) by substituting, for the period for the time being specified there, a different period; [^F42]...
+
+(b) amend subsection (3) by adding descriptions of information [[^F43]; or
+
+(c) modify section 18A, by adding, amending or repealing definitions of terms used in the descriptions of information in subsection (3) of this section.]
+
+(5) Where information would fall to be given to a person under subsection (1) but that person—
+
+(a) has died, that subsection applies as if references in it to the person [[^F44]to be given the information] were to be construed as mentioned in sub-paragraphs (i) and (ii) of paragraph (a) of section 14(6) of this Act [[^F45](except that, in the case where a qualifying person is a child who has not attained the age of 12 years, paragraph (a)(i) of the said section 14(6) is to be construed as if the reference to the qualifying person were to a person who cares for the child)]; or
+
+(b) in a case other than is mentioned in paragraph (a)—
+
+(i) is incapable as mentioned in sub-paragraph (i) of paragraph (b) of the said section 14(6), that subsection applies as if references in it to the person were to be construed as mentioned in that sub-paragraph [[^F46](taking him to be the person “afforded an opportunity”)]; or
+
+(ii) is a child [[^F47]who has not attained the age of 12 years] [^F48]... , that subsection applies as if references in it to the person [[^F49]to be given the information] were to be construed as [[^F50]references to the person who cares for the child]
+
+[^F51]....
+
+(6) Subsections (7) [[^F52]to (11)] of section 14 apply in relation to [[^F53]paragraphs (a) and (b)(i) of] subsection (5) as they apply in relation to subsection (6) of that section.
+
+[^F54]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In subsection [[^F55](5)(a) and (b)(ii)], the reference to a person who cares for the child is to be construed in accordance with [[^F56]paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010] (asp 8).
+
+[[^F57](9) The Scottish Ministers may by order amend this section by substituting for—
+
+(a) the person for the time being specified in any part of this section to whom information may be made available such other person as they think fit,
+
+(b) the age for the time being specified in any part of this section such other age as they think fit.]
+
+### 16ZA [[^F58]Provision of information to person supporting victim
+
+(1) This section applies where—
+
+(a) a person entitled to receive information under section 16 (the “victim”) intimates to the Scottish Ministers that a person to whom subsection (2) applies (the “supporter”) is to be given, as well as or instead of the victim, the information described in section 16(3) in relation to the person convicted of the offence perpetrated against the victim, or
+
+(b) a supporter intimates to the Scottish Ministers that they wish to be given that information and Ministers are satisfied that the victim consents to the supporter being given the information.
+
+(2) This subsection applies to a person—
+
+(a) of a description prescribed by the Scottish Ministers by regulations, and
+
+(b) who is providing support services to the victim in relation to the offence perpetrated against the victim.
+
+(3) The Scottish Ministers must, unless they consider that there are exceptional circumstances which make it inappropriate to do so, give the supporter such information as is described in section 16(3).
+
+(4) Subsection (3) does not apply where the person convicted of the offence perpetrated against the victim is released before attaining the age of 16 years.
+
+(5) In this section, “support services”—
+
+(a) means any type of service or treatment which is intended to benefit the physical or mental health or wellbeing of the victim, and
+
+(b) includes—
+
+(i) providing the victim with information (including information provided under subsection (3)),
+
+(ii) assisting the victim with safety planning,
+
+(iii) assisting the victim with the making of representations under this Part.
+
+(6) The Scottish Ministers may by regulations modify the definition of “support services” in subsection (5).
+
+(7) Regulations under subsection (2)(a) and (6) may—
+
+(a) include incidental, supplementary, consequential, transitional, transitory or saving provision,
+
+(b) modify enactments (including this Act).
+
+(8) Regulations—
+
+(a) under subsection (2)(a)—
+
+(i) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
+
+(ii) are otherwise subject to the negative procedure,
+
+(b) under subsection (6) are subject to the affirmative procedure.]
+
+### 16A [[^F59]Victim's right to receive information concerning offender subject to compulsion order
+
+(1) Subsection (2) applies where—
+
+(a) an offence has been perpetrated against a natural person,
+
+(b) another person (“O”) has been made subject to a compulsion order and a restriction order in proceedings in respect of that offence,
+
+(c) a person has asked to be given information about O under this section and that person is, or was at the time of asking, a person entitled to ask to be given the information (see section 16B), and
+
+(d) O has attained the age of 16 years.
+
+(2) The Scottish Ministers must give the information about O described in section 16C to the person mentioned in subsection (1)(c).
+
+(3) But the Scottish Ministers—
+
+(a) need not give a person information under this section if they consider there to be exceptional circumstances which make it inappropriate to do so,
+
+(b) are not to give a person information about the terms of a condition in accordance with section 16C(2)(h) unless the condition is relevant to that person as described in section 18A(3).
+
+(4) If the compulsion order or the restriction order mentioned in subsection (1)(b) is revoked, subsection (2) ceases to apply when the Scottish Ministers give the person mentioned in subsection (1)(c) the information that—
+
+(a) the order has been revoked, and
+
+(b) the decision to revoke it is final.
+
+### 16B Person entitled to ask to be given information under section 16A
+
+(1) The reference in section 16A(1)(c) to a person entitled to ask to be given information under that section is to—
+
+(a) the natural person (“V”) against whom the offence mentioned in section 16A(1)(a) (“the relevant offence”) was perpetrated,
+
+(b) if V is dead—
+
+(i) any or all of the four qualifying persons highest listed in section 14(10), and
+
+(ii) if V died before attaining the age of 16 years, any other person who cared for V immediately before the relevant offence was perpetrated, or
+
+(c) if V has attained the age of 12 years and is incapable for the purposes of this section, the qualifying person highest listed in section 14(10).
+
+(2) If a person (including V) who would be entitled to ask to be given information by virtue of subsection (1) has not attained the age of 12 years—
+
+(a) the person is not entitled to ask to be given the information, and
+
+(b) someone who cares for the person is entitled to ask to be given it instead.
+
+(3) For the purposes of this section—
+
+(a) the references to a qualifying person are to a person—
+
+(i) whose relationship to V is listed in subsection (10) of section 14 (read with the other subsections of that section),
+
+(ii) who is not incapable for the purposes of this section, and
+
+(iii) who is not a person accused of, or reasonably suspected of being the perpetrator of, or having been implicated in the perpetration of, the relevant offence,
+
+(b) when determining who is the qualifying person highest listed in section 14(10), if two or more persons have the same relationship to V they are to be listed according to age with the eldest being the highest listed of them,
+
+(c) the expressions “cared for” and “cares for”, are to be construed in accordance with the definition of “someone who cares for” in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010,
+
+(d) a person is to be considered incapable for the purposes of this section if the person would be considered incapable of making a victim statement by virtue of section 14(6)(b)(i) and (7).
+
+### 16C Information to be given under section 16A
+
+(1) This section sets out the information that is to be given under section 16A about the person referred to in that section as O.
+
+(2) The following information is to be given in any case—
+
+(a) that the compulsion order to which O is subject and which is mentioned in section 16A(1)(b) has been revoked,
+
+(b) that the restriction order to which O is subject and which is mentioned in section 16A(1)(b) has been revoked,
+
+(c) where the order mentioned in paragraph (a) or the order mentioned in paragraph (b) has been revoked, that the decision to revoke it—
+
+(i) is being appealed against, or
+
+(ii) cannot competently be appealed against and is therefore final,
+
+(d) the date of O's death,
+
+(e) that the compulsion order has been varied by way of a modification of the measures specified in it,
+
+(f) that O has been transferred to a place outwith Scotland,
+
+(g) that the Mental Health Tribunal has made an order under section 193(7) of the Mental Health Act conditionally discharging O,
+
+(h) the terms of any conditions imposed on O on conditional discharge under section 193(7) or section 200(2) of the Mental Health Act (including under section 193(7) as applied by section 201(3) or 204(3) of that Act),
+
+(i) that the Scottish Ministers have recalled O to hospital under section 202 of the Mental Health Act.
+
+(3) The following information is to be given in a case where the compulsion order authorises O's detention in hospital—
+
+(a) that O is unlawfully at large from hospital,
+
+(b) that O has returned to hospital having been unlawfully at large,
+
+(c) that a certificate has been granted, for the first time, under the Mental Health Act which suspends O's detention and does not impose a supervision requirement,
+
+(d) that the certificate mentioned in paragraph (c) has been revoked.
+
+(4) The following information is to be given in a case where the order mentioned in paragraph (a) or the order mentioned in paragraph (b) of subsection (2) has been revoked and that decision is appealed against—
+
+(a) that the Court of Session has decided to allow, or not allow, the appeal against the decision to revoke the order in question,
+
+(b) that the Court of Session's decision—
+
+(i) has been appealed against to the Supreme Court, or
+
+(ii) has not been appealed against to the Supreme Court before the expiry of the time allowed to appeal to the Supreme Court, and therefore if the Court of Session has not allowed the appeal the decision to revoke the order in question is final,
+
+(c) that the Supreme Court has decided to allow, or not allow, the appeal against the Court of Session's decision,
+
+(d) if the Supreme Court's decision means that the decision to revoke the order in question has not been set aside, that the latter decision is final,
+
+(e) if the Court of Session's decision or the Supreme Court's decision means that O is once more subject to the order in question, that fact.]
+
+### 16D [[^F60]Provision of information concerning offender subject to compulsion order to person supporting victim
+
+(1) This section applies where—
+
+(a) a person entitled to ask to be given information under section 16A (the “victim”) intimates to the Scottish Ministers that a person to whom subsection (2) applies (the “supporter”) is to be given, as well as or instead of the victim, the information described in section 16C about the person referred to in section 16A as O, or
+
+(b) a supporter intimates to the Scottish Ministers that they wish to be given that information and Ministers are satisfied that the victim consents to the supporter being given the information.
+
+(2) This subsection applies to a person—
+
+(a) of a description prescribed by the Scottish Ministers by regulations, and
+
+(b) who is providing support services to the victim in relation to the offence in respect of which O has been made subject to a compulsion order and a restriction order.
+
+(3) The Scottish Ministers must give the information about O described in section 16C to the supporter.
+
+(4) But the Scottish Ministers—
+
+(a) need not give the supporter information under this section if they consider there to be exceptional circumstances which make it inappropriate to do so,
+
+(b) are not to give the supporter information about the terms of a condition in accordance with section 16C(2)(h) unless the condition is relevant to the victim as described in section 18A(3).
+
+(5) Subsection (3) does not apply where O has not attained the age of 16 years.
+
+(6) If the compulsion order or restriction order to which O has been made subject is revoked, subsection (3) ceases to apply when the Scottish Ministers give the victim or, as the case may be, the supporter the information that—
+
+(a) the order has been revoked, and
+
+(b) the decision to revoke it is final.
+
+(7) In this section, “support services” has the same meaning as in section 16ZA(5).
+
+(8) Regulations under subsection (2)(a)—
+
+(a) may—
+
+(i) include incidental, supplementary, consequential, transitional, transitory or saving provision,
+
+(ii) modify enactments (including this Act),
+
+(b) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
+
+(c) are otherwise subject to the negative procedure.]
+
+### 17 Release on licence: right of victim to receive information and make representations
+
+(1) Subject to subsections (2), (3) and (12), a person entitled to receive information under section 16 of this Act (the “victim”) as respects a convicted person must in accordance with this section, before any decision is taken to release the convicted person on licence,
+
+[[^F61](a)] be afforded an opportunity to make written representations to the Scottish Ministers as respects such release and as to conditions which might be specified in the licence in question.
+
+[[^F62](b) if the convicted person is serving a sentence of life imprisonment, be afforded an opportunity to make oral representations to a member of the Parole Board for Scotland who is not dealing with the convicted person's case as respects such release and as to conditions which might be specified in the licence in question.]
+
+(2) Subsection (1) applies only where the victim wishes to be afforded the opportunity and has so intimated.
+
+(3) Subsection (1) does not apply where the convicted person has not attained the age of sixteen years by the date on which the case is referred to the Parole Board for Scotland by the Scottish Ministers.
+
+(4) The Scottish Ministers are to issue guidance as to how [[^F63]written] representations under subsection (1) should be framed [[^F64]and how oral representations under that subsection should be made].
+
+(5) Where it falls to the Board to recommend whether, or direct that, the convicted person be released, the Scottish Ministers must, as soon as practicable after they commence a review of the case for the purposes of referring it to the Board for the Board to consider what recommendation to make or whether to make such a direction, fix a time within which any representations under subsection (1) require to be made to them if they are to be considered by the Board; and they must notify the victim accordingly.
+
+(6) Whether or not representations are made under subsection (1), in a case to which subsection (5) applies the Board must, subject to subsection (11)—
+
+(a) inform the victim as to whether or not it has recommended or directed release;
+
+(b) if it has recommended or directed release, inform the victim as to whether it has also recommended that the person released comply with conditions; and
+
+(c) inform the victim of the terms of any such conditions which relate to contact with the victim or with members of the victim’s family,
+
+and the Board may provide the victim with such other information as it considers appropriate having regard to the circumstances of the case.
+
+(7) Where subsection (5) does not apply but it falls to that Board to recommend conditions to be included in the licence, the Scottish Ministers are under the same duties as they are under that subsection.
+
+(8) Whether or not representations are made under subsection (1), in a case to which subsection (7) applies the Board must inform the victim, subject to subsection (11)—
+
+(a) as to whether it has recommended that the person released comply with conditions; and
+
+(b) as is mentioned in subsection (6)(c).
+
+(9) Where neither subsection (5) nor (7) applies, the Scottish Ministers must fix a time within which any representations under subsection (1) require to be made to them if they are to be considered by them; and they must notify the victim accordingly.
+
+(10) Whether or not representations are made under subsection (1), in a case to which subsection (9) applies the Scottish Ministers must inform the victim, subject to subsection (11)—
+
+(a) as to whether the person released is to comply with conditions; and
+
+(b) as is mentioned in subsection (6)(c).
+
+[[^F65](10A) In complying with the duty imposed on them by subsection (5), the Scottish Ministers may fix different times in relation to written and oral representations respectively.]
+
+(11) Subsections (6), (8) and (10) apply only where the victim has intimated a desire to receive the information in question.
+
+(12) This section does not apply—
+
+(a) as respects release under section 3 of the 1993 Act (release on compassionate grounds); [^F66]...
+
+[^F66]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F67](13) The Scottish Ministers may by order modify the description or descriptions of convicted person for the time being specified in subsection (1)(b).]
+
+### 17ZA [[^F68]Release on licence: provision of information to person supporting victim
+
+(1) This section applies where—
+
+(a) a person entitled to receive information under section 16 (the “victim”) as respects a convicted person intimates that they wish a person entitled to receive information under section 16ZA (the “supporter”) to be informed before any decision is taken to release the convicted person, or
+
+(b) the supporter intimates that they wish to be so informed and the Scottish Ministers are satisfied that the victim consents to the supporter being so informed.
+
+(2) The Scottish Ministers must, whether or not the victim has intimated the wish to be afforded the opportunity to make representations under section 17(1), give the supporter—
+
+(a) notice as mentioned in section 17(5), (7) and (9), and
+
+(b) the information mentioned in section 17(10).
+
+(3) The Parole Board for Scotland must give the supporter the information mentioned in section 17(6) and (8) (whether or not the victim has intimated the desire to receive that information).
+
+(4) Subsections (2) and (3) do not apply where the convicted person has not attained the age of 16 years by the date on which the case is referred to the Parole Board by the Scottish Ministers.
+
+(5) This section does not apply—
+
+(a) as respects release under section 3 of the 1993 Act (release on compassionate grounds),]
+
+[^F69]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17A [[^F70]Temporary release: victim's right to make representations about conditions
+
+[[^F71](1) This section applies where—
+
+(a) by virtue of subsection (1) or (5) of section 16 a person (the “victim”), or
+
+(b) by virtue of section 16ZA(3), a person entitled to receive information under that section (the “supporter”),
+
+is given the information mentioned in section 16(3)(d) as respects a convicted person.]
+
+(2) On the first occasion on which the convicted person is entitled to be considered for temporary release by virtue of rules under section 39(6) of the 1989 Act, the Scottish Ministers must give the victim an opportunity to make written representations to them about any conditions that the victim considers should be imposed in relation to the temporary release.
+
+(3) Subsection (2) applies only if the victim has notified the Scottish Ministers that the victim wishes to be given the opportunity to make representations under that subsection.
+
+(4) The Scottish Ministers must—
+
+(a) fix a time within which any written representations under subsection (2) require to be made to them if they are to be considered by them, and
+
+(b) notify the victim [[^F72]or, as the case may be, the supporter] of the time fixed.]
+
+### 17B [[^F73]Mentally-disordered offender: victim's right to make representations
+
+(1) A person (“V”) who is to be given information about another person (“O”) under section 16 or 16A, must be afforded an opportunity to make representations—
+
+(a) in a case where O is subject to a hospital direction or a transfer for treatment direction, before a decision of a type described in subsection (4) is taken in relation to O,
+
+(b) in a case where O is subject to a compulsion order and a restriction order, before a decision of a type described in subsection (5) is taken in relation to O.
+
+(2) Representations under this section must be about how the decision in question might affect V or members of V's family.
+
+(3) Subsection (1) does not apply unless V has intimated to the Scottish Ministers a wish to be afforded an opportunity to make representations about O under this section.
+
+(4) For the purpose of subsection (1)(a), the type of decision is a decision by O's responsible medical officer about granting for the first time a certificate under the Mental Health Act which suspends O's detention and does not impose a supervision requirement.
+
+(5) For the purpose of subsection (1)(b), the types of decision are a decision—
+
+(a) by O's responsible medical officer about granting for the first time a certificate under the Mental Health Act which suspends O's detention and does not impose a supervision requirement,
+
+(b) by the Mental Health Tribunal under section 193 of the Mental Health Act (including a decision under that section as applied by section 201(3) or 204(3) of that Act),
+
+(c) by the Scottish Ministers under section 200 of the Mental Health Act about imposing, altering or removing a condition which is (or would be) relevant to V as described in section 18A(3).
+
+(6) The Scottish Ministers need not afford V an opportunity to make representations before taking a decision of the type described in subsection (5)(c) if it is not reasonably practicable to afford V that opportunity.
+
+### 17C Making representations under section 17B
+
+(1) Representations under section 17B—
+
+(a) may be made orally in relation to a decision of a type described in section 17B(5)(b),
+
+(b) otherwise, must be made in writing.
+
+(2) The Scottish Ministers are to issue guidance as to how—
+
+(a) written representations under section 17B should be framed, and
+
+(b) oral representations under that section should be made.
+
+### 17D Right to information after section 17B decision
+
+(1) Subsection (2) applies where—
+
+(a) before a decision was taken, a person (“V”) was afforded an opportunity to make representations under section 17B,
+
+(b) the decision has since been taken,
+
+(c) the Scottish Ministers are not required under section 16A to give any information to V as a result of the decision, and
+
+(d) V has intimated to the Scottish Ministers a wish to receive information under this section.
+
+(2) The Scottish Ministers must, unless they consider that there are exceptional circumstances which make it inappropriate to do so, inform V that the decision has been taken.
+
+(3) Subsection (4) applies where—
+
+(a) in accordance with subsection (2), the Scottish Ministers have informed V that the Tribunal has decided to make an order revoking a compulsion order or restriction order, and
+
+(b) by virtue of section 196 of the Mental Health Act, the Tribunal's order does not have effect because the Court of Session has made an order under section 323(1) of that Act.
+
+(4) The Scottish Ministers must—
+
+(a) inform V that the Court of Session has made an order under section 323(1) of the Mental Health Act, and
+
+(b) give V the information that they would have had to give V by virtue of section 16C(4) had the Court not made that order.]
+
+### 17DA [[^F74]Section 17B decision: provision of information to person supporting victim
+
+(1) This section applies where—
+
+(a) a person entitled to receive information under section 17D (the “victim”) intimates to the Scottish Ministers that a person to whom subsection (2) applies (the “supporter”) is to receive, as well as or instead of the victim, the information, or
+
+(b) a supporter intimates to the Scottish Ministers that they wish to receive that information and Ministers are satisfied that the victim consents to the supporter receiving the information.
+
+(2) This subsection applies to a person—
+
+(a) of a description prescribed by the Scottish Ministers by regulations, and
+
+(b) who is providing support services to the victim in relation to the offence in respect of which the person referred to in section 17B as O has been made subject to—
+
+(i) a hospital direction,
+
+(ii) a transfer for treatment direction, or, as the case may be,
+
+(iii) a compulsion order and a restriction order.
+
+(3) The Scottish Ministers must, unless they consider that there are exceptional circumstances which make it inappropriate to do so, inform the supporter that the decision under section 17B has been taken.
+
+(4) Subsection (5) applies where—
+
+(a) in accordance with subsection (3), the Scottish Ministers have informed the supporter that the Tribunal has decided to make an order revoking a compulsion order or restriction order, and
+
+(b) by virtue of section 196 of the Mental Health Act, the Tribunal's order does not have effect because the Court of Session has made an order under section 323(1) of that Act.
+
+(5) The Scottish Ministers must—
+
+(a) inform the supporter that the Court of Session has made an order under section 323(1) of the Mental Health Act, and
+
+(b) give the supporter the information that they would have had to give the supporter by virtue of section 16C(4) had the Court not made that order.
+
+(6) In this section, “support services” has the same meaning as in section 16ZA(5).
+
+(7) Regulations under subsection (2)(a)—
+
+(a) may—
+
+(i) include incidental, supplementary, consequential, transitional, transitory or saving provision,
+
+(ii) modify enactments (including this Act),
+
+(b) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
+
+(c) are otherwise subject to the negative procedure.]
+
+### 17E [[^F75]Information sharing in respect of mentally-disordered offenders
+
+(1) Where the Scottish Ministers are subject to a duty under section 16 [[^F76], 16ZA, 16A or 16D] to give a person (“V”) [[^F77]or, as the case may be, a supporter] information about another person (“O”), they must give notice to—
+
+(a) O's responsible medical officer, and
+
+(b) if O is subject to a compulsion order, the Mental Health Tribunal.
+
+(2) A notice under subsection (1) is to request that the recipient of the notice provide the Scottish Ministers with information in such circumstances as may be specified in the notice.
+
+(3) The information that the Scottish Ministers may request in a notice under subsection (1) must be information about O which they will require in order to fulfil their duty to give information to V under section 16, 16A or 17D [[^F78]or to a supporter under section 16ZA, 16D or 17DA].
+
+(4) The recipient of a notice under subsection (1) must provide the Scottish Ministers with the information requested in the notice in the circumstances specified in it.
+
+(5) If the Scottish Ministers cease to be required to give anyone information about O under section 16 or [[^F79]16ZA, 16A or, as the case may be, 16D]—
+
+(a) they must intimate that fact to anyone to whom they sent a notice in relation to O in accordance with subsection (1), and
+
+(b) on receiving that intimation, subsection (4) ceases to apply to the person who received the intimation.
+
+[[^F80](6) In this section, “supporter” is to be construed in accordance with section 16ZA, 16D or, as the case may be, 17DA.]]
+
+### 18 Disclosure of certain information relating to victims of crime
+
+(1) Where it appears to a constable that an offence has been perpetrated against a natural person the constable may, with the person’s consent, disclose to a prescribed body (being a body which appears to the Scottish Ministers to provide counselling or other support to those who have been victims of crime), with a view to its providing such counselling or support to the person, any or all of the following information—
+
+(a) the person's—
+
+(i) name;
+
+(ii) address;
+
+(iii) telephone number;
+
+(iv) e-mail address;
+
+(v) age;
+
+(b) such information regarding the offence (or apparent offence) as the constable considers appropriate provided that the information does not include such information in relation to the alleged perpetrator as is mentioned in sub-paragraphs (i) to (v) of paragraph (a) (though it may include information as to whether the case is one likely to be disposed of by a children’s hearing).
+
+(2) Where the person against whom the offence was perpetrated has died, subsection (1) shall be construed as if it relates not to that person but to any one or more of—
+
+(a) the qualifying persons (as defined in subsection (8) of section 14); and
+
+(b) where the circumstances are as mentioned in sub-paragraph (ii) of subsection (6)(a) of that section, any such other person as is mentioned in that sub-paragraph,
+
+who the constable considers would derive benefit from the counselling or support in question.
+
+### 18A [[^F81]Interpretation of Part
+
+(1) In this Part—
+
+- “Mental Health Act” means the Mental Health (Care and Treatment) (Scotland) Act 2003,
+- “Mental Health Tribunal” means the Mental Health Tribunal for Scotland,
+- “transfer for treatment direction” means a direction made under section 136 of the Mental Health Act.
+
+(2) A reference in this Part—
+
+(a) to a certificate under the Mental Health Act which suspends a person's detention and does not impose a supervision requirement is to a certificate under subsection (2) of section 224 of that Act which does not include a condition under subsection (7)(a) of that section,
+
+(b) to such a certificate being granted for the first time is to such a certificate being granted for the first time—
+
+(i) since the person was detained under the particular order or direction which authorises the person's detention in a hospital (or would do, but for the certificate's being granted), or
+
+(ii) in a case where the person, while subject to that order or direction, has been recalled to hospital under section 202 of the Mental Health Act, since the person was so recalled (or most recently so recalled if it has happened more than once).
+
+(3) For the purposes of sections 16A(3)(b) [[^F82], 16D(4)(b)] and 17B(5)(c), a condition is relevant to a person (“V”) [[^F83]or, as the case may be, a supporter] if—
+
+(a) the condition is a restriction on the person referred to in the section in question as O contacting an individual or being in a place, and
+
+(b) V has made a valid request to the Scottish Ministers to be informed about any condition which restricts O from—
+
+(i) contacting that individual, or (as the case may be)
+
+(ii) being in that place or any wider area within which the place in question falls.
+
+(4) The Scottish Ministers may treat a request as invalid for the purposes of subsection (3) if or so far as—
+
+(a) it is a request to be informed about any condition which restricts O from being in a place, and
+
+(b) the place referred to in the request—
+
+(i) is not one which V or any member of V's family is regularly at or in, or
+
+(ii) covers an unreasonably large area having regard to the places where V and members of V's family regularly go.
+
+[[^F84](5) In this section, “supporter” is to be construed in accordance with section 16D or, as the case may be, 17DA.]]
+
+### 18B [[^F85]Power to modify Part
+
+(1) The Scottish Ministers may by order amend—
+
+(a) sections [[^F86]16ZA, 16A, 16B, 16D(5) and 17ZA(4),] by substituting for any age for the time being specified in those sections a different age,
+
+(b) section 16C, by adding descriptions of information,
+
+(c) section 18A, by adding, amending or repealing definitions of terms used in the descriptions of information in section 16C.
+
+(2) The Scottish Ministers may by order amend—
+
+(a) [[^F87]sections 16A and 16D], so that information may be given under that section in some or all cases where a person has been made subject to a compulsion order and either—
+
+(i) the person has not been made subject to a restriction order, or
+
+(ii) the restriction order to which the person was made subject has been revoked,
+
+(b) section 17B, to specify types of decision in respect of which representations under that section may be made by persons who have a right to be given information under section 16A as amended by virtue of paragraph (a).
+
+(3) In an order under subsection (2) which amends section 16A [[^F88], 16D] or 17B, the Scottish Ministers may make any amendment to the following enactments which they consider necessary or expedient in consequence of the amendment to section 16A [[^F88], 16D] or 17B—
+
+(a) sections 16C, 17E and 18A,
+
+(b) the Mental Health (Care and Treatment) (Scotland) Act 2003.]
+
+## Part 3 — Sexual offences etc.
+
+### 19 Amendments in relation to certain serious and sexual offences
+
+(1) In the Civic Government (Scotland) Act 1982 (c. 45)—
+
+(a) in section 52 (indecent photographs etc. of children), in subsection (3)(b) for the words “3 years” there is substituted “ 10 years ”;
+
+(b) in section 52A (possession of indecent photographs of children), in subsection (3) the existing words from “on summary” to the end become paragraph (a), and after that paragraph there is inserted—
+
+> (b) on conviction on indictment of such an offence to imprisonment for a period not exceeding 5 years or to a fine or to both.
+
+.
+
+(2) In the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)—
+
+(a) in section 8 (abduction and unlawful detention), subsections (1) and (2) are repealed;
+
+(b) section 15 (defence to charge of indecent assault) is repealed;
+
+(c) [^F89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In the Crime and Punishment (Scotland) Act 1997 (c. 48), section 1 (imprisonment for life on further conviction for certain offences) is repealed.
+
+### 20 Extended sentences
+
+After section 210A of the 1995 Act (extended sentences for sexual or violent offenders) there is inserted—
+
+> **210AA Extended sentences for certain other offenders**
+>
+> Where a person is convicted on indictment of abduction but the offence is other than is mentioned in paragraph (iii) of the definition of “sexual offence” in subsection (10) of section 210A of this Act, that section shall apply in relation to the person as it applies in relation to a person so convicted of a violent offence.
+
+.
+
+### 21 Sexual and certain other offences: reports
+
+(1) This section applies to any case where a person is convicted of—
+
+(a) a sexual offence (as defined in section 210A(10) of the 1995 Act); or
+
+(b) an offence the nature and circumstances of which disclose, in the opinion of the court, that there was a significant sexual aspect to the person’s behaviour in committing it.
+
+(2) In a case to which this section applies, the court must, before passing sentence—
+
+(a) obtain from a relevant officer a report concerning the person’s circumstances and character; and
+
+(b) if the conviction is on indictment, obtain from [[^F90]a registered psychologist (that is to say from a person for the time being registered in the part of the register maintained under [[^F91]the Health Professions Order 2001] that relates to practitioner psychologists)] a psychological assessment of the person,
+
+and it must also take into account any information before it concerning the person’s physical and mental condition.
+
+(3) The Scottish Ministers may by order amend paragraph (b) of subsection (2) by adding, to the persons for the time being specified there as persons from one of whom a psychological assessment is to be obtained, such description of psychologist as they think fit.
+
+(4) Where in a case to which this section applies the person is tried, the presiding judge is, as soon as is reasonably practicable, to prepare a report in writing, in such form as may be prescribed by Act of Adjournal—
+
+(a) as to the facts established by the evidence; and
+
+(b) containing such other information as the judge considers appropriate.
+
+(5) Where a case to which this section applies does not proceed to trial (or does not proceed to trial as respects part of the complaint or indictment) because a plea of guilty to the complaint, indictment or part in question is accepted by the prosecutor, the narration by the prosecutor, at the diet at which the plea is tendered, of the facts of the case is to be recorded by means of shorthand notes or by mechanical means as is anything said by or on behalf of the person in relation to those facts.
+
+(6) Subsections (2) to (4) of section 93 of the 1995 Act (certification etc. of notes or record) shall apply in relation to a record made under subsection (5) as they apply in relation to one made under subsection (1) of that section.
+
+(7) The Scottish Ministers may by order amend subsections (5) and (6) so as to provide for a record so made to be made by such other means as they think fit.
+
+(8) A copy of any report prepared under subsection (4) or a transcript of any record made under subsection (5) is to be sent to—
+
+(a) the officer from whom a report is sought under paragraph (a) of subsection (2) when written intimation of the requirement for the report is first given to that officer; and
+
+(b) any psychologist from whom an assessment is sought under paragraph (b) of that subsection when such intimation of the requirement for that assessment is first given to that psychologist.
+
+[^F92]9 [^F92]In relation to a case to which this section applies, subsection (3) of section 201 of the 1995 Act (limitation as respects power of court to adjourn case before sentence) shall have effect as if for the words [^F92][[^F93]“four weeks” there were][^F92] substituted [^F92]“ six weeks ”[^F92].
+
+[^F92]10 [^F92]In that subsection, at the beginning, there is inserted [^F92]“ Subject to section 21(9) of the Criminal Justice (Scotland) Act 2003 (asp 7), ”[^F92].
+
+(11) In subsection (2)(a), “relevant officer” means an officer—
+
+(a) of the local authority for the area within which the convicted person resides; and
+
+(b) employed by them in the discharge of their functions under section 27(1) (supervision and care of persons put on probation or released from prison etc.) or 27AA (advice, guidance and assistance to persons arrested or on whom sentence deferred) of the Social Work (Scotland) Act 1968 (c. 49).
+
+### [^F94]22 Traffic in prostitution etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 4 — Prisoners etc.
+
+### Custody and temporary detention
+
+#### 23 Remand and committal of children and young persons
+
+(1) In section 19(1)(b) of the 1989 Act (construction of expression “young offenders institution”), at the end there is added “ and in which certain such persons as are mentioned in paragraph (a) above may be kept ”.
+
+(2) In section 40 of that Act (persons unlawfully at large), in each of subsections (1) and (2), after the words “a prison” there is inserted “ or young offenders institution ”.
+
+(3) In subsection (1) of section 51 of the 1995 Act (remand and committal of children and young persons)—
+
+(a) in paragraph (a)—
+
+(i) the words “subject to paragraph (b) below,” are repealed; and
+
+(ii) for the words “the court shall, instead of committing him to prison,” there is substituted “ but is not a child to whom paragraph (bb) below applies, the court shall ”;
+
+(b) in paragraph (aa)—
+
+(i) for the words “is over 16 years of age and” there is substituted “ has attained the age of 16 years and is ”;
+
+(ii) the words “, instead of committing him to prison,” are repealed; and
+
+(iii) at the end there is added “ or may commit him either to prison or to a young offenders institution ”;
+
+(c) for paragraph (b) there is substituted—
+
+> (b) if he is a person who has attained the age of 16 years and to whom paragraph (aa) above does not apply, then where—
+>
+> (i) the court has been notified by the Scottish Ministers that a remand centre is available for the reception from that court of persons of his class or description, it shall commit him to a remand centre; or
+>
+> (ii) the court has not been so notified, it may commit him either to prison or to a young offenders institution;
+>
+> (bb) if he is a child who is under 16 years of age but has attained the age of 14 years and is certified by the court to be unruly or depraved, then where—
+>
+> (i) the court has been so notified as is mentioned in paragraph (b)(i) above, it shall commit him to a remand centre; or
+>
+> (ii) the court has not been so notified, it may commit him either to prison or to a young offenders institution.
+
+.
+
+(4) In subsection (2) of that section the words “or to a remand centre”, “or centre” and “or in the centre” are repealed.
+
+(5) After subsection (2) of that section there is inserted—
+
+> (2A) Subject to subsection (4) below, where any person is committed to a remand centre under any provision of this Act, he shall be detained in a remand centre for the period for which he is committed or until he is liberated in due course of law.
+
+.
+
+(6) [^F95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) [^F95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) At the end of that section there is added—
+
+> (5) Where by virtue of subsection (1)(aa), (b)(ii), (bb)(ii) or (3)(b) of this section a person is committed either to prison or to a young offenders institution, the warrant issued by the court is warrant also, without further application to the court in that regard, for committal to whichever of the two the court does not specify.
+
+.
+
+#### 24 Legal custody
+
+(1) In section 13 of the 1989 Act (legal custody of prisoners)—
+
+(a) for the words “A person shall be deemed to be” there is substituted “ Without prejudice to section 295 of the Criminal Procedure (Scotland) Act 1995 (c. 46) (legal custody of persons generally), a prisoner is ”; and
+
+(b) in paragraph (b), at the end there is added “ , a constable (“constable” having the same meaning as it has, by virtue of paragraph 17(1) and (2) of Schedule 1 to the Crime (Sentences) Act 1997 (c. 43), in section 40(1) of this Act) or a police custody and security officer ”.
+
+(2) In section 295 of the 1995 Act (legal custody of persons generally)—
+
+(a) at the beginning there is inserted “ Without prejudice to section 13 of the Prisons (Scotland) Act 1989 (c. 45) (legal custody of prisoners), ”;
+
+(b) for the word “shall” there is substituted “ is ”; and
+
+(c) the words “be deemed to be” are repealed.
+
+#### 25 Temporary detention of person being returned to prison in England and Wales etc.
+
+After section 40A of the1989 Act there is inserted—
+
+> **40B Temporary detention of person being returned to prison in England and Wales etc.**
+>
+> Any person absent, otherwise than with lawful authority, from a place outwith Scotland, being a place to which, by virtue of paragraph 17 of Schedule 1 to the Crime (Sentences) Act 1997 (c. 43) (application throughout United Kingdom and Channel Islands of certain enactments relating to the arrest and return of prisoners etc.), he may be taken, may, until the arrangements to take him can be made, be detained in a prison or young offenders institution in Scotland.
+
+.
+
+### Consecutive sentences
+
+#### 26 Consecutive sentences: life prisoners etc.
+
+(1) After section 204A of the 1995 Act (which restricts the ability of a court to impose consecutive sentences in the case of prisoners released on licence etc.), there is inserted—
+
+> **204B Consecutive sentences: life prisoners etc.**
+>
+> (1) This section applies in respect of sentencing for offences committed after the coming into force of this section.
+>
+> (2) Where, in solemn proceedings, the court sentences a person to imprisonment or other detention, the court may—
+>
+> (a) if the person is serving or is liable to serve the punishment part of a previous sentence, frame the sentence to take effect on the day after that part of that sentence is or would be due to expire; or
+>
+> (b) if the person is serving or is liable to serve the punishment parts of two or more previous sentences, frame the sentence to take effect on the day after the later or (as the case may be) latest expiring of those parts is or would be due to expire.
+>
+> (3) Where, in such proceedings, it falls to the court to sentence a person who is subject to a previous sentence in respect of which a punishment part requires to be (but has not been) specified, the court shall not sentence the person until such time as the part is either specified or no longer requires to be specified.
+>
+> (4) Where the court sentences a person to a sentence of imprisonment or other detention for life, for an indeterminate period or without limit of time, the court may, if the person is serving or is liable to serve for any offence—
+>
+> (a) a previous sentence of imprisonment or other detention the term of which is not treated as part of a single term under section 27(5) of the 1993 Act; or
+>
+> (b) two or more previous sentences of imprisonment or other detention the terms of which are treated as a single term under that section of that Act,
+>
+> frame the sentence to take effect on the day after the person would (but for the sentence so framed and disregarding any subsequent sentence) be entitled to be released under the provisions referred to in section 204A of this Act as respects the sentence or sentences.
+>
+> (5) Subsection (4)(a) above shall not apply where the sentence is a sentence from which he has been released at any time under the provisions referred to in section 204A of this Act.
+>
+> (6) In this section, any reference to a punishment part of a sentence shall be construed by reference to—
+>
+> (a) the punishment part of the sentence as is specified in an order mentioned in section 2(2) of the 1993 Act; or
+>
+> (b) any part of the sentence which has effect, by virtue of section 10 of the 1993 Act or the schedule to the Convention Rights (Compliance) (Scotland) Act 2001 (asp 7), as if it were the punishment part so specified,
+>
+> and “the 1993 Act” means the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9).
+>
+> (7) This section is without prejudice to any other power under any enactment or rule of law as respects sentencing.
+
+.
+
+(2) Section 167 of that Act (forms of finding and sentence) is amended as follows—
+
+(a) in subsection (7) after the words “any previous sentence” there is inserted “ for a term ”; and
+
+(b) after that subsection, there is inserted—
+
+> (7A) Where the court imposes a sentence as mentioned in paragraph (a) of subsection (7) above for an offence committed after the coming into force of this subsection, the court may—
+>
+> (a) if the person is serving or is liable to serve the punishment part of a previous sentence, frame the sentence to take effect on the day after that part of that sentence is or would be due to expire; or
+>
+> (b) if the person is serving or is liable to serve the punishment parts of two or more previous sentences, frame the sentence to take effect on the day after the later or (as the case may be) latest expiring of those parts is or would be due to expire.
+>
+> (7B) Where it falls to the court to sentence a person who is subject to a previous sentence in respect of which a punishment part requires to be (but has not been) specified, the court shall not sentence the person until such time as the part is either specified or no longer requires to be specified.
+>
+> (7C) In subsections (7A) and (7B) above, any reference to a punishment part of a sentence shall be construed by reference to—
+>
+> (a) the punishment part of the sentence as is specified in an order mentioned in section 2(2) of the 1993 Act; or
+>
+> (b) any part of the sentence which has effect, by virtue of section 10 of the 1993 Act or the schedule to the Convention Rights (Compliance) (Scotland) Act 2001 (asp 7), as if it were the punishment part so specified,
+>
+> and “the 1993 Act” means the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9).
+
+.
+
+### Release of prisoners
+
+#### 27 Release on licence etc. under 1989 Act
+
+(1) The 1989 Act (certain provisions of which, notwithstanding their repeal by the 1993 Act, continue to apply to prisoners sentenced before 1st October 1993 by virtue of section 47(2) of, and paragraph 2(1) of Schedule 6 to, that Act) is amended for the purposes of the existing provisions, within the meaning of that Schedule, as follows.
+
+(2) In section 22 (which, among other things, enables the Scottish Ministers to release on licence certain prisoners if recommended to do so by the Parole Board and, by virtue of subsection (1A) of that section, requires them to release certain other prisoners if there is such a recommendation)—
+
+(a) in subsection (1), for the word “may” there is substituted “ shall ”;
+
+(b) subsection (1A) is repealed; and
+
+(c) in subsection (7)—
+
+(i) the words “and by virtue of subsection (1A) above such release is then mandatory”; and
+
+(ii) the words from “; and in any other case” to the end,
+
+are repealed.
+
+#### 28 Release on licence etc. under 1993 Act
+
+(1) The 1993 Act (which applies to prisoners sentenced on or after 1st October 1993 and to some prisoners sentenced before that date) is amended as follows.
+
+(2) In section 1(3) (which enables the Scottish Ministers to release on licence certain prisoners if recommended to do so by the Parole Board and, by virtue of section 20(3)(a), requires them to release certain other prisoners if there is such a recommendation), for the word “may” there is substituted—
+
+> (a) shall, except in the case mentioned in paragraph (b) below; or
+>
+> (b) may, in the case of a prisoner who is liable to removal from the United Kingdom (within the meaning of section 9 of this Act),
+
+.
+
+(3) In section 12 (which enables the Scottish Ministers to insert, vary or cancel conditions in licences and, in certain cases, to do so in accordance with the recommendations of the Parole Board), for subsections (3) and (4) there is substituted—
+
+> (3) The Scottish Ministers may under subsection (1) above include on release and from time to time insert, vary or cancel a condition in a licence granted under this Part of this Act; but—
+>
+> (a) in the case of a long-term or life prisoner released by the Scottish Ministers under subsection (1) of section 3 of this Act without consulting the Parole Board, no licence condition shall be inserted, varied or cancelled subsequent to the release except in accordance with the recommendations of the Parole Board; and
+>
+> (b) in the case of any other long-term or life prisoner, no licence condition shall be included on release, or subsequently inserted, varied or cancelled except in accordance with such recommendations.
+
+.
+
+(4) Section 20(3) (which provides power to modify the effect of section 1(3) in relation to certain classes of case) is repealed.
+
+#### 29 Release on licence: life prisoners
+
+(1) The 1993 Act is amended as follows.
+
+(2) In section 2 (which provides, among other things, for consideration by the Parole Board of whether a life prisoner should be released on licence)—
+
+(a) in subsection (5A)(b), after the word “being” there is inserted “ , subject to subsections (5AB) to (5AD) below, ”;
+
+(b) after that subsection there is inserted—
+
+> (5AB) Where a reference has been made to the Parole Board under any of the provisions mentioned in subsection (5A) above and the prisoner receives another sentence of imprisonment (whether for life or for a term) before a date has been fixed for considering his case, the Board shall, if he would not be eligible for release from the other sentence on the date which would (apart from this subsection) have been fixed for considering his case, fix a date (other than that date) for considering his case.
+>
+> (5AC) Where, at any time after such a reference has been made—
+>
+> (a) a date has been fixed for considering the prisoner’s case; or
+>
+> (b) following the disposal of the reference, a date has been fixed under subsection (5A)(b) above,
+>
+> and, before that date, the prisoner receives any other sentence of imprisonment (whether for life or for a term), the Board shall, if he would not be eligible for release from any such other sentence on that date, fix a different date for considering his case (and where he receives any further sentence of imprisonment from which he would not be eligible for release on that different date, the Board shall fix a further different date).
+>
+> (5AD) Any date fixed under subsection (5AB) or (5AC) above shall—
+>
+> (a) be—
+>
+> (i) the date on which the prisoner would be eligible to be released, or considered for release, from all such other sentences (subject to any change to the date on which he would be so eligible); or
+>
+> (ii) a date as soon as practicable after that date; and
+>
+> (b) replace any date previously fixed for considering the prisoner’s case.
+
+;
+
+(c) in—
+
+(i) subsection (5B); and
+
+(ii) subsection (5C),
+
+after the words “subsection (5A)(b)” there is in each case inserted “ , (5AB) or (5AC) ”;
+
+(d) for subsection (7) there is substituted—
+
+> (7) No requirement shall be made under subsection (6) above by a life prisoner who is also serving or liable to serve a sentence of imprisonment for a term, before he has served the appropriate part of the term.
+>
+> (7A) The appropriate part of the term is—
+>
+> (a) one half, where the term is—
+>
+> (i) less than 4 years; or
+>
+> (ii) 4 years or more and is imposed by a sentence of imprisonment on conviction of an offence; or
+>
+> (b) two thirds, where the term is 4 years or more and is a term of imprisonment or detention mentioned in section 5(1)(a) or (b) of this Act.
+>
+> (7B) Section 5(1) of this Act, in so far as relating to the construction of references to sentences of imprisonment, does not apply to subsection (7A)(b) above.
+
+; and
+
+(e) in subsection (9), after the word “serving” there is inserted “ or is liable to serve ”.
+
+(3) In section 5(1) (which applies, with modification, the provisions of the 1993 Act concerning persons sentenced to imprisonment, or detention, on conviction of an offence to persons on whom imprisonment, or detention, has been imposed for non-payment of fine or for contempt of court), for the words “section 1(8)” there is substituted “ sections 1(8) and 2(7B) ”.
+
+#### 30 Release on licence: certain consecutive sentences
+
+In section 1A (application to persons serving more than one sentence) of the 1993 Act—
+
+(a) the existing words become subsection (1); and
+
+(b) after that subsection there is added—
+
+> (2) Where a prisoner who is serving any term of imprisonment receives a sentence of imprisonment or other detention for life, for an indeterminate period or without limit of time which is to take effect on the day after he would (but for the sentence so received) be entitled to be released from the term, nothing in this Part of this Act shall require—
+>
+> (a) the Scottish Ministers to release him in respect of any such term unless and until they are required to release him in respect of the sentence so received; or
+>
+> (b) the Scottish Ministers or the Parole Board to consider his release in respect of any such term unless and until the Scottish Ministers are or the Parole Board is required to consider his release, or the Scottish Ministers are required to release him, in respect of the sentence so received.
+
+.
+
+#### 31 Release: prisoners serving extended sentences
+
+In section 3A (re-release of prisoners serving extended sentences) of the 1993 Act—
+
+(a) in subsection (1)—
+
+(i) at the beginning there is inserted “ Subject to subsection (1A) below, ”; and
+
+(ii) for the words “who has been recalled to prison under section 17(1)” there is substituted “ and in respect of whom a licence has been revoked under section 17(1) to (1B) ”;
+
+(b) after subsection (1) there is inserted—
+
+> (1A) This section does not apply to such a prisoner if he has, in addition to the sentence in relation to which his recall to prison applies, been sentenced to imprisonment for life and has not been released from that sentence.
+
+;
+
+(c) in subsection (2), in paragraph (a), for the words “disposal of that referral” there is substituted “ Board’s disposal of his case ”;
+
+(d) after that subsection there is inserted—
+
+> (2A) Where—
+>
+> (a) a prisoner’s case has been referred to the Parole Board under this section or section 17(3) of this Act; and
+>
+> (b) the prisoner receives another sentence of imprisonment before the Board has considered his case,
+>
+> the Board shall not consider his case unless there is a further referral of his case to the Board under this section.
+>
+> (2B) A case which, by virtue of subsection (2A) above, is not considered by the Parole Board shall not, for the purposes of subsection (2)(a) above, be treated as having been disposed of.
+
+; and
+
+(e) in subsection (3)—
+
+(i) for the word “sentence” in the second place where it appears there is substituted “ term ”; and
+
+(ii) for the words “has served one half of” there is substituted “ would be eligible to be released, or considered for release, from ”.
+
+#### 32 Release etc. under 1993 Act of prisoner serving consecutive or concurrent offence and non-offence terms
+
+(1) The 1993 Act is amended as follows.
+
+(2) In section 27 (interpretation of Part I), after subsection (4) there is inserted—
+
+> (4A) For the purposes of this Part of this Act, a term of imprisonment or detention—
+>
+> (a) is wholly concurrent with another such term (or other such terms) if—
+>
+> (i) it is imposed on the same date as that other term (or terms); and
+>
+> (ii) it expires on the same date as that other term (or terms); and
+>
+> (b) is partly concurrent with another such term (or other such terms) if—
+>
+> (i) it is imposed on the same date as, and expires on a different date from, that other term (or terms); or
+>
+> (ii) it is imposed on a different date from, but before the expiry of, that other term (or terms).
+
+.
+
+(3) In Schedule 1 (which makes special provision as respects eligibility for early release from consecutive or wholly or partly concurrent offence and non-offence terms of imprisonment or detention)—
+
+(a) for paragraph 2 (consecutive terms) there is substituted—
+
+> **2**
+>
+> (1) Where his offence term and his non-offence term are consecutive, whichever term follows the other shall be taken as beginning on the day after he is released as respects the other term.
+>
+> (2) For the purposes of sub-paragraph (1) above, where his offence term and his non-offence term are imposed on the same date, his non-offence term shall be taken to follow his offence term.
+>
+> **2A Concurrent terms of imprisonment**
+>
+> Where his offence term and his non-offence term are wholly or partly concurrent, section 1(1) to (3) of this Act (so far as relevant to the term in question and whether or not modified by section 5(2) of this Act or as read with section 220 of the 1995 Act (reduction of term in certain circumstances)) shall apply separately to each term (that is to say, in particular, he may be released as respects one of the terms even if he is not for the time being eligible for release as respects the other term).
+
+; and
+
+(b) paragraphs 3 (wholly concurrent terms) and 4 (partly concurrent terms) are repealed.
+
+#### 33 Prisoners repatriated to Scotland
+
+(1) In the Repatriation of Prisoners Act 1984 (c. 47)—
+
+(a) in subsection (9) of section 3 (transfer into the United Kingdom), the words “or section 10 of the Prisoners and Criminal Proceedings (Scotland) Act 1993” and “or, as the case may be, Scotland” are repealed; and
+
+(b) in the Schedule (operation of certain enactments in relation to the prisoner)—
+
+(i) for paragraph 2 there is substituted—
+
+> **2 Early release**
+>
+> (1) In determining, for the purposes of sections 1(1) to (3), 2(2) and (7) and 7(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9), in their application to prisoners repatriated to Scotland (eligibility for early release from a sentence), whether the prisoner has at any time served a particular proportion or part of the sentence, the sentence shall, subject to sub-paragraph (2) below, be deemed to begin with the day on which the relevant provisions take effect.
+>
+> (2) If the warrant specifies a period to be taken into account for the purposes of section 1(3) or 2(2) or (7) of that Act (eligibility of long-term and life prisoners as respects release on licence)—
+>
+> (a) the amount of time the prisoner has served; and
+>
+> (b) where the sentence is a determinate one, the sentence,
+>
+> shall, so far only as the question whether he has served any particular proportion or part of the sentence is concerned, be deemed to be increased by that period.
+>
+> (3) The question whether the prisoner is a short-term or a long-term prisoner for the purposes of any of the sections mentioned in sub-paragraph (1) above shall be determined by reference to the length of the sentence imposed in the country or territory from which he is transferred.
+>
+> (4) For the purposes of Schedule 6 to that Act, a prisoner’s sentence shall be deemed to have been imposed on the day on which the relevant provisions take effect.
+>
+> (5) In this paragraph, “sentence”, except in sub-paragraph (3) above, means the provision included in the warrant which is equivalent to a sentence.
+
+; and
+
+(ii) paragraph 3 is repealed.
+
+(2) Subsection (1)(b)(i) applies in relation to prisoners repatriated to Scotland on or after the coming into force of this section any of whose sentences in the country or territory from which they are transferred were imposed on or after 1st October 1993.
+
+(3) In paragraph 1 of Schedule 6 (transitional provisions and savings) to the 1993 Act, in the definition of “new provisions”, after the words “1997” there is inserted “ and section 33 of the Criminal Justice (Scotland) Act 2003 (asp 7) ”.
+
+(4) In paragraph 7 of Schedule 2 (repatriation of prisoners to the British Islands) to the Crime (Sentences) Act 1997 (c. 43), in sub-paragraph (1), for the words from “for” to the end there is substituted “ but before the commencement of section 33 of the Criminal Justice (Scotland) Act 2003 (asp 7) ”.
+
+#### 34 Suspension of conditions and revocation of licences under 1989 Act
+
+(1) The 1989 Act is amended for the purposes of the existing provisions (within the meaning of Schedule 6 to the 1993 Act) as follows.
+
+(2) In subsection (6) of section 22 (which requires a person released on licence under that section to comply with such conditions as may be specified in the licence), after the word “shall” there is inserted “ , subject to section 22A below, ”.
+
+(3) After that section there is inserted—
+
+> **22A Suspension of licence conditions**
+>
+> (1) Where a prisoner, who has been released on licence under section 22 of this Act as respects a sentence of imprisonment—
+>
+> (a) continues, by virtue of any enactment or rule of law, to be detained in prison notwithstanding such release; or
+>
+> (b) is, by virtue of any enactment or rule of law, detained in prison subsequent to the date of such release but while the licence remains in force,
+>
+> the conditions in the licence, other than those mentioned in subsection (3) below, shall by virtue of such detention be suspended.
+>
+> (2) The suspension of the conditions shall have effect for so long as—
+>
+> (a) the prisoner is so detained; and
+>
+> (b) the licence remains in force.
+>
+> (3) The conditions are any conditions, however expressed, requiring the prisoner—
+>
+> (a) to be of good behaviour and to keep the peace; or
+>
+> (b) not to contact a named person or class of persons (or not to do so unless with the approval of a person specified in the licence by virtue of section 22(7) of this Act).
+>
+> (4) The Scottish Ministers may by order amend subsection (3) above by—
+>
+> (a) adding to the conditions mentioned in that subsection such other conditions as they consider appropriate; or
+>
+> (b) cancelling or varying a condition for the time being mentioned in that subsection.
+
+.
+
+(4) In section 28 (which, among other things, enables the Scottish Ministers to revoke the licence of, and recall to prison, certain prisoners if recommended to do so by the Parole Board and, by virtue of subsection (1A) of that section, requires them to revoke the licence of and recall to prison certain other prisoners if there is such a recommendation)—
+
+(a) in subsection (1), for the word “may” there is substituted “ shall ”; and
+
+(b) subsection (1A) is repealed.
+
+#### 35 Suspension of licence conditions under 1993 Act
+
+(1) The 1993 Act is amended as follows.
+
+(2) In section 12 (which requires a person released on licence under Part I of that Act to comply with the conditions specified in the licence), in subsection (1), after the word “shall” there is inserted “ , subject to section 12A below, ”.
+
+(3) After that section there is inserted—
+
+> **12A Suspension of licence conditions**
+>
+> (1) Where a prisoner, who has been released on licence under this Part of this Act as respects a sentence of imprisonment—
+>
+> (a) continues, by virtue of any enactment or rule of law, to be detained in prison notwithstanding such release; or
+>
+> (b) is, by virtue of any enactment or rule of law, detained in prison subsequent to the date of such release but while the licence remains in force,
+>
+> the conditions in the licence, other than those mentioned in subsection (3) below, shall by virtue of such detention be suspended.
+>
+> (2) The suspension of the conditions shall have effect for so long as—
+>
+> (a) the prisoner is so detained; and
+>
+> (b) the licence remains in force.
+>
+> (3) The conditions are any conditions, however expressed, requiring the prisoner—
+>
+> (a) to be of good behaviour and to keep the peace; or
+>
+> (b) not to contact a named person or class of persons (or not to do so unless with the approval of the person specified in the licence by virtue of section 12(2)(a) of this Act).
+>
+> (4) The Scottish Ministers may by order amend subsection (3) above by—
+>
+> (a) adding to the conditions mentioned in that subsection such other condition as they consider appropriate; or
+>
+> (b) cancelling or varying a condition for the time being mentioned in that subsection.
+>
+> **12B Certain licences to be replaced by one**
+>
+> (1) Subsection (2) below applies where a prisoner—
+>
+> (a) has been released on licence under this Part of this Act or under the 1989 Act as respects any sentence of imprisonment (“the original sentence”); and
+>
+> (b) while so released, receives another sentence of imprisonment (whether for life or for a term) (“the subsequent sentence”),
+>
+> and the licence as respects the original sentence has not been revoked.
+>
+> (2) Where—
+>
+> (a) this subsection applies; and
+>
+> (b) the prisoner is to be released on licence under this Part of this Act as respects the subsequent sentence,
+>
+> he shall instead be released on a single licence under this Part of this Act as respects both the original sentence and the subsequent sentence.
+>
+> (3) The single licence—
+>
+> (a) shall have effect in place of—
+>
+> (i) the licence as respects the original sentence; and
+>
+> (ii) any licence on which the prisoner would, apart from this section, be released as respects the subsequent sentence;
+>
+> (b) shall be subject to such conditions as were in the licence as respects the original sentence immediately before that licence was replaced by the single licence; and
+>
+> (c) shall (unless revoked) remain in force for so long as any licence as respects the original sentence or as respects the subsequent sentence would, apart from this section (and if not revoked), have remained in force.
+
+.
+
+#### 36 Revocation of licences under 1993 Act
+
+(1) The 1993 Act is amended as follows.
+
+(2) In section 5(2) (fine defaulters and persons in contempt of court), for the words from “both” to “17(1)” there is substituted “ released on licence under section 3 of this Act and, subsequently, the licence is revoked under section 17(1), (1A) or (1B) ”.
+
+(3) In section 16(7) (which provides that a court order that a long-term or short-term prisoner released on licence be returned to prison has the effect of automatically revoking the licence), paragraph (a), and the word “and” immediately following that paragraph, are repealed.
+
+(4) In section 17 (which enables the Scottish Ministers to revoke the licence of, and recall to prison, certain prisoners if recommended to do so by the Parole Board, enables them to do so in certain circumstances without such a recommendation, and requires them to do so as respects certain prisoners if there is such a recommendation), for subsections (1) to (3) there is substituted—
+
+> (1) Where—
+>
+> (a) a long-term prisoner has been released on licence under this Part of this Act and is not detained as mentioned in section 12A(1)(a) or (b) of this Act; or
+>
+> (b) a life prisoner has been so released on licence and is not detained as mentioned in section 12A(1)(b) of this Act,
+>
+> the Scottish Ministers—
+>
+> (i) shall, if recommended to do so by the Parole Board; or
+>
+> (ii) may, if revocation and recall are, in their opinion, expedient in the public interest and it is not practicable to await such a recommendation,
+>
+> revoke the licence and recall the prisoner to prison.
+>
+> (1A) Where a long-term prisoner or a life prisoner has been released on licence as mentioned in subsection (1) above, but is detained as mentioned in that subsection, the Scottish Ministers—
+>
+> (a) shall, if recommended to do so by the Parole Board; or
+>
+> (b) may, if revocation is, in their opinion, expedient in the public interest and it is not practicable to await such a recommendation,
+>
+> revoke the licence.
+>
+> (1B) Where a short-term prisoner has been released on licence under section 3(1) of this Act, the Scottish Ministers may, whether or not he is detained as mentioned in section 12A(1)(b) of this Act—
+>
+> (a) revoke the licence; and
+>
+> (b) where he is not so detained, recall him to prison,
+>
+> if they are satisfied that his health or circumstances have so changed that his release on licence is no longer justified.
+>
+> (2) The Scottish Ministers shall, on the revocation of a person’s licence under subsection (1), (1A) or (1B) above, inform that person of the reasons for the revocation.
+>
+> (3) The Scottish Ministers shall refer to the Parole Board the case of a person whose licence is revoked under subsection (1), (1A) or (1B) above.
+
+.
+
+#### 37 Extended sentences: recall to prison and revocation of licences
+
+(1) The 1993 Act is amended as follows.
+
+(2) In section 26A (which applies, with adaptations, the other provisions of Part I of the 1993 Act to prisoners who are subject to an extended sentence), for subsection (9) there is substituted—
+
+> (9) In relation to a prisoner subject to an extended sentence, the reference in section 17(5) of this Act to the prisoner being “liable to be detained in pursuance of his sentence” shall be construed as a reference to the prisoner being liable to be detained until the expiry of the extension period.
+
+.
+
+#### 38 Special provision in relation to children
+
+(1) The 1993 Act is amended as follows.
+
+(2) In section 7 (which among other things enables the Scottish Ministers to release on licence certain children if recommended to do so by the Parole Board, and which provides that a court order that a child released on licence be returned to detention has the effect of automatically revoking the licence)—
+
+(a) in subsection (2), for the word “may” there is substituted “ shall ”;
+
+(b) subsection (4A) is repealed;
+
+(c) for subsection (5), there is substituted—
+
+> (5) Without prejudice to section 6(1)(b)(ii) of this Act—
+>
+> (a) sections 3, 11(1), 12, 12A, 12B, 17 and 20(2) of this Act apply to children detained under section 208 of the 1995 Act as they apply to long-term prisoners; and
+>
+> (b) in those sections of this Act, references to prisoners, or to prison, imprisonment or sentences of imprisonment shall be construed, and sections 1A and 27 shall apply, accordingly.
+
+; and
+
+(d) subsection (6) is repealed.
+
+### Special provision as regards certain life prisoners
+
+#### 39 Convention rights of certain life prisoners
+
+In the schedule to the Convention Rights (Compliance) (Scotland) Act 2001 (asp 7)—
+
+(a) in Part 1 (existing life prisoners), after paragraph 7 there is inserted—
+
+> **7A**
+>
+> In the case of a prisoner to whom paragraph 6 above applies, Part 1 of the 1993 Act as amended by this Act shall apply as if the part of the prisoner’s sentence specified in the certificate mentioned in paragraph 1(b) above were a punishment part specified under section 2(2) of the 1993 Act as amended by this Act.
+
+; and
+
+(b) in Part 4 (transferred life prisoners)—
+
+(i) after paragraph 49 there is inserted—
+
+> **49A**
+>
+> This Part of this schedule also applies to—
+>
+> (a) any life prisoner who was transferred—
+>
+> (i) on or after the coming into force of section 10 of the 1993 Act; and
+>
+> (ii) before the relevant date,
+>
+> and to whom, by virtue of the Crime and Punishment (Scotland) Act 1997 (c. 48), subsections (2) and (3) of that section applied subsequent to the prisoner’s transfer; and
+>
+> (b) any other life prisoner who was—
+>
+> (i) transferred to Scotland before the coming into effect of section 10 of the 1993 Act; and
+>
+> (ii) as at the relevant date, a life prisoner such as is mentioned in any of sub-paragraphs (a) to (c) of paragraph 49 above (the references in those sub-paragraphs to that section being construed as references to that section as it had effect on that date).
+
+;
+
+(ii) in paragraph 50, after the word “49” there is inserted “ or 49A ”;
+
+(iii) in paragraph 53, after the word “applies” there is inserted “ , to whom sub-paragraph (a) of paragraph 49A above applies (whether or not paragraph 49(b) above also applies to the prisoner) or to whom sub-paragraph (b) of paragraph 49A above applies (in so far as that sub-paragraph relates to paragraph 49(c) above) ”;
+
+(iv) in paragraph 54, for the words from “to” in the first place where it occurs to “applies” there is substituted “ such as is mentioned in paragraph 52 or 53 above ”; and
+
+(v) for paragraph 67 there is substituted—
+
+> **67**
+>
+> In the case of a prisoner to whom paragraph 53 above applies, Part 1 of the 1993 Act (except subsection (9) of section 2) as amended by this Act shall apply as if—
+>
+> (a) the prisoner were a life prisoner within the meaning of subsection (1) of that section; and
+>
+> (b) the part of the prisoner’s sentence specified in the certificate referred to in sub-paragraph (c) of paragraph 57 above were a punishment part specified under subsection (2) of that section.
+
+.
+
+### Monitoring on release
+
+#### [^F96]40 Remote monitoring of released prisoners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Parole Board to have regard to risk management plans
+
+#### 41 Parole Board to have regard to risk management plans
+
+In the 1993 Act, after section 26A, there is inserted—
+
+> **26B Parole Board to have regard to risk management plans**
+>
+> The Parole Board shall, whenever it is considering the case of a person in respect of whom there is a risk management plan, have regard to the plan.
+
+.
+
+## Part 5 — Drugs courts
+
+### 42 Drugs courts
+
+(1) It may be prescribed that a court, or class of court, is designated as a “drugs court”; that is to say, as a court especially appropriate to deal with cases involving persons dependent on, or with a propensity to misuse, drugs.
+
+[[^F97](2) It may be prescribed that there is to be a drugs court within a sheriffdom or sheriff court district, in which case the sheriff principal is, subject to subsection (1), to nominate a court within that sheriffdom or, as the case may be, sheriff court district to be a drugs court.]
+
+(3) Any designation under subsection (1) or nomination under subsection (2) is without prejudice to the powers and jurisdiction of any court; but only a drugs court is to have the powers provided for in subsection (4), being powers—
+
+(a) additional to any other powers the court may have; and
+
+(b) exercisable only as respects such persons as the court is satisfied are persons such as are mentioned in subsection (1).
+
+(4) The powers are, that where an offender has failed to comply with the requirements of a drug treatment and testing order or a [[^F98]community payback order], the court may, subject to subsections (6) and (7), on one, or more than one, occasion—
+
+(a) sentence that person to imprisonment, or as the case may be detention, so however that the total of all periods so imposed in respect of the order is not to exceed twenty-eight days (and accordingly any one such period may be less than any minimum sentence which, but for this paragraph, would fall to be imposed); or
+
+(b) [[^F99]in the case of a failure to comply with the requirements of a drug treatment and testing order, make a community payback order imposing a level 1 unpaid work or other activity requirement, so however that the total hours of unpaid work or other activity] thus required in respect of the order is not to exceed forty hours (and accordingly any one such requirement will be for a period less than that which, but for this paragraph, would fall to be specified),
+
+but the imposition of a sentence under paragraph (a) or making of an order under paragraph (b) does not of itself affect the drug treatment and testing order or [[^F100]community payback order].
+
+(5) The Scottish Ministers may by order amend—
+
+(a) paragraph (a) of subsection (4) by substituting, for the period of days; or
+
+(b) paragraph (b) of that subsection, by substituting for the period of hours,
+
+for the time being specified there as a period not to be exceeded, such other period of days, or as the case may be hours, as they think fit.
+
+(6) Where it is—
+
+(a) alleged at—
+
+(i) a review hearing by a drugs court; or
+
+(ii) a diet of such a court to which an offender has been cited under section 234G(1) of the 1995 Act (court actings in respect of breach of drug treatment and testing order),
+
+that the offender has failed to comply with a requirement of a drug treatment and testing order; or
+
+[[^F101](b) alleged at—
+
+(i) a progress review carried out by such a court in relation to a community payback order; or
+
+(ii) a diet of such a court to which an offender has been cited under section 227ZC(2) of that Act (breach of community payback order),
+
+that the offender has failed to comply with a requirement imposed by a community payback order,]
+
+that person shall forthwith be provided with written details of the alleged failure and informed that there is an entitlement to be legally represented and that no answer need be given as respects that allegation before an opportunity has been afforded the person to take legal advice in that regard or the person has indicated that there is no wish to take such advice.
+
+(7) If the offender [^F102]... denies the allegation, then only if, in accordance with section [[^F103]227ZC] or as the case may be 234G of the 1995 Act, that person’s failure to comply is proved is the drugs court entitled to proceed as is mentioned in paragraph (a) or (b) of subsection (4).
+
+(8) If under section 234H of the 1995 Act (disposal on revocation of drug treatment and testing order) a drug treatment and testing order is revoked, the court (whether or not a drugs court) must, in imposing any sentence by virtue of subsection (1) of that section, take into account any—
+
+(a) sentence which has been imposed under paragraph (a) of subsection (4); or
+
+(b) order which has been made under paragraph (b) of that subsection,
+
+in relation to a failure to comply with a requirement of the drug treatment and testing order.
+
+[[^F104](9) If a community payback order is revoked under section 227ZC(7)(b) of the 1995 Act, the court (whether or not a drugs court) must, in dealing with the offender by virtue of that section, take into account any sentence which has been imposed under paragraph (a) of subsection (4) of this section in relation to a failure to comply with the community payback order.]
+
+(10) In this section—
+
+- [[^F105]“community payback order” means an order imposed under section 227A of the 1995 Act;]
+- “drug treatment and testing order”has the meaning given by section 234B(2) of the 1995 Act (power to make drug treatment and testing order);
+- [[^F105]“level 1 unpaid work or other activity requirement” has the meaning given in section 227I(5) of the 1995 Act;]
+- [^F106]...
+- “review hearing”is to be construed in accordance with section 234F(1)(b) of that Act (periodic review of drug treatment and testing order).
+
+(11) In the 1995 Act—
+
+[^F107]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F107]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in section 234D(1)(b) (explanation to be given to offender of possible consequences of failure to comply with drug treatment and testing order), after the word “Act” there is inserted “ or 42(4) of the Criminal Justice (Scotland) Act 2003 (asp 7) (powers of drugs court) ”; and
+
+(d) in section 234H (disposal on revocation of drug treatment and testing order), at the end there is added—
+
+> (4) This section is subject to section 42(8) of the Criminal Justice (Scotland) Act 2003 (asp 7) (powers of drugs court).
+
+.
+
+## Part 6 — Non-custodial punishments
+
+### 43 Restriction of liberty orders
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 245A(5)(a) (duty of clerk of court by which restriction of liberty order is made)—
+
+(a) the existing words “to any person who is to be responsible for monitoring the offender’s compliance with the order” become sub-paragraph (i); and
+
+(b) after that sub-paragraph there is inserted the word “ and ” and the following sub-paragraph—
+
+> (ii) if the offender resides (or is to reside) in a place outwith the jurisdiction of the court making the order, to the clerk of a court within whose jurisdiction that place is;
+
+.
+
+(3) In section 245E (variation of restriction of liberty order)—
+
+(a) in subsection (1)—
+
+(i) after the word “may” there are inserted the words “ except in a case to which paragraph (b) below applies, ” and those words together with the existing words “apply to the court which made the order” become paragraph (a); and
+
+(ii) after that paragraph there is inserted the word “ or ” and the following paragraph—
+
+> (b) where a copy of the order was, under section 245A(5)(a)(ii) of this Act or subsection (7)(a) below, sent to the clerk of a different court, to that different court (or, if there has been more than one such sending, the different court to which such a copy has most recently been so sent),
+
+; and
+
+(b) at the end there is added—
+
+> (5) Where a reason for an application by the offender under subsection (1) above is that he proposes to reside in a place outwith the jurisdiction of the court to which that application is made, and the court is satisfied that suitable arrangements can be made, in the district where that place is, for monitoring his compliance with the order it may—
+>
+> (a) vary the order to permit or make practicable such arrangements; and
+>
+> (b) where the change in residence necessitates or makes desirable a change in who is designated for the purpose of such monitoring, vary the order accordingly.
+>
+> (6) Before varying a restriction of liberty order for the reason mentioned in subsection (5) above, the court shall—
+>
+> (a) if the order will require the offender to remain in a specified place or in specified places, obtain and consider information about that place, or those places, including information as to the attitude of persons likely to be affected by any enforced presence there of the offender; and
+>
+> (b) satisfy itself that his compliance with that requirement can be monitored by the means of monitoring specified, or which it intends to specify, in the order.
+>
+> (7) Where a restriction of liberty order is varied as is mentioned in subsection (5) above, the clerk of the court shall send a copy of the order as so varied to—
+>
+> (a) the clerk of a court within whose jurisdiction the place of proposed residence is;
+>
+> (b) the person who, immediately before the order was varied, was responsible for monitoring the person’s compliance with it; and
+>
+> (c) the person who, in consequence of the variation, is to have that responsibility.
+>
+> (8) If, in relation to an application made for such reason as is mentioned in subsection (5) above, the court is not satisfied as is mentioned in that subsection, it may—
+>
+> (a) refuse the application; or
+>
+> (b) revoke the order.
+
+.
+
+(4) In section 245F (breach of restriction of liberty order)—
+
+(a) in subsection (1)—
+
+(i) after the words “force it appears”, there is inserted “ except in a case to which paragraph (b) below applies, ” and those words together with the existing words “to the court which made the order” become paragraph (a);
+
+(ii) after that paragraph there is inserted the word “ or ” and the following paragraph—
+
+> (b) where a copy of the order was, under section 245A(5)(a)(ii) or 245E(7)(a) of this Act, sent to the clerk of a different court, to that different court (or, if there has been more than one such sending, the different court to which such a copy has most recently been so sent),
+
+;
+
+(iii) after the words “order the court” there is inserted “ in question ”;
+
+(iv) for the words “the court”, where they occur for the third time, there is substituted “ it ”; and
+
+(v) for the words “the court”, where they occur for the fourth time, there is substituted “ that court ”;
+
+(b) in subsection (2), for the words—
+
+(i) “the court”, where they occur for the first time, there is substituted “ that court ”; and
+
+(ii) “the court”, where they occur for the second time, there is substituted “ it ”; and
+
+(c) in subsection (4), for the words “the court” there is substituted “ a court ”.
+
+### 44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F110]46 Requirement for remote monitoring in probation order
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47 Requirement for remote monitoring in drug treatment and testing order
+
+(1) The 1995 Act is amended as follows.
+
+(2) After section 234C there is inserted—
+
+> **234CA Requirement for remote monitoring in drug treatment and testing order**
+>
+> (1) A drug treatment and testing order may include a requirement that during such period as may be specified in the requirement, being a period not exceeding twelve months, the offender comply with such restrictions as to his movements as the court thinks fit; and paragraphs (a) and (b) of subsection (2) of section 245A of this Act (with the qualification of paragraph (a) which that subsection contains) shall apply in relation to any such requirement as they apply in relation to a restriction of liberty order.
+>
+> (2) The clerk of the court shall cause a copy of a drug treatment and testing order which includes such a requirement to be sent to the person who is to be responsible for monitoring the offender’s compliance with the requirement.
+>
+> (3) If, within the period last specified by virtue of subsection (1) above or (6)(d) below, it appears to the person so responsible that the offender has failed to comply with the requirement the person shall so inform the supervising officer appointed by virtue of section 234C(6) of this Act, who shall report the matter to the court.
+>
+> (4) Section 245H shall apply in relation to proceedings under section 234G of this Act as respects a drug treatment and testing order which includes such a requirement as it applies in relation to proceedings under section 245F of this Act.
+>
+> (5) Sections 245A(6) and (8) to (11), 245B and 245C of this Act shall apply in relation to the imposition of, or as the case may be compliance with, requirements included by virtue of subsection (1) above in a drug treatment and testing order as those sections apply in relation to the making of, or as the case may be compliance with, a restriction of liberty order.
+>
+> (6) In relation to a drug testing order which includes such a requirement, section 234E of this Act shall apply with the following modifications—
+>
+> (a) the persons who may make an application under subsection (1) of that section shall include the person responsible for monitoring the offender’s compliance with the requirement, but only in so far as the application relates to the requirement;
+>
+> (b) the reference in subsection (2) of that section to the supervising officer shall be construed as a reference to either that officer or the person so responsible;
+>
+> (c) where an application is made under subsection (1) of that section and relates to the requirement, the persons to be heard under subsection (3) of that section shall include the person so responsible;
+>
+> (d) the ways of varying the order which are mentioned in subsection (3)(a) of that section shall include increasing or decreasing the period specified by virtue of subsection (1) above (or last specified by virtue of this paragraph) but not so as to increase that period above the maximum mentioned in subsection (1) above; and
+>
+> (e) the reference in subsection (5) of that section—
+>
+> (i) to the supervising officer shall be construed as a reference to either that officer or the person so responsible; and
+>
+> (ii) to sections 234B(5) and 234D(1) shall be construed as including a reference to section 245A(6) and (11).
+>
+> (7) Where under section 234E or 234G(2)(b) of this Act the court varies such a requirement, the clerk of court shall cause a copy of the amended drug treatment and testing order to be sent—
+>
+> (a) to the person responsible for monitoring the offender’s compliance with the requirement; and
+>
+> (b) where the variation comprises a change in who is designated for the purposes of such monitoring, to the person who, immediately before the order was varied, was so responsible.
+
+.
+
+(3) In section 234E (amendment of drug treatment and testing order), at the end there is added—
+
+> (7) This section is subject to section 234CA(6) of this Act.
+
+.
+
+(4) In section 234G (breach of drug treatment and testing order)—
+
+(a) in subsection (2)(b), at the end there is added “ so however that any extension of the period of a requirement imposed by virtue of section 234CA of this Act shall not increase that period above the maximum mentioned in subsection (1) of that section ”; and
+
+(b) after subsection (2) there is inserted—
+
+> (2A) Subsections (6) and (11) of section 245A of this Act apply to the variation, under paragraph (b) of subsection (2) above, of a requirement imposed as is mentioned in that paragraph as they apply to the making of a restriction of liberty order.
+
+.
+
+### 48 Breach of certain orders: adjourning hearing and remanding in custody etc.
+
+After section 245I of the 1995 Act there is inserted—
+
+> **245J Breach of certain orders: adjourning hearing and remanding in custody etc.**
+>
+> (1) Where a probationer or offender appears before the court in respect of his apparent failure to comply with a requirement of, as the case may be, a probation order, drug treatment and testing order, supervised attendance order, community service order or restriction of liberty order the court may, for the purpose of enabling inquiries to be made or of determining the most suitable method of dealing with him, adjourn the hearing.
+>
+> (2) Where, under subsection (1) above, the court adjourns a hearing it shall remand the probationer or offender in custody or on bail or ordain him to appear at the adjourned hearing.
+>
+> (3) A court shall not so adjourn a hearing for any single period exceeding four weeks or, on cause shown, eight weeks.
+>
+> (4) A probationer or offender remanded under this section may appeal against the refusal of bail, or against the conditions imposed, within 24 hours of his remand.
+>
+> (5) Any such appeal shall be by note of appeal presented to the High Court, who, either in court or in chambers, may after hearing the prosecutor and the appellant—
+>
+> (a) review the order appealed against and either grant bail on such conditions as it thinks fit or ordain the appellant to appear at the adjourned hearing; or
+>
+> (b) confirm the order.
+
+.
+
+### 49 Power of arrest where breach of non-harassment order
+
+(1) In section 234A (non-harassment orders) of the 1995 Act—
+
+(a) in subsection (4), the words “found to be” are repealed;
+
+(b) after that subsection there is inserted—
+
+> (4A) A constable may arrest without warrant any person he reasonably believes is committing or has committed an offence under subsection (4) above.
+>
+> (4B) Subsection (4A) above is without prejudice to any power of arrest conferred by law apart from that subsection.
+
+.
+
+(2) In section 9 (breach of non-harassment order) of the Protection from Harassment Act 1997 (c. 40)—
+
+(a) in subsection (1), the words “found to be” are repealed;
+
+(b) after subsection (2) there is inserted—
+
+> (3) A constable may arrest without warrant any person he reasonably believes is committing or has committed an offence under subsection (1).
+>
+> (4) Subsection (3) is without prejudice to any power of arrest conferred by law apart from that subsection.
+
+.
+
+### 50 Amendments in relation to certain non-custodial sentences
+
+[^F111]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F111]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 245A (restriction of liberty orders) of that Act, in subsection (1)—
+
+(a) after “offence” in the first place where it appears there is inserted “ punishable by imprisonment ”;
+
+(b) the words from “, if” to “disposal,” are repealed;
+
+(c) after “may” there is inserted “ , instead of imposing on him a sentence of, or including, imprisonment or any other form of detention, ”.
+
+[^F112]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 7 — Children
+
+### [^F113]51 Physical punishment of children
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 52 Prohibition of publication of proceedings at children’s hearing etc.
+
+In the Children (Scotland) Act 1995 (c. 36)—
+
+(a) in section 44 (prohibition of publication of proceedings at children’s hearing), in subsection (1)—
+
+(i) after the word “publish” there is inserted “ any matter in respect of a case about which the Principal Reporter has from any source received information or ”; and
+
+(ii) in paragraph (a), for the words “any child concerned in the” there is substituted “ the child concerned in, or any other child connected (in any way) with, the case, ”; and
+
+(b) in section 93 (interpretation of Part II), in subsection (2)—
+
+(i) in paragraph (a), after the word “Part” there is inserted “ and section 44 ”; and
+
+(ii) in paragraph (b), for the words “Chapters 2 and” there is substituted “ Chapter 2 (except section 44) and Chapter ”.
+
+### [^F114]53 Provision by Principal Reporter of information to victims
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 8 — Evidential, jurisdictional and procedural matters
+
+### Evidential matters
+
+#### 54 Certificates relating to physical data: sufficiency of evidence
+
+In section 284(2) of the 1995 Act (no entitlement to challenge sufficiency of evidence in certificate relating to certain physical data), for the words “such other party shall not be entitled to challenge the sufficiency of the evidence contained within the certificate” there is substituted “ , if that other party serves on the first party, not more than seven days after the date of service of the copy on him, a notice that he does not accept the evidence contained in the certificate, subsection (1) above shall not apply in relation to that evidence. ”.
+
+#### 55 Taking samples by swabbing
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 18 (prints, samples etc. in criminal investigations)—
+
+(a) in subsection (6), paragraph (d) is repealed; and
+
+(b) after that subsection there is inserted—
+
+> (6A) A constable, or at a constable’s direction a police custody and security officer, may take from the inside of the person’s mouth, by means of swabbing, a sample of saliva or other material.
+
+.
+
+(3) In each of sections 19(2) (prints, samples etc. in criminal investigations: supplementary provisions) and 19A(2)(samples etc. from persons convicted of sexual and violent offences)—
+
+(a) the word “and” which immediately follows paragraph (a) is repealed;
+
+(b) in paragraph (b), for the word “(d)” there is substituted “ (c) ”; and
+
+(c) after that paragraph there is added the word “ and ” and the following paragraph—
+
+> (c) take, or direct a police custody and security officer to take, from the person any sample mentioned in subsection (6A) of that section by the means specified in that subsection.
+
+.
+
+(4) In section 19B (power of constable in obtaining relevant physical data etc.), the existing provisions become subsection (1); and after that subsection there is added—
+
+> (2) A constable may, with the authority of an officer of a rank no lower than inspector, use reasonable force in (himself) exercising any power conferred by section 18(6A), 19(2)(c) or 19A(2)(c) of this Act.
+
+.
+
+#### 56 Retaining sample or relevant physical data where given voluntarily
+
+(1) This section applies only to a person other than is mentioned in subsection (1) of section 18 of the 1995 Act (application of that section) and does not apply where a sample is, or relevant physical data are, taken from [[^F115]or provided by] a person—
+
+(a) by virtue of any power of search;
+
+(b) by virtue of any power to take possession of evidence where there is imminent danger of its being lost or destroyed; or
+
+(c) under the authority of a warrant.
+
+(2) In the circumstances mentioned in subsection (3), a sample or relevant physical data taken from and with the consent of the person (or provided by and with the consent of the person) in connection with the investigation of an offence [[^F116], or information derived from that sample may be held and used—
+
+(a) for the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution, [^F117]...
+
+(b) for the identification of a deceased person or a person from whom the sample or relevant physical data came.]
+
+[[^F118](c) in the interests of national security, or
+
+(d) for the purposes of a terrorist investigation]
+
+(3) The circumstances are that the person consents in writing to the sample, data or information [[^F119]derived from a sample] being so held and used; but in giving such consent the person may elect to confine it to consent to holding and using in connection with the investigation and prosecution of the offence in connection with which the sample was, or data were, taken or provided.
+
+(4) The person may at any time withdraw such written consent by—
+
+(a) giving notice in writing of such withdrawal to the chief constable of the [[^F120]Police Service of Scotland;] or
+
+(b) attending at any police station [^F121]... and giving such notice to—
+
+(i) any constable [^F122]...; or
+
+(ii) any person authorised to receive it by the officer in charge of the station,
+
+and the chief constable, constable or as the case may be person so authorised shall, on receipt of that notice, provide the person withdrawing consent with a written acknowledgment of receipt.
+
+(5) The withdrawal takes effect when notice given under subsection (4) is received by the person to whom it falls to provide an acknowledgment under that subsection; and subject to subsection (6)—
+
+(a) the sample, with all information derived from it, is;
+
+(b) the data, [^F123]..., are,
+
+to be destroyed as soon as possible after such receipt.
+
+(6) Subsections (4) and (5) are without prejudice to—
+
+(a) the use of the sample, data or information derived from [[^F124]the sample] in evidence—
+
+(i) unless an election was made under subsection (3), in any prosecution; and
+
+(ii) if such an election was so made, in the prosecution of the offence in connection with which the sample was, or data were, taken or provided,
+
+where and in so far as that evidence relates to, or to circumstances connected with or arising out of, a check such as is mentioned in subsection (7);
+
+(b) the admissibility of any evidence as to—
+
+(i) the taking or provision of the sample or data; or
+
+(ii) the giving or withdrawal of consent.
+
+(7) The check is one which—
+
+(a) was against any other sample or relevant physical data, or against any information derived from any other sample [^F125]...; and
+
+(b) took place before the withdrawal took effect.
+
+[[^F126](7A) In subsection (2)—
+
+(a) the reference to crime includes a reference to—
+
+(i) conduct which constitutes a criminal offence or two or more criminal offences (whether under the law of a part of the United Kingdom or a country or territory outside the United Kingdom), or
+
+(ii) conduct which is, or corresponds to, conduct which, if it all took place in any one part of the United Kingdom would constitute a criminal offence or two or more criminal offences,
+
+(b) the reference to an investigation includes a reference to an investigation outside the United Kingdom of a crime or suspected crime, and
+
+(c) the reference to a prosecution includes a reference to a prosecution brought in respect of a crime in a country or territory outside the United Kingdom.]
+
+(8) In this section—
+
+- “sample”means a sample such as is mentioned in section 18(6) or (6A) of the 1995 Act, being one taken as so mentioned; [^F127]...
+- “relevant physical data”has the same meaning as it has for the purposes of section 18 of that Act [[^F128]; and
+- “terrorist investigation” has the meaning given by section 32 of the Terrorism Act 2000.]
+
+#### 57 Convictions in other member States of the European Union
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 101(8) (manner of proving previous conviction in solemn proceedings)—
+
+(a) after the words “section 285” there is inserted “ , or as the case may be 286A, ”; and
+
+(b) for the words “said section” there is substituted “ section in question ”.
+
+(3) In section 286 (proof of previous conviction in support of substantive charge), at the end there is added—
+
+> (3) The reference in subsection (1)(a) above to “the clerk of court having custody of the record containing the conviction” includes, in relation to a previous conviction by a court in another member State of the European Union, a reference to any officer of that court or of that State having such custody.
+
+.
+
+(4) After section 286 there is inserted—
+
+> **286A Proof of previous conviction by court in other member State**
+>
+> (1) A previous conviction by a court in another member State of the European Union may be proved against any person in any criminal proceedings by the production of evidence of the conviction and by showing that his fingerprints and those of the person convicted are the fingerprints of the same person.
+>
+> (2) A certificate—
+>
+> (a) bearing—
+>
+> (i) to have been sealed with the official seal of a Minister of the State in question; and
+>
+> (ii) to contain particulars relating to a conviction extracted from the criminal records of that State; and
+>
+> (b) including copies of fingerprints and certifying that those copies—
+>
+> (i) are of fingerprints appearing from those records to have been taken from the person convicted on the occasion of the conviction, or on the occasion of his last conviction; and
+>
+> (ii) would be admissible in evidence in criminal proceedings in that State as a record of the skin of that person’s fingers,
+>
+> shall be sufficient evidence of the conviction or, as the case may be, of the person’s last conviction and of all preceding convictions and that the copies of the fingerprints included in the certificate are copies of the fingerprints of the person convicted.
+>
+> (3) A conviction bearing to have been—
+>
+> (a) extracted from the criminal records of the State in question; and
+>
+> (b) issued by an officer of that State whose duties include the issuing of such extracts,
+>
+> shall be received in evidence without being sworn to by witnesses.
+>
+> (4) Subsection (9) of section 285 of this Act applies in relation to this section as it does in relation to that section.
+
+.
+
+(5) In section 307 (interpretation)—
+
+(a) in subsection (1), in the definition of “extract conviction” and “extract of previous conviction”, at the end there is added “ and also include a conviction extracted and issued as mentioned in section 286A(3)(a) and (b) of this Act ”; and
+
+(b) in subsection (5), at the end there is added
+
+> except—
+>
+> (a) where the context otherwise requires; and
+>
+> (b) in sections 69(2) and 166, where such a reference includes a reference to a previous conviction, by a court in another member State of the European Union, of an act punishable under the law in force in that State (an act so punishable being taken to constitute an offence under that law however described in that law)
+
+.
+
+### Jurisdictional matters
+
+#### 58 Transfer of sheriff court proceedings
+
+(1) In section 83 of the 1995 Act (transfer of sheriff court solemn proceedings)—
+
+(a) in subsection (1), for the words “, at any time before the commencement of his trial, apply to the sheriff to adjourn the trial and transfer it to a sitting of a sheriff court, appointed as mentioned in section 66(1) of this Act, in any other district in that sheriffdom” there is substituted “ apply to the sheriff for an order for the transfer of the proceedings to a sheriff court in another district in that sheriffdom (that court being taken to be, by virtue of any such order, appointed as mentioned in section 66(1) of this Act) and for adjournment to a sitting of that court ”;
+
+(b) after subsection (1) there is inserted—
+
+> (1A) Where—
+>
+> (a) an accused person has been cited to attend a sitting of the sheriff court; or
+>
+> (b) paragraph (a) above does not apply but it is competent so to cite an accused person,
+>
+> and the prosecutor is informed by the sheriff clerk that, because of exceptional circumstances which could not reasonably have been foreseen, it is not practicable for that court (in subsection (2A)(b)(i) below referred to as the “relevant court”) or any other sheriff court in that sheriffdom to proceed with the case, the prosecutor—
+>
+> (i) may, where paragraph (b) above applies, so cite the accused; and
+>
+> (ii) shall, where paragraph (a) above applies or the accused is so cited by virtue of paragraph (i) above, as soon as practicable apply to the sheriff principal for an order for the transfer of the proceedings to a sheriff court in another sheriffdom (that court being taken to be, by virtue of any such order, appointed as mentioned in section 66(1) of this Act) and for adjournment to a sitting of that court.
+
+;
+
+(c) in subsection (2), for the words “adjourn the trial and make an order for the transfer of the trial as mentioned in subsection (1) above” there is substituted “ make such order as is mentioned in that subsection ”;
+
+(d) after subsection (2) there is inserted—
+
+> (2A) On an application under subsection (1A) above the sheriff principal may make the order sought—
+>
+> (a) provided that the sheriff principal of the other sheriffdom consents; but
+>
+> (b) in a case where the trial (or part of the trial) would be transferred, shall do so only—
+>
+> (i) if the sheriff of the relevant court, after giving the accused or his counsel an opportunity to be heard, consents to the transfer; or
+>
+> (ii) on the joint application of the parties.
+>
+> (2B) On the application of the prosecutor, a sheriff principal who has made an order under subsection (2A) above may, if the sheriff principal of the other sheriffdom mentioned in that subsection consents—
+>
+> (a) revoke; or
+>
+> (ii) vary so as to restrict the effect of,
+>
+> that order.
+
+; and
+
+(e) in subsection (3), for the words from “the trial has been adjourned” to the end there is substituted “ there has then been an order under subsection (2) or (2A) above, the warrant shall, subject to subsection (2B) above, have effect subject to the adjournment provided for in the order and as if the sitting is a sitting of the court to which the proceedings have been transferred ”.
+
+(2) After section 137 of that Act there is inserted—
+
+> **137A Transfer of sheriff court summary proceedings within sheriffdom**
+>
+> (1) Where an accused person has been cited to attend a diet of the sheriff court the prosecutor may apply to the sheriff for an order for the transfer of the proceedings to a sheriff court in any other district in that sheriffdom and for adjournment to a diet of that court.
+>
+> (2) On an application under subsection (1) above the sheriff may make such order as is mentioned in that subsection.
+>
+> **137B Transfer of sheriff court summary proceedings outwith sheriffdom**
+>
+> (1) Where—
+>
+> (a) an accused person has been cited to attend a diet of the sheriff court; or
+>
+> (b) paragraph (a) does not apply but it is competent so to cite an accused person,
+>
+> and the prosecutor is informed by the sheriff clerk that, because of exceptional circumstances which could not reasonably have been foreseen, it is not practicable for that court or any other sheriff court in that sheriffdom to proceed with the case, the prosecutor—
+>
+> (i) may, where paragraph (b) above applies, so cite the accused; and
+>
+> (ii) shall, where paragraph (a) above applies or the accused is so cited by virtue of paragraph (i) above, as soon as practicable apply to the sheriff principal for an order for the transfer of the proceedings to a sheriff court in another sheriffdom and for adjournment to a diet of that court.
+>
+> (2) On an application under subsection (1) above the sheriff principal may make the order sought, provided that the sheriff principal of the other sheriffdom consents.
+>
+> (3) On the application of the prosecutor, a sheriff principal who has made an order under subsection (2) above may, if the sheriff principal of the other sheriffdom mentioned in that subsection consents—
+>
+> (a) revoke; or
+>
+> (b) vary so as to restrict the effect of,
+>
+> that order.
+
+.
+
+#### 59 Competence of justice’s actings outwith jurisdiction
+
+After section 9 of the 1995 Act there is inserted—
+
+> **9A Competence of justice’s actings outwith jurisdiction**
+>
+> It is competent for a justice, even if not present within his jurisdiction, to sign any warrant, judgment, interlocutor or other document relating to proceedings within that jurisdiction provided that when he does so he is present within Scotland.
+
+.
+
+### Procedural matters
+
+#### 60 Unified citation provisions
+
+(1) In the 1995 Act, in—
+
+[^F129]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F129]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) section 234E (amendment of drug treatment and testing order), after subsection (2) there is inserted;
+
+(d) section 234G (breach of drug treatment testing order), after subsection (1) there is inserted;
+
+[^F130]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F130]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) section 245E (variation of restriction of liberty order), after subsection (3) there is inserted; and
+
+(h) section 245F (breach of restriction of liberty order), after subsection (1) there is inserted,
+
+in each case as a subsection appropriately numbered, the following—
+
+> The unified citation provisions apply in relation to a citation under this section as they apply in relation to a citation under section 216(3)(a) of this Act.
+
+.
+
+(2) In section 307(1) of that Act (interpretation), at the appropriate place there is inserted—
+
+> “the unified citation provisions”means section 216(5) and (6)(a) and (b) of this Act;
+
+.
+
+[^F131]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F131]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 15 of the 1993 Act (variation of supervised release order etc.), after subsection (5) there is inserted—
+
+> (5A) The unified citation provisions (as defined by section 307(1) of the Criminal Procedure (Scotland) Act 1995 (c. 46)) apply in relation to a citation under subsection (5) above as they apply in relation to a citation under section 216(3)(a) of that Act.
+
+.
+
+(6) In section 18 of that Act (breach of supervised release order), after subsection (1) there is inserted—
+
+> (1A) The unified citation provisions (as defined by section 307(1) of the Criminal Procedure (Scotland) Act 1995 (c. 46)) apply in relation to a citation under subsection (1)(b) above as they apply in relation to a citation under section 216(3)(a) of that Act.
+
+.
+
+#### 61 Citation other than by service of indictment or complaint
+
+(1) In section 66 of the 1995 Act (service and lodging of indictment etc.)—
+
+(a) for subsection (4) there is substituted—
+
+> (4) The accused may be cited either—
+>
+> (a) by being served with a copy of the indictment and of the list of the names and addresses of the witnesses to be adduced by the prosecution; or
+>
+> (b) by a constable affixing to the door of the accused’s dwelling-house or place of business a notice in such form as may be prescribed by Act of Adjournal, or as nearly as may be in such form—
+>
+> (i) specifying the date on which it was so affixed;
+>
+> (ii) informing the accused that he may collect a copy of the indictment and of such list as is mentioned in paragraph (a) above from a police station specified in the notice; and
+>
+> (iii) calling upon him to appear and answer to the indictment at such diet as shall be so specified.
+>
+> (4A) Where a date is specified by virtue of sub-paragraph (i) of subsection (4)(b) above, that date shall be deemed the date on which the indictment is served; and the copy of the indictment referred to in sub-paragraph (ii) of that subsection shall, for the purposes of subsections (12) and (13) below be deemed the service copy.
+>
+> (4B) Paragraphs (a) and (b) of subsection (6) below shall apply for the purpose of specifying a diet by virtue of subsection (4)(b)(iii) above as they apply for the purpose of specifying a diet in any notice under subsection (6).
+
+;
+
+(b) in subsection (6)—
+
+(i) for the words “Except where the indictment is served” there is substituted “ If the accused is cited by being served with a copy of the indictment, then except where such service is ”; and
+
+(ii) in paragraph (b), the words “and notice” are repealed;
+
+(c) in subsection (7), at the beginning there is inserted “ Subject to subsection (4)(b) above, ”;
+
+(d) in subsection (8), after the word “indictment” there is inserted “ , to citation under subsection (4)(b) above ”;
+
+(e) in subsection (11), after the word—
+
+(i) “indictment” there is inserted “ , or who executed a citation under subsection (4)(b) above, ”; and
+
+(ii) “service” there is inserted “ or execution ”;
+
+(f) in subsection (13), the words “required to be” are repealed; and
+
+(g) in subsection (14)—
+
+(i) for the word “of”, in the second place where it occurs, there is substituted “ or ”; and
+
+(ii) for the words “requiring to be” there is substituted “ so ”.
+
+(2) In section 140(2) of that Act (form of citation in summary proceedings), at the beginning there is inserted “ Without prejudice to section 141(2A) of this Act, ”.
+
+(3) In section 141 of that Act (manner of citation in such proceedings)—
+
+(a) after subsection (2) there is inserted—
+
+> (2A) Notwithstanding subsection (1) above and section 140(2) of this Act, citation of the accused may also be effected by an officer of law affixing to the door of the accused’s dwelling-house or place of business a notice in such form as may be prescribed by Act of Adjournal, or as nearly as may be in such form—
+>
+> (a) specifying the date on which it was so affixed;
+>
+> (b) informing the accused that he may collect a copy of the complaint from a police station specified in the notice; and
+>
+> (c) calling upon him to appear and answer the complaint at such diet as shall be so specified.
+>
+> (2B) Where the citation of the accused is effected by notice under subsection (2A) above, the induciae shall be reckoned from the date specified by virtue of paragraph (a) of that subsection.
+
+;
+
+(b) in subsection (3), after the word “below” there is inserted “ and without prejudice to the effect of any other manner of citation ”;
+
+(c) in subsection (5), after the word “subsection”, in the first place where it occurs, there is inserted “ (2A) or ”; and
+
+(d) in subsection (7)—
+
+(i) the existing words from “a citation” to the end shall be paragraph (a); and
+
+(ii) after that paragraph there shall be added the word “ ; or ” and the following paragraph—
+
+> (b) citation has been effected by notice under subsection (2A) above, if there is produced in court a written execution, in such form as may be prescribed by Act of Adjournal, or as nearly as may be in such form, signed by the officer of law who affixed the notice.
+
+.
+
+#### 62 Leave to appeal: extension of time limit for application under section 107(4) of 1995 Act
+
+In section 107 of the 1995 Act (leave to appeal)—
+
+(a) in subsection (3)—
+
+(i) after the words “subsection (4) below” there is inserted “ (and if that period is extended under subsection (4A) below before the period being extended expires, until the expiry of the period as so extended) ”; and
+
+(ii) for the words “that subsection” there is substituted “ subsection (4) ”; and
+
+(b) after subsection (4) there is inserted—
+
+> (4A) The High Court may, on cause shown, extend the period of 14 days mentioned in subsection (4) above, or that period as extended under this subsection, whether or not the period to be extended has expired (and if that period of 14 days has expired, whether or not it expired before section 62 of the Criminal Justice (Scotland) Act 2003 (asp 7) came into force).
+
+.
+
+#### 63 Adjournment at first diet in summary proceedings
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 144 (procedure at first diet), in subsection (9) after “145” there is inserted “ or 145A ”.
+
+(3) In section 145 (adjournment for inquiry at first calling), in subsection (1) for the words from the beginning to “Act,” there is substituted “ Where the accused is present ”.
+
+(4) After section 145 there is inserted—
+
+> **145A Adjournment at first calling to allow accused to appear etc.**
+>
+> (1) Without prejudice to section 150(1) to (7) of this Act, where the accused is not present at the first calling of the case in a summary prosecution, the court may (whether or not the prosecutor is able to provide evidence that the accused has been duly cited) adjourn the case under this section for such period as it considers appropriate; and subject to subsections (2) and (3) below, the court may from time to time so adjourn the case.
+>
+> (2) An adjournment under this section shall be—
+>
+> (a) for the purposes of allowing—
+>
+> (i) the accused to appear in answer to the complaint; or
+>
+> (ii) time for inquiry into the case; or
+>
+> (b) for any other cause the court considers reasonable.
+>
+> (3) No one period of adjournment under this section shall exceed 28 days.
+
+.
+
+#### 64 Review hearing of drug treatment and testing order
+
+In section 234F of the 1995 Act (periodic review of drug treatment and testing order), after subsection (1) there is inserted—
+
+> (1A) A review hearing may be held whether or not the prosecutor elects to appear.
+
+.
+
+#### 65 Transcript of record
+
+In section 94 of the 1995 Act (transcripts of record and documentary productions)—
+
+(a) in subsection (2)—
+
+(i) at the end of paragraph (a) there is added “ or, subject to subsection (2B) below, the prosecutor ”; and
+
+(ii) in paragraph (b), after the word “person” there is inserted “ , not being a person convicted at the trial, ”; and
+
+(b) after that subsection there is inserted—
+
+> (2A) If—
+>
+> (a) on the written application of a person convicted at the trial and granted leave to appeal; and
+>
+> (b) on cause shown,
+>
+> a judge of the High Court so orders, the Clerk of Justiciary shall direct, on payment of such charges as are mentioned in paragraph (b) of subsection (2) above, that such a transcript be made and sent to that person.
+>
+> (2B) Where, as respects any person convicted at the trial, the Crown Agent has received intimation under section 107(10) of this Act, the prosecutor shall not be entitled to make a request under subsection (2)(a) above; but if, on the written application of the prosecutor and on cause shown, a judge of the High Court so orders, the Clerk of Justiciary shall direct that such a transcript be made and sent to the prosecutor.
+>
+> (2C) Any application under subsection (2A) above shall—
+>
+> (a) be made within 14 days after the date on which leave to appeal was granted or within such longer period after that date as a judge of the High Court may, on written application and on cause shown, allow; and
+>
+> (b) be intimated forthwith by the applicant to the prosecutor.
+>
+> (2D) The prosecutor may, within 7 days after receiving intimation under subsection (2C)(b) above, make written representations to the court as respects the application under subsection (2A) above (the application being determined without a hearing).
+>
+> (2E) Any application under subsection (2B) above shall—
+>
+> (a) be made within 14 days after the receipt of intimation mentioned in that subsection or within such longer period after that receipt as a judge of the High Court may, on written application and on cause shown, allow; and
+>
+> (b) be intimated forthwith by the prosecutor to the person granted leave to appeal.
+>
+> (2F) The person granted leave to appeal may, within 7 days after receiving intimation under subsection (2E)(b) above, make written representations to the court as respects the application under subsection (2B) above (the application being determined without a hearing).
+
+.
+
+#### 66 Bail and related matters
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 103 (appeal sittings)—
+
+(a) after subsection (6) there is inserted—
+
+> (6A) Where a judge acting under subsection (5)(c) above grants an application by an appellant to exercise that power in his favour, the prosecutor shall be entitled to have the application determined by the High Court.
+
+; and
+
+(b) in subsection (7) for the words “and (6)” there is substituted “ , (6) and (6A) ”.
+
+(3) In section 105 (appeal against refusal of application), after subsection (4), there is inserted—
+
+> (4A) An application by a convicted person for a determination by the High Court of a decision of a judge acting under section 103(5)(c) of this Act to refuse to admit him to bail shall be intimated by him immediately and in writing to the Crown Agent.
+
+.
+
+(4) After section 105 there is inserted—
+
+> **105A Appeal against granting of application**
+>
+> (1) Where the prosecutor desires a determination by the High Court as mentioned in subsection (6A) of section 103 of this Act, he shall apply to the judge immediately after the power in subsection (5)(c) of that section is exercised in favour of the appellant.
+>
+> (2) Where a judge acting under section 103(5)(c) of this Act has exercised that power in favour of the appellant but the prosecutor has made an application under subsection (1) above—
+>
+> (a) the appellant shall not be liberated until the determination by the High Court; and
+>
+> (b) that application by the prosecutor shall be heard not more than seven days after the making of the application,
+>
+> and the Clerk of the Justiciary shall forward to the appellant the prescribed form for completion and return forthwith if he desires to be present at the hearing.
+>
+> (3) At a hearing and determination as mentioned in subsection (2) above, if the appellant—
+>
+> (a) is not legally represented, he may be present;
+>
+> (b) is legally represented, he shall not be entitled to be present without leave of the court.
+>
+> (4) If the appellant completes and returns the form mentioned in subsection (2) above indicating a desire to be present at the hearing, the form shall be deemed to be an application by the appellant for leave to be so present, and the Clerk of Justiciary, on receiving the form, shall take the necessary steps for placing the application before the court.
+>
+> (5) If the application to be present is refused by the court, the Clerk of Justiciary shall notify the appellant; and if the application is granted, he shall notify the appellant and the Governor of the prison where the applicant is in custody and the Scottish Ministers.
+>
+> (6) For the purposes of constituting a Court of Appeal, the judge who exercised the power in section 103(5)(c) of this Act in favour of the appellant may sit as a member of the court, and take part in determining the application of the prosecutor.
+
+.
+
+(5) In section 112 (admission of appellant to bail)—
+
+(a) in subsection (1) for “subsection (2)” there is inserted “ subsections (2), (2A) and (9) ”;
+
+(b) for subsection (2) there is substituted—
+
+> (2) The High Court shall not admit a convicted person to bail under subsection (1) above unless—
+>
+> (a) the application for bail—
+>
+> (i) states reasons why it should be granted; and
+>
+> (ii) where he is the appellant and has not lodged a note of appeal in accordance with section 110(1)(a) of this Act, sets out the proposed grounds of appeal; and
+>
+> (b) the prosecutor has had an opportunity to be heard on the application.
+>
+> (2A) Where—
+>
+> (a) the convicted person is the appellant and has not lodged a note of appeal in accordance with section 110(1)(a) of this Act; or
+>
+> (b) the Lord Advocate is the appellant,
+>
+> the High Court shall not admit the convicted person to bail under subsection (1) above unless it considers there to be exceptional circumstances justifying admitting him to bail.
+
+;
+
+(c) in subsection (6) for “subsection (7)” there is inserted “ subsections (7) and (9) ”;
+
+(d) in subsection (7)—
+
+(i) the words from “the application” to the end become paragraph (a); and
+
+(ii) after that paragraph there is inserted
+
+> and
+>
+> (b) where the appeal relates to conviction on indictment, the prosecutor has had an opportunity to be heard on the application.
+
+; and
+
+(e) after subsection (8) there is added—
+
+> (9) An application for the purposes of subsection (1) or (6) above by a person convicted on indictment shall be—
+>
+> (a) intimated by him immediately and in writing to the Crown Agent; and
+>
+> (b) heard not less than seven days after the date of that intimation.
+
+.
+
+#### 67 Adjournment of case before sentence
+
+In section 201 (power of court to adjourn case before sentence) of the 1995 Act, in subsection (3), for the words from “exceeding” to the end there is substituted “ exceeding four weeks or, on cause shown, eight weeks. ”.
+
+## Part 9 — Bribery and corruption
+
+### [^F132]68 Bribery and corruption: foreign officers etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F133]69 Bribery and corruption committed outwith UK
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 10 — Criminal records
+
+### 70 Registration for criminal records purposes
+
+(1) The Police Act 1997 (c. 50) is amended as follows.
+
+(2) After section 120 there is inserted—
+
+> **120B Refusal and cancellation of registration: Scotland**
+>
+> (1) The Scottish Ministers may refuse to include a person in, or may remove a person from, a register maintained under section 120 for the purposes of this Part if it appears to them that the registration of that person is likely to make it possible for information to become available to an individual who, in their opinion, is not a suitable person to have access to that information.
+>
+> (2) The Scottish Ministers may also remove a person from any such register if it appears to them that the registration of that person has resulted in information becoming known to such an individual.
+>
+> (3) In determining, for the purposes of this section, whether an individual is a suitable person to have access to information, the Scottish Ministers may have regard, in particular, to—
+>
+> (a) any information relating to the individual which concerns a relevant matter (“relevant matter” having the same meaning as in section 113);
+>
+> (b) whether that person is included in any list mentioned in section 113(3C);
+>
+> (c) any information provided to them under subsection (4);
+>
+> (d) any information provided to them by the chief officer of a police force in England and Wales or Northern Ireland in response to a request by them for such information as is available to that officer, relates to any such matter as is mentioned in paragraph (b) of subsection (4) and concerns such matter as is mentioned in paragraph (c) of that subsection;
+>
+> (e) anything which has been done—
+>
+> (i) under subsection (1) or (2) or section 122(3); or
+>
+> (ii) in England and Wales or Northern Ireland under the provisions of this Act which apply in England and Wales or Northern Ireland and correspond to subsection (1) or (2),
+>
+> and any information on the basis of which that thing was done.
+>
+> (4) A chief constable of a police force in Scotland shall comply, as soon as practicable after receiving it, with any request by the Scottish Ministers to provide them with information which—
+>
+> (a) is available to him;
+>
+> (b) relates to—
+>
+> (i) an applicant for registration under section 120;
+>
+> (ii) a person so registered;
+>
+> (iii) an individual who is likely to have access to information in consequence of the countersigning of applications by a particular applicant for such registration or by a particular person so registered; and
+>
+> (c) concerns a matter which they have notified the chief constable is a matter which in their opinion is relevant to the determination of the suitability of individuals for having access to information which may be provided by virtue of this Part.
+>
+> (5) The Scottish Ministers shall pay to a police authority the prescribed fee for information which the authority provide—
+>
+> (a) as mentioned in subsection (3)(d); or
+>
+> (b) in accordance with subsection (4).
+
+.
+
+(3) [^F134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 119(1) (sources of information), after the word “application” there is inserted “ (whether for a certificate or for registration) ”.
+
+(5) After section 119 there is inserted—
+
+> **119A Further sources of information: Scotland**
+>
+> (1) Any person who holds, in Scotland, records of convictions for the use of police forces generally shall make those records available to the Scottish Ministers for the purpose of enabling them to carry out their functions under this Part in relation to the determination of whether a person should continue to be a person registered under section 120.
+>
+> (2) Where a person holds records of convictions or cautions for the use of police forces generally (but is not required by subsection (1) or section 119(1) to make those records available to the Scottish Ministers) the Scottish Ministers may request that person to make those records available to them; and they may also request that information kept under section 81(1) of the Care Standards Act 2000 (c. 14) (duty of Secretary of State to keep list of individuals who are considered unsuitable to work with vulnerable adults) be made so available.
+>
+> (3) In subsection (1), “person” does not include—
+>
+> (a) a public body; or
+>
+> (b) a holder of a public office,
+>
+> unless that person is a Scottish public authority (as defined in section 126(1) of the Scotland Act 1998 (c. 46)).
+>
+> (4) This section is without prejudice to section 119; and subsection (5) of that section shall apply in relation to records made available in accordance with this section as it does in relation to information made available in accordance with that section.
+
+.
+
+(6) In section 120 (registered persons)—
+
+(a) in subsection (2), after the words “Subject to” there is inserted “ section 120A and ”; and
+
+(b) in subsection (3), after paragraph (a) there is inserted—
+
+> (aa) the nomination by—
+>
+> (i) a body corporate or unincorporate; or
+>
+> (ii) a person appointed to an office by virtue of an enactment,
+>
+> whether that body or person is registered or applying to be registered, of an individual to act for it or, as the case may be, him in relation to the countersigning of applications under this Part;
+>
+> (ab) the refusal by the Scottish Ministers, on such grounds as may be specified in or determined under the regulations, to accept or to continue to accept any nomination made by virtue of this subsection;
+>
+> (ac) as to the period which must elapse before any person refused registration or removed from the register may apply to be included in the register;
+
+.
+
+(7) In section 122 (code of practice)—
+
+(a) in subsection (1), after the words “provided to” there is inserted “ , or the discharge of any function by, ”; and
+
+(b) after subsection (3) there is added—
+
+> (4) Where the Scottish Ministers have reason to believe that—
+>
+> (a) a registered person; or
+>
+> (b) a body or individual at whose request a registered person has countersigned or is likely to countersign an application under section 113 or 115,
+>
+> has failed to comply with the code of practice, they may remove the registered person from the register or impose conditions on him as respects his continuing to be listed in the register
+
+.
+
+(8) After section 124 there is inserted—
+
+> **124A Review of certain decisions as to registration**
+>
+> (1) Where the Scottish Ministers decide to refuse to include a person in the register maintained for the purposes of this Part or, other than by virtue of section 120(3)(b), to remove him from that register they shall notify him in writing of that decision and of their reason for so deciding and shall send a copy of that notification to the Secretary of State.
+>
+> (2) If the person considers that the information upon which the decision was based may have been inaccurate he may, by written notice to the Scottish Ministers setting out his reason for so considering, require them to review the decision; and they shall notify him in writing of the results of their review and of any consequential change in the decision and shall send a copy of—
+>
+> (a) the notice; and
+>
+> (b) the notification,
+>
+> to the Secretary of State.
+>
+> (3) Any notification given by the Scottish Ministers under subsection (1) or (2) shall include information as to the provisions of any regulations made under section 120(3)(ac).
+>
+> (4) The Scottish Ministers may, for the purposes of this section, make regulations as to procedure; and such regulations may, in particular, make provision in relation to—
+>
+> (a) information to be included in any notification under subsection (1) or (2); and
+>
+> (b) the period within which—
+>
+> (i) a requirement may be made under subsection (2); or
+>
+> (ii) a decision under subsection (1) is to be implemented.
+>
+> **124B Scottish annotated list of certificated persons**
+>
+> (1) The Scottish Ministers shall maintain an annotated list for the purposes of this Part and shall include in that list all persons to whom a criminal record certificate, or as the case may be an enhanced criminal record certificate, has been issued under any of sections 113 to 116 of this Act.
+>
+> (2) The Scottish Ministers may make regulations about the maintenance of the list; and such regulations may, in particular, provide for—
+>
+> (a) the information to be included in the list;
+>
+> (b) the details to be provided, for the purposes of this section, by persons applying to be issued a criminal record certificate or enhanced criminal record certificate or countersigning any such application;
+>
+> (c) the procedure to be followed as respects the exercise of such discretion as is afforded them by subsection (3).
+>
+> (3) The Scottish Ministers may, as respects a person included in the list, if they are satisfied that it is appropriate to do so, notify the registered person who countersigned his application for the certificate in question (or on whose behalf that application was countersigned) or whomever else made the requisite statement which accompanied that application, about any relevant matter relating to the listed person (“relevant matter” having the same meaning as in section 113(5)) of which they become aware after issuing that certificate.
+>
+> (4) The Scottish Ministers are not to be satisfied as is mentioned in subsection (3) unless they are satisfied that the exempted question for the purpose of which the certificate was required remains relevant for the person to whom notification would, under that subsection, be given.
+>
+> (5) Regulations under paragraph (c) of subsection (2)—
+>
+> (a) shall provide for there to be an opportunity for a listed person to make representations as respects whether the Scottish Ministers should be satisfied as is mentioned in subsection (3) and require them to have regard to those representations before giving notification under that subsection; and
+>
+> (b) may require the person who would receive that notification (not being a person who is a Minister of the Crown) to provide them with such information as is in his possession and to which it would be appropriate for them to have regard as respects the exercise of the discretion mentioned in that paragraph.
+
+.
+
+## Part 11 — Local authority functions
+
+### 71 Advice, guidance and assistance to persons arrested or on whom sentence deferred
+
+(1) The Social Work (Scotland) Act 1968 (c. 49) is amended as follows.
+
+(2) In subsection (1) of section 27 (which requires local authorities, among other things, to provide advice, guidance and assistance for persons in their area who are subject to supervision or treatment by virtue of a court order, enactment or licence or of a referral to a local authority in the absence of prosecution, who are subject to a community service or probation order or who are released from detention), after paragraph (ab) there is inserted—
+
+> (ac) the provision of advice, guidance and assistance for persons who are in prison or subject to any other form of detention and who—
+>
+> (i) resided in their area immediately prior to such imprisonment or detention; or
+>
+> (ii) intend to reside in their area on release from such imprisonment or detention,
+>
+> and who on release from such imprisonment or detention, it appears to the local authority, will be required to be under supervision under any enactment or by the terms of an order or licence of the Scottish Ministers or of a condition or requirement imposed in pursuance of an enactment;
+
+.
+
+(3) After that subsection there is inserted—
+
+> (1A) A local authority may provide advice, guidance or assistance for any person who—
+>
+> (a) would fall to be provided for under paragraph (ac) of subsection (1) above but for the fact that it appears to the local authority that he will not be required to be under any form of supervision on release as mentioned in that paragraph; and
+>
+> (b) requests such advice, guidance or assistance.
+>
+> (1B) Where as respects any person more than one local authority is required by paragraph (ac) of subsection (1) to make such provision as is mentioned in that paragraph, they may agree between themselves that only one of them shall do so; and where there is such agreement the paragraph shall apply accordingly.
+
+.
+
+(4) After that section there is inserted—
+
+> **27ZA Advice, guidance and assistance to persons arrested or on whom sentence deferred**
+>
+> (1) It shall be a function of a local authority, if and to such extent as the Scottish Ministers so direct and in accordance with the direction, to provide, directly or indirectly, advice, guidance and assistance to any person (and in particular to any person who appears to the local authority to have dependency problems)—
+>
+> (a) who is arrested and detained in police custody in their area, but only during the period of such detention; or
+>
+> (b) on whom sentence is deferred under section 202(1) of the 1995 Act, but only during the period of deferment and while that person is in their area.
+>
+> (2) The function mentioned in subsection (1)(a) above may continue to be exercised by the local authority while the person is in their area for a period not exceeding 12 months from the date of his release from police custody.
+>
+> (3) In subsection (1) above, “dependency problems” means problems relating to a dependency on drugs, alcohol or some other substance.
+
+.
+
+(5) In paragraph (a) of section 27A(1) (which enables the Scottish Ministers to make grants to a local authority in respect of expenditure incurred by the authority for the purposes mentioned in section 27(1)), after the words “27(1)” there is inserted “ or 27ZA ”.
+
+### 72 Grants to local authorities discharging certain functions jointly
+
+In section 27A of the Social Work (Scotland) Act 1968 (which enables the Scottish Ministers to make grants to a local authority in respect of expenditure incurred by the authority for purposes connected with the provision of reports in relation to offenders and with the supervision and care of certain persons subject to supervision or treatment by virtue of court order, enactment or licence or of referral to a local authority in the absence of prosecution), after subsection (1) there is inserted—
+
+> (1A) In a case where two or more local authorities are discharging any function mentioned in section 27(1) or 27ZA of this Act jointly, whether or not in accordance with arrangements made under section 56(5) of the Local Government (Scotland) Act 1973 (c. 65), the power of the Scottish Ministers to make grants under subsection (1) above in respect of expenditure incurred for the purposes mentioned in paragraph (a) of that subsection includes a power to make such grants, on such conditions as are mentioned in that subsection, to a local authority nominated by the local authorities from among their number.
+
+.
+
+## Part 12 — Miscellaneous and general
+
+### Miscellaneous
+
+#### 73 Public defence
+
+In section 28A of the Legal Aid (Scotland) Act 1986 (c. 47) (power of Scottish Legal Aid Board directly to employ solicitors to provide criminal legal assistance)—
+
+(a) subsections (2), (3) and (10) to (15) are repealed; and
+
+(b) [^F135]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F136]74 Offences aggravated by religious prejudice
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F137]75 Reintroduction of ranks of deputy chief constable and chief superintendent
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 76 Police custody and security officers
+
+[^F138]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F138]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In section 102(5) of the Criminal Justice and Public Order Act 1994 (c33) (compliance with warrants or orders), at the end there is added “ or by a police custody and security officer in the performance of functions prescribed under section 9(1A)(b) of the Police (Scotland) Act 1967 (c. 77) ”.
+
+(11) In section 307(1) of the 1995 Act (interpretation), in paragraph (c) of the definition of “officer of law”—
+
+(a) after the word “employed” there is inserted “ or appointed ”;
+
+(b) after the words “and who” there is inserted “ either ”; and
+
+(c) at the end there is added “ or is a police custody and security officer ”.
+
+#### 77 Wildlife offences
+
+Schedule 3 to this Act, which contains amendments to the Wildlife and Countryside Act 1981 (c. 69) relating to penalties for, and powers of arrest as regards, offences under Part I of that Act, has effect.
+
+#### 78 Disqualification from jury service
+
+(1) In Schedule 1 to the Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c. 55) (ineligibility for and disqualification and excusal from jury service), in Part II, after paragraph (b) there is inserted—
+
+> (bb) persons who have been convicted of an offence if, in respect of the conviction, one or more of the following orders was made—
+>
+> (i) a probation order under section 228(1) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (section 247 of that Act being disregarded for the purposes of this head);
+>
+> (ii) a drug treatment and testing order under section 234B(2) of that Act;
+>
+> (iii) a community service order under section 238(1) of that Act;
+>
+> (iv) a restriction of liberty order under section 245A(1) of that Act;
+>
+> (v) a community order as defined by section 33(1) of the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6);
+>
+> (vi) a community order as defined by article 2(2) of the Criminal Justice (Northern Ireland) Order 1996 (SI 1996/3160 (N.I.24));
+>
+> (vii) a drug treatment and testing order under article 8(2) of the Criminal Justice (Northern Ireland) Order 1998 (SI 1998/2839 (N.I.20)),
+>
+> except where they are rehabilitated persons for the purposes of the Rehabilitation of Offenders Act 1974 (c. 53);
+
+.
+
+(2) Subject to subsection (3), the insertion made by subsection (1) has effect even in relation to a case where the probation order, drug treatment and testing order, community service order, restriction of liberty order or community order is made before the date on which subsection (1) is brought into force.
+
+(3) A person—
+
+(a) cited under section 85(4) of the 1995 Act (citation of jurors); or
+
+(b) summoned by virtue of section 12 of the Court of Session Act 1988 (c. 36) (summoning of jury),
+
+before that date is not, by virtue of subsection (1), excused from attending in compliance with the citation or disqualified from serving as a juror at the sitting, or trial, in question.
+
+#### 79 Separation of jury after retiral
+
+It shall no longer be mandatory for the period during which a jury, after retiring to consider their verdict, are enclosed to be continuous; and accordingly, in section 99 of the 1995 Act (seclusion of jury to consider verdict)—
+
+(a) in subsection (1), for the word “after” there is substituted “ while ”;
+
+(b) in subsection (2), for the words “until the jury” there is substituted “ while the jury are enclosed and until they ”;
+
+(c) in subsection (4)(b), after the word “and” there is inserted “ , unless under subsection (7) below the court permits them to separate, ”; and
+
+(d) at the end there is added—
+
+> (7) The court may, if it thinks fit, permit the jury to separate even after they have retired to consider their verdict.
+
+.
+
+#### [^F139]80 Television link from court to prison or other place of detention
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 81 Warrants issued in Northern Ireland for search of premises in Scotland
+
+(1) Where a warrant issued by a magistrate or county court judge in Northern Ireland for the search of premises in Scotland is duly endorsed by a sheriff or justice of the peace in whose jurisdiction the warrant purports to authorise search, the warrant has effect as if granted by the sheriff or, as the case may be, justice of the peace.
+
+(2) The reference in subsection (1) to the warrant being duly endorsed is to its being endorsed in the manner specified in subsection (1) of section 4 of the Summary Jurisdiction (Process) Act 1881 (c. 24) as if it were a process mentioned in that subsection.
+
+#### 82 Use of electronic communications or electronic storage in connection with warrants to search
+
+(1) This section, which is without prejudice to section 8 of the Electronic Communications Act 2000 (c. 7) (power to modify legislation), applies to warrants to search granted under section 134(1) of the 1995 Act (that is to say, where incidental to proceedings by complaint or although no subsequent proceedings by complaint may follow).
+
+(2) Subject to subsections (1) and (4), the Scottish Ministers may, in relation to warrants to which this section applies, by order modify—
+
+(a) any rule of law; or
+
+(b) the practice and procedure in relation to criminal proceedings,
+
+in such manner as they think fit so as to authorise or facilitate the use of electronic communications or electronic storage (instead of other forms of communication or storage) for any purpose mentioned in subsection (3).
+
+(3) Those purposes are (in relation to the rule of law or the practice and procedure) the purposes mentioned (in relation to the provisions which may be modified under subsection (1) of section 8 of that Act of 2000) in any of paragraphs (a) to (f) of subsection (2) of that section.
+
+(4) The Scottish Ministers are not to make an order under subsection (2) authorising the use of electronic communications or electronic storage for any purpose unless they consider that the authorisation is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications or electronic storage than in other cases.
+
+(5) Subsections (4) to (6) and (8) of section 8 and (5) and (6) of section 9 of that Act of 2000 apply in relation to an order made under subsection (2) as they apply in relation to an order made under subsection (1) of the said section 8.
+
+(6) Expressions used in this section and in that Act of 2000 have the same meanings in this section as in that Act.
+
+#### 83 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+#### 84 Transitional provisions etc.
+
+(1) The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes, or in consequence, of this Act or of any order made under this Act.
+
+(2) An order under subsection (1) above may amend or repeal any enactment (including any provision of this Act).
+
+#### 85 Minor and consequential amendments
+
+Schedule 4 to this Act, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
+
+#### 86 Repeals
+
+The enactments mentioned in schedule 5 to this Act are repealed to the extent mentioned in the second column of that schedule.
+
+#### 87 Interpretation
+
+(1) In this Act—
+
+- “the 1989 Act”means the Prisons (Scotland) Act 1989 (c. 45);
+- “the 1993 Act”means the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9);
+- “the 1995 Act”means the Criminal Procedure (Scotland) Act 1995 (c. 46); and
+- “prescribed”, except in [[^F141]sections 16ZA(2)(a), 16D(2)(a), 17DA(2)(a) and] 21(4), means prescribed by order made by the Scottish Ministers.
+
+(2) Any expression used in this Act and in the 1995 Act is, unless the context requires otherwise, to be construed in accordance with section 307 of that Act (interpretation).
+
+#### 88 Orders
+
+(1) Any power of the Scottish Ministers to make orders or regulations under this Act is exercisable by statutory instrument; and subject to subsection (2) a statutory instrument containing any such order or regulations, other than an order under section 89(2), is subject to annulment in pursuance of a resolution of the Parliament.
+
+(2) A statutory instrument containing an order under section—
+
+(a) 6(1)(b), 11(1), 14(1) [[^F142]or (2)], 14(12) (including as applied to section 16(5)), 16(4) [[^F143], 18B] or 42(5); or
+
+(b) [[^F144]14(13) or] 84 which amends or repeals any part of an Act,
+
+is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+#### 89 Short title and commencement
+
+(1) This Act may be cited as the Criminal Justice (Scotland) Act 2003.
+
+(2) With the exception of—
+
+(a) this section;
+
+(b) section 77 and schedule 3;
+
+(c) section 84;
+
+(d) in so far as relating to the Wildlife and Countryside Act 1981 (c. 69), section 86 and schedule 5;
+
+(e) section 87; and
+
+(f) section 88,
+
+this Act comes into force on such day as the Scottish Ministers may by order appoint.
+
+(3) Different days may be so appointed for different provisions and for different purposes.
+
+## SCHEDULE 1 — Order for lifelong restriction: modification of enactments
+
+*(introduced by section 1(2))*
+
+**1** (1) The 1993 Act is amended in accordance with this paragraph.
+
+(2) In section 2 (duty to release discretionary life prisoners)—
+
+(a) in subsection (1), after paragraph (aa) there is inserted
+
+> or
+>
+> (ab) who is subject to an order for lifelong restriction in respect of an offence,
+
+;
+
+(b) in subsection (2)(aa)—
+
+(i) after the words “paragraph (a)” there is inserted “ or (ab) ”; and
+
+(ii) in sub-paragraph (i), after the word “life” there is inserted “ , or as the case may be not made the order for lifelong restriction, ”;
+
+(c) in subsection (3), after the words “subsection (1) above” there is inserted “ or makes an order for lifelong restriction ”;
+
+(d) after subsection (9) there is added—
+
+> (10) In subsection (9) above, the reference to “sentences of imprisonment for life” is to be construed as including a reference to any sentence constituted by an order for lifelong restriction.
+
+.
+
+(3) In section 27(1) (interpretation)—
+
+(a) in the definition of “life prisoner”, at the end there is added “ or in respect of whom there has been made an order for lifelong restriction ”; and
+
+(b) the following definitions are inserted at the appropriate places—
+
+> - “order for lifelong restriction”means an order under section 210F(1) of the Criminal Procedure (Scotland) Act 1995 (c. 46);
+
+> “risk management plan”shall be construed in accordance with section 6(1) of the Criminal Justice (Scotland) Act 2003 (asp 7);
+
+.
+
+**2** (1) The 1995 Act is amended in accordance with this paragraph.
+
+(2) In section 69 (notice of previous convictions)—
+
+(a) after subsection (4) there is inserted—
+
+> (4A) A notice served under subsection (2) or (4) above shall include any details which the prosecutor proposes to provide under section 101(3A) of this Act; and subsection (3) above shall apply in relation to intimation objecting to the provision of such details, on the grounds that they do not apply to the accused or are otherwise inadmissible, as it applies in relation to intimation objecting to a conviction.
+
+; and
+
+(b) in subsection (5), after the word “section” there is inserted “ , or to the provision of such details as are, by virtue of subsection (4A) above, included in a notice so served, ”.
+
+(3) In section 101 (previous convictions: solemn proceedings)—
+
+(a) in subsection (3), the existing words “for sentence” become paragraph (a); and after that paragraph there is inserted the word “ ; or ” and the following paragraph—
+
+> (b) for a risk assessment order (or the court at its own instance proposes to make such an order)
+
+; and
+
+(b) after that subsection there is inserted—
+
+> (3A) Where, under paragraph (b) of subsection (3) above, the prosecutor lays previous convictions before the judge, he shall also provide the judge with such details regarding the offences in question as are available to him.
+
+.
+
+(4) In section 106(1) (right of appeal), after paragraph (b) there is inserted—
+
+> (ba) against the making of an order for lifelong restriction;
+
+.
+
+(5) In section 195(1) (sheriff’s duty in certain circumstances to remit convicted person to High Court for sentence), after—
+
+(a) the word “inadequate” there is inserted “ or it appears to him that the criteria mentioned in section 210E of this Act (that is to say, the risk criteria) may be met ”; and
+
+(b) the words “so that” there is inserted “ , in either case, ”.
+
+(6) In section 204(2A) (restrictions on passing sentence of imprisonment or detention), after the word “court” there is inserted “ , unless it has made a risk assessment order in respect of the person, ”.
+
+(7) In section 307(1) (interpretation), the following definitions are inserted at the appropriate places—
+
+> - “order for lifelong restriction”means an order under section 210F(1) of this Act;
+
+> “risk assessment order”means an order under section 210B(2) of this Act;
+
+> “risk assessment report”has the meaning given by section 210B(3)(a) of this Act;
+
+.
+
+## SCHEDULE 2 — Constitution etc. of the Risk Management Authority
+
+*(introduced by section 3(3))*
+
+### Status
+
+**1** The Risk Management Authority (“the Authority”) is a body corporate.
+
+**2** The Authority—
+
+(a) is not a servant or agent of the Crown; and
+
+(b) has no status, immunity or privilege of the Crown,
+
+and its property is not to be regarded as property of, or held on behalf of, the Crown.
+
+**3** (1) The Authority consists of such members (including a convener) as the Scottish Ministers may appoint.
+
+(2) Each member—
+
+(a) is appointed for such period, not exceeding 5 years, as is specified in the terms of the appointment;
+
+(b) holds and vacates office in accordance with those terms;
+
+(c) is eligible for reappointment but may not hold office for a period exceeding 10 years in aggregate;
+
+(d) may, by written notice to the Scottish Ministers, resign membership.
+
+(3) The Scottish Ministers may remove a member from office if they are satisfied that the member—
+
+(a) without reasonable excuse, has not complied with the terms of the appointment;
+
+(b) is otherwise unable or unfit to discharge the functions of member or is unsuitable to continue as a member.
+
+**4** [[^F145](1) Subject to any order under subsection (1) of section 11 of this Act, the Authority may—
+
+(a) make provision for the appointment and constitution of committees and sub-committees;
+
+(b) make provision for the exercise of any of its functions by any of its committees, sub-committees, members or employees; and
+
+(c) regulate its own procedure and the procedure of—
+
+(i) any of its committees or sub-committees (including any such committee as is mentioned in paragraph (a) or (b) of subsection (1A) of that section); or
+
+(ii) any member or employee to whom a function has been delegated under head (b) above.
+
+(1A) Delegation under sub-paragraph (1)(b) is to be without prejudice to the power of the Authority itself to exercise the function in question.
+
+(1B) Without prejudice to the generality of head (c) of sub-paragraph (1), regulation under that head may include provision as to any quorum.]
+
+(2) The validity of any proceedings of the Authority [[^F146] or of any of its committees or sub-committees or of any of its members by whom functions are exercised by virtue of sub-paragraph (1)(b)] is not affected by any vacancy in membership nor any defect in the appointment of a member.
+
+**5** (1) The Authority may, with the approval of the Scottish Ministers, pay—
+
+(a) such remuneration and allowances to its members; and
+
+(b) in respect of any office held by a person as member—
+
+(i) such pension, allowance or gratuity to or in respect of the person; and
+
+(ii) such contribution or other payment towards provision of such pension, allowance or gratuity,
+
+as it may with such approval determine.
+
+(2) Where a person ceases to be a member otherwise than on expiry of term of office, the Authority may, exceptionally and with the approval of the Scottish Ministers, pay to the person such amount by way of compensation for loss of office as it may with such approval determine.
+
+**6** (1) The Authority may, with the approval of the Scottish Ministers, appoint such employees as it considers are required on such terms and conditions as it may with such approval determine.
+
+(2) The authority is to—
+
+(a) pay such pensions, allowances and gratuities to or in respect of its employees or former employees;
+
+(b) make such payment towards provision of such pensions, allowances or gratuities; and
+
+(c) provide and maintain such schemes (whether contributory or not) for the payment of such pensions, allowances and gratuities,
+
+as it may with the approval of the Scottish Ministers determine.
+
+(3) References in sub-paragraph (2) to pensions, allowances or gratuities include their provision by way of compensation for loss of office or employment.
+
+## SCHEDULE 3 — Wildlife offences
+
+*(introduced by section 77)*
+
+**1** The Wildlife and Countryside Act 1981 (c. 69) is amended in accordance with the following paragraphs.
+
+**2** In each of sections 6(8) (regulations as to dealing in dead wild birds etc. after having been convicted of an offence under Part I of the Act) and 7(3) (keeping or possessing certain birds after having been so convicted), for paragraphs (a) and (b) there is substituted
+
+> within five years of his having been convicted of—
+>
+> (a) an offence under this Part (being an offence relating to the protection of birds or other animals); or
+>
+> (b) any other offence involving their ill-treatment,
+
+.
+
+**3** In section 7(4) (offence relating to disposal etc. of certain birds), for paragraphs (a) and (b) there is substituted “ within five years of that person’s having been convicted of such an offence as is mentioned in subsection (3), ”.
+
+**4** In section 19 (enforcement)—
+
+(a) in subsection (1)(c), the words “if he fails to give his name and address to the constable’s satisfaction” are repealed; and
+
+(b) in subsection (3), for paragraphs (a) and (b) there is substituted “ an offence under this Part ”.
+
+**5** In section 20 (summary prosecutions)—
+
+(a) subsection (1) is repealed; and
+
+(b) in subsection (2), for the words “to which this section applies” there is substituted “ under this Part ”.
+
+**6** In section 21 (penalties, forfeitures etc.)—
+
+(a) for subsection (1) there is substituted—
+
+> (1) Subject to subsection (5), a person guilty of an offence under any of sections 1 to 13 or section 17 shall be liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+;
+
+(b) subsections (2) and (3) are repealed;
+
+(c) in subsection (4), for paragraphs (a) and (b) there is substituted—
+
+> (a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both;
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or to both.
+
+; and
+
+(d) in subsection (5), the words “(2) or (3)” are repealed.
+
+## SCHEDULE 4 — Minor and consequential amendments
+
+*(introduced by section 85)*
+
+**1** Section 42 of the 1989 Act (exercise of powers to make rules, orders, etc.) is amended for the purposes of the existing provisions, within the meaning of Schedule 6 to the 1993 Act, as follows—
+
+(a) in subsection (1), for the words “section 22(1A) or (2), 28(1A) or 37(1)” there is substituted “ section 22(2) or 37(1) ”; and
+
+(b) in subsection (4), for the words “section 22(1A) or (2), 28(1A) of this Act” there is substituted “ section 22(2) of this Act ”.
+
+**2** (1) The 1993 Act is amended as follows.
+
+(2) In section 1A (application of that Act to persons serving more than one sentence), in paragraph (c)(ii), after the word “specified” there is inserted “ under ”.
+
+(3) In section 10 (life prisoners transferred to Scotland)—
+
+(a) in subsection (2B), after paragraph (b) there are added the words “ and in such a case subsection (3) below applies ”; and
+
+(b) in subsection (3)—
+
+(i) after the word “applies” there is inserted “ (whether by virtue of subsection (2) above or of subsection (2B) above) ”; and
+
+(ii) at the end, there are added the words “ or as the case may be in the certificate or direction referred to in subsection (2D) above ”.
+
+(4) In section 45(3) (exercise of powers to make rules and orders), the words “or (6), 20(3)” are repealed.
+
+**3** (1) The 1995 Act is amended as follows.
+
+(2) In each of sections 17A(1)(a) (right of person accused of sexual offence to be told about restriction on conduct of defence: arrest), 35(4A)(a) (judicial examination of accused), 66(6A)(a)(i) (citation and service of indictment), 140(2A)(a) (citation of accused in summary prosecution), 144(3A)(a) (procedure at first summary diet) and 146(3A)(a) (procedure in summary prosecution following not guilty plea), after the word “defence” there is added “ and any proof ordered as is mentioned in section 288C(1) of this Act ”.
+
+(3) In section 220(1) (reduction in term of imprisonment by part payment of fine), after the word “imprisonment”, where it first appears, there is inserted “ imposed under section 219 of this Act in respect of the fine ”.
+
+**4** In Schedule 1 to the Crime and Punishment (Scotland) Act 1997, in paragraph 21(29), for the words “(5)” and “(6)” there is substituted “ (6) ” and “ (7) ” respectively.
+
+**5** In the schedule to the Convention Rights (Compliance) (Scotland) Act 2001—
+
+(a) in paragraph 16, for the words “transferred life prisoner” there is substituted “ existing life prisoner ”; and
+
+(b) in paragraph 19, for the word “subsection” there is substituted “ paragraph ”.
+
+## SCHEDULE 5 — Repeals
+
+*(introduced by section 86)*
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Wildlife and Countryside Act 1981 (c. 69) | In section 1, subsection (4); and in subsection (5) the words “and liable to a special penalty”. In section 3(1), paragraph (c). In section 5(1), the words “and be liable to a special penalty”. Section 6(4). In section 7(1), the words “and be liable to a special penalty”. In section 8, in each of subsections (1) and (3), the words “and be liable to a special penalty”. |
+| Prisons (Scotland) Act 1989 (c. 45) | Section 23. |
+| Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9) | In section 2(1), the words “subject to subsection (9)(a) below and”. |
+| Criminal Justice and Public Order Act 1994 (c. 33) | Section 134(4). |
+| Crime and Punishment (Scotland) Act 1997 (c. 48) | Section 16(4). |
+
+---
+
+[^F1]: Words in s. 1 (in the inserted s. 210B(2)(a)) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(2)(a)
+[^F2]: Words in s. 1 (in the inserted s. 210D(1)(a)) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(2)(b)(i)
+[^F3]: Words in s. 1 (in the inserted s. 210D(2)) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(2)(b)(ii)
+[^F4]: Words in s. 1 (in the inserted s. 210G(1)) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(2)(c)
+[^F5]: Words in s. 3(2)(b) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 7 para. 71; S.S.I. 2012/160, art. 3, sch.
+[^F6]: Words in s. 7(2) repealed (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 3, Sch. 2
+[^F7]: Words in s. 7(2)(a) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(3)(a)(i)
+[^F8]: S. 7(2)(c) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(3)(a)(ii)
+[^F9]: Words in s. 7(2)(d) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(3)(a)(iii)
+[^F10]: Words in s. 7(4) substituted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), arts. 1, 2, Sch. 1 para. 34(3)(b)
+[^F11]: S. 11(1A) inserted (8.12.2005) by Management of Offenders etc. (Scotland) Act 2005 (asp 14), ss. 13(2), 24
+[^F12]: Words in s. 14(5)(a) inserted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(2)(a)(i), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F13]: Words in s. 14(5)(a) inserted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(2)(a)(ii), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F14]: Words in s. 14(5)(b) inserted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(2)(b)(i), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F15]: Words in s. 14(5)(b) inserted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(2)(b)(ii), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F16]: Words in s. 14(6)(a)(ii) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 12(a)
+[^F17]: Words in s. 14(6)(b)(i) inserted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(3)(a), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F18]: Word in s. 14(6)(b) repealed (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(3)(b), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F19]: S. 14(6)(b)(ii) repealed (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(3)(c), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F20]: Words in s. 14(6)(b) repealed (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(3)(d), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F21]: Word in s. 14(8) substituted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(4)(a), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F22]: Words in s. 14(8) repealed (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(4)(b), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F23]: Words in s. 14(10)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(2), 263, Sch. 28 para. 67(2); S.S.I. 2005/604, art. 2(c)
+[^F24]: S. 14(11) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(2), 263, Sch. 28 para. 67(3); S.S.I. 2005/604, art. 2(c)
+[^F25]: S. 14(11A)-(11E) inserted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(5), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F26]: Words in s. 14(12)(a) substituted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(6)(a), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F27]: Words in s. 14(12)(a) substituted (13.8.2014 for specified purposes, 10.2.2021 in so far as not already in force) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(6)(b), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3); S.S.I. 2020/405, art. 2(a)
+[^F28]: S. 14(13)-(16) inserted (10.2.2021) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(7), 34; S.S.I. 2020/405, art. 2(a)
+[^F29]: S. 14(15)(16) substituted (18.3.2021) by The Criminal Justice (Scotland) Act 2003 (Supplemental Provisions) Order 2021 (S.S.I. 2021/150), arts. 1(2), 2(2)
+[^F30]: S. 15A repealed (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 89, 206(1); S.S.I. 2011/178, art. 2, sch.
+[^F31]: Words in s. 16(1) substituted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 27(a), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F32]: Words in s. 16(1)(a) substituted (15.5.2008) by The Victim Notification Scheme (Scotland) Order 2008 (S.S.I. 2008/185), art. 2(a)
+[^F33]: S. 16(3)(aa) inserted (temp.) (4.5.2020 at 10.15 a.m.) by virtue of The Criminal Justice (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/137), regs. 1(1), 2
+[^F34]: S. 16(3)(d) substituted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 27(b), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F35]: Word in s. 16(3)(e) substituted (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(2)(a)(i), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F36]: Words in s. 16(3)(e) inserted (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(2)(a)(ii), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F37]: S. 16(f) and preceding word inserted (15.5.2008) by The Victim Notification Scheme (Scotland) Order 2008 (S.S.I. 2008/185), art. 2(b)(ii)
+[^F38]: Word in s. 16(3) repealed (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(2)(b), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F39]: Word in s. 16(3)(f) substituted (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(2)(c)(i), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F40]: Words in s. 16(3)(f) inserted (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(2)(c)(ii), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F41]: S. 16(3)(g) inserted (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(2)(d), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F42]: Word in s. 16(4) repealed (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(3)(a), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F43]: S. 16(4)(c) and word inserted (5.5.2017 for specified purposes, 15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 54(3)(b), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(a)(2)(a) (with arts. 3, 4)
+[^F44]: Words in s. 16(5)(a) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(a)(i), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F45]: Words in s. 16(5)(a) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(a)(ii), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F46]: Words in s. 16(5)(b)(i) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(c), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F47]: Words in s. 16(5)(b)(ii) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(b)(i), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F48]: Words in s. 16(5)(b)(ii) repealed (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(b)(ii), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F49]: Words in s. 16(5)(b)(ii) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(b)(iii), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F50]: Words in s. 16(5)(b)(ii) substituted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(b)(iv), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F51]: Words in s. 16(5)(b) repealed (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(9)(d), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F52]: Words in s. 16(6) substituted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(10)(a), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F53]: Words in s. 16(6) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(10)(b), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F54]: S. 16(7) repealed (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(11), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F55]: Words in s. 16(8) substituted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(12), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F56]: Words in s. 16(8) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 12(b)
+[^F57]: S. 16(9) added (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(13), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F58]: S. 16ZA inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(2), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F59]: Ss. 16A-16C inserted (15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 55(2), 61(2); S.S.I. 2017/234, art. 2(1)(b)(2)(a)(3) (with arts. 5-8)
+[^F60]: S. 16D inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(3), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F61]: S. 17(1)(a): words in s. 17(1) renumbered as s. 17(1)(a) (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 28(a)(i), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F62]: S. 17(1)(b) added (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 28(a)(ii), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F63]: Word in s. 17(4) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 28(b)(i), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F64]: Words in s. 17(4) added (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 28(b)(ii), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F65]: S. 17(10A) inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 28(c), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F66]: S. 17(12)(b) and word repealed (19.3.2026) by Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12), ss. 35(3), 116(2); S.S.I. 2026/120, reg. 2, sch.
+[^F67]: S. 17(13) added (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 28(d), 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F68]: S. 17ZA inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(4), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F69]: S. 17ZA(5)(b) repealed (19.3.2026) by Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12), ss. 35(4), 116(2); S.S.I. 2026/120, reg. 2, sch.
+[^F70]: S. 17A inserted (13.8.2014) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 29, 34; S.S.I. 2014/210, art. 2, sch. (with art. 3)
+[^F71]: S. 17A(1) substituted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(5)(a), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F72]: Words in s. 17A(4)(b) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(5)(b), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F73]: Ss. 17B-17D inserted (15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 56(2), 61(2); S.S.I. 2017/234, art. 2(1)(c)(2)(a)
+[^F74]: S. 17DA inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(6), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F75]: S. 17E inserted (15.9.2017) by Mental Health (Scotland) Act 2015 (asp 9), ss. 57(2), 61(2); S.S.I. 2017/234, art. 2(1)(d)
+[^F76]: Words in s. 17E(1) substituted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(7)(a)(i), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F77]: Words in s. 17E(1) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(7)(a)(ii), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F78]: Words in s. 17E(3) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(7)(b), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F79]: Words in s. 17E(5) substituted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(7)(c), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F80]: S. 17E(6) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(7)(d), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F81]: S. 18A inserted (5.5.2017 for specified purposes, 15.9.2017 in so far as not already in force) by Mental Health (Scotland) Act 2015 (asp 9), ss. 58(2), 61(2); S.S.I. 2017/126, art. 2, sch.; S.S.I. 2017/234, art. 2(1)(e)
+[^F82]: Word in s. 18A(3) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(8)(a)(i), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F83]: Words in s. 18A(3)(b) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(8)(a)(ii), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F84]: S. 18A(5) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(8)(b), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F85]: S. 18B inserted (30.9.2017) by Mental Health (Scotland) Act 2015 (asp 9), ss. 59(2), 61(2); S.S.I. 2017/234, art. 2(2)(b)
+[^F86]: Words in s. 18B(1)(a) substituted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(9)(a), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F87]: Words in s. 18B(2)(a) substituted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(9)(b), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F88]: Word in s. 18B(3) inserted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(9)(c), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F89]: S. 19(2)(c) repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), ss. 61(1), 62(2), Sch. 6; S.S.I. 2010/357, art. 2(a)
+[^F90]: Words in s. 21(2)(b) substituted (1.7.2009) by The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182), arts. 1(9), 4(2), Sch. 5 para. 11; S.I. 2009/1357, art. 2(1)(d)
+[^F91]: Words in s. 21(2)(b) substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 48(c); S.I. 2019/1436, reg. 2(s)
+[^F92]: S. 21(9)(10) repealed (temp.) (7.4.2020) by virtue of Coronavirus (Scotland) Act 2020 (asp 7), s. 17(1), sch. 4 para. 10(8) (with ss. 11-13)
+[^F93]: Words in s. 21(9) substituted (1.5.2004) by Sexual Offences Act 2003 (c. 42), ss. 139, 141(1), Sch. 6 para. 49; S.I. 2004/874, art. 2
+[^F94]: S. 22 repealed (17.12.2016) by Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12), s. 45(2), sch. para. 2 (with s. 44); S.S.I. 2016/385, reg. 2 (with reg. 3)
+[^F95]: S. 23(6)(7) repealed (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 64(4), 206; S.S.I. 2010/413, art. 2, Sch.
+[^F96]: S. 40 repealed (17.5.2022) by Management of Offenders (Scotland) Act 2019 (asp 14), s. 63(2), sch. 1 para. 9(2); S.S.I. 2022/94, reg. 2(2)(l) (with regs. 1(2), 3(6))
+[^F97]: S. 42(2) substituted (1.4.2016) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142), art. 1, sch. para. 3
+[^F98]: Words in s. 42(4) substituted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(a)(i); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F99]: Words in s. 42(4)(b) substituted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(a)(ii); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F100]: Words in s. 42(4) substituted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(a)(iii); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F101]: S. 42(6)(b) substituted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(b); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F102]: Words in s. 42(7) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(c)(i); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F103]: Word in s. 42(7) substituted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(c)(ii); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F104]: S. 42(9) substituted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(d); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F105]: Words in s. 42(10) inserted (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(e)(i); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F106]: Words in s. 42(10) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(e)(ii); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F107]: S. 42(11)(a)(b) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(2)(f); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F108]: S. 44 repealed (28.10.2004) by Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), ss. 144(2), 145(2), Sch. 5; S.S.I. 2004/420, art. 3, Sch. 1
+[^F109]: S. 45 repealed (28.10.2004) by Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), ss. 144(2), 145(2), Sch. 5; S.S.I. 2004/420, art. 3, Sch. 1
+[^F110]: S. 46 repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(3); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F111]: S. 50(1)(2) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(4); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F112]: S. 50(4) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(4); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F113]: S. 51 repealed (7.11.2020) by Children (Equal Protection from Assault) (Scotland) Act 2019 (asp 16), ss. 1(2), 4(2) (with s. 3)
+[^F114]: S. 53 repealed (29.11.2019) by Age of Criminal Responsibility (Scotland) Act 2019 (asp 7), ss. 27(3), 84(2); S.S.I. 2019/349, reg. 2(b)
+[^F115]: Words in s. 56(1) inserted (1.8.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 82(2)(a), 206(1); S.S.I. 2011/178, art. 2, sch. (with art. 9)
+[^F116]: Words in s. 56(2) substituted (1.8.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 82(2)(b), 206(1); S.S.I. 2011/178, art. 2, sch. (with art. 9)
+[^F117]: Word in s. 56(2)(a) omitted (16.9.2011) by virtue of The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298), art. 1(3), Sch. para. 2(a)(i) (with art. 4(1)(4))
+[^F118]: S. 56(2)(c)-(d) inserted (16.9.2011) by The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298), art. 1(3), Sch. para. 2(a)(ii) (with art. 4(1)(4))
+[^F119]: Words in s. 56(3) inserted (1.8.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 82(2)(c), 206(1); S.S.I. 2011/178, art. 2, sch. (with art. 9)
+[^F120]: Words in s. 56(4)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 21(2)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F121]: Words in s. 56(4)(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 21(2)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F122]: Words in s. 56(4)(b)(i) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 21(2)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F123]: Words in s. 56(5)(b) repealed (1.8.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 82(2)(d), 206(1); S.S.I. 2011/178, art. 2, sch. (with art. 9)
+[^F124]: Words in s. 56(6)(a) substituted (1.8.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 82(2)(e), 206(1); S.S.I. 2011/178, art. 2, sch. (with art. 9)
+[^F125]: Words in s. 56(7)(a) repealed (1.8.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 82(2)(f), 206(1); S.S.I. 2011/178, art. 2, sch. (with art. 9)
+[^F126]: S. 56(7A) inserted (1.8.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 82(2)(g), 206(1); S.S.I. 2011/178, art. 2, sch. (with art. 9)
+[^F127]: Word in s. 56(8) omitted (16.9.2011) by virtue of The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298), art. 1(3), Sch. para. 2(b)(i) (with art. 4(1)(4))
+[^F128]: Words in s. 56(8) inserted (16.9.2011) by The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298), art. 1(3), Sch. para. 2(b)(ii) (with art. 4(1)(4))
+[^F129]: S. 60(1)(a)(b) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(5)(a); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F130]: S. 60(1)(e)(f) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(5)(a); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F131]: S. 60(3)(4) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 47(5)(b); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F132]: S. 68 repealed (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 2 (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F133]: S. 69 repealed (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 2 (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F134]: S. 70(3) repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174, 178, Sch. 17 pt. 2; S.S.I. 2006/166, art. 2(1)(d)(ii)
+[^F135]: S. 73(b) repealed (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 112(2), 206; S.S.I. 2010/413, art. 2, Sch.
+[^F136]: S. 74 repealed (1.4.2024) by Hate Crime and Public Order (Scotland) Act 2021 (asp 14), s. 21(2), sch. 2 para. 4; S.S.I. 2024/82, reg. 2 (with reg. 3)
+[^F137]: S. 75 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F138]: S. 76(1)-(9) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F139]: S. 80 repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), ss. 110(2)(b), 117(2); S.S.I. 2017/345, art. 3, sch. (with art. 10)
+[^F140]: S. 83 repealed (28.10.2004) by Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), ss. 144(2), 145(2), Sch. 5; S.S.I. 2004/420, art. 3, Sch. 1
+[^F141]: Words in s. 87(1) substituted (26.5.2024) by Bail and Release from Custody (Scotland) Act 2023 (asp 4), ss. 14(10), 18(2); S.S.I. 2024/145, reg. 2(1)
+[^F142]: Words in s. 88(2)(a) inserted (18.3.2021) by The Criminal Justice (Scotland) Act 2003 (Supplemental Provisions) Order 2021 (S.S.I. 2021/150), arts. 1(2), 2(3)
+[^F143]: Word in s. 88 inserted (30.9.2017) by Mental Health (Scotland) Act 2015 (asp 9), ss. 59(3), 61(2); S.S.I. 2017/234, art. 2(2)(b)
+[^F144]: Words in s. 88(2)(b) inserted (10.2.2021) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 23(14), 34; S.S.I. 2020/405, art. 2(a)
+[^F145]: Sch. 2 para. 4(1)-(1B) substituted (8.12.2005) for Sch. 2 para. 4(1) by Management of Offenders etc. (Scotland) Act 2005 (asp 14), ss. 13(3)(a), 24
+[^F146]: Words in Sch. 2 para. 4(2) inserted (8.12.2005) by Management of Offenders etc. (Scotland) Act 2005 (asp 14), ss. 13(3)(b), 24

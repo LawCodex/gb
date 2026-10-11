@@ -1,0 +1,3862 @@
+---
+title: "Police, Public Order and Criminal Justice (Scotland) Act 2006"
+identifier: "asp/2006/10"
+citation: "2006 asp 10"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2006-07-04
+last_amended: 2025-06-25
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2006/10"
+source_modified: 2025-07-01
+retrieved: 2026-10-11
+---
+
+# Police, Public Order and Criminal Justice (Scotland) Act 2006
+
+**2006 asp 10**
+
+An Act of the Scottish Parliament to make further provision about the police; to make further provision about public order and safety; to make further provision about criminal justice; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 25th May 2006 and received Royal Assent on the fourth day of July said year
+
+## Part 1 — Police
+
+### Chapter 1 — The Scottish Police Services Authority
+
+#### The Scottish Police Services Authority
+
+##### [^F1]1 Establishment of the Scottish Police Services Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]2 Duty to establish and maintain the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]3 Duty to provide the police support services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]4 Strategic priorities of the Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]5 Objectives of the Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]6 Annual plans of the Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]7 Annual reports of the Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]8 Provision of information to the Scottish Ministers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]9 Liability for wrongful acts of certain persons seconded to the Authority
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]10 Grants
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]11 Charges by the Authority and other receipts
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Scottish Crime and Drug Enforcement Agency
+
+##### [^F1]12 Members of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]13 Strategic priorities of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]14 Annual plans of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]15 Annual reports of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]16 General functions of Director General of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]17 Powers of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]18 Scottish Ministers' power to modify section 17
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]19 Disclosure of information by the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]20 Disclosure of information to the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]21 Direction by Director General of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]22 Liability for wrongful acts of police members of the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]23 Regulations relating to the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The police support services
+
+##### [^F1]24 The police support services: modification by order
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]25 Use of the police support services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Inspections
+
+##### [^F1]26 Inspections of the Authority's services and the Agency
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]27 Inspections of the Authority at request of the Scottish Ministers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]28 Reports on inspections: powers of the Scottish Ministers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]29 Revision of inadequate action plan
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Miscellaneous and general
+
+##### [^F1]30 Directions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]31 Transfer of staff, property etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F1]32 Interpretation of Chapter 1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 2 — Complaints and misconduct
+
+#### [[^F2]The Police Investigations and Review Commissioner ]
+
+##### 33 [[^F3]The Police Investigations and Review Commissioner]
+
+(1) There is to be an officer known as the [[^F4]Police Investigations and Review Commissioner] (“the Commissioner”).
+
+(2) The Commissioner is to be an individual appointed by the Scottish Ministers.
+
+(3) Schedule 4 (which makes further provision about the Commissioner) has effect.
+
+##### 33A [[^F5]General functions of the Commissioner
+
+The Commissioner's general functions are—
+
+(a) to maintain, and to secure the maintenance by the Authority and the chief constable of, suitable arrangements for—
+
+(i) the handling of relevant complaints; and
+
+(ii) the examination of the handling of relevant complaints and the reconsideration of such complaints in accordance with sections 34 to 41;
+
+(b) where directed to do so by the appropriate prosecutor—
+
+(i) to investigate any circumstances in which there is an indication that a person [[^F6]who is, or has been, a person serving with the police may have committed an offence (regardless of when those circumstances occurred)];
+
+(ii) to investigate, on behalf of the relevant procurator fiscal, the circumstances of any death involving a person serving with the police which that procurator fiscal is required to investigate under section 1 of the [[^F7]Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 [[^F8], whether or not the circumstances occurred in the course of the person’s duty, employment or appointment]];
+
+(c) where requested to do so by the Authority or the chief constable, to investigate and report on certain serious incidents involving the police (see section 41B); and
+
+(d) to investigate other matters relating to the Authority or the Police Service where the Commissioner considers that it would be in the public interest to do so (see section 41C).]
+
+#### Supervision of complaints
+
+##### 34 [[^F9]Meaning of “relevant complaint”]
+
+(1) In this Chapter, “relevant complaint” means a complaint which is [[^F10]made,] given or sent by any of the persons mentioned in subsection (6) to the appropriate authority in relation to the complaint.
+
+(2) In subsection (1), “complaint” means a [[^F11]statement (whether oral, written or electronic)] expressing dissatisfaction about an act or omission—
+
+[[^F12](a) by the Authority;
+
+(b) by the Police Service; or]
+
+(f) by a person who, at the time of the act or omission, was a person serving with the police.
+
+[[^F13](2A) A “complaint” may relate to—
+
+(a) any action taken, or failed to be taken, by or on behalf of the subject of the complaint;
+
+(b) the standard of any service which the subject of the complaint has provided or failed to provide.]
+
+(3) But “ complaint ” does not include—
+
+(a) any statement made by a person serving with, or who has served with, the police, about the terms and conditions of that person's service with the police; or
+
+[[^F14](aa) any statement made by a person serving with the police about an act or omission mentioned in subsection (3A);]
+
+(b) a statement which consists of or includes an allegation of an act or omission which constitutes a crime.
+
+[[^F15](3A) An act or omission referred to in subsection (3)(aa) is one which—
+
+(a) took place in relation to, or adversely affected, the person in the person’s capacity as a person serving with the police, or
+
+(b) was witnessed by the person (whether or not in that capacity).]
+
+(4) An act or omission need not be one occurring in the course of a person's duty, employment or appointment (as the case may be) in order to fall within subsection (2)(f).
+
+(5) A complaint need not identify a person serving with the police who is the subject of the complaint in order to fall within subsection (2)(f).
+
+(6) The persons referred to in subsection (1) are—
+
+(a) a [[^F16]person] who claims to be the person in relation to whom the act or omission took place;
+
+(b) a [[^F16]person] not falling within paragraph (a) who claims to have been adversely affected by the act or omission;
+
+(c) a [[^F16]person] who claims to have witnessed the act or omission;
+
+(d) a person acting on behalf of a person falling within any of paragraphs (a) to (c).
+
+[^F17] 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 35 Examination of manner of handling of complaint
+
+(1) The Commissioner may, at the request of —
+
+(a) the person who made the complaint (“the complainer”); or
+
+(b) the appropriate authority in relation to the complaint,
+
+examine the manner in which a relevant complaint has been dealt with (such an examination being a “complaint handling review”).
+
+(2) The Commissioner may carry out a complaint handling review under subsection (1)(b) only if satisfied that the appropriate authority in relation to the complaint has taken reasonable steps to deal with the complaint.
+
+(3) On completion of a complaint handling review, the Commissioner must—
+
+(a) inform the persons mentioned in subsection (4) about—
+
+(i) the conclusions the Commissioner has drawn from the complaint handling review and the reasons for them;
+
+(ii) what action (if any) the Commissioner proposes to take in consequence of those conclusions;
+
+(b) draw up a report of the complaint handling review and the conclusions, reasons and proposed action referred to in paragraph (a) and send it to the appropriate authority in relation to the complaint[[^F18]; and
+
+(c) if the Commissioner considers it appropriate to do so, publish the report drawn up under paragraph (b) in such manner as the Commissioner considers appropriate.]
+
+(4) Those persons are—
+
+(a) the complainer; and
+
+(b) where the complaint is in respect of an act or omission by a person mentioned in section 34(2)(f) and identifies the person who is the subject of it, that person.
+
+(5) The duties imposed by subsection (3)(a) are subject to such exceptions as may be prescribed by regulations made by the Scottish Ministers; but they are to make regulations under this subsection only to the extent that they consider it necessary for the purpose of any of the following—
+
+(a) preventing the premature or inappropriate disclosure of information that is relevant to, or may be used in, any criminal proceedings or prospective criminal proceedings;
+
+(b) preventing the disclosure of information in any circumstances in which it has been determined in accordance with the regulations that its non-disclosure—
+
+(i) is in the interests of national security;
+
+(ii) is for the purposes of the prevention or detection of crime or the apprehension or prosecution of offenders;
+
+(iii) is justified on proportionality grounds; or
+
+(iv) is otherwise necessary in the public interest.
+
+(6) The non-disclosure of information is justified on proportionality grounds only if its disclosure would cause, directly or indirectly, an adverse effect which would be disproportionate to the benefits arising from its disclosure.
+
+(7) If, having completed a complaint handling review, the Commissioner is of the opinion that the complaint should be reconsidered, the Commissioner may give a direction requiring the reconsideration of the complaint (a “reconsideration direction”).
+
+(8) A reconsideration direction may be given—
+
+(a) to the appropriate authority in relation to the complaint; or
+
+(b) if the Commissioner thinks it more appropriate to do so, to [[^F19]the Authority where the appropriate authority is the chief constable],
+
+(the person to whom the direction is given being “the reconsidering authority”).
+
+(9) A reconsideration direction given under subsection (8)(b) must be accompanied by a copy of the report sent to the appropriate authority in relation to the complaint under subsection (3)(b).
+
+(10) A reconsideration direction may be given as respects so much of the complaint as has been, or is, the subject of [[^F20]procedures made by regulations made under section 48 of the Police and Fire Reform (Scotland) Act 2012 (asp 8) for dealing with constables whose standard of behaviour or performance is unsatisfactory] only in so far as it relates to the extent of compliance with the procedures established by virtue of that provision.
+
+(11) A reconsideration direction may (either or both)—
+
+(a) instruct that the reconsideration of the complaint is to have regard to such further information as may have become available (whether or not as a result of the complaint handling review) after the complaint was dealt with;
+
+(b) contain a requirement that reconsideration of the complaint is to take place under the supervision of the Commissioner (a “supervision requirement”).
+
+(12) In deciding whether a reconsideration direction should contain a supervision requirement, the Commissioner must have regard to—
+
+(a) the seriousness of the case; and
+
+(b) the public interest.
+
+(13) The Commissioner may at any time issue a direction varying a reconsideration direction by inserting or, as the case may be, deleting a supervision requirement.
+
+(14) Where a reconsideration direction is varied under subsection (13), the Commissioner may give—
+
+(a) the reconsidering authority; or
+
+(b) any person previously appointed to carry out the reconsideration,
+
+such directions as the Commissioner considers appropriate for the purpose of giving effect to the variation.
+
+##### 36 Duty of Commissioner not to proceed with certain complaint handling reviews
+
+(1) If it appears to the Commissioner (whether on an application by the appropriate authority in relation to the complaint or otherwise) that a complaint handling review is or would, if it took place, be one to which subsection [[^F21](1A) or] (2) applies, the Commissioner must discontinue or, as the case may be, not proceed with the review.
+
+[[^F22](1A) This subsection applies to a complaint handling review if—
+
+(a) it relates or, if it took place, would relate to a relevant complaint in respect of which the appropriate authority in relation to the complaint—
+
+(i) has concluded its consideration of the complaint; and
+
+(ii) has communicated its findings to the complainer;
+
+(b) a period of 3 months or longer has elapsed between the date on which those findings were so communicated and the date on which the Commissioner was requested to carry out the complaint handling review; and
+
+(c) the Commissioner is not satisfied that there are exceptional circumstances which justified the delay in requesting the review.]
+
+(2) This subsection applies to a complaint handling review which relates or, if it took place, would relate to a relevant complaint of a specified description.
+
+(3) In subsection (2), “specified” means specified in regulations made by the Scottish Ministers.
+
+(4) Where a complaint handling review is, under this section, discontinued or not proceeded with—
+
+(a) the Commissioner must notify the appropriate authority in relation to the complaint and the persons mentioned in section 35(4) of that fact;
+
+(b) the Commissioner may give the appropriate authority in relation to the complaint directions to do any such things as the Commissioner is authorised to direct by regulations made by the Scottish Ministers;
+
+(c) the Commissioner may himself or herself take any steps of a description specified in regulations so made as the Commissioner considers appropriate for purposes connected with the discontinuance of the complaint handling review or the fact that it is not to take place; and
+
+(d) subject to paragraphs (b) and (c), the Commissioner is to take no further action in accordance with this Chapter in relation to the review or the complaint to which it relates.
+
+##### 37 Appointment of person to reconsider complaint
+
+(1) The reconsidering authority must appoint a person to reconsider the complaint to which the reconsideration direction relates.
+
+(2) But where the reconsideration direction contains a supervision requirement, the reconsidering authority must not appoint a person unless the Commissioner has given notice to the authority that the Commissioner approves the person whom the authority proposes to appoint.
+
+(3) Where the reconsidering authority is the appropriate authority in relation to the complaint, the person appointed must be one who was not previously involved in the consideration of the complaint.
+
+(4) Where the reconsideration of a complaint is subject to a supervision requirement, the person appointed under this section to reconsider the complaint must comply with all such requirements in relation to the carrying out of that reconsideration as may be imposed by the Commissioner in relation to that reconsideration.
+
+##### 38 Reconsideration of complaint: duties to keep persons informed
+
+(1) This section applies where there is a reconsideration of a complaint in accordance with section 35.
+
+(2) The reconsidering authority or, where the reconsideration of a complaint is subject to a supervision requirement, the Commissioner must provide the persons mentioned in subsection (3) with all such information as will keep those persons properly informed, while the reconsideration is being carried out and subsequently, of—
+
+(a) the action (if any) which is taken in respect of the matters dealt with in any report under section 40; and
+
+(b) the outcome of any such action.
+
+(3) Those persons are—
+
+(a) the complainer;
+
+(b) the appropriate authority in relation to the complaint (except where that authority is the reconsidering authority); and
+
+(c) where the complaint is in respect of an act or omission by a person mentioned in section 34(2)(f) and identifies the person who is the subject of it, that person.
+
+(4) Subsections (5) and (6) of section 35 apply in relation to the duties imposed by subsection (2) as they apply to the duties imposed by subsection (3)(a) of that section.
+
+(5) A person appointed under section 37 to reconsider a complaint must provide the Commissioner with all such information as is reasonably required by the Commissioner for the purposes of the Commissioner's functions.
+
+(6) Where the reconsideration of a complaint is not subject to a supervision requirement the reconsidering authority must comply with any direction or guidance given by the Commissioner as to how the authority is to perform its functions under this section.
+
+##### 39 Power of Commissioner to discontinue reconsideration
+
+(1) If it appears to the Commissioner (whether on an application by the reconsidering authority or otherwise) that a relevant complaint which is being reconsidered under section 35 is of a specified description, the Commissioner may by order require the discontinuance of the reconsideration.
+
+(2) In subsection (1), “specified” means specified in regulations made by the Scottish Ministers.
+
+(3) Where the reconsideration of a complaint is discontinued in accordance with this section—
+
+(a) the Commissioner must notify the persons mentioned in section 38(3) of that fact;
+
+(b) the Commissioner must give a copy of the order requiring the discontinuance to the reconsidering authority and the person appointed to reconsider the complaint;
+
+(c) the Commissioner may give the reconsidering authority or the person appointed to reconsider the complaint directions to do any such things as the Commissioner is authorised to direct by regulations made by the Scottish Ministers;
+
+(d) the Commissioner may himself or herself take any steps of a description specified in regulations so made as the Commissioner considers appropriate for purposes connected with the discontinuance of the reconsideration; and
+
+(e) subject to paragraphs (c) and (d), the reconsidering authority, the person appointed to reconsider the complaint and the Commissioner are to take no further action in accordance with this Chapter in relation to that complaint.
+
+##### 40 Final reports on reconsideration
+
+(1) On the completion of the person's reconsideration, a person appointed under section 37 must—
+
+(a) submit a report on it to the Commissioner; and
+
+(b) send a copy of the report to—
+
+(i) the reconsidering authority; and
+
+(ii) where different, the appropriate authority in relation to the complaint.
+
+(2) A person submitting a report under this section is not prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters as the person thinks fit in the person's report.
+
+##### 40A [[^F23][[^F24]Arrangements for handling relevant complaints and investigation of whistleblowing complaints]
+
+(1) The Commissioner must—
+
+(a) keep under review all arrangements maintained by
+
+[[^F25](i)] the Commissioner, the Authority and the chief constable for the handling of relevant complaints;
+
+[[^F26](ii) the Authority and the chief constable for the investigation of information provided in a whistleblowing complaint;] and
+
+(b) seek to secure that those arrangements—
+
+(i) are efficient and effective;
+
+(ii) contain and manifest an appropriate degree of independence; and
+
+(iii) are adhered to.
+
+[[^F27](1A) In subsection (1)(a)(ii), “whistleblowing complaint” means a protected disclosure within the meaning of section 43A of the Employment Rights Act 1996 made to the Authority or, as the case may be, the chief constable.]
+
+(2) The Commissioner may make such recommendations, or give such advice, for the modification of—
+
+(a) the arrangements mentioned in subsection (1); or
+
+(b) the practice of the Authority or the chief constable in relation to other matters,
+
+as appear from the carrying out of the Commissioner's other functions to be necessary or desirable.”.]
+
+##### 41 Appropriate authority in relation to a complaint
+
+(1) For the purposes of sections 34 to 40, the appropriate authority in relation to a complaint is—
+
+[[^F28](a) the Authority in cases where the complaint is about an act or omission by—
+
+(i) the Authority;
+
+(ii) a senior officer of the Police Service; or
+
+(iii) a member of the Authority's staff; and
+
+(b) the chief constable in cases where the complaint is about an act or omission by—
+
+(i) the Police Service;
+
+(ii) a constable of the Police Service who is not a senior officer; or
+
+(iii) a member of the police staff.]
+
+[^F29]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F30]Investigations
+
+##### 41A Investigations under supervision of Lord Advocate or procurator fiscal
+
+The Commissioner, when carrying out an investigation in pursuance of a direction issued under paragraph (b) of section 33A, must comply with—
+
+(a) any lawful instruction given by the appropriate prosecutor who issued the direction; and
+
+(b) in the case of an investigation carried out in pursuance of a direction issued under sub-paragraph (i) of that paragraph, any instruction issued by the Lord Advocate in relation to the reporting, for consideration of the question of prosecution, of alleged offences.]
+
+##### 41B [[^F31]Serious incidents involving the police
+
+(1) A “serious incident involving the police” which the Commissioner may investigate in pursuance of paragraph (c) of section 33A is—
+
+(a) a circumstance in or in consequence of which a person has died or has sustained serious injury where—
+
+(i) the person, at or before the time of death or serious injury, had contact (directly or indirectly) with a person serving with the police acting in the execution of that person's duties; and
+
+(ii) there is an indication that the contact may have caused (directly or indirectly) or contributed to the death or serious injury;
+
+(b) any other circumstance in or in consequence of which—
+
+(i) a person has otherwise sustained a serious injury at a time when the person was being detained or kept in custody by a person serving with the police; or
+
+(ii) a person serving with the police has used a firearm or any other weapon of such description as the Scottish Ministers may by regulations specify; or
+
+(c) any other circumstance involving the Authority, the Police Service or a person serving with the police as may be specified in regulations made by the Scottish Ministers.
+
+(2) But a matter is not a “serious incident involving the police” if it is—
+
+(a) a matter––
+
+(i) which the Commissioner is investigating in pursuance of paragraph (b)(i) of section 33A; or
+
+(ii) in respect of which criminal proceedings have been brought following such an investigation by the Commissioner; or
+
+(b) a matter which is being, or has been, investigated––
+
+(i) by the Commissioner in pursuance of paragraph (b)(ii) of section 33A; or
+
+(ii) by any other person under section 1 of the [[^F32]Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016].]
+
+##### 41C [[^F33]Investigation of matters in the public interest
+
+(1) The Commissioner may investigate any relevant police matter where the Commissioner considers that it would be in the public interest to do so.
+
+(2) A relevant police matter is any incident in relation to which there is an indication that the Authority, the Police Service or a person serving with the police has been involved other than—
+
+(a) a matter––
+
+(i) which the Commissioner is investigating in pursuance of paragraph (b)(i) of section 33A; or
+
+(ii) in respect of which criminal proceedings have been brought following such an investigation by the Commissioner;
+
+(b) a matter which is being, or has been, investigated––
+
+(i) by the Commissioner in pursuance of paragraph (b)(ii) of section 33A; or
+
+(ii) by any other person under section 1 of the [[^F34]Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016]; or
+
+(c) a matter which is being, or has been, investigated by the Commissioner by virtue of paragraph (c) of section 33A.]
+
+##### 41D [[^F35] Investigations: procedure etc.
+
+(1) The Scottish Ministers may by regulations make such provision about investigations by the Commissioner in pursuance of paragraph (c) or (d) of section 33A as they consider appropriate.
+
+(2) Regulations may, in particular, make provision—
+
+(a) requiring the chief constable or the Authority to refer matters to the Commissioner;
+
+(b) about circumstances in which the Commissioner—
+
+(i) must, must not or need not carry out an investigation; or
+
+(ii) may discontinue an investigation;
+
+(c) about the form and procedure of an investigation;
+
+(d) imposing restrictions on the extent of any investigation;
+
+(e) setting time limits within which matters must be investigated;
+
+(f) requiring the chief constable, the Authority or other persons to assist and co-operate with the Commissioner when carrying out an investigation (by providing evidence, attending hearings or otherwise);
+
+(g) for the delegation of functions to the Commissioner.
+
+(3) Before making regulations under this section, the Scottish Ministers must consult—
+
+(a) the Commissioner;
+
+(b) the Authority;
+
+(c) the chief constable;
+
+(d) such persons as appear to them to be representatives of senior officers;
+
+(e) such persons as appear to them to be representatives of superintendents (including chief superintendents);
+
+(f) the joint central committee of the Police Federation for Scotland; and
+
+(g) such other persons as they think appropriate.]
+
+##### 41E [[^F36]Reports on investigations
+
+(1) The Commissioner must prepare a report of each investigation carried out in pursuance of paragraph (c) or (d) of section 33A.
+
+(2) The Commissioner must––
+
+(a) provide a copy of a report prepared under subsection (1) to—
+
+(i) the person (if any) who requested the investigation;
+
+(ii) the Authority; and
+
+(iii) any other person whom the Commissioner considers appropriate; and
+
+(b) if the Commissioner considers it appropriate to do so, publish the report in such manner as the Commissioner considers appropriate.
+
+(3) Apart from identifying the Authority or the Police Service, a report must not—
+
+(a) mention the name of any person; or
+
+(b) contain any particulars which, in the Commissioner's opinion, are likely to identify any person and can be omitted without impairing the effectiveness of the report,
+
+unless the Commissioner determines that it is necessary to do so (having taken into account the public interest).]
+
+##### 41F [[^F37]Investigations: obstruction and contempt
+
+(1) The Court of Session may, on a petition by the Commissioner, inquire into whether a person—
+
+(a) without lawful excuse, is obstructing or has obstructed the Commissioner in the carrying out of a complaint handling review or inthe carrying out of an investigation in pursuance of paragraph (c) or (d) of section 33A; or
+
+(b) is doing or has done any act, or is failing or has failed to take any action, in relation to such a review or investigation which, if it were a proceeding in the Court of Session, would constitute contempt of court.
+
+(2) After so inquiring (and, in particular, after hearing any witness who may be produced against or on behalf of the person and any statement which may be offered in defence), the Court of Session may deal with the person as if the person had committed a contempt of court in relation to the Court of Session.]
+
+#### Other functions
+
+##### [^F38]42 General functions of the Commissioner
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 42A [[^F39]Complaints against the Commissioner
+
+(1) The Commissioner must maintain suitable arrangements for the handling of any complaint made to the Commissioner expressing dissatisfaction about an act or omission by the Commissioner or by any member of the Commissioner's staff.
+
+(2) Before making such arrangements, the Commissioner must seek the views of others as to what those arrangements should be.]
+
+##### 43 Reports to the Scottish Ministers
+
+(1) As soon as practicable after the end of each financial year, the Commissioner must make a report to the Scottish Ministers on the carrying out of the Commissioner's functions during that year.
+
+(2) The Commissioner must also make such reports to the Scottish Ministers about matters relating generally to the carrying out of the Commissioner's functions as they may, from time to time, require.
+
+(3) The Commissioner may, from time to time, make such other reports to the Scottish Ministers as the Commissioner considers appropriate for drawing their attention to matters which—
+
+(a) have come to the Commissioner's notice; and
+
+(b) are matters which the Commissioner considers should be drawn to their attention by reason of their gravity or of other exceptional circumstances.
+
+(4) The Commissioner must prepare such reports containing advice and recommendations as the Commissioner considers appropriate for the purpose of carrying out the function under section [[^F40]40A(2)].
+
+(5) The Scottish Ministers must lay before the Parliament and arrange publication of—
+
+(a) every annual report under subsection (1) received by them; and
+
+(b) every other report under this section received by them (but only if and to the extent that the Scottish Ministers consider it appropriate to do so).
+
+(6) The Commissioner must—
+
+(a) send copies of every annual report under subsection (1) to [[^F41]the Authority, the chief constable and the inspectors of constabulary appointed under section 71 of the Police and Fire Reform (Scotland) Act 2012 (asp 8) ];
+
+(b) send copies of every report under subsection (4) to [[^F42]the Authority, the chief constable and] the Scottish Ministers.
+
+(7) The Commissioner may send a copy of any report made under this section to any person the Commissioner thinks fit.
+
+[[^F43](8) Nothing in this section requires or authorises the Commissioner to report on the carrying out of a particular investigation carried out on the direction of the appropriate prosecutor in pursuance of paragraph (b) of section 33A.]
+
+##### 44 Provision of information to the Commissioner
+
+(1) [[^F44]The Authority and the chief constable] must, at such times, in such circumstances and in accordance with such requirements as may be set out in regulations made by the Scottish Ministers, provide the Commissioner with all such information and documents as may be specified or described in regulations so made.
+
+(2) [[^F45]The Authority and the chief constable] must—
+
+(a) provide the Commissioner with all such other information and documents specified or described in a notification given by the Commissioner to [[^F46]the Authority or, as the case may be, the chief constable]; and
+
+(b) produce to the Commissioner all such evidence and other things so specified or described,
+
+as appear to the Commissioner to be required by the Commissioner for the purposes of the carrying out of any of the Commissioner's functions.
+
+(3) Anything falling to be provided or produced by [[^F47]the Authority or the chief constable] in pursuance of a requirement imposed under subsection (2) must be provided or produced in such form, in such manner and within such period as may be specified in—
+
+(a) the notification imposing the requirement; or
+
+(b) in any subsequent notification given by the Commissioner to that person for the purposes of this subsection.
+
+(4) Nothing in this section requires [[^F48]the Authority or the chief constable] to provide the Commissioner with any information or document, or to produce any other thing, before the earliest time at which it is practicable for [[^F49]the Authority or, as the case may be, the chief constable] to do so.
+
+(5) A requirement imposed by any notification or regulations under this section may authorise or require information or documents to which it relates to be provided to the Commissioner electronically.
+
+[[^F50](6) The Scottish Ministers may by regulations make provision authorising or requiring the Authority or the chief constable to provide information and documents to the Commissioner in accordance with subsection (1) or (2) by giving the Commissioner, in such circumstances and in accordance with such requirements as may be set out in the regulations, access to an electronic storage system on which they are stored.]
+
+##### 45 Power of Commissioner to issue guidance
+
+(1) The Commissioner may issue guidance—
+
+(a) to [[^F51]the Authority or the chief constable];
+
+(b) to persons appointed to reconsider complaints,
+
+about the carrying out by the persons to whom the guidance is issued of any of the functions conferred on them by virtue of this Chapter.
+
+(2) Before issuing any guidance under this section, the Commissioner must consult—
+
+[[^F52](a) the Authority and the chief constable;]
+
+(b) such other persons as the Commissioner thinks fit.
+
+(3) A person to whom guidance is issued under subsection (1) must have regard to that guidance in carrying out the functions to which the guidance relates.
+
+(4) The power conferred by subsection (1) to issue guidance includes power to vary or revoke any such guidance.
+
+##### 46 Disclosure of information by and to the Commissioner
+
+(1) Information obtained by the Commissioner in connection with any of the Commissioner's functions may be disclosed by the Commissioner to any public body or office-holder (in Scotland, in any other part of the United Kingdom or in a country or territory outside the United Kingdom)—
+
+(a) for any purpose connected with the carrying out of any of the Commissioner's functions; or
+
+(b) for the purpose of enabling or assisting the public body or office-holder to carry out any function.
+
+(2) Information disclosed by the Commissioner under this section to any body or office-holder must not be further disclosed except—
+
+(a) for a purpose connected with any function of that body or office-holder; and
+
+(b) with the consent of the Commissioner.
+
+(3) Consent under subsection (2) may be given—
+
+(a) in relation to a particular disclosure; or
+
+(b) in relation to disclosures made in circumstances specified or described in the consent.
+
+(4) Any person may disclose information to the Commissioner if the disclosure is made for the purposes of the carrying out of any of the Commissioner's functions.
+
+(5) A disclosure under this section does not breach—
+
+(a) any obligation of confidence owed by the person making the disclosure; or
+
+(b) any other restriction on the disclosure of information (however imposed).
+
+[[^F53](6) Nothing in this section requires or authorises the disclosure of any information relating to a particular investigation carried out by the Commissioner on the direction of the appropriate prosecutor in pursuance of paragraph (b) of section 33A (unless the appropriate prosecutor consents to such disclosure).]
+
+##### 46A [[^F54]Protection from actions for defamation
+
+(1) For the purposes of the law of defamation—
+
+(a) any statement made by the Commissioner or any of the Commissioner's staff—
+
+(i) in carrying out a complaint handling review or in carrying out an investigation in pursuance of paragraph (b), (c) or (d) of section 33A;
+
+(ii) in communicating with any person for the purposes of such a review or investigation;
+
+(iii) in a report on such a review or investigation; or
+
+(iv) in a report made under section 43,
+
+has absolute privilege;
+
+(b) any statement made to the Commissioner or any of the Commissioner's staff in relation to an investigation carried out in pursuance of paragraph (b), (c) or (d) of section 33A has absolute privilege; and
+
+(c) any statement made to the Commissioner or any of the Commissioner's staff in relation to a relevant complaint or a complaint handling review is privileged unless the statement is shown to have been made with malice.
+
+(2) In subsection (1), “ statement ” has the same meaning as in the Defamation Act 1996 (c.31). ]
+
+#### [[^F55]Advisory board
+
+##### 46B Advisory board
+
+(1) The Commissioner must establish and maintain an advisory board (“the Board”).
+
+(2) The purpose of the Board is to advise the Commissioner about matters relating to the governance and administration of the office of Commissioner.
+
+(3) The members of the Board are to be individuals appointed by the Scottish Ministers.
+
+(4) A decision to appoint a member to the Board or to terminate a membership of the Board is to be made independently of the Commissioner.
+
+(5) The Commissioner may pay to members of the Board such remuneration and allowances (including expenses) as the Commissioner, with the approval of the Scottish Ministers, determines.
+
+(6) The procedure of the Board is to be such as the Commissioner determines.]
+
+#### Supplementary
+
+##### 47 [[^F56]Interpretation of Chapter 2
+
+In this Chapter—
+
+- “ appropriate prosecutor ” means the Lord Advocate or procurator fiscal;
+
+- “ the Authority ” means the Scottish Police Authority;
+
+- “ chief constable ” means the chief constable of the Police Service;
+
+- “ the Commissioner ” means the Police Investigations and Review Commissioner;
+
+- “ constable ” means a constable of the Police Service;
+
+- “ financial year ” means each yearly period ending with 31 March;
+
+- “ firearm ” has the meaning given by section 57(1) of the Firearms Act 1968 (c.27);
+
+- “ member of the Authority's staff ” and “ member of the police staff ” have the same meanings as in the Police and Fire Reform (Scotland) Act 2012 (asp 8);
+
+- “ person serving with the police ” means—
+
+  - (a) a constable of the Police Service;
+  - (b) a member of the police staff; or
+  - (c) a member of the Authority's staff;
+
+- “ Police Service ” means the Police Service [[^F57]of ] Scotland;
+
+- “ relevant complaint ” has the meaning given by section 34;
+
+- “ senior officer ” has the same meaning as in the Police and Fire Reform (Scotland) Act 2012. ]
+
+##### 47A [[^F58]Complaint or investigation relating to Northern Ireland Troubles
+
+(1) On and after the day on which section 45 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 comes into force, this Part—
+
+(a) ceases to apply to a complaint or investigation (if the complaint was made, or investigation was begun, before that day), or
+
+(b) does not apply to a complaint or investigation (if the complaint is made, or investigation is to begin, on or after that day),
+
+insofar as the complaint or investigation relates to conduct forming part of the Troubles.
+
+(2) In this section “conduct forming part of the Troubles” has the same meaning as in the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (see section 1 of that Act).]
+
+### Chapter 3 — Other provisions
+
+#### [^F59]48 Allowances payable to special constables
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F59]49 Appointments of assistant inspectors of constabulary and staff officers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F59]50 Constables engaged on service outside their force
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Public order etc.
+
+### Chapter 1 — Football banning orders
+
+#### Making and content of orders
+
+##### 51 Making of order on conviction of a football-related offence
+
+(1) This section applies where—
+
+(a) a person is convicted of an offence; and
+
+(b) the person was aged 16 or over at the time the offence was committed.
+
+(2) Instead of or in addition to any sentence which it could impose, the court which deals with the person in respect of the offence may, if satisfied as to the matters mentioned in subsection (3), make a football banning order against the person.
+
+(3) Those matters are—
+
+(a) that the offence was one to which subsection (4) applies; and
+
+(b) that there are reasonable grounds to believe that making the football banning order would help to prevent violence or disorder at or in connection with any football matches.
+
+(4) This subsection applies to an offence if—
+
+(a) the offence involved the person who committed it engaging in violence or disorder; and
+
+(b) the offence related to a football match.
+
+(5) Where the court does not make a football banning order, but is nevertheless satisfied that the offence was one to which subsection (4) applies, it may declare that to be the case.
+
+(6) For the purpose of subsection (4)(b), an offence relates to a football match if it is committed—
+
+(a) at a football match or while the person committing it is entering or leaving (or trying to enter or leave) the ground;
+
+(b) on a journey to or from a football match; or
+
+(c) otherwise, where it appears to the court from all the circumstances that the offence is motivated (wholly or partly) by a football match.
+
+(7) The references in subsection (6)(a) and (b) to a football match include a reference to any place (other than domestic premises) at which a football match is being televised; and, in the case of such a place, the reference in subsection (6)(a) to the ground is to be taken to be a reference to that place.
+
+(8) For the purpose of subsection (6)(b)—
+
+(a) a person may be regarded as having been on a journey to or from a football match whether or not the person attended or intended to attend the match; and
+
+(b) a person's journey includes breaks (including overnight breaks).
+
+(9) On making a football banning order, or a declaration, under this section, a court must explain to the person in ordinary language the effect of the order or declaration.
+
+(10) But failure to comply with subsection (9) does not affect the order's (or declaration's) validity.
+
+##### 52 Making of order on application to the sheriff
+
+(1) The chief constable of [[^F60]the Police Service of Scotland] may apply for a football banning order against any person—
+
+[^F61]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F61]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) An application under subsection (1) may be made to any sheriff—
+
+(a) in whose sheriffdom the person against whom the order is sought resides;
+
+(b) in whose sheriffdom that person is believed by the applicant to be; or
+
+(c) to whose sheriffdom that person is believed by the applicant to be intending to come.
+
+(3) An application under subsection (1) is to be made by summary application.
+
+(4) A sheriff may make a football banning order if satisfied that—
+
+(a) the person against whom the order is sought has at any time contributed to any violence or disorder in the United Kingdom or elsewhere; and
+
+(b) there are reasonable grounds to believe that making the order would help to prevent violence or disorder at or in connection with any football matches.
+
+(5) Subsections (6) and (8) apply where a sheriff is determining whether to make a football banning order against a person.
+
+(6) The sheriff may take into account the matters mentioned in subsection (7) (amongst others), so far as considering it appropriate to do so.
+
+(7) Those matters are—
+
+(a) any decision of a court or tribunal outside the United Kingdom in respect of the person;
+
+(b) the person's deportation or exclusion from a country or territory outside the United Kingdom;
+
+(c) the person's removal or exclusion from premises used for playing football matches, whether in the United Kingdom or elsewhere;
+
+(d) the person's conduct recorded on video or by any other means.
+
+(8) The sheriff may not take into account anything done by the person before the beginning of the relevant period, except circumstances ancillary to a conviction.
+
+(9) In subsection (8)—
+
+- “the relevant period” means the period of 10 years ending with the day on which the application for the order was made; and
+- “circumstances ancillary to a conviction” has the same meaning as it has for the purposes of section 4 of the Rehabilitation of Offenders Act 1974 (c. 53).
+
+(10) Subsection (8) does not prejudice anything in the Rehabilitation of Offenders Act 1974 (c. 53).
+
+(11) On making a football banning order, the sheriff must explain to the person (if present in court) in ordinary language the effect of the order.
+
+(12) But failure to comply with subsection (11) does not affect the order's validity.
+
+##### 53 Content of order
+
+(1) A football banning order is an order which—
+
+(a) prohibits the person against whom it is made from entering any premises for the purposes of attending any regulated football matches in the United Kingdom; and
+
+(b) requires the person against whom it is made to report at a police station in accordance with this Chapter, in connection with regulated football matches outside the United Kingdom.
+
+(2) A football banning order must require the person against whom it is made—
+
+(a) to report initially at a police station [^F62]. . . specified in the order within 5 days beginning with the day on which the order is made; and
+
+(b) where a relevant event occurs, to notify the football banning orders authority of the prescribed information in relation to the event within 7 days beginning with the day on which the event occurs.
+
+(3) A football banning order must, unless it appears to the court making it that there are exceptional circumstances, impose a requirement as to the surrender in accordance with this Chapter, in connection with regulated football matches outside the United Kingdom, of the person's passport.
+
+(4) A football banning order may, if the court making it considers it would help to prevent violence or disorder at or in connection with any football matches, impose on the person additional requirements.
+
+(5) Such requirements may include prohibiting the person from entering any premises (including premises to be entered for the purposes of attending football matches which are not regulated football matches).
+
+(6) A football banning order must specify the period for which it is to have effect.
+
+(7) That period is not to exceed—
+
+(a) 10 years, in the case of an order made under section 51 made in addition to a sentence of imprisonment;
+
+(b) 5 years, in the case of an order made under section 51 other than one mentioned in paragraph (a);
+
+(c) 3 years, in the case of an order made under section 52.
+
+##### 54 Section 53: supplementary
+
+(1) Schedule 5, which specifies the relevant events referred to in section 53(2)(b) and defines the prescribed information in relation to each such event, has effect.
+
+(2) The period specified in a football banning order by virtue of section 53(6) begins on the day on which the order is made.
+
+(3) In section 53(7)(a), “imprisonment” includes any form of detention.
+
+##### 55 “Football matches” and “regulated football matches”
+
+(1) In this Chapter, references to football matches—
+
+(a) are to association football matches; and
+
+(b) are to matches played or intended to be played.
+
+(2) For the purposes of this Chapter, the following are regulated football matches—
+
+(a) football matches within subsection (3); and
+
+(b) such other football matches, anywhere in the world, as may be prescribed by order made by the Scottish Ministers.
+
+(3) The football matches within this subsection are—
+
+(a) football matches anywhere in the United Kingdom where one or both of the participating teams—
+
+(i) represents a country or territory;
+
+[[^F63](ii) represents a club which is for the time being a member of the Scottish Professional Football League;]
+
+(iii) represents a club which is for the time being a member (whether a full or associate member) of the Football League, the Football Association Premier League, the Football Conference or the League of Wales;
+
+[[^F64](aa) football matches anywhere in the United Kingdom, not falling within paragraph (a)–
+
+(i) which are part of a competition or tournament organised by, or under the authority of, the Federation Internationale de Football Associations (“FIFA”) or the Union of European Football Associations (“UEFA”); and
+
+(ii) where one or both of the participating teams represents a club which is for the time being a member (whether a full or associate member) of, or affiliated to, a national football association which is a member of FIFA;]
+
+(b) football matches outside the United Kingdom involving—
+
+(i) a national team appointed to represent Scotland, England or Wales by, respectively, the Scottish Football Association, the Football Association or the Football Association of Wales;
+
+(ii) a team representing a club mentioned in paragraph (a)(ii) or (iii).
+
+(4) The Scottish Ministers may by order modify subsection (3) so as to—
+
+(a) add a description of football matches, anywhere in the world;
+
+(b) remove such a description;
+
+(c) amend such a description.
+
+##### 56 “Violence” and “disorder”
+
+(1) This section applies for the purposes of this Chapter.
+
+(2) “Violence” means violence against persons or intentional damage to property and includes—
+
+(a) threatening violence; and
+
+(b) doing anything which endangers the life of a person.
+
+(3) “Disorder” includes—
+
+(a) stirring up hatred against a group of persons based on their membership (or presumed membership) of a group defined by reference to a thing mentioned in subsection (5), or against an individual as a member of such a group;
+
+(b) using threatening, abusive or insulting words or behaviour or disorderly behaviour;
+
+(c) displaying any writing or other thing which is threatening, abusive or insulting.
+
+(4) In subsection (3)(a), “presumed” means presumed by the person doing the stirring up.
+
+(5) The things referred to in subsection (3)(a) are—
+
+(a) colour;
+
+(b) race;
+
+(c) nationality (including citizenship);
+
+(d) ethnic or national origins;
+
+(e) membership of a religious group or of a social or cultural group with a perceived religious affiliation;
+
+(f) sexual orientation;
+
+(g) transgender identity;
+
+(h) disability.
+
+(6) In subsection (5)—
+
+- “disability” means physical or mental impairment of any kind;
+
+- “religious group” has the meaning given by section 74(7) of the Criminal Justice (Scotland) Act 2003 (asp 7);
+
+- “transgender identity” means any of the following—
+
+  - (a) transvestism;
+  - (b) transsexualism;
+  - (c) intersexuality;
+  - (d) having, by virtue of the Gender Recognition Act 2004 (c. 7), changed gender.
+
+#### Variation, termination, information and appeals
+
+##### 57 Variation of certain requirements of order
+
+(1) The appropriate court may, on the application of a person mentioned in subsection (3), make an order varying a football banning order by—
+
+(a) subject to subsection (2), omitting or imposing a requirement such as is mentioned in section 53(3);
+
+(b) imposing, replacing or omitting a requirement such as is mentioned in section 53(4).
+
+(2) An order may not be varied so as to omit a requirement such as is mentioned in section 53(3) unless it appears to the court that there are exceptional circumstances.
+
+(3) The persons referred to in subsection (1) are—
+
+(a) the person subject to the order;
+
+(b) the chief constable of the [[^F65]Police Service of Scotland];
+
+[^F66]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F66]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In subsection (1), “the appropriate court” means—
+
+(a) where the football banning order was made under section 51, the court which made the order;
+
+(b) where the football banning order was made under section 52, an appropriate sheriff.
+
+(5) In subsection (4), “an appropriate sheriff” means—
+
+(a) a sheriff sitting in the original sheriff court district; or
+
+(b) where such a sheriff remits the application to another sheriff court district, a sheriff sitting in that other district.
+
+(6) In subsection (5), “the original sheriff court district” means the sheriff court district which the sheriff who made the football banning order was sitting in when the order was made.
+
+##### 58 Termination of order
+
+(1) The appropriate court may, on the application of a person subject to a football banning order, make an order terminating it as from a specified date.
+
+(2) An application under subsection (1) may not be made unless the order has had effect for at least two-thirds of the period specified in the order.
+
+(3) In exercising its power under subsection (1), a court must have regard to—
+
+(a) the character of the person against whom the order was made;
+
+(b) the conduct of the person against whom the order was made since it was made;
+
+(c) the nature of the offence or conduct which led to it; and
+
+(d) any other circumstances which appear to the court to be relevant.
+
+(4) Where an application under subsection (1) is refused, no further application under that subsection in respect of the same order may be made within the period of 6 months beginning with the day of the refusal.
+
+(5) In subsection (1), “the appropriate court” has the same meaning as in section 57.
+
+##### 59 Information about making, varying or terminating order etc.
+
+(1) Where a court makes a football banning order, it must cause a copy of the order to be—
+
+(a) served on the person against whom the order is made;
+
+(b) sent to the football banning orders authority and to any person prescribed by order by the Scottish Ministers as soon as is reasonably practicable;
+
+(c) sent to the police station at which the person against whom the order is made is to report initially (addressed to the constable responsible for the police station) as soon as is reasonably practicable; and
+
+(d) in a case where the person against whom the order is made is detained in legal custody, sent to the person in whose custody that person is detained as soon as is reasonably practicable.
+
+(2) Where a court terminates or varies a football banning order, it must cause a copy of the terminating or varying order to be—
+
+(a) served on the person against whom the football banning order was made;
+
+(b) sent to the football banning orders authority as soon as is reasonably practicable; and
+
+(c) in a case where the person against whom the order was made is detained in legal custody, sent to the person in whose custody that person is detained as soon as is reasonably practicable.
+
+(3) Where a person subject to a football banning order (“the subject”) is released from custody, the person in whose custody the subject is must give notice of the subject's release to the football banning orders authority as soon as is reasonably practicable.
+
+(4) Subsection (3) applies only if the subject is released more than 5 days before the expiry of the football banning order.
+
+##### 60 Appeals
+
+(1) The following are to be taken to be a sentence for the purpose of an appeal—
+
+(a) a football banning order made under section 51;
+
+(b) a declaration made under section 51;
+
+(c) any variation of such an order under section 57;
+
+(d) the termination of such an order under section 58.
+
+(2) Subsection (3) applies where a football banning order made under section 51 is quashed on appeal.
+
+(3) Where the [[^F67]court hearing the appeal] does not specify, as a reason for quashing the order, that the court which made the order erred in holding that the offence in respect of which the order was made was one to which section 51(4) applied, the [[^F68]court hearing the appeal] may, in addition to any other order which it makes, make a declaration that the offence was one to which that section applied.
+
+(4) The following decisions may be appealed to the sheriff principal—
+
+(a) a decision to make a football banning order under section 52;
+
+(b) a decision to make an order under section 57 varying such a football banning order;
+
+(c) a decision to make an order under section 58 terminating such a football banning order;
+
+(d) a decision not to make an order such as is mentioned in paragraph (a), (b) or (c).
+
+(5) An appeal under subsection (4) must be made within the period of 14 days beginning with the date on which the decision was made.
+
+(6) The decision of the sheriff principal on an appeal under subsection (4) may be appealed to the Court of Session.
+
+(7) An appeal under subsection (6) may be made only with the leave of the sheriff principal.
+
+(8) An application for leave to appeal under subsection (6) must be made within the period of 7 days beginning with the date of the sheriff principal's decision; and an appeal under that subsection must be made within the period of 7 days beginning with the date on which leave to appeal the sheriff principal's decision was given.
+
+#### Enforcement of order in relation to foreign matches
+
+##### 61 Foreign matches: reporting and other requirements
+
+(1) The constable responsible for the police station at which a person subject to a football banning order reports initially may make such requirements of the person as are determined by the football banning orders authority to be necessary or expedient for giving effect to the football banning order, so far as relating to regulated football matches outside the United Kingdom.
+
+(2) Subject to section 64, if, in connection with any regulated football match outside the United Kingdom, the football banning orders authority is of the opinion mentioned in subsection (3) in relation to a person subject to a football banning order, the authority must cause the person to be served with a notice in writing under subsection (4).
+
+(3) That opinion is that requiring the person to report in accordance with a notice under subsection (4) is necessary or expedient in order to reduce the likelihood of violence or disorder at or in connection with the match.
+
+(4) A notice under this subsection is a notice requiring the person—
+
+(a) to report at a specified police station at the time, or between the times, specified; and
+
+(b) if the order imposes a requirement as to the surrender of the person's passport, to attend at a specified police station at the time, or between the times, specified and—
+
+(i) if the person has a passport, to surrender it; or
+
+(ii) if the person does not have a passport, to make a declaration to that effect.
+
+(5) In subsection (4), “specified” means specified in the notice.
+
+(6) The football banning orders authority may establish criteria for determining whether a notice under subsection (4) ought to be imposed on any person or on persons of a particular description.
+
+##### 62 Notices under section 61(4): further provision
+
+(1) A notice under section 61(4) may not require the person subject to the order to report or surrender the person's passport except in the control period in relation to—
+
+(a) a regulated football match outside the United Kingdom; or
+
+(b) a designated external tournament which includes such matches.
+
+(2) In subsection (1)—
+
+- “control period” in relation to a regulated football match outside the United Kingdom means the period—
+
+  - (a) beginning 5 days before the day of the match; and
+  - (b) ending when the match is finished or cancelled;
+
+- “control period” in relation to a designated external tournament means the period—
+
+  - (a) beginning 5 days before the day of the first football match outside the United Kingdom which is included in the tournament;
+  - (b) ending when the last football match outside the United Kingdom which is included in the tournament is finished or cancelled;
+
+  (but, for the purposes of paragraph (a), any football match included in the qualifying or pre-qualifying stages of the tournament is to be left out of account);
+
+- “designated” means designated by the Scottish Ministers by order; and
+
+- “external tournament” means a football competition which includes regulated football matches outside the United Kingdom.
+
+(3) Where a notice under section 61(4) requires the person subject to the order to surrender the person's passport, the passport must be returned to the person as soon as reasonably practicable after the control period in question.
+
+##### 63 Sections 61 and 62: guidance
+
+(1) The football banning orders authority must, in carrying out its functions under sections 61 and 62, have regard to any guidance issued by the Scottish Ministers about—
+
+(a) the carrying out of those functions; and
+
+(b) matters arising in connection with the carrying out of those functions.
+
+(2) The Scottish Ministers shall make such arrangements as they consider appropriate for publishing the guidance issued from time to time for the purpose of subsection (1).
+
+##### 64 Exemption from notice served under section 61(4)
+
+(1) A person who is subject to a football banning order may—
+
+(a) as respects a particular regulated football match; or
+
+(b) as respects regulated football matches played during a period,
+
+apply for an order disapplying any notice under section 61(4) served on the person in relation to the match or matches.
+
+(2) Subject to subsection (3), an application under subsection (1) is to be made to the football banning orders authority.
+
+(3) If the application is made during the control period in relation to any match to which it relates, the application may instead be made to the constable responsible for any police station.
+
+(4) In subsection (3), “control period” is to be construed in accordance with section 62(2).
+
+(5) An order under this section is to be made only if the applicant shows to the satisfaction of the person to whom the application for the order is made—
+
+(a) that there are circumstances which justify the making of the order; and
+
+(b) that, because of those circumstances, the applicant would not attend the match or matches.
+
+(6) Except where subsection (7) applies, a constable is not to make an order under this section without referring the question of whether to do so to the football banning orders authority.
+
+(7) This subsection applies where it is not reasonably practicable for the constable to refer the question to the authority.
+
+(8) Where a constable makes an order under this section without referring the question of whether to do so to the football banning orders authority, the constable must give notice in writing of that fact to the football banning orders authority as soon as is reasonably practicable.
+
+##### 65 Section 64: supplementary
+
+(1) The football banning orders authority or a constable is, in making decisions under section 64, to have regard to any guidance in that respect issued by the Scottish Ministers.
+
+(2) The Scottish Ministers shall make such arrangements as they consider appropriate for publishing the guidance issued from time to time for the purpose of subsection (1).
+
+(3) A person who is aggrieved by the refusal of the football banning orders authority or a constable to make an order under section 64 in the person's favour may appeal that refusal to the sheriff.
+
+(4) An appeal under subsection (3) may be made only after the aggrieved person has given notice in writing of the intention to do so to—
+
+(a) in the case of an appeal against a refusal by the football banning orders authority, that authority;
+
+(b) in the case of an appeal against a refusal by a constable, the constable and the football banning orders authority.
+
+(5) An appeal under subsection (3) is to be made by summary application.
+
+(6) On an appeal under subsection (3) the sheriff may make such order as the sheriff thinks fit.
+
+(7) The sheriff's decision on an appeal under subsection (3) is final.
+
+##### 66 Suspension of reporting requirements
+
+(1) Any requirements imposed on the person subject to a football banning order (“the subject”) by a notice under section 61(4) are suspended during any period in which the subject does not reside in [[^F69]the United Kingdom].
+
+(2) The requirements mentioned in subsection (3) are suspended during any period in which the subject is detained in legal custody.
+
+(3) Those requirements are—
+
+(a) the requirement under the order to report initially at a police station; and
+
+(b) any requirements imposed on the subject in a notice under section 61(4).
+
+(4) Subsection (5) applies if—
+
+(a) the subject is released from custody more than 5 days before the expiry of the period for which the order has effect; and
+
+(b) the subject was precluded by being in custody from reporting initially.
+
+(5) Where this subsection applies, the order is to have effect as if it required the subject to report initially at the police station specified in the order within the period of 5 days beginning with the date of the subject's release.
+
+#### Miscellaneous and general
+
+##### 67 Service of documents
+
+(1) A document required by this Chapter to be served on a person is served on the person if—
+
+(a) given to the person; or
+
+(b) sent to the person by registered post or a recorded delivery service.
+
+(2) A certificate of posting of a letter sent under subsection (1)(b) issued by the postal operator concerned is sufficient evidence of the sending of the letter on the day specified in the certificate.
+
+(3) In subsection (2), “postal operator” has the meaning given by [[^F70]section 27 of the Postal Services Act 2011 (c.5)].
+
+##### 68 Offences under this Chapter
+
+(1) A person who fails to comply with any requirement imposed on the person—
+
+(a) by a football banning order;
+
+(b) under section 61(1); or
+
+(c) by a notice under section 61(4),
+
+commits an offence.
+
+(2) It is a defence for a person charged with an offence under subsection (1) to prove that the person had a reasonable excuse for failing to comply with the requirement.
+
+(3) A person who commits an offence under subsection (1)(a) or (c) is liable on summary conviction to—
+
+(a) imprisonment for a term not exceeding 6 months;
+
+(b) a fine not exceeding level 5 on the standard scale; or
+
+(c) both such imprisonment and such a fine.
+
+(4) A person who commits an offence under subsection (1)(b) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(5) A person who, in connection with an application under section 64 to be exempted from a notice under section 61(4)—
+
+(a) knowingly or recklessly makes a statement which is false or misleading in a material particular; or
+
+(b) knowingly or recklessly produces, furnishes, signs or otherwise makes use of a document which is false or misleading in a material particular,
+
+commits an offence.
+
+(6) A person who commits an offence under subsection (5) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+##### 69 Interpretation of Chapter 1
+
+(1) In this Chapter—
+
+- “the football banning orders authority” means the chief constable of the [[^F71]Police Service of Scotland]; and
+- “passport” means a United Kingdom passport within the meaning of the Immigration Act 1971 (c. 77).
+
+(2) The Scottish Ministers may by order modify the definition of “the football banning orders authority” in subsection (1).
+
+### Chapter 2 — Public processions
+
+#### 70 Notification of public processions
+
+(1) Section 62 of the Civic Government (Scotland) Act 1982 (c. 45) (giving notice of proposal to hold public processions) (“the 1982 Act”) is amended in accordance with subsections (2) to (8).
+
+(2) In subsection (2)—
+
+(a) in paragraph (a), for “7” there is substituted “ 28 ”;
+
+(b) in paragraph (b), for “7” there is substituted “ 28 ”.
+
+(3) In subsection (4), for “7” there is substituted “ 28 ”.
+
+(4) In subsection (5), for “specify” to “above”, where secondly occurring, there is substituted—
+
+> (a) set out the reason why notice of the proposal was not given in accordance with subsections (1) and (2) above; and
+>
+> (b) specify the matters mentioned in subsection (3) above,
+
+.
+
+(5) Subsections (6), (7) and (8) are repealed.
+
+(6) In subsection (9), the words “or making, varying or revoking an order under subsection (6) or (7) above” are repealed.
+
+(7) Subsection (11) is repealed.
+
+(8) After subsection (11) there is inserted—
+
+> (11A) A local authority shall, as soon as possible after making an order under subsection (4) above, publicise that fact in such manner as they think fit and send a copy of the order to the applicant.
+>
+> (11B) This section does not apply to a procession—
+>
+> (a) which is a funeral procession organised by a funeral director acting in the ordinary course of his business; or
+>
+> (b) which is specified in, or is within a description specified in, an order made by the Scottish Ministers.
+>
+> (11C) In subsection (11B) above, a “funeral director” is a person whose business consists of or includes the arrangement and conduct of funerals.
+>
+> (11D) An order made for the purposes of subsection (11B)(b) above shall be made by statutory instrument subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+.
+
+#### 71 Powers and duties of local authorities
+
+(1) Section 63 of the 1982 Act (councils' functions in relation to processions) is amended as follows.
+
+(2) Subsection (2) (which specifies some kinds of conditions which may be imposed on the holding of a procession) is repealed.
+
+(3) At the end there are inserted the following subsections—
+
+> (5) The local authority may, after consulting the chief constable and (where section 62(1)(aa) of this Act applies) the National Parks Authority, make an order—
+>
+> (a) imposing conditions on the holding of a procession to which paragraph (a) of subsection (11B) of section 62 of this Act relates;
+>
+> (b) prohibiting or imposing conditions on the holding of a procession to which paragraph (b) of that subsection relates.
+>
+> (6) Subsections (1A), (3) and (4) above apply in relation to an order made under subsection (5) above and to a decision not to make an order under that subsection as they apply to an order under subsection (1) above and to a decision not to make an order under that subsection respectively, but with the modifications set out in subsection (7) below.
+>
+> (7) Those modifications are—
+>
+> (a) the references to notice having been or falling to be treated as having been given shall be ignored;
+>
+> (b) the reference to the person who gave the notice shall be treated as a reference to the person appearing to the local authority to be the person who is to hold the procession; and
+>
+> (c) the words “not to make an order under subsection (1) above or” in subsection (3)(a)(ii) shall be ignored.
+>
+> (8) The considerations to which the local authority shall have regard when deciding whether to prohibit the holding of a procession or impose conditions on it under this section shall include—
+>
+> (a) the likely effect of the holding of the procession in relation to—
+>
+> (i) public safety;
+>
+> (ii) public order;
+>
+> (iii) damage to property;
+>
+> (iv) disruption of the life of the community;
+>
+> (b) the extent to which the containment of risks arising from the procession would (whether by itself or in combination with any other circumstances) place an excessive burden on the police;
+>
+> (c) where the person proposing to hold the procession has previously held one in the area of the authority or the persons likely to take part in the procession, or some of them, are the same persons as took part in one previously held in that area, or some of them—
+>
+> (i) whether the previous procession was held in breach of a prohibition under this section on its being held or of a condition so imposed on the holding of it;
+>
+> (ii) whether any guidance or code of conduct issued by the authority as to the holding of the previous procession or as to the holding of processions generally was followed; and
+>
+> (iii) the effect of the previous procession in relation to the matters mentioned in sub-paragraphs (i) to (iv) of paragraph (a) above and in paragraph (b) above.
+>
+> (9) The local authority shall compile, maintain and make available to the public, free of charge, a list containing information about—
+>
+> (a) processions which have, after the coming into force of this subsection, been held in their area;
+>
+> (b) proposed processions which they have, after that time, prohibited under this section.
+>
+> (10) A local authority shall make sufficient arrangements to secure that any person, body or other grouping resident in or otherwise present in their area who makes a request for the purposes of this subsection is enabled to receive information about processions which are to or might be held in that area or in any part of it specified in the request.
+
+.
+
+#### 72 Minor amendments of 1982 Act
+
+(1) In section 64(6)(a)(ii) of the 1982 Act (sheriff's powers on appeal against order under section 63)—
+
+(a) for “vary” there is substituted “ quash ”;
+
+(b) after “appeal” there is inserted “ , vary it ”; and
+
+(c) after “make” there is inserted “ in substitution for the order ”.
+
+(2) In section 65 of that Act (offences and enforcement)—
+
+(a) in subsection (1), in paragraph (a)—
+
+(i) for “without” there is substituted “ not ”; and
+
+(ii) sub-paragraph (ii) and the word “and” immediately preceding it are repealed;
+
+(b) in subsection (2), paragraph (a)(ii) and the word “and” immediately preceding it are repealed;
+
+(c) for subsection (3), there is substituted—
+
+> (3) This section applies to a procession of the description set out in section 62(11B)(a) of this Act (funeral processions) only to the extent that the procession has been held otherwise than in accordance with conditions imposed under this Part of this Act.
+>
+> (3A) This section applies to a procession which is within section 62(11B)(b) of this Act (processions specified by order) only if and to the extent that it has been prohibited or conditions imposed on it under this Part of this Act.
+
+.
+
+(3) After that section there is inserted—
+
+> **65A Guidance to local authorities**
+>
+> The local authority shall, in carrying out functions under this Part of this Act, have regard to any guidance in that respect issued by the Scottish Ministers.
+
+.
+
+### Chapter 3 — Other provisions
+
+#### Offensive weapons
+
+##### 73 Increase in maximum term of imprisonment for certain offences
+
+(1) The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) is amended as follows.
+
+(2) In section 49(1)(a) (penalty on summary conviction for offence of possessing an article with a blade or point in a public place) for “six” there is substituted “ twelve ”.
+
+(3) In section 49(1)(b) (penalty on indictment for offence of possessing an article with a blade or point in a public place), for “two” there is substituted “ four ”.
+
+(4) In section 49A(5)(a)(i) (penalty on summary conviction for offence of possessing an article with a blade or point on school premises) for “six” there is substituted “ twelve ”.
+
+(5) In section 49A(5)(a)(ii) (penalty on indictment for offence of possessing an article with a blade or point on school premises), for “two” there is substituted “ four ”.
+
+##### 74 Amendment of requirements for exercise of certain powers of arrest
+
+(1) The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) is amended as follows.
+
+(2) In section 47(3) (power of constable to arrest without warrant person suspected of possessing an offensive weapon in a public place)—
+
+(a) after “believe” where first occurring there is inserted “ to have committed or ”; and
+
+(b) the words from “if” to the end are repealed.
+
+(3) In section 48(3) (power of constable to arrest without warrant person suspected of obstructing search for offensive weapon), after “committed” there is inserted “ or is committing ”.
+
+(4) In section 50(3) (power of constable to arrest without warrant person suspected of contravening section 49(1) or 49A(1) or (2)), the following provisions are repealed—
+
+(a) paragraph (a) and the words “and the constable” immediately preceding it; and
+
+(b) paragraph (b).
+
+##### 75 Sale of knives and articles with blade or point to young persons
+
+(1) Section 141A of the Criminal Justice Act 1988 (c. 33) (sale of knives etc. to persons under 16) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) at the beginning there is inserted “ Subject to subsection (3A) below ”; and
+
+(b) for “sixteen” there is substituted “ eighteen ”.
+
+(3) In subsection (2)—
+
+(a) the word “and” immediately following paragraph (b) is repealed; and
+
+(b) after that paragraph there is inserted—
+
+> (ba) any sword; and
+
+.
+
+(4) After subsection (3) there is inserted—
+
+> (3A) It is not an offence under subsection (1) to sell a knife or knife blade to a person if—
+>
+> (a) the person is aged 16 or over; and
+>
+> (b) the knife or blade is designed for domestic use.
+
+.
+
+(5) The side note to that section becomes “ “Sale of knives and certain articles with blade or point to persons under eighteen ”.
+
+#### Fireworks
+
+##### 76 Possession of prohibited fireworks: powers of search and arrest
+
+After section 11 of the Fireworks Act 2003 (c. 22) there is inserted—
+
+> **11A Prohibitions on possession of fireworks – power of search: Scotland**
+>
+> (1) A constable may search a person without warrant if the constable has reasonable grounds for suspecting that the person possesses a firework in contravention of a prohibition imposed by fireworks regulations.
+>
+> (2) A constable may detain a person for such time as is reasonably required to permit a search of the person under subsection (1) to be carried out.
+>
+> (3) A constable who detains a person under subsection (2) must inform the person of the reason for the detention.
+>
+> (4) If in the course of a search under this section, a constable discovers a firework which the constable has reasonable grounds for suspecting is being possessed by the person in contravention of a prohibition imposed by fireworks regulations, the constable may seize it.
+>
+> (5) A person who—
+>
+> (a) intentionally obstructs a constable in the exercise of the constable's power under subsection (1) or (2); or
+>
+> (b) conceals from a constable acting in the exercise of the constable's power under subsection (1) any firework whose possession contravenes a prohibition imposed by fireworks regulations,
+>
+> commits an offence.
+>
+> (6) A constable may arrest a person without warrant if the constable has reasonable cause to believe the person has committed or is committing an offence under subsection (5).
+>
+> (7) A person who commits an offence under subsection (5) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+>
+> **11B Prohibitions on possession of fireworks – arrest without warrant: Scotland**
+>
+> (1) A constable may arrest a person without warrant if—
+>
+> (a) the constable has reasonable cause to believe that the person has committed or is committing an offence under section 11(1) in respect of a contravention of a prohibition on possession of a firework; and
+>
+> (b) either of the two conditions mentioned in subsection (2) is met.
+>
+> (2) The conditions are that—
+>
+> (a) having asked the person to give the person's name or address (or both), the constable—
+>
+> (i) is not given the information asked for; or
+>
+> (ii) is not satisfied that such information as is given is correct;
+>
+> (b) the constable has reasonable cause to believe it is necessary to arrest the person in order to prevent the person committing any other offence in the course of whose commission there might be used a firework whose possession is prohibited by fireworks regulations.
+
+.
+
+#### Control of sex offenders
+
+##### 77 Powers to take data and samples from persons subject to notification requirements
+
+(1) The 1995 Act is amended in accordance with subsections (2) to (5).
+
+(2) After section 19A there is inserted—
+
+> **19AA Samples etc. from sex offenders**
+>
+> (1) This section applies where a person is subject to—
+>
+> (a) the notification requirements of Part 2 of the 2003 Act;
+>
+> (b) an order under section 2 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9) (a risk of sexual harm order); or
+>
+> (c) an order under section 123 of the 2003 Act (which makes provision for England and Wales and Northern Ireland corresponding to section 2 of that Act of 2005).
+>
+> (2) This section applies regardless of whether the person became subject to those requirements or that order before or after the commencement of this section.
+>
+> (3) Subject to subsections (4) to (8) below, where this section applies a constable may—
+>
+> (a) take from the person or require the person to provide him with such relevant physical data as the constable considers reasonably appropriate;
+>
+> (b) with the authority of an officer of a rank no lower than inspector, take from the person any sample mentioned in any of paragraphs (a) to (c) of subsection (6) of section 18 of this Act by the means specified in that paragraph in relation to that sample;
+>
+> (c) take, or direct a police custody and security officer to take, from the person any sample mentioned in subsection (6A) of that section by the means specified in that subsection.
+>
+> (4) Where this section applies by virtue of subsection (1)(c) above, the power conferred by subsection (3) shall not be exercised unless the constable reasonably believes that the person's sole or main residence is in Scotland.
+>
+> (5) The power conferred by subsection (3) above shall not be exercised where the person has previously had taken from him or been required to provide relevant physical data or any sample under section 19(2) or 19A(2) of this Act unless the data so taken or required have been or, as the case may be, the sample so taken has been, lost or destroyed.
+>
+> (6) The power conferred by subsection (3) above shall not be exercised where the person has previously had taken from him or been required to provide relevant physical data or any sample under that subsection unless the data so taken or required or, as the case may be, the sample so taken—
+>
+> (a) have or has been lost or destroyed; or
+>
+> (b) were or was not suitable for the particular means of analysis or, though suitable, were or was insufficient (either in quantity or quality) to enable information to be obtained by that means of analysis.
+>
+> (7) The power conferred by subsection (3) above may be exercised only—
+>
+> (a) in a police station; or
+>
+> (b) where the person is in legal custody by virtue of section 295 of this Act, in the place where the person is for the time being.
+>
+> (8) The power conferred by subsection (3) above may be exercised in a police station only—
+>
+> (a) where the person is present in the police station in pursuance of a requirement made by a constable to attend for the purpose of the exercise of the power; or
+>
+> (b) while the person is in custody in the police station following his arrest or detention under section 14(1) of this Act in connection with any offence.
+>
+> (9) A requirement under subsection (8)(a) above—
+>
+> (a) shall give the person at least seven days' notice of the date on which he is required to attend;
+>
+> (b) may direct him to attend at a specified time of day or between specified times of day; and
+>
+> (c) where this section applies by virtue of subsection (1)(b) or (c) above, shall warn the person that failure, without reasonable excuse, to comply with the requirement or, as the case may be, to allow the taking of or to provide any relevant physical data, or to provide any sample, under the power, constitutes an offence.
+>
+> (10) A requirement under subsection (8)(a) above in a case where the person has previously had taken from him or been required to provide relevant physical data or any sample under subsection (3) above shall contain intimation that the relevant physical data were or the sample was unsuitable or, as the case may be, insufficient, as mentioned in subsection (6)(b) above.
+>
+> (11) Before exercising the power conferred by subsection (3) above in a case to which subsection (8)(b) above applies, a constable shall inform the person of that fact.
+>
+> (12) Any constable may arrest without warrant a person who fails to comply with a requirement under subsection (8)(a) above.
+>
+> (13) This section does not prejudice the generality of section 18 of this Act.
+>
+> (14) In this section, “the 2003 Act” means the Sexual Offences Act 2003 (c. 42).”.
+>
+> **19AB Section 19AA: supplementary provision in risk of sexual harm order cases**
+>
+> (1) This section applies where section 19AA of this Act applies by virtue of subsection (1)(b) or (c) of that section.
+>
+> (2) A person who fails without reasonable excuse—
+>
+> (a) to comply with a requirement made of him under section 19AA(8)(a) of this Act; or
+>
+> (b) to allow relevant physical data to be taken from him, to provide relevant physical data, or to allow a sample to be taken from him, under section 19AA(3) of this Act,
+>
+> shall be guilty of an offence.
+>
+> (3) A person guilty of an offence under subsection (2) above shall be liable on summary conviction to the following penalties—
+>
+> (a) a fine not exceeding level 4 on the standard scale;
+>
+> (b) imprisonment for a period—
+>
+> (i) where the conviction is in the district court, not exceeding 60 days; or
+>
+> (ii) where the conviction is in the sheriff court, not exceeding 3 months; or
+>
+> (c) both such fine and such imprisonment.
+>
+> (4) Subject to subsection (6) below, all record of any relevant physical data taken from or provided by a person under section 19AA(3) of this Act, all samples taken from a person under that subsection and all information derived from such samples shall be destroyed as soon as possible following the person ceasing to be a person subject to any risk of sexual harm orders.
+>
+> (5) For the purpose of subsection (4) above, a person does not cease to be subject to a risk of sexual harm order where the person would be subject to such an order but for an order under section 6(2) of the 2005 Act or any corresponding power of a court in England and Wales or in Northern Ireland.
+>
+> (6) Subsection (4) above does not apply if before the duty to destroy imposed by that subsection would apply, the person—
+>
+> (a) is convicted of an offence; or
+>
+> (b) becomes subject to the notification requirements of Part 2 of the 2003 Act.
+>
+> (7) In this section—
+>
+> - “risk of sexual harm order” means an order under—
+>
+>   - (a) section 2 of the 2005 Act; or
+>   - (b) section 123 of the 2003 Act;
+>
+> - “the 2005 Act” means the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9);
+>
+> - “the 2003 Act” has the meaning given by section 19AA(14) of this Act; and
+>
+> - “convicted” shall be construed in accordance with section 19A(6) of this Act.
+
+.
+
+(3) In section 19 (further powers to take samples etc.), in subsection (1)(b)(i), for “or 19A” there is substituted “ , 19A or 19AA ”.
+
+(4) In section 19A (power to take samples etc. from sexual and violent offenders), in subsection (3), for “or under this section” there is substituted “ , under this section or under section 19AA(3) of this Act ”.
+
+(5) Section 19B (power of constable in obtaining samples etc.) is amended as follows—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a), after “Act” there is inserted “ , or under subsection (3)(a) of section 19AA of this Act where that section applies by virtue of subsection (1)(a) of that section ”; and
+
+(ii) in paragraph (b), after “Act” there is inserted “ , or under subsection (3)(b) of section 19AA of this Act where that section applies by virtue of subsection (1)(a) of that section ”; and
+
+(b) in subsection (2), after “Act” there is inserted “ , or under subsection (3)(c) of section 19AA of this Act where that section applies by virtue of subsection (1)(a) of that section ”.
+
+(6) The Sexual Offences Act 2003 (“the 2003 Act”) is amended in accordance with subsections (7) to (9).
+
+(7) For sections 87(4) and (5) (power to take fingerprints etc. to verify person's identity), there is substituted—
+
+> (5A) Where a notification is given in Scotland under section 83(1), 84(1) or 85(1), the relevant offender must, if requested to do so by the police officer or person referred to in subsection (1)(b), do one or more of the following—
+>
+> (a) allow the officer or person to photograph any part of the offender,
+>
+> (b) allow the officer or person to take from the offender, or provide to the officer or person, such relevant physical data as the officer or person considers appropriate,
+>
+> (c) allow the officer or person to take from the offender any sample mentioned in any of paragraphs (a) to (c) of subsection (6) of section 18 of the Criminal Procedure (Scotland) Act 1995 by the means specified in that paragraph in relation to that sample,
+>
+> (d) allow the officer or person to take from the offender any sample mentioned in subsection (6A) of that section by the means specified in that subsection.
+
+.
+
+(8) In section 88 (interpretation of section 87), after subsection (2) there is inserted—
+
+> (2A) “Relevant physical data” has the meaning given by section 18(7A) of the Criminal Procedure (Scotland) Act 1995.
+
+.
+
+(9) In section 91(1)(a) (offence of failing to complying with certain provisions of Part 2, including section 87(4)) for “87(4)” there is substituted “ 87(5A) ”.
+
+##### 78 Sex offender notification requirements
+
+(1) Section 83 of the 2003 Act (which requires certain offenders to make an initial notification of certain information) is amended in accordance with subsections (2) and (3).
+
+(2) In subsection (5), after paragraph (g) there is inserted—
+
+> (h) whether he has any passports and, in relation to each passport he has, the details set out in subsection (5A);
+>
+> (i) such other information, about him or his personal affairs, as the Scottish Ministers may prescribe in regulations.
+>
+> (5A) The details are—
+>
+> (a) the issuing authority;
+>
+> (b) the number;
+>
+> (c) the dates of issue and expiry;
+>
+> (d) the name and date of birth given as being those of the passport holder.
+
+.
+
+(3) After subsection (7), there is inserted—
+
+> (8) In this section, “passport” means—
+>
+> (a) a United Kingdom passport within the meaning of the Immigration Act 1971 (c. 77);
+>
+> (b) a passport issued by or on behalf of the authorities of a country outside the United Kingdom, or by or on behalf of an international organisation;
+>
+> (c) a document that can be used (in some or all circumstances) instead of a passport.
+
+.
+
+(4) Section 84 of the 2003 Act (which requires certain changes to notified information to be notified within 3 days) is amended in accordance with subsections (5) and (6).
+
+(5) In subsection (1)—
+
+(a) the word “or” immediately after paragraph (c) is repealed;
+
+(b) after paragraph (d) there is inserted—
+
+> (e) his losing or ceasing to have a passport notified to the police under section 83(1) or this subsection,
+>
+> (f) his receiving a passport which has not been notified to the police under section 83(1) or this subsection, or
+>
+> (g) the occurrence, in relation to information required to be notified by virtue of regulations made under section 83(5)(i), of an event prescribed by the Scottish Ministers in regulations,
+
+; and
+
+(c) for “(as the case may be) the fact that he has been released” there is substituted “ the fact that he has been released, the fact that he has lost or ceased to have the passport, the details set out in section 83(5A) in relation to the passport or (as the case may be) such information as the Scottish Ministers prescribe in regulations ”.
+
+(6) After subsection (1), there is inserted—
+
+> (1A) In subsection (1), “passport” has the same meaning as in section 83.
+
+.
+
+(7) In section 87 of the 2003 Act (method of notification and related matters), after subsection (5A) (as inserted by section 77) there is inserted—
+
+> (5B) Where a notification is given in Scotland under section 83(1), 84(1) or 85(1), the relevant offender must, if requested to do so by the police officer or person referred to in subsection (1)(b), produce each passport he has to that officer or person, for inspection by that officer or person.
+>
+> (5C) In subsection (5B), “passport” has the same meaning as in section 83.
+
+.
+
+(8) In section 91(1)(a) of the 2003 Act (offences of failing to comply with certain provisions), after “(5A)” (as inserted by section 77) there is inserted “ or (5B) ”.
+
+(9) In section 138 of the 2003 Act (orders and regulations), in subsection (2), after “21,” there is inserted “ 83, 84, ”.
+
+##### 79 Information about release: power to require giving of specified information
+
+(1) Section 96 of the 2003 Act (information about release or transfer) is amended in accordance with subsections (2) and (3).
+
+(2) After subsection (2) there is inserted—
+
+> (2A) The regulations may make provision requiring the person who is responsible for an offender, in giving notice under the regulations, to provide—
+>
+> (a) any information about the offender, or
+>
+> (b) a photograph of any part of the offender.
+>
+> (2B) In subsection (2A), “photograph” is to be construed in accordance with section 88(2).
+
+.
+
+(3) After subsection (3) there is inserted—
+
+> (4) The regulations may make different provision for different purposes.
+
+##### 80 Police powers of entry to and examination of relevant offender's home address
+
+After section 96 of the 2003 Act there is inserted—
+
+> **96A Entry and examination of home address**
+>
+> Police powers of entry to and examination of relevant offender's home address
+>
+> (1) A sheriff may, if satisfied on the application of a senior police officer of the relevant force as to the matters mentioned in subsection (2), grant a warrant authorising any constable of the relevant force to enter premises in the sheriffdom (if necessary using reasonable force) and to examine and search them, and the things in them, for the purpose mentioned in subsection (3).
+>
+> (2) Those matters are—
+>
+> (a) that the premises are either—
+>
+> (i) premises whose address has been notified by a relevant offender as his home address in his most recent notification of a home address under this Part; or
+>
+> (ii) premises whose address has been notified by a relevant offender as the address of any other premises at which he regularly resides or stays, in his most recent notification under section 83(1) or 85(1) or in any notification under section 84(1) given by him since that notification;
+>
+> (b) that the offender is not one to whom subsection (4) applies;
+>
+> (c) that it would assist the carrying out of the purpose mentioned in subsection (3), for a constable of the relevant force to examine and search the premises and the things in them; and
+>
+> (d) that on more than one occasion, a constable of the relevant force has attempted to examine and search the premises and the things in them for the purpose mentioned in subsection (3) and has been unable (whether by not being able to search and examine the premises and the things in them, or by not being able to obtain entry to the premises) to do so.
+>
+> (3) That purpose is assessing the risk of the offender committing a sexual offence.
+>
+> (4) This subsection applies to the relevant offender if he is—
+>
+> (a) remanded in or committed to custody by an order of a court;
+>
+> (b) serving a sentence of imprisonment or a term of service detention;
+>
+> (c) detained in a hospital; or
+>
+> (d) outside the United Kingdom.
+>
+> (5) A sheriff is to determine an application for a warrant under subsection (1) without hearing from the relevant offender or any other person who has an interest in the premises.
+>
+> (6) A warrant under subsection (1) does not confer power to seize anything in the premises to which it relates.
+>
+> (7) A warrant under subsection (1) must be executed at a reasonable hour.
+>
+> (8) A warrant under subsection (1) continues in force until the expiry of the period of one month beginning with the date of the warrant's grant.
+>
+> (9) A warrant under subsection (1) authorises entry on one occasion only.
+>
+> (10) This section does not prejudice any other power of entry, examination, search or seizure.
+>
+> (11) In this section—
+>
+> - “the relevant force” means the police force maintained for the area in which the premises are situated;
+>
+> - “senior police officer” means a constable of the rank of superintendent or above; and
+>
+> - “sexual offence” means—
+>
+>   - (a) an offence within any of paragraphs 36 to 59C of Schedule 3; or
+>   - (b) any other offence in circumstances in which it would be likely that a determination such as is mentioned in paragraph 60 of that Schedule would be made in relation to the offence.
+
+.
+
+## Part 3 — Criminal justice
+
+### Powers in relation to suspects and witnesses
+
+#### 81 Power to require giving of certain information in addition to name and address
+
+(1) Section 13 of the Criminal Procedure (Scotland) Act 1995 (c. 46) (“the 1995 Act”) (which gives police constables certain powers in relation to suspects and witnesses) is amended in accordance with subsections (2) to (5).
+
+(2) In subsection (1), in each of paragraphs (a) and (b), for “his name and address” there is substituted “ the information mentioned in subsection (1A) below ”.
+
+(3) After subsection (1), there is inserted—
+
+> (1A) That information is—
+>
+> (a) the person's name;
+>
+> (b) the person's address;
+>
+> (c) the person's date of birth;
+>
+> (d) the person's place of birth (in such detail as the constable considers necessary or expedient for the purpose of establishing the person's identity); and
+>
+> (e) the person's nationality.
+
+.
+
+(4) In subsection (2)(a), for “name and address” there is substituted “ information mentioned in subsection (1A) above ”.
+
+(5) In subsection (6), in each of paragraphs (a)(i) and (b), for “his name and address” there is substituted “ the information mentioned in subsection (1A) above ”.
+
+(6) Section 14 of the 1995 Act (detention and questioning at a police station) is amended as follows—
+
+(a) in subsection (9), for “his name and address” there is substituted “ the information mentioned in subsection (10) below ”; and
+
+(b) after that subsection, there is inserted—
+
+> (10) That information is—
+>
+> (a) the person's name;
+>
+> (b) the person's address;
+>
+> (c) the person's date of birth;
+>
+> (d) the person's place of birth (in such detail as a constable considers necessary or expedient for the purpose of establishing the person's identity); and
+>
+> (e) the person's nationality.
+
+.
+
+#### 82 Power to take fingerprints to establish identity of suspect (prospective)
+
+(1) Section 13 of the 1995 Act (which gives police constables certain powers in relation to suspects and witnesses) is amended as follows.
+
+(2) After subsection (1A) (as inserted by section 81) there is inserted—
+
+> (1B) The constable may, if the person mentioned in paragraph (a) of subsection (1) gives a name and address, require the person to provide—
+>
+> (a) the person's fingerprints; or
+>
+> (b) a record, created by a device approved by the Scottish Ministers, of the skin on the person's fingers.
+>
+> (1C) Fingerprints or a record provided by a person under a requirement under subsection (1B) above may be used only for the following purposes—
+>
+> (a) verifying the name and address given by the person;
+>
+> (b) establishing whether the person may be a person who is suspected of having committed any other offence,
+>
+> and all record of such fingerprints or record shall be destroyed as soon as possible after they have fulfilled those purposes.
+
+.
+
+(3) In subsection (2)—
+
+(a) for “(either or both)” there is substituted “ (any or all) ”; and
+
+(b) after paragraph (a) there is inserted—
+
+> (aa) subject to subsection (3A) below, establishes whether the person may be a person who is suspected of having committed any other offence;
+
+.
+
+(4) After subsection (3), there is inserted—
+
+> (3A) The constable shall exercise the power under paragraph (aa) of subsection (2) above only where—
+>
+> (a) the person mentioned in paragraph (a) of subsection (1) above has given a name and address; and
+>
+> (b) it appears to the constable that establishing the matter mentioned in paragraph (aa) of subsection (2) can be achieved quickly.
+
+.
+
+(5) In subsection (5)—
+
+(a) after paragraph (b) there is inserted—
+
+> (ba) subsection (1B) above, of the existence of the power to make the requirement and why he proposes to exercise it in the person's case;
+
+; and
+
+(b) in paragraph (d), for “either” there is substituted “ any ”.
+
+(6) In subsection (6)—
+
+(a) the word “or” immediately after paragraph (a)(i) is repealed;
+
+(b) after paragraph (a)(ii) there is inserted
+
+> ; or
+>
+> (iii) under subsection (1B) above to provide the person's fingerprints or a record such as is mentioned in that subsection,
+
+.
+
+(7) After subsection (7) there is inserted—
+
+> (8) The Scottish Ministers by order made by statutory instrument may approve a device for the purpose of creating records of the sort mentioned in subsection (1B)(b) above.
+
+.
+
+### Retention of samples etc.: prosecutions for sexual and violent offences
+
+#### 83 Retention of samples etc.: prosecutions for sexual and violent offences
+
+(1) In section 18(3) of the 1995 Act (prints, samples etc. in criminal investigations), after “below” where it first occurs there is inserted “ and section 18A of this Act ”.
+
+(2) After section 18 of that Act there is inserted—
+
+> **18A Retention of samples etc.: prosecutions for sexual and violent offences**
+>
+> (1) This section applies to any sample, or any information derived from a sample, taken under subsection (6) or (6A) of section 18 of this Act, where the condition in subsection (2) below is satisfied.
+>
+> (2) That condition is that criminal proceedings in respect of a relevant sexual offence or a relevant violent offence were instituted against the person from whom the sample was taken but those proceedings concluded otherwise than with a conviction or an order under section 246(3) of this Act.
+>
+> (3) Subject to subsections (9) and (10) below, the sample or information shall be destroyed no later than the destruction date.
+>
+> (4) The destruction date is—
+>
+> (a) the date of expiry of the period of 3 years following the conclusion of the proceedings; or
+>
+> (b) such later date as an order under subsection (5) below may specify.
+>
+> (5) On a summary application made by the relevant chief constable within the period of 3 months before the destruction date the sheriff may, if satisfied that there are reasonable grounds for doing so, make an order amending, or further amending, the destruction date.
+>
+> (6) An application under subsection (5) above may be made to any sheriff—
+>
+> (a) in whose sheriffdom the person referred to in subsection (2) above resides;
+>
+> (b) in whose sheriffdom that person is believed by the applicant to be; or
+>
+> (c) to whose sheriffdom the person is believed by the applicant to be intending to come.
+>
+> (7) An order under subsection (5) above shall not specify a destruction date more than 2 years later than the previous destruction date.
+>
+> (8) The decision of the sheriff on an application under subsection (5) above may be appealed to the sheriff principal within 21 days of the decision; and the sheriff principal's decision on any such appeal is final.
+>
+> (9) Subsection (3) above does not apply where—
+>
+> (a) an application under subsection (5) above has been made but has not been determined;
+>
+> (b) the period within which an appeal may be brought under subsection (8) above against a decision to refuse an application has not elapsed; or
+>
+> (c) such an appeal has been brought but has not been withdrawn or finally determined.
+>
+> (10) Where—
+>
+> (a) the period within which an appeal referred to in subsection (9)(b) above may be brought has elapsed without such an appeal being brought;
+>
+> (b) such an appeal is brought and is withdrawn or finally determined against the appellant; or
+>
+> (c) an appeal brought under subsection (8) above against a decision to grant an application is determined in favour of the appellant,
+>
+> the sample or information shall be destroyed as soon as possible thereafter.
+>
+> (11) In this section—
+>
+> - “the relevant chief constable” means—
+>
+>   - (a) the chief constable of the police force of which the constable who took or directed the taking of the sample was a member;
+>   - (b) the chief constable of the police force in the area of which the person referred to in subsection (2) above resides; or
+>   - (c) a chief constable who believes that that person is or is intending to come to the area of the chief constable's police force; and
+>
+> - “relevant sexual offence” and “relevant violent offence” have the same meanings as in section 19A(6) of this Act and include any attempt, conspiracy or incitement to commit such an offence.
+
+.
+
+### Arrested persons: drug testing and reference for assessment
+
+#### 84 Testing of arrested persons for Class A drugs
+
+After section 20 of the 1995 Act there is inserted—
+
+> **Testing for Class A drugs**
+>
+> **20A Arrested persons: testing for certain Class A drugs**
+>
+> (1) Subject to subsection (2) below, where subsection (3) below applies an appropriate officer may—
+>
+> (a) require a person who has been arrested and is in custody in a police station to provide him with a sample of urine; or
+>
+> (b) take from the inside of the mouth of such a person, by means of swabbing, a sample of saliva or other material,
+>
+> which the officer may subject to analysis intended to reveal whether there is any relevant Class A drug in the person's body.
+>
+> (2) The power conferred by subsection (1) above shall not be exercised where the person has previously been required to provide or had taken from him a sample under that subsection in the same period in custody.
+>
+> (3) This subsection applies where—
+>
+> (a) the person is of 16 years of age or more;
+>
+> (b) the period in custody in the police station has not exceeded 6 hours;
+>
+> (c) the police station is situated in an area prescribed by order made by statutory instrument by the Scottish Ministers; and
+>
+> (d) either—
+>
+> (i) the person's arrest was on suspicion of committing or having committed a relevant offence; or
+>
+> (ii) a senior police officer who has appropriate grounds has authorised the making of the requirement to provide or the taking of the sample.
+>
+> (4) Before exercising the power conferred by subsection (1) above, an appropriate officer shall—
+>
+> (a) warn the person in respect of whom it is to be exercised that failure, without reasonable excuse, to comply with the requirement or, as the case may be, allow the sample to be taken constitutes an offence; and
+>
+> (b) in a case within subsection (3)(d)(ii) above, inform the person of the giving of the authorisation and the grounds for the suspicion.
+>
+> (5) Where—
+>
+> (a) a person has been required to provide or has had taken a sample under subsection (1) above;
+>
+> (b) any of the following is the case—
+>
+> (i) the sample was not suitable for the means of analysis to be used to reveal whether there was any relevant Class A drug in the person's body;
+>
+> (ii) though suitable, the sample was insufficient (either in quantity or quality) to enable information to be obtained by that means of analysis; or
+>
+> (iii) the sample was destroyed during analysis and the means of analysis failed to produce reliable information; and
+>
+> (c) the person remains in custody in the police station (whether or not the period of custody has exceeded 6 hours),
+>
+> an appropriate officer may require the person to provide or as the case may be take another sample of the same kind by the same method.
+>
+> (6) Before exercising the power conferred by subsection (5) above, an appropriate officer shall warn the person in respect of whom it is to be exercised that failure, without reasonable excuse, to comply with the requirement or, as the case may be, allow the sample to be taken constitutes an offence.
+>
+> (7) A person who fails without reasonable excuse—
+>
+> (a) to comply with a requirement made of him under subsection (1)(a) or (5) above; or
+>
+> (b) to allow a sample to be taken from him under subsection (1)(b) or (5) above,
+>
+> shall be guilty of an offence.
+>
+> (8) In this section—
+>
+> - “appropriate grounds” means reasonable grounds for suspecting that the misuse by the person of any relevant Class A drug caused or contributed to the offence on suspicion of which the person was arrested;
+>
+> - “appropriate officer” means—
+>
+>   - (a) a constable; or
+>   - (b) a police custody and security officer acting on the direction of a constable;
+>
+> - “misuse” has the same meaning as in the Misuse of Drugs Act 1971 (c. 38);
+>
+> - “relevant Class A drug” means any of the following substances, preparations and products—
+>
+>   - (a) cocaine or its salts;
+>   - (b) any preparation or other product containing cocaine or its salts;
+>   - (c) diamorphine or its salts;
+>   - (d) any preparation or other product containing diamorphine or its salts;
+>
+> - “relevant offence” means any of the following offences—
+>
+>   - (a) theft;
+>   - (b) assault;
+>   - (c) robbery;
+>   - (d) fraud;
+>   - (e) reset;
+>   - (f) uttering a forged document;
+>   - (g) embezzlement;
+>   - (h) an attempt, conspiracy or incitement to commit an offence mentioned in paragraphs (a) to (g);
+>   - (i) an offence under section 4 of the Misuse of Drugs Act 1971 (c. 38) (restriction on production and supply of controlled drugs) committed in respect of a relevant Class A drug;
+>   - (j) an offence under section 5(2) of that Act of 1971 (possession of controlled drug) committed in respect of a relevant Class A drug;
+>   - (k) an offence under section 5(3) of that Act of 1971 (possession of controlled drug with intent to supply) committed in respect of a relevant Class A drug;
+>
+> - “senior police officer” means a police officer of a rank no lower than inspector.
+>
+> **20B Section 20A: supplementary**
+>
+> (1) Section 20A of this Act does not prejudice the generality of section 18 of this Act.
+>
+> (2) Each person carrying out a function under section 20A of this Act must have regard to any guidance issued by the Scottish Ministers—
+>
+> (a) about the carrying out of the function; or
+>
+> (b) about matters connected to the carrying out of the function.
+>
+> (3) An order under section 20A(3)(c) shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+>
+> (4) An authorisation for the purposes of section 20A of this Act may be given orally or in writing but, if given orally, the person giving it shall confirm it in writing as soon as is reasonably practicable.
+>
+> (5) If a sample is provided or taken under section 20A of this Act by virtue of an authorisation, the authorisation and the grounds for the suspicion are to be recorded in writing as soon as is reasonably practicable after the sample is provided or taken.
+>
+> (6) A person guilty of an offence under section 20A of this Act shall be liable on summary conviction to the following penalties—
+>
+> (a) a fine not exceeding level 4 on the standard scale;
+>
+> (b) imprisonment for a period—
+>
+> (i) where conviction is in the district court, not exceeding 60 days; or
+>
+> (ii) where conviction is in the sheriff court, not exceeding 3 months; or
+>
+> (c) both such fine and imprisonment.
+>
+> (7) Subject to subsection (8) below, a sample provided or taken under section 20A of this Act shall be destroyed as soon as possible following its analysis for the purpose for which it was taken.
+>
+> (8) Where an analysis of the sample reveals that a relevant Class A drug is present in the person's body, the sample may be retained so that it can be used, and supplied to others, for the purpose of any proceedings against the person for an offence under section 88 of the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10); but—
+>
+> (a) the sample may not be used, or supplied, for any other purpose; and
+>
+> (b) the sample shall be destroyed as soon as possible once it is no longer capable of being used for that purpose.
+>
+> (9) Information derived from a sample provided by or taken from a person under section 20A of this Act may be used and disclosed only for the following purposes—
+>
+> (a) for the purpose of proceedings against the person for an offence under section 88 of the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10);
+>
+> (b) for the purpose of informing any decision about granting bail in any criminal proceedings to the person;
+>
+> (c) for the purpose of informing any decision of a children's hearing arranged to consider the person's case;
+>
+> (d) where the person is convicted of an offence, for the purpose of informing any decision about the appropriate sentence to be passed by a court and any decision about the person's supervision or release;
+>
+> (e) for the purpose of ensuring that appropriate advice and treatment is made available to the person.
+>
+> (10) Subject to subsection (11) below, the Scottish Ministers may by order made by statutory instrument modify section 20A(8) of this Act for either of the following purposes—
+>
+> (a) for the purpose of adding an offence to or removing an offence from those for the time being listed in the definition of “relevant offence”;
+>
+> (b) for the purpose of adding a substance, preparation or product to or removing a substance, preparation or product from those for the time being listed in the definition of “relevant Class A drug”.
+>
+> (11) An order under subsection (10)(b) may add a substance, preparation or product only if it is a Class A drug (that expression having the same meaning as in the Misuse of Drugs Act 1971 (c. 38)).
+>
+> (12) An order under subsection (10) above shall not be made unless a draft of the statutory instrument containing it has been laid before and approved by resolution of the Scottish Parliament.
+
+.
+
+#### 85 Assessment following positive test under section 20A of the 1995 Act
+
+(1) This section applies where—
+
+(a) a sample is provided or taken under section 20A of the 1995 Act by or from a person in custody in a police station; and
+
+(b) an analysis of the sample reveals that a relevant Class A drug is present in the person's body.
+
+(2) A constable must require the person to attend, and remain for the duration of, a drugs assessment.
+
+(3) A drugs assessment is an appointment with a suitably qualified person (“a drugs assessor”)—
+
+(a) for the purpose of establishing whether the person is dependent on, or has a propensity to misuse, any relevant Class A drug;
+
+(b) if the drugs assessor thinks that the person has such a dependency or propensity, for the purpose of establishing whether the person might benefit from assistance or treatment (or both) in connection with the dependency or propensity; and
+
+(c) if the drugs assessor thinks that the person might benefit from such assistance or treatment (or both), for the purpose of drawing up a document which sets out the nature of assistance or treatment (or both) which may be most appropriate for the person in connection with any dependency on, or propensity to misuse, a relevant Class A drug which the drugs assessor thinks the person has.
+
+#### 86 Requirements under section 85: supplementary
+
+(1) This section applies where by virtue of section 85(2) a person is required by a constable to attend and remain for the duration of a drugs assessment.
+
+(2) The constable must—
+
+(a) inform the person of the place at which the drugs assessment is to take place; and
+
+(b) require the person, for the purpose of being given details of the date and time of the assessment, to report at that place on such date, or on one of such dates, as the constable specifies (such date or dates falling within the period of 7 days beginning with the date on which the requirement is made), at such time, or between such times, as the constable specifies;
+
+and the constable must explain that these matters will be confirmed in writing.
+
+(3) The constable must warn the person that the person is liable to prosecution if the person fails without reasonable excuse—
+
+(a) to attend and remain for the duration of the drugs assessment; or
+
+(b) to comply with the requirement imposed under subsection (2)(b).
+
+(4) The constable must give the person notice in writing which—
+
+(a) confirms the requirement to attend and remain for the duration of a drugs assessment;
+
+(b) confirms the information given in pursuance of subsection (2)(a);
+
+(c) confirms the requirement imposed under subsection (2)(b); and
+
+(d) repeats the warning given in pursuance of subsection (3).
+
+(5) The duties imposed by subsections (2) to (4) must be carried out before the person is released from custody at the police station.
+
+(6) As soon as reasonably practicable following the carrying out of those duties, the constable must inform the drugs assessor who is to carry out the drugs assessment—
+
+(a) of the making of the requirement to attend and remain for the duration of the assessment; and
+
+(b) of the requirement imposed under subsection (2)(b).
+
+#### 87 Date, time and place of assessment
+
+(1) Subsection (2) applies where, in accordance with a requirement imposed by virtue of section 86(2), a person reports at the place where the person's drugs assessment is to take place.
+
+(2) The drugs assessor who is to carry out the drugs assessment or a person acting on the drugs assessor's behalf must give the person a notice in writing which—
+
+(a) informs the person of the date and time of the drugs assessment;
+
+(b) confirms the place of the drugs assessment; and
+
+(c) warns the person that the person is liable to prosecution if the person fails without good cause to attend and remain for the duration of the drugs assessment.
+
+(3) Where a person is given a notice in pursuance of subsection (2), the drugs assessor who is to carry out the drugs assessment or a person acting on the drugs assessor's behalf may change the date, time or place of the assessment by serving on the person a further notice in writing which—
+
+(a) informs the person of the change; and
+
+(b) repeats the warning mentioned in subsection (2)(c).
+
+(4) For the purpose of subsection (3), a notice is served on a person if—
+
+(a) given to the person; or
+
+(b) sent to the person by registered post or a recorded delivery service.
+
+(5) A certificate of posting of a notice sent under subsection (4)(b) issued by the postal operator concerned is sufficient evidence of the sending of the notice on the day specified in the certificate.
+
+(6) In subsection (5), “postal operator” has the meaning given by [[^F72]section 27 of the Postal Services Act 2011 (c.5)].
+
+#### 88 Failure to comply with requirements under sections 85 and 86
+
+(1) The drugs assessor must inform a constable if a person who, by virtue of section 85(2), is required to attend and remain for the duration of a drugs assessment—
+
+(a) fails to comply with the requirement imposed by virtue of section 86(2)(b);
+
+(b) fails to attend the assessment on the specified date and at the specified time and place; or
+
+(c) attends the assessment on the specified date and at the specified time and place but fails to remain for its duration.
+
+(2) A person who, by virtue of section 85(2), is required to attend and remain for the duration of a drugs assessment commits an offence if without reasonable excuse the person—
+
+(a) fails to comply with the requirement imposed by virtue of section 86(2)(b);
+
+(b) fails to attend the assessment on the specified date and at the specified time and place; or
+
+(c) attends the assessment on the specified date and at the specified time or place but fails to remain for its duration.
+
+(3) A person who commits an offence under subsection (2) is liable on summary conviction to—
+
+(a) imprisonment for a period not exceeding 3 months;
+
+(b) a fine not exceeding level 4 on the standard scale; or
+
+(c) both.
+
+(4) In this section—
+
+(a) the specified date, in relation to a drugs assessment, is the date specified in the notice given to the person who is required to attend the assessment in pursuance of subsection (2) of section 87 or, if a further notice specifying a different date has been given to the person in pursuance of subsection (3) of that section, the date specified in that notice;
+
+(b) the specified time, in relation to a drugs assessment, is the time specified in the notice given to the person who is required to attend the assessment in pursuance of subsection (2) of section 87 or, if a further notice specifying a different time has been given to the person in pursuance of subsection (3) of that section, the time specified in that notice; and
+
+(c) the specified place, in relation to a drugs assessment, is the place specified in the notice given to the person who is required to attend the assessment in pursuance of section 86(2) or, if a further notice specifying a different place has been given to the person in pursuance of section 87(3), the place specified in that notice.
+
+#### 89 Guidance for the purposes of sections 85 to 88
+
+In carrying out a function under any of sections 85 to 88, a constable or a drugs assessor must have regard to any guidance issued by the Scottish Ministers—
+
+(a) about the carrying out of the function; or
+
+(b) about matters connected to the carrying out of the function.
+
+#### 90 Interpretation of sections 85 to 88
+
+In sections 85 to 88—
+
+- “misuse” has the same meaning as in the Misuse of Drugs Act 1971 (c. 38);
+- “drugs assessment” and “drugs assessor” must be construed in accordance with section 85(3);
+- “relevant Class A drug” has the meaning given by section 20A(8) of the 1995 Act;
+- “suitably qualified person” means a person who has such qualifications or experience as are prescribed by regulations made by the Scottish Ministers.
+
+### Offenders assisting investigations and prosecutions
+
+#### 91 Assistance by offender: reduction in sentence
+
+(1) This section applies if a person (the “offender”)—
+
+(a) is, following a plea of guilty, convicted on indictment of an offence; and
+
+(b) has, pursuant to a written agreement made with a prosecutor (an “assistance agreement”), assisted or offered to assist the prosecutor of that or any other offence in relation to its investigation or prosecution.
+
+(2) In determining what sentence to pass on the offender, the court must take into account the extent and nature of the assistance given or offered by the offender.
+
+(3) If the court passes a sentence which is less than it would have passed but for the assistance given or offered, it must state in open court—
+
+(a) that it has, for that reason, passed that lesser sentence; and
+
+(b) what the greater sentence would have been.
+
+(4) If the court passes a sentence which is not less than it would have passed but for the assistance given or offered, it must state in open court its reasons for doing so.
+
+(5) Subsection (3) does not apply if the court thinks that it would not be in the public interest to disclose that the sentence has, for the reason referred to in that subsection, been discounted; but in such a case the court must give written notice of the matters specified in paragraphs (a) and (b) of that subsection to the prosecutor and the offender.
+
+(6) Subsection (4) does not apply if the court thinks that it would not be in the public interest to disclose that the case was one in which the court had a duty under subsection (2); but in such a case the court must give written notice of its reasons for not passing a discounted sentence to the prosecutor and the offender.
+
+(7) Nothing in any enactment which—
+
+(a) requires that a minimum sentence is passed in respect of any offence or an offence of any description or because of the circumstances of any offender (whether or not the enactment also permits the court to pass a lesser sentence in particular circumstances); or
+
+(b) in the case of a sentence which is fixed by law, requires the court to take into account certain matters for the purposes of making an order which determines or has the effect of determining the minimum period of imprisonment which the offender must serve (whether or not the enactment also permits the court to fix a lesser period in particular circumstances),
+
+prevents, or restricts, the court, in fulfilment of its duty under subsection (2), from passing on the offender the sentence it considers appropriate.
+
+(8) Subsection (2) does not prevent the court, in determining what sentence to pass on the offender, from also taking into account any other matter which, by virtue of any other enactment or rule of law it may take into account for the purpose of determining—
+
+(a) the sentence;
+
+(b) in the case of a life sentence for murder or for any other offence for which that sentence is the sentence fixed by law, the punishment part (construed in accordance with section 2 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)); and
+
+(c) in the case of any other sentence which is fixed by law, any minimum period of imprisonment which an offender must serve.
+
+(9) In this section—
+
+(a) the reference, in subsection (1), to a written agreement includes a reference to an agreement made by, or partly by, electronic communication (within the meaning given by section 15(1) of the Electronic Communications Act 2000 (c. 7)) the contents of which are kept or recorded so that they can be conveniently consulted later by the sender and the recipient;
+
+(b) the reference, in subsection (5), to written notice includes a reference to a notice given by such a communication;
+
+(c) a reference to a sentence—
+
+(i) includes, in the case of a sentence of a kind referred to in paragraph (b) or (c) of subsection (8), a reference to the punishment part (construed as mentioned in that subsection) or, as the case may be, the minimum period an offender is required to serve (and a reference to a lesser sentence is to be construed accordingly);
+
+(ii) includes a reference to a community disposal and a fine;
+
+(iii) does not include an order for committal in default of payment of any sum of money or for contempt of court;
+
+(d) the reference, in subsection (7)(b), to imprisonment includes a reference to detention imposed under section 205(2), and detention in a young offenders institution imposed under section 205(3), 205A(2)(b) or 207 of the 1995 Act;
+
+(e) the reference, in subsection (8)(c), to imprisonment includes a reference to detention in a young offenders institution imposed under section 207 of the 1995 Act.
+
+#### 92 Assistance by offender: review of sentence
+
+(1) This section applies where—
+
+(a) a court has passed sentence on a person convicted on indictment of an offence (the “offender”); and
+
+(b) the offender falls within subsection (2).
+
+(2) An offender falls within this subsection if the offender—
+
+(a) receives a discounted sentence in consequence of having offered, in pursuance of an assistance agreement, to give assistance to the prosecutor of any offence in relation to its investigation or prosecution but knowingly fails to any extent to give assistance in accordance with the agreement;
+
+(b) receives a discounted sentence in consequence of having offered, in pursuance of an assistance agreement, to give assistance to the prosecutor of an offence in relation to its investigation or prosecution and, having given such assistance in accordance with the agreement, in pursuance of another assistance agreement, gives or offers to give further assistance; or
+
+(c) receives a sentence which is not discounted in consequence of the considerations referred to in paragraphs (a) and (b) but, in pursuance of an assistance agreement, subsequently gives or offers to give assistance to the prosecutor of an offence in relation to its investigation or prosecution.
+
+(3) An offender who was sentenced for an offence for which the sentence is fixed by law and did not plead guilty to the offence does not, however, fall within subsection (2).
+
+(4) Any prosecutor may, at any time, for the purposes of this section, refer a case in which sentence has been passed back to the court which passed it or, where sentence has been passed on appeal, back to the court of first instance, if—
+
+(a) the offender is still serving the sentence; and
+
+(b) the prosecutor thinks that it is in the interests of justice to do so.
+
+(5) For the purposes of subsection (4)(a), an offender sentenced to a term of imprisonment who is released (whether on licence or unconditionally) under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9) before the date on which the offender would (but for the release) have served the sentence in full is to be treated as still serving the sentence until that date.
+
+(6) A case so referred is, if possible, to be considered by the judge who passed the sentence or, where sentence has been passed on appeal, the judge who presided at first instance.
+
+(7) In the case of an offender falling within subsection (2)(a), the court may, on such a referral, substitute for the sentence passed on the offender such greater sentence (not exceeding that which it would have passed but for the assistance agreement) as it thinks appropriate.
+
+(8) A court of first instance shall, for the purposes of subsection (7), regard the sentence which the appeal court would have passed but for the agreement as the sentence which it would have passed but for the agreement.
+
+(9) In the case of an offender falling within subsection (2)(b) or (c), the court may, on such a referral and taking into account the extent and nature of the assistance given or offered, substitute for the sentence passed on the offender such lesser sentence as it thinks appropriate.
+
+(10) Any part of the sentence to which a referral relates and which the offender has already served is to be taken into account in determining when a greater sentence imposed under subsection (7) or a lesser one imposed under subsection (9) has been served.
+
+(11) The offender (with the leave of a judge of the High Court of Justiciary) or a prosecutor may appeal to that court against a decision of a court under subsection (7) or (9).
+
+(12) Where, under subsection (9) or on an appeal under subsection (11), the court substitutes a lesser sentence for the sentence which has been passed, it must state in open court that it has done so in consequence of the further assistance or, as the case may be, the assistance given or offered.
+
+(13) Subsection (12) does not apply if the court thinks that it would not be in the public interest to disclose that the sentence has been discounted; but in such a case the court must give written notice (construed as in section 91) of the fact that the sentence has been discounted for the reason referred to in subsection (12) to the prosecutor and the offender in respect of whom the referral was made.
+
+(14) Subsections (7) to (9) of section 91 apply for the purposes of this section as they apply for the purposes of that section, the references in those subsections to subsection (2) of that section being construed as references to subsection (9) of this section.
+
+(15) In the application of this section in relation to a sentence consisting of a fine—
+
+(a) an offender is to be taken as still serving the sentence if the fine has not been paid in full; and
+
+(b) references to part of a sentence having been served are to be read as references to the fine having been partly paid.
+
+#### 93 Proceedings under section 92: exclusion of public
+
+(1) This section applies to—
+
+(a) proceedings relating to a referral made under section 92(4); and
+
+(b) any other proceedings arising in consequence of those proceedings.
+
+(2) The court in which those proceedings will be or are taking place may make such order as it thinks appropriate—
+
+(a) to exclude from the proceedings any person—
+
+(i) who does not fall within subsection (4); or
+
+(ii) who does not, in the opinion of the court, have a sufficiently direct interest in the proceedings to justify that person's presence during them;
+
+(b) to prohibit the publication of any matter relating to the proceedings (including the fact that the referral has been made).
+
+(3) Such an order is to be made only to the extent that the court thinks—
+
+(a) that it is necessary to protect the safety of any person; and
+
+(b) that it is in the interests of justice.
+
+(4) The following persons fall within this subsection—
+
+(a) the judge;
+
+(b) an officer of the court;
+
+(c) the prosecutor;
+
+(d) the other party to the proceedings;
+
+(e) counsel or a solicitor for the other party.
+
+(5) This section does not affect any other power which the court has by virtue of any rule of law or other enactment—
+
+(a) to exclude any person from proceedings; or
+
+(b) to prohibit or restrict the publication of any matter to which the proceedings relate;
+
+or any rule of law or enactment consisting of such an exclusion, prohibition or restriction.
+
+#### 94 Section 92: further provision
+
+(1) The Scottish Ministers may, by order, provide further as to the procedure to be followed under section 92 or otherwise so as to give full effect to that section.
+
+(2) An order under subsection (1) may, in particular—
+
+(a) apply, with modifications, provisions of Part VIII of the 1995 Act (appeals from solemn proceedings);
+
+(b) modify that Part of that Act.
+
+(3) The Scottish Ministers may, by order, make provision as to how—
+
+(a) any period in custody served under a sentence for which another sentence is substituted under section 92(7), (9) or (11);
+
+(b) any period during which a person was on release on licence or unconditionally under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9) in respect of such a sentence before the date on which the person would (but for the release) have served the sentence in full,
+
+is to be taken into account, for the purposes of the later sentence, in the calculation of periods of time under Part 1 of that Act.
+
+(4) An order under subsection (3) may, in particular, modify that Act.
+
+#### 95 Sentencing: consideration of undisclosed information
+
+(1) This section applies where a person (the “offender”)—
+
+(a) has been convicted and is to be sentenced for an offence; and
+
+(b) has, otherwise than in pursuance of an assistance agreement, assisted in relation to the investigation or prosecution of any other offence.
+
+(2) Where this section applies, the court may, in passing sentence and if it considers it to be in the interests of justice to do so, take into account any information which is in a report in writing by a relevant officer about that assistance and which is, with the agreement of the offender, made available—
+
+(a) only to the offender and the court; or
+
+(b) only to the offender, the offender's counsel or solicitor and the court,
+
+by the prosecutor.
+
+(3) Where, under subsection (2) a court takes information about assistance into account, it must not disclose the information, the existence of the report containing it or whether the sentence it passes is less than the sentence it would have passed but for the assistance given.
+
+(4) Subsection (3) does not prevent disclosure by the court or the clerk of court to the High Court or the Clerk of Justiciary in connection with proceedings to which section 96 applies.
+
+[[^F73](4A) Subsection (3) does not prevent disclosure by the court or the Clerk of the Sheriff Appeal Court in connection with proceedings to which section 96A applies.]
+
+(5) In subsection (2), a “relevant officer is a constable or any other officer of an organisation having functions which are conferred by or under an enactment or rule of law and which consist of or include the investigation of offences.
+
+(6) The reference in subsection (2) to a report in writing includes a reference to a report made by means of an electronic communication (within the meaning given by section 15(1) of the Electronic Communications Act 2000 (c. 7)) the contents of which are kept or recorded so that they can be conveniently consulted later by the maker of the report and those to whom it was made available.
+
+#### 96 [[^F74]Appeals etc. in the High Court: undisclosed information]
+
+(1) This section applies to any proceedings in the High Court in relation to—
+
+(a) an appeal under section 106(1), 108, [[^F75]or 108A] of the 1995 Act;
+
+(b) an appeal by way of bill of suspension or advocation;
+
+(c) a reference by the Lord Advocate under section 123 of that Act;
+
+(d) a reference by the Scottish Criminal Cases Review Commission under section 194B of that Act; or
+
+(e) a petition to the nobile officium.
+
+(2) In subsection (1) the reference to proceedings in the High Court includes consideration by a judge of the High Court whether to grant leave to appeal under section 107 [^F76]... of the 1995 Act.
+
+(3) If, under subsection (2) of section 95, the lower court in passing sentence on the offender took into account information contained in a report mentioned in that subsection, the High Court and the Clerk of Justiciary—
+
+(a) must not disclose the information or the existence of the report to any person other than the prosecutor, the offender and, with the offender's agreement, the offender's counsel or solicitor; and
+
+(b) must not disclose to any person whether the sentence passed by the lower court is less than it would have passed but for the assistance given by the offender.
+
+(4) If, in a case not falling within subsection (3), the High Court or the Clerk of Justiciary becomes aware of information contained in a report mentioned in subsection (2) of section 95 or that a court in passing sentence has, under that subsection, taken that information into account, the High Court or the Clerk of Justiciary must not disclose to any person the information, the existence of the report or whether the sentence passed by the lower court on the person to whom the report relates is less than the sentence it would have passed but for the assistance given by that person.
+
+(5) Sections 107(10), 113(2) [^F77]... and 298(2) of the 1995 Act do not apply in a case falling within subsection (3) or (4) to the extent that they require a disclosure which, if made by the High Court or the Clerk of Justiciary, would contravene the subsection in question.
+
+(6) Subsection (5) does not, however, operate so as to prevent any disclosure to the Crown Agent or the Scottish Criminal Cases Review Commission; but subsection (3) or, as the case may be, subsection (4) applies to the Crown Agent and the Commission in relation to any such disclosure as it applies to the High Court and the Clerk of Justiciary in relation to a case falling within that subsection (but not so as to prevent disclosure by the Crown Agent or the Commission to the High Court).
+
+(7) Subsections (2) to (5) of section 93 apply to proceedings referred to in subsection (1) of this section as they apply to proceedings referred to in subsection (1) of that section.
+
+(8) The Scottish Ministers may, by order, make further provision for the purpose of giving full effect to the preceding provisions of this section [[^F78]or to section 96A], including provision modifying the 1995 Act.
+
+#### 96A [[^F79]Appeals etc. in the Sheriff Appeal Court: undisclosed information
+
+(1) This section applies to any proceedings in the Sheriff Appeal Court in relation to—
+
+(a) an appeal under section 175(2) to (4) of the 1995 Act; or
+
+(b) an appeal by way of bill of suspension or advocation.
+
+(2) In subsection (1) the reference to proceedings in the Sheriff Appeal Court includes consideration by an Appeal Sheriff whether to grant leave to appeal under section 180 or 187 of the 1995 Act.
+
+(3) If, under subsection (2) of section 95, the lower court in passing sentence on the offender took into account information contained in a report mentioned in that subsection, the Sheriff Appeal Court and the Clerk of the Sheriff Appeal Court—
+
+(a) must not disclose the information or the existence of the report to any person other than the prosecutor, the offender and, with the offender’s agreement, the offender’s counsel or solicitor; and
+
+(b) must not disclose to any person whether the sentence passed by the lower court is less than it would have passed but for the assistance given by the offender.
+
+(4) If, in a case not falling within subsection (3), the Sheriff Appeal Court or the Clerk of the Sheriff Appeal Court becomes aware of information contained in a report mentioned in subsection (2) of section 95 or that a court in passing sentence has, under that subsection, taken that information into account, the Sheriff Appeal Court or the Clerk of the Sheriff Appeal Court must not disclose to any person the information, the existence of the report or whether the sentence passed by the lower court on the person to whom the report relates is less than the sentence it would have passed but for the assistance given by that person.
+
+(5) Sections 179(8), 180(10), 186(4)(b), 187(9) and 298(2B) of the 1995 Act do not apply in a case falling within subsection (3) or (4) to the extent that they require a disclosure which, if made by the Sheriff Appeal Court or the Clerk of the Sheriff Appeal Court, would contravene the subsection in question.
+
+(6) Subsection (5) does not, however, operate so as to prevent any disclosure to the prosecutor; but subsection (3) or, as the case may be, subsection (4) applies to the prosecutor in relation to any such disclosure as it applies to the Sheriff Appeal Court and the Clerk of the Sheriff Appeal Court in relation to a case falling within that subsection (but not so as to prevent disclosure by the prosecutor to the Sheriff Appeal Court).
+
+(7) Subsections (2) to (5) of section 93 apply to proceedings referred to in subsection (1) of this section as they apply to proceedings referred to in subsection (1) of that section.]
+
+### Conditional immunity from prosecution
+
+#### 97 Investigation and prosecution of crime: conditional immunity from prosecution
+
+(1) A prosecutor, if of the opinion that for the purposes of the investigation or prosecution of any offence it is appropriate to give any person immunity from prosecution, may, in accordance with subsection (11), give the person a written notice under this section (a “conditional immunity notice”).
+
+(2) Subject to subsection (3), no proceedings for—
+
+(a) the offence; or
+
+(b) any offence of a description,
+
+specified in a conditional immunity notice may be brought against the person to whom the notice is given and any such proceedings continuing when the notice is given must be discontinued.
+
+(3) A conditional immunity notice—
+
+(a) must specify the conditions to which its application is subject; and
+
+(b) may specify the circumstances to which it applies or the circumstances to which it does not apply,
+
+and has effect and ceases to have effect accordingly.
+
+(4) Where a conditional immunity notice has ceased to have effect, a prosecutor must, in accordance with subsection (12), give to the person to whom the notice was given a further written notice stating when and the reason why the notice ceased to have effect (a “cessation notice”).
+
+(5) Where—
+
+(a) a person accused of an offence is given a conditional immunity notice relating to the offence after the person's first appearance on petition in respect of the offence; and
+
+(b) a cessation notice is given to the person in respect of the conditional immunity notice,
+
+the person is, for the purposes of section 65(1) of the 1995 Act (time limit for commencement of trial on indictment), to be regarded as not having first appeared on petition; accordingly, the time limit specified in that provision begins with the first appearance of the accused person on petition after the giving of the cessation notice.
+
+(6) Where—
+
+(a) a person who may have committed an offence is given a conditional immunity notice relating to the offence within any other time limit stipulated by any enactment for the commencement of proceedings in respect of the offence; and
+
+(b) a cessation notice is given to the person in respect of the conditional immunity notice,
+
+the person is, for the purposes of that enactment, to be regarded as having contravened or, in the case of a continuing offence, having last contravened the provision creating the offence on the date of the giving of the cessation notice.
+
+(7) Where—
+
+(a) proceedings against a person for an offence, having been timeously commenced, are discontinued under subsection (2); and
+
+(b) a cessation notice is given to the person in respect of the conditional immunity notice,
+
+the person is, for the purposes of any time limit stipulated by an enactment for the commencement of proceedings in respect of the offence, to be regarded as having committed the offence or, in the case of a continuing offence, having last committed the offence on the date of the giving of the cessation notice.
+
+(8) Where—
+
+(a) a conditional immunity notice has ceased to have effect; and
+
+(b) proceedings are brought against the person to whom the notice was given in respect of any offence specified in the notice,
+
+the fact that, before the notice ceased to have effect, communications took place between the prosecutor or anyone else and the person to whom the notice was given which would not or might not have taken place but for the notice is not a ground for the court to determine that the proceedings should not have been brought, or should not be continued, against that person.
+
+(9) Where a person to whom a conditional immunity notice has been given notifies the specified prosecutor in writing that the person's address for the purposes of giving a cessation notice is changed to an address set out in the notification, then that address is to be treated as the address specified for those purposes in the conditional immunity notice.
+
+(10) In subsection (9), the “specified prosecutoris the prosecutor specified in a conditional immunity notice for the purposes of receiving notification under that subsection.
+
+(11) A conditional immunity notice is given in accordance with this subsection if—
+
+(a) it is given so as to be received personally by the person to whom it relates;
+
+(b) it is sent—
+
+(i) by first class recorded delivery post to the person's house or place of business; or
+
+(ii) in the case of a person who is on bail, by first class recorded delivery post to his proper domicile of citation (within the meaning of section 25 of the 1995 Act (bail conditions)); or
+
+(c) it is—
+
+(i) given, so as to be received personally; or
+
+(ii) sent by first class recorded delivery post,
+
+to a solicitor who has, under section 72F of that Act, notified the prosecutor that the solicitor is engaged by the person and who has not, under that section, informed the prosecutor that the solicitor has been dismissed or has withdrawn,
+
+and, where by virtue of subsection (13) the notice is given by way of an electronic communication, the person to whom it relates has agreed to its being so given and has notified the prosecutor of the appropriate number or address of the kind used for receiving electronic communications.
+
+(12) A cessation notice is given in accordance with this subsection if—
+
+(a) it is given so as to be received personally by the person to whom the conditional immunity notice relates; or
+
+(b) it is sent to the person by first class recorded delivery post at the address specified in the conditional immunity notice for the purposes of the giving of a cessation notice,
+
+and, where by virtue of subsection (13) the notice is given by way of an electronic communication, the person to whom the conditional immunity notice relates has agreed to the cessation notice's being so given and has notified the prosecutor (whether under subsection (9) or otherwise) of the appropriate number or address of the kind used for receiving electronic communications.
+
+(13) The references in subsections (11) and (12) to the giving or sending of notice in a specified way include references to its being given by electronic communication (within the meaning given by section 15(1) of the Electronic Communications Act 2000 (c. 7)) the contents of which are kept or recorded so that they can be conveniently consulted later by the sender and the recipient.
+
+### Enforcement of Sea Fisheries (Shellfish) Act 1967
+
+#### 98 Enforcement of Sea Fisheries (Shellfish) Act 1967
+
+(1) After section 4 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) there is inserted—
+
+> **4A Powers of sea-fishery officers in relation to fishing boats to enforce regulated fishery**
+>
+> (1) For the purpose of enforcing restrictions imposed by, or regulations made by, an order under section 1 conferring a right of regulating a fishery, a British sea-fishery officer may exercise the powers conferred by subsections (2) to (7) in relation to—
+>
+> (a) a Scottish fishing boat wherever it may be;
+>
+> (b) any other fishing boat in the Scottish zone.
+>
+> (2) The officer may go on board the boat, with or without persons assigned to assist in the duties of that officer, and may, for that purpose or for the purpose of disembarking from the boat, require the boat to stop, and anything else to be done which will facilitate the boarding of, or as the case may be, disembarking from, the boat.
+>
+> (3) The officer may require the attendance of the master and any other person on board the boat and may make any examination and inquiry which appears to the officer to be necessary for the purpose of enforcing such restrictions or regulations.
+>
+> (4) In particular under subsection (3) the officer may—
+>
+> (a) search the boat for shellfish or fishing gear;
+>
+> (b) examine any shellfish on the boat and the equipment (including the fishing gear) of the boat, and require persons on board the boat to do any thing which appears to the officer to be necessary for facilitating the examination;
+>
+> (c) require any person on the boat to produce any relevant document in the person's custody or possession;
+>
+> (d) for the purpose of ascertaining whether an offence under section 3(3) has been committed, search the boat for any relevant document and may require any person on board the boat to do anything which appears to the officer to be necessary for facilitating the search;
+>
+> (e) inspect, take copies of and retain possession of, while any search, examination or inspection provided for under this subsection is being carried out, any relevant document produced to the officer or found on board;
+>
+> (f) require the master or any person for the time being in charge of the boat to render any relevant document on a computer system into visible and legible form and to produce it in a form in which it may be taken away; and
+>
+> (g) where the boat is one in relation to which the officer has reason to suspect that an offence under section 3(3) has been committed, seize and detain any relevant document produced to the officer or found on board, for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+>
+> (5) But subsection (4)(g) does not permit any document required by law to be carried on a boat to be seized and detained except while the boat is detained in a port.
+>
+> (6) In subsection (4), “relevant document” means a document relating to—
+>
+> (a) the boat; or
+>
+> (b) the catching, landing, transportation, transhipment, sale or disposal of shellfish.
+>
+> (7) Where it appears to a British sea-fishery officer that an offence under section 3(3) has at any time been committed the officer—
+>
+> (a) may take, or require the master of any boat in relation to which the offence took place to take, the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+>
+> (b) may detain, or require the master to detain, the boat in the port.
+>
+> (8) Where a British sea-fishery officer detains or requires the detention of a boat under subsection (7)(b), the officer must serve notice in writing on the master stating that the boat is or, as the case may be, is required to, be detained until the time mentioned in subsection (9).
+>
+> (9) That time is when the master is served with a notice in writing signed by a British sea-fishery officer stating that the previous notice ceases to have effect.
+>
+> **4B Powers of sea-fishery officers on land to enforce regulated fishery**
+>
+> (1) For the purpose of enforcing restrictions imposed by, or regulations made by, an order under section 1 conferring a right of regulating a fishery, a British sea-fishery officer may exercise the powers conferred by subsections (2) to (11) of this section in relation to—
+>
+> (a) any premises (other than a dwelling-house) used for—
+>
+> (i) carrying on any business in connection with the operation of fishing boats;
+>
+> (ii) an activity connected with or ancillary to the operation of fishing boats; or
+>
+> (iii) the treatment, storage or sale of shellfish;
+>
+> (b) any vehicle which the officer has reasonable cause to believe is being used—
+>
+> (i) to dredge, fish for or take shellfish; or
+>
+> (ii) to transport shellfish.
+>
+> (2) The officer may enter and inspect, at any reasonable time, the premises or vehicle (and, in the case of a vehicle, for that purpose require the vehicle to stop or require the operator to take the vehicle to a particular place).
+>
+> (3) The officer may, in exercising the power conferred by subsection (2), take with the officer such other persons as appear to the officer to be necessary and any equipment or materials.
+>
+> (4) The officer may examine any shellfish on the premises or vehicle and require persons on the premises or vehicle to do anything which appears to the officer to be necessary for facilitating the examination.
+>
+> (5) The officer may on the premises or vehicle carry out such other inspections and tests as may reasonably be necessary.
+>
+> (6) The officer may require any person not to remove or cause to be removed any shellfish from the premises or vehicle for such a period as may be reasonably necessary for the purposes of establishing whether an offence under section 3(3) has at any time been committed.
+>
+> (7) The officer may require any person on the premises or vehicle to produce any relevant document in the person's custody or possession.
+>
+> (8) The officer may, for the purpose of establishing whether an offence under section 3(3) has been committed, search the premises or vehicle for any relevant document, and may require any person on the premises or vehicle to do anything which appears to the officer to be necessary for facilitating the search.
+>
+> (9) The officer may inspect and take copies of any relevant document produced or found on the premises or vehicle.
+>
+> (10) The officer may require any person to render any relevant document on a computer system into a visible and legible form and to produce it in a form in which it may be taken away.
+>
+> (11) If the officer has reasonable grounds to suspect that an offence under section 3(3) has been committed, the officer may seize and detain any relevant document produced or found on the premises or vehicle, for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+>
+> (12) A sheriff may, if satisfied by evidence on oath as to the matters mentioned in subsection (13), grant a warrant authorising a British sea-fishery officer to enter premises (if necessary using reasonable force), accompanied by such persons as appear to the officer to be necessary.
+>
+> (13) Those matters are—
+>
+> (a) that there are reasonable grounds to believe that anything which a British sea-fishery officer has power under this section to examine or inspect is on the premises and that the examination or inspection is likely to disclose evidence of the commission of an offence under section 3(3); and
+>
+> (b) that any of the following is the case—
+>
+> (i) admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under subsection (12) has been given to the occupier;
+>
+> (ii) an application for admission, or the giving of such notice, would defeat the object of entry;
+>
+> (iii) the premises are unoccupied or the occupier is temporarily absent and it might defeat the object of entry to await the return of the occupier.
+>
+> (14) A warrant under subsection (12) is valid for the period of one month beginning with the date on which it is granted or for such shorter period as the sheriff may specify.
+>
+> (15) In this section—
+>
+> - “premises” includes land; and
+> - “relevant document” means a document relating to the catching, landing, transportation, transhipment, sale or disposal of shellfish.
+>
+> **4C Powers of British sea-fishery officers to seize fish and fishing gear**
+>
+> (1) A British sea-fishery officer may seize—
+>
+> (a) in Scotland or in the Scottish zone; or
+>
+> (b) on a Scottish fishing boat wherever it may be,
+>
+> any shellfish and any net or other fishing gear to which subsection (2) applies.
+>
+> (2) This subsection applies to—
+>
+> (a) any shellfish in respect of which the officer has reasonable grounds to suspect that an offence under section 3(3) has been committed;
+>
+> (b) any net or other fishing gear which the officer has reasonable grounds to suspect has been used in the commission of such an offence.
+>
+> (3) In this section—
+>
+> (a) “Scotland” has the meaning given by the Scotland Act 1998 (c. 46); and
+>
+> (b) references to shellfish include any receptacle which contains shellfish.
+>
+> **4D Sections 4A to 4C: supplementary**
+>
+> (1) A British sea-fishery officer, or a person assisting such an officer by virtue of section 4A(2) or 4B(3) or (12), is not liable in any civil or criminal proceedings for anything done in the purported exercise of a power conferred by section 4A, 4B or 4C if the court is satisfied—
+>
+> (a) that the act was done in good faith;
+>
+> (b) that there were reasonable grounds for doing it; and
+>
+> (c) that it was done with reasonable skill and care.
+>
+> (2) A person who—
+>
+> (a) fails without reasonable excuse to comply with any requirement imposed on the person by a British sea-fishery officer under a power conferred by section 4A or 4B;
+>
+> (b) without reasonable excuse prevents, or attempts to prevent, any other person from complying with such a requirement; or
+>
+> (c) obstructs such an officer in the exercise of any of those powers or the powers conferred by section 4C,
+>
+> shall be guilty of an offence.
+>
+> (3) A person who commits an offence under subsection (2) is liable—
+>
+> (a) on summary conviction, to a fine not exceeding the statutory maximum;
+>
+> (b) on conviction on indictment, to a fine.
+
+.
+
+(2) In section 22 of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (interpretation), after the definition of “sea fishing boat” there is inserted the following definition—
+
+> “Scottish fishing boat” means a fishing vessel registered in the register maintained under section 8 of the Merchant Shipping Act 1995 (c. 21) whose entry in the register specifies a port in Scotland as the port to which the vessel is to be treated as belonging;
+
+.
+
+(3) In section 15 of the Sea Fisheries Act 1968 (c. 77) (amendment of Sea Fisheries (Shellfish) Act 1967), after subsection (2) there is inserted—
+
+> (2A) The reference in section 3(1) of the Sea Fisheries (Shellfish) Act 1967 to an order under section 1 of that Act conferring on the grantees a right of regulating a fishery which imposes restrictions on, or makes regulations respecting, the dredging, fishing for and taking of shellfish shall be construed as including a reference to an order under section 1 of that Act conferring on the grantees such a right which enables the grantees, with the consent of the appropriate Minister, to impose such restrictions or make such regulations; and the references in sections 3(1)(a), (2) and (3) of that Act to restrictions and regulations shall be construed as including a reference to restrictions so imposed and regulations so made.
+>
+> (2B) The references in sections 4A(1) and 4B(1) of the Sea Fisheries (Shellfish) Act 1967 to restrictions imposed by, or regulations made by, an order under section 1 of that Act conferring a right of regulating a fishery, shall be construed as including a reference to restrictions imposed by, or regulations made by, the grantees by virtue of an order under section 1 of that Act which enables the grantees, with the consent of the appropriate Minister, to impose such restrictions or make such regulations.
+
+.
+
+## Part 4 — General
+
+### 99 Meanings of “the 1967 Act”, “the 1995 Act” and “the 2003 Act”
+
+In this Act—
+
+- [^F80]...
+- “the 1995 Act” means the Criminal Procedure (Scotland) Act 1995 (c. 46); and
+- “the 2003 Act” means the Sexual Offences Act 2003 (c. 42).
+
+### 100 Equal opportunities
+
+(1) A person discharging a function by virtue of this Act shall discharge that function in a manner that encourages equal opportunities and in particular the observance of the equal opportunity requirements.
+
+(2) In subsection (1), “equal opportunities” and “equal opportunity requirements” have the same meanings as in Section L2 of Part II of Schedule 5 to the Scotland Act 1998 (c. 46).
+
+### 101 Modifications of enactments
+
+Schedule 6 (which contains modifications of enactments) has effect.
+
+### 102 Ancillary provision
+
+(1) The Scottish Ministers may by order make such supplementary, incidental, consequential, transitory, transitional or saving provision as they consider necessary or expedient for the purposes of, in consequence of or for giving full effect to this Act or any provision of it.
+
+(2) An order under subsection (1) may modify any enactment (including this Act).
+
+### 103 Subordinate legislation
+
+(1) The powers of the Scottish Ministers under this Act to make orders and regulations are exercisable by statutory instrument.
+
+(2) Each of those powers includes power to make—
+
+(a) different provision for different purposes; and
+
+(b) supplementary, incidental, consequential, transitory, transitional or saving provision.
+
+(3) Subject to subsections (4) and (5), a statutory instrument containing an order or regulations made under this Act is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(4) The following statutory instruments are not to be made unless a draft of the instrument has been laid before, and approved by, the Scottish Parliament—
+
+(a) a statutory instrument containing an order under section 18(1) or 24(1), paragraph 10(10) of schedule 1, [^F81]... paragraph 9(1) of schedule 2 [[^F82]or paragraph 7A(8) or 7B(4) of schedule 4 or regulations under section 41D(1)]; or
+
+(b) a statutory instrument containing an order under section 102(1) containing provisions which add to, replace or omit any part of the text of an Act.
+
+(5) Subsection (3) does not apply to an order under section 104(1).
+
+### 104 Commencement
+
+(1) This Act comes into force in accordance with provision made by order by the Scottish Ministers.
+
+(2) Subsection (1) does not apply to this section or section 99, 100, 102, 103 or 105.
+
+### 105 Short title
+
+This Act may be cited as the Police, Public Order and Criminal Justice (Scotland) Act 2006.
+
+## SCHEDULE 1 — The Scottish Police Services Authority
+
+*(introduced by section 1(2))*
+
+### [^F83]...
+
+[^F83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Membership of the Scottish Crime and Drug Enforcement Agency
+
+*(introduced by section 12(2))*
+
+### [^F83]...
+
+[^F83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Transfers of staff and property
+
+*(introduced by section 31)*
+
+### [^F83]...
+
+[^F83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — [[^F84]The Police Investigations and Review Commissioner]
+
+*(introduced by section 33(3))*
+
+### Status
+
+**1** (1) The Commissioner—
+
+(a) is not a servant or agent of the Crown; and
+
+(b) has no status, immunity or privilege of the Crown.
+
+(2) The Commissioner's property is not property of, or property held on behalf of, the Crown.
+
+### Limitations on appointment
+
+**2** (1) A person is disqualified for appointment to the office of Commissioner if the person—
+
+(a) is or has been a member of—
+
+(i) the House of Lords;
+
+(ii) the House of Commons;
+
+(iii) the Scottish Parliament;
+
+(iv) the European Parliament; or
+
+(v) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+
+(b) is or has been a constable of [[^F85]the Police Service (or of a police force previously maintained under the Police (Scotland) Act 1967 (c.77))];
+
+(c) is or has been a member of—
+
+(i) a police force maintained under section 2 of the Police Act 1996 (c. 16);
+
+(ii) the metropolitan police force or of the City of London police force;
+
+(iii) the Police Service of Northern Ireland;
+
+(iv) the Ministry of Defence Police appointed on the nomination of the Secretary of State under section 1 of the Ministry of Defence Police Act 1987 (c. 4);
+
+(v) the British Transport Police Force;
+
+(vi) the Civil Nuclear Constabulary;
+
+(vii) the States of Jersey Police Force;
+
+(viii) the salaried police force of the Island of Guernsey; or
+
+(ix) the Isle of Man Constabulary;
+
+(d) is or has been—
+
+(i) a special constable appointed under section 27 of the Police Act 1996 (c. 16);
+
+(ii) a member of the Police Service of Northern Ireland Reserve;
+
+(iii) a member of the Ministry of Defence Police by virtue of section 1(1)(b) of the Ministry of Defence Police Act 1987 (c. 4);
+
+(iv) a special constable of the British Transport Police Force; or
+
+(v) a member of any force of special constables established for the States of Jersey, the Island of Guernsey or the Isle of Man;
+
+[[^F86](da) is or has been a member of the Authority;]
+
+(e) is or has been a member of staff of the Authority [[^F87]or has been a member of staff of the body which was known as the Scottish Police Services Authority];
+
+[^F88]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) is or has been [[^F89]employed as a member of police staff or as a member of the Authority's staff or has been] employed, by virtue of section 9 of the 1967 Act (employees other than constables) by a police authority or a joint police board;
+
+(h) has been a member of—
+
+(i) the National Criminal Intelligence Service or;
+
+(ii) the National Crime Squad; [^F90]...
+
+(i) [^F91]... has been a member of the Serious Organised Crime Agency [[^F92]or]
+
+[[^F93](j) is or has been a National Crime Agency officer.]
+
+(2) The disqualification under sub-paragraph (1)(a) does not extend to any membership ending more than 3 years before the person is appointed to the office of Commissioner.
+
+(3) A person who has previously been appointed to the office of Commissioner is not eligible to be appointed again, except in accordance with sub-paragraph (4).
+
+(4) A person holding office as Commissioner may be reappointed on the expiry of the person's period of appointment, but only if—
+
+(a) the person has not previously been reappointed to the office; and
+
+(b) the Scottish Ministers consider that, by reason of special circumstances, it is desirable in the public interest.
+
+### Tenure and removal from office
+
+**3** (1) Subject to this paragraph and paragraph 4, a person holds office as Commissioner on such terms and conditions as the Scottish Ministers may determine.
+
+(2) The period of a person's appointment as Commissioner is—
+
+(a) in the case of a first appointment, [[^F94]5] years; and
+
+(b) in the case of a reappointment, [[^F95]3] years.
+
+(3) A person holding office as Commissioner may, by written notice to the Scottish Ministers, resign at any time.
+
+(4) The Scottish Ministers may remove a person from the office of Commissioner if satisfied that any of the grounds mentioned in sub-paragraph (5) is the case.
+
+(5) Those grounds are—
+
+(a) the person has failed without reasonable excuse to carry out the functions of the office for a continuous period of 3 months;
+
+(b) the person falls within one or more of the sub-sub-paragraphs of paragraph 2(1);
+
+(c) the person has, since appointment, been convicted of a criminal offence;
+
+(d) the person's estate has been sequestrated or the person has been adjudged bankrupt, has made an arrangement with creditors or has granted a trust deed for creditors or a composition contract;
+
+(e) the person is subject to a disqualification order under the Company Directors Disqualification Act 1986 (c. 46) or under [[^F96]the Company Directors Disqualification (Northern Ireland) Order 2002];
+
+(f) the person has acted improperly in relation to the person's duties;
+
+(g) the person is otherwise unable or unfit to perform the person's duties.
+
+### Remuneration
+
+**4** The Commissioner is entitled to—
+
+(a) a salary of such amount; and
+
+(b) such allowances
+
+as the Scottish Ministers determine.
+
+### Pensions etc.
+
+**5** (1) The Scottish Ministers may pay or make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to hold office as the Commissioner.
+
+(2) The reference in sub-paragraph (1) to pensions, allowances and gratuities includes pensions, allowances and gratuities by way of compensation for loss of office.
+
+(3) The arrangements mentioned in sub-paragraph (1) may include—
+
+(a) the making of contributions or payments towards provision for pensions, allowances or gratuities mentioned there; and
+
+(b) the establishment and administration of pension schemes.
+
+### Vacancy in office of Commissioner
+
+**6** (1) The Scottish Ministers may appoint a person (who may be a member of the Commissioner's staff) to carry out the functions of the Commissioner during a period in which the office is vacant (an “acting Commissioner”).
+
+(2) A person who is disqualified for appointment to the office of Commissioner is also disqualified for appointment as an acting Commissioner.
+
+(3) A person appointed to be acting Commissioner—
+
+(a) may, by written notice to the Scottish Ministers, resign at any time;
+
+(b) may be dismissed by the Scottish Ministers at any time;
+
+(c) in other respects, holds appointment on such terms and conditions as the Scottish Ministers may determine.
+
+(4) While holding appointment as acting Commissioner, a person is to be treated as the Commissioner for all purposes other than those of paragraphs 3, 4 and 5.
+
+### Staff
+
+**7** (1) The Commissioner may appoint such staff as the Commissioner considers appropriate.
+
+(2) Members of staff are to be appointed on such terms and conditions as the Commissioner determines.
+
+(3) The Commissioner must pay to members of the Commissioner's staff such remuneration, allowances and expenses as the Commissioner determines.
+
+(4) The Commissioner may pay or make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to be a member of staff.
+
+(5) The reference in sub-paragraph (4) to pensions, allowances and gratuities includes pensions, allowances and gratuities by way of compensation for loss of employment.
+
+(6) The arrangements mentioned in sub-paragraph (4) may include—
+
+(a) the making of contributions or payments towards provision for pensions, allowances or gratuities mentioned there; and
+
+(b) the establishment and administration of pension schemes.
+
+(7) The Commissioner may make such other arrangements for staffing as the Commissioner thinks fit.
+
+(8) Paragraph 1(1) applies to staff appointed under this paragraph as it applies to the Commissioner.
+
+### [[^F97]Staff officers
+
+**7A** (1) The Commissioner may make arrangements for constables of the Police Service to be appointed to serve as members of the Commissioner's staff.
+
+(2) The Commissioner may make arrangements for a person falling within sub-paragraph (3) to be appointed to serve as a member of the Commissioner's staff.
+
+(3) A person falls within this sub-paragraph if the person is a member of—
+
+(a) a police force maintained under section 2 of the Police Act 1996 (c.16);
+
+(b) the metropolitan police force;
+
+(c) the City of London police force;
+
+(d) the Police Service of Northern Ireland;
+
+(e) the Ministry of Defence Police appointed on the nomination of the Secretary of State under section 1 of the Ministry of Defence Police Act 1987 (c.4);
+
+(f) the British Transport Police Force;
+
+(g) the Civil Nuclear Constabulary;
+
+(h) the States of Jersey Police Force;
+
+(i) the salaried police force of the Island of Guernsey; or
+
+(j) the Isle of Man Constabulary.
+
+(4) A constable or other person appointed under arrangements made under sub-paragraph (1) or (2) is to be appointed on such terms and conditions (including as regards remuneration, allowances and expenses) as the Commissioner determines.
+
+(5) The Commissioner's determination under sub-paragraph (4) may be made by reference to provision made by regulations made under section 48 of the Police and Fire Reform (Scotland) Act 2012 (asp 8).
+
+(6) A constable or other person appointed under arrangements made under sub-paragraph (1) or (2)—
+
+(a) has all the powers and privileges of a constable throughout Scotland; and
+
+(b) is subject to the direction and control of the Commissioner.
+
+(7) The Commissioner is liable in respect of any unlawful conduct on the part of any constable or other person appointed under arrangements made under sub-paragraph (1) or (2) in the carrying out (or purported carrying out) of that person's functions in the same manner as an employer is liable in respect of any unlawful conduct on the part of an employee in the course of employment.
+
+(8) The Scottish Ministers may by order apply any provision of the Police and Fire Reform (Scotland) Act 2012 or any other enactment relating to constables (including any such provision or other enactment creating offences against or as regards constables), with such modifications as are considered appropriate, in relation to a person appointed under arrangements made under sub-paragraph (2).]
+
+### [[^F97]Staff involved in investigations
+
+**7B** (1) The Commissioner may designate—
+
+(a) any member of the Commissioner's staff appointed under paragraph 7 or 7A to take charge of any investigation on behalf of the Commissioner; and
+
+(b) other members of the Commissioner's staff to assist the member designated to take charge.
+
+(2) This sub-paragraph applies to a person who is a member of the Commissioner's staff appointed under paragraph 7 and is designated under sub-paragraph (1).
+
+(3) A person to whom sub-paragraph (2) applies—
+
+(a) has all the powers and privileges of a constable throughout Scotland; but
+
+(b) is not as a result of the designation to be treated as being in police service for the purposes of—
+
+(i) section 280 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c.52); or
+
+(ii) section 200 of the Employment Rights Act 1996 (c.18).
+
+(4) The Scottish Ministers may by order apply any enactment relating to the investigation of offences by constables (subject to such modifications as they consider appropriate) in relation to investigations carried out in pursuance of paragraph (b)(i) of section 33A by a member of the Commissioner's staff designated under sub-paragraph (1).]
+
+### General powers
+
+**8** The Commissioner may do anything which appears necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the carrying out of the Commissioner's functions, including—
+
+(a) entering into contracts; and
+
+(b) acquiring and disposing of property.
+
+### Financial provision
+
+**9** (1) The Scottish Ministers are to pay—
+
+(a) the salary and allowances of the Commissioner; and
+
+(b) any sums payable by virtue of paragraph 6(3)(c) to, or in respect of, a person who is appointed, or has ceased to hold office, as acting Commissioner.
+
+(2) The Scottish Ministers are to pay to the Commissioner such sums as they consider appropriate to enable the Commissioner to fulfil the Commissioner's functions.
+
+(3) The Commissioner is not to borrow money unless authorised to do so (whether generally or specially) by the Scottish Ministers.
+
+### Accounts
+
+**10** The Commissioner must, in accordance with such directions as the Scottish Ministers may give—
+
+(a) keep proper accounting records and accounts;
+
+(b) prepare annual accounts for each financial year;
+
+(c) send a copy of the annual accounts to the Auditor General for Scotland for auditing.
+
+### Provision of information
+
+**11** [[^F98](1)] The Commissioner must provide the Scottish Ministers with all such information and documents as appear to them to be required for the purposes of satisfying themselves that the Commissioner is carrying out the Commissioner's functions efficiently and effectively.
+
+[[^F99](2) Nothing in this paragraph requires or authorises the provision of any information or document relating to a particular investigation carried out by the Commissioner on the direction of the appropriate prosecutor in pursuance of paragraph (b) of section 33A (unless the appropriate prosecutor consents to disclosure of the information or document).]
+
+## SCHEDULE 5 — Section 53(2)(b): Relevant events etc.
+
+*(introduced by section 54(1))*
+
+**1** For the purpose of section 53(2)(b)—
+
+(a) relevant events are the events specified in the left-hand column of the following table; and
+
+(b) the prescribed information, in relation to a relevant event, is the information in the right-hand column of that table opposite the event.
+
+|  |  |
+|---|---|
+| *Relevant event* | *Prescribed information* |
+| A change of any of the names of the person against whom the football banning order is made | The change of name |
+| The first use by that person, after the making of the order, of a name for himself or herself which was not disclosed by that person at the time of the making of the order | The newly used name |
+| A change of that person's home address | The new home address |
+| The acquisition by that person of a temporary address | The temporary address |
+| A change of that person's temporary address or that person's ceasing to have one | The new temporary address or, as the case may be, the fact that the person has ceased to have a temporary address |
+| The loss of that person's passport | That fact |
+| That person's ceasing to have a passport | That fact |
+| Receipt by that person of a new passport | The details of the passport |
+| An application made by that person under section 57 for variation of the order | That fact |
+| An application made by that person under section 58 for termination of the order | That fact |
+| An appeal made by that person in relation to the order | That fact |
+
+**2** In the table in paragraph 1—
+
+- “details”, in relation to a passport, means—
+
+  - (a) the number of the passport
+  - (b) the dates of issue and expiry of the passport
+  - (c) the name and date of birth given in the passport as being those of the passport holder
+
+- “home address”, in relation to a person, means the address of the person's sole or main residence
+
+- “loss” includes theft or destruction
+
+- “new”, in relation to a passport, includes replacement
+
+- “temporary address”, in relation to a person, means the address (other than the person's home address) of a place at which the person intends to reside, or has resided, for a period of at least 4 weeks.
+
+## SCHEDULE 6 — Modifications of enactments
+
+*(introduced by section 101)*
+
+### Part 1 — Acts
+
+#### The Police (Scotland) Act 1967 (c. 77)
+
+**[^F100]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Criminal Justice Act 1988 (c. 33)
+
+**2** In section 142(3) of the Criminal Justice Act 1988 (power of justice of peace to authorise entry and search of premises for offensive weapons), for “subsection (1)(b)” there is substituted “ “subsection (1)(c) ”.
+
+#### The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)
+
+**3** In Part II of Schedule 2 to the Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (increase in certain penalties), the entry relating to section 41(1) of the 1967 Act is repealed.
+
+#### The Criminal Procedure (Scotland) Act 1995 (c. 46)
+
+**4** (1) The 1995 Act is modified as follows.
+
+(2) In section 18 (prints, samples etc. in criminal investigations), in each of subsections (3) and (4), after “(6)” there is inserted “ “or (6A) ”.
+
+(3) In section 19A(3) (limitation on exercise of power to take samples etc from persons convicted of sexual and violent offences), for “19(1)(a) of this Act” there is substituted “ “subsection (2) of section 19 of this Act in a case where the power conferred by that subsection was exercised by virtue of subsection (1)(a) of that section ”.
+
+#### The Police Act 1996 (c. 16)
+
+**5** (1) The Police Act 1996 is modified as follows.
+
+(2) After section 60 (regulations for police federations), there is inserted—
+
+> **Sections 59 and 60: special provision for the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency**
+>
+> **60A** (1) For the purposes of sections 59 and 60, persons appointed as police members of the Scottish Crime and Drug Enforcement Agency in accordance with paragraph 7 of schedule 2 to the 2006 Act shall be treated as members of a police force in Scotland, and references in section 59 to police service shall be construed accordingly.
+>
+> (2) The reference in section 59(2) to regulations made in accordance with section 26(2A) of the Police (Scotland) Act 1967 shall—
+>
+> (a) in the case of police members of the Scottish Crime and Drug Enforcement Agency, be construed as a reference to regulations made in accordance with either of—
+>
+> (i) [[^F101]section 23(2)(g)] of the 2006 Act, and
+>
+> (ii) section 26(2A) of the Police (Scotland) Act 1967 as applied to police members of that Agency by virtue of paragraph 9(1) of schedule 2 to the 2006 Act
+>
+> (b) in the case of persons engaged on relevant service within paragraph (bd) of section 38A(1) of the Police (Scotland) Act 1967 (temporary service with the Scottish Police Services Authority), be construed as a reference to regulations made in accordance with section 26(2A) of the Police (Scotland) Act 1967 as applied to such persons by virtue of paragraph 10(10) of schedule 1 to the 2006 Act.
+>
+> (3) The reference in [[^F102]section 60(2)(e)] to regulations under section 26 of the Police (Scotland) Act 1967 shall—
+>
+> (a) in the case of police members of the Scottish Crime and Drug Enforcement Agency, be construed as a reference to regulations under either of—
+>
+> (i) section 23 of the 2006 Act, and
+>
+> (ii) section 26 of the Police (Scotland) Act 1967 as applied to police members of that Agency by virtue of paragraph 9(1) of schedule 2 to the 2006 Act
+>
+> (b) in the case of persons engaged on relevant service within paragraph (bd) of section 38A(1) of the Police (Scotland) Act 1967, be construed as a reference to regulations made under section 26 of the Police (Scotland) Act 1967 as applied to such persons by virtue of paragraph 10(10) of schedule 1 to the 2006 Act.
+>
+> (4) For the purposes of paragraphs (c) and (d) of subsection (2) of section 60—
+>
+> (a) the Scottish Police Services Authority shall be treated as a police authority, and
+>
+> (b) the Director General of the Scottish Crime and Drug Enforcement Agency shall be treated as a chief officer of police,and the reference in paragraph (d) of that subsection to police purposes shall be construed accordingly.
+>
+> (5) In this section, “the 2006 Act” means the Police, Public Order and Criminal Justice (Scotland) Act 2006.
+
+.
+
+[^F103]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F103]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 63 (Police Advisory Boards for England and Wales and for Scotland), after subsection (1) there is inserted—
+
+> (1ZA) The Police Advisory Board for Scotland shall also advise the Scottish Ministers on general questions affecting—
+>
+> (a) constables seconded to the Scottish Police Services Authority under paragraph 10(2) of schedule 1 to the Police, Public Order and Criminal Justice (Scotland) Act 2006 but not appointed to be police members of the Scottish Crime and Drug Enforcement Agency in accordance with paragraph 7 of schedule 2 to that Act,
+>
+> (b) persons seconded to the Scottish Police Services Authority under paragraph 10(3) of schedule 1 to that Act but not appointed as mentioned in paragraph (a); or
+>
+> (c) persons appointed as police members of the Scottish Crime and Drug Enforcement Agency in accordance with paragraph 7 of schedule 2 to that Act.
+
+.
+
+#### The Police Act 1997 (c. 50)
+
+**6** (1) The Police Act 1997 is modified as follows.
+
+(2) In section 93 (authorisations to interfere with property)—
+
+(a) in subsection (3), after paragraph (e) there is inserted—
+
+> (f) if the authorising officer is within subsection (5)(j), by a police member of the Scottish Crime and Drug Enforcement Agency appointed in accordance with paragraph 7 of schedule 2 to the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10).
+
+;
+
+(b) in subsection (5), after paragraph (i) there is inserted—
+
+> (j) the Director General of the Scottish Crime and Drug Enforcement Agency.
+
+; and
+
+(c) in subsection (6), after paragraph (cb) there is inserted—
+
+> (cc) in relation to the Director General of the Scottish Crime and Drug Enforcement Agency, means Scotland,
+
+.
+
+(3) In section 94 (authorisations given in absence of authorising officer)—
+
+(a) in subsection (2), after paragraph (g) there is inserted—
+
+> (h) where the authorising officer is within paragraph (j) of that subsection, by a person mentioned in subsection (5).
+
+;
+
+(b) in subsection (4)—
+
+(i) in paragraph (a), the words “or (d)” and “or, as the case may be, section 5(4) of the Police (Scotland) Act 1967” are repealed; and
+
+(ii) after that paragraph there is inserted—
+
+> (aa) in the case of an authorising officer within paragraph (d) of section 93(5), means the person holding the rank of—
+>
+> (i) deputy chief constable and, where there is more than one person in a police force who holds that rank, who is designated as the officer having the powers and duties conferred on a deputy chief constable by section 5A(1) of the Police (Scotland) Act 1967; or
+>
+> (ii) assistant chief constable who is designated to act under section 5A(2) of that Act;
+
+; and
+
+(c) after subsection (4) there is inserted—
+
+> (5) The person referred to in subsection (2)(h) is—
+>
+> (a) the chief constable whose relevant area (within the meaning of section 93(6)(b)) is the area to which the application for authorisation relates; or
+>
+> (b) his designated deputy (within the meaning of subsection (4)(aa)); or
+>
+> (c) where it is not reasonably practicable for the chief constable or his designated deputy to consider the application, a person holding the rank of assistant chief constable in the chief constable's police force.
+
+.
+
+(4) In section 95(7) (designated deputy permitted to exercise authorising officer's powers), for “or (d)” there is substituted “ “(d) or (j) ”.
+
+(5) In section 107(4) (power of Prime Minister to exclude matters from a report), after paragraph (b) there is inserted—
+
+> (ba) the functions of the Scottish Crime and Drug Enforcement Agency;
+
+.
+
+#### The Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**[^F104]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Regulation of Investigatory Powers Act 2000 (c. 23)
+
+**8** In section 76A(11) of the Regulation of Investigatory Powers Act 2000 (foreign surveillance operations: definitions) for paragraph (c) of the definition of “United Kingdom officer” there is substituted—
+
+> (c) a police member of the Scottish Crime and Drug Enforcement Agency appointed in accordance with paragraph 7 of schedule 2 to the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10);
+
+#### The Regulation of Investigatory Powers (Scotland) Act 2000 (asp 11)
+
+**9** (1) The Regulation of Investigatory Powers (Scotland) Act 2000 is modified as follows.
+
+(2) In section 9 (special provision for the Scottish Crime Squad)—
+
+(a) subsection (1) is repealed
+
+(b) in subsection (2), for “Scottish Crime Squad and constables seconded to it” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”
+
+(c) in subsection (3), for “Scottish Crime Squad” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”
+
+(d) in subsection (4)—
+
+(i) for “Scottish Crime Squad” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”; and
+
+(ii) for “constable seconded to that Squad” there is substituted “ “police member of that Agency ”;
+
+(e) subsections (5) and (6) are repealed; and
+
+(f) the section heading becomes “ “**Special provision for the Scottish Crime and Drug Enforcement Agency** ”.
+
+(3) In section 10 (authorisation of intrusive surveillance)—
+
+(a) in subsection (1), after “force” there is inserted “ “and the Director General of the Scottish Crime and Drug Enforcement Agency ”; and
+
+(b) in subsection (2), for “chief constable” there is substituted “ “person ”.
+
+(4) In section 11 (grant of authorisations)—
+
+(a) in subsection (2), at the beginning there is inserted “ “Subject to section 12A below, ”;
+
+(b) for subsection (3) there is substituted—
+
+> (3) The Director General of the Scottish Crime and Drug Enforcement Agency shall not grant an authorisation for the carrying out of intrusive surveillance except on an application made by a police member of that Agency.
+
+;
+
+(c) in subsection (4)—
+
+(i) in paragraph (a), after “force” there is inserted “ “or is a police member of the Scottish Crime and Drug Enforcement Agency ”; and
+
+(ii) in paragraph (b), for “a police force,” there is substituted—
+
+> (i) where that individual is a member of a police force, a police force; or
+>
+> (ii) where that individual is a police member of the Scottish Crime and Drug Enforcement Agency, that Agency,
+
+; and
+
+(d) in subsection (5), after “section” there is inserted “ “and section 12A below ”.
+
+(5) In section 12 (grant of authorisations in cases of urgency)—
+
+(a) in subsection (1), after “application” there is inserted “ “(other than an application to which section 12A below applies) ”
+
+(b) in subsection (4), after “rank of” there is inserted “ “deputy chief constable or ”; and
+
+(c) in subsection (5), for the words from “assistant” to the end there is substituted—
+
+> (a) deputy chief constable and, where there is more than one person in a police force who holds that rank, who is designated as the officer having the powers and duties conferred on a deputy chief constable by section 5A(1) of the Police (Scotland) Act 1967 (c. 77); or
+>
+> (b) assistant chief constable who is designated to act under section 5A(2) of that Act.
+
+.
+
+(6) After section 12 there is inserted—
+
+> **Grant of authorisations in cases of urgency: Scottish Crime and Drug Enforcement Agency**
+>
+> **12A** (1) This section applies in the case of an application to the Director General of the Scottish Crime and Drug Enforcement Agency for an authorisation for the carrying out of intrusive surveillance where the case is urgent.
+>
+> (2) If it is not reasonably practicable, having regard to the urgency of the case, for the application to be considered by the Director General or the Deputy Director General of that Agency, the application may be made to and considered by—
+>
+> (a) the chief constable of the police force to which subsection (3) below applies
+>
+> (b) a person (if there is one) who is entitled, as a designated deputy of that chief constable, to exercise the functions in relation to that application of that chief constable; or
+>
+> (c) if it is not reasonably practicable, having regard to the urgency of the case, for the application to be considered by a person such as is mentioned in paragraph (a) or (b) above, any person who is entitled under subsection (4) of section 12 above to act, for the purposes of that section, for that chief constable.
+>
+> (3) This subsection applies to a police force if—
+>
+> (a) in the case of an authorisation for the carrying out of intrusive surveillance in relation to any residential premises, those premises are in; and
+>
+> (b) in the case of an authorisation for the carrying out of intrusive surveillance in relation to any private vehicle, the chief constable of that police is satisfied that the operation will commence in,the area of operation of that police force.
+>
+> (4) In this section “designated deputy” has the same meaning as in section 12 above.
+
+.
+
+(7) In section 14(5)(b) (meaning of “most senior relevant person”), for the words from “member” to the end there is substituted “ “police member of the Scottish Crime and Drug Enforcement Agency, the Director General of that Agency. ”.
+
+(8) In section 15(7) (persons receiving a report when authorisation is quashed), after paragraph (a) there is inserted—
+
+> (aa) in the case of an authorisation granted under section 12A above, to the chief constable mentioned in subsection (2)(a) of that section;
+
+.
+
+(9) In section 16(1) (appeals), after “force” there is inserted “ “or the Director General of the Scottish Crime and Drug Enforcement Agency ”.
+
+(10) In section 18 (information to be provided to the Surveillance Commissioners), for paragraph (b) there is substituted—
+
+> (b) the Director General, the Deputy Director General and every police member of the Scottish Crime and Drug Enforcement Agency,
+
+.
+
+(11) In section 20(6) (meaning of “deputy” in relation to cancellations)—
+
+(a) the words from “in”, where it second occurs, to “constable”, where it second occurs, become paragraph (a); and
+
+(b) after those words there is inserted—
+
+> (b) in relation to the Director General of the Scottish Crime and Drug Enforcement Agency, to the Deputy Director General of that Agency
+
+.
+
+(12) In section 23(5)(b) (conduct taking place in challengeable circumstances), after “force” there is inserted “ “or to the Scottish Crime and Drug Enforcement Agency ”.
+
+(13) In section 24(2)(b) (powers and duties in relation to which codes of practice must be issued), after “force” there is inserted “ “or to the Scottish Crime and Drug Enforcement Agency ”.
+
+(14) In section 31(1) (interpretation), after the definition of “police force” there is inserted—
+
+> “police member”, in relation to the Scottish Crime and Drug Enforcement Agency, means a person appointed as such a member in accordance with paragraph 7 of schedule 2 to the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10);
+
+#### The Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**10** (1) The Scottish Public Services Ombudsman Act 2002 is amended as follows.
+
+(2) In schedule 2 (listed authorities)—
+
+(a) the entry numbered 14 is repealed; and
+
+(b) after the entry numbered 32 there is inserted—
+
+> **32A** The Police Complaints Commissioner for Scotland.
+
+.
+
+(3) In schedule 4 (matters which the Ombudsman must not investigate)—
+
+(a) for paragraph 1(b) there is substituted—
+
+> (c) by the Police Complaints Commissioner for Scotland,
+
+; and
+
+(b) after paragraph 15 there is inserted—
+
+> **16** Action taken—
+>
+> (a) by a local authority in discharge of its functions as a police authority, or
+>
+> (b) by any other person in discharge of the functions of a local authority as a police authority, by virtue of section 56(1) of the Local Government (Scotland) Act 1973 (c. 65).
+
+.
+
+#### The Freedom of Information (Scotland) Act 2002 (asp 13)
+
+**[^F105]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+
+**[^F106]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Serious Organised Crime and Police Act 2005 (c. 15)
+
+**13** (1) The Serious Organised Crime and Police Act 2005 is modified as follows.
+
+(2) In section 3(5)(d) (meaning of “special police force”), for “Scottish Drug Enforcement Agency” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”.
+
+(3) In section 23 (mutual assistance between SOCA and law enforcement agencies: voluntary arrangements)—
+
+(a) for subsection (5) there is substituted—
+
+> (5) In subsection (4)(a), “constables or members of staff” in relation to the Scottish Crime and Drug Enforcement Agency means police members or support staff members of that Agency.
+
+;
+
+(b) in subsection (7), for paragraph (b) there is substituted—
+
+> (b) a police member or support staff member of the Scottish Crime and Drug Enforcement Agency,
+
+;
+
+(c) in subsection (10)(b) for “Scottish Drug Enforcement Agency” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”; and
+
+(d) in subsection (11)—
+
+(i) after the definition of “police force” there is inserted—
+
+> “police member”, in relation to the Scottish Crime and Drug Enforcement Agency, means a person appointed as such a member in accordance with paragraph 7 of schedule 2 to the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10);
+
+;
+
+(ii) in paragraph (f) of the definition of “relevant police authority”, for “Scottish Drug Enforcement Agency” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”; and
+
+(iii) after the definition of “relevant police authority” there is inserted—
+
+> “support staff member”, in relation to the Scottish Crime and Drug Enforcement Agency, means a person appointed as such a member in accordance with paragraph 8 of schedule 2 to the Police, Public Order and Criminal Justice (Scotland) Act 2006;
+
+.
+
+(4) In section 24(2)(b) (bodies to which section 24 applies), for “Scottish Drug Enforcement Agency” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”.
+
+(5) In section 25 (directed arrangements: Scotland)—
+
+(a) in subsection (2)(b), for “Scottish Drug Enforcement Agency” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”
+
+(b) in subsection (3)(b)—
+
+(i) for “Director of the Scottish Drug Enforcement Agency” there is substituted “ “Director General of the Scottish Crime and Drug Enforcement Agency ”; and
+
+(ii) for “constables or other persons” there is substituted “ “police members or support staff members ”
+
+(c) in subsection (4), in both paragraphs (a) and (b), for “Scottish Drug Enforcement Agency” there is substituted “ “Scottish Crime and Drug Enforcement Agency ”; and
+
+(d) after subsection (4), there is inserted—
+
+> (5) In this section, “police member” and “support staff member” have the same meaning as in section 23.
+
+.
+
+(6) In section 31(5)(d) (meaning of “relevant authority” in section 31), for “Scottish Drug Enforcement Agency, means” there is substituted “ “Scottish Crime and Drug Enforcement Agency, means the Director General of ”.
+
+(7) In section 42 (interpretation)—
+
+(a) in subsection (1), for paragraph (g) of the definition of “chief officer” there is substituted—
+
+> (g) in relation to the Scottish Crime and Drug Enforcement Agency, the Director General of that Agency
+
+; and
+
+(b) subsection (2) is repealed.
+
+(8) In section 47 (person having powers of constable: exercise of such powers in Scotland and Northern Ireland)—
+
+(a) in subsection (3)(a), for “Director of the Scottish Drug Enforcement Agency” there is substituted “ “Director General of the Scottish Crime and Drug Enforcement Agency ”
+
+(b) in subsection (4)(a), for “Deputy Director” there is substituted “ “Deputy Director General ”; and
+
+(c) in subsection (7), the definition of “the Scottish Drug Enforcement Agency” and “the Director” is repealed.
+
+(9) In section 82(5) (persons who are protection providers), for paragraph (f), there is substituted—
+
+> (f) the Director General of the Scottish Crime and Drug Enforcement Agency;
+
+(10) In section 94 (interpretation of Chapter 4), subsection (9) is repealed.
+
+(11) In Schedule 5—
+
+(a) in paragraph 20—
+
+(i) in sub-paragraph (1), the words “is or” are repealed and for “Scottish Drug Enforcement Agency” there is substituted “ “organisation known as the Scottish Drug Enforcement Agency and established under section 36(1)(a)(ii) of the Police (Scotland) Act 1967 (c. 77), that is to say a person who was engaged on central service (as defined by section 38(5) of that Act) and was appointed by the Scottish Ministers to exercise control in relation to the activities carried out in exercise of that organisation's functions ”; and
+
+(ii) in sub-paragraph (2), the words “is or” are repealed; and
+
+(b) after paragraph 20 there is inserted—
+
+> **20A** (1) A person who is or has been the Director General of the Scottish Crime and Drug Enforcement Agency.
+>
+> (2) A person who is or has been under the direction and control of the Director General of the Scottish Crime and Drug Enforcement Agency.
+
+.
+
+### Part 2 — Subordinate legislation
+
+#### The Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) (Scotland) Order 2000 (S.S.I. 2000/343)
+
+**14** In the Schedule to the Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) (Scotland) Order 2000, for “The Operational and Intelligence Group of the Scottish Drug Enforcement Agency” there is substituted “ “The Scottish Crime and Drug Enforcement Agency ”.
+
+---
+
+[^F1]: Ss. 1-32 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F2]: S. 33 heading substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 61(2)(a) , 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F3]: S. 33 provision heading substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 61(2)(b), 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F4]: Words in s. 33(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 61(2)(c), 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F5]: S. 33A inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 62, 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F6]: Words in s. 33A(b)(i) substituted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 12(a), 22(2); S.S.I. 2025/175, reg. 2(j)
+[^F7]: Words in s. 33A(b)(ii) substituted (15.6.2017) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(2), sch. 2 para. 11(2); S.S.I. 2017/155, reg. 2 (with regs. 4(2) 5)
+[^F8]: Words in s. 33A(b)(ii) inserted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 12(b), 22(2); S.S.I. 2025/175, reg. 2(j)
+[^F9]: S. 34 heading substituted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 13(2), 22(2); S.S.I. 2025/175, reg. 2(k)
+[^F10]: Word in s. 34(1) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(2)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F11]: Words in s. 34(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(2)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F12]: S. 34(2)(a)(b) substituted for s. 34(2)(a)-(e) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(2)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F13]: S. 34(2A) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(2)(c); S.S.I. 2013/51 , art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F14]: S. 34(3)(aa) inserted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 13(1)(a), 22(2); S.S.I. 2025/175, reg. 2(k)
+[^F15]: S. 34(3A) inserted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 13(1)(b), 22(2); S.S.I. 2025/175, reg. 2(k)
+[^F16]: Word in s. 34(6) substituted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 13(1)(c), 22(2); S.S.I. 2025/175, reg. 2(k)
+[^F17]: S. 34(7) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F18]: S. 35(3)(c) and word inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(3)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F19]: Words in s. 35(8)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(3)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F20]: Words in s. 35(10) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(3)(c); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F21]: Words in s. 36(1) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(4)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F22]: S. 36(1A) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(4)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F23]: S. 40A inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(5); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F24]: S. 40A heading substituted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 16(2), 22(2); S.S.I. 2025/175, reg. 2(l)
+[^F25]: Words in s. 40A(1)(a) renumbered as s. 40A(1)(a)(i) (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 16(1)(a)(i), 22(2); S.S.I. 2025/175, reg. 2(l)
+[^F26]: S. 40A(1)(a)(ii) inserted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 16(1)(a)(ii), 22(2); S.S.I. 2025/175, reg. 2(l)
+[^F27]: S. 40A(1A) inserted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 16(1)(b), 22(2); S.S.I. 2025/175, reg. 2(l)
+[^F28]: S. 41(1)(a)(b) substituted for s. 41(1)(a)-(j) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(6); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F29]: S. 41(2)-(5) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F30]: S. 41A and cross-heading inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 63, 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F31]: S. 41B inserted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 64, 129(2) (with s. 100); S.S.I. 2012/253, art. 2, sch.
+[^F32]: Words in s. 41B(2)(b)(ii) substituted (15.6.2017) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(2), sch. 2 para. 11(3); S.S.I. 2017/155, reg. 2 (with regs. 4(2) 5)
+[^F33]: S. 41C inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 65, 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F34]: Words in s. 41C(2)(b)(ii) substituted (15.6.2017) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(2), sch. 2 para. 11(4); S.S.I. 2017/155, reg. 2 (with regs. 4(2) 5)
+[^F35]: S. 41D inserted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 66, 129(2) (with s. 100); S.S.I. 2012/253, art. 2, Sch. (with art. 6)
+[^F36]: S. 41E inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 67, 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F37]: S. 41F inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 68, 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F38]: S. 42 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F39]: S. 42A inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 69, 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F40]: Word in s. 43(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(7)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F41]: Words in s. 43(6)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(7)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F42]: Words in s. 43(6)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(7)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F43]: S. 43(8) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(7)(c); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F44]: Words in s. 44(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(8)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F45]: Words in s. 44(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(8)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F46]: Words in s. 44(2)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(8)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F47]: Words in s. 44(3) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(8)(c); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F48]: Words in s. 44(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(8)(d)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F49]: Words in s. 44(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(8)(d)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F50]: S. 44(6) inserted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 19, 22(2); S.S.I. 2025/175, reg. 2(m)
+[^F51]: Words in s. 45(1)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(9)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F52]: S. 45(2)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(9)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F53]: S. 46(6) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(10); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F54]: S. 46A inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 70, 129(2) (with s. 100); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F55]: S. 46B and cross-heading inserted (25.6.2025) by Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5), ss. 20, 22(2); S.S.I. 2025/175, reg. 2(n)
+[^F56]: S. 47 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(11); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F57]: Word in s. 47 substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119), art. 1, Sch. 1 para. 21
+[^F58]: S. 47A inserted (1.5.2024) by Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), ss. 45(3), 63(3) (with s. 61)
+[^F59]: Ss. 48-50 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F60]: Words in s. 52(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(12)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F61]: S. 52(1)(a)(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(12)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F62]: Words in s. 53(2)(a) repealed (1.4.2010) by Policing and Crime Act 2009 (c. 26), ss. 104(4), 112, 116(1), Sch. 8 Pt. 11; S.I. 2010/507, art. 5(o) (with art. 6)
+[^F63]: S. 55(3)(a)(ii) substituted (9.7.2013) by The Football Banning Orders (Regulated Football Matches) (Scotland) Order 2013 (S.S.I. 2013/228), arts. 1, 2
+[^F64]: S. 55(3)(aa) inserted (1.4.2007) by The Football Banning Orders (Regulated Football Matches) (Scotland) Order 2007 (S.S.I. 2007/125), art. 2
+[^F65]: Words in s. 57(3)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(13)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F66]: S. 57(3)(c)(d) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(13)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F67]: Words in s. 60(3) substituted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(2)(a) (with art. 4)
+[^F68]: Words in s. 60(3) substituted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(2)(b) (with art. 4)
+[^F69]: Words in s. 66(1) substituted (1.4.2010) by Policing and Crime Act 2009 (c. 26), ss. 104(5), 116(1); S.I. 2010/507, art. 5(o) with art. 6)
+[^F70]: Words in s. 67(3) substituted (1.10.2011) by The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085), art. 1(2), Sch. 1 para. 65
+[^F71]: Words in s. 69(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(14); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F72]: Words in s. 87(6) substituted (1.10.2011) by The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085), art. 1(2), Sch. 1 para. 65
+[^F73]: S. 95(4A) inserted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(3) (with art. 4)
+[^F74]: S. 96 heading substituted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(5) (with art. 4)
+[^F75]: Words in s. 96(1)(a) substituted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(4)(a) (with art. 4)
+[^F76]: Words in s. 96(2) repealed (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(4)(b) (with art. 4)
+[^F77]: Words in s. 96(5) repealed (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(4)(c) (with art. 4)
+[^F78]: Words in s. 96(8) inserted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(4)(d) (with art. 4)
+[^F79]: S. 96A inserted (22.9.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338), art. 1, Sch. 2 para. 9(6) (with art. 4)
+[^F80]: Words in s. 99 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F81]: Word in s. 103(4)(a) repealed (15.2.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(15)(a); S.S.I. 2013/47, art. 2 (with art. 3)
+[^F82]: Words in s. 103(4)(a) inserted (15.2.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(15)(b); S.S.I. 2013/47, art. 2 (with art. 3)
+[^F83]: Schs. 1-3 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F84]: Sch. 4 heading substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(16); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F85]: Words in Sch. 4 para. 2(1)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(a)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F86]: Sch. 4 para. 2(1)(da) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(a)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F87]: Words in Sch. 4 para. 2(1)(e) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(a)(iii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F88]: Sch. 4 para. 2(1)(f) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F89]: Words in Sch. 4 para. 2(1)(g) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(a)(iv); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F90]: Word in Sch. 4 para. 2(1)(h)(ii) omitted (7.10.2013) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 172(a); S.I. 2013/1682, art. 3(v)
+[^F91]: Words in Sch. 4 para. 2(1)(i) omitted (7.10.2013) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 172(b)(i); S.I. 2013/1682, art. 3(v)
+[^F92]: Word in Sch. 4 para. 2(1)(i) inserted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 172(b)(ii); S.I. 2013/1682, art. 3(v)
+[^F93]: Sch. 4 para. 2(1)(j) inserted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 172(c); S.I. 2013/1682, art. 3(v)
+[^F94]: Figure in Sch. 4 para. 3(2)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F95]: Figure in Sch. 4 para. 3(2)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F96]: Words in Sch. 4 para. 3(5)(e) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 261(3) (with art. 10)
+[^F97]: Sch. 4 paras. 7A, 7B and cross-headings inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(c); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F98]: Sch. 4 para. 11(1): Sch. 4 para. 11 renumbered as sch. 4 para. 11(1) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(d)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F99]: Sch. 4 para. 11(2) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 33(17)(d)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F100]: Sch. 6 para. 1 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121, arts. 1(1), 11)
+[^F101]: Words in Sch. 6 para. 5(2) (in the inserted s. 60A of the Police Act 1996 (c. 16)) substituted (31.3.2007) by The Police, Public Order and Criminal Justice (Scotland) Act 2006 (Modification of Agency's Powers and Incidental Provision) Order 2007 (S.S.I. 2007/260), art. 2(3)(a)
+[^F102]: Words in Sch. 6 para. 5(2) (in the inserted s. 60A of the Police Act 1996 (c. 16)) substituted (31.3.2007) by The Police, Public Order and Criminal Justice (Scotland) Act 2006 (Modification of Agency's Powers and Incidental Provision) Order 2007 (S.S.I. 2007/260), art. 2(3)(b)
+[^F103]: Sch. 6 para. 5(3)(4) repealed (17.8.2023) by Anti-social Behaviour, Crime and Policing Act 2014 (c. 12), s. 185(1), Sch. 11 para. 102 (with ss. 21, 33, 42, 58, 75, 93); S.I. 2023/829, art. 2(d)(vi)
+[^F104]: Sch. 6 para. 7 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F105]: Sch. 6 para. 11 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F106]: Sch. 6 para. 12 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)

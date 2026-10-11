@@ -1,0 +1,335 @@
+---
+title: "European Charter of Local Self-Government (Incorporation) (Scotland) Act 2026"
+identifier: "asp/2026/11"
+citation: "2026 asp 11"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2026-04-15
+last_amended: 2026-04-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2026/11"
+source_modified: 2026-05-23
+retrieved: 2026-10-11
+---
+
+# European Charter of Local Self-Government (Incorporation) (Scotland) Act 2026
+
+**2026 asp 11**
+
+An Act of the Scottish Parliament to incorporate in Scots law the European Charter of Local Self-Government, and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was approved by the Parliament on 3rd March 2026 and received Royal Assent on 15th April 2026
+
+## 1 The Charter Articles (prospective)
+
+(1) In this Act, “the Charter Articles” means Articles 2 to 11 of the European Charter of Local Self-Government which was opened for signature by the Council of Europe on 15 October 1985.
+
+(2) The Charter Articles are set out in the schedule.
+
+(3) For the purposes of this Act, the Charter Articles are to be read subject to any reservations, objections, interpretative declarations, undertakings, notifications or denunciations by the United Kingdom as may be in force from time to time.
+
+(4) The Scottish Ministers may by regulations amend this Act to reflect amending or additional protocols to the Charter that have been signed by the United Kingdom (whether before or after the coming into force of this section).
+
+## 2 Duty to act compatibly with the Charter Articles (prospective)
+
+(1) The Scottish Ministers must ensure that any action they take in exercise of a relevant function is compatible with the Charter Articles (but see subsection (4)).
+
+(2) In subsection (1), a “relevant function” means a function that—
+
+(a) is within devolved competence (within the meaning of section 54 of the Scotland Act 1998), and
+
+(b) is conferred by—
+
+(i) an Act of the Scottish Parliament,
+
+(ii) a Scottish statutory instrument originally made wholly under a relevant enabling power,
+
+(iii) a provision in a Scottish statutory instrument originally made partly under a relevant enabling power, provided that the provision itself was either—
+
+(A) originally made under the relevant enabling power, or
+
+(B) inserted into the instrument by an Act of the Scottish Parliament or subordinate legislation made under a relevant enabling power, or
+
+(iv) a rule of law not created by an enactment.
+
+(3) In subsection (2), “relevant enabling power” means a power to make subordinate legislation conferred by a provision in an enactment of a kind mentioned in that subsection, unless the provision was inserted by an enactment of a kind that is not mentioned in that subsection.
+
+(4) The Scottish Ministers do not fail to comply with subsection (1) by taking an action in exercise of a relevant function which is incompatible with the Charter Articles if they were required or entitled to take the incompatible action by words that—
+
+(a) are not contained in an enactment of a kind mentioned in subsection (2)(b), or
+
+(b) are contained in such an enactment having been inserted into it by an enactment of a kind that is not mentioned in subsection (2)(b).
+
+(5) For the purposes of this section—
+
+(a) “function” includes the making of subordinate legislation but does not include the preparation or introduction of, or the exercise of other functions in relation to, a Bill for an Act of the Scottish Parliament,
+
+(b) a function conferred by words inserted by one enactment into another enactment (“the modified enactment”) is to be regarded as conferred only by the modified enactment,
+
+(c) a failure to act (including a failure to make subordinate legislation) is to be treated as the taking of action.
+
+## 3 Duty to promote local self-government (prospective)
+
+(1) The Scottish Ministers must—
+
+(a) keep under consideration whether there are any steps which they could take which would or might safeguard and reinforce local self-government and increase the autonomy of local authorities, and
+
+(b) if they consider it appropriate to do so, take any of the steps identified by that consideration.
+
+(2) The Scottish Ministers must, in accordance with subsection (3), lay before the Scottish Parliament and publish a report of—
+
+(a) the steps they have taken, or plan to take, by the date the report is published to safeguard and reinforce local self-government and increase the autonomy of local authorities, and
+
+(b) their plans until the date on which the next report is to be published to safeguard and reinforce local self-government and increase the autonomy of local authorities.
+
+(3) The first such report is to be published no later than 5 years after subsection (1) comes into force, and each subsequent such report is to be published no later than 5 years after the publication of the previous such report.
+
+(4) In complying with their duties under subsections (1) and (2) the Scottish Ministers must consult—
+
+(a) such persons appearing to them to be representative of the interests of local authorities, and
+
+(b) such other persons as they consider appropriate.
+
+## 4 Interpretation of legislation (prospective)
+
+(1) So far as it is possible to do so, the following must be read and given effect in a way which is compatible with the Charter Articles—
+
+(a) words in an Act of the Scottish Parliament to which section 6 applies,
+
+(b) words in subordinate legislation to which section 7 applies.
+
+(2) This section does not affect the validity, continuing operation or enforcement of any incompatible subordinate legislation made by virtue of an Act of the Scottish Parliament if (disregarding any possibility of revocation) the Act or words in another enactment to which neither section 6 nor 7 apply prevents removal of the incompatibility.
+
+## 5 Declaration of incompatibility (prospective)
+
+(1) Subsection (2) applies in any proceedings in which a court determines whether the following give rise to an incompatibility with the Charter Articles—
+
+(a) words in an Act of the Scottish Parliament to which section 6 applies,
+
+(b) words in subordinate legislation to which section 7 applies.
+
+(2) If the court is satisfied that the words give rise to an incompatibility with the Charter Articles, it may make a declaration stating that incompatibility (“a declaration of incompatibility”).
+
+(3) Where the incompatible words are in subordinate legislation, the court—
+
+(a) may make a declaration of incompatibility in relation to the subordinate legislation only if the court is satisfied that (disregarding any possibility of revocation) the Act of the Scottish Parliament by virtue of which the subordinate legislation is made prevents removal of the incompatibility,
+
+(b) may not make a declaration of incompatibility in relation to the subordinate legislation if the court is satisfied that (disregarding any possibility of revocation) words in another enactment to which neither section 6 nor 7 apply prevent removal of the incompatibility.
+
+(4) In this section “court” means—
+
+(a) the Supreme Court of the United Kingdom, or
+
+(b) the Court of Session.
+
+(5) A declaration of incompatibility does not affect the validity, continuing operation or enforcement of the words in respect of which it is given.
+
+## 6 Primary legislation words for purposes of sections 4 and 5 (prospective)
+
+The words to which this section applies are words that are—
+
+(a) in an Act of the Scottish Parliament, and
+
+(b) in the Act as a result of having been—
+
+(i) contained in the Bill for the Act,
+
+(ii) contained, as part of an amending provision, in the Bill for another Act of the Scottish Parliament, or
+
+(iii) inserted by words in subordinate legislation to which section 7 applies.
+
+## 7 Subordinate legislation words for purposes of sections 4 and 5 (prospective)
+
+(1) The words to which this section applies are words that are—
+
+(a) in a Scottish statutory instrument originally made, wholly or partly, by virtue of a relevant enabling power, and
+
+(b) in the instrument as a result of—
+
+(i) the exercise of a relevant enabling power (either to make the provision containing the words, or to make the amending provision that inserted them), or
+
+(ii) having been inserted into the instrument by words in an Act of the Scottish Parliament to which section 6 applies.
+
+(2) In this section, “relevant enabling power” means a power conferred by a provision that is not in, or derived (directly or indirectly) from, an Act of Parliament.
+
+(3) For the purposes of subsection (2), a provision of an Act of the Scottish Parliament is not to be regarded as derived from section 28 of the Scotland Act 1998.
+
+## 8 Power to take remedial action (prospective)
+
+(1) The Scottish Ministers may by regulations make such provision as they consider necessary or expedient in consequence of a declaration of incompatibility.
+
+(2) Regulations made under subsection (1) may modify any enactment other than this Act.
+
+(3) Regulations made under subsection (1) may not create, widen the scope of, or increase the penalty for, a criminal offence.
+
+## 9 Enhanced scrutiny of regulations under section 8(1) (prospective)
+
+(1) Before laying a draft Scottish statutory instrument containing regulations under section 8(1) before the Scottish Parliament for approval, the Scottish Ministers must lay before the Parliament—
+
+(a) a draft of the regulations, and
+
+(b) an explanatory statement complying with subsection (2).
+
+(2) The explanatory statement must explain—
+
+(a) the nature of the incompatibility with the Charter Articles to which the draft regulations relate,
+
+(b) how the draft regulations address the incompatibility,
+
+(c) whether the draft regulations include provision that goes beyond what is necessary to address the incompatibility and, if so, why that provision is included, and
+
+(d) why the Scottish Ministers are proposing to use the power under section 8(1) as opposed to taking other action.
+
+(3) Where the Scottish Ministers lay draft regulations under subsection (1)(a), they must not lay before the Scottish Parliament for approval a draft Scottish statutory instrument containing the regulations before the expiry of the period of 60 days beginning with the day on which the draft regulations are laid under subsection (1)(a).
+
+(4) In calculating the period of 60 days for the purposes of subsection (3), no account is to be taken of any period during which the Parliament is—
+
+(a) dissolved, or
+
+(b) in recess for more than 4 days.
+
+(5) Failure to comply with the requirement in subsection (3) in relation to a draft Scottish statutory instrument does not prevent the regulations contained in the draft instrument from being approved and made.
+
+(6) Where a draft Scottish statutory instrument is laid before the Scottish Parliament for approval, but not in compliance with the requirement in subsection (3), the Scottish Ministers must explain to the Presiding Officer why the requirement has not been complied with.
+
+(7) The explanation must be given in writing as soon as practicable after the instrument is laid before the Parliament.
+
+## 10 Power to remove or limit retrospective effect of decisions etc. (prospective)
+
+(1) This section applies—
+
+(a) where a court decides that the Scottish Ministers have breached a duty imposed on them by this Act, or
+
+(b) where a court decides that—
+
+(i) words in subordinate legislation to which section 7 applies and which were enacted prior to the coming into force of section 2 are incompatible with the Charter Articles, and
+
+(ii) (disregarding any possibility of revocation) removal of the incompatibility is not prevented by—
+
+(A) the Act of the Scottish Parliament by virtue of which the subordinate legislation was made, or
+
+(B) words in another enactment to which neither section 6 nor 7 apply.
+
+(2) The court may make an order—
+
+(a) removing or limiting any retrospective effect of the decision, or
+
+(b) suspending the effect of the decision for any period and on any conditions to allow the breach or incompatibility to be addressed.
+
+(3) In deciding whether to make an order under this section, the court shall (among other things) have regard to the extent to which persons who are not parties to the proceedings would otherwise be adversely affected.
+
+## 11 Statements about Charter-compatibility of Bills (prospective)
+
+(1) A member of the Scottish Parliament introducing a Public Bill in the Parliament must, on or before introduction, make a statement about the extent to which, in that member’s view, the Bill is compatible with the Charter Articles.
+
+(2) The Parliament must publish any statement made under subsection (1).
+
+## 12 Regulation-making powers (prospective)
+
+(1) Regulations under this Act may make different provision for different purposes.
+
+(2) Regulations under this Act are subject to the affirmative procedure.
+
+## 13 Ancillary provision (prospective)
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
+
+(2) Regulations under this section may modify any enactment (including this Act).
+
+## 14 Commencement
+
+(1) This section and section 15 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force at the end of the period of 6 months beginning with the day of Royal Assent.
+
+## 15 Short title
+
+The short title of this Act is the European Charter of Local Self-Government (Incorporation) (Scotland) Act 2026.
+
+## Schedule — The Charter Articles (prospective)
+
+*(introduced by section 1(2))*
+
+> **Article 2 – Constitutional and legal foundation for local self-government**
+>
+> The principle of local self-government shall be recognised in domestic legislation, and where practicable in the constitution.
+>
+> **Article 3 – Concept of local self-government**
+>
+> **1** Local self-government denotes the right and the ability of local authorities, within the limits of the law, to regulate and manage a substantial share of public affairs under their own responsibility and in the interests of the local population.
+>
+> **2** This right shall be exercised by councils or assemblies composed of members freely elected by secret ballot on the basis of direct, equal, universal suffrage, and which may possess executive organs responsible to them. This provision shall in no way affect recourse to assemblies of citizens, referendums or any other form of direct citizen participation where it is permitted by statute.
+>
+> **Article 4 – Scope of local self-government**
+>
+> **1** The basic powers and responsibilities of local authorities shall be prescribed by the constitution or by statute. However, this provision shall not prevent the attribution to local authorities of powers and responsibilities for specific purposes in accordance with the law.
+>
+> **2** Local authorities shall, within the limits of the law, have full discretion to exercise their initiative with regard to any matter which is not excluded from their competence nor assigned to any other authority.
+>
+> **3** Public responsibilities shall generally be exercised, in preference, by those authorities which are closest to the citizen. Allocation of responsibility to another authority should weigh up the extent and nature of the task and requirements of efficiency and economy.
+>
+> **4** Powers given to local authorities shall normally be full and exclusive. They may not be undermined or limited by another, central or regional, authority except as provided for by the law.
+>
+> **5** Where powers are delegated to them by a central or regional authority, local authorities shall, insofar as possible, be allowed discretion in adapting their exercise to local conditions.
+>
+> **6** Local authorities shall be consulted, insofar as possible, in due time and in an appropriate way in the planning and decision-making processes for all matters which concern them directly.
+>
+> **Article 5 – Protection of local authority boundaries**
+>
+> Changes in local authority boundaries shall not be made without prior consultation of the local communities concerned, possibly by means of a referendum where this is permitted by statute.
+>
+> **Article 6 – Appropriate administrative structures and resources for the tasks of local authorities**
+>
+> **1** Without prejudice to more general statutory provisions, local authorities shall be able to determine their own internal administrative structures in order to adapt them to local needs and ensure effective management.
+>
+> **2** The conditions of service of local government employees shall be such as to permit the recruitment of high-quality staff on the basis of merit and competence; to this end adequate training opportunities, remuneration and career prospects shall be provided.
+>
+> **Article 7 – Conditions under which responsibilities at local level are exercised**
+>
+> **1** The conditions of office of local elected representatives shall provide for free exercise of their functions.
+>
+> **2** They shall allow for appropriate financial compensation for expenses incurred in the exercise of the office in question as well as, where appropriate, compensation for loss of earnings or remuneration for work done and corresponding social welfare protection.
+>
+> **3** Any functions and activities which are deemed incompatible with the holding of local elective office shall be determined by statute or fundamental legal principles.
+>
+> **Article 8 – Administrative supervision of local authorities' activities**
+>
+> **1** Any administrative supervision of local authorities may only be exercised according to such procedures and in such cases as are provided for by the constitution or by statute.
+>
+> **2** Any administrative supervision of the activities of the local authorities shall normally aim only at ensuring compliance with the law and with constitutional principles. Administrative supervision may however be exercised with regard to expediency by higher-level authorities in respect of tasks the execution of which is delegated to local authorities.
+>
+> **3** Administrative supervision of local authorities shall be exercised in such a way as to ensure that the intervention of the controlling authority is kept in proportion to the importance of the interests which it is intended to protect.
+>
+> **Article 9 – Financial resources of local authorities**
+>
+> **1** Local authorities shall be entitled, within national economic policy, to adequate financial resources of their own, of which they may dispose freely within the framework of their powers.
+>
+> **2** Local authorities' financial resources shall be commensurate with the responsibilities provided for by the constitution and the law.
+>
+> **3** Part at least of the financial resources of local authorities shall derive from local taxes and charges of which, within the limits of statute, they have the power to determine the rate.
+>
+> **4** The financial systems on which resources available to local authorities are based shall be of a sufficiently diversified and buoyant nature to enable them to keep pace as far as practically possible with the real evolution of the cost of carrying out their tasks.
+>
+> **5** The protection of financially weaker local authorities calls for the institution of financial equalisation procedures or equivalent measures which are designed to correct the effects of the unequal distribution of potential sources of finance and of the financial burden they must support. Such procedures or measures shall not diminish the discretion local authorities may exercise within their own sphere of responsibility.
+>
+> **6** Local authorities shall be consulted, in an appropriate manner, on the way in which redistributed resources are to be allocated to them.
+>
+> **7** As far as possible, grants to local authorities shall not be earmarked for the financing of specific projects. The provision of grants shall not remove the basic freedom of local authorities to exercise policy discretion within their own jurisdiction.
+>
+> **8** For the purpose of borrowing for capital investment, local authorities shall have access to the national capital market within the limits of the law.
+>
+> **Article 10 – Local authorities' right to associate**
+>
+> **1** Local authorities shall be entitled, in exercising their powers, to co-operate and, within the framework of the law, to form consortia with other local authorities in order to carry out tasks of common interest.
+>
+> **2** The entitlement of local authorities to belong to an association for the protection and promotion of their common interests and to belong to an international association of local authorities shall be recognised in each State.
+>
+> **3** Local authorities shall be entitled, under such conditions as may be provided for by the law, to co-operate with their counterparts in other States.
+>
+> **Article 11 – Legal protection of local self-government**
+>
+> Local authorities shall have the right of recourse to a judicial remedy in order to secure free exercise of their powers and respect for such principles of local self-government as are enshrined in the constitution or domestic legislation.

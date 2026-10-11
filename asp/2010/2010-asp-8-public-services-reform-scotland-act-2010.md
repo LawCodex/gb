@@ -1,0 +1,8680 @@
+---
+title: "Public Services Reform (Scotland) Act 2010"
+identifier: "asp/2010/8"
+citation: "2010 asp 8"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2010-04-28
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2010/8"
+source_modified: 2026-09-29
+retrieved: 2026-10-11
+---
+
+# Public Services Reform (Scotland) Act 2010
+
+**2010 asp 8**
+
+An Act of the Scottish Parliament to make provision for the purpose of simplifying public bodies, including the transfer and delegation of certain functions, the dissolution of certain bodies and provision in relation to the regulation of officers of court; to enable provision to be made for the purpose of improving the exercise of public functions and for removing and reducing burdens resulting from legislation; to make provision for the publication of information on expenditure and certain other matters by certain public bodies; to establish Creative Scotland with functions in relation to the arts and culture and industries and other activity the focus of which is the application of creative skills; to establish Social Care and Social Work Improvement Scotland with scrutiny functions in relation to care services and social work services; to establish Healthcare Improvement Scotland with scrutiny and other functions in relation to services provided under the National Health Service and independent health care services; to amend the Mental Health (Care and Treatment) (Scotland) Act 2003 to make provision in relation to the Mental Welfare Commission for Scotland; to make provision about the exercise of scrutiny functions by certain bodies, including provision in respect of the involvement of users of scrutinised services, co-operation and joint inspections; to amend Part 2 of the Public Finance and Accountability (Scotland) Act 2000 in relation to audit authorities and audit reports and examinations under that Part; to amend the Scottish Public Services Ombudsman Act 2002 to make provision in relation to complaints handling procedures of listed authorities; to amend the Charities and Trustee Investment (Scotland) Act 2005 in relation to the regulation of charities and charity trustees; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 25th March 2010 and received Royal Assent on 28th April 2010
+
+## Part 1 — Simplification of public bodies
+
+### Transfer of functions
+
+#### 1 Transfer to Scottish Natural Heritage of functions of Deer Commission for Scotland
+
+(1) The functions conferred on the Deer Commission for Scotland by or under the Deer (Scotland) Act 1996 (c. 58) or any other enactment are transferred to Scottish Natural Heritage.
+
+(2) All property, rights, liabilities and obligations of the Deer Commission for Scotland are transferred to Scottish Natural Heritage.
+
+(3) The Deer Commission for Scotland is dissolved.
+
+(4) Anything done by or in relation to the Deer Commission for Scotland has effect, in relation to any time after this section comes into force, as if done by or in relation to Scottish Natural Heritage.
+
+(5) Schedule 1 (which makes modifications of enactments in consequence of this section) has effect.
+
+#### 2 Transfer to Scottish Natural Heritage of functions of Advisory Committee on sites of special scientific interest
+
+(1) The committee referred to in section 21(1) of the Nature Conservation (Scotland) Act 2004 (asp 6) is dissolved.
+
+(2) All property, rights, liabilities and obligations of the committee referred to in subsection (1) are transferred to Scottish Natural Heritage.
+
+(3) In the Nature Conservation (Scotland) Act 2004—
+
+(a) in section 21 (Advisory Committee on sites of special scientific interest), subsections (1) to (5) are repealed,
+
+(b) in subsection (8) of that section, for paragraphs (a) to (c) substitute—
+
+> (a) consider the matter, and
+>
+> (b) take such action as it thinks fit.
+
+,
+
+(c) in the title to that section, for “Advisory Committee” substitute “ Representations to SNH ”,
+
+(d) in section 58(1) (interpretation), the definition “Advisory Committee” is repealed,
+
+(e) in schedule 1 (notification relating to sites of special scientific interest: procedure)—
+
+(i) in paragraph 9(b), for “refer the matter to the Advisory Committee” substitute “ consider the matter, ”,
+
+(ii) in paragraph 9, for “paragraphs (a) and (b)” substitute “ paragraph (a) ”,
+
+(iii) for the title to paragraph 9, substitute “ Representations to SNH on sites of special scientific interest ”,
+
+(iv) paragraph 11 is repealed,
+
+(v) in paragraph 12(a), for “a matter has been referred to the Advisory Committee” substitute “ SNH is required by subsection (8) of section 21 to consider a matter, ”.
+
+(4) In the Freedom of Information (Scotland) Act 2002 (asp 13), in Part 7 of schedule 1 (Scottish public authorities), the paragraph relating to the Advisory Committee on Sites of Special Scientific Interest is repealed.
+
+(5) In the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4), in schedule 2 (the specified authorities), the entry relating to the Advisory Committee on Sites of Special Scientific Interest is repealed.
+
+#### 3 Transfer to certain bodies of functions of Waterwatch Scotland
+
+(1) The position of the Convener of the Water Customer Consultation Panels is abolished.
+
+(2) In schedule 2 to the Scottish Public Services Ombudsman Act 2002 (asp 11) (listed authorities), after paragraph 16 insert—
+
+> **16A**
+>
+> Scottish Water.
+
+.
+
+(3) The Water Customer Consultation Panels are dissolved.
+
+(4) [[^F1]Consumer Scotland] is to exercise its functions under the Consumers, Estate Agents and Redress Act 2007 (c. 17) in relation to services provided by Scottish Water.
+
+(5) But nothing in this section is to be taken as restricting in any way the exercise of functions by [[^F2]Consumer Scotland].
+
+(6) Schedule 2 (which makes modification of enactments in consequence of this section) has effect.
+
+(7) Schedule 3 (which makes provision for the transfer of staff, property, liabilities and ongoing matters) has effect.
+
+[^F3]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Dissolution of bodies etc.
+
+#### 4 Dissolution of Scottish Records Advisory Council
+
+(1) The Scottish Records Advisory Council is dissolved.
+
+(2) All property, rights, liabilities and obligations of the Scottish Records Advisory Council are transferred to the Scottish Ministers.
+
+(3) Section 7 of the Public Records (Scotland) Act 1937 (c. 43) (Advisory Council) is repealed.
+
+(4) Section 19(1) of the National Heritage (Scotland) Act 1985 (c. 16) (amendment of the Public Records (Scotland) Act 1937) is repealed.
+
+(5) In the Freedom of Information (Scotland) Act 2002 the following provisions are repealed—
+
+(a) section 70(2) (amendment of the Public Records (Scotland) Act 1937),
+
+(b) in Part 7 of schedule 1 (Scottish public authorities), the paragraph relating to the Scottish Records Advisory Council.
+
+(6) In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), the entry relating to the Scottish Records Advisory Council is repealed.
+
+(7) Section 15 of the Scottish Register of Tartans Act 2008 (asp 7) (amendment of section 7 of the Public Records (Scotland) Act 1937) is repealed.
+
+#### 5 Dissolution of Scottish Industrial Development Advisory Board
+
+(1) The Scottish Industrial Development Advisory Board is dissolved.
+
+(2) Section 20 of the Scottish Development Agency Act 1975 (c. 69) (Scottish Industrial Development Advisory Board) is repealed.
+
+(3) In the Enterprise and New Towns (Scotland) Act 1990 (c. 35), in Schedule 4 (minor and consequential amendments), paragraph 8 is repealed.
+
+(4) In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (Scottish public authorities), the paragraph relating to the Scottish Industrial Development Advisory Board is repealed.
+
+(5) In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), the entry relating to the Scottish Industrial Development Advisory Board is repealed.
+
+#### 6 Dissolution of Building Standards Advisory Committee
+
+(1) The Building Standards Advisory Committee is dissolved.
+
+(2) In the Building (Scotland) Act 2003 (asp 8) the following provisions are repealed—
+
+(a) in section 1(2) (building regulations)—
+
+(i) paragraph (a) and the word “and” immediately following it,
+
+(ii) in paragraph (b), the word “other”,
+
+(b) in section 3(5) (relaxation of building regulations)—
+
+(i) paragraph (a) and the word “and” immediately following it,
+
+(ii) in paragraph (b), the word “other”,
+
+(c) section 31 (Building Standards Advisory Committee),
+
+(d) in section 56(1) (interpretation), the definition “Building Standards Advisory Committee”.
+
+(3) In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), the entry relating to the Building Standards Advisory Committee is repealed.
+
+#### 7 Dissolution of Historic Environment Advisory Council for Scotland
+
+(1) The Historic Environment Advisory Council for Scotland is dissolved.
+
+(2) All property, rights, liabilities and obligations of the Historic Environment Advisory Council for Scotland are transferred to the Scottish Ministers.
+
+(3) In the Public Appointments and Public Bodies etc. (Scotland) Act 2003 the following provisions are repealed—
+
+(a) section 15 (the Historic Environment Advisory Council for Scotland),
+
+(b) section 16 (the Advisory Council's functions),
+
+(c) in section 20 (interpretation), the definition “the Advisory Council”,
+
+(d) in schedule 2 (the specified authorities), the entry relating to the Historic Environment Advisory Council for Scotland,
+
+(e) schedule 3 (the Advisory Council).
+
+(4) In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (Scottish public authorities), the paragraph relating to the Historic Environment Advisory Council for Scotland is repealed.
+
+#### 8 Dissolution of Regional Boards of Scottish Environment Protection Agency
+
+(1) The Regional Boards of the Scottish Environment Protection Agency are dissolved.
+
+(2) In the Environment Act 1995 (c. 25), in Schedule 6 (the Scottish Environment Protection Agency), paragraph 16 is repealed.
+
+### Delegation of functions etc.
+
+#### 9 Delegation of Ministerial functions under section 7 of Industrial Development Act 1982
+
+In section 7 of the Industrial Development Act 1982 (c. 52) (selective financial assistance for industry in assisted areas), after subsection (4) insert—
+
+> (4A) The Scottish Ministers may, to such extent and subject to such conditions as they think appropriate, delegate their function under subsection (1) to such persons as they may determine.
+>
+> (4B) Where the Scottish Ministers make a delegation under subsection (4A) to a person, they may also delegate to that person their function of being satisfied as mentioned in subsection (4).
+>
+> (4C) Where the Scottish Ministers make a delegation under subsection (4A), the reference in subsection (3)(a) to a company formed for the purpose of giving financial assistance is to be construed as a reference to a company formed by the person to whom the function is delegated under subsection (4A).
+>
+> (4D) A delegation under subsection (4A) or (4B) does not affect the ability of the Scottish Ministers to carry out the function delegated.
+>
+> (4E) A delegation under subsection (4A) or (4B) may be varied or revoked at any time.
+
+.
+
+#### 10 Delegation of Ministerial functions under section 5 of Science and Technology Act 1965
+
+After subsection (1) of section 5 of the Science and Technology Act 1965 (c. 4) (further powers of the Scottish Ministers) insert—
+
+> (1A) The Scottish Ministers may, to such extent and subject to such conditions as they think appropriate, delegate their power to undertake any activity as mentioned in paragraphs (a) to (c) of subsection (1) above to such persons as they consider appropriate; and any expenses which such persons incur in undertaking such activities are to be met out of the expenses the Scottish Ministers may defray by virtue of subsection (1) above.
+>
+> (1B) Where power to undertake the activity as mentioned in paragraph (c) of subsection (1) above is delegated under subsection (1A), that paragraph applies as if for the words “Secretary of State” there were substituted “ person to whom the power is delegated under subsection (1A) below ”.
+>
+> (1C) A delegation under subsection (1A) does not affect the ability of the Scottish Ministers to exercise the power delegated.
+>
+> (1D) A person to whom a function is delegated under subsection (1A) may, subject to any conditions as mentioned in that subsection, exercise the function in the same way and to the same extent as the Scottish Ministers notwithstanding any restrictions or limitations on the exercise of the person's functions which would, apart from this subsection, prevent them from exercising the function in that way or to that extent.
+
+.
+
+#### 11 Delegation of certain functions of Forestry Commissioners under Forestry Act 1967
+
+In the Forestry Act 1967 (c. 10), after section 7A insert—
+
+> **7B Delegation of functions of Commissioners: Scotland**
+>
+> (1) The Commissioners may, to such extent and subject to such conditions as they think appropriate, delegate their functions under section 3(1) and (3) of this Act to such community bodies as they consider appropriate.
+>
+> (2) A delegation under subsection (1) may only be made in relation to land in Scotland—
+>
+> (a) placed at the disposal of the Commissioners by the Scottish Ministers under this Act, and
+>
+> (b) which is let to the community body to which the delegation is made.
+>
+> (3) A delegation under subsection (1) does not affect the ability of the Commissioners to carry out the function delegated.
+>
+> (4) A delegation under subsection (1) does not affect the ability of the Scottish Ministers to—
+>
+> (a) determine which land in Scotland is placed at the disposal of the Forestry Commissioners,
+>
+> (b) give directions under section 1 to the Commissioners in relation to the land in question.
+>
+> (5) A delegation under subsection (1) may be varied or revoked at any time.
+>
+> (6) In this section, “community body” has the meaning given in section 7C.
+>
+> **7C Delegation of functions under section 7B: community bodies**
+>
+> (1) A community body is, subject to subsection (3), a company limited by guarantee the articles of association of which include the following—
+>
+> (a) a definition of the community to which the company relates,
+>
+> (b) provision that the company must have not fewer than 20 members,
+>
+> (c) provision that the majority of the members of the company is to consist of members of the community,
+>
+> (d) provision by which the members of the company who consist of members of the community have control of the company,
+>
+> (e) provision ensuring proper arrangements for the financial management of the company and the auditing of its accounts.
+>
+> (2) The Commissioners may, if they think it in the public interest to do so, disapply such requirements specified in paragraphs (b) to (d) in subsection (1) in relation to any body they may specify.
+>
+> (3) A body is not a community body unless the Commissioners have given it written confirmation that they are satisfied that the main purpose of the body is consistent with furthering the achievement of sustainable development.
+>
+> (4) Unless the Scottish Ministers otherwise direct, a community—
+>
+> (a) must be defined for the purposes of subsection (1)(a) by reference to a postcode unit or postcode units, and
+>
+> (b) must comprise the persons from time to time—
+>
+> (i) resident in that postcode unit or in one of those postcode units, and
+>
+> (ii) entitled to vote, at a local government election, in a polling district which includes that postcode unit or those postcode units (or part of it or them).
+>
+> (5) In subsection (4) above, “postcode unit” means an area in relation to which a single postcode is used to facilitate the identification of postal service delivery points within the area.
+>
+> (6) In subsection (1), “company limited by guarantee” has the meaning given by section 3(3) of the Companies Act 2006 (c. 46).
+
+.
+
+#### 12 Forestry Commissioners: joint ventures etc.
+
+(1) In the Forestry Act 1967, in section 7A (incidental powers of Commissioners), after the word “to” insert “ land in Scotland or ”.
+
+(2) In the Countryside (Scotland) Act 1967 (c. 86), in section 58 (powers of the Forestry Commissioners), after subsection (2) insert—
+
+> (2A) For the purposes of the exercise of their functions under subsection (2), the Commissioners may—
+>
+> (a) form, or participate in the forming of, a body corporate,
+>
+> (b) invest in a body corporate,
+>
+> (c) provide loans,
+>
+> (d) establish a charitable trust,
+>
+> (e) act, or appoint a person to act, as an officer of a body corporate or as a trustee of a charitable trust.
+
+.
+
+### Regulation of officers of court
+
+#### 13 Regulation of officers of court
+
+Schedule 4, which—
+
+(a) makes modifications of Part 5 of the Debtors (Scotland) Act 1987 (c. 18) relating to the regulation of officers of court,
+
+(b) makes modifications of Part 3 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) relating to such regulation, and
+
+(c) makes further minor and consequential modifications of that Act and the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17),
+
+has effect.
+
+## Part 2 — Order-making powers
+
+### Improving the exercise of public functions
+
+#### [^F4]14 Public functions: efficiency, effectiveness and economy
+
+[^F4]1 [^F4]The Scottish Ministers may by order make any provision which they consider would improve the exercise of public functions, having regard to—
+
+[^F4]a [^F4]efficiency,
+
+[^F4]b [^F4]effectiveness, and
+
+[^F4]c [^F4]economy.
+
+[^F4]2 [^F4]In subsection (1), “public functions” are functions of the persons, bodies and office-holders listed in schedule 5, subject to any limitations specified in that schedule.
+
+[^F4]3 [^F4]The provision that may be made under subsection (1) includes provision—
+
+[^F4]a [^F4]modifying, conferring, abolishing, transferring, or providing for the delegation of, any function,
+
+[^F4]b [^F4]amending the constitution of a person, body or office-holder listed in schedule 5 other than—
+
+[^F4]i [^F4]the Scottish Ministers,
+
+[^F4]ii [^F4]the Scottish Court Service,
+
+[^F4]iii [^F4]a cross-border public authority,
+
+[^F4]iv [^F4]a person listed by virtue of section 15(5)(e), or
+
+[^F4]v [^F4]a company (within the meaning of the Companies Act 2006 (c. 46)),
+
+[^F4]c [^F4]creating—
+
+[^F4]i [^F4]a person, body or office-holder on which functions are conferred,
+
+[^F4]ii [^F4]a person, body or office-holder to which functions (modified or otherwise) are transferred or may be delegated.
+
+[^F4]4 [^F4]For the purposes of subsection (3)(b)(ii), the constitution of the Scottish Court Service is as set out in schedule 3 to the Judiciary and Courts (Scotland) Act 2008 (asp 6).
+
+[^F4]5 [^F4]The transfer or delegation referred to in subsection (3)(a) must be a transfer or delegation to—
+
+[^F4]a [^F4]a person, body or office-holder listed in schedule 5,
+
+[^F4]b [^F4]a person, body or office-holder created in pursuance of subsection (3)(c), or
+
+[^F4]c [^F4] a local authority (meaning a council constituted by section 2 of the Local Government [^F4]etc.[^F4] (Scotland) Act 1994 (c. 39)).
+
+[^F4]6 [^F4]An order under this section containing provision creating a person, body or office-holder in pursuance of subsection (3)(c)—
+
+[^F4]a [^F4]must include provision adding that person, body or office-holder to schedule 5,
+
+[^F4]b [^F4]may include provision adding that person, body or office-holder to schedule 6,
+
+[^F4]c [^F4]may specify the extent to which any functions are to be public functions for the purposes of subsection (1).
+
+[^F4]7 [^F4]An order under this section may—
+
+[^F4]a [^F4]modify any enactment, instrument or other document,
+
+[^F4]b [^F4]contain such consequential, incidental, transitional, transitory or saving provision as the Scottish Ministers consider appropriate.
+
+[^F4]8 [^F4]An order under this section may include provision dissolving any person, body or office-holder listed in schedule 5, other than those listed in subsection (3)(b)(i) to (v), but only if the person, body or office-holder has, or will have by virtue of the order, no exercisable functions.
+
+[^F4]9 [^F4]An order under this section may bind the Crown.
+
+[^F4]10 [^F4]An order under this section must be made in accordance with this Part.
+
+#### [^F4]15 Public functions: further provision
+
+[^F4]1 [^F4]Schedule 5, which lists persons, bodies and office-holders for the purposes of section 14, has effect.
+
+[^F4]2 [^F4]The Scottish Ministers may by order modify schedule 5 by—
+
+[^F4]a [^F4]adding an entry for any person, body or office-holder falling within subsection (5),
+
+[^F4]b [^F4]removing any entry.
+
+[^F4]3 [^F4]An order under subsection (2)(a) containing provision adding an entry to schedule 5 may include provision adding a corresponding entry to schedule 6.
+
+[^F4]4 [^F4]An order under subsection (2)(b) containing provision removing an entry from schedule 5 must include provision removing any corresponding entry from schedule 6.
+
+[^F4]5 [^F4]Those persons, bodies and office-holders are—
+
+[^F4]a [^F4]an office-holder in the Scottish Administration,
+
+[^F4]b [^F4]a Scottish public authority with mixed functions or no reserved functions,
+
+[^F4]c [^F4]a cross-border public authority,
+
+[^F4]d [^F4]a publicly-owned company,
+
+[^F4]e [^F4]any other person, not being a public body or the holder of a public office, who either—
+
+[^F4]i [^F4]appears to the Scottish Ministers to exercise functions of a public nature, or
+
+[^F4]ii [^F4]is providing, under a contract made with a person, body or office-holder listed in schedule 5, any service the provision of which is the function of that person, body or office-holder.
+
+[^F4]6 [^F4]A company is publicly-owned for the purposes of subsection (5)(d) if it is wholly owned—
+
+[^F4]a [^F4]by the Scottish Ministers, or
+
+[^F4]b [^F4]by any other person, body or office-holder listed in schedule 5 except a person, body or office-holder listed—
+
+[^F4]i [^F4]by virtue of subsection (5)(e)(i) in relation only to some of its functions, or
+
+[^F4]ii [^F4]by virtue of subsection (5)(e)(ii).
+
+[^F4]7 [^F4]For the purposes of subsection (6) a company is wholly owned—
+
+[^F4]a [^F4]by the Scottish Ministers if it has no members except—
+
+[^F4]i [^F4]the Scottish Ministers or companies wholly owned by the Scottish Ministers, or
+
+[^F4]ii [^F4]persons acting on behalf of the Scottish Ministers or of such companies,
+
+[^F4]b [^F4]by any other person, body or office-holder if it has no members except—
+
+[^F4]i [^F4]the person, body or office-holder or companies wholly owned by the person, body or office-holder, or
+
+[^F4]ii [^F4]persons acting on behalf of the person, body or office-holder or of such companies.
+
+[^F4]8 [^F4]An entry added to schedule 5 by an order under subsection (2)(a) made by virtue of subsection (5)(e) must specify the functions of a public nature or, as the case may be, the service being provided; and only those functions or that service are public functions of the person in question for the purposes of section 14(1).
+
+[^F4]9 [^F4]In this section—
+
+- [^F4]“[^F4]company[^F4]” includes any body corporate;
+- [^F4]“[^F4]local authority[^F4]” means a council constituted by section 2 of the Local Government [^F4]etc.[^F4] (Scotland) Act 1994 (c. 39);
+- [^F4]“[^F4]Scottish public authority with mixed functions or no reserved functions[^F4]” is to be construed in accordance with paragraphs 1(4) and 2 of Part 3 of Schedule 5 to the Scotland Act 1998 (c. 46); but does not include a local authority.
+
+#### [^F4]16 Preconditions
+
+[^F4]1 [^F4]The Scottish Ministers may not make provision under section 14, other than provision which merely restates an enactment, unless they consider that the conditions in subsection (2), where relevant, are satisfied in relation to that provision.
+
+[^F4]2 [^F4]Those conditions are that—
+
+[^F4]a [^F4]the effect of the provision is proportionate to the policy objective,
+
+[^F4]b [^F4]the provision does not remove any necessary protection,
+
+[^F4]c [^F4]any public function which is to be modified will, as modified, be broadly consistent with the general objects or purpose of the person, body or office-holder concerned,
+
+[^F4]d [^F4]any function which is conferred on a person, body or office-holder listed in schedule 5 (other than a function being transferred without substantial modification from another such person, body or office-holder) is broadly consistent with the general objects or purpose of the person, body or office-holder concerned,
+
+[^F4]e [^F4]any function which is conferred on a person, body or office-holder created by virtue of section 14 is broadly consistent with—
+
+[^F4]i [^F4]the general objects or purpose of a person, body or office-holder listed in schedule 5 which is abolished, or whose functions are modified, by virtue of section 14 or otherwise, or
+
+[^F4]ii [^F4]public functions abolished or modified by virtue of that section or otherwise.
+
+[^F4]3 [^F4]Examples of protections for the purposes of subsection (2)(b) are (without prejudice to the generality of that provision) protections in relation to—
+
+[^F4]a [^F4]the independence of judicial decision-making, or decision-making of a judicial nature, by a person occupying a judicial office,
+
+[^F4]b [^F4]civil liberties,
+
+[^F4]c [^F4]health and safety of persons,
+
+[^F4]d [^F4]the environment,
+
+[^F4]e [^F4]cultural heritage (including access, through display, exhibition or otherwise, to cultural heritage).
+
+[^F4]4 [^F4]For the purposes of subsection (2)(b), the continued independence of the judiciary as mentioned in section 1 of the Judiciary and Courts (Scotland) Act 2008 (asp 6) is a necessary protection.
+
+[^F4]5 [^F4]For the purposes of subsection (2)(b), the holding, care or preservation of property which is cultural heritage by persons separate from the Scottish Ministers and any statutory restrictions on the disposal of such property are necessary protections where the property is vested in such persons as trustees for the public under statute.
+
+[^F4]6 [^F4]For the purposes of subsection (2)(b), the provision in paragraph 7(4) of schedule 2 to the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) as to who the convener shall be in relation to certain proceedings before the Mental Health Tribunal for Scotland is a necessary protection.
+
+[^F4]7 [^F4]For the purposes of subsection (2)(b), a provision is not to be treated as removing a necessary protection if provision is made that delivers the same or similar protection in an alternative manner.
+
+[^F4]8 [^F4]For the purposes of the application of subsection (2)(c), (d) and (e) to functions exercised, or to be exercised, by the Scottish Ministers, references to their general objects or purpose are to the broad remit of the part of the Scottish Administration through which the functions are, or are to be, exercised.
+
+[^F4]9 [^F4]For the purposes of subsection (2)(d), a modification of a function being transferred is not to be treated as substantial if it is necessary to enable the effective exercise of the function by the person, body or office-holder to which it is transferred.
+
+[^F4]10 [^F4]The Scottish Ministers may not make provision under section 14 which merely restates an enactment unless they consider that the provision made would make the law more accessible or more easily understood.
+
+[^F4]11 [^F4]In subsection (3)(a) “[^F4]judicial office[^F4]” means—
+
+[^F4]a [^F4]the office of judge of any court,
+
+[^F4]b [^F4]the office of member of any tribunal,
+
+[^F4]c [^F4]any other office, or appointment, consisting of functions of a judicial nature.
+
+### Removing and reducing burdens
+
+#### [^F4]17 Power to remove or reduce burdens
+
+[^F4]1 [^F4]The Scottish Ministers may by order make any provision which they consider would remove or reduce any burden, or the overall burdens, resulting directly or indirectly for any person from any legislation.
+
+[^F4]2 [^F4]In this section “[^F4]burden[^F4]” means any of the following—
+
+[^F4]a [^F4]a financial cost,
+
+[^F4]b [^F4]an administrative inconvenience,
+
+[^F4]c [^F4]an obstacle to best regulatory practice,
+
+[^F4]d [^F4]an obstacle to efficiency, productivity or profitability, or
+
+[^F4]e [^F4]a sanction, criminal or otherwise, which affects the carrying on of any lawful activity.
+
+[^F4]3 [^F4]For the purposes of subsection (1), a financial cost or administrative inconvenience may result from the form of any legislation (for example, where the legislation is hard to understand).
+
+[^F4]4 [^F4]For the purposes of subsection (2)(c), “[^F4]best regulatory practice[^F4]” means practice under which (in particular) regulatory activities should be—
+
+[^F4]a [^F4]carried out in a way that is transparent, accountable, proportionate and consistent,
+
+[^F4]b [^F4]targeted only at such cases as require action.
+
+[^F4]5 [^F4]In this section “[^F4]legislation[^F4]” means any of the following or a provision of any of the following—
+
+[^F4]a [^F4]a public general or local Act of Parliament (whenever passed) or an Act of the Scottish Parliament (whenever passed), or
+
+[^F4]b [^F4]any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other subordinate instrument made at any time under an Act referred to in paragraph (a).
+
+[^F4]6 [^F4]The provision that may be made under subsection (1) includes provision—
+
+[^F4]a [^F4]abolishing, conferring or transferring, or providing for the delegation of, functions of any description,
+
+[^F4]b [^F4]creating a body or office.
+
+[^F4]7 [^F4]An order under this section may not amend the constitution of the Scottish Court Service.
+
+[^F4]8 [^F4]For the purposes of subsection (7), the constitution of the Scottish Court Service is as set out in schedule 3 to the Judiciary and Courts (Scotland) Act 2008.
+
+[^F4]9 [^F4]An order under this section may—
+
+[^F4]a [^F4]modify any enactment,
+
+[^F4]b [^F4]contain such consequential, incidental, transitional, transitory or saving provision as the Scottish Ministers consider appropriate.
+
+[^F4]10 [^F4]An order under this section may include provision dissolving any body or office, other than those listed in section 14(3)(b)(i) to (v), but only if the body or office has, or will have by virtue of the order, no exercisable functions.
+
+[^F4]11 [^F4]An order under this section may bind the Crown.
+
+[^F4]12 [^F4]An order under this section must be made in accordance with this Part.
+
+#### [^F4]18 Preconditions
+
+[^F4]1 [^F4]The Scottish Ministers may not make provision under section 17(1), other than provision which merely restates an enactment, unless they consider that the conditions in subsection (2), where relevant, are satisfied in relation to that provision.
+
+[^F4]2 [^F4]Those conditions are that—
+
+[^F4]a [^F4]the policy objective intended to be secured by the provision could not be satisfactorily secured by non-legislative means,
+
+[^F4]b [^F4]the effect of the provision is proportionate to the policy objective,
+
+[^F4]c [^F4]the provision, taken as a whole, strikes a fair balance between the public interest and the interests of any person adversely affected by it,
+
+[^F4]d [^F4]the provision does not remove any necessary protection,
+
+[^F4]e [^F4]the provision does not prevent any person from continuing to exercise any right or freedom which that person might reasonably expect to continue to exercise.
+
+[^F4]3 [^F4]Examples of protections for the purposes of subsection (2)(d) are (without prejudice to the generality of that provision) protections in relation to—
+
+[^F4]a [^F4]the independence of judicial decision-making, or decision-making of a judicial nature, by a person occupying a judicial office,
+
+[^F4]b [^F4]civil liberties,
+
+[^F4]c [^F4]health and safety of persons,
+
+[^F4]d [^F4]the environment,
+
+[^F4]e [^F4]cultural heritage (including access, through display, exhibition or otherwise, to cultural heritage).
+
+[^F4]4 [^F4]For the purposes of subsection (2)(d), the continued independence of the judiciary as mentioned in section 1 of the Judiciary and Courts (Scotland) Act 2008 is a necessary protection.
+
+[^F4]5 [^F4]For the purposes of subsection (2)(d), the holding, care or preservation of property which is cultural heritage by persons separate from the Scottish Ministers and any statutory restrictions on the disposal of such property are necessary protections where the property is vested in such persons as trustees for the public under statute.
+
+[^F4]6 [^F4]For the purposes of subsection (2)(d), the provision in paragraph 7(4) of schedule 2 to the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) as to who the convener shall be in relation to certain proceedings before the Mental Health Tribunal for Scotland is a necessary protection.
+
+[^F4]7 [^F4]For the purposes of subsection (2)(d) a provision is not to be treated as removing a necessary protection if provision is also made that delivers the same or similar protection in an alternative manner.
+
+[^F4]8 [^F4]The Scottish Ministers may not make provision under section 17(1) which merely restates an enactment unless they consider that the provision made would make the law more accessible or more easily understood.
+
+[^F4]9 [^F4]In subsection (3)(a) “[^F4]judicial office[^F4]” means—
+
+[^F4]a [^F4]the office of judge of any court,
+
+[^F4]b [^F4]the office of member of any tribunal,
+
+[^F4]c [^F4]any other office, or appointment, consisting of functions of a judicial nature.
+
+### Specific restrictions
+
+#### [^F4]19 Order in relation to certain bodies: requirement for request and consent
+
+[^F4]1 [^F4]The Scottish Ministers may not propose to make provision under section 14 or 17(1) which relates to any of the persons, bodies or office-holders listed in schedule 6 unless requested to do so in writing by the Scottish Parliamentary Corporate Body.
+
+[^F4]2 [^F4]The Scottish Ministers may not lay a draft order containing such provision before the Scottish Parliament in accordance with section 25(2)(b)(i) unless the Scottish Parliamentary Corporate Body consents.
+
+### General restrictions
+
+#### [^F4]20 Subordinate legislation and powers of direction, appointment and consent
+
+[^F4]1 [^F4]An order under section 14 or 17(1) may confer or transfer a function of legislating only on or to the Scottish Ministers, the First Minister or the Lord Advocate.
+
+[^F4]2 [^F4]An order under section 14 or 17(1) may not make provision for the delegation of any function of legislating.
+
+[^F4]3 [^F4]An order under section 14 or 17(1) may not make provision to confer a function of legislating on the Scottish Ministers, the First Minister or the Lord Advocate unless the conditions in subsections (4) and (5) are satisfied.
+
+[^F4]4 [^F4]The condition in this subsection is that the function is exercisable by statutory instrument.
+
+[^F4]5 [^F4]The condition in this subsection is that such a statutory instrument—
+
+[^F4]a [^F4]is subject to annulment in pursuance of a resolution of the Scottish Parliament, or
+
+[^F4]b [^F4]is not to be made unless a draft of the statutory instrument has been laid before and approved by a resolution of the Parliament.
+
+[^F4]6 [^F4]Subsections (1) to (3) do not apply to provision which merely restates an enactment.
+
+[^F4]7 [^F4]An order under section 14 or 17(1) may not make provision which has the effect of transferring to a person other than the Scottish Ministers, the First Minister or the Lord Advocate any function to which subsection (8) applies.
+
+[^F4]8 [^F4]This subsection applies to any function of—
+
+[^F4]a [^F4]giving directions,
+
+[^F4]b [^F4]appointing a person to any office or position, or
+
+[^F4]c [^F4]consenting to any thing,
+
+[^F4]conferred by any enactment on the Scottish Ministers, the First Minister or the Lord Advocate.
+
+#### [^F4]21 Local taxation
+
+[^F4]An order under section 14 or 17(1) may not make provision to impose, abolish or vary any local tax to fund local authority expenditure.
+
+#### [^F4]22 Criminal penalties
+
+[^F4]1 [^F4]An order under section 14 or 17(1) may not make provision to create a new offence that is punishable, or increase the penalty for an existing offence so that it is punishable—
+
+[^F4]a [^F4]on indictment, with imprisonment for a term exceeding two years, or
+
+[^F4]b [^F4]on summary conviction, with—
+
+[^F4]i [^F4]imprisonment for a term exceeding 12 months, or
+
+[^F4]ii [^F4]a fine exceeding level 5 on the standard scale.
+
+[^F4]2 [^F4]In the case of an offence which is triable either on indictment or summarily and is not an offence triable on indictment only by virtue of section 292(6) and (7) of the Criminal Procedure (Scotland) Act 1995 (c. 46), the reference in subsection (1)(b)(ii) to a fine exceeding level 5 on the standard scale is to be construed as a reference to the statutory maximum.
+
+[^F4]3 [^F4]Subsection (1) does not apply to provision which merely restates an enactment.
+
+#### [^F4]23 Forcible entry etc.
+
+[^F4]1 [^F4]An order under section 14 or 17(1) may not make provision to—
+
+[^F4]a [^F4]authorise any forcible entry, search or seizure, or
+
+[^F4]b [^F4]compel the giving of evidence.
+
+[^F4]2 [^F4]Subsection (1) does not prevent an order from extending any power for purposes similar to those to which the power applied before the order was made.
+
+[^F4]3 [^F4]Subsection (1) does not apply to provision which merely restates an enactment.
+
+#### [^F4]24 Prohibition on modification of this Part
+
+[^F4]An order under section 14 or 17(1) may not make provision modifying any provision of this Part other than schedule 5.
+
+### Procedure
+
+#### [^F4]25 Procedure
+
+[^F4]1 [^F4]An order under this Part must be made by statutory instrument.
+
+[^F4]2 [^F4]The Scottish Ministers may not make an order under section 14 or 17(1) unless—
+
+[^F4]a [^F4]they have consulted in accordance with section 26,
+
+[^F4]b [^F4]following that consultation, they have laid before the Scottish Parliament—
+
+[^F4]i [^F4]a draft order, and
+
+[^F4]ii [^F4]an explanatory document prepared in accordance with section 27, and
+
+[^F4]c [^F4]the draft order has been approved by resolution of the Parliament.
+
+[^F4]3 [^F4]Except as mentioned in subsection (7), the Scottish Ministers may not make an order under section 15 unless—
+
+[^F4]a [^F4]they have consulted in accordance with subsection (4),
+
+[^F4]b [^F4]following that consultation, they have laid before the Parliament—
+
+[^F4]i [^F4]a draft order, and
+
+[^F4]ii [^F4]an explanatory document prepared in accordance with subsection (5), and
+
+[^F4]c [^F4]the draft order has been approved by resolution of the Parliament.
+
+[^F4]4 [^F4]The Scottish Ministers must consult any person, body or office-holder in respect of which they propose to add an entry to schedule 5.
+
+[^F4]5 [^F4]The explanatory document must give details of—
+
+[^F4]a [^F4]any consultation undertaken under subsection (4),
+
+[^F4]b [^F4]any representations received as a result of the consultation,
+
+[^F4]c [^F4]the changes (if any) made to the proposals mentioned in subsection (4) as a result of those representations.
+
+[^F4]6 [^F4]Subsections (2) to (4) of section 27 apply to consultation under subsection (4) of this section as those subsections of section 27 apply to consultation under section 26; and references to subsection (1)(f)(ii) in section 27(2) and (3) are to be read as references to subsection (5)(b) of this section.
+
+[^F4]7 [^F4]Where an order under section 15 contains only a provision mentioned in subsection (2)(b) of that section and, if applicable, a provision mentioned in subsection (4) of that section, the order is subject to annulment in pursuance of a resolution of the Parliament.
+
+#### [^F4]26 Consultation
+
+[^F4]1 [^F4]If the Scottish Ministers propose to make an order under section 14 or 17(1) they must—
+
+[^F4]a [^F4]consult such organisations as appear to them to be representative of interests substantially affected by the proposals,
+
+[^F4]b [^F4]where the proposals relate to the functions of one or more persons, bodies or office-holders, consult those persons, bodies or office-holders, or persons appearing to them to be representative of those persons, bodies or office-holders,
+
+[^F4]c [^F4]in such cases as they consider appropriate, consult the Scottish Law Commission, and
+
+[^F4]d [^F4]consult such other persons as they consider appropriate.
+
+[^F4]2 [^F4]For the purposes of any consultation required by subsection (1), the Scottish Ministers must—
+
+[^F4]a [^F4]lay before the Parliament—
+
+[^F4]i [^F4]a copy of the proposed draft order, and
+
+[^F4]ii [^F4]a copy of the proposed explanatory document referred to in section 25(2)(b)(ii) (excepting the details required by section 27(1)(f)),
+
+[^F4]b [^F4]send a copy of the proposed draft order and proposed explanatory document to any person to be consulted under subsection (1), and
+
+[^F4]c [^F4]have regard to any representations about the proposed draft order that are made to them within 60 days of the date on which the copy of the proposed draft order is laid before the Parliament under paragraph (a).
+
+[^F4]3 [^F4]In calculating any period of 60 days for the purposes of subsection (2)(c), no account is to be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.
+
+[^F4]4 [^F4]If, as a result of any consultation required by subsection (1), it appears to the Scottish Ministers that it is appropriate to change the whole or any part of their proposals, they must undertake such further consultation with respect to the changes as they consider appropriate.
+
+[^F4]5 [^F4]If, before the day on which this section comes into force, any consultation was undertaken which, had it been undertaken after that day, would to any extent have satisfied the requirements of this section, those requirements are to that extent to be taken to have been satisfied.
+
+#### [^F4]27 Explanatory document laid before the Scottish Parliament
+
+[^F4]1 [^F4]The explanatory document referred to in section 25(2)(b)(ii) must—
+
+[^F4]a [^F4]explain under which power (or powers) in this Part the provision contained in the draft order is made,
+
+[^F4]b [^F4]introduce and give reasons for the provision,
+
+[^F4]c [^F4]in the case of an order under section 14—
+
+[^F4]i [^F4]explain why the Scottish Ministers consider that the conditions in section 16(2) (where relevant) are satisfied or the condition in section 16(10) is satisfied,
+
+[^F4]ii [^F4]explain how the provision made by the order would improve the exercise of public functions, and
+
+[^F4]iii [^F4]if the order relates to the functions of the Scottish Ministers, or confers functions on or transfers or delegates functions to, the Scottish Ministers, describe the functions and identify the part of the Scottish Administration through which the functions are, or are to be, exercised,
+
+[^F4]d [^F4]in the case of an order under section 17(1)—
+
+[^F4]i [^F4]explain why the Scottish Ministers consider that the conditions in section 18(2) (where relevant) are satisfied or the condition in section 18(8) is satisfied, and
+
+[^F4]ii [^F4]include, so far as appropriate, an assessment of the extent to which the provision made by the order would remove or reduce any burden or burdens (within the meaning of that section),
+
+[^F4]e [^F4]identify and give reasons for—
+
+[^F4]i [^F4]any functions of legislating conferred by the order, and
+
+[^F4]ii [^F4]the procedural requirements attaching to the exercise of those functions, and
+
+[^F4]f [^F4]give details of—
+
+[^F4]i [^F4]any consultation undertaken under section 26,
+
+[^F4]ii [^F4]any representations received as a result of the consultation,
+
+[^F4]iii [^F4]the changes (if any) made to the proposed draft order as a result of those representations.
+
+[^F4]2 [^F4]Where a person making representations in response to consultation under section 26 has requested the Scottish Ministers not to disclose them, the Scottish Ministers must not disclose them under subsection (1)(f)(ii) if or to the extent that to do so would (disregarding any connection with proceedings in the Scottish Parliament) constitute a breach of confidence actionable by any person.
+
+[^F4]3 [^F4]If information in representations made by a person in response to consultation under section 26 relates to another person, the Scottish Ministers need not disclose the information under subsection (1)(f)(ii) if or to the extent that—
+
+[^F4]a [^F4]it appears to the Scottish Ministers that the disclosure of that information could adversely affect the interests of that other person, and
+
+[^F4]b [^F4]the Scottish Ministers have been unable to obtain the consent of that other person to the disclosure.
+
+[^F4]4 [^F4]Subsections (2) and (3) do not affect any disclosure that is requested by, and made to, a committee of the Parliament charged with reporting on the draft order.
+
+#### [^F4]28 Combination with powers under European Communities Act 1972
+
+[^F4]1 [^F4]The power to make an order under section 14 or 17(1) may be exercised together with, and by the same instrument as, the power to make an order under section 2(2) of the European Communities Act 1972 (c. 68).
+
+[^F4]2 [^F4]Where the powers referred to in subsection (1) are so exercised—
+
+[^F4]a [^F4]sections 25 to 27 apply to the order under section 2(2) of the European Communities Act 1972 as they apply to the order under section 14 or 17(1) of this Act, and
+
+[^F4]b [^F4]paragraph 2(2) of Schedule 2 to the European Communities Act 1972 does not apply.
+
+### General
+
+#### [^F4]29 Order-making powers: modifications of enactments
+
+[^F4]Schedule 7 (which contains minor amendments and amendments consequential on this Part) has effect.
+
+#### [^F4]30 Interpretation of Part 2
+
+[^F4]In this Part—
+
+- [^F4]“[^F4]cultural heritage[^F4]” includes objects, structures and other things (in whatever form) resulting from human activity of all periods, traditions, ways of life and the historic, scientific, artistic and literary associations of people, places and landscapes;
+- [^F4]“[^F4]restate an enactment[^F4]” means to replace it with alterations only of form or arrangement (and for these purposes to remove an ambiguity is to make an alteration other than one of form or arrangement);
+- [^F4]“function of legislating” is a function of legislating by order, rules, regulations or other subordinate instrument.
+
+## Part 3 — Information on exercise of public functions
+
+### 31 Public functions: duties to provide information on certain expenditure etc.
+
+(1) As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement of any expenditure that it has incurred during that financial year on or in connection with the matters described in subsection (2).
+
+(2) Those matters are—
+
+(a) public relations,
+
+(b) overseas travel,
+
+(c) hospitality and entertainment,
+
+(d) external consultancy.
+
+(3) As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement specifying the amount, date, payee and subject-matter of any payment made during that financial year which has a value in excess of £25,000.
+
+(4) As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement specifying the number of individuals (if any) who, during that financial year, received remuneration in excess of £150,000 in relation to service as a member of the listed public body or a member of its staff.
+
+(5) No information is to be provided under subsection (3) about the remuneration of, or other payments made to or in respect of, any individual in relation to that individual's service as a member of the listed public body or a member of its staff.
+
+(6) In subsections (4) and (5), the references to a member of a listed public body—
+
+(a) where the body is an office-holder which is not a body corporate, are to that office-holder,
+
+(b) where the body is a company (within the meaning of the Companies Act 2006 (c. 46)), are to a director or a secretary of that company.
+
+(7) Each listed public body must have regard to any guidance issued by the Scottish Ministers about the duties imposed by this section.
+
+(8) The Scottish Ministers must lay a copy of any such guidance before the Parliament as soon as is reasonably practicable.
+
+### 32 Public functions: duty to provide information on exercise of functions
+
+(1) As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement of the steps that it has taken during that financial year—
+
+(a) to promote and increase sustainable growth through the exercise of its functions,
+
+(b) to improve efficiency, effectiveness and economy in the exercise of its functions.
+
+(2) Each listed public body must have regard to any guidance issued by the Scottish Ministers about the duty imposed by subsection (1).
+
+(3) The Scottish Ministers must lay a copy of any such guidance before the Parliament as soon as is reasonably practicable.
+
+### 33 Public functions: duty to provide information on special advisers
+
+(1) As soon as is reasonably practicable after the end of each financial year the Scottish Ministers must publish a statement of the total amount of remuneration paid to special advisers during that financial year.
+
+(2) In subsection (1), “special advisers” means a person appointed by virtue of article 3(4) of the Civil Service Order in Council 1995.
+
+### 34 Public functions: duties to provide information: further provision
+
+(1) The Scottish Ministers may by order—
+
+(a) modify subsection (1), (3) or (4) of section 31 by varying the periods to which for the time being statements are to relate and the frequency with which for the time being statements are to be published,
+
+(b) modify subsection (2) of that section by—
+
+(i) adding a matter,
+
+(ii) removing a matter,
+
+(iii) amending the description of a matter,
+
+(c) vary the figure for the time being specified in subsection (3) or (4) of that section.
+
+(2) Any power to make an order conferred by this Part on the Scottish Ministers must be exercised by statutory instrument.
+
+(3) An order under subsection (1) or under section 35 may make different provision in relation to different listed public bodies.
+
+(4) No order is to be made under subsection (1) unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Parliament.
+
+(5) A statutory instrument containing an order under section 35 is subject to annulment in pursuance of a resolution of the Parliament.
+
+### 35 Interpretation of Part 3
+
+In this Part—
+
+- “financial year” means a year ending with 31 March or such other date as the Scottish Ministers may by order specify;
+- “listed public body” is a person, body or office-holder listed in schedule 8.
+
+## Part 4 — Creative Scotland
+
+### Creative Scotland
+
+#### 36 Establishment of Creative Scotland
+
+(1) There is established a body to be known as Creative Scotland or Alba Chruthachail.
+
+(2) Schedule 9 (which makes further provision about the status, constitution, proceedings etc. of Creative Scotland) has effect.
+
+#### 37 General functions of Creative Scotland
+
+(1) Creative Scotland has the general functions of—
+
+(a) identifying, supporting and developing quality and excellence in the arts and culture from those engaged in artistic and other creative endeavours,
+
+(b) promoting understanding, appreciation and enjoyment of the arts and culture,
+
+(c) encouraging as many people as possible to access and participate in the arts and culture,
+
+(d) realising, as far as reasonably practicable to do so, the value and benefits (in particular, the national and international value and benefits) of the arts and culture,
+
+(e) encouraging and supporting artistic and other creative endeavours which contribute to an understanding of Scotland's national culture in its broad sense as a way of life,
+
+(f) promoting and supporting industries and other commercial activity the primary focus of which is the application of creative skills.
+
+(2) In exercising the function mentioned in subsection (1)(c), Creative Scotland must do so with a view to increasing the diversity of people who access and participate in the arts and culture.
+
+(3) Creative Scotland may encourage and support such persons as it considers appropriate in the exercise by those persons of any of the functions mentioned in paragraphs (a) to (f) of subsection (1) (or functions similar to those).
+
+(4) In subsection (3), “persons” includes groups of persons.
+
+#### 38 Advisory and other functions
+
+(1) Creative Scotland must provide the Scottish Ministers with such advice, information and assistance as they may reasonably require in relation to—
+
+(a) the arts and culture,
+
+(b) industries and other commercial activity the primary focus of which is the application of creative skills,
+
+(c) the exercise of any of Creative Scotland's functions.
+
+(2) Creative Scotland may provide the Scottish Ministers with such other advice and information as it considers appropriate in relation to the matters mentioned in subsection (1)(a), (b) and (c).
+
+(3) Creative Scotland may provide such other persons as it considers appropriate with such advice, information and assistance as it considers appropriate in relation to—
+
+(a) the arts and culture,
+
+(b) industries and other commercial activity the primary focus of which is the application of creative skills.
+
+(4) Any advice, information or assistance under subsection (1) or (2) must be provided in such manner as the Scottish Ministers may determine.
+
+(5) In this section, “assistance” does not include financial assistance.
+
+(6) In subsection (3), “persons” includes groups of persons.
+
+#### 39 Grants and loans
+
+(1) The Scottish Ministers may make grants to Creative Scotland.
+
+(2) In addition to any grants made under subsection (1), the Scottish Ministers may make grants to Creative Scotland for particular purposes.
+
+(3) A grant under subsection (1) or (2) is subject to such terms and conditions (including conditions as to repayment) as the Scottish Ministers may determine.
+
+(4) Creative Scotland may make grants and loans to such persons as it considers appropriate for the purpose of, in connection with, or where it appears conducive to, the exercise of its functions.
+
+(5) A grant or loan under subsection (4) is subject to such terms and conditions (including conditions as to repayment) as Creative Scotland may determine.
+
+#### 40 Directions and guidance
+
+(1) The Scottish Ministers may give Creative Scotland directions (of a general or specific nature) as to the exercise of its functions.
+
+(2) But the Scottish Ministers may not give directions so far as relating to artistic or cultural judgement in respect of the exercise of Creative Scotland's functions under section 37(1) or (3), 38(3) or 39(4).
+
+(3) Creative Scotland must—
+
+(a) comply with any directions given to it by the Scottish Ministers under this Part,
+
+(b) have regard to any guidance issued by the Scottish Ministers in relation to the exercise of its functions.
+
+(4) Subject to subsection (2), the Scottish Ministers may vary or revoke any direction given under this Part.
+
+### Miscellaneous and general
+
+#### 41 Dissolution of Scottish Arts Council
+
+(1) The Scottish Arts Council is dissolved and the charter constituting that body is revoked.
+
+(2) In subsection (1), the “charter” is the Royal Charter granted by Her Majesty on 8 February 1994.
+
+#### 42 Transfer of staff etc.
+
+(1) With effect from the date on which section 41 comes into force—
+
+(a) any person employed by—
+
+(i) the Scottish Arts Council immediately before that date, or
+
+(ii) Scottish Screen immediately before that date,
+
+is transferred into the employment of Creative Scotland,
+
+(b) all property (including rights) and liabilities of—
+
+(i) the Scottish Arts Council subsisting immediately before that date,
+
+(ii) Scottish Screen subsisting immediately before that date,
+
+are transferred to, and vest in, Creative Scotland.
+
+(2) The contract of employment of a person transferred by virtue of subsection (1)(a)—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the date of transfer as if originally made between the person and Creative Scotland.
+
+(3) Without prejudice to subsection (2), where a person is transferred by virtue of subsection (1)(a)—
+
+(a) all the rights, powers, duties and liabilities of the Scottish Arts Council or, as the case may be, Scottish Screen, under or in connection with the person's contract of employment are transferred to Creative Scotland on the date of transfer, and
+
+(b) anything done before that date by or in relation to the Scottish Arts Council or, as the case may be, Scottish Screen, in respect of the person or the contract is to be treated from that date as having been done by or in relation to Creative Scotland.
+
+(4) Subsections (1) to (3) do not affect any right of any person so transferred to terminate the person's contract of employment if the terms and conditions of employment are changed substantially to the detriment of the person; but any such change is not to be taken to have occurred by reason only that the identity of the person's employer changes by virtue of those subsections.
+
+#### 43 Creative Scotland: modifications of enactments
+
+Schedule 10 (which contains modifications of enactments consequential on this Part) has effect.
+
+## Part 5 — Social care and social work: scrutiny and improvement
+
+### Chapter 1 — Social Care and Social Work Improvement Scotland
+
+#### Social Care and Social Work Improvement Scotland
+
+##### 44 Social Care and Social Work Improvement Scotland
+
+(1) There is established a body to be known as Social Care and Social Work Improvement Scotland (in this Part referred to as “SCSWIS”), which—
+
+(a) is to exercise the functions conferred on it by this Act or any other enactment, and
+
+(b) has the general duty of furthering improvement in the quality of social services.
+
+(2) SCSWIS must, in the exercise of its functions, act—
+
+(a) in accordance with any directions given to it by the Scottish Ministers, and
+
+(b) under the general guidance of the Scottish Ministers.
+
+(3) The Scottish Ministers may vary or revoke any direction given under subsection (2)(a).
+
+(4) Schedule 11 (which makes further provision about the status, constitution, proceedings etc. of Social Care and Social Work Improvement Scotland) has effect.
+
+##### 45 General principles
+
+(1) SCSWIS must exercise its functions in accordance with the principles set out in the following subsections.
+
+(2) The safety and wellbeing of all persons who use, or are eligible to use, any social service are to be protected and enhanced.
+
+(3) The independence of those persons is to be promoted.
+
+(4) Diversity in the provision of social services is to be promoted with a view to those persons being afforded choice.
+
+(5) Good practice in the provision of social services is to be identified, promulgated and promoted.
+
+#### Key definitions
+
+##### 46 Social services
+
+(1) In this Part, “social services” means—
+
+(a) care services, and
+
+(b) social work services.
+
+(2) Any reference to a “social service” in this Part means any care service or social work service.
+
+##### 47 Care services
+
+(1) In this Part, a “care service” is any of the following—
+
+(a) a support service,
+
+(b) a care home service,
+
+(c) a school care accommodation service,
+
+(d) a nurse agency,
+
+(e) a child care agency,
+
+(f) a secure accommodation service,
+
+(g) an offender accommodation service,
+
+(h) an adoption service,
+
+(i) a fostering service,
+
+(j) an adult placement service,
+
+(k) child minding,
+
+(l) day care of children,
+
+(m) a housing support service,
+
+[[^F5](n) a child contact service.]
+
+(2) Schedule 12 (which provides definitions for the purposes of subsection (1)) has effect.
+
+##### 48 Social work services
+
+In this Part—
+
+- “social work services” means—
+
+  - (a) services which are provided by a local authority in the exercise of any of its social work services functions, or
+  - (b) services which are provided by another person pursuant to arrangements made by a local authority in the exercise of its social work services functions;
+
+- “social work services functions” means functions under the enactments specified in schedule 13.
+
+##### 49 Power to modify key definitions
+
+The Scottish Ministers, after consulting such persons (or groups of persons) as they consider appropriate, may by order—
+
+(a) modify—
+
+(i) section 47(1),
+
+(ii) schedule 12,
+
+(b) modify—
+
+(i) the definition of social work services in section 48,
+
+(ii) the definition of social work services functions by adding an entry to or removing any entry from schedule 13.
+
+#### Miscellaneous
+
+##### 50 Standards and outcomes
+
+(1) The Scottish Ministers must prepare and publish standards and outcomes applicable to—
+
+(a) care services,
+
+(b) social work services.
+
+(2) The Scottish Ministers must keep any standards and outcomes so published under review and may under subsection (1) publish amended standards and outcomes whenever they consider it appropriate to do so.
+
+(3) Before publishing under subsection (1) any—
+
+(a) standards and outcomes,
+
+(b) amended standards and outcomes which in the opinion of the Scottish Ministers are substantially different from the standards and outcomes (or amended standards and outcomes) last so published,
+
+the Scottish Ministers must consult such persons, or groups of persons, as they consider appropriate.
+
+(4) In relation to a care service other than one mentioned in subsection (5), any applicable standards and outcomes published under subsection (1) and the Scottish Social Services Council's codes of practice (that is to say, the codes of practice published by the Council under section 53 of Regulation of Care (Scotland) Act 2001 (asp 8)) must be taken into account—
+
+(a) by SCSWIS in making any decision under this Chapter or Chapter 2 or 3,
+
+(b) in any proceedings on an appeal under section 75(1), and
+
+(c) in any proceedings for an offence in relation to registration under Chapter 3.
+
+(5) In relation to an adoption service mentioned in paragraph 8(1)(a) of schedule 12, a fostering service mentioned in paragraph 9(a) or (c) of that schedule or any other care service registered under Chapter 4, any applicable standards and outcomes published under subsection (1) and the codes of practice mentioned in subsection (4) must be taken into account—
+
+(a) by SCSWIS in making any decision under this Chapter or Chapter 2, 3 or 4,
+
+(b) in any proceedings on an appeal under section 89,
+
+(c) in any proceedings for an offence in relation to registration under Chapter 4.
+
+(6) In relation to a social work service, any applicable standards and outcomes published under subsection (1) and the codes of practice mentioned in subsection (4) must be taken into account by SCSWIS in making any decision under this Chapter or Chapter 2.
+
+(7) The Scottish Ministers may make different provision for different services under subsection (1).
+
+(8) The Scottish Ministers may delegate their functions under subsections (1) to (3) to SCSWIS or such other persons as they consider appropriate.
+
+##### 51 Information and advice
+
+(1) SCSWIS must provide information to the public about the availability and quality of social services.
+
+(2) A person requesting from SCSWIS information to be provided under subsection (1) is entitled to receive it in such form as that person may reasonably request.
+
+(3) SCSWIS—
+
+(a) may at any time, and must when asked to do so, provide advice to the Scottish Ministers,
+
+(b) must when asked to do so provide advice to—
+
+(i) persons who provide, seek to provide or may seek to provide social services,
+
+(ii) persons, or groups of persons, representing those who use, or are eligible to use, social services,
+
+(iii) persons, or groups of persons, representing those who care for those who use, or are eligible to use, social services,
+
+(iv) local authorities,
+
+(v) health bodies, [^F6]...
+
+[[^F7](va) integration joint boards established under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014, and]
+
+(vi) such other persons, or groups of persons, as may be prescribed,
+
+about any matter relevant to the functions of SCSWIS,
+
+(c) may disseminate such information as it considers relevant of general or specific application arising out of or in connection with the discharge of its functions.
+
+(4) SCSWIS may charge a reasonable fee determined by it for any advice, forms or documents provided for the assistance of any person, authority or body mentioned in subsection (3)(b).
+
+##### 52 Dissolution of Scottish Commission for the Regulation of Care
+
+The Scottish Commission for the Regulation of Care is dissolved.
+
+### Chapter 2 — Social services: inspections
+
+#### Inspections
+
+##### 53 Inspections
+
+(1) SCSWIS may inspect—
+
+(a) any social service,
+
+(b) the organisation or co-ordination of any social services.
+
+[[^F8](c) where social services, services provided under the health service or services provided by an independent health care service are provided in pursuance of an integration scheme approved under section 7 of the Public Bodies (Joint Working) (Scotland) Act 2014 (“the 2014 Act”), the planning, organisation or co-ordination of those services.]
+
+(2) The purposes of an inspection under [[^F9]subsection (1)(a) or (b)] may include—
+
+(a) reviewing and evaluating the effectiveness of the provision of the services which are the subject of the inspection,
+
+(b) encouraging improvement in the provision of those services,
+
+(c) enabling consideration as to the need for any recommendations to be prepared as to any such improvement to be included in the report prepared under section 57,
+
+(d) investigating any incident, event or cause for concern,
+
+(e) in the case of care services, enabling consideration as to the need for—
+
+(i) an improvement notice under section 62,
+
+(ii) a condition notice under section 66 or a local authority condition notice under section 85.
+
+[[^F10](f) reviewing and evaluating the extent to which the social service is complying with the integration delivery principles and contributing to achieving the national health and wellbeing outcomes,
+
+(g) reviewing and evaluating the extent to which the planning, organisation or co-ordination of social services, services provided under the health service and services provided by an independent health care service is complying with the integration delivery principles and contributing to achieving the national health and wellbeing outcomes,
+
+(h) reviewing and evaluating the effectiveness of a strategic plan prepared under section 29 of the 2014 Act in complying with the integration delivery principles and contributing to achieving the national health and wellbeing outcomes,
+
+(i) encouraging improvement in the extent to which implementation of a strategic plan prepared under section 29 of the 2014 Act complies with the integration delivery principles and contributes to achieving the national health and wellbeing outcomes, and
+
+(j) enabling consideration as to the need for any recommendations to be prepared as to any such improvement to be included in the report prepared under section 57.]
+
+[[^F11](2A) The purposes of an inspection under subsection (1)(c) may include any of those mentioned in subsection (2)(f) to (j).]
+
+(3) An inspection under this section may be in relation to—
+
+(a) any social service or combination of social services,
+
+(b) such of the services concerned provided to a particular child or other person or particular children or other persons,
+
+(c) the whole or any part of Scotland.
+
+(4) An inspection under this section must be conducted in accordance with a plan—
+
+(a) prepared in accordance with section 54, and
+
+(b) approved by the Scottish Ministers.
+
+(5) An inspection under this section may, subject to any regulations made under section 58, take such form as SCSWIS considers appropriate.
+
+(6) SCSWIS may at any time require a person providing any social service to supply it with any information relating to the service which it considers necessary or expedient to have for the purposes of its functions under this Part.
+
+[[^F12](7) In this section—
+
+- “independent health care service” has the meaning given by section 10F(1) of the National Health Service (Scotland) Act 1978;
+- “integration delivery principles” has the meaning given by section 31 of the 2014 Act;
+- “national health and wellbeing outcomes” has the same meaning as in section 5(1) of the 2014 Act.]
+
+##### [^F13]53A Inspections of care homes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 54 Inspections under section 53: best regulatory practice
+
+(1) SCSWIS must prepare a plan for carrying out inspections in accordance with best regulatory practice.
+
+(2) The plan—
+
+(a) must set out arrangements for inspections to be so carried out (including inspections of those services subject to self evaluation),
+
+(b) may make different provision for different purposes.
+
+(3) For the purposes of subsection (1), “best regulatory practice” means practice under which (in particular) inspections should be carried out in a way that is transparent, accountable, proportionate and consistent.
+
+(4) In preparing a plan under subsection (1), SCSWIS must have regard to any guidance issued by the Scottish Ministers about those matters.
+
+(5) SCSWIS—
+
+(a) must keep the plan under review, and
+
+(b) may from time to time revise, with the approval of the Scottish Ministers, the plan.
+
+(6) SCSWIS must, in preparing a plan (or any revisal), consult such persons as it considers appropriate.
+
+##### 55 Inspections at request of Scottish Ministers
+
+(1) SCSWIS must, at the request of the Scottish Ministers inspect—
+
+(a) any social service that they may specify,
+
+(b) the organisation or co-ordination of any social services that they may specify.
+
+(2) The Scottish Ministers may specify purposes for any inspection under this section.
+
+(3) An inspection under this section must be conducted in accordance with a timetable approved by the Scottish Ministers.
+
+(4) The Scottish Ministers may request under subsection (1) that there be conducted an inspection of—
+
+(a) any services concerned in the relevant area,
+
+(b) such of the services concerned provided in the relevant area as they may specify, or
+
+(c) such of the services concerned provided to a particular child or other person or particular children or other persons as they may specify.
+
+(5) In paragraphs (a) and (b) of subsection (4), the “relevant area” is the whole of Scotland or such part of Scotland as the Scottish Ministers specify in their request.
+
+##### 56 Inspections: authorised persons
+
+(1) Any inspection under this Part must be carried out by a person authorised by SCSWIS (an “authorised person”).
+
+(2) A person may be authorised by SCSWIS to carry out inspections in relation to any social service or all of them.
+
+(3) An authorised person may at any time enter and inspect premises which are used, or which the person has reasonable cause to believe are used, for the purpose of providing the social service which is subject to inspection.
+
+(4) Where an authorised person is in possession of confidential information which has been obtained for the purposes of an inspection under this Part, the authorised person must not use or disclose that information other than—
+
+(a) for the purposes of that inspection,
+
+(b) so as to comply with an enactment or court order requiring disclosure,
+
+(c) to the extent considered necessary by the authorised person for the purpose of protecting the welfare of—
+
+(i) any child,
+
+(ii) any adult at risk (within the meaning of section 3 of the Adult Support and Protection (Scotland) Act 2007 (asp 10)), [^F14]...
+
+(d) to the extent considered necessary by the authorised person for the purpose of the prevention or detection of crime or the apprehension or prosecution of offenders[[^F15], or
+
+(e) to the extent considered necessary by the authorised person for the purpose of assisting the Scottish Public Services Ombudsman in connection with the Ombudsman’s investigatory functions under the Scottish Public Services Ombudsman Act 2002].
+
+##### 57 Inspections: reports
+
+(1) Where an inspection under this Part has been completed, SCSWIS—
+
+(a) must prepare a report on the matters inspected, and
+
+(b) must without delay send a copy of that report to the person providing the service which has been inspected.
+
+(2) Before finalising the report, SCSWIS must give the person providing the service an opportunity of commenting on a draft of the report.
+
+(3) SCSWIS must make copies of the report available for inspection at its offices by any person at any reasonable time; and it must take such other steps as it considers appropriate for publicising the report.
+
+(4) Regulations may make further provision about the preparation, content and effect of reports under this section and in particular may make—
+
+(a) provision (including provision modifying any duties under this section) specifying circumstances in which—
+
+(i) any right to receive,
+
+(ii) access to,
+
+(iii) availability of,
+
+copies of reports (or of parts of such reports) may be restricted, refused or withheld,
+
+(b) provision requiring copies of reports to be sent to the Scottish Ministers (or such other persons as may be specified in regulations) in such circumstances as may be so specified.
+
+##### 57A [[^F16]Assistance in inspections from Healthcare Improvement Scotland
+
+(1) Healthcare Improvement Scotland may assist SCSWIS in carrying out an inspection under this Part.
+
+(2) Healthcare Improvement Scotland may charge a reasonable fee determined by it for any assistance provided by virtue of subsection (1).]
+
+#### Regulations
+
+##### 58 Regulations: inspections
+
+(1) Regulations may make further provision concerning inspections under this Part.
+
+(2) Regulations under subsection (1) may, in particular, make provision—
+
+(a) as to types of inspection which may be conducted,
+
+(b) as to timing and frequency of inspections,
+
+(c) as to seizure and removal of anything found during the course of an inspection,
+
+(d) as to persons who may be authorised to carry out inspections,
+
+(e) requiring or facilitating the sharing or production of information (including health records) for the purposes of an inspection under this Part,
+
+(f) as to interviews and examinations (including physical and mental examinations) which may be carried out in connection with the inspections,
+
+(g) requiring any person to provide to an authorised person an explanation of information produced to an authorised person,
+
+(h) requiring information produced to an authorised person to be held in compliance with prescribed conditions and further disclosures to be made in compliance with such conditions,
+
+(i) empowering an authorised person to disclose to a person prescribed for the purposes of this paragraph any information of a prescribed nature which the authorised person holds in consequence of such an inspection,
+
+(j) creating offences punishable on summary conviction by a fine not exceeding level 4 on the standard scale for the purpose of enforcing any provision of the regulations.
+
+(3) In subsection (2), “prescribed” means prescribed by regulations under subsection (1).
+
+### Chapter 3 — Care services
+
+#### Registration of care services
+
+##### 59 Registration of care services
+
+(1) A person who seeks to provide a care service must apply to SCSWIS for registration of the service.
+
+(2) An application must—
+
+(a) give such information as may be prescribed about prescribed matters,
+
+(b) identify an individual (who may be the applicant) who is to manage the service,
+
+(c) give any other information which SCSWIS may reasonably require the applicant to give,
+
+(d) without prejudice to subsection (1)(b) of section 76, be accompanied by the fee imposed under subsection (2)(a) of that section.
+
+(3) A person who provides an adoption service or a fostering service must be a voluntary organisation.
+
+(4) Subsections (1) to (3) do not apply to a local authority—
+
+(a) seeking to provide—
+
+(i) an adoption service mentioned in paragraph 8(1)(a) of schedule 12, or
+
+(ii) a fostering service mentioned in paragraph 9(a) or (c) of that schedule, or
+
+(b) seeking to provide a care service in respect of which it has made such determination as is mentioned in section 83(1)(c).
+
+(5) Subsection (4)(b) is subject to section 83(3).
+
+##### 59A [[^F17]Further provision in relation to registration of certain care services
+
+(1) This section applies to an application made under section 59(1) for registration of any of the following care services—
+
+(a) a care home service which is to be provided wholly or mainly to children,
+
+(b) a school care accommodation service,
+
+(c) a secure accommodation service.
+
+(2) In addition to giving the information mentioned in section 59(2), the application must—
+
+(a) give such information as may be prescribed about matters relating to cross-border placements,
+
+(b) confirm that notice of the application has been given in the prescribed form to the persons mentioned in subsection (3), who are responsible for preparing a children’s services plan in accordance with Part 3 of the Children and Young People (Scotland) Act 2014 (“the 2014 Act”).
+
+(3) Those persons are—
+
+(a) the local authority for each area in which the service is to be provided, and
+
+(b) the relevant health board (as defined by section 7(1) of the 2014 Act) for each such area.
+
+(4) If an application does not include the confirmation required by subsection (2)(b), SCSWIS may not consider the application until such confirmation is given.]
+
+##### 60 Grant or refusal of registration
+
+(1) SCSWIS may grant or refuse registration of a care service under section 59.
+
+(2) A grant of registration may be subject to such conditions as SCSWIS thinks fit.
+
+(3) If SCSWIS is satisfied, in relation to an application, that the requirements of—
+
+(a) such regulations as are applicable under section 78 [[^F18]or 82B(1)] to the care service, and
+
+(b) any other enactment which appears to SCSWIS to be relevant,
+
+will be complied with in relation to that service, it must give notice under section 71(1), or as the case may be section 73(1); otherwise it must give notice under section 71(2).
+
+(4) On granting a registration, SCSWIS must issue a certificate of registration to the applicant.
+
+(5) The person for the time being providing the service must ensure that the certificate (or a copy of it) is, while the certificate is current, kept affixed in a conspicuous place in each of the premises in or from which that service is provided and, if different, the principal (or only) office of the service.
+
+##### 61 Limited registration
+
+(1) For the purposes of Part 4 of the Adults with Incapacity (Scotland) Act 2000 (asp 4) (management of resident's finances), a person who provides, or seeks to provide, a service which provides accommodation but is not a care service may make an application to SCSWIS for registration of the service.
+
+(2) Subsection (2) of section 59 applies in relation to an application under subsection (1) as it applies in relation to an application under subsection (1) of that section.
+
+(3) Sections 60, 76 and 77 apply in relation to a service in respect of which an application is made under subsection (1) as they apply in relation to a care service.
+
+(4) Sections 53 to 58, 62 to 79 and 101 apply in relation to a service registered under section 60 by virtue of subsection (3) as they apply in relation to a registered care service.
+
+(5) A service so registered is, in this Part, referred to as a limited registration service.
+
+#### Improvement notices
+
+##### 62 Improvement notices: care services
+
+(1) SCSWIS may at any time give a notice (in this Part referred to as an “improvement notice”) to the person for the time being providing a care service registered under this Part that, unless within such reasonable period as may be specified in the notice, there is a significant improvement, of such a nature as may be so specified, in the provision of that service, SCSWIS intends—
+
+(a) in the case other than that mentioned in paragraph (b), to make a proposal under section 64 to cancel the registration, or
+
+(b) in the case of a local authority providing an adoption service mentioned in paragraph 8(1)(a) of schedule 12, a fostering service mentioned in paragraph 9(a) or (c) of that schedule or any other care service registered under Chapter 4, to make a report to the Scottish Ministers under section 91.
+
+(2) Where a notice under subsection (1)(a) is given to a person other than a local authority, SCSWIS must send without delay a copy of that notice to the local authority within whose area the service is provided.
+
+##### 63 Special provision for certain care services provided by local authorities
+
+(1) Where—
+
+(a) SCSWIS has given an improvement notice to a local authority in respect of a care service provided by it and registered under this Chapter, and
+
+(b) the authority determines that the service is one which it must provide in order to fulfil a statutory duty,
+
+the authority must within 14 days after receiving the notice notify that determination to SCSWIS together with a statement of its reasons.
+
+(2) On receiving notification under subsection (1), SCSWIS must as soon as practicable send a copy of the improvement notice to the Scottish Ministers together with a copy of the notification, of the statement of reasons and of a note of any reason SCSWIS has for not agreeing with the authority's determination.
+
+(3) On receiving an improvement notice sent under subsection (2) the Scottish Ministers must state whether or not, in their opinion, the determination of the authority is justified.
+
+(4) If their statement is that the determination is justified—
+
+(a) the improvement notice is to be taken as duly given under subsection (1)(b) (and not subsection (1)(a)) of section 62, and
+
+(b) the care service is to be taken, for the purposes of any application of the provisions of this Part which follows on from the giving of an improvement notice, to be a care service duly registered under Chapter 4 (and not Chapter 3).
+
+#### [^F19]...
+
+##### [^F19]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F19]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Proposals and applications in relation to registered care services
+
+##### 64 Cancellation of registration
+
+(1) SCSWIS may[^F20]... propose to cancel the registration, under this Chapter, of a care service—
+
+(a) on the ground that any person has been convicted of a relevant offence in relation to the service,
+
+(b) on the ground that the service is being, or has at any time been, carried on other than in accordance with the relevant requirements, or
+
+(c) on any other ground which may be prescribed.
+
+[[^F21](1A) The power in subsection (1) may be exercised—
+
+(a) at any time after the expiry of the period specified in an improvement notice given in respect of the care service, or
+
+(b) at any time in circumstances which may be prescribed.]
+
+(2) For the purposes of subsection (1)(a), the following are relevant offences—
+
+(a) an offence under this Part,
+
+(b) an offence under regulations made under this Part, or
+
+(c) an offence which, in the opinion of SCSWIS, makes it appropriate that the registration should be cancelled.
+
+(3) For the purposes of subsection (1)(b), the following are relevant requirements—
+
+(a) any requirements or conditions imposed by or under this Part, or
+
+(b) the requirements of regulations made under this Part.
+
+(4) Where a person providing a registered care service ceases to provide the service, SCSWIS may cancel the registration of the service.
+
+##### 65 Emergency cancellation of registration
+
+(1) SCSWIS may apply to the sheriff for an order cancelling the registration, under this Chapter, of a care service.
+
+(2) The application may be granted if it appears to the sheriff that, unless the order is made, there will be a serious risk to the life, health or wellbeing of persons.
+
+(3) The sheriff may make such interim order as the sheriff thinks fit.
+
+(4) As soon as practicable after SCSWIS has applied for an order under subsection (1), it must notify the appropriate authorities.
+
+(5) Where the order applied for is made (or an interim order is made), SCSWIS must as soon as reasonably practicable give a copy of it to the person who provides the care service.
+
+(6) The sheriff may determine an application under this section in the absence of the person providing the care service to which the application relates.
+
+(7) An order under this section has effect—
+
+(a) from the time at which it is made, or
+
+(b) from such other time as the sheriff considers appropriate.
+
+(8) Within 14 days of the day on which an order under this section is made, an appeal may be made to the sheriff principal against the making of the order.
+
+(9) On an appeal under subsection (8), the sheriff principal may—
+
+(a) confirm the order,
+
+(b) revoke the order,
+
+(c) modify the order,
+
+(d) make such other order as the sheriff principal thinks fit.
+
+(10) The decision of the sheriff principal on an appeal under subsection (8) is final.
+
+(11) An order under this section has effect notwithstanding the making of an appeal in relation to the order.
+
+(12) For the purposes of this section, the appropriate authorities are—
+
+(a) each—
+
+(i) local authority, and
+
+(ii) health board,
+
+within whose area the care service is provided, and
+
+(b) any other body established by or under an enactment whom SCSWIS thinks it appropriate to notify.
+
+##### [^F22]65A Care homes: emergency intervention orders
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F23]65B Further provision in relation to emergency intervention orders
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 66 Condition notices
+
+SCSWIS may at any time give notice (in this Part referred to as a “condition notice”) to the person for the time being providing a service registered under this Chapter that it proposes to—
+
+(a) vary or remove a condition for the time being in force, or
+
+(b) impose an additional condition,
+
+in relation to the registration.
+
+##### 67 Emergency condition notices
+
+(1) Subsection (2) applies where—
+
+(a) a person is providing a care service registered under this Chapter, and
+
+(b) SCSWIS believes that the absence of a condition in relation to the registration of that service poses a serious risk to the life, health or wellbeing of persons.
+
+(2) SCSWIS may at any time give notice (an “emergency condition notice”) to the person providing the service specifying a condition, in relation to registration, in respect of that risk.
+
+(3) The condition so specified takes effect immediately on receipt of the emergency condition notice.
+
+(4) An emergency condition notice must—
+
+(a) state that, within 14 days after service of the notice, the person to whom it is given may make written representations to SCSWIS concerning any matter which that person wishes to dispute, and
+
+(b) explain the right of appeal conferred by section 69(1).
+
+(5) SCSWIS must consider any representations made under subsection (4)(a) and, following such consideration, must—
+
+(a) give the person providing the service a condition notice stating that SCSWIS proposes to vary or remove the condition specified in the emergency condition notice, or
+
+(b) notify the person that it does not intend to give such a condition notice.
+
+(6) When notifying a person under subsection (5)(b), SCSWIS must explain the right of appeal conferred by section 69(1).
+
+(7) Where a condition notice has been given by virtue of subsection (5)(a) containing a proposal to remove the condition, SCSWIS must implement the proposal unless it appears to it that it would be inappropriate to do so.
+
+##### 68 Application of Part to condition notices following emergency condition notices
+
+(1) Section 72 does not apply to a condition notice given by virtue of section 67(5)(a).
+
+(2) The reference in section 73(5) to a proposal in relation to which a condition notice has been given does not include a reference to a proposal contained in a condition notice given by virtue of section 67(5)(a) to remove the condition mentioned in that provision.
+
+(3) The reference to a proposal in section 75(1) does not include a reference to a proposal contained in a condition notice given by virtue of section 67(5)(a) to remove the condition mentioned in that provision.
+
+##### 69 Emergency condition notices: appeals
+
+(1) A person—
+
+(a) who is given an emergency condition notice, and
+
+(b) who—
+
+(i) makes no written representations in accordance with section 67(4)(a), or
+
+(ii) makes such representations but is notified as mentioned in section 67(5)(b),
+
+may, within 14 days after the relevant date, appeal to the sheriff against the imposition of the condition.
+
+(2) In subsection (1), “relevant date” means—
+
+(a) where sub-paragraph (i) of subsection (1)(b) applies, the date of service of the emergency condition notice,
+
+(b) where sub-paragraph (ii) of that subsection applies, the date notification mentioned in that sub-paragraph is given.
+
+(3) The sheriff may, on an appeal under subsection (1)—
+
+(a) direct that the condition specified in the emergency condition notice is to continue to have effect,
+
+(b) direct that the condition is to cease to have effect,
+
+(c) direct that the condition be varied as specified in the direction,
+
+(d) impose an additional condition in relation to the registration.
+
+##### 70 Applications under Chapter 3 in respect of conditions
+
+(1) A person providing a service registered under this Chapter may apply to SCSWIS—
+
+(a) for the variation or removal of any condition for the time being in force, or for the addition of a condition, in relation to the registration, or
+
+(b) for cancellation of the registration.
+
+(2) But no such application is competent where—
+
+(a) SCSWIS has given the person notice under section 71(3) of its proposal to cancel the registration (unless SCSWIS has decided not to take that step), or
+
+(b) SCSWIS has given the person notice under section 73(3) of its decision to cancel the registration and—
+
+(i) the time within which an appeal may be brought has not expired, or
+
+(ii) if an appeal has been brought, that appeal has not been determined.
+
+(3) An application under subsection (1) must be made in such manner and state such particulars as may be prescribed; and, without prejudice to subsection (1)(b) of section 76, must be accompanied by the fee imposed under subsection (2)(a) or as the case may be (c) of that section.
+
+(4) If SCSWIS decides to grant an application under subsection (1)(a) it must give the applicant notice of its decision (stating, where applicable, the condition varied, removed or added) and issue a new certificate of registration.
+
+##### 71 Further provision as respects notice of proposals
+
+(1) If SCSWIS proposes to grant an application made under section 59 but to do so subject to a condition which has not been agreed in writing between it and the applicant, it must give the applicant notice of the proposed condition.
+
+(2) If SCSWIS proposes to refuse an application made under section 59, it must give the applicant notice of the proposed refusal.
+
+(3) SCSWIS must give any person who provides a service registered under this Chapter notice of a proposal to cancel the registration (other than in accordance with an application under subsection (1)(b) of section 70).
+
+(4) SCSWIS must give an applicant under subsection (1)(a) of section 70 notice of a proposal to refuse that application.
+
+(5) A notice under this section must give SCSWIS's reasons for its proposal.
+
+##### 72 Right to make representations to SCSWIS as respects proposals under Chapter 3
+
+(1) A condition notice or a notice under section 71 must state that, within 14 days after service of the notice, the person to whom it is given may make written representations to SCSWIS concerning any matter which that person wishes to dispute.
+
+(2) Where such a notice has been given SCSWIS may decide to implement the proposal only after (whichever first occurs)—
+
+(a) if the person to whom the notice was given makes representations under subsection (1), it has considered those representations,
+
+(b) that person notifies SCSWIS in writing that such representations will not be made, or
+
+(c) the period of 14 days mentioned in that subsection elapses without such representations being made and without SCSWIS receiving such notification.
+
+(3) In the circumstances mentioned in subsection (2)(b) or (c), SCSWIS must implement the proposal unless it appears to it that it would be inappropriate to do so.
+
+##### 73 Notice of SCSWIS's decision under Chapter 3
+
+(1) If SCSWIS decides to grant unconditionally an application made under section 59 or to grant such application subject only to a condition which has been agreed in writing between SCSWIS and the applicant, it must give the applicant notice of its decision.
+
+(2) A notice under subsection (1) must state the agreed condition.
+
+(3) If SCSWIS decides to implement a proposal in relation to which it has given a person a condition notice or a notice under section 71, it must give that person notice of the decision.
+
+(4) A notice under subsection (3) must—
+
+(a) explain the right of appeal conferred by section 75, and
+
+(b) in the case of a decision to implement a proposal—
+
+(i) in relation to which a condition notice has been given, state the condition as varied, the condition which is removed or (as the case may be) the additional condition imposed, or
+
+(ii) of which notice has been given under section 71(1), state the condition subject to which the application is granted.
+
+(5) Subject to subsection (6), a decision to implement a proposal in relation to which a condition notice has been given or of which notice has been given under section 71(1) or (3) does not take effect—
+
+(a) if no appeal is brought, until the period of 14 days referred to in section 75(1) has elapsed, and
+
+(b) if an appeal is brought, until that appeal is finally determined or is abandoned.
+
+(6) Where the decision is to implement a proposal of which notice has been given under section 71(1) and the applicant notifies SCSWIS in writing, before the period of 14 days referred to in section 75(1) has elapsed, that there will be no appeal, the decision takes effect on receipt of that notification.
+
+##### 74 Conditions as to numbers
+
+Without prejudice to the generality of section 60(2) or 66, a condition imposed under any of those provisions in relation to a care service may—
+
+(a) in the case of—
+
+(i) a care home service,
+
+(ii) a school care accommodation service, or
+
+(iii) a secure accommodation service,
+
+limit the number of persons for whom the service may provide accommodation,
+
+(b) in the case of an adult placement service, limit the number of persons whom the service may place,
+
+(c) in the case of support service, limit the number of persons to whom the service may be provided,
+
+(d) in the case of—
+
+(i) child minding, or
+
+(ii) day care of children,
+
+limit the number of children for whom a person may act as a child minder or for whom day care may be provided, [^F24]...
+
+(e) in the case of a nurse agency, limit the number of persons for whom the agency may supply registered nurses, registered midwives or registered health visitors [[^F25], and
+
+(f) in the case of a child contact service, limit the number of persons in respect of whom the service may facilitate contact.]
+
+##### 75 Appeal against decision to implement proposal
+
+(1) A person given notice under section 73(3) of a decision to implement a proposal may, within 14 days after that notice is given, appeal to the sheriff against the decision.
+
+(2) The sheriff may, on appeal under subsection (1), confirm the decision or direct that it is not to have effect; and where the registration is not to be cancelled may (either or both)—
+
+(a) vary or remove any condition for the time being in force in relation to the registration,
+
+(b) impose an additional condition in relation to the registration.
+
+#### Fees
+
+##### 76 Registration fees
+
+(1) The Scottish Ministers, after consulting such persons, or groups of persons, as they consider appropriate on the potential effect of so prescribing on the services which the persons, or persons they represent, provide, may prescribe—
+
+(a) maximum fees which may be imposed by SCSWIS under this section,
+
+(b) circumstances in which fees so imposed are or are not to be payable.
+
+(2) Subject to the provisions of this section, SCSWIS must impose fees in respect of—
+
+(a) any application made for registration under this Chapter or Chapter 4 or for cancellation of any such registration,
+
+(b) the annual continuation of any such registration,
+
+(c) any application made for the variation or removal of a condition for the time being in force in relation to any such registration,
+
+(d) issuing to a person a new certificate of registration—
+
+(i) at the instance of that person,
+
+(ii) by virtue of any application under this Chapter or Chapter 4 by that person, or
+
+(iii) by virtue of any new information provided by that person in pursuance of regulations under this Chapter or Chapter 4.
+
+(3) Without prejudice to subsection (1)—
+
+(a) SCSWIS must, in fixing fees under this section, have regard to its reasonable expenses in carrying out its functions under this Chapter, but
+
+(b) where it appears to SCSWIS to be appropriate it may charge a nominal fee, or remit the fee altogether.
+
+#### Regulations
+
+##### 77 Regulations: registers and registration
+
+(1) Regulations may—
+
+(a) make provision about the keeping of registers by SCSWIS,
+
+(b) make provision about registration under this Chapter or Chapter 4 and in particular about—
+
+(i) the making of applications for such registration,
+
+(ii) the content of certificates of registration,
+
+(iii) categories of applicant who cannot competently make certain applications,
+
+(c) require SCSWIS to secure that, on such conditions, in such circumstances and, subject to subsection (2), on payment of such fees as may be specified in regulations, any person is to be afforded access to, and provided with a copy of an entry in or with an extract from, a register kept by SCSWIS,
+
+(d) except such part of a register as may be specified in the regulations from any requirement made by virtue of paragraph (c),
+
+(e) confer additional functions on SCSWIS in relation to registration under this Part.
+
+(2) Regulations under paragraph (c) of subsection (1) may specify circumstances in which the fees mentioned in that paragraph are not to be payable; and no fees are in any event payable in any case where SCSWIS consider it appropriate to provide the copy or extract in question free of charge.
+
+##### 78 Regulations: care services
+
+(1) Regulations may confer, in relation to care services, additional functions on SCSWIS.
+
+(2) Regulations may impose, in relation to care services, any requirements which the Scottish Ministers consider appropriate for the purposes of this Part.
+
+(3) Without prejudice to the generality of subsection (2), regulations may make it an offence to contravene or fail to comply with—
+
+(a) any specified provision of the regulations, or
+
+(b) a condition of registration for the time being in force.
+
+(4) A person who commits an offence under the regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(5) Before the Scottish Ministers make regulations containing provision as mentioned in subsection (1) or (3), they must consult such persons, or groups of persons, as they consider appropriate.
+
+#### [[^F26]Regulations under section 78: visits to and by adult care home residents
+
+##### 78B Identification of Essential Care Supporter
+
+(1) The Scottish Ministers must exercise the power under section 78(2) to impose a duty on providers of care home services for adults to—
+
+(a) identify for every resident of accommodation provided by the care home service at least one individual as an Essential Care Supporter, unless—
+
+(i) doing so would be contrary to the resident’s wishes, or
+
+(ii) nobody can be identified who is able and willing to be the resident’s Essential Care Supporter, and
+
+(b) maintain a record of the Essential Care Supporters identified.
+
+(2) The Scottish Ministers must set out in regulations under section 78(2)—
+
+(a) the criteria to be applied in determining who a resident’s Essential Care Supporter is, and
+
+(b) the consultative process with the resident and others by which that determination is to be made.
+
+(3) The duty described by subsection (1) must be framed so that a provider of a care home service must have regard to the code published under section 78E in carrying out the duty.
+
+##### 78C Right to visits: care home residents
+
+(1) The Scottish Ministers must exercise the power under section 78(2) to impose a duty on providers of care home services for adults to facilitate visits—
+
+(a) to residents of accommodation provided by the care home service (“internal visits”),
+
+(b) by residents of accommodation provided by the care home service (“external visits”).
+
+(2) The duty must be framed so that a provider of a care home service may only suspend visits (specifically or generally) if the provider has reasonable cause to believe that it is essential to do so to prevent a serious risk to the life, health or wellbeing of—
+
+(a) in the case of internal visits, persons at the accommodation,
+
+(b) in the case of external visits (either or both)—
+
+(i) persons at the accommodation, or
+
+(ii) persons at the place where the visit would take place, but for the suspension.
+
+(3) The duty must also be framed so that, where a provider of a care home service has suspended visits due to a serious risk of a kind described in subsection (2), the provider must take all reasonable steps to eliminate or substantially mitigate the risk so that the suspension of visits can be lifted as soon as practicable.
+
+(4) The duty must also be framed so that, even in cases where a provider of a care home service has reasonable cause to believe that suspending visits is essential to prevent a serious risk, the provider must continue to facilitate visits to or by a resident if—
+
+(a) either—
+
+(i) the provider has reasonable cause to believe that, before the suspension of visits is lifted, the resident will have—
+
+(A) died, or
+
+(B) undergone, or begun to undergo, a significant deterioration in physical or mental condition, or
+
+(ii) the provider has reasonable cause to believe that—
+
+(A) the suspension of visits is causing, or is likely to cause, serious harm to the resident’s health or wellbeing, and
+
+(B) that harm outweighs the serious risk, and
+
+(b) the resident and the person visiting, or being visited by, the resident agree to take any action or precaution that the provider reasonably considers would mitigate the serious risk to any extent (other than a negligible one).
+
+(5) The duty must also be framed so as to create a presumption that the suspension of visits to a resident by the resident’s Essential Care Supporter is likely to cause serious harm to the resident’s health or wellbeing.
+
+(6) Subsection (4) does not preclude the duty from being framed so as to include other circumstances in which visits to or by a resident must continue to be facilitated.
+
+(7) The duty must also be framed so that a provider of a care home service must have regard to the code published under section 78E in carrying out the duty.
+
+(8) Facilitating external visits, as mentioned in subsection (1), does not entail a provider of a care home service—
+
+(a) taking, or accompanying, a resident somewhere outwith accommodation provided by the care home service, or
+
+(b) arranging or paying for someone else to do so.
+
+##### 78D Further provision to be made in connection with section 78C
+
+(1) The Scottish Ministers must exercise the power under section 78(2) to impose a duty on the providers of care home services for adults to—
+
+(a) review, following a valid request, its decision about the suspension of internal or external visits,
+
+(b) notify SCSWIS when the provider suspends internal or external visits.
+
+(2) The duties described by subsection (1) must be framed—
+
+(a) to define what constitutes a valid request to a provider for the purposes of the duty,
+
+(b) so that a provider of a care home service must have regard to the code published under section 78E in carrying out the duties.
+
+(3) Subsection (1)(b) does not preclude the duty from being framed so as to create exceptions to the requirement to notify SCSWIS in relation to the suspension of internal or external visits.
+
+(4) In this section—
+
+(a) references to internal and external visits are to be construed in accordance with section 78C(1),
+
+(b) references to suspending them cover doing so specifically or generally.
+
+##### 78E Code of practice on care home residents’ right to visits
+
+(1) The Scottish Ministers must prepare a code of practice providing guidance on fulfilling the duties imposed in accordance with sections 78B(1), 78C(1) and 78D(1).
+
+(2) The code must provide that in fulfilling those duties the following are to be treated as paramount considerations—
+
+(a) the importance to residents of visits in—
+
+(i) promoting their dignity,
+
+(ii) promoting their physical and mental health and emotional wellbeing, and
+
+(iii) realising their human rights,
+
+(b) the importance of recognising and supporting the vital role that people who are not care home staff (for example close relatives and friends) play, alongside staff, in providing their loved ones with regular care (including companionship, personal support and advocacy).
+
+(3) The code may—
+
+(a) provide guidance on how to—
+
+(i) implement an effective visiting policy,
+
+(ii) adapt personal care plans to include residents’ visiting preferences or requirements,
+
+(iii) communicate timeously in writing with those affected about any change to visiting arrangements including the reasons for the change,
+
+(b) set out what the Scottish Ministers consider constitutes best practice in—
+
+(i) facilitating visits,
+
+(ii) care home staff working collaboratively with residents and their friends and families to facilitate visits in the way that best supports residents’ needs,
+
+(c) give examples of—
+
+(i) the means which providers could use to eliminate or mitigate a serious risk of a kind described in section 78C(2),
+
+(ii) factors which may be taken into account in making an assessment about whether the harm caused to a resident in suspending visits outweighs the risk,
+
+(d) any other guidance relating to fulfilling the duties mentioned in subsection (1) that the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers must—
+
+(a) publish the code in a manner that is accessible to the public within the period of one year beginning with the day on which this section comes into force,
+
+(b) review and, if they consider it appropriate, prepare and publish a new version of the code in such manner as they consider appropriate by the end of each review period, and
+
+(c) take such steps as they consider appropriate to promote awareness of the code to providers of care home services for adults.
+
+(5) In carrying out a review of the code, the Scottish Ministers must—
+
+(a) have particular regard to any representations that have been made to them about the most recent version of the code by—
+
+(i) providers of care home services for adults and their staff,
+
+(ii) the residents of accommodation provided by those services,
+
+(iii) those residents’ family, friends and other visitors, and
+
+(b) invite, and take into account, views from SCSWIS on—
+
+(i) whether, since the most recent version of the code was published—
+
+(A) any trends have emerged in the suspension of internal or external visits (see section 78C(1)),
+
+(B) it has identified any areas of concern, or examples of good practice, in relation to the discharge of the duties imposed in accordance with sections 78B(1), 78C(1) and 78D(1),
+
+(C) meaningful regard is being had to the code by the providers of adult care home services,
+
+(ii) what changes to the code would be appropriate.
+
+(6) Before publishing any version of the code, the Scottish Ministers must consult—
+
+(a) SCSWIS,
+
+(b) Public Health Scotland,
+
+(c) such persons, or groups of persons, who they consider represent the interests of—
+
+(i) providers of care home services for adults,
+
+(ii) the residents of accommodation provided by such care home services, and
+
+(iii) the families of such residents.
+
+(7) When the Scottish Ministers publish a version of the code, they must also publish an adaptation of that version of the code designed to be understood by people with learning difficulties or other conditions affecting how they process information.
+
+(8) In this section, “review period” means the period of 5 years beginning with the day on which the latest version of the code was published.
+
+##### 78F Interpretation of sections 78B to 78E
+
+In sections 78B to 78E—
+
+- “care home service for adults” has the meaning given in section 82F,
+- “Essential Care Supporter”, in relation to a resident of accommodation provided by a care home service, means the individual recorded as the resident’s Essential Care Supporter in fulfilment of the duty imposed in accordance with section 78B(1),
+- “provider”, in relation to a care home service, is to be construed in accordance with the definition of “provide” in section 105.
+
+##### 78G Review of operation of duties imposed in accordance with sections 78B to 78D
+
+(1) The Scottish Ministers must prepare, and make publicly available, a report on the operation of the duties imposed on providers of care home services for adults in accordance with sections 78B(1), 78C(1) and 78D(1).
+
+(2) The duty under subsection (1) must be fulfilled within 2 years of this section coming into force.]
+
+#### Complaints
+
+##### 79 Complaints about care services
+
+(1) SCSWIS must establish a procedure by which a person, or someone acting on a person's behalf, may make complaints (or other representations) in relation to the provision to the person of a care service or about the provision of a care service generally.
+
+(2) The procedure must provide for it to be available whether or not procedures established by the provider of the service for making complaints (or other representations) about that service have been or are being pursued.
+
+(3) Before establishing a procedure under subsection (1), SCSWIS must consult the Scottish Public Services Ombudsman, all local authorities and such other persons, or groups of persons, as it considers appropriate on its proposals for such a procedure.
+
+(4) SCSWIS must keep the procedure under review and must vary it whenever, after such consultation, it considers it appropriate to do so.
+
+(5) SCSWIS must give such publicity to the procedure (including the procedure as varied under subsection (4)) as it considers appropriate and must give a copy of the procedure to any person who requests it.
+
+##### [^F27]79A Reporting on coronavirus deaths in care homes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Offences
+
+##### 80 Offences in relation to registration under Chapter 3
+
+(1) Any person who—
+
+(a) provides a care service while not registered under this Chapter, or
+
+(b) with intent to deceive, pretends that a care service is registered under this Chapter,
+
+commits an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
+
+(2) Any person who fails to comply with section 60(5) commits an offence and is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(3) Subsection (1)(a) does not apply as respect actings which—
+
+(a) constitute an offence under section 75 of the Adoption and Children (Scotland) Act 2007 (asp 4), or
+
+(b) fall within the exception provided for in subsection (1) of that section.
+
+##### 81 False statements in application under Chapter 3
+
+Any person who, in an application—
+
+(a) for registration under this Chapter, or
+
+(b) for variation or removal of a condition in force in relation to a registration under this Chapter,
+
+knowingly makes a statement which is false or misleading in a material respect commits an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+##### 82 Offences by bodies corporate etc.
+
+Where an offence under this Chapter, or under regulations made under this Chapter, committed by—
+
+(a) a body corporate other than a local authority, is committed with the consent or connivance of, or is attributable to any neglect on the part of, a person who—
+
+(i) is a director, manager or secretary of the body corporate, or
+
+(ii) purports to act in any such capacity,
+
+(b) a local authority, is committed with the consent or connivance of, or is attributable to any neglect on the part of, a person who—
+
+(i) is an officer or member of the authority, or
+
+(ii) purports to act in any such capacity,
+
+(c) a firm, is committed with the consent or connivance of, or is attributable to any neglect on the part of, a person who—
+
+(i) is a partner in the firm, or
+
+(ii) purports to act in that capacity,
+
+(d) an unincorporated association other than a firm, is committed with the consent or connivance of, or is attributed to any neglect on the part of, a person who—
+
+(i) is concerned in the management or control of the association, or
+
+(ii) purports to act in the capacity of a person so concerned,
+
+the person (as well as the body corporate or as the case may be the local authority, firm or association) commits the offence and is liable to be proceeded against and punished accordingly.
+
+### [[^F28]CHAPTER 3A — Care services: staffing
+
+#### 82A Development of staffing methods
+
+(1) SCSWIS may develop and recommend to the Scottish Ministers staffing methods for use by persons who provide—
+
+(a) care home services for adults, and
+
+(b) such other care services as the Scottish Ministers may by regulations specify.
+
+(2) In developing such methods, SCSWIS must collaborate with—
+
+(a) the Scottish Ministers,
+
+(b) Healthcare Improvement Scotland,
+
+(c) the Scottish Social Services Council,
+
+(d) every Health Board,
+
+(e) every local authority,
+
+(f) every integration authority,
+
+(g) such persons as SCSWIS considers to be representative of the providers and users of the care services to whom the staffing methods are to apply,
+
+(h) such trade unions and professional bodies as SCSWIS considers to be representative of individuals working in those care services, and
+
+(i) such other persons as SCSWIS considers appropriate.
+
+(3) In undertaking such collaboration, SCSWIS and those other persons must have regard to—
+
+(a) any guidance issued by the Scottish Ministers about the operation of this section, and
+
+(b) the guiding principles for health and care staffing set out in section 1 of the Health and Care (Staffing) (Scotland) Act 2019.
+
+(4) The Scottish Ministers must publish any guidance issued under subsection (3)(a).
+
+(5) A staffing method developed and recommended under subsection (1) must include the use of staffing level tools designed to provide—
+
+(a) quantitative information relating to workload, based on the needs of service users, and
+
+(b) quantitative or qualitative information relating to professional judgement,
+
+in order to assist in determining the appropriate staffing levels for a care service.
+
+(6) A staffing method developed and recommended under subsection (1) may require persons who provide care services to put and keep in place risk management procedures that are appropriate to the care services provided.
+
+(7) A staffing method developed and recommended under subsection (1) may include, in particular, the taking into account of—
+
+(a) the current staffing levels of a care service and any vacancies,
+
+(b) the local context in which a care service is provided,
+
+(c) the physical environment in which a care service is provided,
+
+(d) any assessment of the quality of a care service,
+
+(e) the needs of the users of a care service,
+
+(f) comments by the users of a care service, and by individuals who have a personal interest in their care (for example family members and carers within the meaning of section 1 of the Carers (Scotland) Act 2016), which relate to the duty imposed by section 7 of the Health and Care (Staffing) (Scotland) Act 2019,
+
+(g) comments by the individuals working in a care service which relate to the duty imposed by section 7 of the Health and Care (Staffing) (Scotland) Act 2019,
+
+(h) recommendations of senior care sector or health care professionals with qualifications and experience that are appropriate to the care services in question,
+
+(i) the standards and outcomes applicable to care services published by the Scottish Ministers under section 50,
+
+(j) such indicators or measures relating to the quality of care as SCSWIS considers appropriate,
+
+(k) such guidance, published by professional bodies of the kind described in subsection (2)(h) or by other bodies with experience in relevant fields, as SCSWIS considers appropriate, and
+
+(l) such clinical evidence and research as SCSWIS considers appropriate.
+
+#### 82B Regulations: requirement to use staffing methods
+
+(1) Following the development and recommendation by SCSWIS under section 82A or 82C of a staffing method for use by persons who provide care services, the Scottish Ministers may by regulations require the use of that method (with or without modifications) by persons who provide those care services.
+
+(2) Regulations under subsection (1) may prescribe—
+
+(a) the types of care settings and individuals working in a care service in relation to which, and whom, a staffing method is to be used,
+
+(b) the minimum frequency at which a staffing method is to be used, and
+
+(c) the staffing level tools for the purpose of section 82A(5).
+
+#### 82C Review and redevelopment of staffing methods
+
+(1) SCSWIS may—
+
+(a) carry out reviews, from time to time as it considers appropriate, of the effectiveness of any staffing method which has been prescribed by the Scottish Ministers under section 82B (including any revised methods which have been developed under this section), and
+
+(b) where it considers that any such method is no longer effective, recommend the revocation or replacement of the method to the Scottish Ministers.
+
+(2) SCSWIS may develop and recommend to the Scottish Ministers revised staffing methods for use by persons who provide care services.
+
+(3) Subsections (2), (3), (5) [, (6)] and (7) of section 82A apply to the redevelopment of staffing methods under this section as they apply to their development under that section.
+
+(4) The Scottish Ministers may direct SCSWIS to develop a revised staffing method for use in relation to a particular kind of care service specified in the direction.
+
+#### 82D Review of duty on care service providers to ensure appropriate staffing
+
+(1) SCSWIS may carry out reviews, from time to time as it considers appropriate, of the effectiveness of the operation of the duty under section 7 of the Health and Care (Staffing) (Scotland) Act 2019.
+
+(2) Having carried out a review under subsection (1), SCSWIS may publish a report to the Scottish Ministers on the operation of that duty.
+
+(3) A report under subsection (2) may be published in such manner as SCSWIS considers appropriate.
+
+#### 82E Duty to consider multi-disciplinary staffing tools
+
+(1) When SCSWIS is developing a staffing level tool as part of a staffing method under section 82A or a revised staffing method under section 82C, it must consider whether the tool should apply to more than one professional discipline.
+
+(2) SCSWIS may at any time recommend to the Scottish Ministers that a staffing level tool which has been prescribed as part of a staffing method by the Scottish Ministers under section 82B should apply to more than one professional discipline.
+
+#### 82F Interpretation of Chapter
+
+In this Chapter—
+
+- “care home services for adults” means care home services provided for individuals who have reached the age of 18 years,
+
+- “care services” excludes care services provided by individuals who do not employ, or have not otherwise made arrangements with, other persons to assist with the provision of that service,
+
+- “integration authority” has the meaning given by section 59 of the Public Bodies (Joint Working) (Scotland) Act 2014,
+
+- “working in a care service”, in relation to an individual, includes—
+
+  - (a) working for payment or as a volunteer, and
+  - (b) working under a contract of service or apprenticeship, a contract for services or otherwise than under a contract.]
+
+### Chapter 4 — Local authority adoption and fostering services etc.
+
+#### 83 Local authority applications for registration under Chapter 4
+
+(1) A local authority which seeks to provide—
+
+(a) an adoption service mentioned in paragraph 8(1)(a) of schedule 12,
+
+(b) a fostering service mentioned in paragraph 9(a) or (c) of that schedule, or
+
+(c) any other care service if it is a service which the authority determines it must provide in order to fulfil a statutory duty,
+
+must make an application to SCSWIS for registration of the service.
+
+(2) An application must be made in such manner and give such information as may be prescribed and, without prejudice to subsection (1)(b) of section 76, must be accompanied by the fee imposed under subsection (2)(a) of that section.
+
+(3) Where in relation to an application under subsection (1)(c) SCSWIS does not agree with the determination made by the authority, it must so notify the authority and the Scottish Ministers, giving its reason for not so agreeing.
+
+(4) On receiving notification under subsection (3), the Scottish Ministers must state whether or not, in their opinion, the determination of the authority is justified.
+
+(5) If their statement is that the determination is not justified, the application is to be taken to have been duly made not under this section but under section 59 and is to be dealt with accordingly.
+
+#### 84 Grant of local authority application under Chapter 4
+
+(1) Subject to subsections (4) and (5) of section 83, SCSWIS must—
+
+(a) grant an application made under subsection (1) of that section unconditionally or subject to such conditions as SCSWIS thinks fit to impose and give the authority notice of its decision, or
+
+(b) propose to grant it subject to such conditions as SCSWIS thinks fit to impose and give the authority notice of those conditions.
+
+(2) On granting the application, SCSWIS must issue a certificate of registration to the authority.
+
+(3) The authority must ensure that the certificate (or a copy of it) is, while the certificate is current, kept affixed in a conspicuous place in each of the premises in or from which the service is provided and, if different, the principal office of the authority.
+
+#### 85 Condition notices: services registered under Chapter 4
+
+SCSWIS may at any time give notice (in this Part referred to as a “local authority condition notice”) to a local authority providing a care service registered under this Chapter that it proposes to—
+
+(a) vary or remove a condition for the time being in force, or
+
+(b) impose an additional condition,
+
+in relation to the registration.
+
+#### 86 Applications under Chapter 4 in respect of conditions
+
+(1) A local authority providing a care service registered under this Chapter may apply to SCSWIS for the variation or removal of any condition for the time being in force in relation to the registration.
+
+(2) An application must be made in such manner and give such information as may be prescribed and, without prejudice to subsection (1)(b) of section 76, must be accompanied by the fee imposed under subsection (2)(a) of that section.
+
+(3) If SCSWIS decides to grant an application under subsection (1), it must give the authority notice of its decision, stating the condition varied or removed, and issue a new certificate of registration.
+
+(4) If SCSWIS proposes to refuse such an application, it must give the authority notice of, and a statement of the reasons for, that proposal.
+
+#### 87 Right to make representations to SCSWIS under Chapter 4 as respects conditions
+
+(1) This section applies to—
+
+(a) a notice under section 84(1)(b),
+
+(b) a local authority condition notice, and
+
+(c) a notice under section 86(4).
+
+(2) The notice must state that, within 14 days after service of the notice, the local authority to which it is given may make written representations to SCSWIS about any matter which the authority wishes to dispute.
+
+(3) Where the notice has been given, SCSWIS may do the thing proposed only after (whichever first occurs)—
+
+(a) if the authority makes representations under subsection (2), it has considered those representations,
+
+(b) the authority notifies SCSWIS in writing that such representations will not be made, or
+
+(c) the period of 14 days so mentioned elapses without such representations being made and without SCSWIS receiving such notification.
+
+(4) In the circumstances mentioned in subsection (3)(b) or (c), SCSWIS must do the thing proposed unless it appears to it that it would be inappropriate to do so.
+
+#### 88 Notice of SCSWIS's decision under Chapter 4
+
+(1) If SCSWIS decides to implement a notice to which section 87 applies, it must give the local authority to which that notice was given notice of its decision.
+
+(2) A notice under subsection (1) must—
+
+(a) explain the right of appeal conferred by section 89, and
+
+(b) in the case of a decision—
+
+(i) to grant an application in respect of which there has been a proposal under section 84(1), or
+
+(ii) to vary or remove a condition or to impose an additional condition,
+
+state the condition or additional condition imposed, or the condition varied or removed, as the case may be.
+
+(3) Subject to subsection (4), a decision to implement a notice to which section 87 applies does not take effect—
+
+(a) if no appeal is brought, until the period of 14 days referred to in section 89(1) has elapsed, and
+
+(b) if an appeal is brought, until that appeal is finally determined or abandoned.
+
+(4) Where the authority notifies SCSWIS in writing, before the period of 14 days referred to in section 89(1) has elapsed, that there will be no appeal against a notice under section 84(1)(b), that notice takes effect on receipt by SCSWIS of that notification.
+
+#### 89 Appeal against decision under Chapter 4
+
+(1) A local authority given notice of a decision under section 88(1) may, within 14 days after that notice is given, appeal to the sheriff against the decision.
+
+(2) The sheriff may, on appeal under subsection (1), confirm the decision or direct that it is not to have effect; and where the registration is not to be cancelled may (either or both)—
+
+(a) vary or remove any condition for the time being in force in relation to the registration,
+
+(b) impose an additional condition in relation to the registration.
+
+#### 90 Offences under Chapter 4
+
+(1) Sections 80(1) and (3) and 82 apply in relation to a care service registered under this Chapter as they apply in relation to such a service registered under Chapter 3.
+
+(2) Any person who fails to comply with section 84(3) commits an offence and is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(3) Any person who, in an application—
+
+(a) for registration under this Chapter, or
+
+(b) for variation or removal of a condition in force in relation to a registration under this Chapter,
+
+knowingly makes a statement which is false or misleading in a material respect commits an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+#### 91 Report to Scottish Ministers
+
+(1) Where SCSWIS has given an improvement notice to a local authority in respect of a care service provided by it and registered under this Chapter, SCSWIS must without delay—
+
+(a) report that fact, and
+
+(b) give a copy of the improvement notice,
+
+to the Scottish Ministers.
+
+(2) Within 14 days after the expiry of the period specified in the improvement notice, SCSWIS must report to the Scottish Ministers—
+
+(a) where the improvement notice has been complied with, that it has been, or
+
+(b) where the improvement notice has not been complied with, the respect in which it has not been,
+
+and must give to the Scottish Ministers such other information as they may reasonably require in relation to the compliance or failure to comply, as the case may be.
+
+(3) Where—
+
+(a) any person has been convicted of a relevant offence in relation to the service provided by the authority, or
+
+(b) it appears to SCSWIS that that service is being, or has at any time been, carried on other than in accordance with the relevant requirements,
+
+SCSWIS must report that matter to the Scottish Ministers and give them such other information as they may reasonably require in relation to the matter.
+
+(4) For the purposes of subsection (3)(a), the following are relevant offences—
+
+(a) an offence under this Part,
+
+(b) an offence under regulations made under this Part, or
+
+(c) an offence which, in the opinion of SCSWIS makes it appropriate that there should be a report to the Scottish Ministers under that subsection.
+
+(5) For the purposes of subsection (3)(b) and section 92, the following are relevant requirements—
+
+(a) any requirements (or conditions) imposed by or under this Part,
+
+(b) the requirements of regulations made under this Part, or
+
+(c) any requirements (or conditions) imposed by, under or by virtue of such other Act as may be prescribed.
+
+(6) SCSWIS must report and provide information to the Scottish Ministers on such other matters in relation to a care service registered under this Chapter as may be prescribed.
+
+#### 92 Default powers of Scottish Ministers
+
+(1) If the Scottish Ministers (having received a report under section 91 or otherwise) are satisfied that a local authority providing a care service registered under this Chapter is, without reasonable excuse—
+
+(a) failing to comply with an improvement notice, or
+
+(b) carrying on the service other than in accordance with the relevant requirements,
+
+they may take the action mentioned in subsection (2) in respect of the matter.
+
+(2) The action is—
+
+(a) to declare the authority to be in default, and
+
+(b) to direct the authority to take such steps to remedy the matter as may be specified in the direction within such reasonable period as may be so specified.
+
+(3) If the authority fails to comply with a direction under subsection (2)—
+
+(a) the Scottish Ministers may—
+
+(i) take the steps specified in the direction themselves, or
+
+(ii) make arrangements for any other person to take those steps on their behalf, or
+
+(b) the Court of Session may, on the application of the Scottish Ministers, order specific performance of those steps.
+
+(4) All expenses of the Scottish Ministers under subsection (3) are recoverable as a debt due by the authority to them.
+
+### Chapter 5 — Miscellaneous
+
+#### 93 Grants to SCSWIS
+
+(1) The Scottish Ministers may make grants to SCSWIS towards expenses incurred, or to be incurred, by it in connection with—
+
+(a) the initial establishment of SCSWIS, and
+
+(b) the discharge by SCSWIS of its functions.
+
+(2) Any grant made under subsection (1) may be made on such terms and subject to such conditions (including conditions as to repayment) as the Scottish Ministers think fit; and the Scottish Ministers may from time to time after the grant is made vary such terms and conditions.
+
+#### 94 Guarantees
+
+(1) The Scottish Ministers may guarantee, in such manner and on such conditions as they think fit, the discharge of any financial obligation in connection with any sum which SCSWIS borrows from any person.
+
+(2) Where the Scottish Ministers give a guarantee under this section they must without delay lay a statement of the guarantee before the Parliament.
+
+(3) Where any sum is paid out in fulfilment of a guarantee under this section, the Scottish Ministers must, as soon as reasonably practicable after the end of each financial year (beginning with that in which the sum is paid out and ending with that in which all liability in respect of the principal of the sum and in respect of interest on it is finally discharged), lay before the Parliament a statement relating to that sum.
+
+(4) Where any sum is paid out in fulfilment of a guarantee under this section, SCSWIS must make to the Scottish Ministers, at such times and in such manner as they may from time to time direct—
+
+(a) payments of such amounts as they may so direct in or towards repayment of the sum so paid out, and
+
+(b) payment of interest, at such rate as they may so direct, on what is outstanding for the time being in respect of that sum.
+
+#### 95 Duty of SCSWIS to consult Scottish Social Services Council
+
+SCSWIS must, in the exercise of its functions, consult the Scottish Social Services Council in every case in which it appears to SCSWIS appropriate that there should be such consultation.
+
+#### 96 Duty of SCSWIS to consult the Mental Welfare Commission for Scotland
+
+SCSWIS must, in the exercise of its functions relating to the provision of guidance, advice or information, consult the Mental Welfare Commission for Scotland in every case in which it appears to SCSWIS appropriate having regard to the Commission's functions under sections 5(b) and 10 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13).
+
+#### 97 Complaints procedure
+
+(1) SCSWIS must establish a procedure by which a person, or someone acting on a person's behalf, may make complaints (or other representations) in relation to the exercise of, or failure by it to exercise, any of its functions under this Part in respect of the person.
+
+(2) Before establishing a procedure under subsection (1), SCSWIS must consult the Scottish Public Services Ombudsman on its proposals for such a procedure.
+
+(3) SCSWIS must keep the procedure so established by it under review and must vary that procedure whenever, after such consultation, it considers it appropriate to do so.
+
+(4) SCSWIS must give such publicity to that procedure (including that procedure as varied under subsection (3)) as it considers appropriate and must give a copy of the procedure to any person who requests it.
+
+#### 98 Inquiries
+
+(1) The Scottish Ministers may cause an inquiry to be held into any matter connected with—
+
+(a) the exercise by SCSWIS of its functions, or
+
+(b) the provision of a social service.
+
+(2) SCSWIS may cause an inquiry to be held into any matter connected with—
+
+(a) the exercise of its functions, or
+
+(b) the provision of a social service.
+
+(3) Before the commencement of—
+
+(a) an inquiry under subsection (1), the Scottish Ministers, or
+
+(b) an inquiry under subsection (2), SCSWIS,
+
+may direct that it be held in private; but where no such direction has been given the person holding the inquiry may if that person thinks fit hold it, or any part of it, in private.
+
+(4) Subsections (2) to (8) of section 210 of the Local Government (Scotland) Act 1973 (c. 65) (provisions relating to local inquires) apply in relation to an inquiry under subsection (1) as they apply in relation to a local inquiry under that section.
+
+(5) Subsections (2) to (6) of that section apply in relation to an inquiry under subsection (2) as they apply in relation to such a local inquiry; except that, for the purposes of an inquiry under subsection (2) any reference in those subsections which, by virtue of the Scotland Act 1998 (c. 46), falls to be construed as a reference to—
+
+(a) the Scottish Ministers, is to be construed as a reference to SCSWIS, and
+
+(b) a member of the staff of the Scottish Ministers, is to be construed as a reference to a member of staff of SCSWIS.
+
+(6) The expenses incurred by SCSWIS in relation to an inquiry under subsection (2) (including such reasonable sum as SCSWIS may determine for the services of any of its staff engaged in the inquiry) must, unless SCSWIS is of the opinion that those expenses should be defrayed in whole or in part by it, be paid by such party to the inquiry as it may direct; and SCSWIS may certify the amount of the expenses so incurred.
+
+(7) Any sum certified under subsection (6) and to be defrayed in accordance with a direction under that subsection is a debt due by the party directed and recoverable accordingly.
+
+(8) In relation to an inquiry under subsection (2), SCSWIS may make an award as to the expenses of the parties and as to the parties by whom such expenses are to be paid.
+
+#### 99 Arrangements entered into by local authority or health body: services to be registered
+
+Where, in the performance of its functions—
+
+(a) a local authority, or
+
+(b) a health body,
+
+makes arrangements with any person to provide a care service, it must ensure that the service, when provided, is registered under Chapter 3.
+
+#### 100 Local authorities and health bodies: awareness of SCSWIS reports etc.
+
+(1) For the purposes of its functions as they relate to the provision of care services (including the making of arrangements with other persons to provide such services)—
+
+(a) a local authority,
+
+(b) a health body,
+
+must take into account the matters mentioned in subsection (3).
+
+(2) In carrying out its duty under subsection (1), a local authority or health body must have regard to any guidance issued by the Scottish Ministers in respect of that duty.
+
+(3) The matters are such—
+
+(a) reports,
+
+(b) information,
+
+(c) notices,
+
+prepared, disseminated, given or otherwise produced by SCSWIS as are relevant to the provision of the services mentioned in subsection (1) or, as the case may be, to the organisation or co-ordination of those services.
+
+#### [[^F29]101 Giving of notice
+
+(1) In Chapters 3 and 4, any reference to a notice being given to a person providing, or seeking to provide, a care service is to be construed as a reference to its being—
+
+(a) delivered, where the person is—
+
+(i) an individual, to that individual,
+
+(ii) a body corporate, to a director, secretary or other similar officer of that body or to a manager (or other similar officer) of the care service provided by that body,
+
+(iii) a firm, to a partner of that firm,
+
+(b) sent by post, properly addressed to the person—
+
+(i) by a registered post service (as defined in section 125(1) of the Postal Services Act 2000), or
+
+(ii) by a postal service which provides for the delivery of the document to be recorded, or
+
+(c) transmitted to the person electronically.
+
+(2) In subsection (1)(a)(ii), “manager”, in relation to a care service provided by a body corporate, means the manager whose name is entered in the register maintained under regulation 5 of the Social Care and Social Work Improvement Scotland (Registration) Regulations 2011 (S.S.I. 2011/28) in relation to the care service.
+
+(3) For the purpose of subsection (1)(b)—
+
+(a) a letter is properly addressed to—
+
+(i) a body corporate, if addressed to the body at its registered or principal office,
+
+(ii) a firm, if addressed to the firm at its principal office,
+
+(iii) any other person, if addressed to the person at the address last known,
+
+(b) a notice sent by post is to be taken to have been received on the third day after the day of posting unless the contrary is shown.
+
+(4) For the purpose of subsection (1)(c)—
+
+(a) electronic transmission of a notice must be effected in a way that the person has indicated to SCSWIS that the person is willing to receive the notice,
+
+(b) the person’s willingness to receive a notice in a particular way may be—
+
+(i) specific to the notice in question or generally applicable to notices or other documents of that kind,
+
+(ii) expressed specifically to SCSWIS or generally (for example on a website),
+
+(iii) inferred from the person having previously been willing to receive notices or other documents from SCSWIS in that way and not having indicated an unwillingness to do so again,
+
+(c) SCSWIS’ uploading of a notice to an electronic storage system from which the person is able to download the notice may constitute electronic transmission of the notice from SCSWIS to the person, where the person is sent a notification that the notice has been uploaded in that way,
+
+(d) a notice transmitted electronically is to be taken to have been received on the day of transmission unless the contrary is shown.]
+
+#### 102 Transfer of staff etc.
+
+(1) With effect from the date on which section 44 comes into force—
+
+(a) any person employed by the Scottish Commission for the Regulation of Care immediately before that date is, subject to section 109, transferred into the employment of SCSWIS,
+
+(b) all property (including rights) and liabilities of the Scottish Commission for the Regulation of Care subsisting immediately before that date are, subject to section 109, transferred to, and vest in, SCSWIS,
+
+(c) subject to subsection (2), any person who is a member of staff of the Scottish Ministers employed in the Executive Agency of the Scottish Ministers known as the Social Work Inspection Agency immediately before that date is transferred into the employment of SCSWIS,
+
+(d) any person to whom section 103 applies immediately before that date is transferred into the employment of SCSWIS.
+
+(2) Subsection (1)(c) does not apply to staff on secondment or loan to the Executive Agency of the Scottish Ministers known as the Social Work Inspection Agency from another part of the Scottish Administration.
+
+(3) The contract of employment of a person transferred by virtue of subsection (1)(a), (c) or (d)—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the date of transfer as if originally made between the person and SCSWIS.
+
+(4) Without prejudice to subsection (3), where a person is transferred by virtue of subsection (1)(a), (c) or (d)—
+
+(a) all the rights, powers, duties and liabilities of the Scottish Commission for the Regulation of Care or, as the case may be, the Scottish Ministers, under or in connection with the person's contract of employment are transferred to SCSWIS on the date of transfer, and
+
+(b) anything done before that date by or in relation to the Scottish Commission for the Regulation of Care or, as the case may be, the Scottish Ministers, in respect of the person or the contract is to be treated from that date as having been done by or in relation to SCSWIS.
+
+(5) Subsections (1) to (4) do not affect any right of any person so transferred to terminate the person's contract of employment if the terms and conditions of employment are changed substantially to the detriment of the person; but any such change is not to be taken to have occurred by reason only that the identity of the person's employer changes by virtue of those subsections.
+
+#### 103 Transfer of staff: further provision
+
+(1) This section applies to such persons who are members of staff of the Scottish Ministers employed in the Executive Agency of the Scottish Ministers known as Her Majesty's Inspectorate of Education in Scotland as the Scottish Ministers may by order specify.
+
+(2) Such an order may specify any description of such employees or any individual such employee.
+
+(3) For the purposes of subsection (1), an order may not be made in relation to staff on secondment or loan to the Executive Agency of the Scottish Ministers known as Her Majesty's Inspectorate of Education in Scotland from another part of the Scottish Administration.
+
+(4) The power to make an order under subsection (1)—
+
+(a) must be exercised by statutory instrument,
+
+(b) may be exercised so as to make different provision for different purposes.
+
+(5) A statutory instrument containing an order under subsection (1) is subject to annulment in pursuance of a resolution of the Parliament.
+
+#### 104 Orders and regulations: procedure
+
+(1) Any power conferred by this Part on the Scottish Ministers to make an order or regulations—
+
+(a) must be exercised by statutory instrument,
+
+(b) includes power to make such consequential, supplemental, incidental, transitional, transitory or saving provision as the Scottish Ministers think necessary or expedient,
+
+(c) may be exercised so as to make different provision for different purposes.
+
+(2) No order is, or regulations are, to be made under section 49, 58(1) [[^F30], 78, 82B(1)] or schedule 12 unless a draft of the statutory instrument containing the order or regulations has been laid before, and approved by a resolution of, the Parliament.
+
+(3) A statutory instrument containing an order or regulations under any other provision of this Part is subject to annulment in pursuance of a resolution of the Parliament.
+
+#### 105 Interpretation of Part 5
+
+(1) In this Part, unless the context otherwise requires—
+
+- “act as a child minder” has the meaning given by paragraph 12(1) of schedule 12;
+
+- “adoption service” has the meaning given by paragraph 8 of that schedule;
+
+- “adult placement service” has the meaning given by paragraph 11 of that schedule;
+
+- “care home service” has the meaning given by paragraph 2 of that schedule;
+
+- “care service” has the meaning given by section 47(1);
+
+- “child”—
+
+  - (a) in relation to an adoption service, means a person who is under the age of 18,
+  - (b) in relation to a fostering service, means a person who is under the age of 18, and
+  - (c) for the purposes of [[^F31]sections 50(1A) and (1B), 59A and 78(2A) and (2B) and] paragraph 6 of schedule 12, [[^F32]means a person who is under the age of 18],
+
+  but otherwise means a person under the age of 16;
+
+- “child care agency” has the meaning given by paragraph 5 of schedule 12;
+
+- [[^F33]“child contact service” has the meaning given by paragraph 19A of that schedule;]
+
+- “child minding” has the meaning given by paragraph 12 of that schedule;
+
+- “condition notice” has the meaning given by section 66;
+
+- [[^F34]“cross-border placement” means the placement of a child in [[^F35]residential accommodation] in Scotland where—
+
+  - the child was, immediately before the placement, resident in England, Wales or Northern Ireland, and
+  
+  - the placement is authorised under the law in England and Wales or, as the case may be, in Northern Ireland by virtue of—
+  
+    - an order made by a court in England and Wales or in Northern Ireland,
+    - any provision made by or under an Act of Parliament, an Act of Senedd Cymru, or Northern Ireland legislation (as defined by section 98(1) of the Northern Ireland Act 1998), whenever passed or made;]
+
+- “day care of children” has the meaning given by paragraph 13 of schedule 12;
+
+- “domestic premises” means any premises which are wholly or mainly used as a private dwelling;
+
+- “fostering service” has the meaning given by paragraph 9 of schedule 12;
+
+- “health body” means a Health Board or Special Health Board constituted by order under section 2 of the National Health Service (Scotland) Act 1978 (c. 29);
+
+- “health records” means records relating to the physical or mental health of an individual (including dental records and medical records);
+
+- “hospital” has the meaning given by section 108(1) of the National Health Service (Scotland) Act 1978;
+
+- “housing support service” has the meaning given by paragraph 19 of schedule 12;
+
+- “improvement notice” has the meaning given by section 62;
+
+- “limited registration service” has the meaning given by section 61(5);
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39) [[^F36]and, other than in section 51(3), a reference to a local authority includes a person who is providing services in exercise of functions delegated to that person by a local authority in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014.];
+
+- “local authority condition notice” has the meaning given by section 85;
+
+- “medical records” means records relating to the physical or mental health of an individual which have been prepared by a registered medical practitioner who is, or has been, responsible for the clinical care of the individual;
+
+- “mental disorder” has the same meaning as in section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13);
+
+- “notice” means notice in writing;
+
+- “nurse agency” has the meaning given by paragraph 4 of schedule 12;
+
+- “offender accommodation service” has the meaning given by paragraph 7 of that schedule;
+
+- “personal care” has the meaning given by paragraph 20 of that schedule;
+
+- “personal support” has the meaning given by that paragraph;
+
+- “premises” includes any vehicle;
+
+- “prescribed” means prescribed by order made by the Scottish Ministers;
+
+- “provide”, in relation to a care service, means to carry on or manage such a service; and includes, in the case of a care service which is provided by a body corporate, a reference to a director, manager, secretary to other similar officer of the body;
+
+- “regulations” means regulations made by the Scottish Ministers;
+
+- “relative”, in relation to a child, means a grandparent, brother, sister, uncle or aunt (whether of the full blood or half blood or by affinity) or step-parent;
+
+- [[^F37]“residential establishment” means an establishment (whether managed by a local authority, a voluntary organisation or any other person) which provides residential accommodation for children for the purposes of the Social Work (Scotland) Act 1968, the Children (Scotland) Act 1995, the Criminal Procedure (Scotland) Act 1995 or the Children’s Hearings (Scotland) Act 2011;]
+
+- “school care accommodation service” has the meaning given by paragraph 3 of schedule 12;
+
+- “secure accommodation service” has the meaning given by paragraph 6 of that schedule;
+
+- “social services” and “social service” have the meanings given by section 46;
+
+- “social work services” has the meaning given by section 48;
+
+- “someone who cares for” (or “a person who cares for”) a person has the meaning given by paragraph 20 of schedule 12;
+
+- “SCSWIS” means Social Care and Social Work Improvement Scotland (which is constituted under section 44);
+
+- “support service” (except in the expression “housing support service”) has the meaning given by paragraph 1 of schedule 12;
+
+- “voluntary organisation” means a body, other than a public or local authority, the activities of which are not carried on for profit; and
+
+- “vulnerability or need”, in relation to a person, has the meaning given by paragraph 20 of schedule 12.
+
+(2) In this Part, a person who uses, or is eligible to use, a social service includes any person to whom that service is, or may be, provided.
+
+(3) For the purposes of this Part, information is “confidential information” where—
+
+(a) the identity of an individual is ascertainable—
+
+(i) from that information, or
+
+(ii) from that information and other information which is in the possession of, or is likely to come into the possession of, the person holding that information, and
+
+(b) the information was obtained or generated by a person who, in the circumstances, owed an obligation of confidence to that individual.
+
+#### 106 Minor and consequential amendments and repeals: SCSWIS
+
+Schedule 14 (which makes minor modifications of enactments and modifications consequential on the provisions of this Part) has effect.
+
+#### 107 Minor modifications: Scottish Social Services Council
+
+Schedule 15 (which makes minor modifications of Part 3 of the Regulation of Care (Scotland) Act 2001 (asp 8)) has effect.
+
+## Part 6 — Health care: scrutiny and improvement
+
+### 108 Healthcare Improvement Scotland
+
+After section 10 of the National Health Service (Scotland) Act 1978 (c. 29) insert—
+
+> **Healthcare Improvement Scotland**
+>
+> **10A Healthcare Improvement Scotland**
+>
+> (1) There is established a body to be known as Healthcare Improvement Scotland (in this Act referred to as “HIS”) which—
+>
+> (a) is to exercise the functions conferred on it by virtue of this Act and any other enactment; and
+>
+> (b) has the general duty of furthering improvement in the quality of health care.
+>
+> (2) In subsection (1)(b), “health care” means services for or in connection with the prevention, diagnosis or treatment of illness provided—
+>
+> (a) under the health service; or
+>
+> (b) by persons providing independent health care services.
+>
+> (3) In carrying out its functions, HIS is to act subject to and in accordance with such directions as may be given by the Scottish Ministers.
+>
+> (4) The Scottish Ministers may vary or revoke any direction given under subsection (3).
+>
+> (5) Schedule 5A (which makes further provision about the status, constitution, proceedings etc. of HIS) has effect.
+>
+> **Principles**
+>
+> **10B Principles**
+>
+> (1) HIS must exercise its functions in accordance with the principles set out in the following subsections.
+>
+> (2) The safety and wellbeing of all persons who use services provided under the health service and independent health care services are to be protected and enhanced.
+>
+> (3) Good practice in the provision of those services is to be identified, promulgated and promoted.
+>
+> (4) The provision of those services in a manner which takes appropriate account of guidance and other information (including evidence) published or endorsed by HIS is to be promoted and encouraged.
+>
+> **Functions related to the health service**
+>
+> **10C Health service functions**
+>
+> (1) HIS is to exercise the following functions of the Scottish Ministers—
+>
+> (a) functions in relation to supporting, ensuring and monitoring the quality of health care provided or secured by the health service including, without prejudice to the foregoing generality, providing quality assurance and accreditation;
+>
+> (b) functions in relation to supporting, ensuring and monitoring the discharge of the duty under section 2B by each body to whom that section applies;
+>
+> (c) functions in relation to supporting, ensuring and monitoring the discharge of the duty under section 2D by each body to whom that section applies, other than HIS, insofar as the discharge of that duty is relevant to—
+>
+> (i) the quality of health care provided or secured by the health service; or
+>
+> (ii) the discharge of the duty under section 2B;
+>
+> (d) functions in relation to the evaluation and provision of advice to the health service on the clinical and cost effectiveness of new and existing health technologies including drugs,
+>
+> conferred on them by this Act including, without prejudice to the foregoing generality, those functions specified in section 1(1).
+>
+> (2) HIS is to exercise the following functions of the Scottish Ministers subject to any limitations specified—
+>
+> (a) the power of the Scottish Ministers under section 16(1) to assist voluntary organisations whose activities include the provision of a service similar to or related to the functions of HIS;
+>
+> (b) the power of the Scottish Ministers under section 16B to give financial assistance to voluntary organisations whose activities consist of or include the provision of services similar to or related to the functions of HIS; and such assistance may be given only on such terms and conditions as the Scottish Ministers determine;
+>
+> (c) the power of the Scottish Ministers under section 42 to disseminate, in respect of the functions of HIS, information relating to the promotion and maintenance of health and the prevention of illness;
+>
+> (d) the duties of the Scottish Ministers under section 47—
+>
+> (i) to make available such facilities as appear to HIS to be reasonably required for undergraduate and post-graduate clinical teaching and research and for the education and training of persons providing or intending to provide services under this Act; and
+>
+> (ii) to conduct, or assist by grants or otherwise under that section any person to conduct, research into matters relating to the functions of HIS;
+>
+> (e) the powers of the Scottish Ministers under section 79(1) to take on lease or to purchase moveable property and land so far as required for the purposes of HIS and to use for those purposes and manage any heritable or moveable property so acquired;
+>
+> (f) the powers of the Scottish Ministers under section 79(1A) to dispose of land no longer required for the purposes of HIS.
+>
+> (3) HIS is to exercise the following functions—
+>
+> (a) a duty to provide information to the public about the availability and quality of services provided under the health service;
+>
+> (b) a duty to provide such information to a person in such form as that person may reasonably request;
+>
+> (c) when requested by the Scottish Ministers, a duty to provide to the Scottish Ministers advice about any matter relevant to the health service functions of HIS;
+>
+> (d) a power to provide such advice to Scottish Ministers at any time;
+>
+> (e) when asked to do so, a duty to provide such advice to—
+>
+> (i) persons who provide, seek to provide or may provide services under the health service;
+>
+> (ii) persons, or groups of persons, representing those who use, or are eligible to use, such services;
+>
+> (iii) persons, or groups of persons, representing those who care for those who use, or are eligible to use, such services;
+>
+> (iv) local authorities;
+>
+> (v) a Health Board, Special Health Board or the Agency (each a “body” for the purposes of subsection (4));
+>
+> (vi) such other persons, or groups of persons as may be prescribed;
+>
+> (f) a power to disseminate such information as HIS considers relevant of general or specific application arising out of or in connection with the exercise of its health service functions.
+>
+> (4) HIS may charge a reasonable fee determined by it for any advice, forms or documents provided for the assistance of any such person, authority or body as is mentioned in subsection (3)(e).
+>
+> (5) References in this Act to the health service functions of HIS are, subject to subsections (6) and (7), to the functions conferred by virtue of this section and section 10D (including any functions delegated by order under that section).
+>
+> (6) Where a provision of this section which confers a function on HIS refers to the health service functions of HIS, that reference is to be construed as a reference to the functions conferred by virtue of this section and section 10D other than the function conferred by the provision.
+>
+> (7) Where a provision of this section which confers a function on HIS refers to the functions of HIS, that reference is to be construed as including a reference to the functions conferred by virtue of this section and section 10D other than the function conferred by the provision.
+>
+> **10D Health service functions: further provision**
+>
+> (1) The Scottish Ministers may by order delegate to HIS such of their functions relating to the health service as they consider appropriate.
+>
+> (2) HIS is to provide such services, and carry out such tasks, for bodies associated with the health service as the Scottish Ministers and those bodies may agree; and is to do so on such terms and conditions as may be so agreed.
+>
+> (3) Notwithstanding that it is exercising functions relating to the health service on behalf of the Scottish Ministers or other bodies associated with the health service, HIS—
+>
+> (a) is entitled to enforce any rights acquired in the exercise of those functions;
+>
+> (b) is to be liable in respect of any liabilities incurred (including liability in damages for wrongful or negligent acts or omissions) in the exercise of those functions,
+>
+> in all respects as if HIS were acting as a principal.
+>
+> (4) All proceedings for the enforcement of such rights or liabilities are to be brought by or against HIS in its own name.
+>
+> **Functions related to independent health care**
+>
+> **10E Independent health care functions**
+>
+> (1) HIS is to exercise the following functions—
+>
+> (a) a duty to provide information to the public about the availability and quality of independent health care services;
+>
+> (b) a duty to provide such information to a person in such form as that person may reasonably request;
+>
+> (c) when requested by the Scottish Ministers, a duty to provide to the Scottish Ministers advice about any matter relevant to the independent health care functions of HIS;
+>
+> (d) a power to provide such advice to the Scottish Ministers at any time;
+>
+> (e) when asked to do so, a duty to provide such advice to—
+>
+> (i) persons who provide, seek to provide or may seek to provide independent health care services;
+>
+> (ii) persons, or groups of persons, representing those who use, or are eligible to use, such services;
+>
+> (iii) persons, or groups of persons, representing those who care for those who use, or are eligible to use, such services;
+>
+> (iv) local authorities;
+>
+> (v) a Health Board, Special Health Board or the Agency (each a “body” for the purposes of subsection (2));
+>
+> (vi) such other persons, or groups of persons as may be prescribed;
+>
+> (f) a power to disseminate such information as HIS considers relevant of general or specific application arising out of or in connection with the exercise of its independent health care functions.
+>
+> (2) HIS may charge a reasonable fee determined by it for any advice, forms or documents provided for the assistance of any person, authority or body as is mentioned in subsection (1)(e).
+>
+> (3) References in this Act to the independent health care functions of HIS are, subject to subsection (4)—
+>
+> (a) to the functions conferred on HIS, or on a person acting on behalf of HIS, by this section and by sections 10J, 10K, 10P to 10Z3, 10Z5, 10Z8 and 10Z19;
+>
+> (b) to any functions delegated to HIS under section 10H(6) to the extent that such functions relate to standards and outcomes applicable to independent health care services;
+>
+> (c) to the functions conferred on HIS by section 10M to the extent that such functions relate to inspections of independent health care services; and
+>
+> (d) to the functions conferred on HIS by section 10N to the extent that such functions relate to reports on inspections of independent health care services.
+>
+> (4) Where a provision of this section, or those sections, which confers a function on HIS refers to the independent health care functions of HIS, the reference is to be construed as a reference to the functions conferred by this section and those sections other than the function conferred by the provision.
+>
+> **Meaning of “independent health care services”**
+>
+> **10F Meaning of “independent health care services”**
+>
+> (1) In this Act, an “independent health care service” is any of the following—
+>
+> (a) an independent hospital;
+>
+> (b) a private psychiatric hospital;
+>
+> (c) an independent clinic;
+>
+> (d) an independent medical agency;
+>
+> (e) an independent ambulance service.
+>
+> (2) In subsection (1)—
+>
+> - “independent hospital” means a hospital which is neither a health service hospital nor a private psychiatric hospital; and for the purposes of this definition includes part of a health service hospital if (not being a private psychiatric hospital)—
+>
+>   - (a) it is carried on as a separate unit;
+>   - (b) it does not provide treatment or nursing in pursuance of this Act;
+>   - (c) no part of it is contained within the same building as any such part which does provide treatment or nursing in pursuance of this Act;
+>
+> - “private psychiatric hospital” means any premises used or intended to be used for the provision of medical treatment to one or more patients subject to an order or direction under the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) or the Criminal Procedure (Scotland) Act 1995 (c. 46) (whether or not other persons are treated there), not being—
+>
+>   - (a) a health service hospital;
+>   - (b) a state hospital; or
+>   - (c) otherwise an independent health care service;
+>
+> - “independent clinic” means a clinic which is not comprised in a hospital and in or from which services are provided, other than in pursuance of this Act, by a medical practitioner or dental practitioner;
+>
+> - “independent medical agency” means an undertaking which is neither an independent clinic nor an undertaking comprised in a hospital and which consists of or includes the provision of services, other than in pursuance of this Act, by a medical practitioner;
+>
+> - “independent ambulance service” means, subject to subsection (5), a service which consists of or includes—
+>
+>   - (a) provision (other than provision falling within paragraph (b) below) of medical treatment, medical care or other care to relevant patients while such patients are being transported to or from a place of medical treatment;
+>   - (b) provision, at or in connection with a public event, of medical treatment outwith relevant premises under arrangements made between the provider of the service and another (whether or not the service includes a means of transport for transporting patients from the event to relevant premises).
+>
+> (3) In paragraph (a) of the definition of “independent ambulance service” in subsection (2)—
+>
+> - “relevant patient” is a patient—
+>
+>   - (a) whose condition or recovery would or might be impaired were the treatment or care mentioned in that paragraph not to be provided;
+>   - (b) whose condition affects the patient's mobility to such an extent that, were such treatment or care not to be provided while the patient is being transported as mentioned in that paragraph, the patient's condition or recovery would or might be impaired;
+>   - (c) whose mobility is such that, without such treatment or care, it would be difficult or impossible for the patient to be transported as mentioned in that paragraph;
+>
+> - “place of medical treatment” means a hospital or other premises used or intended to be used for the provision of medical or dental treatment, and includes an independent health care service mentioned in paragraphs (a) to (d) of subsection (1).
+>
+> (4) In paragraph (b) of the definition of “independent ambulance service” in subsection (2)—
+>
+> - “public event” means an event, function or other organised activity of any kind to which members of the public have access;
+>
+> - “medical treatment” includes medical care and medical advice;
+>
+> - “relevant premises” means premises used or intended to be used for the provision of medical treatment, medical care or medical advice, but does not include—
+>
+>   - (a) any means of transport as mentioned in that paragraph; or
+>   - (b) any temporary premises at or near, and provided in connection with, the public event.
+>
+> (5) A service does not fall within the definition of “independent ambulance service” in subsection (2) if it is provided under the health service, unless it is so provided for remuneration.
+>
+> (6) In subsection (5), “remuneration” does not include remuneration payable by a health service body under arrangements made for the provision of the service.
+>
+> (7) Where, by virtue of payment of remuneration, the provider of a service under the health service acts as an independent ambulance service, HIS's independent health care functions are exercisable in relation to that provider only where, and to the extent that, the provider is so acting.
+>
+> **10G Power to modify definitions**
+>
+> The Scottish Ministers, after consulting such persons (or groups of persons) as they consider appropriate, may by order—
+>
+> (a) modify the independent health care functions of HIS by amending, removing or adding to those functions;
+>
+> (b) modify the definition of independent health care service in section 10F(1).
+>
+> **Standards and outcomes**
+>
+> **10H Standards and outcomes**
+>
+> (1) The Scottish Ministers may prepare and publish standards and outcomes applicable to—
+>
+> (a) services provided under the health service;
+>
+> (b) independent health care services.
+>
+> (2) The Scottish Ministers must keep any standards and outcomes so published under review and may under subsection (1) publish amended standards and outcomes whenever they consider it appropriate to do so.
+>
+> (3) Before publishing under subsection (1) any—
+>
+> (a) standards and outcomes;
+>
+> (b) amended standards and outcomes which in the opinion of the Scottish Ministers are substantially different from the standards and outcomes (or amended standards and outcomes) last so published,
+>
+> the Scottish Ministers must consult such persons, or groups of persons, as they consider appropriate.
+>
+> (4) In relation to a service provided under the health service, or an independent health care service, any applicable standards and outcomes published under subsection (1) must be taken into account—
+>
+> (a) by HIS in making any decision under this Part;
+>
+> (b) in any proceedings on an appeal under section 10Z4; and
+>
+> (c) in any proceedings for an offence in relation to registration under section 10P.
+>
+> (5) The Scottish Ministers may make different provision for different services under subsection (1).
+>
+> (6) The Scottish Ministers may delegate their functions under subsections (1) to (3) to HIS or such other persons as they consider appropriate.
+>
+> **Inspections**
+>
+> **10I Inspections of services provided under the health service**
+>
+> (1) HIS may, in pursuance of its general duty of furthering improvement in the quality of health care in Scotland, inspect any service provided under the health service.
+>
+> (2) An inspection under this section must be conducted in accordance with a plan—
+>
+> (a) prepared in accordance with section 10L; and
+>
+> (b) approved by the Scottish Ministers.
+>
+> **10J Inspections of independent health care services**
+>
+> (1) HIS may inspect—
+>
+> (a) any independent health care service;
+>
+> (b) the organisation or co-ordination of any independent health care service.
+>
+> (2) The purposes of an inspection under this section may include—
+>
+> (a) reviewing and evaluating the effectiveness of the provision of the services which are the subject of the inspection;
+>
+> (b) encouraging improvement in the provision of those services;
+>
+> (c) enabling consideration as to the need for any recommendations to be prepared as to any such improvement to be included in the report prepared under section 10N;
+>
+> (d) investigating any incident, event or cause for concern; and
+>
+> (e) enabling consideration as to the need for—
+>
+> (i) an improvement notice under section 10R;
+>
+> (ii) a condition notice under section 10U.
+>
+> (3) An inspection under this section may be in relation to—
+>
+> (a) any independent health care service or combination of independent health care services;
+>
+> (b) such of the services concerned provided to particular groups of persons;
+>
+> (c) any part of Scotland.
+>
+> (4) An inspection under this section must be conducted in accordance with a plan—
+>
+> (a) prepared in accordance with section 10L; and
+>
+> (b) approved by the Scottish Ministers.
+>
+> (5) HIS may at any time require a person providing any independent health care service to supply it with any information relating to the service which it considers necessary or expedient to have for the purposes of its independent health care functions.
+>
+> (6) References in this section to a person providing an independent health care service include, in the case of a service which is provided by a body corporate, a reference to a director, manager, secretary or other similar officer of the body.
+>
+> (7) An inspection under this section may, subject to any regulations made under section 10O, take such form as HIS considers appropriate.
+>
+> **10K Authorised persons**
+>
+> (1) Any inspection under section 10J must be carried out by a person authorised by HIS (an “authorised person”).
+>
+> (2) A person may be authorised by HIS to carry out inspections in relation to any independent health care service or all of them.
+>
+> (3) An authorised person may at any time enter and inspect premises which are used, or which the person has reasonable cause to believe are used, for the purpose of providing the independent health care service which is the subject of the inspection.
+>
+> (4) Where an authorised person is in possession of confidential information which has been obtained for the purposes of an inspection under section 10J the authorised person must not use or disclose that information other than—
+>
+> (a) for the purposes of that inspection;
+>
+> (b) so as to comply with an enactment or court order requiring disclosure;
+>
+> (c) to the extent considered necessary by the authorised person for the purpose of protecting the welfare of—
+>
+> (i) any child under the age of 16 years;
+>
+> (ii) any adult at risk (within the meaning of section 3 of the Adult Support and Protection (Scotland) Act 2007 (asp 10)); or
+>
+> (d) to the extent considered necessary by the authorised person for the purpose of the prevention or detection of crime or the apprehension or prosecution of offenders.
+>
+> (5) For the purposes of subsection (4), information is “confidential information” where—
+>
+> (a) the identity of an individual is ascertainable—
+>
+> (i) from that information; or
+>
+> (ii) from that information and other information which is in the possession of, or is likely to come into the possession of, the person holding that information; and
+>
+> (b) the information was obtained or generated by a person who, in the circumstances, owed an obligation of confidence to that individual.
+>
+> **10L Inspections: best regulatory practice**
+>
+> (1) HIS must prepare a plan for carrying out inspections in accordance with best regulatory practice.
+>
+> (2) The plan—
+>
+> (a) must set out arrangements for inspections to be so carried out (including inspections of those services subject to self evaluation);
+>
+> (b) may make different provision for different purposes.
+>
+> (3) For the purposes of subsection (1), “best regulatory practice” means practice under which (in particular) inspections should be carried out in a way that is transparent, accountable, proportionate and consistent.
+>
+> (4) In preparing a plan under subsection (1), HIS must have regard to any guidance issued by the Scottish Ministers about those matters.
+>
+> (5) HIS—
+>
+> (a) must keep the plan under review; and
+>
+> (b) may from time to time revise, with the approval of the Scottish Ministers, the plan.
+>
+> (6) HIS must, in preparing a plan (or any revisal), consult such persons as it considers appropriate.
+>
+> **10M Inspections at request of Scottish Ministers**
+>
+> (1) HIS must, at the request of the Scottish Ministers, inspect—
+>
+> (a) any service provided under the health service as they may specify;
+>
+> (b) any independent health care service so specified;
+>
+> (c) the organisation or co-ordination of any service mentioned in paragraph (a) or (b) so specified;
+>
+> (d) any independent health care service so specified together with any service provided under the health service so specified.
+>
+> (2) The Scottish Ministers may specify purposes for any inspection under this section.
+>
+> (3) An inspection under this section is to be conducted in accordance with a timetable approved by the Scottish Ministers.
+>
+> **10N Inspections: reports**
+>
+> (1) Where an inspection under section 10I, 10J or section 10M has been completed, HIS—
+>
+> (a) must prepare a report on the matters inspected; and
+>
+> (b) must without delay send a copy of that report to the person providing the service which has been inspected.
+>
+> (2) Before finalising a report prepared under subsection (1), HIS must give the person providing the service an opportunity of commenting on a draft of the report.
+>
+> (3) HIS must make copies of any report prepared under subsection (1) available for inspection at its offices by any person at any reasonable time; and it must take such other steps as it considers appropriate for publicising any such report.
+>
+> (4) Regulations may make further provision concerning the preparation, content and effect of reports under subsection (1), and in particular may make—
+>
+> (a) different provision in relation to different independent health care services and different services provided under the health service;
+>
+> (b) provision requiring copies of reports to be sent to the Scottish Ministers (or such other persons as may be specified in regulations) in such circumstances as may be so specified;
+>
+> (c) provision (including provision modifying any duties under this section) specifying circumstances in which—
+>
+> (i) any right to receive;
+>
+> (ii) access to;
+>
+> (iii) availability of,
+>
+> copies of reports (or of parts of such reports) may be restricted, refused or withheld.
+>
+> **10O Regulations relating to inspections**
+>
+> (1) Regulations may make further provision concerning inspections under—
+>
+> (a) section 10I;
+>
+> (b) section 10J;
+>
+> (c) section 10M.
+>
+> (2) Regulations under subsection (1) may make different provision for different inspections provided for under the provisions mentioned in that subsection.
+>
+> (3) Regulations under subsection (1) may, in particular, make provision—
+>
+> (a) as to types of inspection which may be conducted;
+>
+> (b) as to timing and frequency of inspections;
+>
+> (c) as to seizure and removal of anything found during the course of an inspection;
+>
+> (d) as to persons who may be authorised to carry out inspections;
+>
+> (e) requiring or facilitating the sharing or production of information (including health records) for the purposes of an inspection;
+>
+> (f) as to interviews and examinations (including physical and mental examinations) which may be carried out in connection with the inspections;
+>
+> (g) requiring any person to provide to an authorised person an explanation of information produced to an authorised person;
+>
+> (h) requiring information produced to an authorised person to be held in compliance with prescribed conditions and further disclosures to be made in compliance with such conditions;
+>
+> (i) empowering an authorised person to disclose to a person prescribed for the purposes of this paragraph any information of a prescribed nature which the authorised person holds in consequence of an inspection;
+>
+> (j) creating offences punishable on summary conviction by a fine not exceeding level 4 on the standard scale for the purpose of enforcing any provision of the regulations.
+>
+> (4) In subsection (3)(e), “health records” means records relating to the physical or mental health of an individual (including dental records and medical records); and for the purposes of this subsection “medical records” means records which have been prepared by a medical practitioner who is, or has been, responsible for the clinical care of the individual.
+>
+> **Registration**
+>
+> **10P Registration of independent health care services**
+>
+> (1) A person who seeks to provide a independent health care service must apply to HIS for registration of the service.
+>
+> (2) An application must—
+>
+> (a) give such information as may be prescribed about prescribed matters;
+>
+> (b) identify an individual (who may be the applicant) who is to manage the service;
+>
+> (c) give any other information which HIS may reasonably require the applicant to give;
+>
+> (d) without prejudice to subsection (1)(b) of section 10Z5, be accompanied by the fee imposed under subsection (2)(a) of that section.
+>
+> **10Q Grant or refusal of registration**
+>
+> (1) HIS may grant or refuse registration of an independent health care service under section 10P.
+>
+> (2) A grant of registration may be subject to such conditions as HIS considers appropriate.
+>
+> (3) If HIS is satisfied, in relation to the application, that the requirements of—
+>
+> (a) such regulations as are applicable under section 10Z7; and
+>
+> (b) any other enactment which appears to HIS to be relevant,
+>
+> will be complied with in relation to that service, it must give notice under section 10Z(1)(a), or as the case may be section 10Z2; otherwise it must give notice under section 10Z(1)(b).
+>
+> (4) On granting a registration HIS must issue a certificate of registration to the applicant.
+>
+> (5) The person for the time being providing the service must ensure that the certificate (or a copy of it) is, while the certificate is current, kept affixed in a conspicuous place in each of the premises in or from which that service is provided; and, if those premises do not include the principal (or only) office of the service, then in that office also.
+>
+> **Improvement notices**
+>
+> **10R Improvement notices: independent health care services**
+>
+> HIS may at any time give a notice (an “improvement notice”) to the person for the time being providing a registered independent health care service that, unless within such reasonable period as may be specified in the notice, there is a significant improvement, of such a nature as may be so specified, in the provision of that service, it intends to make a proposal under section 10S.
+>
+> **Proposals and applications in relation to registered independent health care services**
+>
+> **10S Cancellation of registration**
+>
+> (1) HIS may, at any time after the expiry of the period specified in an improvement notice under section 10R given in respect of an independent health care service, propose to cancel the registration of the service—
+>
+> (a) on the ground that any person has been convicted of a relevant offence in relation to the service;
+>
+> (b) on the ground that the service is being, or has at any time been, carried on other than in accordance with the relevant requirements; or
+>
+> (c) on any other ground which may be prescribed.
+>
+> (2) For the purposes of—
+>
+> (a) paragraph (a) of subsection (1) the following are relevant offences—
+>
+> (i) an offence under any of sections 10G to 10Z18 (in this section, “this group of sections”);
+>
+> (ii) an offence under regulations made under this group of sections; or
+>
+> (iii) an offence which, in the opinion of HIS, makes it appropriate that the registration should be cancelled; and
+>
+> (b) paragraph (b) of that subsection, the following are relevant requirements—
+>
+> (i) any requirements or conditions imposed by or under this group of sections; or
+>
+> (ii) the requirements of regulations made under this group of sections.
+>
+> (3) Where a person providing a registered independent health care service ceases to provide the service, HIS may cancel the registration of the service.
+>
+> **10T Emergency cancellation of registration**
+>
+> (1) HIS may apply to the sheriff for an order cancelling the registration of an independent health care service.
+>
+> (2) The application may be granted if it appears to the sheriff that, unless the order is made, there will be a serious risk to the life, health or wellbeing of persons.
+>
+> (3) The sheriff may make such interim order as the sheriff thinks fit.
+>
+> (4) As soon as practicable after HIS has applied for an order under subsection (1), it must notify the appropriate authorities.
+>
+> (5) Where the order applied for is made (or an interim order is made), HIS must as soon as reasonably practicable give a copy of it to the person who provides the independent health care service.
+>
+> (6) The sheriff may determine an application under this section in the absence of the person providing the independent health care service to which the application relates.
+>
+> (7) An order under this section has effect—
+>
+> (a) from the time at which it is made; or
+>
+> (b) from such other time as the sheriff considers appropriate.
+>
+> (8) Within 14 days of the day on which an order under this section is made, an appeal may be made to the sheriff principal against the making of the order.
+>
+> (9) On an appeal under subsection (8), the sheriff principal may—
+>
+> (a) confirm the order;
+>
+> (b) revoke the order;
+>
+> (c) modify the order;
+>
+> (d) make such other order as the sheriff principal thinks fit.
+>
+> (10) The decision of the sheriff principal on an appeal under subsection (8) is final.
+>
+> (11) An order under this section has effect notwithstanding the making of an appeal in relation to the order.
+>
+> (12) For the purposes of this section, the appropriate authorities are—
+>
+> (a) each—
+>
+> (i) local authority; and
+>
+> (ii) Health Board,
+>
+> within whose area the independent health care service is provided; and
+>
+> (b) any other body established by or under an enactment whom HIS thinks it appropriate to notify.
+>
+> **10U Condition notices**
+>
+> HIS may at any time give notice (in sections 10V, 10W, 10Z1 and 10Z2 referred to as a “condition notice”) to the person for the time being providing a registered independent health care service that it proposes to—
+>
+> (a) vary or remove a condition for the time being in force; or
+>
+> (b) impose an additional condition,
+>
+> in relation to the registration.
+>
+> **10V Emergency condition notices**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) a person is providing a registered independent health care service; and
+>
+> (b) HIS believes that the absence of a condition in relation to the registration of that service poses a serious risk to the life, health or wellbeing of persons.
+>
+> (2) HIS may at any time give notice (an “emergency condition notice”) to the person providing the registered independent health care service specifying a condition, in relation to registration, in respect of that risk.
+>
+> (3) The condition so specified takes effect immediately on receipt of the emergency condition notice.
+>
+> (4) An emergency condition notice must—
+>
+> (a) state that, within 14 days after service of the notice, the person to whom it is given may make written representations to HIS concerning any matter which that person wishes to dispute; and
+>
+> (b) explain the right of appeal conferred by section 10X(1).
+>
+> (5) HIS must consider any representations made under subsection (4)(a) and, following such consideration, must—
+>
+> (a) give the person providing the registered independent health care service a condition notice stating that HIS proposes to vary or remove the condition specified in the emergency condition notice; or
+>
+> (b) notify the person that it does not intend to give such a condition notice.
+>
+> (6) When notifying a person under subsection (5)(b), HIS must explain the right of appeal conferred by section 10X(1).
+>
+> (7) Where a condition notice has been given by virtue of subsection (5)(a) containing a proposal to remove the condition, HIS must implement the proposal unless it appears to it that it would be inappropriate to do so.
+>
+> **10W Application of Act to condition notices following emergency condition notices**
+>
+> (1) Section 10Z1 does not apply to a condition notice given by virtue of section 10V(5)(a).
+>
+> (2) The reference in section 10Z2(5) to a proposal in relation to which a condition notice has been given does not include a reference to a proposal contained in a condition notice given by virtue of section 10V(5)(a) to remove the condition mentioned in that provision.
+>
+> (3) The reference to a proposal in section 10Z4(1) does not include a reference to a proposal contained in a condition notice given by virtue of section 10V(5)(a) to remove the condition mentioned in that provision.
+>
+> **10X Emergency condition notices: appeals**
+>
+> (1) A person—
+>
+> (a) who is given an emergency condition notice; and
+>
+> (b) who—
+>
+> (i) makes no written representations in accordance with section 10V(4)(a); or
+>
+> (ii) makes such representations but is notified as mentioned in section 10V(5)(b),
+>
+> may, within 14 days after the relevant date, appeal to the sheriff against the imposition of the condition.
+>
+> (2) In subsection (1), “relevant date” means—
+>
+> (a) where sub-paragraph (i) of subsection (1)(b) applies, the date of service of the emergency condition notice;
+>
+> (b) where sub-paragraph (ii) of that subsection applies, the date notification mentioned in that sub-paragraph is given.
+>
+> (3) The sheriff may, on an appeal under subsection (1)—
+>
+> (a) direct that the condition specified in the emergency condition notice is to continue to have effect;
+>
+> (b) direct that the condition is to cease to have effect;
+>
+> (c) direct that the condition be varied as specified in the direction;
+>
+> (d) impose an additional condition in relation to the registration.
+>
+> **10Y Applications in respect of conditions**
+>
+> (1) A person providing a registered independent health care service may apply to HIS—
+>
+> (a) for the variation or removal of any condition for the time being in force, or for the addition of a condition, in relation to the registration; or
+>
+> (b) for cancellation of the registration,
+>
+> but no such application is competent in circumstances mentioned in subsection (2).
+>
+> (2) The circumstances are that HIS has given the person notice—
+>
+> (a) under section 10Z(2) of its proposal to cancel the registration (unless HIS has decided not to take that step); or
+>
+> (b) under section 10Z2(3) of its decision to cancel the registration and the time within which an appeal may be brought has not expired or, if an appeal has been brought, that appeal has not been determined.
+>
+> (3) An application under subsection (1) must be made in such manner and state such particulars as may be prescribed; and, without prejudice to subsection (1)(b) of section 10Z5, must be accompanied by the fee imposed under subsection (2)(a) or, as the case may be, (c) of that section.
+>
+> (4) If HIS decides to grant an application under subsection (1)(a) it must give the applicant notice of its decision (stating, where applicable, the condition varied, removed or added) and issue a new certificate of registration.
+>
+> **10Z Further provision as respects notice of proposals**
+>
+> (1) If an application has been made under section 10P and HIS proposes—
+>
+> (a) to grant that application but to do so subject to a condition which has not been agreed in writing between it and the applicant, it must give the applicant notice of the proposed condition;
+>
+> (b) to refuse that application, it must give such notice of the proposed refusal.
+>
+> (2) HIS must give any person who provides a registered independent health care service notice of a proposal to cancel the registration (other than in accordance with an application under subsection (1)(b) of section 10Y).
+>
+> (3) HIS must give an applicant under subsection (1)(a) of section 10Y notice of a proposal to refuse that application.
+>
+> (4) A notice under this section must give HIS's reasons for its proposal.
+>
+> **10Z1 Right to make representations to HIS as respects proposals**
+>
+> (1) A condition notice or a notice under section 10Z must state that, within 14 days after service of the notice, the person to whom it is given may make written representations to HIS concerning any matter which that person wishes to dispute.
+>
+> (2) Where such a notice has been given—
+>
+> (a) HIS may not decide to implement the proposal until (whichever first occurs)—
+>
+> (i) where the person to whom the notice was given makes such representations as are mentioned in subsection (1), it has considered those representations;
+>
+> (ii) that person notifies HIS in writing that such representations will not be made;
+>
+> (iii) the period of 14 days mentioned in that subsection elapses without such representations being made and without HIS receiving such notification; and
+>
+> (b) where the circumstances are as mentioned in paragraph (a)(ii) or (iii) above, HIS must implement the proposal unless it appears to it that it would be inappropriate to do so.
+>
+> **Notice of decision on application for registration**
+>
+> **10Z2 Notice of HIS's decisions**
+>
+> (1) If HIS decides to grant unconditionally an application made under section 10P, or to grant such application subject only to a condition which has been agreed in writing between HIS and the applicant, it must give the applicant notice of its decision.
+>
+> (2) A notice under subsection (1) must state the agreed condition.
+>
+> (3) If HIS decides to implement a proposal in relation to which it has given a person a condition notice or a notice under section 10Z, it must give that person notice of the decision.
+>
+> (4) A notice under subsection (3) must—
+>
+> (a) explain the right of appeal conferred by section 10Z4; and
+>
+> (b) in the case of a decision to implement a proposal—
+>
+> (i) in relation to which a condition notice has been given, state the condition as varied, the condition which is removed or (as the case may be) the additional condition imposed; or
+>
+> (ii) of which notice has been given under subsection (1)(a) of section 10Z, state the condition subject to which the application is granted.
+>
+> (5) Subject to subsection (6), a decision to implement a proposal in relation to which a condition notice has been given or of which notice has been given under subsection (1)(a) or (2) of section 10Z does not take effect—
+>
+> (a) if no appeal is brought, until the period of 14 days referred to in section 10Z4(1) has elapsed; and
+>
+> (b) if an appeal is brought, until that appeal is finally determined or is abandoned.
+>
+> (6) Where the decision is to implement a proposal of which notice has been given under subsection (1)(a) of section 10Z and the applicant notifies HIS in writing, before the period of 14 days referred to in section 10Z4(1) has elapsed, that there will be no appeal, the decision takes effect on receipt of that notification.
+>
+> **Conditions as to numbers**
+>
+> **10Z3 Conditions as to numbers**
+>
+> Without prejudice to the generality of section 10Q(2) or 10U, a condition imposed under either of those provisions in relation to an independent health care service may limit the number of persons to whom the service may be provided.
+>
+> **Appeal against decision to implement proposal**
+>
+> **10Z4 Appeal against decision to implement proposal**
+>
+> (1) A person given notice under section 10Z2(3) of a decision to implement a proposal may, within 14 days after that notice is given, appeal to the sheriff against the decision.
+>
+> (2) The sheriff may, on appeal under subsection (1), confirm the decision or direct that is not to have effect; and where the registration is not to be cancelled may (either or both)—
+>
+> (a) vary or remove any condition for the time being in force in relation to the registration;
+>
+> (b) impose an additional condition in relation to the registration.
+>
+> **Fees**
+>
+> **10Z5 Registration fees**
+>
+> (1) The Scottish Ministers, after consulting such persons, or groups of persons, as they consider appropriate on the potential effect of so prescribing on the services which the persons, or persons they represent, provide, may prescribe—
+>
+> (a) maximum fees which may be imposed by HIS under this section;
+>
+> (b) circumstances in which fees so imposed are or are not to be payable.
+>
+> (2) Subject to the provisions of this section, HIS must impose fees in respect of—
+>
+> (a) any application made for registration of an independent health care service or for cancellation of any such registration;
+>
+> (b) the annual continuation of any such registration;
+>
+> (c) any application made for the variation or removal of a condition for the time being in force in relation to any such registration;
+>
+> (d) issuing to a person a new certificate of registration—
+>
+> (i) at the instance of that person;
+>
+> (ii) by virtue of any application by that person; or
+>
+> (iii) by virtue of any new information provided by that person in pursuance of regulations under this group of sections (within the meaning of section 10S(2)(a)).
+>
+> (3) Without prejudice to subsection (1)—
+>
+> (a) HIS must, in fixing fees under this section, have regard to its reasonable expenses in carrying out its functions; but
+>
+> (b) where it appears to HIS to be appropriate it may charge a nominal fee, or remit the fee altogether.
+>
+> **Regulations**
+>
+> **10Z6 Regulations: registers and registration**
+>
+> (1) Regulations may—
+>
+> (a) make provision about the keeping of registers by HIS;
+>
+> (b) make provision about registration under section 10P and in particular about—
+>
+> (i) the making of applications for such registration;
+>
+> (ii) the content of certificates of registration;
+>
+> (iii) categories of applicant who cannot competently make certain applications;
+>
+> (c) require HIS to secure that, on such conditions, in such circumstances and, subject to subsection (2) on payment of such fees as may be specified in regulations, any person is to be afforded access to, and provided with a copy of an entry in or with an extract from, a register kept by HIS;
+>
+> (d) except such part of a register as may be specified in the regulations from any requirement made by virtue of paragraph (c);
+>
+> (e) confer additional functions on HIS in relation to registration under section 10P.
+>
+> (2) Regulations under paragraph (c) of subsection (1) may specify circumstances in which the fees mentioned in that paragraph are not to be payable; and the fees must in any event not be payable in any case where HIS consider it appropriate to provide the copy or extract in question free of charge.
+>
+> **10Z7 Regulations: independent health care services**
+>
+> (1) Regulations may impose, in relation to independent health care services, any requirements which the Scottish Ministers consider appropriate for the purposes of this Part.
+>
+> (2) Without prejudice to the generality of subsection (1) regulations may make it an offence to contravene or fail to comply with—
+>
+> (a) any specified provision of the regulations; or
+>
+> (b) a condition of registration for the time being in force.
+>
+> (3) A person who commits an offence under the regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+>
+> (4) Before the Scottish Ministers make regulations containing provision as mentioned in subsection (2), they must consult such persons, or groups of persons, as they consider appropriate.
+>
+> **Complaints about independent health care services**
+>
+> **10Z8 Complaints about independent health care services**
+>
+> (1) HIS must establish a procedure by which a person, or someone acting on a person's behalf, may make complaints (or other representations) in relation to the provision to the person of an independent health care service or about the provision of an independent health care service generally.
+>
+> (2) The procedure must provide for it to be available whether or not procedures established by the provider of the service for making complaints (or other representations) about that service have been or are being pursued.
+>
+> (3) Before establishing a procedure under subsection (1), HIS must consult the Scottish Public Services Ombudsman and such persons, or groups of persons, as it considers appropriate on its proposals for such a procedure.
+>
+> (4) HIS must keep the procedure under review and must vary it whenever, after such consultation, it considers it appropriate to do so.
+>
+> (5) HIS must give such publicity to the procedure (including the procedure as varied under subsection (4)) as it considers appropriate and must give a copy of the procedure to any person who requests it.
+>
+> **Offences**
+>
+> **10Z9 Offences in relation to registration**
+>
+> (1) Any person who—
+>
+> (a) provides an independent health care service while it is not registered under section 10P; or
+>
+> (b) with intent to deceive, pretends that an independent health care service is so registered,
+>
+> commits an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
+>
+> (2) Any person who fails to comply with section 10Q(5) commits an offence and is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+>
+> **10Z10 False statements in applications**
+>
+> Any person who, in an application—
+>
+> (a) for registration of an independent health care service; or
+>
+> (b) for variation or removal of a condition in force in relation to such a registration,
+>
+> knowingly makes a statement which is false or misleading in a material respect commits an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+>
+> **10Z11 Offences by bodies corporate etc.**
+>
+> Where an offence under this group of sections (within the meaning of section 10S(2)(a)), or under regulations made under those sections, committed by—
+>
+> (a) a body corporate other than a local authority, is committed with the consent or connivance of, or is attributable to any neglect on the part of, a person who—
+>
+> (i) is a director, manager or secretary of the body corporate; or
+>
+> (ii) purports to act in any such capacity;
+>
+> (b) a firm, is committed with the consent or connivance of, or is attributable to any neglect on the part of, a person who—
+>
+> (i) is a partner in the firm; or
+>
+> (ii) purports to act in that capacity;
+>
+> (c) an unincorporated association other than a firm, is committed with the consent or connivance of, or is attributed to any neglect on the part of, a person who—
+>
+> (i) is concerned in the management or control of the association; or
+>
+> (ii) purports to act in the capacity of a person so concerned,
+>
+> the person (as well as the body corporate or, as the case may be, firm or association) commits the offence and is liable to be proceeded against and punished accordingly.
+>
+> **Inquiries**
+>
+> **10Z12 Inquiries**
+>
+> (1) HIS may cause an inquiry to be held into any matter connected with—
+>
+> (a) the exercise of its functions; or
+>
+> (b) the provision of an independent health care service or a service provided under the health service.
+>
+> (2) Before there is commenced an inquiry under subsection (1), HIS may direct that it be held in private; but where no such direction has been given the person holding the inquiry may if that person thinks fit hold it, or any part of it, in private.
+>
+> (3) Subject to subsection (4), subsections (2) to (6) of section 210 of the Local Government (Scotland) Act 1973 (c. 65) (provisions relating to local inquires) apply in relation to an inquiry under subsection (1) as they apply in relation to a local inquiry under that section.
+>
+> (4) For the purposes of an inquiry under subsection (1), any reference in those subsections which, by virtue of the Scotland Act 1998 (c. 46), falls to be construed as a reference to—
+>
+> (a) the Scottish Ministers, is to be construed as a reference to HIS; and
+>
+> (b) a member of the staff of the Scottish Ministers, is to be construed as a reference to a member of staff of HIS.
+>
+> (5) The expenses incurred by HIS in relation to an inquiry under subsection (1) (including such reasonable sum as HIS may determine for the services of any of its staff engaged in the inquiry) must, unless HIS is of the opinion that those expenses should be defrayed in whole or in part by it, be paid by such party to the inquiry as it may direct; and HIS may certify the amount of the expenses so incurred.
+>
+> (6) Any sum certified under subsection (5) and to be defrayed in accordance with a direction under that subsection is a debt due by the party directed and is to be recoverable accordingly.
+>
+> (7) In relation to an inquiry under subsection (1), HIS may make an award as to the expenses of the parties and as to the parties by whom such expenses are to be paid.
+>
+> **Arrangements to provide independent health care services: registration**
+>
+> **10Z13 Arrangements entered into by certain bodies: services to be registered**
+>
+> Where, in the performance of its functions—
+>
+> (a) a local authority;
+>
+> (b) a Health Board; or
+>
+> (c) a Special Health Board,
+>
+> makes arrangements with any person to provide an independent health care service, it must ensure that the service, when provided, is registered under section 10P.
+>
+> **Duty of certain bodies to be aware of reports, etc.**
+>
+> **10Z14 Local authorities and other bodies: awareness of HIS reports etc.**
+>
+> (1) For the purposes of its functions as they relate to the provision of independent health care services (including the making of arrangements with other persons to provide such services)—
+>
+> (a) a local authority;
+>
+> (b) a Health Board;
+>
+> (c) a Special Health Board,
+>
+> must take into account the matters mentioned in subsection (3).
+>
+> (2) In carrying out its duty under subsection (1), a local authority, Health Board or Special Health Board must have regard to any guidance issued by the Scottish Ministers in respect of that duty.
+>
+> (3) The matters are such—
+>
+> (a) reports;
+>
+> (b) information;
+>
+> (c) notices,
+>
+> prepared, disseminated, given or otherwise produced by HIS as are relevant to the provision of the services mentioned in subsection (1) or, as the case may be, to the organisation or co-ordination of those services.
+>
+> **Giving of notice**
+>
+> **10Z15 Giving of notice**
+>
+> (1) In this Part, any reference to a notice being given to a person providing, or seeking to provide, an independent health care service is to be construed as a reference to its being—
+>
+> (a) delivered, where the person is—
+>
+> (i) an individual, to that individual;
+>
+> (ii) a body corporate, to the secretary or clerk of that body; or
+>
+> (iii) a firm, to a partner of that firm; or
+>
+> (b) sent by post, properly addressed to the person, in a registered letter or by the recorded delivery service,
+>
+> but a notice sent by post is deemed not given until the third day after the day of posting.
+>
+> (2) For the purposes of subsection (1), a letter is properly addressed to—
+>
+> (a) a body corporate, if addressed to the body at its registered or principal office;
+>
+> (b) a firm, if addressed to the firm at its principal office; or
+>
+> (c) any other person, if addressed to the person at the address last known.
+>
+> **Scottish Health Council**
+>
+> **10Z16 Establishment of Scottish Health Council**
+>
+> (1) HIS must establish under paragraph 8(1) of Schedule 5A a committee to be known as the Scottish Health Council.
+>
+> (2) When the Scottish Health Council is established—
+>
+> (a) HIS must delegate to the Council the functions mentioned in section 10C(1)(b) and (c); and
+>
+> (b) the Scottish Ministers are to appoint a member of HIS to chair the Council.
+>
+> (3) The Scottish Ministers may, by order—
+>
+> (a) modify subsection (2)(a) in relation to the functions of HIS which must be delegated to the Scottish Health Council; or
+>
+> (b) dissolve the Council.
+>
+> (4) Where the Scottish Ministers make an order under subsection (3)(b) dissolving the Scottish Health Council, subsection (1) has no effect for so long as the order is in force in that respect.
+>
+> (5) This section is without prejudice to Schedule 5A.
+>
+> **Miscellaneous**
+>
+> **10Z17 Transfer of staff**
+>
+> For the purposes of section 12CA, the functions conferred on, delegated to or otherwise exercisable by HIS are to be treated as functions transferred from a health service body; and for the purposes of that transfer—
+>
+> (a) NHS Quality Improvement Scotland is to be treated as the transferor authority;
+>
+> (b) HIS is to be treated as the transferee authority; and
+>
+> (c) the date on which section 10A is commenced is to be treated as the transfer date.
+>
+> **10Z18 “Provide” in relation to independent health care services**
+>
+> In this Part, “provide” in relation to an independent health care service, means to carry on or manage such a service; and related expressions are to be construed accordingly.
+>
+> **Consultation with Mental Welfare Commission for Scotland**
+>
+> **10Z19 Duty of HIS to consult the Mental Welfare Commission for Scotland**
+>
+> HIS must, in the exercise of its functions relating to the provision of guidance, advice or information, consult the Mental Welfare Commission for Scotland in every case in which it appears to HIS appropriate having regard to the Commission's functions under sections 5(b) and 10 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13).
+
+.
+
+### 109 Transfer of staff etc. to Healthcare Improvement Scotland
+
+(1) This subsection applies to such persons employed by the Scottish Commission for the Regulation of Care as the Scottish Ministers may by order specify.
+
+(2) An order under subsection (1) may specify any description of such employees or any individual such employee.
+
+(3) Section 102(1)(a), (3), (4) and (5) applies to those persons to whom subsection (1) of this section applies with the effect that they are transferred into the employment of Healthcare Improvement Scotland; and any reference to “SCSWIS” in section 102 is to be read as a reference to “Healthcare Improvement Scotland” in relation to those persons.
+
+(4) This subsection applies to such property (including rights) and liabilities of the Scottish Commission for the Regulation of Care as the Scottish Ministers may by order specify.
+
+(5) An order under subsection (4) may specify any description of such property or liabilities or any particular property or liability; but such an order may not include liabilities under or in connection with any person's contract of employment.
+
+(6) Section 102(1)(b) applies to such property and liabilities to which subsection (4) of this section applies with the effect that they are transferred to, and vest in, Healthcare Improvement Scotland.
+
+(7) The power to make an order under subsection (1)—
+
+(a) must be exercised by statutory instrument,
+
+(b) may be exercised so as to make different provision for different purposes.
+
+(8) A statutory instrument containing an order under subsection (1) is subject to annulment in pursuance of a resolution of the Parliament.
+
+### 110 Healthcare Improvement Scotland: constitution, etc.
+
+(1) Schedule 16 (which inserts Schedule 5A into the National Health Service (Scotland) Act 1978 (c. 29)) has effect.
+
+(2) Schedule 17 (which contains modifications of enactments consequential on section 108) has effect.
+
+## Part 7 — The Mental Welfare Commission for Scotland
+
+### 111 The Mental Welfare Commission for Scotland
+
+(1) The Mental Health (Care and Treatment) Scotland Act 2003 (asp 13) is amended as follows.
+
+(2) In section 4 (Mental Welfare Commission for Scotland), after subsection (2) insert—
+
+> (2A) In so discharging its functions, the Commission shall act in a manner which seeks to protect the welfare of persons who have a mental disorder.
+
+.
+
+(3) After section 4 insert—
+
+> **Commission Visitors**
+>
+> **4A Commission Visitors**
+>
+> (1) Commission Visitors are to exercise the functions conferred on them by this Act or any other enactment on behalf of the Commission.
+>
+> (2) Commission Visitors may, in addition to the other functions conferred in this Part, exercise the functions of the Commission mentioned in—
+>
+> (a) section 8A of this Act;
+>
+> (b) section 9(1)(d) of the Adults with Incapacity (Scotland) Act 2000 (asp 4).
+>
+> (3) The Commission may give the Commission Visitors directions of a general or specific nature in relation to the exercise of the functions conferred on them.
+>
+> (4) A Commission Visitor must—
+>
+> (a) comply with any direction given under subsection (3); and
+>
+> (b) act in accordance with any guidance issued by the Commission in relation to the exercise of the functions of Commission Visitors.
+>
+> (5) A Commission Visitor acting in the exercise of any function must, if required, produce evidence of the Commission Visitor's authority.
+>
+> (6) In this Act, “Commission Visitors” are persons appointed under paragraph 7A(1) or (2) of schedule 1 to this Act.
+
+.
+
+(4) In section 5 (duty to monitor operation of Act and promote best practice)—
+
+(a) in paragraph (a), for “operation” substitute “ practical application of the observance of Part 1 ”,
+
+(b) in paragraph (b), for the words from “operation” to the end of the paragraph substitute “ practical application of the observance of Part 1 of this Act ”.
+
+(5) After section 8 insert—
+
+> **8A Duty to raise service concerns with certain bodies**
+>
+> (1) The Commission shall, as it considers appropriate, raise any concerns (of a general or specific nature) about the provision of any service mentioned in subsection (2) as respects a person who has a mental disorder, with—
+>
+> (a) Social Care and Social Work Improvement Scotland;
+>
+> (b) Healthcare Improvement Scotland; or
+>
+> (c) such other relevant persons, or group of persons.
+>
+> (2) The services are—
+>
+> (a) any social service (within the meaning of Part 5 of the Public Services Reform (Scotland) Act 2010 (asp 8));
+>
+> (b) health care (within the meaning of section 10A of the National Health Service (Scotland) Act 1978 (c. 29)).
+>
+> (3) In subsection (1), the “provision” of any service includes the organisation or co-ordination of any such service.
+
+.
+
+(6) After section 9 insert—
+
+> **9A Duty to give advice: further provision**
+>
+> The Commission shall when asked to do so provide advice, so far as is reasonable, to any person about any matters relevant to the functions of the Commission.
+
+.
+
+(7) In section 10 (publishing information, guidance etc.), after subsection (2) add—
+
+> (3) The Commission may, with the agreement of a person to whom advice is provided under section 9A, publish that advice.
+
+.
+
+(8) In section 11 (investigations)—
+
+(a) in subsection (1)—
+
+(i) for “the Commission”, where it first occurs, substitute “ a Commission Visitor ”,
+
+(ii) after “Commission”, where it second occurs, insert “ Visitor ”,
+
+(iii) in paragraph (a), for “it” substitute “ the Commission Visitor ”,
+
+(iv) in paragraph (b), for “it” substitute “ the Commission Visitor ”,
+
+(b) after that subsection insert—
+
+> (1A) Where it is brought to the attention of the Commission that any of the circumstances mentioned in subsection (2) below may apply in respect of a patient, the Commission may—
+>
+> (a) direct a Commission Visitor to carry out such investigation as the Commission considers appropriate into the patient's case; and
+>
+> (b) having consulted the Visitor after the investigation, make such recommendations as it considers appropriate as respects the case.
+
+.
+
+(9) In section 12 (investigations: further provision), in subsection (1), for “under section 11(1)” substitute “ in relation to any of the circumstances mentioned in section 11(2) ”.
+
+(10) In section 13 (visits in relation to patients)—
+
+(a) in subsection (1)—
+
+(i) for “person authorised by it” substitute “ Commission Visitor ”,
+
+(ii) after “Commission”, in the second place it occurs, insert “ Visitor ”,
+
+(iii) for “it”, in the third place it occurs, substitute “ the Commission Visitor ”,
+
+(b) in subsection (3)—
+
+(i) for “person authorised by the Commission” substitute “ Commission Visitor ”,
+
+(ii) the words “either of” are repealed,
+
+(iii) for “subsection (5)” substitute “ subsection (5A) ”,
+
+(c) for subsection (5) substitute—
+
+> (5A) The purposes are—
+>
+> (a) to provide an opportunity for any patient who may for the time being be present in the premises to meet a Commission Visitor and discuss with the Visitor any concerns that the patient may have; and
+>
+> (b) to assess whether the requirements of such patients in relation to this Act, the Adults with Incapacity (Scotland) Act 2000 (asp 4) and other relevant legislation are being met.
+>
+> (5B) A Commission Visitor may, when visiting premises under subsection (3), conduct an assessment of the suitability of the premises (and its facilities) in relation to the requirements of the patients (or any one of them).
+
+,
+
+(d) subsection (7) is repealed,
+
+(e) in subsection (8)—
+
+(a) in paragraph (a), for “section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)” substitute “ paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 (asp 8) ”,
+
+(b) in paragraph (b), for “section 2(9) of” substitute “ paragraph 6 of schedule 12 to ”.
+
+(11) In section 14 (interviews)—
+
+(a) in subsection (1), for “person authorised to do so by the Commission (an “authorised person”)” substitute “ Commission Visitor ”,
+
+(b) in subsection (1)(a)(ii), for “authorised person” substitute “ Commission Visitor ”,
+
+(c) in subsection (2)(a)—
+
+(i) for “an authorised person” substitute “ a Commission Visitor ”,
+
+(ii) in sub-paragraph (ii), for “authorised person” substitute “ Commission Visitor ”,
+
+(iii) for “authorised person”, in the third place it occurs, substitute “ Commission Visitor ”,
+
+(d) in subsection (2)(b)—
+
+(i) for “an authorised person” substitute “ a Commission Visitor ”,
+
+(ii) for “authorised person” in the second place it occurs, substitute “ Commission Visitor ”,
+
+(e) subsection (3) is repealed.
+
+(12) In section 15 (medical examination)—
+
+(a) in subsection (1), for “person authorised by the Commission (an “authorised person”) ”substitute “ Commission Visitor ”,
+
+(b) after that subsection insert—
+
+> (1A) Only a Commission Visitor who has also been appointed as a Medical Visitor may exercise the functions under subsection (1).
+
+,
+
+(c) subsections (2) and (3) are repealed.
+
+(13) In section 16 (inspection etc. of records)—
+
+(a) in subsection (1)—
+
+(i) immediately before “may” insert “ or Commission Visitor ”,
+
+(ii) at the end add “ or, as the case may be, the Commission Visitor ”,
+
+(b) in subsection (2), paragraph (a) and the word “or” immediately following are repealed,
+
+(c) in subsection (3), the words “a member of the Commission or, as the case may be,” are repealed.
+
+(14) In section 17 (duties of Scottish Ministers, local authorities and others as respects Commission), after “afford the Commission,” insert “ any Commission Visitor, ”.
+
+(15) Schedule 18 (which makes provision about the governance of the Commission, and Commission Visitors) has effect.
+
+## Part 8 — Scrutiny and complaints
+
+### User focus
+
+#### 112 Scrutiny: user focus
+
+(1) The persons, bodies and office-holders listed in schedule 19 (the “listed scrutiny authorities”) must make arrangements which—
+
+(a) secure continuous improvement in user focus in the exercise of their scrutiny functions, and
+
+(b) demonstrate that improvement.
+
+(2) User focus is the involvement of users of scrutinised services in the design and delivery of scrutiny functions in relation to those services and the governance of the listed scrutiny authorities.
+
+(3) Scrutinised services are services provided in pursuance of functions and activities which are—
+
+(a) subject to scrutiny by a listed scrutiny authority, or
+
+(b) provided by a person, body or office-holder which is subject to scrutiny by a listed scrutiny authority.
+
+(4) Users of a service include—
+
+(a) persons who will or may use the service in the future,
+
+(b) persons who act on behalf of others in respect of whom the service is provided, and
+
+(c) other persons with a direct interest in, or directly affected by—
+
+(i) the provision of the service, or
+
+(ii) the scrutiny of the service or the person, body or office-holder providing it.
+
+(5) The Scottish Ministers may by order modify the list in schedule 19 by—
+
+(a) adding a person, body or office-holder which has scrutiny functions, or
+
+(b) removing an entry.
+
+(6) Before making an order under subsection (5)(a), the Scottish Ministers must consult the person, body or office-holder in question and may consult any other person they think fit.
+
+(7) In this section references to the scrutiny functions of a person, body or office-holder are to such of the functions of the person, body or office-holder as relate to the regulation, audit or inspection of other persons, bodies or office-holders or their functions or activities.
+
+#### 113 User focus: guidance etc.
+
+(1) In fulfilling its duty under subsection (1) of section 112 a listed scrutiny authority must have regard—
+
+(a) to any guidance in relation to the duty provided by the Scottish Ministers, and
+
+(b) to what are regarded as proper arrangements for the purposes of that subsection (or purposes which include those purposes).
+
+(2) Guidance provided by the Scottish Ministers may in particular include guidance on—
+
+(a) how to make, and what is to be included in, arrangements for the purposes of that subsection,
+
+(b) how to demonstrate continuous improvement in user focus.
+
+(3) Arrangements may be regarded as proper arrangements for the purposes of that subsection by reference to a generally recognised published code or otherwise.
+
+(4) Before providing guidance under this section the Scottish Ministers must consult any person they think fit.
+
+(5) If there is a conflict between guidance provided under subsection (1)(a) and proper arrangements referred to in subsection (1)(b), the guidance prevails.
+
+(6) The Scottish Ministers may require a listed scrutiny authority which does not comply with any guidance provided under subsection (1)(a) to provide a written explanation of why it has not done so; and the authority must comply with the requirement.
+
+(7) The Scottish Ministers may publish an explanation provided under subsection (6).
+
+### Duty of co-operation
+
+#### 114 Scrutiny: duty of co-operation
+
+(1) The persons, bodies and office-holders listed in schedule 20 (the “scheduled scrutiny authorities”) must co-operate and co-ordinate activity with—
+
+(a) each other, and
+
+(b) where appropriate, the Scottish Ministers,
+
+with a view to achieving the purpose in subsection (2).
+
+(2) That purpose is improving the exercise of the scrutiny functions of the scheduled scrutiny authorities in relation to—
+
+(a) local authorities,
+
+(b) social services, [^F38]...
+
+(c) health services [[^F39], and
+
+(d) policing.]
+
+having regard to efficiency, effectiveness and economy.
+
+(3) The Scottish Ministers may by order modify the list in schedule 20 by—
+
+(a) adding a person, body or office-holder which has scrutiny functions in relation to—
+
+(i) local authorities or public services provided by them or on their behalf,
+
+(ii) social services, [^F40]...
+
+(iii) health services, or
+
+[[^F41](iv) policing, or]
+
+(b) removing an entry.
+
+(4) Before making an order under subsection (3)(a) the Scottish Ministers must consult the person, body or office-holder in question and may consult any other person they think fit.
+
+(5) The duty in subsection (1) does not apply in so far as compliance with it would prevent or delay action by a scheduled scrutiny authority in the exercise of its scrutiny functions which the authority considers to be necessary as a matter of urgency.
+
+(6) In complying with the duty in subsection (1) the scheduled scrutiny authorities must—
+
+(a) comply with any directions given by the Scottish Ministers, and
+
+(b) have regard to any guidance provided by the Scottish Ministers.
+
+(7) Directions and guidance—
+
+(a) may be of a general or a specific nature,
+
+(b) may relate to all scheduled scrutiny authorities or to such authorities as are specified in the directions or guidance,
+
+(c) may relate to all the scrutiny functions of the authorities in question or to such of those functions as are specified in the directions or guidance.
+
+(8) The Scottish Ministers may vary or revoke any direction.
+
+(9) Before providing guidance the Scottish Ministers must consult any person they think fit.
+
+(10) In this section—
+
+(a) references to the scrutiny functions of a person, body or office-holder in relation to local authorities are to such of the functions of the person, body or office-holder as relate to the regulation, audit or inspection of—
+
+(i) local authorities, or
+
+(ii) public services provided by them or on their behalf,
+
+(b) references to the scrutiny functions of a person, body or office-holder in relation to social services[[^F42] , health services or policing] are to such of the functions of the person, body or office-holder as relate to the regulation, audit or inspection of those services [[^F43]or, as the case may be, policing].
+
+(11) In this section—
+
+- “health services” means—
+
+  - (a) the health service within the meaning of section 108(1) of the National Health Service (Scotland) Act 1978 (c. 29), and
+  - (b) independent health care services within the meaning of section 10F of that Act;
+
+- “local authorities” means councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+
+- [[^F44] “ policing ” has the same meaning as in Part 1 of the Police and Fire Reform (Scotland) Act 2012; ]
+
+- “social services” has the same meaning as in section 46 of this Act.
+
+### Joint inspections
+
+#### 115 Joint inspections
+
+(1) Any two or more of the persons and bodies to which this section applies must, at the request of the Scottish Ministers, conduct an inspection (a “joint inspection”) in relation to the provision of—
+
+(a) children's services,
+
+(b) such other services as the Scottish Ministers may specify in respect of which such persons or bodies have inspection functions, or
+
+(c) both.
+
+(2) The Scottish Ministers may specify purposes for any joint inspection.
+
+(3) The Scottish Ministers may request under subsection (1) that there be conducted a joint inspection of—
+
+(a) any services concerned in the relevant area,
+
+(b) such of the services concerned provided in the relevant area as they may specify, or
+
+(c) such of the services concerned provided to a particular child or other person or particular children or other persons as they may specify.
+
+(4) In paragraphs (a) and (b) of subsection (3), the “relevant area” is the whole of Scotland or such part of Scotland as the Scottish Ministers specify in their request.
+
+(5) A joint inspection is to be conducted in accordance with—
+
+(a) a timetable approved by the Scottish Ministers,
+
+(b) any directions given by the Scottish Ministers.
+
+(6) The persons and bodies to which this section applies are—
+
+- Healthcare Improvement Scotland,
+- [[^F45]Her Majesty's Inspectors of Constabulary appointed under section 71 of the Police and Fire Reform (Scotland) Act 2012 (asp 8),]
+- Her Majesty's Chief Inspector of Prisons for Scotland,
+- Her Majesty's Chief Inspector of Prosecution in Scotland,
+- [[^F46]His Majesty’s Chief Inspector of Education in Scotland,]
+- Mental Welfare Commission for Scotland,
+- [[^F47]Scottish Housing Regulator,]
+- Social Care and Social Work Improvement Scotland,
+- any Special Health Board.
+
+(7) Where, in the opinion of any person or body to whom this section applies, a joint inspection would be appropriate, it must bring that to the attention of the Scottish Ministers.
+
+(8) Those persons or bodies conducting a joint inspection must—
+
+(a) report to the Scottish Ministers and make any recommendations to them which those conducting the inspection think appropriate,
+
+(b) have regard to any code of practice or practice note issued by the Scottish Ministers for the purpose of—
+
+(i) giving practical and general guidance on matters relating to such an inspection (including, without prejudice to that generality, such matters as access to confidential information and the holding, sharing and destruction of such information),
+
+(ii) promoting what appear to them to be desirable practices with regard to such matters.
+
+(9) Subsection (6) may be amended by the Scottish Ministers by order so as to—
+
+(a) add an entry to it, or
+
+(b) remove any entry from it.
+
+(10) The Scottish Ministers may vary or revoke any direction given under this section.
+
+(11) For the purposes of subsection (8) of this section and [[^F48]sections 116A(4) and] 117(3), information is “confidential information” where—
+
+(a) the identity of an individual is ascertainable—
+
+(i) from that information, or
+
+(ii) from that information and other information which is in the possession of, or is likely to come into the possession of, the person holding that information, and
+
+(b) the information was obtained or generated by a person who, in the circumstances, owed an obligation of confidence to that individual.
+
+(12) In this section, “children's services” [[^F49]is to be construed in accordance with section 7 of the Children and Young People (Scotland) Act 2014.]
+
+#### 116 Participation in joint inspections
+
+(1) The Scottish Ministers may direct a person or body—
+
+(a) not listed in section 115(6), but
+
+(b) which has inspection functions,
+
+to participate in the conduct of a joint inspection to the extent and for the purposes specified in the direction.
+
+(2) In directing under subsection (1) a person or body to participate in a joint inspection, the Scottish Ministers may also direct that the person, or any person authorised by the body, is not to be able to exercise any such power conferred by regulations under section 117 as is specified in the direction; or is to be able to exercise any such power but only to the extent or for the purposes there specified.
+
+#### 116A [[^F50]Joint inspections of social services and health services
+
+(1) Social Care and Social Work Improvement Scotland (“SCSWIS”) and Healthcare Improvement Scotland (“HIS”) may jointly conduct an inspection in relation to—
+
+(a) any social services, services provided under the health service or services provided by an independent health care service which are provided in pursuance of an integration scheme approved under section 7 of the Public Bodies (Joint Working) (Scotland) Act 2014 (“the 2014 Act”), or
+
+(b) a local authority, Health Board or integration joint board (as defined in section 1(4)(a) of the 2014 Act) which is required by section 29 of the 2014 Act to prepare a strategic plan.
+
+(2) The purposes of an inspection under this section may be any of those mentioned in section 10I(1) or (1B) or 10J(2) of the National Health Service (Scotland) Act 1978 or section 53(2) of this Act.
+
+(3) On the request of SCSWIS and HIS, any other person or body mentioned in section 115(6) may conduct an inspection under subsection (1) jointly with SCSWIS and HIS.
+
+(4) In conducting an inspection under this section, SCSWIS and HIS must have regard to any code of practice or practice note issued by the Scottish Ministers for the purpose of—
+
+(a) giving practical and general guidance on matters relating to such an inspection (including, without prejudice to that generality, such matters as access to confidential information and the holding, sharing and destruction of such information),
+
+(b) promoting what appear to them to be desirable practices with regard to such matters.
+
+(5) After conducting an inspection under this section, SCSWIS and HIS must—
+
+(a) prepare a report, and
+
+(b) give any person to whom the report relates an opportunity to comment on the report.
+
+(6) SCSWIS and HIS must—
+
+(a) give the report to the Scottish Ministers,
+
+(b) give copies of the report to any person to whom the report relates, and
+
+(c) make copies of the report available at their offices for inspection by any person at any reasonable time.
+
+(7) In this section—
+
+- “independent health care service” has the meaning given by section 10F of the National Health Service (Scotland) Act 1978;
+- “social services” has the meaning given by section 46.]
+
+#### 117 Regulations relating to joint inspections
+
+(1) The Scottish Ministers may by regulations make further provision concerning joint inspections.
+
+(2) Regulations under subsection (1) may, in particular, make provision—
+
+(a) as to seizure and removal of anything found during the course of a joint inspection,
+
+(b) as to persons who may be authorised to carry out joint inspections,
+
+(c) requiring or facilitating the sharing or production of information (including health records) for the purposes of a joint inspection,
+
+(d) as to interviews and examinations (including physical and mental examinations) which may be carried out in connection with the inspections,
+
+(e) requiring any person to provide to a person authorised to carry out a joint inspection an explanation of information produced to an authorised person,
+
+(f) requiring information produced to a person authorised to carry out a joint inspection to be held in compliance with prescribed conditions and further disclosures to be made in compliance with such conditions,
+
+(g) empowering a person authorised to carry out a joint inspection to enter any premises for the purposes of such an inspection,
+
+(h) empowering a person authorised to carry out a joint inspection to disclose to a person prescribed for the purposes of this paragraph any information of a prescribed nature which the authorised person holds in consequence of such an inspection,
+
+(i) as to reports in relation to a joint inspection,
+
+(j) creating offences punishable on summary conviction by a fine not exceeding level 4 on the standard scale for the purpose of enforcing any provision of the regulations.
+
+(3) Where a person authorised to carry out a joint inspection is in possession of confidential information which has been obtained for the purposes of such an inspection, the person must not use or disclose that information other than—
+
+(a) for the purposes of that inspection,
+
+(b) so as to comply with an enactment or court order requiring disclosure,
+
+(c) to the extent considered necessary by the person for the purpose of protecting the welfare of—
+
+(i) any child,
+
+(ii) any adult at risk (within the meaning of section 3 of the Adult Support and Protection (Scotland) Act 2007 (asp 10)), or
+
+(d) to the extent considered necessary by the person for the purpose of the prevention or detection of crime or the apprehension or prosecution of offenders.
+
+(4) In subsection (2), “health records” has the same meaning as in Part 5.
+
+(5) In subsection (2), “prescribed” means prescribed by regulations under subsection (1).
+
+[[^F51](6) In this section, “joint inspection” means an inspection conducted under section 115 or 116A.]
+
+### Public finance and accountability
+
+#### 118 Amendment of Public Finance and Accountability (Scotland) Act 2000
+
+(1) The Public Finance and Accountability (Scotland) Act 2000 (asp 1) is amended in accordance with this section.
+
+(2) In section 10 (Audit Scotland), in subsection (2)(c), for the words “jointly by the Auditor General and the Chairman” substitute “ by the Scottish Commission for Public Audit ”.
+
+(3) In section 12(2)(a) (Scottish Commission for Public Audit), immediately before the word “Audit” insert “ Public ”.
+
+(4) In section 13 (Auditor General for Scotland)—
+
+(a) after subsection (4) insert—
+
+> (4A) A person appointed to be the Auditor General holds office for a period of 8 years.
+
+,
+
+(b) in subsection (5)—
+
+(i) after paragraph (a) insert—
+
+> (aa) vacates office on the expiry of the period of appointment,
+
+,
+
+(ii) at the beginning of paragraph (c) insert “ in other respects, ”,
+
+(c) after that subsection insert—
+
+> (5A) A person having held the office of the Auditor General is not eligible for reappointment.
+
+.
+
+(5) In section 22 (audit of accounts: further provisions), in subsection (5), at the beginning of paragraph (b) insert “ except where the account and the report are published by the body or office-holder in question, ”.
+
+(6) In section 23 (economy, efficiency and effectiveness examinations), after subsection (10) add—
+
+> (11) The Auditor General may publish the results of any examination carried out under this section.
+
+.
+
+(7) After that section insert—
+
+> **23A Defamation**
+>
+> For the purposes of the law of defamation, the following are absolutely privileged—
+>
+> (a) reports sent to the Scottish Ministers under section 22(4),
+>
+> (b) results of an examination carried out and reported to the Parliament under section 23.
+
+.
+
+(8) In schedule 2 (Audit Scotland: further provisions)—
+
+(a) in paragraph 2—
+
+(i) the word “not” is inserted after the word “is” where it second appears,
+
+(ii) the words from “but” to the end of the paragraph are repealed,
+
+(b) after that paragraph insert—
+
+> **2A**
+>
+> An appointment under section 10(2)(c) may be for a period not exceeding 3 years.
+>
+> **2B**
+>
+> A person appointed under section 10(2)(c) is, on ceasing to be a member, eligible for reappointment for a single further period.
+
+,
+
+(c) in paragraph 3—
+
+(i) in sub-paragraph (a), for the words “Auditor General and the Chairman” substitute “ Scottish Commission for Public Audit ”,
+
+(ii) in sub-paragraph (c), for the words “Auditor General and the Chairman” substitute “ Scottish Commission for Public Audit ”,
+
+(d) in paragraph 4, for the words “Auditor General and the Chairman, acting jointly,” substitute “ Scottish Commission for Public Audit ”,
+
+(e) in paragraph 7—
+
+(i) in sub-paragraph (2), paragraph (b) is repealed,
+
+(ii) after that sub-paragraph add—
+
+> (3) The Scottish Commission for Public Audit must appoint one of the members of Audit Scotland appointed under section 10(2)(c) to preside at the meetings of Audit Scotland.
+>
+> (4) Audit Scotland must appoint one of its other members appointed under section 10(2)(c) to preside at its meetings where the member mentioned in sub-paragraph (3) is not present.
+
+.
+
+(9) In schedule 3 (Scottish Commission for Public Audit: further provisions)—
+
+(a) in paragraph 1, immediately before the word “Audit”, where it occurs for the second time, insert “ Public ”,
+
+(b) after paragraph 7 add—
+
+> **8**
+>
+> For the purposes of the law of defamation, the following are absolutely privileged—
+>
+> (a) any statement made in proceedings of the Commission,
+>
+> (b) the publication under the authority of the Commission of any statement, and
+>
+> (c) any report to the Parliament under section 12(4).
+>
+> **9**
+>
+> In paragraph 8, “statement” has the same meaning as in the Defamation Act 1996 (c. 31).
+
+.
+
+### Complaints handling procedures
+
+#### 119 Complaints handling procedures
+
+In the Scottish Public Services Ombudsman Act 2002 (asp 11), after section 16 insert—
+
+> **Listed authorities: complaints handling procedures**
+>
+> **16A Statement of principles**
+>
+> (1) The Ombudsman must publish a statement of principles (referred to in this Act as “the statement of principles”) concerning complaints handling procedures of listed authorities.
+>
+> (2) A listed authority must ensure—
+>
+> (a) it has a complaints handling procedure in respect of action taken by the listed authority, and
+>
+> (b) any such procedure complies with the statement of principles.
+>
+> (3) A listed authority which is responsible, by virtue of any enactment, for a complaints handling procedure—
+>
+> (a) in relation to, or
+>
+> (b) operated by,
+>
+> another listed authority, must ensure the procedure complies with the statement of principles.
+>
+> (4) The first statement of principles under subsection (1) is not to be published unless a draft of the statement has been laid before, and approved by a resolution of, the Parliament.
+>
+> (5) Where a draft is laid in accordance with subsection (4), the Parliament may approve the draft no later than 2 months after being laid.
+>
+> (6) In calculating any period of 2 months for the purposes of subsection (5), no account is to be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.
+>
+> (7) Before laying a draft statement of principles before the Parliament in accordance with subsection (4) the Ombudsman must consult—
+>
+> (a) the Scottish Ministers, and
+>
+> (b) such listed authorities and other persons as the Ombudsman thinks fit.
+>
+> (8) The Ombudsman must, in preparing the draft statement of principles to be laid before the Parliament in accordance with subsection (4), have regard to any representations made during the consultation mentioned in subsection (7).
+>
+> (9) The statement of principles comes into force when it is published by the Ombudsman.
+>
+> (10) The Ombudsman may from time to time revise and re-publish the statement of principles.
+>
+> (11) Where the Ombudsman considers that any revision of the statement of principles under subsection (10) is material, subsections (4) to (8) apply to that statement of principles as they do to the first statement of principles.
+>
+> (12) In this section and sections 16B to 16E, “complaints handling procedures” means procedures of listed authorities which examine complaints or review decisions in respect of action taken by a listed authority where the matter in question is one in respect of which a complaint to the Ombudsman can be made and investigated under this Act.
+>
+> **16B Model complaints handling procedures**
+>
+> (1) The Ombudsman may publish model complaints handling procedures for listed authorities.
+>
+> (2) A model complaints handling procedure (referred to in this Act as a “model CHP”) must comply with the statement of principles.
+>
+> (3) The Ombudsman may publish different model CHPs for different purposes.
+>
+> (4) Before publishing a model CHP the Ombudsman must consult such listed authorities or groups of listed authorities as the Ombudsman thinks fit.
+>
+> (5) The Ombudsman may from time to time revise and re-publish any model CHP; and in doing so subsection (4) applies.
+>
+> (6) Where a model CHP is revised and re-published by virtue of subsection (5), section 16C has effect with the following modifications—
+>
+> (a) any specification under subsection (1) of that section in relation to the model CHP continues in effect as a specification in relation to the revised and re-published model CHP,
+>
+> (b) any other reference to a model CHP is to the model CHP as revised and re-published,
+>
+> (c) subsection (3) of that section is omitted.
+>
+> (7) The Ombudsman may withdraw any model CHP at any time; and any specification under section 16C(1) in relation the model CHP ceases to have effect.
+>
+> **16C Model complaints handling procedures: specification of listed authorities**
+>
+> (1) The Ombudsman may specify any listed authority to which a model CHP is relevant; and must notify the authority accordingly.
+>
+> (2) Where a model CHP is relevant to a listed authority by virtue of a specification under subsection (1), the authority must ensure there is a complaints handling procedure which complies with the model CHP for the purposes of the specification.
+>
+> (3) Where subsection (2) applies the authority must submit a description of the complaints handling procedure, having taken account of the relevant model CHP, within 6 months of the specification mentioned in that subsection.
+>
+> (4) A listed authority may, with the consent of the Ombudsman, modify the application of the model CHP which is relevant to it but only to the extent that is necessary for the effective operation of the procedure by the authority.
+>
+> (5) The Ombudsman may revoke any specification under subsection (1) at any time.
+>
+> **16D Declarations of non-compliance**
+>
+> (1) Where a model CHP is relevant to a listed authority by virtue of a specification under section 16C(1) the Ombudsman may declare that the complaints handling procedure of the authority, a description of which was submitted by the authority under section 16C(3) or otherwise, does not comply with the model CHP.
+>
+> (2) Where there is no specification under section 16C(1) in relation to a listed authority the Ombudsman may declare that the complaints handling procedure of the authority, a description of which was submitted by the authority under section 16E or otherwise, does not comply with the statement of principles.
+>
+> (3) Where a declaration is made under subsection (1) or (2) the Ombudsman—
+>
+> (a) must give reasons in writing,
+>
+> (b) may specify such modifications to the complaints handling procedure as would result in the declaration being withdrawn.
+>
+> (4) Where a declaration is made under subsection (1) or (2) the listed authority must submit a description of its complaints handling procedure, having taken account of the reasons given under subsection (3)(a) and any modifications specified in subsection (3)(b), within 2 months of the declaration.
+>
+> (5) The Ombudsman may withdraw a declaration of non-compliance made under subsection (1) or (2) at any time if the Ombudsman thinks fit.
+>
+> **16E Submission of description of complaints handling procedure: general**
+>
+> (1) A listed authority must submit a description of its complaints handling procedure if the Ombudsman so directs; and must do so within 3 months of being so directed or such other period as the Ombudsman may direct.
+>
+> (2) Sections 16C(3) and 16D(4) are subject to any direction given under this section.
+>
+> (3) Where a listed authority has submitted a description of its complaints handling procedure to the Ombudsman under this Act or otherwise, the authority must provide such additional information in relation to that procedure as the Ombudsman may reasonably request; and must do so within such period as the Ombudsman directs.
+>
+> **16F Complaints handling procedures: application of other enactments**
+>
+> The duties in sections 16A(2) and (3) and 16C(2) do not apply to the extent that—
+>
+> (a) the listed authority lacks the necessary powers (other than by virtue of this Act) to ensure compliance with the duties, or
+>
+> (b) the duties are inconsistent with any other enactment.
+>
+> **Complaints handling procedures: promotion of best practice etc.**
+>
+> **16G Complaints handling procedures: promotion of best practice etc.**
+>
+> (1) The Ombudsman must—
+>
+> (a) monitor practice and identify any trends in practice as respects the way in which listed authorities handle complaints,
+>
+> (b) promote best practice in relation to such complaints handling,
+>
+> (c) encourage co-operation and the sharing of best practice among listed authorities in relation to complaints handling.
+>
+> (2) A listed authority must co-operate with the Ombudsman in the exercise of the function in subsection (1).
+>
+> (3) The duty in subsection (2) does not apply to the extent that—
+>
+> (a) the listed authority lacks the necessary powers (other than by virtue of this Act) to ensure compliance with the duty, or
+>
+> (b) the duty is inconsistent with any other enactment.
+
+.
+
+## Part 9 — Charities
+
+### 120 Information to appear on charity websites
+
+(1) In section 15 of the 2005 Act (references in documents), after subsection (2) insert—
+
+> (3) For the purposes of this section, a reference to a document issued or signed on behalf of the charity includes a reference to a web page on a website operated by or on behalf of the charity.
+
+.
+
+(2) In section 52 of that Act (name and status of Scottish charitable incorporated organisations), after subsection (4) insert—
+
+> (5) For the purposes of this section, a reference to a document—
+>
+> (a) issued by or on behalf of the SCIO, or
+>
+> (b) signed by or on behalf of the SCIO,
+>
+> includes a reference to a web page on a website operated by or on behalf of the SCIO.
+
+.
+
+### 121 Variation, revocation and review of directions
+
+(1) In section 30 of the 2005 Act (removal from Register of charity which no longer meets charity test), after subsection (2) insert—
+
+> (2A) The power of OSCR to give a direction under subsection (1)(a) includes the power to—
+>
+> (a) vary the direction, but only by—
+>
+> (i) extending the time period specified in the direction, or
+>
+> (ii) removing steps which the charity is required to take, or
+>
+> (b) revoke such a direction.
+
+.
+
+(2) In section 71 of that Act (decisions), after paragraph (i) insert—
+
+> (ia) give a direction under section 30(1)(a),
+
+.
+
+(3) In section 73(2) of that Act (effect of decisions), after “(i),” insert “ (ia), ”.
+
+### 122 Powers of Court of Session: deemed removal of persons
+
+In section 34(5) of the 2005 Act (powers of Court of Session), after paragraph (e) insert—
+
+> (ea) make an order declaring that any person who was concerned in the management or control of a charity or body is to be treated, for the purpose of section 69(2)(c) (disqualification from being charity trustee) as having been removed from being concerned in the management or control of the charity or body, notwithstanding that—
+>
+> (i) the person is no longer concerned in the management or control of the charity or body,
+>
+> (ii) the body is no longer a charity,
+>
+> (iii) the body is no longer controlled by a charity (or charities), or
+>
+> (iv) the charity or body has ceased to exist,
+
+.
+
+### 123 Delegation of functions
+
+In section 38(1) of the 2005 Act (exercise of OSCR functions by Scottish Ministers), after “section 30)” insert “ and section 70A ”.
+
+### 124 Reorganisation of charities
+
+(1) In section 39 of the 2005 Act (reorganisation of charities: applications by charity)—
+
+(a) in subsection (1)(b)(ii), after “paragraph (c)” insert “ or (d) ”,
+
+(b) after subsection (1) insert—
+
+> (1A) But OSCR must not approve a reorganisation scheme where—
+>
+> (a) the reorganisation condition satisfied is that set out in section 42(2)(d), and
+>
+> (b) the proposed provision would enable the charity to make amendments to its constitution which would not be consistent with the spirit of the constitution.
+
+.
+
+(2) In section 40 of that Act (reorganisation of charities: applications by OSCR)—
+
+(a) in subsection (1)(b)(ii), after “paragraph (c)” insert “ or (d) ”,
+
+(b) after subsection (2) insert—
+
+> (2A) But the Court of Session must not approve a reorganisation scheme where—
+>
+> (a) the reorganisation condition satisfied is that set out in section 42(2)(d), and
+>
+> (b) the proposed provision would enable the charity to make amendments to its constitution which would not be consistent with the spirit of the constitution.
+
+.
+
+(3) In section 42(2) of that Act (reorganisation: supplementary)—
+
+(a) the word “and” immediately following paragraph (b) is repealed, and
+
+(b) after paragraph (c) insert
+
+> , and
+>
+> (d) that it is desirable to introduce a provision (other than a provision setting out a new purpose) to a charity's constitution.
+
+.
+
+### 125 Reorganisation of restricted funds
+
+(1) After section 43 of the 2005 Act insert—
+
+> **Chapter 5A — Reorganisation of restricted funds**
+>
+> **43A Reorganisation of restricted funds: applications by charity**
+>
+> (1) OSCR may, on the application of a charity, approve a restricted funds reorganisation scheme proposed by the charity if—
+>
+> (a) it considers—
+>
+> (i) that any of the conditions specified in subsection (2) is satisfied in relation to the restricted funds, and
+>
+> (ii) that the proposed reorganisation will enable the resources of the restricted funds to be applied to better effect for charitable purposes consistently with the charity's constitution, and
+>
+> (b) it is satisfied that the charity is unable to ascertain the wishes of the donor.
+>
+> (2) The conditions are—
+>
+> (a) that some or all of the purposes of the restricted funds—
+>
+> (i) have been fulfilled as far as possible or adequately provided for by other means,
+>
+> (ii) can no longer be given effect to (whether or not in accordance with the directions or spirit of the restricted funds' purposes),
+>
+> (iii) have ceased to be charitable purposes,
+>
+> (iv) have ceased in any other way to provide a suitable and effective method of using the funds, having regard to the spirit of the restricted funds' purposes,
+>
+> (b) that the purposes of the restricted funds provide a use for only part of its property.
+>
+> (3) The Scottish Ministers may by regulations make such provision as they think fit in relation to making and determining applications under this section.
+>
+> (4) Such regulations may in particular make provision about—
+>
+> (a) the form and manner in which applications must be made,
+>
+> (b) the period within which OSCR must make a decision on an application,
+>
+> (c) publication of proposed restricted funds reorganisation schemes,
+>
+> (d) the action a charity may take in order to satisfy OSCR of the matters described in subsection (1)(b),
+>
+> and may make different provision in relation to different types of charity.
+>
+> **43B Reorganisations of restricted funds: applications by OSCR**
+>
+> (1) Where OSCR—
+>
+> (a) considers—
+>
+> (i) that any of the conditions specified in section 43A(2) is satisfied in relation to a charity, and
+>
+> (ii) that a restricted funds reorganisation scheme proposed by it or by the charity trustees of the charity will enable the resources of the restricted funds to be applied to better effect for charitable purposes consistently with the charity's constitution, and
+>
+> (b) is satisfied that it is not possible to ascertain the wishes of the donor,
+>
+> OSCR may, of its own accord or on the application of the charity trustees of the charity, apply to the Court of Session for approval of the scheme.
+>
+> (2) The Court of Session may, on an application under subsection (1), approve the proposed restricted funds reorganisation scheme if it considers that the matters set out in paragraphs (a) and (b) of that subsection are satisfied in relation to the restricted funds to which the application relates.
+>
+> (3) The charity trustees of a charity may enter appearance as a party in proceedings on an application under subsection (1) in relation to the charity.
+>
+> (4) OSCR must, not less than 28 days before making an application under subsection (1), notify the charity in question of its intention to do so.
+>
+> (5) The Scottish Ministers may by regulations make such provision as they think fit in relation to action which may be taken to satisfy OSCR of the matter described in subsection (1)(b).
+>
+> (6) Nothing in this section affects the power of the Court of Session to approve a cy près scheme in relation to a charity.
+>
+> **43C Approved restricted funds reorganisation schemes**
+>
+> A charity may, despite any condition relating to restricted funds having contrary effect, use the restricted funds in such manner as permitted by an approved restricted funds reorganisation scheme.
+>
+> **43D Restricted funds reorganisations: supplementary**
+>
+> In this chapter—
+>
+> - “donor” means such person or body who may vary the purpose of, or any conditions imposed in relation to, restricted funds as may be specified by regulations made by the Scottish Ministers as they think fit,
+>
+> - “restricted funds” means property (including money) given to a charity for a specific purpose and in respect of which conditions have been imposed as to its use,
+>
+> - a “restricted funds reorganisation scheme” is a scheme for—
+>
+>   - (a) the variation of the purpose for which restricted funds may be used,
+>   - (b) the variation or removal of any condition imposed on the charity in relation to the use of restricted funds.
+
+.
+
+(2) In section 71 of that Act (decisions), after paragraph (m) insert—
+
+> (ma) refuse an application made for the purposes of section 43A,
+
+.
+
+(3) In section 106 of that Act (general interpretation), after the entry for “reorganisation scheme” insert—
+
+> “restricted funds reorganisation scheme” has the meaning given in section 43D and references to “approved restricted funds reorganisation schemes” are references to schemes approved under section 43A or 43B,
+
+.
+
+### 126 Appointment of charity trustees
+
+After section 70 of the 2005 Act, insert—
+
+> **Appointment**
+>
+> **70A Appointment of charity trustees**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) a charity has an insufficient number of charity trustees to be able to appoint a charity trustee under its constitution, and
+>
+> (b) the constitution does not provide a mechanism for appointing a charity trustee in such circumstances.
+>
+> (2) OSCR may, upon the request of—
+>
+> (a) the majority of the charity trustees of a charity,
+>
+> (b) if there are only two charity trustees, either of them,
+>
+> appoint a person as an acting charity trustee for the charity.
+>
+> (3) OSCR may appoint more than one acting charity trustee under subsection (2), but only as many as is necessary for the charity to be able to appoint charity trustees under its constitution.
+>
+> (4) A person appointed as an acting charity trustee under subsection (2)—
+>
+> (a) is appointed for the period of 12 months (or such shorter period as OSCR thinks fit) starting with the date of appointment, and
+>
+> (b) has the same functions as a charity trustee appointed under the charity's constitution.
+>
+> (5) Despite subsection (4)(a), if—
+>
+> (a) at the end of the period mentioned in that subsection, the charity is still not (but for the acting charity trustee) able to appoint a charity trustee under its constitution, and
+>
+> (b) OSCR, the majority of the charity trustees (or if only two trustees, either of them) and the acting charity trustee agree to an extension,
+>
+> an acting charity trustee's period of appointment may be extended by one period of up to three months starting with the expiry of the original period of appointment.
+>
+> (6) Nothing in subsections (1) to (5) prevents a person appointed as an acting charity trustee by OSCR under subsection (2) from being appointed as a charity trustee by the charity under its constitution.
+>
+> (7) But the acting charity trustee may not vote on whether to make such an appointment.
+>
+> (8) Where an acting charity trustee is appointed as a charity trustee under the charity's constitution, the person's appointment as an acting charity trustee comes to an end on the date of that subsequent appointment.
+
+.
+
+### 127 Charity trustees' indemnity insurance
+
+(1) In section 67(5)(c) of the 2005 Act (remuneration for services), for “any” substitute “ this Act or any other ”.
+
+(2) After section 68 of that Act insert—
+
+> **68A Charity trustees' indemnity insurance**
+>
+> (1) The charity trustees of a charity may arrange for the purchase, from the charity's funds, of insurance designed to indemnify the charity trustees against personal liability in respect of any negligence, default or breach of duty committed by them in their capacity as—
+>
+> (a) charity trustees, or
+>
+> (b) directors or officers of any body corporate carrying on any activities on behalf of the charity.
+>
+> (2) The terms of such insurance must, however, be framed to exclude the provision of any indemnity for a charity trustee in respect of any liability incurred by the charity trustee—
+>
+> (a) to pay—
+>
+> (i) a fine imposed in criminal proceedings,
+>
+> (ii) a sum payable to a regulatory authority by way of a penalty in respect of non-compliance with any requirement of a regulatory nature,
+>
+> (b) in respect of representation in any criminal proceedings in which the charity trustee is convicted of an offence arising out of any fraud or dishonesty, or wilful or reckless misconduct, by the charity trustee,
+>
+> (c) to the charity that arises out of any conduct which the charity trustee knew (or must reasonably be assumed to have known) was not in the interests of the charity or in the case of which the charity trustee did not care whether it was in the interests of the charity or not.
+>
+> (3) For the purposes of subsection (2)(b) the reference to conviction does not include a conviction—
+>
+> (a) quashed by an order under section 118(1)(b) or 183(1)(c) of the Criminal Procedure (Scotland) Act 1995 (c. 46),
+>
+> (b) quashed by an order under section 118(1)(c) of that Act and which order has the effect of an acquittal by virtue of section 119(9) of that Act or otherwise,
+>
+> (c) in relation to which the verdict is set aside by an order under section 183(1)(d) of that Act and which order has the effect of an acquittal by virtue of section 185(9) of that Act or otherwise.
+>
+> (4) This section—
+>
+> (a) does not authorise the purchase of any insurance whose purchase is expressly prohibited by the charity's constitution,
+>
+> (b) has effect despite any provision prohibiting the charity trustees receiving any personal benefit from the charity's funds.
+
+.
+
+### 128 Interpretation of Part 9
+
+For the purposes of this Part, the “2005 Act” is the Charities and Trustee Investment (Scotland) Act 2005 (asp 10).
+
+## Part 10 — Miscellaneous and general
+
+### Miscellaneous
+
+#### 129 Local Government (Scotland) Act 1973: minor amendment
+
+In section 102(2A) of the Local Government (Scotland) Act 1973 (c. 65) (reports to Accounts Commission for Scotland by Controller of Audit), the words “(1) or” are repealed.
+
+#### 130 Consultation by water and sewerage services providers
+
+(1) The Water Industry (Scotland) Act 2002 (asp 3) is amended in accordance with this section (but see also schedule 2 which makes other amendments to that Act).
+
+(2) In section 27 (approval of customer standards code)—
+
+(a) in subsection (1), after “consulting” insert “ every water services provider and sewerage services provider and ”,
+
+(b) in subsection (4), after “consulting” insert “ every water services provider and sewerage services provider and ”.
+
+(3) In section 28 (consultation code), in subsection (3)(a)—
+
+(a) after “consult” insert “ every water services provider and sewerage services provider and ”,
+
+(b) after “by” insert “ any such provider or ”.
+
+(4) In section 29B (determination of maximum charges), in subsection (4)(a)—
+
+(a) the word “and” immediately following sub-paragraph (ii) is repealed,
+
+(b) after sub-paragraph (ii) insert—
+
+> (iia) every water services provider and sewerage services provider, and
+
+.
+
+(5) In section 29D(5) (statements regarding charges), after paragraph (a) insert—
+
+> (aa) every water services provider and sewerage services provider,
+
+.
+
+(6) In section 56A(4) (directions may set objectives), after “consult” insert “ every water services provider and sewerage services provider and ”.
+
+(7) In section 57(6) (information and reports), after “Commission” insert “ , every water services provider and sewerage services provider ”.
+
+(8) In section 70 (interpretation), after the entry for “the Parliament” insert—
+
+> “sewerage services provider” has the meaning given in section 6(4) of Water Services etc. (Scotland) Act 2005 (asp 3),
+>
+> “water services provider” has the meaning given in section 6(2) of the Water Services etc. (Scotland) Act 2005.
+
+.
+
+#### 131 Complaints about water services and sewerage services providers
+
+In the Water Services etc. (Scotland) Act 2005 (asp 3), after section 11 insert—
+
+> **11A Complaints about licensed providers**
+>
+> (1) Subsections (2) to (4) apply where a water services provider or, as the case may be, a sewerage services provider (“the provider”) has requested (in writing) that the Scottish Public Services Ombudsman (“the Ombudsman”) investigate complaints made about the provider by occupiers of premises served by the provider.
+>
+> (2) Subject to subsection (4), the Scottish Public Services Ombudsman Act 2002 applies to such complaints as it applies to complaints made under that Act about a listed authority.
+>
+> (3) For the purposes of subsection (2), the provider is to be treated as a listed authority and the complainer as the person aggrieved.
+>
+> (4) Paragraph 7 of schedule 4 to the Scottish Public Services Ombudsman Act 2002 (Ombudsman not to investigate contractual or commercial transactions relating to a listed authority) does not apply.
+>
+> (5) Subsections (6) to (9) apply where—
+>
+> (a) the provider has—
+>
+> (i) requested (in writing) that the Ombudsman may not investigate any new complaints relating to the provider,
+>
+> (ii) sent a copy of that request to the Commission, and
+>
+> (b) the Commission has agreed to that request and notified the Ombudsman accordingly.
+>
+> (6) The Ombudsman may not investigate any new complaints relating to the provider from the date that the Ombudsman receives notification under subsection (5)(b).
+>
+> (7) The Ombudsman is to continue investigating any undetermined complaints about the provider which have been made to the Ombudsman prior to the Ombudsman's receipt of notification under subsection (5)(b).
+>
+> (8) For the purpose of enabling an undetermined complaint to continue to be dealt with, subsections (2) and (3) continue to apply and have effect as they applied and had effect immediately before the Ombudsman received notification under subsection (5)(b).
+>
+> (9) For the purpose of subsection (7), a complaint is determined by the Ombudsman if the Ombudsman—
+>
+> (a) has decided to conduct an investigation in relation to the complaint and that investigation is concluded, or
+>
+> (b) has decided not to conduct an investigation in relation to the complaint.
+
+.
+
+### General
+
+#### 132 Ancillary provision
+
+(1) The Scottish Ministers may by order make such consequential, supplemental, incidental, transitional, transitory or saving provision as they consider necessary or expedient for the purposes of, or in consequence of, or for the purposes of giving full effect to, any provision of this Act.
+
+(2) An order under this section may modify any enactment, instrument or document.
+
+#### 133 Orders and regulations: Parts 8 and 10
+
+(1) Any power conferred by Part 8 or this Part on the Scottish Ministers to make an order or regulations—
+
+(a) must be exercised by statutory instrument,
+
+(b) except an order under section 134(7), includes power to make such consequential, supplemental, incidental, transitional, transitory or saving provision as the Scottish Ministers think necessary or expedient,
+
+(c) may be exercised so as to make different provision for different purposes.
+
+(2) No—
+
+(a) order is to be made under section 115(9),
+
+(b) regulations are to be made under section 117,
+
+(c) order is to be made under section 132 containing provisions which add to, omit or replace any part of the text of an Act,
+
+(d) order is to be made under section 134(4),
+
+unless a draft of the statutory instrument containing the order or regulations has been laid before, and approved by resolution of, the Parliament.
+
+(3) Any other statutory instrument containing an order under Part 8 or this Part (except an order under section 134(7)) is subject to annulment in pursuance of a resolution of the Parliament.
+
+#### 134 Short title and commencement
+
+(1) This Act may be cited as the Public Services Reform (Scotland) Act 2010.
+
+(2) Sections 103, 109, 132 and 133 and this section come into force on Royal Assent.
+
+(3) Sections 14 to 30 and schedules 5, 6 and 7 cease to have effect 5 years after the date on which those sections and schedules (or the last of them) come into force.
+
+(4) But the Scottish Ministers may by order extend, or (on one or more occasion) further extend, the period for which those sections and schedules have effect.
+
+(5) An order made under subsection (4)—
+
+(a) must be made before the end of the period referred to in that subsection, and
+
+(b) has the effect of extending, or further extending, that period for the period of 5 years beginning with the day the order is made.
+
+(6) Where, by virtue of subsection (3) (or that subsection read with subsection (4)) sections 14 to 30 and schedules 5 to 7 cease to have effect, that repeal does not affect any order made under section 14 or 17(1).
+
+(7) The remaining provisions of this Act come into force on such day as the Scottish Ministers may by order appoint.
+
+(8) An order bringing into force section 3, 130 or 131 or schedule 2 or 3 may not be made before the expiry of the period of 12 months beginning with Royal Assent.
+
+## SCHEDULE 1 — Deer Commission for Scotland: modifications of enactments
+
+*(introduced by section 1)*
+
+### Natural Heritage (Scotland) Act 1991 (c. 28)
+
+**1** The Natural Heritage (Scotland) Act 1991 is amended as follows.
+
+**2** In section 1 (establishment of Scottish Natural Heritage)—
+
+(a) in subsection (1), after “be” where it third occurs insert—
+
+> (a) in relation to natural heritage, those specified in subsection (1A) below,
+>
+> (b) in relation to deer, those specified in section 1(1) of the Deer (Scotland) Act 1996 (c. 58).
+>
+> (1A) SNH's general aims and purposes in relation to natural heritage are—
+
+,
+
+(b) after subsection (3) insert—
+
+> (4) In this Act, “natural heritage functions”, in relation to SNH, does not include the functions in relation to deer conferred on it by or under the Deer (Scotland) Act 1996 (c. 58) or any other enactment other than one in this Act.
+
+.
+
+**3** In section 2 (general functions of SNH), in subsection (1)—
+
+(a) in paragraph (b), after “its” where it second occurs insert “ natural heritage ”,
+
+(b) in paragraph (c)—
+
+(i) for “research”, where it first and second occurs, substitute “ any research, inquiry or investigation ”,
+
+(ii) after “its” where it second and third occurs insert “ natural heritage ”,
+
+(iii) for “itself” substitute “ , inquiry or investigation itself or in collaboration with any other person ”.
+
+**4** In section 3 (duty to take account of certain matters), in subsection (1), after “its” insert “ natural heritage ”.
+
+### Deer (Scotland) Act 1996 (c. 58)
+
+**5** The Deer (Scotland) Act 1996 is amended as follows.
+
+**6** For “the Commission” and “the Commission's”, wherever those words occur (except in sections 24 and 27 and in the entry relating to section 24(b) in Schedule 3), substitute respectively “ SNH ” and “ SNH's ”.
+
+**7** For the title of Part 1 substitute “ Scottish Natural Heritage's deer functions ”.
+
+**8** (1) Section 1 (the Deer Commission for Scotland) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the words from the beginning to “shall” where it second occurs substitute “ Scottish Natural Heritage (in this Act referred to as “SNH”) has the following general aims and purposes in relation to deer ”,
+
+(b) in paragraph (a), after “Act,” insert “ to ”,
+
+(c) in paragraph (b), at the beginning insert “ to ” and for “them” substitute “ it ”.
+
+(3) After subsection (1) insert—
+
+> (1A) In this Act references to SNH's deer functions are to the functions relating to deer conferred on it by or under this Act or any other enactment.
+
+.
+
+(4) In subsection (2), for “their” substitute “ its deer ”.
+
+(5) Subsections (3) to (7) are repealed.
+
+**9** In section 2 (advice and annual reports)—
+
+(a) in subsection (1)(a), for “them” substitute “ it ”,
+
+(b) subsections (2) and (3) are repealed.
+
+**10** In section 3 (power to facilitate exercise of functions)—
+
+(a) in subsection (1), before “functions” insert “ deer ”,
+
+(b) in subsection (2), for “their” substitute “ its ”.
+
+**11** In section 4 (appointment of panels)—
+
+(a) in subsection (1), for “they consider” insert “ it considers ”,
+
+(b) in subsection (2)—
+
+(i) for “they think” substitute “ it thinks ”,
+
+(ii) for “their” substitute “ its ”,
+
+(c) in subsection (3)—
+
+(i) for “have” substitute “ has ”,
+
+(ii) for “they” substitute “ it ”,
+
+(d) in subsection (6), before “functions” insert “ deer ”.
+
+**12** In section 5 (close seasons)—
+
+(a) in subsection (3), for “they” in both places substitute “ it ”,
+
+(b) in subsection (4), for “have” substitute “ has ”,
+
+(c) in subsection (6), for “they are” substitute “ it is ”.
+
+**13** In section 7 (control agreements)—
+
+(a) in subsection (1)—
+
+(i) for “are” where it first occurs substitute “ is ”,
+
+(ii) for “they” substitute “ it ”,
+
+(b) in subsection (3), for “they” substitute “ it ”,
+
+(c) in subsection (4)—
+
+(i) for “they have” substitute “ it has ”,
+
+(ii) for “consider” substitute “ considers ”.
+
+**14** In section 8 (control schemes)—
+
+(a) in subsection (1)—
+
+(i) for “are” where it first occurs substitute “ is ”,
+
+(ii) for “they” where it first occurs substitute “ it ”,
+
+(iii) for “they consider” substitute “ it considers ”,
+
+(b) in subsection (8)—
+
+(i) for “are” in both places substitute “ is ”,
+
+(ii) for “they” in both places substitute “ it ”.
+
+**15** In section 9 (recovery of control scheme expenses)—
+
+(a) in subsection (1)—
+
+(i) for “their” substitute “ its ”,
+
+(ii) for “them” substitute “ it ”,
+
+(b) in subsections (2) and (5), for “their” substitute “ its ”.
+
+**16** In section 10 (emergency measures)—
+
+(a) in subsection (1)—
+
+(i) for “are” where it first occurs substitute “ is ”,
+
+(ii) in paragraph (b), for “their” substitute “ its ”,
+
+(b) in subsection (2), for “are” substitute “ is ”,
+
+(c) in subsection (3), for “them” substitute “ it ”,
+
+(d) in subsection (4), for “their” substitute “ its ”,
+
+(e) in subsection (5), for “them” substitute “ it ”,
+
+(f) in subsection (7)—
+
+(i) for “intend” substitute “ intends ”,
+
+(ii) for “are” substitute “ is ”,
+
+(iii) for “they” where it first occurs substitute “ it ”,
+
+(iv) for “their” substitute “ its ”,
+
+(v) for “they consider” substitute “ it considers ”,
+
+(g) in subsection (8), for “their” insert “ its ”.
+
+**17** In section 11 (application of section 10 in relation to natural heritage), for “are” where it first and third occurs substitute “ is ”.
+
+**18** In section 12 (power to provide services and equipment etc.)—
+
+(a) in subsection (3), for “decide” substitute “ decides ”,
+
+(b) in subsection (4), for “them” substitute “ it ”.
+
+**19** In section 15 (power to enter on land), in subsection (3)(b), for “their” substitute “ its ”.
+
+**20** In section 16 (service of notices), in subsection (5), for “their” substitute “ its ”.
+
+**21** In section 18 (taking or killing deer at night), in subsection (2), for “they are” substitute “ it is ”.
+
+**22** In section 37 (restrictions on granting certain authorisations)—
+
+(a) in subsection (1), for “they are” substitute “ it is ”,
+
+(b) in subsection (4), for “think” substitute “ thinks ”,
+
+(c) in subsection (5), for “they” substitute “ it ” and for “their” substitute “ its ”.
+
+**23** In section 39 (disposal of deer killed under authority), for “their” substitute “ its ”.
+
+**24** In section 40 (returns of number of deer killed), in subsection (1), for “their” substitute “ its deer ”.
+
+**25** Section 46 (financial provisions) is repealed.
+
+**26** (1) Schedule 1 (Deer Commission for Scotland: supplementary provisions) is repealed.
+
+(2) Despite the repeal of paragraph 4 of Schedule 1, that paragraph continues to have effect in relation to the persons who were members of the Commission immediately before the date when section 1 comes into force.
+
+**27** In Schedule 2 (control schemes), in paragraph 1—
+
+(a) for “decide” substitute “ decides ”,
+
+(b) for “they” substitute “ it ”.
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**28** In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000 (devolved public bodies), the entry relating to the Deer Commission for Scotland is repealed.
+
+### Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**29** In schedule 2 to the Scottish Public Services Ombudsman Act 2002 (listed authorities), in Part 2, the entry relating to the Deer Commission for Scotland is repealed.
+
+### Freedom of Information (Scotland) Act 2002 (asp 13)
+
+**30** In schedule 1 to the Freedom of Information (Scotland) Act 2002 (Scottish public authorities), in Part 7, the entry relating to the Deer Commission for Scotland is repealed.
+
+### Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+
+**31** In schedule 2 to the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (the specified authorities), the entry relating to the Deer Commission for Scotland is repealed.
+
+## SCHEDULE 2 — Transfer of Waterwatch Scotland functions: modifications of enactments
+
+*(introduced by section 3(6))*
+
+### Part 1 — Amendments
+
+#### Water Industry (Scotland) Act 2002 (asp 3)
+
+**1** The Water Industry (Scotland) Act 2002 is amended as follows.
+
+**2** After section 2 (Water Customer Consultation Panels) insert—
+
+> **National Consumer Council representations**
+>
+> **2A** (1) This section applies where the National Consumer Council (“the Council”) has exercised a function under section 8(1) of the Consumers, Estate Agents and Redress Act 2007 (c. 17) (representative functions) in relation to the activities of Scottish Water.
+>
+> (2) The persons listed in subsection (4) must have regard to any advice, information, proposal or representation made to them by the Council under section 8(1) of that Act.
+>
+> (3) Any persons listed in subsection (4) to whom a proposal is made under section 8(1)(b) of that Act must, within 6 months of receipt, publish a summary of their responses to the proposal.
+>
+> (4) The persons are—
+>
+> (a) the Scottish Ministers,
+>
+> (b) Scottish Water,
+>
+> (c) the Water Industry Commission,
+>
+> (d) the Drinking Water Quality Regulator for Scotland,
+>
+> (e) the Scottish Environment Protection Agency.
+
+.
+
+**3** In section 4 (power of the Commission to require information) after subsection (3) insert—
+
+> (4) Scottish Water must comply with any direction given to it by the Commission under section 25(5) of the Consumers, Estate Agents and Redress Act 2007 (enforcement by regulator of notice to provide the National Consumer Council with information).
+
+.
+
+**4** In section 5 (annual reports by, and information from, the Commission), in subsection (2)—
+
+(a) in paragraph (a)(i), for “representations made to it by a Customer Panel” substitute “ advice, information or representation made to it by the National Consumer Council under section 8(1)(a) or (c) of the Consumers, Estate Agents and Redress Act 2007 (representative functions) ”,
+
+(b) in paragraph (a)(ii), for “recommendations made to it under section 2(4)” substitute “ proposals made to it under section 8(1)(b) of that Act ”,
+
+(c) in paragraph (b)—
+
+(i) after “such” insert “ advice, information, proposal or ”,
+
+(ii) the words “or recommendation” are repealed.
+
+**5** In section 6 (funding of the Commission), after subsection (2) insert—
+
+> (2A) Scottish Water must make to the National Consumer Council, in respect of the Council's expenses (as respects its activities relating to Scottish Water), payments of such amounts, and at such times, as the Scottish Ministers may direct.
+>
+> (2B) Before making a direction under subsection (2A), the Scottish Ministers must consult the Council.
+
+.
+
+**6** In the title to section 6 (funding of the Commission), after “Commission” insert “ and the National Consumer Council ”.
+
+**7** In the title to Part 1 (Water Industry Commission and Customer Panels), for “Customer Panels” substitute “ the representation of consumers ”.
+
+**8** In section 27 (approval of customer standards code)—
+
+(a) in subsection (1), for “each Water Customer Consultation Panel” substitute “ the National Consumer Council ”,
+
+(b) in subsection (4), for “each Water Customer Consultation Panel” substitute “ the National Consumer Council ”.
+
+**9** In section 28 (consultation code), in subsection (3)(a)—
+
+(a) for “each Water Customer Consultation Panel” substitute “ the National Consumer Council ”,
+
+(b) for “any Panel” substitute “ the Council ”.
+
+**10** In section 29B (determination of maximum charges), in subsection (4)(a), for sub-paragraph (iii) substitute—
+
+> (iii) the National Consumer Council,
+
+.
+
+**11** In section 29D(5) (statements regarding charges), for paragraph (b) substitute—
+
+> (b) the National Consumer Council,
+
+.
+
+**12** In section 56A (directions may set objectives), in subsection (4), for the words “Convener” to “whole)” substitute “ National Consumer Council ”.
+
+**13** In section 57 (information and reports), in subsection (6)(a), for “Convener of the Water Customer Consultation Panels” substitute “ National Consumer Council ”.
+
+#### Water Services etc. (Scotland) Act 2005 (asp 3)
+
+**14** In section 19 of the Water Services etc. (Scotland) Act 2005 (disconnections code), in subsection (4), for paragraph (c) substitute—
+
+> (c) the National Consumer Council;
+
+.
+
+#### Consumers, Estate Agents and Redress Act 2007 (c. 17)
+
+**15** The Consumers, Estate Agents and Redress Act 2007 is amended as follows.
+
+**[^F52]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F52]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F52]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19** In section 24(9) (provision of information to the Council), after paragraph (c) insert—
+
+> (ca) the Water Industry Commission for Scotland;
+
+.
+
+**20** In section 25 (enforcement by regulator of Council notice requiring the provision of information), at the appropriate place in the table in subsection (3) insert—
+
+> |  |  |
+> |---|---|
+> | Scottish Water. | The Water Industry Commission for Scotland. |
+
+.
+
+### Part 2 — Repeals
+
+**21** The enactments referred to in the first column of the following table are repealed to the extent specified in the second column.
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Water Industry (Scotland) Act 2002 (asp 3) | Section 2. Section 6A. Section 6B. Section 6C. In schedule 1, Part 2. |
+| Scottish Public Services Ombudsman Act 2002 (asp 11) | In schedule 2, paragraph 21B. |
+| Freedom of Information (Scotland) Act 2002 (asp 13) | In schedule 1, paragraph 62B.Section 3. |
+| Water Services etc. (Scotland) Act 2005 (asp 3) | Section 3. In schedule 5, paragraph 7(3). In schedule 5, sub-paragraph (a) of paragraph 8. In schedule 5, sub-paragraph (a) of paragraph 9. |
+
+## SCHEDULE 3 — Dissolution of Waterwatch Scotland: arrangements for staff, property etc.
+
+*(introduced by section 3(7))*
+
+### Transfer of staff
+
+**1** With effect from the date on which section 3 comes into force, any person—
+
+(a) employed by Waterwatch Scotland Limited, and
+
+(b) who is, in the opinion of the Convener of the Water Customer Consultation Panels (in this schedule referred to as “the Convener”), primarily involved in assisting with the exercise of the functions of the Convener described in section 6A of the Water Industry (Scotland) Act 2002 (Convener to investigate complaints),
+
+is transferred to the employment of the Scottish Public Services Ombudsman.
+
+**2** (1) With effect from the date on which section 3 comes into force, any person—
+
+(a) employed by Waterwatch Scotland Limited, and
+
+(b) who is, in the opinion of the Convener, primarily involved in assisting with the exercise of the representative functions of the Convener,
+
+is transferred to the employment of the National Consumer Council.
+
+(2) For the purposes of sub-paragraph (1), the “representative functions” of the Convener are those functions relating to the representation of the views and interests of persons whose premises—
+
+(a) are connected to the public water supply system or the public sewerage system (within the meaning of Part 2 of the Water Services etc. (Scotland) Act 2005 (asp 3)) or both, or
+
+(b) might reasonably become connected to either or both of those systems.
+
+**3** (1) This paragraph applies to any person who—
+
+(a) is (immediately before section 3 comes into force) employed by Waterwatch Scotland Limited, and
+
+(b) in the opinion of the Convener, does not fall within the description of a person whose employment is to be transferred by virtue of paragraph 1 or 2(1).
+
+(2) The Convener must specify whether the person's employment is to transfer to the Scottish Public Services Ombudsman or to the National Consumer Council.
+
+(3) With effect from the date on which section 3 comes into force, the person is transferred to the employment of the employer specified by the Convener under sub-paragraph (2).
+
+(4) For the purposes of paragraphs 4 to 6—
+
+(a) a person who is transferred to the employment of the Scottish Public Service Ombudsman by virtue of this paragraph is to be treated as though the transfer was by virtue of paragraph 1, and
+
+(b) a person who is transferred to the employment of the National Consumer Council by virtue of this paragraph is to be treated as though the transfer was by virtue of paragraph 2(1).
+
+**4** The contract of employment of a person transferred by virtue of paragraph 1 or 2(1)—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the date of transfer as if originally made between the transferred person and the Scottish Public Services Ombudsman or, as the case may be, the National Consumer Council.
+
+**5** Without prejudice to paragraph 4, where a person is transferred—
+
+(a) by virtue of paragraph 1—
+
+(i) all the rights, powers, duties and liabilities of Waterwatch Scotland Limited under or in connection with the person's contract of employment are transferred to the Scottish Public Services Ombudsman on the date of the transfer, and
+
+(ii) anything done before that date by or in relation to Waterwatch Scotland Limited in respect of the person or the contract is to be treated from that date as having been done by or in relation to the Scottish Public Services Ombudsman,
+
+(b) by virtue of paragraph 2(1)—
+
+(i) all the rights, powers, duties and liabilities of Waterwatch Scotland Limited under or in connection with the person's contract of employment are transferred to the National Consumer Council on the date of the transfer, and
+
+(ii) anything done before that date by or in relation to Waterwatch Scotland Limited in respect of the person or the contract is to be treated from that date as having been done by or in relation to the National Consumer Council.
+
+**6** Paragraphs 1 to 5 do not affect any right of any person so transferred to terminate the person's contract of employment if the terms and conditions of employment are changed substantially to the detriment of the person; but any such change is not to be taken to have occurred by reason only that the identity of the person's employer changes by virtue of those paragraphs.
+
+### Transfer of property etc.
+
+**7** (1) With effect from the date on which section 3(1) comes into force all property (including rights) and liabilities of Waterwatch Scotland Limited held, used or, as the case may be, incurred by Waterwatch Scotland Limited for the purposes of or in connection with the exercise of the Convener's functions under section 6A of the Water Industry (Scotland) Act 2002, are transferred to and vest in the Scottish Public Services Ombudsman.
+
+(2) With effect from the date on which section 3(3) comes into force all property (including rights) and liabilities of Waterwatch Scotland Limited held, used or, as the case may be, incurred by Waterwatch Scotland Limited for the purposes of or in connection with the exercise of functions other than those of the Convener mentioned in sub-paragraph (1) are transferred to and vest in the National Consumer Council.
+
+### Transfer of undetermined complaints
+
+**8** (1) This paragraph applies in relation to any complaint (“an undetermined complaint”)—
+
+(a) made or referred to the Convener under section 6A of the Water Industry (Scotland) Act 2002,
+
+(b) which has not been determined by the Convener before the date on which section 3(1) comes into force, and
+
+(c) which cannot otherwise be determined (but for sub-paragraph (2)) by the Scottish Public Services Ombudsman (“the Ombudsman”) under the Scottish Public Services Ombudsman Act 2002.
+
+(2) For the purpose of enabling an undetermined complaint to continue to be dealt with, section 6A of the Water Industry (Scotland) Act 2002 continues in force despite its repeal and has effect as it had effect immediately before its repeal but—
+
+(a) as if any reference in it to the Convener were a reference to the Ombudsman, and
+
+(b) subject to such further modifications (if any) as may be made by virtue of section 132.
+
+(3) For the purposes of this paragraph a complaint is determined by the Convener if the Convener—
+
+(a) has decided to conduct an investigation in relation to the complaint and that investigation is concluded, or
+
+(b) has decided not to investigate in relation to the complaint.
+
+(4) Nothing in this paragraph affects the validity of anything done (or having effect as if done) by or in relation to an undetermined complaint by the Convener under the Water Industry (Scotland) Act 2002 before the repeal of section 6A of that Act by this Act.
+
+(5) Anything (including legal proceedings) which, at that time, is in the process of being done by or in relation to the Convener may, so far as it relates to an undetermined complaint, be continued by or in relation to the Ombudsman.
+
+(6) Anything done (or having effect as if done) by or in relation to the Convener in relation to an undetermined complaint has effect as if done by or in relation to the Ombudsman in so far as that is required for continuing its effect on or after that time.
+
+## SCHEDULE 4 — Regulation of officers of court: modifications of enactments
+
+*(introduced by section 13)*
+
+### Part 1 — Amendments
+
+#### Debtors (Scotland) Act 1987 (c. 18)
+
+**1** Part 5 of the Debtors (Scotland) Act 1987 is amended as follows.
+
+**2** In section 75 (regulation of organisation, training, conduct and procedure of officers of court)—
+
+(a) in subsection (1)—
+
+(i) after paragraph (f) insert—
+
+> (fa) regulate their conduct in exercising their extra-official functions;
+
+,
+
+(ii) after paragraph (h) insert—
+
+> (ha) prescribe the procedure in relation to an appeal under section 82 of this Act;
+
+,
+
+(iii) in paragraph (j) for the words “for the keeping of accounts by them and the” substitute “ about their accounts and finances including the keeping and ”,
+
+(iv) in paragraph (m) for “necessary or proper” substitute “ appropriate ”,
+
+(b) in subsection (3) after “to” insert “ , or revoke, ”.
+
+**3** In section 76 (Advisory Council on Messengers-at Arms and Sheriff Officers)—
+
+(a) in subsection (2)(a)—
+
+(i) the word “and” immediately following sub-paragraph (iii) is repealed,
+
+(ii) after sub-paragraph (iv) add
+
+> ; and
+>
+> (v) such other persons (not falling within sub-paragraphs (i) to (iv) above) as the Lord President considers appropriate.
+
+,
+
+(b) in subsection (5)—
+
+(i) after “under” insert “ sub-paragraphs (i) to (iv) of ”,
+
+(ii) for “that paragraph” substitute “ those sub-paragraphs. ”,
+
+(c) in subsection (7), for “subsection (2)(a)” substitute “ subsection (2)(a)(i) to (iv) ”.
+
+**4** In section 79 (investigation of alleged misconduct)—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a) for “78(3) of this Act” substitute “ 66(3) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (in this Part “the 2007 Act”) ”,
+
+(ii) the word “or” immediately following paragraph (b) is repealed,
+
+(iii) after that paragraph insert—
+
+> (ba) details of a complaint about an officer of court are sent to the Lord President of the Court of Session or a sheriff principal under section 64 of the 2007 Act;
+
+,
+
+(iv) after paragraph (c) add
+
+> ; or
+>
+> (d) any judge of the Court of Session, or a sheriff principal—
+>
+> (i) becomes aware (whether by notification under subsection (1) of section 62 of the 2007 Act or otherwise) that an event mentioned in subsection (2) of that section has occurred in respect of an officer of court; and
+>
+> (ii) considers that the occurrence of that event or the circumstances surrounding it, although falling short of misconduct and not involving the commission of an offence, gives rise to concerns about the officer, the officer's exercise of official functions or the officer's undertaking of extra-official activities.
+
+,
+
+(b) subsection (7) is repealed,
+
+(c) in subsection (9)—
+
+(i) the words from “conduct” to the end of that subsection become paragraph (a) of the subsection,
+
+(ii) after that paragraph add—
+
+> (b) failure to notify the Lord President of the Court of Session or the sheriff principal under subsection (1) of section 62 of the 2007 Act of the occurrence of an event mentioned in subsection (2) of that section;
+>
+> (c) failure to provide information mentioned in subsection (1A) of section 63 of that Act required by virtue of regulations made under subsection (1) of that section;
+>
+> (d) failure to comply with any code of practice or revised code of practice published under section 63A of that Act; and
+>
+> (e) where a fee is due by virtue of rules made under subsection (1) of section 65A of that Act and a date as mentioned in subsection (2)(a) of that section has been specified by the rules, failure to pay the fee within 3 months of that date.
+
+.
+
+**5** In section 80 (courts' powers in relation to offences or misconduct)—
+
+(a) in subsection (1)—
+
+(i) the words from “an” to the end of that subsection become paragraph (a) of the subsection,
+
+(ii) after that paragraph add—
+
+> (b) an order mentioned in paragraph (aa) or (c) of subsection (5) below.
+
+,
+
+(b) in subsection (2)—
+
+(i) the words from “an” to the end of that subsection become paragraph (a) of the subsection,
+
+(ii) after that paragraph add—
+
+> (b) an order in relation to the sheriff officer of a kind mentioned in paragraph (aa) or (c) of subsection (5) below.
+
+,
+
+(c) after subsection (3) insert—
+
+> (3A) Where—
+>
+> (a) a solicitor is appointed to investigate a matter in respect of a messenger-at-arms under section 79(2) of this Act; or
+>
+> (b) the Court of Session becomes aware that a messenger-at-arms has been charged with an offence,
+>
+> the Court of Session may make an order finding that the messenger-at-arms should be suspended from practice for such period as may be specified in the order or in an order extending such period.
+>
+> (3B) Where—
+>
+> (a) a solicitor is appointed to investigate a matter in respect of a sheriff officer under section 79(2) of this Act; or
+>
+> (b) the sheriff principal from whom a sheriff officer holds a commission becomes aware that the sheriff officer has been charged with an offence,
+>
+> the sheriff principal may make an order suspending the officer from practice for such period as may be specified in the order or in an order extending such period in that sheriffdom.
+
+,
+
+(d) after subsection (4) insert—
+
+> (4A) Where the Court of Session at the end of disciplinary proceedings brought under subsection (3) of section 79 of this Act is satisfied that a concern mentioned in subsection (1)(d)(ii) of that section in relation to a messenger-at-arms is founded, the Court of Session may make an order under paragraph (a) or (aa) of subsection (5) below.
+
+,
+
+(e) in subsection (5) after paragraph (a) insert—
+
+> (aa) an order restricting—
+>
+> (i) the functions which the messenger-at-arms may exercise; or
+>
+> (ii) the activities which the messenger-at-arms may undertake,
+>
+> for such period as may be specified in the order;
+
+,
+
+(f) after subsection (6) insert—
+
+> (6A) Where the sheriff principal at the end of disciplinary proceedings brought under subsection (3) of section 79 of this Act is satisfied that a concern mentioned in subsection (1)(d)(ii) of that section in relation to a sheriff officer is founded, the sheriff principal may make, in relation to the sheriff officer, an order—
+>
+> (a) of a kind mentioned in paragraph (aa) of subsection (5) above; or
+>
+> (b) under paragraph (a) of subsection (7) below.
+
+,
+
+(g) in subsection (7)(b) for “subsection (5)(b)” substitute “ subsection (5)(aa), (b), ”.
+
+**6** In section 81 (provisions supplementary to section 80)—
+
+(a) in subsection (1)—
+
+(i) for “section 80(1), (4)” substitute “ section 80(1)(a), (3A), (4), (4A) ”,
+
+(ii) after paragraph (b) add—
+
+> (c) the professional association designated under section 63(1) of the 2007 Act.
+
+,
+
+(b) in subsection (2)—
+
+(i) for “section 80(2), (6)” substitute “ section 80(2)(a), (3B), (6), (6A) ”,
+
+(ii) the word “and” immediately following paragraph (a) is repealed,
+
+(iii) after paragraph (b) add
+
+> , and
+>
+> (c) the professional association designated under section 63(1) of the 2007 Act.
+
+,
+
+(c) in subsection (3)—
+
+(i) for “section 80(1), (2)” substitute “ section 80(1)(a), (2)(a), (3A), (3B) ”,
+
+(ii) after “thereof” insert “ or of an order under subsection (4A) or (6A) of that section specified respectively in subsection (5)(a) or (7)(a) thereof ”.
+
+**7** (1) In section 82 (appeals from certain decisions)—
+
+(a) the words from “An” to “Act” become subsection (1) of that section,
+
+(b) after “under” insert “ section 77(1), ”,
+
+(c) for the words “(4) or (6)” substitute “ (3A), (3B), (4), (4A), (6), (6A) or (8)(b) ”,
+
+(d) the words from “but” to the end of the section are repealed,
+
+(e) after subsection (1) (created under paragraph (a)) insert—
+
+> (2) The decision of the Inner House on an appeal under subsection (1) shall be final.
+
+.
+
+(2) In the sidenote to section 82, for “79(5) and 80” substitute “ 77, 79 and 80 ”.
+
+**8** After section 86 insert—
+
+> **Electronic communications**
+>
+> **86A** In this Part, any reference to an admission in writing includes a reference to that admission being an electronic communication (within the meaning given by section 15(1) of the Electronic Communications Act 2000 (c. 7)).
+
+.
+
+#### Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)
+
+**9** The Bankruptcy and Diligence etc. (Scotland) Act 2007 is amended as follows.
+
+**10** For the title of Part 3 (“Enforcement”) substitute “ Officers of court ”.
+
+**11** (1) In section 51 (information and annual report)—
+
+(a) subsection (1) is repealed,
+
+(b) in subsection (2) for “The Commission” substitute “ The Advisory Council on Messengers-at-Arms and Sheriff Officers (the “Advisory Council”) ”,
+
+(c) in subsection (3)—
+
+(i) paragraph (a) is repealed,
+
+(ii) in paragraph (b) for “judicial officers” substitute “ officers of court ”,
+
+(iii) in that paragraph for “Commission” substitute “ Advisory Council ”,
+
+(d) in subsection (4)—
+
+(i) for “Commission” substitute “ Advisory Council ”,
+
+(ii) for “a judicial officer” substitute “ the professional association designated by regulations under section 63(1)(a) ”,
+
+(iii) for “it” substitute “ provided by virtue of regulations under section 63(1A) which the Advisory Council ”,
+
+(e) in subsection (5) for “Commission” substitute “ Advisory Council ”,
+
+(f) subsection (6) is repealed.
+
+(2) In the title to section 51 for the words “Information and” substitute “ Advisory Council's ”.
+
+(3) Immediately above section 51 insert the italic heading “ Advisory Council on Messengers-at-Arms and Sheriff Officers ”.
+
+**12** In section 53 (published information not to enable identification)—
+
+(a) paragraph (b) and the word “or” immediately preceding it are repealed,
+
+(b) for “judicial officers” substitute “ officers of court ”.
+
+**13** (1) In section 61 (regulation of judicial officers)—
+
+(a) in subsections (1) and (2)(a) for “judicial officers” substitute “ officers of court ”,
+
+(b) in subsection (2) paragraph (d) is repealed,
+
+(c) in subsection (3) for “the Commission” substitute
+
+> —
+>
+> (a) the Lord President of the Court of Session; and
+>
+> (b) each sheriff principal.
+
+.
+
+(2) In the title to section 61 and the italic heading immediately preceding it for “judicial officers” substitute “ officers of court ”.
+
+**14** (1) In section 62 (duty to notify Commission of bankruptcy etc.)—
+
+(a) in subsection (1)—
+
+(i) for “a judicial officer” substitute “ an officer of court ”,
+
+(ii) for “notify the Commission in writing of it” substitute—
+
+> (a) in the case of a messenger-at-arms, notify the Lord President of the Court of Session in writing of the event;
+>
+> (b) in the case of a sheriff officer, notify the sheriff principal from whom the officer holds a commission in writing of the event.
+
+,
+
+(b) in subsection (2)(a), (f) and (g) for “judicial officer” substitute “ officer of court ”.
+
+(2) In the title to section 62 for “Commission” substitute “ Lord President and sheriff principal ”.
+
+**15** (1) In section 63 (judicial officers' professional association)—
+
+(a) in paragraph (a) of subsection (1)—
+
+(i) after “association”, where it first occurs, insert “ (in this Part, the “professional association”) ”,
+
+(ii) for “judicial officers” substitute “ officers of court ”,
+
+(b) after subsection (1) insert—
+
+> (1A) Regulations under subsection (1) may require an officer of court to provide such information as the professional association reasonably considers necessary.
+
+,
+
+(c) for subsection (2)(a) substitute—
+
+> (a) the Lord President of the Court of Session;
+>
+> (aa) each sheriff principal;
+
+,
+
+(d) in subsection (3) for “a judicial officer” substitute “ an officer of court ”.
+
+(2) In the title to section 63 and the italic heading immediately preceding it for “Judicial officers'” substitute “ Officers of court's ”.
+
+**16** After section 63 insert—
+
+> **Code of practice**
+>
+> **63A** (1) The professional association—
+>
+> (a) must prepare and publish a code of practice in relation to the functions of officers of court; and
+>
+> (b) may prepare and publish such a code in relation to the undertaking of activities by such officers.
+>
+> (2) The professional association may revise the whole or any part of a code published under this section.
+>
+> (3) Where a code or any part of a code is revised under subsection (2), the professional association—
+>
+> (a) in a case where the revision results in substantial changes, must publish the revised code;
+>
+> (b) in any other case, may publish the revised code.
+>
+> (4) The professional association must not publish a code of practice or a revised code of practice under this section without the prior approval of the Lord President of the Court of Session.
+>
+> (5) The professional association must send a copy of each code of practice published under this section to—
+>
+> (a) the Scottish Ministers;
+>
+> (b) the Lord President of the Court of Session;
+>
+> (c) each sheriff principal; and
+>
+> (d) each officer of court.
+
+.
+
+**17** (1) In section 64 (duty of professional association to forward complaints to Commission)—
+
+(a) for “a judicial officer” substitute “ an officer of court ”,
+
+(b) for “to the Commission” substitute—
+
+> (a) to the Lord President of the Court of Session;
+>
+> (b) in the case of a complaint about a messenger-at-arms, to the sheriff principal from whom the messenger-at-arms holds a commission as a sheriff officer; and
+>
+> (c) in the case of a complaint about a sheriff officer, to the sheriff principal from whom the sheriff officer holds a commission.
+
+.
+
+(2) In the title to section 64 the words “to Commission” are repealed.
+
+**18** In section 65 (information from professional association)—
+
+(a) for “Commission”, where it first occurs, substitute “ Lord President of the Court of Session or any sheriff principal ”,
+
+(b) for “Commission”, where it second occurs, substitute “ Lord President or, as the case may be, sheriff principal ”,
+
+(c) in paragraph (b) for “67 of this Act” substitute “ 79(2) of the 1987 Act ”,
+
+(d) for paragraph (c) substitute—
+
+> (c) any disciplinary proceedings brought under section 79(3) of that Act.
+
+.
+
+**19** After section 65 insert—
+
+> **Annual fee for officers of court**
+>
+> **Annual fee**
+>
+> **65A** (1) The professional association may make rules requiring every officer of court holding a commission to pay an annual fee to the association.
+>
+> (2) Rules made under subsection (1) above may include provision—
+>
+> (a) specifying the date by which the fee must be paid each year;
+>
+> (b) specifying the manner in which it must be paid; and
+>
+> (c) about any other matters in relation to the fee that the professional association considers appropriate.
+>
+> (3) Rules under this section may be made only with the approval of the Lord President of the Court of Session.
+
+.
+
+**20** (1) In section 66 (inspection of judicial officer)—
+
+(a) in subsection (1)—
+
+(i) for “Commission” substitute “ Lord President of the Court of Session or any sheriff principal ”,
+
+(ii) for “a judicial officer” substitute “ an officer of court ”,
+
+(b) in subsection (2)—
+
+(i) for “Commission” substitute “ Lord President or, as the case may be, the sheriff principal ”,
+
+(ii) for “judicial officer” substitute “ officer of court ”,
+
+(c) in subsection (3) for “Commission” substitute “ Lord President or, as the case may be, the sheriff principal ”,
+
+(d) in subsection (4) for “Commission” substitute “ Scottish Ministers ”.
+
+(2) In the title to section 66 for “judicial officer” substitute “ officer of court ”.
+
+(3) In the italic heading immediately preceding section 66 for “judicial officers” substitute “ officers of court ”.
+
+**21** (1) In section 75 (judicial officer's action void where officer has interest)—
+
+(a) in subsections (1), (4)(a) and (7) for “a judicial officer” substitute “ an officer of court ”,
+
+(b) in subsection (2), for “A judicial officer” substitute “ An officer of court ”,
+
+(c) in subsections (3)(a) and (6) for “judicial officer” substitute “ officer of court ”,
+
+(d) in subsection (5), for “a judicial officer's” substitute “ an officer of court's ”.
+
+(2) In the title to section 75 for “Judicial officer's” substitute “ Officer of court's ”.
+
+**22** In section 77 (effect of code of practice)—
+
+(a) in subsection (1)—
+
+(i) for “A judicial officer” substitute “ An officer of court ”,
+
+(ii) for the words “55 or 56” substitute “ 63A ”,
+
+(b) in subsection (2), for “a judicial officer” substitute “ an officer of court ”,
+
+(c) for paragraph (b) of subsection (4) substitute—
+
+> (b) a relevant court (within the meaning of subsection (8) of section 79 of the 1987 Act (investigation of alleged misconduct)) in disciplinary proceedings under that section;
+
+.
+
+**23** In section 78 (electronic publications and communications) the words “admission or representation”, in both places where they occur, are repealed.
+
+**24** (1) In the provisions listed in sub-paragraph (2) for “judicial officer” substitute “ officer of court ”.
+
+(2) The provisions referred to in sub-paragraph (1) are sections 83(5), 176(2), 177(1) and (3) to (8), 178(1) to (4), 179(1) to (4), 180(1), 181(1)(b) and (4), 182(1), (2), (4) and (6)(b), 183(4)(b), (11)(b) and (12)(b), 184(1), (2), (4) and (5)(c), 185(2)(b), (4)(b), (5) and (7), 186(2)(b), (3)(b) and (5)(c), 187(1)(b), (2)(a)(ii) and (3), 188(4), 189(1), (2)(a), (3)(b), (5) and (6), 191(2)(b)(i) and (4), 216(3) and 217(2).
+
+**25** In—
+
+(a) sections 117(4), 121(1), 139(1)(c), 157(1)(b) and 183(1)(a), and
+
+(b) paragraph 1(j) of schedule 3,
+
+for “a judicial officer” substitute “ an officer of court ”.
+
+**26** In section 128(1) (interpretation of Chapter 2 of Part 4), after the definition of “notice of land attachment” insert—
+
+> “officer of court” means the officer of court appointed by the creditor;
+
+.
+
+**27** In section 145(1) (interpretation of Chapter 3 of Part 4), after the definition of “dwellinghouse” insert—
+
+> “officer of court” means the officer of court appointed by the creditor;
+
+.
+
+**28** In section 178(1) (presumption of ownership), for “A judicial officer” substitute “ An officer of court ”.
+
+**29** In section 198(1) (interpretation of Part 8), after the definition of “money” insert—
+
+> “officer of court” means the officer of court appointed by the creditor;
+
+.
+
+**30** In section 221 (interpretation), after the definition of “electronic communication” insert—
+
+> “officer of court” means a messenger-at-arms or a sheriff officer;
+
+.
+
+**31** In schedule 5 (minor and consequential amendments), in sub-sub-paragraph (c) of paragraph 7(2), for the words from “for” to the end of the sub-sub-paragraph, substitute “for “law agent” substitute “ solicitor ””.
+
+**32** In Part 1 of schedule 6 (repeals and revocations), in the entry relating to the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), before the word “Schedule” in the second column, insert “ In ”.
+
+### Part 2 — Repeals
+
+**33** The enactments mentioned in the first column of the following table are repealed to the extent specified in the second column.
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Debtors (Scotland) Act 1987 (c. 18) | Section 78. Section 83. |
+| Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) | In section 45, in the definition of “officer”, the words from “for”, where it first occurs, to the end of that definition. |
+| Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) | Section 50. Section 52. Sections 54 to 60. Section 61(4) to (7). Sections 67 to 74. Section 76. In section 128(1), the definition of “judicial officer”. In section 145(1), the definition of “judicial officer”. Section 189(7). In section 198(1), the definition of “judicial officer”. Section 212(7). In section 221, the definition of the “Commission”; and the definition of “judicial officer”. In schedule 1, paragraph 41(a). Schedule 2. In schedule 5, paragraphs 6(4), 7(2)(a), (b)(i) and (ii), (3)(a) and (4), 11, 16(14)(c), 21, 25, 27, 28, 30(8)(b) and (13), 31 and 33. In schedule 6, in the entry relating to the Sheriff Courts (Scotland) Act 1907, the words “In section 40, the word “officers,””; in the entry relating to the Execution of Diligence (Scotland) Act 1926,the words “Section 1”; and in the entry relating to the Debtors (Scotland) Act 1987, the words “Part V”. |
+
+## [^F53]SCHEDULE 5 — [^F53]Improvement of public functions: listed bodies
+
+*[^F53](introduced by section 15)*
+
+### [^F53]Scottish Administration
+
+- [^F53]The Scottish Ministers
+- [^F53]Any other office-holder in the Scottish Administration
+
+### [^F53]Scottish public authorities with mixed functions or no reserved functions
+
+- [^F53]Accounts Commission for Scotland
+- [^F54][^F53]...
+- [^F53]Architecture and Design Scotland
+- [^F53]Bòrd na Gàidhlig
+- [^F53][[^F55]Boundaries Scotland]
+- [^F53][[^F56]British Waterways Board]
+- [^F53]Caledonian Maritime Assets Ltd
+- [^F53][[^F57]Children’s Hearings Scotland]
+- [^F58][^F53] ...
+- [^F59][^F53] ...
+- [^F59][^F53] ...
+- [^F53][[^F60]Commissioner for Ethical Standards in Public Life in Scotland]
+- [^F53]Commissioner for Children and Young People in Scotland
+- [^F58][^F53] ...
+- [^F53]Common Services Agency for the Scottish Health Service
+- [^F53][[^F61]Consumer Scotland]
+- [^F53]Creative Scotland
+- [^F53]Crofters Commission
+- [^F53]David MacBrayne Ltd
+- [^F53][[^F62]Electoral Management Board for Scotland]
+- [^F53]General Teaching Council for Scotland
+- [^F53]any Health Board
+- [^F53]Healthcare Improvement Scotland
+- [^F53]Her Majesty's Chief Inspector of Prosecution in Scotland
+- [^F53]Highlands and Islands Airports Ltd
+- [^F53]Highlands and Islands Enterprise
+- [^F53][[^F63]any independent prison monitor appointed under section 7B(2)(a) of the Prisons (Scotland) Act 1989]
+- [^F53][[^F64]any integration joint board established under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014 but only in relation to functions that it exercises other than functions delegated to it in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014]
+- [^F53][[^F65]Historic Environment Scotland]
+- [^F53]Judicial Appointments Board for Scotland
+- [^F53]Lands Tribunal for Scotland
+- [^F53]Learning and Teaching Scotland
+- [^F66][^F53]...
+- [^F53]Macaulay Land Use Research Institute
+- [^F53]Mental Health Tribunal for Scotland
+- [^F53]Mental Welfare Commission for Scotland
+- [^F53]Mobility and Access Committee for Scotland
+- [^F53]Moredun Research Institute
+- [^F53]Board of Trustees for the National Galleries of Scotland
+- [^F53][[^F67]The National Library of Scotland]
+- [^F53]Board of Trustees of the National Museums of Scotland
+- [^F53]any National Park authority
+- [^F53][[^F68]National Smart Ticketing Advisory Board]
+- [^F53]Office of the Scottish Charity Regulator
+- [^F53]Parole Board for Scotland
+- [^F53][[^F69]Patient Safety Commissioner for Scotland]
+- [^F53][[^F70]Police Investigations and Review Commissioner]
+- [^F53][[^F71]Poverty and Inequality Commission]
+- [^F53][[^F72]the prison monitoring advisory group established under section 7F of the Prisons (Scotland) Act 1989
+- [^F53]any prison monitoring co-ordinator appointed under section 7A(2) of the Prisons (Scotland) Act 1989]
+- [^F73][^F53]...
+- [^F74][^F53]...
+- [^F75][^F53] ...
+- [^F76][^F53] ...
+- [^F53]Public Transport Users' Committee for Scotland
+- [^F53][[^F77]Qualifications Scotland]
+- [^F53]Quality Meat Scotland
+- [^F53][[^F78]Redress Scotland]
+- [^F53]Risk Management Authority
+- [^F53]Board of Trustees of the Royal Botanic Garden, Edinburgh
+- [^F79][^F53]...
+- [^F53]Scottish Advisory Committee on Distinction Awards
+- [^F53]Scottish Agricultural College
+- [^F53]Scottish Agricultural Wages Board
+- [^F53][[^F80]Scottish Biometrics Commissioner]
+- [^F81][^F53]...
+- [^F53]Scottish Children's Reporter Administration
+- [^F53]Scottish Commission for Human Rights
+- [^F53][[^F82]The Scottish Commission on Social Security]
+- [^F53]Scottish Criminal Cases Review Commission
+- [^F53]Scottish Crop Research Institute
+- [^F53]Scottish Enterprise
+- [^F53]Scottish Environment Protection Agency
+- [^F53][[^F83]Scottish Fire and Rescue Service ]
+- [^F53][[^F84]Scottish Fuel Poverty Advisory Panel]
+- [^F53]Scottish Further and Higher Education Funding Council
+- [^F53]Scottish Futures Trust Ltd
+- [^F53]Scottish Information Commissioner
+- [^F53][[^F85]Scottish Land Commission]
+- [^F53]Scottish Law Commission
+- [^F53]Scottish Legal Aid Board
+- [^F53]Scottish Legal Complaints Commission
+- [^F53]Scottish Local Authorities Remuneration Committee
+- [^F53][[^F86]Scottish National Investment Bank p.l.c.]
+- [^F53]Scottish Natural Heritage
+- [^F53][[^F87]Scottish Police Authority]
+- [^F58][^F53] ...
+- [^F88][^F53] ...
+- [^F53]Scottish Public Services Ombudsman
+- [^F53][[^F89]Scottish Pubs Code Adjudicator]
+- [^F90][^F53]...
+- [^F53]Scottish Road Works Commissioner
+- [^F53]Scottish Social Services Council
+- [^F53]Scottish Sports Council
+- [^F53]Scottish Water
+- [^F53] Skills Development Scotland [^F53]Co.[^F53] Ltd
+- [^F53]Social Care and Social Work Improvement Scotland
+- [^F53][[^F91]South of Scotland Enterprise]
+- [^F53]any Special Health Board
+- [^F53]Standards Commission for Scotland
+- [^F92][^F53]...
+- [^F53]VisitScotland
+- [^F53]Water Industry Commission for Scotland
+- [^F53][[^F93]Zero Waste Scotland]
+
+### [^F53]Cross-border public authorities
+
+- [^F53]Forestry Commissioners
+
+## [^F94]SCHEDULE 6 — [^F94]Part 2 order-making powers (request and consent): listed bodies
+
+*[^F94](introduced by section 19)*
+
+- [^F94][[^F95]Commissioner for Ethical Standards in Public Life in Scotland]
+- [^F94]Commissioner for Children and Young People in Scotland
+- [^F94][[^F96]Patient Safety Commissioner for Scotland]
+- [^F94][[^F97]Scottish Biometrics Commissioner]
+- [^F98][^F94]...
+- [^F99][^F94]...
+- [^F94]Scottish Commission for Human Rights
+- [^F94]Scottish Information Commissioner
+- [^F100][^F94]...
+- [^F94]Scottish Public Services Ombudsman
+- [^F94][[^F101]Standards Commission for Scotland ]
+
+## [^F102]SCHEDULE 7 — [^F102]Order-making powers: modifications of enactments
+
+*[^F102](introduced by section 29)*
+
+### [^F102]Deregulation and Contracting Out Act 1994 (c. 40)
+
+**[^F102]1** [^F102]1 [^F102]The Deregulation and Contracting Out Act 1994 is amended as follows.
+
+[^F102]2 [^F102]Sections 1 to 5 and Schedule 1 are repealed.
+
+[^F102]3 [^F102]In section 6 (model provisions with respect to appeals), in subsection (7)—
+
+[^F102]a [^F102]in the definition of “enactment”—
+
+[^F102]i [^F102]the word “and” is omitted,
+
+[^F102]ii [^F102]at the end insert [^F102]“ , an enactment contained in an Act of the Scottish Parliament (whenever passed) and an enactment contained in an instrument made under an Act of the Scottish Parliament (whenever made) ”[^F102],
+
+[^F102]b [^F102]for the definition of “enforcement action” substitute—
+
+> [^F102]“[^F102]enforcement action[^F102]” means—
+>
+> [^F102]a [^F102]in relation to any restriction, requirement or condition, any action taken with a view to or in connection with imposing any sanction (whether criminal or otherwise) for failure to observe or comply with it; and
+>
+> [^F102]b [^F102]in relation to a restriction, requirement or condition relating to the grant or renewal of licences, includes any refusal to grant, renew or vary a licence, the imposition of any condition on the grant or renewal of a licence and any variation or revocation of a licence;
+
+[^F102],
+
+[^F102]c [^F102]for the definition of “interested person” substitute—
+
+> [^F102]“[^F102]interested person[^F102]” means—
+>
+> [^F102]a [^F102]the person against whom enforcement action may be or has been taken;
+>
+> [^F102]b [^F102]any other person who will or may be required to meet, or to make a significant contribution towards, the cost of observing the restriction or complying with the requirement or condition; or
+>
+> [^F102]c [^F102]where the enforcement action which may be or has been taken relates specifically to goods or services which are to be or have been supplied by a person other than the one against whom enforcement action may be or has been taken, that person;
+
+[^F102].
+
+[^F102]4 [^F102]Sub-paragraph (2) does not affect the continuation in force of any order under section 1 of that Act which was made on or before the day on which that sub-paragraph comes into force.
+
+### [^F102]Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)
+
+**[^F102]2** [^F102]In Schedule 4 to the Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (minor and consequential amendments), paragraph 96 is repealed.
+
+## SCHEDULE 8 — Information on exercise of public functions: listed public bodies
+
+*(introduced by section 35)*
+
+- The Scottish Ministers
+- Accountant in Bankruptcy
+- Accounts Commission for Scotland
+- [^F103]...
+- Architecture and Design Scotland
+- Audit Scotland
+- Board of Trustees for the National Galleries of Scotland
+- Board of Trustees of the National Museums of Scotland
+- Board of Trustees of the Royal Botanic Garden, Edinburgh
+- Bòrd na Gàidhlig
+- [[^F104]Boundaries Scotland]
+- [[^F105]British Waterways Board]
+- Caledonian Maritime Assets Ltd
+- [[^F106]Children’s Hearings Scotland]
+- [^F107]...
+- [^F108]...
+- [^F108]...
+- [[^F109]Commissioner for Ethical Standards in Public Life in Scotland]
+- Commissioner for Children and Young People in Scotland
+- [^F107]...
+- Common Services Agency for the Scottish Health Service
+- [[^F110]Community Justice Scotland]
+- [[^F111]Consumer Scotland]
+- Creative Scotland
+- Crofters Commission
+- [[^F112]Crown Estate Scotland]
+- David MacBrayne Ltd
+- Drinking Water Quality Regulator for Scotland
+- [[^F113]Electoral Management Board for Scotland]
+- [[^F114]Environmental Standards Scotland]
+- [[^F115]Food Standards Scotland]
+- Forestry Commissioners
+- General Teaching Council for Scotland
+- any Health Board
+- Healthcare Improvement Scotland
+- Her Majesty's Chief Inspector of Constabulary
+- [[^F116]His Majesty’s Chief Inspector of Education in Scotland]
+- [[^F117]Her Majesty's Chief Inspector of the Scottish Fire and Rescue Service]
+- Her Majesty's Chief Inspector of Prisons for Scotland
+- Her Majesty's Chief Inspector of Prosecution in Scotland
+- Highlands and Islands Airports Ltd
+- Highlands and Islands Enterprise
+- [[^F118]Historic Environment Scotland]
+- Judicial Appointments Board for Scotland
+- any Justice of the Peace Advisory Committee
+- Keeper of the Records of Scotland
+- Keeper of the Registers of Scotland
+- Lands Tribunal for Scotland
+- Learning and Teaching Scotland
+- [^F119]...
+- Macaulay Land Use Research Institute
+- Mental Health Tribunal for Scotland
+- Mental Welfare Commission for Scotland
+- Mobility and Access Committee for Scotland
+- Moredun Research Institute
+- any National Park authority
+- Parole Board for Scotland
+- [[^F120]Patient Safety Commissioner for Scotland]
+- [[^F121]Police Investigations and Review Commissioner]
+- [^F122]...
+- [^F123]...
+- [^F124]...
+- [^F125]...
+- Public Transport Users' Committee for Scotland
+- [[^F126]Qualifications Scotland]
+- Quality Meat Scotland
+- Queen's Printer for Scotland
+- [[^F127]Redress Scotland]
+- any regional Transport Partnership
+- Registrar General of Births, Deaths and Marriages for Scotland
+- [[^F128]Revenue Scotland]
+- Risk Management Authority
+- [^F129]...
+- Scottish Advisory Committee on Distinction Awards
+- Scottish Agricultural College
+- Scottish Agricultural Wages Board
+- [[^F130]Scottish Biometrics Commissioner]
+- [^F131]...
+- Scottish Charity Regulator
+- Scottish Children's Reporter Administration
+- Scottish Commission for Human Rights
+- Scottish Court Service
+- Scottish Criminal Cases Review Commission
+- Scottish Crop Research Institute
+- Scottish Enterprise
+- Scottish Environment Protection Agency
+- [[^F132]Scottish Fire and Rescue Service]
+- [[^F133]Scottish Fiscal Commission]
+- [[^F134]The Scottish Food Commission]
+- Scottish Further and Higher Education Funding Council
+- Scottish Futures Trust Ltd
+- Scottish Housing Regulator
+- Scottish Information Commissioner
+- [[^F135] Scottish Land Commission]
+- Scottish Law Commission
+- Scottish Legal Aid Board
+- Scottish Legal Complaints Commission
+- Scottish Local Authorities Remuneration Committee
+- [[^F136]Scottish National Investment Bank p.l.c.]
+- Scottish Natural Heritage
+- [[^F137]Scottish Police Authority]
+- [^F107]...
+- [^F138]...
+- Scottish Public Services Ombudsman
+- [[^F139]Scottish Pubs Code Adjudicator]
+- [^F140]...
+- Scottish Road Works Commissioner
+- Scottish Social Services Council
+- Scottish Sports Council
+- Scottish Water
+- Skills Development Scotland Co. Ltd
+- Social Care and Social Work Improvement Scotland
+- [[^F141]South of Scotland Enterprise]
+- any Special Health Board
+- Standards Commission for Scotland
+- [[^F142]The National Library of Scotland]
+- [^F143]...
+- VisitScotland
+- Water Industry Commission for Scotland
+- [[^F144]Zero Waste Scotland]
+
+## SCHEDULE 9 — Creative Scotland: establishment etc.
+
+*(introduced by section 36(2))*
+
+### Status
+
+**1** (1) Creative Scotland is a body corporate.
+
+(2) Creative Scotland is not to be regarded as a servant or agent of the Crown, or as having any status, immunity or privilege of the Crown, nor are its members or its employees to be regarded as civil servants.
+
+(3) Creative Scotland's property is not to be regarded as property of, or held on behalf of, the Crown.
+
+### Membership of Creative Scotland
+
+**2** (1) Creative Scotland is to consist of the following members—
+
+(a) a person appointed by the Scottish Ministers to chair Creative Scotland, and
+
+(b) no fewer than 8 nor more than 14 other members appointed by the Scottish Ministers.
+
+(2) The Scottish Ministers may by order made by statutory instrument amend sub-paragraph (1)(b) by substituting for the minimum or maximum number of members for the time being specified there such other number as they think fit.
+
+(3) A statutory instrument containing an order under sub-paragraph (2) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+### Terms of appointment etc.
+
+**3** (1) Each member of Creative Scotland is to be appointed for such period as the Scottish Ministers think fit.
+
+(2) A member—
+
+(a) holds and vacates office in accordance with the terms and conditions of appointment, but
+
+(b) may, by written notice to the Scottish Ministers, resign office as a member.
+
+(3) A person is, on ceasing to be a member, eligible for reappointment.
+
+### Removal of members
+
+**4** The Scottish Ministers may, by written notice, remove a member from office if they are satisfied that—
+
+(a) the member—
+
+(i) has been adjudged bankrupt,
+
+(ii) has granted a trust deed for creditors or a composition contract,
+
+(iii) has proposed a voluntary arrangement which has been approved,
+
+(b) the member's estate has been sequestrated,
+
+(c) the member has been absent from 3 consecutive meetings of Creative Scotland without the permission of Creative Scotland,
+
+(d) the member is otherwise unfit or unable to discharge the functions of a member.
+
+### Disqualification from membership
+
+**5** A person is disqualified from appointment, and from holding office, as a member of Creative Scotland if that person is—
+
+(a) a member of the Scottish Parliament,
+
+(b) a member of the House of Commons,
+
+(c) a member of the European Parliament.
+
+### Remuneration and allowances for members
+
+**6** Creative Scotland must pay to each of its members such—
+
+(a) remuneration, and
+
+(b) allowances and expenses,
+
+as the Scottish Ministers may determine.
+
+### Chief executive and other employees
+
+**7** (1) Creative Scotland is to employ a chief executive.
+
+(2) The chief executive may not be a member of Creative Scotland.
+
+(3) The first chief executive employed by Creative Scotland is to be the person who, immediately before the coming into force of this paragraph, is the chief executive designate employed by Creative Scotland 2009 Limited; and that person is employed as chief executive until the term of appointment as chief executive designate of Creative Scotland 2009 Limited would have ended.
+
+(4) But if there is no person employed by Creative Scotland 2009 Limited as chief executive designate immediately before the coming into force of this paragraph, the Scottish Ministers are to make the first appointment of the chief executive of Creative Scotland on such terms and conditions as the Scottish Ministers may determine.
+
+(5) Each subsequent chief executive is, with the approval of the Scottish Ministers, to be appointed by Creative Scotland on such terms and conditions as Creative Scotland may, with such approval, determine.
+
+(6) Creative Scotland may (subject to any directions given under sub-paragraph (7)) appoint such other employees on such terms and conditions as Creative Scotland may determine.
+
+(7) The Scottish Ministers may give directions to Creative Scotland as regards—
+
+(a) the appointment of employees under sub-paragraph (6), and
+
+(b) the terms and conditions of their employment.
+
+(8) Creative Scotland may, with the approval of the Scottish Ministers—
+
+(a) pay or make arrangements for the payment,
+
+(b) make payments or contributions towards the provision,
+
+(c) provide and maintain schemes (whether contributory or not) for the payment,
+
+of such pensions, allowances or gratuities to or in respect of any person who is or has ceased to be an employee of Creative Scotland, as it may determine.
+
+(9) The reference in sub-paragraph (8) to pensions, allowances and gratuities includes a reference to pensions, allowances and gratuities by way of compensation for loss of employment.
+
+### Committees
+
+**8** (1) Creative Scotland may establish committees for any purpose relating to its functions.
+
+(2) Creative Scotland is to determine the composition of its committees.
+
+(3) Creative Scotland may appoint persons who are not members of Creative Scotland to be members of a committee; but such persons are not entitled to vote at meetings of the committee.
+
+(4) A committee of Creative Scotland is to comply with any directions given to it by Creative Scotland.
+
+### Procedure and meetings
+
+**9** (1) Creative Scotland may determine its own procedure and that of its committees, including a quorum for meetings.
+
+(2) The validity of any proceedings of Creative Scotland, or any of its committees, is not affected by a vacancy in membership nor by any defect in the appointment of a member.
+
+(3) Members of the Scottish Executive and persons authorised by the Scottish Ministers may attend and take part in meetings of Creative Scotland or any of its committees, but are not entitled to vote at such meetings.
+
+### General powers
+
+**10** (1) Creative Scotland may do anything which appears to be necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the exercise of its functions.
+
+(2) In particular, Creative Scotland may—
+
+(a) engage in any business or undertaking,
+
+(b) form, promote or acquire (whether alone or with others) companies (within the meaning of the Companies Act 2006 (c. 46)),
+
+(c) form partnerships with others,
+
+(d) enter into contracts,
+
+(e) accept gifts of money and other property,
+
+(f) invest sums not immediately required in relation to the exercise of its functions,
+
+(g) undertake or execute any charitable trust,
+
+(h) obtain advice or assistance from any person who, in Creative Scotland's opinion, is qualified to give it,
+
+(i) commission research,
+
+(j) with the consent of the Scottish Ministers—
+
+(i) borrow money,
+
+(ii) acquire and dispose of land,
+
+(iii) establish or take part in the setting up of organisations having functions similar to those of Creative Scotland,
+
+(iv) make charges for the provision of goods or advice or other services in such circumstances and of such amounts as Creative Scotland may determine.
+
+(3) For the purposes of paragraph (g) of sub-paragraph (2), a trust is a charitable trust if all its purposes are within section 7(2) of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10).
+
+### Delegation of functions
+
+**11** (1) Creative Scotland may, subject to sub-paragraphs (2) and (3), authorise—
+
+(a) the chief executive,
+
+(b) any other employee,
+
+(c) any of its committees,
+
+to exercise such of its functions, and to such extent, as it may determine.
+
+(2) Creative Scotland may not authorise any of the following functions to be exercised by any other person—
+
+(a) the approval of annual reports and accounts,
+
+(b) the approval of any budget or other financial plan.
+
+(3) Sub-paragraph (1) does not affect the responsibility of Creative Scotland for the exercise of its functions.
+
+### Location of office
+
+**12** Creative Scotland's determination of the location of its office premises is subject to the approval of the Scottish Ministers.
+
+### Accounts
+
+**13** (1) Creative Scotland must—
+
+(a) keep proper accounts and accounting records,
+
+(b) prepare in respect of each financial year a statement of accounts, and
+
+(c) send a copy of the statement to the Scottish Ministers,
+
+and must do so in accordance with any directions the Scottish Ministers may give.
+
+(2) Creative Scotland must send the statement of accounts to the Auditor General for Scotland for auditing.
+
+### Reports
+
+**14** (1) As soon as practicable after the end of each financial year, Creative Scotland must prepare a report which is—
+
+(a) to provide information on the discharge of Creative Scotland's functions during that year, and
+
+(b) to include a copy of the statement of accounts for that year audited by the Auditor General for Scotland.
+
+(2) Creative Scotland must—
+
+(a) publish the report,
+
+(b) lay a copy of the report before the Scottish Parliament,
+
+(c) send a copy of the report to the Scottish Ministers.
+
+(3) Creative Scotland may publish such other reports and information on matters relevant to the functions of Creative Scotland as it considers appropriate.
+
+## SCHEDULE 10 — Creative Scotland: modifications of enactments
+
+*(introduced by section 43)*
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**1** In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies)—
+
+(a) after the entry relating to a community justice authority insert— “ Creative Scotland ”,
+
+(b) the entry relating to the Scottish Arts Council is repealed.
+
+### Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**2** In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities)—
+
+(a) after paragraph 21B insert—
+
+> **21C** Creative Scotland.
+
+,
+
+(b) paragraphs 36 and 50 are repealed.
+
+### Freedom of Information (Scotland) Act 2002 (asp 13)
+
+**3** In the Freedom of Information (Scotland) Act 2002, in schedule 1 (Scottish public authorities)—
+
+(a) after paragraph 62B insert—
+
+> **62C** Creative Scotland.
+
+,
+
+(b) paragraphs 78 and 98 are repealed.
+
+### Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+
+**4** In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (specified authorities)—
+
+(a) after the entry relating to the Bòrd na Gàidhlig insert— “ Creative Scotland ”,
+
+(b) the entries relating to—
+
+(i) the Scottish Arts Council, and
+
+(ii) Scottish Screen,
+
+are repealed.
+
+## SCHEDULE 11 — Social Care and Social Work Improvement Scotland: establishment etc.
+
+*(introduced by section 44(4))*
+
+### Status
+
+**1** (1) Social Care and Social Work Improvement Scotland is a body corporate.
+
+(2) SCSWIS is not to be regarded as a servant or agent of the Crown, or as having any status, immunity or privilege of the Crown, nor are its members or its employees to be regarded as civil servants.
+
+(3) SCSWIS's property is not to be regarded as property of, or held on behalf of, the Crown.
+
+### Membership of SCSWIS
+
+**2** (1) SCSWIS is to consist of the following members—
+
+(a) a person appointed by the Scottish Ministers to chair SCSWIS,
+
+(b) the person appointed under paragraph 2(1)(a) of Schedule 5A to the National Health Service (Scotland) Act 1978 (c. 29) to chair Healthcare Improvement Scotland,
+
+(c) the person appointed under paragraph 2 of schedule 2 to the Regulation of Care (Scotland) Act 2001 (asp 8) as convener of the Scottish Social Services Council, and
+
+(d) no fewer than 9 nor more than 12 other members appointed by the Scottish Ministers.
+
+(2) The Scottish Ministers may by order amend sub-paragraph (1)(d) by substituting for the minimum or maximum number of members for the time being specified there such other number as they think fit.
+
+**3** (1) In appointing members, the Scottish Ministers are to have regard to the desirability of including—
+
+(a) persons who have experience of, and have shown capacity and capability in, the provision of any social service,
+
+(b) persons who—
+
+(i) use, or have used, any social service or services which prospectively are to become social services,
+
+(ii) care for, or have cared for, such persons as are mentioned in sub-paragraph (i),
+
+(c) persons who have such other skills, knowledge or experience as the Scottish Ministers consider to be relevant in relation to the exercise of SCSWIS's functions.
+
+(2) In appointing members under paragraph 2(1)(d), the Scottish Ministers must appoint at least two persons—
+
+(a) one of whom falls within sub-paragraph (i), and one of whom falls within sub-paragraph (ii), of sub-paragraph (1)(b) of this paragraph, or
+
+(b) both of whom fall within either sub-paragraph (i), or sub-paragraph (ii), of sub-paragraph (1)(b) of this paragraph.
+
+### Terms of appointment etc.
+
+**4** (1) Each member of SCSWIS is to be appointed for such period as the Scottish Ministers think fit.
+
+(2) A member—
+
+(a) holds and vacates office in accordance with the terms and conditions of appointment, but
+
+(b) may, by written notice to the Scottish Ministers, resign office as a member.
+
+(3) A person is, on ceasing to be a member, eligible for reappointment.
+
+### Removal of members
+
+**5** The Scottish Ministers may, by written notice, remove a member from office if they are satisfied that—
+
+(a) the member—
+
+(i) has been adjudged bankrupt,
+
+(ii) has granted a trust deed for creditors or a composition contract,
+
+(iii) has proposed a voluntary arrangement which has been approved,
+
+(b) the member's estate has been sequestrated,
+
+(c) the member has been absent from 3 consecutive meetings of SCSWIS without the permission of SCSWIS,
+
+(d) the member is otherwise unfit or unable to discharge the functions of a member.
+
+### Disqualification from membership
+
+**6** A person is disqualified from appointment, and from holding office, as a member of SCSWIS if that person is—
+
+(a) a member of the Scottish Parliament,
+
+(b) a member of the House of Commons,
+
+(c) a member of the European Parliament.
+
+### Remuneration and allowances for members
+
+**7** SCSWIS must pay to each of its members such—
+
+(a) remuneration, and
+
+(b) allowances and expenses,
+
+as the Scottish Ministers may determine.
+
+### Chief executive and other employees
+
+**8** (1) SCSWIS is to employ a chief executive.
+
+(2) The chief executive may not be a member of SCSWIS.
+
+(3) The Scottish Ministers are to make the first appointment of the chief executive on such terms and conditions as the Scottish Ministers may determine.
+
+(4) Each subsequent chief executive is, with the approval of the Scottish Ministers, to be appointed by SCSWIS on such terms and conditions as SCSWIS may, with such approval, determine.
+
+(5) SCSWIS may (subject to any directions given under sub-paragraph (6)) appoint such other employees on such terms and conditions as SCSWIS may determine.
+
+(6) The Scottish Ministers may give directions to SCSWIS as regards—
+
+(a) the appointment of employees under sub-paragraph (5), and
+
+(b) the terms and conditions of their employment.
+
+(7) SCSWIS may, with the approval of the Scottish Ministers—
+
+(a) pay or make arrangements for the payment,
+
+(b) make payments or contributions towards the provision,
+
+(c) provide and maintain schemes (whether contributory or not) for the payment,
+
+of such pensions, allowances or gratuities to or in respect of any person who is or has ceased to be an employee of SCSWIS, as it may determine.
+
+(8) The reference in sub-paragraph (7) to pensions, allowances and gratuities includes a reference to pensions, allowances and gratuities by way of compensation for loss of employment.
+
+### Committees
+
+**9** (1) SCSWIS may establish committees for any purpose relating to its functions.
+
+(2) SCSWIS is to determine the composition of its committees.
+
+(3) SCSWIS may appoint persons who are not members of SCSWIS to be members of a committee; but such persons are not entitled to vote at meetings of the committee.
+
+(4) A committee of SCSWIS is to comply with any directions given to it by SCSWIS.
+
+### Procedure and meetings
+
+**10** (1) SCSWIS may determine its own procedure and that of its committees, including a quorum for meetings.
+
+(2) The validity of any proceedings of SCSWIS, or any of its committees, is not affected by a vacancy in membership nor by any defect in the appointment of a member.
+
+(3) Members of—
+
+(a) the Scottish Executive and persons authorised by the Scottish Ministers,
+
+(b) Healthcare Improvement Scotland and persons authorised by it,
+
+(c) the Scottish Social Services Council and persons authorised by it,
+
+may attend and take part in meetings of SCSWIS or any of its committees, but are not entitled to vote at such meetings.
+
+### General powers
+
+**11** (1) SCSWIS may do anything which appears to be necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the exercise of its functions.
+
+(2) In particular, SCSWIS may—
+
+(a) enter into contracts,
+
+(b) with the consent of the Scottish Ministers—
+
+(i) borrow money,
+
+(ii) acquire and dispose of land,
+
+(iii) borrow sums in sterling by way of overdraft for the purpose of meeting a temporary excess of expenditure over sums otherwise available to meet that expenditure.
+
+### Delegation of functions
+
+**12** (1) SCSWIS may, subject to sub-paragraphs (2) and (3), authorise—
+
+(a) the chief executive,
+
+(b) any other employee,
+
+(c) any of its committees,
+
+to exercise such of its functions, and to such extent, as it may determine.
+
+(2) SCSWIS may not authorise any of the following functions to be exercised by any other person—
+
+(a) the approval of annual reports and accounts,
+
+(b) the approval of any budget or other financial plan.
+
+(3) Sub-paragraph (1) does not affect the responsibility of SCSWIS for the exercise of its functions.
+
+### Location of office
+
+**13** SCSWIS's determination of the location of its office premises is subject to the approval of the Scottish Ministers.
+
+### Accounts
+
+**14** (1) SCSWIS must—
+
+(a) keep proper accounts and accounting records,
+
+(b) prepare in respect of each financial year a statement of accounts, and
+
+(c) send a copy of the statement to the Scottish Ministers,
+
+and must do so in accordance with any directions the Scottish Ministers may give.
+
+(2) SCSWIS must send the statement of accounts to the Auditor General for Scotland for auditing.
+
+### Reports
+
+**15** (1) As soon as practicable after the end of each financial year, SCSWIS must prepare a report which is—
+
+(a) to provide information on the discharge of SCSWIS's functions during that year, and
+
+(b) to include a copy of the statement of accounts for that year audited by the Auditor General for Scotland.
+
+(2) SCSWIS must—
+
+(a) publish the report,
+
+(b) lay a copy of the report before the Scottish Parliament,
+
+(c) send a copy of the report to the Scottish Ministers.
+
+(3) SCSWIS may publish such other reports and information on matters relevant to the functions of SCSWIS as it considers appropriate.
+
+## SCHEDULE 12 — Care services: definitions
+
+*(introduced by section 47(2))*
+
+**1** (1) A “support service” is a service provided, by reason of a person's vulnerability or need (other than vulnerability or need arising by reason only of that person being of a young age), to that person or to someone who cares for that person by—
+
+(a) a local authority;
+
+(b) any person under arrangements made by a local authority;
+
+(c) a health body; or
+
+(d) any person if it includes personal care or personal support.
+
+(2) But—
+
+(a) the expression does not include a care home service, an independent health care service (within the meaning of section 10F of the National Health Service (Scotland) Act 1978 (c. 29)), a service which provides overnight accommodation, an adoption service, a fostering service or a service excepted from this definition by regulations;
+
+(b) paragraphs (c) and (d) do not apply where the provider is a health body acting in exercise of functions conferred by the National Health Service (Scotland) Act 1978 (c. 29);
+
+(c) paragraph (d) does not apply if the provider is an individual who personally and solely gives the care or support in question.
+
+**2** A “care home service” is a service which provides accommodation, together with nursing, personal care or personal support, for persons by reason of their vulnerability or need; but the expression does not include—
+
+(a) a hospital;
+
+(b) a public, independent or grant-aided school; or
+
+(c) a service excepted from this definition by regulations.
+
+**3** (1) A “school care accommodation service” is a service which—
+
+(a) consists of the provision of residential accommodation to a pupil in a place in or outwith a public, independent or grant-aided school;
+
+(b) is provided (whether or not during term-time) for the purpose of or in connection with the pupil's attendance at the school (whether current or otherwise); and
+
+(c) is provided to the pupil by—
+
+(i) an education authority or the managers of an independent or grant-aided school; or
+
+(ii) any person under arrangements made between that person and any such authority or managers.
+
+(2) For the purposes of sub-paragraph (1)(c)(i), a service which—
+
+(a) falls within the description given by sub-paragraph (1)(a), (b) and (c)(ii); and
+
+(b) is provided to the pupil in domestic premises,
+
+is to be regarded as being provided by that authority or (as the case may be) those managers.
+
+(3) A service may be excepted from the definition in sub-paragraph (1) by regulations.
+
+**4** A “nurse agency” is a service which consists of or includes supplying, or introducing to persons who use the service, registered nurses, registered midwives or registered health visitors; but a service may be excepted from this definition by regulations.
+
+**5** (1) A “child care agency” is a service which consists of or includes supplying, or introducing to persons who use the service, child carers; but the expression does not include a nurse agency and a service may be excepted from this definition by regulations.
+
+(2) In sub-paragraph (1), “child carer” means a person who—
+
+(a) whether or not for reward; and
+
+(b) whether on a day-to-day or on an occasional basis,
+
+looks after a child wholly or mainly in the home of the child's parents.
+
+**6** A “secure accommodation service” is a service which—
+
+(a) provides accommodation for the purpose of restricting the liberty of children in residential premises where care services are provided; and
+
+(b) is approved by the Scottish Ministers for that purpose.
+
+**7** An “offender accommodation service” is a service which consists of giving advice, guidance or assistance to persons who have been provided with accommodation under subsection (1)(b) or (c) of section 27 of the Social Work (Scotland) Act 1968 (c. 49) (supervision and care of persons put on probation or released from prison etc.); but the expression does not include a support service.
+
+**8** (1) An “adoption service” is any service which is—
+
+(a) provided by a local authority under subsection (1) of section 1 of the Adoption and Children (Scotland) Act 2007 (asp 4); or
+
+(b) provided by a person other than a local authority and which consists of, or includes, services mentioned in subsection (4) of that section (the reference in subsection (5) of that section to a local authority being taken, for the purposes of this paragraph, to be a reference to a person other than a local authority), (whether the person functions generally or in relation to a service provided, under that section).
+
+(2) For the purpose of sub-paragraph (1)(b)—
+
+(a) the making by a person of arrangements for the adoption of a child by a relevant person; or
+
+(b) the placing by a person of a child for adoption with a relevant person,
+
+is not an adoption service.
+
+(3) In sub-paragraph (2), “relevant person” means—
+
+(a) a parent of the child;
+
+(b) any other relative of the child; or
+
+(c) where a parent of the child is a member of a relevant couple, the other member of the couple.
+
+(4) In sub-paragraph (3)—
+
+- “relative” has the meaning given by section 119(1) of the Adoption and Children (Scotland) Act 2007 (asp 4);
+- “relevant couple” is to be construed in accordance with section 29(3) of that Act.
+
+**9** A “fostering service” is a service which is provided by—
+
+(a) a local authority under paragraph (a) of section 26(1) of the Children (Scotland) Act 1995 (c. 36) (fostering of children looked after by a local authority);
+
+(b) a person other than a local authority and which consists of, or includes, the making of arrangements for or in connection with the performance of functions assigned to a local authority—
+
+(i) under that paragraph; or
+
+(ii) by virtue of section 5(2) to (4) of the Social Work (Scotland) Act 1968 (c. 49) (regulations relating to performance of functions assigned to a local authority under that Act); or
+
+(c) a local authority and which consists of, or includes, the functions assigned to the authority by sections 3 and 8 to 10 of the Foster Children (Scotland) Act 1984 (c. 56) (ensuring well-being etc. of certain privately fostered children).
+
+**10** The services mentioned—
+
+(a) in paragraph 9(a) and (b) and registered under this Part may be collectively referred to as the “Scottish public fostering service”;
+
+(b) in paragraph 9(c) and so registered may be collectively referred to as the “Scottish private fostering service”.
+
+**11** An “adult placement service” is a service which consists of, or includes, arranging for the provision of accommodation for an adult (that is to say for a person who has attained the age of sixteen years), together with—
+
+(a) personal care;
+
+(b) personal support; or
+
+(c) counselling, or other help, provided other than as part of a planned programme of care,
+
+by reason of the person's vulnerability or need, by placing the person with a family or individual; but a service may be excepted from this definition by regulations.
+
+**12** (1) “Child minding” means, subject to sub-paragraphs (2) and (3) and paragraph 14(a), looking after one or more children on domestic premises for reward and “act as a child minder” is to be construed accordingly; but a service may be excepted from those definitions by regulations.
+
+(2) For the purposes of sub-paragraph (1), a person who—
+
+(a) is the parent, or a relative, of a child;
+
+(b) has parental responsibilities (within the meaning given by section 1(3) of the Children (Scotland) Act 1995 (c. 36)) relating to the child;
+
+(c) is a foster parent with whom a child is placed by a local authority;
+
+(d) maintains a foster child (within the meaning of the Foster Children (Scotland) Act 1984 (c. 56));
+
+[[^F145](e) is a person with whom a child is required to reside by virtue of a compulsory supervision order or an interim compulsory supervision order (as defined in sections 83 and 86 of the Children’s Hearings (Scotland) Act 2011 (asp 1)),]
+
+(f) is a kinship carer (within the meaning of the Looked After Children (Scotland) Regulations 2009 (S.S.I. 2009/210)), of a child,
+
+does not act as a child minder when looking after that child.
+
+(3) For the purposes of sub-paragraph (1), where a person—
+
+(a) looks after a child for the parents of the child and the work consists of looking after the child wholly or mainly in the parents' home; or
+
+(b) looks after a child for the parents of the child (the “first parents”) and another child for the different parents of that other child (the “second parents”) and the work consists of looking after the children wholly or mainly in the first parents' home or in the second parents' home, or in both those homes,
+
+that work is not child minding.
+
+**13** “Day care of children” means, subject to paragraphs 14(b) to 17, a service which consists of any form of care (whether or not provided to any extent in the form of an educational activity), supervised by a responsible person and not excepted from this definition by regulations, provided for children, on premises other than domestic premises, during the day (whether or not it is provided on a regular basis or commences or ends during the hours of daylight).
+
+**14** For the purposes of—
+
+(a) paragraph 12(1), a person does not act as a child minder;
+
+(b) paragraph 13, a person does not provide day care of children,
+
+unless the period, or the total of periods, during which the service is provided exceeds two hours in any day.
+
+**15** (1) Where a person provides a service for children in particular premises on less than six days in any year, that provision is not day care of children for the purposes of paragraph 13 if the person has notified SCSWIS in writing, before the first occasion on which the service is so provided in that year, of the intention so to provide it.
+
+(2) In sub-paragraph (1), “year” means the year beginning with the day on which the service is (after the commencement of this section) first provided in the premises concerned; and thereafter any year beginning with the anniversary of that day.
+
+**16** For the purposes of paragraph 13, a service which consists of looking after children who are patients in a hospital and is provided as part of the medical treatment which they are receiving there is not day care of children.
+
+**17** For the purposes of paragraph 13, a person does not provide day care of children where—
+
+(a) the children are of school age;
+
+(b) the service is provided—
+
+(i) wholly or mainly in a public, independent or grant-aided school; and
+
+(ii) as part of the school's activities; and
+
+(c) the person is—
+
+(i) the education authority managing the school;
+
+(ii) the person carrying on the school; or
+
+(iii) a person employed to work at the school and authorised to provide the service as part of the school's activities.
+
+**18** Expressions used in paragraph 2(b), 3 or 17 have the meanings given by section 135(1) of the Education (Scotland) Act 1980 (c. 44).
+
+**19** A “housing support service” is a service which provides support, assistance, advice or counselling to a person who has particular needs, with a view to enabling that person to occupy residential accommodation as a sole or main residence; but a service may be excepted from this definition by regulations and such residential accommodation does not include accommodation specified as excepted accommodation in regulations under section 91(9) of the Housing (Scotland) Act 2001 (asp 10).
+
+**[[^F146]19A** A “child contact service” is a service which has as its sole or main purpose the facilitation of contact between a child and a person with whom the child is not, or will not be, living (including the handover of the child to that person); but the expression does not include a social work service.]
+
+**20** In this schedule, unless the context otherwise requires—
+
+- “someone who cares for” (or “a person who cares for”) a person, means someone who, being an individual, provides on a regular basis a substantial amount of care for that person, not having contracted to do so and not doing so for payment or in the course of providing a care service;
+
+- “vulnerability or need”, in relation to a person, means vulnerability or need arising by reason of that person—
+
+  - (a) being affected by infirmity or ageing;
+  - (b) being, or having been, affected by disability, illness or mental disorder;
+  - (c) being, or having been, dependent on alcohol or drugs; or
+  - (d) being of a young age;
+
+- “personal care” means care which relates to the day to day physical tasks and needs of the person cared for (as for example, but without prejudice to that generality, to eating and washing) and to mental processes related to those tasks and needs (as for example, but without prejudice to that generality, to remembering to eat and wash); and
+
+- “personal support” means counselling, or other help, provided as part of a planned programme of care.
+
+## SCHEDULE 13 — Social work services functions: specified enactments
+
+*(introduced by section 48)*
+
+- Part 4 of the Children and Young Persons (Scotland) Act 1937 (c. 37)
+- Sections 22(2) to (5A) and (8), 26(2) to (4), 43, 45, 47 and 48 of the National Assistance Act 1948 (c. 29)
+- Disabled Persons (Employment) Act 1958 (c. 33)
+- Section 11 of the Matrimonial Proceedings (Children) Act 1958 (c. 40)
+- Social Work (Scotland) Act 1968 (c. 49)
+- Social Work (Scotland) Act 1968 as read with sections 1 and 2(1) of the Chronically Sick and Disabled Persons Act 1970 (c. 44) and the Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+- Children Act 1975 (c. 72)
+- Sections 21 to 23 of the Health and Social Services and Social Security Adjudications Act 1983 (c. 41)
+- Foster Children (Scotland) Act 1984 (c. 56)
+- Sections 38(b) and 235 of the Housing (Scotland) Act 1987 (c. 26)
+- Part 2 of the Children (Scotland) Act 1995 (c. 36)
+- [^F147]...
+- Section 10 of the Adults with Incapacity (Scotland) Act 2000 (asp 4)
+- Community Care and Health (Scotland) Act 2002 (asp 5)
+- Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+- Adoption and Children (Scotland) Act 2007 (asp 4)
+- [[^F148]Carers (Scotland) Act 2016]
+
+## SCHEDULE 14 — Social Care and Social Work Improvement Scotland: modifications of enactments
+
+*(introduced by section 106)*
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**1** In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000 (devolved bodies)—
+
+(a) the entry relating to the Scottish Commission for the Regulation of Care is repealed,
+
+(b) at the appropriate place, in alphabetical order, insert— “ Social Care and Social Work Improvement Scotland ”.
+
+### Regulation of Care (Scotland) Act 2001 (asp 8)
+
+**2** The Regulation of Care (Scotland) Act 2001 is amended as follows.
+
+**3** In section 53(2)(b) (codes of practice), for “the Commission” substitute “ Social Care and Social Work Improvement Scotland ”.
+
+**4** In section 59 (general principles)—
+
+(a) in subsection (1) the words “, the Commission” are repealed,
+
+(b) after subsection (4), insert—
+
+> (5) In subsection (2), “care service” means a care service as defined in section 47(1) of the Public Services Reform (Scotland) Act 2010 (asp 8).
+
+.
+
+**5** In section 60 (grants)—
+
+(a) in subsection (1), the words “the Commission or to” are repealed,
+
+(b) in paragraph (a) of that subsection, for “body in question” substitute “ Council ”,
+
+(c) in paragraph (b) of that subsection, for “that body” substitute “ the Council ”.
+
+**6** In section 61 (guarantees)—
+
+(a) in subsection (1), the words “the Commission or” are repealed,
+
+(b) in subsection (4), the words “the Commission, or as the case may be” are repealed.
+
+**7** In section 62 (duty of consultation)—
+
+(a) the words “Commission and the” are repealed,
+
+(b) the word “each” is repealed,
+
+(c) for the words “the other” substitute “ Social Care and Social Work Improvement Scotland ”,
+
+(d) for the words “body exercising the function” substitute “ Council ”.
+
+**8** In section 63 (guidance as to consultation)—
+
+(a) the words “the Commission and to” are repealed,
+
+(b) for the words “body in question” substitute “ Council ”.
+
+**9** In section 64 (complaints procedure)—
+
+(a) in subsection (1)—
+
+(i) for the words “The Commission and the Council shall each” substitute “ The Council shall ”,
+
+(ii) for the words “body in question” substitute “ Council ”,
+
+(b) in subsection (2), for the words “body in question” substitute “ Council ”,
+
+(c) in subsection (3), for the words “body in question” substitute “ Council ”,
+
+(d) in subsection (4), for the words “body in question” substitute “ Council ”.
+
+**10** In section 65 (inquiries)—
+
+(a) in subsection (1)—
+
+(i) in paragraph (a), the words “by the Commission or” are repealed,
+
+(ii) paragraph (b) and the word “or” immediately preceding it are repealed,
+
+(b) subsection (2) is repealed,
+
+(c) in subsection (4), paragraph (b) is repealed,
+
+(d) in subsection (6)—
+
+(i) the words “(2) or” are repealed,
+
+(ii) paragraph (a) and the word “or” immediately following it are repealed,
+
+(e) in subsection (7)—
+
+(i) the words “by the Commission or” are repealed,
+
+(ii) for the words “(2), or as the case may be (3),” substitute “ (3) ”,
+
+(iii) for the words “body in question” substitute “ Council ”,
+
+(iv) for the words “that body” substitute “ the Council ”,
+
+(v) for the word “body”, in the third place it occurs, substitute “ Council ”,
+
+(f) in subsection (9), paragraph (a) and the word “or” immediately following it are repealed.
+
+### Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**11** In Part 2 of schedule 2 to the Scottish Public Services Ombudsman Act 2002 (listed authorities)—
+
+(a) paragraph 38 is repealed,
+
+(b) after paragraph 52 insert—
+
+> **52A** Social Care and Social Work Improvement Scotland.
+
+.
+
+### Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+
+**12** In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (specified authorities)—
+
+(a) the entry relating to the Scottish Commission for the Regulation of Care is repealed,
+
+(b) under the heading “Executive bodies” insert, at the appropriate place in alphabetical order— “ Social Care and Social Work Improvement Scotland ”.
+
+### Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+
+**13** The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
+
+**14** In section 7 (duty to bring matters generally to the attention of Scottish Ministers and others), for paragraph (f) substitute—
+
+> (f) Social Care and Social Work Improvement Scotland;
+
+.
+
+**15** In section 8(3) (duty to bring specific matters to the attention of Scottish Ministers and others etc), for paragraph (k) substitute—
+
+> (k) Social Care and Social Work Improvement Scotland;
+
+.
+
+**16** In section 9(2) (duty to give advice), for paragraph (e) substitute—
+
+> (e) Social Care and Social Work Improvement Scotland;
+
+.
+
+**17** In section 17(2) (duties of Scottish Ministers, local authorities and others as respects Commission), for paragraph (i) substitute—
+
+> (i) Social Care and Social Work Improvement Scotland;
+
+.
+
+**18** In section 34(3) (inquiries under section 33: co-operation), for paragraph (c) substitute—
+
+> (c) Social Care and Social Work Improvement Scotland;
+
+.
+
+### Adult Support and Protection (Scotland) Act 2007 (asp 10)
+
+**19** The Adult Support and Protection (Scotland) Act 2007 is amended as follows.
+
+**20** In section 5(1) (co-operation), for paragraph (b) substitute—
+
+> (b) SCSWIS,
+
+.
+
+**21** In section 42(3) (Adult Protection Committees), for paragraph (b) substitute—
+
+> (b) SCSWIS,
+
+.
+
+**22** In section 43 (membership)—
+
+(a) in subsection (2), for “the Care Commission” substitute “ SCSWIS ”,
+
+(b) in subsection (3), for “The Care Commission” substitute “ SCSWIS ”.
+
+**23** In section 44(2)(c) (Adult Protection Committee procedure), for “the Care Commission” substitute “ SCSWIS ”.
+
+**24** In section 45(2)(d) (duty to provide information to Adult Protection Committee), for “the Care Commission” substitute “ SCSWIS ”.
+
+**25** In section 46(b)(v) (biennial report), for “the Care Commission” substitute “ SCSWIS ”.
+
+**26** In section 53(1) (interpretation of Part 1)—
+
+(a) the definition of the Care Commission is repealed,
+
+(b) after the definition of “removal order” insert—
+
+> “SCSWIS” means Social Care and Social Work Improvement Scotland,
+
+.
+
+### Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
+
+**27** The Protection of Vulnerable Groups (Scotland) Act 2007 is amended as follows.
+
+**28** In section 8 (provision of prescribed information to the Scottish Ministers by certain persons)—
+
+(a) in subsection (2)—
+
+(i) the entry relating to the Scottish Commission for the Regulation of Care in the list of persons to whom the section applies is repealed,
+
+(ii) after the entry in that list relating to the Scottish Social Services Council insert— “ Social Care and Social Work Improvement Scotland ”,
+
+(b) in subsection (3)—
+
+(i) in paragraph (c), the words “the Scottish Commission for the Regulation of Care and” are repealed,
+
+(ii) in that paragraph, for “the Commission or, as the case may be, the Council” substitute “ it ”,
+
+(iii) the word “and” immediately following that paragraph is repealed,
+
+(iv) after that paragraph insert—
+
+> (ca) in relation to Social Care and Social Work Improvement Scotland, such functions as are conferred on it by virtue of the 2010 Act and any other enactment, and
+
+.
+
+**29** In section 17(5)(c) (information relevant to listing decisions)—
+
+(a) sub-paragraph (x) is repealed,
+
+(b) the word “or” immediately following sub-paragraph (xi) is repealed,
+
+(c) after that sub-paragraph add—
+
+> (xii) Social Care and Social Work Improvement Scotland, or
+
+.
+
+**30** In section 19 (information held by public bodies etc.), in subsection (3)—
+
+(a) the entry relating to the Scottish Commission for the Regulation of Care in the list of persons who may be required to provide information under subsection (1)(b) of that section is repealed,
+
+(b) after the entry in that list relating to the Scottish Social Services Council insert— “ Social Care and Social Work Improvement Scotland ”.
+
+**31** In section 30(7) (notice of listing, etc)—
+
+(a) the entry relating to the Scottish Commission for the Regulation of Care in the list of persons who are “relevant regulatory bodies” is repealed,
+
+(b) after the entry in that list relating to the Scottish Social Services Council insert— “ Social Care and Social Work Improvement Scotland ”.
+
+**32** In section 73(d) (consideration of suitability), for the words “the 2001 Act” substitute “ Part 5 of the 2010 Act ”.
+
+**33** In section 94 (meaning of “protected child”)—
+
+(a) in subsection (1)(a), for the words “Part 1 of the 2001 Act” substitute “ Part 5 of the 2010 Act ”,
+
+(b) in subsection (3), for the words from “paragraphs” to the end of the subsection substitute
+
+> —
+>
+> (a) paragraph (a) of subsection (1) have the same meaning as in schedule 12 to the 2010 Act,
+>
+> (b) paragraph (b)(i) and (ii) of that subsection have the same meaning as in section 105 of that Act,
+
+.
+
+**34** In section 97(1) (general interpretation)—
+
+(a) after the definition of “the 2001 Act” insert—
+
+> “the 2010 Act” means the Public Services Reform (Scotland) Act 2010 (asp 8),
+
+,
+
+(b) in the definition of “care service”, for “the 2001 Act” substitute “ Part 5 of the 2010 Act ”.
+
+**35** In schedule 2 (regulated work with children)—
+
+[^F149]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in paragraph 9, for “the 2001 Act” substitute “ schedule 12 to the 2010 Act ”,
+
+(c) in paragraph 11, for “section 2 of the 2001 Act” substitute “ schedule 12 to the 2010 Act ”.
+
+**36** In schedule 3 (regulated work with adults)—
+
+(a) in paragraph 6, for “the 2001 Act” substitute “ schedule 12 to the 2010 Act ”,
+
+(b) in paragraph 7—
+
+(i) for “section 25 of the 2001 Act” substitute “ Part 5 of the 2010 Act ”,
+
+(ii) after “service”, where it ninth occurs, insert “ and ”,
+
+(iii) for the words “the 2001 Act”, where they second occur, substitute “ schedule 12 to the 2010 Act ”,
+
+(c) in the heading to that paragraph, for “the Scottish Commission for the Regulation of Care” substitute “ Social Care and Social Work Improvement Scotland ”.
+
+### Repeals
+
+**37** The enactments mentioned in the first column of the following table are repealed to the extent specified in the second column.
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Regulation of Care (Scotland) Act 2001 (asp 8) | Parts 1 and 2. Schedule 1. |
+| Joint Inspection of Children's Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3) | The whole Act. |
+| Adoption and Children (Scotland) Act 2007 (asp 4) | Section 7. |
+
+## SCHEDULE 15 — Scottish Social Services Council: modifications of Regulation of Care (Scotland) Act 2001
+
+*(introduced by section 107)*
+
+**1** Part 3 of the Regulation of Care (Scotland) Act 2001 (asp 8) (the Scottish Social Services Council) is amended as follows.
+
+**2** In section 46 (grant or refusal of registration under Part 3)—
+
+(a) in subsection (2), the words from “or”, where it fourth occurs, to the end of the subsection are repealed,
+
+(b) after that subsection insert—
+
+> (2A) Where an application is granted unconditionally—
+>
+> (a) the Council shall give the applicant notice of its so granting the application; and
+>
+> (b) registration shall take effect immediately on such notice being given.
+>
+> (2B) If the Council is not satisfied as mentioned in subsection (2), it shall—
+>
+> (a) grant the application subject to such conditions as it thinks fit; or
+>
+> (b) refuse the application.
+>
+> (2C) The Council shall give the applicant notice of its decision under subsection (2B), which shall—
+>
+> (a) give the Council's reasons for the decision; and
+>
+> (b) explain the right of appeal conferred by section 51 of this Act.
+>
+> (2D) A decision to refuse the application takes effect immediately on notice to that effect being given.
+>
+> (2E) Notice of a decision to grant the application subject to conditions shall state—
+>
+> (a) the conditions; and
+>
+> (b) that, within fourteen days after service of the notice, the applicant may make written representations to the Council concerning any matter which the applicant wishes to dispute.
+>
+> (2F) Subject to subsections (2G) and (2H), a decision to grant the application subject to conditions takes effect at the end of the fourteen day period mentioned in subsection (2E).
+>
+> (2G) Where—
+>
+> (a) the applicant makes such representations as are mentioned in subsection (2E);
+>
+> (b) the Council, having considered the representations, confirms the decision mentioned in subsection (2F); and
+>
+> (c) no appeal is brought under section 51 of this Act,
+>
+> the decision takes effect on the expiry of the fourteen day period mentioned in subsection (A1) of that section for bringing such an appeal.
+>
+> (2H) Where an appeal against a decision mentioned in subsection (2F) is brought under section 51 of this Act (whether or not such representations as are mentioned in subsection (2E) are also made), the decision takes effect only when the appeal is finally determined or abandoned.
+
+,
+
+(c) subsection (3) is repealed.
+
+**3** In section 47 (variation etc. of conditions in relation to registration under Part 3)—
+
+(a) in subsection (1), for “that it proposes” substitute “ of its decision ”,
+
+(b) in subsection (2)—
+
+(i) the words from “give” to the end of the subsection become paragraph (a) of the subsection,
+
+(ii) for “proposal” substitute “ decision ”,
+
+(iii) after paragraph (a) (inserted by paragraph (i) above) add—
+
+> (b) explain the right of appeal conferred by section 51 of this Act; and
+>
+> (c) state the condition as varied, the condition which is removed or (as the case may be) the additional condition imposed.
+
+.
+
+**4** In section 48 (right to make representations to Council as respects proposal)—
+
+(a) in subsection (1), the words “46(2) or” are repealed,
+
+(b) for subsection (2) substitute—
+
+> (2) Subject to subsections (3) and (4), a decision under section 47 of this Act takes effect at the end of the fourteen day period mentioned in subsection (1).
+>
+> (3) Where—
+>
+> (a) the person to whom notice under section 47 was given makes such representations as are mentioned in subsection (1);
+>
+> (b) the Council, having considered the representations, confirms the decision mentioned in that section; and
+>
+> (c) no appeal is brought under section 51 of this Act,
+>
+> the decision takes effect on the expiry of the fourteen day period mentioned in subsection (A4) of that section for bringing such an appeal.
+>
+> (4) Where an appeal against a decision under section 47 is brought under section 51 (whether or not such representations as are mentioned in subsection (1) are also made), the decision takes effect only when the appeal is finally determined or abandoned.
+
+.
+
+**5** In the heading to section 48, for “proposal” substitute “ decision under section 47 ”.
+
+**6** In section 49 (removal etc. from the Council's register), in subsection (1)(e), for “proposal” substitute “ decision ”.
+
+**7** In section 50 (notice of Council's decision)—
+
+(a) subsection (1) is repealed,
+
+(b) in subsection (2), paragraph (a) and the “or” immediately following it are repealed,
+
+(c) in subsection (3), paragraph (b) is repealed,
+
+(d) in subsection (4)—
+
+(i) at the beginning insert “ Subject to subsection (5), ”,
+
+(ii) the words from “other” to “application” are repealed,
+
+(iii) in paragraph (a), for the words “referred to in section 51(1) of this Act” substitute “ after the giving of a notice under subsection (2) ”,
+
+(e) after subsection (4) add—
+
+> (5) A decision in accordance with rules under section 49(1) of this Act to suspend a person's registration in a part of the register maintained under section 44(1) of this Act takes effect immediately on notice of that decision being given.
+
+.
+
+**8** In the heading to section 50, at the end, add “ under rules under section 49 ”.
+
+**9** In section 51 (appeal against decision of Council)—
+
+(a) before subsection (1) insert—
+
+> (A1) Where—
+>
+> (a) a person is given notice under subsection (2C) of section 46 of this Act of a decision to grant an application for registration under this Part subject to conditions;
+>
+> (b) the person makes such representations as are mentioned in subsection (2E) of that section; and
+>
+> (c) the Council confirms the decision,
+>
+> the person may, within fourteen days after such confirmation is given, appeal to the sheriff against the decision.
+>
+> (A2) Where—
+>
+> (a) a person is given notice under subsection (2C) of section 46 of this Act of a decision to grant an application for registration under this Part subject to conditions; and
+>
+> (b) no representations such as are mentioned in subsection (2E) of that section are made,
+>
+> the person may, within fourteen days after service of the notice, appeal to the sheriff against the decision.
+>
+> (A3) Where a person is given notice under subsection (2C) of section 46 of this Act of a decision to refuse an application for registration under this Part, the person may, within fourteen days after service of the notice, appeal to the sheriff against the decision.
+>
+> (A4) Where—
+>
+> (a) a person is given notice under section 47(1) of this Act of a decision mentioned in that section;
+>
+> (b) the person makes such representations as are mentioned in section 48(1) of this Act; and
+>
+> (c) the Council confirms the decision,
+>
+> the person may, within fourteen days after such confirmation is given, appeal to the sheriff against the decision.
+>
+> (A5) Where—
+>
+> (a) a person is given notice under section 47(1) of this Act of a decision mentioned in that section; and
+>
+> (b) no representations such as are mentioned in section 48(1) of this Act are made,
+>
+> the person may, within fourteen days after service of the notice, appeal to the sheriff against the decision.
+
+,
+
+(b) in subsection (1), for “that notice is given” substitute “ service of the notice ”,
+
+(c) in subsection (2)—
+
+(i) for “such an appeal” substitute “ an appeal under this section ”,
+
+(ii) the “or” immediately following paragraph (a) is repealed,
+
+(iii) after paragraph (b) insert
+
+> , or
+>
+> (c) direct that it shall not have effect and make such other order as the sheriff thinks fit
+
+.
+
+**10** In section 53 (codes of practice)—
+
+(a) after subsection (3) insert—
+
+> (3A) A social service worker shall, so far as relevant, have regard to any code published under subsection (1) by the Council.
+>
+> (3B) An employer of a social service worker, or a person seeking to employ such workers, shall, so far as relevant, have regard to any code published under subsection (1) by the Council.
+
+,
+
+(b) after subsection (5) insert—
+
+> (6) The Scottish Ministers may give directions (of a general or specific nature) to—
+>
+> (a) the persons mentioned in paragraph (a) or (b) of subsection (1);
+>
+> (b) the Council,
+>
+> in relation to any code so published; and such directions must be complied with.
+>
+> (7) The Scottish Ministers may vary or revoke any direction given under subsection (6).
+
+.
+
+**11** In section 64 (complaints procedures)—
+
+(a) in subsection (2)—
+
+(i) for “Ministers” substitute “ Public Services Ombudsman ”,
+
+(ii) the words from “and” to the end of the subsection are repealed,
+
+(b) in subsection (3), for “with such consent” substitute “ after such consultation ”.
+
+## SCHEDULE 16 — Healthcare Improvement Scotland: establishment etc.
+
+*(introduced by section 110(1))*
+
+After Schedule 5 to the National Health Service (Scotland) Act 1978 (c. 29) there is inserted—
+
+> **SCHEDULE 5A — Healthcare Improvement Scotland**
+>
+> *(introduced by section 10A(5))*
+>
+> **Status**
+>
+> **1** (1) Healthcare Improvement Scotland is a body corporate.
+>
+> (2) HIS is not to be regarded as a servant or agent of the Crown, or as having any status, immunity or privilege of the Crown, nor are its members or its employees to be regarded as civil servants.
+>
+> (3) HIS's property is not to be regarded as property of, or held on behalf of, the Crown.
+>
+> **Membership of HIS**
+>
+> **2** (1) HIS is to consist of the following members—
+>
+> (a) a person appointed by the Scottish Ministers to chair HIS;
+>
+> (b) the person appointed under paragraph 2(1)(a) of schedule 11 to the Public Services Reform (Scotland) Act 2010 (asp 8) to chair Social Care and Social Work Improvement Scotland; and
+>
+> (c) no fewer than 10 nor more than 13 other members appointed by the Scottish Ministers.
+>
+> (2) The Scottish Ministers may by order amend sub-paragraph (1)(c) by substituting for the minimum or maximum number of members for the time being specified there such other number as they think fit.
+>
+> (3) In appointing members, the Scottish Ministers are to have regard to the desirability of including—
+>
+> (a) persons who have experience of, and have shown capacity and capability in, the provision of services provided under the health service or independent health care services;
+>
+> (b) persons who use, or have used services provided under the health service or independent health care services;
+>
+> (c) persons who have such other skills, knowledge or experience as the Scottish Ministers consider to be relevant in relation to the exercise of HIS's functions.
+>
+> **Terms of appointment etc.**
+>
+> **3** (1) Each member of HIS is to be appointed for such period as the Scottish Ministers think fit.
+>
+> (2) A member—
+>
+> (a) holds and vacates office in accordance with the terms and conditions of appointment; but
+>
+> (b) may, by written notice to the Scottish Ministers, resign office as a member.
+>
+> (3) A person is, on ceasing to be a member, eligible for reappointment.
+>
+> **Removal of members**
+>
+> **4** The Scottish Ministers may, by written notice, remove a member from office if they are satisfied that—
+>
+> (a) the member—
+>
+> (i) has been adjudged bankrupt;
+>
+> (ii) has granted a trust deed for creditors or a composition contract;
+>
+> (iii) has proposed a voluntary arrangement which has been approved;
+>
+> (b) the member's estate has been sequestrated;
+>
+> (c) the member has been absent from 3 consecutive meetings of HIS without the permission of HIS;
+>
+> (d) the member is otherwise unfit or unable to discharge the functions of a member.
+>
+> **Disqualification from membership**
+>
+> **5** A person is disqualified from appointment, and from holding office, as a member of HIS if that person is—
+>
+> (a) a member of the Scottish Parliament;
+>
+> (b) a member of the House of Commons;
+>
+> (c) a member of the European Parliament.
+>
+> **Remuneration and allowances for members**
+>
+> **6** HIS must pay to each of its members such—
+>
+> (a) remuneration; and
+>
+> (b) allowances and expenses,
+>
+> as the Scottish Ministers may determine.
+>
+> **Chief executive and other employees**
+>
+> **7** (1) HIS is to employ a chief executive.
+>
+> (2) The chief executive must be a member of HIS.
+>
+> (3) The Scottish Ministers are to make the first appointment of the chief executive on such terms and conditions as the Scottish Ministers may determine.
+>
+> (4) Each subsequent chief executive is, with the approval of the Scottish Ministers, to be appointed by HIS on such terms and conditions as HIS may, with such approval, determine.
+>
+> (5) HIS may (subject to any directions given under sub-paragraph (6)) appoint such other employees on such terms and conditions as HIS may determine.
+>
+> (6) The Scottish Ministers may give directions to HIS as regards—
+>
+> (a) the appointment of employees under sub-paragraph (5); and
+>
+> (b) the terms and conditions of their employment.
+>
+> (7) HIS may, with the approval of the Scottish Ministers—
+>
+> (a) pay or make arrangements for the payment;
+>
+> (b) make payments or contributions towards the provision;
+>
+> (c) provide and maintain schemes (whether contributory or not) for the payment,
+>
+> of such pensions, allowances or gratuities to or in respect of any person who is or has ceased to be an employee of HIS, as it may determine.
+>
+> (8) The reference in sub-paragraph (7) to pensions, allowances and gratuities includes a reference to pensions, allowances and gratuities by way of compensation for loss of employment.
+>
+> **Committees**
+>
+> **8** (1) HIS may establish committees for any purpose relating to its functions.
+>
+> (2) Subject to section 10Z16, HIS is to determine the composition of its committees.
+>
+> (3) HIS may appoint persons who are not members of HIS to be members of a committee.
+>
+> (4) A committee of HIS is to comply with any directions given to it by HIS.
+>
+> **Procedure and meetings**
+>
+> **9** (1) HIS may determine its own procedure and that of its committees, including a quorum for meetings.
+>
+> (2) The validity of any proceedings of HIS, or any of its committees, is not affected by a vacancy in membership nor by any defect in the appointment of a member.
+>
+> (3) Members of—
+>
+> (a) the Scottish Executive and persons authorised by the Scottish Ministers;
+>
+> (b) Social Care and Social Work Improvement Scotland and persons authorised by it,
+>
+> may attend and take part in meetings of HIS or any of its committees, but are not entitled to vote at such meetings.
+>
+> **General powers**
+>
+> **10** (1) HIS may do anything which appears to be necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the exercise of its functions.
+>
+> (2) In particular, HIS may—
+>
+> (a) enter into contracts;
+>
+> (b) with the consent of the Scottish Ministers—
+>
+> (i) borrow money;
+>
+> (ii) acquire and dispose of land;
+>
+> (iii) borrow sums in sterling by way of overdraft for the purpose of meeting a temporary excess of expenditure over sums otherwise available to meet that expenditure.
+>
+> **Delegation of functions**
+>
+> **11** (1) HIS may, subject to sub-paragraphs (2) and (3) authorise—
+>
+> (a) the chief executive;
+>
+> (b) any other employee;
+>
+> (c) any of its committees,
+>
+> to exercise such of its functions, and to such extent, as it may determine.
+>
+> (2) HIS may not authorise any of the following functions to be exercised by any other person—
+>
+> (a) the approval of annual reports and accounts;
+>
+> (b) the approval of any budget or other financial plan.
+>
+> (3) Sub-paragraph (1) does not affect the responsibility of HIS for the exercise of its functions.
+>
+> **Location of office**
+>
+> **12** HIS's determination of the location of its office premises is subject to the approval of the Scottish Ministers.
+>
+> **Accounts**
+>
+> **13** (1) HIS must—
+>
+> (a) keep proper accounts and accounting records;
+>
+> (b) prepare in respect of each financial year a statement of accounts; and
+>
+> (c) send a copy of the statement to the Scottish Ministers,
+>
+> and must do so in accordance with any directions the Scottish Ministers may give.
+>
+> (2) HIS must send the statement of accounts to the Auditor General for Scotland for auditing.
+>
+> **Reports**
+>
+> **14** (1) As soon as practicable after the end of each financial year, HIS must prepare a report which is—
+>
+> (a) to provide information on the discharge of HIS's functions during that year; and
+>
+> (b) to include a copy of the statement of accounts for that year audited by the Auditor General for Scotland.
+>
+> (2) HIS must—
+>
+> (a) publish the report;
+>
+> (b) lay a copy of the report before the Scottish Parliament;
+>
+> (c) send a copy of the report to the Scottish Ministers.
+>
+> (3) HIS may publish such other reports and information on matters relevant to the functions of HIS as it considers appropriate.
+
+.
+
+## SCHEDULE 17 — Healthcare Improvement Scotland: modifications of enactments
+
+*(introduced by section 110(2))*
+
+### National Health Service (Scotland) Act 1978 (c. 29)
+
+**1** The National Health Service (Scotland) Act 1978 is amended as follows.
+
+**2** In section 2A (duty of Health Boards and others to promote health improvement)—
+
+(a) in subsection (1) after “of”, where it second occurs, insert “ HIS and ”,
+
+(b) in subsection (2) for “or the Agency” substitute “ the Agency or HIS ”,
+
+(c) in subsection (3) for “or the Agency” substitute “ , the Agency or HIS ”.
+
+**3** In the title to that section, for “and the Agency” substitute “ , the Agency and HIS ”.
+
+**4** In section 2D (equal opportunities), in subsection (1), for “and the Agency” substitute “ , the Agency and (as respects its health service functions only) HIS ”.
+
+**5** In section 13 (co-operation between Health Boards and other authorities), after “Boards,” insert “ HIS (as respects its health service functions only), ”.
+
+**6** In section 13A (co-operation in planning of services for disabled persons, the elderly and others), in subsection (1), after “section” where it third occurs insert “ (including HIS) ”.
+
+**7** In section 15 (supply of goods and services to local authorities, etc.)—
+
+(a) after subsection (1), insert—
+
+> (1A) Paragraphs (b) to (e) of subsection (1) apply to HIS (in respect of the exercise of its health service functions only) as they apply to a Health Board.
+
+,
+
+(b) in subsection (2), after “subsection (1)”, insert “ (including paragraph (b) as applied by subsection (1A)) ”.
+
+**8** In section 17A (NHS contracts), after subsection (2)(b) insert—
+
+> (ba) HIS;
+
+.
+
+**9** In section 77 (default powers), in subsection (1)—
+
+(a) the word “or” immediately following paragraph (a) is repealed,
+
+(b) after paragraph (c) insert
+
+> ; or
+>
+> (d) HIS,
+
+.
+
+**10** In section 78A (powers in case of service failure)—
+
+(a) in subsection (4)—
+
+(i) the word “or” immediately following paragraph (b) is repealed,
+
+(ii) after paragraph (c) insert
+
+> , or
+>
+> (d) HIS.
+
+,
+
+(b) in subsection (5)(a), for “or the Agency” substitute “ , the Agency or HIS. ”.
+
+**11** In section 79 (purchase of land and moveable property), in subsection (3), for “or the Agency” substitute “ , the Agency or (in connection with the exercise of its health service functions only) HIS ”.
+
+**12** In section 83 (power of Health Boards and local health councils to hold property on trust)—
+
+(a) in subsection (1), after “Board” insert “ , and HIS, ”,
+
+(b) after that subsection insert—
+
+> (1ZA) Any reference in subsection (1) to a function of HIS is to be construed as a reference to that body's health service functions only.
+
+.
+
+**13** In section 84 (power of trustees to make payments to Health Boards)—
+
+(a) in subsection (1)—
+
+(i) after “Board”, where it second occurs, insert “ or (in connection with the exercise of its health service functions only) by HIS ”,
+
+(ii) after “concerned” insert “ or, as the case may be, to HIS ”,
+
+(b) in subsection (3), after “Board” insert “ or to HIS ”.
+
+**14** In section 84A (power to raise money, etc. by appeals, collections, etc.)—
+
+(a) in subsection (1), after “Board” insert “ or (in connection with the exercise of its health service functions only) HIS ”,
+
+(b) in subsection (3), after “power” insert “ or, as the case may be, by or for the benefit of HIS, ”,
+
+(c) after subsection (4) insert—
+
+> (4A) Subsection (4) applies (subject to the subsections mentioned there) to HIS in respect of property given in pursuance of this section as it applies to a Health Board in respect of such property given at the instance of the Health Board.
+
+,
+
+(d) in subsection (5)—
+
+(i) after “Board”, where it first occurs, insert “ or by HIS ”,
+
+(ii) at the end insert “ or, as the case may be, of HIS as HIS thinks fit. ”,
+
+(e) in subsection (6)—
+
+(i) after “Board”, where it first occurs, insert “ or by HIS ”,
+
+(ii) in paragraph (a) after “Board” insert “ or, as the case may be, HIS ”,
+
+(iii) in paragraph (b) after “Board”, where it first occurs, insert “ or by HIS ”,
+
+(iv) at the end insert “ or, as the case may be, any of the health service functions of HIS as HIS thinks fit. ”,
+
+(f) in subsection (7), after “Board” insert “ or, as the case may be, HIS ”.
+
+**15** In section 85AA (means of meeting expenditure of Health Boards out of public funds)—
+
+(a) in subsection (3)—
+
+(i) after “Board”, where it first occurs, insert “ and to HIS ”,
+
+(ii) after “Board”, where it second occurs, insert “ or, as the case may be, HIS ”,
+
+(b) in subsection (4)(a) after “functions” insert “ or, as the case may be, by HIS of its health service functions, ”,
+
+(c) in subsection (6) after “Board” insert “ or to HIS ”,
+
+(d) in subsection (8)—
+
+(i) after “Board”, where it first occurs, insert “ or to HIS ”,
+
+(ii) after “subsection” insert “ and HIS, when directions are so given to it, ”.
+
+**16** In section 85 (expenses of certain bodies)—
+
+(a) in subsection (1), after paragraph (e) insert—
+
+> (ea) HIS;
+
+,
+
+(b) after that subsection insert—
+
+> (1A) The reference in subsection (1) to the functions of HIS is to be construed as a reference to that body's health service functions only.
+
+.
+
+**17** In section 85A (financial duties of bodies referred to in section 85)—
+
+(a) after subsection (1) insert—
+
+> (1A) References to “functions” in subsection (1) are, in the application of that subsection to HIS, to be construed as references to HIS's health service functions only.
+
+,
+
+(b) in subsection (4)(a), after “Board” insert “ , HIS ”.
+
+**18** In section 85B (schemes for meeting losses and liabilities etc. of certain health service bodies)—
+
+(a) in subsection (2), after paragraph (e) insert—
+
+> (ea) HIS;
+
+,
+
+(b) after that subsection insert—
+
+> (2A) The reference—
+>
+> (a) in paragraph (a) of subsection (1) to property of HIS is to be construed as a reference to property held by HIS in connection with the exercise of its health service functions;
+>
+> (b) in paragraph (b) of that subsection to the functions of HIS is to be construed as a reference to the health service functions of that body.
+
+,
+
+(c) in subsection (3)(a), after “Agency” insert “ HIS ”,
+
+(d) in subsection (4)(b), after “Agency” insert “ , HIS ”.
+
+**19** In section 86 (accounts of Health Boards and the Agency)—
+
+(a) in subsection (1)—
+
+(i) after paragraph (b) insert—
+
+> (ba) HIS;
+
+,
+
+(ii) after “them” insert “ (in the case of HIS, in connection with the exercise of that body's health service functions only) ”,
+
+(b) in each of subsections (3) and (4), for “and (b)” substitute “ , (b) and (ba) ”.
+
+**20** In section 87 (regulation of financial arrangements of Health Boards)—
+
+(a) in subsection (1), after “Agency” insert “ HIS ”,
+
+(b) after subsection (3) add—
+
+> (4) In relation to HIS, the references—
+>
+> (a) in subsection (1) to payments;
+>
+> (b) in subsection (2) to arrangements and affairs; and
+>
+> (c) in subsection (3) to affairs,
+>
+> are to be construed as references to payments, arrangements and affairs for or in connection with the exercise by HIS of its health service functions only.
+
+.
+
+**21** In section 105 (orders, regulations and directions), in subsection (3)—
+
+(a) after “under”, where it first occurs, insert “ section 10O, section 10Z7 or ”,
+
+(b) after “under”, where it second occurs, insert “ section 10G, 10Z16(3) or ”.
+
+**22** In section 108 (interpretation and construction), after the definition of “health service hospital” insert—
+
+> “HIS” has the meaning indicated in section 10A;
+
+.
+
+### National Health Service and Community Care Act 1990 (c. 19)
+
+**23** In the National Health Service and Community Care Act 1990, in subsection (7) of section 60 (removal of Crown immunity), after paragraph (b) insert—
+
+> (ba) Healthcare Improvement Scotland established under section 10A of that Act;
+
+.
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**24** In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000 (devolved public bodies)—
+
+(a) the entry relating to NHS Quality Improvement Scotland is repealed,
+
+(b) at an appropriate place, in alphabetical order, insert— “ Healthcare Improvement Scotland ”.
+
+### Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**25** In Part 1 of schedule 2 to the Scottish Public Services Ombudsman Act 2002 (listed authorities), after paragraph 4(f) add—
+
+> (g) Healthcare Improvement Scotland
+
+.
+
+### Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+
+**26** In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (specified authorities), under the heading “National Health Service bodies”, at the appropriate place in alphabetical order, insert— “ Healthcare Improvement Scotland ”.
+
+### Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+
+**27** The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
+
+**28** In section 7 (duty to bring matters generally to the attention of Scottish Ministers and others), after paragraph (e) insert—
+
+> (ea) Healthcare Improvement Scotland;
+
+.
+
+**29** In section 8(3) (duty to bring specific matters to the attention of Scottish Ministers and others etc), after paragraph (j) insert—
+
+> (ja) Healthcare Improvement Scotland;
+
+.
+
+**30** In section 9(2) (duty to give advice), after paragraph (d) insert—
+
+> (da) Healthcare Improvement Scotland;
+
+.
+
+**31** In section 17(2) (duties of Scottish Ministers, local authorities and others as respects Commission), after paragraph (h) insert—
+
+> (ha) Healthcare Improvement Scotland;
+
+.
+
+**32** In section 34(3) (inquiries under section 33: co-operation), after paragraph (b) insert—
+
+> (ba) Healthcare Improvement Scotland;
+
+.
+
+### Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)
+
+**33** In section 30 of the Smoking, Health and Social Care (Scotland) Act 2005 (implementation of certain decisions under the Regulation of Care (Scotland) Act 2001), subsection (2) is repealed.
+
+### Human Tissue (Scotland) Act 2006 (asp 4)
+
+**34** In section 13 of the Human Tissue (Scotland) Act 2006 (preservation for transplantation), in subsection (5), in the definition of registered independent health care services, for the words from “section 2(5)” to the end of the definition substitute “ section 10E of the National Health Service (Scotland) Act 1978 (c. 29)) registered under section 10P of that Act; ”.
+
+### Adult Support and Protection (Scotland) Act 2007 (asp 10)
+
+**35** In the Adult Support and Protection (Scotland) Act 2007—
+
+(a) in section 5 (co-operation), in subsection (1), after paragraph (b) insert—
+
+> (ba) Healthcare Improvement Scotland,
+
+,
+
+(b) in section 42 (Adult Protection Committees), in subsection (3), after paragraph (b) insert—
+
+> (ba) Healthcare Improvement Scotland,
+
+.
+
+### Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
+
+**36** In the Protection of Vulnerable Groups (Scotland) Act 2007—
+
+(a) in section 8 (provision of prescribed information to the Scottish Ministers by certain persons)—
+
+(i) in subsection (2), after the entry relating to the General Teaching Council for Scotland in the list of persons to whom the section applies insert— “ Healthcare Improvement Scotland ”,
+
+(ii) in subsection (3), after paragraph (a) insert—
+
+> (aa) in relation to Healthcare Improvement Scotland, such functions as are conferred on it by virtue of the National Health Service (Scotland) Act 1978 (c. 29) and any other enactment,
+
+,
+
+(b) in section 19 (information held by public bodies etc.), in subsection (3), after the entry relating to Health Boards and Special Health Boards in the list of persons who may be required to provide information under subsection (1)(b) of that section insert— “ Healthcare Improvement Scotland ”,
+
+(c) in section 30 (notice of listing), in subsection (7), after the entry relating to the General Teaching Council for Scotland in the list of persons who are “relevant regulatory bodies” insert— “ Healthcare Improvement Scotland ”,
+
+(d) in section 94 (meaning of “protected adult”), in subsection (3), after paragraph (b) add—
+
+> (c) paragraph (b)(iii) to (vi) of that subsection have the same meanings as in section 10F of the National Health Service (Scotland) Act 1978 (c. 29).
+
+,
+
+(e) in schedule 2 (regulated work with children), in paragraph 10, for “the 2001 Act” substitute “ section 10F of the National Health Service (Scotland) Act 1978 (c. 29) ”,
+
+(f) in schedule 3 (regulated work with adults), in paragraph 7—
+
+(i) after “of”, where it second occurs, insert “ section 10J or 10M of the National Health Service (Scotland) Act 1978 (c. 29) or ”,
+
+(ii) the words “, and “independent health care service”” are repealed,
+
+(iii) at the end add “ ; and “independent health care service” has the same meaning as in section 10F of the National Health Service (Scotland) Act 1978. ”,
+
+(g) in the heading to that paragraph of schedule 3, after the word “Scotland” (inserted by schedule 14), add “ and Healthcare Improvement Scotland ”.
+
+### Public Health etc. (Scotland) Act 2008 (asp 5)
+
+**37** In the Public Health etc. (Scotland) Act 2008—
+
+(a) in section 6 (duty of health boards and local authorities to co-operate with certain persons), in subsection (2), after paragraph (d) insert—
+
+> (da) Healthcare Improvement Scotland;
+
+,
+
+(b) in section 117 (disclosure of information), in subsection (8), after paragraph (d) insert—
+
+> (da) Healthcare Improvement Scotland;
+
+.
+
+## SCHEDULE 18 — The Mental Welfare Commission for Scotland: modifications of the Mental Health (Care and Treatment) (Scotland) Act 2003
+
+*(introduced by section 111)*
+
+**1** In section 326(4)(a) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), for “3(3)” substitute “ 2A(2) or 7A(4) ”.
+
+**2** Schedule 1 to that Act is amended as follows.
+
+**3** Paragraphs 3, 4 and 5 are repealed.
+
+**4** After paragraph 2 insert—
+
+> **Membership**
+>
+> **2A** (1) The Commission is to consist of the following members—
+>
+> (a) a person appointed by the Scottish Ministers to chair the Commission; and
+>
+> (b) no fewer than 6 nor more than 8 other members appointed by the Scottish Ministers.
+>
+> (2) The Scottish Ministers may by order amend sub-paragraph (1)(b) by substituting for the minimum or maximum number of members for the time being specified there such other number as they think fit.
+>
+> **2B** (1) In appointing members, the Scottish Ministers are to have regard to the desirability of including—
+>
+> (a) persons who have experience of, and have shown capacity and capability in, the provision of services to those who have a mental disorder;
+>
+> (b) persons who use, or have used, such services;
+>
+> (c) persons who are, or have been, carers of those who have a mental disorder;
+>
+> (d) persons who have such other skills, knowledge or experience as the Scottish Ministers consider to be relevant in relation to the exercise of the Commission's functions.
+>
+> (2) In appointing members under paragraph 2A(1)(b), the Scottish Ministers must appoint at least—
+>
+> (a) one person who falls within paragraph (b) of sub-paragraph (1) of this paragraph; and
+>
+> (b) one person who falls within paragraph (c) of sub-paragraph (1) of this paragraph.
+>
+> **Terms of appointment etc.**
+>
+> **2C** (1) Each member of the Commission is to be appointed for such period as the Scottish Ministers think fit.
+>
+> (2) A member—
+>
+> (a) holds and vacates office in accordance with the terms and conditions of appointment; but
+>
+> (b) may, by written notice to the Scottish Ministers, resign office as a member.
+>
+> (3) A person is, on ceasing to be a member, eligible for reappointment.
+>
+> **Removal of members**
+>
+> **2D** The Scottish Ministers may, by written notice, remove a member from office if they are satisfied that—
+>
+> (a) the member—
+>
+> (i) has been adjudged bankrupt;
+>
+> (ii) has granted a trust deed for creditors or a composition contract;
+>
+> (iii) has proposed a voluntary arrangement which has been approved;
+>
+> (b) the member's estate has been sequestrated;
+>
+> (c) the member has been absent from 3 consecutive meetings of the Commission without the permission of the Commission;
+>
+> (d) the member is otherwise unfit or unable to discharge the functions of a member.
+>
+> **Disqualification from membership**
+>
+> **2E** A person is disqualified from appointment, and from holding office, as a member of the Commission if that person is—
+>
+> (a) a member of the Scottish Parliament;
+>
+> (b) a member of the House of Commons;
+>
+> (c) a member of the European Parliament.
+
+.
+
+**5** In paragraph 7—
+
+(a) in sub-paragraph (1), after “below” insert “ and paragraph 10A ”,
+
+(b) in sub-paragraph (1)(a), for “officer” substitute “ executive ”,
+
+(c) in sub-paragraph (3), for “officer” substitute “ executive ”,
+
+(d) in sub-paragraph (4), for “officer” substitute “ executive ”.
+
+**6** In the title to paragraph 7, for “officer” substitute “ executive ”.
+
+**7** After paragraph 7 insert—
+
+> **Commission Visitors**
+>
+> **7A** (1) The Commission must appoint such staff, employed under paragraph 7(1)(a) or (b), to exercise the functions of Commission Visitors; and when doing so those staff are to be known as Commission Visitors.
+>
+> (2) The Commission may arrange for such other persons as it thinks fit to be appointed as and exercise the functions of Commission Visitors; and when doing so those persons are to be known as Commission Visitors.
+>
+> (3) There may be no more than 10 Commission Visitors appointed by the Commission under sub-paragraph (2).
+>
+> (4) The Scottish Ministers may by order amend sub-paragraph (3) by substituting for the maximum number of Commission Visitors for the time being specified there such other number as they think fit.
+>
+> (5) In appointing Commission Visitors, the Commission is to have regard to the desirability of appointing—
+>
+> (a) persons who have experience of, and have shown capacity and capability in, the provision of services to those who have a mental disorder;
+>
+> (b) persons who use, or have used, such services;
+>
+> (c) persons who are, or have been, carers of those who have a mental disorder;
+>
+> (d) persons who have such other skills, knowledge or experience as the Commission considers to be relevant in relation to the exercise of the functions of Commission Visitors.
+>
+> (6) In appointing Commission Visitors, the Commission must appoint at least—
+>
+> (a) one person who falls within paragraph (b) of sub-paragraph (5); and
+>
+> (b) one person who falls within paragraph (c) of sub-paragraph (5).
+>
+> (7) In this Act (unless the context otherwise requires), any reference to a function of a Commission Visitor (or the functions of Commission Visitors) is a reference to a function conferred by this Act or any other enactment.
+>
+> **Commission Visitors: further provision**
+>
+> **7B** (1) The arrangements entered into by virtue of paragraph 7A(2) may include provision with respect to the payment of remuneration and allowances to, or amounts in respect of, such persons.
+>
+> (2) Persons appointed as Commission Visitors by virtue of paragraph 7A(2) are not members of staff of the Commission.
+>
+> **Medical Visitors**
+>
+> **7C** (1) In appointing Commission Visitors, the Commission must appoint one or more persons who have such qualifications, training and experience as may be prescribed by regulations for the purposes of carrying out the functions of Commission Visitors under section 15 of this Act.
+>
+> (2) Persons so appointed may also be known as Medical Visitors.
+>
+> **Committees**
+>
+> **7D** (1) The Commission may establish committees for any purpose relating to its functions.
+>
+> (2) Subject to sub-paragraph (7), the Commission is to determine the composition of its committees.
+>
+> (3) The Commission may appoint persons who are not members of the Commission to be members of a committee.
+>
+> (4) A committee of the Commission is to comply with any directions given to it by the Commission.
+>
+> (5) The Commission must establish at least one committee (an “advisory committee”) for the purpose of giving advice to it about matters connected to its functions.
+>
+> (6) In considering how to exercise its functions, the Commission must have regard to relevant advice and information given to it by any advisory committee (whether or not given at its request).
+>
+> (7) An advisory committee must include persons of a description as may be prescribed by regulations.
+>
+> **Procedure and meetings**
+>
+> **7E** (1) The Commission may determine its own procedure and that of its committees, including a quorum for meetings.
+>
+> (2) The validity of any proceedings of the Commission, or any of its committees, is not affected by a vacancy in membership nor by any defect in the appointment of a member.
+>
+> (3) Members of the Scottish Executive and persons authorised by the Scottish Ministers may attend and take part in meetings of the Commission or any of its committees, but are not entitled to vote at such meetings.
+>
+> **Exercise of certain functions etc.**
+>
+> **7F** (1) A member of the Commission may not—
+>
+> (a) exercise the functions of a Commission Visitor;
+>
+> (b) be appointed as a Commission Visitor.
+>
+> (2) The chief executive may not be a member of the Commission.
+>
+> (3) A member of staff of the Commission (other than a Commission Visitor) may not exercise the functions of a Commission Visitor.
+>
+> (4) An appointment as a Commission Visitor under paragraph 7A(1) does not affect the appointed person's—
+>
+> (a) status as employed under paragraph 7(1)(a) or (b); or
+>
+> (b) ability to perform the duties of the person as so employed.
+>
+> **Delegation of functions**
+>
+> **7G** (1) The Commission may, subject to sub-paragraphs (2), (3) and (4), authorise—
+>
+> (a) the chief executive;
+>
+> (b) any other employee;
+>
+> (c) any of its committees,
+>
+> to exercise such of its functions, and to such extent, as it may determine.
+>
+> (2) The Commission may not authorise any of the following functions to be exercised by any other person—
+>
+> (a) the functions of the Commission under section 12 (investigations: further provision);
+>
+> (b) the approval of any acquisition or disposal of land or other property with a value greater than £50,000 or such other amount as the Commission may, with the consent of the Scottish Ministers, determine;
+>
+> (c) the approval of annual reports and accounts;
+>
+> (d) the approval of any budget or other financial plan.
+>
+> (3) Any function conferred on a Commission Visitor may not be delegated by the Commission.
+>
+> (4) Sub-paragraph (1) does not affect the responsibility of the Commission for the exercise of its functions.
+>
+> (5) The chief executive may, with the consent of the Commission, authorise—
+>
+> (a) any other employee;
+>
+> (b) any of the Commission's committees,
+>
+> to exercise such of the chief executive's functions, and to such extent, as the chief executive, with such consent, may determine.
+>
+> (6) Sub-paragraph (5) does not affect the responsibility of the chief executive for the exercise of the chief executive's functions.
+>
+> **Mandatory delegation of functions to chief executive**
+>
+> **7H** (1) The Commission must delegate to the chief executive the functions mentioned in sub-paragraph (2).
+>
+> (2) The functions are—
+>
+> (a) the Commission's functions relating to the discharge of patients under this Act;
+>
+> (b) the Commission's functions under section 73 of the Adults with Incapacity (Scotland) Act 2000 (asp 4).
+>
+> (3) When exercising those functions so delegated, the chief executive must—
+>
+> (a) consult the Commission;
+>
+> (b) consult a Commission Visitor in every case in which it appears to the chief executive appropriate to do so;
+>
+> (c) have regard to any relevant guidance issued by the Commission.
+>
+> (4) Sub-paragraph (1) does not affect the responsibility of the Commission for the exercise of its functions.
+>
+> **Location of office**
+>
+> **7I** The Commission's determination of the location of its office premises is subject to the approval of the Scottish Ministers.
+
+.
+
+**8** Paragraph 8 is repealed.
+
+**9** After paragraph 10 insert—
+
+> **Transitional provision: first chief executive**
+>
+> **10A** (1) The person who, immediately before the coming into force of this paragraph, holds (by virtue of paragraph 7) the post of chief officer of the Commission becomes the first chief executive of the Commission.
+>
+> (2) But if—
+>
+> (a) there is no person holding that post immediately before the coming into force of this paragraph; or
+>
+> (b) the person holding the post immediately before the coming into force of this paragraph is unwilling or unable to be the chief executive,
+>
+> the Scottish Ministers are to make the first appointment of the chief executive of the Commission on such terms and conditions as the Scottish Ministers may determine.
+>
+> (3) Each subsequent chief executive is appointed in accordance with paragraph 7.
+>
+> (4) Where sub-paragraph (1) applies, the person becoming the first chief executive of the Commission does so on the terms and conditions which applied to the post of chief officer held by that person.
+>
+> **Transitional provision: Commissioners**
+>
+> **10B** Any person who, immediately before the coming into force of this paragraph, is a member of the Commission (including any ex officio members) by virtue of paragraph 3 ceases automatically to hold office as such a member.
+
+.
+
+## SCHEDULE 19 — Scrutiny functions: persons etc. subject to user focus duty
+
+*(introduced by section 112)*
+
+- Accounts Commission for Scotland
+- Drinking Water Quality Regulator for Scotland
+- [[^F150]Food Standards Scotland]
+- Healthcare Improvement Scotland
+- [[^F151]Her Majesty's Inspectors of Constabulary appointed under section 71 of the Police and Fire Reform (Scotland) Act 2012 (asp 8)]
+- [[^F152]Her Majesty's Chief Inspector of the Scottish Fire and Rescue Service, Her Majesty's Inspectors of the Scottish Fire and Rescue Service and Assistant Inspectors of the Scottish Fire and Rescue Service appointed under section 43A of the Fire (Scotland) Act 2005 (asp 5)]
+- Her Majesty's Chief Inspector of Prisons for Scotland
+- Her Majesty's Chief Inspector of Prosecution in Scotland
+- [[^F153]His Majesty’s Chief Inspector of Education in Scotland]
+- Mental Welfare Commission for Scotland
+- Office of the Scottish Charity Regulator
+- [[^F154]Scottish housing regulator ]
+- Scottish Road Works Commissioner
+- Social Care and Social Work Improvement Scotland
+
+## SCHEDULE 20 — Scrutiny functions: persons etc. subject to duty of co-operation
+
+*(introduced by section 114)*
+
+- Accounts Commission for Scotland
+- [[^F155]Food Standards Scotland]
+- Healthcare Improvement Scotland
+- [[^F156]Her Majesty's Inspectors of Constabulary appointed under section 71 of the Police and Fire Reform (Scotland) Act 2012 (asp 8)]
+- [^F157]...
+- Her Majesty's Chief Inspector of Prisons for Scotland
+- Her Majesty's Chief Inspector of Prosecution in Scotland
+- [[^F158]His Majesty’s Chief Inspector of Education in Scotland]
+- Mental Welfare Commission for Scotland
+- [[^F159]Scottish Housing Regulator ]
+- Social Care and Social Work Improvement Scotland
+
+---
+
+[^F1]: Words in s. 3(4) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 3(2)(a) (with reg. 3)
+[^F2]: Words in s. 3(5) substituted (10.11.2022) by The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 3(2)(b) (with reg. 3)
+[^F3]: S. 3(8) omitted (10.11.2022) by virtue of The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296), reg. 1(1), sch. para. 3(2)(c) (with reg. 3)
+[^F4]: Ss. 14-30 cease to have effect (2.8.2015) by virtue of Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(2)(3) (with s. 134(4)(5)); however, ss. 14-30 continue to have effect until 4.6.2020 by virtue of The Public Services Reform (Scotland) Act 2010 (Part 2 Extension) Order 2015 (S.S.I. 2015/234), arts. 1, 2; which continuation is further extended until 5.5.2025 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2020 (S.S.I. 2020/140), arts. 1, 2; which continuation is further extended until 27.3.2030 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2025 (S.S.I. 2025/97), arts. 1, 2
+[^F5]: S. 47(1)(n) inserted (19.11.2025 and 20.11.2025 for specified purposes) by The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356), arts. 1(2)(3), 2(2) (with art. 3)
+[^F6]: Word in s. 51(3)(b) repealed (1.4.2015) by The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157), art. 1(1), Sch. para. 10(2)(a)
+[^F7]: S. 51(3)(b)(va) inserted (1.4.2015) by The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157), art. 1(1), Sch. para. 10(2)(b)
+[^F8]: S. 53(1)(c) added (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 54(a), 72(2); S.S.I. 2014/231, art. 2
+[^F9]: Words in s. 53(2) substituted (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 54(b)(i), 72(2); S.S.I. 2014/231, art. 2
+[^F10]: S. 53(2)(f)-(j) added (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 54(b)(ii), 72(2); S.S.I. 2014/231, art. 2
+[^F11]: S. 53(2A) inserted (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 54(c), 72(2); S.S.I. 2014/231, art. 2
+[^F12]: S. 53(7) added (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 54(d), 72(2); S.S.I. 2014/231, art. 2
+[^F13]: S. 53A inserted (temp.) (27.5.2020) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 1 para. 22(2) (with s. 9) (which affecting provision is suspended (30.9.2021 at the end of the day) by Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19), ss. 3(1), 11(2); and which affecting provision expires (1.10.2022) by Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 9(1))
+[^F14]: Word in s. 56(4)(c) omitted (1.4.2017) by virtue of The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016 (S.S.I. 2016/157), arts. 1, 5(a)
+[^F15]: S. 56(4)(e) and word inserted (1.4.2017) by The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016 (S.S.I. 2016/157), arts. 1, 5(b)
+[^F16]: S. 57A inserted (7.1.2026) by Care Reform (Scotland) Act 2025 (asp 9), ss. 23(2), 39(2); S.S.I. 2025/388, reg. 2(1)(2), sch. Pt. 1
+[^F17]: S. 59A inserted (1.9.2025) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), ss. 28(3), 38(3); S.S.I. 2025/115, reg. 2(2)(b)
+[^F18]: Words in s. 60(3)(a) inserted (1.4.2024) by Health and Care (Staffing) (Scotland) Act 2019 (asp 6), ss. 13(1)(a), 15(2); S.S.I. 2024/20, reg. 2(2)
+[^F19]: Ss. 63A, 63B and cross-heading inserted (temp.) (27.5.2020) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 1 para. 16(2) (with s. 9) (which affecting provision expires (1.10.2022) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 9(1))
+[^F20]: Words in s. 64(1) repealed (7.1.2026) by Care Reform (Scotland) Act 2025 (asp 9), ss. 22(2)(a), 39(2); S.S.I. 2025/388, reg. 2(1)(2), sch. Pt. 1
+[^F21]: S. 64(1A) inserted (7.1.2026) by Care Reform (Scotland) Act 2025 (asp 9), ss. 22(2)(b), 39(2); S.S.I. 2025/388, reg. 2(1)(2), sch. Pt. 1
+[^F22]: Ss. 65A, 65B inserted (temp.) (27.5.2020) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 1 para. 17(2) (with s. 9) (which affecting provision expires (1.10.2022) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 9(1))
+[^F23]: Ss. 65A, 65B inserted (temp.) (27.5.2020) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 1 para. 17(2) (with s. 9); but then repealed (1.10.2022) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 9(1)
+[^F24]: Word in s. 74(d) omitted (19.11.2025 and 20.11.2025 for specified purposes) by virtue of The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356), arts. 1(2)(3), 2(3)(a) (with art. 3)
+[^F25]: S. 74(f) and word inserted (19.11.2025 and 20.11.2025 for specified purposes) by The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356), arts. 1(2)(3), 2(3)(b) (with art. 3)
+[^F26]: Ss. 78B-78G and cross-heading inserted (7.1.2026 for specified purposes, 31.3.2026 in so far as not already in force) by Care Reform (Scotland) Act 2025 (asp 9), ss. 14(2), 39(2); S.S.I. 2025/388, reg. 2(1)(2)(3), sch. Pt. 1
+[^F27]: S. 79A inserted (temp.) (27.5.2020) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 1 para. 23(2) (with s. 9) (which affecting provision is suspended (30.9.2021 at the end of the day) by Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19), ss. 3(1), 11(2)); and which affecting provision expires (1.10.2022) by virtue of Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 9(1))
+[^F28]: Pt. 5 Ch. 3A inserted (1.4.2024) by Health and Care (Staffing) (Scotland) Act 2019 (asp 6), ss. 12(2), 15(2); S.S.I. 2024/20, reg. 2(2) (as amended by The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127), regs. 1, 3(4))
+[^F29]: S. 101 substituted (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 38(2), 59(1)
+[^F30]: Words in s. 104(2) substituted (1.4.2024) by Health and Care (Staffing) (Scotland) Act 2019 (asp 6), ss. 13(1)(b), 15(2); S.S.I. 2024/20, reg. 2(2)
+[^F31]: Words in s. 105(1) inserted (1.9.2025) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), ss. 28(5)(a), 38(3); S.S.I. 2025/115, reg. 2(2)(b)
+[^F32]: Words in s. 105(1) substituted (24.6.2013) by The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, Sch. 1 para. 19(2)
+[^F33]: Words in s. 105(1) inserted (19.11.2025 and 20.11.2025 for specified purposes) by The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356), arts. 1(2)(3), 2(4) (with art. 3)
+[^F34]: Words in s. 105(1) inserted (1.9.2025) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), ss. 28(5)(b), 38(3); S.S.I. 2025/115, reg. 2(2)(b)
+[^F35]: Words in s. 105(1) substituted (30.9.2026) by Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16), ss. 29(2), 70(2); S.S.I. 2026/258, reg. 2, sch.
+[^F36]: Words in s. 105(1) inserted (1.4.2015) by The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157), art. 1(1), Sch. para. 10(3)
+[^F37]: Words in s. 105(1) inserted (1.9.2025) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), ss. 28(5)(c), 38(3); S.S.I. 2025/115, reg. 2(2)(b)
+[^F38]: Word in s. 114(2)(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(2)(a)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F39]: S. 114(2)(d) and word inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(2)(a)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F40]: Word in s. 114(3)(a)(ii) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(2)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F41]: S. 114(3)(a)(iv) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(2)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F42]: Words in s. 114(10)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(2)(c)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F43]: Words in s. 114(10)(b) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(2)(c)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F44]: Definition in s. 114(11) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(2)(d); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F45]: Words in s. 115(6) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(3); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F46]: Words in s. 115(6) substituted (1.3.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 25(2); S.S.I. 2026/2, reg. 2(4)(5), sch. Pt. 2 (with reg. 9)
+[^F47]: Words in s. 115(6) inserted (1.4.2012) by Housing (Scotland) Act 2010 (asp 17), s. 166(2), Sch. 2 para. 15(2); S.S.I. 2012/39, art. 2, Sch. 1 (with Sch. 2) (as amended (1.4.2012) by S.S.I. 2012/91, art. 4)
+[^F48]: Words in s. 115(11) substituted (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 56(2), 72(2); S.S.I. 2014/231, art. 2
+[^F49]: Words in s. 115(12) substituted (20.12.2016) by Community Empowerment (Scotland) Act 2015 (asp 6), s. 142(1), sch. 4 para. 11; S.S.I. 2016/410, art. 2(a)
+[^F50]: S. 116A inserted (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 56(3), 72(2); S.S.I. 2014/231, art. 2
+[^F51]: S. 117(6) added (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 56(4), 72(2); S.S.I. 2014/231, art. 2
+[^F52]: Sch. 2 paras. 16-18 omitted (1.4.2014) by virtue of The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 19(3) (with Sch. 1 para. 28, Sch. 2 paras. 13-15)
+[^F53]: Sch. 5 ceases to have effect (2.8.2015) by virtue of Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(2)(3) (with s. 134(4)(5)); however, Sch. 5 continues to have effect, initially until 4.6.2020 by virtue of The Public Services Reform (Scotland) Act 2010 (Part 2 Extension) Order 2015 (S.S.I. 2015/234), arts. 1, 2, and then until 5.5.2025 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2020 (S.S.I. 2020/140), arts. 1, 2; which continuation is further extended until 27.3.2030 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2025 (S.S.I. 2025/97), arts. 1, 2
+[^F54]: Words in Sch. 5 repealed (12.1.2018) by The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4), reg. 1(1), Sch. 2 para. 5(2)
+[^F55]: Words in sch. 5 inserted (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 7(2)(a); S.S.I. 2021/124, reg. 2, sch.
+[^F56]: Sch. 5 entry inserted (2.7.2012) by The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 26(2) (with arts. 4-6)
+[^F57]: Sch. 5 entry inserted (24.6.2013) by The Public Services Reform (Scotland) Act 2010 Modification Order 2013 (S.S.I. 2013/192), arts. 1(2), 2(b)
+[^F58]: Sch. 5 entries repealed (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), Sch. 1 para. 20(a) (with s. 31(6), Sch. 7)
+[^F59]: Sch. 5 entries omitted (24.6.2013) by virtue of The Public Services Reform (Scotland) Act 2010 Modification Order 2013 (S.S.I. 2013/192), arts. 1(2), 2(a)
+[^F60]: Sch. 5 entry substituted (1.7.2013) by The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(a)
+[^F61]: Sch. 5 entry inserted (1.4.2022) by Consumer Scotland Act 2020 (asp 11), s. 29(2), sch. 2 para. 5(a); S.S.I. 2021/464, reg. 2
+[^F62]: Words in sch. 5 inserted (1.4.2026) by Scottish Elections (Representation and Reform) Act 2025 (asp 4), ss. 70(2)(a), 73(2); S.S.I. 2025/260, reg. 3, sch. Pt. 2
+[^F63]: Sch. 5 entry inserted (31.8.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39), arts. 1, 3(2)(b)
+[^F64]: Sch. 5 entry inserted (1.4.2015) by The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157), art. 1(1), Sch. para. 10(4)
+[^F65]: Sch. 5 entry inserted (27.2.2015) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), Sch. 6 para. 5(a)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, Sch.
+[^F66]: Words in sch. 5 repealed (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 7(2)(b); S.S.I. 2021/124, reg. 2, sch.
+[^F67]: Sch. 5 entry substituted (1.2.2013) by National Library of Scotland Act 2012 (asp 3), s. 12(3), Sch. 2 para. 9(a); S.S.I. 2013/1, art. 2
+[^F68]: Words in sch. 5 inserted (27.4.2024) by The National Smart Ticketing Advisory Board (Public Services Reform) (Scotland) Order 2024 (S.S.I. 2024/129), arts. 1, 2
+[^F69]: Words in sch. 5 inserted (1.5.2024) by Patient Safety Commissioner for Scotland Act 2023 (asp 6), s. 24(2), sch. 2 para. 3(2); S.S.I. 2024/110, reg. 2(1)
+[^F70]: Sch. 5 entry substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(4); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F71]: Words in Sch. 5 inserted (1.7.2019) by Child Poverty (Scotland) Act 2017 (asp 6), s. 16(2), Sch. para. 13(4)
+[^F72]: Sch. 5 entry inserted (31.8.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39), arts. 1, 3(2)(c)
+[^F73]: Sch. 5 entry omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), Sch. 2 para. 7(2) (with Sch. 1)
+[^F74]: Sch. 5 entry repealed (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Panel) Regulations 2016 (S.S.I. 2016/338), reg. 1(2), Sch. 2 para. 3(2) (with Sch. 1 para. 5)
+[^F75]: Sch. 5 entry omitted (1.7.2013) by virtue of The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(b)
+[^F76]: Sch. 5 entry omitted (1.7.2013) by virtue of The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(c)
+[^F77]: Words in sch. 5 inserted (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 5(2)(a); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F78]: Words in sch. 5 inserted (28.6.2021) by Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15), s. 109(2), sch. 1 para. 21(a); S.S.I. 2021/234, reg. 2, sch.
+[^F79]: Sch. 5 entry repealed (1.10.2015) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), Sch. 6 para. 5(a)(ii) (with ss. 29, 30); S.S.I. 2015/196, art. 2, Sch.
+[^F80]: Words in sch. 5 inserted (1.12.2020) by Scottish Biometrics Commissioner Act 2020 (asp 8), s. 40(2), sch. 2 para. 3(a); S.S.I. 2020/250, reg. 2
+[^F81]: Words in Sch. 5 repealed (12.1.2018) by The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1), reg. 1(1), Sch. 2 para. 3(2)
+[^F82]: Words in Sch. 5 inserted (21.1.2019) by Social Security (Scotland) Act 2018 (asp 9), s. 99(2), Sch. 1 para. 21; S.S.I. 2018/393, reg. 2 (with reg. 3)
+[^F83]: Sch. 5 entry inserted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 72(2); S.S.I. 2012/253, art. 2, Sch.
+[^F84]: Words in Sch. 5 inserted (6.5.2020) by The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020 (S.S.I. 2020/141), reg. 1(1), Sch. para. 4
+[^F85]: Sch. 5 entry inserted (1.4.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 21(3)(a), 130(1) (with s. 128); S.S.I. 2016/250, reg. 2(3), Sch. 2
+[^F86]: Words in Sch. 5 inserted (16.9.2020) by Scottish National Investment Bank Act 2020 (asp 3), s. 35(2), Sch. para. 4(2); S.S.I. 2020/272, reg. 2
+[^F87]: Sch. 5 entry inserted (8.8.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(1)(a), Sch. 1 para. 17(2)
+[^F88]: Sch. 5 entry repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F89]: Words in sch. 5 inserted (7.10.2024) by The Scottish Pubs Code Adjudicator (Miscellaneous Listings) Order 2024 (S.S.I. 2024/190), arts. 1, 3
+[^F90]: Words in sch. 5 repealed (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 5(2)(b); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F91]: Words in Sch. 5 inserted (16.10.2019) by South of Scotland Enterprise Act 2019 (asp 9), s. 24(2), Sch. 2 para. 6(2); S.S.I. 2019/308, reg. 2
+[^F92]: Sch. 5 entry repealed (31.8.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39), arts. 1, 3(2)(a)
+[^F93]: Words in sch. 5 inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), s. 27(2), sch. para. 4(2); S.S.I. 2025/10, reg. 3(g)
+[^F94]: Sch. 6 ceases to have effect (2.8.2015) by virtue of Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(2)(3) (with s. 134(4)(5)); however, Sch. 6 continues to have effect until 4.6.2020 by virtue of The Public Services Reform (Scotland) Act 2010 (Part 2 Extension) Order 2015 (S.S.I. 2015/234), arts. 1, 2; which continuation is further extended until 5.5.2025 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2020 (S.S.I. 2020/140), arts. 1, 2; which continuation is further extended until 27.3.2030 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2025 (S.S.I. 2025/97), arts. 1, 2
+[^F95]: Sch. 6 entry substituted (1.7.2013) by The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(a)
+[^F96]: Words in sch. 6 inserted (1.5.2024) by Patient Safety Commissioner for Scotland Act 2023 (asp 6), s. 24(2), sch. 2 para. 3(3); S.S.I. 2024/110, reg. 2(1)
+[^F97]: Words in sch. 6 inserted (1.12.2020) by Scottish Biometrics Commissioner Act 2020 (asp 8), s. 40(2), sch. 2 para. 3(b); S.S.I. 2020/250, reg. 2
+[^F98]: Sch. 6 entry omitted (1.7.2013) by virtue of The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(b)
+[^F99]: Sch. 6 entry omitted (1.7.2013) by virtue of The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(c)
+[^F100]: Sch. 6 entry repealed (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), Sch. 1 para. 21(c) (with s. 31(6), Sch. 7)
+[^F101]: Sch. 6 entry inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), Sch. 1 para. 21(d) (with s. 31(6), Sch. 7)
+[^F102]: Sch. 7 ceases to have effect (2.8.2015) by virtue of Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(2)(3) (with s. 134(4)(5)); however, Sch. 7 continues to have effect until 4.6.2020 by virtue of The Public Services Reform (Scotland) Act 2010 (Part 2 Extension) Order 2015 (S.S.I. 2015/234), arts. 1, 2; which continuation is further extended until 5.5.2025 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2020 (S.S.I. 2020/140), arts. 1, 2; which continuation is further extended until 27.3.2030 by The Public Services Reform (Scotland) Act 2010 (Part 2 Further Extension) Order 2025 (S.S.I. 2025/97), arts. 1, 2
+[^F103]: Words in Sch. 8 repealed (12.1.2018) by The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4), reg. 1(1), Sch. 2 para. 5(3)
+[^F104]: Words in sch. 8 inserted (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 7(3)(a); S.S.I. 2021/124, reg. 2, sch.
+[^F105]: Sch. 8 entry inserted (2.7.2012) by The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 26(3) (with arts. 4-6, Sch. 3 para. 26(4))
+[^F106]: Sch. 8 entry inserted (24.6.2013) by The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, Sch. 1 para. 19(3)
+[^F107]: Sch. 8 entries repealed (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), Sch. 1 para. 22(a) (with s. 31(6), Sch. 7)
+[^F108]: Sch. 8 entries repealed (24.6.2013) by The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, Sch. 2
+[^F109]: Sch. 8 entry substituted (1.7.2013) by The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(a)
+[^F110]: Sch. 8 entry inserted (1.4.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), Sch. 1 para. 14(5); S.S.I. 2017/33, reg. 2(3)
+[^F111]: Sch. 8 entry inserted (1.4.2022) by Consumer Scotland Act 2020 (asp 11), s. 29(2), sch. 2 para. 5(b); S.S.I. 2021/464, reg. 2
+[^F112]: Sch. 8 entry substituted (1.4.2020) by Scottish Crown Estate Act 2019 (asp 1), s. 46(2), Sch. 1 para. 6; S.S.I. 2020/77, reg. 2(1), Sch. 1
+[^F113]: Words in sch. 8 inserted (1.4.2026) by Scottish Elections (Representation and Reform) Act 2025 (asp 4), ss. 70(2)(b), 73(2); S.S.I. 2025/260, reg. 3, sch. Pt. 2
+[^F114]: Words in sch. 8 inserted (1.10.2021) by UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4), s. 51(2), sch. 1 para. 15(4) (with s. 48(2)); S.S.I. 2021/304, reg. 2(b)
+[^F115]: Sch. 8 entry inserted (1.4.2015) by Food (Scotland) Act 2015 (asp 1), ss. 17(5)(a), 63(2) (with s. 62); S.S.I. 2015/99, art. 2
+[^F116]: Words in sch. 8 inserted (1.3.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 18(2); S.S.I. 2026/2, reg. 2(4)(5), sch. Pt. 2 (with reg. 9)
+[^F117]: Sch. 8 entry substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 72(3)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F118]: Sch. 8 entry inserted (27.2.2015) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), Sch. 6 para. 5(b)(i) (with ss. 29, 30); S.S.I. 2015/31, art. 2, Sch.
+[^F119]: Words in sch. 8 repealed (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 7(3)(b); S.S.I. 2021/124, reg. 2, sch.
+[^F120]: Words in sch. 8 inserted (1.5.2024) by Patient Safety Commissioner for Scotland Act 2023 (asp 6), s. 24(2), sch. 2 para. 3(4); S.S.I. 2024/110, reg. 2(1)
+[^F121]: Sch. 8 entry substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(5); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F122]: Sch. 8 entry omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), Sch. 2 para. 7(3) (with Sch. 1)
+[^F123]: Sch. 8 entry repealed (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Panel) Regulations 2016 (S.S.I. 2016/338), reg. 1(2), Sch. 2 para. 3(3) (with Sch. 1 para. 5)
+[^F124]: Sch. 8 entry omitted (1.7.2013) by virtue of The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(b)
+[^F125]: Sch. 8 entry omitted (1.7.2013) by virtue of The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para. 17(c)
+[^F126]: Words in sch. 8 inserted (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 5(3)(a); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F127]: Words in sch. 8 inserted (28.6.2021) by Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15), s. 109(2), sch. 1 para. 21(b); S.S.I. 2021/234, reg. 2, sch.
+[^F128]: Sch. 8 entry inserted (1.1.2015) by Revenue Scotland and Tax Powers Act 2014 (asp 16), s. 260(2), Sch. 4 para. 7 (with ss. 257-259); S.S.I. 2014/370, art. 2, Sch.
+[^F129]: Sch. 8 entry repealed (1.10.2015) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), Sch. 6 para. 5(b)(ii) (with ss. 29, 30); S.S.I. 2015/196, art. 2, Sch.
+[^F130]: Words in sch. 8 inserted (1.12.2020) by Scottish Biometrics Commissioner Act 2020 (asp 8), s. 40(2), sch. 2 para. 3(c); S.S.I. 2020/250, reg. 2
+[^F131]: Words in Sch. 8 repealed (12.1.2018) by The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1), reg. 1(1), Sch. 2 para. 3(3)
+[^F132]: Sch. 8 entry inserted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 72(3)(b); S.S.I. 2012/253, art. 2, Sch.
+[^F133]: Sch. 8 entry inserted (1.4.2017) by Scottish Fiscal Commission Act 2016 (asp 17), ss. 29(4), 31(2); S.S.I. 2016/326, reg. 2(2)
+[^F134]: Sch. 8 entry inserted (15.2.2024) by Good Food Nation (Scotland) Act 2022 (asp 5), s. 28(2), sch. para. 21(4); S.S.I. 2024/29, reg. 2(1)(2), sch. 1
+[^F135]: Sch. 8 entry inserted (1.4.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 21(3)(b), 130(1) (with s. 128); S.S.I. 2016/250, reg. 2(3), Sch. 2
+[^F136]: Words in Sch. 8 inserted (16.9.2020) by Scottish National Investment Bank Act 2020 (asp 3), s. 35(2), Sch. para. 4(3); S.S.I. 2020/272, reg. 2
+[^F137]: Sch. 8 entry inserted (8.8.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(1)(a), Sch. 1 para. 17(3)
+[^F138]: Sch. 8 entry repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F139]: Words in sch. 8 inserted (7.10.2024) by The Scottish Pubs Code Adjudicator (Duty to Publish Certain Information) Regulations 2024 (S.S.I. 2024/188), regs. 1, 2
+[^F140]: Words in sch. 8 repealed (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 5(3)(b); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F141]: Sch. 8 entry inserted (16.10.2019) by South of Scotland Enterprise Act 2019 (asp 9), s. 24(2), Sch. 2 para. 6(3); S.S.I. 2019/308, reg. 2
+[^F142]: Sch. 8 entry substituted (1.2.2013) by National Library of Scotland Act 2012 (asp 3), s. 12(3), Sch. 2 para. 9(b); S.S.I. 2013/1, art. 2
+[^F143]: Sch. 8 entry repealed (31.8.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39), arts. 1, 3(3)
+[^F144]: Words in sch. 8 inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), s. 27(2), sch. para. 4(3); S.S.I. 2025/10, reg. 3(g)
+[^F145]: Sch. 12 para. 12(2)(e) substituted (24.6.2013) by The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, Sch. 1 para. 19(4)
+[^F146]: Sch. 12 para. 19A inserted (19.11.2025 and 20.11.2025 for specified purposes) by The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356), arts. 1(2)(3), 2(5) (with art. 3)
+[^F147]: Words in sch. 13 repealed (28.8.2024) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), s. 38(3), sch. para. 23(2); S.S.I. 2024/211, reg. 2(j)(iii) (with reg. 3)
+[^F148]: Words in Sch. 13 inserted (1.4.2018) by Carers (Scotland) Act 2016 (asp 9), s. 45(2), Sch. para. 4; S.S.I. 2017/152, reg. 4
+[^F149]: Sch. 14 para. 35(a) repealed (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, Sch. 1 para. 21
+[^F150]: Sch. 19 entry inserted (1.4.2015) by Food (Scotland) Act 2015 (asp 1), ss. 17(5)(b), 63(2) (with s. 62); S.S.I. 2015/99, art. 2
+[^F151]: Sch. 19 entry substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(6); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F152]: Sch. 19 entry substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 72(4); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F153]: Words in sch. 19 substituted (1.3.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 18(3); S.S.I. 2026/2, reg. 2(4)(5), sch. Pt. 2 (with reg. 9)
+[^F154]: Sch. 19 entry inserted (1.4.2012) by Housing (Scotland) Act 2010 (asp 17), s. 166(2), Sch. 2 para. 15(3); S.S.I. 2012/39, art. 2, Sch. 1 (with Sch. 2) (as amended (1.4.2012) by S.S.I. 2012/91, art. 4)
+[^F155]: Sch. 20 entry inserted (1.4.2015) by Food (Scotland) Act 2015 (asp 1), ss. 17(5)(c), 63(2) (with s. 62); S.S.I. 2015/99, art. 2
+[^F156]: Sch. 20 entry substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 40(7); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F157]: Sch. 20 entry repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F158]: Words in sch. 20 substituted (1.3.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 18(4); S.S.I. 2026/2, reg. 2(4)(5), sch. Pt. 2 (with reg. 9)
+[^F159]: Sch. 20 entry inserted (1.4.2012) by Housing (Scotland) Act 2010 (asp 17), s. 166(2), Sch. 2 para. 15(4); S.S.I. 2012/39, art. 2, Sch. 1 (with Sch. 2) (as amended (1.4.2012) by S.S.I. 2012/91, art. 4)

@@ -1,0 +1,852 @@
+---
+title: "Interests of Members of the Scottish Parliament Act 2006"
+identifier: "asp/2006/12"
+citation: "2006 asp 12"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2006-07-13
+last_amended: 2016-05-05
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2006/12"
+source_modified: 2016-09-02
+retrieved: 2026-10-11
+---
+
+# Interests of Members of the Scottish Parliament Act 2006
+
+**2006 asp 12**
+
+An Act of the Scottish Parliament to make provision (including provision for the purposes of section 39 of the Scotland Act 1998) about the registration and declaration of interests of members of the Scottish Parliament and the prohibition of advocacy by such members in return for payment or benefit in kind; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th June 2006 and received Royal Assent on 13th July 2006
+
+## Register of Interests of Members of the Scottish Parliament
+
+### 1 The register
+
+(1) There shall be a Register of Interests of Members of the Scottish Parliament (in this Act referred to as “the register”).
+
+(2) The register shall be kept by the Clerk at the office of the Clerk.
+
+(3) In the register, there shall be an entry for each member which shall contain—
+
+(a) the information required by or under this Act; and
+
+(b) any other matter which the Parliament may determine should be included in each entry.
+
+(4) The register shall be kept in such form (which need not be in documentary form) as the Clerk considers appropriate but, if it is kept otherwise than in documentary form, it shall be in such form that, when printed or displayed, it shows what the register contains.
+
+### 2 Registrable interests
+
+(1) In this Act, a “registrable interest” means a registrable financial interest.
+
+(2) The schedule sets out the circumstances in which a member has, or had, a registrable financial interest.
+
+(3) A financial interest is defined for the purposes of paragraph (a) of section 39(2) of the 1998 Act as a registrable financial interest.
+
+### 3 Initial registration of registrable interests
+
+(1) Each member shall register—
+
+(a) any registrable interest which that member had on the date on which that member was returned; and
+
+(b) any registrable interest which that member had before that date but which that member no longer had on that date, if that interest meets the prejudice test,
+
+or declare that the member had no such interest.
+
+(2) An interest meets the prejudice test if, after taking into account all the circumstances, that interest is reasonably considered to prejudice, or to give the appearance of prejudicing, the ability of the member to participate in a disinterested manner in any proceedings of the Parliament.
+
+(3) A member shall comply with subsection (1) by lodging with the Clerk, not later than the relevant date, a written statement or, as the case may be, a written declaration.
+
+(4) The relevant date for the purposes of subsection (3) is the date which is 30 days after the date on which the member has taken the oath of allegiance or made a solemn affirmation in accordance with section 84(1) of the 1998 Act.
+
+[[^F1](5) But where the member acquired the registrable interest on the same date as the member was returned, the relevant date for the purposes of subsection (3) is the last day of the period of 30 days beginning with the date of the return.]
+
+### 4 Written statement
+
+(1) A written statement shall be in such form as the Parliament may determine.
+
+(2) A written statement shall contain such information about the interest or relating to it as the Parliament may determine.
+
+(3) The Parliament may make different determinations under subsections (1) and (2) for different kinds of interests.
+
+(4) The member may also include in the written statement such other information relating to the interest as the member wishes to disclose in the register.
+
+(5) Within 30 days after a member has lodged with the Clerk a written statement in accordance with section 3, 5, 6 or 7, the Clerk shall—
+
+(a) register that statement in the entry relating to the member in the register together with the date on which the statement was lodged; and
+
+(b) send a copy of that entry to the member.
+
+[[^F2](6) However, the Clerk need not register the address of any individual named or referred to in a written statement.]
+
+### 5 Registration of registrable interests acquired after date of return
+
+(1) This section applies where a member acquires a registrable interest after the date on which the member was returned.
+
+(2) Within 30 days [[^F3]beginning with] the date on which the member acquired that interest, that member shall register that interest by lodging a written statement with the Clerk.
+
+### 6 Late registrations
+
+(1) This section applies where a member becomes aware that a registrable interest which ought to have been registered by that member in accordance with section 3 or 5 has not been so registered.
+
+(2) Within 7 days of becoming so aware, the member shall register that interest by lodging a written statement with the Clerk.
+
+### 7 Voluntary registration
+
+A member may at any time register an interest which a member is not required to register by lodging a written statement with the Clerk.
+
+### 8 Deletion of interests from the register
+
+(1) In this Act, a “ceased interest” means—
+
+(a) an interest which is registered but which, if it had not been registered, would not now require to be registered; and
+
+(b) an interest which is registered under section 7 but which the member no longer wishes to be registered.
+
+(2) Where a member has a ceased interest, that member may lodge with the Clerk a written notice which identifies the interest in question, states that it is a ceased interest and gives the date on which it became a ceased interest.
+
+(3) Within 30 days after a member has lodged a written notice in accordance with this section, the Clerk shall—
+
+(a) amend the entry relating to that member in the register by recording in it that the interest is a ceased interest, the date mentioned in subsection (2), and the date on which the amendment was made in the register; and
+
+(b) send a copy of the amended entry to that member.
+
+(4) Not less than 12 months after the date on which the notice was lodged, the Clerk shall—
+
+(a) amend the entry relating to that member in the register by deleting that interest and any information relating to it; and
+
+(b) send a copy of the amended entry to that member.
+
+### 8A [[^F4]Reporting and registration of changes to controlled transactions
+
+(1) For the purposes of this section, there is a change to a registered interest that is a controlled transaction if—
+
+(a) another person becomes party to the transaction (whether in place of or in addition to any existing party to it);
+
+(b) there is a change to anything about which information was (or should have been) provided by the member in the written statement lodged by the member when registering the transaction;
+
+(c) the transaction comes to an end.
+
+(2) The reference in subsection (1)(b) to information provided is a reference to information—
+
+(a) about or relating to the transaction; and
+
+(b) provided in accordance with a determination under section 4(2).
+
+(3) For the purposes of subsection (1)(c), a loan comes to an end if—
+
+(a) the whole debt (or all the remaining debt) is repaid;
+
+(b) the creditor releases the whole debt (or all the remaining debt).
+
+(4) A member who has registered a controlled transaction shall notify the Clerk of any change to the transaction.
+
+(5) A member shall comply with subsection (4) by lodging a written notice with the Clerk not later than the last day of the period of 30 days beginning with the day on which the change takes effect.
+
+(6) A written notice shall—
+
+(a) be in such form; and
+
+(b) contain such information about the change or relating to it, as the Parliament may determine.
+
+(7) Within 30 days after a member has lodged a written notice in accordance with this section, the Clerk shall—
+
+(a) amend the entry relating to that member in the register so as to record the change and the date when it took effect; and
+
+(b) send a copy of the amended entry to the member.]
+
+### 9 Other amendments to the register
+
+(1) A member may at any time amend the entry relating to that member by lodging with the Clerk a written notice of the proposed amendment.
+
+(2) Within 30 days after a member has lodged a written notice in accordance with this section, the Clerk shall—
+
+(a) amend the entry relating to that member in the register by making the proposed amendment and recording the date on which the notice was lodged; and
+
+(b) send a copy of the amended entry to that member.
+
+(3) The Clerk may at any time amend an entry relating to a member in the register to correct any clerical or typographical error and shall send a copy of the amended entry to that member.
+
+(4) Any amendment made in pursuance of this section may only amend the information about or relating to an interest which is registered but no amendment can be made which would delete, without replacing (with or without any variation) any of the information referred to in section 4(2).
+
+(5) When a member ceases to be a member, the Clerk shall amend the entry relating to that member in the register by deleting it from the register.
+
+### 10 Old entries
+
+(1) When the Clerk amends an entry relating to a member in the register, the Clerk shall keep a copy of the old entries for a period of [[^F5]at least 10] years from the date of making the last amendment.
+
+(2) Section 1(4) shall apply to the keeping of the old entries as it applies to the keeping of the register.
+
+(3) In this section, “the old entries”mean the original entry and any subsequent amended entry in the state in which it was before it was amended.
+
+### 11 Publication of the register etc.
+
+(1) The Clerk shall publish the register at such intervals and in such manner as the Parliament may determine.
+
+(2) The Clerk shall keep a copy of the register and of any old entries available for public inspection in such form and in such manner as the Clerk considers appropriate.
+
+(3) The copy of the register and of any old entries shall be available for public inspection at the office of the Clerk on the days and at the times when that office is open.
+
+## Declaration of interests and prohibition of paid advocacy etc.
+
+### 12 Declarable interests
+
+(1) In this Act, a “declarable interest” means a declarable financial interest.
+
+(2) A member has a declarable financial interest in any matter if that member has, or had, a registrable financial interest in that matter which is registered in the entry relating to that member.
+
+(3) A member has a financial interest for the purposes of paragraph (b) of section 39(2) of the 1998 Act if that member has a declarable financial interest.
+
+### 13 Declaration of interests
+
+(1) Any member who has a declarable interest in any matter shall declare that interest before taking part in any proceedings of the Parliament relating to that matter.
+
+(2) For the purposes of subsection (1), a member shall declare an interest by making, in such circumstances as the Parliament may determine, either an oral or, as the case may be, a written declaration of that interest.
+
+### 14 Prohibition of paid advocacy etc.
+
+(1) A member shall not by any means, in consideration of any payment or benefit in kind—
+
+(a) advocate or initiate any cause or matter on behalf of any person; or
+
+(b) urge any other member to advocate or initiate any cause or matter on behalf of any person.
+
+(2) For the purposes of subsection (1)—
+
+(a) “any means” shall be construed as the doing of anything by a member in the capacity of a member, whether or not in any proceedings of the Parliament; and
+
+(b) “any payment or benefit in kind” means any payment or benefit in kind—
+
+[[^F6](i) which the member receives, agrees to receive or requests and which falls within subsection (2A); or
+
+(ii) which the member's spouse, civil partner or cohabitant receives, agrees to receive or requests and which falls within subsection (2B).
+
+(2A) A payment or benefit in kind falls within this subsection if, after taking account of all the circumstances, it may reasonably be considered that the payment or benefit results (or, if and when made or given, would result) in some benefit to the member, other than a vote for that member in any election to the Parliament.
+
+(2B) A payment or benefit in kind falls within this subsection if, after taking account of all the circumstances, it may reasonably be considered that the payment or benefit—
+
+(a) is being provided (or, if and when made or given, would be provided) in connection with the Parliamentary duties of the member; and
+
+(b) results (or, if and when made or given, would result) in some benefit to that member.]
+
+(3) Subsection (1) shall not prevent a member receiving[[^F7], agreeing to receive or requesting] assistance in connection with any of the following matters—
+
+(a) the preparation of a Member's Bill or of any amendment to a Bill, or any other matter relating to a Bill (whether before, during or after its passage in the Parliament and before it is submitted for Royal Assent); or
+
+(b) a debate upon subordinate legislation (whether before or after its making); or
+
+(c) a legislative consent motion.
+
+## Sanctions
+
+### 15 Preventing or restricting participation in proceedings of the Parliament
+
+(1) If a member—
+
+(a) has, or had, a registrable interest in any matter and has failed to register it in accordance with section 3, 5 or 6; or
+
+(b) has a declarable interest in any matter and has failed to declare that interest in accordance with section 13,
+
+the Parliament may, in such manner as it considers appropriate in the particular case, prevent or restrict that member from participating in any proceedings of the Parliament relating to that matter.
+
+(2) For the purposes of subsection (1)(a), a member has failed to register a registrable interest in the register if—
+
+(a) that member has not lodged with the Clerk a written statement as required by section 3, 5 or 6, as the case may be; or
+
+(b) after having lodged such a statement with the Clerk, the member has lodged with the Clerk a written notice under section 8 indicating that the interest is a ceased interest when it is not.
+
+### 16 Exclusion from proceedings of the Parliament
+
+Where a member fails to comply with, or contravenes, [[^F8]section 3, 5, 6, 8A(4) and (5), 13 or 14 or a measure taken by the Parliament under section 15], the Parliament may, in such manner as it may determine, exclude that member from proceedings in the Parliament for such period as it may consider appropriate.
+
+### 17 [[^F9]Offences
+
+(1) Any member who—
+
+(a) takes part in any proceedings of the Parliament without having complied with, or in contravention of, section 3, 5, 6, 8A(4) and (5) or 13 or a measure taken by the Parliament under section 15 or 16; or
+
+(b) contravenes section 14,
+
+is guilty of an offence.
+
+(2) A person guilty of such an offence is liable on summary conviction to a fine not exceeding level 5 on the standard scale.]
+
+### 17A [[^F10]Other sanctions
+
+(1) If a member fails to comply with, or contravenes, section 3, 5, 6, 8A(4) and (5), 13 or 14 or a measure taken by the Parliament under section 15 or 16, the Parliament may, by resolution, do one or more of the following—
+
+(a) exclude the member, for such period as the Parliament determines, from the premises of the Parliament or such part of them as it determines;
+
+(b) withdraw, for such period as the Parliament determines, the member's right to use the facilities and services provided for members by the Parliamentary corporation or such of them as the Parliament determines;
+
+(c) censure the member.
+
+(2) Where a member is to be excluded from proceedings in the Parliament under section 16 or from the premises of the Parliament (or a part of them) under subsection (1)(a), the Parliament may also, by resolution, disallow payment of—
+
+(a) the salary that would otherwise be payable to the member in respect of such period (not exceeding the duration of the exclusion) as it determines;
+
+(b) the allowances that would otherwise be payable to the member in respect of such period (not exceeding the duration of the exclusion) as it determines; or
+
+(c) both.
+
+(3) In this section—
+
+(a) “premises” includes places to which the public has access;
+
+(b) “salary of the member” means the salary payable to the member by virtue of section 81(1) of the 1998 Act (including any salary payable because of section 83(4) of that Act (membership during dissolution));
+
+(c) the references to a period not exceeding the duration of an exclusion are, where there are two exclusions of different lengths, references to the longer one.]
+
+## Supplementary
+
+### 18 Scottish Law Officers
+
+(1) The following modifications of this Act shall apply in relation to a Scottish Law Officer who is not a member of the Parliament.
+
+(2) Any reference in this Act to the date on which a member was returned shall be construed, in relation to such a Scottish Law Officer, as—
+
+(a) in the case where there is a general election and a person who was a Scottish Law Officer before that election continues in the same office after that election, the date of the poll at that election; or
+
+(b) in any other case, the date when that Scottish Law Officer was appointed to that office,
+
+and any reference in this Act to “being returned as a member” shall be construed accordingly.
+
+(3) For the purposes of subsection (2)(a), a Scottish Law Officer shall be regarded as continuing in office after an election if no other person is appointed to that office within 28 days after the date of the poll at that election.
+
+(4) Section 3(4) [[^F11]and (5)] shall not apply and, for the purposes of section 3(3), the relevant date, in relation to such a Scottish Law Officer, is the date which is 60 days after the date mentioned in subsection (2)(a) or the date which is 30 days after the date mentioned in subsection (2)(b), according to whichever applies.
+
+(5) Section 9(5) shall not apply but the Clerk shall delete the entry relating to such a Scottish Law Officer, on the date when that person either ceases to be appointed to, or ceases to be deemed to continue in, that office.
+
+### 19 Interpretation
+
+(1) In this Act—
+
+- [^F12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “the 1998 Act” means the Scotland Act 1998 (c. 46);
+
+- “the 1999 Order” means the Scotland Act 1998 (Transitory and Transitional Provisions) (Members' Interests) Order 1999 (S.I. 1999/1350);
+
+- “ceased interest” shall be construed in accordance with section 8(1);
+
+- “civil partner” in relation to a member does not include a former civil partner or a civil partner who is living separately and apart from the member where the separation is likely to be permanent;
+
+- “the Clerk” means the Clerk of the Parliament;
+
+- “cohabitant” means either member of a couple consisting of—
+
+  - (a) a man and a woman who are living together as if they were husband and wife; or
+  - (b) two persons of the same sex who are living together as if they were civil partners;
+
+- “company” means a company [[^F13]as defined in section 1(1) of the Companies Act 2006][^F13];
+
+- “declarable interest” shall be construed in accordance with section 12(1);
+
+- “declarable financial interest” shall be construed in accordance with section 12(2);
+
+- “financial interest” includes benefits in kind;
+
+- “heritable property” includes any right or interest in heritable property whether in Scotland or elsewhere;
+
+- “member” [[^F14](except in references to a member of a registered political party)] means a member of the Scottish Parliament and, subject to section 18, includes a Scottish Law Officer where that officer is not a member of the Parliament;
+
+- “member's salary” means the gross annual salary of a member as a member;
+
+- “old entries” shall be construed in accordance with section 10(3);
+
+- “parent undertaking” has the same meaning as in [[^F15]the Companies Acts (see section 1162 of the Companies Act 2006)][^F15];
+
+- “parliamentary session” means the period from the date of the first meeting of the Parliament following a general election until the Parliament is dissolved;
+
+- “prejudice test” shall be construed in accordance with section 3(2);
+
+- “the register” means the Register of Interests of Members of the Scottish Parliament established under section 1(1) and associated words shall be construed accordingly;
+
+- [[^F16]“registered political party” means a political party registered under Part II of the Political Parties, Elections and Referendums Act 2000 (c.41);]
+
+- “registrable interest” shall be construed in accordance with section 2(1);
+
+- “registrable financial interest” shall be construed in accordance with section 2(2) and the schedule;
+
+- “remuneration” includes any salary, wage, share of profits, fee, expenses, other monetary benefit or benefit in kind;
+
+- “Scottish Law Officer” means the Lord Advocate or the Solicitor General for Scotland;
+
+- “shares” includes stock;
+
+- “spouse” in relation to a member does not include a former spouse or a spouse who is living separately and apart from the member where the separation is likely to be permanent;
+
+- “subsidiary undertaking” has the same meaning as in [[^F15]the Companies Acts (see section 1162 of the Companies Act 2006)][^F15]; and
+
+- “undertaking”, except in paragraph 2(f) of the schedule, has the same meaning as in [[^F17]the Companies Acts (see section 1161(1) of the Companies Act 2006)][^F17].
+
+(2) Any reference in this Act to—
+
+(a) an interest meeting the prejudice test shall be construed in accordance with section 3(2); or
+
+(b) lodging a written statement with the Clerk shall be construed in accordance with section 4.
+
+(3) For the purposes of this Act, a member has registered an interest in the register if—
+
+(a) that member has lodged with the Clerk a written statement in accordance with section 3, 5, 6 or 7, irrespective of whether or not the Clerk has registered that statement; and
+
+(b) that member has not lodged with the Clerk a written notice under section 8 indicating that the interest is a ceased interest,
+
+and any reference in this Act to an interest being registered shall be construed accordingly.
+
+[[^F18](4) For the purposes of the schedule, a member is to be taken as accepting a controlled transaction when it is entered into (even although, in the case of an arrangement of the kind mentioned in paragraph 6A(6) of the schedule, the member is not a party to the arrangement).]
+
+### 20 Revocation and saving
+
+(1) The day when this section comes into force is the day appointed for the purposes of Article 10 of the 1999 Order.
+
+(2) The Clerk shall keep a copy of the register kept under the 1999 Order for a period of 5 years from the day when this section comes into force.
+
+(3) Section 1(4) shall apply to the keeping of the register under subsection (2) as it applies to the keeping of the register under section 1.
+
+### 21 Short title and commencement
+
+(1) This Act may be cited as the Interests of Members of the Scottish Parliament Act 2006.
+
+(2) This Act comes into force in accordance with subsections (3) and (4).
+
+(3) The following provisions of this Act come into force on the day after Royal Assent but only for the purpose of enabling the Parliament to make determinations to come into force when the remaining provisions of this Act come into force in accordance with subsection (4)—
+
+(a) sections 4(1) and (2);
+
+(b) section 11(1);
+
+(c) section 13(2);
+
+(d) section 19;
+
+(e) this section; and
+
+(f) the schedule, paragraph 8(2)(b).
+
+(4) The provisions of this Act, to the extent that they are not already in force by virtue of subsection (3), come into force on the day after the date of the first dissolution of the Parliament following the date of Royal Assent.
+
+## SCHEDULE — Registrable financial interests
+
+*(introduced by section 2(2))*
+
+### Registrable financial interests
+
+**1** A member has, or had, a registrable financial interest in the circumstances set out in the following paragraphs.
+
+### Remuneration [[^F19]and related undertaking]
+
+**2** [[^F20](A1) Where the circumstances are as described in sub-paragraph (1) or (1A).]
+
+(1) Where a member receives, or has received, remuneration by virtue of—
+
+(a) being employed;
+
+(b) being self-employed;
+
+(c) being the holder of an office;
+
+(d) being a director of an undertaking;
+
+(e) being a partner in a firm; or
+
+(f) undertaking a trade, profession or vocation [^F21]....
+
+[[^F22](1A) Where a member is, or was—
+
+(a) a director in a related undertaking; or
+
+(b) a partner in a firm,
+
+but does, or did, not receive remuneration by virtue of being such a director or partner.]
+
+(2) A member does not fall within sub-paragraph (1) solely by virtue of being, or of having been, a member, a member of the Scottish Executive or a junior Scottish Minister or holding or having held the office of Presiding Officer, deputy Presiding Officer or member of the Parliamentary corporation [[^F23]or of Convener, deputy Convener or member of a Committee of the Parliament].
+
+[[^F24](3) Sub-paragraph (1) does not apply where the remuneration received from a person on a single, or on more than one, occasion during the current parliamentary session consists solely of expenses unless those expenses amount, or amount in aggregate, to more than the specified limit.
+
+(4) The exception in sub-paragraph (3) applies even although the remuneration received from that person on another occasion, or on other occasions, during that session does not consist solely of expenses.
+
+(5) In this paragraph—
+
+- “current parliamentary session” means the parliamentary session which begins immediately after, or in which, the member is returned;
+- “a related undertaking” is a parent or subsidiary undertaking of an undertaking of which the member is a director and receives remuneration as a director as mentioned in sub-paragraph (1)(d); and
+- “specified limit” means 1% of a member’s salary (rounded down to the nearest £10) at the beginning of the current parliamentary session.]
+
+### Related undertaking
+
+**[^F25]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Election expenses
+
+**[^F26]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sponsorship
+
+**[^F27]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F28]Gifts
+
+**6** (1) Where the circumstances are as described in sub-paragraph (2) or (3).
+
+(2) Where a member or a company in which the member has a controlling interest or a partnership of which the member is a partner receives, or has received, a gift of heritable or moveable property or a gift of a benefit in kind and—
+
+(a) in the case where the gift was received from a person on a single occasion, the value of that gift, at the date on which it was received, exceeds the specified limit; or
+
+(b) in the case where gifts were received from that person on more than one occasion during the current parliamentary session, the aggregate value of those gifts, each valued at the date on which it was received, exceeds the specified limit; and, in either case,
+
+(c) that gift or those gifts meet the prejudice test.
+
+(3) Where a member or a company in which the member has a controlling interest or a partnership of which the member is a partner receives, or has received, a gift of heritable or moveable property or a gift of a benefit in kind and—
+
+(a) in the case where the gift was received from a person on a single occasion, the value of that gift, at the date on which it was received, exceeds £1,500; or
+
+(b) in the case where—
+
+(i) the value of the gift, at the date on which it was received, exceeds £500 (but does not exceed £1,500); and
+
+(ii) the aggregate value of the gift and any aggregable benefit or benefits, each valued at the date on which it was received, exceeds £1,500; and, in either case,
+
+(c) that gift is—
+
+(i) offered to the member; or
+
+(ii) having been accepted, retained by the member,
+
+for use by or the benefit of the member in connection with the member's political activities.
+
+(4) Sub-paragraph (2) does not apply to the costs of travel and subsistence in connection with the member's attendance at a conference or meeting where those costs are borne in whole or in part by—
+
+(a) the organiser of that conference; or
+
+(b) one of the other parties attending that meeting,
+
+as the case may be.
+
+(5) Sub-paragraphs (2) and (3) do not apply to—
+
+(a) any support (of any kind) provided by the services of a volunteer which are provided in that volunteer's own time and free of charge; or
+
+(b) a donation (of any kind) which is intended by the donor to be used for the purposes of meeting—
+
+(i) the election expenses of the member in relation to the election at which that member was returned as a member of the Scottish Parliament; or
+
+(ii) the election expenses of the member in relation to any UK parliamentary election at which that member stands as a candidate,
+
+but this exemption ceases to apply if the donation is not used for its intended purpose by the expiry of the 35th day after the election result is declared.
+
+(6) Sub-paragraph (3) does not apply to a gift or other benefit which the member has returned (or repaid) or sent to the Electoral Commission in accordance with sections 56 and 57 of the Political Parties, Elections and Referendums Act 2000 (c.41) (as applied by paragraph 8 of Schedule 7 to that Act).
+
+(7) The reference in sub-paragraph (3)(b)(ii) to a benefit being valued at the date on which it was received is, in the case of a controlled transaction, a reference to its being valued at the date on which it was entered into.
+
+(8) For the purposes of this paragraph—
+
+- “ aggregable benefit ” means any of the following that is accepted by the member from the same person as gave the gift and in the same calendar year as the member accepted it—
+
+  - (a) any other gift of a kind to which sub-paragraph (3)(b)(i) and (c) applies;
+  
+  - (b) any remuneration that is registrable by virtue of paragraph 2, and has a value exceeding £500 (but not exceeding £1,500) and consisting of—
+  
+    - (i) the payment to the member of any expenses incurred directly or indirectly by the member in connection with any of the member's political activities; or
+    - (ii) a benefit in kind deriving from the payment by a person (other than the member) to a third party of expenses attributable to the member in connection with those activities;
+  
+  - (c) any controlled transaction (construed in accordance with paragraph 6A) having a value not exceeding £1,500;
+  
+  - (d) any overseas political visit (within the meaning given by sub-paragraph (4), as read with sub-paragraph (5), of paragraph 7) having a value exceeding £500 (but not exceeding £1,500);
+
+- “ candidate ” has the same meaning as in section 118A, as read with section 90ZA(5) of the Representation of the People Act 1983 (c.2);
+
+- “ controlling interest ” means, in relation to a company, shares carrying in the aggregate more than half of the voting rights exercisable at general meetings of the company;
+
+- “current parliamentary session” means the parliamentary session which begins immediately after, or in which, the member is returned;
+
+- “ election expenses ”, in relation to a member, has the same meaning for the purposes of—
+
+  - (a) sub-paragraph (5)(b)(i) as “election expenses” has in relation to a candidate in the order under section 12 of the 1998 Act which is in force for the purposes of the election at which the member was returned; and
+  - (b) sub-paragraph (5)(b)(ii) as “election expenses” has in section 90ZA of the Representation of the People Act 1983 (c.2);
+
+- “ political activities ”, in relation to a member, means the political activities of the member as such or as a member of a registered political party or both;
+
+- “ specified limit ” means 0.5% of a member's salary (rounded down to the nearest £10) at the beginning of the current parliamentary session. ]
+
+### [[^F29]Loans, credit facilities etc.
+
+**6A** (1) Where a member enters into a controlled transaction and—
+
+(a) the value of the transaction is more than £1,500; or
+
+(b) if not, the aggregate value of it and any aggregable benefit or benefits exceeds £1,500.
+
+(2) Sub-paragraphs (3) to (10) define and provide further about controlled transactions.
+
+(3) An agreement between the member and another person by which that person lends money to the member is a controlled transaction if the use condition (see sub-paragraph (9)) is satisfied.
+
+(4) An agreement between the member and another person by which that person provides a credit facility to the member is a controlled transaction if the use condition (see sub-paragraph (9)) is satisfied.
+
+(5) A credit facility is an agreement whereby a member is enabled to receive from time to time from another party to the agreement a loan of money not exceeding such amount (taking account of any repayments made by the member) as is specified in or determined in accordance with the agreement.
+
+(6) Where—
+
+(a) the member and another person enter into a controlled transaction of a kind mentioned in sub-paragraph (3) or (4) or a transaction under which any property, services or facilities are provided for the use or benefit of the member (including the services of any person);
+
+(b) the other person also enters into an arrangement where a third person gives any form of security for a sum owed to the other person by the member under a transaction mentioned in paragraph (a); and
+
+(c) the use condition (see sub-paragraph (9)) is satisfied,
+
+the arrangement is a controlled transaction.
+
+(7) But the agreement or arrangement is not a controlled transaction—
+
+(a) to the extent that, in accordance with any enactment, a payment made in pursuance of the agreement or arrangement falls to be included in a return as to election expenses in respect of a candidate or candidates at a particular election;
+
+(b) to the extent that it is entered into by the member and a person—
+
+(i) in connection with the provision of goods or services to the member; and
+
+(ii) in the normal course of that person's trade or business and on its normal terms;
+
+(c) if its value does not exceed £500; or
+
+(d) despite section 3(1)(b), it was entered into by the person who is the member before the date the member was returned.
+
+(8) For the purposes of sections 3 and 5 and sub-paragraph (1) of this paragraph, if—
+
+(a) the value of a controlled transaction as first entered into is such that it is not registrable; but
+
+(b) the terms of the transaction are subsequently varied in such a way that it becomes registrable,
+
+the member is to be treated as having entered into a registrable transaction on the date when the variation takes effect.
+
+(9) The use condition is that the member intends, at the time the member enters into the loan or credit facility agreement or the transaction second mentioned in sub-paragraph (6)(a), to use any money or benefit obtained in consequence of it in connection with the member's political activities (either as a member or as a member of a registered political party or both).
+
+(10) For the purposes of sub-paragraph (9), it is immaterial that only part of the money or benefit is intended to be used in connection with the member's political activities.
+
+(11) In sub-paragraph (1)(b), “ aggregable benefit ” means any of the following that is accepted by the member from the same person, being a party to the controlled transaction, and in the same calendar year as the member accepted the controlled transaction—
+
+(a) any other controlled transaction having a value not exceeding £1,500;
+
+(b) any remuneration that is registrable by virtue of paragraph 2, and has a value exceeding £500 (but not exceeding £1,500) and consisting of—
+
+(i) the payment to the member of expenses incurred directly or indirectly by the member in connection with the member's political activities (as a member or as a member of a registered political party or both); or
+
+(ii) a benefit in kind deriving from the payment by a person (other than the member) to a third party of expenses attributable to the member in connection with those activities;
+
+(c) any gift to which paragraph 6(3)(b)(i) and (c) applies;
+
+(d) any overseas political visit (within the meaning given by sub-paragraph (4), as read with sub-paragraph (5), of paragraph 7) having a value exceeding £500 (but not exceeding £1,500).
+
+### Value of loans, credit facilities etc.
+
+**6B** (1) The value of a controlled transaction which is a loan is the value of the total amount to be lent under the loan agreement.
+
+(2) The value of a controlled transaction which is a credit facility is the maximum amount which may be borrowed under the agreement for the facility.
+
+(3) The value of a controlled transaction which is an arrangement by which any form of security is given is the contingent liability under the security provided.
+
+(4) For the purposes of sub-paragraphs (1) and (2), no account is to be taken of the effect of any provision in a loan agreement or an agreement for a credit facility at the time it is entered into which enables outstanding interest to be added to any sum for the time being owed in respect of the loan or credit facility, whether or not any such interest has been so added.]
+
+### [[^F30]Overseas visits
+
+**7** (1) Where the circumstances are as described in sub-paragraph (2) or (4).
+
+(2) Where the member makes, or has made, a visit outside the United Kingdom and that visit meets the prejudice test.
+
+(3) Sub-paragraph (2) does not apply to a visit the travel and other costs of which—
+
+(a) are wholly met—
+
+(i) by the member;
+
+(ii) by the member's spouse, civil partner or cohabitant;
+
+(iii) by the member's mother, father, son or daughter;
+
+(iv) by the Parliamentary corporation; or
+
+(v) out of the Scottish Consolidated Fund; or
+
+(b) were approved prior to the visit by the Parliamentary corporation.
+
+(4) Where a member makes, or has made, a visit outside the United Kingdom in connection with any of the member's political activities (as a member or as a member of a registered political party or both) (an “overseas political visit”) and—
+
+(a) the costs of the visit exceed £1,500; or
+
+(b) those costs exceed £500 (but do not exceed £1,500) and the aggregate value of them and any aggregable benefit or benefits exceeds £1,500.
+
+(5) Sub-paragraph (4) does not apply to a visit the travel and other costs of which—
+
+(a) are wholly met—
+
+(i) by the member;
+
+(ii) by the Parliamentary corporation; or
+
+(iii) out of the Scottish Consolidated Fund; or
+
+(b) were approved prior to the visit by the Parliamentary corporation.
+
+(6) In sub-paragraph (4)(b), “ aggregable benefit ” means any of the following that is accepted by the member from the same person as met the costs of the visit and in the same calendar year as the member accepted it—
+
+(a) any other overseas political visit having a value exceeding £500 (but not exceeding £1,500);
+
+(b) any remuneration that is registrable by virtue of paragraph 2, having such a value and consisting of—
+
+(i) the payment to the member of any expenses incurred directly or indirectly by the member in connection with the member's political activities (as a member or as a member of a registered political party or both);
+
+(ii) a benefit in kind deriving from the payment by a person (other than the member) to a third party of expenses attributable to the member in connection with those activities;
+
+(c) any gift to which paragraph 6(3)(b)(i) and (c) applies;
+
+(d) any controlled transaction (construed in accordance with paragraph 6A) having a value not exceeding £1,500.]
+
+### Heritable property
+
+**8** (1) Where a member owns or holds, or has owned or held, any heritable property and sub-paragraph (2) applies.
+
+(2) This sub-paragraph applies where either—
+
+(a) the market value of the heritable property, at the relevant date, exceeds [[^F31]the specified limit]; or
+
+[[^F32](b) any income is received from the heritable property during the twelve months prior to the relevant date.]
+
+(3) Sub-paragraph (1) applies to heritable property which a member owns or holds, or has owned or held—
+
+(a) solely in [[^F33]the member’s] name;
+
+(b) jointly with any other person or body; or
+
+(c) as a trustee, whether or not jointly with other trustees, where the member has an interest as a beneficiary of the trust.
+
+(4) Sub-paragraph (1) does not apply to heritable property—
+
+(a) which is used as a residential home by the member or the member's spouse, civil partner or cohabitant;
+
+(b) which was used as a residential home by the member or the member's spouse, civil partner or cohabitant but which, for a period of not more than 12 months, is or was unoccupied and for sale; or
+
+(c) which forms part of the assets of a partnership and any income from that partnership is, or forms part of, the remuneration registered under paragraph 2 of this schedule.
+
+(5) Where a member has ceased to own or hold any heritable property before the date on which the member was returned as a member, the relevant date is the date when the heritable property ceased to be so owned or held.
+
+(6) Where a member owned or held any heritable property at the date on which the member was returned as a member, the relevant date is—
+
+(a) that date; and
+
+(b) the 5th April immediately following that date and in each succeeding year, where the heritable property continues to be so owned or held on that 5th April.
+
+(7) Where a member becomes the owner of or acquires any heritable property after the date on which that member was returned as a member, the relevant date is—
+
+(a) the date on which the member became the owner of or acquired that heritable property; and
+
+(b) the 5th April immediately following that date and in each succeeding year, where the heritable property continues to be so owned or held on that 5th April.
+
+[[^F34](8) In this paragraph—
+
+- “current parliamentary session” means the parliamentary session which begins immediately after, or in which, the member is returned; and
+- “specified limit” means 50% of a member’s salary (rounded down to the nearest £10) at the beginning of the current parliamentary session.]
+
+### Interest in shares
+
+**9** (1) Where a member has, or had, an interest in shares, whether that interest is, or was, held by the member or by a relevant person, and sub-paragraph (2) applies.
+
+(2) This sub-paragraph applies where either—
+
+(a) the nominal value of the shares at the relevant date is, or was, greater than 1% of the total nominal value of the issued share capital of the company or other body; or
+
+(b) the market value of the shares at the relevant date exceeds, or exceeded, [[^F35]the specified limit].
+
+(3) Sub-paragraph (1) applies [^F36] ... to an interest in shares, whether that interest is, or was, held by a member (or a relevant person)—
+
+(a) solely in [[^F37]the name of the member (or relevant person)];
+
+(b) jointly with any other person or body; or
+
+(c) as a trustee, whether or not jointly with other trustees where the member has an interest as a beneficiary of the trust.
+
+(4) Sub-paragraph (1) does not apply to an interest in shares which forms part of the assets of a partnership and any income from that partnership is, or forms part of, remuneration registered under paragraph 2 of this schedule.
+
+(5) Where a member has ceased to have an interest in shares before the date on which the member was returned as a member, the relevant date is the date when the interest in such shares ceased to be so held.
+
+(6) Where a member had an interest in shares at the date on which the member was returned as a member, the relevant date is—
+
+(a) that date; and
+
+(b) the 5th April immediately following that date and in each succeeding year, where the interest is retained on that 5th April.
+
+(7) Where a member acquires an interest in shares after the date on which the member was returned as a member, the relevant date is—
+
+(a) the date on which the interest in shares was acquired; and
+
+(b) the 5th April immediately following that date and in each succeeding year, where the interest is retained on that 5th April.
+
+(8) In this paragraph—
+
+- [[^F38]“current parliamentary session” means the parliamentary session which begins immediately after, or in which, the member is returned;]
+- [^F39] ... an “ interest in shares ” means an interest in shares comprised in the share capital of a company or other body; [^F39] ...
+- “ relevant person ” is a person who is subject to the control or direction of a member in respect of an interest in shares [[^F40] ;
+- “specified limit” means 50% of a member’s salary (rounded down to the nearest £10) at the beginning of the current parliamentary session.]
+
+### Modification
+
+**10** (1) The Parliament may, by resolution, make any modifications of this schedule which the Parliament considers necessary or expedient.
+
+[[^F41] 2 Immediately after any such resolution is passed, the Clerk shall send a copy of it to the Queen’s Printer for Scotland (“the Queen’s Printer”).
+
+(3) Section 41(2) to (5) of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) and the Scottish Statutory Instruments Regulations 2011 ( S.S.I.   2011/195 ) apply to the resolution—
+
+(a) as if it were a Scottish statutory instrument,
+
+(b) as if the copy of it sent to the Queen’s Printer under sub-paragraph (2) was a certified copy received in accordance with section 41(1) of the Interpretation and Legislative Reform (Scotland) Act 2010, and
+
+(c) with the modifications set out in sub-paragraphs (4) and (5).
+
+(4) References to “responsible authority” are to be read as references to the Clerk.
+
+(5) Regulation 7(2) and (3) of the Scottish Statutory Instruments Regulations 2011 does not apply.]
+
+---
+
+[^F1]: S. 3(5) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 6(1), 16(2)
+[^F2]: S. 4(6) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 7, 16(2)
+[^F3]: Words in s. 5(2) substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 6(2), 16(2)
+[^F4]: S. 8A inserted (22.1.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 8, 16(4)
+[^F5]: Words in s. 10(1) substituted (5.5.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 6(3), 16(3)
+[^F6]: S. 14(2)(b)(i)-(2B) substituted for s. 14(2)(b)(i)(ii) (5.5.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4) , ss. 9(a) , 16(3)
+[^F7]: Words in s. 14(3) inserted (5.5.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4) , ss. 9(b) , 16(3)
+[^F8]: Words in s. 16 substituted (5.5.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 10, 16(3)
+[^F9]: S. 17 substituted (5.5.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 11, 16(3)
+[^F10]: S. 17A inserted (5.5.2016) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 12, 16(3) (with s. 18)
+[^F11]: Words in s. 18(4) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 13, 16(2)
+[^F12]: S. 19(1) : definition of "the 1985 Act" omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941) , art. 2(1) , Sch. 1 para. 262(2) (with art. 10 )
+[^F13]: S. 19(1) : words in definition of "company" substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941) , art. 2(1) , Sch. 1 para. 262(3) (with art. 10 )
+[^F14]: Words in s. 19(1) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4) , ss. 14(a)(i), 16(2)
+[^F15]: S. 19(1) : words in definitions of "parent undertaking" and "subsidiary undertaking" substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941) , art. 2(1) , Sch. 1 para. 262(4) (with art. 10 )
+[^F16]: Words in s. 19(1) inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4) , ss. 14(a)(ii), 16(2)
+[^F17]: S. 19(1) : words in definition of "undertaking" substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941) , art. 2(1) , Sch. 1 para. 262(5) (with art. 10 )
+[^F18]: S. 19(4) added (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4) , ss. 14(b) , 16(2)
+[^F19]: Words in Sch. para. 2 cross-heading inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 1(1)
+[^F20]: Sch. para. 2(A1) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 1(3)
+[^F21]: Words in Sch. para. 2(1)(f) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 1(4)
+[^F22]: Sch. para. 2(1A) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 1(5)
+[^F23]: Words in Sch. para. 2(2) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 1(6)
+[^F24]: Sch. para. 2(3)-(5) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 1(7)
+[^F25]: Sch. para. 3 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 2
+[^F26]: Sch. para. 4 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 2
+[^F27]: Sch. para. 5 deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 2
+[^F28]: Sch. para. 6 and cross-heading substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 3, 16(2)
+[^F29]: Sch. paras. 6A, 6B and cross-headings inserted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4), ss. 4, 16(2)
+[^F30]: Sch. para. 7 and cross-heading substituted (5.5.2016 coming into force in accordance with s. 17 of the amending Act) by Interests of Members of the Scottish Parliament (Amendment) Act 2016 (asp 4) , ss. 5 , 16(2)
+[^F31]: Words in Sch. para. 8(2)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 4(2)
+[^F32]: Sch. para. 8(2)(b) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 4(3)
+[^F33]: Words in Sch. para. 8(3)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 4(4)
+[^F34]: Sch. para. 8(8) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 4(5)
+[^F35]: Words in Sch. para. 9(2)(b) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 5(2)
+[^F36]: Word in Sch. para. 9(3) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 5(3)
+[^F37]: Words in Sch. para. 9(3)(a) substituted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 5(4)
+[^F38]: Words in Sch. para. 9(8) inserted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 5(5)(a)
+[^F39]: Words in Sch. para. 9(8) deleted (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 5(5)(b)
+[^F40]: Words in Sch. para. 9(8) substituted for full stop (23.3.2011 being the day after the date of the first dissolution of the Scottish Parliament following the making of this S.S.I.) by virtue of Interests of Members of the Scottish Parliament Act 2006 (Modifications to the Schedule) Resolution 2011 (S.S.I. 2011/40) , Annex para. 5(5)(c)
+[^F41]: Sch. para. 10(2)-(5) substituted (6.4.2011) for Sch. para. 10(2) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential Provisions) Order 2011 (S.S.I. 2011/196) , arts. 1 , 2

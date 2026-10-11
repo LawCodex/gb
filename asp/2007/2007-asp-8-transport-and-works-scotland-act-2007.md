@@ -1,0 +1,1733 @@
+---
+title: "Transport and Works (Scotland) Act 2007"
+identifier: "asp/2007/8"
+citation: "2007 asp 8"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2007-03-14
+last_amended: 2023-12-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2007/8"
+source_modified: 2024-05-21
+retrieved: 2026-10-11
+---
+
+# Transport and Works (Scotland) Act 2007
+
+**2007 asp 8**
+
+An Act of the Scottish Parliament to provide for the making of orders related to, or to matters connected with, the construction or operation of railways, tramways, other guided transport systems, trolley vehicle systems and inland waterways; to make changes to procedures applicable to orders and schemes under the Roads (Scotland) Act 1984, the Harbours Act 1964 and the Pilotage Act 1987; to make further provision as regards grants for purposes relating to transport; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th February 2007 and received Royal Assent on 14th March 2007
+
+## Part 1 — Orders authorising works etc.
+
+### Power to make orders
+
+#### 1 Orders as to transport systems and inland waterways
+
+(1) The Scottish Ministers may make an order relating to, or to matters connected with—
+
+(a) the construction or operation of a transport system of any of the following kinds—
+
+(i) a railway which starts, ends and remains in Scotland,
+
+(ii) a tramway,
+
+(iii) any system (other than a railway or tramway) using a mode of guided transport,
+
+(iv) a trolley vehicle system, or
+
+(b) the construction or operation of an inland waterway.
+
+(2) The Scottish Ministers shall not make an order under paragraph (b) of subsection (1) if in their opinion the primary object of the order could be achieved by means of an order under the Harbours Act 1964 (c. 40).
+
+#### 2 Subject-matter of orders under section 1
+
+(1) Without prejudice to the generality of section 1, the matters as to which provision may be made by an order under that section include those set out in schedule 1.
+
+(2) An order under section 1 may make provision in relation to more than one scheme, system or mode of transport.
+
+(3) An order under section 1 may—
+
+(a) apply, modify or exclude any enactment which relates to any matter as to which an order could be made under that section,
+
+(b) make such amendments, repeals and revocations of enactments of local application as appear to the Scottish Ministers to be necessary or expedient in consequence of any provision of the order or otherwise in connection with the order.
+
+(4) The provisions that may be made by an order under section 1 include any provision that appears to the Scottish Ministers to be necessary or expedient for giving full effect to—
+
+(a) any other provision of the order,
+
+(b) any provision of an earlier order under that section, or
+
+(c) any provision which is contained in—
+
+(i) an Act passed before the time when this Part of this Act is first wholly in force, or
+
+(ii) an instrument made under an Act before that time,
+
+and which is of a kind which could be included in an order under that section.
+
+(5) An order under section 1 may make provision—
+
+(a) as to the issuing of a fixed penalty notice in respect of an offence created by the order,
+
+(b) as to the enforcement of a fixed penalty under such a notice,
+
+(c) authorising byelaws made by virtue of the order to include provision of the nature referred to in paragraph (a) or (b) in respect of an offence created by the byelaws.
+
+(6) In subsection (5)(a), “fixed penalty notice” means a notice offering the opportunity, by paying a fixed penalty, to discharge any liability to be convicted of the offence to which the notice relates.
+
+(7) An order under section 1 shall not extinguish any public right of way over land unless the Scottish Ministers are satisfied—
+
+(a) that an alternative right of way has been or will be provided, or
+
+(b) that the provision of an alternative right of way is not required.
+
+#### 3 Crown land
+
+(1) If the appropriate authority agrees—
+
+(a) a relevant interest may be acquired compulsorily by virtue of an order under section 1,
+
+(b) any provision of this Act or of such an order (other than a provision by virtue of which an interest in land is compulsorily acquired) may apply in relation to a Crown interest, and
+
+(c) any provision of an order under section 18 may apply in relation to a relevant interest.
+
+(2) In subsection (1), a relevant interest is an interest (not being itself a Crown interest) which subsists in land in which there is a Crown interest.
+
+(3) In this section, “Crown interest” means an interest—
+
+(a) belonging to Her Majesty in right of the Crown or in right of Her private estates,
+
+(b) belonging to an office-holder in the Scottish Administration or to a government department,
+
+(c) held in trust for Her Majesty for the purposes of the Scottish Administration by such an office-holder, or
+
+(d) held in trust for Her Majesty for the purposes of a government department.
+
+(4) In this section, the appropriate authority, in the case of—
+
+(a) land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners,
+
+(b) other land belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration who, or as the case may be the government department which, has management of the land [[^F1]or the relevant person],
+
+(c) land belonging to Her Majesty in right of Her private estates, means a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers,
+
+(d) land belonging to, or held in trust for Her Majesty for the purposes of the Scottish Administration by, such an office-holder, means that office-holder,
+
+(e) land belonging to, or held in trust for Her Majesty for the purposes of, a government department, means that government department.
+
+[[^F2](4A) In subsection (4), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.]
+
+(5) The references in subsections (3)(a) and (4)(c) to Her Majesty's private estates are to be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
+
+(6) It is for the Scottish Ministers to determine, for the purposes of this section, any question arising as to what authority is the appropriate authority in relation to any land; and their determination is final.
+
+### Procedure for making orders
+
+#### 4 Applications
+
+(1) The Scottish Ministers may make an order under section 1 on an application made to them in accordance with rules made under this section.
+
+(2) The Scottish Ministers may make rules as to—
+
+(a) the form of an application under this section,
+
+(b) the documents and information to be submitted with the application,
+
+(c) the giving of notice of the application (including the publication of any such notice),
+
+(d) consultation to be undertaken before the application is made, and
+
+(e) any other steps to be taken—
+
+(i) before the application is made, or
+
+(ii) in connection with the making of the application.
+
+(3) The power to make such rules includes power to make provision—
+
+(a) for (or in connection with) requiring the Scottish Ministers, in such cases or circumstances as may be prescribed in the rules, to give to a person who proposes to make an application under this section an opinion on the information, if any, to be supplied in connection with the application,
+
+(b) as to the publicity to be given to any environmental information provided in relation to an application under this section.
+
+(4) Any provision made—
+
+(a) by virtue of subsection (2)(b) as to the provision of information by a relevant authority to a person for the purposes of an application which the person proposes to make, or
+
+(b) by virtue of subsection (2)(d),
+
+may include provision requiring compliance with general or special directions given by the Scottish Ministers.
+
+(5) Rules under this section may include provision authorising the Scottish Ministers—
+
+(a) to dispense with compliance with rules that would otherwise apply, or
+
+(b) to require compliance with rules that would not otherwise apply,
+
+in any case where they consider it appropriate to do so.
+
+(6) Rules under this section may provide for fees of such amounts as may be determined by, or in accordance with, the rules to be payable to the Scottish Ministers in connection with applications made under this section.
+
+(7) In subsection (4)(a), “relevant authority” means [^F3]...—
+
+(a) Scottish Natural Heritage,
+
+(b) the Scottish Environment Protection Agency,
+
+(c) a local authority, and
+
+(d) a National Park authority.
+
+[[^F4](e) Historic Environment Scotland.]
+
+#### 5 Cases where [^F5]... Member States are affected
+
+(1) The power to make rules under subsection (2) of section 4 includes power to make, for a case where an application has been made under that section and [[^F6]a] Member State is affected by the project in question, rules as to—
+
+(a) the provision by the Scottish Ministers to—
+
+(i) the Member State,
+
+(ii) authorities in that state, or
+
+(iii) the public of that state,
+
+of documents and information relating to the application,
+
+(b) consultation by the Scottish Ministers with the Member State in connection with the application, or
+
+(c) notification by the Scottish Ministers to the Member State of—
+
+(i) the decision, or
+
+(ii) matters relating to the decision,
+
+on the application.
+
+(2) For the purposes of subsection (1), the cases where [[^F7]a] Member State is affected by a project are those cases where—
+
+(a) it appears to the Scottish Ministers that the project would be likely to have significant effects on the environment in [[^F8]that] Member State, or
+
+(b) [[^F9]that] Member State is likely to be affected significantly by the project and requests information relating to the application.
+
+(3) In this section “Member State” includes a state which is a contracting party to the [[^F10]EEA Agreement].
+
+#### 6 Orders made otherwise than on application
+
+(1) The Scottish Ministers may (without any application being made to them)—
+
+(a) if it appears to them to be necessary or expedient to do so—
+
+(i) for the purpose of suspending or discontinuing any operations, or
+
+(ii) in consequence of the abandonment or neglect of any works,
+
+make an order under section 1,
+
+(b) if any provisions of an order under that section appear to them to be spent, make an order under that section repealing or revoking those provisions,
+
+(c) if they think fit (and whether or not an order under that section might be made by virtue of paragraph (a) or (b)), make by virtue of this paragraph an order under that section.
+
+(2) An order made by virtue of subsection (1)(a) may include provision for the recovery by the Scottish Ministers of any sum expended in—
+
+(a) making the order, or
+
+(b) carrying the provisions of the order into effect.
+
+(3) Where the Scottish Ministers propose to make an order by virtue of subsection (1), they are to—
+
+(a) prepare a draft of the order,
+
+(b) publish a notice of that proposal, including such particulars as may be prescribed, in the Edinburgh Gazette and in a local newspaper circulating in the area (or in each of the areas) in which the proposals contained in the draft order are intended to have effect, and
+
+(c) give such further notice of the proposal as may be prescribed.
+
+(4) The power to make provision by rules under section 4 in relation to applications includes power to make such corresponding provision as the Scottish Ministers consider appropriate in relation to proposals to make orders by virtue of subsection (1); and in subsection (3), “prescribed” means prescribed by rules under that section.
+
+(5) Without prejudice to the generality of subsection (4), in that subsection “corresponding provision” includes provision by rules corresponding to such rules as are mentioned in section 5(1).
+
+#### 7 Model provisions
+
+(1) The Scottish Ministers may issue (and whenever they do so are to publish) guidance comprising model provisions for incorporation in any draft orders which, in accordance with rules made under section 4, may be required to be submitted with applications under that section.
+
+(2) Different guidance may be issued under this section for different cases or descriptions of case or for different purposes.
+
+(3) The power to issue guidance under subsection (1) includes power to revoke or amend guidance issued under that subsection.
+
+#### 8 Objections and representations
+
+(1) The Scottish Ministers may make rules as to—
+
+(a) the making of objections—
+
+(i) to an application under section 4, or
+
+(ii) to a proposal to make an order by virtue of section 6,
+
+(b) the information to be comprised within or submitted with any such objection,
+
+(c) in the case of an objection made by virtue of paragraph (a)(i), the submission by the person making the application of—
+
+(i) written representations, or
+
+(ii) information,
+
+in relation to the objection,
+
+(d) the submission of further—
+
+(i) written representations, or
+
+(ii) information,
+
+(e) such other matters relating to the consideration of objections as appear to the Scottish Ministers to be appropriate.
+
+(2) Subject to the following provisions of this section, the Scottish Ministers are not to make a determination under section 11(2)(a) or (b) without first taking into consideration the grounds of any objection in respect of which rules under this section have been complied with.
+
+(3) If an objection is withdrawn or appears to the Scottish Ministers—
+
+(a) to be frivolous or trivial, or
+
+(b) to relate to matters concerned with the assessment of compensation, being matters which fall to be determined by the Lands Tribunal for Scotland,
+
+they may make a determination such as is mentioned in subsection (2) without further consideration of the objection.
+
+(4) Subsection (2) does not apply where the Scottish Ministers cause an inquiry to be held under subsection (1) of section 9 or cause an objection to be dealt with in accordance with subsection (2) of that section; but the Scottish Ministers are not to make a determination under section 11(2) without first taking into consideration the report of the person holding the inquiry or as the case may be of the person appointed under section 9(2).
+
+(5) Rules under this section may include provision authorising the Scottish Ministers—
+
+(a) to dispense with compliance with rules that would otherwise apply, or
+
+(b) to require compliance with rules that would not otherwise apply,
+
+in any case where they consider it appropriate to do so.
+
+(6) The Scottish Ministers are, as soon as practicable after giving dispensation or requiring compliance under subsection (5), to notify their reasons for doing so to every person who the Scottish Ministers consider is materially affected by the dispensation or requirement.
+
+(7) Reasons may be notified under subsection (6) by—
+
+(a) giving notice to the persons affected, or
+
+(b) publishing a notice in such manner as the Scottish Ministers consider appropriate.
+
+(8) Rules under this section may include provision that they are to apply, or to apply with such modifications as may be specified in the rules, to the making of representations as regards—
+
+(a) an application under section 4, or
+
+(b) a proposal to make an order by virtue of section 6,
+
+as they apply to the making of objections to such an application or proposal.
+
+(9) In subsection (8) and in section 9, “representations” does not include representations submitted by virtue of paragraph (c) or (d) of subsection (1).
+
+#### 9 Inquiries and hearings
+
+(1) The Scottish Ministers may cause a public local inquiry to be held for the purposes of—
+
+(a) an application under section 4, or
+
+(b) a proposal by the Scottish Ministers to make an order by virtue of section 6.
+
+(2) The Scottish Ministers may give to a person who makes an objection or representations in accordance with rules under section 8 an opportunity of appearing before and being heard by a person appointed by the Scottish Ministers for the purpose.
+
+(3) Where a person within subsection (4)—
+
+(a) makes an objection, and
+
+(b) informs the Scottish Ministers in writing of a wish for the objection to be referred to an inquiry or dealt with in accordance with subsection (2),
+
+then, unless section 8(3) applies, the Scottish Ministers must either cause an inquiry to be held or, if they so determine, cause the objection to be dealt with in accordance with subsection (2).
+
+(4) The persons within this subsection are—
+
+(a) the local authority for an area in which any works authorised by the proposed order are to be carried out,
+
+(b) the National Park authority for a National Park in which any works authorised by the proposed order are to be carried out,
+
+(c) the Transport Partnership created under section 1(1)(b) of the Transport (Scotland) Act 2005 (asp 12) for a region in which any works authorised by the proposed order are to be carried out,
+
+(d) any navigation authority concerned with waters which would be affected by any works authorised by the proposed order,
+
+(e) where any works authorised by the proposed order would affect the construction or operation of a railway, Network Rail Infrastructure Limited, and
+
+(f) where the proposals include the compulsory acquisition of land, any person who, if the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c. 42) applied to the acquisition, would be entitled to a notice under paragraph 3(b) of the First Schedule to that Act (notice to owners, lessees and occupiers, etc.).
+
+(5) In subsection (4)(d), “navigation authority” means a person authorised by any enactment to work, maintain, conserve, improve or control any canal or other inland navigation, navigable river, estuary, harbour or dock.
+
+#### 10 Procedure at inquiries and hearings
+
+(1) The Scottish Ministers may make rules regulating the procedure to be followed in connection with—
+
+(a) an inquiry held under section 9,
+
+(b) a hearing held under subsection (2) of that section.
+
+(2) Rules under this section may regulate procedure—
+
+(a) in connection with the conduct of proceedings at such an inquiry or hearing,
+
+(b) in connection with matters preparatory or subsequent to such an inquiry or hearing.
+
+(3) Subsections (2) and (4) to (8) of section 210 of the Local Government (Scotland) Act 1973 (c. 65) (attendance and evidence at, and expenses of, inquiries) apply to an inquiry held under section 9 as they apply to a local inquiry under that Act.
+
+(4) Subsections (6) to (8) of section 210 of the Local Government (Scotland) Act 1973 apply to a hearing held under section 9(2) as they apply to a local inquiry under that Act.
+
+(5) Before making rules under this section, the Scottish Ministers must consult the Council on Tribunals and that Council must consult its Scottish Committee.
+
+#### 11 Making or refusal of orders under section 1
+
+(1) This section applies where—
+
+(a) an application is made to the Scottish Ministers under section 4, or
+
+(b) they propose to make an order by virtue of section 6,
+
+and the requirements of the preceding provisions of this Act in relation to any objections have been satisfied.
+
+(2) The Scottish Ministers may determine—
+
+(a) to make an order under section 1 which gives effect to the proposals concerned without modification,
+
+(b) to make an order under that section which gives effect to those proposals with modifications, or
+
+(c) not to make an order.
+
+(3) Without prejudice—
+
+(a) to the generality of paragraph (c) of subsection (2), and
+
+(b) to subsection (4),
+
+where this section applies by virtue of paragraph (a) of subsection (1) but the Scottish Ministers consider that any of the objects of the order applied for could be achieved other than by means of such an order, they may on that ground determine to decline to make an order.
+
+(4) The Scottish Ministers' powers under subsection (2) include the power to make a determination in respect of some only of the proposals concerned, while making a separate determination in respect of, or deferring consideration of, others (and accordingly the power to make an order under section 1 includes power to make two or more orders on the same application).
+
+(5) Where the Scottish Ministers propose to make an order giving effect, with modifications, to the proposals concerned being modifications which in their opinion make a substantial change in the proposals, they are—
+
+(a) to notify any person who appears to them likely to be affected by the change,
+
+(b) to give that person an opportunity to make representations to them about the modifications within such period as they may specify in the notification, and
+
+(c) before making the order, to consider any representations timeously made to them by that person.
+
+(6) [[^F11]An order under section 1 which is not subject to the affirmative procedure by virtue of section 13] comes into force on the date on which the notice required by section 12(1)(c) is first published unless a later date for its coming into force is specified in the order (in which case it comes into force on that later date).
+
+[[^F12](7) In relation to an order which, by virtue of section 13, is subject to the affirmative procedure, references to making an order in subsections (2)(a) and (b) and (5) are to be read as references to laying before the Parliament a draft statutory instrument containing an order.]
+
+[[^F13](8) If the Scottish Ministers have under consideration an application under section 4, or a proposal to make an order under section 6, they must not make the order if an environmental impact assessment is required by rules made under this Act unless an environmental impact assessment has been carried out in respect of the application or proposal, and in carrying out such an assessment the Scottish Ministers must take the environmental information referred to in section 12(6)(b) into account.]
+
+#### 12 Publicity for making or refusal of order
+
+(1) As soon as practicable after making a determination under subsection (2) of section 11, the Scottish Ministers are—
+
+(a) where the determination is made by virtue of paragraph (a) of subsection (1) of that section, to give notice of it to the person who applied for the order,
+
+(b) to give notice of the determination—
+
+(i) to every person who made an objection which, in accordance with section 9(3), was referred to an inquiry or hearing,
+
+(ii) to the local authority for any area, to the National Park authority for any National Park and to the Transport Partnership created under section 1(1)(b) of the Transport (Scotland) Act 2005 (asp 12) for any region, in which the proposals contained in the application, or as the case may be in the draft order prepared under section 6(3)(a), are or were intended to have effect,
+
+(iii) if the order relates, or as the case may be would have related, to the construction or operation of a railway, to [[^F14]the Office of Rail and Road], and
+
+(iv) to such other persons (if any) as may be prescribed, and
+
+(c) to publish in the Edinburgh Gazette a notice of the determination.
+
+(2) Any notice—
+
+(a) under subsection (1) must give such information as to the terms of the order made [[^F15]or contained in the draft statutory instrument laid before the Parliament] (or where the determination was not to make an order, of the order applied for or as the case may be which the Scottish Ministers had proposed to make) as they consider appropriate and in particular must, where the determination is made by virtue of paragraph (a) of section 11(1), state the name and address of the person who applied for the order,
+
+(b) under subsection (1)(a) or (b)—
+
+(i) must include the terms of the determination,
+
+(ii) must state the reasons for the determination and the considerations upon which it is based,
+
+(iii) must give information as to what provision was made for public participation in the decision making upon which the determination is based, and
+
+(iv) must give information regarding the right to challenge the validity of the determination and the procedures for doing so, and
+
+(c) under subsection (1)(c)—
+
+(i) must include the terms of the determination,
+
+(ii) must state that notice given under subsection (1)(a) or (b) contains such statement and information as is mentioned in sub-paragraphs (ii) to (iv) of paragraph (b), and
+
+(iii) must give information as to where a copy of that notice may be obtained[[^F16], and—
+
+(iv) where subsection (4) applies, must state a website address where the Scottish Ministers have made information referred to in this subsection and subsection (4) available]
+
+[[^F17](3) Where the order is subject to the affirmative procedure by virtue of section 13, any notice giving information under sub-paragraph (iv) of subsection (2)(b) must intimate that the order cannot be made unless the Parliament, by resolution, approves the draft statutory instrument containing the order.]
+
+[[^F18](4) Where a determination under section 11 relates to an application or proposal to which this subsection applies, in addition to the matters referred to in subsection (2), any notice under subsection (1) must include the following—
+
+(a) a description of the proposed works which are the subject of the order,
+
+(b) a summary of—
+
+(i) the environmental information, and
+
+(ii) the results of the consultations and information gathered following on from the publication of any reports and additional information received by the Scottish Ministers pursuant to rules made under sections 4 or 6, and how those results, in particular comments received from an EEA State, have been incorporated or otherwise addressed,
+
+(c) if the determination is to make the order—
+
+(i) any conditions to which the determination is subject,
+
+(ii) the reasoned conclusion by the Scottish Ministers on the significant effects of the proposed works on the environment, taking into account the results of the examination of the environmental information which may be required in terms of rules made under section 4 or 6,
+
+(iii) a statement that the Scottish Ministers are satisfied that the reasoned conclusion is still up to date,
+
+(iv) a description of any features of the proposed works and any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment, and
+
+(v) a description of any monitoring measures required under section 20A.
+
+(5) For the purposes of subsection (4)(c)(iii) the reasoned conclusion is still up to date if the Scottish Ministers are satisfied, having regard to current knowledge and methods of assessment, that the reasoned conclusion addresses the likely significant effects of the proposed works on the environment.
+
+(6) In subsection (4) “environmental information” means—
+
+(a) any environmental impact assessment report as required by rules made under section 4 or section 6, and
+
+(b) any—
+
+(i) additional information required by rules made under section 4 or 6,
+
+(ii) representations made by any body required by any such rules to be invited to make representations, and
+
+(iii) representations made by any other person about the environmental effects of the implementation of the order applied for under section 4 or proposed under section 6.]
+
+(7) Subsection (4) applies to any application under section 4 for an order, and any proposal to make an order by virtue of section 6, where the order would authorise works or other projects in a class—
+
+(a) listed in Annex I to the relevant directive, or
+
+(b) listed in Annex II to that directive which are, by virtue of their nature, size or location, likely to have significant effects on the environment.
+
+(8) In relation to any challenge to an order under section 1 authorising such works or other projects as are referred to in subsection (7), [[^F19]any non-governmental organisation promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom is deemed to—
+
+(a) have an interest for the purposes of Article 11(1)(a) of the relevant directive, and
+
+(b) rights capable of being impaired for the purposes of Article 11(1)(b) of that directive].
+
+[[^F20](8A) For the purpose of subsection (8), Article 11(1) of the relevant directive is to be read as if the reference to—
+
+(a) “Member States” were a reference to “The Scottish Ministers”,
+
+(b) “a Member State” were a reference to “Scotland”.]
+
+(9) In subsections (7) [[^F21], (8) and (8A)], references to the relevant directive are to [[^F22]Council Directive 2011/92/EU (as amended by Council Directive 2014/52/EU)] on the assessment of the effects of certain public and private projects on the environment.
+
+(10) The Scottish Ministers are to send a copy of any notice—
+
+(a) given under subsection (1), and
+
+(b) required by subsection (4) to contain a [[^F23]notice] such as is provided for in that subsection,
+
+to each person [[^F24]and body] mentioned in subsection (11).
+
+[[^F25](11) The persons and bodies are those who—
+
+(a) made an objection in accordance with rules made under section 8 in relation to the environmental information referred to in subsection (4), being an objection which was not referred to an inquiry or hearing in accordance with section 9(3);
+
+(b) made representations in accordance with rules made under section 8 in relation to the environmental information referred to in subsection (4);
+
+(c) are consultation bodies prescribed in terms of rules made under section 4 or 6;
+
+(d) are a body who was notified of any environmental impact assessment report as required by rules made under section 4, or prepared in connection with the publication of a notice of a proposal to make an order by virtue of section 6, by reason of that body’s specific environmental responsibilities or local and regional competencies.]
+
+(12) Where by virtue of—
+
+(a) paragraph (a) of section 11(1) the Scottish Ministers make a determination under section 11(2), the person who applied for the order is to publish in a local newspaper circulating in the area (or in each of the areas) in which the proposals contained in the application,
+
+(b) paragraph (b) of section 11(1) the Scottish Ministers make such a determination, they are to publish in a local newspaper circulating in the area (or in each of the areas) in which the proposals contained in the draft order prepared by them under section 6(3)(a),
+
+are or were intended to have effect a notice which includes the terms of the determination and a copy of the statement and information published under subsection (2)(c).
+
+(13) Subject to subsection (14), as soon as practicable after the making of an order under section 1 [[^F26](or where the order is subject to the affirmative procedure by virtue of section 13, after a draft of the statutory instrument containing the order is laid before the Parliament)], the person who applied for the order is (or, where the order is made by virtue of section 6 [[^F27], or is to be made by virtue of that section if the Parliament approves the draft statutory instrument containing it], the Scottish Ministers are)—
+
+(a) to lay before the Parliament a copy of the order, and of any plan or book of reference prepared in connection with the application (or as the case may be in connection with the proposal to make the order),
+
+(b) to deposit with each relevant authority in whose area works authorised by the order are to be carried out—
+
+(i) a copy of the order [[^F28]or where the order is subject to the affirmative procedure a draft of the statutory instrument containing the order], and
+
+(ii) a copy of each of those other documents (or of so much of the documents as is relevant to the carrying out of those works in the area of the authority in question).
+
+(14) Subsection (13)(a) does not apply where the order is [[^F29]subject to the affirmative procedure by virtue of section 13].
+
+(15) Where a plan or book of reference is revised before the order is made, the reference in subsection (13)(a) is to the later (or as the case may be the latest) version.
+
+(16) A relevant authority are (or as the case may be is) to make available for inspection by any person, free of charge at all reasonable hours, any documents deposited under subsection (13)(b) with the authority.
+
+(17) In subsections (13)(b) and (16), “relevant authority” means—
+
+(a) a local authority, or
+
+(b) a National Park authority.
+
+(18) In subsection (1)(b)(iv), “prescribed” means prescribed under this subsection by the Scottish Ministers by order.
+
+#### 13 “Developments of national significance” etc.: special procedure
+
+(1) [[^F30]Subsections (2A) to (6) apply in relation to] an order under section 1 if—
+
+(a) the order authorises the carrying out of work which would constitute a national development,
+
+(b) the order includes provision adding to, replacing or omitting any part of the text of a private Act of the Parliament, or
+
+(c) the Scottish Ministers so direct.
+
+(2) In subsections (1) and (7), references to a “national development” are to any development (within the meaning of the Town and Country Planning (Scotland) Act 1997 (c. 8)) for the time being designated under section 3A(4)(b) of that Act (which relates to the content of the National Planning Framework) as a national development.
+
+[[^F31](2A) The order is subject to the affirmative procedure.]
+
+(3) The [[^F32]draft statutory instrument containing the order]—
+
+(a) is to be laid before the Parliament together with a copy of any plan or book of reference prepared in connection with the application (or as the case may be in connection with the proposal to make the order), [^F33]...
+
+[^F33]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where a plan or book of reference is revised before the [[^F34]draft statutory instrument is laid before the Parliament], the reference in subsection (3)(a) is to the later (or as the case may be the latest) version.
+
+(5) As soon as practicable after the [[^F35]order has been made or, as the case may be, the Parliament has decided not to approve the draft statutory instrument], the Scottish Ministers are to publish a notice in—
+
+(a) the Edinburgh Gazette, and
+
+(b) a local newspaper circulating in the area (or each of the areas) in which the provisions of the order in question will have, or would have had, effect.
+
+(6) A notice under subsection (5)—
+
+(a) must state that the [[^F36]order has been made or, as the case may be, the Parliament has decided not to approve the draft statutory instrument]
+
+(b) where [[^F37]the order has been made], must give information regarding—
+
+(i) when the order will come into force, and
+
+(ii) the right to challenge the validity of the order and the procedures for doing so.
+
+[[^F38](7) Subsections (2A) to (6) apply in relation to an order (“the new order”) which revokes, amends or re-enacts another order (“the old order”) in relation to which those subsections applied only if—
+
+(a) the new order authorises the carrying out of work which would constitute a national development (other than a national development to which the old order relates),
+
+(b) the new order includes provision such as is mentioned in subsection (1)(b), or
+
+(c) the Scottish Ministers so direct.]
+
+### Consents etc. under other enactments
+
+#### 14 Consents etc. under other enactments
+
+(1) This section applies to relevant proposals which give rise to a requirement for—
+
+(a) the giving of a consent, permission or licence under any enactment, or
+
+(b) the making or confirmation of an order under any enactment.
+
+(2) For the purposes of subsection (1), a proposal is a relevant proposal if it is—
+
+(a) the subject of an application under section 4, or
+
+(b) intended to be given effect to by an order made by virtue of section 6.
+
+(3) The Scottish Ministers may make regulations regarding any requirement referred to in subsection (1) which (leaving out of account any provision in the regulations) would not be removed by the order to which the application relates or to be made by virtue of section 6 (as the case may be).
+
+(4) The regulations may make provision—
+
+(a) that the making of the order in question will remove the requirement for—
+
+(i) the consent, permission or licence, or
+
+(ii) the making or confirmation of an order under any enactment,
+
+(b) that the making of the order in question will have the effect that—
+
+(i) the consent, permission or licence is deemed to be given, or
+
+(ii) an order under any enactment is deemed to be made or confirmed,
+
+(c) for securing that—
+
+(i) the procedure for obtaining, or otherwise relating to, the consent, permission, licence, order or confirmation, and
+
+(ii) the procedure relating to the application made under section 4 or the procedure relating to the proposal made under section 6 (as the case may be),
+
+are wholly or partly assimilated (and in particular that proceedings relating to the one may be held concurrently with proceedings relating to the other).
+
+(5) The regulations may include provision—
+
+(a) excluding or modifying the application of any enactment,
+
+(b) authorising the Scottish Ministers to give directions or take such other steps as they consider appropriate for the purpose of the regulations.
+
+#### 15 Town and country planning
+
+(1) In section 57 of the Town and Country Planning (Scotland) Act 1997 (c. 8) (power to deem planning permission to be granted in certain cases where development is authorised by a government department), after subsection (2) insert—
+
+> (2A) On making an order under section 1 of the Transport and Works (Scotland) Act 2007 which includes provision for development, the Scottish Ministers may direct that planning permission for that development shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+
+.
+
+(2) In Schedule 14 to that Act (blighted land), after paragraph 15 add—
+
+> **16**
+>
+> This paragraph applies to land—
+>
+> (a) the compulsory acquisition of which is authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007,
+>
+> (b) which falls within the limits of deviation within which powers of compulsory acquisition conferred by such an order are exercisable, or
+>
+> (c) which is the subject of a proposal, contained in an application made in accordance with rules under section 4 of that Act or in a draft order prepared under section 6(3) of that Act, that it should be such land.
+
+.
+
+### Miscellaneous
+
+#### 16 Validity of orders under section 1
+
+(1) If a person aggrieved by an order under section 1 desires to question the validity of it, or of any provision contained in it, on the ground—
+
+(a) that it is not within the powers of this Act, or
+
+(b) that any requirement imposed by or under this Act has not been complied with,
+
+that person may, within the period of 42 days beginning with the relevant day, make an application for the purpose to the Court of Session.
+
+(2) In subsection (1), “the relevant day” is—
+
+(a) where the order is one in respect of which a notice requires to be published under section 13(5)(a), the day on which that notice is published, or
+
+(b) in any other case, the day on which the notice required by section 12(1)(c) is published.
+
+(3) On an application under subsection (1), the Court—
+
+(a) may by interim order suspend the operation of the order, or of any provision contained in it, either generally or in so far as it affects any property of the applicant, until the final determination of the proceedings, and
+
+(b) if satisfied that the order or any provision contained in it is not within the powers of this Act, or that the interests of the applicant have been substantially prejudiced by a failure to comply with any requirement imposed by or under this Act, may quash the order or any provision contained in it, either generally or in so far as it affects any property of the applicant.
+
+(4) Subject to subsections (1) and (3), an order under section 1 shall not, either before or after it has been made, be questioned in any legal proceedings whatever.
+
+#### 17 Powers of certain bodies to apply for, or object to, order under section 1
+
+(1) A body which has power to promote or power to oppose a Bill (whether a Bill in the Scottish Parliament or in the Parliament of the United Kingdom) also has power to apply for, or as the case may be to object to, an order under section 1.
+
+(2) Where the power of a body to promote or oppose a Bill is subject to any condition then, subject to subsection (3), the corresponding power conferred on the body by subsection (1) is subject to the like condition.
+
+(3) In construing subsection (2) for the purposes of its application to the British Waterways Board, the requirements for consent in section 17(1) and (1A) of the Transport Act 1962 (c. 46) (power to promote and oppose Bills) are to be disregarded.
+
+(4) Subsection (1) is without prejudice to any right of a person other than a body described in that subsection to apply for, or object to, an order under section 1.
+
+#### 18 Access to land
+
+(1) The Scottish Ministers may by order make provision as regards—
+
+(a) authorising prospective applicants for orders under section 1 to enter land for purposes connected with construction, operation or works to which the order would relate, or
+
+(b) entry by the Scottish Ministers to land for purposes connected with construction, operation or works to which an order made by virtue of section 6 would relate.
+
+(2) Without prejudice to the generality of paragraphs (a) and (b) of subsection (1)—
+
+(a) if provision is made under paragraph (a) of that subsection it may include provision as to—
+
+(i) conditions that must be met before authorisation is applied for,
+
+(ii) the manner of applying for authorisation,
+
+(iii) intimation that authorisation has been applied for,
+
+(iv) affording an opportunity to make representations as respects the authorisation applied for (and may include provision affording any person who has made such representations an opportunity to be heard),
+
+(v) conditions that must be met before authorisation is granted,
+
+(vi) the attaching of conditions and limitations to any authorisation granted,
+
+(vii) a right of appeal to the sheriff in relation to an authorisation granted or in relation to any decision to attach, or decline to attach, conditions or limitations to an authorisation granted,
+
+(viii) the recovery of compensation for, or the making good of, any damage done in entering, or in consequence of entering, land,
+
+(ix) the resolution of any dispute as to compensation payable for damage done in entering, or in consequence of entering, land,
+
+(x) a right of entry to land being conferred by the sheriff by warrant where entry to which a person is entitled by virtue of this section is refused or in such other circumstances as the Scottish Ministers consider appropriate, and
+
+(xi) an offence of wilfully obstructing a person upon whom a right of entry has been so conferred,
+
+(b) if provision is made under paragraph (b) of that subsection it may include provision as to—
+
+(i) intimation that entry is proposed,
+
+(ii) affording an opportunity to make representations as respects the proposed entry (and may include provision affording any person who has made such representations an opportunity to be heard),
+
+(iii) conditions and limitations in relation to the proposed entry,
+
+(iv) a right of appeal to the sheriff in relation to the proposed entry,
+
+(v) the recovery of compensation for, or the making good of, any damage done in entering, or in consequence of entering, land,
+
+(vi) the resolution of any dispute as to compensation payable for damage done in entering, or in consequence of entering, land,
+
+(vii) a right of entry to land being conferred by the sheriff by warrant where entry to which a person is entitled by virtue of this section is refused or in such other circumstances as the Scottish Ministers consider appropriate, and
+
+(viii) an offence of wilfully obstructing a person upon whom a right of entry has been so conferred, and
+
+(c) the purposes mentioned in paragraphs (a) and (b) of that subsection may include inspecting or surveying land to be entered or any other land.
+
+#### 19 Acquisition of land by agreement
+
+(1) Subject to subsection (4), a promoter may acquire land by agreement if—
+
+(a) the enjoyment of it is seriously affected by—
+
+(i) the carrying out of works authorised by an order under section 1, or
+
+(ii) the operation of a transport system or inland waterway authorised by such an order, and
+
+(b) the interest of the seller is a qualifying interest.
+
+(2) A promoter who proposes to carry out on relevant land works authorised by an order under section 1 may acquire land by agreement if—
+
+(a) the enjoyment of it will be seriously affected by—
+
+(i) the carrying out of the works, or
+
+(ii) the operation of the transport system or inland waterway to which the works relate, and
+
+(b) the interest of the seller is a qualifying interest.
+
+(3) An interest is a qualifying interest for the purposes of subsections (1) and (2) if it is an interest such as is mentioned in subsection (2) of section 100 of the 1997 Act (interests qualifying for protection under blight provisions), references in that section to the date of service of a notice under section 101 of that Act being taken, for those purposes, to be references to the date on which the agreement for the acquisition is made.
+
+(4) The power conferred by—
+
+(a) subsection (1)(a)(i) is not exercisable unless the agreement for the acquisition is made before the date on which operation of the transport system or inland waterway to which the works relate commences, and
+
+(b) subsection (1)(a)(ii) is not exercisable unless the agreement for the acquisition is made no later than one year after that date.
+
+(5) This section applies only where a promoter would not, apart from this section, have power to acquire land as mentioned in subsections (1) and (2).
+
+(6) In this section—
+
+- “the 1997 Act” means the Town and Country Planning (Scotland) Act 1997 (c. 8),
+- “promoter” means any person authorised by an order under section 1 to carry out works or operate a transport system or inland waterway,
+- “relevant land” means land such as is mentioned in Schedule 14 to the 1997 Act.
+
+(7) In the Land Compensation (Scotland) Act 1973 (c. 56)—
+
+(a) at the end of section 24(6) (acquisition of land in connection with public works) add “ or authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007 ”, and
+
+(b) at the end of section 25(5) (execution of works in connection with public works) add “ or any works authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007 ”.
+
+#### 20 Service of notices and other documents
+
+(1) A notice or other document required or authorised to be served for the purposes of this Act—
+
+(a) may be served by post,
+
+(b) may be delivered, or
+
+(c) in a case where an address for service of a notice or document of the kind in question (or of notices or documents generally) using electronic means has been given by the person on whom the notice or document is to be served, may be transmitted by electronic means in accordance with the conditions set out in subsection (2).
+
+(2) The conditions are that the notice or other document is—
+
+(a) capable of being accessed by the person mentioned in subsection (1)(c),
+
+(b) legible in all material respects, and
+
+(c) in a form sufficiently permanent to be used for subsequent reference,
+
+and for the purposes of paragraph (b), “legible in all material respects” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served as a notice or document in printed form.
+
+(3) Where the person on whom a notice or other document to be served for the purposes of this Act is—
+
+(a) a body corporate other than a limited liability partnership, the notice or document is duly served if it is served on the secretary or clerk of that body,
+
+(b) a limited liability partnership, the notice or document is duly served if it is served on a member of the partnership,
+
+(c) a partnership other than a limited liability partnership, the notice or document is duly served if it is served on a member of the partnership or on a person having the control or management of the partnership business.
+
+(4) For the purposes of paragraph 4 of Schedule 1 to the Scotland Act 1998 (Transitory and Transitional Provisions) (Publication and Interpretation etc. of Acts of the Scottish Parliament) Order 1999 (S.I. 1999/1379) (references to service by post) as it applies for the purposes of this section, the proper address of any person in relation to the service on the person of a notice or document under subsection (1) is, if an address for service has been given by the person, that address and otherwise—
+
+(a) in the case of service by virtue of—
+
+(i) paragraph (a) of subsection (3), the registered or principal office of the body corporate,
+
+(ii) paragraph (b) of that subsection, the registered or principal office of the partnership,
+
+(iii) paragraph (c) of that subsection, the principal office of the partnership, and
+
+(b) in any other case, the person's last known address at the time of service.
+
+(5) Where for the purposes of this Act a notice or other document is required or authorised to be served on a person as having an interest in, or as the occupier of, land and the person's name or address cannot be ascertained after reasonable inquiry, the notice may be served by—
+
+(a) addressing it to the person by name or by the description of “owner”, or as the case may be “occupier”, of the land (describing it), and
+
+(b) leaving it either—
+
+(i) in the hands of a person who is, or appears to be, resident or employed on the land, or
+
+(ii) conspicuously affixed to some building or object on the land.
+
+(6) This section—
+
+(a) is not to be taken to exclude the employment of any method of service not expressly provided for by it, and
+
+(b) in particular, is without prejudice to any provision made by virtue of section 4(2)(c) or 6(3)(c) in relation to service of notice on such persons as are mentioned in sub-paragraphs (ii) to (iv) of paragraph 3(b) of the First Schedule to the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c. 42) (service of notice on holder of personal real burden, on owner of benefited property or on owners' association).
+
+#### 20A [[^F39]Monitoring measures
+
+(1) Where a determination is made by the Scottish Ministers under section 11 and that determination relates to an application or proposal of the type referred to in section 11(1), if section 12(4) and (7) apply to that determination the Scottish Ministers must consider whether it is appropriate to require monitoring measures to be carried out.
+
+(2) When considering whether to require monitoring measures to be carried out, and the nature of any such monitoring measures, the Scottish Ministers must consider—
+
+(a) whether monitoring measures are proportionate to the nature, location and size of the proposed works which are the subject of the determination and the significance of the effects of those works on the environment having regard in particular to the type of parameters to be monitored and the duration of the monitoring,
+
+(b) in order to avoid duplication of monitoring, whether monitoring arrangements required under [^F40]... other legislation applicable in Scotland are more appropriate, and
+
+(c) if monitoring measures are to be required, whether provision should be made to require appropriate remedial action.
+
+(3) Where the Scottish Ministers consider that it is appropriate to require monitoring measures they must include the terms of those measures in any order made under section 1 that follows on from any determination referred to in subsection (1).
+
+(4) Where mitigation measures or monitoring measures are required as part of an order made under section 1 the Scottish Ministers must take steps to ensure that those measures are implemented.
+
+(5) In subsection (2)—
+
+[^F41]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) the reference to the relevant directive is to the directive specified in section 12(9).
+
+(6) In this section and in section 12(4)(c)(v) “monitoring measures” means measures requiring the monitoring of any significant adverse effects on the environment of the proposed works that are the subject of an order under section 1.
+
+#### 20B Offences
+
+(1) Any person who, for the purpose of procuring a particular decision in relation to the making or otherwise of an order under section 1 to which section 11(8) applies—
+
+(a) knowingly or recklessly makes a statement which is false or misleading in a material particular,
+
+(b) with intent to deceive, uses any document which is false or misleading in a material particular or
+
+(c) with intent to deceive, withholds any material information,
+
+commits an offence.
+
+(2) A person who commits an offence under subsection (1) shall be liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum; or
+
+(b) on conviction on indictment, to a fine.
+
+(3) No act or omission of the Crown constitutes an offence under this section.
+
+(4) The Court of Session may, on the application of the Scottish Ministers, the chief constable or any other public body or office-holder having responsibility for enforcing the provision, declare unlawful any act or omission of the Crown which would but for subsection (3) have constituted an offence under this section.
+
+(5) Despite subsection (3), this section applies to a person in the public service of the Crown as it applies to other persons.
+
+#### 20C Offences by bodies corporate etc.
+
+(1) Subsection (2) applies where—
+
+(a) an offence under section 20B has been committed by—
+
+(i) a body corporate,
+
+(ii) a Scottish partnership, or
+
+(iii) an unincorporated association other than a Scottish partnership, and
+
+(b) it is proved that the offence was committed with the consent or connivance of, or was attributable to neglect on the part of—
+
+(i) a relevant individual, or
+
+(ii) an individual purporting to act in the capacity of a relevant individual.
+
+(2) The individual (as well as the body corporate, partnership or (as the case may be) association) commits the offence and is liable to be proceeded against and punished accordingly.
+
+(3) In subsection (1), “relevant individual” means—
+
+(a) in relation to a body corporate (other than a limited liability partnership)—
+
+(i) a director, manager, secretary or similar officer of the body,
+
+(ii) where the affairs of the body are managed by its members, a member,
+
+(b) in relation to a limited liability partnership, a member,
+
+(c) in relation to a Scottish partnership, a partner,
+
+(d) in relation to an unincorporated association other than a Scottish partnership, an individual who is concerned in the management or control of the association.]
+
+#### 21 Annual report
+
+(1) The Scottish Ministers are, by 1st. October in each year after the year of Royal Assent, to prepare a report on—
+
+(a) such orders as were, in the relevant period, made (or by virtue of section 11(2)(c) not made) under section 1,
+
+[[^F42](aa) such draft statutory instruments containing orders under section 1 which were laid before the Parliament in the relevant period but which had not been approved by the Parliament as at the date that period ended,]
+
+(b) such applications as were made by virtue of section 4 (whether in the relevant period or before it commenced) and remained current as at the date that period ended, and
+
+(c) such proposals as were (whether in the relevant period or before it commenced) the subject of a notice published under section 6(3)(b) and remained current as at that date.
+
+(2) Without prejudice to the generality of subsection (1), the report is to include—
+
+(a) details of each order[[^F43]and draft statutory instrument], and as the case may be of—
+
+(i) each applicant and application, or
+
+(ii) each proposal,
+
+(b) where the Scottish Ministers have—
+
+(i) dealt with an application,
+
+(ii) made, or determined not to make, an order notice of the proposal for which was published under section 6(3)(b), or
+
+(iii) made a direction under section 13(1)(c) or (7)(c),
+
+a summary of the reasons which they had for doing as they did,
+
+(c) in relation to each order made during the relevant period (or which the Scottish Ministers have, during that period, determined not to make)—
+
+(i) on an application, the length of time which elapsed between the application being made and the date on which the order (or determination) was made, or
+
+(ii) other than on an application, the length of time which elapsed between notice of the proposal to make the order being published under section 6(3)(b) and that date.
+
+[[^F44](d) in relation to each draft statutory instrument the length of time which elapsed between—
+
+(i) the application for an order being made under section 4, or
+
+(ii) where no application was made, notice of the proposal to make the order being published under section 6(3)(b),
+
+and the draft statutory instrument containing the order being laid before the Parliament]
+
+(3) The Scottish Ministers are to lay a copy of the report before the Parliament and are to publish the report.
+
+(4) In this section the “ relevant period ” means the period of 12 months which ends on 31st. July in the year in which the report is prepared (except that in the case of the report first prepared under this section, it means the period which begins on the day on which section 1 comes into force and ends on 31st. July in the year in which the report is prepared).
+
+#### 22 Orders under the Light Railways Act 1896
+
+No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish Ministers on or after the day on which section 1 (of this Act) comes into force.
+
+#### 23 Interpretation
+
+(1) In this Part, except where the context otherwise requires—
+
+- “carriageway” has the same meaning as in the Roads (Scotland) Act 1984 (c. 54),
+
+- “guided transport” means transport by vehicles guided by means external to the vehicles (whether or not the vehicles are also capable of being operated in some other way),
+
+- “inland waterway” includes both natural and artificial waterways, and waterways within parts of the sea, but not any waterway managed or maintained by a person who is a harbour authority (within the meaning of the Harbours Act 1964 (c. 40)) in relation to the waterway,
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39),
+
+- “railway” means a system of transport employing parallel rails which—
+
+  - (a) provide support and guidance for vehicles carried on flanged wheels, and
+  - (b) form a track which either is of a gauge of at least 350 millimetres or crosses a carriageway (whether or not on the same level),
+
+  but does not include a tramway,
+
+- “road” means a road within the meaning of section 107 of the New Roads and Street Works Act 1991 (c. 22), together with land on the verge of a road or between two carriageways,
+
+- “tramway” means a system of transport used wholly or mainly for the carriage of passengers and employing parallel rails which—
+
+  - (a) provide support and guidance for vehicles carried on flanged wheels, and
+  - (b) are laid wholly or mainly along a road or in any other place to which the public has access (including a place to which the public has access only on making a payment),
+
+- “trolley vehicle system” means a system of transport by vehicles constructed or adapted for use on roads without rails under electric power transmitted to them by overhead wires (whether or not there is in addition a source of power on board the vehicles),
+
+- “vehicle” includes mobile traction unit.
+
+(2) References in this Part to rights over land include references to rights to do, or to place and maintain, anything in, on or under land or in the air-space above its surface.
+
+## Part 2 — Miscellaneous amendments
+
+### 24 Amendment of Roads (Scotland) Act 1984
+
+(1) The Roads (Scotland) Act 1984 (c. 54) is amended as follows.
+
+(2) After section 143, insert—
+
+> **143A “Developments of national significance” etc.: special procedure**
+>
+> (1) Subsection (3) below applies to a statutory instrument which—
+>
+> (a) contains an order under section 5 of this Act directing that a road proposed to be constructed shall be a trunk road and the construction of the road would constitute a national development;
+>
+> (b) contains or confirms a scheme under section 7 of this Act which authorises the carrying out of work which would constitute a national development; or
+>
+> (c) is the subject of a direction by the Scottish Ministers under this paragraph.
+>
+> (2) In subsection (1) above, the references to a “national development” are to any development (within the meaning of the Town and Country Planning (Scotland) Act 1997) for the time being designated under section 3A(4)(b) of that Act as a national development.
+>
+> (3) The statutory instrument—
+>
+> (a) is to be laid before the Scottish Parliament; and
+>
+> (b) cannot come into force unless the Scottish Parliament, by resolution, approves the instrument.
+>
+> (4) Unless the Scottish Ministers otherwise direct, an instrument containing or confirming an order or scheme which revokes, amends or re-enacts an instrument laid before the Scottish Parliament under paragraph (a) of subsection (3) above is not subject to the procedure in that subsection.
+
+.
+
+(3) In section 144(1) (regulations for procedure in schemes and orders), for the words “section 143” substitute “ sections 143 and 143A ”.
+
+(4) In Schedule 1 (procedure for making or confirming certain orders and schemes)—
+
+(a) after sub-paragraph (1B) of paragraph 7, insert—
+
+> (1BA) Where—
+>
+> (a) the Scottish Ministers publish under sub-paragraph (1B) above a decision to proceed with a project; and
+>
+> (b) the statutory instrument giving effect to that decision is to be laid before the Scottish Parliament under section 143A(3)(a) of this Act,
+>
+> they shall publish together with the decision a statement to the effect that the instrument cannot come into force until the Scottish Parliament, by resolution, approves it.
+
+, and
+
+(b) after sub-paragraph (1B) of paragraph 13, insert—
+
+> (1BA) Where—
+>
+> (a) the Scottish Ministers publish under sub-paragraph (1B) above a decision to proceed with a project; and
+>
+> (b) the statutory instrument giving effect to that decision is to be laid before the Scottish Parliament under section 143A(3)(a) of this Act,
+>
+> they shall publish together with the decision a statement to the effect that the instrument cannot come into force until the Scottish Parliament, by resolution, approves it.
+
+.
+
+(5) In Schedule 2 (validity and date of operation of orders and schemes)—
+
+(a) in paragraph 1—
+
+(i) the existing words from “stating” to “confirmed” become sub-paragraph (a),
+
+(ii) the word “and” where it occurs for the second time is repealed,
+
+(iii) the existing words from “naming” to “hours” become sub-paragraph (b), and
+
+(iv) after that sub-paragraph, add—
+
+> (c) if subsection (3) of section 143A of this Act does not apply to the statutory instrument containing or confirming the scheme or order, giving information regarding—
+>
+> (i) the date on which the scheme or order will become operative; and
+>
+> (ii) the right to challenge the validity of the scheme or order and the procedure for doing so; and
+>
+> (d) if that subsection does apply to the relevant statutory instrument, stating that the instrument cannot come into force until the Scottish Parliament, by resolution, approves it.
+
+,
+
+(b) after that paragraph, insert—
+
+> **1A**
+>
+> As soon as may be after the Scottish Parliament has decided whether or not to approve a statutory instrument under section 143A(3)(b) of this Act, the Scottish Ministers shall publish in the Edinburgh Gazette, and in such other manner as they think best adapted for informing persons affected, a notice—
+>
+> (a) stating that the Parliament has, or as the case may be has not, passed a resolution approving the instrument; and
+>
+> (b) where a resolution has been passed, providing information regarding—
+>
+> (i) the date on which the relevant scheme or order will become operative;
+>
+> (ii) the place where a copy of it may be inspected free of charge at all reasonable hours; and
+>
+> (iii) the right to challenge the validity of the scheme or order and the procedure for doing so.
+
+, and
+
+(c) in paragraph 2—
+
+(i) the existing words from “the date” to “published” become sub-paragraph (a), and
+
+(ii) after that sub-paragraph, insert
+
+> or
+>
+> (b) in a case where a notice under paragraph 1A above is required, the date on which that notice is first published,
+
+.
+
+### 25 Amendment of Harbours Act 1964
+
+(1) The Harbours Act 1964 (c. 40) is amended as follows.
+
+(2) In section 44 (limitation of right to challenge orders in legal proceedings), at the end add—
+
+> (6) In relation to any challenge to an order to which subsection (7) below applies, an organisation mentioned in the definition of “the public concerned” in Article 1(2) of the Directive is deemed for the purposes of—
+>
+> (a) sub-paragraph (a) of Article 10a of that Directive to have an interest; and
+>
+> (b) sub-paragraph (b) of Article 10a to have rights capable of being impaired.
+>
+> (7) This subsection applies to a harbour revision or empowerment order authorising a project which—
+>
+> (a) falls within Annex I to the Directive; or
+>
+> (b) falls within Annex II to the Directive and is a relevant project.
+>
+> (8) In this section, “the Directive”, “project” and “relevant project” have the meanings assigned by paragraph 1 of Schedule 3 to this Act.
+
+.
+
+(3) After section 54, insert—
+
+> **54A “Developments of national significance” etc.: special procedure**
+>
+> (1) Subsection (4) below applies to a statutory instrument which—
+>
+> (a) contains a harbour revision order or a harbour empowerment order; and
+>
+> (b) falls within subsection (2) below.
+>
+> (2) A statutory instrument falls within this subsection if—
+>
+> (a) the order in question authorises the carrying out of work which would constitute a national development; or
+>
+> (b) the instrument is the subject of a direction by the Scottish Ministers under this paragraph.
+>
+> (3) In subsection (2) above and subsection (5) below, references to a “national development” are to any development (within the meaning of the Town and Country Planning (Scotland) Act 1997) for the time being designated under section 3A(4)(b) of that Act as a national development.
+>
+> (4) The statutory instrument—
+>
+> (a) is to be laid before the Scottish Parliament; and
+>
+> (b) cannot come into force unless the Scottish Parliament, by resolution, approves the instrument.
+>
+> (5) An instrument containing an order which revokes, amends or re-enacts an instrument laid before the Parliament under paragraph (a) of subsection (4) above is subject to the procedure in that subsection only if—
+>
+> (a) the order authorises the carrying out of work which would constitute a national development (other than a national development to which the instrument revoked, amended or re-enacted relates); or
+>
+> (b) the Scottish Ministers so direct.
+
+.
+
+(4) In section 57(1) (interpretation), at the appropriate places insert—
+
+> “Act” means an Act of Parliament or an Act of the Scottish Parliament;
+
+, and
+
+> “enactment” includes an Act of the Scottish Parliament or an instrument made under such an Act;
+
+.
+
+(5) In Schedule 3 (procedure on harbour revision and empowerment orders)—
+
+(a) in paragraph 1—
+
+(i) in the definition of “the Directive”, at the end add “ and Council Directive 2003/35/EC ”,
+
+(ii) paragraphs (c) to (f) and (i) of the definition of “sensitive area” are repealed, and
+
+(iii) in that definition, at the end add—
+
+> - (l) an area designated as a national park by a designation order made by the Scottish Ministers under section 6(1) of the National Parks (Scotland) Act 2000
+
+,
+
+(b) in sub-paragraph (2) of paragraph 10—
+
+(i) after head (c) insert—
+
+> (ca) where such a statement has been supplied—
+>
+> (i) provide an address from which a copy of the statement can, until the expiry of the period referred to in head (f), be obtained and information as to the amount of any charge for the provision of such a copy,
+>
+> (ii) provide an address from which further information about the works proposed to be authorised can, until the expiry of that period, be obtained, and
+>
+> (iii) state whether paragraph 16 applies,
+
+,
+
+(ii) the word “and” which follows head (e) is repealed,
+
+(iii) in head (f), after the word “application” insert “ or to make representations in relation to any environmental statement supplied under paragraph 8(1) ”,
+
+(iv) in that head, after the word “specifying” insert “ (where relevant) ”, and
+
+(v) at the end add
+
+> and
+>
+> (g) provide details of the procedure under this Schedule for dealing with any objection or representations made under head (f)
+
+,
+
+(c) in sub-paragraph (4) of paragraph 10, after the word “can” insert “ , until the expiry of the period referred to in sub-paragraph (2)(f), ”,
+
+(d) after that paragraph, add—
+
+> **10A**
+>
+> (1) This paragraph applies where—
+>
+> (a) an environmental statement has been supplied under paragraph 8(1), and
+>
+> (b) prior to the Scottish Ministers making a decision under paragraph 19(2), they are supplied by the applicant or any other person with further information falling within sub-paragraph (2).
+>
+> (2) Information falls within this sub-paragraph if—
+>
+> (a) the Scottish Ministers are of the view that it requires to be considered in order properly to assess the likely environmental effects of the proposed project, and
+>
+> (b) it is not information required for the purposes of an inquiry or hearing held under paragraph 18.
+>
+> (3) The applicant shall arrange for a notice to be published—
+>
+> (a) by Gazette and local advertisement, and
+>
+> (b) in such other ways as seem to the Scottish Ministers appropriate.
+>
+> (4) The notice must—
+>
+> (a) state that further information of the sort referred to in sub-paragraph (2)(a) has been received,
+>
+> (b) specify a place where a copy of the information can, until the expiry of the period referred to in head (d), be inspected at all reasonable hours,
+>
+> (c) provide an address from which a copy of the information can, until the expiry of that period, be obtained and details of the amount of any charge for the provision of such a copy, and
+>
+> (d) state that any person who desires to make representations in relation to the information should do so in writing to the Scottish Ministers before the expiry of the period of 42 days starting with a date specified in the notice.
+>
+> (5) The date specified in accordance with sub-paragraph (4)(d) must be the date on which the notice first appears in a local newspaper.
+
+,
+
+(e) in sub-paragraph (b) of paragraph 15, after the words “8(1)” insert “ and any further information falling within paragraph 10A(2) ”,
+
+(f) in paragraph 16—
+
+(i) in sub-paragraph (4)(b), after the words “8(1)” insert “ and any further information falling within paragraph 10A(2) ”, and
+
+(ii) after head (b) of sub-paragraph (7), insert—
+
+> (ba) details of what provision was made for public participation in the making of the decision,
+
+,
+
+(g) in sub-paragraph (c) of paragraph 17, after the word “objections” insert “ or representations ”,
+
+(h) in sub-paragraph (1D) of paragraph 18, after head (a) insert—
+
+> (aa) the harbour authority;
+
+,
+
+(i) in sub-paragraph (1) of paragraph 19—
+
+(i) in head (a), after the words “8(1)” insert “ and any further information falling within paragraph 10A(2) ”, and
+
+(ii) after head (d), insert—
+
+> (da) any representations made under paragraph 10(2)(f) or 10A(4)(d);
+
+,
+
+(j) in sub-paragraph (2) of paragraph 20—
+
+(i) after the word “publish” insert “ by Gazette and local advertisement ”, and
+
+(ii) after head (b) insert—
+
+> (ba) details of what provision was made for public participation in the making of the decision,
+>
+> (bb) a statement regarding the right to challenge the validity of the decision and the procedures for doing so,
+
+,
+
+(k) in sub-paragraph (2) of paragraph 24, for head (c) and the word “and” which precedes it substitute—
+
+> (c) if subsection (4) of section 54A of this Act does not apply to the statutory instrument containing the order, give information regarding—
+>
+> (i) the date on which the order comes into operation, and
+>
+> (ii) the right to challenge the validity of the order and the procedure for doing so, and
+>
+> (d) if that subsection does apply to the statutory instrument containing the order, state that the instrument cannot come into force until the Scottish Parliament, by resolution, approves it.
+
+,
+
+(l) after that sub-paragraph, add—
+
+> (3) As soon as possible after the Scottish Parliament has decided whether or not to approve under section 54A(4)(b) of this Act a statutory instrument containing a harbour revision order, the applicant for that order shall publish by Gazette and local advertisement a notice—
+>
+> (a) stating that the Parliament has, or as the case may be has not, passed a resolution approving the instrument, and
+>
+> (b) where a resolution has been passed, providing information regarding—
+>
+> (i) the place where a copy of the order and any map annexed to it may be inspected at all reasonable hours,
+>
+> (ii) the date on which the order comes into operation, and
+>
+> (iii) the right to challenge the validity of the order and the procedure for doing so.
+
+,
+
+(m) in sub-paragraph (4) of paragraph 28—
+
+(i) in head (a), after the word “situated” add “ or by the harbour authority ”, and
+
+(ii) in head (b), after the word “council” insert “ or the authority ”,
+
+(n) in sub-paragraph (2) of paragraph 31, for the words from “state” to the end substitute “ contain the information specified in paragraph 24(2) ”,
+
+(o) after that sub-paragraph, add—
+
+> (3) As soon as possible after the Scottish Parliament has decided whether or not to approve under section 54A(4)(b) of this Act a statutory instrument containing a harbour revision order made by the Scottish Ministers of their own motion, those Ministers shall publish by Gazette and local advertisement a notice containing the information specified in head (a) of sub-paragraph (3) of paragraph 24 and, if appropriate, that specified in head (b) of that sub-paragraph.
+
+, and
+
+(p) in paragraph 32, after sub-paragraph (3) insert—
+
+> (3A) Paragraph 18(1D)(aa) shall be omitted.
+
+.
+
+(6) In paragraph 3 of Schedule 4 (procedure on harbour reorganisation schemes: objections)—
+
+(a) in sub-paragraph (5)—
+
+(i) after the word “further” insert “ and subject to sub-paragraph (5A) below ”,
+
+(ii) the words “an inquiry to be held with respect to” are repealed,
+
+(iii) after the words “not withdrawn” insert
+
+> to be considered—
+>
+> (a) at an inquiry;
+>
+> (b) at a hearing before a person appointed by the Scottish Ministers; or
+>
+> (c) by way of written representations,
+
+, and
+
+(iv) for the words “the holding of an inquiry with respect thereto” substitute “ being considered in any of these ways ”, and
+
+(b) after that sub-paragraph, insert—
+
+> (5A) The Scottish Ministers are not to cause to be considered by way of written representations under sub-paragraph (5)(c) above an objection made by a harbour authority on whom a copy of the scheme was served under paragraph 2(d) above.
+
+.
+
+### 26 Amendment of Pilotage Act 1987
+
+After section 1 of the Pilotage Act 1987 (c. 21), insert—
+
+> **1A Procedure on orders under section 1**
+>
+> (1) Where the Scottish Ministers propose to make an order under section 1 above (other than under subsection (4) of that section), they must before doing so—
+>
+> (a) publish a notice—
+>
+> (i) in a newspaper circulating in the area in which the provisions of the order will have most effect;
+>
+> (ii) in the Edinburgh Gazette; and
+>
+> (iii) in such other publication as seems to them appropriate; and
+>
+> (b) send a copy of the notice to such persons as they consider may be affected by the order.
+>
+> (2) Where the Scottish Ministers propose to make an order under subsection (4) of section 1 above, the harbour authority which made application under that subsection must, before the order is made—
+>
+> (a) publish a notice—
+>
+> (i) in a newspaper circulating in the area in which the provisions of the order will have most effect;
+>
+> (ii) in the Edinburgh Gazette; and
+>
+> (iii) in such other publication as may be directed by the Scottish Ministers; and
+>
+> (b) send a copy of the notice—
+>
+> (i) to such persons as they consider may be affected by the order; and
+>
+> (ii) to such other persons as the Scottish Ministers may direct.
+>
+> (3) A notice under subsection (1) or (2) above must—
+>
+> (a) contain a summary of the contents of the proposed order;
+>
+> (b) specify a place where a copy of the proposed order (and of any related map or plan) is available for public inspection; and
+>
+> (c) provide details as to the making to the Scottish Ministers of objections to the proposed order by a date specified in the notice (that date being no less than 42 days after the first date of publication of the notice in terms of paragraph (a)(i) of subsection (1) or (2) above).
+>
+> (4) Where a harbour authority affected by the proposed order makes an objection to the Scottish Ministers by the date specified in the notice, the Scottish Ministers shall arrange for the objection to be considered—
+>
+> (a) at a public local inquiry; or
+>
+> (b) at a hearing before a person appointed by them.
+>
+> (5) Where the Scottish Ministers receive any other objection by the date specified in the notice and they do not consider the objection to be frivolous or trivial, they shall arrange for the objection to be considered—
+>
+> (a) at a public local inquiry;
+>
+> (b) at a hearing before a person appointed by them; or
+>
+> (c) by way of written representations.
+>
+> (6) Subsections (2) and (4) to (8) of section 210 of the Local Government (Scotland) Act 1973 (c. 65) (attendance and evidence at, and expenses of, inquiries) apply to an inquiry held under subsection (4)(a) or (5)(a) above as they apply to a local inquiry under that Act.
+>
+> (7) Subsections (6) to (8) of section 210 of the Local Government (Scotland) Act 1973 apply to a hearing held under subsection (4)(b) or (5)(b) above as they apply to a local inquiry under that Act.
+>
+> (8) The Scottish Ministers are to have regard to—
+>
+> (a) a report by the person conducting any inquiry or hearing under subsection (4) or (5) above; and
+>
+> (b) any written representations in terms of subsection (5)(c) above,
+>
+> before deciding whether or not to make the proposed order (with or without modifications).
+>
+> (9) After an order has been made, the Scottish Ministers or, where the order is made under subsection (4) of section 1 above, the harbour authority which made application under that subsection must—
+>
+> (a) publish a notice—
+>
+> (i) in a newspaper circulating in the area in which the provisions of the order will have most effect; and
+>
+> (ii) in the Edinburgh Gazette; and
+>
+> (b) send a copy of the notice to—
+>
+> (i) any person to whom a copy notice was sent under paragraph (b) of subsection (1) or (2) above, as the case may be;
+>
+> (ii) any person whose objection was considered at an inquiry or hearing under subsection (5) above; and
+>
+> (iii) any other person whom the Scottish Ministers consider appropriate.
+>
+> (10) A notice under subsection (9) above must—
+>
+> (a) state that the order has been made;
+>
+> (b) specify the date on which it comes into force; and
+>
+> (c) specify a place where a copy of the order is available for public inspection.
+
+.
+
+### 27 Amendment of Transport (Scotland) Act 2001
+
+In section 70 of the Transport (Scotland) Act 2001 (asp 2) (grants for transport-related purposes), after subsection (1) insert—
+
+> (1A) Without prejudice to the generality of subsection (1) above, the purposes mentioned in that subsection include the purpose of acquiring a qualifying interest in land where the use and enjoyment of that land are, or may be, seriously affected in consequence of—
+>
+> (a) any provision contained in an order under section 1 of the Transport and Works (Scotland) Act 2007 (asp 8) (orders as to transport systems and inland waterways) made on an application to the Scottish Ministers in accordance with rules made under section 4 of that Act; or
+>
+> (b) any provision contained in—
+>
+> (i) an Act passed before the time when Part 1 of that Act of 2007 is first wholly in force; or
+>
+> (ii) an instrument made under an Act before that time,
+>
+> and which is of a kind which could be included in an order under section 1 of that Act of 2007.
+>
+> (1B) An interest in land is a qualifying interest for the purposes of subsection (1A) if it is an interest such as is mentioned in subsection (2) of section 100 of the Town and Country Planning (Scotland) Act 1997 (c. 8) (interests qualifying for protection under blight provisions), references in that section to the date of service of a notice under section 101 of that Act being taken, for those purposes, to be references to the date on which the agreement for the acquisition is made.
+
+.
+
+## Part 3 — General
+
+### 28 Further provision as regards rules, regulations and orders
+
+(1) Any power of the Scottish Ministers to make an order, regulations or rules under this Act is exercisable by statutory instrument.
+
+(2) Subject to subsections (3) to (5), a statutory instrument containing—
+
+(a) an order under section 12(18) or 18(1) or under subsection (7) of this section,
+
+(b) regulations under this Act, or
+
+(c) rules under this Act,
+
+is subject to annulment in pursuance of a resolution of the Parliament.
+
+(3) A statutory instrument containing—
+
+(a) an order under section 12(18), 18(1) or 30(4) or under subsection (7) of this section which includes, or
+
+(b) regulations or rules which include,
+
+provision adding to, replacing or omitting any part of the text of an Act is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+(4) On the first occasion on which a power mentioned in subsection (5) is exercised the statutory instrument containing the order, regulations or rules in question is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+(5) The powers are—
+
+(a) that under section 4(2),
+
+(b) that under section 8(1),
+
+(c) that under paragraph (a) of section 10(1),
+
+(d) that under paragraph (b) of section 10(1),
+
+(e) that under section 12(18),
+
+(f) that under section 14(3),
+
+(g) that under paragraph (a) of section 18(1),
+
+(h) that under paragraph (b) of section 18(1).
+
+(6) Any power of the Scottish Ministers to make an order, regulations or rules under this Act—
+
+(a) may be exercised so as to make different provision for different cases or descriptions of case or for different purposes,
+
+(b) may be exercised so as to make provision for the delegation of functions, and
+
+(c) without prejudice to subsection (7), includes power to make such incidental, supplementary, consequential, transitory, transitional or saving provision (including provision amending, repealing or revoking any enactment) as they consider necessary or expedient.
+
+(7) In connection with the coming into force of any provision of this Act the Scottish Ministers may by order under this subsection make such provision as is mentioned in paragraph (c) of subsection (6).
+
+(8) Any offence created by or under an order under section 1 or 18 is to be triable only summarily, and no such order is to authorise the imposition on persons convicted of an offence of—
+
+(a) a term of imprisonment, or
+
+(b) a fine exceeding level 3 on the standard scale.
+
+### 29 Modification and repeal of enactments
+
+(1) Schedule 2, which modifies enactments, has effect.
+
+(2) The enactments specified in column 1 of schedule 3 are repealed to the extent specified in column 2.
+
+### 30 Short title, commencement and transitional provision
+
+(1) This Act may be cited as the Transport and Works (Scotland) Act 2007.
+
+(2) This section and section 28 come into force on the day after Royal Assent.
+
+(3) Sections 25(2) and (5)(a) to (g), (i) and (j) and 27 come into force at the end of the period of two months beginning with the date of Royal Assent.
+
+(4) The remaining provisions of this Act come into force on such day as the Scottish Ministers may by order appoint.
+
+(5) The provisions of section 25 specified in subsection (3) do not apply in relation to an application for an order under section 14 or 16 of the Harbours Act 1964 (c. 40) (harbour revision and empowerment orders) if the application was made before those provisions come into force.
+
+## SCHEDULE 1 — Matters within section 1
+
+*(introduced by section 2(1))*
+
+**1** The construction, alteration, repair and maintenance of railways, tramways, trolley vehicle systems and other transport systems within section 1(1)(a), waterways, roads, watercourses, tunnels, bridges, buildings and other structures.
+
+**2** The carrying out of demolition or any other civil engineering or other works.
+
+**3** The acquisition of land, whether compulsorily or by agreement.
+
+**4** The creation and extinguishment of rights over land (including rights of navigation over water and fishing rights), whether compulsorily or by agreement.
+
+**5** The abrogation and modification of agreements relating to land.
+
+**6** The conferring on persons providing transport services of rights to use systems belonging to others.
+
+**7** The protection of the property or interests of any person.
+
+**8** The imposition and exclusion of obligations or of liability in respect of any acts or omissions.
+
+**9** The making of agreements to secure the provision of police services.
+
+**10** The carrying out of surveys and the taking of soil samples.
+
+**11** The payment of compensation.
+
+**12** The charging of tolls, fares (including penalty fares) and other charges, and the creation of offences in connection with non-payment (or in connection with a person's failure to give a name and address in accordance with provisions relating to penalty fares).
+
+**13** The making of byelaws by any person and their enforcement, including the creation of offences.
+
+**14** The payment of rates.
+
+**15** The transfer, leasing, discontinuance and revival of undertakings.
+
+**16** The transfer of powers to construct or operate a transport system or inland waterway.
+
+**17** The submission of disputes to arbitration.
+
+**18** The imposition of requirements to obtain the consent of the Scottish Ministers or another person.
+
+## SCHEDULE 2 — Modification of enactments
+
+*(introduced by section 29(1))*
+
+### Roads (Scotland) Act 1984 (c. 54)
+
+**1** The Roads (Scotland) Act 1984 is amended as follows.
+
+**2** In section 7(9) (special roads)—
+
+(a) the words from “Part IV” to “1945; and” are repealed, and
+
+(b) for the words “such schemes” substitute “ schemes under this section ”.
+
+**3** In Schedule 1 (procedure on orders and schemes)—
+
+(a) in paragraph 5, for the words “paragraphs 6 and 19” substitute “ paragraph 6 ”, and
+
+(b) in paragraph 11, for the words “paragraphs 12 and 19” substitute “ paragraph 12 ”.
+
+### New Roads and Street Works Act 1991 (c. 22)
+
+**4** In section 27(3) (toll orders) of the New Roads and Street Works Act 1991, for the words “, paragraphs 15 and 18 of Part III, and Part IV” substitute “ and paragraphs 15 and 18 of Part III ”.
+
+## SCHEDULE 3 — Repeals
+
+*(introduced by section 29(2))*
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Harbours Act 1964 (c. 40) | In section 18(4), the words from “and a harbour” to “parliamentary procedure” In section 44(1), the words from “(not being” to “of that Act)” Section 47(3) In Schedule 3, paragraph 23 |
+| Docks and Harbours Act 1966 (c. 28) | Section 42(2)(a) |
+| Roads (Scotland) Act 1984 (c. 54) | Sections 5(5), 7(8), 76(4) and 77(3) In Schedule 1, in each of paragraphs 7(1), 13(1) and 14C the words “Subject to paragraph 19 below,” In Schedule 1, paragraph 14D In Schedule 1, in paragraph 18 the words “, but without prejudice to paragraph 19 below” In Schedule 1, paragraph 19 In Schedule 2, paragraphs 5 and 6 |
+| Pilotage Act 1987 (c. 21) | Section 1(7) and (8) In section 30(2), the words “to which subsection (8) of that section applies” |
+| New Roads and Street Works Act 1991 (c. 22) | In Schedule 8, paragraphs 96(3) and 97 |
+| Transport and Works Act 1992 (c. 42) | In Schedule 3, paragraph 5(4) |
+| Water Industry (Scotland) Act 2002 (asp 3) | In schedule 7, paragraph 14(2) and (3) |
+
+---
+
+[^F1]: Words in s. 3(4)(b) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 38(a)
+[^F2]: S. 3(4A) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 38(b)
+[^F3]: Words in s. 4(7) repealed (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F4]: S. 4(7)(e) inserted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 3 (with reg. 7)
+[^F5]: Word in s. 5 heading repealed (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(3)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F6]: Word in s. 5(1) substituted (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(3)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F7]: Word in s. 5(2) substituted (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(3)(c)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: Word in s. 5(2)(a) substituted (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(3)(c)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F9]: Word in s. 5(2)(b) substituted (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(3)(c)(iii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F10]: Words in s. 5(3) substituted (7.12.2019) by The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322), regs. 1, 3(3)
+[^F11]: Words in s. 11(6) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 19(a)
+[^F12]: S. 11(7) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 19(b)
+[^F13]: S. 11(8) inserted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 4 (with reg. 7)
+[^F14]: Words in s. 12(1)(b)(iii) substituted (16.10.2015) by The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682), reg. 1(2), Sch. para. 11(b)
+[^F15]: Words in s. 12(2)(a) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 20(a)
+[^F16]: S. 12(2)(c)(iv) and word inserted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 5(a) (with reg. 7)
+[^F17]: S. 12(3) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 20(b)
+[^F18]: S. 12(4)-(6) substituted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 5(b) (with reg. 7)
+[^F19]: Words in s. 12(8) substituted (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(4)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F20]: S. 12(8A) inserted (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(4)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F21]: Words in s. 12(9) substituted (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(4)(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F22]: Words in s. 12(9) substituted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 5(d) (with reg. 7)
+[^F23]: Word in s. 12(10)(b) substituted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 5(e)(i) (with reg. 7)
+[^F24]: Words in s. 12(10) inserted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 5(e)(ii) (with reg. 7)
+[^F25]: S. 12(11) substituted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 5(f) (with reg. 7)
+[^F26]: Words in s. 12(13) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 20(d)(i)
+[^F27]: Words in s. 12(13) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 20(d)(ii)
+[^F28]: Words in s. 12(13)(b)(i) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 20(d)(iii)
+[^F29]: Words in s. 12(14) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 20(e)
+[^F30]: Words in s. 13(1) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(a)
+[^F31]: S. 13(2A) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(b)
+[^F32]: Words in s. 13(3) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(c)(i)
+[^F33]: S. 13(3)(b) and word omitted (11.11.2011) by virtue of The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(c)(ii)
+[^F34]: Words in s. 13(4) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(d)
+[^F35]: Words in s. 13(5) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(e)
+[^F36]: Words in s. 13(6)(a) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(f)(i)
+[^F37]: Words in s. 13(6)(b) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(f)(ii)
+[^F38]: S. 13(7) substituted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 21(g)
+[^F39]: Ss. 20A-20C inserted (16.5.2017) by The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138), regs. 1, 6
+[^F40]: Words in s. 20A(2)(b) repealed (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(5)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F41]: S. 20A(5)(a) repealed (31.12.2020) by The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415), regs. 1, 3(5)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F42]: S. 21(1)(aa) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396) , arts. 1 , 22(a)
+[^F43]: Words in s. 21(2)(a) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396) , arts. 1 , 22(b)
+[^F44]: S. 21(2)(d) inserted (11.11.2011) by The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396), arts. 1, 22(c)

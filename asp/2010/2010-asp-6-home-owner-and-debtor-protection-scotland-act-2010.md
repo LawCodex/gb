@@ -1,0 +1,660 @@
+---
+title: "Home Owner and Debtor Protection (Scotland) Act 2010"
+identifier: "asp/2010/6"
+citation: "2010 asp 6"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2010-03-18
+last_amended: 2016-11-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2010/6"
+source_modified: 2017-02-07
+retrieved: 2026-10-11
+---
+
+# Home Owner and Debtor Protection (Scotland) Act 2010
+
+**2010 asp 6**
+
+An Act of the Scottish Parliament to amend the law regarding the enforcement of standard securities over residential property; to amend the Bankruptcy (Scotland) Act 1985 as regards the grounds on which a debtor may apply for sequestration, the types of voluntary trust deed to which the Act applies, the sale or disposal of a debtor's family home and requirements to publish notices about sequestration in the Edinburgh Gazette; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 11th February 2010 and received Royal Assent on 18th March 2010
+
+## Part 1 — Residential standard securities etc.: creditor's rights on default
+
+### 1 Residential standard securities: restriction of creditor's remedies
+
+(1) In section 20 (creditor's rights on default of debtor on calling-up notice) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35) (“the 1970 Act”), after subsection (2) insert—
+
+> (2A) Where the standard security is over land or a real right in land used to any extent for residential purposes, the creditor is entitled to exercise the rights specified in standard condition 10(2) and (3) (and mentioned in subsections (1) and (2) above) only—
+>
+> (a) where the conditions in section 23A of this Act are satisfied, or
+>
+> (b) with the warrant of the court, granted on an application under section 24 of this Act.
+
+.
+
+(2) In section 23 (rights and duties of parties after service of notice of default) of the 1970 Act, after subsection (3) insert—
+
+> (4) Where the standard security is over land or a real right in land used to any extent for residential purposes—
+>
+> (a) the creditor is entitled to exercise the right specified in standard condition 10(2) only—
+>
+> (i) where the conditions in section 23A of this Act are satisfied, or
+>
+> (ii) with the warrant of the court, granted on an application under section 24 of this Act, and
+>
+> (b) subsection (3) above has effect as if the reference to the last foregoing subsection were a reference to section 24 of this Act.
+
+.
+
+(3) After section 23 of the 1970 Act insert—
+
+> **23A Voluntary surrender of residential property following calling-up notice or notice of default**
+>
+> (1) The conditions referred to in sections 20(2A)(a) and 23(4)(a)(i) are that—
+>
+> (a) the security subjects are unoccupied; and
+>
+> (b) each of the persons specified in subsection (2) below has, in writing—
+>
+> (i) certified that that person does not occupy the security subjects and is not aware of the security subjects being occupied by any other person;
+>
+> (ii) consented to the exercise by the creditor of the creditor's rights on default; and
+>
+> (iii) certified that the consent is given freely and without coercion of any kind.
+>
+> (2) Those persons are—
+>
+> (a) the debtor;
+>
+> (b) the proprietor of the security subjects (where the proprietor is not the debtor);
+>
+> (c) the non-entitled spouse of the debtor or the proprietor of security subjects which are (in whole or in part) a matrimonial home;
+>
+> (d) the non-entitled civil partner of the debtor or the proprietor of security subjects which are (in whole or in part) a family home; and
+>
+> (e) a person who has occupancy rights in the security subjects by virtue of an order under section 18(1) (occupancy rights of cohabiting couples) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+>
+> (3) In this section—
+>
+> - “family home” has the meaning given by section 135(1) of the Civil Partnership Act 2004;
+> - “matrimonial home” has the meaning given by section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981;
+> - “non-entitled civil partner” has the same meaning as “non-entitled partner” in section 101(1) of the Civil Partnership Act 2004;
+> - “non-entitled spouse” has the meaning given by section 1 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+
+.
+
+### 2 Court applications by creditor for remedies on default
+
+(1) Section 24 (application by creditor to court for remedies on default) of the 1970 Act is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) Subsection (1) above does not apply in relation to a creditor in a standard security over land or a real right in land used to any extent for residential purposes.
+>
+> (1B) A creditor in a standard security of that kind may, where the debtor is in default within the meaning of paragraph (a), (b) or (c) of standard condition 9(1), apply to the court for warrant to exercise any of the remedies which the creditor is entitled to exercise on a default within the meaning of standard condition 9(1)(a).
+>
+> (1C) Before making an application under subsection (1B) above the creditor must comply with the pre-action requirements imposed by section 24A of this Act.
+>
+> (1D) An application under subsection (1B) above is to be made by summary application (regardless of whether it includes a crave for any other remedy).
+
+.
+
+(3) In subsection (2), for “such an application as aforesaid” substitute “ an application under subsection (1) or (1B) ”.
+
+(4) In subsection (3)—
+
+(a) for “subsection (1)” substitute “ subsection (1B) ”, and
+
+(b) the words from “if” to “purposes” are repealed.
+
+(5) After subsection (4A) insert—
+
+> (5) The court may, on an application under subsection (1B) above, continue the proceedings or make any other order that it thinks fit; but it may not grant the application unless it is satisfied that—
+>
+> (a) the creditor has complied with subsection (1C) above; and
+>
+> (b) it is reasonable in the circumstances of the case to do so.
+>
+> (6) In considering an application under subsection (1B) above where the debtor appears or is represented, the court is to have regard in particular to the matters set out in subsection (7) below.
+>
+> (7) Those matters are—
+>
+> (a) the nature of and reasons for the default;
+>
+> (b) the ability of the debtor to fulfil within a reasonable time the obligations under the standard security in respect of which the debtor is in default;
+>
+> (c) any action taken by the creditor to assist the debtor to fulfil those obligations;
+>
+> (d) where appropriate, participation by the debtor in a debt payment programme approved under Part 1 of the Debt Arrangement and Attachment (Scotland) Act 2002; and
+>
+> (e) the ability of the debtor and any other person residing at the security subjects to secure reasonable alternative accommodation.
+>
+> (8) Subsections (5) and (6) above do not affect—
+>
+> (a) any power that the court may have; or
+>
+> (b) any rights that the debtor may have,
+>
+> by virtue of any other enactment or rule of law.
+>
+> (9) Where—
+>
+> (a) the default in respect of which an application is made under subsection (1B) above is a default within the meaning of paragraph (a) or (b) of standard condition 9(1); and
+>
+> (b) before a decree is granted on the application, the obligations under the standard security in respect of which the debtor is in default are fulfilled,
+>
+> the standard security has effect as if the default had not occurred.
+
+.
+
+### 3 Court powers in action for possession of residential property
+
+(1) In section 5 (power to eject proprietor in personal occupation) of the Heritable Securities (Scotland) Act 1894 (c. 44) (“the 1894 Act”)—
+
+(a) the existing provision becomes subsection (1),
+
+(b) after that subsection insert—
+
+> (2) Proceedings under subsection (1) by a creditor in a security over land or a real right in land used to any extent for residential purposes are to be brought by summary application (regardless of whether they include a crave for any other remedy).
+>
+> (3) Before making an application under subsection (1) in a case referred to in subsection (2), the creditor must comply with the pre-action requirements imposed by section 5B.
+
+.
+
+(2) After section 5 of the 1894 Act insert—
+
+> **5A Court powers on section 5 proceedings relating to residential property**
+>
+> (1) This section applies to an application under section 5(1) by a creditor in a security over land or a real right in land used to any extent for residential purposes.
+>
+> (2) The creditor must—
+>
+> (a) serve on the proprietor a notice in conformity with Form 1 in Part 2 of the schedule to the Mortgage Rights (Scotland) Act 2001,
+>
+> (b) serve on the occupier of the security subjects a notice in conformity with Form 2 in that Part of that schedule, and
+>
+> (c) give notice of the application to the local authority in whose area the security subjects are situated, unless the creditor is that local authority.
+>
+> (3) A notice under subsection (2)(a) or (b) must be sent by recorded delivery letter addressed—
+>
+> (a) in the case of a notice under subsection (2)(a), to the proprietor at the proprietor's last known address,
+>
+> (b) in the case of a notice under subsection (2)(b), to “The Occupier” at the security subjects.
+>
+> (4) Notice under subsection (2)(c) is to be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003.
+>
+> (5) The court may continue the proceedings or make any other order that it thinks fit on the application; but it may not grant the application unless it is satisfied that—
+>
+> (a) the creditor has complied with section 5(3); and
+>
+> (b) it is reasonable in the circumstances of the case to do so.
+>
+> (6) In considering the application in a case where the debtor appears or is represented, the court is to have regard in particular to the matters set out in subsection (7).
+>
+> (7) Those matters are—
+>
+> (a) the nature of and reasons for the default,
+>
+> (b) the ability of the debtor to fulfil within a reasonable time the obligations under the security in respect of which the debtor is in default,
+>
+> (c) any action taken by the creditor to assist the debtor to fulfil those obligations,
+>
+> (d) where appropriate, participation by the debtor in a debt payment programme approved under Part 1 of the Debt Arrangement and Attachment (Scotland) Act 2002, and
+>
+> (e) the ability of the debtor and any other person residing at the security subjects to secure reasonable alternative accommodation.
+>
+> (8) Subsections (5) and (6) do not affect—
+>
+> (a) any power that the court may have, or
+>
+> (b) any rights that the debtor may have,
+>
+> by virtue of any other enactment or rule of law.
+
+.
+
+### 4 Pre-action requirements
+
+(1) After section 24 of the 1970 Act insert—
+
+> **24A Section 24(1B) proceedings: pre-action requirements**
+>
+> (1) The pre-action requirements referred to in section 24(1C) of this Act are set out in subsections (2) to (6) below.
+>
+> (2) The creditor must provide the debtor with clear information about—
+>
+> (a) the terms of the standard security;
+>
+> (b) the amount due to the creditor under the standard security, including any arrears and any charges in respect of late payment or redemption; and
+>
+> (c) any other obligation under the standard security in respect of which the debtor is in default.
+>
+> (3) The creditor must make reasonable efforts to agree with the debtor proposals in respect of future payments to the creditor under the standard security and the fulfilment of any other obligation under the standard security in respect of which the debtor is in default.
+>
+> (4) The creditor must not make an application under section 24(1B) of this Act if the debtor is taking steps which are likely to result in—
+>
+> (a) the payment to the creditor within a reasonable time of any arrears, or the whole amount, due to the creditor under the standard security; and
+>
+> (b) fulfilment by the debtor within a reasonable time of any other obligation under the standard security in respect of which the debtor is in default.
+>
+> (5) The creditor must provide the debtor with information about sources of advice and assistance in relation to management of debt.
+>
+> (6) The creditor must encourage the debtor to contact the local authority in whose area the security subjects are situated.
+>
+> (7) In complying with the pre-action requirements the creditor must have regard to any guidance issued by the Scottish Ministers.
+>
+> (8) The Scottish Ministers may by order made by statutory instrument make further provision about the pre-action requirements, including provision—
+>
+> (a) specifying particular steps to be taken, or not to be taken, by a creditor in complying with any requirement;
+>
+> (b) modifying or removing any requirement;
+>
+> (c) making different provision for different circumstances.
+>
+> (9) A statutory instrument containing an order under subsection (8) above is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+.
+
+(2) After section 5A of the 1894 Act (inserted by section 3 of this Act) insert—
+
+> **5B Section 5 proceedings relating to residential property: pre-action requirements**
+>
+> (1) The pre-action requirements referred to in section 5(3) are set out in subsections (2) to (6) below.
+>
+> (2) The creditor must provide the debtor with clear information about—
+>
+> (a) the terms of the security,
+>
+> (b) the amount due to the creditor under the security, including any arrears and any charges in respect of late payment or redemption, and
+>
+> (c) any other obligation under the security in respect of which the debtor is in default.
+>
+> (3) The creditor must make reasonable efforts to agree with the debtor proposals in respect of future payments to the creditor under the security and the fulfilment of any other obligation under the security in respect of which the debtor is in default.
+>
+> (4) The creditor must not make an application under section 5(1) to which section 5A applies if the debtor is taking steps which are likely to result in—
+>
+> (a) the payment to the creditor within a reasonable time of any arrears, or the whole amount, due to the creditor under the security, and
+>
+> (b) fulfilment by the debtor within a reasonable time of any other obligation under the security in respect of which the debtor is in default.
+>
+> (5) The creditor must provide the debtor with information about sources of advice and assistance in relation to management of debt.
+>
+> (6) The creditor must encourage the debtor to contact the local authority in whose area the security subjects are situated.
+>
+> (7) In complying with the pre-action requirements the creditor must have regard to any guidance issued by the Scottish Ministers.
+>
+> (8) The Scottish Ministers may by order made by statutory instrument make further provision about the pre-action requirements, including provision—
+>
+> (a) specifying particular steps to be taken, or not to be taken, by a creditor in complying with any requirement,
+>
+> (b) modifying or removing any requirement,
+>
+> (c) making different provision for different circumstances.
+>
+> (9) A statutory instrument containing an order under subsection (8) above is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+.
+
+### 5 Application to court by entitled residents
+
+(1) After section 24A of the 1970 Act (inserted by section 4 of this Act) insert—
+
+> **24B Section 24(1B) applications: application to court by entitled residents**
+>
+> (1) An entitled resident may, in proceedings on an application under section 24(1B) of this Act, apply to the court to continue the proceedings or make any other order that the court thinks fit, despite not being called as a defender in the application.
+>
+> (2) In determining an application under subsection (1) above the court is to have regard in particular to the matters set out in subsection (7) of section 24, reading the first reference to the debtor in paragraph (b) as including a reference to the entitled resident.
+>
+> (3) Subsection (2) above does not affect—
+>
+> (a) any power that the court may have; or
+>
+> (b) any rights that an entitled resident may have,
+>
+> under any other enactment or rule of law.
+>
+> **24C Entitled residents: definition**
+>
+> (1) For the purposes of sections 24B, 24D and 24E, an entitled resident is a person whose sole or main residence is the security subjects (in whole or in part) and who is—
+>
+> (a) the proprietor of the security subjects (where the proprietor is not the debtor in the standard security);
+>
+> (b) the non-entitled spouse of the debtor or the proprietor of security subjects which are (in whole or in part) a matrimonial home;
+>
+> (c) the non-entitled civil partner of the debtor or the proprietor of security subjects which are (in whole or in part) a family home;
+>
+> (d) a person living together with the debtor or the proprietor as husband and wife;
+>
+> (e) a person living together with the debtor or the proprietor in a relationship which has the characteristics of the relationship between civil partners;
+>
+> (f) a person who lived together with the debtor or the proprietor in a relationship described in paragraph (d) or (e) if—
+>
+> (i) the security subjects (in whole or in part) are not the sole or main residence of the debtor or the proprietor;
+>
+> (ii) the person lived together with the debtor or the proprietor throughout the period of 6 months ending with the date on which the security subjects ceased to be the sole or main residence of the debtor or the proprietor; and
+>
+> (iii) the security subjects (in whole or in part) are the sole or main residence of a child aged under 16 who is a child of both parties in that relationship.
+>
+> (2) In this section—
+>
+> - “child” includes a stepchild and any person brought up, or treated, by both parties to the relationship as their child;
+> - “family home” has the meaning given by section 135(1) of the Civil Partnership Act 2004;
+> - “matrimonial home” has the meaning given by section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981;
+> - “non-entitled civil partner” has the same meaning as “non-entitled partner” in section 101(1) of the Civil Partnership Act 2004;
+> - “non-entitled spouse” has the meaning given by section 1 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+
+.
+
+(2) After section 5B of the 1894 Act (inserted by section 4 of this Act) insert—
+
+> **5C Application to court by entitled residents**
+>
+> (1) An entitled resident may, in proceedings on an application to which section 5A applies, apply to the court to continue the proceedings or make any other order that the court thinks fit, despite not being called as a defender in the application.
+>
+> (2) In determining an application under subsection (1) of this section the court is to have regard in particular to the matters set out in subsection (7) of section 5A, reading the first reference to the debtor in paragraph (b) as including a reference to the entitled resident.
+>
+> (3) Subsection (2) does not affect—
+>
+> (a) any power that the court may have, or
+>
+> (b) any rights that an entitled resident may have,
+>
+> under any other enactment or rule of law.
+>
+> **5D Entitled residents: definition**
+>
+> (1) For the purposes of sections 5C, 5E and 5F, an entitled resident is a person whose sole or main residence is the security subjects (in whole or in part) and who is—
+>
+> (a) the proprietor of the security subjects (where the proprietor is not the debtor in the security),
+>
+> (b) the non-entitled spouse of the debtor or the proprietor of security subjects which are (in whole or in part) a matrimonial home,
+>
+> (c) the non-entitled civil partner of the debtor or the proprietor of security subjects which are (in whole or in part) a family home,
+>
+> (d) a person living together with the debtor or the proprietor as husband and wife,
+>
+> (e) a person living together with the debtor or the proprietor in a relationship which has the characteristics of the relationship between civil partners,
+>
+> (f) a person who lived together with the debtor or the proprietor in a relationship described in paragraph (d) or (e) if—
+>
+> (i) the security subjects (in whole or in part) are not the sole or main residence of the debtor or the proprietor,
+>
+> (ii) the person lived together with the debtor or the proprietor throughout the period of 6 months ending with the date on which the security subjects ceased to be the sole or main residence of the debtor or the proprietor, and
+>
+> (iii) the security subjects (in whole or in part) are the sole or main residence of a child aged under 16 who is a child of both parties in that relationship.
+>
+> (2) In this section—
+>
+> - “child” includes a stepchild and any person brought up, or treated, by both parties to the relationship as their child,
+> - “family home” has the meaning given by section 135(1) of the Civil Partnership Act 2004,
+> - “matrimonial home” has the meaning given by section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981,
+> - “non-entitled civil partner” has the same meaning as “non-entitled partner” in section 101(1) of the Civil Partnership Act 2004,
+> - “non-entitled spouse” has the meaning given by section 1 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+
+.
+
+### 6 Recall of decree
+
+(1) After section 24C of the 1970 Act (inserted by section 5 of this Act) insert—
+
+> **24D Section 24(1B) proceedings: recall of decree**
+>
+> (1) A person mentioned in subsection (2) below may apply to the court for recall of a decree granted on an application under section 24(1B) of this Act.
+>
+> (2) Those persons are—
+>
+> (a) the creditor;
+>
+> (b) the debtor, but only if the debtor did not appear and was not represented in the proceedings on the application under section 24(1B);
+>
+> (c) an entitled resident, but only if the entitled resident did not make an application under section 24B(1) in the proceedings.
+>
+> (3) An application under subsection (1) may be made at any time before the decree has been fully implemented.
+>
+> (4) An application by any person under subsection (1) above is not competent if an application under that subsection has already been made by that person in relation to the application under section 24(1B).
+>
+> (5) An applicant under subsection (1) above must give notice of the application to—
+>
+> (a) the creditor (unless the applicant is the creditor);
+>
+> (b) the debtor (unless the applicant is the debtor);
+>
+> (c) every entitled resident (or, if the applicant is an entitled resident, every other entitled resident).
+
+.
+
+(2) After section 5D of the 1894 Act (inserted by section 5 of this Act) insert—
+
+> **5E Recall of decree**
+>
+> (1) A person mentioned in subsection (2) may apply to the court for recall of a decree granted on an application to which section 5A applies.
+>
+> (2) Those persons are—
+>
+> (a) the creditor,
+>
+> (b) the debtor, but only if the debtor did not appear and was not represented in the proceedings on the application,
+>
+> (c) an entitled resident, but only if the entitled resident did not make an application under section 5C(1) in the proceedings.
+>
+> (3) An application under subsection (1) may be made at any time before the decree has been fully implemented.
+>
+> (4) An application by any person under subsection (1) is not competent if an application under that subsection has already been made by that person in relation to the application to which section 5A applies.
+>
+> (5) An applicant under subsection (1) must give notice of the application to—
+>
+> (a) the creditor (unless the applicant is the creditor),
+>
+> (b) the debtor (unless the applicant is the debtor),
+>
+> (c) every entitled resident (or, if the applicant is an entitled resident, every other entitled resident).
+
+.
+
+### 7 Representation in repossession proceedings
+
+(1) After section 24D of the 1970 Act (inserted by section 6 of this Act) insert—
+
+> **24E Lay representation in section 24(1B) proceedings etc.**
+>
+> (1) In proceedings under sections 24(1B) and 24D(1) of this Act, the debtor and any entitled resident may be represented by an approved lay representative except in prescribed circumstances.
+>
+> (2) An approved lay representative must throughout the proceedings satisfy the sheriff that the representative is a suitable person to represent the debtor or entitled resident and is authorised by the debtor or entitled resident to do so.
+>
+> (3) References in this section to an approved lay representative are to an individual (other than an advocate or solicitor) approved for the purposes of this section by a person or body prescribed, or of a description prescribed, by the Scottish Ministers by order made by statutory instrument.
+>
+> (4) An order under subsection (3) above may—
+>
+> (a) prescribe persons or bodies, or descriptions of persons or bodies, for the purposes of that subsection;
+>
+> (b) make provision about the procedure for, and form and manner of—
+>
+> (i) approval,
+>
+> (ii) withdrawal of approval,
+>
+> of an individual for the purposes of this section;
+>
+> (c) make provision requiring a prescribed person or body, or a person or body of a prescribed description, to provide information to the Scottish Ministers about approvals and withdrawals of approval;
+>
+> (d) prescribe circumstances in which an approved lay representative may not represent a debtor or entitled resident.
+>
+> (5) Before making an order under subsection (3) above the Scottish Ministers must consult the Lord President of the Court of Session.
+>
+> (6) A statutory instrument containing an order under subsection (3) above is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+.
+
+(2) After section 5E of the 1894 Act (inserted by section 6 of this Act) insert—
+
+> **5F Lay representation in section 5 proceedings relating to residential property etc.**
+>
+> (1) In proceedings on an application to which section 5A applies and proceedings under section 5E(1), the debtor and any entitled resident may be represented by an approved lay representative except in prescribed circumstances.
+>
+> (2) An approved lay representative must throughout the proceedings satisfy the sheriff that the representative is a suitable person to represent the debtor or entitled resident and is authorised by the debtor or entitled resident to do so.
+>
+> (3) References in this section to an approved lay representative are to an individual (other than an advocate or solicitor) approved for the purposes of this section by a person or body prescribed, or of a description prescribed, by the Scottish Ministers by order made by statutory instrument.
+>
+> (4) An order under subsection (3) may—
+>
+> (a) prescribe persons or bodies, or descriptions of persons or bodies, for the purposes of that subsection,
+>
+> (b) make provision about the procedure for, and form and manner of—
+>
+> (i) approval,
+>
+> (ii) withdrawal of approval,
+>
+> of an individual for the purposes of this section,
+>
+> (c) make provision requiring a prescribed person or body, or a person or body of a prescribed description, to provide information to the Scottish Ministers about approvals and withdrawals of approval,
+>
+> (d) prescribe circumstances in which an approved lay representative may not represent a debtor or entitled resident.
+>
+> (5) Before making an order under subsection (3) the Scottish Ministers must consult the Lord President of the Court of Session.
+>
+> (6) A statutory instrument containing an order under subsection (3) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+.
+
+(3) In section 32 (offence for unqualified persons to prepare certain documents) of the Solicitors (Scotland) Act 1980 (c. 46), in subsection (2B)—
+
+(a) after “apply to” insert
+
+> —
+>
+> (a)
+
+, and
+
+(b) at the end add—
+
+> (b) an approved lay representative within the meaning of section 5F of the Heritable Securities (Scotland) Act 1894 or section 24E of the Conveyancing and Feudal Reform (Scotland) Act 1970 (lay representation in proceedings by creditors for repossession of residential property) while acting in pursuance of the section in question.
+
+.
+
+### 8 Minor and consequential amendments
+
+(1) In section 19 (calling-up of standard security) of the 1970 Act—
+
+(a) after subsection (10) insert—
+
+> (10A) Subsection (10B) below applies where the calling-up notice relates to a standard security over land or a real right in land used to any extent for residential purposes.
+>
+> (10B) The period of notice mentioned in the calling-up notice may be shortened under subsection (10) above only with the consent in writing (in addition to any other consent required by that subsection) of—
+>
+> (a) any person entitled to make an application under section 24B(1) of this Act as an entitled resident falling within paragraph (d), (e) or (f) of section 24C(1), and
+>
+> (b) where the debtor in the standard security is not the proprietor—
+>
+> (i) the debtor, and
+>
+> (ii) if the standard security is over a matrimonial home or a family home (within the definitions in section 23A(3)), the debtor's spouse or civil partner.
+
+,
+
+(b) in subsection (11), at the beginning insert “ Subject to subsection (12) below, ”,
+
+(c) after subsection (11) insert—
+
+> (12) A calling-up notice calling up a standard security over land or a real right in land used to any extent for residential purposes ceases to have effect on the expiration of a period of 5 years from the date of the notice.
+
+.
+
+(2) In section 21 (notice of default) of the 1970 Act, in subsection (3), for the words “section 19(10) of this Act shall apply as it applies” substitute “ subsections (10) and (10B) of section 19 of this Act shall apply as they apply ”.
+
+(3) In section 23 (rights and duties of parties after service of notice of default) of the 1970 Act, in subsection (2), after “Act” insert “ and subsection (4) below ”.
+
+(4) In the Mortgage Rights (Scotland) Act 2001 (asp 11)—
+
+(a) sections 1 to 3, and
+
+(b) in section 4, subsections (4) to (5A),
+
+are repealed.
+
+(5) In the Homelessness etc. (Scotland) Act 2003 (asp 10)—
+
+(a) in section 11 (notices to local authorities of proceedings for possession and enforcement of standard securities)—
+
+(i) in subsection (3)(a), for “are” substitute “ include ”,
+
+(ii) before paragraph (a) of subsection (5) insert—
+
+> (za) section 5A(2)(c) (notice to local authority of proceedings to eject proprietor in personal occupancy) of the Heritable Securities (Scotland) Act 1894 (c. 44),
+
+,
+
+(iii) paragraph (g) of that subsection is repealed,
+
+(b) in the schedule, paragraph 5 is repealed.
+
+## [^F1]Part 2 — Sequestration and trust deeds
+
+### [^F1]9 Certificate for sequestration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]10 Trust deeds
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]11 Power in relation to debtor's family home
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]12 Abolition of certain requirements to advertise in Edinburgh Gazette
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]13 Regulations under the 1985 Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — General
+
+### 14 Crown application
+
+This Act binds the Crown acting in its capacity as a creditor.
+
+### 15 Ancillary provision
+
+(1) The Scottish Ministers may by order made by statutory instrument make—
+
+(a) such supplemental, incidental or consequential provision as they consider necessary or expedient for the purposes of, in consequence of or for giving full effect to any provision of this Act,
+
+(b) such provision as they consider necessary or expedient for transitory, transitional or saving purposes in connection with the coming into force of any provision of this Act.
+
+(2) An order under subsection (1) may modify any enactment.
+
+(3) No order under subsection (1)(a) is to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
+
+(4) A statutory instrument containing an order under subsection (1)(b) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+### 16 Definitions
+
+In this Act—
+
+- “the 1894 Act” means the Heritable Securities (Scotland) Act 1894 (c. 44),
+- “the 1970 Act” means the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35),
+- “the 1985 Act” means the Bankruptcy (Scotland) Act 1985 (c. 66).
+
+### 17 Short title and commencement
+
+(1) This Act may be cited as the Home Owner and Debtor Protection (Scotland) Act 2010.
+
+(2) This Part comes into force on Royal Assent.
+
+(3) The remaining provisions come into force on such day as the Scottish Ministers may appoint by order made by statutory instrument.
+
+(4) An order under subsection (3) may appoint different days for different provisions.
+
+---
+
+[^F1]: Pt. 2 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 Pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2

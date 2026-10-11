@@ -1,0 +1,178 @@
+---
+title: "Education (Disability Strategies and Pupils’ Educational Records) (Scotland) Act 2002"
+identifier: "asp/2002/12"
+citation: "2002 asp 12"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2002-04-30
+last_amended: 2010-10-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2002/12"
+source_modified: 2015-06-29
+retrieved: 2026-10-11
+---
+
+# Education (Disability Strategies and Pupils’ Educational Records) (Scotland) Act 2002
+
+**2002 asp 12**
+
+An Act of the Scottish Parliament to require bodies responsible for schools to prepare and implement strategies relating to the accessibility, for pupils with a disability, of school education; and to make provision in respect of the educational records of school pupils.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 28th March 2002 and received Royal Assent on 30th April 2002
+
+## Accessibility strategies
+
+### 1 Accessibility strategies
+
+(1) Each responsible body shall prepare in relation to the school, or schools, in respect of which they are the responsible body—
+
+(a) an accessibility strategy; and
+
+(b) at such times as may by regulations be prescribed, further such strategies,
+
+and the strategy (or combination of strategies) in force from time to time is referred to in the following provisions of this section and in sections 2 and 3 of this Act as an “accessibility strategy”.
+
+(2) An accessibility strategy is a strategy for, over a period prescribed by regulations—
+
+(a) increasing the extent to which pupils with a disability can participate in the school’s curriculum or, as the case may be, the schools’ curriculums;
+
+(b) improving the physical environment of the school, or schools, in relation to which the strategy is prepared for the purpose of increasing the extent to which pupils with a disability are able to take advantage of education and associated services provided or offered by such school or schools; and
+
+(c) improving communication with pupils with a disability and, in particular, improving the communication to pupils with a disability—
+
+(i) within a reasonable time; and
+
+(ii) in ways which are determined after taking account of their disabilities and any preferences expressed by them or their parents,
+
+of information which is provided in writing for pupils, or persons who may be admitted as pupils, who do not have a disability.
+
+(3) An accessibility strategy shall be in writing.
+
+(4) Each responsible body shall keep their accessibility strategy under review during the period to which it relates and, if necessary, revise it.
+
+(5) It is the duty of each responsible body to implement their accessibility strategy.
+
+(6) The Scottish Ministers may by regulations prescribe services which shall, or services which shall not, be regarded for the purposes of this section as being—
+
+(a) education; or
+
+(b) an associated service.
+
+### 2 Accessibility strategies: education of children under school age etc. outwith schools
+
+(1) Each accessibility strategy prepared by an education authority shall, in relation to each place, other than a school, at which the authority provide school education for pupils, include a strategy for, over a period prescribed by regulations—
+
+(a) increasing the extent to which pupils with a disability can participate in the school education provided at that place or those places;
+
+(b) improving the physical environment of the place, or places, in relation to which the strategy is prepared for the purpose of increasing the extent to which pupils with a disability are able to take advantage of education and associated services provided or offered at such place or places; and
+
+(c) improving communication with pupils with a disability and, in particular, improving the communication to pupils with a disability—
+
+(i) within a reasonable time; and
+
+(ii) in ways which are determined after taking account of their disabilities and any preferences expressed by them or their parents,
+
+of information which is provided in writing for pupils, or persons who may be admitted as pupils, who do not have a disability.
+
+(2) In subsection (1) above, the references to pupils and to pupils with a disability are references only to persons of that description—
+
+(a) who are under school age; or
+
+(b) who are of school age and are travelling people.
+
+(3) In subsection (2) above, “travelling people” means persons of nomadic habit of life, whatever their race or origin.
+
+### 3 Accessibility strategies: procedure
+
+(1) In preparing their accessibility strategy, a responsible body shall—
+
+(a) have regard to the need to allocate adequate resources for implementing the strategy;
+
+(b) consult such children, parents and young persons as they think fit; and
+
+(c) have regard to any guidance issued by the Scottish Ministers as to—
+
+(i) the content of an accessibility strategy;
+
+(ii) the form in which it is to be produced; and
+
+(iii) the persons to be consulted in its preparation.
+
+(2) Any guidance issued for the purposes of subsection (1)(c)(iii) above may refer to persons other than persons whom a responsible body is required, by subsection (1)(b) above, to consult.
+
+(3) A responsible body shall have regard to any guidance issued by the Scottish Ministers as to compliance with the requirements of section 1(4) of this Act.
+
+(4) A responsible body shall—
+
+(a) as soon as they have prepared an accessibility strategy, provide the Scottish Ministers with a copy of it; and
+
+(b) on being so required by the Scottish Ministers at any time after the body have revised their accessibility strategy, provide them with a copy of the strategy as revised.
+
+(5) If requested to do so, the responsible body shall—
+
+(a) make a copy of their accessibility strategy available for inspection at such reasonable times as they may determine; and
+
+(b) subject to subsection (6) below, make the information in their accessibility strategy available in any alternative form stipulated by the person requesting it.
+
+(6) For the purposes of subsection (5)(b) above, “alternative form” means any form or forms, other than writing, as may be prescribed by regulations.
+
+## Educational records
+
+### 4 Educational records
+
+(1) The Scottish Ministers may, by regulations, provide as to the keeping, transferring and disclosure of educational records about pupils.
+
+(2) The regulations may—
+
+(a) define “educational records” for the purposes of the regulations;
+
+(b) provide as to the supply of copies of such of those records to such persons, and in such circumstances, as may be determined by or under the regulations; and
+
+(c) authorise persons who supply those copies to charge such fees as they think fit (not exceeding the cost of supply) in respect of each copy so supplied.
+
+## General
+
+### 5 Regulations
+
+(1) Any power conferred by this Act on the Scottish Ministers to make regulations is exercisable by statutory instrument; and any such statutory instrument is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(2) Regulations under this Act may make different provision for different cases and for different classes of case.
+
+(3) Before making any regulations under this Act, the Scottish Ministers shall consult such persons as they think fit about the proposed regulations.
+
+### 6 Interpretation
+
+(1) In this Act—
+
+- “the 1980 Act” means the Education (Scotland) Act 1980 (c.44);
+
+- “pupil with a disability” means a person who has a disability for the purposes of the [[^F1]Equality Act 2010] who—
+
+  - (a) is a pupil;
+  - (b) may be admitted to a school as a pupil; or
+  - (c) being a child who is under school age, may be provided with school education at a place other than a school; and
+
+- “responsible body” means—
+
+  - (a) in relation to a school which is managed by an education authority, the education authority;
+  - (b) in relation to an independent school, the proprietor;
+  - (c) in relation to a school in respect of which the managers are for the time being receiving grants under section 73(c) or (d) of the 1980 Act, the managers of the school; and
+  - (d) in relation to a self-governing school, the board of management.
+
+(2) Any expression used in this Act and in the 1980 Act has, unless the contrary intention appears, the same meaning in this Act as in that Act.
+
+(3) The Scottish Ministers may, by order made by statutory instrument, repeal paragraph (d) of the definition of “responsible body” in subsection (1) above.
+
+### 7 Short title and commencement
+
+(1) This Act may be cited as the Education (Disability Strategies and Pupils’ Educational Records) (Scotland) Act 2002.
+
+(2) Sections 1 to 3 above shall come into force on such day as the Scottish Ministers may by order made by statutory instrument appoint; and different days may be so appointed for different purposes
+
+---
+
+[^F1]: Words in s. 6 substituted (1.10.2010) by 2010 c. 15, Sch. 26 Pt. 2 para. 101 (as inserted by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), art. 1(2), Sch. 1 para. 6) (see S.I. 2010/2317, art. 2)

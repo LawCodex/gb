@@ -1,0 +1,3203 @@
+---
+title: "Fire (Scotland) Act 2005"
+identifier: "asp/2005/5"
+citation: "2005 asp 5"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2005-04-01
+last_amended: 2016-12-20
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2005/5"
+source_modified: 2018-06-27
+retrieved: 2026-10-11
+---
+
+# Fire (Scotland) Act 2005
+
+**2005 asp 5**
+
+An Act of the Scottish Parliament to make provision about fire and rescue authorities and joint fire and rescue boards; to restate and amend the law in relation to fire services; to make provision in relation to the functions of such authorities and boards in connection with certain events and situations other than fires; to make provision for implementing in part Council Directives 89/391/EEC, 89/654/EEC, 91/383/EEC, 94/33/EC, 98/24/EC and 99/92/EC; to make other provision in relation to fire safety in certain premises; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 23rd February 2005 and received Royal Assent on 1st April 2005
+
+## Part 1 — [[^F1]The Scottish Fire and Rescue Service]
+
+### [^F2]1 Fire and rescue authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1A [[^F3]The Scottish Fire and Rescue Service
+
+(1) There is established a body corporate to be known as the Scottish Fire and Rescue Serviceor, in Gaelic, Seirbheis Smàlaidh agus Teasairginn na h-Alba (referred to in this Act as “SFRS”).
+
+(2) SFRS has the functions conferred on it by or under this Act or any other enactment.
+
+(3) Schedule 1A makes further provision about SFRS.]
+
+### Joint fire and rescue boards
+
+#### [^F4]2 Schemes to constitute joint fire and rescue boards
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F4]3 Schemes under section 2: amendment and revocation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F4]4 Joint fire and rescue boards: supplementary provision
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F4]5 Existing joint fire boards
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Meaning of “relevant authority”
+
+#### [^F4]6 Meaning of “relevant authority”
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Fire and rescue services
+
+### Chapter 1 — Appointment of Chief Officer
+
+#### [^F4]7 Appointment of Chief Officer
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 2 — Principal fire and rescue functions
+
+#### 8 Fire safety
+
+(1) [[^F5]SFRS must] make provision for the purpose of promoting fire safety in its area.
+
+(2) In making provision under subsection (1) [[^F6]SFRS must] in particular, to the extent that [[^F7]it] considers it reasonable to do so, make arrangements for—
+
+(a) the provision of information, publicity and encouragement in respect of the steps to be taken to prevent—
+
+(i) fires; and
+
+(ii) death or injury by fire;
+
+(b) the giving of advice, on request, about—
+
+(i) how to prevent fires and restrict their spread in buildings and other property; and
+
+(ii) the means of escape from buildings and other property in the event of fire.
+
+#### 9 Fire-fighting
+
+(1) [[^F8]SFRS must] make provision for the purpose of—
+
+(a) extinguishing fires in its area; and
+
+(b) protecting life and property in the event of fires in its area.
+
+(2) In making provision under subsection (1) [[^F9]SFRS must] in particular—
+
+(a) secure the provision of the personnel, services and equipment necessary to meet efficiently all normal requirements;
+
+(b) secure the provision of training for personnel;
+
+(c) make arrangements for—
+
+(i) dealing with calls for help; and
+
+(ii) summoning personnel,
+
+in the event of fire;
+
+(d) make arrangements for obtaining information required or likely to be required for the purpose mentioned in that subsection;
+
+(e) make arrangements for ensuring that reasonable steps are taken to prevent or limit damage to property resulting from action taken for the purpose mentioned in that subsection.
+
+#### 10 Road traffic accidents
+
+(1) [[^F10]SFRS must] make provision for the purpose of—
+
+(a) rescuing persons in the event of road traffic accidents in its area; and
+
+(b) to the extent that it considers it reasonable to do so, protecting persons from serious harm in the event of road traffic accidents in its area.
+
+(2) In making provision under subsection (1) [[^F11]SFRS must] in particular—
+
+(a) secure the provision of the personnel, services and equipment necessary to meet efficiently all normal requirements;
+
+(b) secure the provision of training for personnel;
+
+(c) make arrangements for—
+
+(i) dealing with calls for help; and
+
+(ii) summoning personnel,
+
+in the event of road traffic accidents;
+
+(d) make arrangements for obtaining information required or likely to be required for the purpose mentioned in that subsection;
+
+(e) make arrangements for ensuring that reasonable steps are taken to prevent or limit damage to property resulting from action taken for the purpose mentioned in that subsection.
+
+#### 11 Conferral of functions in relation to other emergencies
+
+(1) The Scottish Ministers may by order (an “additional function order”) confer on [[^F12]SFRS] a function relating to an emergency of a kind specified in the order (the “additional function”).
+
+(2) An additional function order may not specify as a kind of emergency—
+
+(a) a fire; or
+
+(b) a road traffic accident,
+
+in the area of [[^F13]SFRS].
+
+(3) An additional function order may make provision for or in connection with—
+
+(a) requiring the additional function to be carried out by [[^F14]SFRS] outwith its area;
+
+(b) specifying what [[^F14]SFRS] shall or may do for the purpose of the additional function;
+
+(c) requiring or authorising [[^F14]SFRS]—
+
+(i) to secure the provision of personnel, services and equipment;
+
+(ii) to secure the provision of training for personnel;
+
+(iii) to make arrangements for dealing with calls for help and summoning personnel;
+
+(iv) to make arrangements for obtaining information required or likely to be required for the purpose of carrying out the function;
+
+(v) to make arrangements for ensuring that reasonable steps are taken to prevent or limit damage to property resulting from carrying out the function.
+
+### Chapter 3 — Ancillary functions
+
+#### [^F15]12 Emergency directions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13 Power to respond to other eventualities
+
+(1) [[^F16]SFRS] may take any action it considers appropriate—
+
+(a) in response to an event or situation that causes or is likely to cause—
+
+(i) a person to die, be injured or become ill; or
+
+(ii) harm to the environment (including the life and health of plants and animals and the fabric of buildings); or
+
+(b) for the purpose of enabling it to take action in response to such an event or situation.
+
+(2) The power conferred by subsection (1)—
+
+(a) includes power to secure the provision of equipment; and
+
+(b) may be exercised by [[^F17]SFRS] within or outwith its area.
+
+#### 14 Provision of other services
+
+(1) [[^F18]SFRS] may provide—
+
+(a) the services of any persons employed by it; or
+
+(b) any equipment maintained by it,
+
+to any person for any purpose that appears to [[^F19]SFRS] to be appropriate.
+
+(2) [[^F20]SFRS] may provide services or equipment under this section within or outwith its area.
+
+#### 15 Provision of centres for education and training
+
+[[^F21]SFRS] may establish and maintain one or more centres for providing education and training in matters in relation to which [[^F22]it has] functions.
+
+#### 16 Charging
+
+(1) The Scottish Ministers may by order (a “charging order”) authorise [[^F23]SFRS] to charge a person of a description specified in the order for any action so specified taken by [[^F24]SFRS].
+
+(2) A charging order may authorise a charge to be imposed on, or recovered from, a person other than the person in respect of whom action is taken by [[^F25]SFRS].
+
+(3) A charging order may authorise charging for—
+
+(a) extinguishing fires;
+
+(b) protecting life; or
+
+(c) protecting property in the event of fires,
+
+only in respect of action taken by [[^F26]SFRS at sea beyond the low water mark].
+
+(4) Where [[^F27]SFRS is] authorised by a charging order to charge for taking action of a particular description [[^F28]and it] decides to do so—
+
+(a) the amount of the charge shall be set by [[^F29]SFRS];
+
+(b) different amounts may be charged in different circumstances (and [[^F29]SFRS] may charge nothing).
+
+[^F30]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F30]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F31](7) The references in subsection (3) to “sea” include–
+
+(a) that part of the territorial sea of the United Kingdom which is not adjacent to Scotland; and
+
+(b) sea beyond the territorial sea of the United Kingdom.]
+
+#### 16A [[^F32]Exercise of powers at sea: further provision
+
+(1) Subsection (2) applies where [[^F33]SFRS] has power to act, or is required to act, at sea.
+
+(2) The power may be exercised or the duty carried out–
+
+(a) at sea in that part of the territorial sea of the United Kingdom which is not adjacent to Scotland; and
+
+(b) at sea beyond the territorial sea of the United Kingdom.]
+
+### Chapter 4 — Water supply
+
+#### Supply and use of water
+
+##### 17 Duty to secure water supply
+
+(1) [[^F34]SFRS] shall take all reasonable measures for securing that an adequate supply of water will be available for [[^F35]its] use for the purposes mentioned in subsection (2).
+
+(2) Those purposes are—
+
+(a) extinguishing fires in the area of [[^F36]SFRS];
+
+(b) protecting life and property in the event of fires in its area;
+
+(c) rescuing people in the event of road traffic accidents in its area;
+
+(d) protecting people from serious harm in the event of road traffic accidents in its area;
+
+(e) carrying out any function conferred on [[^F37]SFRS] by an order under section 11; and
+
+(f) fulfilling any requirement made of [[^F38]SFRS] by a direction given to it under section 12.
+
+##### 18 Use of water
+
+(1) Subject to—
+
+(a) an agreement under section 19(1); and
+
+(b) section 9A of the Water (Scotland) Act 1980 (c. 45) (charging for emergency use of water),
+
+[[^F39]SFRS] may use any suitable supply of water for the purposes mentioned in section 17(2).
+
+(2) [[^F40]SFRS] shall pay reasonable compensation for water used by virtue of subsection (1).
+
+##### 19 Agreements in relation to water supply
+
+(1) For the purposes of section 17, [[^F41]SFRS] may—
+
+(a) enter into an agreement with Scottish Water; or
+
+(b) enter into an agreement to—
+
+(i) secure the use of water under the control of a person other than Scottish Water;
+
+(ii) improve access to any such water;
+
+(iii) lay and maintain pipes and carry out other works in connection with the use of such water.
+
+(2) Subject to section 9A of the Water (Scotland) Act 1980 (c. 45) (charging for emergency use of water), an agreement mentioned in subsection (1)(a) may include terms as to payment to be made to Scottish Water.
+
+(3) Scottish Water shall not unreasonably refuse to enter into an agreement mentioned in subsection (1)(a) which is proposed by [[^F42]SFRS].
+
+(4) Any question whether Scottish Water has unreasonably refused to enter into an agreement mentioned in subsection (1)(a) shall be determined by the Scottish Ministers.
+
+##### 20 Emergency supply by Scottish Water
+
+(1) If [[^F43]SFRS] requests Scottish Water to provide a supply or pressure of water for a purpose mentioned in section 17(2) that is greater than it would otherwise provide, it shall take all necessary steps in order to do so.
+
+(2) For the purposes of complying with its obligation under subsection (1) Scottish Water may shut off the water from the mains and pipes in any area.
+
+(3) Scottish Water (and any other person) shall not be liable to any penalty or claim arising because of anything done by Scottish Water in complying with its obligation under subsection (1).
+
+(4) If, without reasonable excuse, Scottish Water fails to take any step which it is obliged to take under subsection (1), it shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### Fire hydrants
+
+##### 21 Fire hydrants: provision etc.
+
+(1) Sections 19 to 22 of Schedule 4 to the Water (Scotland) Act 1980 (c. 45) (requirement to provide fire hydrants etc.) shall apply to Scottish Water.
+
+(2) Scottish Water shall cause the location of every fire hydrant provided by it to be clearly indicated by—
+
+(a) a notice; or
+
+(b) a distinguishing mark.
+
+(3) Scottish Water may place such a notice or mark on a wall or fence adjoining a road or public place.
+
+(4) The expenses incurred by Scottish Water under subsection (2) in relation to a hydrant shall be borne by [[^F44]SFRS].
+
+(5) The Scottish Ministers may make regulations providing for uniformity in—
+
+(a) fire hydrants provided by Scottish Water; and
+
+(b) notices or marks indicating locations of such hydrants.
+
+(6) Where a fire hydrant provided by Scottish Water is damaged as the result of any use made of it with the authority of Scottish Water (other than use for the purposes of fire-fighting or any other purposes of [[^F45]SFRS) SFRS] shall not be liable for the cost of repairing or replacing it.
+
+##### 22 Fire hydrants: recovery of costs
+
+(1) Schedule 4 to the Water (Scotland) Act 1980 (c. 45) (provisions incorporated in orders relating to water undertakings) shall be amended as follows.
+
+(2) After section 21 insert—
+
+> **21A**
+>
+> The Scottish Ministers may by regulations make provision as to—
+>
+> (a) the persons (other than Scottish Water) from whom; or
+>
+> (b) the circumstances in which,
+>
+> fire authorities may recover costs defrayed under section 21 of this Schedule.
+
+.
+
+(3) In section 22, for the words “the last but one foregoing section” substitute “ section 20 of this Schedule ”.
+
+##### 23 Fire hydrants: offences
+
+(1) A person who—
+
+(a) uses a fire hydrant provided by Scottish Water otherwise than for a purpose mentioned in subsection (2); or
+
+(b) damages or obstructs such a fire hydrant otherwise than in consequence of use for such a purpose,
+
+shall be guilty of an offence.
+
+(2) Those purposes are—
+
+(a) fire-fighting;
+
+(b) any other purpose of [[^F46]SFRS];
+
+(c) any purpose authorised by Scottish Water.
+
+(3) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### Works affecting supply and hydrants
+
+##### 24 Notice of works affecting water supply and fire hydrants
+
+(1) A person who proposes to carry out works for the purpose of supplying water to any part of the area of [[^F47]SFRS] shall give the relevant period's notice in writing to [[^F48]SFRS].
+
+(2) In subsection (1) the “relevant period” is—
+
+(a) in the case where the works are proposed to be carried out to comply with a requirement imposed under any enactment other than the Water (Scotland) Act 1980 (c. 45), 14 days;
+
+(b) in any other case, 6 weeks.
+
+(3) A person who proposes to carry out works affecting a fire hydrant shall give at least 7 days' notice in writing to [[^F49]SFRS].
+
+(4) If it is not practicable for a person to give notice as required by subsection (1) or (3), the person shall be regarded as having given such notice if it is given as soon as practicable.
+
+(5) A person who, without reasonable excuse, fails to give notice as required by subsection (1) or (3) shall be guilty of an offence.
+
+(6) A person guilty of an offence under subsection (5) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+##### 24A [[^F50]Use of electronic communication
+
+(1) In section 24(1) and (3), the reference to the giving of notice in writing shall include the giving of notice by means of a document, the text of which–
+
+(a) is received in legible form;
+
+(b) is capable of being used for subsequent reference; and
+
+(c) is sent by an electronic communication within the meaning of section 15(1) of the Electronic Communications Act 2000 (c. 7).]
+
+### Chapter 5 — Powers of employees and constables
+
+#### Powers in emergencies
+
+##### 25 Powers of authorised employees in relation to emergencies
+
+(1) An employee of [[^F51]SFRS] who is authorised in writing by [[^F52]SFRS] for the purposes of this section (an “authorised employee”) and on duty may—
+
+(a) if the employee reasonably believes that a fire has broken out, do anything the employee reasonably believes to be necessary for the purpose of—
+
+(i) extinguishing the fire; or
+
+(ii) protecting life or property;
+
+(b) if the employee reasonably believes that a road traffic accident has occurred, do anything the employee reasonably believes to be necessary for the purpose of—
+
+(i) rescuing people; or
+
+(ii) protecting them from serious harm;
+
+(c) if the employee reasonably believes that an emergency other than a fire or road traffic accident has occurred, do anything the employee reasonably believes to be necessary for the purpose of carrying out any function conferred on [[^F52]SFRS] in relation to the emergency; and
+
+(d) do anything the employee reasonably believes to be necessary for the purpose of preventing or limiting damage to property resulting from action taken as mentioned in paragraph (a), (b) or (c).
+
+(2) An authorised employee may in particular under subsection (1)—
+
+(a) enter premises or a place (by force if necessary);
+
+(b) move a vehicle without the consent of its owner;
+
+(c) force open and enter a lockfast vehicle;
+
+(d) close a road;
+
+(e) stop and regulate traffic;
+
+(f) restrict the access of persons to premises or a place.
+
+##### 26 Powers of constables in relation to fires
+
+(1) A constable may—
+
+(a) if the constable reasonably believes that a fire has broken out, do anything the constable reasonably believes to be necessary for the purpose of—
+
+(i) extinguishing the fire; or
+
+(ii) protecting life or property; and
+
+(b) do anything the constable reasonably believes to be necessary for the purpose of preventing or limiting damage to property resulting from anything done as mentioned in paragraph (a).
+
+(2) A constable may in particular under subsection (1)—
+
+(a) enter (by force if necessary) premises or a place;
+
+(b) move a vehicle without the consent of its owner;
+
+(c) force open and enter a lockfast vehicle;
+
+(d) restrict the access of persons to premises or a place.
+
+#### Obtaining information
+
+##### 27 Powers of authorised employees in relation to obtaining information
+
+(1) Subject to subsection (2) an employee of [[^F53]SFRS] who is authorised in writing by [[^F54]SFRS] for the purposes of this section (an “authorised employee”) may at any reasonable time enter premises for the purpose of obtaining information needed for the carrying out of [[^F55]SFRS's] functions under section 9, 10 or 11.
+
+(2) An authorised employee may not under subsection (1)—
+
+(a) enter premises by force; or
+
+(b) demand admission to premises occupied as a private dwelling unless 24 hours' notice in writing has first been given to the occupier of the dwelling.
+
+(3) If, on the application of an authorised employee, a sheriff or justice of the peace is satisfied—
+
+(a) that—
+
+(i) it is necessary for the employee to enter premises for the purposes of subsection (1); and
+
+(ii) the employee is unable to do so, or is likely to be unable to do so, otherwise than by force,
+
+the sheriff or justice may issue a warrant authorising the employee to enter the premises by force at any reasonable time; or
+
+(b) that it is necessary for the employee to enter premises for the purposes of subsection (1) without giving notice as required by subsection (2)(b), the sheriff or justice may issue a warrant authorising the employee to enter the premises at any time (by force if necessary).
+
+(4) If an authorised employee exercises a power of entry by virtue of this section, the employee may—
+
+(a) take onto the premises—
+
+(i) such other persons; and
+
+(ii) such equipment,
+
+as the employee considers necessary; and
+
+(b) require any person present on the premises to provide the employee with any—
+
+(i) facilities, information, documents or records; or
+
+(ii) other assistance,
+
+that the employee may reasonably request.
+
+(5) An authorised employee exercising a power of entry by virtue of this section shall, if so required, produce the items mentioned in subsection (6)—
+
+(a) before entering the premises; or
+
+(b) at any time before leaving the premises.
+
+(6) Those items are—
+
+(a) evidence of the employee's authorisation for the purpose of this section; and
+
+(b) any warrant under subsection (3)(a) or (b).
+
+##### 28 Giving of notices required by section 27
+
+(1) The notice required by section 27(2)(b) may be given—
+
+(a) by delivering it to the occupier of the dwelling;
+
+(b) by leaving it for that person at the dwelling; or
+
+(c) by sending it by post to that person at the dwelling.
+
+(2) If the name or address of the person to whom notice under section 27(2)(b) is required to be given cannot be ascertained after reasonable inquiry, the notice may be given—
+
+(a) by leaving it in the hands of a person who is, or appears to be, resident in the dwelling; or
+
+(b) by leaving it fixed to a conspicuous part of the dwelling.
+
+##### 29 Powers of authorised employees in relation to investigating fires
+
+(1) An employee of [[^F56]SFRS] who is authorised in writing by [[^F57]SFRS] for the purposes of this section (an “authorised employee”) may, at any reasonable time (by force if necessary), enter premises in which there has been a fire for the purpose of investigating—
+
+(a) what caused the fire; or
+
+(b) why it progressed as it did.
+
+(2) If an authorised employee exercises the power mentioned in subsection (1) the employee may—
+
+(a) take onto the premises—
+
+(i) such other persons; and
+
+(ii) such equipment,
+
+as the employee considers necessary;
+
+(b) inspect and copy any documents or records on the premises or remove them from the premises;
+
+(c) carry out any inspections, measurements and tests in relation to—
+
+(i) the premises; or
+
+(ii) an article or substance found on the premises,
+
+that the employee considers necessary;
+
+(d) take samples of an article or substance found on the premises (but not so as to destroy it or damage it unless it is necessary to do so for the purpose of the investigation);
+
+(e) dismantle an article found on the premises (but not so as to destroy it or damage it unless it is necessary to do so for the purpose of the investigation);
+
+(f) take possession of an article or substance found on the premises and retain it for as long as is necessary for the purpose of—
+
+(i) examining it and doing anything the employee has power to do under paragraph (c) or (e);
+
+(ii) ensuring that it is not tampered with before the employee's examination of it is completed; or
+
+(iii) ensuring that it is available for use as evidence in proceedings for an offence relevant to the investigation;
+
+(g) require a person present on the premises to provide the employee with any—
+
+(i) facilities, information, documents or records; or
+
+(ii) other assistance,
+
+that the employee may reasonably request.
+
+(3) An authorised employee exercising the power mentioned in subsection (1) shall, if so required, produce evidence of the employee's authorisation for the purpose of this section—
+
+(a) before entering the premises; or
+
+(b) at any time before leaving the premises.
+
+(4) If an authorised employee exercises the power in subsection (2)(d) the employee shall—
+
+(a) leave a notice at the premises with a responsible person (or, if that is impracticable, fixed in a prominent position) giving particulars of the article or substance and stating that the employee has taken a sample of it; and
+
+(b) if it is practicable to do so, give such a person at the premises a portion of the sample marked in a manner sufficient to identify it.
+
+(5) If an authorised employee exercises the power in subsection (2)(f) the employee shall leave a notice at the premises (either with a responsible person or if that is impracticable fixed in a prominent position) giving particulars of the article or substance and stating that the employee has taken possession of it.
+
+(6) This section shall apply in relation to vehicles as it applies in relation to premises; but subject to the following modifications—
+
+(a) the power conferred by subsection (1) includes power to enter premises in which a vehicle in which there has been a fire is being kept;
+
+(b) the power conferred by paragraph (a) of subsection (2) includes power to take persons and equipment to the place where a vehicle is; and
+
+(c) references to premises in subsections (2)(g) and (3) to (5) include references to premises in which vehicles are kept.
+
+(7) In this section “premises” includes land.
+
+##### 30 Exercise of powers under sections 27 and 29: securing of premises
+
+An employee of [[^F58]SFRS] who, by virtue of section 27 or 29, enters premises—
+
+(a) which are unoccupied; or
+
+(b) from which the occupier is temporarily absent,
+
+and who is authorised to do so by virtue of those sections shall on departure leave the premises as effectively secured against unauthorised entry as the employee found them.
+
+##### 31 Sections 27 and 29: offences
+
+(1) If, without reasonable excuse, a person fails to comply with any requirement under section 27(4)(b) or 29(2)(g), the person shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+#### Use of information
+
+##### 32 Use of commercially sensitive information
+
+(1) If, without reasonable excuse, a person—
+
+(a) makes use of; or
+
+(b) discloses,
+
+any commercially sensitive information obtained by the person while on premises entered in exercise of a power conferred by virtue of section 25, 26, 27 or 29, the person shall be guilty of an offence.
+
+(2) In subsection (1) “commercially sensitive information” means information with regard to any—
+
+(a) manufacturing process; or
+
+(b) trade secret.
+
+(3) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale or to imprisonment for a term not exceeding 3 months.
+
+### Chapter 6 — Mutual assistance etc.
+
+#### Assistance in discharge of functions
+
+##### [^F59]33 Reinforcement schemes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F60]34 Directions about reinforcement schemes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 35 [[^F61]Assistance]
+
+[[^F62](1) SFRS may enter into arrangements with a person for securing the provision by that person of assistance for SFRS in the carrying out by SFRS of a relevant function.
+
+(2) A person may provide assistance under arrangements made under subsection (1) only if the Chief Officer is satisfied that the person has sufficient knowledge, skills and experience to enable the person to provide assistance for SFRS in the carrying out by SFRS of the relevant function.]
+
+(3) Arrangements under this section may include provision as to the terms (including terms as to payment) on which assistance is to be provided.
+
+[[^F63](4) In this section, “relevant function” means a function conferred by or under any of sections 8 to 11, 13 and 61.]
+
+#### Performance of functions by others
+
+##### 36 Arrangements for carrying out of functions by others
+
+[[^F64](1) SFRS may enter into arrangements with a person for the carrying out by that person of a relevant function.
+
+(2) A person may carry out a relevant function under arrangements made under subsection (1) only if the Chief Officer is satisfied that the person has sufficient knowledge, skills and experience to enable the person to carry out the relevant function.
+
+(2A) SFRS may enter into arrangements under this section in relation to its function of extinguishing fires only if the person employs fire-fighters.]
+
+(3) Arrangements under this section may include provision as to the terms (including terms as to payment) on which any function is to be carried out.
+
+[[^F65](4) In this section, “relevant function” means a function conferred by or under any of sections 8 to 11, 13 and 61.]
+
+##### [^F66]37 Section 36: directions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 7 — Assaulting or impeding employees and others
+
+#### 38 Amendment of Emergency Workers (Scotland) Act 2005
+
+(1) The Emergency Workers (Scotland) Act 2005 (asp 2) shall be amended as follows.
+
+(2) For paragraph (b) of section 1(3) substitute—
+
+> (zb) that of a person employed by a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) while discharging any of the authority's functions under any of sections 9 to 13 (fire-fighting, road traffic accidents, other emergencies, emergency directions and other eventualities), 25, 27 and 29 (powers of authorised employees in relation to emergencies, obtaining information and investigating fires) of that Act;
+>
+> (b) that of a person providing assistance under arrangements made by virtue of section 35 (assistance other than from relevant authorities) or 36 (arrangements for carrying out of functions by others) of the Fire (Scotland) Act 2005 other than assistance given to a relevant authority (as defined in section 6 of that Act) for the purpose of carrying out any of the authority's functions conferred on the authority by section 8 or 61 of that Act;
+
+.
+
+#### 39 Assaulting or impeding employees discharging certain functions
+
+(1) A person who assaults, obstructs or hinders another person who is—
+
+(a) an employee of [[^F67]SFRS]; and
+
+(b) discharging any of the functions conferred on [[^F68]SFRS] under section 8, 17 or 61,
+
+commits an offence.
+
+(2) A person who assaults, obstructs or hinders another person who is providing assistance to [[^F69]SFRS] under arrangements made by virtue of section 35 for the purpose of the carrying out by [[^F70]SFRS] of any of the functions conferred on it by virtue of section 8 or 61 commits an offence.
+
+(3) A person who assaults, obstructs or hinders another person who is by virtue of section 36 carrying out a function conferred on [[^F71]SFRS] by virtue of section 8 or 61 commits an offence.
+
+(4) A person guilty of an offence under this section shall be liable on summary conviction to imprisonment for a period not exceeding [[^F72]12] months or to a fine not exceeding level 4 on the standard scale [[^F73]or to both].
+
+### Chapter 8 — Central supervision and support
+
+#### [[^F74]Best value
+
+##### 39A Best value
+
+(1) It is the duty of SFRS to make arrangements which secure best value.
+
+(2) Best value is continuous improvement in the carrying out of SFRS's functions.
+
+(3) In securing best value, SFRS must maintain an appropriate balance among—
+
+(a) the quality of its carrying out of its functions,
+
+(b) the cost to SFRS of that carrying out of its functions,
+
+(c) the cost to persons of any service provided by SFRS for them on a wholly or partly rechargeable basis.
+
+(4) In maintaining that balance, SFRS must have regard to—
+
+(a) efficiency,
+
+(b) effectiveness,
+
+(c) economy, and
+
+(d) the need to meet the equal opportunity requirements.
+
+(5) SFRS must carry out its duties under this section in a way which contributes to the achievement of sustainable development.
+
+(6) In measuring the improvement of the carrying out of SFRS's functions for the purposes of this section, regard is to be had to the extent to which the outcomes of the carrying out of the functions have improved.
+
+(7) In this section, “equal opportunity requirements” has the same meaning as in Section L2 of Part 2 of Schedule 5 to the Scotland Act 1998 (c.46).
+
+##### 39B Best value: further provision
+
+(1) In carrying out its duties under section 39A, SFRS must have regard to the matters mentioned in subsection (2).
+
+(2) The matters are—
+
+(a) any relevant guidance issued by the Scottish Ministers,
+
+(b) what are, whether by reference to any generally recognised published code or otherwise, regarded as proper arrangements for the purposes of section 39A(1) (or purposes which include those purposes).
+
+(3) Before issuing relevant guidance, the Scottish Ministers must consult—
+
+(a) SFRS, and
+
+(b) such other persons as they think appropriate.
+
+(4) In the event of a conflict in any respect between the matter to which SFRS is to have regard under paragraph (a) of subsection (2) and the matter to which it is to have regard under paragraph (b) of that subsection, SFRS must in that respect have regard only to matters within paragraph (a).
+
+(5) In this section “relevant guidance”—
+
+(a) means guidance on the carrying out of the duties imposed by section 39A,
+
+(b) includes in particular guidance on
+
+(i) how to make and what is to be included in the arrangements mentioned in section 39A(1),
+
+(ii) how to implement the duty imposed by that section.
+
+##### 39C Examinations of SFRS by Auditor General
+
+The reference in section 23 of the Public Finance and Accountability (Scotland) Act 2000 (asp 1) to examinations into the economy, efficiency and effectiveness with which resources have been used is, in relation to SFRS, to include a reference to examinations into the arrangements made by SFRS under section 39A.]
+
+#### Fire and Rescue Framework for Scotland
+
+##### 40 Framework document
+
+(1) The Scottish Ministers shall prepare a document—
+
+(a) setting out priorities and objectives for [[^F75]SFRS] in connection with the carrying out of [[^F76]its functions under this Act or any other enactment,]; and
+
+(b) containing—
+
+(i) such guidance in connection with the carrying out of any of those functions; and
+
+(ii) such other matters relating to [[^F77]SFRS] or those functions,
+
+as the Scottish Ministers consider appropriate.
+
+(2) The Scottish Ministers—
+
+(a) shall keep the document prepared under subsection (1) under review; and
+
+(b) may from time to time revise it.
+
+(3) The Scottish Ministers shall carry out the functions conferred on them by subsection (1) and (2) in the manner and to the extent that appears to them to be best calculated to promote—
+
+(a) public safety;
+
+(b) the efficiency and effectiveness of [[^F78]SFRS]; and
+
+(c) efficiency and effectiveness in connection with the matters in relation to which [[^F79]SFRS has] functions.
+
+(4) The document prepared under subsection (1), and any revision of it which appears to the Scottish Ministers to be significant, shall have effect only when brought into effect by the Scottish Ministers by order.
+
+(5) In preparing—
+
+(a) the document mentioned in subsection (1); and
+
+(b) any revision of it which appears to them to be significant,
+
+the Scottish Ministers shall consult the persons mentioned in subsection (6).
+
+[[^F80](6) Those persons are—
+
+(a) SFRS,
+
+(b) such persons as the Scottish Ministers consider represent employees of SFRS,
+
+(c) such persons as the Scottish Ministers consider represent local authorities, and
+
+(d) such other persons as the Scottish Ministers consider appropriate.]
+
+##### 41 Adherence
+
+[[^F81](1) In carrying out its functions, SFRS must have regard to the framework document.]
+
+(2) Subsections (3) and (4) apply where the Scottish Ministers consider that [[^F82]SFRS] is failing, or is likely to fail, to act in accordance with the [[^F83]framework document].
+
+(3) The Scottish Ministers may cause an inquiry to be held into the matter.
+
+(4) Subject to subsection (5), the Scottish Ministers may, for the purpose of securing that [[^F84]SFRS] acts in accordance with the document, by order require [[^F84]SFRS]—
+
+(a) to take; or
+
+(b) to refrain from taking,
+
+such action as is specified in the order.
+
+(5) The Scottish Ministers may make an order under subsection (4) only where they consider that it would promote—
+
+(a) public safety;
+
+(b) the efficiency and effectiveness of [[^F85]SFRS]; or
+
+(c) efficiency and effectiveness in connection with the matters in relation to which [[^F86]SFRS has] functions.
+
+(6) Before making an order under subsection (4), the Scottish Ministers shall consult [[^F87]SFRS].
+
+[^F88]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F89]Chapter 8A — Planning, Reports and Information
+
+#### Strategic plan
+
+##### 41A SFRS's first strategic plan
+
+(1) SFRS must prepare a strategic plan.
+
+(2) A strategic plan is a plan—
+
+(a) setting out how SFRS proposes to carry out its functions during the period of 3 years beginning with the day appointed by order under subsection (7),
+
+(b) setting out outcomes by reference to which the carrying out of its functions may be measured, and
+
+(c) including such other material relating to its functions or to a period other than the period mentioned in paragraph (a) as SFRS thinks fit.
+
+(3) Before preparing the strategic plan, SFRS must make arrangements for obtaining views on what the plan should contain from persons whom it considers likely to have an interest in how SFRS carries out its functions.
+
+(4) When preparing the strategic plan, SFRS must—
+
+(a) have regard to the framework document,
+
+(b) send a copy of a draft plan to the persons mentioned in subsection (5),
+
+(c) invite the recipients to comment on the draft plan within such reasonable period as SFRS may specify, and
+
+(d) have regard to any comments received within that period.
+
+(5) Those persons are—
+
+(a) each local authority,
+
+(b) such persons as SFRS considers represent local authorities,
+
+(c) such persons as SFRS considers represent employees of SFRS,
+
+(d) such other persons as SFRS considers appropriate.
+
+(6) SFRS must submit the strategic plan prepared under subsection (1) to the Scottish Ministers for approval.
+
+(7) SFRS must use its best endeavours to secure the approval of the Scottish Ministers to the strategic plan (with or without modifications) before such day as the Scottish Ministers may by order appoint.
+
+(8) If the Scottish Ministers approve the strategic plan, SFRS must—
+
+(a) publish the plan, and
+
+(b) lay before the Scottish Parliament a copy of the plan.
+
+##### 41B Review of plan
+
+(1) This section applies where—
+
+(a) a strategic plan is approved under section 41A, or
+
+(b) a new strategic plan is approved under subsection (4) or (6).
+
+(2) SFRS may at any time review the plan.
+
+(3) SFRS must review the plan—
+
+(a) if the Scottish Ministers make an order under section 40(4), and
+
+(b) before the end of the period of 3 years to which the plan relates.
+
+(4) Following a review under subsection (2) or (3)(a), SFRS may prepare and submit to the Scottish Ministers for approval a new strategic plan.
+
+(5) If, following a review under subsection (3)(a), SFRS decides not to prepare a new strategic plan, it must notify the Scottish Ministers of that fact.
+
+(6) Following a review under subsection (3)(b), SFRS must, before the end of the period of 3 years mentioned in that subsection, prepare and submit to the Scottish Ministers for approval a new strategic plan.
+
+(7) A new strategic plan is a plan—
+
+(a) setting out how SFRS proposes to carry out its functions during the period of 3 years beginning with the plan commencement day,
+
+(b) setting out outcomes by reference to which the carrying out of its functions may be measured, and
+
+(c) including such other material relating to its functions or to a period other than the period mentioned in paragraph (a) as SFRS thinks fit.
+
+(8) Before preparing a new strategic plan, SFRS must make arrangements for obtaining views on what the plan should contain from persons whom it considers likely to have an interest in how SFRS carries out its functions.
+
+(9) When preparing a new strategic plan, SFRS must—
+
+(a) have regard to the framework document,
+
+(b) send a copy of a draft plan to the persons mentioned in section 41A(5),
+
+(c) invite the recipients to comment on the draft plan within such reasonable period as SFRS may specify, and
+
+(d) have regard to any comments received within that period.
+
+(10) SFRS must use its best endeavours to secure the approval of the Scottish Ministers to a new strategic plan (with or without modifications) before the plan commencement day for that plan.
+
+(11) If the Scottish Ministers approve a new strategic plan, SFRS must—
+
+(a) publish the plan, and
+
+(b) lay before the Scottish Parliament a copy of the plan.
+
+(12) In this section, “plan commencement day” means—
+
+(a) in the case of a strategic plan prepared under subsection (4), the day 8 weeks after the day on which SFRS submits a new strategic plan to the Scottish Ministers (or such earlier day as SFRS and the Scottish Ministers may agree),
+
+(b) in the case of a strategic plan prepared under subsection (6), the day after the end of the period of 3 years to which the previous strategic plan relates.
+
+##### 41C SFRS's duty to have regard to approved plan
+
+(1) This section applies where a strategic plan or a new strategic plan has been approved by the Scottish Ministers under section 41A or, as the case may be, section 41B.
+
+(2) In carrying out its functions, SFRS must have regard to the strategic plan in so far as that plan is not inconsistent with the framework document.]
+
+#### [[^F90]Local fire and rescue plans
+
+##### 41D Provision of local services
+
+(1) SFRS must ensure that there are adequate arrangements in place for the carrying out of its functions in each local authority area.
+
+(2) SFRS must involve each local authority in determining priorities and objectives for SFRS in connection with the carrying out in the local authority's area of SFRS's functions.
+
+##### 41E Local fire and rescue plans
+
+(1) As soon as is reasonably practicable after a strategic plan is approved under section 41A, SFRS must prepare a local fire and rescue plan for each local authority area.
+
+(2) A local fire and rescue plan is a plan setting out—
+
+(a) priorities and objectives for SFRS in connection with the carrying out in the local authority's area of SFRS's functions,
+
+(b) the reasons for selecting each of those priorities and objectives,
+
+(c) how SFRS proposes to deliver those priorities and objectives,
+
+(d) in so far as is reasonably practicable, outcomes by reference to which delivery of those priorities and objectives can be measured,
+
+(e) how those priorities and objectives are expected to contribute to the delivery of any other relevant local outcomes which are identified by community planning,
+
+(f) such other matters relating to the carrying out of SFRS's functions in the local authority's area as SFRS thinks fit.
+
+(3) In preparing the local fire and rescue plan, SFRS must—
+
+(a) have regard to the framework document and the strategic plan approved under section 41A,
+
+(b) consult
+
+(i) such persons as SFRS considers represent employees of SFRS, and
+
+(ii) such other persons as SFRS considers appropriate.
+
+(4) SFRS must submit a plan prepared under subsection (1) for approval to the local authority for the area to which the plan relates.
+
+(5) If the plan is approved under subsection (4), SFRS must publish it.
+
+(6) In this section “community planning” means the community planning processes described in Part 2 of the [[^F91]Community Empowerment (Scotland) Act 2015].
+
+##### 41F Power to review plan
+
+(1) This section applies where a local fire and rescue plan is published under section 41E(5), subsection (4) or section 41G(5).
+
+(2) SFRS may at any time review the plan.
+
+(3) Following a review, SFRS may revise the plan.
+
+(4) Subsections (3) to (5) of section 41E apply in relation to a plan revised under subsection (3) as they apply in relation to a plan prepared under subsection (1) of that section but subject to the modification in subsection (5).
+
+(5) The modification is that the reference in section 41E(3)(a) to a plan approved under section 41A is to be read as if it were a reference to a plan approved under section 41A or, as the case may be, a new plan approved under section 41B.
+
+##### 41G Mandatory review
+
+(1) This section applies where a local fire and rescue plan is published under section 41E(5), section 41F(4) or subsection (5).
+
+(2) SFRS must review the local fire and rescue plan if—
+
+(a) the Scottish Ministers make an order under section 40(4),
+
+(b) a new strategic plan is approved under section 41B, or
+
+(c) the plan is not revised under section 41F(3) or subsection (3) during the period of 3 years beginning with the publication of the plan.
+
+(3) Following a review under subsection (2)(a) or (b), SFRS may revise the plan.
+
+(4) Following a review under subsection (2)(c), SFRS must revise the plan.
+
+(5) Subsections (3) to (5) of section 41E apply in relation to a plan revised under subsection (3) or (4) as they apply in relation to a plan prepared under subsection (1) of that section but subject to the modification in subsection (6).
+
+(6) The modification is that the reference in section 41E(3)(a) to a plan approved under section 41A is to be read as if it were a reference to a plan approved under section 41A or, as the case may be, a new plan approved under section 41B.
+
+##### 41H Provision of information to local authority
+
+SFRS must give to a local authority such information or reports relating to the carrying out of SFRS's functions in the authority's area (including reports given by reference to any local fire and rescue plan in force for the area) as the authority may reasonably request.
+
+##### 41J Local Senior Officers
+
+(1) After consulting the local authority, SFRS must designate an employee of SFRS as Local Senior Officer for each local authority area for the purpose of carrying out on behalf of SFRS the delegated functions.
+
+(2) The delegated functions are—
+
+(a) SFRS's functions under sections 41E to 41H,
+
+(b) SFRS's function in relation to the provision of feedback to it under section 41K(1),
+
+(c) SFRS's functions under [[^F92]Part 2 of the Community Empowerment (Scotland) Act 2015 (community planning)],
+
+(d) any other functions of SFRS which SFRS delegates to the Local Senior Officer.
+
+(3) The duty imposed on SFRS by subsection (1) must be carried out by the Chief Officer.
+
+(4) A person may be designated under subsection (1) in relation to more than one local authority area.
+
+(5) Subsection (1) does not affect—
+
+(a) SFRS's responsibility for the carrying out of the delegated functions,
+
+(b) SFRS's ability to carry out the delegated functions.
+
+##### 41K Monitoring by local authority
+
+(1) A local authority may monitor and provide feedback to SFRS on the manner in which SFRS carries out its functions in the authority's area and (in particular) may provide to SFRS—
+
+(a) its views on any matter concerning or connected to the manner in which SFRS carries out those functions in the authority's area,
+
+(b) any recommendations for improvements in the manner in which SFRS carries out those functions in the authority's area that it thinks fit.
+
+(2) A local authority may provide feedback by reference to any local fire and rescue plan in force for its area.]
+
+##### 41L [[^F93]Annual report
+
+(1) As soon as is reasonably practicable after the end of each reporting year, SFRS must—
+
+(a) prepare and publish an annual report,
+
+(b) give a copy of the report to the Scottish Ministers, and
+
+(c) lay a copy of the report before the Scottish Parliament.
+
+(2) An annual report is a report setting out—
+
+(a) an assessment of SFRS's performance during the reporting year in acting in accordance with the framework document,
+
+(b) an assessment of SFRS's performance during the reporting year in achieving the outcomes set out in the strategic plan approved under section 41A or, as the case may be, 41B, and
+
+(c) such other information as SFRS thinks fit.
+
+(3) In this section, “reporting year” means—
+
+(a) the period beginning on the day on which SFRS is established and ending
+
+(i) on 31 March next occurring, or
+
+(ii) if that period is of less than 6 months' duration, on 31 March next occurring after that, and
+
+(b) each subsequent period of a year ending on 31 March.]
+
+##### 41M [[^F94]Provision of information
+
+(1) SFRS must provide the Scottish Ministers with such reports, statistics and other information relating to SFRS or its functions as the Scottish Ministers may require.
+
+(2) Information provided under this section may in particular relate to the outcomes of fires, events and other situations in relation to which SFRS makes provision or takes action.
+
+(3) Information to be provided under this section must be provided at the times, and in the form, specified by the Scottish Ministers.]
+
+#### [^F95]42 Reporting
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F96]Directions
+
+##### 42A Directions
+
+(1) The Scottish Ministers may give SFRS general or specific directions.
+
+(2) SFRS must comply with a direction under this section.
+
+(3) Directions under this section may vary or revoke earlier directions under this section.
+
+(4) Directions under this section must be in writing.
+
+(5) The Scottish Ministers must—
+
+(a) publish a direction given under this section, and
+
+(b) lay a copy of it before the Scottish Parliament.
+
+(6) Nothing in this section enables the Scottish Ministers to give a direction in circumstances to which subsection (3) or (4) of section 41 applies.]
+
+#### Inspection
+
+##### [^F95]43 Inspectors of Fire and Rescue Authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F97]Chapter 8B — Inspection
+
+#### Inspectors of SFRS
+
+##### 43A Inspectors of SFRS
+
+(1) Her Majesty may by Order in Council appoint—
+
+(a) a Chief Inspector of the Scottish Fire and Rescue Service, and
+
+(b) such number of Inspectors of the Scottish Fire and Rescue Service as the Scottish Ministers may determine.
+
+(2) The Scottish Ministers may appoint Assistant Inspectors of the Scottish Fire and Rescue Service.
+
+(3) The Scottish Ministers must pay to persons appointed under this section such remuneration as the Scottish Ministers may determine.
+
+(4) The Scottish Ministers may authorise an Inspector to carry out any of the functions conferred on the Chief Inspector by or under this Act or any other enactment if—
+
+(a) there is a temporary vacancy in the office of Chief Inspector, or
+
+(b) the Scottish Ministers consider that the Chief Inspector is temporarily unable to carry out the Chief Inspector's functions.
+
+(5) A person who, immediately before the coming into force of section 119 of the Police and Fire Reform (Scotland) Act 2012 (asp 8), is by virtue of section 43—
+
+(a) the Chief Inspector of Fire and Rescue Authorities is taken to have been appointed under subsection (1)(a),
+
+(b) an Inspector of Fire and Rescue Authorities is taken to have been appointed under subsection (1)(b), and
+
+(c) an Assistant Inspector of Fire and Rescue Authorities is taken to have been appointed under subsection (2).
+
+(6) In this Act—
+
+- “Chief Inspector” means a person appointed under subsection (1)(a), and
+- “Inspector” means a person appointed under subsection (1) or (2).
+
+##### 43B Inquiries by Inspectors
+
+(1) An Inspector may inquire into a matter mentioned in subsection (3).
+
+(2) If directed to do so by the Scottish Ministers, an Inspector must inquire into a matter mentioned in subsection (3).
+
+(3) The matters are—
+
+(a) the state and efficiency of SFRS,
+
+(b) whether in carrying out its functions SFRS is complying with its duty under section 39A to make arrangements which secure best value,
+
+(c) the manner in which SFRS is carrying out any of its functions.
+
+(4) In carrying out an inquiry under this section an Inspector may—
+
+(a) require SFRS to provide any information or documents relating to the functions of SFRS that the Inspector may require,
+
+(b) enter and inspect any premises which are used by SFRS,
+
+(c) inspect any equipment which is used by SFRS.
+
+(5) If an Inspector exercises a power of entry by virtue of subsection (4)(b), the Inspector may—
+
+(a) take onto the premises
+
+(i) such other persons, and
+
+(ii) such equipment,
+
+as the Inspector considers necessary,
+
+(b) require any person present on the premises to provide the Inspector with any information or documents that the Inspector may reasonably request.
+
+(6) An Inspector may not under subsection (4)(b)—
+
+(a) enter or inspect premises occupied as a private dwelling,
+
+(b) enter premises by force.
+
+(7) SFRS must provide such facilities, assistance and co-operation as an Inspector may reasonably request for the purposes of, or in connection with, an inquiry under this section.
+
+##### 43C Inquiries under section 43B(1): reports
+
+(1) This section applies where an inquiry under section 43B(1) has been completed.
+
+(2) The Chief Inspector must give SFRS a report of the inquiry.
+
+(3) If a report given to SFRS under subsection (2) relates to a matter mentioned in section 43B(3)(a) or (b), the Chief Inspector must—
+
+(a) as soon as is reasonably practicable after giving the report to SFRS, give the Scottish Ministers a copy of the report, and
+
+(b) give the Scottish Ministers any other information relating to the inquiry that they may request.
+
+(4) If a report given to SFRS under subsection (2) does not relate to a matter mentioned in section 43B(3)(a) or (b), the Chief Inspector—
+
+(a) may give the Scottish Ministers a copy of the report if the Chief Inspector thinks fit,
+
+(b) may give the Scottish Ministers any other information in relation to the report that the Chief Inspector thinks fit,
+
+(c) must give the Scottish Ministers any information relating to the inquiry that the Scottish Ministers may request.
+
+(5) The Chief Inspector must lay before the Scottish Parliament a copy of a report given to the Scottish Ministers under subsection (3)(a).
+
+##### 43D Inquiries under section 43B(2): reports
+
+(1) This section applies where an inquiry under section 43B(2) has been completed.
+
+(2) The Chief Inspector must give the Scottish Ministers—
+
+(a) a report of the inquiry, and
+
+(b) any other information relating to the inquiry that the Scottish Ministers may request.
+
+(3) As soon as is reasonably practicable after giving the report to the Scottish Ministers under subsection (2)(a), the Chief Inspector must give a copy of the report to SFRS.
+
+(4) The Scottish Ministers must lay before the Scottish Parliament a copy of the report given to them under subsection (2)(a).
+
+##### 43E Inquiry reports: duties of SFRS
+
+In carrying out its functions, SFRS must have regard to a report given to it under section 43C(2) or 43D(3) and, having done so, must take such measures (if any) as it thinks fit in relation to the report.
+
+##### 43F Chief Inspector's plan
+
+(1) The Chief Inspector must prepare a plan setting out—
+
+(a) priorities for inquiries to be carried out by Inspectors, and
+
+(b) information on how inquiries will be carried out in a way which is proportionate, accountable and transparent.
+
+(2) The Chief Inspector—
+
+(a) must keep the plan under review, and
+
+(b) may from time to time revise the plan.
+
+(3) The Chief Inspector must, in preparing a plan (and any revised plan), consult such persons as the Chief Inspector considers appropriate.
+
+(4) The Chief Inspector must publish the plan (and any revised plan) in such manner as the Chief Inspector thinks fit.
+
+#### Co-operation and information-sharing
+
+##### 43G Co-operation and information-sharing: Auditor General
+
+(1) The Inspectors and the Auditor General must co-operate and co-ordinate activity with each other with a view to improving the carrying out of their respective functions in relation to SFRS.
+
+(2) In particular, the Inspectors and the Auditor General must together make arrangements with a view to—
+
+(a) securing the exchange of information between them about SFRS,
+
+(b) preventing any unnecessary duplication in relation to any inspections, investigations, inquiries or examinations carried out, or to be carried out, by them in relation to SFRS.
+
+(3) The duties imposed by subsections (1) and (2) do not apply in so far as compliance with them would prevent or delay any of the persons on whom they are imposed in taking any action which the person considers to be necessary as a matter of urgency.]
+
+#### [^F98]44 Functions of Inspectors of Fire and Rescue Authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F99]Chapter 8C — Equipment, Facilities and Services]
+
+#### [^F98]45 Directions for public safety purposes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F98]46 Requirements concerning equipment and services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 47 Provision of equipment etc.
+
+(1) The Scottish Ministers may—
+
+(a) provide and maintain any equipment, facilities and services;
+
+(b) contribute to the provision and maintenance of any equipment, facilities and services;
+
+(c) establish and maintain any organisations; or
+
+(d) contribute to the establishment and maintenance of any organisations,
+
+they consider appropriate for promoting the economy, efficiency and effectiveness of [[^F100]SFRS].
+
+(2) Subject to subsection (3), charges may be imposed for the use of equipment, facilities and services—
+
+(a) provided by the Scottish Ministers under subsection (1)(a); or
+
+(b) provided by an organisation established or maintained by the Scottish Ministers under subsection (1)(c).
+
+(3) Any such charge shall not exceed the costs reasonably incurred in providing the equipment, facility or service to which it relates.
+
+#### Training
+
+##### [^F101]48 Central institution and other centres for education and training
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 9 — Employment
+
+#### Negotiation of conditions of service
+
+##### [^F101]49 Statutory negotiation arrangements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F101]50 Guidance
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Supplementary
+
+##### 51 Prohibition on employment of police
+
+[[^F102]SFRS] may not employ a constable [[^F103](other than a special constable appointed under section 9 of the Police and Fire Reform (Scotland) Act 2012 (asp 8))] for the purpose of carrying out any of the functions conferred on [[^F104]it] by virtue of this Act.
+
+### Chapter 10 — Interpretation
+
+#### 52 Interpretation of Part 2
+
+In this Part, unless the context otherwise requires—
+
+- [[^F105]“Chief Inspector” has the meaning given by section 43A(6),]
+
+- [[^F105]“Chief Officer” means the person appointed under paragraph 7 of schedule 1A,]
+
+- “emergency” means an event or situation that causes or is likely to cause—
+
+  - (a) a person to die;
+  
+  - (b) a person to suffer serious—
+  
+    - (i) injury; or
+    - (ii) illness; or
+  
+  - (c) serious harm to the environment (including the life and health of plants and animals and the fabric of buildings);
+
+- “extinguishing”, in relation to a fire, includes containing and controlling;
+
+- [[^F105]“framework document” means the document prepared under, and having effect by virtue of, section 40,]
+
+- [[^F105]“Inspector” has the meaning given by section 43A(6),]
+
+- “road” has the same meaning as in Part 4 of the New Roads and Street Works Act 1991 (c. 22).
+
+## Part 3 — Fire safety
+
+### Chapter 1 — Fire safety duties
+
+#### Duties
+
+##### 53 Duties of employers to employees
+
+(1) Each employer shall ensure, so far as is reasonably practicable, the safety of the employer's employees in respect of harm caused by fire in the workplace.
+
+(2) Each employer shall—
+
+(a) carry out an assessment of the workplace for the purpose of identifying any risks to the safety of the employer's employees in respect of harm caused by fire in the workplace;
+
+(b) take in relation to the workplace such of the fire safety measures as are necessary to enable the employer to comply with the duty imposed by subsection (1).
+
+(3) Where under subsection (2)(a) an employer carries out an assessment, the employer shall—
+
+(a) in accordance with regulations under section 57, review the assessment; and
+
+(b) take in relation to the workplace such of the fire safety measures as are necessary to enable the employer to comply with the duty imposed by subsection (1).
+
+(4) Schedule 2 makes provision as to the fire safety measures.
+
+##### 54 Duties in relation to relevant premises
+
+(1) Where a person has control to any extent of relevant premises the person shall, to that extent, comply with subsection (2).
+
+(2) The person shall—
+
+(a) carry out an assessment of the relevant premises for the purpose of identifying any risks to the safety of relevant persons in respect of harm caused by fire in the relevant premises; and
+
+(b) take in relation to the relevant premises such of the fire safety measures as in all the circumstances it is reasonable for a person in his position to take to ensure the safety of relevant persons in respect of harm caused by fire in the relevant premises.
+
+(3) If a person falls within subsection (1) other than by virtue of—
+
+(a) having control to any extent of relevant premises in connection with the carrying on by the person (whether for profit or not) of an undertaking; or
+
+(b) owning relevant premises,
+
+the person who owns the relevant premises shall also comply with subsection (2).
+
+(4) A person who has, by virtue of a contract or tenancy, an obligation of any extent in relation to—
+
+(a) the maintenance or repair of—
+
+(i) relevant premises; or
+
+(ii) anything in relevant premises; or
+
+(b) safety in respect of harm caused by fire in relevant premises,
+
+shall also comply, to the extent of the obligation, with subsection (2).
+
+(5) Where under subsection (2)(a) a person carries out an assessment, the person shall—
+
+(a) in accordance with regulations under section 57, review the assessment; and
+
+(b) take in relation to the relevant premises such of the fire safety measures as in all the circumstances it is reasonable for a person in his position to take to ensure the safety of relevant persons in respect of harm caused by fire in the relevant premises.
+
+##### 55 Taking of measures under section 53 or 54: considerations
+
+(1) Subsection (2) applies where under section 53(2)(b) or (3)(b) or 54(2)(b) or (5)(b) a person is required to take any fire safety measures.
+
+(2) The person shall implement the fire safety measures on the basis of the considerations mentioned in subsection (3).
+
+(3) Those considerations are—
+
+(a) avoiding risks;
+
+(b) evaluating risks which cannot be avoided;
+
+(c) combating risks at source;
+
+(d) adapting to technical progress;
+
+(e) replacing the dangerous with the non-dangerous or the less dangerous;
+
+(f) developing a coherent overall fire prevention policy which covers technology, organisation of work and the influence of factors relating to the working environment;
+
+(g) giving collective fire safety protective measures priority over individual measures; and
+
+(h) giving appropriate instructions to employees.
+
+##### 56 Duties of employees
+
+Each employee shall while at work—
+
+(a) take reasonable care for the safety in respect of harm caused by fire of—
+
+(i) the employee; and
+
+(ii) any other relevant person who may be affected by acts or omissions of the employee; and
+
+(b) in relation to any requirement imposed by virtue of this Part on the employee's employer, co-operate with the employer in so far as is necessary for the purpose of enabling the employer to comply with the requirement.
+
+#### Regulations
+
+##### 57 Risk assessments: power to make regulations
+
+(1) The Scottish Ministers may make regulations about the carrying out of assessments and reviews under sections 53 and 54.
+
+(2) Regulations under subsection (1) may in particular make provision for or in connection with—
+
+(a) specifying matters which persons must take into account when carrying out assessments and reviews in relation to substances specified in the regulations;
+
+(b) specifying other matters which persons must take into account when carrying out assessments and reviews;
+
+(c) requiring persons to carry out assessments and reviews before employing persons of a description so specified;
+
+(d) requiring persons in such circumstances as may be so specified to keep records of such information as may be so specified; and
+
+(e) specifying circumstances in which reviews must be carried out.
+
+##### 58 Scottish Ministers' power to make regulations about fire safety
+
+(1) The Scottish Ministers may by regulations make provision about fire safety in relevant premises.
+
+(2) Regulations under subsection (1) may in particular make provision for or in connection with—
+
+(a) precautions that must be taken or observed;
+
+(b) imposing requirements on persons (including requirements about the enforcement of any provision included in the regulations);
+
+(c) the provision, maintenance and keeping free from obstruction of any means of escape in case of fire;
+
+(d) the provision and maintenance of means for securing that any means of escape can be safely and effectively used at all material times;
+
+(e) the provision and maintenance of means for fighting fire and means for giving warning in the event of fire;
+
+(f) the internal construction of premises and the materials used in that construction;
+
+(g) prohibiting the presence or use in relevant premises of equipment of a description specified in the regulations, or prohibiting its presence or use unless standards, or conditions, so specified are complied with;
+
+(h) where relevant premises form part of a building, enabling arrangements to be entered into with owners or occupiers of other parts of the building for the purpose of enabling persons who are subject to duties imposed by virtue of this Part to comply with them;
+
+(i) securing that employees receive appropriate instruction or training in what to do in the event of fire;
+
+(j) securing that, in circumstances so specified, numbers of attendants so specified are stationed in parts of the relevant premises so specified;
+
+(k) the keeping of records of instruction or training given, or other things done, in pursuance of the regulations; and
+
+(l) the giving of assistance or information by any person concerned in the enforcement of requirements imposed by virtue of this Part to any other person so concerned for the purposes of any such requirement.
+
+##### 59 Power to make further provision for protection of fire-fighters
+
+(1) This section applies where regulations under section 58(1) make provision for or in connection with the maintenance of premises, facilities or equipment with a view to securing the safety of fire-fighters (whether employees of [[^F106]SFRS] or otherwise) in the event of a fire in relevant premises (“safeguarding provision”).
+
+(2) The Scottish Ministers may by regulations apply, subject to any modifications (specified in the regulations) that they consider necessary, the safeguarding provision to common areas of private dwellings.
+
+(3) In subsection (2), “common area” includes, where a stair, passage, garden, yard, garage, outhouse or other appurtenance of a private dwelling is used in common by the occupants of more than one private dwelling, that stair, passage, garden, yard, garage, outhouse or other appurtenance.
+
+#### Special case
+
+##### 60 Special case: temporary suspension of Chapter 1 duties
+
+(1) If in relation to any relevant premises the application of any of the Chapter 1 duties would prevent a person who falls within subsection (2) from carrying out the person's operational duties, the Chapter 1 duty (or, as the case may be duties) in question shall be deemed not to apply in relation to those relevant premises during the period when the person is carrying out those duties.
+
+(2) A person falls within this subsection if the person is—
+
+(a) a member of—
+
+(i) the armed forces of the Crown; or
+
+(ii) a visiting force;
+
+(b) a constable; or
+
+(c) of such other description as the Scottish Ministers may by regulations prescribe.
+
+(3) A person subject to the Chapter 1 duty (or duties) which, by virtue of subsection (1) is (or are) deemed not to apply in relation to relevant premises shall, during the period mentioned in that subsection, ensure so far as is possible the safety of relevant persons in respect of harm caused by fire in those premises.
+
+(4) For the purposes of this section, “operational duties”, in relation to a person falling within subsection (2), means anything done—
+
+(a) while the person is at work in the capacity in which the person falls within that subsection; and
+
+(b) which the person is required to do by virtue of being at work in that capacity.
+
+### Chapter 2 — Enforcement
+
+#### 61 Enforcing authorities
+
+(1) Each enforcing authority shall enforce the Chapter 1 duties.
+
+(2) In carrying out the duty imposed by subsection (1), an enforcing authority shall have regard to any guidance given by the Scottish Ministers.
+
+(3) For the purpose of carrying out the duty imposed by subsection (1), an enforcing authority may appoint enforcement officers.
+
+[^F107]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F107]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Subsection (1) does not authorise an enforcing authority to institute proceedings for an offence.
+
+(7) [[^F108]SFRS] may make arrangements with [[^F109]the [[^F110]appropriate body]] for such of the functions conferred on [[^F111]SFRS] by virtue of this Part as may be specified in the arrangements to be carried out (with or without payment) on its behalf by the [[^F110]appropriate body] in relation to a workplace so specified.
+
+[[^F112](7A) For the purposes of subsection (7), “appropriate body” means—
+
+(a) in relation to a workplace which is, or is on, premises for which it is the enforcing authority, the Office for Nuclear Regulation;
+
+(b) in relation to any other workplace, the Health and Safety Executive.]
+
+(8) [[^F113]SFRS] may make arrangements with a person prescribed in regulations by the Scottish Ministers for such of the functions conferred on [[^F113]SFRS] by virtue of this Part as may be specified in the arrangements to be carried out (with or without payment) on its behalf by the person in relation to a workplace so specified.
+
+(9) In this section, “enforcing authority” means—
+
+[[^F114](za) in relation to relevant premises–
+
+[^F115]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F115]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) which are a ship which is in the course of construction, reconstruction, conversion or repair by persons other than the ship's master and crew (or by persons including the ship's master and crew); or
+
+[[^F116](iv) which are a workplace which is, or is on, a construction site, other than one in relation to which the Office for Nuclear Regulation is responsible for health and safety enforcement;]
+
+the Health and Safety Executive;
+
+[[^F117](zaa) in relation to relevant premises—
+
+(i) for which a licence is required by virtue of section 1 of the Nuclear Installations Act 1965 or for which a permit is required by virtue of section 2 of that Act;
+
+(ii) for which such a licence or permit would be required but for the fact that the premises are used by, or on behalf of, the Crown; or
+
+(iii) which are a workplace which is, or is on, a construction site in relation to which the Office for Nuclear Regulation is responsible for health and safety enforcement,
+
+the Office for Nuclear Regulation;]
+
+(zb) in relation to relevant premises which are–
+
+(i) occupied solely for the purposes of the armed forces of the Crown (other than premises such as are mentioned in paragraph (za)(iii));
+
+(ii) occupied solely by any visiting force or an international headquarters or defence organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964 (c. 5); or
+
+(iii) situated within premises occupied solely for the purposes of the armed forces of the Crown but which are not themselves so occupied (other than premises such as are mentioned in paragraph (za)(iii)),
+
+the fire service maintained by the Secretary of State for Defence;]
+
+(a) in relation to relevant premises which are—
+
+(i) a sports ground designated in an order under section 1 of the Safety of Sports Grounds Act 1975 (c. 52) (safety certificates for large sports stadia);
+
+(ii) a sports ground to which Part III of the Fire Safety and Safety of Places of Sport Act 1987 (c. 27) applies; or
+
+(iii) a regulated stand within the meaning of section 26(5) of that Act of 1987 (safety certificates for stands at certain sports grounds),
+
+the local authority in whose area the relevant premises are situated;
+
+[[^F118](b) in relation to any other relevant premises, SFRS.]
+
+[[^F119](9A) For the purposes of subsection (9)—
+
+(a) “construction site” means a construction site, as defined in regulation 2(1) of the Construction (Design and Management) Regulations 2007, to which those Regulations apply, other than one to which regulation 46(1) of those Regulations applies;
+
+(b) the Office for Nuclear Regulation is responsible for health and safety enforcement in relation to a construction site if, by virtue of regulations under section 18(2) of the Health and Safety at Work etc. Act 1974 (enforcement), it is responsible for the enforcement of any of the relevant statutory provisions (within the meaning of Part 1 of that Act) in relation to the site.]
+
+(10) The Scottish Ministers may by regulations modify subsection (9) [[^F120]or (9A)].
+
+#### 62 Powers of enforcement officers
+
+(1) An enforcement officer may do anything necessary for the purpose mentioned in section 61(3).
+
+(2) An enforcement officer may in particular under subsection (1)—
+
+(a) at any reasonable time (or, in a situation which in the opinion of the officer is or may be dangerous, at any time), enter relevant premises and inspect the whole or part of the relevant premises and anything in them;
+
+(b) take onto the relevant premises—
+
+(i) such other persons; and
+
+(ii) such equipment,
+
+as the officer considers necessary;
+
+(c) require a person on the relevant premises who is subject to any of the Chapter 1 duties to provide the officer with any—
+
+(i) facilities, information, documents or records; or
+
+(ii) other assistance,
+
+which relate to those duties and which the officer may reasonably request;
+
+(d) inspect and copy any documents or records on the relevant premises or remove them from the relevant premises;
+
+(e) carry out any inspections, measurements and tests in relation to—
+
+(i) the relevant premises; or
+
+(ii) an article or substance found on the relevant premises,
+
+that the officer considers necessary;
+
+(f) take samples of an article or substance found on the relevant premises for the purpose of ascertaining its fire resistance or flammability;
+
+(g) if an article found on the relevant premises appears to the officer to have caused or to be likely to cause danger to the safety of a relevant person in respect of harm caused by fire, dismantle the article (but not so as to destroy it or damage it unless it is necessary to do so for the purpose of the inspection); and
+
+(h) take possession of an article or substance found in the relevant premises and retain it for as long as is necessary for the purpose of—
+
+(i) examining it and doing anything the officer has power to do under paragraph (e) or (g);
+
+(ii) ensuring that it is not tampered with before the officer's examination of it is completed;
+
+(iii) ensuring that it is available for use as evidence in proceedings for an offence relevant to the inspection.
+
+(3) An enforcement officer exercising the power mentioned in subsection (2)(a) shall, if so required, produce evidence of the officer's authority to do so—
+
+(a) before entering the premises; or
+
+(b) at any time before leaving the premises.
+
+(4) If an enforcement officer exercises the power in subsection (2)(f), the officer shall—
+
+(a) leave a notice at the relevant premises with a person who is subject to any of the Chapter 1 duties in relation to the relevant premises (or, if that is impracticable, fix the notice in a prominent position at the relevant premises) giving particulars of the article or substance and stating that the officer has taken a sample of it; and
+
+(b) if it is practicable to do so, give such a person at the relevant premises a portion of the sample marked in a manner sufficient to identify it.
+
+(5) Before exercising the power mentioned in subsection (2)(g), an enforcement officer shall consult such persons as appear to the officer to be appropriate for the purpose of ascertaining what dangers, if any, there may be in doing anything which the officer proposes to do under that power.
+
+(6) If requested to do so by a person present in the relevant premises who is subject to any of the Chapter 1 duties in relation to the relevant premises, an enforcement officer shall cause––
+
+(a) anything which the officer proposes to do on the relevant premises under the power mentioned in paragraph (d) or (e) of subsection (2); or
+
+(b) anything which the officer proposes to do under the power mentioned in paragraph (g) of that subsection,
+
+to be done in the presence of that person.
+
+(7) If an enforcement officer exercises the power in subsection (2)(h), the officer shall leave a notice at the relevant premises with a person who is subject to any of the Chapter 1 duties in relation to the relevant premises (or, if that is impracticable, fix the notice in a prominent position at the relevant premises) giving particulars of the article or substance and stating that the officer has taken possession of it.
+
+(8) An enforcement officer who, by virtue of this section, enters relevant premises—
+
+(a) which are unoccupied; or
+
+(b) from which the occupier is temporarily absent,
+
+shall on departure leave the relevant premises as effectively secured against unauthorised entry as the officer found them.
+
+#### 63 Prohibition notices
+
+(1) Where subsection (2) applies in relation to relevant premises, an enforcing authority may serve a prohibition notice on the occupier of the relevant premises.
+
+(2) This subsection applies where having regard in particular to the matter mentioned in subsection (3), the enforcing authority considers that use of the relevant premises involves or will involve a risk to relevant persons so serious that use of the relevant premises ought to be prohibited or restricted.
+
+(3) The matter is anything affecting relevant persons' escape from the relevant premises in the event of fire.
+
+(4) A prohibition notice is a notice—
+
+(a) stating that the enforcing authority considers that subsection (2) applies;
+
+(b) specifying the matters which the enforcing authority considers give rise or, as the case may be, will give rise to the risk;
+
+(c) directing that until those matters have been remedied the use to which the prohibition notice relates is—
+
+(i) prohibited; or
+
+(ii) restricted to such extent as may be specified in the notice; and
+
+(d) subject to subsection (5), specifying when the notice shall take effect.
+
+(5) An enforcing authority may specify that a notice shall take effect on service of the notice only if the authority considers that, in consequence of the matters specified under subsection (4)(b), there is or, as the case may be, will be an imminent risk of serious personal injury to relevant persons.
+
+(6) A prohibition notice may specify steps which may be taken to remedy the matters specified in the notice.
+
+(7) If relevant premises fall within paragraph (a) of subsection (5) of section 78, the enforcing authority shall, before serving the prohibition notice and if it is practicable to do so, notify the local authority in whose area the relevant premises are situated of—
+
+(a) the enforcing authority's intention to serve a prohibition notice; and
+
+(b) the use which it is intended to prohibit or, as the case may be, restrict.
+
+(8) Where an enforcing authority serves a prohibition notice on the occupier of relevant premises, the authority may, by notice in writing to the occupier, withdraw the prohibition notice.
+
+#### 64 Enforcement notices
+
+(1) Where an enforcing authority considers that a person has failed to comply with any of the Chapter 1 duties, the authority may serve an enforcement notice on the person.
+
+(2) An enforcement notice is a notice—
+
+(a) stating that the enforcing authority considers that the person on whom the notice is served has failed to comply with the Chapter 1 duty specified in the notice;
+
+(b) specifying why the authority considers that the person has failed to comply with the duty in question; and
+
+(c) requiring the person, before the expiry of the period specified in the notice (being a period of at least 28 days), to take the action so specified.
+
+(3) Where—
+
+(a) an enforcing authority (the “first enforcing authority”) proposes to serve an enforcement notice on a person; and
+
+(b) the first enforcing authority considers that the person has failed to comply with any of the Chapter 1 duties in relation to—
+
+(i) a workplace in relation to which some other authority is the enforcing authority; or
+
+(ii) employees who work in such a workplace,
+
+any enforcement notice served by the first enforcing authority may include requirements relating to that workplace or those employees.
+
+(4) Before serving an enforcement notice including a requirement such as is mentioned in subsection (3) the first enforcing authority shall consult the other enforcing authority.
+
+(5) Before serving an enforcement notice including a requirement to make an alteration to relevant premises, the enforcing authority shall consult—
+
+(a) subject to subsection (6), the person appointed under section 7(1) of the Building (Scotland) Act 2003 (asp 8) as verifier in relation to those premises;
+
+(b) if the notice relates to a workplace in relation to which the authority responsible to any extent for enforcing Part I of the Health and Safety at Work etc. Act 1974 (c. 37) and the existing statutory provisions is—
+
+(i) the Health and Safety Executive; or
+
+(ii) by virtue of Part I of that Act or the existing statutory provisions, any other authority,
+
+the Executive or, as the case may be, that other authority; and
+
+(c) any other person whose consent to the alteration would be required by virtue of any enactment.
+
+(6) If the local authority in whose area the relevant premises are situated is also in relation to those premises—
+
+(a) the enforcing authority; and
+
+(b) the person appointed under section 7(1) of the Building (Scotland) Act 2003 (asp 8) as verifier,
+
+the enforcing authority need not consult the local authority.
+
+(7) Failure to comply with subsection (4) or (5) shall not affect the validity of an enforcement notice.
+
+(8) Where an enforcing authority serves an enforcement notice on a person, the authority may—
+
+(a) before the expiry of the period specified in the notice, by notice in writing to the person withdraw the enforcement notice;
+
+(b) except where an application under section 66 has been made and not determined, extend, or further extend, the period specified in the enforcement notice.
+
+(9) In subsection (5)(b), “existing statutory provisions” has the meaning given by section 53(1) of the Health and Safety at Work etc. Act 1974 (c. 37).
+
+(10) For the purposes of this section, “Chapter 1 duties” does not include the duty imposed by section 56.
+
+#### 65 Alterations notices
+
+(1) Where subsection (2) or (3) applies in relation to relevant premises, the enforcing authority may serve an alterations notice on the appropriate person.
+
+(2) This subsection applies where there would be a serious risk to relevant persons in respect of harm caused by fire in the relevant premises.
+
+(3) This subsection applies where—
+
+(a) subsection (2) does not apply; but
+
+(b) if any of the changes mentioned in subsection (5) were made, it is likely that subsection (2) would apply.
+
+(4) An alterations notice is a notice requiring the appropriate person where—
+
+(a) it is proposed that a change mentioned in subsection (5) be made to the relevant premises; and
+
+(b) if made, the change would constitute a serious risk to relevant persons in respect of harm caused by fire in the relevant premises,
+
+to notify the enforcing authority of the change before it is made.
+
+(5) Those changes are—
+
+(a) a change to the relevant premises;
+
+(b) a change to the services, fittings or equipment on the relevant premises;
+
+(c) an increase in the quantities of dangerous substances which are present on the relevant premises; and
+
+(d) a change in the use to which the relevant premises are put (or, where they are put to more than one use, a use to which they are put).
+
+(6) An enforcing authority may include in an alterations notice provision requiring the appropriate person—
+
+(a) to keep records of such information as, by virtue of paragraph (d) of subsection (2) of section 57, is specified in regulations under subsection (1) of that section;
+
+(b) to keep records of arrangements made, in accordance with regulations under section 58(1), for the planning, organisation, control, monitoring or review of the fire safety measures;
+
+(c) if notifying the authority of a proposed change, to give the authority—
+
+(i) a copy of the assessment carried out under section 53 or, as the case may be, 54; and
+
+(ii) a summary of the changes the appropriate person proposes to make to the fire safety measures.
+
+(7) Where an enforcing authority serves an alterations notice on an appropriate person, the authority may, by notice in writing to the appropriate person, withdraw the alterations notice.
+
+(8) In this section, “appropriate person”, in relation to relevant premises, means a person subject to a requirement under section 53 or 54 in relation to the relevant premises.
+
+#### 66 Appeals
+
+(1) On the application of the person on whom a relevant notice is served or, if the relevant notice is a prohibition notice, a person who in relation to the relevant premises to which the notice relates is subject to the duties imposed by section 53 or 54, the sheriff may make an order—
+
+(a) revoking the notice;
+
+(b) varying it in such manner as may be specified in the order; or
+
+(c) confirming the notice.
+
+(2) Any application under this section shall be made before the expiry of the period of 21 days beginning with the service of the relevant notice to which the application relates.
+
+(3) If the application relates to—
+
+(a) an enforcement notice; or
+
+(b) an alterations notice,
+
+the notice shall be suspended during the relevant period.
+
+(4) If, pending the making of an order under subsection (1), the sheriff makes an order suspending a prohibition notice (a “suspension order”) the suspension order shall be effective only from its making.
+
+(5) If not recalled by the sheriff, a suspension order shall cease to have effect on—
+
+(a) the making of an order under subsection (1); or
+
+(b) the abandonment of the application under this section.
+
+(6) An application under this section shall be made by summary application.
+
+(7) In this section—
+
+- “relevant notice” means—
+
+  - (a) a prohibition notice;
+  - (b) an enforcement notice; or
+  - (c) an alterations notice; and
+
+- “relevant period” means the period beginning with the making of an application under this section and ending with—
+
+  - (a) the making of an order under subsection (1); or
+  - (b) the abandonment of the application.
+
+#### 67 Determination of disputes
+
+[[^F121](1) Subsections (1A) and (1B) apply where—
+
+(a) an enforcing authority considers that a person has failed to comply with any of the Chapter 1 duties, and
+
+(b) in relation to the duty in question, the person and the authority cannot agree on the action that requires to be taken to comply with the duty.
+
+(1A) The person and the authority may refer the matter to the person appointed under section 43A(1)(a) for determination.
+
+(1B) If the enforcing authority is SFRS, it or the person may refer the matter to the person appointed under section 43A(1)(a) for determination.]
+
+[^F122]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Scottish Ministers may by regulations make provision about references under this section.
+
+(4) Subject to subsection (5), where a determination is made by virtue of subsection [[^F123](1A) or (1B)], the enforcing authority may not—
+
+(a) serve an enforcement notice; or
+
+(b) include in such a notice directions,
+
+if the notice or, as the case may be, the directions would conflict with the determination.
+
+(5) Subsection (4) shall not apply if, after the date of the determination, the risk to relevant persons significantly increases because a change is made to—
+
+(a) the relevant premises; or
+
+(b) the use to which they are put.
+
+### Chapter 3 — Miscellaneous
+
+#### 68 Prohibition on charging employees
+
+No employer shall charge, or permit the charging of, any employee of the employer in respect of anything done or provided in pursuance of any of the Chapter 1 duties.
+
+#### 69 Civil liability for breach of statutory duty
+
+(1) Subject to subsection (2), nothing in this Part shall be construed as conferring a right of action in any civil proceedings (other than proceedings for recovery of a fine).
+
+(2) Breach of a duty imposed on an employer by virtue of this Part shall, in so far as it causes damage to an employee, confer a right of action on that employee in civil proceedings.
+
+#### 70 Consequential restriction of application of Part I of Health and Safety at Work etc. Act 1974
+
+(1) Except as respects its application in relation to the aspects of fire safety set out in paragraph (b) of the sentence on interpretation in Section H2 of Part II of Schedule 5 to the Scotland Act 1998 (c. 46) (reserved matters), Part I of the Health and Safety at Work etc. Act 1974 (c. 37) (“the 1974 Act”) and any regulations and orders made under it shall not apply in relation to fire safety.
+
+(2) Nothing in subsection (1) affects the operation of Part I of the 1974 Act or any such regulations or orders where an enforcing authority is also, for the purposes of that Part or, as the case may be, the regulations or order, an enforcing authority (as defined in section 18(7)(a) of the 1974 Act).
+
+#### 71 Suspension of terms and conditions of licences dealing with same matters as this Part
+
+(1) This section applies where—
+
+(a) an enactment provides for the licensing of—
+
+(i) premises; or
+
+(ii) a person in respect of premises;
+
+(b) the authority responsible for issuing licences under such an enactment (the “licensing authority”) is required or authorised to impose terms, conditions or restrictions in connection with the issue of such licences; and
+
+(c) such a licence is required in respect of relevant premises.
+
+(2) A term, condition or restriction imposed in connection with the issue under such an enactment of the licence shall be of no effect in so far as it relates to any matter in relation to which requirements or prohibitions are or could be imposed by virtue of this Part.
+
+(3) References in this section to the issue of licences include references to their renewal, transfer or variation.
+
+(4) References in this section to licensing include references to certifying and registering; and “licence” shall be construed accordingly.
+
+(5) This section does not apply where the licensing authority is also (other than by virtue of paragraph (c) of subsection (9) of section 61) the enforcing authority.
+
+### Chapter 4 — Offences
+
+#### 72 Offences
+
+(1) If—
+
+(a) a person fails to carry out a duty to which the person is subject by virtue of—
+
+(i) section 53;
+
+(ii) section 54; or
+
+(iii) section 55; and
+
+(b) the failure to carry out the duty in question puts a relevant person at risk of death, or serious injury, in the event of fire,
+
+the person shall be guilty of an offence.
+
+(2) If—
+
+(a) an employee fails to carry out a duty to which the employee is subject by virtue of section 56; and
+
+(b) the failure to carry out the duty in question puts a relevant person at risk of death, or serious injury, in the event of fire,
+
+the employee shall be guilty of an offence.
+
+(3) If—
+
+(a) a person fails to comply with a requirement or prohibition to which the person is subject by virtue of regulations made under section 57 or 58; and
+
+(b) the failure to comply with the requirement or prohibition in question puts a relevant person at risk of death, or serious injury, in the event of fire,
+
+the person shall be guilty of an offence.
+
+(4) It shall be an offence for a person—
+
+(a) to fail, without reasonable excuse, to comply with a requirement imposed by an enforcement officer under section 62(2)(c);
+
+(b) falsely to pretend to be an enforcement officer;
+
+(c) intentionally to obstruct an enforcement officer in the carrying out of the officer's functions under this Part;
+
+(d) intentionally to obstruct a person taken by virtue of section 62(2)(b) onto relevant premises;
+
+(e) to fail to comply with a restriction or prohibition imposed by a prohibition notice;
+
+(f) to fail to comply with a requirement imposed by—
+
+(i) an enforcement notice; or
+
+(ii) an alterations notice;
+
+(g) to contravene section 68;
+
+(h) to make in any register, book, notice or other document required by virtue of this Part to be kept, served or given an entry which the person knows to be false in a material particular;
+
+(i) to give any information which the person knows to be false in a material particular, or recklessly to give any information which is false in a material particular, where the information is given in purported compliance with a requirement to give information imposed by virtue of this Part.
+
+(5) [[^F124]Subject to subsection (5A),][^F124] a person guilty of an offence under subsection (1), (3) or (4)(e) or (f) shall be liable—
+
+(a) on summary conviction, to a fine not exceeding £20,000;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine or to both.
+
+[[^F125](5A) Where a person is guilty of an offence under subsection (1), (3) or (4)(e) or (f) in respect of relevant premises which are–
+
+(a) a ship;
+
+(b) premises occupied solely for the purposes of the armed forces of the Crown;
+
+(c) premises occupied solely by any visiting force or an international headquarters or defence organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964 (c. 5); or
+
+(d) premises which are situated within premises occupied solely for the purposes of the armed forces of the Crown but which are not themselves so occupied,
+
+paragraph (a) of subsection (5) shall apply as if for “£20,000” there were substituted level 5 on the standard scale.]
+
+[^F125]6 A person guilty of an offence under subsection (2) shall be liable—
+
+(a) on summary conviction, to a fine not exceeding level 5 on the standard scale;
+
+(b) on conviction on indictment, to a fine.
+
+(7) A person guilty of an offence under subsection (4)(a), (c), (d), (g), (h) or (i) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(8) A person guilty of an offence under subsection (4)(b) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(9) Subject to subsection (10), it shall be a defence for a person charged with an offence under this section to prove that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(10) Subsection (9) shall not apply in relation to—
+
+(a) an offence under subsection (1) in respect of a failure to comply with the duty mentioned in paragraph (a)(i) of that subsection;
+
+(b) an offence under subsection (3) in respect of a failure to comply so far as is reasonably practicable with a requirement or, as the case may be, a prohibition.
+
+(11) In any proceedings for an offence under subsection (1) in respect of a failure to comply with the duty mentioned in paragraph (a)(i) of that subsection, the onus of showing that it was not reasonably practicable to do more than was done shall be on the accused.
+
+(12) In any proceedings for an offence under subsection (3) in respect of a failure to comply so far as is practicable with a requirement or, as the case may be, a prohibition, the onus of showing that it was not practicable to do more than was done shall be on the accused.
+
+(13) In any proceedings for an offence under subsection (3) in respect of a failure to comply so far as is reasonably practicable with a requirement or, as the case may be, a prohibition, the onus of showing that it was not reasonably practicable to do more than was done shall be on the accused.
+
+#### 73 Offences by bodies corporate and partnerships
+
+(1) Where an offence under this Part committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a relevant person, the relevant person as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a relevant person.
+
+(3) Where an offence under this Part committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(4) In this section, “relevant person”, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+#### 74 Offence due to fault of other person
+
+(1) Where the commission by any person (“A”) of an offence under this Part is due to the act or default of some other person (“B”), B shall be guilty of the offence.
+
+(2) B may be charged with and convicted of an offence by virtue of subsection (1) whether or not proceedings are taken against A.
+
+#### 75 Employee's act or omission not to afford employer defence
+
+Nothing in this Part shall be construed as affording an employer a defence in any proceedings in pursuance of section 72 or 73 by reason only of any act or omission of––
+
+(a) an employee of the employer; or
+
+(b) a person of a description specified in regulations made by the Scottish Ministers on whom duties are imposed by virtue of section 58(1).
+
+### Chapter 5 — General
+
+#### 76 Service of documents
+
+(1) Any document required or authorised by virtue of this Part to be served on any person may be served—
+
+(a) by delivering it to the person or by leaving it at the person's proper address or by sending it by post to the person at that address;
+
+(b) if the person is a body corporate other than a limited liability partnership, by serving it in accordance with paragraph (a) on the secretary or clerk of the body;
+
+(c) if the person is a limited liability partnership, by serving it in accordance with paragraph (a) on a member of the partnership; or
+
+(d) if the person is a partnership, by serving it in accordance with paragraph (a) on a partner or a person having the control or management of the partnership business.
+
+(2) For the purposes of this section and paragraph 4 of Schedule 1 to the Scotland Act 1998 (Transitory and Transitional Provisions) (Publication and Interpretation etc. of Acts of the Scottish Parliament) Order 1999 (S.I. 1999/1379) (service of documents by post) (“the Order”) in its application to this section, the proper address of any person on whom a document is to be served shall be the person's last known address, except that—
+
+(a) in the case of service on a body corporate (other than a limited liability partnership), its secretary or clerk, it shall be the address of the registered or principal office of the body;
+
+(b) in the case of service on a limited liability partnership or a member of the partnership, it shall be the address of the registered or principal office of the partnership;
+
+(c) in the case of service on a partnership or a partner or a person having the control or management of a partnership business, it shall be the address of the principal office of the partnership.
+
+(3) For the purposes of subsection (2) the principal office of a company constituted under the law of a country or territory outwith the United Kingdom or of a partnership carrying on business outwith the United Kingdom is its principal office within the United Kingdom.
+
+(4) Subsection (5) applies if a person who is to be served by virtue of this Part with any document by another has specified to that other an address within the United Kingdom other than the person's proper address (as determined under subsection (2)) as the one at which the person or someone on the person's behalf will accept documents of the same description as that document.
+
+(5) In relation to that document, that address shall be treated as the person's proper address for the purposes of this section and paragraph 4 of Schedule 1 to the Order in its application to this section, instead of that determined under subsection (2).
+
+(6) The Scottish Ministers may by regulations make provision for or in connection with specifying procedures which must, or may, be followed when serving documents required or authorised by virtue of this Part to be served on any person.
+
+#### 77 Crown application
+
+(1) [[^F126]Subject to subsection (1A),][^F126] the provisions of this Part, and of regulations made under it, shall bind the Crown.
+
+[[^F127](1A) Where the enforcing authority in relation to relevant premises is the fire service maintained by the Secretary of State for Defence–
+
+(a) sections 62 and 63 shall bind the Crown only in so far as they apply in relation to relevant premises owned by the Crown but not occupied by it; and
+
+(b) sections 64 to 67 and 72 to 75 shall not bind the Crown; and
+
+(c) subsection (2) shall not apply.]
+
+[^F127]2 No contravention by the Crown of any provision of this Act or of any regulations made under it shall make the Crown criminally liable; but the Court of Session may, on the application of an enforcing authority, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(3) Notwithstanding subsection (2), the provisions of this Part and of regulations made under it shall apply to persons in the public service of the Crown as they apply to other persons.
+
+(4) Nothing in this Part authorises the entry of any relevant premises occupied by the Crown.
+
+(5) Nothing in this section affects Her Majesty in Her private capacity.
+
+(6) This Part shall apply in relation to relevant premises owned or occupied by the Parliamentary corporation as it applies in relation to relevant premises owned or occupied by the Crown.
+
+#### 77A [[^F128]Application to visiting forces etc.
+
+The provisions of this Part, and of regulations made under it, shall apply in relation to a visiting force or an international headquarters or defence organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964 (c. 5) to the same extent that they bind the Crown where the enforcing authority in relation to relevant premises is the fire service maintained by the Secretary of State for Defence.]
+
+#### 78 Meaning of “relevant premises”
+
+(1) In this Part, “relevant premises” means any premises other than those mentioned in subsection (2).
+
+(2) Those premises are—
+
+(a) domestic premises;
+
+(b) [^F129]... [^F130]... mines and offshore installations;
+
+[[^F131](ba) ships in respect of the normal ship-board activities of a ship's crew which are carried out solely by the crew under the direction of the master;]
+
+[^F132]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) borehole sites to which the Borehole Sites and Operations Regulations 1995 (S.I. 1995/2038) apply;
+
+[^F133]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F133]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F133]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) if the undertaking carried on in premises is agriculture or forestry, any land other than buildings which is situated away from the undertaking's buildings.
+
+(3) For the purposes of subsection (1), “premises” includes in particular—
+
+(a) any place;
+
+(b) any installation on land;
+
+[[^F134](ba) ships (other than as mentioned in subsection (2)(ba));
+
+(bb) premises occupied solely for the purposes of the armed forces of the Crown;
+
+(bc) premises occupied solely by any visiting force or an international headquarters or defence organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964 (c. 5);
+
+(bd) premises which are situated within premises occupied solely for the purposes of the armed forces of the Crown but which are not themselves so occupied;]
+
+(c) any tent or movable structure; and
+
+(d) vehicles other than those mentioned in subsection (6).
+
+(4) In paragraph (a) of subsection (2), “domestic premises” means premises occupied as a private dwelling (including a stair, passage, garden, yard, garage, outhouse or other appurtenance of such premises which is used in common by the occupants of more than one such dwelling); but does not include premises such as are mentioned in subsection (5).
+
+(5) Those premises are—
+
+(a) [[^F135]a house or other premises which require] [[^F136]to be licensed under Part 5 of the Housing (Scotland) Act 2006 (asp 1)];
+
+(b) premises used for the provision of a care home service (as defined in [[^F137]paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010](asp 8));
+
+(c) premises used for the provision of a school care accommodation service (as defined in [[^F138]paragraph 3 of schedule 12 to the Public Services Reform (Scotland) Act 2010 except where the service is provided as mentioned in sub-paragraph (1)(c)(ii) of that paragraph;]
+
+(d) premises used for the provision of an independent health care service (as defined in [[^F139]section 10F(1) (a) - (d) of the National Health Service (Scotland) Act 1978]);
+
+(e) premises used for the provision of a secure accommodation service (as defined in [[^F140]paragraph 6 of schedule 12 to the Public Services Reform (Scotland) Act 2010]);
+
+[^F141]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) premises which would fall within paragraph (a) but for there being in force in respect of them a management control order granted by virtue of section 74 of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8);
+
+[[^F142](h) premises used for the provision of a child minding service (as defined in paragraph 12 of schedule 12 to the Public Services Reform (Scotland) Act 2010).]
+
+[[^F143](5A) In subsection (2)(ba) “normal ship-board activities” includes the repair of a ship (other than repair carried out in dry dock).]
+
+(6) The vehicles referred to in subsection (3)(d) are—
+
+(a) any aircraft, locomotive, rolling stock, trailer or semi-trailer used as a means of transport;
+
+(b) any vehicle for which a licence is in force under the Vehicle Excise and Registration Act 1994 (c. 22);
+
+(c) any vehicle which is exempt from duty under that Act.
+
+(7) References in this Part to relevant premises include references to a part of relevant premises.
+
+(8) The Scottish Ministers may by regulations modify subsections (1) to (6).
+
+(9) Where the Scottish Ministers exercise the power in subsection (8), they may by regulations make any modifications of this Part in its application, in consequence of the exercise of that power, to relevant premises specified in the regulations under that subsection that they consider necessary or expedient.
+
+#### 79 Interpretation of Part 3
+
+(1) In this Part, unless the context otherwise requires—
+
+- “Chapter 1 duties” means—
+
+  - (a) the duties imposed by sections 53, 54, 55 and 56; and
+  - (b) any duties imposed by regulations made under section 57 or 58;
+
+- “employee” has the meaning given by section 53(1) of the Health and Safety at Work etc. Act 1974 (c. 37); and related expressions shall be construed accordingly;
+
+- “enforcement officer” means an enforcement officer appointed under section 61(3);
+
+- “enforcing authority” has the meaning given by section 61(9);
+
+- “fire safety measures” shall be construed in accordance with schedule 2;
+
+- [^F144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “operational task” means—
+
+  - (a) a function such as is mentioned in paragraph (a) or (b) of subsection (1) of section 9;
+  - (b) a function such as is mentioned in paragraph (a) or (b) of subsection (1) of section 10; or
+  - (c) a function such as is mentioned in an order under section 11(1);
+
+- “public road” has the meaning given by section 151(1) of the Roads (Scotland) Act 1984 (c. 54);
+
+- “relevant person”, in relation to premises, means—
+
+  - (a) any person who is, or may be, lawfully in the premises; or
+  
+  - (b) any person—
+  
+    - (i) who is, or may be, in the immediate vicinity of the premises; and
+    - (ii) whose safety would be at risk in the event of fire in the premises;
+
+  but does not include an employee of [[^F145]SFRS] who is engaged in the performance of an operational task and, in its application to section 54, a person such as is mentioned in subsection (2);
+
+- [[^F146]“ship” includes every description of vessel used in navigation and hovercraft within the meaning of the Hovercraft Act 1968 (c. 59) (and, in section 61(9)(za)(iii), includes a ship belonging to Her Majesty which forms part of Her Majesty's Navy);]
+
+- “work” and “at work” shall be construed in accordance with section 52 of the Health and Safety at Work etc. Act 1974 (c. 37);
+
+- “workplace”, in relation to an employer and the employer's employees, means any relevant premises which are used for the purposes of an undertaking carried on by the employer and made available to an employee of the employer as a place of work; and includes—
+
+  - (a) any part of those premises to which an employee of the employer has access while at work;
+  
+  - (b) any relevant premises (other than a public road)—
+  
+    - (i) which are a means of access to or egress from the place of work; or
+    - (ii) where facilities are provided for use in connection with the place of work.
+
+(2) The person is, where the person (“the employer”) subject to the requirement to carry out an assessment (or a review) under section 54 is also subject to the requirement to carry out an assessment (or a review) under section 53, any employee of the employer.
+
+(3) For the purposes of section 56 references in the definition of “relevant person” in subsection (1) to premises shall be construed as references to the workplace.
+
+## Part 4 — Miscellaneous
+
+### 80 Inquiries
+
+The Scottish Ministers may cause an inquiry to be held into—
+
+(a) the manner in which [[^F147]SFRS] is carrying out any of its functions under this Act;
+
+(b) the circumstances of, or the steps taken to deal with—
+
+(i) a fire;
+
+(ii) a road traffic accident; or
+
+(iii) an emergency of another kind in relation to which [[^F148]SFRS] has functions under this Act.
+
+### 81 Inquiries: supplementary
+
+(1) The Scottish Ministers may by regulations make provision in connection with inquiries under this Act.
+
+(2) The reference in subsection (1) to inquiries does not include inquiries mentioned in section [[^F149]43B].
+
+(3) Regulations under subsection (1) may in particular make provision for or in connection with—
+
+(a) the persons who may conduct an inquiry and their appointment to do so;
+
+(b) the giving of notice of an inquiry;
+
+(c) requiring persons to attend an inquiry—
+
+(i) to give evidence; or
+
+(ii) to produce documents;
+
+(d) the taking of evidence on oath;
+
+(e) the payment of expenses—
+
+(i) of witnesses; and
+
+(ii) of or concerning the production of documents;
+
+(f) the making of awards of expenses in respect of—
+
+(i) an inquiry; or
+
+(ii) arrangements made for an inquiry which does not take place;
+
+(g) what expenses may be included in such awards;
+
+(h) how expenses are to be calculated; and
+
+(i) recovery of expenses.
+
+### Consultation requirements
+
+#### 82 Pre-commencement consultation
+
+Where—
+
+(a) consultation is required to take place under a provision of this Act; and
+
+(b) before the provision comes into force, consultation takes place which would have satisfied the requirements of the provision to any extent if it had been in force,
+
+those requirements shall be taken to have been satisfied to that extent.
+
+### Advisory bodies
+
+#### 83 Payments in respect of advisory bodies
+
+(1) The Scottish Ministers may make any payments they consider appropriate in respect of the expenses of a body established for the purpose of advising them on any matter in relation to which provision is made by this Act.
+
+(2) The Scottish Ministers may make a payment under this section—
+
+(a) to any person; and
+
+(b) subject to any conditions,
+
+they consider appropriate.
+
+#### 84 Abolition of Scottish Central Fire Brigades Advisory Council
+
+The Scottish Central Fire Brigades Advisory Council is hereby abolished.
+
+### False alarms
+
+#### 85 False alarms
+
+(1) A person who knowingly gives or causes to be given to a person acting on behalf of [[^F150]SFRS] a false alarm of—
+
+(a) fire;
+
+(b) a road traffic accident; or
+
+(c) an emergency of another kind,
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction—
+
+(a) to a fine not exceeding level 5 on the standard scale;
+
+(b) to imprisonment for a term not exceeding 3 months; or
+
+(c) to both.
+
+### Disposal of land
+
+#### 86 Disposal of land
+
+[[^F151]SFRS] may sell or dispose of any land vested in it which is no longer required by it.
+
+## Part 5 — General
+
+### 86A [[^F152]Interpretation
+
+(1) In this Act––
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39); and “area” in relation to a local authority, means the local government area for which the authority is constituted,
+- “SFRS” has the meaning given by section 1A(1).
+
+(2) References in this Act to the area of SFRS are to be construed as references to Scotland, but taking the seaward boundary of the area to be the low water mark.]
+
+### 87 Ancillary provision
+
+(1) The Scottish Ministers may by order make such incidental, supplementary, consequential, transitory, transitional or saving provision as they consider appropriate for the purposes of, in consequence of or for giving full effect to this Act or any provision of it.
+
+(2) An order under subsection (1) may modify any enactment, instrument or document.
+
+### 88 Orders and regulations
+
+(1) Any power conferred by this Act on the Scottish Ministers to make orders or regulations shall be exercisable by statutory instrument.
+
+(2) Any power conferred by this Act on the Scottish Ministers to make orders or regulations—
+
+(a) may be exercised so as to make different provision for different purposes; and
+
+(b) includes power to make such incidental, supplementary, consequential, transitory, transitional or saving provision as the Scottish Ministers consider appropriate.
+
+(3) A statutory instrument containing an order or regulations made under this Act (other than an order under section 90) shall, subject to subsection (4), be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(4) A statutory instrument containing—
+
+[^F153]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an order under section 87(1) modifying an enactment; or
+
+(c) regulations under section 60(2)(c), 61(10), 78(8) or (9) or 81,
+
+shall not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+### 89 Minor and consequential amendments and repeals
+
+(1) Schedule 3, which contains minor amendments and amendments consequential on the provisions of this Act, shall have effect.
+
+(2) The enactments mentioned in the first column of schedule 4 (which include enactments that are spent) are repealed to the extent set out in the second column.
+
+### 90 Commencement
+
+This Act, other than this section and section 88, shall come into force on such day as the Scottish Ministers may by order appoint.
+
+### 91 Short title
+
+This Act may be cited as the Fire (Scotland) Act 2005.
+
+## [^F154]SCHEDULE 1 — Joint fire and rescue boards: supplementary provision
+
+*(introduced by section 4)*
+
+### [^F154]Status
+
+**[^F154]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F154]General powers
+
+**[^F154]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F154]Pensions
+
+**[^F154]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F155]SCHEDULE 1A — The Scottish Fire and Rescue Service
+
+*(introduced by section 1A(3))*
+
+### Status
+
+**1** (1) SFRS—
+
+(a) is not a servant or agent of the Crown, and
+
+(b) has no status, immunity or privilege of the Crown.
+
+(2) SFRS's property is not property of, or property held on behalf of, the Crown.
+
+### Membership
+
+**2** (1) SFRS is to consist of—
+
+(a) a member appointed by the Scottish Ministers to chair SFRS (“the chairing member”), and
+
+(b) not fewer than 10 nor more than 14 other members appointed by the Scottish Ministers.
+
+(2) The Scottish Ministers may appoint as members only persons who they consider to have skills and expertise relevant to the functions of SFRS.
+
+(3) The Scottish Ministers may by order modify sub-paragraph (1)(b) by substituting for the minimum or maximum number of members for the time being specified such other number as they think fit.
+
+(4) Members of SFRS may elect from their number a member to act as deputy to the chairing member.
+
+### Disqualification
+
+**3** (1) A person is disqualified from appointment, and from holding office, as a member of SFRS if that person is or becomes—
+
+(a) a member of staff of SFRS,
+
+(b) a member of
+
+(i) the Scottish Parliament,
+
+(ii) the House of Lords,
+
+(iii) the House of Commons, or
+
+(iv) the European Parliament,
+
+(c) disqualified from standing for election as a member of
+
+(i) the Scottish Parliament,
+
+(ii) the House of Commons, or
+
+(iii) a local authority.
+
+(2) The Scottish Ministers may by order modify sub-paragraph (1).
+
+### Tenure
+
+**4** (1) A member is to be appointed for a period not exceeding 4 years specified in the appointment.
+
+(2) A member holds and vacates office on such terms and conditions as the Scottish Ministers may determine.
+
+(3) On ceasing to be a member, a person is eligible for reappointment.
+
+(4) A member may, by notice in writing to the Scottish Ministers, resign office as a member.
+
+### Removal from office
+
+**5** (1) The Scottish Ministers may remove a member from office if—
+
+(a) the member is an undischarged bankrupt,
+
+(b) the member has, without reasonable excuse, been absent from meetings of SFRS for a period longer than 4 consecutive months,
+
+(c) the member has, without reasonable excuse, been absent from 3 consecutive meetings of SFRS,
+
+(d) the member has been convicted (whether before or after the member's appointment) of a criminal offence,
+
+(e) the member has failed to comply with the terms or conditions of the member's appointment,
+
+(f) the Scottish Ministers consider that the member is otherwise unfit to be a member or is unable for any reason to carry out the member's functions.
+
+(2) For the purposes of sub-paragraph (1)(a), “undischarged bankrupt” means a person—
+
+(a) whose estate has been sequestrated and who has not been discharged (or against whom a bankruptcy order has been made and is still in force),
+
+(b) who has granted a trust deed for, or made a composition or arrangement with, creditors (and has not been discharged in respect of it),
+
+(c) who is the subject of a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 (c.66)[[^F156], the Bankruptcy (Scotland) Act 2016] or the Insolvency Act 1986 (c.45),
+
+(d) who is the subject of a bankruptcy restrictions undertaking entered into under [[^F157]paragraph 7 of Schedule 4A to the Insolvency Act 1986],
+
+(e) who has been adjudged bankrupt (and has not been discharged), or
+
+(f) who is subject to any other kind of order, arrangement or undertaking analogous to those mentioned in paragraphs (a) to (d), anywhere in the world.
+
+### Remuneration, allowances and expenses of members
+
+**6** SFRS may pay to its members such remuneration, allowances and expenses as the Scottish Ministers may determine.
+
+### The Chief Officer
+
+**7** (1) SFRS must employ a Chief Officer.
+
+(2) The Chief Officer may not be a member of SFRS.
+
+(3) The first Chief Officer is to be appointed by the Scottish Ministers on such terms and conditions as they may determine.
+
+(4) Each subsequent appointment of a person as the Chief Officer is to be made by SFRS.
+
+(5) The appointment of a person under sub-paragraph (4) is subject to the approval of the Scottish Ministers.
+
+(6) The terms and conditions of a person appointed under sub-paragraph (4) are to be determined by SFRS.
+
+### SFRS's employees
+
+**8** (1) SFRS may employ staff.
+
+(2) Staff are to be employed on terms and conditions determined by SFRS.
+
+(3) SFRS may pay or make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who is, or has ceased to be, a member of staff (including the Chief Officer).
+
+(4) The reference in sub-paragraph (3) to pensions, allowances and gratuities includes pensions, allowances and gratuities by way of compensation for loss of employment.
+
+(5) The arrangements mentioned in sub-paragraph (3) may include—
+
+(a) the making of contributions or payments towards provision for pensions, allowances or gratuities mentioned there, and
+
+(b) the establishment and administration of pension schemes.
+
+### Committees and sub-committees
+
+**9** (1) SFRS may establish committees for any purpose.
+
+(2) Any committee so established may establish sub-committees.
+
+(3) The members of any committee or sub-committee may include persons who are not members of SFRS but such persons are not entitled to vote at meetings.
+
+(4) A committee or sub-committee must not consist entirely of persons who are not members of SFRS.
+
+(5) SFRS may pay such remuneration, allowances and expenses as are determined by SFRS to a member of a committee or sub-committee who is not—
+
+(a) a member of SFRS, or
+
+(b) a member of staff of SFRS.
+
+### Procedure
+
+**10** (1) SFRS may regulate—
+
+(a) its own procedure (including quorum), and
+
+(b) the procedure (including quorum) of its committees and sub-committees.
+
+(2) The validity of any proceedings or acts of SFRS is not affected by any—
+
+(a) vacancy in its membership,
+
+(b) defect in the appointment of a member,
+
+(c) disqualification of a person as a member after appointment.
+
+### Public access
+
+**11** (1) SFRS must ensure that its proceedings and those of its committees and sub-committees are held in public.
+
+(2) Despite sub-paragraph (1), SFRS or, as the case may be, any of its committees or sub-committees may decide to hold all or part of any proceedings in private.
+
+(3) SFRS must publish—
+
+(a) agendas for its proceedings and those of its committees and sub-committees,
+
+(b) the papers relating to those proceedings,
+
+(c) such reports of those proceedings as it thinks fit.
+
+(4) Despite sub-paragraph (3), SFRS may decide that all or part of any agenda, paper or report need not be published.
+
+(5) SFRS must publish a statement setting out—
+
+(a) the circumstances in which its proceedings and those of its committees and sub-committees may be held in private, and
+
+(b) the circumstances in which agendas, papers and reports need not be published.
+
+### Governance and accountability
+
+**12** SFRS must try to ensure that each of its members, when acting in the capacity of member—
+
+(a) acts consistently with any principle of good governance which appears to SFRS to constitute best practice, and
+
+(b) acts in a way which is as accountable and transparent as is reasonably practicable.
+
+### SFRS's general powers
+
+**13** (1) SFRS may do anything that it considers appropriate for the purposes of, or in connection with, the carrying out of its functions.
+
+(2) SFRS may in particular—
+
+(a) enter into contracts,
+
+(b) borrow money,
+
+(c) acquire and dispose of land and other property,
+
+(d) with the authorisation of the Scottish Ministers, purchase compulsorily land,
+
+(e) form or promote (whether alone or with another) companies under the Companies Act 2006 (c.46).
+
+(3) SFRS may not exercise the power in sub-paragraph (2)(b) or (e) without the consent of the Scottish Ministers.
+
+(4) For the purposes of sub-paragraph (3) consent may be given—
+
+(a) with respect to a particular case or class of case,
+
+(b) subject to such conditions as the Scottish Ministers consider appropriate.
+
+(5) The power in sub-paragraph (2)(c) includes the power to accept, on such conditions as SFRS considers appropriate—
+
+(a) gifts of money, and
+
+(b) gifts or loans of other property.
+
+(6) The powers in sub-paragraph (2)(c) and (d) to acquire and purchase land include power to acquire a servitude or other right in or over land by the creation of a new right.
+
+(7) The Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c.42) applies in relation to the compulsory purchase of land under sub-paragraph (2)(d) as if—
+
+(a) that sub-paragraph were contained in an Act in force immediately before the commencement of that Act, and
+
+(b) SFRS were a local authority.
+
+### Delegation of functions
+
+**14** (1) SFRS may delegate any of its functions to a person mentioned in sub-paragraph (2).
+
+(2) Those persons are—
+
+(a) the Chief Officer,
+
+(b) any other member of staff of SFRS,
+
+(c) any of its committees.
+
+(3) Sub-paragraph (1) does not affect—
+
+(a) SFRS's responsibility for the carrying out of the delegated functions, or
+
+(b) SFRS's ability to carry out the delegated functions.
+
+### Location of principal office premises
+
+**15** Any determination by SFRS as to the location of the principal office premises of its members or its Chief Officer is subject to the approval of the Scottish Ministers.
+
+### Grants
+
+**16** (1) The Scottish Ministers may make grants to SFRS of such amounts as they may determine.
+
+(2) A grant is made subject to any conditions specified by the Scottish Ministers (including conditions about repayment).
+
+### Accounts
+
+**17** (1) SFRS must—
+
+(a) keep proper accounts and accounting records, and
+
+(b) prepare for each financial year a statement of accounts.
+
+(2) Each statement of accounts must comply with any directions given by the Scottish Ministers as to—
+
+(a) the information to be contained in it,
+
+(b) the manner in which the information is to be presented,
+
+(c) the methods and principles according to which the statement is to be prepared.
+
+(3) SFRS must send each statement of accounts to the Auditor General for Scotland for auditing.
+
+(4) In this paragraph, “financial year” means—
+
+(a) the period beginning on the day on which SFRS is established and ending on 31 March next occurring, and
+
+(b) each subsequent period of a year ending on 31 March.]
+
+## SCHEDULE 2 — Fire safety measures
+
+*(introduced by section 53(4))*
+
+**1** Subject to paragraph 2, the fire safety measures are—
+
+(a) measures to reduce the risk of—
+
+(i) fire in relevant premises; and
+
+(ii) the risk of the spread of fire there;
+
+(b) measures in relation to the means of escape from relevant premises;
+
+(c) measures for securing that, at all material times, the means of escape from relevant premises can be safely and effectively used;
+
+(d) measures in relation to the means of fighting fires in relevant premises;
+
+(e) measures in relation to the means of—
+
+(i) detecting fires in relevant premises; and
+
+(ii) giving warning in the event of fire, or suspected fire, in relevant premises;
+
+(f) measures in relation to the arrangements for action to be taken in the event of fire in relevant premises (including, in particular, measures for the instruction and training of employees and for mitigation of the effects of fire); and
+
+(g) such other measures in relation to relevant premises as may be prescribed by the Scottish Ministers by regulations.
+
+**2** Nothing in paragraph 1 shall be construed as including process fire precautions.
+
+## SCHEDULE 3 — Minor and consequential amendments
+
+*(introduced by section 89(1))*
+
+### The Civil Defence Act 1948 (c. 5)
+
+**1** (1) The Civil Defence Act 1948 shall be amended as follows.
+
+(2) In subsection (1)(b) of section 1 (civil defence functions of Ministers), for “fire brigades” substitute “ employees of relevant authorities (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5) ”.
+
+(3) In section 5(civil defence obligations)—
+
+(a) for “and fire brigades” substitute “ , employees of relevant authorities (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) ”;
+
+(b) the words “and brigades” are repealed; and
+
+(c) for “respectively” substitute “ and by employees of relevant authorities (as so defined) ”.
+
+(4) In section 9(1)(interpretation) the definition of “fire brigade” is repealed.
+
+### The Pipe-lines Act 1962 (c. 58)
+
+**2** In section 37 of the Pipe-lines Act 1962 (persons to be notified of certain pipe-line accidents)—
+
+(a) in each of subsections (1)(a) and (2)(a), after “fire” insert “ and rescue authority ”; and
+
+(b) in subsection (4), for paragraph (a) substitute—
+
+> (a) “fire and rescue authority”, in relation to any area, means a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) for the area;
+
+.
+
+### The Gas Act 1965 (c. 36)
+
+**3** (1) The Gas Act 1965 shall be amended as follows.
+
+(2) In section 17 (provisions in relation to gas-related accidents), in subsection (5)(a) for “fire authority” substitute “ fire and rescue authority ”.
+
+(3) In section 28(1) (interpretation), for the definition of “fire authority” substitute—
+
+> “fire and rescue authority” means a relevant authority as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5);
+
+.
+
+### The Transport Act 1968 (c. 73)
+
+**4** In section 102(4) of the Transport Act 1968 (application to the Crown and exemptions)—
+
+(a) the words “or fire brigade” are repealed; and
+
+(b) after “purposes” insert “ or for or in connection with the exercise of any function of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) ”.
+
+### The Local Government (Scotland) Act 1973 (c. 65)
+
+**5** In section 63A of the Local Government (Scotland) Act 1973 (disapplication of sections 62A to 62C in relation to fire authorities), after “fire” insert “ and rescue ”.
+
+### The Control of Pollution Act 1974 (c. 40)
+
+**6** In subsection (2)(a) of section 62 of the Control of Pollution Act 1974 (restrictions on use of loudspeakers in streets)—
+
+(a) the words “, fire brigade” are repealed; and
+
+(b) after “purposes,” insert “ for or in connection with the exercise of any function of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)), ”.
+
+### The Local Government (Scotland) Act 1975 (c. 30)
+
+**7** (1) The Local Government (Scotland) Act 1975 shall be amended as follows.
+
+(2) For paragraph (a) of section 23(2) (authorities subject to investigation) substitute—
+
+> (a) any joint fire and rescue board constituted by an amalgamation scheme under section 2 of the Fire (Scotland) Act 2005 (asp 5);
+
+.
+
+(3) In subsection (3)(b) of section 29A (consideration of adverse reports), for “fire” substitute “ joint fire and rescue boards ”.
+
+### The Licensing (Scotland) Act 1976 (c. 66)
+
+**8** (1) The Licensing (Scotland) Act 1976 shall be amended as follows.
+
+(2) In each of—
+
+(a) subsection (1)(e) of section 16 (objections in relation to licence applications);
+
+(b) subsections (5) and (6) of section 23 (special provisions relating to applications for a new licence);
+
+(c) subsection (1) of section 24 (special provisions relating to applications for renewal of a licence);
+
+(d) subsection (3) of section 35 (consent of licensing board required for works to certain licensed premises); and
+
+(e) subsection (2)(c) of section 105 (procedure on application for grant or renewal of registration),
+
+after “fire” insert “ and rescue ”.
+
+(3) In subsection (1) of section 139 (interpretation), for the definition of “fire authority” substitute—
+
+> “fire and rescue authority” means a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5));
+
+.
+
+### The Water (Scotland) Act 1980 (c. 45)
+
+**9** (1) The Water (Scotland) Act 1980 shall be amended as follows.
+
+(2) In section 109(1) (interpretation), in the definition of “fire authority” for the words from “has” to the end substitute “ means a relevant authority as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5) ”.
+
+(3) In section 1(1) of Schedule 4 (provisions incorporated in orders relating to water undertakings), in the definition of “fire authority” for the words from “has” to the end substitute “ means a relevant authority as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5) ”.
+
+### The Local Government, Planning and Land Act 1980 (c. 65)
+
+**10** In subsection (1) of section 2 of the Local Government, Planning and Land Act 1980 (local authorities to whom a duty to publish information applies), for paragraph (h) substitute—
+
+> (h) a joint fire and rescue board constituted by an amalgamation scheme under section 2 of the Fire (Scotland) Act 2005 (asp 5);
+
+.
+
+### The Civic Government (Scotland) Act 1982 (c. 45)
+
+**11** In section 54 of the Civic Government (Scotland) Act 1982 (playing instruments, singing, playing radios etc.)—
+
+(a) in paragraph (a) of subsection (3), for “fire brigade” substitute “ fire-fighting ”; and
+
+(b) after that subsection insert—
+
+> (4) In subsection (3)(a), the reference to fire-fighting purposes is a reference to—
+>
+> (a) the purposes of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)); or
+>
+> (b) fire-fighting functions of any other employer of fire-fighters.
+
+.
+
+### The Road Traffic Regulation Act 1984 (c. 27)
+
+**12** In section 87 of the Road Traffic Regulation Act 1984 (exemptions from speed limits)—
+
+(a) the words “fire brigade,” shall be repealed; and
+
+(b) after “purposes” insert “ or for or in connection with the exercise of any function of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) ”.
+
+### The Housing (Scotland) Act 1987 (c. 26)
+
+**[^F158]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Housing (Scotland) Act 1988 (c. 43)
+
+**14** In the Housing (Scotland) Act 1988—
+
+(a) for sub-paragraph (vii) of subsection (3)(a) of section 43 (conditions necessary to make a tenancy a housing association tenancy or secure tenancy) substitute—
+
+> (vii) a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5);
+
+; and
+
+(b) for paragraph (g) of subsection (4) of section 45 (certain tenancies not to be capable of being protected or secure tenancies) substitute—
+
+> (g) a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5);
+
+.
+
+### The Tay Road Bridge Order Confirmation Act 1991 (c.iv)
+
+**15** In the Schedule (Provisional Order confirmed by Act) to the Tay Road Bridge Order Confirmation Act 1991, in paragraph (b) of subsection (2) of section 54, for the words from “a” where it first occurs to the end of that paragraph substitute “ an employee of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) ”.
+
+### The Strathclyde Regional Council Order Confirmation Act 1991 (c.xx)
+
+**16** In the Schedule to the Strathclyde Regional Council Order Confirmation Act 1991, in paragraph (a) of subsection (8) of section 3—
+
+(a) the word “, fire” shall be repealed; and
+
+(b) after “services” insert “ , or by a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) ”.
+
+### The Local Government etc. (Scotland) Act 1994 (c. 39)
+
+**17** In subsection (4) of section 43 (guidance as to exercise of traffic powers) of the Local Government etc. (Scotland) Act 1994, for paragraph (b) substitute—
+
+> (b) the relevant authorities (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5));
+
+.
+
+### The Merchant Shipping Act 1995 (c. 21)
+
+**18** In section 135(1) of the Merchant Shipping Act 1995 (restrictions on transfer of oil at night), for “fire brigade” substitute “ relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) or any other employer of fire-fighters ”.
+
+### The Scottish Borders Council (Jim Clark Memorial Rally) Order Confirmation Act 1996 (c.xii)
+
+**19** In the Schedule to the Scottish Borders Council (Jim Clark Memorial Rally) Order Confirmation Act 1996, in subsection (9) of section 6 for “the fire service” substitute “ a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) ”.
+
+### The Housing (Scotland) Act 2001 (asp 10)
+
+**20** In paragraph 2 of schedule 1 to the Housing (Scotland) Act 2001 (tenancies which are not Scottish secure tenancies)—
+
+(a) in sub-paragraph (b), for the words from “a” where it first occurs to “(c.41)” substitute “ an employee of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) ”; and
+
+(b) in sub-paragraph (c), for “fire brigade” substitute “ authority ”.
+
+### The Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**21** For paragraph 13 of schedule 2 to the Scottish Public Services Ombudsman Act 2002 (listed authorities) substitute—
+
+> **13** A joint fire and rescue board constituted by an amalgamation scheme made under section 2(1) of the Fire (Scotland) Act 2005 (asp 5).
+
+.
+
+### The Freedom of Information (Scotland) Act 2002 (asp 13)
+
+**22** In schedule 1 to the Freedom of Information (Scotland) Act 2002 (Scottish public authorities), for paragraph 9, substitute “ Her Majesty's Chief Inspector of Fire and Rescue Authorities ”.
+
+### The Local Government in Scotland Act 2003 (asp 1)
+
+**23** (1) The Local Government in Scotland Act 2003 shall be amended as follows.
+
+(2) In subsection (1)(d) of section 16 (community planning: further provision), for the words from “board” to the end of that paragraph substitute “ fire board ”.
+
+(3) In subsection (9) of section 22 (limits on power to advance well-being), at the beginning insert “ Subject to section 16(3) of the Fire (Scotland) Act 2005 (asp 5), ”.
+
+(4) In section 25 (scrutiny of local authorities' police and fire functions)—
+
+(a) in subsection (2)—
+
+(i) for “Services for Scotland” substitute “ and Rescue Authorities ”;
+
+(ii) for “24 of the Fire Services Act 1947 (c. 41)” substitute “ 43 of the Fire (Scotland) Act 2005 (asp 5) ”;
+
+(iii) in paragraph (a), after “fire” insert “ and rescue ”; and
+
+(b) in subsection (3)(a), after “fire” insert “ and rescue ”.
+
+(5) In section 61 (definitions), in the definition of “joint fire board” for the words from “board”, where it secondly occurs, to the end substitute “ and rescue board constituted by an amalgamation scheme made under section 2(1) of the Fire (Scotland) Act 2005 (asp 5) ”.
+
+### The Fire and Rescue Services Act 2004 (c. 21)
+
+**24** In subsection (10) of section 34 of the Fire and Rescue Services Act 2004 (pensions etc.), for the words from “fire”, where it secondly occurs, to the end substitute “ relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)). ”.
+
+### The Emergency Workers (Scotland) Act 2005 (asp 2)
+
+**25** In section 7 of the Emergency Workers (Scotland) Act 2005 (savings for certain offences), the words from “or section 30” to the end are repealed.
+
+## SCHEDULE 4 — Repeals
+
+*(introduced by section 89(2))*
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| The Fire Services Act 1947 (c. 41) | The whole Act except sections 26 to 27A. |
+| The Fire Services Act 1959 (c. 44) | The whole Act except sections 8 to 10. |
+| The Town and Country Planning (Scotland) Act 1959 (c. 70) | In paragraph 2 of the Fourth Schedule, the words “the Fire Services Act, 1947;”. |
+| The Local Government (Scotland) Act 1973 (c. 65) | Section 56(9)(a). Section 64(5)(a). Section 147. |
+| The Roads (Scotland) Act 1984 (c. 54) | Paragraph 34 of Schedule 9. |
+| The New Roads and Street Works Act 1991 (c. 22) | Paragraph 99 of Schedule 8. |
+| The Local Government etc. (Scotland) Act 1994 (c. 39) | Section 36. Section 55(8). In section 55(12), the words from “, any” where it secondly occurs to “1947”. Paragraph 27 of Schedule 13. |
+| The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40) | The entries relating to the Fire Services Act 1947 (c. 41) in the table in each of Parts II and III of Schedule 2. |
+| The Merchant Shipping and Maritime Security Act 1997 (c. 28) | Section 4. |
+| The Police and Fire Services (Finance) (Scotland) Act 2001 (asp 15) | Section 2. |
+| The Water Industry (Scotland) Act 2002 (asp 3) | Paragraph 1 of schedule 7. |
+| The Local Government in Scotland Act 2003 (asp 1) | Section 11(2). |
+
+---
+
+[^F1]: Pt. 1 heading substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F2]: S. 1 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F3]: S. 1A inserted (8.8.2012 for the purpose of inserting s. 1A(1)(3), 1.4.2013 in so far as not already in force) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 101(1), 129(1)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F4]: Ss. 2-7 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F5]: Words in s. 8(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 102(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F6]: Words in s. 8(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 102(b)(i), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F7]: Word in s. 8(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 102(b)(ii), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F8]: Words in s. 9(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 104(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F9]: Words in s. 9(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 104(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F10]: Words in s. 10(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 105(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F11]: Words in s. 10(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 105(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F12]: Words in s. 11(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 106(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F13]: Word in s. 11(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 106(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F14]: Words in s. 11(3) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 106(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F15]: S. 12 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F16]: Word in s. 13(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 107(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F17]: Word in s. 13(2)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 107(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F18]: Word in s. 14(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 108(a)(i), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F19]: Word in s. 14(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 108(a)(ii), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F20]: Word in s. 14(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 108(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F21]: Word in s. 15 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 109(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F22]: Words in s. 15 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 109(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F23]: Word in s. 16(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 110(a)(i), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F24]: Word in s. 16(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 110(a)(ii), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F25]: Word in s. 16(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 110(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F26]: Words in s. 16(3) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 110(c), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F27]: Words in s. 16(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 110(d)(i), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F28]: Words in s. 16(4) inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 110(d)(ii), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F29]: Word in s. 16(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 110(d)(iii), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F30]: S. 16(5)(6) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F31]: S. 16(7) inserted (2.8.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(b), 2(2); S.S.I. 2005/392, art. 2(c)(d)
+[^F32]: S. 16A inserted (2.8.2005 in accordance with art. 1(2)(b) of the amending S.I.) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), art. 2(3); S.S.I. 2005/392, art. 2(c)(d) and said inserted provision expressed to be commenced on 1.10.2006 by S.S.I. 2006/458, art. 2(a) (subject to art. 3)
+[^F33]: Word in s. 16A(1) substituted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 47
+[^F34]: Word in s. 17(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(3)(a)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F35]: Word in s. 17(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(3)(a)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F36]: Word in s. 17(2)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(3)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F37]: Word in s. 17(2)(e) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(3)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F38]: Word in s. 17(2)(f) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(3)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F39]: Word in s. 18(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(4)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F40]: Word in s. 18(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(4)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F41]: Word in s. 19(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(5); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F42]: Word in s. 19(3) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(5); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F43]: Word in s. 20(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(6); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F44]: Word in s. 21(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(7)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F45]: Words in s. 21(6) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(7)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F46]: Word in s. 23(2)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(8); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F47]: Word in s. 24(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(9)(a)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F48]: Word in s. 24(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(9)(a)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F49]: Word in s. 24(3) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(9)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F50]: S. 24A inserted (23.6.2006) by The Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367), arts. 1(1) {8}
+[^F51]: Word in s. 25(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(10)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F52]: Word in s. 25(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(10)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F53]: Word in s. 27(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(11)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F54]: Word in s. 27(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(11)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F55]: Word in s. 27(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(11)(c); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F56]: Word in s. 29(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(12)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F57]: Word in s. 29(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(12)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F58]: Word in s. 30 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(13); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F59]: S. 33 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F60]: S. 34 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F61]: S. 35 heading substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 111, 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F62]: S. 35(1)(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 111(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F63]: S. 35(4) added (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 111(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F64]: S. 36(1)-(2A) substituted for s. 36(1)(2) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 112(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F65]: S. 36(4) added (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 112(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F66]: S. 37 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F67]: Word in s. 39(1)(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(14)(a)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F68]: Word in s. 39(1)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(14)(a)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F69]: Word in s. 39(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(14)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F70]: Word in s. 39(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(14)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F71]: Word in s. 39(3) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(14)(c); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F72]: Word in s. 39(4) substituted (10.12.2007) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 44(5)(a), 84 (with s. 44(6)); S.S.I. 2007/479, art. 3, Sch.
+[^F73]: Words in s. 39(4) added (10.12.2007) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 44(5)(b), 84 (with s. 44(6)); S.S.I. 2007/479, art. 3, Sch.
+[^F74]: Ss. 39A-39C and cross-heading inserted (8.8.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 113, 129(1)(b)
+[^F75]: Word in s. 40(1)(a) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(15)(a)(i); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F76]: Words in s. 40(1)(a) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(15)(a)(ii); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F77]: Word in s. 40(1)(b)(ii) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(15)(a)(iii); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F78]: Word in s. 40(3)(b) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(15)(b)(i); S.S.I. 2012/253, art. 2, Sch. (with arts. 7, 8(1)(3))
+[^F79]: Words in s. 40(3)(c) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(15)(b)(ii); S.S.I. 2012/253, art. 2, Sch. (with arts. 7, 8(1)(3))
+[^F80]: S. 40(6) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(15)(c); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F81]: S. 41(1) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(16)(a); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F82]: Word in s. 41(2) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(16)(b)(i); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F83]: Words in s. 41(2) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(16)(b)(ii); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F84]: Words in s. 41(4) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(16)(c); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F85]: Word in s. 41(5)(b) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(16)(d)(i); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F86]: Words in s. 41(5)(c) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(16)(d)(ii); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F87]: Word in s. 41(6) substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(16)(e); S.S.I. 2012/253, art. 2, Sch. (with arts. 7 8(1) (3))
+[^F88]: S. 41(7) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F89]: Pt. 2 Ch. 8A heading and ss. 41A-41C inserted (1.10.2012 for the purpose of inserting s. 41A, 1.4.2013 so far as not already in force) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 114, 129(2); S.S.I. 2012/253, art. 2, Sch. (with art. 8(1)(2)); S.I. 2013/51, art. 2
+[^F90]: Ss. 41D-41K and cross-heading inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 115, 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F91]: Words in s. 41E(6) substituted (20.12.2016) by Community Empowerment (Scotland) Act 2015 (asp 6), s. 142(1), sch. 4 para. 9(a); S.S.I. 2016/410, art. 2(a)
+[^F92]: Words in s. 41J(2)(c) substituted (20.12.2016) by Community Empowerment (Scotland) Act 2015 (asp 6), s. 142(1), sch. 4 para. 9(b); S.S.I. 2016/410, art. 2(a)
+[^F93]: S. 41L inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 116, 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F94]: S. 41M inserted (8.8.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 117, 129(1)(b)
+[^F95]: S. 43 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F96]: S. 42A and cross-heading inserted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 118, 129(2); S.S.I. 2012/253, art. 2, Sch.
+[^F97]: Pt. 2 Ch. 8B inserted (1.1.2013 for specified purposes, 1.4.2013 so far as not already in force) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 119, 129(2); S.S.I. 2012/333, art. 2, Sch. (with Sch. 2 paras. 2(11) 3); S.I. 2013/51, art. 2
+[^F98]: Ss. 44-46 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F99]: Pt. 2 Ch. 8C heading substituted for cross-heading preceding s. 45 (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(17); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F100]: Word in s. 47(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(18); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F101]: Ss. 48-50 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F102]: Word in s. 51 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(19)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F103]: Words in s. 51 inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 120, 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F104]: Word in s. 51 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(19)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F105]: Words in s. 52 inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(20); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F106]: Word in s. 59(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(21); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F107]: S. 61(4)(5) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F108]: Word in s. 61(7) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 103(1)(a)(i), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F109]: Words in s. 61(7) substituted (1.4.2008) by The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960), art. 22, Sch. 3 (with art. 21)
+[^F110]: Words in s. 61(7) substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 86(2); S.I. 2014/251, art. 4
+[^F111]: Words in s. 61(7) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 103(1)(a)(ii), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F112]: S. 61(7A) inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 86(3); S.I. 2014/251, art. 4
+[^F113]: Words in s. 61(8) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 103(1)(a)(ii), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F114]: S. 61(9)(za)(zb) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(4)(a)
+[^F115]: S. 61(9)(za)(i)(ii) omitted (1.4.2014) by virtue of Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 86(5)(a); S.I. 2014/251, art. 4
+[^F116]: S. 61(9)(za)(iv) substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 86(5)(b); S.I. 2014/251, art. 4
+[^F117]: S. 61(9)(zaa) inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 86(6); S.I. 2014/251, art. 4
+[^F118]: S. 61(9)(b) substituted for s. 61(9)(b)(c) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 103(1)(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F119]: S. 61(9A) inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 86(8); S.I. 2014/251, art. 4
+[^F120]: Words in s. 61(10) inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 86(9); S.I. 2014/251, art. 4
+[^F121]: S. 67(1)-(1B) substituted for s. 67(1) (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 103(2)(a), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F122]: S. 67(2) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F123]: Words in s. 67(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 103(2)(b), 129(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F124]: Words in s. 72(5) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(5)(a)
+[^F125]: S. 72(5A) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(5)(b)
+[^F126]: Words in s. 77(1) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(6)(a)
+[^F127]: S. 77(1A) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(6)(b)
+[^F128]: S. 77A inserted (22.7.2005 in accordance with art. 1(2)(e) of the amending S.I.) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), art. 2(7) and said inserted provision expressed to be commenced on 1.10.2006 by S.S.I. 2006/458, art. 2(d) (subject to art. 3)
+[^F129]: Words in s. 78(2)(b) omitted (15.6.2005) by virtue of The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2005 (S.S.I. 2005/352), reg. 2(a)
+[^F130]: Words in s. 78(2)(b) omitted (22.7.2005) by virtue of The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(8)(a)(i)
+[^F131]: S. 78(2)(ba) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(8)(a)(ii)
+[^F132]: S. 78(2)(c) omitted (15.6.2005) by virtue of The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2005 (S.S.I. 2005/352), reg. 2(b)
+[^F133]: S. 78(2)(e)-(g) omitted (22.7.2005) by virtue of The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(8)(a)(iii)
+[^F134]: S. 78(3)(ba)-(bd) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(8)(b)
+[^F135]: Words in s. 78(5)(a) substituted (29.11.2012) by The Fire (Scotland) Act 2005 (Relevant Premises) Regulations2012 (S.S.I. 2012/332), regs. 1, 2(a)
+[^F136]: Words in s. 78(5)(a) substituted (31.8.2011) by Housing (Scotland) Act 2006 (asp 1), ss. 192(1), 195, Sch. 6 para. 23 (with s. 193); S.S.I. 2010/159, art. 3 (with art. 6)
+[^F137]: Words in s. 78(5)(b) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 2, Sch. 1 para. 15
+[^F138]: Words in s. 78(5)(c) substituted (26.10.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369), arts. 1, 2(a)
+[^F139]: Words in s. 78(5)(d) substituted (26.10.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369), arts. 1, 2(b)
+[^F140]: Words in s. 78(5)(e) substituted (26.10.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369), arts. 1, 2(c)
+[^F141]: S. 78(5)(f) repealed (31.8.2011) by Housing (Scotland) Act 2006 (asp 1), ss. 192(2), 195, Sch. 7 (with s. 193); S.S.I. 2010/159, art. 3
+[^F142]: S. 78(5)(h) inserted (29.11.2012) by The Fire (Scotland) Act 2005 (Relevant Premises) Regulations2012 (S.S.I. 2012/332), regs. 1, 2(b)
+[^F143]: S. 78(5A) inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(8)(c)
+[^F144]: Words in s. 79(1) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F145]: Word in s. 79(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(22); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F146]: S. 79(1): definition inserted (22.7.2005) by The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060), arts. 1(2)(d)(e), 2(9)
+[^F147]: Word in s. 80(a) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(23); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F148]: Word in s. 80(b)(iii) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(23); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F149]: Word in s. 81(2) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(24); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F150]: Word in s. 85(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(25); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F151]: Word in s. 86 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(26); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F152]: S. 86A inserted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 7 para. 68(27); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F153]: S. 88(4)(a) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F154]: Sch. 1 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), Sch. 8 Pt. 2; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F155]: Sch. 1A inserted (8.8.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), ss. 101(2), 129(1)(b) (with s. 122(4))
+[^F156]: Words in sch. 1A para. 5(2)(c) inserted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 20 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F157]: Words in sch. 1A para. 5(2)(d) substituted (1.4.2015) by Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11), s. 57(2), sch. 3 para. 39; S.S.I. 2014/261, art. 3 (with arts. 4-7, 12) (as amended by S.S.I. 2015/54, art. 2)
+[^F158]: Sch. 3 para. 13 repealed (1.8.2016) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 16; S.S.I. 2014/264, art. 2, sch. (with art. 4)

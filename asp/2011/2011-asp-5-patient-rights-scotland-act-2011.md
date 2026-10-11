@@ -1,0 +1,741 @@
+---
+title: "Patient Rights (Scotland) Act 2011"
+identifier: "asp/2011/5"
+citation: "2011 asp 5"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2011-03-31
+last_amended: 2022-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2011/5"
+source_modified: 2024-06-19
+retrieved: 2026-10-11
+---
+
+# Patient Rights (Scotland) Act 2011
+
+**2011 asp 5**
+
+An Act to make provision about the rights of patients when receiving health care; to make further provision about eligibility under the scheme made under section 28 of the Smoking, Health and Social Care (Scotland) Act 2005; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 24th February 2011 and received Royal Assent on 31st March 2011
+
+## Charter of Patient Rights and Responsibilities
+
+### 1 Charter of Patient Rights and Responsibilities
+
+(1) The Scottish Ministers must, within 6 months of the coming into force of this section, publish a document to be known as the Charter of Patient Rights and Responsibilities (“the Charter”).
+
+(2) The Charter must set out a summary of the rights and responsibilities (as existing at the date of publication) of patients and relevant persons.
+
+(3) The Charter may also include—
+
+(a) a summary of the duties of relevant NHS bodies,
+
+(b) a summary of the behaviour expected from patients and relevant persons,
+
+(c) such other information as the Scottish Ministers consider relevant in relation to health care or the health service (for example, information relating to targets for the periods of time within which patients are to be treated).
+
+(4) Nothing in the Charter is to—
+
+(a) give rise to any new rights,
+
+(b) impose any new responsibilities, or
+
+(c) alter (in any way) an existing right or responsibility.
+
+(5) For the purposes of this section and section 2, a “relevant person” is—
+
+(a) a person who has a personal interest in the health care of a patient (for example a member of the patient's family or a carer),
+
+(b) such other categories of person as the Scottish Ministers consider appropriate.
+
+(6) The Charter is to be published in such form and manner as the Scottish Ministers consider appropriate.
+
+(7) Before publishing the Charter under subsection (1), the Scottish Ministers must—
+
+(a) consult such persons as they consider appropriate,
+
+(b) lay a copy of the Charter before Parliament.
+
+(8) The Scottish Ministers must, as soon as reasonably practicable after publication of the Charter under subsection (1), notify each relevant NHS body of the publication of the Charter.
+
+(9) Each relevant NHS body must make available without charge copies of the Charter to patients, staff and members of the public.
+
+(10) In carrying out the duty under subsection (9), a relevant NHS body must take account of the particular needs of the persons to whom the Charter is to be made available as to the form of the Charter (for example by making it available in different languages or in Braille or by having regard to the particular needs of adults with incapacity within the meaning of section 1(6) of the Adults with Incapacity (Scotland) Act 2000 (asp 4)).
+
+### 2 Review and revision of Charter
+
+(1) The Scottish Ministers must carry out a review of the Charter at least once in any period of 5 years.
+
+(2) The purposes of a review under subsection (1) are—
+
+(a) to ensure that the Charter continues to accurately summarise the rights and responsibilities of patients and relevant persons (as existing at the date of review), and
+
+(b) to assess how effective the Charter is in raising awareness of the rights and responsibilities of patients and relevant persons.
+
+(3) When reviewing the Charter under subsection (1), the Scottish Ministers must also review how effective the arrangements for the publication and distribution of the Charter have been in promoting awareness of the Charter and, if they consider it appropriate, take such steps as they consider necessary to improve those arrangements.
+
+(4) In carrying out a review under subsections (1) and (3) the Scottish Ministers must consult such persons as they consider appropriate.
+
+(5) The first review under subsection (1) must be completed not later than 5 years from the date on which the Charter is published under section 1(1).
+
+(6) The Scottish Ministers must revise the Charter where, following a review under subsection (1), the Scottish Ministers consider that the Charter—
+
+(a) does not accurately summarise the rights and responsibilities of patients and relevant persons, or
+
+(b) is not sufficiently effective in raising awareness of the rights and responsibilities of patients and relevant persons.
+
+(7) The Scottish Ministers may revise the Charter at any other time if they consider it appropriate to do so (whether following a review under subsection (1) or otherwise).
+
+(8) Where the Scottish Ministers revise the Charter under subsection (6) or (7), they must—
+
+(a) publish it as so revised (in such form and manner as they consider appropriate),
+
+(b) notify each relevant NHS body of the publication of the Charter as so revised.
+
+(9) Before publishing the Charter under subsection (8)(a), the Scottish Ministers must—
+
+(a) consult such persons as they consider appropriate, and
+
+(b) lay a copy of the Charter before Parliament.
+
+(10) In this Act, a reference to the Charter is a reference to the Charter as it may be revised from time to time.
+
+## Patient rights
+
+### 3 Patient rights
+
+(1) It is the right of every patient that the health care received by the patient be as described in subsection (2).
+
+(2) Health care is to—
+
+(a) be patient focused: that is to say, anything done in relation to the patient must take into account the patient's needs,
+
+(b) have regard to the importance of providing the optimum benefit to the patient's health and wellbeing,
+
+(c) allow and encourage the patient to participate as fully as possible in decisions relating to the patient's health and wellbeing [[^F1](including, where the health care being provided includes a service provided under the 2021 Act, decisions mentioned in subsection (3A))],
+
+(d) have regard to the importance of providing such information and support as is necessary to enable the patient to participate in accordance with paragraph (c) and in relation to any related processes, taking all reasonable steps to ensure that the patient is supplied with information and support in a form that is appropriate to the patient's needs.
+
+(3) It is the right of every patient to give feedback or comments, or raise concerns or complaints about health care received.
+
+[[^F2](3A) The decisions referred to in subsection (2)(c) are—
+
+(a) a decision about whether to undergo a forensic medical examination (and whether any such examination should take place without the incident in connection with which the examination would be carried out having been reported to a constable),
+
+(b) a decision about whether to make a request under section 8(1)(a) of the 2021 Act.]
+
+(4) The Scottish Ministers, after consulting such persons as they consider appropriate, may by order modify subsection (2).
+
+### 4 Patient rights: further provision
+
+(1) In construing the right of a patient under section 3(1), the matters set out in subsection (2) below must be taken into account.
+
+(2) The matters are—
+
+(a) the rights of other patients under section 3(1),
+
+(b) the desirability of action delivering health care being proportionate, and otherwise appropriate, to the circumstances of each case,
+
+(c) those specified in section 20(1)(a) and (b).
+
+## Health care principles
+
+### 5 Duty to uphold the health care principles
+
+(1) For the purposes of the rights conferred by section 3, each relevant NHS body must—
+
+(a) in performing its health service functions, uphold the health care principles in so far as they are relevant to the function being performed, and
+
+(b) ensure that any person with whom it enters into a contract, agreement or arrangements to provide health care upholds the health care principles in so far as they are relevant to the service being provided.
+
+(2) For the purposes of this Act, a “relevant NHS body” is—
+
+(a) a Health Board,
+
+(b) a Special Health Board,
+
+(c) the Common Services Agency for the Scottish Health Service (“the Agency”).
+
+### 6 Health care principles
+
+(1) In this Act, “health care principles” are the principles set out in the schedule.
+
+(2) The Scottish Ministers, after consulting such persons as they consider appropriate, may by order modify the schedule.
+
+### 7 Health care principles: guidance and directions
+
+(1) A relevant NHS body must, for the purposes of section 5, have regard to any guidance issued by the Scottish Ministers in relation to the practical application of the health care principles.
+
+(2) Before providing guidance in relation to the health care principles, the Scottish Ministers must consult such persons as they consider appropriate.
+
+(3) The Scottish Ministers may give a relevant NHS body directions as to the practical application of the health care principles; and a relevant NHS body must comply with any such direction.
+
+## Treatment time guarantee
+
+### 8 Treatment time guarantee
+
+(1) In pursuance of the right conferred by section 3(1), an eligible patient is to start to receive an agreed treatment within the maximum waiting time.
+
+(2) The guarantee described in subsection (1) is to be known as the treatment time guarantee.
+
+(3) A Health Board must take all reasonably practicable steps to ensure that it complies with the treatment time guarantee.
+
+(4) Those steps include, in particular, steps for—
+
+(a) monitoring each treatment time guarantee,
+
+(b) appropriately prioritising the start of the patient's agreed treatment taking account of the patient's clinical needs and the clinical needs of other eligible patients awaiting agreed treatments in accordance with the treatment time guarantee,
+
+(c) making the necessary arrangements for the agreed treatment of the patient to start in accordance with the treatment time guarantee either—
+
+(i) within its area, or
+
+(ii) if it is unable (or anticipates it will be unable) to treat a patient in its own area, through another Health Board or a suitable alternative provider of the treatment.
+
+(5) The treatment time guarantee is in addition to, and does not affect, any duty of a Health Board to—
+
+(a) comply with any orders, regulations or directions made by the Scottish Ministers (whether under the 1978 Act or otherwise) which relate to targets for periods of time within which treatments or services are to be provided, or
+
+(b) have regard to any guidance issued by the Scottish Ministers which relates to such targets.
+
+### 9 Treatment time guarantee: further provision
+
+(1) The Scottish Ministers must by regulations make the further provision about the treatment time guarantee specified in subsection (2).
+
+(2) The further provision is—
+
+(a) the descriptions of patients which are eligible for the treatment time guarantee, and
+
+(b) how waiting time is to be calculated (in particular, specifying the circumstances in which days are not to be counted towards a maximum waiting time).
+
+(3) The Scottish Ministers may by regulations specify—
+
+(a) treatments and services (including categories of treatments and services) in respect of which the treatment time guarantee does not apply,
+
+(b) action that a Health Board is to take to ensure that it complies with a treatment time guarantee,
+
+(c) circumstances in which the maximum waiting time for a patient may be extended or recalculated (and how such extension or recalculation is to be done),
+
+(d) circumstances in which responsibility for a treatment time guarantee may transfer to a different Health Board,
+
+(e) the information that a Health Board is to provide to patients about the treatment time guarantee, including—
+
+(i) how waiting times are calculated,
+
+(ii) the circumstances in which the maximum waiting time may be extended, recalculated or suspended,
+
+(iii) such other information as the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers may by order—
+
+(a) amend the duration of the maximum waiting time for the time being specified in section 13,
+
+(b) specify such different period of time to be the maximum waiting time under section 13 in relation to any treatment or services specified in such order.
+
+### 10 Breach of the treatment time guarantee
+
+(1) This section applies where a Health Board has not complied with a treatment time guarantee.
+
+(2) The Health Board must—
+
+(a) make such arrangements as are necessary to ensure that the agreed treatment starts at the next available opportunity,
+
+(b) provide an explanation to the patient as to why the treatment did not start within the maximum waiting time,
+
+(c) give the patient details of—
+
+(i) the advice and support available (including in particular the patient advice and support service described in section 18), and
+
+(ii) how to give feedback or comments or raise concerns or complaints.
+
+(3) In making the arrangements mentioned in subsection (2)(a), the Health Board—
+
+(a) must not give priority to the start of any treatment where such prioritisation would, in the Health Board's opinion, be detrimental to another patient with a greater clinical need for treatment,
+
+(b) must have regard to the patient's availability, and
+
+(c) must have regard to other relevant factors.
+
+### 11 Treatment time guarantee: guidance and directions
+
+(1) Health Boards must, when taking steps to start the treatment of eligible patients, have regard to any guidance issued by the Scottish Ministers which relates to the treatment time guarantee (and in particular, Health Boards' compliance with it).
+
+(2) The Scottish Ministers may direct a Health Board to take specified action in relation to its compliance with the treatment time guarantee (including, in particular, the steps it must take).
+
+### 12 Treatment time guarantee: suspension
+
+(1) This section applies where the Scottish Ministers consider that exceptional circumstances exist.
+
+(2) The Scottish Ministers may direct that the treatment time guarantee be suspended for such period as they consider necessary.
+
+(3) But such period of suspension must not exceed 30 days.
+
+(4) The Scottish Ministers may by order—
+
+(a) extend the duration of a period of suspension under subsection (2) beyond the 30 day limit in subsection (3) for such further period as they consider necessary,
+
+(b) suspend the treatment time guarantee for such period in excess of 30 days as they consider necessary.
+
+(5) An order made under subsection (4) (other than one to which subsection (7) applies)—
+
+(a) must be laid before the Scottish Parliament, and
+
+(b) ceases to have effect at the expiry of the period of 28 days beginning with the date on which it was made unless, before the expiry of that period, the order has been approved by resolution of the Parliament.
+
+(6) Subsection (7) applies to an order made under subsection (4) consisting only of—
+
+(a) provision revoking an earlier order under subsection (4), or
+
+(b) such provision and provision made by virtue of section 25(1)(c).
+
+(7) An order to which this subsection applies is subject to annulment in pursuance of a resolution of the Parliament.
+
+(8) In reckoning for the purposes of subsection (5)(b) any period of 28 days, no account is to be taken of any period during which the Scottish Parliament is—
+
+(a) dissolved, or
+
+(b) in recess for more than 4 days.
+
+(9) Subsection (5)(b) is without prejudice to—
+
+(a) anything previously done by reference to—
+
+(i) a direction under subsection (2),
+
+(ii) an order under subsection (4), or
+
+(b) the making of a new order under subsection (4).
+
+### 13 Treatment time guarantee: key terms
+
+For the purposes of this section and sections 8 to 12—
+
+- “agreed treatment” means a specific treatment agreed between an eligible patient and the Health Board;
+- “eligible patient” means a patient of a description specified in the regulations to be made in pursuance of section 9(2)(a) as being eligible for the treatment time guarantee;
+- “Health Board” includes the National Waiting Times Centre Board;
+- “maximum waiting time” is the period of 12 weeks beginning with the date on which the patient agrees to the agreed treatment;
+- “treatment” means a surgical or medical intervention ordinarily provided by the Health Board (other than such treatments or services as may be specified in regulations made in pursuance of section 9(3)(a));
+- “treatment time guarantee” has the meaning given in section 8(2).
+
+## Patient feedback, comments, concerns or complaints
+
+### 14 Encouragement of patient feedback etc.
+
+(1) A relevant NHS body is to encourage patients to give feedback or comments, or raise concerns or complaints, on health care.
+
+(2) Patients may give such feedback or comments to, or raise such concerns or complaints with—
+
+(a) the relevant NHS body, or
+
+(b) a provider of the patient advice and support service.
+
+(3) Where feedback or a comment is given to, or a concern or a complaint is raised with, a provider of the patient advice and support service, the provider may pass the feedback, comment, concern or complaint to the relevant NHS body (but only with the consent of the patient).
+
+(4) The relevant NHS body must consider feedback, comments, concerns or complaints received with a view to improving the performance of its functions.
+
+(5) The Scottish Ministers may require a relevant NHS body to provide them with information regarding the performance of the duties under subsections (1) and (4).
+
+(6) The Scottish Ministers may give a relevant NHS body directions about the performance of the duties under subsections (1) and (4).
+
+### 15 Arrangements for handling and responding to patient feedback etc.
+
+(1) The Scottish Ministers must ensure that each relevant NHS body has adequate arrangements in place for the matters described in subsection (3).
+
+(2) A relevant NHS body must ensure that each of its service providers has adequate arrangements in place for the matters described in subsection (3).
+
+(3) The matters are—
+
+(a) handling and responding to feedback or comments given, or concerns or complaints raised, in relation to health care—
+
+(i) by or on behalf of patients,
+
+(ii) by or on behalf of such other persons as the Scottish Ministers may specify by regulations made under subsection (4)(a),
+
+(b) using feedback, comments, concerns or complaints to identify best practice,
+
+(c) publicising—
+
+(i) how feedback and comments are to be given, or concerns and complaints are to be raised, and
+
+(ii) how feedback, comments, concerns or complaints will be handled,
+
+(d) giving a person who gives feedback or comments, or raises concerns or complaints details of the advice and support available to patients,
+
+(e) publicising the details of the advice and support available to patients (and, in particular, the patient advice and support service serving the relevant NHS body),
+
+(f) monitoring the feedback, comments, concerns or complaints received with a view to—
+
+(i) identifying any areas of concern, and
+
+(ii) improving the performance of its functions.
+
+(4) The Scottish Ministers may—
+
+(a) by regulations make provision about the—
+
+(i) arrangements mentioned in subsections (1) and (2),
+
+(ii) matters described in subsection (3),
+
+(b) give a relevant NHS body directions about such arrangements or matters.
+
+(5) Directions under subsection (4)(b) may, in particular, include provision for the resolution of complaints by conciliation or mediation.
+
+(6) In this section, a “service provider” is any person who provides health services for the purpose of the health service under a contract, agreement or arrangements made under or by virtue of the 1978 Act.
+
+(7) The powers conferred on the Scottish Ministers by virtue of this section are without prejudice to their powers under the 1978 Act.
+
+(8) Nothing done under or by virtue of this section is to preclude an investigation under the Scottish Public Services Ombudsman Act 2002 (asp 11) in respect of any matter.
+
+### 16 Repeal of the Hospital Complaints Procedure Act 1985
+
+The Hospital Complaints Procedure Act 1985 (c. 42) is repealed.
+
+## Patient advice and support service
+
+### 17 Patient advice and support service: establishment and funding
+
+[^F3]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) After section 10 of [[^F4]the 1978 Act]insert—
+
+> **10ZA Provision of patient advice and support service**
+>
+> (1) The Agency must secure the adequate provision of the patient advice and support service described in section 18 of the Patient Rights (Scotland) Act 2011 (asp 5) in relation to each relevant body.
+>
+> (2) In exercising its function under subsection (1), the Agency must have regard to the desirability of the service being provided—
+>
+> (a) in the most efficient and effective manner possible, and
+>
+> (b) in a manner which co-ordinates with the services of other providers of advice and support.
+>
+> (3) There may be more than one provider of the patient advice and support service.
+>
+> (4) The patient advice and support service is not to be provided by—
+>
+> (a) a Health Board,
+>
+> (b) a Special Health Board,
+>
+> (c) Healthcare Improvement Scotland,
+>
+> (d) the Agency.
+>
+> (5) Each relevant body must make to its provider of the patient advice and support service, in respect of the provider's expenses (as respects its activities relating to the service), payments of such amounts, and at such times, as the Scottish Ministers may direct.
+>
+> (6) For the purposes of this section, a “relevant body” is—
+>
+> (a) a Health Board, and
+>
+> (b) any other body that the Scottish Ministers may by order specify.
+
+.
+
+### 18 Patient advice and support service
+
+(1) The patient advice and support service to be secured by the Agency under section 10ZA of the 1978 Act is to provide advice and support services to patients and other members of the public in relation to the health service.
+
+(2) In particular, the patient advice and support service is to—
+
+(a) promote an awareness and understanding of the rights and responsibilities of patients (and in particular, promote awareness of the Charter),
+
+(b) advise and support persons who wish to give feedback or comments, or raise concerns or complaints about health care,
+
+(c) provide information and advice on such matters as it considers likely to be of interest to persons using the health service,
+
+(d) make persons aware of and, where appropriate, direct them to—
+
+(i) other sources of advice and support (including persons who provide advice and support in relation to matters other than the health service),
+
+(ii) persons providing representation and advocacy services,
+
+(e) provide such—
+
+(i) other advice or support,
+
+(ii) reports on its activities,
+
+as the Agency may specify.
+
+(3) Nothing in this Act prevents a provider of the patient advice and support service from providing advice and support in relation to matters other than the health service.
+
+(4) But the provision of such other advice and support by such a provider must not prejudice its provision of advice and support services under subsection (1).
+
+(5) For the purposes of subsection (2), the responsibilities of a patient include the responsibility of the patient—
+
+(a) for the patient's own health and wellbeing, and
+
+(b) to behave appropriately in the receipt of health care.
+
+(6) The Scottish Ministers may by regulations make further provision about the patient advice and support service and in particular about the services it is to provide.
+
+[[^F5](7) In this section and section 19, references to the health service include reference to the services provided under the 2021 Act.]
+
+### 19 Duties to share information
+
+(1) A relevant body must (where reasonably practicable and otherwise appropriate) give providers of the patient advice and support service information about—
+
+(a) the relevant body (and the health service generally) including its organisation, procedures and specific services that it provides,
+
+(b) any changes to the information mentioned in paragraph (a), and
+
+(c) such other relevant matters as providers of the patient advice and support service may reasonably request.
+
+(2) The Agency must secure that providers of the patient advice and support service give relevant bodies information about—
+
+(a) the services that providers of the patient advice and support service provide,
+
+(b) such other relevant matters as relevant bodies may reasonably request.
+
+(3) No information is to be given under subsection (1) or (2) which would infringe patient confidentiality.
+
+(4) For the purposes of this section “relevant body” has the same meaning as in section 10ZA(6) of the 1978 Act (provision of patient advice and support service).
+
+## Protections and limitations
+
+### 20 Protections and limitations
+
+(1) Nothing in this Act prejudices—
+
+(a) the exercise of clinical judgement,
+
+(b) the effective and efficient use of the health service organisation and resources.
+
+(2) Subject to subsection (3), nothing in this Act prejudices any other enactment or rule of law.
+
+(3) Nothing in this Act gives rise to—
+
+(a) any liability to pay damages,
+
+(b) any right of action for specific implement,
+
+(c) any right of action for specific performance of a statutory duty,
+
+(d) any right of action for interdict,
+
+(e) any right of action for suspension.
+
+(4) The rights conferred on a patient by this Act are in addition to, and do not affect, any other rights in relation to health care that a patient has, or may acquire, under any other enactment or rule of law.
+
+(5) Subsection (4) does not affect the generality of subsection (2).
+
+(6) In this section, references to this Act include references to orders, regulations and directions made under this Act.
+
+## Inquiries and default and emergency powers
+
+### 21 Powers of the Scottish Ministers
+
+(1) In sections 76, 77, 78 and 78A of the 1978 Act (inquiries and default and emergency powers) references to that Act include references to this Act.
+
+(2) Section 77 of the 1978 Act applies to a Special Health Board in relation to the functions conferred or imposed on it by or under this Act.
+
+## Payments to or in respect of certain persons infected with hepatitis C as a result of NHS treatment etc.: eligibility
+
+### 22 Payments to or in respect of certain persons infected with hepatitis C as a result of NHS treatment etc.: eligibility
+
+(1) Section 28 of the Smoking, Health and Social Care (Scotland) Act 2005 (asp 13) (payments to certain persons infected with hepatitis C as a result of NHS treatment etc.) is amended as follows.
+
+(2) In subsection (1)—
+
+(a) in paragraph (a)—
+
+(i) after sub-paragraph (i), insert “ and ”,
+
+(ii) the word “and” following sub-paragraph (ii) is repealed, and
+
+(iii) sub-paragraph (iii) is repealed,
+
+(b) in paragraph (b)—
+
+(i) after sub-paragraph (i), insert “ and ”,
+
+(ii) the word “and” following sub-paragraph (ii) is repealed, and
+
+(iii) sub-paragraph (iii) is repealed, and
+
+(c) after paragraph (b) insert—
+
+> (c) dependants of persons mentioned in paragraph (a) or (b).
+
+.
+
+(3) After subsection (2), insert—
+
+> (2A) In subsection (1)(c), “dependant”, in relation to a person mentioned in subsection (1)(a) or (b) (the “infected person”), means—
+>
+> (a) a spouse or civil partner of the infected person;
+>
+> (b) a person living with the infected person as husband or wife or in a relationship which has the characteristics of the relationship between civil partners (or if the infected person was in hospital immediately before death, had been so living when the infected person was admitted to hospital);
+>
+> (c) such other persons as the scheme may specify; and the scheme may specify or elaborate the meaning of dependant for this purpose.
+
+.
+
+(4) In subsection (3)—
+
+(a) in paragraph (b), after “dead person” insert “ falling within subsection (1)(a) or (b) ”, and
+
+(b) in paragraph (e), after “dead person” insert “ falling within subsection (1)(a) or (b) ”.
+
+(5) In subsection (4)(a), after “(1)” insert “ (a) or (b) ”.
+
+## General
+
+### 23 Interpretation
+
+(1) In this Act, unless the contrary intention appears—
+
+- “the 1978 Act” means the National Health Service (Scotland) Act 1978 (c. 29);
+
+- [[^F6]“the 2021 Act” means the Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021;]
+
+- “the Agency” has the meaning given by section 5(2)(c);
+
+- “the Charter” means the Charter of Patient Rights and Responsibilities published under section 1;
+
+- “health care” means services provided under the health service [[^F7]or under the 2021 Act];
+
+- “health care principles” has the meaning given by section 6(1);
+
+- “the health service” means the health service established in pursuance of section 1 of the National Health Service (Scotland) Act 1947 (c. 27);
+
+- “health service function” means
+
+  - ((a)) [[^F8]any function under or by virtue of the 1978 Act which is a function concerned with, or connected to, the health service;]
+  - ((b)) [[^F9]the functions conferred by the 2021 Act;]
+
+- [[^F10]“patient” includes (except in sections 8 to 13) a person in relation to whom a Health Board is exercising the functions conferred by the 2021 Act;]
+
+- “patient advice and support service” is to be construed in accordance with section 18(1);
+
+- “relevant NHS body” has the meaning given by section 5(2).
+
+(2) In this Act, unless the contrary intention appears, terms used in this Act and the 1978 Act have the same meaning as they have in the 1978 Act.
+
+### 24 Ancillary provision
+
+(1) The Scottish Ministers may by order make such consequential, supplemental, incidental transitional, transitory or saving provision as they consider necessary or expedient for the purposes of, or in consequence of, or for the purposes of giving full effect to, any provision of this Act.
+
+(2) An order under this section may modify any enactment, instrument or document.
+
+### 25 Orders, regulations and directions
+
+(1) Any power conferred by this Act on the Scottish Ministers to make an order or regulations—
+
+(a) must be exercised by statutory instrument,
+
+(b) may be exercised so as to make different provision for different purposes (including different areas),
+
+(c) except an order under section 26(3), includes power to make such consequential, supplemental, incidental, transitional, transitory or saving provision as appears to the Scottish Ministers to be necessary or expedient.
+
+(2) No—
+
+(a) order is to be made under section 3(4), 6(2) or 9(4),
+
+(b) regulations are to be made under section 9(1) or (3), or
+
+(c) order is to be made under section 24 containing provisions which add to, omit or replace any part of the text of an Act,
+
+unless a draft of the statutory instrument containing the order or regulations has been laid before, and approved by resolution of, the Parliament.
+
+(3) Any other statutory instrument containing an order or regulations under this Act (except an order under section 12(4) or 26(3)) is subject to annulment in pursuance of a resolution of the Parliament.
+
+(4) Any power to make directions under this Act includes power to vary or revoke such directions.
+
+(5) Any power to make directions under this Act may be exercised—
+
+(a) generally or to meet the circumstances of a particular area or matter,
+
+(b) either in relation to all cases to which the power extends, or in those cases subject to exceptions, or in relation to any specified cases or classes of case, and
+
+(c) subject to such other exceptions or conditions as the Scottish Ministers think fit.
+
+### 26 Short title and commencement
+
+(1) This Act may be cited as the Patient Rights (Scotland) Act 2011.
+
+(2) This section and sections 22, 24 and 25 come into force on Royal Assent.
+
+(3) The remaining provisions of this Act come into force on such day as the Scottish Ministers may by order appoint.
+
+## SCHEDULE — Health care principles to be upheld by relevant nhs bodies and relevant service providers
+
+*(introduced by section 6(1))*
+
+### Patient focus
+
+**1** Anything done in relation to the patient takes into account the patient's needs.
+
+**2** Patients are treated with dignity and respect.
+
+**3** Privacy and confidentiality are respected.
+
+**4** Health care is provided in a caring and compassionate manner.
+
+**5** Support necessary to receive or access health care is available.
+
+**6** The patient's abilities, characteristics and circumstances are considered.
+
+### Quality care and treatment
+
+**7** [[^F11](1)] Regard is had to the importance of providing the optimum benefit to the patient's health and wellbeing.
+
+[[^F12](2) Sub-paragraph (1) does not apply in relation to the exercise of functions conferred by the 2021 Act.]
+
+**[[^F13]7A** (1) Regard is to be had to the importance of providing health care in a way that seeks to avoid re-traumatisation and is otherwise trauma-informed.
+
+(2) Sub-paragraph (1) applies only in relation to the exercise of functions conferred by section 1 of the 2021 Act.]
+
+**8** The range of options available in the patient's case is considered.
+
+**9** Health care is based on current recognised clinical guidance.
+
+**10** No avoidable harm or injury is to be caused to the patient by the health care provided.
+
+**11** Patients are cared for in an appropriate environment which is as clean and safe as is reasonably possible.
+
+### Patient participation
+
+**12** Patients participate as fully as possible in decisions relating to the patient's health and wellbeing [[^F14](including, where the health care being provided includes a service provided under the 2021 Act, decisions mentioned in section 3(3A))].
+
+**13** Patients are provided with such information and support as is necessary to enable them to participate in accordance with paragraph 12 and in relation to any related processes (general or specific).
+
+**14** Patients are encouraged to treat any person involved in the delivery of health care with dignity and respect.
+
+### Communication
+
+**15** Communication about a patient's health and wellbeing [[^F15]or, where the health care being provided includes a service provided under the 2021 Act, about matters relevant to the provision of that service] is clear, accessible and understood.
+
+**16** Communication about general services and processes and decisions is clear, accessible and understood.
+
+### Complaints
+
+**17** Issues of concern are dealt with reasonably, promptly and in accordance with proper procedures.
+
+### Other
+
+**18** Waste of resources in the provision of health care is avoided.
+
+---
+
+[^F1]: Words in s. 3(2)(c) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(2)(a) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F2]: S. 3(3A) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(2)(b) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F3]: S. 17(1) repealed (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 71(5), 72(2); S.S.I. 2014/231, art. 2
+[^F4]: Words in s. 17(2) substituted (22.9.2014) by Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9), ss. 63(4), 72(2); S.S.I. 2014/231, art. 2
+[^F5]: S. 18(7) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(3) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F6]: Words in s. 23(1) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(4)(a) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F7]: Words in s. 23(1) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(4)(b) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F8]: Word in s. 23(1) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(4)(c)(i) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F9]: Words in s. 23(1) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(4)(c)(ii) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F10]: Words in s. 23(1) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(4)(d) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F11]: Sch. para. 7 renumbered as sch. para. 7(1) (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(5)(a)(i) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F12]: Sch. para. 7(2) inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(5)(a)(ii) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F13]: Sch. para. 7A inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), ss. 10(2), 20(2) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F14]: Words in sch. para. 12 inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(5)(b) (with s. 3); S.S.I. 2022/24, reg. 2
+[^F15]: Words in sch. para. 15 inserted (1.4.2022) by Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3), s. 20(2), sch. para. 4(5)(c) (with s. 3); S.S.I. 2022/24, reg. 2

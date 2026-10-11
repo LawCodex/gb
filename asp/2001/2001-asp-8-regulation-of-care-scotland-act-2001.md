@@ -1,0 +1,1864 @@
+---
+title: "Regulation of Care (Scotland) Act 2001"
+identifier: "asp/2001/8"
+citation: "2001 asp 8"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2001-07-05
+last_amended: 2026-01-07
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2001/8"
+source_modified: 2026-01-08
+retrieved: 2026-10-11
+---
+
+# Regulation of Care (Scotland) Act 2001
+
+**2001 asp 8**
+
+An Act of the Scottish Parliament to establish the Scottish Commission for the Regulation of Care and the Scottish Social Services Council; to make provision for the registration and regulation of care services and for the registration, regulation and training of social service workers; to enable local authorities to make grants in respect of activities relating to child care and family support and to make direct payments to children in respect of certain care services; to enable the Scottish Ministers to delegate a power to make certain grants and loans for social work; to make further provision as respects payments by local authorities towards maintenance of certain children residing with and being cared for by persons other than their parents; to enable local authorities to provide and maintain residential accommodation in which nursing is provided; to make further provision as respects persons who have been looked after by local authorities; to amend the definition of “place of safety" in the Children (Scotland) Act 1995; to make further provision as respects the appointment for children of curators ad litem, reporting officers and safeguarders; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 31st May 2001 and received Royal Assent on 5th July 2001
+
+## [^F1]PART 1 — THE COMMISSION AND CARE SERVICES
+
+### [^F1] Constitution of Commission
+
+#### [^F1]1 Constitution of Scottish Commission for the Regulation of Care
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Care services
+
+#### [^F1]2 Care services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]3 Power to amend the definition of “care service"
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]4 Information and advice
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] National care standards
+
+#### [^F1]5 National care standards
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Complaints
+
+#### [^F1]6 Complaints about care services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Registration
+
+#### [^F1]7 Applications for registration under Part 1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]8 Limited registration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]9 Grant or refusal of registration under Part 1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Improvement notices
+
+#### [^F1]10 Improvement notices
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]11 Special provision for certain care services provided by local authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Proposals and applications in relation to registered care services
+
+#### [^F1]12 Cancellation of registration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]13 Condition notices
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]14 Applications under Part 1 in respect of conditions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]15 Further provision as respects notice of proposals
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]16 Right to make representations to Commission as respects proposals under Part 1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]17 Notice of Commission’s decision under Part 1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]18 Urgent procedures for cancellation of registration etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]19 Conditions as to numbers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]20 Appeal against decision to implement proposal
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Offences
+
+#### [^F1]21 Offences in relation to registration under Part 1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]22 False statements in applications under Part 1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]23 Offences by bodies corporate etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Fees
+
+#### [^F1]24 Registration fees
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Inspections
+
+#### [^F1]25 Inspections
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]26 Integrated inspections
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]27 Further provision as regards inspections
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Regulations
+
+#### [^F1]28 Regulations relating to the Commission, to registration and to registers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]29 Regulations relating to care services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Transfer of staff
+
+#### [^F1]30 Transfer of staff
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Miscellaneous
+
+#### [^F1]31 Arrangements entered into by local authority or health body: services to be registered
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]32 Giving of notice
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F2]PART 2 — LOCAL AUTHORITY ADOPTION AND FOSTERING SERVICES ETC.
+
+### [^F2]33 Local authority applications for registration under Part 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]34 Grant of local authority application under Part 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]35 Condition notices: services registered under Part 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]36 Applications under Part 2 in respect of conditions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]37 Right to make representations to Commission under Part 2 as respects conditions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]38 Notice of Commission’s decision under Part 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]39 Appeal against decision under Part 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]40 Offences under Part 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]41 Report to Scottish Ministers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F2]42 Default powers of Scottish Ministers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — THE COUNCIL
+
+### Constitution
+
+#### 43 Constitution of Scottish Social Services Council
+
+(1) There shall be a body corporate, to be known as the Scottish Social Services Council (in the following provisions of this Act referred to as “the Council”), which—
+
+(a) shall exercise the functions conferred on it by this Act or any other enactment; and
+
+(b) shall have the general duty of promoting high standards—
+
+(i) of conduct and practice among social service workers; and
+
+(ii) in their education and training.
+
+(2) The Council shall, in the exercise of its functions, act—
+
+(a) in accordance with any directions in writing given to it by the Scottish Ministers;
+
+(b) under the general guidance of the Scottish Ministers; and
+
+(c) in a manner which encourages equal opportunities and in particular the observance of the equal opportunity requirements.
+
+(3) Schedule 2 to this Act shall have effect with respect to the Council.
+
+### Registration
+
+#### 44 Register of social workers and of other social service workers
+
+(1) The Council shall maintain a register of—
+
+(a) social workers;
+
+[^F3]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) social service workers of any other description prescribed; and
+
+(c) persons—
+
+(i) participating in a course, approved by it under section 54(1) of this Act, for those wishing to become; or
+
+(ii) employed in positions probationary to their becoming,
+
+social workers or social service workers of such other description.
+
+[[^F4](2) There shall be a separate part of the register for—
+
+(a) social workers;
+
+[^F5]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) each description of social service workers prescribed by virtue of paragraph (b) of subsection (1) above; and
+
+(d) such persons as are mentioned in paragraph (c) of that subsection.
+
+[^F6]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+(3) It may be prescribed that as from a specified date a specified part of the register shall be closed, so that on and after that date no further persons shall be registered in that part.
+
+(4) The Scottish Ministers shall consult the Council and such other persons, or groups of persons, as they consider appropriate before making, varying or revoking an order by virtue of this section.
+
+#### 45 Applications for registration under Part 3
+
+(1) An application for registration under this Part [^F7]... shall be made to the Council in accordance with rules made by the Council.
+
+[^F8]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) An application under subsection (1) above shall specify—
+
+(a) in relation to the register, each part of it in which registration is sought; and
+
+(b) such other matters as may be required by the rules.
+
+(3) Any person who, in an application under subsection (1) above, knowingly makes a statement which is false or misleading in a material respect shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+#### 46 Grant or refusal of registration under Part 3
+
+(1) An application [[^F9]under section 45(1) of this Act] for registration under this Part may be granted either unconditionally or subject to such conditions as the Council thinks fit to impose.
+
+(2) If the Council is satisfied that the applicant—
+
+(a) is of good character;
+
+(b) satisfies such requirements as to competence or conduct as the Council may by rules impose; and
+
+(c) except where [[^F10]section 46B of this Act] applies, either—
+
+(i) satisfies such requirements as to education as the Council may by rules impose and has successfully completed a course of training, approved by the Council, for persons wishing to become social workers or, as the case may be, for persons wishing to become social service workers of the description in relation to which registration is sought; or
+
+(ii) in the case of an application for registration as a social service worker other than a social worker, satisfies such requirements as the Council may by rules impose in relation to social service workers of the description in relation to which registration is sought,
+
+it shall grant the application unconditionally[^F11]....
+
+[[^F12](2A) Where an application is granted unconditionally—
+
+(a) the Council shall give the applicant notice of its so granting the application; and
+
+(b) registration shall take effect immediately on such notice being given.
+
+(2B) If the Council is not satisfied as mentioned in subsection (2), it shall—
+
+(a) grant the application subject to such conditions as it thinks fit; or
+
+(b) refuse the application.
+
+(2C) The Council shall give the applicant notice of its decision under subsection (2B), which shall—
+
+(a) give the Council's reasons for the decision; and
+
+(b) explain the right of appeal conferred by section 51 of this Act.
+
+(2D) A decision to refuse the application takes effect immediately on notice to that effect being given.
+
+(2E) Notice of a decision to grant the application subject to conditions shall state—
+
+(a) the conditions; and
+
+(b) that, within fourteen days after service of the notice, the applicant may make written representations to the Council concerning any matter which the applicant wishes to dispute.
+
+(2F) Subject to subsections (2G) and (2H), a decision to grant the application subject to conditions takes effect at the end of the fourteen day period mentioned in subsection (2E).
+
+(2G) Where—
+
+(a) the applicant makes such representations as are mentioned in subsection (2E);
+
+(b) the Council, having considered the representations, confirms the decision mentioned in subsection (2F); and
+
+(c) no appeal is brought under section 51 of this Act,
+
+the decision takes effect on the expiry of the fourteen day period mentioned in subsection (A1) of that section for bringing such an appeal.
+
+(2H) Where an appeal against a decision mentioned in subsection (2F) is brought under section 51 of this Act (whether or not such representations as are mentioned in subsection (2E) are also made), the decision takes effect only when the appeal is finally determined or abandoned.]
+
+[^F13]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F15]46A Visiting social workers from relevant European States
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 46B [[^F16]Qualifications gained outside Scotland
+
+This section applies where—
+
+[^F17]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) the applicant has, outwith Scotland, undergone training which—
+
+(i) is recognised by the Council as being to a standard sufficient for the applicant to be registered in the part of the register specified in the application; or
+
+(ii) is not so recognised provided that the applicant has also undergone, in Scotland or elsewhere, such additional training as the Council may by rules require.]
+
+#### 47 Variation etc. of conditions in relation to registration under Part 3
+
+(1) The Council may at any time give notice to a person registered under this Part [^F18]... [[^F19]of its decision] to—
+
+(a) vary or remove a condition for the time being in force; or
+
+(b) impose an additional condition,
+
+in relation to the registration.
+
+(2) A notice under subsection (1) above shall
+
+[[^F20](a)] give the Council's reasons for the [[^F21]decision;]
+
+(b) [[^F22]explain the right of appeal conferred by section 51 of this Act; and
+
+(c) state the condition as varied, the condition which is removed or (as the case may be) the additional condition imposed.]
+
+#### 48 Right to make representations to Council as respects [[^F23]decision under section 47]
+
+(1) A notice under section [^F24]... 47 of this Act shall state that, within fourteen days after service of the notice, the person to whom it is given may make written representations to the Council concerning any matter which that person wishes to dispute.
+
+[[^F25](2) Subject to subsections (3) and (4), a decision under section 47 of this Act takes effect at the end of the fourteen day period mentioned in subsection (1).
+
+(3) Where—
+
+(a) the person to whom notice under section 47 was given makes such representations as are mentioned in subsection (1);
+
+(b) the Council, having considered the representations, confirms the decision mentioned in that section; and
+
+(c) no appeal is brought under section 51 of this Act,
+
+the decision takes effect on the expiry of the fourteen day period mentioned in subsection (A4) of that section for bringing such an appeal.
+
+(4) Where an appeal against a decision under section 47 is brought under section 51 (whether or not such representations as are mentioned in subsection (1) are also made), the decision takes effect only when the appeal is finally determined or abandoned.]
+
+#### 49 Removal etc. from the Council’s register
+
+(1) The Council shall, by rules made with the consent of the Scottish Ministers, determine circumstances in which, and the means by which—
+
+(a) an entry relating to a person in the register maintained by the Council may be removed from a part in which it appears;
+
+(b) an entry removed by virtue of paragraph (a) above may be restored to the part in question;
+
+(c) a person’s registration in a part of that register may be suspended (and that person treated as not being registered in that part notwithstanding that the relevant entry still appears in it) for such period as the Council may specify in the case in question;
+
+(d) a suspension by virtue of paragraph (c) above may be terminated; and
+
+(e) an entry in a part of that register may be altered (other than in implementation of a [[^F26]decision] of which notice is given under section 47(1) of this Act).
+
+(2) Rules under subsection (1) above shall—
+
+(a) make provision as to—
+
+(i) the procedure to be followed;
+
+(ii) the standard of proof; and
+
+(iii) the rules of evidence to be observed,
+
+in proceedings brought (whether before the Council or before any committee of the Council) for the purposes of the rules; and
+
+(b) provide for such proceedings to be in public except in such cases (if any) as the rules may specify.
+
+(3) The Council shall maintain a register of persons who have been registered in the register maintained under section 44(1) of this Act but who, by virtue of paragraph (a) of subsection (1) above, are for the time being not so registered; and where an entry relating to a person is, by virtue of paragraph (b) of that subsection, restored, the entry relating to that person in the register maintained under this subsection shall be removed.
+
+#### 50 Notice of Council’s decision [[^F27]under rules under section 49]
+
+[^F28]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If the Council decides—
+
+[^F29]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in accordance with rules made under subsection (1) of section 49 of this Act, to do any of the things mentioned in paragraphs (a) to (e) of that subsection,
+
+it shall give the person affected notice of the decision.
+
+(3) A notice under subsection (2) above shall—
+
+(a) explain the right of appeal conferred by section 51 of this Act;
+
+[^F30]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [[^F31]Subject to subsection (5),] a decision such as is mentioned in subsection (2) above[^F32]... shall not take effect—
+
+(a) if no appeal is brought, until the period of fourteen days [[^F33]after the giving of a notice under subsection (2)] has elapsed; and
+
+(b) if an appeal is brought, until that appeal is finally determined or is abandoned.
+
+[[^F34](5) A decision in accordance with rules under section 49(1) of this Act to suspend a person's registration in a part of the register maintained under section 44(1) of this Act takes effect immediately on notice of that decision being given.]
+
+### [[^F35]Information from third parties
+
+#### 50A Council’s power to require information
+
+(1) The Council may, by notice in writing, require a person to provide it with information.
+
+(2) A notice under subsection (1) must specify—
+
+(a) the information required,
+
+(b) the timescale within which it is to be provided.
+
+(3) Where information is not provided in accordance with a notice under subsection (1), the Council may apply to the sheriff for an order requiring the person to provide the information within such time as the sheriff may order.
+
+(4) The sheriff may make an order under subsection (3) only if it appears to the sheriff that the information sought is relevant to the exercise of a function of the Council set out in this Part.
+
+(5) This section does not permit or require the provision of information in breach of a prohibition or restriction on the disclosure of information arising by virtue of an enactment or rule of law.]
+
+### Appeal
+
+#### 51 Appeal against decision of Council
+
+[[^F36](A1) Where—
+
+(a) a person is given notice under subsection (2C) of section 46 of this Act of a decision to grant an application for registration under this Part subject to conditions;
+
+(b) the person makes such representations as are mentioned in subsection (2E) of that section; and
+
+(c) the Council confirms the decision,
+
+the person may, within fourteen days after such confirmation is given, appeal to the sheriff against the decision.
+
+(A2) Where—
+
+(a) a person is given notice under subsection (2C) of section 46 of this Act of a decision to grant an application for registration under this Part subject to conditions; and
+
+(b) no representations such as are mentioned in subsection (2E) of that section are made,
+
+the person may, within fourteen days after service of the notice, appeal to the sheriff against the decision.
+
+(A3) Where a person is given notice under subsection (2C) of section 46 of this Act of a decision to refuse an application for registration under this Part, the person may, within fourteen days after service of the notice, appeal to the sheriff against the decision.
+
+(A4) Where—
+
+(a) a person is given notice under section 47(1) of this Act of a decision mentioned in that section;
+
+(b) the person makes such representations as are mentioned in section 48(1) of this Act; and
+
+(c) the Council confirms the decision,
+
+the person may, within fourteen days after such confirmation is given, appeal to the sheriff against the decision.
+
+(A5) Where—
+
+(a) a person is given notice under section 47(1) of this Act of a decision mentioned in that section; and
+
+(b) no representations such as are mentioned in section 48(1) of this Act are made,
+
+the person may, within fourteen days after service of the notice, appeal to the sheriff against the decision.]
+
+[[^F37](1) A person who—
+
+(a) has been given notice under subsection (2) of section 50 of this Act of a decision mentioned in that subsection; [^F38]...
+
+[^F39]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+may, within fourteen days after [[^F41]service of the notice], appeal to the sheriff against the decision.]
+
+(2) On [[^F42]an appeal under this section] the sheriff may—
+
+(a) confirm the decision; [^F43]...
+
+(b) direct that it shall not have effect [^F44]... [[^F45], or
+
+(c) direct that it shall not have effect and make such other order as the sheriff thinks fit].
+
+(3) The sheriff shall also have power, on such an appeal—
+
+(a) to vary any condition which, by virtue of section 46 of this Act, is in force in respect of the person;
+
+(b) to direct that any such condition shall cease to have effect; or
+
+(c) to direct that a condition which the sheriff thinks fit to impose shall have effect in respect of the person.
+
+### Offence
+
+#### 52 Use of title “social worker" etc.
+
+(1) Any person who, with intent to deceive, while not registered in any relevant register as—
+
+(a) a social worker, takes or uses the title of social worker, or purports in any other way to be a social worker; or
+
+(b) a social service worker of such other description as may be prescribed, takes or uses the title of that description of social service worker, or purports in any other way to be a social service worker of that description,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) For the purposes of subsection (1) above, a register is a relevant register if it is—
+
+(a) the register maintained by the Council under this Part; or
+
+(b) such register as may be prescribed, being a register maintained under a provision of the law of England and Wales or of Northern Ireland which appears to the Scottish Ministers to correspond to section 44(1) of this Act.
+
+### Codes of practice
+
+#### 53 Codes of practice
+
+(1) The Council shall prepare, and from time to time publish, codes of practice laying down standards of conduct and practice expected—
+
+(a) of social service workers; or
+
+(b) in relation to social service workers, of persons employing or seeking to employ such workers.
+
+(2) Before publishing a code, the Council shall—
+
+(a) obtain the consent of the Scottish Ministers to the provisions of that code; and
+
+(b) consult [[^F46]Social Care and Social Work Improvement Scotland], any person, or group of persons, prescribed by the Scottish Ministers and any other person, or group of persons, the Council considers it appropriate to consult.
+
+(3) The Council shall keep the codes under review and shall vary the provisions of a code whenever, after such consultation, it considers it appropriate to do so.
+
+[[^F47](3A) A social service worker shall, so far as relevant, have regard to any code published under subsection (1) by the Council.
+
+(3B) An employer of a social service worker, or a person seeking to employ such workers, shall, so far as relevant, have regard to any code published under subsection (1) by the Council.]
+
+(4) The employer of a social service worker shall, in making any decision which relates to the conduct of that worker, take into account any code published under subsection (1) above by the Council.
+
+(5) The Council shall give a copy of a code so published to any person who requests such copy.
+
+[[^F48](6) The Scottish Ministers may give directions (of a general or specific nature) to—
+
+(a) the persons mentioned in paragraph (a) or (b) of subsection (1);
+
+(b) the Council,
+
+in relation to any code so published; and such directions must be complied with.
+
+(7) The Scottish Ministers may vary or revoke any direction given under subsection (6).]
+
+### Training
+
+#### 54 Approval of courses etc.
+
+(1) The Council shall promote education and training for persons who are, or wish to become—
+
+(a) social workers; or
+
+(b) social service workers of any other description specified in the rules,
+
+and in particular may, in accordance with rules made by it, approve courses for such persons.
+
+(2) An approval given under subsection (1) above may be either unconditional or subject to such conditions as the Council thinks fit.
+
+(3) If it appears to the Council that adequate provision is not being made for further education or training for persons registered in any part of the register maintained by it, the Council shall provide, or secure the provision of, courses for such further education or training.
+
+(4) The Council may—
+
+(a) conduct, or make arrangements for the conduct of, examinations or assessments in connection with such courses as are mentioned in this section; and
+
+(b) carry out, or assist other persons in carrying out, research into matters relevant to such education or training (or further education or training) as is so mentioned.
+
+#### 55 Grants and allowances for social service workers’ training
+
+(1) Subject to subsections (2) to (4) below, the Council may, upon such terms and subject to such conditions as it considers appropriate—
+
+(a) make grants; and
+
+(b) pay travelling and other allowances,
+
+to persons resident in Scotland, in order to secure their education or training in, or education for training in, the work of social service workers.
+
+(2) The Council shall not make grants or pay allowances under subsection (1) above except for such purposes as the Scottish Ministers may direct.
+
+(3) The Scottish Ministers may by directions specify terms and conditions subject to which the Council is to make such grants or pay such allowances.
+
+(4) Without prejudice to the generality of subsections (2) and (3) above, directions under those subsections may specify—
+
+(a) the courses for which, and the categories of students to whom, under subsection (1) above, grants may be made and allowances paid;
+
+(b) maximum amounts to be spent—
+
+(i) on such grants and allowances; and
+
+(ii) on such grants and allowances to any individual; and
+
+(c) the procedures for accounting for expenditure on such grants and allowances.
+
+(5) The Council may make grants to organisations providing such courses as are approved by it under section 54(1) of this Act.
+
+### Regulations and rules
+
+#### 56 Regulations relating to the Council
+
+(1) Regulations may—
+
+(a) confer additional functions on the Council in relation to—
+
+(i) the regulation of persons employed in the provision of care services; or
+
+(ii) the education or training of persons in respect of whom it maintains a register under section 44(1) of this Act; and
+
+(b) require the Council to secure that, on such conditions, in such circumstances and on the payment of such fees as may be specified in the regulations, any person shall be afforded access to, and provided with a copy of an entry in or with an extract from, a register kept by the Council.
+
+(2) Before the Scottish Ministers make regulations under subsection (1) above, they shall consult such persons, or groups of persons, as they consider appropriate.
+
+#### 57 Power of Council to make rules
+
+(1) With the consent of the Scottish Ministers, the Council may by rules make provision about the registration of persons under this Part and, in particular—
+
+(a) as to the keeping of the register maintained by it;
+
+(b) as to the documentary and other evidence to be produced by a person applying for—
+
+(i) registration;
+
+(ii) additional qualifications to be recorded; or
+
+(iii) an entry in that register to be altered or restored; or
+
+(c) subject to any rules made under section 49 of this Act, for a person’s registration to remain effective without limitation of time or—
+
+(i) to lapse after such period, or in such a case; or
+
+(ii) to be subject to renewal in such manner and at such time,
+
+as the rules may provide.
+
+(2) With the consent of the Scottish Ministers and subject to any regulations made under section 56(1)(b) of this Act, the Council may by rules make provision for the payment of reasonable fees to it in connection with the discharge of its functions; and without prejudice to that generality the rules may in particular make provision—
+
+(a) for the payment of such fees in connection with—
+
+(i) registration under this Part (including applications for registration or for amendment of the register maintained by it);
+
+(ii) the approval by it, under this Part, of courses of education or training;
+
+(iii) the provision of education or training; and
+
+(iv) the provision of copies of codes published by it or copies of entries in, or of extracts from, that register; and
+
+(b) requiring persons registered under this Part to pay a periodic fee to it of such amount, and at such time, as the rules may specify.
+
+[^F49]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) With the consent of the Scottish Ministers, the Council may by rules require persons registered in any part of the register maintained by it to attend a course of education or undertake further training and may in particular make provision with respect to persons who fail to comply with any requirement of such rules, including provision for their registration to cease or be suspended.
+
+(4) Before making, or varying, any rules by virtue of subsection (3) above, the Council shall take such steps as are reasonably practicable to consult the persons who are registered in the relevant part of the register and such other persons as the Council considers appropriate.
+
+(5) With the consent of the Scottish Ministers, the Council may by rules make provision—
+
+(a) about the content of, and methods of completing, courses approved by it under section 54(1) of this Act;
+
+(b) as to the lapse, renewal and withdrawal of such approvals;
+
+(c) as to the provision to the Council of information about such courses;
+
+(d) as to the persons who may participate in such courses, or in such parts of those courses as are specified in the rules;
+
+(e) as to the number of persons who may participate in such courses or parts of courses; and
+
+(f) for the award by the Council of certificates of the successful completion of such courses.
+
+(6) With the consent of the Scottish Ministers, the Council may by rules make provision for the visiting of places at which or institutions by which or under whose direction—
+
+(a) any relevant course (or part of such course) is, or is proposed to be, given; or
+
+(b) any examination is, or is proposed to be, held in connection with any such course.
+
+(7) Without prejudice to the generality of subsection (6) above, rules under that subsection may make provision for—
+
+(a) the appointment of visitors; and
+
+(b) reports to be made by visitors on—
+
+(i) the nature and quality of the instruction given, or to be given; and
+
+(ii) the facilities provided, or to be provided,
+
+at the place, or by the institution, visited.
+
+(8) In subsection (6)(a) above, “relevant course” means—
+
+(a) any course for which approval by the Council has been given, or is being sought, under section 54(1) of this Act; or
+
+(b) any course of education or further training provided for persons registered in any part of the register maintained by the Council.
+
+(9) The power of the Council to make rules under this Part may be exercised—
+
+(a) in relation to—
+
+(i) all cases to which the power extends;
+
+(ii) all except such cases as are specified in the rules; or
+
+(iii) any specified cases or class of case; and
+
+(b) so as to make, as respects the cases in relation to which it is exercised—
+
+(i) the same provision for all;
+
+(ii) different provision for different cases or classes of case; or
+
+(iii) as respects the same case or class of case, different provision for different purposes.
+
+(10) Before making, or varying, any rules by virtue of any of subsections (1), (2), (5) and (6) above, the Council shall consult such persons, or groups of persons, as it considers appropriate.
+
+### [[^F50][[^F51]Notification of dismissal etc. for misconduct]
+
+#### 57A Notification of dismissal etc. to Council
+
+The employer of a social service worker shall—
+
+(a) on dismissing the social service worker on grounds of misconduct; or
+
+(b) on the social service worker resigning or abandoning the worker's position in circumstances where, but for the resignation or abandonment—
+
+(i) the worker would have been dismissed on grounds of misconduct; or
+
+(ii) dismissal on such grounds would have been considered by the employer,
+
+forthwith notify the Council of the dismissal, resignation or abandonment; and the employer shall in doing so provide the Council with an account of the circumstances which led to the dismissal or which were present when the resignation or abandonment took place.
+
+#### [^F52]57B Provision of other information to Council by employer
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### Functions of the Scottish Ministers
+
+#### 58 Functions of the Scottish Ministers under this Part
+
+(1) The Scottish Ministers shall have the functions of—
+
+(a) ascertaining what numbers of—
+
+(i) social workers; and
+
+(ii) social service workers of other descriptions,
+
+are required within Scotland;
+
+(b) ascertaining what education or training is required by persons who are, or wish to become, social service workers;
+
+(c) ascertaining what financial and other assistance is required for promoting such training;
+
+(d) encouraging the provision of such assistance; and
+
+(e) drawing up occupational standards for such workers.
+
+(2) The Scottish Ministers shall encourage persons to take part—
+
+(a) in courses approved under section 54(1) of this Act by the Council; and
+
+(b) in other courses relevant to the education or training of persons who are, or wish to become, social service workers.
+
+(3) The Scottish Ministers may, if it appears to them that adequate provision is not being made for the education or training of persons who are, or wish to become, social service workers, provide, or secure the provision of, courses for that purpose.
+
+(4) Any function of the Scottish Ministers under this section [[^F53](to such extent as they choose)] —
+
+(a) may be delegated by them to the Council; or
+
+(b) may be exercised by any person, or by employees of any person, authorised to do so by the Scottish Ministers.
+
+(5) For the purpose of determining—
+
+(a) the terms and effect of an authorisation under subsection (4)(b) above; and
+
+(b) the effect of so much of any contract made between the Scottish Ministers and the authorised person as relates to the exercise of the function,
+
+Part II of the Deregulation and Contracting Out Act 1994 (c.40) shall have effect as if the authorisation were given by virtue of an order under section 69 of that Act.
+
+(6) In subsection (4)(b) above, “employee” has the same meaning as in the said Part II.
+
+## PART 4 — GENERAL PRINCIPLES
+
+### 59 General principles
+
+(1) The Scottish Ministers [^F54]... and the Council shall exercise their functions under this Act in accordance with the principles set out in the following subsections.
+
+(2) The safety and welfare of all persons who use, or are eligible to use, care services are to be protected and enhanced.
+
+(3) The independence of those persons is to be promoted.
+
+(4) Diversity in the provision of care services is to be promoted with a view to those persons being afforded choice.
+
+[[^F55](5) In subsection (2), “care service” means a care service as defined in section 47(1) of the Public Services Reform (Scotland) Act 2010 (asp 8).]
+
+## PART 5 — PROVISIONS COMMON TO COMMISSION AND COUNCIL
+
+### Grants and guarantees
+
+#### 60 Grants
+
+(1) The Scottish Ministers may make grants to [^F56]... the Council towards expenses incurred, or to be incurred, by it in connection with—
+
+(a) the initial establishment of the [[^F57]Council]; and
+
+(b) the discharge by [[^F58]the Council] of its functions.
+
+(2) Any grant made under subsection (1) above may be made on such terms and subject to such conditions (including conditions as to repayment) as the Scottish Ministers think fit; and the Scottish Ministers may from time to time after the grant is made vary such terms and conditions.
+
+#### 61 Guarantees
+
+(1) The Scottish Ministers may guarantee, in such manner and on such conditions as they think fit, the discharge of any financial obligation in connection with any sum which [^F59]... the Council borrows from any person.
+
+(2) Where the Scottish Ministers give a guarantee under this section they shall forthwith lay a statement of the guarantee before the Parliament.
+
+(3) Where any sum is paid out in fulfilment of a guarantee under this section, the Scottish Ministers shall, as soon as reasonably practicable after the end of each financial year (beginning with that in which the sum is paid out and ending with that in which all liability in respect of the principal of the sum and in respect of interest on it is finally discharged), lay before the Parliament a statement relating to that sum.
+
+(4) Where any sum is paid out in fulfilment of a guarantee under this section, [^F60]... the Council, shall make to the Scottish Ministers, at such times and in such manner as they may from time to time direct—
+
+(a) payments of such amounts as they may so direct in or towards repayment of the sum so paid out; and
+
+(b) payment of interest, at such rate as they may so direct, on what is outstanding for the time being in respect of that sum.
+
+### Duty to consult
+
+#### 62 Duty of Commission and Council to consult each other
+
+The [^F61]... Council shall [^F62]..., in the exercise of its functions, consult [[^F63]Social Care and Social Work Improvement Scotland] in every case in which it appears to the [[^F64]Council] appropriate that there should be such consultation.
+
+#### 63 Guidance as to consultation
+
+The Scottish Ministers shall issue guidelines to [^F65]... the Council as to the fulfilment, by the [[^F66]Council], of any requirement under this Act to consult any person or group of persons.
+
+### Complaints, inquiries and maladministration
+
+#### 64 Complaints procedure
+
+(1) [[^F67]The Council shall] establish a procedure by which a person, or someone acting on a person’s behalf, may make complaints (or other representations) in relation to the exercise by the [[^F68]Council] of, or failure by it to exercise, any of its functions under this Act in respect of the person.
+
+(2) Before establishing a procedure under subsection (1) above, the [[^F69]Council ] shall consult the Scottish [[^F70]Public Services Ombudsman] on its proposals for such a procedure [^F71]....
+
+(3) The [[^F72]Council] shall keep the procedure so established by it under review and shall vary that procedure whenever, [[^F73]after such consultation], it considers it appropriate to do so.
+
+(4) The [[^F74]Council ] shall give such publicity to that procedure (including that procedure as varied under subsection (3) above) as it considers appropriate and shall give a copy of the procedure to any person who requests it.
+
+#### 65 Inquiries
+
+(1) The Scottish Ministers may cause an inquiry to be held into any matter connected with—
+
+(a) the exercise [^F75]... by the Council of its functions; [^F76]or
+
+[^F76]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F77]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Council may cause an inquiry to be held into any matter connected with the exercise of its functions.
+
+(4) Before there is commenced an inquiry—
+
+(a) under subsection (1) above, the Scottish Ministers;
+
+[^F78]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) under subsection (3) above, the Council,
+
+may direct that it be held in private; but where no such direction has been given the person holding the inquiry may if that person thinks fit hold it, or any part of it, in private.
+
+(5) Subsections (2) to (8) of section 210 of the Local Government (Scotland) Act 1973 (c.65) (provisions relating to local inquiries) shall apply in relation to an inquiry under subsection (1) above as they apply in relation to a local inquiry under that section.
+
+(6) Subsections (2) to (6) of that section shall apply in relation to an inquiry under subsection [^F79]... (3) above as they apply in relation to such a local inquiry; except that, for the purposes of an inquiry under—
+
+[^F80]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) subsection (3) above, any such reference in those subsections shall be construed as a reference to the Council or, as the case may be, to an officer of the Council.
+
+(7) The expenses incurred [^F81]... by the Council in relation to an inquiry under subsection [[^F82](3)] above (including such reasonable sum as the [[^F83]Council] may determine for the services of any of its officers engaged in the inquiry) shall, unless [[^F84]the Council] is of the opinion that those expenses should be defrayed in whole or in part by it, be paid by such party to the inquiry as it may direct; and the [[^F85]Council] may certify the amount of the expenses so incurred.
+
+(8) Any sum certified under subsection (7) above and to be defrayed in accordance with a direction under that subsection shall be a debt due by the party directed and shall be recoverable accordingly.
+
+(9) In relation to an inquiry under—
+
+[^F86]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) subsection (3) above, the Council,
+
+may make an award as to the expenses of the parties and as to the parties by whom such expenses shall be paid.
+
+#### [^F87]66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — MISCELLANEOUS
+
+### Central Council for Education and Training in Social Work: cessation of Scottish functions
+
+#### 67 Cessation of exercise of certain functions by Central Council for Education and Training in Social Work
+
+The Central Council for Education and Training in Social Work shall cease to exercise in relation to Scotland the functions conferred on it by or under section 10 of the Health and Social Services and Social Security Adjudications Act 1983 (c.41).
+
+### Grants, loans and other payments
+
+#### 68 Grants in respect of activities relating to child care and family support
+
+(1) The Scottish Ministers may make grants to persons who—
+
+(a) to any extent, undertake or engage in activities which relate to—
+
+(i) the protection or care, under or by virtue of the Social Work (Scotland) Act 1968 (c.49) [^F88]... the Children (Scotland) Act 1995 (c.36) [[^F89]or the Children’s Hearings (Scotland) Act 2011 (asp 1)], of children; or
+
+(ii) the provision of support, under or by virtue of [[^F90]any] of those Acts, to families; or
+
+(b) propose to undertake or engage in such activities to any extent.
+
+(2) The Scottish Ministers may make the payment of a grant in pursuance of subsection (1) above subject to such conditions and requirements (including a requirement that the whole or any part of the grant be repaid) as they think fit.
+
+#### 69 Amendment of Social Work (Scotland) Act 1968: delegation of power to make grants and loans to certain voluntary organisations etc.
+
+In section 10 of the Social Work (Scotland) Act 1968 (c.49) (financial and other assistance to voluntary organisations etc. for social work)—
+
+(a) after subsection (1) there is inserted—
+
+> (1A) The Scottish Ministers may make grants and loans of such amounts, and subject to such conditions, as they may determine to a voluntary organisation engaged as is mentioned in subsection (1) above to enable that organisation (in this section referred to as the “primary organisation”) to make grants and loans (in this section referred to as “secondary grants and loans”) to other voluntary organisations, or other persons, so engaged, in circumstances where it appears to the primary organisation that the secondary grants and loans should be made; and the Scottish Ministers may require that any secondary grant be subject to such conditions (including conditions for securing the repayment in whole or in part of that grant) as they may specify.
+
+;
+
+and
+
+(b) in subsection (2), for the words “under the foregoing subsection" there is substituted “ by the Scottish Ministers under subsection (1) or (1A) above ”.
+
+#### [^F91]70 Amendment of Social Work (Scotland) Act 1968: direct payments to children for care services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 71 Amendment of Children Act 1975: maintenance payments to children
+
+In section 50 of the Children Act 1975 (c.72) (which empowers a local authority to make payments for or towards the maintenance of a child under sixteen who is residing with and being cared for, other than as a foster child, by a person other than the parent of the child), for the word “sixteen" there is substituted “ eighteen ”.
+
+### Nursing in local authority residential accommodation
+
+#### 72 Provision by local authorities of residential accommodation in which nursing is provided
+
+A local authority shall have power to provide and maintain such accommodation as is mentioned in subsection (1) of section 13A of the Social Work (Scotland) Act 1968 (c.49) (residential accommodation with nursing); and accordingly—
+
+(a) in that subsection—
+
+(i) after the word “shall" there is inserted the following paragraph—
+
+> (a) provide and maintain;
+
+;
+
+(ii) after that paragraph there is inserted the word “ or ”; and
+
+(iii) the existing words “make such arrangements as they consider appropriate and adequate for the provision of" become paragraph (b);
+
+(b) in subsection (2) of that section, the word “The", where it first occurs, is repealed; and
+
+(c) in section 59(1) of that Act (provision of residential and other establishments by local authorities etc.), for the words “Subject to" there are substituted the words “ Without prejudice to their duties under ”.
+
+### After-care
+
+#### 73 Amendment of Children (Scotland) Act 1995: after-care
+
+(1) In section 29 of the Children (Scotland) Act 1995 (c.36) (after-care for persons who have been looked after by local authorities)—
+
+(a) in subsection (3), at the beginning there is inserted “ Subject to section 73(2) of the Regulation of Care (Scotland) Act 2001 (asp 8), ”;
+
+(b) after subsection (4) there is added—
+
+> (5) It is the duty of each local authority, in relation to any person to whom they have a duty under subsection (1) above or who makes an application under subsection (2) above, to carry out an assessment of the person’s needs.
+>
+> (6) Each local authority shall establish a procedure for considering representations (including complaints) made to them by any person mentioned in subsection (1) or (2) above about the discharge of their functions under the provisions of subsections (1) to (5) above.
+>
+> (7) In subsection (1) above, the reference to having been “looked after by a local authority" shall be construed as including having been looked after by a local authority in England and Wales; and subsection (4) of section 105 of the Children Act 1989 (c.41) (construction of references to a child looked after by a local authority) shall apply for the purposes of this subsection as it applies for the purposes of that Act (“local authority in England and Wales” being construed in accordance with subsection (1) of that section).
+
+.
+
+(2) The Scottish Ministers may in regulations—
+
+(a) specify, either generally or in relation to a category or description of persons mentioned in subsection (1) or (2) of section 29 of the Children (Scotland) Act 1995 (or treated, by virtue of paragraph (b)(i) below, as so mentioned), the manner in which assistance is to be provided [[^F92]under subsection (1) or (5A)(a) of that section] or, as the case may be, may be provided under the [[^F93]subsection (5A)(b) or (5B) of that section];
+
+(b) prescribe a category or description of persons who—
+
+(i) though not mentioned in subsection (1) or (2) of that section are, for the purposes of the subsection in question, to be treated as persons so mentioned; or
+
+(ii) though so mentioned are, for the purposes of the subsection in question, not to be treated as so mentioned,
+
+but such category or description must for the purposes of sub-paragraph (i) above be of persons who are, or have been, “eligible children" within the meaning of paragraph 19B(1) of Schedule 2 to the Children Act 1989 (local authority support for children and families) or “relevant children" within the meaning of section 23A(1) of that Act (functions of responsible authority) and for the purposes of sub-paragraph (ii) above be of persons to whom the subsection in question applies by virtue of subsection (1) above;
+
+(c) make provision as to assessments for the purposes of subsection (5) of section 29 of the Children (Scotland) Act 1995; or
+
+(d) make provision as to procedures established under subsection (6) of that section.
+
+(3) Regulations under subsection (2)(c) above may in particular make provision about—
+
+(a) who is to be consulted in relation to an assessment;
+
+(b) the way in which an assessment is to be carried out, by whom and when;
+
+(c) the recording of the results of an assessment; or
+
+(d) the considerations to which the local authority are to have regard in carrying out the assessment.
+
+(4) Regulations under this section may make different provision for different areas.
+
+### Place of safety
+
+#### [^F94]74 Amendment of Children (Scotland) Act 1995: “place of safety"
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Panels
+
+#### 75 Panels for curators ad litem, reporting officers and safeguarders
+
+In section 101 of the Children (Scotland) Act 1995 (c.36) (establishment of a panel of persons from whom curators ad litem, reporting officers and safeguarders may be appointed)—
+
+(a) for subsection (1) there is substituted—
+
+> (1) The Scottish Ministers may by regulations make provision for the establishment of one or more of each of the following—
+>
+> (a) a panel of persons from which curators ad litem may be appointed under section 58 of the Adoption (Scotland) Act 1978 or under section 87(4) of this Act;
+>
+> (b) a panel of persons from which reporting officers may be appointed under either of those sections; and
+>
+> (c) a panel of persons from which appointments may be made under section 41(1) of this Act.
+
+;
+
+(b) in subsection (2), in each of paragraphs (a) and (b), for the words “the panel" there is substituted “ those panels ”; and
+
+(c) for subsection (3) there is substituted—
+
+> (3) Regulations under subsection (1) above may provide—
+>
+> (a) for the defrayment by local authorities of expenses incurred by members of any panel established by virtue of that subsection; and
+>
+> (b) for the payment by local authorities of fees and allowances for such members.
+>
+> (4) Paragraphs 9 and 10(b) of Schedule 1 to this Act shall apply in relation to any panel established by virtue of subsection (1)(c) above as they apply in relation to children’s panels.
+
+.
+
+#### [^F95]76 Amendment of Children (Scotland) Act 1995: Children’s Panel Advisory Committees
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — GENERAL
+
+### 77 [[^F96]Interpretation
+
+In this Act, unless the context otherwise requires—
+
+- “care service” has the meaning given by section 47(1) of the Public Services Reform (Scotland) Act 2010 (asp 8);
+
+- “the Council” means the Scottish Social Services Council (which is constituted under section 43 of this Act);
+
+- [^F97]...
+
+- “enactment” has the meaning given by section 126(1) of the Scotland Act 1998 (c.46);
+
+- “equal opportunities” and “equal opportunity requirements” have the same meanings as in Section L2 (equal opportunities) of Schedule 5 to the Scotland Act 1998;
+
+- [^F97]...
+
+- [^F97]...
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39);
+
+- “notice” means notice in writing;
+
+- “prescribed” means prescribed by order made by the Scottish Ministers;
+
+- “regulations” means regulations made by the Scottish Ministers;
+
+- [^F97]...
+
+- “social service worker” means a person, other than a person excepted from this definition by regulations, who—
+
+  - has an entitling professional qualification in social work (that is to say a qualification which, if the person holding it also satisfies the requirements of subsection (2)(a) and (b) of section 46 of this Act and, except where section 46B of this Act applies, the requirements as to education imposed as mentioned in subsection (2)(c)(i) of that section, entitles that person to be registered in the part for social workers of the register maintained under section 44(1) of this Act); or
+  - [^F98]...
+  - not being a person mentioned in paragraph (a) or (b) above, is employed in the provision of (or in managing the provision of) a care service; or
+  - being an employee of Social Care and Social Work Improvement Scotland, is an authorised person by virtue of section 56 of the Public Services Reform (Scotland) Act 2010;
+
+- “social worker” means a person described in paragraph (a) of the definition, above, of “social service worker”;
+
+- [^F97]...
+
+- “voluntary organisation” means a body, other than a public or local authority, the activities of which are not carried on for profit.]
+
+### 78 Orders and regulations
+
+(1) Any order or regulations made under this Act shall be made by statutory instrument; and, subject to subsection (2), a statutory instrument containing any such order, other than an order under section 81(2), or any such regulations shall be subject to annulment in pursuance of a resolution of the Parliament.
+
+(2) A statutory instrument containing—
+
+(a) regulations under section 28(1)(a), 56(1)(a) or 73(2)(b);
+
+(b) an order under section 3 [[^F99]or 25(5A)]; or
+
+(c) if it amends or repeals an enactment, an order under section 80(2),
+
+of this Act shall not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+### 79 Minor and consequential amendments
+
+Schedule 3 to this Act, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
+
+### 80 Repeals and transitional provisions etc.
+
+(1) The enactments mentioned in schedule 4 to this Act are repealed to the extent mentioned in the second column of that schedule.
+
+(2) The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes, or in consequence, of this Act.
+
+(3) An order under subsection (2) above may amend or repeal any enactment (including any provision of this Act).
+
+(4) Before making an order under subsection (2) above, the Scottish Ministers shall consult such persons, or groups of persons, as they consider appropriate.
+
+### 81 Short title and commencement
+
+(1) This Act may be cited as the Regulation of Care (Scotland) Act 2001.
+
+(2) There shall come into force at the end of the period of fourteen days beginning with the day of Royal Assent sections 1, 4, 28, 43, 56 to 62, 66, 68 and 69, 74 to 78 and 80(2) of, and schedules 1 and 2 to, this Act; and the other provisions of this Act, except this section, shall come into force on such day as the Scottish Ministers may by order made by statutory instrument appoint.
+
+(3) Different days may be so appointed for different provisions and for different purposes.
+
+(4) An order under subsection (2) above may contain such transitional provisions and such savings as the Scottish Ministers think fit.
+
+## [^F100]SCHEDULE 1 — THE SCOTTISH COMMISSION FOR THE REGULATION OF CARE
+
+**(introduced by section 1(3))**
+
+### Status
+
+**[^F100]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Membership
+
+**[^F100]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F100]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F100]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F100]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General powers
+
+**[^F100]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Regulations as to appointments, procedure etc.
+
+**[^F100]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Staff
+
+**[^F100]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounts
+
+**[^F100]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reports
+
+**[^F100]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — THE SCOTTISH SOCIAL SERVICES COUNCIL
+
+**(introduced by section 43(3))**
+
+### Status
+
+**1** The Council shall not be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown; and the Council’s property shall not be regarded as property of, or property held on behalf of, the Crown.
+
+### Membership
+
+**2** The Council shall consist of a convener and other members appointed by the Scottish Ministers on such terms and conditions as appear to the Scottish Ministers to be appropriate.
+
+**3** In making appointments under paragraph 2 above, the Scottish Ministers shall have regard to the desirability of encouraging equal opportunities.
+
+**4** In making appointments under paragraph 2 above, the Scottish Ministers shall ensure that there is—
+
+(a) a requisite number of appointees who are persons registered under Part 3 of this Act; and
+
+(b) a requisite number of appointees who are persons who either—
+
+(i) use, or have used, care services or services which prospectively are to become care services; or
+
+(ii) care for such persons as fall within sub-head (i) above.
+
+**5** In paragraph 4 above, “requisite number” means at least two unless one sixth of the total number of members is (disregarding any fraction) a number greater than two, in which case it means at least that number greater than two.
+
+### General powers
+
+**6** Subject to any directions given by the Scottish Ministers, the Council may do anything which appears to it to be necessary or expedient for the purpose of, or in connection with, the exercise of its functions; and without prejudice to that generality the Council may in particular—
+
+(a) co-operate with other persons in matters relevant to the exercise of its functions;
+
+(b) acquire and dispose of land and other property;
+
+(c) enter into contracts; and
+
+(d) with the consent of the Scottish Ministers, borrow sums in sterling by way of overdraft for the purpose of meeting a temporary excess of expenditure over sums otherwise available to meet that expenditure.
+
+### Regulations as to appointments, procedure etc.
+
+**7** The Scottish Ministers, after consulting such persons, or groups of persons, as they consider appropriate, may by regulations make provision as to—
+
+(a) the appointment of the convener (including any conditions to be fulfilled for appointment);
+
+(b) the appointment of the other members (including, subject to paragraph 4 above, the number, or limits on the number, of those who may be appointed and any conditions to be fulfilled for appointment);
+
+(c) the tenure of office of the convener and other members (including the circumstances in which they shall cease to hold office or may be removed or suspended from office);
+
+(d) the appointment of, constitution of and exercise of functions by committees and sub-committees (including committees and sub-committees which consist of or include persons who are not members of the Council);
+
+(e) the procedure of the Council and of any of its committees or sub-committees (including the validation of proceedings in the event of vacancies or of defects in appointment);
+
+(f) the payment by the Council to its convener and members (and to the members of its committees and sub-committees who are not members of the Council) of such remuneration and allowances—
+
+(i) on such terms; and
+
+(ii) subject to such conditions,
+
+as the Scottish Ministers think fit;
+
+(g) the payment by the Council to, or in respect of, persons who have been its convener or members (or such members of committees and sub-committees as are mentioned in head (f) above) of such pensions, allowances and gratuities—
+
+(i) on such terms; and
+
+(ii) subject to such conditions,
+
+as the Scottish Ministers think fit;
+
+(h) the payment by the Council of compensation to any person who, other than on the expiry of a term of office, ceases to be its convener or to be a member of it; and
+
+(i) the delegation by the Council of any of its functions to any of its committees, sub-committees, members or employees.
+
+### Staff
+
+**8** (1) Subject to sub-paragraph (2) below, the Council may appoint as employees such persons (other than its convener or members) as it considers appropriate.
+
+(2) The Council shall have, as a member of its staff, a chief officer who shall be responsible to the Council for the general exercise of its functions; and the appointment of that officer shall be subject to the approval of the Scottish Ministers.
+
+(3) The remuneration and conditions of service of a chief officer appointed under this paragraph shall be such as the Council, with the consent of the Scottish Ministers, may determine.
+
+(4) The Council may—
+
+(a) pay, or make arrangements for the payment of;
+
+(b) make payments towards the provision of; and
+
+(c) provide and maintain schemes (whether contributory or not) for the payment of,
+
+pensions, allowances and gratuities to or in respect of such of its employees, or former employees, as it thinks fit.
+
+(5) The reference in sub-paragraph (4) above to pensions, allowances and gratuities includes, subject to sub-paragraph (6) below, a reference to pensions, allowances and gratuities by way of compensation for loss of employment or reduction in remuneration.
+
+(6) Anything done by virtue of sub-paragraph (5) above requires the approval of the Scottish Ministers.
+
+### Accounts
+
+**9** (1) The Council shall—
+
+(a) keep accounts; and
+
+(b) prepare annual accounts in respect of each financial year,
+
+in accordance with such directions as the Scottish Ministers may give it.
+
+(2) The Council shall send a copy of the annual accounts to the Auditor General for Scotland for auditing.
+
+(3) The financial year of the Council is—
+
+(a) the period beginning with the date on which the Council is established and ending with 31st March next following that date; and
+
+(b) each successive period of twelve months ending with 31st March.
+
+(4) If requested by any person, the Council shall make available at any reasonable time, without charge, in printed or in electronic form, its audited accounts, so that they may be inspected by that person.
+
+### Reports
+
+**10** (1) As soon as possible after the end of each financial year of the Council, it shall make a report to the Scottish Ministers on the exercise of its functions during that year; and they shall lay before the Parliament a copy of that report.
+
+(2) The Council shall provide the Scottish Ministers with such reports and information relating to the exercise of its functions as they may from time to time require.
+
+## SCHEDULE 3 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+**(introduced by section 79)**
+
+### Human Tissue Act 1961 (c.54)
+
+**1** In section 1(7) of the Human Tissue Act 1961 (removal of parts of bodies for medical purposes), after the word “institution" there is inserted “ or in accommodation provided by a care home service (“care home service” having the meaning given by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)) ”.
+
+### Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c.49)
+
+**2** In section 50 of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (events occurring in institutions)—
+
+(a) the words “nursing home" are repealed;
+
+(b) after the word “institution", where it first occurs, there is inserted “ or of accommodation provided by a care home service (“care home service” having the meaning given by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)) ”; and
+
+(c) after the word “institution", where it occurs for the second and third times, there is in each case inserted “ or accommodation ”.
+
+### Sewerage (Scotland) Act 1968 (c.47)
+
+**3** In section 59 of the Sewerage (Scotland) Act 1968 (interpretation)—
+
+(a) in subsection (1), in the definition of “trade or industry", for the words—
+
+(i) “and the carrying on of a hospital or a nursing home" there is substituted “ , the carrying on of a hospital and the provision of a care home service ”; and
+
+(ii) “a nursing home", where they occur for the second time, there is substituted “ as accommodation provided by a care home service ”; and
+
+(b) after subsection (3) there is inserted—
+
+> (3A) In the definition of “trade or industry" in subsection (1) above, the references to a “care home service" shall be construed in accordance with section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8).
+
+.
+
+### Social Work (Scotland) Act 1968 (c.49)
+
+**4** (1) The Social Work (Scotland) Act 1968 is amended as follows.
+
+(2) In section 10(3A) (construction of the expression “voluntary organisation the sole or primary object of which is to promote social welfare"), for the words “an adoption society approved under Part I of the Adoption (Scotland) Act 1978" there is substituted “ a person providing, as mentioned in section 2(11)(b) of the Regulation of Care (Scotland) Act 2001 (asp 8), an adoption service registered under Part 1 of that Act ”.
+
+(3) In section 13A, for subsection (2) there is substituted—
+
+> (2) The arrangements made by virtue of subsection (1) above shall be made with a voluntary or other organisation or other person, being an organisation or person providing—
+>
+> (a) an independent health care service which is a private psychiatric hospital; or
+>
+> (b) a care home service.
+>
+> (2A) Expressions used in subsection (2) above have the same meanings as in the Regulation of Care (Scotland) Act 2001 (asp 8).
+
+.
+
+### Medicines Act 1968 (c.67)
+
+**5** In section 10 of the Medicines Act 1968 (exemptions for pharmacists)—
+
+(a) in subsection (1), after the word “hospital" there is inserted “ , a care home service ”; and
+
+(b) at the end there is added—
+
+> (9) In subsection (1) of this section, “care home service" has the meaning given by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8).
+
+.
+
+### Employment Agencies Act 1973 (c.35)
+
+**6** In section 13(8)(a) of the Employment Agencies Act 1973 (application of Act to Scotland), for the words from “any agency" to “1951" there is substituted “ a nurse agency as defined in section 2(6) of the Regulation of Care (Scotland) Act 2001 (asp 8) ”.
+
+### Adoption (Scotland) Act 1978 (c.28)
+
+**[^F101]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Water (Scotland) Act 1980 (c.45)
+
+**8** In section 50 of the Water (Scotland) Act 1980 (power to require supply by meter)—
+
+(a) in paragraph (b), the words “, nursing home" are repealed; and
+
+(b) after that paragraph, there is inserted—
+
+> (bb) accommodation provided by a care home service (as defined by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8);
+
+.
+
+### Administration of Justice Act 1982 (c.53)
+
+**9** In section 11 of the Administration of Justice Act 1982 (maintenance at public expense taken into account in assessment of damages)—
+
+(a) the words “, nursing home" are repealed;
+
+(b) the words from “a hospital" to “institution" become paragraph (a); and
+
+(c) after that paragraph there is inserted—
+
+> ; or
+>
+> (b) accommodation provided by a care home service (as defined by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8),
+
+.
+
+### Anatomy Act 1984 (c.14)
+
+**10** In section 4(9) of the Anatomy Act 1984 (lawful examination of bodies after death)—
+
+(a) the words “, nursing home" are repealed;
+
+(b) the words from “a hospital" to “institution", where it occurs for the first time, become paragraph (a);
+
+(c) after that paragraph, there is inserted—
+
+> ; or
+>
+> (b) accommodation provided by a care home service (as defined by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)
+
+; and
+
+(d) after the word “institution", where it occurs for the second time, there is inserted “ or accommodation ”.
+
+### Mental Health (Scotland) Act 1984 (c.36)
+
+**11** (1) The Mental Health (Scotland) Act 1984 is amended as follows.
+
+[^F102]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F102]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F102]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F102]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F102]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F102]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In section 126 (preservation of amendments), subsection (1)(a) is repealed.
+
+(9) In Schedule 3 (consequential amendments), paragraph 3 is repealed.
+
+### Foster Children (Scotland) Act 1984 (c.56)
+
+**12** (1) The Foster Children (Scotland) Act 1984 is amended as follows.
+
+(2) In section 2(2)(d) (children who are not foster children), for the words from “nursing home" to the end there is substituted “ accommodation provided by a care home service registered under Part 1 of the Regulation of Care (Scotland) Act 2001 (asp 8) ”.
+
+(3) In section 21(1) (interpretation)—
+
+(a) at the appropriate place there is inserted—
+
+> “care home service” has the meaning given by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8);
+
+;
+
+and
+
+(b) in the definition of “place of safety" for the words from “means" to the end there is substituted “ has the meaning given by section 93(1) of the Children (Scotland) Act 1995 (c.36) ”.
+
+### Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)
+
+**13** In section 2(5)(d) of the Disabled Persons (Services, Consultation and Representation) Act 1986 (rights of authorised representatives of disabled persons), for the words “an establishment (other than accommodation falling within paragraph (c) above) registered under section 61 of the 1968 Act" there is substituted “ provided by a care home service within the meaning of the Regulation of Care (Scotland) Act 2001 (asp 8) ”.
+
+### Income and Corporation Taxes Act 1988 (c.1)
+
+**14** In section 155A(6) of the Income and Corporation Taxes Act 1988 (care for children)—
+
+(a) in paragraph (a), the words “section 1 of the Nurseries and Child-Minders Regulation Act 1948 or" are repealed;
+
+(b) the word “or" immediately following that paragraph is repealed;
+
+(c) in paragraph (b), the words “section 71 or" are repealed;
+
+[^F103]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F103]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Children Act 1989 (c.41)
+
+**15** (1) The Children Act 1989 is amended as follows.
+
+(2) In section 105 (interpretation)—
+
+(a) in subsection (5A), paragraph (a) is repealed; and
+
+(b) after subsection (5A), there is inserted—
+
+> (5B) References in this Act to acting as a child minder and to a child minder shall be construed, in relation to Scotland, in accordance with section 2(17) of the Regulation of Care (Scotland) Act 2001 (asp 8).
+
+.
+
+### Opticians Act 1989 (c.44)
+
+**16** In section 27(5) of the Opticians Act 1989 (sale of optical appliances to medical institutions), after paragraph (c) there is inserted—
+
+> (cc) to any authority or person providing a care home service (as defined by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)), which includes the provision of medical or surgical treatment;
+
+.
+
+### Environmental Protection Act 1990 (c.43)
+
+**17** In section 75(5)(e) of the Environmental Protection Act 1990 (meaning of “household waste”), for the words “nursing home" there is substituted “ which are used to provide a care home service (as defined by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)) ”.
+
+### Local Government Finance Act 1992 (c.14)
+
+**18** In paragraph 8 of Schedule 1 to the Local Government Finance Act 1992 (persons disregarded for purposes of discount)—
+
+(a) in sub-paragraph (1), for heads (a) and (b) there is substituted—
+
+> (a) either—
+>
+> (i) he has as his sole or main residence a private hospital in Scotland; or
+>
+> (ii) a care home service provides, in Scotland, accommodation which is his sole or main residence; and
+>
+> (b) he is receiving care or treatment (or both) in the hospital or in the accommodation so provided.
+
+;
+
+(b) in sub-paragraph (2)—
+
+(i) the definitions of “hostel", “nursing home" and “residential care home" are repealed; and
+
+(ii) after the word “paragraph—" there is inserted—
+
+> “care home service” has the same meaning as in the Regulation of Care (Scotland) Act 2001 (asp 8); and
+
+;
+
+(c) sub-paragraph (3) is repealed; and
+
+(d) in sub-paragraph (4)—
+
+(i) the words “nursing home", are repealed; and
+
+(ii) for the words “residential care home" there is substituted “ care home service ”.
+
+### Children (Scotland) Act 1995 (c.36)
+
+**19** (1) The Children (Scotland) Act 1995 is amended as follows.
+
+(2) In section 36(3) (persons who must notify local authority where child provided with residential accommodation)—
+
+(a) sub-paragraph (ii), and the word “or" immediately preceding that sub-paragraph, are repealed; and
+
+(b) after paragraph (c) there is added—
+
+> ; and
+>
+> (d) any person providing a care home service (as defined by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)).
+
+.
+
+(3) In section 38(1)(b) (short-term refuges for children at risk of harm)—
+
+(a) for the words from “carries on" to “that Act)" there is substituted “ provides a care home service (as defined by section 2(3) of the Regulation of Care (Scotland) Act 2001 (asp 8)) ”;
+
+(b) for the words “that establishment" there is substituted “ the accommodaton in question ”; and
+
+(c) for the word “establishment", where it occurs for the third, fourth, fifth and sixth times, there is in each case substituted “ accommodation ”.
+
+(4) In section 93(1) (interpretation of Part II of that Act), in the definition of “secure accommodation"—
+
+(a) after the word “approved" there is inserted “ by the Scottish Ministers in accordance with regulations made under section 29(9)(a) of the Regulation of Care (Scotland) Act 2001 (asp 8) or ”; and
+
+(b) the words “section 60(1)(bb) of the Social Work (Scotland) Act 1968 or under" are repealed.
+
+### Criminal Procedure (Scotland) Act 1995 (c.46)
+
+**20** In section 307(1) of the Criminal Procedure (Scotland) Act 1995 (interpretation), in the definition of “hospital", in paragraph (b), for the words “registered under Part IV" there is substituted “ as defined in section 12(2) ”.
+
+### Police Act 1997 (c.50)
+
+**[^F104]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Adoption (Intercountry Aspects) Act 1999 (c.18)
+
+**22** In section 2 of the Adoption (Intercountry Aspects) Act 1999 (central authorities and accredited bodies)—
+
+(a) subsection (2) is repealed;
+
+(b) after subsection (2A) there is inserted—
+
+> (2B) A registered adoption service is an accredited body for the purposes of the Convention if, in accordance with the conditions of its registration, the service may provide facilities in respect of Convention adoptions and adoptions effected by Convention adoption orders.
+
+;
+
+and
+
+(c) for subsection (6) there is substituted—
+
+> (6) In this section in its application to Scotland, “registered adoption service” means an adoption service provided as mentioned in section 2(11)(b) of the Regulation of Care (Scotland) Act 2001 (asp 8) and registered under Part 1 of that Act; and “registration” shall be construed accordingly.
+
+.
+
+### Adults with Incapacity (Scotland) Act 2000 (asp 4)
+
+**23** (1) The Adults with Incapacity (Scotland) Act 2000 is amended as follows.
+
+(2) In section 35 (application of Part 4)—
+
+(a) in subsection (1), for paragraphs (a) to (g) there is substituted—
+
+> (a) a health service hospital;
+>
+> (b) an independent hospital or private psychiatric hospital;
+>
+> (c) a State hospital;
+>
+> (d) a care home service; and
+>
+> (e) a limited registration service.
+
+;
+
+(b) in subsection (2), for the words “(ca), (cb), (d) or (f)" there is substituted “ (d) or (e) ”;
+
+(c) in subsection (3)(b), for the words “for registration of an" there is substituted “ , under section 7(1) of the Regulation of Care (Scotland) Act 2001 (asp 8), for registration of the service which comprises that ”; and
+
+(d) at the end there is added—
+
+> (6) Expressions used in subsection (1) and in the Regulation of Care (Scotland) Act 2001 have the same meanings in that subsection as in that Act.
+
+.
+
+(3) In section 40 (supervisory bodies)—
+
+(a) in subsection (1), for the words from the beginning of the subsection to the end of paragraph (c) there is substituted—
+
+> (1) The supervisory body for the purposes of this Part is, in relation to—
+>
+> (a) a registered establishment, the Scottish Commission for the Regulation of Care; and
+>
+> (b) an unregistered establishment, the Health Board for the area in which the establishment is situated;
+
+;
+
+(b) in each of subsections (2) and (3), for the word “A" there is substituted “ The ”; and
+
+(c) in subsection (4), for the words from “by regulations" to the end there is substituted “ , as respects any authorised establishment, amend subsection (1) by substituting for the supervisory body allotted to that establishment a different supervisory body. ”.
+
+(4) In section 45 (appeal, revocation etc.)—
+
+(a) for the word “a" where it first occurs there is substituted “ the ”;
+
+(b) for paragraphs (a) and (b) there is substituted “ that power to manage ”;
+
+(c) subsection (2) is repealed;
+
+(d) in subsection (3), the words “registration or" are repealed; and
+
+(e) in subsection (6), for the word “a" there is substituted “ the ”.
+
+(5) In section 84 (applications to guardians appointed under Criminal Procedure (Scotland) Act 1995 (c.46)), in subsection (1)(b) of the section prospectively inserted by subsection (2), for the words “60A" there is substituted “ 60B ”.
+
+(6) In schedule 1 (managers of an establishment), for paragraphs (d) to (g) there is substituted—
+
+> (d) in relation to a care service or limited registration service—
+>
+> (i) the person identified under section 7(2)(b) of the Regulation of Care (Scotland) Act 2001 (asp 8) in the application for registration of the service;
+>
+> (ii) if the application is made under section 33(1) of that Act, the local authority or any person appointed by the local authority to manage the service; or
+>
+> (iii) if another person has been identified in pursuance of regulations under section 29(7)(j) of that Act, the other person so identified,
+>
+> and in paragraph (d) above “care service" and “limited registration service" have the same meanings as in the Regulation of Care (Scotland) Act 2001.
+
+.
+
+(7) In schedule 5 (minor and consequential amendments), in paragraph 26(3)—
+
+(a) for the word “60" there is substituted “ 60A ”;
+
+(b) for the words “60A" there is substituted “ 60B ”; and
+
+(c) after the words “intervention order" there is inserted “ (as defined in section 53(1) of the Adults with Incapacity (Scotland) Act 2000 (asp 4) ”.
+
+**[^F105]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sexual Offences (Amendment) Act 2000 (c.44)
+
+**[^F106]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — REPEALS
+
+**(introduced by section 80(1))**
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Nursing Homes Registration (Scotland) Act 1938 (c.73) | The whole Act. |
+| Nurses (Scotland) Act 1951 (c.55) | The whole Act. |
+| Social Work (Scotland) Act 1968 (c.49) | In section 5(1B), paragraph (o); and the word “and" which immediately precedes that paragraph. In section 6A(1), paragraph (c). Sections 60 to 68. In section 94(1), in paragraph (c) of the definition of “prescribed", the words “62(2), 64A(3), 66(1) and (2),". Schedule 5. |
+| Criminal Law Act 1977 (c.45) | In Schedule 6, the entries relating to the Nursing Homes Registration (Scotland) Act 1938 and to sections 60(3), 61(3), 62(6) and 65(4) of the Social Work (Scotland) Act 1968. |
+| National Health Service (Scotland) Act 1978 (c.29) | In Schedule 16, paragraph 7. |
+| Nurses, Midwives and Health Visitors Act 1979 (c.36) | In Schedule 7, paragraphs 1 to 6. |
+| Health Services Act 1980 (c.53) | In Schedule 4, Part II, except paragraph 16. |
+| Mental Health (Scotland) Act 1984 (c.36) | Part IV, except subsection (2) of section 12. |
+| Foster Children (Scotland) Act 1984 (c.56) | Section 7(1)(e). |
+| Registered Establishments (Scotland) Act 1987 (c.40) | The whole Act. |
+| Children Act 1989 (c.41) | Section 19. Part X. Section 80. In section 102(6)(a), the words “76,". In section 108 (11), the words “section 19;" and “Part X; section 80(1)(h) and (i), (2) to (4), (5)(a), (b) and (h) and (6) to (12);". Schedule 9. |
+| National Health Service and Community Care Act 1990 (c.19) | In section 63(2), paragraph (b); and the word “and" which immediately precedes that paragraph. In Schedule 9, paragraphs 3 and 10(8) to (10). |
+| Tribunals and Inquiries Act 1992 (c.53) | In Part II of Schedule 1, paragraph 61(b). |
+| Children (Scotland) Act 1995 (c.36) | Sections 34 and 37. In section 94, subsections (1) and (2). In Schedule 2, paragraphs 3 and 5(a). In Schedule 4, paragraphs 15(16) and 48(4). |
+| Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40) | In Schedule 2, in Part II, the entries relating to the Nursing Homes Registration (Scotland) Act 1938 (c.73). |
+| Registered Establishments (Scotland) Act 1998 (c.25) | The whole Act. |
+| Adults with Incapacity (Scotland) Act 2000 (asp 4) | Section 36. Section 38. In schedule 5, paragraphs 10 and 11. |
+
+---
+
+[^F1]: Pt. 1 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 37; S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch. (with savings and transitional provisions in S.S.I. 2011/121, arts. 1(1), 15-21 and S.S.I. 2011/169, arts. 1(1), 2, 3)
+[^F2]: Pt. 2 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 37; S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch. (with savings and transitional provisions in S.S.I. 2011/121, arts. 1(1), 15-21)
+[^F3]: S. 44(1)(aa) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 3(a) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F4]: S. 44(2)(2A) substituted for s. 44(2) (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 257(b)
+[^F5]: S. 44(2)(b) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 3(b) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F6]: S. 44(2A) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 3(c) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F7]: Words in s. 45(1) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 4(a) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: S. 45(1A) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 4(b) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F9]: Words in s. 46(1) inserted (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 259(a)
+[^F10]: Words in s. 46(2)(c) substituted (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 259(b)
+[^F11]: Words in s. 46(2) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 2(a); S.S.I. 2010/221, art. 3(2), sch.
+[^F12]: S. 46(2A)-(2H) inserted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 2(b); S.S.I. 2010/221, art. 3(2), sch.
+[^F13]: S. 46(3) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 2(c); S.S.I. 2010/221, art. 3(2), sch.
+[^F14]: S. 46(4)-(7) omitted (3.12.2007) by virtue of The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 259(c)
+[^F15]: S. 46A omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 5 (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F16]: Ss. 46A, 46B inserted (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 260
+[^F17]: S. 46B(a) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 6 (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F18]: Words in s. 47(1) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 7 (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F19]: Words in s. 47(1) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 3(a); S.S.I. 2010/221, art. 3(2), sch.
+[^F20]: Words in s. 47(2) renumbered as s. 47(2)(a) (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 3(b)(i); S.S.I. 2010/221, art. 3(2), sch.
+[^F21]: Word in s. 47(2) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 3(b)(ii); S.S.I. 2010/221, art. 3(2), sch.
+[^F22]: S. 47(2)(b)(c) added (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 3(b)(iii); S.S.I. 2010/221, art. 3(2), sch.
+[^F23]: Words in s. 48 heading substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 5; S.S.I. 2010/221, art. 3(2), sch.
+[^F24]: Words in s. 48(1) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 4(a); S.S.I. 2010/221, art. 3(2), sch.
+[^F25]: S. 48(2)-(4) substituted for s. 48(2) (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 4(b); S.S.I. 2010/221, art. 3(2), sch.
+[^F26]: Word in s. 49(1)(e) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 6; S.S.I. 2010/221, art. 3(2), sch.
+[^F27]: Words in s. 50 heading added (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 8; S.S.I. 2010/221, art. 3(2), sch.
+[^F28]: S. 50(1) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 7(a); S.S.I. 2010/221, art. 3(2), sch.
+[^F29]: S. 50(2)(a) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 7(b); S.S.I. 2010/221, art. 3(2), sch.
+[^F30]: S. 50(3)(b) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 7(c); S.S.I. 2010/221, art. 3(2), sch.
+[^F31]: Words in s. 50(4) inserted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 7(d)(i); S.S.I. 2010/221, art. 3(2), sch.
+[^F32]: Words in s. 50(4) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 7(d)(ii); S.S.I. 2010/221, art. 3(2), sch.
+[^F33]: Words in s. 50(4)(a) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 7(d)(iii); S.S.I. 2010/221, art. 3(2), sch.
+[^F34]: S. 50(5) added (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 7(e); S.S.I. 2010/221, art. 3(2), sch.
+[^F35]: S. 50A and cross-heading inserted (7.1.2026) by Care Reform (Scotland) Act 2025 (asp 9), ss. 20(2), 39(2); S.S.I. 2025/388, reg. 2(1)(2), sch. Pt. 1
+[^F36]: S. 51(A1)-(A5) inserted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 9(a); S.S.I. 2010/221, art. 3(2), sch.
+[^F37]: S. 51(1) substituted (3.12.2007) by The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101), regs. 1(2), 263
+[^F38]: Word in s. 51(1)(a) omitted (18.11.2016) by virtue of The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 117(2) (with reg. 155)
+[^F39]: S. 51(1)(b) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 8(a) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F40]: S. 51(1)(c) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 8(a) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F41]: Words in s. 51(1) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 9(b); S.S.I. 2010/221, art. 3(2), sch.
+[^F42]: Words in s. 51(2) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 9(c)(i); S.S.I. 2010/221, art. 3(2), sch.
+[^F43]: Word in s. 51(2) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 9(c)(ii); S.S.I. 2010/221, art. 3(2), sch.
+[^F44]: Words in s. 51(2)(b) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 8(b) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F45]: S. 51(2)(c) and word inserted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 9(c)(iii); S.S.I. 2010/221, art. 3(2), sch.
+[^F46]: Words in s. 53(2)(b) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 3; S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F47]: S. 53(3A)(3B) inserted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 10(a); S.S.I. 2010/221, art. 3(2), sch.
+[^F48]: S. 53(6)(7) inserted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 10(b); S.S.I. 2010/221, art. 3(2), sch.
+[^F49]: S. 57(2A) omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 9 (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F50]: Ss. 57A, 57B and cross-heading inserted (17.10.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 32, 43(3); S.S.I. 2005/492, art. 3(a), sch. 1
+[^F51]: S. 57A cross-heading substituted (7.1.2026) by Care Reform (Scotland) Act 2025 (asp 9), ss. 20(3), 39(2); S.S.I. 2025/388, reg. 2(1)(2), sch. Pt. 1
+[^F52]: S. 57B repealed (7.1.2026) by Care Reform (Scotland) Act 2025 (asp 9), ss. 20(4), 39(2); S.S.I. 2025/388, reg. 2(1)(2), sch. Pt. 1
+[^F53]: Words in s. 58(4) inserted (7.1.2026) by Care Reform (Scotland) Act 2025 (asp 9), ss. 21(2), 39(2); S.S.I. 2025/388, reg. 2(1)(2), sch. Pt. 1
+[^F54]: Words in s. 59(1) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 4(a); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F55]: S. 59(5) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 4(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F56]: Words in s. 60(1) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 5(a); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F57]: Word in s. 60(1)(a) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 5(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F58]: Words in s. 60(1)(b) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 5(c); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F59]: Words in s. 61(1) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 6(a); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F60]: Words in s. 61(4) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 6(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F61]: Words in s. 62 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 7(a); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F62]: Word in s. 62 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 7(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F63]: Words in s. 62 substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 7(c); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F64]: Word in s. 62 substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 7(d); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F65]: Words in s. 63 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 8(a); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F66]: Word in s. 63 substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 8(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F67]: Words in s. 64(1) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 9(a)(i); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F68]: Word in s. 64(1) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 9(a)(ii); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F69]: Word in s. 64(2) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 9(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F70]: Words in s. 64(2) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 11(a)(i); S.S.I. 2010/221, art. 3(2), sch.
+[^F71]: Words in s. 64(2) repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 11(a)(ii); S.S.I. 2010/221, art. 3(2), sch.
+[^F72]: Word in s. 64(3) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 9(c); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F73]: Words in s. 64(3) substituted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 15 para. 11(b); S.S.I. 2010/221, art. 3(2), sch.
+[^F74]: Word in s. 64(4) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 9(d); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F75]: Words in s. 65(1)(a) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(a)(i); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F76]: S. 65(1)(b) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(a)(ii); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F77]: S. 65(2) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F78]: S. 65(4)(b) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(c); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F79]: Words in s. 65(6) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(d)(i); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F80]: S. 65(6)(a) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(d)(ii); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F81]: Words in s. 65(7) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(e)(i); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F82]: Word in s. 65(7) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(e)(ii); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F83]: Word in s. 65(7) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(e)(iii); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F84]: Words in s. 65(7) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(e)(iv); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F85]: Word in s. 65(7) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(e)(v); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F86]: S. 65(9)(a) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 10(f); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F87]: S. 66 repealed (23.10.2002) by 2002 asp 11, s. 25, Sch. 6 para. 24; S.S.I. 2002/467, art. 2
+[^F88]: Word in s. 68(1) repealed (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 11(a)
+[^F89]: Words in s. 68(1) inserted (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 11(b)
+[^F90]: Word in s. 68(1) substituted (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 11(c)
+[^F91]: S. 70 repealed (1.4.2014) by The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential and Saving Provisions) Order 2014 (S.S.I. 2014/90), art. 1, sch. Pt. 1 (with art. 3)
+[^F92]: Words in s. 73(2)(a) inserted (1.4.2015) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 8(a); S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F93]: Words in s. 73(2)(a) substituted (1.4.2015) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 8(b); S.S.I. 2015/61, art. 2(1)(2), sch.
+[^F94]: S. 74 repealed (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 2
+[^F95]: S. 76 repealed (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 2
+[^F96]: S. 77 substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 9
+[^F97]: Words in s. 77 omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 10(a) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F98]: Words in s. 77 omitted (31.12.2020) by virtue of The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593), reg. 1(2), Sch. 9 para. 10(b) (with reg. 12A, Sch. 9 Pt. 2) (as amended by S.I. 2020/1394, regs. 4, 17); 2020 c. 1, Sch. 5 para. 1(1)
+[^F99]: Words in s. 78(2)(b) inserted (17.10.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 31(3), 43(3); S.S.I. 2005/492, art. 3(a), sch. 1
+[^F100]: Sch. 1 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 37; S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch. (with savings and transitional provisions in S.S.I. 2011/121, arts. 1(1), 15-21 and S.S.I. 2011/169, arts. 1(1), 2, 3)
+[^F101]: Sch. 3 para. 7 repealed (28.9.2009) by Adoption and Children (Scotland) Act 2007 (asp 4), s. 121(2), sch. 3; S.S.I. 2009/267, arts. 1(2), 2 (with arts. 3-21) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^F102]: Sch. 3 para. 11(2)-(7) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), s. 333(2), sch. 5 Pt. 1; S.S.I. 2005/161, art. 3 (as substituted by S.S.I. 2005/375, art. 2 and as amended by S.S.I. 2005/459, art. 2)
+[^F103]: Sch. 3 para. 14(d)(e) repealed (with effect in accordance with s. 381(1) of the amending Act) by Taxation (International and Other Provisions) Act 2010 (c. 8), s. 381(1), Sch. 10 Pt. 13 (with Sch. 9 paras. 1-9, 22)
+[^F104]: Sch. 3 para. 21 repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 17 Pt. 2; S.S.I. 2006/166, art. 2(1)(d)
+[^F105]: Sch. 3 para. 24 repealed (3.8.2001) by S.I. 2001/2478, art. 2
+[^F106]: Sch. 3 para. 25 repealed (1.12.2010) by Sexual Offences (Scotland) Act 2009 (asp 9), s. 62(2), sch. 6; S.S.I. 2010/357, art. 2(a)

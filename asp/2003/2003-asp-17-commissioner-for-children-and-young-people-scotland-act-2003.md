@@ -1,0 +1,666 @@
+---
+title: "Commissioner for Children and Young People (Scotland) Act 2003"
+identifier: "asp/2003/17"
+citation: "2003 asp 17"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2003-05-01
+last_amended: 2024-07-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2003/17"
+source_modified: 2024-08-30
+retrieved: 2026-10-11
+---
+
+# Commissioner for Children and Young People (Scotland) Act 2003
+
+**2003 asp 17**
+
+An Act of the Scottish Parliament to provide for the establishment and functions of a Commissioner for Children and Young People in Scotland; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 26th March 2003 and received Royal Assent on 1st May 2003
+
+## The Commissioner
+
+### 1 Establishment
+
+(1) There is to be a Commissioner for Children and Young People in Scotland.
+
+(2) Schedule 1 makes further provision about the Commissioner.
+
+### 2 Appointment
+
+(1) The Commissioner is to be an individual appointed by Her Majesty on the nomination of the Parliament.
+
+(2) A person is disqualified from appointment as the Commissioner if that person is, at the date when the appointment is to take effect, or in the year prior to that date has been—
+
+(a) a member of the Parliament;
+
+(b) a member of the House of Commons; or
+
+(c) a member of the European Parliament.
+
+(3) The Commissioner is to be appointed for such period, not exceeding [[^F1]eight] years, as the Parliamentary corporation may determine.
+
+[[^F2](4) A person who has been appointed Commissioner is ineligible for re-appointment at any time.]
+
+### 3 Removal
+
+(1) The Commissioner may be removed from office by Her Majesty if—
+
+(a) the Commissioner so requests; or
+
+[[^F3](b) subsection (2) applies.]
+
+[[^F4](2) This subsection applies if—
+
+(a) the Parliamentary corporation is satisfied that the Commissioner has breached the terms and conditions of appointment and the Parliament resolves that the Commissioner should be removed from office for that breach, or
+
+(b) the Parliament resolves that it has lost confidence in the Commissioner's willingness, suitability or ability to perform the functions of the Commissioner,
+
+and, in either case, the resolution is voted for by a number of members not fewer than two thirds of the total number of seats for members of the Parliament.]
+
+## Functions
+
+### 4 Promoting and safeguarding rights
+
+(1) The general function of the Commissioner is to promote and safeguard the rights of children and young people.
+
+(2) In exercising that general function the Commissioner is, in particular, to—
+
+(a) promote awareness and understanding of the rights of children and young people;
+
+(b) keep under review the law, policy and practice relating to the rights of children and young people with a view to assessing the adequacy and effectiveness of such law, policy and practice;
+
+(c) promote best practice by service providers; and
+
+(d) promote, commission, undertake and publish research on matters relating to the rights of children and young people.
+
+[[^F5](2A) In exercising that general function the Commissioner may—
+
+(a) bring proceedings under section 7(1)(a) of the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024,
+
+(b) intervene in proceedings in which a person claims that a public authority has acted (or proposes to act) in a way which is made unlawful by section 6(1) of that Act.]
+
+### 5 United Nations Convention and equal opportunities
+
+(1) In exercising functions under this Act, the Commissioner must comply with subsections (2) to (4).
+
+(2) The Commissioner must have regard to any relevant provisions of the United Nations Convention on the Rights of the Child.
+
+(3) The Commissioner must, in particular—
+
+(a) regard, and encourage others to regard, the best interests of children and young people as a primary consideration; and
+
+(b) have regard to, and encourage others to have regard to, the views of children and young people on all matters affecting them, due allowance being made for age and maturity.
+
+(4) The Commissioner must act in a manner which encourages equal opportunities and, in particular, the observance of the equal opportunity requirements.
+
+### 6 Involving children and young people
+
+(1) The Commissioner must encourage the involvement of children and young people in the work of the Commissioner.
+
+(2) The Commissioner must, in particular, take reasonable steps to—
+
+(a) ensure that children and young people are made aware of—
+
+(i) the functions of the Commissioner;
+
+(ii) the ways in which they may communicate with the Commissioner; and
+
+(iii) the ways in which the Commissioner may respond to any issues which they raise;
+
+(b) consult children and young people on the work to be undertaken by the Commissioner; and
+
+(c) consult organisations working with and for children and young people on the work to be undertaken by the Commissioner.
+
+(3) In carrying out the duties under subsections (1) and (2) the Commissioner must pay particular attention to groups of children and young people who do not have other adequate means by which they can make their views known.
+
+(4) The Commissioner must prepare and keep under review a strategy for involving children and young people in the work of the Commissioner in accordance with this section.
+
+### 7 Carrying out investigations
+
+[[^F6](1) The Commissioner may carry out an investigation into—
+
+(a) whether, by what means and to what extent a service provider has regard to the rights, interests and views of children and young people in making decisions or taking actions that affect those children and young people (such an investigation being called a “general investigation”);
+
+(b) whether, by what means and to what extent a service provider had regard to the rights, interests and views of a child or young person in making a decision or taking an action that affected that child or young person (such an investigation being called an “individual investigation”).
+
+(2) The Commissioner may carry out a general investigation only if the Commissioner, having considered the available evidence on, and any information received about, the matter, is satisfied on reasonable grounds that the matter to be investigated raises an issue of particular significance to—
+
+(a) children and young people generally; or
+
+(b) particular groups of children and young people.
+
+(2A) The Commissioner may carry out an investigation only if the Commissioner, having considered the available evidence on, and any information received about, the matter, is satisfied on reasonable grounds that the investigation would not duplicate work that is properly the function of another person.]
+
+(3) The Commissioner may not carry out an investigation—
+
+(a) if it would relate to a reserved matter;
+
+[^F7]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) so far as it would relate to—
+
+(i) the making of decisions or taking of action in particular legal proceedings before a court or tribunal; or
+
+(ii) a matter which is the subject of legal proceedings before a court or tribunal.
+
+[[^F8](4) Subsection (5) applies in relation to a matter about which the Commissioner may carry out an individual investigation.
+
+(5) Where the Commissioner considers that the matter may be capable of being resolved without an investigation, the Commissioner may with a view to securing that outcome take such steps as the Commissioner considers appropriate.]
+
+### 8 Initiation and conduct of investigation
+
+(1) Before taking any steps in the conduct of an investigation, the Commissioner must—
+
+(a) draw up terms of reference for the investigation; and
+
+[[^F9](b) take such steps as appear to the Commissioner to be appropriate with a view to bringing notice of the investigation and terms of reference to the attention of persons likely to be affected by it.]
+
+(2) [[^F10]A general] investigation is to be conducted in public except to the extent that the Commissioner considers that the taking of evidence in private is necessary or appropriate.
+
+[[^F11](3) An individual investigation is to be conducted in private.]
+
+### 9 Investigations: witnesses and documents
+
+(1) The Commissioner may require any person—
+
+(a) to give evidence on any matter within the terms of reference of an investigation; or
+
+(b) to produce documents in the custody or control of that person which have a bearing on any such matter.
+
+(2) The Commissioner may not impose such a requirement on any person whom the Parliament could not require, under section 23 of the Scotland Act, to attend its proceedings for the purpose of giving evidence or to produce documents.
+
+(3) Schedule 2 makes further provision with respect to witnesses and documents and the sanctions for non-compliance with a requirement under this section.
+
+## Reports
+
+### 10 Annual report
+
+(1) The Commissioner must lay before the Parliament annually a report on the exercise of the Commissioner’s functions [[^F12]during the reporting year] .
+
+(2) The report must include—
+
+(a) a review of issues identified by the Commissioner in [[^F13]the reporting year] as being relevant to children and young people;
+
+(b) a review of the Commissioner’s activity in [[^F13]the reporting year], including the steps taken to fulfil each of the Commissioner’s functions;
+
+(c) any recommendations by the Commissioner arising out of such activity; and
+
+(d) an overview of work to be undertaken by the Commissioner in the year following [[^F13]the reporting year], including the strategy for involving children and young people in the work of the Commissioner.
+
+[[^F14](3) The report must be laid before the Parliament within 7 months after the end of the reporting year.
+
+(4) In preparing the report, the Commissioner must comply with any direction given by the Parliamentary corporation as to the form and content of the report.
+
+(5) In this section “reporting year” means the year beginning on 1 April.]
+
+### 11 Reports on investigations
+
+(1) The Commissioner must, at the conclusion of any investigation, [[^F15]prepare] a report of the investigation.
+
+(2) The report must contain any recommendations by the Commissioner arising out of the investigation.
+
+[[^F16](2A) In relation to any such recommendation, the report may include a requirement to respond.
+
+(2B) A requirement to respond is a requirement that the service provider provides, within such period as the Commissioner reasonably requires, a statement in writing to the Commissioner setting out—
+
+(a) what the service provider has done or proposes to do in response to the recommendation; or
+
+(b) if the service provider does not intend to do anything in response to the recommendation, the reasons for that.]
+
+(3) A report of an investigation into the activities of a person named in, or identifiable from, the report may be [[^F17]finalised] only if that person has, where this is reasonable and practicable, been given a copy of the draft report and an opportunity to make representations on it.
+
+[[^F18](4) The Commissioner must lay before the Parliament the report of a general investigation.
+
+(5) The Commissioner may lay before the Parliament the report of an individual investigation.]
+
+[[^F19](6) Where a report of an investigation includes a requirement to respond, the Commissioner must give a copy of the report to the service provider.]
+
+### 12 Other reports to Parliament
+
+The Commissioner may lay before the Parliament such other reports on the exercise of the Commissioner’s functions as the Commissioner considers necessary or appropriate.
+
+### 13 Anonymity for children and young people
+
+The Commissioner must ensure that, so far as reasonable and practicable having regard to the subject matter, a report under this Act does not name or identify any child or young person, or group of children or young people, referred to in it.
+
+### 14 Publication
+
+(1) The Commissioner must publish any report laid before the Parliament under this Act.
+
+(2) The Commissioner may publish any other report relating to the exercise of the Commissioner’s functions.
+
+(3) Where the Commissioner publishes a report which is not specifically designed for children or young people the Commissioner must also publish a child friendly version of the report.
+
+### 14AA [[^F20]Publication of responses to recommendations of investigations
+
+(1) The Commissioner must publish any statement provided in response to a requirement to respond to a recommendation arising out of a general investigation.
+
+(2) Subsection (1) does not apply if, or to the extent that, the Commissioner considers publication to be inappropriate.
+
+(3) The Commissioner may publish any statement provided in response to a requirement to respond to a recommendation arising out of an individual investigation.
+
+(4) The Commissioner must ensure that, so far as reasonable and practicable having regard to the subject matter, the version of the statement which is published under subsection (1) or (3) does not name or identify any child or young person, or group of children or young people, referred to in it.
+
+(5) The Commissioner may, in such manner as the Commissioner considers appropriate, publicise a failure to comply with a requirement to respond.]
+
+### 14A [[^F21]Strategic plans
+
+(1) The Commissioner must, in respect of each 4 year period, lay before the Parliament a plan (referred to in this section as a “strategic plan”) setting out how the Commissioner proposes to perform the Commissioner's functions during the 4 year period.
+
+(2) A strategic plan must, in particular, set out—
+
+(a) the Commissioner's objectives and priorities during the 4 year period,
+
+(b) how the Commissioner proposes to achieve them,
+
+(c) a timetable for doing so, and
+
+(d) estimates of the costs of doing so.
+
+(3) Before laying a strategic plan before the Parliament, the Commissioner must provide a draft of it to and invite, and (if any are given) consider, comments on it from—
+
+(a) the Parliamentary corporation, and
+
+(b) such other persons as the Commissioner thinks appropriate.
+
+(4) The reference in subsection (3)(b) to other persons includes a committee of the Parliament.
+
+(5) The Commissioner must lay each strategic plan before the Parliament not later than the beginning of the 4 year period to which the plan relates.
+
+(6) The Commissioner must arrange for the publication of each strategic plan laid before the Parliament.
+
+(7) The Commissioner may, at any time during a 4 year period, review the strategic plan for the period and lay a revised strategic plan before the Parliament.
+
+(8) Subsections (2) to (7) apply to a revised strategic plan as they apply to a strategic plan.
+
+(9) In that application, the reference in subsection (5) to the 4 year period is a reference to the period to which the revised strategic plan relates.
+
+(10) In this section, “4 year period” means the period of 4 years beginning on 1 April next following the coming into force of this section and each subsequent period of 4 years.]
+
+## Defamation
+
+### 15 Protection from actions of defamation
+
+(1) For the purposes of the law of defamation—
+
+(a) any statement made by the Commissioner or any of the Commissioner’s staff—
+
+(i) in conducting an investigation under this Act;
+
+(ii) in communicating with any person for the purposes of such an investigation; or
+
+(iii) in a report published under this Act,
+
+has absolute privilege;
+
+(b) any other statement made by the Commissioner or any of the Commissioner’s staff in pursuance of the purposes of this Act has qualified privilege; and
+
+(c) any statement made to the Commissioner or any of the Commissioner’s staff in pursuance of those purposes has qualified privilege.
+
+(2) In subsection (1), “statement” has the same meaning as in the Defamation Act 1996 (c. 31).
+
+## Interpretation, commencement and short title
+
+### 16 Interpretation
+
+(1) In this Act, unless the context otherwise requires—
+
+- “action” includes failure to act and related expressions are to be construed accordingly;
+- “best practice” means such practice in relation to the rights of children and young people as appears to the Commissioner to be desirable;
+- “child friendly version”, in relation to a report, means a version or summary which is specifically designed to take account, so far as practicable, of the age, understanding and usual language of any children or young people by whom it is intended that the report should be read;
+- “children and young people” means natural persons in Scotland who are under the age of 18 years or, if they have at any time been in the care of, or looked after by, a local authority or Northern Ireland authority, under the age of 21 years; and related expressions have corresponding meanings;
+- “Commissioner” means the Commissioner for Children and Young People in Scotland;
+- “equal opportunities” and “equal opportunity requirements” have the same meaning as in Section L2 of Part II of Schedule 5 to the Scotland Act;
+- “local authority” means any council of a county, city, town, burgh, borough, district, island or other local government area in Scotland, England or Wales;
+- “looked after”, in relation to a local authority in Scotland, has the same meaning as in section 17(6) of the Children (Scotland) Act 1995 (c. 36), in relation to a local authority in England and Wales, has the same meaning as in section 22(1) of the Children Act 1989 (c. 41) and in relation to a Northern Ireland authority, has the same meaning as in article 25(1) of the Children (Northern Ireland) Order 1995 (SI 1995/755);
+- “Northern Ireland authority” means [[^F22]an authority within the meaning of Article 2(2) of the Children (Northern Ireland) Order 1995];
+- “Scotland Act” means the Scotland Act 1998 (c. 46);
+- “Scottish Law Officer” means the Lord Advocate or the Solicitor General for Scotland;
+- “service provider” means any person providing services for children and young people but does not include a parent or guardian exercising the responsibilities imposed or the rights conferred by sections 1 and 2 of the Children (Scotland) Act 1995 (c. 36); and
+- “terms” includes conditions.
+
+(2) Any reference in this Act to the United Nations Convention on the Rights of the Child is to that Convention read subject to any reservations, objections or interpretative declarations by the United Kingdom for the time being in force.
+
+### 17 Commencement and short title
+
+(1) The provisions of this Act, except for—
+
+(a) sections 1 to 3 and section 16;
+
+(b) schedule 1; and
+
+(c) this section,
+
+come into force at the end of the period of six months beginning with the date of Royal Assent.
+
+(2) This Act may be cited as the Commissioner for Children and Young People (Scotland) Act 2003.
+
+## SCHEDULE 1 — The Commissioner for Children and Young People in Scotland
+
+*(introduced by section 1)*
+
+### Status
+
+**1** (1) Neither the Commissioner nor any member of the Commissioner’s staff is to be regarded as a servant or agent of the Crown or as having any status, immunity or privilege of the Crown.
+
+(2) The Commissioner’s property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+[[^F23](3) The Commissioner is, as such, to be regarded as a juristic person distinct from the natural person holding the office.]
+
+### Independence
+
+**2** (1) The Commissioner is not, except as provided in the provisions of this Act listed in sub-paragraph (2), subject to the direction or control of—
+
+(a) any member of the Parliament;
+
+(b) any member of the Scottish Executive; or
+
+(c) the Parliamentary corporation.
+
+(2) The listed provisions are sections 2(3)[[^F24], 3(1)(b) and 10(4) and paragraphs 4, 6(2A) and (3), 6A, 7, 7A, 7B(3), 9A] and 10 of this schedule and paragraph 8 of schedule 2.
+
+### Validity of actings
+
+**3** The validity of any actings of the Commissioner is not affected by—
+
+(a) any defect in the nomination by the Parliament for the Commissioner’s appointment; or
+
+(b) any disqualification from appointment as Commissioner.
+
+### Remuneration and terms of appointment
+
+**4** (1) The Commissioner is entitled to—
+
+(a) a salary of such amount; and
+
+(b) such allowances,
+
+as the Parliamentary corporation may determine.
+
+[[^F25](1A) The Commissioner ceases to hold office as Commissioner on becoming—
+
+(a) a member of the Parliament,
+
+(b) a member of the House of Commons, or
+
+(c) a member of the European Parliament.]
+
+(2) The appointment of the Commissioner is otherwise on such terms [[^F26]and conditions] as the Parliamentary corporation may determine.
+
+[[^F27](3) The terms and conditions may, without prejudice to section 2(2) or sub-paragraph (1A) of this paragraph—
+
+(a) prohibit the Commissioner from holding any other specified office, employment or appointment or engaging in any other specified occupation,
+
+(b) provide that the Commissioner's holding of any such office, employment or appointment or engagement in any such occupation is subject to the approval of the Parliamentary corporation.
+
+(4) In sub-paragraph (3)(b), “specified” means specified in the terms and conditions or within a description so specified.]
+
+### Pensions etc
+
+**5** (1) The Parliamentary corporation may make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any person who has ceased to hold the office of Commissioner.
+
+(2) The Parliamentary corporation may, in particular—
+
+(a) make contributions or payments towards provision for such pensions, allowances or gratuities; and
+
+(b) establish and administer one or more pension schemes.
+
+### [[^F28]Subsequent appointments etc.
+
+**5A** (1) A person who has ceased being the Commissioner (“the former Commissioner”) may not, without the approval of the Parliamentary corporation—
+
+(a) be employed or appointed in any other capacity by the Commissioner,
+
+(b) be an employee or appointee of—
+
+(i) any person in relation to whom, or
+
+(ii) any body in relation to which,
+
+an investigation under this Act has been carried out or continued by the former Commissioner when Commissioner, or hold office in any such body, or
+
+(c) hold any other office, employment or appointment or engage in any other occupation, being an office, employment, appointment or occupation which, by virtue of paragraph 4(3)(a), that former Commissioner could not have held or, as the case may be, engaged in when Commissioner.
+
+(2) The restriction in sub-paragraph (1)—
+
+(a) starts when the person ceases to be the Commissioner, and
+
+(b) ends on the expiry of the financial year next following the one in which it started.]
+
+### General powers
+
+**6** (1) The Commissioner has a general power to do anything necessary or expedient for the purposes of, or in connection with, the exercise of the Commissioner’s functions.
+
+(2) In particular, the Commissioner may enter into contracts and acquire and dispose of [[^F29]land and other] property.
+
+[[^F30](2A) The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.]
+
+(3) The Commissioner may [[^F31]determine and charge reasonable sums for anything done or provided by the Commissioner in the performance of, or in connection with, the Commissioner's functions.]
+
+[[^F32](3A) Any sums received by the Commissioner by virtue of sub-paragraph (3) are to be retained by the Commissioner and applied to meet expenditure incurred in doing or providing whatever is charged for.]
+
+[^F33]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F34]Location of office
+
+**6A** The Commissioner must comply with any direction given by the Parliamentary corporation as to the location of the Commissioner's office.]
+
+### Staff
+
+**7** (1) The Commissioner may, with the consent of the Parliamentary corporation as to numbers, appoint staff to assist in carrying out the Commissioner’s functions.
+
+(2) The Commissioner may, with the consent of the Parliamentary corporation, determine the terms [[^F35]and conditions] of appointment of such staff, including arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to be a member of staff of the Commissioner.
+
+### [[^F36]Sharing of premises, staff, services and other resources
+
+**7A** The Commissioner must comply with any direction given by the Parliamentary corporation as to the sharing of premises, staff, services or other resources with any other officeholder or any public body.
+
+### Advisers and other services
+
+**7B** (1) The Commissioner may obtain advice, assistance or any other service from any person who, in the opinion of the Commissioner, is qualified to give it.
+
+(2) The Commissioner may pay to that person such fees and allowances as the Commissioner determines.
+
+(3) Any payment under sub-paragraph (2) is subject to the approval of the Parliamentary corporation.]
+
+### Delegation of authority
+
+**8** The Commissioner may authorise any person to exercise functions on behalf of the Commissioner to the extent specified in the authorisation, but any such delegation of authority does not affect the responsibility of the Commissioner for the exercise of the functions.
+
+### Financial provision
+
+**9** [[^F37](1)] The Parliamentary corporation is to pay—
+
+(a) the salary and allowances of the Commissioner; and
+
+(b) any expenses properly incurred by the Commissioner in the exercise of the Commissioner’s functions
+
+[[^F38]so far as not met out of sums received and applied by the Commissioner under paragraph 6(3A)].
+
+[[^F39](2) Sub-paragraph (1)(b) does not require the Parliamentary corporation to pay any expenses incurred by the Commissioner which exceed or are otherwise not covered by a budget or, as the case may be, revised budget approved under paragraph 9A.
+
+(3) However, the Parliamentary corporation may pay those expenses.
+
+(4) The Parliamentary corporation is to indemnify the Commissioner in respect of any liabilities incurred by the Commissioner in the exercise of the Commissioner's functions.]
+
+### [[^F40]Budget
+
+**9A** (1) The Commissioner must, before the start of each financial year, prepare proposals for the Commissioner's use of resources and expenditure during the year (a “budget”) and, by such date as the Parliamentary corporation determines, send the budget to the Parliamentary corporation for approval.
+
+(2) The Commissioner may, in the course of a financial year, prepare a revised budget for the remainder of the year and send it to the Parliamentary corporation for approval.
+
+(3) In preparing a budget or revised budget, the Commissioner must ensure that the resources of the Commissioner will be used economically, efficiently and effectively.
+
+(4) A budget or revised budget must contain a statement that the Commissioner has complied with the duty under sub-paragraph (3).]
+
+### Accountable officer
+
+**10** (1) The Parliamentary corporation is to designate the Commissioner or a member of the Commissioner’s staff as the accountable officer for the purposes of this paragraph.
+
+(2) The functions of the accountable officer are—
+
+(a) signing the accounts of the expenditure and receipts of the Commissioner;
+
+(b) ensuring the propriety and regularity of the finances of the Commissioner;
+
+(c) ensuring that the resources of the Commissioner are used economically, efficiently and effectively; and
+
+(d) where the accountable officer is not the Commissioner, the duty set out in sub-paragraph (4).
+
+(3) The accountable officer is answerable to the Parliament for the exercise of those functions.
+
+(4) The duty referred to in sub-paragraph (2)(d) is a duty, where the accountable officer is required to act in some way but considers that to do so would be inconsistent with the proper performance of the functions specified in sub-paragraph (2)(a) to (c), to—
+
+(a) obtain written authority from the Commissioner before taking the action; and
+
+(b) send a copy of that authority as soon as possible to the Auditor General for Scotland.
+
+### Accounts and audit
+
+**11** (1) The Commissioner must keep proper accounts at all times and prepare annual accounts in respect of each financial year.
+
+(2) The Commissioner must send a copy of the annual accounts to the Auditor General for Scotland for auditing.
+
+(3) The financial year of the Commissioner is—
+
+(a) the period beginning with the date on which the first Commissioner is appointed and ending with the 31st of March next following that date; and
+
+(b) each successive period of twelve months ending with the 31st of March.
+
+(4) If requested by any person, the Commissioner must make available at any reasonable time, and without charge, in printed or electronic form, the audited accounts, so that they may be inspected by that person.
+
+### Appointment of acting Commissioner
+
+**12** (1) Where there is no Commissioner for the time being, or the Commissioner is unable to act, the Parliamentary corporation may appoint a person (whether or not a member of the Commissioner’s staff) to discharge the Commissioner’s functions until a new Commissioner is appointed or the Commissioner is again able to act; and a person so appointed is referred to in this Act as the “acting Commissioner”.
+
+(2) A person who is disqualified from appointment as the Commissioner is also disqualified from appointment as acting Commissioner.
+
+(3) While holding office as such, the acting Commissioner is governed by the provisions of this Act, other than paragraphs 3(a) and 5 of this schedule, applying to the Commissioner.
+
+## SCHEDULE 2 — Investigations: supplementary provisions on witnesses and documents
+
+*(introduced by section 9)*
+
+### Requirement to give evidence or produce documents (prospective)
+
+**1** (1) A requirement under section 9 is imposed by the Commissioner giving the person in question notice in writing specifying—
+
+(a) the time and place at which the person is to attend before the Commissioner and the particular subjects concerning which that person is required to give evidence; or
+
+(b) the documents, or types of documents, which that person is to produce, the date by which that person is to produce them, and the particular subjects concerning which they are required.
+
+(2) Such notice must be given—
+
+(a) in the case of an individual, by sending it, by registered post or the recorded delivery service, addressed to that person at the person’s usual or last known address or, where the person has given an address for service, at that address;
+
+(b) in any other case, by sending it, by registered post or the recorded delivery service, addressed to the person at the person’s registered or principal office.
+
+### Privileges (prospective)
+
+**2** (1) A person is not obliged under this Act to answer any question or to produce any document which that person would be entitled to refuse to answer or produce in proceedings in a court in Scotland.
+
+(2) A Scottish Law Officer or a procurator fiscal is not obliged under this Act to answer any question or to produce any document which that officer would be entitled to decline to answer or to produce in accordance with section 27(3) or, as the case may be, section 23(10) of the Scotland Act.
+
+### Evidence on oath (prospective)
+
+**3** (1) The Commissioner may—
+
+(a) administer an oath to any person giving evidence to the Commissioner; and
+
+(b) require that person to take an oath.
+
+(2) Any person who refuses to take an oath when required to do so under this paragraph is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a period not exceeding three months.
+
+### Admissibility of statements in subsequent criminal proceedings (prospective)
+
+**4** Any statement made by a person in answer to any question which that person was obliged under this Act to answer is not admissible in any criminal proceedings against that person, except where the proceedings are in respect of perjury relating to that statement.
+
+### Offences (prospective)
+
+**5** (1) Any person to whom a notice under paragraph 1 has been duly given who, not being privileged under paragraph 2—
+
+(a) refuses or fails to attend before the Commissioner as required by the notice;
+
+(b) refuses or fails, when attending before the Commissioner as required by the notice, to answer any question concerning the subjects specified in the notice;
+
+(c) deliberately alters, suppresses, conceals or destroys any document which that person is required to produce by the notice; or
+
+(d) refuses or fails to produce any such document,
+
+is guilty of an offence.
+
+(2) It is a defence for a person charged with an offence under sub-paragraph (1)(a), (b) or (d) to prove that there was a reasonable excuse for the refusal or failure.
+
+(3) A person guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a period not exceeding three months.
+
+### Offences by bodies corporate and partnerships (prospective)
+
+**6** (1) Where an offence under paragraph 5 which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+(a) a director, manager, secretary or other similar officer of the body corporate; or
+
+(b) any person who was purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of that offence and liable to be proceeded against accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, sub-paragraph (1) applies in relation to the acts or defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
+
+(3) Where an offence under paragraph 5 which has been committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership is guilty of that offence and liable to be proceeded against accordingly.
+
+### Producing copies or extracts (prospective)
+
+**7** For the purposes of section 9 and this schedule a person complies with a requirement to produce a document if that person produces a copy of, or an extract of the relevant part of, the document.
+
+### Allowances and expenses (prospective)
+
+**8** The Commissioner may pay such allowances and expenses to persons giving evidence before the Commissioner or producing documents which they have been required or requested to produce as the Commissioner may, with the agreement of the Parliamentary corporation, determine.
+
+---
+
+[^F1]: Word in s. 2(3) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 1(a) (with s. 31(6), sch. 7)
+[^F2]: S. 2(4) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 1(b) (with s. 31(6), sch. 7)
+[^F3]: S. 3(1)(b) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 2 (with s. 31(6), sch. 7)
+[^F4]: S. 3(2) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 2 (with s. 31(6), sch. 7)
+[^F5]: S. 4(2A) inserted (16.7.2024) by United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1), ss. 11(2), 47(2)(a)
+[^F6]: S. 7(1)-(2A) substituted for s. 7(1)(2) (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(2)(a), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F7]: S. 7(3)(b) omitted (7.8.2017) by virtue of Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(2)(b), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F8]: S. 7(4)(5) added (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(2)(c), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F9]: S. 8(1)(b) substituted (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(3)(a), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F10]: Words in s. 8(2) substituted (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(3)(b), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F11]: S. 8(3) added (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(3)(c), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F12]: Words in s. 10(1) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 3(a) (with s. 31(6), sch. 7)
+[^F13]: Words in s. 10(2) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 3(b) (with s. 31(6), sch. 7)
+[^F14]: S. 10(3)-(5) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 3(c) (with s. 31(6), sch. 7)
+[^F15]: Word in s. 11(1) substituted (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(4)(a), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F16]: S. 11(2A)(2B) inserted (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 6(2)(a), 102(3); S.S.I. 2016/254, art. 3(4)
+[^F17]: Word in s. 11(3) substituted (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(4)(b), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F18]: S. 11(4)(5) added (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 5(4)(c), 102(3); S.S.I. 2016/254, art. 3(4) (with art. 4)
+[^F19]: S. 11(6) added (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 6(2)(b), 102(3); S.S.I. 2016/254, art. 3(4)
+[^F20]: S. 14AA inserted (7.8.2017) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 6(3), 102(3); S.S.I. 2016/254, art. 3(4)
+[^F21]: S. 14A inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 4 (with s. 31(6), sch. 7)
+[^F22]: Words in s. 16 substituted (30.11.2022) by The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174), arts. 1(2), 26
+[^F23]: Sch. 1 para. 1(3) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 6 (with s. 31(6), sch. 7)
+[^F24]: Words in sch. 1 para. 2(2) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 7 (with s. 31(6), sch. 7)
+[^F25]: Sch. 1 para. 4(1A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 8(a) (with s. 31(6), sch. 7)
+[^F26]: Words in sch. 1 para. 4(2) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 8(b) (with s. 31(6), sch. 7)
+[^F27]: Sch. 1 para. 4(3)(4) substituted for sch. 1 para. 4(3) (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 8(c) (with s. 31(6), sch. 7)
+[^F28]: Sch. 1 para. 5A inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 9 (with s. 31(6), sch. 7)
+[^F29]: Words in sch. 1 para. 6(2) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 10(a) (with s. 31(6), sch. 7)
+[^F30]: Sch. 1 para. 6(2A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 10(b) (with s. 31(6), sch. 7)
+[^F31]: Words in sch. 1 para. 6(3) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 10(c) (with s. 31(6), sch. 7)
+[^F32]: Sch. 1 para. 6(3A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 10(d) (with s. 31(6), sch. 7)
+[^F33]: Sch. 1 para. 6(4) repealed (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 10(e) (with s. 31(6), sch. 7)
+[^F34]: Sch. 1 para. 6A inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 11 (with s. 31(6), sch. 7)
+[^F35]: Words in sch. 1 para. 7(2) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 12 (with s. 31(6), sch. 7)
+[^F36]: Sch. 1 paras. 7A, 7B inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 13 (with s. 31(6), sch. 7)
+[^F37]: Sch. 1 para. 9 renumbered as sch. 1 para. 9(1) (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 14 (with s. 31(6), sch. 7)
+[^F38]: Words in sch. 1 para. 9(1) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 14(a) (with s. 31(6), sch. 7)
+[^F39]: Sch. 1 para. 9(2)-(4) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 14(b) (with s. 31(6), sch. 7)
+[^F40]: Sch. 1 para. 9A inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 5 para. 15 (with s. 31(6), sch. 7)

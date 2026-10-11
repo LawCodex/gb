@@ -1,0 +1,4030 @@
+---
+title: "Adults with Incapacity (Scotland) Act 2000"
+identifier: "asp/2000/4"
+citation: "2000 asp 4"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2000-05-09
+last_amended: 2021-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2000/4"
+source_modified: 2024-05-15
+retrieved: 2026-10-11
+---
+
+# Adults with Incapacity (Scotland) Act 2000
+
+**2000 asp 4**
+
+An Act of the Scottish Parliament to make provision as to the property, financial affairs and personal welfare of adults who are incapable by reason of mental disorder or inability to communicate; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 29th March 2000 and received Royal Assent on 9th May 2000
+
+## PART 1 — GENERAL
+
+### General
+
+#### 1 General principles and fundamental definitions
+
+(1) The principles set out in subsections (2) to (4) shall be given effect to in relation to any intervention in the affairs of an adult under or in pursuance of this Act, including any order made in or for the purpose of any proceedings under this Act for or in connection with an adult.
+
+(2) There shall be no intervention in the affairs of an adult unless the person responsible for authorising or effecting the intervention is satisfied that the intervention will benefit the adult and that such benefit cannot reasonably be achieved without the intervention.
+
+(3) Where it is determined that an intervention as mentioned in subsection (1) is to be made, such intervention shall be the least restrictive option in relation to the freedom of the adult, consistent with the purpose of the intervention.
+
+(4) In determining if an intervention is to be made and, if so, what intervention is to be made, account shall be taken of—
+
+(a) the present and past wishes and feelings of the adult so far as they can be ascertained by any means of communication, whether human or by mechanical aid (whether of an interpretative nature or otherwise) appropriate to the adult;
+
+(b) the views of the nearest relative [[^F1], named person] and the primary carer of the adult, in so far as it is reasonable and practicable to do so;
+
+(c) the views of—
+
+(i) any guardian, continuing attorney or welfare attorney of the adult who has powers relating to the proposed intervention; and
+
+(ii) any person whom the sheriff has directed to be consulted,
+
+in so far as it is reasonable and practicable to do so; and
+
+(d) the views of any other person appearing to the person responsible for authorising or effecting the intervention to have an interest in the welfare of the adult or in the proposed intervention, where these views have been made known to the person responsible, in so far as it is reasonable and practicable to do so.
+
+(5) Any guardian, continuing attorney, welfare attorney or manager of an establishment exercising functions under this Act or under any order of the sheriff in relation to an adult shall, in so far as it is reasonable and practicable to do so, encourage the adult to exercise whatever skills he has concerning his property, financial affairs or personal welfare, as the case may be, and to develop new such skills.
+
+(6) For the purposes of this Act, and unless the context otherwise requires—
+
+- “adult” means a person who has attained the age of 16 years;
+
+- “incapable” means incapable of—
+
+  - (a) acting; or
+  - (b) making decisions; or
+  - (c) communicating decisions; or
+  - (d) understanding decisions; or
+  - (e) retaining the memory of decisions,
+
+  as mentioned in any provision of this Act, by reason of mental disorder or of inability to communicate because of physical disability; but a person shall not fall within this definition by reason only of a lack or deficiency in a faculty of communication if that lack or deficiency can be made good by human or mechanical aid (whether of an interpretative nature or otherwise); and
+
+- “incapacity” shall be construed accordingly.
+
+(7) In subsection (4)(c)(i) any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a continuing attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed), relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity;
+
+(c) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+### Judicial proceedings
+
+#### 2 Applications and other proceedings and appeals
+
+(1) This section shall apply for the purposes of any application which may be made to and any other proceedings before the sheriff under this Act.
+
+(2) An application to the sheriff under this Act shall be made by summary application.
+
+(3) Unless otherwise expressly provided for, any decision of the sheriff at first instance in any application to, or in any other proceedings before, him under this Act may be appealed to the sheriff principal, and the decision upon such appeal of the sheriff principal may be appealed, with the leave of the sheriff principal, to the Court of Session.
+
+(4) Rules made under section 32 of the Sheriff Courts (Scotland) Act 1971 (c.58) may make provision as to the evidence which the sheriff shall take into account when deciding whether to give a direction under section 11(1).
+
+#### 3 Powers of sheriff
+
+(1) In an application or any other proceedings under this Act, the sheriff may make such consequential or ancillary order, provision or direction as he considers appropriate.
+
+(2) Without prejudice to the generality of subsection (1) or to any other powers conferred by this Act, the sheriff may—
+
+(a) make any order granted by him subject to such conditions and restrictions as appear to him to be appropriate;
+
+(b) order that any reports relating to the person who is the subject of the application or proceedings be lodged with the court or that the person be assessed or interviewed and that a report of such assessment or interview be lodged;
+
+(c) make such further inquiry or call for such further information as appears to him to be appropriate;
+
+(d) make such interim order as appears to him to be appropriate pending the disposal of the application or proceedings.
+
+(3) On an application by any person (including the adult himself) claiming an interest in the property, financial affairs or personal welfare of an adult, the sheriff may give such directions to any person exercising—
+
+(a) functions conferred by this Act; or
+
+(b) functions of a like nature conferred by the law of any country,
+
+as to the exercise of those functions and the taking of decisions or action in relation to the adult as appear to him to be appropriate.
+
+(4) In an application or any other proceedings under this Act, the sheriff—
+
+(a) shall consider whether it is necessary to appoint a person for the purpose of safeguarding the interests of the person who is the subject of the application or proceedings; and
+
+(b) without prejudice to any existing power to appoint a person to represent the interests of the person who is the subject of the application or proceedings may, if he thinks fit, appoint a person to act for the purpose specified in paragraph (a).
+
+(5) Safeguarding the interests of a person shall, for the purposes of subsection (4), include conveying his views so far as they are ascertainable to the sheriff; but if the sheriff considers that it is inappropriate that a person appointed to safeguard the interests of another under this section should also convey that other’s views to the sheriff, the sheriff may appoint another person for that latter purpose only.
+
+[[^F2](5A) In determining an application or any other proceedings under this Act, the sheriff shall, without prejudice to the generality of section 1(4)(a), take account of the wishes and feelings of the adult who is the subject of the application or proceedings so far as they are expressed by a person providing independent advocacy services.
+
+(5B) In subsection (5A), “independent advocacy services” has the same meaning as it has in section 259(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13).]
+
+(6) The sheriff may, on an application by—
+
+(a) the person authorised under the order;
+
+(b) the adult; or
+
+(c) any person entitled to apply for the order,
+
+make an order varying the terms of an order granted under subsection (2)(a).
+
+#### 4 Power of Court of Session or sheriff with regard to nearest relative
+
+(1) [^F3]. . . the court may, having regard to section 1 and being satisfied that to do so will benefit [[^F4]an adult with incapacity], make an order that—
+
+(a) certain information shall not be disclosed, or intimation of certain applications shall not be given, to the nearest relative of the adult;
+
+(b) the functions of the nearest relative of the adult shall, during the continuance in force of the order, be exercised by a person, specified in the [[^F5]order] , who is not the nearest relative of the adult but who—
+
+(i) is a person who would otherwise be entitled to be the nearest relative in terms of this Act;
+
+(ii) in the opinion of the court is a proper person to act as the nearest relative; and
+
+(iii) is willing to so act; or
+
+(c) no person shall, during the continuance in force of the order, exercise the functions of the nearest relative.
+
+(2) An order made under subsection (1) shall apply only to the exercise of the functions under this Act of the nearest relative.
+
+(3) The court may [^F6]. . . make an order varying the terms of an order granted under subsection (1).
+
+[[^F7](3A) The court may make an order under subsection (1) or (3) only on the application of—
+
+(a) the adult to whom the application relates; or
+
+(b) any person claiming an interest in that adult's property, financial affairs or personal welfare.
+
+(3B) The court may dispose of an application for an order under subsection (1) or (3) by making—
+
+(a) the order applied for; or
+
+(b) such other order under this section as it thinks fit.]
+
+(4) [^F8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5 Safeguarding of interests in Court of Session appeals or proceedings
+
+(1) In determining any appeal or in any other proceedings under this Act the Court of Session—
+
+(a) shall consider whether it is necessary to appoint a person for the purpose of safeguarding the interests of the person who is the subject of the appeal or other proceedings; and
+
+(b) without prejudice to any existing power to appoint a person to represent the interests of the second mentioned person, may if it thinks fit appoint a person to act for the purpose specified in paragraph (a).
+
+(2) Safeguarding the interests of a person shall, for the purposes of subsection (1), include conveying his views so far as they are ascertainable to the court; but if the court considers that it is inappropriate that a person appointed to safeguard the interests of another under this section should also convey that other’s views to the court, the court may appoint another person for that latter purpose only.
+
+### The Public Guardian
+
+#### 6 The Public Guardian and his functions
+
+(1) The Accountant of Court shall be the Public Guardian.
+
+(2) The Public Guardian shall have the following general functions under this Act—
+
+(a) to supervise any guardian or any person who is authorised under an intervention order in the exercise of his functions relating to the property or financial affairs of the adult;
+
+(b) to establish, maintain and make available during normal office hours for inspection by members of the public on payment of the prescribed fee, separate registers of—
+
+(i) all documents relating to continuing powers of attorney governed by the law of Scotland;
+
+(ii) all documents relating to welfare powers of attorney governed by the law of Scotland;
+
+(iii) all authorisations [[^F9]relating to intromission] with funds under Part 3;
+
+(iv) all documents relating to guardianship orders under Part 6;
+
+(v) all documents relating to intervention orders under Part 6,
+
+in which he shall enter any matter which he is required to enter under this Act and any other matter of which he becomes aware relating to the existence or scope of the power, authorisation or order as the case may be;
+
+(c) to receive and investigate any complaints regarding the exercise of functions relating to the property or financial affairs of an adult made—
+
+(i) in relation to continuing attorneys;
+
+(ii) concerning intromissions with funds under Part 3;
+
+(iii) in relation to guardians or persons authorised under intervention orders;
+
+(d) to investigate any circumstances made known to him in which the property or financial affairs of an adult seem to him to be at risk;
+
+[[^F10](da) to take part as a party in any proceedings before a court or to initiate such proceedings where he considers it necessary to do so to safeguard the property or financial affairs of an adult who is incapable for the purposes of this Act;]
+
+(e) to provide, when requested to do so, a guardian, a continuing attorney, a withdrawer or a person authorised under an intervention order with information and advice about the performance of functions relating to property or financial affairs under this Act;
+
+(f) to consult the Mental Welfare Commission and any local authority on cases or matters relating to the exercise of functions under this Act in which there is, or appears to be, a common interest.
+
+(3) In subsection (2)(c) any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a continuing attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed), relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity.
+
+[[^F11](4) In subsection 2(f), where a function under this Act is delegated by a local authority to a person in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, the reference to a local authority includes a reference to that person.]
+
+#### 7 The Public Guardian: further provision
+
+(1) The Scottish Ministers may prescribe—
+
+(a) the form and content of the registers to be established and maintained under section 6(2)(b) and the manner and medium in which they are to be established and maintained;
+
+(b) the form and content of any certificate which the Public Guardian is empowered to issue under this Act;
+
+(c) the forms and procedure for the purposes of any application required or permitted to be made under this Act to the Public Guardian in relation to any matter;
+
+(d) the evidence which the Public Guardian shall take into account when deciding under section 11(2) whether to dispense with intimation or notification to the adult.
+
+(2) The Public Guardian may charge the prescribed fee for anything done by him in connection with any of his functions under this Act and he shall not be obliged to act until such fee is paid.
+
+(3) Any certificate which the Public Guardian issues under this Act shall, for the purposes of any proceedings, be conclusive evidence of the matters contained in it.
+
+### Expenses in court proceedings
+
+#### 8 Expenses in court proceedings
+
+(1) Where in any court proceedings (other than, in the case of a local authority, an application under section 68(3)) the Public Guardian, Mental Welfare Commission or local authority is a party for the purpose of protecting the interests of an adult, the court may make an award of expenses against the adult or against any person whose actings have resulted in the proceedings.
+
+(2) Where in any court proceedings (other than, in the case of a local authority, an application under section 68(3)) the Public Guardian, Mental Welfare Commission or local authority is a party for the purpose of representing the public interest, the court may make an award of expenses against any person whose actings have resulted in the proceedings or on whose part there has been unreasonable conduct in relation to the proceedings.
+
+### The Mental Welfare Commission
+
+#### 9 Functions of the Mental Welfare Commission
+
+(1) [^F12]. . . The Mental Welfare Commission shall have the following general functions under this Act in relation to any adult to whom this Act applies by reason of, or by reasons which include, mental disorder—
+
+(a) [^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) to consult the Public Guardian and any local authority on cases or matters relating to the exercise of functions under this Act in which there is, or appears to be, a common interest;
+
+(d) where they are not satisfied with any investigation made by a local authority into a complaint made under section 10(1)(c), or where the local authority have failed to investigate the complaint, to receive and investigate any complaints relating to the exercise of functions relating to the personal welfare of the adult made—
+
+(i) in relation to welfare attorneys;
+
+(ii) in relation to guardians or persons authorised under intervention orders;
+
+(e) [^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) [^F13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) to provide a guardian, welfare attorney or person authorised under an intervention order, when requested to do so, with information and advice in connection with the performance of his functions in relation to personal welfare under this Act.
+
+(2) A guardian or welfare attorney of such an adult or a person authorised under an intervention order in relation to such an adult or the local authority shall afford the Mental Welfare Commission all facilities necessary to enable them to carry out their functions in respect of the adult.
+
+(3) In subsection (1)(d) any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+[[^F14](4) In subsection (1)(c), where a function under this Act is delegated by a local authority to a person in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, the reference to a local authority includes a reference to that person.
+
+(5) In subsection (1)(d), where a function under section 10(1)(c) is delegated by a local authority in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland)Act 2014, the references to a local authority are to be read as if they were references to the person to whom the function is delegated.]
+
+### Local authorities
+
+#### 10 Functions of local authorities
+
+(1) A local authority shall have the following general functions under this Act—
+
+(a) to supervise a guardian appointed with functions relating to the personal welfare of an adult in the exercise of those functions;
+
+(b) to consult the Public Guardian and the Mental Welfare Commission on cases or matters relating to the exercise of functions under this Act in which there is, or appears to be, a common interest;
+
+(c) to receive and investigate any complaints relating to the exercise of functions relating to the personal welfare of an adult made—
+
+(i) in relation to welfare attorneys;
+
+(ii) in relation to guardians or persons authorised under intervention orders;
+
+(d) to investigate any circumstances made known to them in which the personal welfare of an adult seems to them to be at risk;
+
+(e) to provide a guardian, welfare attorney or person authorised under an intervention order, when requested to do so, with information and advice in connection with the performance of his functions in relation to personal welfare under this Act.
+
+(2) For the purposes of subsection (1)(d), “local authority” includes a local authority for an area in which the adult is present.
+
+(3) The Scottish Ministers may make provision by regulations as regards the supervision by local authorities of the performance of their functions—
+
+(a) by guardians, in relation to the personal welfare of adults under this Act;
+
+(b) where the supervision has been ordered by the sheriff—
+
+(i) by persons authorised under intervention orders;
+
+(ii) by welfare attorneys.
+
+(4) In subsection (1)(c) any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+### Intimation
+
+#### 11 Intimation not required in certain circumstances
+
+(1) Where, apart from this subsection, intimation of any application or other proceedings under this Act, or notification of any interlocutor relating to such application or other proceedings, would be given to an adult and the court considers that the intimation or notification would be likely to pose a serious risk to the health of the adult the court may direct that such intimation or notification shall not be given.
+
+(2) Where, apart from this subsection and subsection (1), any intimation or notification to him under this Act would be given by the Public Guardian to an adult and the Public Guardian considers that the intimation or notification would be likely to pose a serious risk to the health of the adult the Public Guardian shall not give the intimation or notification.
+
+### Investigations
+
+#### 12 Investigations
+
+(1) In consequence of any investigation carried out under—
+
+(a) section 6(2)(c) or (d) by the Public Guardian;
+
+(b) section 9(1)(d) [^F15]. . . by the Mental Welfare Commission; or
+
+(c) section 10(1)(c) or (d) by a local authority,
+
+the Public Guardian, Mental Welfare Commission or local authority, as the case may be, may take such steps, including the making of an application to the sheriff, as seem to him or them to be necessary to safeguard the property, financial affairs or personal welfare, as the case may be, of the adult.
+
+(2) For the purposes of any investigation mentioned in subsection (1), the Public Guardian, Mental Welfare Commission and local authority shall provide each other with such information and assistance as may be necessary to facilitate the investigation.
+
+### Codes of practice
+
+#### 13 Codes of practice
+
+(1) The Scottish Ministers shall prepare, or cause to be prepared for their approval, and from time to time revise, or cause to be revised for their approval, codes of practice containing guidance as to the exercise by—
+
+(a) local authorities and their chief social work officers and mental health officers;
+
+(b) continuing and welfare attorneys;
+
+(c) persons authorised under intervention orders;
+
+(d) guardians;
+
+(e) withdrawers;
+
+(f) managers of authorised establishments;
+
+(g) supervisory bodies;
+
+(h) persons authorised to carry out medical treatment or research under Part 5,
+
+of their functions under this Act and as to such other matters arising out of or connected with this Act as the Scottish Ministers consider appropriate.
+
+(2) Before preparing or approving any code of practice under this Act or making or approving any alteration in it the Scottish Ministers shall consult such bodies as appear to them to be concerned.
+
+(3) The Scottish Ministers shall lay copies of any such code and of any alteration in it before the Parliament.
+
+(4) The Scottish Ministers shall publish every code of practice made under this Act as for the time being in force.
+
+### Appeal against decision as to incapacity
+
+#### 14 Appeal against decision as to incapacity
+
+A decision taken for the purposes of this Act, other than by the sheriff, as to the incapacity of an adult may be appealed by—
+
+(a) the adult; or
+
+(b) any person claiming an interest in the adult’s property, financial affairs or personal welfare relating to the purpose for which the decision was taken,
+
+to the sheriff or, where the decision was taken by the sheriff, to the sheriff principal and thence, with the leave of the sheriff principal, to the Court of Session.
+
+## PART 2 — CONTINUING POWERS OF ATTORNEY AND WELFARE POWERS OF ATTORNEY
+
+### 15 Creation of continuing power of attorney
+
+(1) Where an individual grants a power of attorney relating to his property or financial affairs in accordance with the following provisions of this section that power of attorney shall, notwithstanding any rule of law, continue to have effect in the event of the granter’s becoming incapable in relation to decisions about the matter to which the power of attorney relates.
+
+(2) In this Act a power of attorney granted under subsection (1) is referred to as a “continuing power of attorney” and a person on whom such power is conferred is referred to as a “continuing attorney”.
+
+(3) A continuing power of attorney shall be valid only if it is expressed in a written document which—
+
+(a) is subscribed by the granter;
+
+(b) incorporates a statement which clearly expresses the granter’s intention that the power be a continuing power;
+
+[[^F16](ba) where the continuing power of attorney is exercisable only if the granter is determined to be incapable in relation to decisions about the matter to which the power relates, states that the granter has considered how such a determination may be made;]
+
+(c) incorporates a certificate in the prescribed form by [[^F17]a practising solicitor] or by a member of another prescribed class that—
+
+(i) he has interviewed the granter immediately before the granter subscribed the document;
+
+(ii) he is satisfied, either because of his own knowledge of the granter or because he has consulted [[^F18]another person] (whom he names in the certificate) who [[^F19]has] knowledge of the granter, that at the time the continuing power of attorney is granted the granter understands its nature and extent;
+
+(iii) he has no reason to believe that the granter is acting under undue influence or that any other factor vitiates the granting of the power.
+
+(4) [[^F20]A practising solicitor] or member of another prescribed class may not grant a certificate under subsection (3)(c) if he is the person to whom the power of attorney has been granted.
+
+[[^F21](5) It is declared that the rule of law which provides that an agent's authority ends in the event of the bankruptcy of the principal or the agent applies, and has applied since subsection (1) came into force, in relation to continuing powers of attorney.]
+
+### 16 Creation and exercise of welfare power of attorney
+
+(1) An individual may grant a power of attorney relating to his personal welfare in accordance with the following provisions of this section.
+
+(2) In this Act a power of attorney granted under this section is referred to as a “welfare power of attorney” and an individual on whom such power is conferred is referred to as a “welfare attorney”.
+
+(3) A welfare power of attorney shall be valid only if it is expressed in a written document which—
+
+(a) is subscribed by the granter;
+
+(b) incorporates a statement which clearly expresses the granter’s intention that the power be a welfare power to which this section applies;
+
+[[^F22](ba) states that the granter has considered how a determination as to whether he is incapable in relation to decisions about the matter to which the welfare power of attorney relates may be made for the purposes of subsection (5)(b);]
+
+(c) incorporates a certificate in the prescribed form by [[^F23]a practising solicitor] or by a member of another prescribed class that—
+
+(i) he has interviewed the granter immediately before the granter subscribed the document;
+
+(ii) he is satisfied, either because of his own knowledge of the granter or because he has consulted [[^F24]another person] (whom he names in the certificate) who [[^F25]has] knowledge of the granter, that at the time the welfare power of attorney is granted the granter understands its nature and extent;
+
+(iii) he has no reason to believe that the granter is acting under undue influence or that any other factor vitiates the granting of the power.
+
+(4) [[^F26]A practising solicitor] or member of another prescribed class may not grant a certificate under subsection (3)(c) if he is the person to whom the power of attorney has been granted.
+
+(5) A welfare power of attorney—
+
+(a) may be granted only to an individual (which does not include a person acting in his capacity as an officer of a local authority or other body established by or under an enactment); and
+
+(b) shall not be exercisable unless—
+
+(i) the granter is incapable in relation to decisions about the matter to which the welfare power of attorney relates; or
+
+(ii) the welfare attorney reasonably believes that sub-paragraph (i) applies.
+
+(6) A welfare attorney may not—
+
+(a) place the granter in a hospital for the treatment of mental disorder against his will; [^F27]...
+
+(b) consent on behalf of the granter to any form of treatment [[^F28]in relation to which the authority conferred by section 47(2) does not apply by virtue of regulations made under section 48(2)][[^F29];
+
+(c) make, on behalf of the granter, a request under section 4(1) of the Anatomy Act 1984 (c. 14);
+
+(d) give, on behalf of the granter, an authorisation under, or by virtue of, section 6(1), [[^F30]16F(1)(a),] 17, 29(1) or 42(1) of the Human Tissue(Scotland) Act 2006 (asp 4);
+
+[[^F31](da) withdraw an authorisation, on behalf of the granter, by virtue of section 6A(1) of that Act;
+
+(db) make, on behalf of the granter, an opt-out declaration by virtue of section 6B(1) of that Act;
+
+(dc) withdraw an opt-out declaration, on behalf of the granter, by virtue of section 6C(1) of that Act;] or
+
+(e) make, on behalf of the granter, a nomination under section 30(1) of that Act]
+
+(7) A welfare power of attorney shall not come to an end in the event of the bankruptcy of the granter or the welfare attorney.
+
+(8) Any reference to a welfare attorney—
+
+(a) in relation to subsection (5)(b) in a case where the granter is habitually resident in Scotland; and
+
+(b) in subsection (6),
+
+shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+### 16A [[^F32]Continuing and welfare power of attorney: accompanying certificate
+
+Where a document confers both—
+
+(a) a continuing power of attorney; and
+
+(b) a welfare power of attorney,
+
+the validity requirements imposed by sections 15(3)(c) and 16(3)(c) may be satisfied by incorporating a single certificate which certifies the matters set out in those provisions.]
+
+### 17 Attorney not obliged to act in certain circumstances
+
+A continuing or welfare attorney shall not be obliged to do anything which would otherwise be within the powers of the attorney if doing it would, in relation to its value or utility, be unduly burdensome or expensive.
+
+### 18 Power of attorney not granted in accordance with this Act
+
+A power of attorney granted after the commencement of this Act which is not granted in accordance with section 15 or 16 shall have no effect during any period when the granter is incapable in relation to decisions about the matter to which the power of attorney relates.
+
+### 19 Registration of continuing or welfare power of attorney
+
+(1) A continuing or welfare attorney shall have no authority to act until the document conferring the power of attorney has been registered under this section.
+
+(2) For the purposes of registration, the document conferring the power of attorney shall be sent to the Public Guardian who, if he is satisfied that a person appointed to act is prepared to act, shall—
+
+(a) enter prescribed particulars of it in the register maintained by him under section 6(2)(b)(i) or (ii) as the case may be;
+
+(b) send a copy of it with a certificate of registration to the sender;
+
+(c) if it confers a welfare power of attorney, [[^F33]give notice of the registration of the document to both the local authority and] the Mental Welfare Commission.
+
+(3) The document conferring a continuing or welfare power of attorney may contain a condition that the Public Guardian shall not register it under this section until the occurrence of a specified event and in that case the Public Guardian shall not register it until he is satisfied that the specified event has occurred.
+
+(4) A copy of a document conferring a continuing or welfare power of attorney authenticated by the Public Guardian shall be accepted for all purposes as sufficient evidence of the contents of the original and of any matter relating thereto appearing in the copy.
+
+(5) The Public Guardian shall—
+
+(a) on the registration of a document conferring a continuing or welfare power of attorney, send a copy of it to the granter; [^F34]. . .
+
+(b) where the document conferring the continuing or welfare power of attorney so requires, send a copy of it to not more than two specified individuals or holders of specified offices or positions.
+
+[[^F35](c) where the document confers a welfare power of attorney and the local authority requests a copy of it, send such a copy to the local authority; and
+
+(d) where the document confers a welfare power of attorney and the Mental Welfare Commission requests a copy of it, send such a copy to the Mental Welfare Commission.]
+
+(6) A decision of the Public Guardian under subsection (2) as to whether or not a person is prepared to act or under subsection (3) as to whether or not the specified event has occurred may be appealed to the sheriff, whose decision shall be final.
+
+### 19A [[^F36]Electronic copies
+
+(1) The Public Guardian may, for the purposes of section 19–
+
+(a) accept a copy of a document conferring a power of attorney sent electronically, instead of the original, to the Public Guardian’s email address, and
+
+(b) register the copy document accordingly.
+
+(2) The Public Guardian may refuse to accept a copy document unless it is–
+
+(a) sent by such person or type of person, and
+
+(b) received in such format,
+
+as the Public Guardian may from time to time direct.
+
+- This subsection does not limit the Public Guardian’s general discretion to accept a copy document in pursuance of subsection (1).
+
+(3) References in this Part to documents registered (or sent for registration) under section 19 include references to copy documents registered (or sent) in pursuance of subsection (1).]
+
+### 20 Powers of sheriff
+
+(1) An application for an order under subsection (2) may be made to the sheriff by any person claiming an interest in the property, financial affairs or personal welfare of the granter of a continuing or welfare power of attorney.
+
+(2) Where, on an application being made under subsection (1), the sheriff is satisfied that the granter is incapable in relation to decisions about, or of acting to safeguard or promote his interests in, his property, financial affairs or personal welfare insofar as the power of attorney relates to them, and that it is necessary to safeguard or promote these interests, he may make an order—
+
+(a) ordaining that the continuing attorney shall be subject to the supervision of the Public Guardian to such extent as may be specified in the order;
+
+(b) ordaining the continuing attorney to submit accounts in respect of any period specified in the order for audit to the Public Guardian;
+
+(c) ordaining that the welfare attorney shall be subject to the supervision of the local authority to such extent as may be specified in the order;
+
+(d) ordaining the welfare attorney to give a report to him as to the manner in which the welfare attorney has exercised his powers during any period specified in the order;
+
+(e) revoking—
+
+(i) any of the powers granted by the continuing or welfare power of attorney; or
+
+(ii) the appointment of an attorney.
+
+(3) Where the sheriff makes an order under this section the sheriff clerk shall send a copy of the interlocutor containing the order to the Public Guardian who shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(i) or (ii) as the case may be;
+
+(b) notify—
+
+(i) the granter;
+
+(ii) the continuing or welfare attorney;
+
+(iii) where it is the welfare attorney who is notified, the local authority and [^F37]. . . the Mental Welfare Commission;
+
+(iv) where the sheriff makes an order under subsection (2)(c), the local authority.
+
+(4) A decision of the sheriff under subsection (2)(a) to (d) shall be final.
+
+(5) In this section any reference to—
+
+(a) a continuing power of attorney shall include a reference to a power (however expressed) under a contract, grant or appointment governed by the law of any country, relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity;
+
+(b) a welfare power of attorney shall include a reference to a power (however expressed) under a contract, grant or appointment governed by the law of any country, relating to the granter’s personal welfare and having effect during the granter’s incapacity,
+
+and “continuing attorney” and “welfare attorney” shall be construed accordingly.
+
+### 21 Records: attorneys
+
+A continuing or welfare attorney shall keep records of the exercise of his powers.
+
+### 22 Notification to Public Guardian
+
+(1) After a document conferring a continuing or welfare power of attorney has been registered under section 19, the attorney shall notify the Public Guardian—
+
+(a) of any change in his address;
+
+(b) of any change in the address of the granter of the power of attorney;
+
+(c) of the death of the granter of the power of attorney; or
+
+(d) of any other event which results in the termination of the power of attorney,
+
+and the Public Guardian shall enter prescribed particulars in the register maintained by him under section 6(2)(b)(i) or (ii) as the case may be and shall notify the granter (in the case of an event mentioned in paragraph (a) or (d)) and, where the power of attorney relates to the personal welfare of the adult, both the local authority and [^F38]. . . the Mental Welfare Commission.
+
+(2) If, after a document conferring a continuing or welfare power of attorney has been registered under section 19, the attorney dies, his personal representatives shall, if aware of the existence of the power of attorney, notify the Public Guardian who shall enter prescribed particulars in the register maintained by him under section 6(2)(b)(i) or (ii) as the case may be, and shall notify the granter and, where the power of attorney relates to the personal welfare of the adult, both the local authority and [^F39]. . . the Mental Welfare Commission.
+
+### 22A [[^F40]Revocation of continuing or welfare power of attorney
+
+(1) The granter of a continuing or welfare power of attorney may revoke the power of attorney (or any of the powers granted by it) after the document conferring the power of attorney has been registered under section 19 by giving a revocation notice to the Public Guardian.
+
+(2) A revocation notice shall be valid only if it is expressed in a written document which—
+
+(a) is subscribed by the granter; and
+
+(b) incorporates a certificate in the prescribed form by a practising solicitor or by a member of another prescribed class that—
+
+(i) he has interviewed the granter immediately before the granter subscribed the document;
+
+(ii) he is satisfied, either because of his own knowledge of the granter or because he has consulted another person (whom he names in the certificate) who has knowledge of the granter, that at the time the revocation is made the granter understands its effect;
+
+(iii) he has no reason to believe that the granter is acting under undue influence or that any other factor vitiates the revocation of the power.
+
+(3) The Public Guardian, on receiving a revocation notice, shall—
+
+(a) enter the prescribed particulars of it in the register maintained by him under section 6(2)(b)(i) or (ii) as the case may be; and
+
+(b) notify—
+
+(i) the continuing or welfare attorney; and
+
+(ii) where it is the welfare attorney who is notified, the local authority and the Mental Welfare Commission.
+
+(4) A revocation has effect when the revocation notice is registered under this section.
+
+(5) No liability shall be incurred by any person who acts in good faith in ignorance of the revocation of a power of attorney under this section. Nor shall any title to heritable property acquired by such a person be challengeable on that ground alone.]
+
+### 23 Resignation of continuing or welfare attorney
+
+(1) A continuing or welfare attorney who wishes to resign after the document conferring the power of attorney has been registered under section 19 shall give notice in writing of his intention to do so to—
+
+(a) the granter of the power of attorney;
+
+(b) the Public Guardian;
+
+(c) any guardian or, where there is no guardian, the granter’s primary carer;
+
+(d) the local authority, where they are supervising the welfare attorney.
+
+(2) Subject to subsection (4), the resignation shall not have effect until the expiry of a period of 28 days commencing with the date of receipt by the Public Guardian of the notice given under subsection (1); and on its becoming effective the Public Guardian shall enter prescribed particulars in the register maintained by him under section 6(2)(b)(i) or (ii) as the case may be.
+
+(3) Where the resignation is of a welfare attorney, the Public Guardian shall notify the local authority and [^F41]. . . the Mental Welfare Commission.
+
+(4) The resignation of a joint attorney, or an attorney in respect of whom the granter has appointed a substitute attorney, shall take effect on the receipt by the Public Guardian of notice under subsection (1)(b) if evidence that—
+
+(a) the remaining joint attorney is willing to continue to act; or
+
+(b) the substitute attorney is willing to act,
+
+accompanies the notice.
+
+### 24 Termination of continuing or welfare power of attorney
+
+(1) If the granter and the continuing or welfare attorney are married to each other the power of attorney shall, unless the document conferring it provides otherwise, come to an end upon the granting of—
+
+(a) a decree of separation to either party;
+
+(b) a decree of divorce to either party;
+
+(c) declarator of nullity of the marriage.
+
+[[^F42](1A) If the granter and the continuing or welfare attorney are in civil partnership with each other the power of attorney shall, unless the document conferring it provides otherwise, come to an end on the granting of—
+
+(a) a decree of separation of the partners in the civil partnership;
+
+(b) a decree of dissolution of the civil partnership;
+
+(c) a declarator of nullity of the civil partnership.]
+
+(2) The authority of a continuing or welfare attorney in relation to any matter shall come to an end on the appointment of a guardian with powers relating to that matter.
+
+(3) In subsection (2) any reference to—
+
+(a) a continuing attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed), relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity;
+
+(b) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+(4) No liability shall be incurred by any person who acts in good faith in ignorance of—
+
+(a) the coming to an end of a power of attorney under subsection (1) [[^F43]or subsection (1A)] ; or
+
+(b) the appointment of a guardian as mentioned in subsection (2),
+
+nor shall any title to heritable property acquired by such a person be challengeable on those grounds alone.
+
+## [[^F44]Part 3 — Accounts and funds
+
+### Purposes and application of Part
+
+#### 24A Intromissions with funds
+
+(1) This Part makes provision for the authorisation of persons by the Public Guardian to intromit with the funds of an adult for the purposes mentioned in subsection (2).
+
+(2) Those purposes are—
+
+(a) the payment of central and local government taxes for which the adult is responsible;
+
+(b) the provisions of sustenance, accommodation, fuel, clothing and related goods and services for the adult;
+
+(c) the provision of other services provided for the purposes of looking after or caring for the adult;
+
+(d) the settlement of debts owed by or incurred in respect of the adult, including any prescribed fees charged by the Public Guardian in connection with an application under this Part;
+
+(e) the payment for the provision of items other than those mentioned in paragraphs (a) to (d) such as the Public Guardian may, in any case, authorise.
+
+#### 24B Adults in respect of whom applications may be made
+
+(1) An application to the Public Guardian under this Part may be made only in relation to an adult who is incapable in relation to decisions about, or of safeguarding the adult's interests in, the funds to which the application relates.
+
+(2) But an application may not be made in the case of an adult in relation to whom—
+
+(a) there is a guardian of the type mentioned in section 33(1)(a) with powers relating to the funds in question;
+
+(b) there is a continuing attorney with powers relating to the funds in question; or
+
+(c) an intervention order relating to the funds in question has been granted.
+
+### Authority to take preliminary steps
+
+#### 24C Authority to provide information about funds
+
+(1) This section applies where a person—
+
+(a) believes than an adult holds funds in an account in the adult's sole name; but
+
+(b) cannot make an application under section 25 or section 26G because the person does not know—
+
+(i) where the account is held;
+
+(ii) the account details;
+
+(iii) how much is held in the account; or
+
+(iv) any other information needed to complete the application.
+
+(2) Where this section applies, the person may apply to the Public Guardian for a certificate authorising any fundholder to provide the person with such information as the person may reasonably require in order to make an application under section 25 or 26G.
+
+(3) Where the Public Guardian grants an application under subsection (2), the Public Guardian must issue the certificate to the applicant.
+
+(4) A fundholder presented with a certificate issued under subsection (3) is not prevented by—
+
+(a) any obligation as to secrecy; or
+
+(b) any other restriction on disclosure of information,
+
+from providing the person who presents the certificate to it with such information as the person may reasonably require in order to make an application under section 25 or 26G about funds held by it on behalf of the adult.
+
+#### 24D Authority to open account in adult's name
+
+(1) This section applies where—
+
+(a) a person believes that—
+
+(i) an adult holds funds;
+
+(ii) an adult is entitled to income or other payments or is likely to become so entitled; or
+
+(iii) a fundholder holds funds on behalf of an adult; but
+
+(b) the adult does not have a suitable account in the adult's sole name in which the funds, income or other payments can be placed for the purposes of intromitting with the adult's funds under this Part.
+
+(2) Where this section applies, the person may apply to the Public Guardian for a certificate authorising the opening of an account in the adult's name for the purpose of intromitting with the adult's funds.
+
+(3) Where the Public Guardian grants an application under subsection (2), the Public Guardian must issue the certificate to the applicant.
+
+(4) The certificate issued under subsection (3) may specify the kind of account which may be opened by a fundholder.
+
+(5) A fundholder presented with a certificate issued under subsection (3) may open an account in the adult's name.
+
+(6) But, if the certificate specifies a kind of account, the fundholder may open only an account of the type specified.
+
+(7) On an account being opened in pursuance of subsection (5), the applicant must notify prescribed particulars of the account to the Public Guardian.
+
+### Authority to intromit
+
+#### 25 Authority to intromit
+
+(1) A person mentioned in subsection (2) may apply to the Public Guardian for a certificate authorising the person to intromit with an adult's funds.
+
+(2) Those persons are—
+
+(a) an individual (other than an individual acting in his capacity as an officer of a local authority or other body established by or under an enactment);
+
+(b) two or more individuals who wish to act jointly; or
+
+(c) a body (other than a manager of an authorised establishment within the meaning of section 35(2)).
+
+(3) An application under subsection (1) which is accompanied by an application under section 24D may only be granted if—
+
+(a) an account is opened in pursuance of section 24D(5); and
+
+(b) prescribed particulars of that account are notified to the Public Guardian in pursuance of section 24D(7).
+
+(4) Where the Public Guardian grants an application under subsection (1), the Public Guardian must—
+
+(a) enter prescribed particulars in the register maintained by the Public Guardian under section 6(2)(b)(iii); and
+
+(b) issue a certificate of authority (a “withdrawal certificate”) to the applicant.
+
+(5) No application may be made under subsection (1) if a person is already authorised to intromit with the funds of the adult to whom the application relates (unless the application is made by that person).
+
+(6) In this Act, an individual or a body who holds a valid withdrawal certificate issued under this Part is referred to as a “withdrawer”.
+
+#### 26 Authority to intromit: application
+
+(1) An application under section 25(1) must—
+
+(a) state the purposes of the proposed intromission with the adult's funds, setting out the specific sums relating to each purpose;
+
+(b) specify an account held by a fundholder in the adult's sole name which the applicant wishes to use for the purpose of intromitting with the adult's funds (or be accompanied by an application under section 24D to open an account for that purpose);
+
+(c) contain an undertaking that the applicant will open an account (the “designated account”) solely for the purposes of—
+
+(i) receiving funds transferred under the authority of any certificate granted; and
+
+(ii) intromitting with those funds;
+
+(2) The application may also specify another account held by a fundholder in the adult's sole name which the applicant also wishes to use for the purpose of intromitting with the adult's funds (or be accompanied by an application under section 24D to open an account for that purpose).
+
+(3) In this Part—
+
+(a) the account specified or, as the case may be, opened for the purposes of subsection (1)(b) is referred to as the adult's current account.
+
+(b) the account specified or, as the case may be, opened for the purposes of subsection (2) is referred to as the adult's second account.
+
+### Withdrawal certificates
+
+#### 26A Withdrawal certificates
+
+(1) A withdrawal certificate may—
+
+(a) authorise the transfer of funds—
+
+(i) from the adult's current account to the designated account;
+
+(ii) from the adult's current account to the adult's second account;
+
+(iii) from the designated account to the adult's second account;
+
+(b) authorise the continuance or making of arrangements for the regular or occasional payment of funds from the adult's current account for specified purposes (for example: by standing order or direct debit);
+
+(c) authorise the withdrawal of funds from the designated account for specified purposes;
+
+(d) place limits on the amount of funds that may be so transferred, paid or withdrawn.
+
+(2) But such a certificate does not authorise a transfer of funds or payment that would cause—
+
+(a) the adult's current account;
+
+(b) the adult's second account; or
+
+(c) the designated account,
+
+to become overdrawn.
+
+(3) If any of the accounts mentioned in paragraphs (a) to (c) of subsection (2) is overdrawn, the fundholder of that account has a right of relief against the withdrawer.
+
+(4) In subsection (1)(b), “specified” means specified in the certificate of appointment.
+
+### Joint and reserve withdrawers
+
+#### 26B Addition of joint withdrawer
+
+(1) This section applies where an individual has or individuals have been appointed as a withdrawer in relation to an adult.
+
+(2) Where this sections applies, another individual may apply to the Public Guardian for appointment as a joint withdrawer.
+
+(3) An application under subsection (1) must be signed by the existing withdrawer.
+
+(4) Where the Public Guardian grants an application under subsection (1), the Public Guardian must—
+
+(a) enter prescribed particulars in the register maintained by the Public Guardian under section 6(2)(b)(iii); and
+
+(b) issue a certificate of authority (a “withdrawal certificate”) to the existing withdrawer and the applicant.
+
+(5) Subject to sections 31(2) and 31A, a certificate issued under subsection (4)(b) is valid until the date on which the withdrawal certificate held by the existing withdrawer would cease to be valid under section 31(1) or 31E(6), as the case may be (regardless of any subsequent extension, reduction, termination or suspension of the existing withdrawer's authority).
+
+(6) In this section, “the existing withdrawer” means the individual or individuals mentioned in subsection (1).
+
+(7) In this Part, where two or more individuals are appointed as withdrawers, each individual is referred to as a “joint withdrawer”.
+
+#### 26C Joint withdrawers: supplementary
+
+(1) Joint withdrawers may, subject to subsection (2), exercise their functions individually, and each joint withdrawer is liable for any loss incurred by the adult arising out of—
+
+(a) the joint withdrawer's own acts or omissions; or
+
+(b) the joint withdrawer's failure to take reasonable steps to ensure that another joint withdrawer does not breach any duty of care or fiduciary duty owed to the adult.
+
+(2) Where more than one joint withdrawer is liable under subsection (1), they are liable jointly and severally.
+
+(3) A joint withdrawer must, before exercising any function conferred on the joint withdrawer, consult the other joint withdrawers, unless—
+
+(a) consultation would be impracticable in the circumstances; or
+
+(b) the joint withdrawers agree that consultation is not necessary.
+
+(4) Where joint withdrawers disagree as to the exercise of their functions, one or more of them may apply to the Public Guardian for directions.
+
+(5) Directions given by the Public Guardian in pursuance of subsection (4) may be appealed to the sheriff, whose decision is final.
+
+(6) Where there are joint withdrawers—
+
+(a) a third party in good faith is entitled to rely on the authority to act of any one or more of them; and
+
+(b) section 31A(5) (interim authority) only applies where the Public Guardian terminates the authority of all of the joint withdrawers.
+
+#### 26D Reserve withdrawers: applications
+
+(1) In any case where an individual is issued with a withdrawal certificate (“a main withdrawer”), the Public Guardian may, on an application by the main withdrawer, appoint another individual (“a reserve withdrawer”) to act as a withdrawer in the event of the main withdrawer temporarily becoming unable to act.
+
+(2) An application for appointment of a reserve withdrawer may be made at the time of the application under section 25 for a withdrawal certificate or at any later time.
+
+(3) The application for appointment as a reserve withdrawer must be signed by the proposed reserve withdrawer.
+
+(4) Where the Public Guardian grants the application, the Public Guardian must enter prescribed particulars in the register maintained by the Public Guardian under section 6(2)(b)(iii).
+
+#### 26E Reserve withdrawers: authority to act
+
+(1) Where—
+
+(a) a reserve withdrawer has been appointed under section 26D; and
+
+(b) the main withdrawer considers that the main withdrawer is or will be unable to carry out some or all of the main withdrawer's functions under this Part,
+
+the main withdrawer may notify the Public Guardian that the main withdrawer wishes the Public Guardian to authorise the reserve withdrawer to intromit with the adult's funds for a specified period.
+
+(2) Where a reserve withdrawer becomes aware that the main withdrawer is unable—
+
+(a) to carry out some or all of the main withdrawer's functions in relation to intromitting with the funds concerned; and
+
+(b) to notify the Public Guardian under subsection (1),
+
+the reserve withdrawer may apply to the Public Guardian for a certificate authorising the reserve withdrawer to intromit with the adult's funds for a specified period.
+
+(3) The Public Guardian, on being notified under subsection (1), must or, on an application under subsection (2), may—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iii);
+
+(b) issue a certificate of authority (a “withdrawal certificate”) to the reserve withdrawer; and
+
+(c) notify the adult and the main withdrawer.
+
+(4) The certificate issued under subsection (3)(b) is—
+
+(a) valid for the specified period, or such shorter period as the Public Guardian thinks fit, but does not extend beyond the date on which the validity of the withdrawal certificate issued to the main withdrawer would cease under section 31(1) or 31E(6), as the case may be;
+
+(b) suspended during any period when the authority of the main withdrawer is suspended;
+
+(c) terminated if the authority of the main withdrawer is terminated.
+
+(5) The main withdrawer and the reserve withdrawer are liable (jointly and severally) for any loss incurred by the adult arising out of the reserve withdrawer's acts or omissions.
+
+(6) In this section, “specified” means specified in the notice or, as the case may be, application.
+
+### Variation of withdrawer's authority
+
+#### 26F Variation of withdrawal certificate
+
+(1) The Public Guardian may—
+
+(a) on the application of a withdrawer, or
+
+(b) if notified under section 30A,
+
+vary the withdrawal certificate (the “existing certificate”) issued to the withdrawer.
+
+(2) But a withdrawal certificate may not be varied under this section so as to alter the period of validity of the certificate.
+
+(3) Where the Public Guardian decides to vary the withdrawal certificate under subsection (1), the Public Guardian must—
+
+(a) enter prescribed particulars in the register maintained by the Public Guardian under section 6(2)(b)(iii); and
+
+(b) issue a varied withdrawal certificate to the withdrawer.
+
+(4) The existing certificate ceases to be valid on the date the varied certificate is issued under subsection (3)(b).
+
+### Authority to transfer funds
+
+#### 26G Authority to transfer specified sums
+
+(1) A person mentioned in subsection (2) may apply to the Public Guardian for a certificate authorising the transfer of a specified sum from a specified account (“the original account”) in an adult's sole name to—
+
+(a) the designated account;
+
+(b) the adult's current account;
+
+(c) the adult's second account; or
+
+(d) such other account as may be specified.
+
+(2) Those persons are—
+
+(a) a withdrawer;
+
+(b) a person who has applied for a withdrawal certificate under section 25;
+
+(3) An application under subsection (1) may also seek authority—
+
+(a) to close the original account;
+
+(b) to terminate an arrangement for the payment of funds from the original account to another account (for example: a standing order or direct debit).
+
+(4) Where the Public Guardian grants an application under subsection (1), the Public Guardian must—
+
+(a) enter prescribed particulars in the register maintained by the Public Guardian under section 6(2)(b)(iii); and
+
+(b) issue the certificate to the applicant.
+
+(5) In this section, “specified” means specified in the application under subsection (1) or, as the case may be, in the certificate granted under subsection (4).
+
+### Applications: general
+
+#### 27 Applications: general requirements
+
+An application under section 24C, 24D, 25, 26B, 26D, 26F or 26G must—
+
+(a) be signed by the applicant;
+
+(b) contain the name and addresses of the nearest relative, named person and primary carer of the adult, if known;
+
+(c) be submitted to the Public Guardian no later than 14 days after—
+
+(i) where it is required to be countersigned under section 27A, the day the application is so countersigned, or
+
+(ii) in any other case, the day the application is signed by the applicant as mentioned in paragraph (a).
+
+#### 27A Countersigning of applications
+
+(1) An application under section 24C, 24D, 25, or 26B must be countersigned by a person who must declare in the application that—
+
+(a) the person knows the applicant and has known the applicant for at least one year prior to the date of the application;
+
+(b) the person is not any of the following—
+
+(i) a relative of or person residing with the applicant or the adult;
+
+(ii) a director or employee of the fundholder;
+
+(iii) a solicitor acting on behalf of the adult or any other person mentioned in this paragraph in relation to any matter under this Act;
+
+(iv) the medical practitioner who has issued the certificate under section 27B in connection with the application;
+
+(v) a guardian of the adult;
+
+(vi) a welfare or continuing attorney of the adult;
+
+(vii) a person who is authorised under an intervention order in relation to the adult;
+
+(c) the person believes the information contained in the application to be true; and
+
+(d) the person believes the applicant to be a fit and proper person to intromit with the adult's funds.
+
+(2) An application under section 26D (reserve withdrawers) must be countersigned by a person who must declare in the application the matters set out in paragraphs (a) to (d) of subsection (1) but with references in those paragraphs to “applicant” read as references to the proposed reserve withdrawer.
+
+(3) This section does not apply to an application made by a body.
+
+#### 27B Medical certificates
+
+An application under section 24C, 24D, or 25 must be accompanied by a certificate in prescribed form from a medical practitioner that the adult is—
+
+(a) incapable in relation to decisions about; or
+
+(b) incapable of acting to safeguard or promote the adult's interests in,
+
+the adult's funds.
+
+#### 27C Intimation of applications
+
+(1) On receipt of a competent application under section 24C, 24D, 25, 26B, 26D, 26F or 26G, the Public Guardian must intimate the application to—
+
+(a) the adult;
+
+(b) the adult's nearest relative;
+
+(c) the adult's primary carer;
+
+(d) the adult's named person;
+
+(e) where the applicant is—
+
+(i) the individual mentioned in both paragraph (b) and (c); or
+
+(ii) a body other than a local authority,
+
+the chief social work officer of the local authority; and
+
+(f) any other person who the Public Guardian considers has an interest in the application.
+
+(2) A competent application is an application which complies with section 27 and, where appropriate, sections 27A and 27B.
+
+#### 27D Determination of applications: applicant to be fit and proper
+
+(1) The Public Guardian may grant an application made under section 24C, 24D, 25, 26B or 26D only if satisfied that—
+
+(a) the applicant in an application under section 24C, 24D, 25 or 26B, or
+
+(b) the proposed reserve withdrawer in an application under section 26D,
+
+is a fit and proper person to intromit with the funds of the adult.
+
+(2) In deciding whether a person is fit and proper, the Public Guardian must have regard to any guidance issued in relation to that matter by the Scottish Ministers.
+
+#### 27E Determination of applications: opportunity to make representations
+
+(1) The Public Guardian must not grant an application under section 24C, 24D, 25, 26B, 26D, 26F or 26G without affording to any person who receives intimation of the application under section 27C or any other person who wishes to object an opportunity to make representations.
+
+(2) Where the Public Guardian proposes to refuse the application the Public Guardian must intimate the proposed decision to the applicant and advise the applicant of the prescribed period within which the applicant may object to the proposed refusal.
+
+(3) The Public Guardian must not refuse an application without affording to the applicant, if the applicant objects, an opportunity to make representations.
+
+#### 27F Referral of application to sheriff
+
+(1) The Public Guardian may remit an application under section 24C, 24D, 25, 26B, 26D, 26F or 26G for determination by the sheriff at the instance of—
+
+(a) the Public Guardian;
+
+(b) the applicant; or
+
+(c) any person who objects to the granting of the application.
+
+(2) The sheriff's decision on an application remitted under subsection (1) is final.
+
+#### 27G Multiple applications etc.
+
+(1) Where a person who has made an application under section 24C, 24D or 25 in respect of an adult makes another application under any of those sections in respect of the same adult, the Public Guardian may disapply any of the provisions in sections 27 to 27B to that application.
+
+(2) Where the Public Guardian is to issue more than one certificate under this Part to the same person, the Public Guardian may instead issue a combined certificate to the person.
+
+(3) References in this Part to a withdrawal certificate or other certificate issued under this Part include references to any combined certificate issued by the Public Guardian instead of the withdrawal or other certificate.
+
+### Fundholders
+
+#### 28 Fundholders of adult's current account and adult's second account
+
+(1) The fundholder of an adult's current account may act on the instructions of a withdrawer to the extent authorised by the withdrawal certificate issued to the withdrawer.
+
+(2) The fundholder of an adult's current account presented with a withdrawal certificate must not allow any operations to be carried out on that account other than those carried out in accordance with the certificate by the withdrawer.
+
+(3) The fundholder of an adult's current account or an adult's second account presented with a withdrawal certificate may provide the withdrawer with a copy of any statement or other correspondence issued by the fundholder to the adult during the period when the withdrawal certificate is valid.
+
+#### 28A Fundholder of original account
+
+The fundholder of an original account may act on the instructions of a withdrawer to the extent authorised by the certificate issued to the withdrawer under section 26G(4).
+
+#### 29 Fundholder's liability
+
+The fundholder of an account mentioned in section 28 or 28A is liable to the adult for any funds removed from the account under that section at any time when it was aware that the withdrawer's authority had been terminated or suspended by the Public Guardian under section 31A but, on meeting such liability, the fundholder of the account has a right of relief against the withdrawer.
+
+### Withdrawers
+
+#### 30A Notification of change of address
+
+(1) A withdrawer must notify the Public Guardian—
+
+(a) of any change in the withdrawer's address; and
+
+(b) of any change in the address of the adult.
+
+(2) A notice under subsection (1) must be given within 7 days of the date of the change to which it relates.
+
+#### 30B Records and inquiries
+
+(1) A withdrawer must keep records of the exercise of the withdrawer's powers.
+
+(2) The Public Guardian may make inquiries from time to time as to the manner in which a withdrawer has exercised the withdrawer's functions under this Part.
+
+### Duration etc. of authority
+
+#### 31 Duration of withdrawal certificate
+
+(1) Unless this Part provides otherwise, a withdrawal certificate issued under section 25 is valid for a period of 3 years commencing with the date of issue of the certificate.
+
+(2) The Public Guardian may reduce or extend the period of validity of a withdrawal certificate; and an extension may be without limit of time.
+
+(3) Subsections (1) and (2) are without prejudice to the right of the withdrawer to make subsequent applications under section 25 after the withdrawal certificate ceases to be valid or, as the case may be, a suspension or termination of the withdrawer's authority.
+
+(4) The validity of a withdrawal certificate ceases—
+
+(a) on the appointment of a guardian with powers relating to the funds or account in question;
+
+(b) on the granting of an intervention order relating to the funds or account in question; or
+
+(c) on a continuing attorney's acquiring authority to act in relation to the funds or account in question,
+
+but no liability is incurred by any person who acts in good faith under this Part in ignorance of the withdrawal certificate ceasing to be valid under this subsection.
+
+#### 31A Suspension and termination of authority
+
+(1) The Public Guardian may suspend or terminate the authority of a withdrawer under a withdrawal certificate.
+
+(2) The Public Guardian must without delay intimate the suspension or termination to—
+
+(a) the withdrawer whose authority is suspended or terminated;
+
+(b) any other joint withdrawer;
+
+(c) any reserve withdrawer; and
+
+(d) the fundholder of the designated account; and
+
+(e) such other persons as the Public Guardian thinks fit.
+
+(3) A suspension or termination under subsection (1) suspends or, as the case may be, terminates all operations on the designated account by the withdrawer whose authority is suspended or terminated.
+
+(4) The Public Guardian must on suspending or terminating the authority of the withdrawer enter prescribed particulars in the register maintained by the Public Guardian under section 6(2)(b)(iii).
+
+(5) The Public Guardian may on terminating the authority of the withdrawer issue to the withdrawer an interim withdrawal certificate to continue to intromit with the adult's funds for a period not exceeding 4 weeks from the date of the termination.
+
+#### 31B Renewal of authority to intromit
+
+(1) This section applies to an application under section 25 if condition A or B is satisfied.
+
+(2) Condition A is that the application is made by a person holding an existing withdrawal certificate.
+
+(3) Condition B is that—
+
+(a) the main withdrawer has died or become incapable or the main withdrawer's authority under this Part has been terminated; and
+
+(b) the application is made, without undue delay, by an individual who was the reserve withdrawer at the time of the death, incapacity, or termination, as the case may be.
+
+(4) Where this section applies, the Public Guardian may disapply any of the provisions in sections 26(1), 27A and 27B to an application to which this section applies (but may require the applicant to provide such other information as the Public Guardian requires to determine the application).
+
+(5) Where condition A is satisfied in relation to an application under section 25, the existing withdrawal certificate will continue to be valid until the application is determined.
+
+(6) Where an application to which this section applies is granted, the existing withdrawal certificate ceases to be valid.
+
+#### 31C Duration of certificates issued under section 24C, 24D, and 26G etc.
+
+(1) A certificate issued under section 24C, 24D or 26G is valid for such period as it may specify.
+
+(2) But the Public Guardian may cancel the certificate at any time before the end of any period so specified.
+
+(3) The Public Guardian must without delay intimate such a cancellation to—
+
+(a) the person to whom the certificate was issued,
+
+(b) where the certificate was issued under section 26G, the fundholder of the original account, and
+
+(c) such other persons as the Public Guardian thinks fit.
+
+### Appeals
+
+#### 31D Appeals
+
+(1) A decision of the Public Guardian—
+
+(a) to grant or refuse an application under section 24C, 24D, 25, 26B, 26D, 26E, 26F or 26G;
+
+(b) to refuse to remit an application to the sheriff under section 27F;
+
+(c) to reduce or extend the period of validity of a withdrawal certificate under section 31(2); or
+
+(d) to suspend or terminate the authority of a withdrawer under section 31A,
+
+may be appealed to the sheriff.
+
+(2) The sheriff's decision on an appeal under subsection (1) is final.
+
+### Transition from guardianship
+
+#### 31E Transition from guardianship
+
+(1) This section applies where—
+
+(a) there is a guardian with powers relating to the property or financial affairs of an adult; and
+
+(b) an application is made under section 25 in relation to the adult's funds.
+
+(2) Section 27A does not apply to the application if it is made by the adult's guardian.
+
+(3) The Public Guardian may disapply section 27B to the application.
+
+(4) Where—
+
+(a) it appears to the Public Guardian that, if the application were granted, the adult's interests in the adult's property and affairs can be satisfactorily safeguarded or promoted otherwise than by the existing guardianship; and
+
+(b) the Public Guardian proposes to grant the application,
+
+the Public Guardian must initiate the recall of the guardianship under section 73.
+
+(5) The Public Guardian may not grant the application unless the guardianship is recalled.
+
+(6) Where the Public Guardian grants the application, the withdrawal certificate issued to the withdrawer is valid for such period as the Public Guardian specifies at the time the Public Guardian grants the application.
+
+(7) This section does not apply, and no application under this Part may be made, in the case of an adult if there is a person who is—
+
+(a) appointed or otherwise entitled under the law of any country other than Scotland to act as a guardian (however called) in relation to the adult's property and financial affairs during the adult's incapacity; and
+
+(b) recognised by the law of Scotland as the adult's guardian.
+
+(8) Despite subsection (7), no liability is incurred by any person who acts in good faith under this Part in ignorance of any guardian of the type mentioned in that subsection.
+
+### Miscellaneous
+
+#### 32 Joint accounts
+
+Where an individual who along with one or more others is the holder of a joint account with a fundholder becomes incapable in relation to decisions about, or of safeguarding the individual's interests in, the funds in the account, any other joint account holder may continue to operate the account unless—
+
+(a) the terms of the account provide otherwise; or
+
+(b) the joint account holder is barred by an order of any court from so doing.
+
+### Interpretation
+
+#### 33 Interpretation of Part
+
+(1) In section 24B, 27A and 31 any reference to—
+
+(a) a guardian includes a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a continuing attorney includes a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter's property or financial affairs and having continuing effect notwithstanding the granter's incapacity.
+
+(c) a welfare attorney includes a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter's personal welfare and having effect during the granter's incapacity.
+
+(2) In this Part—
+
+- “fundholder” means a bank, building society or other similar body which holds funds on behalf of another person;
+- “withdrawal certificate” means a certificate issued under section 25, 26B, 26E, 26F or 31A.]
+
+## PART 4 — MANAGEMENT OF RESIDENTS’ FINANCES
+
+### 35 Application of Part 4
+
+(1) Subject to subsection (3), this Part applies to the management of the matters set out in section 39 relating to any resident of any of the following establishments—
+
+[[^F45](a) a health service hospital ;
+
+(b) an independent hospital [[^F46]or private psychiatric hospital][^F47]. . . ;
+
+(c) a State hospital;
+
+(d) a care home service; and
+
+(e) a limited registration service.]
+
+(2) In this Part establishments mentioned in paragraph (b), [[^F48](d) or (e)] of subsection (1) are referred to as “registered establishments”, all other establishments mentioned in subsection (1) are referred to as “unregistered establishments”, and registered and unregistered establishments together are referred to as “authorised establishments”.
+
+(3) This Part shall not apply to a registered establishment where notice in writing is given to the supervisory body by—
+
+(a) the managers of the registered establishment; or
+
+(b) an applicant[[^F49], under [[^F50]section 59(1) of the Public Services Reform (Scotland) Act 2010] (asp 8) [[^F51]or section 10P(1) of the National Health Service (Scotland) Act 1978, as the case may be], for registration of the service which comprises that] establishment,
+
+that it shall not apply.
+
+(4) The Scottish Ministers may by regulations amend the list of authorised establishments set out in subsection (1).
+
+(5) In this Part, “the managers” has the meaning set out in schedule 1; and “resident” in relation to an authorised establishment means an adult whose main residence for the time being is the authorised establishment or [[^F52]whose detention there is authorised by virtue of the Criminal Procedure (Scotland) Act 1995 (c. 46) or the 2003 Act] .
+
+[[^F53](6) Expressions used in subsection (1) and in]
+
+[[^F54](a) the Public Services Reform (Scotland) Act 2010 have the same meanings in that subsection as in that Act;]
+
+[[^F55](b) the National Health Service (Scotland) Act 1978 (c.29) have the same meanings in that subsection as in that Act.]
+
+### 36 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37 Residents whose affairs may be managed
+
+(1) The managers of an authorised establishment shall be entitled to manage on behalf of any resident in the establishment in relation to whom a certificate has been issued under subsection (2) any of the matters set out in section 39.
+
+(2) Where the managers of an authorised establishment, having considered all other appropriate courses of action, have decided that management on behalf of the resident of the matters set out in section 39 by them is the most appropriate course of action, they shall cause to be examined by a medical practitioner any resident in the establishment who they believe may be incapable in relation to decisions as to, or of safeguarding his interest in, any of the resident’s affairs referred to in section 39; and if the medical practitioner finds that the resident is so incapable he shall issue a certificate in prescribed form to that effect.
+
+(3) Subject to subsection (8), the managers of the authorised establishment shall intimate their intention of requiring an examination under subsection (2) to the resident and to the resident’s nearest relative [[^F57]and named person].
+
+(4) Subject to subsection (8), the managers of the authorised establishment shall—
+
+(a) send a copy of the certificate to the resident and to the supervisory body, who shall notify the resident’s nearest relative [[^F58]and named person];
+
+(b) notify the resident and the supervisory body that they intend to manage the resident’s affairs.
+
+(5) Notification under subsection (4)(b) shall include a statement as to what other courses of action had been considered and why they were not considered appropriate.
+
+(6) The medical practitioner who certifies under this section shall not—
+
+(a) be related to the resident or to any of the managers of the authorised establishment;
+
+(b) have any direct or indirect financial interest in the authorised establishment.
+
+(7) A certificate—
+
+(a) shall be reviewed where it appears to the managers of the authorised establishment, the medical practitioner who certifies under this section or any person having an interest in any of the resident’s affairs mentioned in section 39 that there has been any change in the condition or circumstances of the resident bearing on the resident’s incapacity; and
+
+(b) shall expire 3 years after it was issued.
+
+(8) If the managers of the authorised establishment consider that intimation to the resident under subsection (3) or any action under subsection (4) would be likely to pose a serious risk to the health of the resident they may apply to the supervisory body for a direction that they need not make the intimation or take the action.
+
+(9) The Scottish Ministers may prescribe the evidence which the supervisory body shall take into account in reaching a decision under subsection (8).
+
+### 38 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39 Matters which may be managed
+
+(1) The matters which may be managed under this Part by the managers of an authorised establishment are—
+
+(a) claiming, receiving, holding and spending any pension, benefit, allowance or other payment other than under the Social Security Contributions and Benefits Act 1992 (c.4)[[^F60], the State Pensions Credit Act 2002 (c. 16)][[^F61], Part 1 of the Welfare Reform Act 2007 or Part 1 or 4 of the Welfare Reform Act 2012];
+
+(b) claiming, receiving, holding and spending any money to which a resident is entitled;
+
+(c) holding any other moveable property to which the resident is entitled;
+
+(d) disposing of such moveable property,
+
+and in this Part these matters, or any of them, are referred to as residents’ affairs; and cognate expressions shall be construed accordingly.
+
+(2) In managing these matters, the managers of an authorised establishment shall—
+
+(a) act only for the benefit of the resident; and
+
+(b) have regard to the sentimental value that any item might have for the resident, or would have but for the resident’s incapacity.
+
+(3) The managers of an authorised establishment shall not, without the consent of the supervisory body, manage any matter if that matter has a value greater than that which is prescribed for the purposes of this subsection.
+
+(4) The supervisory body may in relation to an individual resident permit the managers of the authorised establishment to manage any matter which has a value greater than that which is prescribed in relation to it under subsection (3).
+
+(5) For the purpose of this section, “manage” denotes no greater responsibility than complying with the duties set out in this section.
+
+### 40 Supervisory bodies
+
+[[^F62](1) The supervisory body for the purposes of this Part is, in relation to—
+
+(a) [[^F63]a registered establishment which is—
+
+(i) registered under the Public Services Reform (Scotland) Act 2010, Social Care and Social Work Improvement Scotland;]
+
+[[^F64](ii) registered under the National Health Service (Scotland) Act 1978, Healthcare Improvement Scotland;]
+
+(b) an unregistered establishment, the Health Board for the area in which the establishment is situated;]
+
+and any reference in this Part to an authorised establishment in relation to a supervisory body is a reference to an authorised establishment for which the supervisory body is responsible.
+
+(2) [[^F65]The] supervisory body shall from time to time make inquiry as to the manner in which the managers of an authorised establishment are carrying out the management of residents’ affairs and in particular the manner in which they are carrying out their functions under section 41.
+
+(3) [[^F65]The] supervisory body shall investigate any complaint received as to the manner in which the managers of an authorised establishment are managing residents’ affairs.
+
+(4) The Scottish Ministers may[[^F66], as respects any authorised establishment, amend subsection (1) by substituting for the supervisory body allotted to that establishment a different supervisory body.].
+
+### 41 Duties and functions of managers of authorised establishment
+
+The managers of an authorised establishment shall, in relation to residents whose affairs they are managing under section 39—
+
+(a) claim, receive and hold any pension, benefit, allowance or other payment to which the resident is entitled other than under the Social Security Contributions and Benefits Act 1992 (c.4)[[^F67], the State Pensions Credit Act 2002 (c. 16)] [[^F68], Part 1 of the Welfare Reform Act 2007 or Part 1 or 4 of the Welfare Reform Act 2012];
+
+(b) keep the funds of residents separate from the funds of the establishment;
+
+(c) comply with any requirements of the supervisory body as respects keeping the funds of residents separate or distinguishable from each other;
+
+(d) ensure that where, at any time, the total amount of funds held on behalf of any resident exceeds such sum as may from time to time be prescribed they shall be placed so as to earn interest;
+
+(e) keep records of all transactions made in relation to the funds held by them in respect of each resident for whose benefit the funds are held and managed and, in particular, ensure that details of the balance and any interest due to each resident can be ascertained at any time;
+
+(f) produce such records when requested to do so by the resident, his nearest relative[[^F69], his named person] or the supervisory body;
+
+(g) spend money only on items or services which are of benefit to the resident on whose behalf the funds are held;
+
+(h) not spend money on items or services which are provided by the establishment to or for such resident as part of its normal service;
+
+(i) make proper provision for indemnifying residents against any loss attributable to—
+
+(i) any act or omission on the part of the managers of the establishment in exercising the powers conferred by this Part or of others for whom the managers are responsible or attributable to any expenditure in breach of paragraph (g);
+
+(ii) any breach of duty, misuse of funds or failure to act reasonably and in good faith on the part of the managers.
+
+### 42 Authorisation of named manager to withdraw from resident’s account
+
+(1) On an application in writing by the managers of an authorised establishment the supervisory body may issue a certificate of authority under this section in relation to any resident named in the application.
+
+(2) An application under subsection (1) shall specify one or more persons (being managers, officers or members of staff of the establishment) who shall exercise the authority conferred by this section.
+
+(3) A certificate of authority shall be signed by the officer of the supervisory body authorised by the body to do so and shall—
+
+(a) specify accounts or other funds of the resident;
+
+(b) name the persons specified in the application (the “authorised persons”);
+
+(c) specify the period of validity of the certificate of authority, being a period not exceeding the period of validity of the certificate issued under section 37(2).
+
+(4) The authorised persons may make withdrawals from such account or source of funds of the named resident as is specified in the certificate of authority and the fundholder may make payments accordingly.
+
+(5) The supervisory body may at any time after it has issued a certificate of authority, revoke it and if it does so it shall notify the fundholder of the revocation.
+
+### 43 Statement of resident’s affairs
+
+(1) In this section, “resident” means a resident of an authorised establishment whose affairs are being managed in accordance with the provisions of this Part and “statement” means a statement of the affairs of the resident.
+
+(2) Where a resident ceases to be incapable of managing his affairs, the managers of the establishment shall prepare a statement as at the date on which he ceases to be incapable and shall give a copy to him.
+
+(3) Where a resident moves from an authorised establishment to another authorised establishment, the managers of the establishment from which he moves shall, except where he has ceased to be incapable, prepare a statement as at the date on which he moves and shall send a copy of the statement to the managers of the other establishment.
+
+(4) Where a resident leaves an authorised establishment, other than to move to another authorised establishment and except where he has ceased to be incapable, the managers of the establishment shall prepare a statement as at the date on which he leaves and shall give a copy of the statement to any person who appears to them to be the person who will manage his affairs.
+
+### 44 Resident ceasing to be resident of authorised establishment
+
+(1) Where a resident ceases to be a resident of an authorised establishment, or ceases to be incapable, the managers of the establishment shall continue, for a period not exceeding 3 months from the date on which he ceases to be a resident or, as the case may be, to be incapable, to manage his affairs while such other arrangements as are necessary for managing his affairs are being made.
+
+(2) At the end of the period referred to in subsection (1) during which the managers of the establishment have continued to manage the resident’s affairs, they shall prepare a statement and shall give a copy of it to—
+
+(a) the resident, if he has ceased to be incapable; or
+
+(b) any person who appears to them to be the person who will manage his affairs.
+
+(3) Where a resident ceases to be a resident of an authorised establishment and his affairs are to be managed by another establishment, authority or person (including himself) the managers of the establishment shall take such steps as are necessary to transfer his affairs to that establishment, authority or person, as the case may be.
+
+(4) Where a resident ceases to be a resident of an authorised establishment the managers of the establishment shall within 14 days of that event inform—
+
+(a) the supervisory body; and
+
+(b) where the resident has not ceased to be incapable and has moved neither—
+
+(i) to another authorised establishment; nor
+
+(ii) into the care of a local authority,
+
+the local authority of the area in which they expect him to reside.
+
+### 45 Appeal, revocation etc.
+
+(1) Where it appears to [[^F70]the] supervisory body that the managers of an authorised establishment are no longer operating as such or have failed to comply with any requirement of this Part or that, for any other reason, it is no longer appropriate that they should continue to manage residents’ affairs it may revoke [[^F71]that power to manage]
+
+(2) [^F72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a [[^F73]registration or] a power to manage has been revoked under this section, the supervisory body shall within a period of 14 days from such revocation take over management of the residents’ affairs and, where they do so, comply with the requirements imposed by and under this Part upon the managers of an authorised establishment.
+
+(4) The supervisory body shall, within the period of 3 months after taking over management of residents’ affairs under subsection (3), cause that management to be transferred to such other establishment, authority or person (who may be the resident) as they consider appropriate.
+
+(5) Where the supervisory body is satisfied that the circumstances mentioned in subsection (1) no longer apply in relation to an establishment whose power to manage it has revoked, it may annul the revocation of the power and, where necessary, of the registration.
+
+(6) Any decision of [[^F74]the] supervisory body may be appealed to the sheriff, whose decision shall be final.
+
+### 46 Disapplication of Part 4
+
+(1) This Part shall not apply to any of the matters which may be managed under section 39 if—
+
+(a) there is a guardian, continuing attorney, or other person with powers relating to that matter; or
+
+(b) an intervention order has been granted relating to that matter,
+
+but no liability shall be incurred by any person who acts in good faith under this Part in ignorance of any guardian, continuing attorney, other person or intervention order.
+
+(2) In this section any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a continuing attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed), relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity.
+
+## PART 5 — MEDICAL TREATMENT AND RESEARCH
+
+### 47 Authority of persons responsible for medical treatment
+
+(1) This section applies where [[^F75]any of the persons mentioned in subsection (1A)]—
+
+(a) is of the opinion that [[^F76]an adult] is incapable in relation to a decision about the medical treatment in question; and
+
+(b) has certified in accordance with subsection (5) that he is of this opinion.
+
+[[^F77](1A) The persons are—
+
+(a) the medical practitioner primarily responsible for the medical treatment of the adult;
+
+(b) a person who is—
+
+(i) a dental practitioner;
+
+(ii) an ophthalmic optician;
+
+(iii) a registered nurse; or
+
+(iv) an individual who falls within such description of persons as may be prescribed by the Scottish Ministers,
+
+who satisfies such requirements as may be so prescribed and who is primarily responsible for medical treatment of the kind in question.]
+
+(2) [^F78]. . . The [[^F79]person who by virtue of subsection (1) has issued a certificate for the purposes of that subsection] shall have, during the period specified in the certificate, authority to do what is reasonable in the circumstances, in relation to [^F80]. . . [[^F81]the medical treatment in question] , to safeguard or promote the physical or mental health of the adult.
+
+[[^F82](2A) Subsection (2)—
+
+(a) does not affect any authority conferred by any other enactment or rule of law; and
+
+(b) is subject to—
+
+(i) the following provisions of this section;
+
+(ii) sections 49 and 50; and
+
+(iii) sections 234, 237, 240, 242, 243 and 244 of the 2003 Act.]
+
+(3) The authority conferred by subsection (2) shall be exercisable also by any other person who is authorised by the [[^F83]person on whom that authority is conferred] to carry out [[^F84]the medical treatment in question] and who is acting—
+
+(a) on his behalf under his instructions; or
+
+(b) with his approval or agreement.
+
+(4) In this Part “medical treatment” includes any procedure or treatment designed to safeguard or promote physical or mental health.
+
+(5) A certificate for the purposes of subsection (1) shall be in the prescribed form and shall specify the period during which the authority conferred by subsection (2) shall subsist, being a period which—
+
+(a) the [[^F85]person who issues the certificate] considers appropriate to the condition or circumstances of the adult; but
+
+(b) [[^F86] does not exceed—
+
+(i) one year; or
+
+(ii) if, in the opinion of the person issuing the certificate any of the conditions or circumstances prescribed by the Scottish Ministersapplies as respects the adult, 3 years,
+
+from] the date of the examination on which the certificate is based.
+
+(6) If after issuing a certificate, the [[^F87]person who issued it] is of the opinion that the condition or circumstances of the adult have changed he may—
+
+(a) revoke the certificate;
+
+(b) issue a new certificate specifying such period [[^F88] not exceeding—
+
+(i) one year; or
+
+(ii) if, in the opinion of that person any of the conditions or circumstances prescribed by the Scottish Ministers apply as respects theadult, 3 years,
+
+from] the date of revocation of the old certificate as he considers appropriate to the new condition or circumstances of the adult.
+
+(7) The authority conferred by subsection (2) shall not authorise—
+
+(a) the use of force or detention, unless it is immediately necessary and only for so long as is necessary in the circumstances;
+
+(b) action which would be inconsistent with any decision by a competent court;
+
+(c) placing an adult in a hospital for the treatment of mental disorder against his will.
+
+(8) [^F89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Subject to subsection (10), where any question as to the authority of any person to provide medical treatment in pursuance of subsection (2)—
+
+(a) is the subject of proceedings in any court (other than for the purposes of any application to the court made under regulations made under section 48); and
+
+(b) has not been determined,
+
+medical treatment authorised by subsection (2) shall not be given unless it is authorised by any other enactment or rule of law for the preservation of the life of the adult or the prevention of serious deterioration in his medical condition.
+
+(10) Nothing in subsection (9) shall authorise the provision of any medical treatment where an interdict has been granted and continues to have effect prohibiting the provision of such medical treatment.
+
+[[^F90](11) In subsection (1A)—
+
+- “dental practitioner” has the same meaning as in section 108(1) of theNational Health Service (Scotland) Act 1978 (c. 29);
+- “ophthalmic optician” means a person registered in either of the registers kept undersection 7 of the Opticians Act 1989 (c. 44) of ophthalmic opticians.]
+
+### 48 Exceptions to authority to treat
+
+(1) [^F91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Scottish Ministers may by regulations specify medical treatment, or a class or classes of medical treatment, in relation to which the authority conferred by section 47(2) shall not apply and make provision about the medical treatment, or a class or classes of medical treatment, in relation to which that authority does apply.
+
+(3) Regulations made under subsection (2) may provide for the circumstances in which the specified medical treatment or specified class or classes of medical treatment may be carried out.
+
+### 49 Medical treatment where there is an application for intervention or guardianship order
+
+(1) [[^F92]Subsection (2) of section 47] shall not apply if, to the knowledge of the [[^F93]person on whom authority is conferred by that subsection], an application for an intervention order or a guardianship order with power in relation to any medical treatment referred to in that subsection has been made to the sheriff and has not been determined.
+
+(2) Until the application has been finally determined, medical treatment authorised by section 47(2) shall not be given unless it is authorised by any other enactment or rule of law for the preservation of the life of the adult or the prevention of serious deterioration in his medical condition.
+
+(3) Nothing in subsection (2) shall authorise the provision of any medical treatment where an interdict has been granted and continues to have effect prohibiting the provision of such medical treatment.
+
+### 50 Medical treatment where guardian etc. has been appointed
+
+(1) This section applies where a guardian or a welfare attorney has been appointed or a person has been authorised under an intervention order with power in relation to any medical treatment referred to in section 47.
+
+(2) The authority conferred by section 47(2) shall not apply where—
+
+(a) subsection (1) applies;
+
+(b) the [[^F94]person who issued the certificate for the purposes of section 47(1)] is aware of the appointment or, as the case may be, authorisation; and
+
+(c) it would be reasonable and practicable for that [[^F95]person] to obtain the consent of the guardian, welfare attorney or person authorised under the intervention order, as the case may be, to any proposed medical treatment but he has failed to do so.
+
+(3) Where the [[^F96]person who issued the certificate for the purposes of section 47(1)] has consulted the guardian, welfare attorney or person authorised under the intervention order and there is no disagreement as to the medical treatment of the adult, [[^F97]the medical practitioner primarily responsible for the medical treatment of the adult (in a case where the person whoso issued the certificate was someone other than that practitioner) or any person having an interest] in the personal welfare of the adult may appeal the decision as to the medical treatment to the Court of Session.
+
+(4) Where the [[^F98]person who issued the certificate for the purposes of section 47(1)] has consulted the guardian, welfare attorney or person authorised under the intervention order and there is a disagreement as to the medical treatment of the adult, the [[^F99]person who issued the certificate] shall request the Mental Welfare Commission to nominate [[^F100] a practitioner who the Commission consider has professional knowledge or expertise relevant to medical treatment of the kind in question (the “nominated practitioner”)] from the list established and maintained by them under subsection (9) to give an opinion as to the medical treatment proposed.
+
+(5) Where the [[^F101]nominated practitioner] certifies that, in his opinion, having regard to all the circumstances and having consulted the guardian, welfare attorney or person authorised under the intervention order as the case may be and, if it is reasonable and practicable to do so, a person nominated by such guardian, welfare attorney or person authorised under the intervention order as the case may be, the proposed medical treatment should be given, the [[^F102]person who issued the certificate for the purposes of section 47(1)] may give the treatment or may authorise any other person to give the treatment notwithstanding the disagreement with the guardian, welfare attorney, or person authorised under the intervention order, as the case may be.
+
+(6) Where the [[^F103]nominated practitioner] certifies that, in his opinion, having regard to all the circumstances and having consulted the guardian, welfare attorney or person authorised under the intervention order as the case may be and, if it is reasonable and practicable to do so, a person nominated by such guardian, welfare attorney or person authorised under the intervention order as the case may be, the proposed medical treatment should or, as the case may be, should not be given, the medical practitioner primarily responsible for the medical treatment of the adult, or any person having an interest in the personal welfare of the adult [[^F104](including, where the certificate issued for the purposes of section 47(1) was issued by another person,that person)] , may apply to the Court of Session for a determination as to whether the proposed treatment should be given or not.
+
+(7) Subject to subsection (8), where an appeal has been made to the Court of Session under subsection (3) or an application has been made under subsection (6), and has not been determined, medical treatment authorised by section 47(2) shall not be given unless it is authorised by any other enactment or rule of law for the preservation of the life of the adult or the prevention of serious deterioration in his medical condition.
+
+(8) Nothing in subsection (7) shall authorise the provision of any medical treatment where an interdict has been granted and continues to have effect prohibiting the giving of such medical treatment.
+
+(9) The Mental Welfare Commission shall establish and maintain a list of [[^F105]practitioners] from whom they shall nominate the [[^F106]practitioner] who is to give the opinion under subsection (4).
+
+(10) In this section any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+### 51 Authority for research
+
+(1) No surgical, medical, nursing, dental or psychological research shall be carried out on any adult who is incapable in relation to a decision about participation in the research unless—
+
+(a) research of a similar nature cannot be carried out on an adult who is capable in relation to such a decision; and
+
+(b) the circumstances mentioned in subsection (2) are satisfied.
+
+(2) The circumstances referred to in subsection (1) are that—
+
+(a) the purpose of the research is to obtain knowledge of—
+
+(i) the causes, diagnosis, treatment or care of the adult’s incapacity; or
+
+(ii) the effect of any treatment or care given during his incapacity to the adult which relates to that incapacity; and
+
+(b) [[^F107]Subject to subsection (3A),]the conditions mentioned in subsection (3) are fulfilled.
+
+(3) The conditions are—
+
+(a) the research is likely to produce real and direct benefit to the adult;
+
+(b) the adult does not indicate unwillingness to participate in the research;
+
+(c) the research has been approved by the Ethics Committee;
+
+(d) the research entails no foreseeable risk, or only a minimal foreseeable risk, to the adult;
+
+(e) the research imposes no discomfort, or only minimal discomfort, on the adult; and
+
+(f) consent has been obtained from any guardian or welfare attorney who has power to consent to the adult’s participation in research or, where there is no such guardian or welfare attorney, from the adult’s nearest relative.
+
+[[^F108](3A) Where the research consists of a clinical trial of a medicinal product, the research may be carried out—
+
+(a) without being approved by the Ethics Committee, if a favourable opinion on the trial has been given by an ethics committee, other than the Ethics Committee, in accordance with regulation 15 of the Medicines for Human Use (Clinical Trials) Regulations 2004; [^F109]. . .
+
+(b) without the consent of any guardian or welfare attorney, or the adult’s nearest relative, if—
+
+(i) it has not been practicable to contact any such person before the decision to enter the adult as a subject of the clinical trial is made, and
+
+(ii) consent has been obtained from a person, other than a person connected with the conduct of the clinical trial, who is—
+
+(A) the doctor primarily responsible for the medical treatment provided to that adult, or
+
+(B) a person nominated by the relevant health care provider.
+
+[[^F110](c) without the consent of any guardian or welfare attorney, or the adult's nearest relative, if—
+
+(i) treatment is being, or is about to be, provided for an adult who is incapable in relation to a decision about participation in the research as a matter of urgency;
+
+(ii) having regard to the nature of the clinical trial and of the particular circumstances of the case it is necessary to take action for the purposes of the clinical trial as amatter of urgency;
+
+(iii) it has not been reasonably practicable to obtain the consent of any such person;
+
+(iv) it has not been reasonably practicable to obtain the consent of any of the persons mentioned in paragraph (b)(ii)(A) or (B);and
+
+(v) the action to be taken is carried out in accordance with a procedure approved by the Ethics Committee or any other ethics committee or by an appeal panel appointed underSchedule 4 of the Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031) at the time it gave its favourable opinion in relation to theclinical trial.]]
+
+(4) Where the research is not likely to produce real and direct benefit to the adult, it may nevertheless be carried out if it will contribute through significant improvement in the scientific understanding of the adult’s incapacity to the attainment of real and direct benefit to the adult or to other persons having the same incapacity, provided the other circumstances or conditions mentioned in subsections (1) to (3) are fulfilled.
+
+(5) In granting approval under subsection (3)(c), the Ethics Committee may impose such conditions as it sees fit.
+
+(6) The Ethics Committee shall be constituted by regulations made by the Scottish Ministers and such regulations may make provision as to the composition of, appointments to and procedures of the Ethics Committee and may make such provision for the payment of such remuneration, expenses and superannuation as the Scottish Ministers may determine.
+
+(7) Regulations made by the Scottish Ministers under subsection (6) may prescribe particular matters which the Ethics Committee shall take into account when deciding whether to approve any research under this Part.
+
+(8) In this section any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+[[^F111](9) In this section—
+
+- “clinical trial on a medicinal product” means a clinical trial as defined by regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 2004;
+- “an ethics committee” has the meaning given by that regulation;
+- “person connected with the conduct of the trial” and “relevant health care provider” have the meanings given by Schedule 1 to those regulations.]
+
+### 52 Appeal against decision as to medical treatment
+
+Any decision taken for the purposes of this Part, other than a decision by a medical practitioner under section 50, as to the medical treatment of the adult may be appealed by any person having an interest in the personal welfare of the adult to the sheriff and thence, with the leave of the sheriff, to the Court of Session.
+
+## PART 6 — INTERVENTION ORDERS AND GUARDIANSHIP ORDERS
+
+### Intervention orders
+
+#### 53 Intervention orders
+
+(1) The sheriff may, on an application by any person (including the adult himself) claiming an interest in the property, financial affairs or personal welfare of an adult, if he is satisfied that the adult is incapable of taking the action, or is incapable in relation to the decision about his property, financial affairs or personal welfare to which the application relates, make an order (in this Act referred to as an “intervention order”).
+
+(2) In considering an application under subsection (1), the sheriff shall have regard to any intervention order or guardianship order which may have been previously made in relation to the adult, and to any order varying, or ancillary to, such an order.
+
+(3) Where it appears to the local authority that—
+
+(a) the adult is incapable as mentioned in subsection (1); and
+
+(b) no application has been made or is likely to be made for an order under this section in relation to the decision to which the application under this subsection relates; and
+
+(c) an intervention order is necessary for the protection of the property, financial affairs or personal welfare of the adult,
+
+they shall apply under this section for an order.
+
+(4) [[^F112]Subsections (3), (3A), (3B) and (4) of section 57] shall apply to an application under this section and, for this purpose, for the reference to the individual or office holder nominated for appointment as guardian there shall be substituted a reference to a person nominated in such application.
+
+(5) An intervention order may—
+
+(a) direct the taking of any action specified in the order;
+
+(b) authorise the person nominated in the application to take such action or make such decision in relation to the property, financial affairs or personal welfare of the adult as is specified in the order;
+
+(6) Where an intervention order directs the acquisition of accommodation for, or the disposal of any accommodation used for the time being as a dwelling house by, the adult, the consent of the Public Guardian as respects the consideration shall be required before the accommodation is acquired or, as the case may be, disposed of.
+
+(7) In making or varying an intervention order the sheriff may, [^F113]... in the case of an intervention order relating to property or financial affairs [^F113]...
+
+(a) [^F113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [^F113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+require the person authorised under the order to find caution [[^F114]or to give such other security as the sheriff thinks fit].
+
+(8) The sheriff may, on an application by—
+
+(a) the person authorised under the intervention order; or
+
+(b) the adult; or
+
+(c) any person claiming an interest in the property, financial affairs or personal welfare of the adult,
+
+make an order varying the terms of, or recalling, the intervention order or any other order made for the purposes of the intervention order.
+
+(9) Anything done under an intervention order shall have the same effect as if done by the adult if he had the capacity to do so.
+
+(10) Where an intervention order is made, the sheriff clerk shall forthwith send a copy of the interlocutor containing the order to the Public Guardian who shall—
+
+(a) enter in the register maintained by him under section 6(2)(b)(v) such particulars of the order as may be prescribed; [^F115]...
+
+[[^F116](aa) when satisfied that the person authorised under the order has found caution or given other security if so required, issue a certificate of appointment to the person; and]
+
+(b) notify the adult, the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the intervention order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission [[^F117]of the terms of the interlocutor].
+
+(11) A transaction for value between a person authorised under an intervention order, purporting to act as such, and a third party acting in good faith shall not be invalid on the ground only that—
+
+(a) the person acted outwith the scope of his authority;
+
+(b) the person failed to observe any requirement, whether substantive or procedural, imposed by or under this Act or by the sheriff or by the Public Guardian; or
+
+(c) there was any irregularity whether substantive or procedural in the authorisation of the person.
+
+(12) A person authorised under an intervention order may recover from the estate of the adult the amount of such reasonable outlays as he incurs in doing anything directed or authorised under the order.
+
+(13) Where a third party has acquired, in good faith and for value, title to any interest in heritable property from a person authorised under an intervention order that title shall not be challengeable on the ground only—
+
+(a) of any irregularity of procedure in the making of the intervention order; or
+
+(b) that the person authorised under the intervention order has acted outwith the scope of the authority.
+
+(14) Sections 64(2) and 67(3) and (4) shall apply to an intervention order as they apply to a guardianship order and, for this purpose, for any reference to a guardian there shall be substituted a reference to the person authorised under the order.
+
+#### 54 Records: intervention orders
+
+A person authorised under an intervention order shall keep records of the exercise of his powers.
+
+#### 55 Notification of change of address
+
+After particulars relating to an intervention order are entered in the register under section 53 the person authorised under the intervention order shall [[^F118], not later than 7 days after any change of the person's or the adult's address, notify the Public Guardian of the change who] shall enter prescribed particulars in the register maintained by him under section 6(2)(b)(v) and notify the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the intervention order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission.
+
+#### 56 Registration of intervention order relating to heritable property
+
+(1) This section applies where the sheriff makes an intervention order which vests in the person authorised under the order any right to deal with, convey or manage any interest in heritable property which is recorded or is capable of being recorded in the General Register of Sasines or is registered or is capable of being registered in the Land Register of Scotland.
+
+(2) In making such an order the sheriff shall specify each property affected by the order, in such terms as enable it to be identified in the Register of Sasines or, as the case may be, the Land Register of Scotland.
+
+(3) The person authorised under the order shall forthwith apply to the Keeper of the Registers of Scotland for recording of the interlocutor containing the order in the General Register of Sasines or, as the case may be, for registering of it in the Land Register of Scotland.
+
+(4) An application under subsection (3) shall contain—
+
+(a) the name and address of the person authorised under the order;
+
+(b) a statement that the person authorised under the order has powers relating to each property specified in the order;
+
+(c) a copy of the interlocutor.
+
+(5) Where the interlocutor is to be recorded in the General Register of Sasines, the Keeper shall—
+
+(a) record the interlocutor in the Register; and
+
+(b) endorse the interlocutor to the effect that it has been so recorded.
+
+(6) Where the interlocutor is to be registered in the Land Register of Scotland, the Keeper shall update the title sheet of the property to show it.
+
+(7) The person authorised under the order shall send the endorsed interlocutor or, as the case may be, [[^F119]an extract of the updated title sheet] to the Public Guardian who shall enter prescribed particulars of it in the register maintained by him under section 6(2)(b)(v).
+
+#### 56A [[^F120]Death of person authorised to intervene
+
+Where a person authorised under an intervention order dies, the person's personal representatives shall, if aware of the existence of the authority, notify the Public Guardian who shall—
+
+(a) notify—
+
+(i) the adult;
+
+(ii) the local authority; and
+
+(iii) in a case where the adult's incapacity is by reason of, or reasons which include, mental disorder and the intervention order relates to the adult's personal welfare or factors including it, the Mental Welfare Commission; and
+
+(b) enter prescribed particulars in the register maintained under section 6(2)(b)(v).]
+
+### Guardianship orders
+
+#### 57 Application for guardianship order
+
+(1) An application may be made under this section by any person (including the adult himself) claiming an interest in the property, financial affairs or personal welfare of an adult to the sheriff for an order appointing an individual or office holder as guardian in relation to the adult’s property, financial affairs or personal welfare.
+
+(2) Where it appears to the local authority that—
+
+(a) the conditions mentioned in section 58(1)(a) and (b) apply to the adult; and
+
+(b) no application has been made or is likely to be made for an order under this section; and
+
+(c) a guardianship order is necessary for the protection of the property, financial affairs or personal welfare of the adult,
+
+they shall apply under this section for an order.
+
+(3) There shall be lodged in court along with an application under this section—
+
+(a) reports, in prescribed form, of an examination and assessment of the adult carried out not more than 30 days before the lodging of the application by at least two medical practitioners one of whom, in a case where the incapacity is by reason of mental disorder, must be [[^F121]a relevant] medical practitioner [^F122]. . . ;
+
+(b) where the application relates to the personal welfare of the adult, a report, in prescribed form, from the mental health officer, (but where it is in jeopardy only because of the inability of the adult to communicate, from the chief social work officer), containing his opinion as to—
+
+(i) the general appropriateness of the order sought, based on an interview and assessment of the adult carried out not more than 30 days before the lodging of the application; and
+
+(ii) the suitability of the individual nominated in the application to be appointed guardian; and
+
+(c) where the application relates only to the property or financial affairs of the adult, a report, in prescribed form, based on an interview and assessment of the adult carried out not more than 30 days before the lodging of the application, by a person who has sufficient knowledge to make such a report as to the matters referred to in paragraph (b)(i) and (ii).
+
+[[^F123](3A) Subsection (3B) applies where a report lodged under subsection (3)(a) relates to an examination and assessment carried out more than 30 days before the lodging of the application.
+
+(3B) Where this subsection applies, the sheriff may, despite subsection (3)(a), continue to consider the application if satisfied that there has been no change in circumstances since the examination and assessment was carried out which may be relevant to matters set out in the report.]
+
+(4) Where an applicant claims an interest in the personal welfare of the adult and is not the local authority, he shall give notice to the chief social work officer of his intention to make an application under this section and the report referred to in subsection (3)(b) shall be prepared by the chief social work officer or, as the case may be, the mental health officer, within 21 days of the date of the notice.
+
+(5) The sheriff may, on an application being made to him, at any time before the disposal of the application made under this section, make an order for the appointment of an interim guardian.
+
+(6) The appointment of an interim guardian in pursuance of this section shall, unless recalled earlier, cease to have effect—
+
+(a) on the appointment of a guardian under section 58; or
+
+(b) at the end of the [[^F124]effective period],
+
+whichever is the earlier.
+
+[[^F125](6A) The “effective period”, for the purposes of subsection (6), means—
+
+(a) the period of 3 months beginning with the date of appointment; or
+
+(b) such longer period (not exceeding 6 months) beginning with that date as the sheriff may specify in the order.
+
+(6B) In subsection (3)(a), “relevant medical practitioner” means—
+
+(a) an approved medical practitioner;
+
+(b) where the adult concerned is not present in Scotland, a person who—
+
+(i) holds qualifications recognised in the place where the adult is present and has special experience in relation to the diagnosis and treatment of mental disorder which correspond to the qualifications and experience needed to be an approved medical practitioner; and
+
+(ii) has consulted the Mental Welfare Commission for Scotland about the report concerned; or
+
+(c) any other type of individual described (by reference to skills, qualifications, experience or otherwise) by regulations made by the Scottish Ministers.
+
+(6C) The Scottish Ministers shall consult the Mental Welfare Commission before making regulations under subsection (6B)(c).]
+
+[[^F126](7) In subsection [[^F127](6B)], “approved medical practitioner” has the meaning given by section 22 of the 2003 Act.]
+
+#### 58 Disposal of application
+
+(1) Where the sheriff is satisfied in considering an application under section 57 that—
+
+(a) the adult is incapable in relation to decisions about, or of acting to safeguard or promote his interests in, his property, financial affairs or personal welfare, and is likely to continue to be so incapable; and
+
+(b) no other means provided by or under this Act would be sufficient to enable the adult’s interests in his property, financial affairs or personal welfare to be safeguarded or promoted,
+
+he may grant the application.
+
+(2) In considering an application under section 57, the sheriff shall have regard to any intervention order or guardianship order which may have been previously made in relation to the adult, and to any order varying, or ancillary to, such an order.
+
+(3) Where the sheriff is satisfied that an intervention order would be sufficient as mentioned in subsection (1), he may treat the application under this section as an application for an intervention order under section 53 and may make such order as appears to him to be appropriate.
+
+(4) Where the sheriff grants the application under section 57 he shall make an order (in this Act referred to as a “guardianship order”) appointing the individual or office holder nominated in the application to be the guardian of the adult for a period of 3 years or such other period (including an indefinite period) as, on cause shown, he may determine.
+
+(5) Where more than one individual or office holder is nominated in the application, a guardianship order may, without prejudice to the power under section 62(1) to appoint joint guardians, appoint two or more guardians to exercise different powers in relation to the adult.
+
+(6) In making a guardianship order relating to the property or financial affairs of the adult the sheriff [[^F128]may] require an individual appointed as guardian to find caution [[^F129]or to give such other security as the sheriff thinks fit].
+
+(7) Where the sheriff makes a guardianship order the sheriff clerk shall forthwith send a copy of the interlocutor containing the order to the Public Guardian who shall—
+
+(a) enter prescribed particulars of the appointment in the register maintained by him under section 6(2)(b)(iv);
+
+(b) when satisfied that the guardian has found caution [[^F130]or given other security] if so required, issue a certificate of appointment to the guardian;
+
+(c) notify the adult of the appointment of the guardian; and
+
+(d) notify the local authority and (in a case where the incapacity of the adult is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission of the terms of the interlocutor.
+
+#### 59 Who may be appointed as guardian
+
+(1) The sheriff may appoint as guardian—
+
+(a) any individual whom he considers to be suitable for appointment and who has consented to being appointed;
+
+(b) where the guardianship order is to relate only to the personal welfare of the adult, the chief social work officer of the local authority.
+
+(2) Where the guardianship order is to relate to the property and financial affairs and to the personal welfare of the adult and joint guardians are to be appointed, the chief social work officer of the local authority may be appointed guardian in relation only to the personal welfare of the adult.
+
+(3) The sheriff shall not appoint an individual as guardian to an adult unless he is satisfied that the individual is aware of—
+
+(a) the adult’s circumstances and condition and of the needs arising from such circumstances and condition; and
+
+(b) the functions of a guardian.
+
+(4) In determining if an individual is suitable for appointment as guardian, the sheriff shall have regard to—
+
+(a) the accessibility of the individual to the adult and to his primary carer;
+
+(b) the ability of the individual to carry out the functions of guardian;
+
+(c) any likely conflict of interest between the adult and the individual;
+
+(d) any undue concentration of power which is likely to arise in the individual over the adult;
+
+(e) any adverse effects which the appointment of the individual would have on the interests of the adult;
+
+(f) such other matters as appear to him to be appropriate.
+
+(5) Paragraphs (c) and (d) of subsection (4) shall not be regarded as applying to an individual by reason only of his being a close relative of, or person residing with, the adult.
+
+#### 60 Renewal of guardianship order by sheriff
+
+(1) At any time before the end of a period in respect of which a guardianship order has been made or renewed, an application may be made to the sheriff under this section by the guardian for the renewal of such order, and where such an application is so made, the order shall continue to have effect until the application is determined.
+
+(2) Where it appears to the local authority that an application for renewal of a guardianship order under subsection (1) is necessary but that no such application has been made or is likely to be made, they shall apply under subsection (1) for the renewal of such an order and, where such an application is so made, the order shall continue to have effect until the application is determined.
+
+[[^F131](3) There must be lodged in court along with an application under this section—
+
+(a) at least one report, in the prescribed form, of an examination and assessment of the adult carried out by a medical practitioner not more than 30 days before the lodging of the application;
+
+(b) where the application relates to the adult's personal welfare, a report, in the prescribed form, from the mental health officer (but where it is in jeopardy only because of the adult's inability to communicate, from the chief social work officer), containing the officer's opinion as to—
+
+(i) the general appropriateness of continuing the guardianship, based on an interview and assessment of the adult carried out not more than 30 days before the lodging of the application; and
+
+(ii) the suitability of the applicant to continue to be the adult's guardian; and
+
+(c) where the application relates to the adult's property or financial affairs, a report from the Public Guardian, in the prescribed form, containing the Public Guardian's opinion as to—
+
+(i) the applicant's conduct as the adult's guardian; and
+
+(ii) the suitability of the applicant to continue to be the adult's guardian.
+
+(3A) In a case where the incapacity is by reason of mental disorder—
+
+(a) where a single report is lodged under subsection (3)(a), the related examination and assessment must be carried out by a relevant medical practitioner;
+
+(b) where 2 or more reports are so lodged, at least one of the related examinations and assessments must be carried out by a relevant medical practitioner.
+
+“Relevant medical practitioner” has the same meaning in this subsection as it has in section 57(3)(a) (see definition in section 57(6B)).]
+
+(4) Section 58 shall apply to an application under this section as it applies to an application under section 57; and for the purposes of so applying that section—
+
+(a) references to the making of a guardianship order and the appointment of a guardian (however expressed) shall be construed as references to, respectively, the renewal of the order and the continuation of appointment;
+
+(b) for subsection (4) there shall be substituted—
+
+> (4) Where the sheriff grants an application under section 60, he may continue the guardianship order for a period of 5 years or for such other period (including an indefinite period) as, on cause shown, he may determine.
+
+.
+
+[[^F132](4A) A sheriff may determine an application made under this section without hearing the parties.]
+
+(5) Where the sheriff refuses an application under this section, the sheriff clerk shall forthwith send a copy of the interlocutor containing the refusal to the Public Guardian who shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv); and
+
+(b) notify the adult and the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission.
+
+#### 61 Registration of guardianship order relating to heritable property
+
+(1) This section applies where the sheriff makes a guardianship order which vests in the guardian any right of the adult to deal with, convey or manage any interest in heritable property which is recorded or is capable of being recorded in the General Register of Sasines or is registered or is capable of being registered in the Land Register of Scotland.
+
+(2) In making such an order the sheriff shall specify each property affected by the order, in such terms as enable it to be identified in the Register of Sasines or, as the case may be, the Land Register of Scotland.
+
+(3) The guardian shall, after finding caution [[^F133]or giving other security] if so required, forthwith apply to the Keeper of the Registers of Scotland for recording of the interlocutor containing the order in the General Register of Sasines or, as the case may be, registering of it in the Land Register of Scotland.
+
+(4) An application under subsection (3) shall contain—
+
+(a) the name and address of the guardian;
+
+(b) a statement that the guardian has powers relating to each property specified in the order;
+
+(c) a copy of the interlocutor.
+
+(5) Where the interlocutor is to be recorded in the General Register of Sasines, the Keeper shall—
+
+(a) record the interlocutor in the Register; and
+
+(b) endorse the interlocutor to the effect that it has been so recorded.
+
+(6) Where the interlocutor is to be registered in the Land Register of Scotland, the Keeper shall update the title sheet of the property to show the interlocutor.
+
+(7) The guardian shall send the endorsed interlocutor or, as the case may be, [[^F134]an extract of the updated title sheet] to the Public Guardian who shall enter prescribed particulars of it in the register maintained by him under section 6(2)(b)(iv).
+
+### Joint and substitute guardians
+
+#### 62 Joint guardians
+
+(1) An application may be made to the sheriff—
+
+(a) by two or more individuals seeking appointment, for their appointment as joint guardians to an adult; or
+
+(b) by an individual seeking appointment, for his appointment as an additional guardian to an adult jointly with one or more existing guardians.
+
+(2) Joint guardians shall not be appointed to an adult unless—
+
+(a) the individuals so appointed are parents, siblings or children of the adult; or
+
+(b) the sheriff is satisfied that, in the circumstances, it is appropriate to appoint as joint guardians individuals who are not related to the adult as mentioned in paragraph (a).
+
+(3) Where an application is made under subsection (1)(a), sections 58 and 59 shall apply for the purposes of the disposal of that application as they apply for the disposal of an application under section 57.
+
+(4) In deciding if an individual is suitable for appointment as additional guardian under subsection (1)(b), the sheriff shall have regard to the matters set out in section 59(3) to (5).
+
+(5) Where the sheriff appoints an additional guardian under this section, the sheriff clerk shall send a copy of the order appointing him to the Public Guardian who shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2) (b)(iv) of this Act;
+
+(b) when satisfied that the additional guardian has found caution [[^F135]or given other security] if so required, issue a certificate of appointment to the additional guardian and a new certificate of appointment to the existing guardian;
+
+(c) notify the adult and the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission.
+
+(6) Joint guardians may, subject to subsection (7), exercise their functions individually, and each guardian shall be liable for any loss or injury caused to the adult arising out of—
+
+(a) his own acts or omissions; or
+
+(b) his failure to take reasonable steps to ensure that a joint guardian does not breach any duty of care or fiduciary duty owed to the adult,
+
+and where more than one such guardian is so liable they shall be liable jointly and severally.
+
+(7) A joint guardian shall, before exercising any functions conferred on him, consult the other joint guardians, unless—
+
+(a) consultation would be impracticable in the circumstances; or
+
+(b) the joint guardians agree that consultation is not necessary.
+
+(8) Where joint guardians disagree as to the exercise of their functions, either or both of them may apply to the sheriff for directions under section 3.
+
+(9) Where there are joint guardians, a third party in good faith is entitled to rely on the authority to act of any one or more of them.
+
+#### 63 Substitute guardian
+
+(1) In any case where an individual is appointed as guardian under section 58 the sheriff may, on an application, appoint to act as guardian in the event of the guardian so appointed becoming unable to act any individual or office holder who could competently be appointed by virtue of section 59.
+
+(2) In this Act an individual appointed under section 58 and an individual or office holder appointed under this section are referred to respectively as an “original guardian” and a “substitute guardian”.
+
+(3) The appointment of a substitute guardian shall be for the same period as the appointment of the original guardian under section 58(4).
+
+(4) An application for appointment as a substitute guardian may be made at the time of the application for the appointment of the original guardian or at any time thereafter.
+
+(5) In making an order appointing an individual as substitute guardian with powers relating to the property or financial affairs of the adult the sheriff [[^F136]may] require an individual appointed as substitute guardian to find caution [[^F137]or to give such other security as the sheriff thinks fit].
+
+(6) Subsection (1) shall apply to an individual who, having been appointed as a substitute guardian subsequently, by virtue of this section, becomes the guardian as it applies to an individual appointed under section 58 and, for this purpose, any reference in this section to the “original guardian” shall be construed accordingly.
+
+(7) Where the sheriff appoints a substitute guardian (other than a substitute guardian appointed in the same order as an original guardian) under subsection (1), the sheriff clerk shall send a copy of the interlocutor containing the order appointing the substitute guardian to the Public Guardian who shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv); and
+
+(b) notify the adult, the original guardian and the local authority and (in a case where the adult’s incapacity is by reason of, or by reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission.
+
+(8) On the death or incapacity of the original guardian, the substitute guardian shall, without undue delay, notify the Public Guardian—
+
+(a) of the death or incapacity (and where the original guardian has died, provide the Public Guardian with documentary evidence of the death); and
+
+(b) whether or not he is prepared to act as guardian.
+
+(9) The Public Guardian on being notified under subsection (8) shall, if the substitute guardian is prepared to act—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv);
+
+(b) when satisfied that the substitute guardian has found caution [[^F138]or given other security] if so required, issue the substitute guardian with a certificate of appointment;
+
+(c) notify the adult, the original guardian, the local authority and (in a case where the adult’s incapacity is by reason of, or by reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission that the substitute guardian is acting.
+
+(10) Unless otherwise specified in the order appointing him, the substitute guardian shall have the same functions and powers as those exercisable by the original guardian immediately before the event mentioned in subsection (1).
+
+### Functions etc. of guardian
+
+#### 64 Functions and duties of guardian
+
+(1) Subject to the provisions of this section, an order appointing a guardian may confer on him—
+
+(a) power to deal with such particular matters in relation to the property, financial affairs or personal welfare of the adult as may be specified in the order;
+
+(b) power to deal with all aspects of the personal welfare of the adult, or with such aspects as may be specified in the order;
+
+(c) power to pursue or defend an action of declarator of nullity of marriage, or of divorce or separation in the name of the adult;
+
+(d) power to manage the property or financial affairs of the adult, or such parts of them as may be specified in the order;
+
+(e) power to authorise the adult to carry out such transactions or categories of transactions as the guardian may specify.
+
+(2) A guardian may not—
+
+(a) place the adult in a hospital for the treatment of mental disorder against his will; [^F139]...
+
+(b) consent on behalf of the adult to any form of treatment [[^F140]in relation to which the authority conferred by section 47(2) does not apply by virtue of regulations made under section 48(2)][[^F141];
+
+(c) make, on behalf of the adult, a request under section 4(1) of the Anatomy Act 1984 (c. 14);
+
+(d) give, on behalf of the adult, an authorisation under, or by virtue of, section 6(1), [[^F142]16F(1)(a),] 17, 29(1) or 42(1) of the Human Tissue(Scotland) Act 2006 (asp 4);
+
+[[^F143](da) withdraw an authorisation, on behalf of the adult, by virtue of section 6A(1) of that Act;
+
+(db) make, on behalf of the adult, an opt-out declaration by virtue of section 6B(1) of that Act;
+
+(dc) withdraw an opt-out declaration, on behalf of the adult, by virtue of section 6C(1) of that Act;] or
+
+(e) make, on behalf of the adult, a nomination under section 30(1) of that Act]
+
+(3) A guardian shall (unless prohibited by an order of the sheriff and subject to any conditions or restrictions specified in such an order) have power by virtue of his appointment to act as the adult’s legal representative in relation to any matter within the scope of the power conferred by the guardianship order.
+
+(4) The guardian shall not later than 7 days after any change of his own or the adult’s address notify the Public Guardian who shall—
+
+(a) notify the adult (in a case where it is the guardian’s address which has changed), the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission of the change; and
+
+(b) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv).
+
+(5) A guardian having powers relating to the property or financial affairs of the adult shall, subject to—
+
+(a) such restrictions as may be imposed by the court;
+
+(b) any management plan prepared under paragraph 1 of schedule 2; or
+
+(c) paragraph 6 of that schedule,
+
+be entitled to use the capital and income of the adult’s estate for the purpose of purchasing assets, services or accommodation so as to enhance the adult’s quality of life.
+
+(6) The guardian may arrange for some or all of his functions to be exercised by one or more persons acting on his behalf but shall not be entitled to surrender or transfer any part of them to another person.
+
+(7) The guardian shall comply with any order or demand made by the Public Guardian in relation to the property or financial affairs of the adult in so far as so complying would be within the scope of his authority; and where the guardian fails to do so the sheriff may, on the application of the Public Guardian, make an order to the like effect as the order or demand made by the Public Guardian, and the sheriff’s decision shall be final.
+
+(8) An interim guardian appointed under section 57(5) having powers relating to—
+
+(a) the property or financial affairs of an adult shall report to the Public Guardian;
+
+(b) the personal welfare of an adult shall report to the chief social work officer of the local authority,
+
+every month as to his exercise of those powers.
+
+(9) Where the chief social work officer of the local authority has been appointed guardian he shall, not later than 7 working days after his appointment, notify any person who received notification under section 58(7) of the appointment of the name of the officer responsible at any time for carrying out the functions and duties of guardian.
+
+(10) If, in relation to the appointment of the chief social work officer as guardian, the sheriff has directed that that intimation or notification of any application or other proceedings should not be given to the adult, the chief social work officer shall not notify the adult under subsection (9).
+
+(11) The Scottish Ministers may by regulations define the scope of the powers which may be conferred on a guardian under subsection (1) and the conditions under which they shall be exercised.
+
+(12) Schedule 2 (which makes provision as to the guardian’s management of the estate of an adult) has effect.
+
+#### 65 Records: guardians
+
+A guardian shall keep records of the exercise of his powers.
+
+#### 66 Gifts
+
+(1) A guardian having powers relating to the property or financial affairs of an adult may make a gift out of the adult’s estate only if authorised to do so by the Public Guardian.
+
+(2) Authorisation by the Public Guardian under subsection (1) may be given generally, or in respect of a particular gift.
+
+(3) On receipt of an application in the prescribed form for an authorisation to make a gift, the Public Guardian shall, subject to subsection (4), intimate the application to the adult, his nearest relative, his primary carer [[^F144], his named person] and any other person who the Public Guardian considers has an interest in the application and advise them of the prescribed period within which they may object to the granting of the application; and he shall not grant the application without affording to any objector an opportunity of being heard.
+
+(4) Where the Public Guardian is of the opinion that the value of the gift is such that intimation is not necessary, he may dispense with intimation.
+
+(5) Having heard any objections as mentioned in subsection (3), the Public Guardian may grant the application.
+
+(6) Where the Public Guardian proposes to refuse the application he shall intimate his decision to the guardian and advise him of the prescribed period within which he may object to the refusal; and he shall not refuse the application without affording to the guardian, if he objects, an opportunity of being heard.
+
+(7) The Public Guardian may at his own instance or at the instance of the guardian or of any person who objects to the granting of the application remit the application for determination by the sheriff, whose decision shall be final.
+
+(8) A decision of the Public Guardian—
+
+(a) to grant an application under subsection (5) or to refuse an application; or
+
+(b) to refuse to remit an application to the sheriff under subsection (7),
+
+may be appealed to the sheriff, whose decision shall be final.
+
+#### 67 Effect of appointment and transactions of guardian
+
+(1) The adult shall have no capacity to enter into any transaction in relation to any matter which is within the scope of the authority conferred on the guardian except in a case where he has been authorised by the guardian under section 64(1)(e); but nothing in this subsection shall be taken to affect the capacity of the adult in relation to any other matter.
+
+(2) Where the guardian has powers relating to the property or financial affairs of the adult, the certificate of appointment issued to him by the Public Guardian shall, subject to the terms of the order appointing him, have the effect of—
+
+(a) authorising the guardian to take possession of, manage and deal with any moveable or immoveable estate (wherever situated) of the adult;
+
+(b) requiring any payment due to the adult to be made to the guardian,
+
+in so far as the estate, payment or matter falls within the scope of the guardian’s authority.
+
+(3) A guardian having powers relating to the personal welfare of an adult may exercise these powers in relation to the adult whether or not the adult is in Scotland at the time of the exercise of the powers.
+
+(4) The guardian shall be personally liable under any transaction entered into by him—
+
+(a) without disclosing that he is acting as guardian of the adult; or
+
+(b) which falls outwith the scope of his authority,
+
+but where a guardian has acted as mentioned in paragraph (a) and is not otherwise in breach of any requirement of this Act relating to such guardians, he shall be entitled to be reimbursed from the estate of the adult in respect of any loss suffered by him in consequence of a claim made upon him personally by virtue of this subsection.
+
+(5) Where a third party with whom the adult entered into a transaction was aware at the date of entering into the transaction that authority had been granted by the guardian under section 64(1)(e), the transaction shall not be void only on the ground that the adult lacked capacity.
+
+(6) A transaction for value between the guardian purporting to act as such and a third party acting in good faith shall not be invalid on the ground only that—
+
+(a) the guardian acted outwith the scope of his authority; or
+
+(b) the guardian failed to observe any requirement, whether substantive or procedural, imposed by or under this Act, or by the sheriff or by the Public Guardian; or
+
+(c) there was any irregularity whether substantive or procedural in the appointment of the guardian.
+
+(7) In subsections (3) and (4) any reference to a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland.
+
+#### 68 Reimbursement and remuneration of guardian
+
+(1) A guardian shall be entitled to be reimbursed out of the estate of the adult for any outlays reasonably incurred by him in the exercise of his functions.
+
+(2) In subsection (1), “outlays”, in relation to a guardian—
+
+(a) who is someone other than the chief social work officer of a local authority, includes payment for items and services other than those items and services which the guardian is expected to provide as part of his functions;
+
+(b) who is the chief social work officer of a local authority, includes payment for items and services only if they would not normally be provided free of charge by the local authority to a person who is in similar circumstances but who does not have a guardian.
+
+(3) The local authority shall, in relation to the cost of any application by them for appointment of their chief social work officer as guardian or of any subsequent application by that officer while acting as guardian—
+
+(a) where the application relates to the personal welfare of the adult, meet such cost;
+
+(b) where the application relates to the property or financial affairs of the adult, be entitled to recover such cost from the estate of the adult,
+
+and where the application relates to the personal welfare and to the property or financial affairs of the adult the sheriff shall, in determining the application, apportion the cost as he thinks fit.
+
+(4) Remuneration shall be payable out of the adult’s estate—
+
+(a) in respect of the exercise of functions relating to the personal welfare of the adult, only in a case where special cause is shown;
+
+(b) in respect of the exercise of functions relating to the property or financial affairs of the adult, unless the sheriff directs otherwise in the order appointing the guardian,
+
+but shall not be payable to a local authority in respect of the exercise by their chief social work officer of functions relating to the personal welfare of the adult.
+
+(5) In determining whether or not to make a direction under subsection (4)(b), the sheriff shall take into account the value of the estate and the likely difficulty of managing it.
+
+(6) Any remuneration payable to the guardian and the amount of outlays to be allowed under subsection (1) shall be fixed by the Public Guardian—
+
+(a) in a case where the guardian is required to submit accounts, when the guardian’s accounts for that period are audited;
+
+(b) in any other case, on an application by the guardian,
+
+and in fixing the remuneration to be paid to the guardian the Public Guardian shall take into account the value of the estate.
+
+(7) The Public Guardian may allow payments to account to be made by way of remuneration during the accounting period if it would be unreasonable to expect the guardian to wait for payment until the end of an accounting period.
+
+(8) A decision by the Public Guardian—
+
+(a) under subsection (6) as to the remuneration payable and the outlays allowable to the guardian;
+
+(b) under subsection (7) as to payments to account to the guardian
+
+may be appealed to the sheriff, whose decision shall be final.
+
+#### 69 Forfeiture of guardian’s remuneration
+
+Where a guardian is in breach of any duty of care, fiduciary duty or obligation imposed by this Act the sheriff may, on an application being made to him by any person claiming an interest in the property, financial affairs or personal welfare of the adult, order the forfeiture (in whole or in part) of any remuneration due to the guardian.
+
+#### 70 Non-compliance with decisions of guardian with welfare powers
+
+(1) Where any decision of a guardian with powers relating to the personal welfare of the adult is not complied with by the adult [^F145]. . . , and the adult [^F146]. . . might reasonably be expected to comply with the decision, the sheriff may, on an application by the guardian—
+
+(a) make an order ordaining the adult [^F147]. . . to implement the decision of the guardian;
+
+(b) where the non-compliance relates to a decision of the guardian as to the place of residence of the adult, grant a warrant authorising a constable—
+
+(i) to enter any premises where the adult is, or is reasonably supposed to be;
+
+(ii) to apprehend the adult and to remove him to such place as the guardian may direct.
+
+(2) Where any decision of a guardian with powers relating to the personal welfare of the adult is not complied with by any person other than the adult, and that person might reasonably be expected to comply with the decision, the sheriff may, on an application by the guardian make an order ordaining the person named in the order to implement the decision of the guardian.
+
+(3) On receipt of an application in the prescribed form for an order or warrant under subsection (1) or for an order under subsection (2), the court shall intimate the application to the adult or, as the case may be, to the person named in the application as a person against whom the order or warrant is sought and shall advise them of the prescribed period within which they may object to the granting of the application; and the sheriff shall not grant the order or warrant without affording to any objector an opportunity of being heard.
+
+(4) Having heard any objections as mentioned in subsection (3), the sheriff may grant the application.
+
+[[^F148](4A) The sheriff may, on cause shown, disapply or modify the application of—
+
+(a) subsection (3); and
+
+(b) subsection (4) in so far as it requires the sheriff to hear objections.]
+
+(5) A constable executing a warrant under subsection (1)(b) may use such force as is reasonable in the circumstances and shall be accompanied by the guardian or such person as the guardian may authorise in writing.
+
+(6) In this section any reference to a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland.
+
+### Termination and variation of guardianship and replacement, removal or resignation of guardian
+
+#### 71 Replacement or removal of guardian or recall of guardianship by sheriff
+
+(1) The sheriff, on an application made to him by an adult subject to guardianship or by any other person claiming an interest in the adult’s property, financial affairs or personal welfare, may—
+
+(a) replace a guardian by an individual or office holder nominated in the application if he is satisfied, in relation to an individual, that he is suitable for appointment having regard to the matters set out in section 59(3) to (5);
+
+(b) remove a guardian from office if he is satisfied—
+
+(i) that there is a substitute guardian who is prepared to act as guardian; or
+
+(ii) in a case where there are joint guardians, that the remaining guardian is or remaining guardians are prepared to continue to act; or
+
+(c) recall a guardianship order or otherwise terminate a guardianship if he is satisfied—
+
+(i) that the grounds for appointment of a guardian are no longer fulfilled; or
+
+(ii) that the interests of the adult in his property, financial affairs or personal welfare can be satisfactorily safeguarded or promoted otherwise than by guardianship,
+
+and where an application under this subsection is granted, the sheriff clerk shall send a copy of the interlocutor to the Public Guardian.
+
+(2) In making an order replacing a guardian by an individual with powers relating to the property or financial affairs of the adult or removing a guardian from office where there is a substitute guardian with such powers prepared to act as guardian, the sheriff [[^F149]may] require an individual appointed as guardian or the substitute guardian to find caution [[^F150]or to give such other security as the sheriff thinks fit].
+
+(3) The Public Guardian on receiving a copy of the interlocutor under subsection (1) shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv);
+
+(b) where the sheriff—
+
+(i) replaces the guardian by the individual or office holder nominated in the application, when satisfied that, in the case of an individual, the individual has found caution [[^F151]or given other security] if so required, issue him with a certificate of appointment;
+
+(ii) removes a guardian from office and a substitute guardian is prepared to act, when satisfied that the substitute guardian has found caution [[^F152]or given other security] if so required, issue the substitute guardian with a certificate of appointment;
+
+(iii) removes a joint guardian from office and there is a joint guardian who is prepared to continue to act, issue a remaining joint guardian with a new certificate of appointment;
+
+(c) notify the adult and the local authority and (in a case where the incapacity of the adult is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors including it) the Mental Welfare Commission.
+
+(4) Where the sheriff recalls the guardianship order he may at the same time make an intervention order.
+
+(5) In this section any reference to a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland; and “guardianship order” shall be construed accordingly.
+
+#### 72 Discharge of guardian with financial powers
+
+(1) At any time after—
+
+(a) the recall of a guardianship order appointing a guardian with powers relating to the property or financial affairs of an adult;
+
+[[^F153](aa) the expiry of such a guardianship order;]
+
+(b) the resignation, removal or replacement of such a guardian; or
+
+(c) the death of the adult,
+
+the Public Guardian may, on an application by the former guardian or, if the former guardian has died, his representative, grant a discharge in respect of the former guardian’s actings and intromissions with the estate of the adult.
+
+(2) On receipt of an application in the prescribed form, the Public Guardian shall intimate the application to the adult, his nearest relative, his primary carer, [[^F154]his named person] and any other person who the Public Guardian considers has an interest in the application and advise them of the prescribed period within which they may object to the granting of the application; and he shall not grant the application without affording to any objector an opportunity of being heard.
+
+(3) Having heard any objections as mentioned in subsection (2) the Public Guardian may grant the application.
+
+(4) Where the Public Guardian proposes to refuse the application he shall intimate his decision to the applicant and advise him of the prescribed period within which he may object to the refusal; and he shall not refuse the application without affording to the applicant, if he objects, an opportunity of being heard.
+
+(5) The Public Guardian may at his own instance or at the instance of the applicant or of any person who objects to the granting of the application remit the application for determination by the sheriff, whose decision shall be final.
+
+(6) A decision of the Public Guardian—
+
+(a) to grant a discharge under subsection (1) or to refuse a discharge;
+
+(b) to grant an application under subsection (3) or to refuse an application;
+
+(c) to refuse to remit an application to the sheriff under subsection (5)
+
+may be appealed to the sheriff, whose decision shall be final.
+
+#### 73 Recall of powers of guardian
+
+(1) The Public Guardian, at his own instance or on an application by any person (including the adult himself) claiming an interest in the property and financial affairs of an adult in respect of whom a guardian has been appointed, may recall the powers of a guardian relating to the property or financial affairs of the adult if it appears to him that—
+
+(a) the grounds for appointment of a guardian with such powers are no longer fulfilled; or
+
+(b) the interests of the adult in his property and financial affairs can be satisfactorily safeguarded or promoted otherwise than by guardianship.
+
+(2) Where the Public Guardian recalls the powers of a guardian under subsection (1) he shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv);
+
+(b) notify the adult, the guardian and the local authority.
+
+(3) The Mental Welfare Commission or the local authority in whose area an adult in respect of whom a guardian has been appointed habitually resides [^F155]..., at their own instance or on an application by any person (including the adult himself) claiming an interest in the personal welfare of the adult, may recall the powers of a guardian relating to the personal welfare of the adult if it appears to them that—
+
+(a) the grounds for appointment of a guardian with such powers are no longer fulfilled; or
+
+(b) the interests of the adult in his personal welfare can be satisfactorily safeguarded or promoted otherwise than by guardianship.
+
+[[^F156](3A) The Mental Welfare Commission may recall the powers of a guardian under subsection (3) only if those powers were granted in a case where the adult's incapacity is by reason of, or reasons which include, mental disorder.]
+
+(4) Where the Mental Welfare Commission or the local authority recall the powers of a guardian under subsection (3) they shall notify the other and the Public Guardian who shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv);
+
+(b) notify the adult and the guardian.
+
+(5) The Public Guardian, Mental Welfare Commission or local authority, as the case may be, shall—
+
+(a) where acting on an application, on receipt of the application in the prescribed form intimate it;
+
+(b) where acting at his or their own instance, intimate the intention to recall the powers of a guardian,
+
+to the adult, his nearest relative, his primary carer[[^F157], his named person] and any person who he or they consider has an interest in the recall of the powers and advise them of the prescribed period within which they may object to such recall; and he or they shall not recall the powers without affording to any objector an opportunity of being heard.
+
+(6) Having heard any objections as mentioned in subsection (5) the Public Guardian, Mental Welfare Commission or local authority may recall the powers of a guardian.
+
+(7) Where the Public Guardian, Mental Welfare Commission or local authority proposes or propose to refuse the application he or they shall intimate the decision to the applicant and the adult and advise them of the prescribed period within which they may object to the refusal; and he or they shall not refuse the application without affording to the applicant or the adult, if he objects, an opportunity of being heard.
+
+(8) The Public Guardian, Mental Welfare Commission or local authority may at his or their own instance or at the instance of an applicant or of any person who objects to the recall of the powers of the guardian remit the matter for determination by the sheriff whose decision shall be final.
+
+(9) A decision of—
+
+(a) the Public Guardian, Mental Welfare Commission or local authority to recall the powers of a guardian under subsection (6);
+
+(b) the Public Guardian, Mental Welfare Commission or local authority to remit or not to remit the matter to the sheriff under subsection (8),
+
+may be appealed to the sheriff, whose decision shall be final, and the decision of the Public Guardian, Mental Welfare Commission or local authority as to the recall of the powers of a guardian shall remain in force pending the final determination of the appeal.
+
+(10) The Scottish Ministers may prescribe the forms and procedure for the purposes of any recall of guardianship powers by the Mental Welfare Commission or the local authority.
+
+[[^F158](11) Section 73A modifies the application of this section in relation to the recall by a local authority of guardianship powers held by their chief social work officer.]
+
+#### 73A [[^F159]Recall of chief social work officer's guardianship powers
+
+(1) This section applies where—
+
+(a) a local authority's chief social work officer is appointed as a guardian; and
+
+(b) either—
+
+(i) the local authority wish to recall their chief social work officer's guardianship powers at their own instance; or
+
+(ii) another person (including the adult himself) applies to the local authority for such a recall.
+
+(2) Where this section applies—
+
+(a) the local authority shall, for the purposes of section 73(5), treat the Public Guardian and the Mental Welfare Commission as persons whom they consider to have an interest in the recall of the guardian's powers; and
+
+(b) if the Public Guardian, the Mental Welfare Commission or any other person to whom intimation is given under section 73(5) objects to the recall of the guardian's powers, the local authority—
+
+(i) shall not recall the guardian's powers; but
+
+(ii) shall instead remit the matter for determination by the sheriff under section 73(8).]
+
+#### 74 Variation of guardianship order
+
+(1) The sheriff, on an application by any person (including the adult himself) claiming an interest in the property, financial affairs or personal welfare of the adult, may vary the powers conferred by the guardianship order and may vary any existing ancillary order.
+
+(2) In varying powers relating to the property or financial affairs of the adult conferred by the guardianship order or in varying any ancillary order in relation to such powers the sheriff [[^F160]may] require the guardian to find caution [[^F161]or to give such other security as the sheriff thinks fit].
+
+(3) In considering an application under subsection (1), the sheriff shall have regard to any intervention order or guardianship order which may have been previously made in relation to the adult or any other order varying such an order, and to any order ancillary to such an order.
+
+(4) Notwithstanding subsection (1), an application which seeks to vary the powers conferred by a guardianship order or to vary an ancillary order so that—
+
+(a) a guardian, appointed only in relation to the personal welfare of an adult, shall be appointed also or instead in relation to the property or financial affairs of the adult; or
+
+(b) a guardian, appointed only in relation to the property or financial affairs of an adult, shall be appointed also or instead in relation to the personal welfare of the adult;
+
+shall be made under section 57.
+
+(5) Where the sheriff varies the powers conferred by a guardianship order or varies an ancillary order under this section, the sheriff clerk shall send a copy of the interlocutor containing the order to the Public Guardian who shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv);
+
+(b) notify the adult and the local authority and (in a case where the incapacity of the adult is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors including it) the Mental Welfare Commission; and
+
+(c) if he is satisfied that the guardian has caution [[^F162]or other security], if so required, which covers the varied order, issue a new certificate of appointment where necessary.
+
+#### 75 Resignation of guardian
+
+(1) A joint guardian, or a guardian in respect of whom a substitute guardian has been appointed, may resign by giving notice in writing of his intention to do so to the Public Guardian and the local authority and (in a case where the incapacity of the adult is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors including it) the Mental Welfare Commission.
+
+(2) The resignation of a guardian as mentioned in subsection (1)—
+
+(a) shall not take effect unless—
+
+(i) the remaining joint guardian is willing to continue to act; or
+
+(ii) the substitute guardian is willing to act;
+
+(b) shall take effect on the receipt by the Public Guardian of notice in writing under subsection (1) together with evidence as to the matters contained in paragraph (a)(i) or (ii).
+
+(3) On receiving notice in writing and evidence as mentioned in subsection (2)(b), the Public Guardian shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv);
+
+(b) if satisfied that the substitute guardian has found caution [[^F163]or given other security] if so required, issue him with a new certificate of appointment;
+
+(c) issue a remaining joint guardian with a new certificate of appointment;
+
+(d) notify the adult.
+
+(4) A substitute guardian who has not subsequently become guardian by virtue of section 63 may resign by giving notice in writing to the Public Guardian and the local authority and (in the case mentioned in subsection (1)) the Mental Welfare Commission and the resignation shall take effect on the date of receipt of the notice by the Public Guardian; and on its becoming effective, the Public Guardian shall—
+
+(a) notify the guardian and the adult; and
+
+(b) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv).
+
+(5) A guardian—
+
+(a) who has no joint guardian; or
+
+(b) in respect of whom no substitute guardian has been appointed; or
+
+(c) being a joint guardian or guardian in respect of whom a substitute has been appointed who cannot effectively resign by reason of subsection (2)(a)(i) or (ii),
+
+shall not resign until a replacement guardian has been appointed under section 71.
+
+#### 75A [[^F164]Death of guardian
+
+The personal representatives of a guardian who dies shall, if aware of the existence of the guardianship, notify the Public Guardian who shall—
+
+(a) notify—
+
+(i) the adult;
+
+(ii) the local authority; and
+
+(iii) in a case where the adult's incapacity is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult's personal welfare or factors including it, the Mental Welfare Commission;
+
+(b) enter prescribed particulars in the register maintained under section 6(2)(b)(iv); and
+
+(c) issue a new certificate of appointment—
+
+(i) to any surviving joint guardian;
+
+(ii) where the Public Guardian is satisfied that any substitute guardian appointed in respect of the dead guardian is willing to act and has found caution or given other security if so required, to the substitute guardian.]
+
+#### 76 Change of habitual residence
+
+(1) Where the guardian is the chief social work officer of the local authority and the adult changes his place of habitual residence to the area of another local authority, the chief social work officer of the first mentioned local authority shall notify the chief social work officer of the second mentioned local authority (the “receiving authority”) who shall become guardian on receipt of the notification and shall within 7 days of that receipt notify the Public Guardian and (in a case where the incapacity of the adult is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission.
+
+(2) The Public Guardian shall—
+
+(a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv) and issue a certificate of appointment to the new guardian; and
+
+(b) subject to subsection (4), notify the adult within 7 days of receipt of the notification from the receiving authority.
+
+(3) Subject to subsection (4), the chief social work officer of the receiving authority shall, within 7 working days of receipt of the notification, notify any person who received notification under section 58(7) of the appointment of the name of the officer responsible at any time for carrying out the functions and duties of guardian.
+
+(4) If, in relation to the original application for a guardianship order, the sheriff has directed that intimation or notification of any application or other proceedings should not be given to the adult, the Public Guardian and the chief social work officer shall not notify the adult under subsection (2)(b) or (3) as the case may be.
+
+### Termination of authority to intervene and guardianship on death of adult
+
+#### 77 Termination of authority to intervene and guardianship on death of adult
+
+(1) An intervention order or a guardianship order in respect of an adult under this Part shall cease to have effect on his death.
+
+(2) A person authorised under an intervention order or a guardian having powers relating to the property or financial affairs of the adult shall, until he becomes aware of the death of the adult or of any other event which has the effect of terminating his authority, be entitled to act under those powers if he acts in good faith.
+
+(3) Where the authority of a person authorised under an intervention order or of a guardian (including a joint guardian) is terminated or otherwise comes to an end, a third party in good faith is entitled to rely on the authority of the person or guardian if he is unaware of the termination or ending of that authority.
+
+(4) No title to any interest in heritable property acquired by a third party in good faith and for value from a person authorised under an intervention order or from a guardian having powers relating to the property or financial affairs of the adult shall be challengeable on the grounds only of the termination or coming to an end of the authority of the person or of the guardian.
+
+(5) In this section any reference to a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland.
+
+#### 78 Amendment of registration under section 61 on events affecting guardianship or death of adult
+
+(1) The Public Guardian shall—
+
+(a) where under section 71(3)(a), 73(2)(a), 74(5)(a) or 75(3)(a) he enters in the register maintained by him under section 6(2)(b)(iv) prescribed particulars relating to a guardianship order in respect of which the appointment of the guardian was recorded or registered under section 61; or
+
+(b) where an adult in respect of whom there was such a guardianship order has died,
+
+apply forthwith to the Keeper of the Registers of Scotland for the recording of the interlocutor or other document vouching the event giving rise to the entry or, as the case may be, the certificate of the death or, as the case may be, the registering of the event or the death in the Land Register of Scotland.
+
+(2) On an application under subsection (1), the Keeper shall, as appropriate—
+
+(a) record the interlocutor or other document or certificate in the Register of Sasines and endorse it that it has been so recorded;
+
+(b) update the title sheet of the heritable property accordingly.
+
+#### 79 Protection of third parties: guardianship
+
+Where a third party has acquired, in good faith and for value, title to any interest in heritable property from a guardian that title shall not be challengeable on the ground only—
+
+(a) of any irregularity of procedure in making the guardianship order; or
+
+(b) that the guardian has acted outwith the scope of his authority.
+
+### [[^F165]Guardianship orders: children
+
+#### 79A Guardianship orders: children
+
+Sections 57 to 79 apply in relation to a child who will become an adult within 3 months as they apply in relation to an adult; but no guardianship order made in relation to a child shall have effect until the child becomes an adult.]
+
+## PART 7 — MISCELLANEOUS
+
+### 80 Future appointment of curator bonis etc. incompetent
+
+In any proceedings begun after the commencement of this Act it shall not be competent to appoint a curator bonis, tutor-dative or tutor-at-law to a person who has attained the age of 16 years.
+
+### 81 Repayment of funds
+
+(1) Where—
+
+(a) a continuing attorney;
+
+(b) a welfare attorney;
+
+(c) a withdrawer;
+
+(d) a guardian;
+
+(e) a person authorised under an intervention order; or
+
+(f) the managers of an authorised establishment within the meaning of Part 4,
+
+uses or use any funds of an adult in breach of their fiduciary duty or outwith their authority or power to intervene in the affairs of the adult or after having received intimation of the termination or suspension of their authority or power to intervene, they shall be liable to repay the funds so used, with interest thereon at the rate fixed by Act of Sederunt as applicable to a decree of the sheriff, to the account of the adult.
+
+(2) Subsection (1) shall be without prejudice to sections 69 and 82.
+
+### 81A [[^F166]Public Guardian's power to obtain records
+
+(1) The Public Guardian may, when carrying out an investigation under section 6(2)(c) or (d) or inquiries under section 30B(2)—
+
+(a) require any person falling within subsection (2) to provide the Public Guardian with—
+
+(i) the person's records of the exercise of the person's powers in relation to the adult to whom the investigation relates; and
+
+(ii) such other information relating to the exercise of those powers as the Public Guardian may reasonably require,
+
+(b) require any person who holds (or who has held) funds on behalf of the adult to whom the investigation relates to provide the Public Guardian with—
+
+(i) its records of the account; and
+
+(ii) such other information relating to those accounts as the Public Guardian may reasonably require.
+
+(2) A person falls within this subsection if the person is or has been—
+
+(a) a continuing attorney appointed by the adult to whom the investigation relates;
+
+(b) a withdrawer with authority to intromit with that adult's funds;
+
+(c) a person authorised under an intervention order to act in relation to that adult; or
+
+(d) that adult's guardian.
+
+(3) A fundholder may charge a reasonable fee for complying with a requirement under subsection (1)(b) and may recover that fee from the account concerned.]
+
+### 82 Limitation of liability
+
+(1) No liability shall be incurred by a guardian, a continuing attorney, a welfare attorney, a person authorised under an intervention order, a withdrawer or the managers of an establishment for any breach of any duty of care or fiduciary duty owed to the adult if he has or they have—
+
+(a) acted reasonably and in good faith and in accordance with the general principles set out in section 1; or
+
+(b) failed to act and the failure was reasonable and in good faith and in accordance with the said general principles.
+
+(2) In this section any reference to—
+
+(a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+
+(b) a continuing attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed), relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity; and
+
+(c) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+### 83 Offence of ill-treatment and wilful neglect
+
+(1) It shall be an offence for any person exercising powers under this Act relating to the personal welfare of an adult to ill-treat or wilfully neglect that adult.
+
+(2) A person guilty of an offence under subsection (1) shall be liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum or both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or both.
+
+### 84 Application to guardians appointed under Criminal Procedure (Scotland) Act 1995
+
+(1) Parts 1, 5, 6 and 7 shall apply to a guardian appointed under section 57(2)(c) or section 58(1) of the Criminal Procedure (Scotland) Act 1995 (c.46) (“the 1995 Act”) as they apply to a guardian with powers relating to the personal welfare of an adult appointed under Part 6; and accordingly the 1995 Act shall be amended as follows.
+
+(2) After section 58 there shall be inserted—
+
+> **58A Application of Adults with Incapacity (Scotland) Act 2000**
+>
+> (1) Subject to the provisions of this section, the provisions of Parts 1, 5, 6 and 7 of the Adults with Incapacity (Scotland) Act 2000 (asp 4) (“the 2000 Act”) apply—
+>
+> (a) to a guardian appointed by an order of the court under section 57(2)(c), 58(1) or 58(1A) of this Act (in this section referred to as a “guardianship order”) whether appointed before or after the coming into force of these provisions, as they apply to a guardian with powers relating to the personal welfare of an adult appointed under section 58 of that Act;
+>
+> (b) to a person authorised under an intervention order under section [[^F167]60B] of this Act as they apply to a person so authorised under section 53 of that Act.
+>
+> (2) In making a guardianship order the court shall have regard to any regulations made by the Scottish Ministers under section 64(11) of the 2000 Act and—
+>
+> (a) shall confer powers, which it shall specify in the order, relating only to the personal welfare of the person;
+>
+> (b) may appoint a joint guardian;
+>
+> (c) may appoint a substitute guardian;
+>
+> (d) may make such consequential or ancillary order, provision or direction as it considers appropriate.
+>
+> (3) Without prejudice to the generality of subsection (2), or to any other powers conferred by this Act, the court may—
+>
+> (a) make any order granted by it subject to such conditions and restrictions as appear to it to be appropriate;
+>
+> (b) order that any reports relating to the person who will be the subject of the order be lodged with the court or that the person be assessed or interviewed and that a report of such assessment or interview be lodged;
+>
+> (c) make such further inquiry or call for such further information as appears to it to be appropriate;
+>
+> (d) make such interim order as appears to it to be appropriate pending the disposal of the proceedings.
+>
+> (4) Where the court makes a guardianship order it shall forthwith send a copy of the interlocutor containing the order to the Public Guardian who shall—
+>
+> (a) enter prescribed particulars of the appointment in the register maintained by him under section 6(2)(b)(iv) of the 2000 Act;
+>
+> (b) unless he considers that the notification would be likely to pose a serious risk to the person’s health notify the person of the appointment of the guardian; and
+>
+> (c) notify the local authority and the Mental Welfare Commission of the terms of the interlocutor.
+>
+> (5) A guardianship order shall continue in force for a period of 3 years or such other period (including an indefinite period) as, on cause shown, the court may determine.
+>
+> (6) Where any proceedings for the appointment of a guardian under section 57(2)(c) or 58(1) of this Act have been commenced and not determined before the date of coming into force of section 84 of, and paragraph 26 of schedule 5 to, the Adults with Incapacity (Scotland) Act 2000 (asp 4) they shall be determined in accordance with this Act as it was immediately in force before that date.
+
+.
+
+### 84A [[^F168]Application to storage of gametes without adult's consent where adult is incapable
+
+(1) The storage of gametes under paragraph 10 of Schedule 3 to the Human Fertilisation and Embryology Act 1990 (storage of gametes without patient's consent where patient is incapable) is to be treated as an intervention in the affairs of an adult under this Act.
+
+(2) Sections 2 to 5, 8, 11, 14 and 85 of this Act apply to a registered medical practitioner's decision under that paragraph as they apply to decisions taken for the purposes of this Act.
+
+(3) Section 52 of this Act applies to a practitioner's decision under that paragraph as it applies to decisions taken for the purposes of section 47 of this Act.
+
+(4) Part 5 of this Act (other than section 52) does not apply to the storage of gametes under that paragraph.
+
+(5) Section 83 of this Act applies to a practitioner's decision under that paragraph as if the practitioner were exercising powers under this Act.
+
+(6) Nothing in this section authorises any person, other than the person whose gametes are to be stored, to consent to the storage of the gametes.
+
+### 84B Application to use of human cells to create an embryo in vitro without adult's consent
+
+(1) The use of an adult's human cells to bring about the creation *in vitro* of an embryo or human admixed embryo for use for the purposes of a project of research—
+
+(a) without the adult's consent, and
+
+(b) where the adult is incapable,
+
+is to be treated as an intervention in the affairs of an adult under this Act.
+
+(2) Sections 2 to 5, 8, 11, 14 and 85 of this Act apply to decisions made under paragraphs 16 and 18 of Schedule 3 to the Human Fertilisation and Embryology Act 1990 (when consent to the use of human cells is not required due to adult being incapable of consenting) as they apply to decisions taken for the purposes of this Act.
+
+(3) Section 51 of this Act does not apply to the use of an adult's human cells to bring about the creation *in vitro* of an embryo or human admixed embryo for use for the purposes of a project of research.
+
+(4) Section 83 of this Act applies to a decision made under paragraphs 16 and 18 of Schedule 3 to the Human Fertilisation and Embryology Act 1990 as if the person making the decision were exercising powers under this Act.
+
+(5) Expressions used in this section and in Schedule 3 to the Human Fertilisation and Embryology Act 1990 have the same meaning in this section as in that Schedule.]
+
+### 85 Jurisdiction and private international law
+
+Schedule 3 shall have effect for the purposes of defining the jurisdiction, in respect of adults who are incapable within the meaning of this Act, of the Scottish judicial and administrative authorities and for making provision as to the private international law of Scotland in that respect.
+
+### 86 Regulations
+
+(1) Any power of the Scottish Ministers to make regulations under this Act shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(2) Any such power may be exercised to make different provision for different cases or classes of case and includes power to make such incidental, supplemental, consequential or transitional provision or savings as appear to the Scottish Ministers to be appropriate.
+
+### 87 Interpretation
+
+(1) In this Act, unless the context otherwise requires—
+
+- “adult” shall be construed in accordance with section 1;
+- “continuing attorney” shall be construed in accordance with section 15;
+- “guardianship order” shall be construed in accordance with section 58;
+- “incapable” and “incapacity” shall be construed in accordance with section 1;
+- “intervention order” shall be construed in accordance with section 53;
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39), and references to a local authority shall be construed as references to the local authority for the area in which the adult resides;
+- “managers of an establishment” shall be construed in accordance with schedule 1;
+- “mental disorder” [[^F169]has the meaning given by section 328 of the 2003 Act];
+- [[^F170]“mental health officer” has the meaning given by section 329 of the 2003 Act;]
+- “Mental Welfare Commission” means the Mental Welfare Commission for Scotland continued in being by [[^F171]section 4 of the 2003 Act];
+- [[^F172]“named person” has the meaning given by section 329 of the 2003 Act;]
+- “nearest relative” [[^F173]has the meaning given by section 254 of the 2003 Act];
+- “office holder”, in relation to a guardian, means the chief social work officer of the local authority;
+- “person claiming an interest” includes the local authority, the Mental Welfare Commission and the Public Guardian;
+- “power of attorney” includes a factory and commission;
+- [[^F174]“practising solicitor” means a solicitor holding a practising certificate issued in accordance with Part 2 of the Solicitors (Scotland) Act 1980 (c. 46);]
+- “prescribe”, except for the purposes of anything which may be or is to be prescribed by the Public Guardian, means prescribe by regulations; and “prescribed” shall be construed accordingly;
+- “primary carer” in relation to an adult, means the person or organisation primarily engaged in caring for him;
+- “Public Guardian” shall be construed in accordance with section 6;
+- “State hospital” shall be construed in accordance with section 102 of the National Health Service (Scotland) Act 1978 (c.29);
+- “substitute guardian” shall be construed in accordance with section 63;
+- “welfare attorney” shall be construed in accordance with section 16;
+- “withdrawer” shall be construed in accordance with section 26;
+- “the 1984 Act” means the Mental Health (Scotland) Act 1984 (c.36).
+- [[^F175]“the 2003 Act” means the Mental Health (Care and Treatment)(Scotland) Act 2003 (asp 13).]
+
+[[^F176](1A) Any power under this Act to prescribe anything by regulations is exercisable by the Scottish Ministers.]
+
+(2) [^F177]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of this Act, a person is bankrupt if his estate has been sequestrated for insolvency or he has granted a trust deed which has become a protected trust deed under Schedule [[^F179]4 of the Bankruptcy (Scotland) Act 2016], or he has been adjudged bankrupt in England and Wales, or he has become bankrupt (however expressed) under the law of any other country.
+
+### 88 Continuation of existing powers, minor and consequential amendments and repeals
+
+(1) Schedule 4, which contains provisions relating to the continuation of existing powers, shall have effect.
+
+(2) Schedule 5, which contains minor amendments and amendments consequential on the provisions of this Act, shall have effect.
+
+(3) The enactments mentioned in schedule 6 are hereby repealed to the extent specified in the third column of that schedule.
+
+### 89 Citation and commencement (prospective)
+
+(1) This Act may be cited as the Adults with Incapacity (Scotland) Act 2000.
+
+(2) This Act shall come into force on such day as the Scottish Ministers may by order made by statutory instrument appoint and different days may be appointed for different purposes.
+
+(3) Without prejudice to the provisions of schedule 4, an order under subsection (2) may make such transitional provisions and savings as appear to the Scottish Ministers necessary or expedient in connection with any provision brought into force by the order; and where it does so, the statutory instrument under which it is made shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+## SCHEDULE 1 — MANAGERS OF AN ESTABLISHMENT
+
+**(introduced by section 35)**
+
+**1** For the purposes of Part 4 “the managers” of an establishment means—
+
+(a) in relation to a hospital vested in the Scottish Ministers under the National Health Service (Scotland) Act 1978 (c.29), the Health Board responsible for the administration of that hospital;
+
+(b) in relation to a hospital managed by a National Health Service trust established under section 12A of the said Act of 1978, the directors of the trust;
+
+(c) in relation to a State hospital—
+
+(i) the Scottish Ministers; or
+
+(ii) [^F180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) if the management of that hospital has been delegated to a Health Board, to a Special Health Board, to a National Health Service trust or to the Common Services Agency for the Scottish Health Service, that Board, trust or Agency, as the case may be, or any person appointed by the Board, trust or agency, as the case may be, to manage the hospital;
+
+[[^F181](d) in relation to a care service or limited registration service—
+
+(i) the person identified under [[^F182]section 59(2)(b)] of [[^F183]the Public Services Reform (Scotland) Act 2010] (asp 8) in the application for registration of the service;
+
+(ii) if the application is made under [[^F184]section 83(1)] of that Act, the local authority or any person appointed by the local authority to manage the service; or
+
+(iii) if another person has been identified in pursuance of regulations under [[^F185]section 78(2)] of that Act, the other person so identified,
+
+and in paragraph (d) above “care service" and “limited registration service" have the same meanings as in [[^F186]Part 5 of the Public Services Reform (Scotland) Act 2010][[^F187];]]
+
+[[^F187](e) in relation to an independent hospital or private psychiatric hospital (as defined in section 10F(2) of the National Health Service (Scotland) Act 1978 (c.29)), the person identified under section 10P(2)(b) of that Act in the application for registration of the service.]
+
+**2** The Scottish Ministers may by regulations amend the list of managers in paragraph 1.
+
+## SCHEDULE 2 — MANAGEMENT OF ESTATE OF ADULT
+
+**(introduced by section 64)**
+
+### Management plan
+
+**1** (1) A guardian with powers relating to the property and financial affairs of the adult shall, unless the sheriff otherwise directs, prepare a plan (a “management plan”), taking account of any directions given by the sheriff in the order appointing him, for the management, investment and realisation of the adult’s estate and for the application of the estate to the adult’s needs, so far as the estate falls within the guardian’s authority.
+
+(2) The management plan shall be submitted in draft by the guardian to the Public Guardian for his approval, along with the inventory of the adult’s estate prepared under paragraph 3, not more than one month, or such other period as the Public Guardian may allow, after the submission of the inventory.
+
+(3) The Public Guardian may approve the management plan submitted to him under sub-paragraph (2) or he may approve it with amendments and the plan as so approved or as so amended shall be taken account of by the guardian in the exercise of his functions in relation to the adult.
+
+(4) Before the management plan is approved, the guardian shall, unless the sheriff on appointing him has conferred wider powers, have power only to—
+
+(a) ingather and take control of the assets of the adult’s estate so as to enable him, when the management plan has been approved, to intromit with them;
+
+(b) make such payments as are necessary to provide for the adult’s day to day needs.
+
+(5) The Public Guardian may authorise the guardian to exercise any function within the scope of his authority before the management plan is approved, if it would be unreasonable to delay him exercising that function until the plan had been approved.
+
+(6) The guardian shall keep the management plan under review and shall put forward to the Public Guardian proposals for variation of it whenever it appears to him to be appropriate.
+
+(7) The Public Guardian—
+
+(a) may at any time propose any variation to the management plan; and
+
+(b) shall review the plan whenever the guardian submits his accounts for audit.
+
+(8) The Public Guardian shall notify the guardian of any variation which he proposes to make to the management plan and shall not make any such variation without affording the guardian an opportunity to object.
+
+(9) Having heard any objections by the guardian as mentioned in sub-paragraph (8) the Public Guardian may make the variation with or without amendment.
+
+### Directions from sheriff
+
+**2** Where the guardian disagrees with any decision made by the Public Guardian in relation to a management plan prepared under paragraph 1, he may apply to the sheriff for a determination in relation to the matter and the sheriff’s decision shall be final.
+
+### Inventory of estate
+
+**3** (1) A guardian with powers relating to the property or financial affairs of the adult shall, as soon after his appointment as possible and in any event within 3 months of the date of registration of his appointment or such other period as the Public Guardian may allow, submit to the Public Guardian for examination and approval a full inventory of the adult’s estate in so far as it falls within the scope of the guardian’s authority, along with such supporting documents and additional information as the Public Guardian may require.
+
+(2) The inventory shall be in a form, and contain information, prescribed by the Public Guardian.
+
+(3) Errors in and omissions from the inventory which are discovered by the guardian after the inventory has been approved by the Public Guardian shall be notified by him to the Public Guardian within 6 months of the date of discovery or when submitting his next accounts to the Public Guardian, whichever occurs sooner.
+
+(4) The Public Guardian may dispense with the need for the guardian to submit an inventory under sub-paragraph (1) or may require the guardian to take such other action as he thinks appropriate in lieu of submitting an inventory.
+
+### Money
+
+**4** The guardian shall deposit all money received by him as guardian in a bank or a building society in an account in the name of the adult and shall ensure that all sums in excess of £500 (or such other sum as may be prescribed) so deposited shall earn interest.
+
+### Powers relating to investment and carrying on of business by guardian
+
+**5** (1) Subject to the following provisions of this paragraph, a guardian with powers relating to the property or financial affairs of the adult shall be entitled—
+
+(a) after obtaining and considering proper advice, to retain any existing investment of the adult;
+
+(b) to use the adult’s estate to make new investments in accordance with the management plan prepared under paragraph 1 or with the consent of the Public Guardian.
+
+(2) For the purpose of sub-paragraph (1)—
+
+(a) proper advice is the advice of a person [[^F188]who has permission for the purposes of the Financial Services and Markets Act 2000 to advise on investments] who is not the guardian or any person who is an employer, employee or business partner of the guardian; and
+
+(b) the advice must be given or subsequently confirmed in writing.
+
+[[^F189](2A) Sub-paragraph (2) must be read with—
+
+(a) section 22 of the Financial Services and Markets Act 2000;
+
+(b) any relevant order under that section; and
+
+(c) Schedule 2 to that Act.]
+
+(3) The guardian shall keep every investment under review and in doing so shall have regard to the following principles—
+
+(a) that the investment must be prudent;
+
+(b) that there must be diversification of investments; and
+
+(c) that the investment must be suitable for the adult’s estate.
+
+(4) The Public Guardian may at any time direct the guardian to realise any investment.
+
+(5) The guardian may, subject to any direction given by the Public Guardian, carry on any business of the adult.
+
+(6) Any decision by the Public Guardian—
+
+(a) under sub-paragraph (4) as to directing the guardian to realise investments;
+
+(b) under sub-paragraph (5) as to giving directions to the guardian in carrying on the business of the adult,
+
+may be appealed to the sheriff, whose decision shall be final.
+
+### Purchase or disposal of accommodation
+
+**6** (1) The guardian shall not, without the consent of the Public Guardian—
+
+(a) in principle; and
+
+(b) to the purchase or selling price,
+
+purchase accommodation for, or dispose of any accommodation used for the time being as a dwelling house by, the adult.
+
+(2) On receipt of an application for consent in principle under sub-paragraph (1)(a) in the prescribed form, the Public Guardian shall intimate the application to the adult, his nearest relative, his primary carer [[^F190], his named person] and any person who the Public Guardian considers has an interest in the application and advise them of the prescribed period within which they may object to the granting of the application.
+
+(3) The Public Guardian shall remit any objection under sub-paragraph (2) for determination by the sheriff (whose decision shall be final) and—
+
+(a) if the sheriff upholds the objection, shall refuse the application;
+
+(b) if the sheriff dismisses the objection, shall grant the application.
+
+(4) Where the Public Guardian proposes to refuse the application other than under sub-paragraph (3)(a) he shall intimate his decision to the applicant and advise him of the prescribed period within which he may object to the refusal; and he shall not refuse the application without affording the applicant, if he objects, an opportunity of being heard.
+
+(5) Having heard any objections as mentioned in sub-paragraph (4) or where there is no objection as mentioned in sub-paragraph (2), the Public Guardian may grant the application.
+
+(6) The Public Guardian may at his own instance or at the instance of any person who objects to the granting or refusal (other than a refusal under sub-paragraph (3)(a)) of the application remit the application to the sheriff for determination by the sheriff, whose decision shall be final.
+
+(7) If consent in principle to the purchase or disposal of the accommodation is given, the guardian shall apply to the Public Guardian for consent under sub-paragraph (1)(b) to the purchase or selling price.
+
+(8) A decision of the Public Guardian—
+
+(a) to grant or to refuse (other than under sub-paragraph (3)(a)) an application; or
+
+(b) to refuse to remit an application to the sheriff under sub-paragraph (6),
+
+may be appealed to the sheriff, whose decision shall be final.
+
+(9) A decision of the Public Guardian to give or to refuse consent under sub-paragraph (1)(b) shall be final.
+
+### Accounting and auditing
+
+**7** (1) A guardian with powers relating to the property or financial affairs of the adult shall submit accounts in respect of each accounting period to the Public Guardian within one month from the end of the accounting period or such longer period as the Public Guardian may allow.
+
+(2) There shall be submitted with the accounts under sub-paragraph (1) such supporting documents as the Public Guardian may require, and the Public Guardian may require the guardian to furnish him with such information in connection with the accounts as the Public Guardian may determine.
+
+(3) For the purposes of this paragraph, the first accounting period shall commence with the date of appointment of the guardian and end at such date not later than 18 months after the date of registration of the guardian’s appointment as the Public Guardian may determine; and thereafter each accounting period shall be a year commencing with the date on which the immediately previous accounting period ended.
+
+(4) Notwithstanding the foregoing provisions of this paragraph, the Public Guardian may at any time—
+
+(a) give directions as to the frequency of accounting periods;
+
+(b) dispense with the need for the submission of accounts by the guardian; or
+
+(c) require the guardian to do anything which the Public Guardian thinks appropriate in lieu of submitting accounts.
+
+(5) The accounts shall be in such form as is prescribed by the Public Guardian and different forms may be prescribed for different cases or descriptions of case.
+
+(6) Where the estate of the adult includes a business or an interest in a business that part of the accounts which relates to the business or to the interest in the business shall be accompanied by a certificate from such person and in such form as may be prescribed by the Public Guardian, certifying the accuracy of that part of the accounts.
+
+(7) The accounts submitted to the Public Guardian under sub-paragraph (1) (other than any part to which a certificate as mentioned in sub-paragraph (6) relates) shall be audited by the Public Guardian or by an accountant appointed by, and responsible to, the Public Guardian for that purpose.
+
+### Approval of accounts
+
+**8** (1) After the accounts of the guardian have been audited, the Public Guardian shall, if the accounts appear to him—
+
+(a) to be a true and fair view of the guardian’s management of the adult’s estate, approve them and fix the remuneration (if any) due to the guardian;
+
+(b) not to be a true and fair view of the guardian’s management of the adult’s estate, prepare a report as to the extent to which they do not represent such a true and fair view and adjusting the accounts accordingly.
+
+(2) The Public Guardian may approve the accounts, notwithstanding any minor inconsistencies or absence of full documentation in the accounts, if he is satisfied that the guardian acted reasonably and in good faith.
+
+(3) The Public Guardian shall send any report prepared by him under sub-paragraph (1)(b) to the guardian, who may object to anything contained in the report within 28 days of it being sent to him.
+
+(4) If no objection is taken to the report, the accounts as adjusted by the Public Guardian shall be regarded as approved by him.
+
+(5) Where any objection taken to the report cannot be resolved between the guardian and the Public Guardian, the matter may be determined by the sheriff on an application by the guardian, and the sheriff’s decision shall be final.
+
+(6) Without prejudice to sub-paragraph (7), the guardian shall be liable to make good any deficiency revealed by the accounts as approved by the Public Guardian under sub-paragraph (1)(a).
+
+(7) Where a deficiency is revealed as mentioned in sub-paragraph (6), the Public Guardian may require the guardian to pay interest to the adult’s estate on the amount of the deficiency at the rate fixed by Act of Sederunt as applicable to a decree of the sheriff in respect of the period for which it appears that the deficiency has existed.
+
+## SCHEDULE 3 — JURISDICTION AND PRIVATE INTERNATIONAL LAW
+
+**(introduced by section 85)**
+
+### General
+
+**1** (1) The Scottish judicial and administrative authorities shall have jurisdiction to dispose of an application or other proceedings and otherwise carry out functions under this Act in relation to an adult if—
+
+(a) the adult is habitually resident in Scotland; or
+
+(b) property which is the subject of the application or proceedings or in respect of which functions are carried out under this Act is in Scotland; or
+
+(c) the adult, although not habitually resident in Scotland is there or property belonging to the adult is there and, in either case, it is a matter of urgency that the application is or the proceedings are dealt with; or
+
+(d) the adult is present in Scotland and the intervention sought in the application or proceedings is of a temporary nature and its effect limited to Scotland.
+
+(2) As from the ratification date, the Scottish judicial and administrative authorities shall, in addition to the jurisdiction mentioned in sub-paragraph (1) in the circumstances set out therein, have the jurisdiction mentioned in that sub-paragraph in the following circumstances—
+
+(a) the adult—
+
+(i) is a British citizen; and
+
+(ii) has a closer connection with Scotland than with any other part of the United Kingdom; and
+
+(b) Article 7 of the Convention has been complied with,
+
+or if the Scottish Central Authority, having received a request under Article 8 of the Convention from an authority of the State in which the adult is habitually resident and consulted such authorities in Scotland as would, under this Act, have functions in relation to the adult, have agreed to the request.
+
+(3) As from the ratification date, the provisions of the Convention shall apply to the exercise of jurisdiction under this schedule where the adult—
+
+(a) is habitually resident in a Contracting State other than the United Kingdom; or
+
+(b) not being habitually resident in Scotland, is or has been the subject of protective proceedings in such a Contracting State.
+
+(4) As from the ratification date, any application made to a Scottish judicial or administrative authority under this Act which—
+
+(a) relates to an adult who is not habitually resident in Scotland; and
+
+(b) does not require to be determined as a matter of urgency,
+
+shall be accompanied by information as to which State the adult habitually resides in and as to any other application relating to the adult which has been dealt with or is being made, or proceedings so relating which have been or are being brought, in any Contracting State other than the United Kingdom.
+
+(5) For the purposes of this paragraph, an adult—
+
+(a) whose habitual residence cannot be ascertained; or
+
+(b) who is a refugee or has been internationally displaced by disturbance in the country of his habitual residence,
+
+shall be taken to be habitually resident in the State which he is in.
+
+### Appropriate sheriff
+
+**2** (1) The sheriff having jurisdiction under this schedule to take measures is the sheriff in whose sheriffdom—
+
+(a) in relation to a case falling within paragraph 1(1)(a), the adult is habitually resident;
+
+(b) in relation to a case falling within paragraph 1(1)(b), the property is located;
+
+(c) in relation to a case falling within paragraph 1(1)(c), the adult or property belonging to the adult is present;
+
+(d) in relation to a case falling within paragraph 1(1)(d), the adult is present.
+
+(2) The sheriff shall also have jurisdiction to vary or recall any intervention order or guardianship order made by him under this Act if no Contracting State other than the United Kingdom has, by way of its judicial or administrative authorities, jurisdiction; and—
+
+(a) no other court or authority has jurisdiction; or
+
+(b) another court or authority has jurisdiction but—
+
+(i) it would be unreasonable to expect an applicant to invoke it; or
+
+(ii) that court or authority has declined to exercise it.
+
+(3) Notwithstanding that any other judicial or administrative authority has jurisdiction under sub-paragraph (1)(a) to take measures, a sheriff shall have jurisdiction to take measures if—
+
+(a) the adult is present in the sheriffdom; and
+
+(b) the sheriff considers that it is necessary, in the interests of the adult, to take the measures immediately.
+
+(4) Where, by operation of paragraph 1, jurisdiction falls to be exercised by a sheriff but the case is one appearing to fall outside sub-paragraphs (1) and (2), the sheriff having jurisdiction is the Sheriff of the Lothians and Borders at Edinburgh.
+
+### Applicable law
+
+**3** (1) The law applicable to anything done under this Act by a Scottish judicial or administrative authority in relation to an adult is the law of Scotland.
+
+(2) Sub-paragraph (1) does not prevent a Scottish judicial or administrative authority from applying the law of a country other than Scotland if, in circumstances which demonstrate a substantial connection with that other country and having regard to the interests of the adult, it appears appropriate to do so.
+
+(3) Such an authority shall, however, in the exercise of the powers conferred by section [[^F191]20] of this Act, take into consideration to the extent possible the law which, as provided in paragraph 4, governs the power of attorney.
+
+(4) Where a measure for the protection of an adult has been taken in one State and is implemented in another, the conditions of its implementation are governed by the law of that other State.
+
+(5) Any question whether a person has authority by virtue of any enactment or rule of law to represent an adult shall be governed—
+
+(a) where such representation is for the purposes of the immediate personal welfare of the adult and the adult is in Scotland, by the law of Scotland; and
+
+(b) in any other case, by the law of the country in which the adult is habitually resident.
+
+**4** (1) The law governing the existence, extent, modification and extinction of continuing or welfare powers of attorney (including like powers, however described) shall be that of the State in which the granter habitually resided at the time of the grant of these powers.
+
+(2) Where, however, the granter of such a power of attorney so provides in writing, the law so applicable shall instead be the law of a State—
+
+(a) of which the granter is a national;
+
+(b) in which the granter was habitually resident before the grant; or
+
+(c) in which the property of the granter is located.
+
+(3) The manner of exercise of such a power shall be governed by the law of the State in which its exercise takes place.
+
+(4) The law of a State may be applied under sub-paragraph (2)(c) above only in respect of the property referred to in that provision.
+
+(5) Nothing in sub-paragraphs (1) and (2) prevents the sheriff from exercising powers under section 20 of this Act if a power of attorney is not being exercised so as to safeguard the welfare or property of the granter.
+
+(6) It is not an objection to the validity of any contract or other transaction between a person acting or purporting to act as the representative of an adult and any other person that the person so acting or purporting to act was not entitled so to act under the law of a country other than the country where the contract or other transaction was concluded.
+
+(7) Sub-paragraph (6) does not, however, apply where the other person knew or ought to have known that the entitlement so to act of the person acting or purporting to act as representative was governed by the law of that other country.
+
+(8) Sub-paragraph (6) applies only if the persons entering into the contract or other transaction were, when they did so, both (or all) in the same country.
+
+**5** Nothing in this schedule displaces any enactment or rule of law which has mandatory effect for the protection of an adult with incapacity in Scotland whatever law would otherwise be applicable.
+
+**6** Nothing in this schedule requires or enables the application in Scotland of any provision of the law of a country other than Scotland so as to produce a result which would be manifestly contrary to public policy.
+
+### Recognition and enforcement
+
+**7** (1) Any measure taken under the law of a country other than Scotland for the personal welfare or the protection of property of an adult with incapacity shall, if one of the conditions specified in sub-paragraph (2) is met, be recognised by the law of Scotland.
+
+(2) These conditions are—
+
+(a) that the jurisdiction of the authority of the other country was based on the adult’s habitual residence there;
+
+(b) that the United Kingdom and the other country were, when the measure was taken, parties to the Convention and the jurisdiction of the authority of the other country was based on a ground of jurisdiction provided for in the Convention.
+
+(3) Recognition of a measure may, however, be refused—
+
+(a) if, except in a case of urgency—
+
+(i) the authority which took it did so without the adult to whom it related being given an opportunity to be heard; and
+
+(ii) these circumstances constituted a breach of natural justice;
+
+(b) if it would be manifestly contrary to public policy to recognise the measure;
+
+(c) if the measure conflicts with any enactment or rule of law of Scotland which is mandatory whatever law would otherwise be applicable;
+
+(d) if the measure is incompatible with a later measure taken in Scotland or recognised by the law of Scotland;
+
+(e) if the measure would have the effect of placing the adult in an establishment in Scotland and—
+
+(i) the Scottish Central Authority has not previously been provided with a report on the adult and a statement of the reasons for the proposed placement and has not been consulted on the proposed placement; or
+
+(ii) where the Authority has been provided with such a report and statement and so consulted, it has, within a reasonable time thereafter, declared that it disapproves of the proposed placement.
+
+**8** (1) A measure which is enforceable in the country of origin and which is recognised under paragraph 7 by the law of Scotland may, in accordance with rules of court, be registered.
+
+(2) A measure so registered shall be as enforceable as a measure having the like effect granted by a court in Scotland.
+
+**9** (1) For the purposes of recognition or enforcement of a measure taken outside Scotland in relation to an adult, findings of fact going to jurisdiction made by the authority taking the measure are conclusive of the facts found.
+
+(2) The validity or merits of a measure falling to be recognised by the law of Scotland by virtue of this schedule shall not be questioned in any proceedings except for the purposes of ascertaining its compliance with any provision of this schedule.
+
+**10** (1) The Scottish Ministers may, by order, provide for the recognition and enforcement of orders made and other measures taken by authorities in any part of the United Kingdom other than Scotland.
+
+(2) The provision so made shall accord no less recognition and secure that these orders and measures are no less enforceable than if they were measures which are recognised by the law of Scotland under paragraph 7.
+
+### Co-operation, avoidance of conflict of jurisdiction and compliance with the Convention
+
+**11** (1) Her Majesty may by Order in Council confer on the Scottish Central Authority, and the Scottish judicial and administrative authorities such powers, and impose on them such duties additional, in each case, to those which they have under this Act, as are necessary or expedient to enable them to give effect in Scotland to the Convention on and after the ratification date.
+
+(2) An Order in Council under sub-paragraph (1) shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(3) A certificate delivered in pursuance of Article 38 of the Convention by a designated authority of a Contracting State other than Scotland shall be proof of the matters stated in it unless the contrary is proved.
+
+### General
+
+**12** No provision of this schedule deriving from or giving effect to the Convention extends to any matter to which the Convention, by Article 4 thereof, does not apply.
+
+**13** Orders or regulations under this schedule shall be made by statutory instrument subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+**14** In this schedule—
+
+- “the Convention” means the Hague Convention of 13 January 2000 on the International Protection of Adults; a “measure for the personal welfare or protection of the property” of an adult with incapacity includes any order, direction or decision effecting or relating to—
+
+  - (a) the determination of the incapacity and the institution of appropriate measures of protection;
+  - (b) the placing of the adult under the protection of a judicial or administrative authority;
+  - (c) guardianship, curatorship or analogous institutions;
+  - (d) the appointment and functions of any person or body having charge of the adult’s person or property or otherwise representing the adult;
+  - (e) the placement of the adult in an establishment or other place where the personal welfare of the adult is safeguarded;
+  - (f) the administration, conservation or disposal of the adult’s property; or
+  - (g) the authorisation of a specific intervention for the personal welfare or protection of the property of the adult; the “ratification date” means the date when the Convention is ratified as respects Scotland; the “Scottish Central Authority” means—
+
+(a) an authority designated under Article 28 of the Convention for the purposes of acting as such; or
+
+(b) if no authority has been so designated any authority appointed by the Scottish Ministers for the purposes of carrying out the functions to be carried out under this schedule by the Scottish Central Authority;
+
+the “Scottish judicial and administrative authorities” means the courts having functions under this Act and the Public Guardian, the Mental Welfare Commission, local authorities and supervisory bodies.
+
+## SCHEDULE 4 — CONTINUATION OF EXISTING CURATORS, TUTORS, GUARDIANS AND ATTORNEYS UNDER THIS ACT
+
+**(introduced by section 88(1))**
+
+### Curators and tutors
+
+**1** (1) On the relevant date, any person holding office as curator bonis to an adult shall become guardian of that adult with power to manage the property or financial affairs of the adult.
+
+(2) Where a person—
+
+(a) before the relevant date, holds office as curator bonis to a person who has not attained the age of 16 years and does not hold such office for the sole reason that the person has not attained the age of 16 years; or
+
+(b) after the relevant date, is appointed as curator bonis to such a person,
+
+he shall become guardian of that person when that person attains the age of 16 years, with power to manage his property or financial affairs.
+
+(3) Where any proceedings for the appointment of a curator bonis to an adult have been commenced and not determined before the relevant date, they shall be determined in accordance with the law as it was immediately before that date; and any person appointed curator bonis shall become guardian of that adult with power to manage the property or financial affairs of the adult.
+
+(4) On the relevant date, any person holding office as tutor-dative to an adult shall become guardian of that adult and shall continue to have the powers conferred by the court on his appointment as tutor-dative.
+
+(5) Where any proceedings for the appointment of a tutor-dative to an adult have been commenced and not determined before the relevant date, they shall be determined in accordance with the law as it was immediately before that date; and any person appointed tutor-dative shall become guardian of that adult with such power to manage the property, financial affairs or personal welfare of the adult as the court may determine.
+
+(6) On the relevant date, any person holding office as tutor-at-law to an adult shall become guardian of that adult with power to manage the property, financial affairs or personal welfare of the adult.
+
+(7) Where any proceedings for the appointment of a tutor-at-law to an adult have been commenced and not determined before the relevant date, they shall be determined in accordance with the law as it was immediately before that date; and any person appointed tutor-at-law shall become guardian of that adult with power to manage the property, financial affairs or personal welfare of the adult.
+
+### Guardians
+
+**2** (1) On the relevant date, any person holding office as guardian of an adult under the 1984 Act shall become guardian of that adult under this Act and shall continue to have the powers set out in paragraphs (a) to (c) of section 41(2) of that Act notwithstanding the repeal of that section by this Act.
+
+(2) Where any proceedings for the appointment of such a guardian of an adult have been commenced and not determined before the relevant date, they shall be determined in accordance with the 1984 Act as it was in force immediately before that date; and any person appointed guardian shall become guardian of that adult under this Act with the powers set out in the said paragraphs (a) to (c) of section 41(2) of the 1984 Act.
+
+### Proceedings relating to existing appointments
+
+**3** Where any proceedings in relation to the functions of an existing curator bonis, tutor-dative, tutor-at-law or guardian have been commenced and not determined before the relevant date, they shall be determined in accordance with the law as it was immediately before that date.
+
+### Attorneys
+
+**4** (1) On the relevant date, any person holding office as—
+
+(a) an attorney under a contract of mandate or agency with powers relating solely to the property or financial affairs of an adult shall become a continuing attorney under this Act;
+
+(b) an attorney under a contract of mandate or agency with powers relating solely to the personal welfare of an adult shall become a welfare attorney under this Act;
+
+(c) an attorney under a contract of mandate or agency with powers relating both to the property and financial affairs and to the personal welfare of an adult shall become a continuing attorney and a welfare attorney under this Act.
+
+(2) Where, under the provisions of a contract of mandate or agency executed before the relevant date, a person is appointed as an attorney after that date he shall be a continuing attorney, a welfare attorney or a continuing and welfare attorney, as provided for in sub-paragraph (1), under this Act.
+
+[[^F192](3) Sections 6(2)(c)(i), 15, 19, 20(3)(a), 21, 22, and 23 shall not apply to persons who have become continuing attorneys by virtue of sub-paragraph (1)(a) or (c).
+
+(4) Sections 16(1) to (4) and (7), 19, 20(3)(a), 21, 22, and 23 shall not apply to persons who have become welfare attorneys by virtue of sub-paragraph (1)(b) or (c).]
+
+### Managers
+
+**5** (1) Any managers of a hospital who have received and hold money and valuables on behalf of any person under section 94 of the 1984 Act may continue to do so under this Act for a period not exceeding 3 years from the relevant date.
+
+(2) This Act applies to managers as mentioned in sub-paragraph (1) notwithstanding that no certificate has been issued under section 37 in respect of the owner of the money or valuables.
+
+(3) Sections 35 and 38 shall not apply in the case of managers who continue to hold money by virtue of sub-paragraph (1).
+
+(4) Where the managers have authority from the Mental Welfare Commission to hold and manage money and other property in excess of the aggregate value mentioned in section 39 they may do so in relation to the money and valuables of any person which they continue to hold under sub-paragraph (1).
+
+### Application of Act to persons who become guardians by virtue of this schedule
+
+**6** (1) For the purposes of their application to persons who have become guardians by virtue of this schedule, the following provisions shall have effect as modified or disapplied by this paragraph.
+
+(2) In section 67(2) the reference to the certificate of appointment issued under section 58 shall be construed as a reference to the order of the court appointing the person as curator bonis, tutor-dative, tutor-at-law or guardian under the 1984 Act, as the case may be.
+
+(3) Section 60 shall apply to a person who has become a guardian to an adult by virtue of this schedule and who was a curator bonis, tutor dative or tutor-at-law to that adult; and, for the purpose of that application, for the reference in section 60(1) to a period in respect of which a guardianship order has been made or renewed there shall be substituted a reference
+
+[[^F193](a) in the case of a curator bonis who, under paragraph 1(2), became guardian to a person on the person attaining the age of 16 years, to the period of 2 years from the later of the following dates—
+
+(i) the date on which section 60(17) (which amends this paragraph) of the Adult Support and Protection (Scotland) Act 2007 (asp 10) came into force;
+
+(ii) the date on which the person attained the age of 16 years,
+
+(b) in any other case, to the period of 2 years from the date on which section 60(17) (which amends this paragraph) of the Adult Support and Protection (Scotland) Act 2007 (asp 10) came into force.]
+
+[[^F194](3A) A person who has become a guardian to an adult by virtue of this schedule and who was a curator bonis, tutor dative or tutor-in-law to that adult shall cease to be authorised to act as that adult's guardian—
+
+(a) where the person does not apply for renewal of guardianship within the 2 year period set by sub-paragraph (3), on the expiry of that period;
+
+(b) where—
+
+(i) the person applies for such a renewal within that period; and
+
+(ii) the sheriff refuses the application,
+
+on the date of refusal;
+
+(c) where—
+
+(i) the person applies for such a renewal within that period; and
+
+(ii) the sheriff grants the application,
+
+in accordance with the provisions of this Act.
+
+(3B) Sub-paragraph (3A) does not prevent the authority of a guardian of the type mentioned in that sub-paragraph from being terminated (by virtue of the terms on which the guardian is authorised to act or sections 71, 73, 75 or 79A) earlier than the date on which it would otherwise terminate by operation of that sub-paragraph.
+
+(3C) Where—
+
+(a) a person (“G”) who was a curator bonis, tutor dative or tutor-at-law to an adult becomes the adult's guardian by virtue of this schedule; and
+
+(b) another person is appointed under section 62 as an additional guardian to the adult before G's appointment as guardian has been renewed in accordance with the provisions of this Act,
+
+subsection (3A) applies in relation to the additional guardian as it applies in relation to G.
+
+(3D) The Public Guardian must take reasonable steps to give notice of the effect of sub-paragraph (3A) to any person who—
+
+(a) is a guardian to an adult by virtue of this schedule;
+
+(b) was a curator bonis to that adult; and
+
+(c) has not applied for renewal of guardianship.
+
+(3E) A local authority must take reasonable steps to give notice of the effect of sub-paragraph (3A) to any person who—
+
+(a) is a guardian to an adult residing within the local authority's area by virtue of this schedule;
+
+(b) was a tutor dative or tutor-in-law to that adult; and
+
+(c) has not applied for renewal of guardianship.]
+
+(4) Section 60 shall not apply to a person who has become a guardian to an adult by virtue of this schedule and who was a guardian of that adult under the 1984 Act, in which case the powers shall continue until such time as they would have continued had he not become a guardian by virtue of this schedule to this Act.
+
+(5) In sections 68(2) and (3) and 76 the references to the chief social work officer of the local authority shall be construed as including references to the local authority.
+
+(6) Schedule 2 shall apply only—
+
+(a) in a case where; and
+
+(b) to the extent that,
+
+the Public Guardian has determined that it should apply.
+
+(7) Any determination by the Public Guardian under sub-paragraph (6), or a decision by him not to make such a determination, may be appealed to the sheriff, whose decision shall be final.
+
+(8) No reference in this Act to registration shall have effect in relation to any person who becomes a guardian by virtue of this schedule.
+
+### Transitional Provisions
+
+**7** Until Part 6 comes into force—
+
+(a) the references in section 23(1)(c) to a guardian shall be omitted;
+
+(b) in section 31(7), the reference in paragraph (a) to the appointment of a guardian shall be construed as a reference to the appointment of a curator bonis or tutor-dative or tutor-at-law with powers relating to the funds or accounts in question and paragraph (b) shall be omitted;
+
+(c) in section 34(1), the reference in paragraph (a) to a guardian shall be construed as a reference to a curator bonis or tutor-dative or tutor-at-law with powers relating to the funds or account in question and paragraph (b) shall be omitted;
+
+(d) in section 46(1), the reference in paragraph (a) to a guardian shall be construed as a reference to a curator bonis or tutor-dative or tutor-at-law with powers relating to the matter and paragraph (b) shall be omitted.
+
+### Interpretation
+
+**8** In this schedule the “relevant date” in relation to any paragraph in which it appears means the date of coming into force of that paragraph.
+
+## SCHEDULE 5 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+**(introduced by section 88(2))**
+
+### General
+
+**1** With effect from the commencement of this paragraph any reference in any enactment or document to a curator bonis or a tutor or curator of a person of or over the age of 16 years shall be construed as a reference to a guardian with similar powers appointed to that person under this Act.
+
+### Defence Act 1842 (c.94)
+
+**2** (1) In section 15 of the Defence Act 1842—
+
+(a) after “nonage" in both places there shall be inserted “ or mental incapacity ”;
+
+(b) “or not of whole mind" shall be repealed;
+
+(c) for “out of prison, within this land, or of whole mind" there shall be substituted “ within this land ”.
+
+(2) In section 27 of that Act for “lunacy" there shall be substituted “ mental incapacity ”.
+
+### Judicial Factors Act 1849 (c.51)
+
+**3** In section 34A of the Judicial Factors Act 1849 for “recovery, death or coming of age of the ward" there shall be substituted “ coming to an end of the situation giving rise to it ”.
+
+### Improvement of Land Act 1864 (c.114) (prospective)
+
+**4** [^F195]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Titles to Land (Consolidation) (Scotland) Act 1868 (c.101)
+
+**5** (1) In section 24 of the Titles to Land (Consolidation) (Scotland) Act 1868 for “mental disorder within the meaning of the Mental Health (Scotland) Act 1960" there shall be substituted “ mental or other incapacity ”.
+
+(2) In section 62 of that Act for “of insane mind" there shall be substituted “ mental or other incapacity ”.
+
+### Judicial Factors (Scotland) Act 1889 (c.39)
+
+**6** (1) In section 2 of the Judicial Factors (Scotland) Act 1889 at the beginning there shall be inserted “Without prejudice to section 6(1) of the Adults with Incapacity (Scotland) Act 2000 (asp 4) (Accountant of Court to be Public Guardian)".
+
+(2) In section 6 of that Act, in the proviso, after “apply to" there shall be inserted “ guardians appointed under the Adults with Incapacity (Scotland) Act 2000 (asp 4), to ”.
+
+### Heritable Securities (Scotland) Act 1894 (c.44)
+
+**7** In section 13 of the Heritable Securities (Scotland) Act 1894—
+
+(a) after “(b) trustees" there shall be inserted—
+
+> (c) the person entitled to act as the legal representative of any such person
+
+;
+
+(b) “tutors, curators," shall be repealed.
+
+### National Assistance Act 1948 (c.29)
+
+**8** In section 49 of the National Assistance Act 1948 as it applies to Scotland—
+
+(a) immediately before “the council" where last occurring there shall be inserted “ or applies for an intervention order or for appointment as a guardian under the Adults with Incapacity (Scotland) Act 2000 (asp 4) ”;
+
+(b) immediately before “in so far as" there shall be inserted “ or his functions under the intervention order or as guardian ”.
+
+### Offices, Shops and Railway Premises Act 1963 (c.41)
+
+**9** In section 90(1) of the Offices, Shops and Railway Premises Act 1963 in the definition of “owner" for “, tutor or curator" there shall be substituted “ or person entitled to act as legal representative of a person under disability by reason of nonage or mental or other incapacity ”.
+
+**10** [^F196]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** [^F197]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Medicines Act 1968 (c.67)
+
+**12** In section 72 of the Medicines Act 1968—
+
+(a) in subsection (1) for “curator bonis" there shall be substituted “ guardian ”;
+
+(b) in subsections (3)(d) and (4)(c) “curator bonis," shall be repealed.
+
+### Sheriff Courts (Scotland) Act 1971 (c.58)
+
+**13** In section 32(1) of the Sheriff Courts (Scotland) Act 1971 after paragraph (j) there shall be inserted—
+
+> (k) prescribing the procedure to be followed in appointing a person under section 3(4) of the Adults with Incapacity (Scotland) Act 2000 (asp 4) and the functions of such a person.
+
+.
+
+### Land Registration (Scotland) Act 1979 (c.33)
+
+**14** In section 12(3) of the Land Registration (Scotland) Act 1979 after paragraph (k) there shall be inserted—
+
+> (kk) the loss is suffered by an adult within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4) because of the operation of sections 22, 49, 60, 70 or 71A of that Act, or by any person who acquires any right, title or interest from that adult;
+
+.
+
+### Solicitors (Scotland) Act 1980 (c.46)
+
+**15** In section 18(1) of the Solicitors (Scotland) Act 1980—
+
+(a) in paragraph (a) “or becomes subject to guardianship" shall be repealed;
+
+(b) for paragraph (b) there shall be substituted—
+
+> (b) a guardian is appointed to a solicitor under the Adults with Incapacity (Scotland) Act 2000 (asp 4);
+
+.
+
+### Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c.55)
+
+**16** In group C of Part I of Schedule 1 to the Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 for paragraphs (b) and (c) there shall be substituted—
+
+> (b) persons for the time being subject to guardianship under the Adults with Incapacity (Scotland) Act 2000 (asp 4).
+
+.
+
+### Mental Health (Scotland) Act 1984 (c.36)
+
+**17** (1) In section 3 of the Mental Health (Scotland) Act 1984—
+
+(a) in subsection (1) “guardianship or” shall be repealed;
+
+(b) in subsection (2) in paragraph (b) “or who are subject to guardianship” shall be repealed.
+
+(2) In section 5(2) of that Act “and the guardian of any person subject to guardianship under this Act” shall be repealed.
+
+(3) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(15) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(16) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(17) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(18) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(19) [^F199]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(20) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(21) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(22) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(23) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(24) [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Insolvency Act 1986 (c.45)
+
+**18** In section 390(4)(c) of the Insolvency Act 1986 at the end there shall be added “or has had a guardian appointed to him under the Adults with Incapacity (Scotland) Act 2000 (asp 4).".
+
+### Legal Aid (Scotland) Act 1986 (c.47)
+
+**19** In section 36(3) of the Legal Aid (Scotland) Act 1986, after paragraph (b) there shall be inserted—
+
+> (bb) is concerned as claiming or having an interest in the property, financial affairs or personal welfare of an adult under the Adults with Incapacity (Scotland) Act 2000 (asp 4);
+
+.
+
+### Financial Services Act 1986 (c.60)
+
+**20** In section 45(1)(d) of the Financial Services Act 1986 at the end there shall be added “or when acting in the exercise of his functions as Public Guardian under the Adults with Incapacity (Scotland) Act 2000 (asp 4);".
+
+### Access to Health Records Act 1990 (c.23)
+
+**21** In section 3 of the Access to Health Records Act 1990, in subsection (3) after paragraph (e) there shall be inserted—
+
+> (ee) where the record is held in Scotland and the patient is incapable, within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4) in relation to making or authorising the application, any person entitled to act on behalf of the patient under that Act.
+
+.
+
+### Child Support Act 1991 (c.48)
+
+**22** In section 50 of the Child Support Act 1991 in subsection (8)(c) for paragraphs (i) and (ii) there shall be substituted “a guardian or other person entitled to act on behalf of the person under the Adults with Incapacity (Scotland) Act 2000 (asp 4).".
+
+### Social Security Administration Act 1992 (c.5)
+
+**23** In section 123 of the Social Security Administration Act 1992 in subsection (10)(c) for paragraphs (i) and (ii) there shall be substituted “a guardian or other person entitled to act on behalf of the person under the Adults with Incapacity (Scotland) Act 2000 (asp 4).".
+
+### Health Service Commissioners Act 1993 (c.46)
+
+**24** In section 7A of the Health Service Commissioners Act 1993 after “patients)" there shall be inserted “ or ”, “or 50 (orders discharging patients from guardianship)" shall be repealed, and at the end there shall be inserted “ or section 73 of the Adults with Incapacity (Scotland) Act 2000 (asp 4) ”.
+
+### Clean Air Act 1993 (c.11)
+
+**25** In section 64 of the Clean Air Act 1993 in subsection (1) in the definition of “owner" for “tutor or curator" there shall be substituted “ or person entitled to act as the legal representative of a person under disability by reason of nonage or mental or other incapacity ”.
+
+### Criminal Procedure (Scotland) Act 1995 (c.46)
+
+**26** (1) In section 57 of the Criminal Procedure (Scotland) Act 1995—
+
+(a) in subsection (2)(c) for first “person" there shall be substituted “ person’s personal welfare ”;
+
+(b) in subsection (4) after “58(1)," there shall be inserted “ 58(1A), ”;
+
+(c) at the end there shall be added—
+
+> (6) Section 58A of this Act shall have effect as regards guardianship orders made under subsection (2)(c) of this section.
+
+.
+
+(2) In section 58 of that Act—
+
+(a) for subsection (1) there shall be substituted—
+
+> (1) Where a person is convicted in the High Court or the sheriff court of an offence, other than an offence the sentence for which is fixed by law, punishable by that court with imprisonment, and the court—
+>
+> (a) is satisfied on the written or oral evidence of two medical practitioners (complying with section 61 of this Act) that the grounds set out in section 17(1) of the Mental Health (Scotland) Act 1984 apply in relation to the offender;
+>
+> (b) is of the opinion, having regard to all the circumstances including the nature of the offence and the character and antecedents of the offender and to the other available methods of dealing with him, that the most suitable method of disposing of the case is by means of an order under this subsection,
+>
+> the court may, subject to subsection (2) below, by order authorise his admission to and detention in such hospital as may be specified in the order.
+>
+> (1A) Where a person is convicted as mentioned in subsection (1) above and the court is satisfied—
+>
+> (a) on the evidence of two medical practitioners (complying with section 61 of this Act and with any requirements imposed under section 57(3) of the Adults with Incapacity (Scotland) Act 2000 (asp 4)) that the grounds set out in section 58(1)(a) of that Act apply in relation to the offender;
+>
+> (b) that no other means provided by or under this Act would be sufficient to enable the offender’s interests in his personal welfare to be safeguarded or promoted,
+>
+> the court may, subject to subsection (2) below, by order place the offender’s personal welfare under the guardianship of such local authority or of such other person approved by a local authority as may be specified in the order.
+
+;
+
+(b) in subsections (2), (3) and (10) for “subsection (1)" there shall be substituted “ subsection (1) or (1A) ”;
+
+(c) in subsections (5) and (7) after “subsection (1)" there shall be inserted “ or paragraph (a) of subsection (1A), ”;
+
+(d) for subsection (6) there shall be substituted—
+
+> (6) An order placing a person under the guardianship of a local authority or of any other person (in this Act referred to as “a guardianship order”) shall not be made under this section unless the court is satisfied—
+>
+> (a) on the report of a mental health officer (complying with any requirements imposed by section 57(3) of the Adults with Incapacity (Scotland) Act 2000 (asp 4)) giving his opinion as to the general appropriateness of the order sought, based on an interview and assessment of the person carried out not more than 30 days before it makes the order, that it is necessary in the interests of the personal welfare of the person that he should be placed under guardianship;
+>
+> (b) that any person nominated to be appointed a guardian is suitable to be so appointed;
+>
+> (c) that the authority or person is willing to receive that person into guardianship; and
+>
+> (d) that there is no other guardianship order, under this Act or the Adults with Incapacity (Scotland) Act 2000 (asp 4), in force relating to the person.
+
+;
+
+(e) at the end there shall be added—
+
+> (11) Section 58A of this Act shall have effect as regards guardianship orders made under subsection (1) of this section.
+
+.
+
+(3) After section [[^F200]60A] of that Act there shall be inserted—
+
+> **Intervention orders**
+>
+> **[[^F201]60B]** The court may instead of making a hospital order under section 58(1) of this Act or a guardianship order under section 57(2)(c) or 58(1A) of this Act, make an intervention order [[^F202](as defined in section 53(1) of the Adults with Incapacity (Scotland) Act 2000 (asp 4)] where it considers that it would be appropriate to do so.
+
+.
+
+(4) [^F203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — REPEALS
+
+**(introduced by section 88(3))**
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of Repeal* |
+| Curators Act 1585 (c.25(S)) | The whole Act. |
+| Judicial Factors Act 1849 (12 & 13 Vict. c.51) | In section 1, “and curator bonis" and the words from “the word “tutor"" to “Act 1960" where second occurring. |
+|  | In section 7, the words from “and if any factor" to “not subject to appeal". |
+|  | In section 10, “tutors and curators". |
+|  | Section 25(1). |
+|  | Section 26. |
+|  | In section 27, “or Court of Exchequer, as the case may be," and “tutors and curators". |
+|  | Section 28. |
+|  | In section 31, “tutor or curator" and “or curator bonis". |
+|  | In section 32, “tutor or curator". |
+|  | In section 33, “tutor or curator". |
+|  | In section 34, “tutor, or curator". |
+|  | In section 34A, “tutors and curators" and “tutory or curatory". |
+|  | In section 36, “tutories, and curatories". |
+|  | In section 37, “tutor, or curator". |
+|  | In section 40, the words from “and the manner of applying" to “curators" where first occurring and “tutors, and curators,". |
+| Improvement of Land Act 1864 (27 & 28 Vict. c.114) | In section 24, “tutors,", “curators,", “tutor," and “curator,". |
+| Titles to Land (Consolidation) (Scotland) Act 1868 (31 & 32 Vict. c.101) | In section 3 in the definition of “judicial factor", “or curators bonis". |
+| Judicial Factors (Scotland) Act 1880 (43 & 44 Vict. c.4) | In section 3, “a curator bonis". |
+| Judicial Factors (Scotland) Act 1889 (52 & 53 Vict. c.39) | In section 13, “tutor, curator" in both places. |
+| Heritable Securities (Scotland) Act 1894 (57 & 58 Vict. c.44) | In section 13, “tutors, curators". |
+| Trusts (Scotland) Act 1921 (11 & 12 Geo.5 c.58) | In section 2 in each of the definitions of “trust" and “trust deed" the words “tutor, curator, guardian or" and in the definition of “trustee" the words “tutor, curator, guardian"; in the definition of “judicial factor" the words “or curator"; the definitions of “curator", “tutor" and “guardian". |
+| U.S.A. Veterans’ Pensions Act 1949 (12 & 13 Geo.6 c.45) | In section 1(4), “tutor, factor loco tutoris," and “curator bonis or". |
+| Medicines Act 1968 (c.67) | In section 72(3)(d) and (4)(c), “curator bonis,". |
+| Solicitors (Scotland) Act 1980 (c.46) | In section 18(1)(a), “or becomes subject to guardianship". |
+| Mental Health Act 1983 (c.20) | In section 110, in subsection (1) “curator bonis, tutor or"; in subsection (2) “curator bonis, tutor, or". |
+| Mental Health (Scotland) Act 1984 (c.36) | In section 3 in subsection (1) “guardianship or"; in subsection (2)(b), “or who are subject to guardianship". |
+|  | In section 5(2) “or subject to guardianship under the following provisions of this Act". |
+|  | In section 7(1)(b), “under the following provisions of this Act". |
+|  | In section 10(1)(b) “the following provisions of this Act or under". |
+|  | In section 29 in subsection (1), paragraphs (b) and (c) and “or" which precedes them; in subsection (2), “or, as the case may be, by the local authority concerned"; in subsection (3), paragraph (b). |
+|  | Sections 36 to 52. |
+|  | In section 53(3), “or his reception into guardianship". |
+|  | Section 55(3). |
+|  | In section 57(4), “or subject to guardianship" and “or so subject" wherever occurring. |
+|  | In section 59, subsections (1)(b) and (2) and in subsection (3), “or 44". |
+|  | Section 61. |
+|  | In section 76(1) paragraph (b) and “, a guardianship order". |
+|  | In section 77, in subsection (1) “or subject to guardianship" and “or, as the case may be, for receiving him into guardianship"; subsection (3). |
+|  | In section 78, in subsection (1), “or reception into guardianship"; in subsection (2), “or his reception into guardianship". |
+|  | In section 80(1), “or subject to guardianship" and “or, as the case may be, for receiving him into guardianship". |
+|  | Section 84(4). |
+|  | In section 87(1), “or subject to guardianship" and “or placed under guardianship." |
+|  | In section 92, subsection (1) and in subsection (2)(a), “or subject to guardianship thereunder". |
+|  | Sections 93 and 94. |
+|  | In section 105(2), “subject to his guardianship under this Act or otherwise". |
+|  | In section 107(1)(b), “subject to his guardianship under this Act or is otherwise". |
+|  | In section 108(1)(a), “or being subject to guardianship". |
+|  | In section 110 in subsection (1), “, or in the case of a patient subject to guardianship, the local authority concerned", “or subject to guardianship", “or guardianship" in both places, “or his reception into guardianship"; in subsection (4), “or, as the case may be, the local authority concerned in relation to a patient subject to guardianship as aforesaid". |
+|  | In section 112, “or his reception into guardianship". |
+|  | In section 113(1), “or for reception into guardianship". |
+|  | In section 119, “guardianship under this Act". |
+|  | In section 121 in subsection (1)(b), “or subject to guardianship", “or 44"; in subsection (2), “or subject to guardianship", “or 44", “and subsection (2) of the said section 44"; in subsection (6), the words from “(in the case of" where first occurring to “guardianship)", “or section 44", “respectively", “or the said section 44 (as the case may be)". |
+|  | In section 125 in subsection (4), “or subject to guardianship"; in subsection (5), “or received, or liable to be received, into guardianship", “(other than under Part V thereof)", “or received or liable to be received into guardianship". |
+| Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c.40) | Section 71. |
+| Criminal Procedure (Scotland) Act 1995 (c.46) | In section 59(2), “or section 39". |
+|  | In section 61(1), “or section 39". |
+|  | In section 230(1), “or 39". |
+|  | In schedule 4, in paragraph 2(1)(b), “or 39". |
+
+---
+
+[^F1]: Words in s. 1(4)(b) inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 2 {Sch. 1 para. 28(2)}
+[^F2]: S. 3(5A)(5B) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007, {ss. 55}, 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F3]: Words in s. 4(1) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 56(2)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F4]: Words in s. 4(1) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 56(2)(b), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F5]: Words in s. 4(1) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 56(2)(c), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F6]: Words in s. 4(3) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 56(3), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F7]: S. 4(3A)(3B) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 56(4), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F8]: S. 4(4) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 56(5), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F9]: Words in s. 6(2)(b)(iii) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(a); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F10]: S. 6(2)(da) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 67, 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F11]: S. 6(4) inserted (1.4.2015) by The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157), art. 1(1), sch. para. 4(2)
+[^F12]: Words in s. 9(1) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(3), Sch. 5; S.S.I. 2005/161, art. 3
+[^F13]: S. 9(1)(a)(b)(e)(f) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(3), Sch. 5; S.S.I. 2005/161, art. 3
+[^F14]: S. 9(4)(5) inserted (1.4.2015) by The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157), art. 1(1), sch. para. 4(3)
+[^F15]: Words in s. 12(1)(b) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(2)-(4), Sch. 5; S.S.I. 2005/161, art. 3
+[^F16]: S. 15(3)(ba) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(1)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F17]: Words in s. 15(3)(c) substituted (5.10.2007) by virtue of Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(1)(b)(i), 79; S.S.I. 2007/334, art. 2(b), Sch. 2
+[^F18]: Words in s. 15(3)(c)(ii) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(1)(b)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F19]: Word in s. 15(3)(c)(ii) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(1)(b)(iii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F20]: Words in s. 15(4) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(1)(c), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F21]: S. 15(5) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(1)(d), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F22]: S. 16(3)(ba) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(2)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F23]: Words in s. 16(3)(c) substituted (5.10.2007) by virtue of Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(2)(b)(i), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F24]: Words in s. 16(3)(c)(ii) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(2)(b)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F25]: Word in s. 16(3)(c)(ii) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(2)(b)(iii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F26]: Words in s. 16(4) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(2)(c), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F27]: Word in s. 16(6)(a) repealed (1.9.2006) by Human Tissue (Scotland) Act 2006 (asp 4), ss. 57(2)(a), 62; S.S.I. 2006/251, art. 3
+[^F28]: Words in s. 16(6)(b) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(2)(d), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F29]: S. 16(6)(c)-(e) and preceding word inserted (1.9.2006) by Human Tissue (Scotland) Act 2006 (asp 4), ss. 57(2)(b), 62; S.S.I. 2006/251, art. 3
+[^F30]: Word in s. 16(6)(d) inserted (26.3.2021) by Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11), ss. 28(2)(a)(i), 29(2); S.S.I. 2021/108, reg. 2
+[^F31]: S. 16(6)(da)-(dc) inserted (26.3.2021) by Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11), ss. 28(2)(a)(ii), 29(2); S.S.I. 2021/108, reg. 2
+[^F32]: S. 16A inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(3), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F33]: Words in s. 19(2)(c) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(4)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F34]: Word in s. 19(5) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(4)(b)(i), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F35]: S. 19(5)(c)(d) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(4)(b)(ii), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F36]: S. 19A inserted (31.10.2008) by Adults with Incapacity (Electronic Communications) (Scotland) Order 2008 (S.S.I. 2008/380), arts. 1(1), 2
+[^F37]: Words in s. 20(3)(b)(iii) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(5), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F38]: Words in s. 22 repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10) {ss. 57(6)}, 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F39]: Words in s. 22 repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10) {ss. 57(6)}, 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F40]: S. 22A inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(7), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F41]: Words in s. 23(3) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(8), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F42]: S. 24(1A) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 36(a), 46(2); S.S.I. 2006/212, art. 2, (subject to arts. 3-13)
+[^F43]: Words in s. 24(4) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 36(b), 46(2); S.S.I. 2006/212, art. 2, (subject to arts. 3-13)
+[^F44]: Pt. 3 substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 58, 79(3); S.S.I. 2008/49, art. 2(1) (with arts. 3 4)
+[^F45]: S. 35(1)(a)-(e) substituted (1.4.2002) for s. 35(1)(a)-(g) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(2)(a); S.S.I. 2002/162, art. 2
+[^F46]: Words in s. 35(1)(b) inserted (2.12.2005) by The Adults with Incapacity (Management of Residents' Finances) (Scotland) Regulations 2005 (S.S.I. 2005/610), art. 2
+[^F47]: Words in s. 35(1)(b) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(2)-(4), Sch. 5; S.S.I. 2005/161, art. 3
+[^F48]: Words in s. 35(2) substituted (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(2)(b); S.S.I. 2002/162, art. 2
+[^F49]: Words in s. 35(3)(b) substituted (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(2)(c); S.S.I. 2002/162, art. 2
+[^F50]: Words in s. 35(3)(b) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(2)(a)
+[^F51]: Words in s. 35(3)(b) inserted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 5(2)(a)
+[^F52]: Words in s. 35(5) substituted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(2)-(4), Sch. 4 para. 9(2); S.S.I. 2005/161, art. 3
+[^F53]: S. 35(6) added (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(2)(d); S.S.I. 2002/162, art. 2
+[^F54]: Words in s. 35(6) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(2)(b)
+[^F55]: S. 35(6)(b) inserted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 5(2)(b)
+[^F56]: S. 36 repealed (1.4.2002) by 2001 asp 8, ss. 80(1), 81(2), Sch. 4; S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F57]: Words in s. 37(3) inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 2, Sch. 1 para. 28(4)(a)
+[^F58]: Words in s. 37(4)(a) inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 2 {Sch. 1 para. 28(4)(b)}
+[^F59]: S. 38 repealed (1.4.2002) by 2001 asp 8, ss. 80(1), 81(2), Sch. 4; S.S.I. 2002/162, art. 2 (subject to arts. 3-13); S. 38(4) expressed to be repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(2)-(4), Sch. 5; S.S.I. 2005/ 161, {art. 3}
+[^F60]: Words in s. 39(1)(a) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(b); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F61]: Words in s. 39(1)(a) substituted (29.4.2013) by The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137), regs. 1, 6(2)
+[^F62]: S. 40(1)(a)(b) substituted (1.4.2002) for words "from the beginning of the subsection to the end of paragraph (c)" by virtue of 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(3)(a); S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F63]: S. 40(1)(a) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(3)
+[^F64]: S. 40(1)(a)(ii) inserted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 5(3)
+[^F65]: Word in s. 40(2)(3) substituted (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(3)(b); S.S.I. 2002/162, art. 2
+[^F66]: Words in s. 40(4) substituted (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(3)(c); S.S.I. 2002/162, art. 2
+[^F67]: Words in s. 41(a) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(c); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F68]: Words in s. 41(a) substituted (29.4.2013) by The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137), regs. 1, 6(3)
+[^F69]: Words in s. 41(f) inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 2, Sch. 1 para. 28(5)
+[^F70]: Word in s. 45 substituted (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(4)(a); S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F71]: Words in s. 45 substituted (1.4.2002) for paras. (a) and (b) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(4)(b); S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F72]: S. 45(2) repealed (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(4)(c); S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F73]: Words in s. 45(3) repealed (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(4)(d); S.S.I. 2002/162, art. 2 (with arts. 3-13)
+[^F74]: Word in s. 45(6) substituted (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(4)(e); S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F75]: Words in s. 47(1) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(a)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F76]: Words in s. 47(1)(a) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(a)(ii), 43; S.S.I. 2002/492, art. 3(c)
+[^F77]: S. 47(1A) inserted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(b), 43; S.S.I. 2005/492, art. 3(c)
+[^F78]: Words in s. 47(2) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(2), 79, Sch. 2; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F79]: Words in s. 47(2) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(c)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F80]: Word in s. 47(2) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(2), 79, Sch. 2; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F81]: Words in s. 47(2) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(c)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F82]: S. 47(2A) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(d); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F83]: Words in s. 47(3) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(d)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F84]: Words in s. 47(3) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(d)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F85]: Words in s. 47(5)(a) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(e)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F86]: Words in s. 47(5)(b) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(e)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F87]: Words in s. 47(6) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(f)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F88]: Words in s. 47(6)(b) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(f)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F89]: S. 47(8) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(2), 79, Sch. 2; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F90]: S. 47(11) inserted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(2)(g), 43; S.S.I. 2005/492, art. 3(c)
+[^F91]: S. 48(1) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(2)-(4), Sch. 5; S.S.I. 2005/161, art. 3
+[^F92]: Words in s. 49(1) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(3)(a), 43; S.S.I. 2005/492, art. 3(c)
+[^F93]: Words in s. 49(1) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(3)(b), 43; S.S.I. 2005/492, art. 3(c)
+[^F94]: Words in s. 50(2)(b) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(a)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F95]: Words in s. 50(2)(c) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(a)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F96]: Words in s. 50(3) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(b)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F97]: Words in s. 50(3) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(b)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F98]: Words in s. 50(4) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(c)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F99]: Words in s. 50(4) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(c)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F100]: Words in s. 50(4) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(c)(iii), 43; S.S.I. 2005/492, art. 3(c)
+[^F101]: Words in s. 50(5) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(d)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F102]: Words in s. 50(5) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(d)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F103]: Words in s. 50(6) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(e)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F104]: Words in s. 50(6) inserted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(e)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F105]: Words in s. 50(9) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(f)(i), 43; S.S.I. 2005/492, art. 3(c)
+[^F106]: Words in s. 50(9) substituted (19.12.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), ss. 35(4)(f)(ii), 43; S.S.I. 2005/492, art. 3(c)
+[^F107]: Words in s. 51(2)(b) inserted (1.5.2004) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg. 54, Sch. 10 para. 21(a)
+[^F108]: S. 51(3A) inserted (1.5.2004) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg. 54, Sch. 10 para. 21(b)
+[^F109]: Word in s. 51(3A)(a) repealed (12.12.2006) by The Medicines for Human Use (Clinical Trials) Amendment (No.2) Regulations 2006 (S.I. 2006/2984), reg. 3(a)
+[^F110]: S. 51(3A)(c) inserted (12.12.2006) by The Medicines for Human Use (Clinical Trials) Amendment (No.2) Regulations 2006 (S.I. 2006/2984), reg. 3(b)
+[^F111]: S. 51(9) inserted (1.5.2004) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg. 54, Sch. 10 para. 21(c)
+[^F112]: Words in s. 53(4) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(1)(a), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F113]: Words in s. 53(7) repealed (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(1)(b)(i), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F114]: Words in s. 53(7) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(1)(b)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F115]: Word in s. 53(10) repealed (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(1)(c)(i), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F116]: S. 53(10)(aa) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(1)(c)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F117]: Words in s. 53(10)(b) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(1)(c)(iii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F118]: Words in s. 55 substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(2), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F119]: Words in s. 56(7) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 38(2) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F120]: S. 56A inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 59(3), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F121]: Words in s. 57(3)(a) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(1)(a), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F122]: Words in s. 57(3)(a) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(2)-(4), Sch. 5; S.S.I. 2005/161, art. 3
+[^F123]: S. 57(3A)(3B) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(1)(b), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F124]: Words in s. 57(6)(b) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(1)(c), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F125]: S. 57(6A)-(6C) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(1)(d), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F126]: S. 57(7) inserted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331, 333(2)-(4), Sch. 4 para. 9(4)(b); S.S.I. 2005/161, art. 3
+[^F127]: Word in s. 57(7) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(1)(e), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F128]: Words in s. 58(6) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(2)(a)(i), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F129]: Words in s. 58(6) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(2)(a)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F130]: Words in s. 58(7)(b) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(2)(b), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F131]: S. 60(3)(3A) substituted for s. 60(3) (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(3)(a), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F132]: S. 60(4A) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(3)(b), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F133]: Words in s. 61(3) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(4), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F134]: Words in s. 61(7) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 38(3) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F135]: Words in s. 62(5)(b) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(5), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F136]: Words in s. 63(5) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(6)(a)(i), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F137]: Words in s. 63(5) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(6)(a)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F138]: Words in s. 63(9)(b) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(6)(b), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F139]: Word in s. 64(2)(a) repealed (1.9.2006) by Human Tissue (Scotland) Act 2006 (asp 4), ss. 57(3)(a), 62; S.S.I. 2006/251, art. 3
+[^F140]: Words in s. 64(2)(b) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(7), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F141]: S. 64(2)(c)-(e) inserted (1.9.2006) by Human Tissue (Scotland) Act 2006 (asp 4), ss. 57(3)(b), 62; S.S.I. 2006/251, art. 3
+[^F142]: S. 64(2)(da)-(dc) inserted (26.3.2021) by Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11), ss. 28(2)(b)(ii), 29(2); S.S.I. 2021/108, reg. 2
+[^F143]: Word in s. 64(2)(d) inserted (26.3.2021) by Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11), ss. 28(2)(b)(i), 29(2); S.S.I. 2021/108, reg. 2
+[^F144]: Words in s. 66(3) inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 2, Sch. 1 para. 28(6)
+[^F145]: Words in s. 70(1) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(8)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F146]: Words in s. 70(1) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(8)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F147]: Words in s. 70(1) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(8)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F148]: S. 70(4A) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(8)(b), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F149]: Words in s. 71(2) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(9)(a)(i), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F150]: Words in s. 71(2) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(9)(a)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F151]: Words in s. 71(3)(b)(i) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(9)(b)(i), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F152]: Words in s. 71(3)(b)(ii) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(9)(b)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F153]: S. 72(1)(aa) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(10), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F154]: Words in s. 72(2) inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 2, Sch. 1 para. 28(7)
+[^F155]: Words in s. 73(3) repealed (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(11)(a), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F156]: S. 73(3A) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(11)(b), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F157]: Words in s. 73(5) inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 2, Sch. 1 para. 28(8)
+[^F158]: S. 73(11) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(11)(c), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F159]: S. 73A inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(12), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F160]: Words in s. 74(2) substituted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(13)(a)(i), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F161]: Words in s. 74(2) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(13)(a)(ii), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F162]: Words in s. 74(5)(c) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(13)(b), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F163]: Words in s. 75(3)(b) inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(14), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F164]: S. 75A inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(15), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F165]: S. 79A and crossheading inserted (1.4.2008) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(16), 79(3); S.S.I. 2008/49, art. 2(1)
+[^F166]: S. 81A inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 61, 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F167]: Words in s. 84(2) substituted (1.4.2002) by 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(5); S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F168]: Ss. 84A, 84B inserted (1.10.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 7 para. 18; S.I. 2009/2232, art. 2(y)
+[^F169]: S. 87(1): words in definition of "mental disorder" substituted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(2)-(4), Sch. 4 para. 9(5)(a); S.S.I. 2005/161, art. 3
+[^F170]: S. 87(1): definition of "mental health officer" inserted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(2)-(4), Sch. 4 para. 9(5)(b); S.S.I. 2005/161, art. 3
+[^F171]: S. 87(1): words in definition of "Mental Welfare Commission" substituted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(2)-(4), Sch. 4 para. 9(5)(c); S.S.I. 2005/161, art. 3
+[^F172]: S. 87(1): definition of "named person" inserted (27.9.2005) by The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/ 465), arts. 1, 2, {Sch. 1 para. 28(9)}
+[^F173]: S. 87(1): words in definition of "nearest relative" substituted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(2)-(4), Sch. 4 para. 9(5)(d); S.S.I. 2005/161, art. 3
+[^F174]: S. 87(1): definition of "practising solicitor" inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 57(9), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F175]: S. 87(1): definition of "the 2003 Act" inserted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(2)-(4), Sch. 4 para. 9(5)(e); S.S.I. 2005/161, art. 3
+[^F176]: S. 87(1A) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(e); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F177]: S. 87(2)(3) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(2)-(4), Sch. 5; S.S.I. 2005/161, art. 3; S. 87(2)(3) expressed to be repealed by Civil Partnership Act 2004 (c. 33), ss. 261(4), 263, Sch. 30; S.S.I. 2005/604, art. 2
+[^F178]: S. 87(2)(3) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(1), 333(2)-(4), Sch. 5; S.S.I. 2005/161, art. 3; S. 87(2)(3) expressed to be repealed by Civil Partnership Act 2004 (c. 33), ss. 261(4), 263, Sch. 30; S.S.I. 2005/604, art. 2
+[^F179]: Words in s. 87(4) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 16 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F180]: Sch. 1 para. 1(c)(ii) and following word repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(2), 333(2)-(4), Sch. 5 Pt. 1; S.S.I. 2005/161, art. 3
+[^F181]: Sch. 1: words in para. 1 substituted (1.4.2002) "for paragraphs (d) to (g)" by virtue of 2001 asp 8, ss. 79, 81(2), Sch. 3 para. 23(6); S.S.I. 2002/162, art. 2
+[^F182]: Words in sch. 1 para. 1(d)(i) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(4)(b)
+[^F183]: Words in sch. 1 para. 1 substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(4)(a)(i)
+[^F184]: Words in sch. 1 para. 1(d)(ii) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(4)(c)
+[^F185]: Words in sch. 1 para. 1(d)(iii) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(4)(d)
+[^F186]: Words in sch. 1 para. 1 substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 8(4)(a)(ii)
+[^F187]: Sch. 1 para. 1(e) and word inserted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 5(4)
+[^F188]: Words in Sch. 2 para. 5(2) substituted (1.12.2001) by S.I. 2001/3649, art. 235(2)
+[^F189]: Sch. 2 para. 5(2A) inserted (1.12.2001) by S.I. 2001/3649, art. 235(3)
+[^F190]: Words in Sch. 2 para. 6(2) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(f); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F191]: Word in Sch. 3 para. 3(3) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(g); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F192]: Sch. 4 para. 4(3)(4) substituted (5.10.2007) for Sch. 4 para. 4(3)-(6) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(1), 79, Sch. 1 para. 5(h); S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F193]: Words in Sch. 4 para. 6(3) substituted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(17)(a), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F194]: Sch. 4 para. 6(3A)-(3E) inserted (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 60(17)(b), 79; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F195]: Sch. 5 para. 4 repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(2), 79, Sch. 2; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)
+[^F196]: Sch. 5 para. 10 repealed (1.4.2002) by 2001 asp 8, ss. 80(1), 81(2), Sch. 4; S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F197]: Sch. 5 para. 11 repealed (1.4.2002) by 2001 asp 8, ss. 80(1), 81(2), Sch. 4; S.S.I. 2002/162, art. 2 (subject to arts. 3-13)
+[^F198]: Sch. 5 para. 17(3)-(24) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(2), 333(3), Sch. 5 Pt. 1; S.I. 2005/161, art. 3
+[^F199]: Sch. 5 para. 17(3)-(24) repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), ss. 331(2), 333(3), Sch. 5 Pt. 1; S.I. 2005/161, art. 3
+[^F200]: Words in Sch. 5 para. 26(3) substituted (1.10.2001) by 2001 asp 8, s. 79, Sch. 3 para. 23(7)(a); S.S.I. 2001/304, art. 2(b)(d)
+[^F201]: Word in Sch. 5 para. 26(3) substituted (1.10.2001) by 2001 asp 8, s. 79, Sch. 3 para. 23(7)(b); S.S.I. 2001/304, art. 2(b)(d)
+[^F202]: Words in Sch. 5 para. 26(3) inserted (1.10.2001) by 2001 asp 8, s. 79, Sch. 3 para. 23(7)(c); S.S.I. 2001/304, art. 2(b)(d)
+[^F203]: Sch. 5 para. 26(4) repealed (5.10.2007) by Adult Support and Protection (Scotland) Act 2007 (asp 10), ss. 77(2), 79, Sch. 2; S.S.I. 2007/334, art. 2(b), Sch. 2 (with savings in arts. 4-6)

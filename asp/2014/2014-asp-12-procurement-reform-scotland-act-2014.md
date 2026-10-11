@@ -1,0 +1,1195 @@
+---
+title: "Procurement Reform (Scotland) Act 2014"
+identifier: "asp/2014/12"
+citation: "2014 asp 12"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2014-06-17
+last_amended: 2026-03-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2014/12"
+source_modified: 2026-03-04
+retrieved: 2026-10-11
+---
+
+# Procurement Reform (Scotland) Act 2014
+
+**2014 asp 12**
+
+An Act of the Scottish Parliament to make provision about the procedures relating to the award of certain public contracts; to require certain authorities to produce procurement strategies and annual reports; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th May 2014 and received Royal Assent on 17th June 2014
+
+## Part 1 — Key concepts and application
+
+### Contracting authorities
+
+#### 1 Contracting authorities
+
+(1) For the purposes of this Act, a “contracting authority” is—
+
+(a) a body, office-holder or other person listed in [[^F1]schedule 1], or
+
+(b) any other person who is a contracting authority for the purposes of the Public Contracts Regulations and whose functions—
+
+(i) are exercisable in or as regards Scotland, and
+
+(ii) do not relate to reserved matters within the meaning of the Scotland Act 1998 (c.46).
+
+(2) The Scottish Ministers may by order modify the meaning of “contracting authority” for the purposes of this Act.
+
+(3) An order under subsection (2) may amend subsection (1) and [[^F2]schedule 1].
+
+### Regulated procurements
+
+#### 2 Regulated procurements
+
+For the purposes of this Act, a “regulated procurement” is—
+
+(a) any procedure carried out by a contracting authority in relation to the award of a proposed regulated contract including, in particular—
+
+(i) the seeking of offers in relation to the contract, and
+
+(ii) the selection of economic operators,
+
+(b) the award of a regulated contract by a contracting authority.
+
+### Regulated contracts
+
+#### 3 Regulated contracts
+
+(1) A contract is regulated if—
+
+(a) it is a public contract,
+
+(b) the estimated value of the contract (see section 5) is equal to or greater than the contract threshold, and
+
+(c) the contract is not an excluded contract (see section 4).
+
+(2) For the purposes of this Act, the contract threshold is as follows—
+
+|  |  |
+|---|---|
+| **Type of contract** | **Threshold** |
+| Public contract (other than a public works contract) | £50,000 |
+| Public works contract | £2,000,000 |
+
+(3) The Scottish Ministers may by order amend the table in subsection (2) so as to substitute for the figures specified there for the time being such other figures as they consider appropriate.
+
+#### 3A [[^F3]Regulation of procurement under cross-border arrangements
+
+(1) Subsection (2) applies where a contracting authority carries out procurement under a reserved procurement arrangement, a devolved Welsh procurement arrangement or a transferred Northern Ireland procurement arrangement.
+
+(2) The provisions of this Act specified in the table in schedule 2 do not apply to that procurement.
+
+(3) In this section “reserved procurement arrangement”, “devolved Welsh procurement arrangement” and “transferred Northern Ireland procurement arrangement” have the meaning given in section 114 of the Procurement Act 2023.]
+
+#### 4 Excluded contracts
+
+(1) A contract is an excluded contract for the purposes of section 3 if—
+
+(a) it is a contract of a kind [[^F4]to which Public Contracts Regulations do not apply by virtue of regulation 4 or 7 to 18 of those regulations],
+
+(b) the following conditions apply—
+
+(i) it is for the purpose of acquiring goods, works or services in order to sell, hire or provide them to other persons,
+
+(ii) the contracting authority will not have an exclusive right to sell, hire or provide the goods, works or services, and
+
+(iii) the conditions on which the contracting authority intends to sell, hire or provide them are the same as or similar to the conditions on which another person could sell, hire or provide the same or similar goods, works or services, or
+
+(c) the principal purpose of the contract is to acquire goods, works or services in connection with research or development undertaken by the contracting authority.
+
+(2) The Scottish Ministers may by regulations amend subsection (1) so as to modify the kinds of contracts which are or are not excluded contracts.
+
+#### 5 Estimated value of contract
+
+(1) For the purposes of this Act, the estimated value of a contract is the value of the total consideration (not including value added tax) which the contracting authority expects to be payable under or by virtue of the contract.
+
+(2) The Scottish Ministers may by regulations make further provision about how the estimated value of a contract is to be determined.
+
+### Framework agreements and dynamic purchasing systems
+
+#### 6 Framework agreements and call-off contracts
+
+(1) For the purposes of this Act—
+
+(a) a framework agreement is an agreement between one or more contracting authorities and one or more economic operators, the purpose of which is to establish the terms governing public contracts to be awarded during a given period, in particular with regard to price and, where appropriate, the quantity envisaged,
+
+(b) a call-off contract is a contract awarded under a framework agreement.
+
+(2) This Act applies to framework agreements and call-off contracts as follows—
+
+(a) a framework agreement is treated as a public contract for the purposes of section 3 (and references to “contract” elsewhere in this Act are to be construed accordingly),
+
+(b) the following provisions do not apply to a regulated procurement in so far as it relates to a call-off contract—
+
+(i) section 8(2),
+
+(ii) section 11,
+
+(iii) section 23(1),
+
+(iv) section 27.
+
+#### 7 Dynamic purchasing systems
+
+(1) The Scottish Ministers may by regulations make provision about dynamic purchasing systems including, in particular, provision—
+
+(a) applying this Act to the establishment and operation of a dynamic purchasing system as it applies to the carrying out of a regulated procurement with such modifications as the regulations may specify,
+
+(b) modifying the application of this Act to a contract awarded under a dynamic purchasing system.
+
+(2) For the purposes of subsection (1), a dynamic purchasing system is an electronic system—
+
+(a) established by a contracting authority to purchase goods, services or works which are—
+
+(i) commonly used by the authority, and
+
+(ii) readily available on the market, and
+
+(b) which is open to any economic operator who satisfies selection criteria specified by the contracting authority.
+
+## Part 2 — General duties and procurement strategies
+
+### General duties
+
+#### 8 General duties
+
+(1) A contracting authority must, in carrying out a regulated procurement—
+
+(a) treat relevant economic operators equally and without discrimination,
+
+(b) act in a transparent and proportionate manner.
+
+(2) A contracting authority must also comply with the sustainable procurement duty.
+
+(3) However, a contracting authority must not do anything in pursuance of subsection (2) that would conflict with its duty under subsection (1).
+
+[[^F5](4) A relevant economic operator is an economic operator who is a national of, or is established in, the United Kingdom or Gibraltar.]
+
+(5) Subsection (1) does not apply in relation to [[^F6]a higher value regulated procurement].
+
+#### 9 Sustainable procurement duty
+
+(1) For the purposes of this Act, the sustainable procurement duty is the duty of a contracting authority—
+
+(a) before carrying out a regulated procurement, to consider how in conducting the procurement process it can—
+
+(i) improve the economic, social, and environmental wellbeing of the authority's area,
+
+(ii) facilitate the involvement of small and medium enterprises, third sector bodies and supported businesses in the process, and
+
+(iii) promote innovation, and
+
+(b) in carrying out the procurement, to act with a view to securing such improvements identified as a result of paragraph (a)(i).
+
+(2) The contracting authority must consider under subsection (1) only matters that are relevant to what is proposed to be procured and, in doing so, consider the extent to which it is proportionate in all the circumstances to take those matters into account.
+
+(3) In this section—
+
+- “small and medium enterprises” means businesses with not more than 250 employees,
+- “third sector bodies” means organisations (other than bodies established under an enactment) that exist wholly or mainly to provide benefits for society or the environment.
+
+(4) In this section, references to the wellbeing of the authority's area include, in particular, reducing inequality in the area.
+
+#### 10 Guidance on sustainable procurement duty
+
+(1) The Scottish Ministers may publish guidance on the sustainable procurement duty.
+
+(2) Contracting authorities must have regard to any guidance published under this section.
+
+(3) The Scottish Ministers must lay a copy of any guidance published under this section before the Scottish Parliament.
+
+#### 11 Supported businesses
+
+(1) Despite section 8, a contracting authority may restrict participation in a regulated procurement (other than [[^F7]a higher value regulated procurement]) to supported businesses only.
+
+(2) Where a contracting authority restricts participation under subsection (1), it must state that fact in the contract notice.
+
+(3) For the purposes of this Act, a “supported business” is an economic operator who operates a supported business, [[^F8]or supported employment programme within the meaning of regulation 21] of the Public Contracts Regulations.
+
+#### 12 Contracts for health or social care services
+
+(1) Despite section 8, a contracting authority may award a contract for a health or social care service without seeking offers in relation to the proposed contract.
+
+(2) In relation to a regulated procurement where, by virtue of subsection (1), a contracting authority does not seek offers, section 23(1) does not apply.
+
+(3) The Scottish Ministers may by regulations make provision specifying what is a health or social care service for the purposes of subsection (1) and section 13(1).
+
+#### 13 Guidance on procurements for health or social care services
+
+(1) The Scottish Ministers must publish guidance on the carrying out of regulated procurements relating to contracts for health or social care services.
+
+(2) Contracting authorities must have regard to any guidance published under this section.
+
+(3) The Scottish Ministers must lay a copy of any guidance published under this section before the Scottish Parliament.
+
+#### 14 Other circumstances in which contract can be awarded without competition
+
+(1) The Scottish Ministers may by regulations specify circumstances in which a contracting authority may, despite section 8, award a regulated contract without seeking offers in relation to the proposed contract.
+
+(2) In relation to a regulated procurement where, by virtue of regulations made under subsection (1), a contracting authority does not seek offers, section 23(1) does not apply.
+
+### Procurement strategy and annual report
+
+#### 15 Procurement strategy
+
+(1) A contracting authority which expects to have significant procurement expenditure in the next financial year must, before the start of that year—
+
+(a) prepare a procurement strategy setting out how the authority intends to carry out regulated procurements, or
+
+(b) review its procurement strategy for the current financial year and make such revisions to it as the authority considers appropriate.
+
+(2) Subsection (3) applies where a contracting authority—
+
+(a) has not, in relation to a financial year, prepared or reviewed a strategy under subsection (1), and
+
+(b) becomes aware of the likelihood of having significant procurement expenditure during that year.
+
+(3) The contracting authority must, as soon as practicable after it becomes aware of the likelihood of having significant procurement expenditure—
+
+(a) prepare a procurement strategy setting out how the authority intends to carry out regulated procurements, or
+
+(b) review its most recent procurement strategy and make such revisions to it as the authority considers appropriate.
+
+(4) An authority has significant procurement expenditure in a year if the sum of the estimated values of the contracts to which its regulated procurements in that year relate is equal to or greater than £5,000,000.
+
+(5) The procurement strategy must, in particular—
+
+(a) set out how the authority intends to ensure that its regulated procurements will—
+
+(i) contribute to the carrying out of its functions and the achievement of its purposes,
+
+(ii) deliver value for money, and
+
+(iii) be carried out in compliance with its duties under section 8,
+
+(b) include a statement of the authority's general policy on—
+
+(i) the use of community benefit requirements,
+
+(ii) consulting and engaging with those affected by its procurements,
+
+(iii) the payment of a living wage to persons involved in producing, providing or constructing the subject matter of regulated procurements,
+
+(iv) promoting compliance by contractors and sub-contractors with the Health and Safety at Work etc. Act 1974 (c.37) and any provision made under that Act, and
+
+(v) the procurement of fairly and ethically traded goods and services,
+
+(c) include a statement of the authority's general policy on how it intends its approach to regulated procurements involving the provision of food to—
+
+(i) improve the health, wellbeing and education of communities in the authority's area, and
+
+(ii) promote the highest standards of animal welfare,
+
+(d) set out how the authority intends to ensure that, so far as reasonably practicable, the following payments are made no later than 30 days after the invoice (or similar claim) relating to the payment is presented—
+
+(i) payments due by the authority to a contractor,
+
+(ii) payments due by a contractor to a sub-contractor,
+
+(iii) payments due by a sub-contractor to a sub-contractor,
+
+(e) address such other matters as the Scottish Ministers may by order specify.
+
+(6) The Scottish Ministers may by order modify subsection (4) so as to substitute for the figure specified there for the time being such other figure as they consider appropriate.
+
+(7) In subsection (5)(b)(iii), a “living wage” means remuneration which is sufficient to ensure an acceptable standard of living.
+
+#### 16 Joint strategies
+
+A group of two or more contracting authorities may have a joint procurement strategy for both or, as the case may be, all of the authorities in the group.
+
+#### 17 Compliance with strategy
+
+A contracting authority which is required to prepare or review a procurement strategy in relation to a financial year must ensure that its regulated procurements in that year are, so far as reasonably practicable, carried out in accordance with its strategy.
+
+#### 18 Annual procurement reports
+
+(1) A contracting authority which is required to prepare or revise a procurement strategy in relation to a financial year must prepare an annual procurement report on its regulated procurement activities as soon as reasonably practicable after the end of that financial year.
+
+(2) The report must include—
+
+(a) a summary of the regulated procurements that have been completed during the year covered by the report,
+
+(b) a review of whether those procurements complied with the authority's procurement strategy,
+
+(c) to the extent that any regulated procurements did not comply, a statement of how the authority intends to ensure that future regulated procurements do comply,
+
+(d) a summary of any community benefit requirements imposed as part of a regulated procurement that were fulfilled during the year covered by the report,
+
+(e) a summary of any steps taken to facilitate the involvement of supported businesses in regulated procurements during the year covered by the report,
+
+(f) a summary of the regulated procurements the authority expects to commence in the next two financial years,
+
+(g) such other information as the Scottish Ministers may by order specify.
+
+(3) For the purposes of subsection (2)(a), a regulated procurement is completed when the award notice is published or when it otherwise comes to an end.
+
+#### 19 Publication etc.
+
+(1) A contracting authority must publish—
+
+(a) the procurement strategy prepared under section 15,
+
+(b) any revised strategy prepared under that section,
+
+(c) the annual procurement report prepared under section 18.
+
+(2) Publication is to be in such manner as the authority considers appropriate but must include publication on the internet.
+
+(3) On publishing a document under subsection (1), the authority must notify the Scottish Ministers.
+
+#### 20 Guidance
+
+(1) The Scottish Ministers must publish guidance on the preparation and publication of procurement strategies and annual procurement reports.
+
+(2) The guidance may, in particular, cover—
+
+(a) consultation to be undertaken in relation to the preparation of a strategy,
+
+(b) the form and content of strategies and reports,
+
+(c) the process by which an authority approves its strategy.
+
+(3) The guidance may include a model procurement strategy and model annual report.
+
+(4) Contracting authorities must have regard to any guidance published under this section.
+
+(5) The Scottish Ministers must lay a copy of any guidance published under this section before the Scottish Parliament.
+
+#### 21 Annual report on procurement activity in Scotland
+
+(1) As soon as reasonably practicable after the end of each financial year, the Scottish Ministers must prepare a report, based on information contained in annual procurement reports published under section 19(1) during that year, on procurement activity in Scotland.
+
+(2) The report must include information about—
+
+(a) regulated procurements that have been completed,
+
+(b) community benefit requirements that contracting authorities consider were fulfilled,
+
+(c) steps taken to facilitate the involvement of supported businesses in regulated procurements.
+
+(3) The report may also contain such other information as the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers must—
+
+(a) publish the report in such manner as they consider appropriate,
+
+(b) lay a copy of the report before the Scottish Parliament.
+
+## Part 3 — Specific duties
+
+### Publication of notices on Public Contracts website
+
+#### 22 Public Contracts website
+
+(1) The Scottish Ministers must establish and maintain a website (the “Public Contracts website”) for the purpose of publicising, in relation to regulated procurements—
+
+(a) the seeking of offers, and
+
+(b) the award of contracts.
+
+(2) The Scottish Ministers may use the Public Contracts website for such other purposes as they consider appropriate.
+
+#### 23 Publication of contract notices and award notices
+
+(1) A contracting authority must publicise its intention to seek offers as part of a regulated procurement on the Public Contracts website.
+
+(2) A contracting authority must publicise the award of a contract under a regulated procurement on the Public Contracts website.
+
+(3) The Scottish Ministers may by regulations make further provision about publication under this section.
+
+(4) The regulations may, in particular, make provision—
+
+(a) requiring the duties under subsection (1) and (2) to be complied with within a specified period,
+
+(b) providing that, in relation to regulated procurements of a specified description—
+
+(i) the duty in subsection (1) or (2) need not be complied with, or
+
+(ii) the duty need only be complied with in specified circumstances,
+
+(c) specifying the information that must be publicised,
+
+(d) providing that a contracting authority may withhold information from publication in specified circumstances.
+
+(5) In subsection (4), “specified” means specified in the regulations.
+
+(6) In this Act—
+
+- “contract notice” means the information published in accordance with subsection (1),
+- “award notice” means the information published in accordance with subsection (2).
+
+### Community benefit requirements
+
+#### 24 Community benefit requirements
+
+For the purposes of this Act, a community benefit requirement is a contractual requirement imposed by a contracting authority—
+
+(a) relating to—
+
+(i) training and recruitment, or
+
+(ii) the availability of sub-contracting opportunities, or
+
+(b) which is otherwise intended to improve the economic, social or environmental wellbeing of the authority's area in a way additional to the main purpose of the contract in which the requirement is included.
+
+#### 25 Community benefit requirements in major contracts
+
+(1) This section applies where a contracting authority proposes to carry out a regulated procurement in relation to which the estimated value of the contract is equal to or greater than £4,000,000.
+
+(2) The contracting authority must, before carrying out the procurement, consider whether to impose community benefit requirements as part of the procurement.
+
+(3) The contracting authority must, in the contract notice relating to the procurement, include—
+
+(a) a summary of the community benefit requirements it intends to include in the contract, or
+
+(b) where it does not intend to include any such requirements, a statement of its reasons for not including any requirements.
+
+(4) Where community benefit requirements are included in a contract, the contracting authority must include in the award notice a statement of the benefits it considers will be derived from those requirements.
+
+(5) The Scottish Ministers may by order modify subsection (1) so as to substitute for the figure specified there for the time being such other figure as they consider appropriate.
+
+#### 26 Guidance on community benefit requirements
+
+(1) The Scottish Ministers may publish guidance on the use of community benefit requirements.
+
+(2) The guidance may, in particular, cover—
+
+(a) consultation that should take place before a contracting authority determines whether or not to include community benefit requirements in a contract to which section 25 applies,
+
+(b) the information that should be contained in a contract notice and award notice in relation to community benefit requirements,
+
+(c) the circumstances in which inclusion of community benefit requirements would or would not be appropriate.
+
+(3) Contracting authorities must have regard to any guidance published under this section.
+
+(4) The Scottish Ministers must lay a copy of any guidance published under this section before the Scottish Parliament.
+
+### Selection of tenderers and award of contracts
+
+#### 27 Exclusion of economic operators on grounds of criminal activity
+
+(1) The Scottish Ministers may by regulations require a contracting authority to exclude an economic operator from a regulated procurement (other than [[^F9]a higher value regulated procurement]) if any of the following have been convicted of an offence specified in the regulations—
+
+(a) the economic operator,
+
+(b) a director, secretary, office-holder, or partner of the economic operator, or
+
+(c) another person having powers of representation, decision-making or control in relation to the economic operator.
+
+(2) Regulations under this section may make provision—
+
+(a) specifying evidence that is to be conclusive in determining whether or not a person has been convicted of an offence,
+
+(b) specifying circumstances in which a contracting authority may award a contract to an economic operator despite being otherwise prohibited from doing so under the regulations.
+
+#### 28 Selection of tenderers
+
+(1) The Scottish Ministers may by regulations make further provision about the selection by contracting authorities of economic operators in relation to a regulated procurement (other than [[^F10]a higher value regulated procurement]) including, in particular, provision about—
+
+(a) the use of minimum standard requirements to assess the suitability of economic operators in relation to a regulated procurement,
+
+(b) the circumstances in which an economic operator may or may not be excluded on the basis of criteria specified in the regulations,
+
+(c) the procedure that is to be followed in determining whether or not to exclude an economic operator.
+
+(2) In subsection (1)(a), a minimum standard requirement is a requirement that an economic operator has a particular financial standing, technical ability or other characteristic.
+
+(3) Without prejudice to the generality of subsection (1)(b), criteria which may be specified in the regulations include—
+
+(a) that—
+
+(i) the economic operator,
+
+(ii) a director, secretary, office-holder or partner of the economic operator, or
+
+(iii) another person having powers of representation, decision-making or control in relation to the economic operator,
+
+has been convicted of an offence,
+
+(b) that the economic operator has failed to comply with—
+
+(i) an obligation in relation to the payment of tax, or
+
+(ii) another statutory duty (other than by committing an offence) specified in the regulations,
+
+(c) that the economic operator has committed an act of misconduct of a kind specified in the regulations,
+
+(d) that the economic operator has entered into an agreement with another economic operator aimed at distorting competition,
+
+(e) that the economic operator does not have a licence, possession of which is necessary to perform the contract,
+
+(f) that the economic operator is not a member of a regulatory body, membership of which is necessary to perform the contract,
+
+(g) that the economic operator has granted a trust deed for creditors or become otherwise apparently insolvent or is the subject of a petition presented for sequestration,
+
+(h) that a receiver or administrator has been appointed in relation to the economic operator,
+
+(i) that the economic operator's performance in relation to another regulated procurement was not satisfactory.
+
+(4) Regulations under this section may make provision specifying evidence that is to be conclusive in determining whether or not such criteria are met.
+
+#### 29 Guidance on selection of tenderers and award of contracts
+
+(1) The Scottish Ministers may publish guidance about the selection of economic operators and the award of contracts in relation to a regulated procurement.
+
+(2) The guidance may, in particular, cover—
+
+(a) the use of questionnaires in the assessment of the suitability of economic operators,
+
+(b) the matters relating to—
+
+(i) the recruitment, remuneration (including payment of a living wage) and other terms of engagement of persons involved in producing, providing or constructing the subject matter of the regulated procurement, and
+
+(ii) employee representation including trade union recognition,
+
+that are to be taken into account in assessing the suitability of an economic operator.
+
+(3) Contracting authorities must have regard to any guidance published under this section.
+
+(4) The Scottish Ministers must lay a copy of any guidance published under this section before the Scottish Parliament.
+
+(5) In subsection (2)(b), “living wage” has the same meaning as in section 15(5)(b)(iii).
+
+### Technical specifications
+
+#### 30 Technical specifications
+
+(1) The Scottish Ministers may by regulations make provision about the use of technical specifications in regulated procurements (other than [[^F11]higher value regulated procurements]).
+
+(2) In this section, a technical specification is a specification which defines required characteristics of—
+
+(a) goods, services or works,
+
+(b) the way in which the goods, services or works are to be produced, provided or constructed,
+
+(c) any process relating to another stage in the life cycle of the goods, services or works.
+
+(3) Regulations under this section may, in particular, make provision or further provision about—
+
+(a) the matters which are to be taken into account by contracting authorities in determining which technical specifications are to be imposed,
+
+(b) the extent to which technical specifications may—
+
+(i) be defined by reference to national or international standards or other similar specifications,
+
+(ii) include requirements based on the performance or functionality of the goods, services or works,
+
+(c) circumstances in which a contracting authority must treat a tender as complying with a technical specification,
+
+(d) the wording of technical specifications.
+
+### Charges for participation in procurement process
+
+#### 31 Charges for participation in procurement process
+
+A contracting authority must not charge an economic operator a fee for participating in any part of the process relating to a regulated procurement (including a fee to provide any document required to participate in that process).
+
+### Giving of reasons
+
+#### 32 Giving of reasons to unsuccessful participants
+
+(1) This section applies to a regulated procurement (other than [[^F12]a higher value regulated procurement]).
+
+(2) A contracting authority must, as soon as reasonably practicable after deciding to exclude an economic operator from participating in the procurement process at any stage before the economic operator has submitted a tender, notify its decision to the economic operator.
+
+(3) A notice under subsection (2) must include the following information—
+
+(a) the names of the economic operators who have not been so excluded,
+
+(b) the criteria used to exclude the economic operator in question,
+
+(c) the contracting authority's scoring (if any), against those criteria, of the economic operator.
+
+(4) A contracting authority must, as soon as reasonably practicable after deciding to award a contract, notify its decision to all unsuccessful tenderers.
+
+(5) A notice under subsection (4) must include the following information—
+
+(a) the name of the successful tenderer,
+
+(b) the criteria used to award the contract,
+
+(c) the contracting authority's scoring, against those criteria, of the unsuccessful tenderer and the successful tenderer.
+
+#### 33 Request for further information
+
+(1) The following persons may request further information in relation to a regulated procurement (other than [[^F13]a higher value regulated procurement])—
+
+(a) an economic operator who was excluded from participating in the procurement process before it submitted a tender,
+
+(b) an unsuccessful tenderer,
+
+(c) the successful tenderer.
+
+(2) The request must be—
+
+(a) in writing, and
+
+(b) made before the end of the period of 30 days beginning on—
+
+(i) in the case of a person mentioned in subsection (1)(a) or (b), the day the person received a notice under section 32,
+
+(ii) in the case of the successful tenderer, the day on which it was notified of the decision to award the contract.
+
+(3) The contracting authority must, before the end of the period of 30 days beginning on the day it receives the request, provide the relevant information.
+
+(4) The relevant information is—
+
+(a) in the case of an economic operator excluded from the participating in the procurement process, a summary of the reasons why the economic operator was excluded,
+
+(b) in the case of an unsuccessful tenderer—
+
+(i) a summary of the reasons why the tenderer was unsuccessful, and
+
+(ii) the characteristics and relative advantages of the successful tender,
+
+(c) in the case of the successful tenderer, a description of any improvements the contracting authority considers the tenderer could have made to its tender.
+
+#### 34 Withholding information
+
+Despite sections 32 and 33, the contracting authority may withhold information from a person if it considers that disclosure would—
+
+(a) impede law enforcement or otherwise be contrary to the public interest,
+
+(b) prejudice the commercial interests of any person, or
+
+(c) prejudice fair competition between economic operators.
+
+### Contracts register
+
+#### 35 Contracts register
+
+(1) A contracting authority must keep and maintain a register of contracts (a “contracts register”).
+
+(2) The contracts that must be registered are any contracts entered into as a result of a regulated procurement.
+
+(3) In relation to each contract, a contracts register must contain the following information—
+
+(a) the date of award,
+
+(b) the name of the contractor,
+
+(c) the subject matter,
+
+(d) the estimated value,
+
+(e) the start date,
+
+(f) the end date provided for in the contract (disregarding any option to extend the contract) or, where there is no date specified, a description of the circumstances in which the contract will end,
+
+(g) the duration of any period for which the contract can be extended.
+
+(4) The authority may delete an entry in its contracts register only after the contract to which it relates has expired or been terminated.
+
+(5) The authority must make the information contained in its contracts register publicly available on the internet and by such other means as it considers appropriate.
+
+(6) However, the authority may withhold an entry or part of an entry in the register if it considers that making it publicly available would—
+
+(a) impede law enforcement or otherwise be contrary to the public interest,
+
+(b) prejudice the commercial interests of any person, or
+
+(c) prejudice fair competition between economic operators.
+
+### Procurement of recycled and recyclable products etc.
+
+#### 36 Amendment of Climate Change (Scotland) Act 2009
+
+After section 82 of the Climate Change (Scotland) Act 2009 (asp 12) insert—
+
+> **82A Procurement of recycled and recyclable products etc.**
+>
+> (1) The Scottish Ministers may by regulations require specified contracting authorities to ensure that—
+>
+> (a) a specified proportion of the goods or works procured by or on behalf of the authorities, or
+>
+> (b) a specified proportion of the materials used in the production, provision or construction of goods, services or works so procured,
+>
+> fall within subsection (2).
+>
+> (2) Something falls within this subsection if—
+>
+> (a) it has been used already (including where it has been refurbished since that use),
+>
+> (b) it has been remanufactured, or
+>
+> (c) it is designed to be repaired, reused, refurbished, remanufactured or recycled.
+>
+> (3) The regulations may, in particular, make provision about—
+>
+> (a) the circumstances in which the requirement applies,
+>
+> (b) the kinds of things in relation to which the requirement applies,
+>
+> (c) how the specified proportions are to be determined,
+>
+> (d) the circumstances in which a person may apply to the Scottish Ministers to have the requirement disapplied,
+>
+> (e) subject to section 89—
+>
+> (i) the enforcement authority in relation to the regulations, and
+>
+> (ii) the functions of that authority,
+>
+> (f) the keeping of records and their production to the enforcement authority,
+>
+> (g) the enforcement of the duties imposed by the regulations,
+>
+> (h) offences in relation to failures to comply with requirements of the regulations.
+>
+> (4) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+>
+> (5) Persons to whom the regulations apply must have regard to any guidance given by—
+>
+> (a) the Scottish Ministers,
+>
+> (b) the enforcement authority,
+>
+> to them in relation to the requirements imposed by the regulations.
+>
+> (6) In this section—
+>
+> - “contracting authority” has the meaning given by section 1 of the Procurement Reform (Scotland) Act 2014,
+> - “specified” means specified in the regulations.
+
+.
+
+## Part 4 — Remedies
+
+### 37 Actionable duties
+
+(1) This section applies to a regulated procurement (other than [[^F14]a higher value regulated procurement]).
+
+(2) A relevant person may bring proceedings against a contracting authority if—
+
+(a) the person sought, seeks, or would have wished, to be the person to whom the regulated contract is awarded,
+
+(b) the contracting authority is not complying or has not complied with its duties imposed under or by virtue of section 8, 23, 27, 28, 29, 30, 31, 32 or, as the case may be, section 33, and
+
+(c) in consequence of that failure the relevant person suffers, or risks suffering, loss or damage.
+
+[[^F15](3) A relevant person is an economic operator who is a national of, or is established in, the United Kingdom or Gibraltar.]
+
+### 38 Procedure and time limits
+
+(1) Proceedings under section 37 may be brought in the sheriff court or the Court of Session.
+
+(2) Before bringing proceedings under section 37, the relevant person must notify the contracting authority of—
+
+(a) the failure by the contracting authority to comply with a duty mentioned in subsection (2)(b) of that section, and
+
+(b) the relevant person's intention to bring proceedings in respect of that failure to comply.
+
+(3) The relevant person must bring proceedings under section 37 before the end of—
+
+(a) the period of 30 days beginning with the day on which the relevant person first knew or ought to have known that grounds for beginning the proceedings had arisen, or
+
+(b) such longer period of up to 3 months from that day as the court considers appropriate.
+
+(4) A longer period may be fixed under subsection (3)(b) only if the court considers that there is good reason for doing so.
+
+### 39 Determination by the court
+
+(1) This section applies to the court in determining proceedings brought under section 37.
+
+(2) The court may by interim order suspend—
+
+(a) the procedure leading to the award of the regulated contract,
+
+(b) the implementation of any decision or action taken by a contracting authority in relation to that procedure.
+
+(3) In deciding whether to grant an interim order under subsection (2), the court must decide whether the negative consequences of such an order are likely to outweigh the benefits, having regard to the following considerations—
+
+(a) that decisions taken by a contracting authority must be reviewed effectively and, in particular, as rapidly as possible,
+
+(b) the probable consequences of an interim order for all interests likely to be harmed, and
+
+(c) the public interest.
+
+(4) The court may if satisfied that a decision or action of the contracting authority was in breach of a duty mentioned in section 37(2)(b), take one or more of the following steps—
+
+(a) order the setting aside of that decision or action,
+
+(b) order the contracting authority to amend any document,
+
+(c) award damages to the relevant person who has suffered loss or damage in consequence of the failure of the contracting authority to comply with its duty.
+
+(5) If the breach of the duty by the contracting authority is in relation to a regulated contract which has been entered into, the court may only make an award under section (4)(c).
+
+(6) Nothing in this section affects any power that the court may have by virtue of any other enactment or rule of law.
+
+### 40 Transfer of forum for proceedings to First-tier Tribunal
+
+The Scottish Ministers may by regulations modify sections 38 and 39 so that proceedings under section 37 may be brought before the First-tier Tribunal for Scotland instead of the sheriff court or Court of Session.
+
+## Part 5 — General
+
+### Interpretation
+
+#### 41 [[^F16]Public Contracts Regulations and Higher Value Regulated Procurements]
+
+(1) In this Act—
+
+[^F17]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) “the Public Contracts Regulations” means the [[^F18]Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/XX)], and
+
+(c) [[^F19]a “higher value regulated procurement”] is a regulated procurement to which the Public Contracts Regulations [[^F20]or section 115A of the Procurement Act 2023] apply [^F21]....
+
+(2) The Scottish Ministers may by order—
+
+[^F22]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) amend the definition of “the Public Contracts Regulations” so as to substitute for the regulations for the time being specified there such other instrument as they consider appropriate.
+
+(3) An order under subsection (2) may make such consequential modifications to subsection (1) and any other provision of this Act as the Scottish Ministers consider appropriate.
+
+#### 42 General interpretation
+
+(1) In this Act—
+
+- “award notice” has the meaning given in section 23(6),
+
+- “community benefit requirement” has the meaning given in section 24,
+
+- “contract notice” has the meaning given in section 23(6),
+
+- “contracting authority” has the meaning given in section 1,
+
+- “economic operator” means any person who offers the execution of works, the supply of products or the provision of services on the market,
+
+- “financial year” means the period of 12 months in respect of which the accounts of the contracting authority in question are prepared,
+
+- “public contract” [[^F23]means a contract for pecuniary interest concluded in writing between one or more economic operators and one or more contracting authorities and having as its object the execution of works, the supply of products or the provision of services]
+
+- “Public Contracts website” has the meaning given in section 22,
+
+- “public works contract” [[^F24]means a public contract having as its object one of the following—
+
+  - the execution or the design and execution of works related to one of the activities within the meaning of schedule 2 of the Public Contracts Regulations,
+  
+  - the execution or the design and execution of a work,
+  
+  - the realisation, by whatever means, of a work corresponding to the requirements specified by the contracting authority exercising a decisive influence on the type or design of the work,
+  
+    (except in a subsidised public works contract),]
+
+- “regulated procurement” has the meaning given in section 2.
+
+- [[^F25]“work” means the outcome of building or civil engineering works taken as a whole which is sufficient in itself to fulfil an economic or technical function.]
+
+(2) In this Act, a contracting authority's area is the area by reference to which the contracting authority primarily exercises its functions, disregarding any areas outside Scotland.
+
+### Final provisions
+
+#### 43 Ancillary provision
+
+(1) The Scottish Ministers may by order make such supplementary, incidental, consequential, transitional or transitory provision or savings as they consider necessary or expedient for the purposes of, or in connection with, any provision made by or under this Act.
+
+(2) An order under subsection (1) may modify any enactment (including this Act).
+
+#### 44 Subordinate legislation
+
+(1) Any power conferred by this Act on the Scottish Ministers to make an order or regulations includes the power to make—
+
+(a) different provision for different cases or descriptions of case or for different purposes,
+
+(b) such incidental, supplementary, consequential, transitional, transitory or saving provision as the Scottish Ministers consider necessary or expedient.
+
+(2) Orders or regulations made under the following provisions are subject to the affirmative procedure—
+
+(a) section 1(2),
+
+(b) section 3(3),
+
+(c) section 4(2),
+
+(d) section 7(1),
+
+(e) section 14(1),
+
+(f) section 15(6),
+
+(g) section 25(5),
+
+(h) section 40,
+
+(i) section 41(2),
+
+(j) section 43 (but only if the order adds to, replaces or omits any part of the text of an Act).
+
+(3) Any other orders or regulations made under this Act are subject to the negative procedure.
+
+(4) This section does not apply to an order under section 45(2).
+
+#### 45 Commencement
+
+(1) This section and sections 41, 42, 43, 44 and 46 come into force on the day of Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by order appoint.
+
+(3) An order under subsection (2) may contain such transitional, transitory or saving provision as the Scottish Ministers consider necessary or expedient.
+
+#### 46 Short title
+
+The short title of this Act is the Procurement Reform (Scotland) Act 2014.
+
+## SCHEDULE [[^F26]1] — Contracting authorities
+
+*(introduced by section 1)*
+
+### Part 1 — Scottish Administration and Scottish Parliament
+
+**1** Scottish Ministers
+
+**2** Scottish Parliamentary Corporate Body
+
+**3** Queen's and Lord Treasurer's Remembrancer
+
+**4** Keeper of the Records of Scotland
+
+**5** Keeper of the Registers of Scotland
+
+**6** Registrar General of Births, Deaths and Marriages for Scotland
+
+**7** Her Majesty's Inspectors of Constabulary
+
+**8** Her Majesty's Chief Inspector of Prisons for Scotland
+
+**9** Her Majesty's Inspector of Anatomy for Scotland
+
+**[[^F27]10** His Majesty’s Chief Inspector of Education in Scotland]
+
+**11** Office of the Scottish Charity Regulator
+
+**12** Procurators fiscal
+
+**13** Scottish Housing Regulator
+
+**[[^F28]13A** Revenue Scotland]
+
+**[[^F29]13B** Food Standards Scotland]
+
+**[[^F30]13C** Scottish Fiscal Commission]
+
+**[[^F31]13D** Consumer Scotland]
+
+**[[^F32]13E** Environmental Standards Scotland.]
+
+### Part 2 — Local government
+
+**14** A local authority
+
+**15** A joint board established by order under section 62A(1) or 62B(1) of the Local Government (Scotland) Act 1973 (c.65)
+
+### Part 3 — Others
+
+**16** Accounts Commission for Scotland
+
+**17** Architecture and Design Scotland
+
+**18** Audit Scotland
+
+**19** Auditor General for Scotland
+
+**20** Board of Trustees for the National Galleries of Scotland
+
+**21** Board of Trustees of the National Museums of Scotland
+
+**22** Board of Trustees of the Royal Botanic Garden, Edinburgh
+
+**23** Bòrd na Gàidhlig
+
+**[[^F33]23A** Boundaries Scotland]
+
+**24** Chief constable of the Police Service of Scotland
+
+**25** Children's Hearings Scotland
+
+**26** Commission for Ethical Standards in Public Life in Scotland
+
+**27** Commissioner for Children and Young People in Scotland
+
+**28** Common Services Agency for the Scottish Health Service
+
+**[[^F34]28A** Community Justice Scotland]
+
+**29** Creative Scotland
+
+**30** Crofting Commission
+
+**31** A Health Board (constituted under section 2(1)(a) of the National Health Service (Scotland) Act 1978 (c.29))
+
+**32** Healthcare Improvement Scotland
+
+**33** Her Majesty's Chief Inspector of Prosecution in Scotland
+
+**34** Highlands and Islands Enterprise
+
+**[[^F35]34A** Historic Environment Scotland.]
+
+**35** Lands Tribunal for Scotland
+
+**[^F36]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**37** Mental Welfare Commission for Scotland
+
+**38** National Library of Scotland
+
+**39** A National Park authority established by virtue of a designation order under section 6 of the National Parks (Scotland) Act 2000 (asp 10)
+
+**40** Parole Board for Scotland
+
+**[[^F37]40A** Patient Safety Commissioner for Scotland]
+
+**41** Police Investigations and Review Commissioner
+
+**42** Private rented housing panel
+
+**[[^F38]42ZA** Qualifications Scotland]
+
+**[[^F39]42A** Redress Scotland]
+
+**[^F40]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F41]43A** Scottish Biometrics Commissioner]
+
+**44** Scottish Children's Reporter Administration
+
+**45** Scottish Commission for Human Rights
+
+**46** Scottish Court Service
+
+**47** Scottish Criminal Cases Review Commission
+
+**48** Scottish Enterprise
+
+**49** Scottish Environment Protection Agency
+
+**50** Scottish Fire and Rescue Service
+
+**[[^F42]50A** The Scottish Food Commission]
+
+**51** Scottish Further and Higher Education Funding Council
+
+**52** Scottish Information Commissioner
+
+**53** Scottish Land Court
+
+**54** Scottish Law Commission
+
+**55** Scottish Legal Aid Board
+
+**56** Scottish Legal Complaints Commission
+
+**57** Scottish Natural Heritage
+
+**58** Scottish Police Authority
+
+**59** Scottish Public Services Ombudsman
+
+**[^F43]60** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**61** Scottish Road Works Commissioner
+
+**62** Scottish Social Services Council
+
+**63** Scottish Sports Council
+
+**64** Social Care and Social Work Improvement Scotland
+
+**65** A Special Health Board (constituted under section 2(1)(b) of the National Health Service (Scotland) Act 1978 (c.29))
+
+**66** Standards Commission for Scotland
+
+**67** The Skills Development Scotland Co. Ltd (registered number SC202659)
+
+**68** VisitScotland
+
+**69** Water Industry Commission for Scotland
+
+**[[^F44]70** Zero Waste Scotland]
+
+## [[^F45]Schedule 2 — Procurement under cross-border arrangements
+
+*section 3A*
+
+| Provision of this Act |
+|---|
+| Section 5 (estimated value of contract) |
+| Section 7 (dynamic purchasing systems) |
+| Section 8 (general duties) |
+| Section 9 (sustainable procurement duty) |
+| Section 10 (guidance on sustainable procurement duty) |
+| Section 11 (supported businesses) |
+| Section 12 (contracts for health or social care services) |
+| Section 14 (other circumstances in which contract can be awarded without competition) |
+| Section 22 (public contracts website) |
+| Section 23 (publication of contract notices and award notices) |
+| Section 26 (guidance on community benefit requirements) |
+| Section 29 (guidance on selection of tenderers and award of contracts) |
+| Section 31 (charges for participation in procurement process) |
+| Section 34 (withholding information) |
+| Section 36 (amendment of Climate Change (Scotland) Act 2009) |
+| Section 38 (procedure and time limits) |
+| Section 39 (determination by the court) |
+| Section 40 (transfer of forum for proceedings to First-tier Tribunal) |
+| Section 43 (ancillary provision) |
+| Section 44 (subordinate legislation) |
+| Section 45 (commencement) |
+| Section 46 (short title)] |
+
+---
+
+[^F1]: Words in s. 1(1)(a) substituted (20.12.2025) by The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392), regs. 1, 5(2)
+[^F2]: Words in s. 1(3) substituted (20.12.2025) by The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392), regs. 1, 5(2)
+[^F3]: S. 3A inserted (20.12.2025) by The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392), regs. 1, 5(3)
+[^F4]: Words in s. 4(1) substituted (18.4.2016) by The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446), reg. 1(2), Sch. 6 para. 2(2) (with regs. 3-18, 99-101)
+[^F5]: S. 8(4) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(2) (with sch. paras. 1-5)
+[^F6]: Words in s. 8(5) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(3) (with sch. paras. 1-5)
+[^F7]: Words in s. 11(1) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(3) (with sch. paras. 1-5)
+[^F8]: Words in s. 11(3) substituted (18.4.2016) by The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446), reg. 1(2), Sch. 6 para. 2(3) (with regs. 3-18, 99-101)
+[^F9]: Words in s. 27(1) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(3) (with sch. paras. 1-5)
+[^F10]: Words in s. 28(1) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(3) (with sch. paras. 1-5)
+[^F11]: Words in s. 30(1) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(4) (with sch. paras. 1-5)
+[^F12]: Words in s. 32(1) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(3) (with sch. paras. 1-5)
+[^F13]: Words in s. 33(1) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(3) (with sch. paras. 1-5)
+[^F14]: Words in s. 37(1) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(3) (with sch. paras. 1-5)
+[^F15]: S. 37(3) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(5) (with sch. paras. 1-5)
+[^F16]: S. 41 heading substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(6)(a) (with sch. paras. 1-5)
+[^F17]: S. 41(1)(a) omitted (31.12.2020) by virtue of The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(6)(b) (with sch. paras. 1-5)
+[^F18]: Words in s. 41(1)(b) substituted (18.4.2016) by The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446), reg. 1(2), Sch. 6 para. 2(4)(b) (with regs. 3-18, 99-101)
+[^F19]: Words in s. 41(1)(c) substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(6)(c) (with sch. paras. 1-5)
+[^F20]: Words in s. 41(1)(c) inserted (20.12.2025) by The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392), regs. 1, 5(4)
+[^F21]: Words in s. 41(1)(c) omitted (18.4.2016) by virtue of The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446), reg. 1(2), Sch. 6 para. 2(4)(c) (with regs. 3-18, 99-101)
+[^F22]: S. 41(2)(a) omitted (31.12.2020) by virtue of The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(6)(b) (with sch. paras. 1-5)
+[^F23]: Words in s. 42 substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(7)(a) (with sch. paras. 1-5)
+[^F24]: Words in s. 42 substituted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(7)(b) (with sch. paras. 1-5)
+[^F25]: Words in s. 42(1) inserted (31.12.2020) by The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468), regs. 1(2), 3(7)(c) (with sch. paras. 1-5)
+[^F26]: Sch. renumbered as sch. 1 (20.12.2025) by The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392), regs. 1, 5(5)
+[^F27]: Words in sch. para. 10 substituted (1.3.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 20(2); S.S.I. 2026/2, reg. 2(4)(5), sch. Pt. 2 (with reg. 9)
+[^F28]: Sch. para. 13A inserted (1.1.2015) by Revenue Scotland and Tax Powers Act 2014 (asp 16), s. 260(2), Sch. 4 para. 12 (with ss. 257-259); S.S.I. 2014/370, art. 2, Sch.
+[^F29]: Sch. para. 13B inserted (1.4.2015) by Food (Scotland) Act 2015 (asp 1), ss. 17(8), 63(2) (with s. 62); S.S.I. 2015/99, art. 2
+[^F30]: Sch. para. 13C inserted (1.4.2017) by Scottish Fiscal Commission Act 2016 (asp 17), ss. 29(6), 31(2); S.S.I. 2016/326, reg. 2(2)
+[^F31]: Sch. para. 13D inserted (1.4.2022) by Consumer Scotland Act 2020 (asp 11), s. 29(2), sch. 2 para. 7; S.S.I. 2021/464, reg. 2
+[^F32]: Sch. para. 13E inserted (1.10.2021) by UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4), s. 51(2), sch. 1 para. 15(6) (with s. 48(2)); S.S.I. 2021/304, reg. 2(b)
+[^F33]: Sch. para. 23A inserted (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 9(a); S.S.I. 2021/124, reg. 2, sch.
+[^F34]: Sch. para. 28A inserted (1.4.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 1 para. 14(7); S.S.I. 2017/33, reg. 2(3)
+[^F35]: Sch. para. 34A inserted (1.10.2015) by The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271), arts. 1, 7(b)
+[^F36]: Sch. para. 36 repealed (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 9(b); S.S.I. 2021/124, reg. 2, sch.
+[^F37]: Sch. para. 40A inserted (1.5.2024) by Patient Safety Commissioner for Scotland Act 2023 (asp 6), s. 24(2), sch. 2 para. 5(2); S.S.I. 2024/110, reg. 2(1)
+[^F38]: Words in sch. Pt. 3 inserted (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 7(2)(a); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F39]: Sch. para. 42A inserted (28.6.2021) by Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15), s. 109(2), sch. 1 para. 23; S.S.I. 2021/234, reg. 2, sch.
+[^F40]: Sch. para. 43 omitted (1.10.2015) by virtue of The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271), arts. 1, 7(a)
+[^F41]: Sch. para. 43A inserted (1.12.2020) by Scottish Biometrics Commissioner Act 2020 (asp 8), s. 40(2), sch. 2 para. 5; S.S.I. 2020/250, reg. 2
+[^F42]: Sch. para. 50A inserted (15.2.2024) by Good Food Nation (Scotland) Act 2022 (asp 5), s. 28(2), sch. para. 21(6); S.S.I. 2024/29, reg. 2(1)(2), sch. 1
+[^F43]: Words in sch. Pt. 3 repealed (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 7(2)(b); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F44]: Sch. para. 70 inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), s. 27(2), sch. para. 6(2); S.S.I. 2025/10, reg. 3(g)
+[^F45]: Sch. 2 inserted (20.12.2025) by The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392), regs. 1, 5(6)

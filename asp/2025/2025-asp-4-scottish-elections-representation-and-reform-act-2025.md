@@ -1,0 +1,2762 @@
+---
+title: "Scottish Elections (Representation and Reform) Act 2025"
+identifier: "asp/2025/4"
+citation: "2025 asp 4"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2025-01-29
+last_amended: 2026-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2025/4"
+source_modified: 2026-04-01
+retrieved: 2026-10-11
+---
+
+# Scottish Elections (Representation and Reform) Act 2025
+
+**2025 asp 4**
+
+An Act of the Scottish Parliament to make further provision about eligibility of elected representatives in the Scottish Parliament and in local government and to reform certain aspects of the law relating to Scottish parliamentary and local government elections.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 17th December 2024 and received Royal Assent on 29th January 2025
+
+## Part 1 — Candidacy rights etc. of foreign nationals
+
+### 1 Scottish Parliament elections
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 16 (exceptions and relief from disqualification)—
+
+(a) in subsection (2B), for paragraph (b) substitute—
+
+> (b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) any description of such leave.
+
+,
+
+(b) subsection (2C) is repealed.
+
+### 2 Local government elections
+
+(1) The Local Government (Scotland) Act 1973 is modified by subsections (2) and (3).
+
+(2) In section 29 (qualifications for nomination, election and holding office as member of local authority)—
+
+(a) in subsection (1), the words “or a schedule 6A national” are repealed,
+
+(b) in subsection (5), the words “or a schedule 6A national” are repealed,
+
+(c) in subsection (6), for paragraph (b) substitute—
+
+> (b) is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) any description of such leave.
+
+,
+
+(d) subsections (7) and (8) are repealed.
+
+(3) Schedule 6A (candidacy rights of foreign nationals) is repealed.
+
+(4) The Scottish Local Government Elections (Candidacy Rights of Foreign Nationals) Act 2022 is repealed.
+
+## Part 2 — Disqualification
+
+### Disqualifications: MPs, members of the House of Lords and councillors
+
+#### 3 Scottish Parliament: disqualification of MPs
+
+(1) The Scottish Ministers must lay before the Scottish Parliament a draft of a Scottish statutory instrument containing regulations which—
+
+(a) make provision to the effect that a person is disqualified from membership of the Scottish Parliament if that person is a member of the House of Commons, and
+
+(b) make any incidental, supplementary, consequential, transitional, transitory or saving provision the Scottish Ministers consider appropriate for the purposes of, in connection with or for giving full effect to that disqualification.
+
+(2) Regulations under subsection (1) may, in particular—
+
+(a) modify section 15(1) of the Scotland Act 1998 (disqualification from membership of the Parliament),
+
+(b) modify section 16 of the Scotland Act 1998 (exceptions and relief from disqualification) so as to—
+
+(i) provide under subsection (3) of that section that the Scottish Parliament may not resolve to disregard the disqualification imposed by the regulations,
+
+(ii) provide for a period of exception from the disqualification for any person recently returned at an election,
+
+(iii) provide for an exception from the disqualification for any person who is serving as a member of the Scottish Parliament on the day the regulations come into force, provided that any exception is limited to a period of time no longer than the period between that day and the day of the next ordinary general election under section 2 of the Scotland Act 1998,
+
+(c) modify section 17 of the Scotland Act 1998 (effect of disqualification) so as to make provision about—
+
+(i) which proceedings of the Scottish Parliament a person may or may not participate in during any excepted period provided in accordance with subsection (2)(b)(ii), and
+
+(ii) which of the person’s other rights and privileges as a member of the Scottish Parliament may be withdrawn by a resolution of the Parliament,
+
+(d) modify section 82 of the Scotland Act 1998 (limits on salaries of members of the Parliament),
+
+(e) make different provision for different purposes.
+
+(3) Regulations under subsection (1) are subject to the affirmative procedure.
+
+(4) After the Scottish Ministers lay the first draft Scottish statutory instrument containing regulations under subsection (1), they may lay further such instruments under that subsection.
+
+#### 4 Scottish Parliament: disqualification of members of the House of Lords
+
+(1) The Scottish Ministers must lay before the Scottish Parliament a draft of a Scottish statutory instrument containing regulations which—
+
+(a) make provision to the effect that a person is disqualified from membership of the Scottish Parliament if that person is a member of the House of Lords, and
+
+(b) make any incidental, supplementary, consequential, transitional, transitory or saving provision the Scottish Ministers consider appropriate for the purposes of, in connection with or for giving full effect to that disqualification.
+
+(2) Regulations under subsection (1) may, in particular—
+
+(a) modify section 15(1) of the Scotland Act 1998 (disqualification from membership of the Parliament),
+
+(b) modify section 16 of the Scotland Act 1998 (exceptions and relief from disqualification) so as to—
+
+(i) remove the exceptions from disqualification in subsection (1) of that section,
+
+(ii) provide under subsection (3) of that section that the Scottish Parliament may not resolve to disregard the disqualification imposed by the regulations,
+
+(iii) provide for a period of exception from the disqualification for any person recently returned at an election,
+
+(iv) provide for periods of exception from the disqualification for any person who would otherwise be disqualified, provided that person—
+
+(A) has a leave of absence from the House of Lords,
+
+(B) has made an application for such leave and the application has not been withdrawn or refused, or
+
+(C) was on leave of absence immediately before the UK Parliament was dissolved,
+
+(v) provide for an exception from the disqualification for any person who is serving as a member of the Scottish Parliament on the day the regulations come into force, provided that any exception is limited to a period of time no longer than the period between that day and the day of the next ordinary general election under section 2 of the Scotland Act 1998,
+
+(c) modify section 17 of the Scotland Act 1998 (effect of disqualification) so as to make provision about—
+
+(i) which proceedings of the Scottish Parliament a person may or may not participate in during any excepted periods provided in accordance with subsection (2)(b)(iii) or (iv), and
+
+(ii) which of the person’s other rights and privileges as a member of the Scottish Parliament may be withdrawn by a resolution of the Parliament,
+
+(d) modify section 82 of the Scotland Act 1998 (limits on salaries of members of the Parliament),
+
+(e) make different provision for different purposes.
+
+(3) Regulations under subsection (1) are subject to the affirmative procedure.
+
+(4) After the Scottish Ministers lay the first draft Scottish statutory instrument containing regulations under subsection (1), they may lay further such instruments under that subsection.
+
+#### 5 Scottish Parliament: disqualification of councillors
+
+(1) The Scottish Ministers may by regulations—
+
+(a) make provision to the effect that a person is disqualified from membership of the Scottish Parliament if that person is a member of a local authority, and
+
+(b) make any incidental, supplementary, consequential, transitional, transitory or saving provision the Scottish Ministers consider appropriate for the purposes of, in connection with or for giving full effect to that disqualification.
+
+(2) Regulations under subsection (1) may, in particular—
+
+(a) modify section 15(1) of the Scotland Act 1998 (disqualification from membership of the Parliament),
+
+(b) modify section 16 of the Scotland Act 1998 (exceptions and relief from disqualification) so as to—
+
+(i) provide under subsection (3) of that section that the Scottish Parliament may not resolve to disregard the disqualification imposed by the regulations,
+
+(ii) provide for a period of exception from the disqualification for any person recently returned at an election,
+
+(iii) provide for an exception from the disqualification for any person who is serving as a member of the Scottish Parliament on the day the regulations come into force, provided that any exception is limited to a period of time no longer than the period between that day and the day of the next ordinary general election under section 2 of the Scotland Act 1998,
+
+(c) modify section 17 of the Scotland Act 1998 (effect of disqualification) so as to make provision about—
+
+(i) which proceedings of the Parliament a person may or may not participate in during any excepted period provided in accordance with subsection (2)(b)(ii), and
+
+(ii) which of the person’s other rights and privileges as a member of the Scottish Parliament may be withdrawn by a resolution of the Parliament,
+
+(d) make different provision for different purposes.
+
+(3) Regulations under subsection (1) are subject to the affirmative procedure.
+
+### Disqualifications relating to sexual offences and notification requirements
+
+#### 6 Scottish Parliament: disqualification relating to sexual offences etc.
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 15 (disqualification from membership of the Parliament)—
+
+(a) after subsection (1)(b), insert—
+
+> (ba) the person is subject to—
+>
+> (i) any relevant notification requirements, or
+>
+> (ii) a relevant sexual harm or risk order,
+
+, and
+
+(b) after subsection (3), insert—
+
+> (4) In this section and in section 16—
+>
+> - “relevant notification requirements” has the same meaning as in section 31(4) of the Local Government (Scotland) Act 1973, and
+> - “relevant sexual harm or risk order” has the same meaning as in section 31(5) of the Local Government (Scotland) Act 1973.
+
+.
+
+#### 7 Local authorities: disqualifications relating to sexual offences etc.
+
+(1) The Local Government (Scotland) Act 1973 is modified as follows.
+
+(2) In section 31(1) (disqualifications for nomination, election and holding office as member of local authority), after paragraph (d) insert—
+
+> (e) the person is subject to—
+>
+> (i) any relevant notification requirements, or
+>
+> (ii) a relevant sexual harm or risk order,
+
+.
+
+(3) After section 31(3B), insert—
+
+> (4) In this section, “relevant notification requirements” means—
+>
+> (a) the notification requirements of Part 2 of the Sexual Offences Act 2003,
+>
+> (b) the notification requirements of Part 2 of the Sex Offenders (Jersey) Law 2010,
+>
+> (c) the notification requirements of Part 2 of the Criminal Justice (Sex Offenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013,
+>
+> (d) the notification requirements of schedule 1 of the Criminal Justice Act 2001 (an Act of the Tynwald of the Isle of Man).
+>
+> (5) In this section, “relevant sexual harm or risk order” means—
+>
+> (a) a sexual harm prevention order under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016,
+>
+> (b) a sexual harm prevention order under section 103A of the Sexual Offences Act 2003,
+>
+> (c) sexual offences prevention order under section 104 of that Act,
+>
+> (d) a sexual harm prevention order under section 345 of the Sentencing Act 2020,
+>
+> (e) a restraining order under Article 10 of the Sex Offenders (Jersey) Law 2010,
+>
+> (f) a sexual offences prevention order under section 18 of the Criminal Justice (Sex Offenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013,
+>
+> (g) a sexual offences prevention order under section 1 of the Sex Offenders Act 2006 (an Act of the Tynwald of the Isle of Man),
+>
+> (h) a sexual risk order under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016,
+>
+> (i) risk of sexual harm order under section 2 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005,
+>
+> (j) a sexual risk order under section 122A of the Sexual Offences Act 2003,
+>
+> (k) a risk of sexual harm order under section 123 of that Act,
+>
+> (l) a child protection order under Article 11 of the Sex Offenders (Jersey) Law 2010,
+>
+> (m) a risk of sexual harm order under section 22 of the Criminal Justice (Sex Offenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013,
+>
+> (n) a risk of sexual harm order under section 5 the Sex Offenders Act 2006 (an Act of the Tynwald of the Isle of Man).
+>
+> (6) The Scottish Ministers may by regulations make such amendments to subsection (4) and (5) as they consider appropriate in consequence of the amendment, repeal or re-enactment of any legislation of any of the Channel Islands or the Isle of Man which is for the time being specified in those provisions.
+>
+> (7) Regulations under subsection (6) are subject to the affirmative procedure.
+
+.
+
+### Scottish disqualification orders
+
+#### 8 Scottish disqualification orders
+
+(1) This section applies where—
+
+(a) a person (“the offender”) is convicted of an offence specified in the schedule,
+
+(b) the offender was aged 18 or over when the offence was committed, and
+
+(c) the court is satisfied beyond reasonable doubt that the offence is aggravated by hostility related to persons falling within any of sections 9 to 11.
+
+(2) The court must, when dealing with the offender for the offence, also make an order (a “Scottish disqualification order”) in respect of the offender which—
+
+(a) is to have effect for the period of 5 years beginning with the date on which the order is made, and
+
+(b) makes the person subject to the disqualifications in—
+
+(i) section 15(1)(bb) of the Scotland Act 1998, and
+
+(ii) section 31(1)(f) of the Local Government (Scotland) Act 1973.
+
+(3) Subsection (2) does not apply where the court considers that there are particular circumstances relating to the offence or to the offender which would make it unjust in all the circumstances to make the order; and in such a case the court must state in open court the reasons for not making the order.
+
+(4) For the purposes of this section an offence is aggravated by hostility related to persons falling within any of sections 9 to 11 if—
+
+(a) at the time of committing the offence, or immediately before or after doing so, the offender demonstrated towards the victim of the offence hostility based on the victim being (or being presumed to be) a person falling within any of sections 9 to 11, or
+
+(b) the offence was motivated (wholly or partly) by hostility towards persons falling within any of those sections in their capacity as such.
+
+(5) For the purposes of subsection (4) it is immaterial whether or not the offender’s hostility is also based, to any extent, on any other factor not mentioned in that subsection.
+
+(6) For the purpose of deciding whether to make a Scottish disqualification order the court may consider evidence led by the prosecution and the defence.
+
+(7) It is immaterial whether evidence led in pursuance of subsection (6) would have been admissible in the proceedings in which the offender was convicted.
+
+(8) Where an offence specified in the schedule is found to have been committed—
+
+(a) over a period of 2 or more days, or
+
+(b) at some time during a period of 2 or more days,
+
+it is to be taken for the purposes of subsection (1)(b) to have been committed on the last of those days.
+
+(9) Where this section applies, the court must—
+
+(a) take the aggravation under subsection (1)(c) into account in determining the appropriate sentence, and
+
+(b) state—
+
+(i) where the sentence in respect of the offence is different from that which the court would have imposed if the offence were not so aggravated, the extent of and the reasons for that difference, or
+
+(ii) otherwise, the reasons for there being no such difference.
+
+(10) In this section, “presumed” means presumed by the offender.
+
+#### 9 Returning officers
+
+(1) A person falls within this section if the person is—
+
+(a) a returning officer, or
+
+(b) a member of a returning officer’s staff.
+
+(2) In this section—
+
+- “a member of a returning officer’s staff” means a person who is employed by, or working under the direction of, a returning officer in a role the duties of which relate to the returning officer’s functions,
+
+- “a returning officer” means an officer who is—
+
+  - appointed under section 41(1) of the Representation of the People Act 1983 (returning officers: local elections in Scotland),
+  - a constituency returning officer by virtue of an order under section 12(1) of the Scotland Act 1998,
+  - an officer designated in accordance with an order under section 12(6) of that Act (a regional returning officer).
+
+#### 10 Registration officers
+
+(1) A person falls within this section if the person is—
+
+(a) a registration officer, or
+
+(b) a member of a registration officer’s staff.
+
+(2) In this section—
+
+- “a member of a registration officer’s staff” means a person who is employed by, or working under the direction of, a registration officer in a role the duties of which relate to the registration officer’s functions,
+- “a registration officer” means an officer who is appointed under section 8(3) of the Representation of the People Act 1983 (registration officers).
+
+#### 11 Counting officers
+
+(1) A person falls within this section if the person is—
+
+(a) a Chief Counting Officer,
+
+(b) a deputy of the Chief Counting Officer
+
+(c) a counting officer,
+
+(d) a deputy of the counting officer,
+
+(e) a member of the Chief Counting Officer’s staff,
+
+(f) a member of a counting officer’s staff.
+
+(2) In this section—
+
+- “Chief Counting Officer” means the person appointed under section 7(1) or (6) Referendums (Scotland) Act 2020 (Chief Counting Officer),
+- “counting officer” means a person appointed under section 8(1) or (5) of that Act (other counting officers),
+- “deputy of the Chief Counting Officer” means a person appointed under section 7(7) of that Act,
+- “deputy of the counting officer” means a person appointed under section 8(6) of that Act,
+- “member of the Chief Counting Officer’s staff” means a member of staff appointed or provided under section 9(9) of that Act (functions of the Chief Counting Officer and other counting officers),
+- “member of the counting officer’s staff” means a member of staff provided under section 9(10) of that Act.
+
+#### 12 Effect of order: Scottish Parliament
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 15(1) (disqualification from membership of the Parliament), after paragraph (ba) (inserted by section 6) insert—
+
+> (bb) the person is subject to a Scottish disqualification order under section 8 of the Scottish Elections (Representation and Reform) Act 2025,
+
+.
+
+#### 13 Effect of order: local government
+
+(1) The Local Government (Scotland) Act 1973 is modified as follows.
+
+(2) In section 31(1) (disqualifications for nomination, election and holding office as member of local authority),
+
+(a) the word “or” immediately following paragraph (b) is repealed,
+
+(b) the word “or” immediately following paragraph (c) is repealed,
+
+(c) after paragraph (e) (inserted by section 7), insert—
+
+> (f) the person is subject to a Scottish disqualification order under section 8 of the Scottish Elections (Representation and Reform) Act 2025,
+
+.
+
+#### 14 Power to amend the schedule
+
+(1) The Scottish Ministers may by regulations modify the schedule so as to add or remove an offence.
+
+(2) Regulations under this section are subject to the affirmative procedure.
+
+### Disqualification orders under Elections Act 2022
+
+#### 15 Scottish Parliament: disqualification from membership
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 15(1) (disqualification from membership of the Parliament), after paragraph (bb) (inserted by section 12), insert—
+
+> (bc) the person is subject to a disqualification order under section 30 of the Elections Act 2022 (disqualification of offenders from holding elective office etc),
+
+.
+
+#### 16 Local authorities: disqualifications for nomination, election and holding office
+
+(1) The Local Government (Scotland) Act 1973 is modified as follows.
+
+(2) In section 31 (disqualifications for nomination, election and holding office as member of local authority), in subsection (1), after paragraph (f) (inserted by section 13) insert
+
+> or
+>
+> (g) the person is subject to a disqualification order under section 30 of the Elections Act 2022 (disqualification of offenders from holding elective office etc).
+
+.
+
+#### 17 Disqualification orders: aggravation
+
+(1) The Elections Act 2022 is modified as follows.
+
+(2) In section 30—
+
+(a) after subsection (3) insert—
+
+> (3A) Where the court is a Scottish court, it must—
+>
+> (a) take the aggravation under subsection (1)(c) into account when determining the appropriate sentence, and
+>
+> (b) state—
+>
+> (i) where the sentence in respect of the offence is different from that which the court would have imposed if the offence were not so aggravated, the extent of and the reasons for that difference, or
+>
+> (ii) otherwise, the reasons for there being no such difference.
+
+,
+
+(b) in subsection (9), after the definition of “Schedule 9 offence” insert—
+
+> - “Scottish court” means a court with jurisdiction over Scottish criminal law offences.
+
+.
+
+### Temporary relief from disqualification
+
+#### 18 Persons holding office: temporary relief from effect of disqualification
+
+(1) The Scotland Act 1998 is modified by subsections (2) and (3).
+
+(2) In section 16 (exceptions and relief from disqualification)—
+
+(a) after subsection (1) insert—
+
+> (1A) A person who is subject to—
+>
+> (a) any relevant notification requirements,
+>
+> (b) a relevant sexual harm or risk order, or
+>
+> (c) a relevant disqualification order,
+>
+> is not disqualified merely because of section 15(1)(ba), (bb) or, as the case may be, (bc) until the appropriate time.
+>
+> (1B) The appropriate time is—
+>
+> (a) the end of the period of 3 months beginning with the date of the imposition of the requirements or of the order date, or
+>
+> (b) if earlier, the expiry of the ordinary period allowed for making—
+>
+> (i) an appeal or application in respect of the conviction, finding, order or certification to which the relevant notification requirements relate,
+>
+> (ii) an appeal against the relevant sexual harm or risk order, or
+>
+> (iii) an appeal against the conviction or the making of the disqualification order.
+>
+> (1C) But if, before the appropriate time mentioned in subsection (1B), the person makes such an appeal or application, the person is disqualified at the end of the period of 3 months beginning with the date of the imposition of the requirements or of the order date unless—
+>
+> (a) the appeal or application is dismissed or abandoned at any earlier time (in which case the person is disqualified at that time), or
+>
+> (b) at any time within that period of 3 months the appeal or application is upheld (in which case the person is not disqualified).
+
+,
+
+(b) in subsection (3), for “15(1)(b)” substitute “15(1)(b), (ba), (bb) or (bc)”,
+
+(c) after subsection (5) insert—
+
+> (6) In this section—
+>
+> - “order date” means the date on which the relevant sexual harm or risk order or, as the case may be, relevant disqualification order is made by the court,
+>
+> - “relevant disqualification order” means—
+>
+>   - a Scottish disqualification order under section 8 of the Scottish Elections (Representation and Reform) Act 2025 (Scottish disqualification orders),
+>   - a disqualification order under section 30 of the Elections Act 2022 (disqualification of offenders from holding elective office etc).
+
+.
+
+(3) In section 17 (effect of disqualification)—
+
+(a) in subsection (4), after “subject to” insert “section 16(1A) and”,
+
+(b) for “that section” substitute “those sections”.
+
+(4) The Local Government (Scotland) Act 1973 is modified by subsection (5).
+
+(5) In section 31 (disqualifications for nomination, election and holding office as member of local authority)—
+
+(a) after subsection (1) insert—
+
+> (1ZA) A person who is subject to—
+>
+> (a) any relevant notification requirements,
+>
+> (b) a relevant sexual harm or risk order, or
+>
+> (c) a relevant disqualification order,
+>
+> is not disqualified merely because of subsection (1)(e), (f) or, as the case may be, (g) until the appropriate time.
+>
+> (1ZB) The appropriate time is—
+>
+> (a) the end of the period of 3 months beginning with the date of the imposition of the requirements or of the order date, or
+>
+> (b) if earlier, the expiry of the ordinary period allowed for making—
+>
+> (i) an appeal or application in respect of the conviction, finding, order or certification to which the relevant notification requirements relate,
+>
+> (ii) an appeal against the relevant sexual harm or risk order, or
+>
+> (iii) an appeal against the conviction or the making of the disqualification order.
+>
+> (1ZC) But if, before the appropriate time mentioned in subsection (1ZB), the person makes such an appeal or application, the person is disqualified at the end of the period of 3 months beginning with the date of the imposition of the requirements or of the order date unless—
+>
+> (a) the appeal or application is dismissed or abandoned at any earlier time (in which case the person is disqualified at that time), or
+>
+> (b) at any time within that period of 3 months the appeal or application is upheld (in which case the person is not disqualified).
+>
+> (1ZD) A person who is subject to any relevant notification requirements, a relevant sexual harm or risk order or a relevant disqualification order is suspended from performing any of the functions of a member of a local authority during the period beginning with the date of the imposition of the requirements or of the order date and ending with the date on which—
+>
+> (a) the office is vacated in accordance with subsection (1ZB) or (1ZC), or
+>
+> (b) an appeal mentioned in subsection (1ZB) is upheld.
+
+,
+
+(b) after subsection (7) insert—
+
+> (8) In this section—
+>
+> - “order date” means the date on which the relevant sexual harm or risk order or, as the case may be, relevant disqualification order is made by the court,
+>
+> - “relevant disqualification order” means—
+>
+>   - a Scottish disqualification order under section 8 of the Scottish Elections (Representation and Reform) Act 2025 (Scottish disqualification orders),
+>   - a disqualification order under section 30 of the Elections Act 2022 (disqualification of offenders for holding elective office etc).
+
+.
+
+#### 19 Transitional provision: disqualifications relating to sexual offences etc.
+
+(1) If a person who holds office as a member of the Scottish Parliament on the day on which section 6 comes into force is subject to any relevant notification requirements or a relevant sexual harm or risk order on that day, the amendments made by that section—
+
+(a) do not have the effect of disqualifying that person, in respect of those requirements or of that order, for that person’s remaining term of office, but
+
+(b) do have effect in relation to that person, in respect of those requirements or of that order, from the earlier of the day—
+
+(i) of the first ordinary general election for membership of the Parliament (see section 2 of the Scotland Act 1998) held after the day on which section 6 comes into force, or
+
+(ii) on which an election is held in accordance with section 9 of the Scotland Act 1998, following that member’s seat becoming vacant after the day on which section 6 comes into force.
+
+(2) If a person who holds office as a member of a local authority on the day on which section 7 comes into force is subject to any relevant notification requirements or a relevant sexual harm or risk order on that day, the amendments made by that section—
+
+(a) do not have the effect of disqualifying that person, in respect of those requirements or of that order, for that person’s remaining term of office, but
+
+(b) do have effect in relation to that person, in respect of those requirements or of that order, from the earlier of the day—
+
+(i) of the first ordinary local election (within the meaning of section 43(1C) of the Representation of the People Act 1983) held after the day on which section 7 comes into force, or
+
+(ii) on which an election in accordance with section 37 of the Local Government (Scotland) Act 1973 is held following a casual vacancy in that person’s office occurring after the day on which section 7 comes into force.
+
+(3) In this section—
+
+- “relevant notification requirements” has the same meaning as in section 31(4) of the Local Government (Scotland) Act 1973 as first enacted,
+- “relevant sexual harm or risk order” has the same meaning as in section 31(5) of the Local Government (Scotland) Act 1973 as first enacted.
+
+### Section 15 of the Scotland Act 1998
+
+#### 20 Ending ambulatory effect of section 15 of the Scotland Act 1998
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 15(1) (disqualification from membership of the Parliament)—
+
+(a) in paragraph (a)—
+
+(i) for “he is” substitute “the person would be”,
+
+(ii) at the end of the paragraph insert “as that Act had effect on 27 April 2022”,
+
+(b) in paragraph (b)—
+
+(i) for “he is disqualified otherwise than under that Act” substitute “the person would be disqualified”,
+
+(ii) at the end of the paragraph insert “under any other enactment or rule of law as that enactment or rule of law had effect on 27 April 2022”.
+
+## Part 3 — Campaign finance
+
+### Expenditure in respect of Scottish Parliament elections
+
+#### 21 Notional and third party expenditure: Scottish Parliament elections
+
+(1) The Political Parties, Elections and Referendums Act 2000 is modified as follows.
+
+(2) In section 73 (notional campaign expenditure), in subsection (1A)—
+
+(a) after “paragraph 3,” insert “5,”,
+
+(b) after “parliamentary general elections” insert “, general elections to the Scottish Parliament”.
+
+(3) In section 86 (notional controlled expenditure), in subsection (1A)—
+
+(a) after “paragraph 3,” insert “5,”,
+
+(b) after “parliamentary general elections” insert “, general elections to the Scottish Parliament”.
+
+(4) In section 94 (limits on controlled expenditure by third parties), in subsection (8A)—
+
+(a) after “paragraph 3,” insert “5,”,
+
+(b) after “parliamentary general elections” insert “, general elections to the Scottish Parliament”.
+
+#### 22 Third parties capable of giving notification
+
+(1) The Political Parties, Elections and Referendums Act 2000 is modified as follows.
+
+(2) In section 88 (third parties recognised for the purposes of Part 6), after subsection (10), insert—
+
+> (11) The Scottish Ministers may by regulations amend subsection (2), as it applies for the purposes of a period in relation to which any limit is imposed by paragraph 5 of schedule 10 (general elections to Scottish Parliament), by—
+>
+> (a) adding a description of third party to the list in that subsection,
+>
+> (b) removing a description of third party from that list, or
+>
+> (c) varying the description of a third party in that list.
+>
+> (12) Regulations under subsection (11) may only be made where the regulations give effect to a recommendation of the Commission.
+
+.
+
+(3) In section 156 (orders and regulations), in subsection (4D)—
+
+(a) after “apply to” insert “any regulations under section 88(11) or”, and
+
+(b) for “such order” substitute “such regulations or orders”.
+
+#### 23 Restriction on which third parties may incur controlled expenditure
+
+(1) The Political Parties, Elections and Referendums Act 2000 is modified as follows.
+
+(2) After section 89A insert—
+
+> **89B Restriction on which third parties may incur controlled expenditure: Scottish Parliament elections**
+>
+> (1) No amount of controlled expenditure may be incurred by or on behalf of a third party during a Scottish devolved regulated period unless the third party falls within any paragraph of section 88(2) (third parties eligible to give notification).
+>
+> (2) Subsection (1) does not apply to any expenses incurred by or on behalf of a third party during a Scottish devolved regulated period which do not in total exceed £700.
+>
+> (3) Subsections (4) and (5) apply where expenses are incurred by or on behalf of a third party in contravention of subsection (1).
+>
+> (4) If the third party is not an individual—
+>
+> (a) any person who authorised the expenses to be incurred by or on behalf of the third party commits an offence if the person knew or ought reasonably to have known that the expenses would be incurred in contravention of subsection (1), and
+>
+> (b) the third party also commits an offence.
+>
+> (5) If the third party is an individual, the individual commits an offence if they knew or ought reasonably to have known that the expenses would be incurred in contravention of subsection (1).
+>
+> (6) In this section a “Scottish devolved regulated period” means a period in relation to which any limit is imposed by paragraph 5 of Schedule 10 (general elections to the Scottish Parliament).
+
+.
+
+(3) In schedule 20 (penalties), at the appropriate place in the table insert—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="2">Section 89B(4) and (5) (incurring controlled expenditure in contravention of section 89B(1))</td><td>On summary conviction in Scotland: statutory maximum</td></tr>
+> <tr><td>On indictment in Scotland: fine</td></tr>
+> </tbody>
+> </table>
+
+.
+
+#### 24 Transitional provision: offences relating to third party expenditure
+
+(1) The amendments made by section 23 have effect only in relation to a Scottish devolved regulated period beginning on or after the day on which section 23 comes fully into force.
+
+(2) In subsection (1) “a Scottish devolved regulated period” means a period in relation to which any limit is imposed by paragraph 5 of schedule 10 of the Political Parties, Elections and Referendums Act 2000 (general elections to the Scottish Parliament).
+
+#### 25 Code of practice on controls relating to third parties
+
+(1) The Political Parties, Elections and Referendums Act 2000 is modified as follows.
+
+(2) After section 100A insert—
+
+> **100AA Code of practice on controlled expenditure: Scottish Parliament elections**
+>
+> (1) The Commission must prepare a code of practice about the operation of this Part in relation to a Scottish devolved regulated period.
+>
+> (2) The code must in particular set out—
+>
+> (a) guidance on the kinds of expenses which do, or do not, fall within Part 1 of Schedule 8A (qualifying expenses),
+>
+> (b) guidance on determining whether the condition in section 85(2)(b) (promoting or procuring electoral success) is met in relation to expenditure,
+>
+> (c) guidance on determining whether anything provided to, or for the use of, a third party falls to be dealt with in accordance with—
+>
+> (i) section 86 (notional controlled expenditure), or
+>
+> (ii) section 95 and Schedule 11 (donations),
+>
+> (d) examples of when expenditure falls to be dealt with in accordance with section 94(6) (expenditure of a third party in pursuance of an arrangement with one or more other third parties).
+>
+> (3) The Commission may from time to time revise the code.
+>
+> (4) In exercising their functions under this Part, the Commission must have regard to the code (but only in so far as it relates to a general election to the Scottish Parliament and does not relate to a reserved matter (within the meaning of the Scotland Act 1998)).
+>
+> (5) It is a defence for a third party charged with an offence under any provision of this Part, where the offence relates to expenditure incurred or treated as incurred by a third party during a Scottish devolved regulated period, to show—
+>
+> (a) that the code, in the form for the time being issued under section 100BA, was complied with by the third party in determining whether the expenditure is controlled expenditure for the purposes of this Part, and
+>
+> (b) that the offence would not have been committed on the basis of the controlled expenditure as determined in accordance with the code.
+>
+> (6) In this section a “Scottish devolved regulated period” means a period in relation to which any limit is imposed by paragraph 5 of schedule 10 (general elections to the Scottish Parliament).
+>
+> (7) Section 100BA sets out consultation and procedural requirements relating to the code or any revised code.
+
+.
+
+(3) After section 100B, insert—
+
+> **100BA Code of Practice on controlled expenditure for Scottish Parliament elections: consultation and procedural requirements**
+>
+> (1) The Commission must consult the following on a draft of a code under section 100AA(1)—
+>
+> (a) the Scottish Parliament,
+>
+> (b) such other persons as the Commission consider appropriate.
+>
+> (2) After the Commission have carried out the consultation required by subsection (1), the Commission must—
+>
+> (a) make whatever modifications to the draft code the Commission consider necessary in light of responses to the consultation, and
+>
+> (b) submit the draft to the Scottish Ministers for approval by them.
+>
+> (3) The Scottish Ministers may approve a draft code either without modifications or with such modifications as the Scottish Ministers may determine.
+>
+> (4) Once the Scottish Ministers have approved a draft code, they must lay a copy of the draft before the Scottish Parliament, whether—
+>
+> (a) in its original form, or
+>
+> (b) in a form which incorporates any modifications determined under subsection (3).
+>
+> (5) If the draft code incorporates modifications, the Scottish Ministers must at the same time lay before the Scottish Parliament a statement of their reasons for making them.
+>
+> (6) If, within the 40-day period, the Scottish Parliament resolves not to approve the draft code, the Scottish Ministers must take no further steps in relation to it.
+>
+> (7) Subsection (6) does not prevent a new draft code from being laid before the Scottish Parliament.
+>
+> (8) If no resolution of the kind mentioned in subsection (6) is made within the 40-day period—
+>
+> (a) the Scottish Ministers must issue the code in the form of the draft laid before the Scottish Parliament,
+>
+> (b) the code comes into force on the date appointed by the Scottish Ministers by order, and
+>
+> (c) the Commission must arrange for the code to be published in such manner as the Commission consider appropriate.
+>
+> (9) References in this section (other than in subsection (1)) to a code or draft code include a revised code or draft revised code.
+>
+> (10) In this section “the 40-day period”, in relation to a draft code, means the period of 40 days beginning with the day on which the draft is laid before the Scottish Parliament, no account being taken of any period during which the Scottish Parliament is dissolved or is in recess for more than four days.
+
+.
+
+(4) In section 156 (orders and regulations), in subsection (4C), after “order” insert “under section 100BA(8) or an order”.
+
+(5) In schedule 8A (controlled expenditure: qualifying expenses), in paragraph 3(11)—
+
+(a) after “paragraph 3,” insert “5,”,
+
+(b) after “parliamentary general elections” insert “, general elections to the Scottish Parliament”,
+
+(c) for “and 100B” substitute “, 100AA, 100B and 100BA”.
+
+### Expenditure in respect of local government elections
+
+#### 26 Notional expenditure: local government elections
+
+(1) The Representation of the People Act 1983 is modified as follows.
+
+(2) In section 90C (property, goods, services etc. provided free of charge or at discount), in subsection (1A), the words “Scotland or” are repealed.
+
+## Part 4 — Rescheduling of elections etc.
+
+### Scottish Parliament elections
+
+#### 27 Power of Presiding Officer to postpone ordinary election
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 2 (ordinary general elections)—
+
+(a) in subsection (5)—
+
+(i) in the opening words, for “one month earlier, nor more than one month” substitute “4 weeks earlier, nor more than 8 weeks”,
+
+(ii) in paragraph (c), for “within the period of seven days beginning immediately” substitute “as soon as reasonably practicable after”.
+
+(b) subsection (5ZZA) is repealed,
+
+(c) after subsection (5ZA), insert—
+
+> (5D) Subsection (5E) applies if a proclamation is made in accordance with subsection (5).
+>
+> (5E) Subject to subsection (2A), if the Presiding Officer proposes another day for the holding of the poll which is not more than 8 weeks later than the day on which the poll is required to be held under the proclamation, His Majesty may by further proclamation under the Scottish Seal—
+>
+> (a) require the poll at the election to be held on the day proposed, and
+>
+> (b) require the Parliament to meet as soon as reasonably practicable after the day of the poll.
+>
+> (5F) Before proposing a day for the holding of the poll under subsection (5) or (as the case may be) subsection (5E), the Presiding Officer must consult—
+>
+> (a) the Electoral Commission, and
+>
+> (b) the convener of the Electoral Management Board for Scotland.
+>
+> (5G) As soon as reasonably practicable after proposing a day for the holding of the poll under subsection (5) or (as the case may be) subsection (5E), the Presiding Officer must publish, in such manner as the Presiding Officer considers appropriate, a statement setting out—
+>
+> (a) the day proposed for the holding of the poll, and
+>
+> (b) the reasons for the making of the proposal.
+
+.
+
+#### 28 Power of Presiding Officer to schedule extraordinary general elections
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 3 (extraordinary general elections)—
+
+(a) after subsection (1), insert—
+
+> (1A) But, despite subsection (1), the Presiding Officer may not propose a day for the holding of a poll if an event mentioned in paragraph (a) or (b) of that subsection occurs within the period of 8 weeks ending with the day on which the poll at the next ordinary general election would be held (disregarding section 2(5)).
+
+,
+
+(b) in subsection (2B), for “one month” substitute “4 weeks”.
+
+#### 29 Election of new Presiding Officer: extension of period
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 19 (presiding officer), after paragraph (1A) insert—
+
+> (1AA) But where a general election was held on a day proposed by the Presiding Officer in accordance with a proclamation made by His Majesty under section 2(5) or (5E), subsection (1A) has effect as if for the words “within the period of 14 days beginning immediately” there were substituted “as soon as reasonably practicable”.
+
+.
+
+#### 30 Choice of new First Minister after changed election date
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 46 (choice of the First Minister), for subsection (3), substitute—
+
+> (3) The period allowed is—
+>
+> (a) the period of 28 days which begins with the day on which the event in question occurs, but—
+>
+> (i) if another of those events occurs within the period allowed, that period is extended (subject to sub-paragraph (ii)) so that it ends with the period of 28 days beginning with the day on which that other event occurred, and
+>
+> (ii) the period ends if the Parliament passes a resolution under section 3(1)(a) or when His Majesty appoints a person as First Minister, but
+>
+> (b) if the Parliament does not meet within the period of 7 days beginning immediately after the day of the poll at a general election that was held on a day proposed by the Presiding Officer in accordance with a proclamation made by His Majesty under section 2(5) or (5E), the initial period of 28 days calculated under paragraph (a) is to be extended by disregarding any days in the period subsequent to that 7 day period and before the Parliament first meets.
+
+.
+
+#### 31 Rescheduling of by-elections
+
+(1) The Scotland Act 1998 is modified as follows.
+
+(2) In section 9 (constituency vacancies), after subsection (4) insert—
+
+> (4A) Subsection (4B) applies where—
+>
+> (a) the Presiding Officer fixes a date under subsection (2), and
+>
+> (b) the date fixed does not fall within the period of 6 months ending with the day on which the poll at the next ordinary general election would be held (disregarding section 2(5)).
+>
+> (4B) The Presiding Officer may fix another date for the holding of the poll which is to be within the period of 3 months beginning with the date of the poll fixed by the Presiding Officer under subsection (2).
+>
+> (4C) Subsection (4D) applies where—
+>
+> (a) the Presiding Officer fixes a date under subsection (2) or (4B), and
+>
+> (b) the date fixed falls within the period of 6 months ending with the day on which the poll at the next ordinary general election would be held (disregarding section 2(5)).
+>
+> (4D) If the Presiding Officer considers it necessary or appropriate for any reason to do so, the Presiding Officer may determine that an election to fill the vacancy is not to be held.
+>
+> (4E) Before fixing a date under subsection (4B) or (as the case may be) determining that an election is not to be held under subsection (4D), the Presiding Officer must consult—
+>
+> (a) the Electoral Commission,
+>
+> (b) the convener of the Electoral Management Board for Scotland, and
+>
+> (c) the officer appointed by order in accordance with section 12(1) of the Scotland Act 1998 to act as the returning officer for the constituency in which the seat is vacant.
+>
+> (4F) As soon as reasonably practicable after fixing a date under subsection (4B) or (as the case may be) determining that an election is not to be held under subsection (4D), the Presiding Officer must publish, in such manner as the Presiding Officer considers appropriate, a statement setting out—
+>
+> (a) either—
+>
+> (i) the date fixed for the holding of the poll, or (as the case may be)
+>
+> (ii) that an election is not to be held, and
+>
+> (b) the reasons for the exercise of the power.
+
+.
+
+### Local government elections
+
+#### 32 Power of convener of Electoral Management Board to postpone ordinary local election
+
+(1) The Representation of the People Act 1983 is modified as follows.
+
+(2) In section 43 (day of ordinary elections in Scotland, and other timing provisions), in subsection (2)(b), for “section 45(1) below” insert “section 43A, 43B or 45(1)”.
+
+(3) After section 43 insert—
+
+> **43A Power of convener of Electoral Management Board to postpone election**
+>
+> (1) Despite section 43(1), if the convener of the Electoral Management Board for Scotland considers it necessary or appropriate for any reason to do so, the convener may fix another day for the holding of the poll at the ordinary local election which is not more than 4 weeks later than the first Thursday in May in the year in which the election is to be held.
+>
+> (2) Before fixing a day under subsection (1), the convener must consult—
+>
+> (a) the Electoral Commission,
+>
+> (b) the Scottish Ministers, and
+>
+> (c) the Secretary of State.
+>
+> (3) As soon as reasonably practicable after fixing a day under subsection (1), the convener must publish, in such manner as the convener considers appropriate, a statement setting out—
+>
+> (a) the day fixed for the holding of the poll, and
+>
+> (b) the reasons for the exercise of the power.
+>
+> (4) Where a day for the holding of the poll at the ordinary local election is specified by order under section 43(1)(b), (1AB) or (1B), subsection (1) applies as if the reference to the first Thursday in May were a reference to the day specified in the order.
+>
+> (5) In this section and section 43B, “ordinary local election” has the meaning given in section 43(1C).
+
+.
+
+#### 33 Power of returning officers to postpone election for their area
+
+(1) The Representation of the People Act 1983 is modified as follows.
+
+(2) After section 43A (inserted by section 32) insert—
+
+> **43B Power of returning officers to postpone election for their area**
+>
+> (1) Despite section 43(1), if the returning officer for a local government area considers it necessary or appropriate for any reason to do so, the returning officer may fix another day for the holding of the poll at the ordinary local election for the election of councillors of that area which is not more than 4 weeks later than the first Thursday in May in the year in which the election is to be held.
+>
+> (2) Before fixing a day under subsection (1), the returning officer must consult—
+>
+> (a) the Secretary of State,
+>
+> (b) the Electoral Commission, and
+>
+> (c) the convener of the Electoral Management Board for Scotland.
+>
+> (3) As soon as reasonably practicable after fixing a day under subsection (1), the returning officer must publish, in such manner as the returning officer considers appropriate, a statement setting out—
+>
+> (a) the day fixed for the holding of the poll, and
+>
+> (b) the reasons for the exercise of the power.
+>
+> (4) Where a day for the holding of the poll at the ordinary local election is—
+>
+> (a) specified by order under section 43(1)(b), (1AB) or (1B), or
+>
+> (b) fixed by the convener of the Electoral Management Board for Scotland under section 43A(1),
+>
+> subsection (1) applies as if the reference to the first Thursday in May were a reference to the day specified in the order or (as the case may be) the day fixed by the convener.
+
+.
+
+#### 34 Power of returning officer to postpone or cancel by-election
+
+(1) The Local Government (Scotland) Act 1973 is modified as follows.
+
+(2) After section 37 insert—
+
+> **37A Power of returning officer to postpone election for casual vacancy**
+>
+> (1) This section applies where—
+>
+> (a) a casual vacancy occurs in the office of councillor,
+>
+> (b) the returning officer fixes a date under section 37(1) on which the poll is to be held at the election to fill the casual vacancy, and
+>
+> (c) the date fixed does not fall within the period of 6 months before the relevant date.
+>
+> (2) If the returning officer considers it necessary or appropriate for any reason to do so, the returning officer may fix another date for the holding of the poll to fill the casual vacancy which is to be within the period of 3 months beginning with the date of the poll fixed by the returning officer under section 37(1).
+>
+> (3) Subsection (4) applies where—
+>
+> (a) the returning officer fixes a date under subsection (2), and
+>
+> (b) the date fixed does not fall within the period of 6 months before the relevant date.
+>
+> (4) If the returning officer considers it necessary or appropriate for any reason to do so, the returning officer may fix another date for the holding of the poll to fill the casual vacancy which is to be within the period of 3 months beginning with the date of the poll fixed by the returning officer under subsection (2).
+>
+> (5) Before fixing a date under subsection (2) or (as the case may be) subsection (4), the returning officer must consult—
+>
+> (a) the Electoral Commission, and
+>
+> (b) the convener of the Electoral Management Board for Scotland.
+>
+> (6) As soon as reasonably practicable after fixing a date under subsection (2) or (as the case may be) subsection (4), the returning officer must publish, in such manner as the returning officer considers appropriate, a statement setting out—
+>
+> (a) the date fixed for the holding of the poll, and
+>
+> (b) the reasons for the exercise of the power.
+>
+> (7) For the purposes of this section, section 37B and section 37C the “relevant date” has the meaning given in section 37(2A).
+>
+> **37B Further power of returning officer to postpone election for casual vacancy where large number of unfilled vacancies**
+>
+> (1) This section applies where—
+>
+> (a) a casual vacancy occurs in the office of councillor,
+>
+> (b) on the occurrence of the casual vacancy (or in the case of a number of simultaneous vacancies, the occurrence of the vacancies), the total number of unfilled vacancies in the membership of the council exceeds one third of the whole number of members,
+>
+> (c) the returning officer fixes a date under section 37 or 37A on which the poll is to be held at the election to fill the casual vacancy, and
+>
+> (d) the date fixed falls within the period beginning 6 months before the relevant date and ending 3 months before the relevant date.
+>
+> (2) If the returning officer considers it necessary or appropriate for any reason to do so, the returning officer may fix another date for the holding of the poll to fill the casual vacancy which is to be within the period of 3 months beginning with the date of the poll fixed by the returning officer under section 37 or (as the case may be) 37A.
+>
+> (3) Before fixing a date under subsection (2) the returning officer must consult—
+>
+> (a) the Electoral Commission, and
+>
+> (b) the convener of the Electoral Management Board for Scotland.
+>
+> (4) As soon as reasonably practicable after fixing a date under subsection (2), the returning officer must publish, in such manner as the returning officer considers appropriate, a statement setting out—
+>
+> (a) the date fixed for the holding of the poll, and
+>
+> (b) the reasons for the exercise of the power.
+>
+> **37C Power of returning officer to cancel election for casual vacancy**
+>
+> (1) This section applies where—
+>
+> (a) a casual vacancy occurs in the office of councillor,
+>
+> (b) the returning officer fixes a date under section 37, 37A or 37B on which the poll is to be held at the election to fill the casual vacancy, and
+>
+> (c) the date fixed falls within the period of 6 months before the relevant date.
+>
+> (2) If the returning officer considers it necessary or appropriate for any reason to do so, the returning officer may determine that an election to fill the casual vacancy is not to be held.
+>
+> (3) Before determining that an election is not to be held under subsection (2), the returning officer must consult—
+>
+> (a) the Electoral Commission, and
+>
+> (b) the convener of the Electoral Management Board for Scotland.
+>
+> (4) As soon as reasonably practicable after determining that an election is not to be held under subsection (2), the returning officer must publish, in such manner as the returning officer considers appropriate, a statement setting out—
+>
+> (a) that an election is not to be held, and
+>
+> (b) the reasons for the exercise of the power.
+>
+> (5) Where an election is not held by virtue of the returning officer’s determination under subsection (2), the casual vacancy is to be filled at the next ordinary election.
+
+.
+
+## Part 5 — Form of ballot papers
+
+### 35 Review of order of candidates on ballot papers used at elections
+
+(1) The Scottish Ministers must review the method of ordering of candidates on ballot papers—
+
+(a) at local government elections, and
+
+(b) at Scottish Parliament elections.
+
+(2) The Scottish Ministers may consult such persons as they consider appropriate when undertaking such a review.
+
+(3) The Scottish Ministers must, by no later than the day which is 5 years after the day of coming into force of this section—
+
+(a) prepare a report on that review,
+
+(b) publish the report, and
+
+(c) lay the report before the Scottish Parliament.
+
+(4) The report must, in particular, set out an assessment of—
+
+(a) whether any changes should be made to the method of ordering of candidates—
+
+(i) at local government elections, or
+
+(ii) at Scottish Parliament elections,
+
+(b) the advantages and disadvantages of different methods of randomising ballot papers or otherwise changing the ordering of candidates on ballot papers at those elections, and
+
+(c) whether the Scottish Ministers propose to make or lay before the Scottish Parliament—
+
+(i) an order under section 3 of the Local Governance (Scotland) Act 2004 containing new rules on the method of ordering of candidates on ballot papers in local government elections, or
+
+(ii) an order under section 12 of the Scotland Act 1998 containing new rules on the method of ordering of candidates on ballot papers in Scottish Parliament elections.
+
+## Part 6 — Home addresses of candidates and agents
+
+### 36 Nomination of candidate in local government elections: home address form
+
+(1) The Scottish Local Government Elections Order 2011 (S.S.I. 2011/399) is modified as follows.
+
+(2) In Schedule 1—
+
+(a) in paragraph 4(11)(b)(i) for the words “the name of the relevant area” substitute “which of the relevant areas under rule 4(12) the candidate wants to be made public”,
+
+(b) in paragraph 4(12) in the definition of “relevant area” after “Scotland” insert—
+
+> - the electoral ward, or
+> - 
+
+,
+
+(c) in paragraph 14(2)(ab) after “located” insert “as indicated on the home address form”.
+
+### 37 Election agent and sub-agent in Scottish Parliament elections: public notice of home address
+
+(1) The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425) is modified as follows.
+
+(2) In article 32—
+
+(a) in paragraph (8) after second “address” insert “, unless a request is made by the election agent under paragraph (9)”,
+
+(b) after paragraph (8) insert—
+
+> (9) A declaration under article 32(1) may include a request by the election agent that any public notice of their address is to a correspondence address rather than their home address.
+>
+> (10) A request under paragraph (9) must be granted by the returning officer where an alternative correspondence address has been provided.
+
+.
+
+(3) In article 33—
+
+(a) in paragraph (5) after “declared” insert “, unless a request is made by the sub-agent under paragraph (5A)”,
+
+(b) after paragraph (5) insert—
+
+> (5A) A declaration under article 33(5) may include a request by the sub-agent that any public notice of their address is to a correspondence address rather than their home address.
+>
+> (5B) A request under paragraph (5A) must be granted by the returning officer where an alternative correspondence address has been provided.
+
+.
+
+### 38 Election agent and sub-agent in local government elections: public notice of home address
+
+(1) The Representation of the People Act 1983 is modified as follows.
+
+(2) In section 67 (appointment of election agent)—
+
+(a) in subsection (6) after second “address” insert “, unless subsection (6ZA) applies”,
+
+(b) after subsection (6) insert—
+
+> (6ZA) Where an election agent is appointed in a Scottish local government election, a declaration under section 67(1) may include a request by the election agent that any public notice of their address is to a correspondence address rather than their home address.
+>
+> (6ZB) A request under subsection (6ZA) must be granted by the returning officer where an alternative correspondence address has been provided.
+
+.
+
+(3) In section 68 (nomination of sub-agent at parliamentary or Authority elections)—
+
+(a) in subsection (3) after “declared” insert “, unless subsection (3A) applies”,
+
+(b) after subsection (3) insert—
+
+> (3A) Where a sub-agent is appointed in a Scottish local government election, a declaration under section 68(3) may include a request by the sub-agent that any public notice of their address is to a correspondence address rather than their home address.
+>
+> (3B) A request under subsection (3A) must be granted by the returning officer where an alternative correspondence address has been provided.
+
+.
+
+## Part 7 — Election pilots and democratic engagement
+
+### Pilots under Scottish Local Government (Elections) Act 2002
+
+#### 39 Pilot schemes under the Scottish Local Government (Elections) Act 2002
+
+(1) The Scottish Local Government (Elections) Act 2002 is modified as follows.
+
+(2) In section 5 (pilot schemes for local elections)—
+
+(a) in subsection (1), for the words from the beginning to “shall” substitute “Where a proposal has been made that a scheme under this section should apply to particular local government elections held in a local authority’s area, the Scottish Ministers may”,
+
+(b) after that subsection insert—
+
+> (1A) A scheme may be proposed by—
+>
+> (a) the Scottish Ministers after consulting the Electoral Management Board for Scotland, the Electoral Commission and such other persons as they consider appropriate, or
+>
+> (b) a person mentioned in subsection (1B) submitting a proposal to the Scottish Ministers.
+>
+> (1B) The persons are—
+>
+> (a) the Electoral Management Board for Scotland, if the Board has consulted the Electoral Commission,
+>
+> (b) a local authority if—
+>
+> (i) the proposed scheme relates to particular local government elections held in the authority’s area, and
+>
+> (ii) the authority has consulted the Electoral Management Board for Scotland and the Electoral Commission,
+>
+> (c) an electoral registration officer if—
+>
+> (i) the proposed scheme relates to particular local government elections held in any constituency in relation to which the officer is appointed, and
+>
+> (ii) the officer has consulted the Electoral Management Board for Scotland and the Electoral Commission.
+>
+> (1C) Where a scheme is proposed by a person mentioned in subsection (1B) the proposal and the proposed scheme may be approved by the Scottish Ministers, either without modification or with such modifications as the Scottish Ministers consider appropriate.
+
+,
+
+(c) in subsection (2) after “Acts” insert “or any other enactment”,
+
+(d) after subsection (2), insert—
+
+> (2A) An order under subsection (1) is subject to the affirmative procedure if the proposed scheme implemented by the order—
+>
+> (a) includes provision regarding the method used to cast votes which differs from the Acts or other enactments mentioned in subsection (2), and
+>
+> (b) the differing provision sets out a method of specifying a voter’s preference from among the candidates to be councillor by electronic means (including using stand-alone machines, as well as the internet and other forms of electronic communication).
+
+,
+
+(e) in subsection (3) for “the local authority which proposed the scheme” substitute “the Scottish Ministers or, in the case where a person mentioned in subsection (1B) proposed the scheme, that person,”,
+
+(f) in subsection (6)—
+
+(i) in paragraph (a) for “(1)” substitute “(1A)(a)”, and
+
+(ii) in paragraph (b) for “under that subsection, consult the local authority which” substitute “in accordance with subsection (1C) consult the Electoral Commission, the Electoral Management Board for Scotland and, if it was not submitted by the Board, the person who”,
+
+(g) in subsection (9) after “Acts” insert “or any other enactment”,
+
+(h) in subsection (12)—
+
+(i) the word “and” immediately following paragraph (a)(i) is repealed,
+
+(ii) in paragraph (a)(ii) for “which proposed the scheme” substitute “in whose area the elections that were subject to the scheme took place”,
+
+(iii) after paragraph (a)(ii) insert—
+
+> (iii) the Electoral Management Board for Scotland, and
+>
+> (iv) where the scheme was proposed by an electoral registration officer under subsection (1B), that officer,
+
+and
+
+(i) in subsection (14), after the opening words insert the following definition—
+
+> - “electoral registration officer” means an officer appointed under section 8(3) of the Representation of the People Act 1983,
+
+.
+
+(3) In section 6 (revision of procedures in the light of pilot schemes), after subsection (3) insert—
+
+> (3A) Before laying such a draft before the Parliament the Scottish Ministers must consult—
+>
+> (a) the Electoral Management Board for Scotland,
+>
+> (b) the Electoral Commission, and
+>
+> (c) such other persons as the Scottish Ministers consider appropriate.
+
+.
+
+### Pilot for registration of electors
+
+#### 40 Registration of electors pilot provision: power to make temporary provision
+
+(1) This section applies where a proposal has been made in accordance with section 41.
+
+(2) The Scottish Ministers may by regulations make temporary provision about the registration of electors (“registration of electors pilot provision”).
+
+(3) A registration of electors pilot provision is a provision that—
+
+(a) relates to the registration of persons in a register of local government electors maintained under section 9(1)(b) of the Representation of the People Act 1983 for any area in Scotland,
+
+(b) has effect for a specified period,
+
+(c) applies in relation to a register of local government electors for a local government area or parts of local government areas, and
+
+(d) is either—
+
+(i) not in relevant Scottish elections legislation,
+
+(ii) different from provision in relevant Scottish elections legislation, or
+
+(iii) connected to provision of the kind specified in sub-paragraph (i) or (ii).
+
+(4) A registration of electors pilot provision—
+
+(a) may (in particular) include provision about—
+
+(i) the rights and duties of individuals as regards registration,
+
+(ii) the administration of registration and registers of local government electors,
+
+(iii) access to and publication of registers of local government electors,
+
+(iv) any other matter which relates to action to be taken, or procedure to be carried out, as regards registration,
+
+(b) may also include provision about the processing of information for and in connection with any matter as regards registration, which may (in particular)—
+
+(i) authorise or require a person or description of persons to provide information to such other persons or descriptions of persons, in such form and in such circumstances as may be specified,
+
+(ii) authorise the Scottish Ministers (and any persons acting on their behalf) to provide information to such other persons or descriptions of persons, in such form and in such circumstances as may be specified,
+
+(c) may not include provision about a person’s entitlement to be registered in a register of local government electors for any local authority area.
+
+(5) Regulations under subsection (2) must specify the day before which the Electoral Commission must send its report under section 42.
+
+(6) Regulations under subsection (2) may—
+
+(a) make different provision for different purposes, areas, persons or categories of persons,
+
+(b) make consequential, supplementary, incidental, transitional or saving provision,
+
+(c) modify any enactment.
+
+(7) If the regulations under subsection (2) make provision modifying any enactment, the regulations must provide for the modifications to cease to have effect at the end of such period as is specified (and different periods may be specified in relation to different modifications).
+
+(8) In this section—
+
+- “processing” is to be construed in accordance with section 3(4) of the Data Protection Act 2018,
+
+- “relevant Scottish elections legislation” means an enactment that applies in relation to the registration of persons in a register of local government electors for the purpose of entitling that person to vote in—
+
+  - an election for membership of the Scottish Parliament,
+  - a local government election in Scotland,
+
+- “specified” means specified in, or determined under, regulations under subsection (2).
+
+(9) Regulations under subsection (2) are subject to the negative procedure.
+
+#### 41 Proposals for registration of electors pilot provision
+
+(1) A registration of electors pilot provision under section 40 may be proposed by—
+
+(a) the Scottish Ministers after consulting—
+
+(i) the Electoral Commission,
+
+(ii) the Electoral Management Board for Scotland, and
+
+(iii) such other persons as they consider appropriate, or
+
+(b) a person mentioned in subsection (2) submitting a proposal to the Scottish Ministers.
+
+(2) The persons are—
+
+(a) the Electoral Management Board for Scotland, if the Board has consulted the Electoral Commission,
+
+(b) a local authority if—
+
+(i) the proposed pilot relates to a register of local government electors in the authority’s area, and
+
+(ii) the authority has consulted—
+
+(A) the Electoral Commission, and
+
+(B) the Electoral Management Board for Scotland,
+
+(c) an electoral registration officer if—
+
+(i) the proposed pilot relates to a register of electors for the local government areas or parts of local government areas included in the area for which the officer acts, and
+
+(ii) the officer has consulted—
+
+(A) the Electoral Commission, and
+
+(B) the Electoral Management Board for Scotland.
+
+(3) A person who may make a proposal under subsection (1)(b) may make the proposal jointly with one or more other persons making a proposal under that subsection.
+
+(4) Any duty to consult a person with whom the person makes a joint proposal does not apply.
+
+(5) Where a pilot is proposed by a person (or persons acting jointly) mentioned in subsection (2) the proposal and the proposed pilot may be approved by the Scottish Ministers either without modification or with such modifications as the Scottish Ministers consider appropriate.
+
+(6) A registration of electors pilot provision may only be made where, in the opinion of the Scottish Ministers or, in the case where a pilot is the subject of a proposal by a person (or persons acting jointly) mentioned in subsection (2), the person or persons who proposed that pilot, that provision is likely to—
+
+(a) facilitate registration by any persons or any particular description of persons, or
+
+(b) encourage more persons, or more persons of a particular description, to register.
+
+(7) The Scottish Ministers—
+
+(a) may, in order to inform their consideration of a proposal submitted to them under subsection (1)(b) and how they might deal with it, consult such persons as they think appropriate,
+
+(b) must, before making any modification in accordance with subsection (5) consult the Electoral Management Board for Scotland and, if the proposal was not submitted by the Board, the person (or persons acting jointly) who submitted the proposal.
+
+(8) In this section and in section 42 “electoral registration officer” means an officer appointed under section 8(3) of the Representation of the People Act 1983.
+
+#### 42 Evaluation of registration of electors pilot provision by Electoral Commission
+
+(1) The Electoral Commission must prepare a report on the operation of a registration of electors pilot provision made by regulations under section 40(2) before the day specified under subsection (5) of that section (or such later date as the Commission and the Scottish Ministers may agree).
+
+(2) The report must contain, in particular—
+
+(a) a description of the way in which the provision made by the regulations differed from the provisions which would otherwise have applied (including, for example, by virtue of the Representation of the People Act 1983),
+
+(b) a copy of the registration of electors pilot provision,
+
+(c) an assessment of the success or otherwise of the pilot provision in—
+
+(i) facilitating registration by any persons or any particular description of persons, or
+
+(ii) encouraging more persons, or more persons of a particular description, to register,
+
+(d) the arrangements made under the regulations to assist disabled persons (within the meaning of section 6(2) of the Equality Act 2010) to register,
+
+(e) an assessment of whether persons found the procedures for registration easy to use,
+
+(f) an assessment of whether the procedures provided under the regulations led to any incidence of, or increase in, impersonation or other electoral offences or in any other malpractice in connection with elections,
+
+(g) an assessment of whether provision similar to that made by the regulations should apply generally, and on a permanent basis, in relation to the registration of persons in a register of local government electors maintained under section 9(1)(b) of the Representation of the People Act 1983 for all areas in Scotland,
+
+(h) any other matter relating to the registration of electors pilot provision as the Scottish Ministers may direct.
+
+(3) In preparing the report, the Electoral Commission may consult such persons as they think appropriate.
+
+(4) The Electoral Commission must, before the day specified under section 40(5) (or such later date as the Commission and the Scottish Ministers may agree)—
+
+(a) send a copy of the report to—
+
+(i) the Scottish Ministers,
+
+(ii) any local authority in whose area the registration of electors pilot provision relates,
+
+(iii) the Electoral Management Board for Scotland, and
+
+(iv) where the pilot was proposed by an electoral registration officer under section 41(1)(b), that officer, and
+
+(b) publish the report in such manner as they think fit.
+
+#### 43 Power to permanently modify provision about registration of electors
+
+(1) The power in subsection (3) applies if—
+
+(a) the Scottish Ministers consider, in the light of a report made under section 42 on the operation of registration of electors pilot provision, that it would be desirable to achieve the reform outcome described in subsection (2) (“the reform outcome”), and
+
+(b) the Electoral Commission recommends making regulations under this section to achieve the reform outcome.
+
+(2) The reform outcome is for provision similar to that made by a registration of electors pilot provision to apply generally, and on a permanent basis, in relation to the registration of persons in a register of local government electors maintained under section 9(1)(b) of the Representation of the People Act 1983 for all areas in Scotland.
+
+(3) The Scottish Ministers may by regulations make provision for or in connection with the registration of persons in a register of local government electors to achieve the reform outcome.
+
+(4) Before laying a draft of a Scottish statutory instrument containing regulations under subsection (3), the Scottish Ministers must consult—
+
+(a) the Electoral Management Board for Scotland, and
+
+(b) such other persons as the Scottish Ministers consider appropriate.
+
+(5) Subsections (4), (6) and (8) of section 40 apply to regulations made under subsection (3) as they apply to regulations made under subsection (2) of that section.
+
+(6) When laying a draft of a Scottish statutory instrument containing regulations under subsection (3), the Scottish Ministers must also lay before the Scottish Parliament a copy of the report prepared by the Electoral Commission under section 42.
+
+(7) Nothing in this section affects the other powers of the Scottish Ministers to make provision for or in connection with the registration of persons in a register of local government electors.
+
+(8) Regulations under subsection (3) are subject to the affirmative procedure.
+
+### Funding and Accessibility
+
+#### 44 Funding to increase democratic engagement
+
+(1) The Scottish Ministers may provide financial assistance (including grants, loans, guarantees and indemnities) to a person who, to any extent, undertakes, or engages in, activities with the purpose of increasing democratic engagement (or proposes to undertake or engage in such activities).
+
+(2) In this section “increasing democratic engagement” includes activities which, in the opinion of the Scottish Ministers, are undertaken with a view to increasing or improving registration for, or participation in (whether by voters, candidates, campaigners or any other persons), any Scottish Parliament election or local government election (within the meaning of section 204(1) of the Representation of the People Act 1983).
+
+(3) Without prejudice to the generality of subsections (1) and (2) activities funded under this section may include automatic voter registration at educational establishments.
+
+(4) The Scottish Ministers may—
+
+(a) provide financial assistance to such persons as they think fit, and
+
+(b) attach conditions (including conditions as to repayment or the repayment of interest) in respect of any financial assistance provided.
+
+(5) In considering whether to provide financial assistance under subsection (4), the Scottish Ministers must have regard to the impact of the activity or activities in relation to persons with protected characteristics listed in section 4 of the Equality Act 2010.
+
+(6) The Scottish Ministers may, from time to time after financial assistance is provided, vary any conditions attached to it.
+
+#### 45 Scottish Ministers’ power to make provision about elections under the Local Governance (Scotland) Act 2004
+
+(1) The Local Governance (Scotland) Act 2004 is modified as follows.
+
+(2) In section 3 (power to make further provision about local government elections), after subsection (3) insert—
+
+> (3A) Provision made by such an order by virtue of subsection (1)(a) may include provision which—
+>
+> (a) refers to a document of a particular description as is published from time to time by such person as the order may specify, and
+>
+> (b) gives effect to such a document which meets the conditions or criteria (if any) as the order may specify.
+
+.
+
+#### 46 Access to Elected Office Fund
+
+(1) The Scottish Ministers must maintain a fund—
+
+(a) that is named the Access to Elected Office Fund,
+
+(b) that provides financial support to disabled persons (within the meaning of section 6(2) of the Equality Act 2010) participating as candidates in—
+
+(i) a Scottish Parliamentary general election,
+
+(ii) an election held under section 9 of the Scotland Act 1998 (constituency vacancies), or
+
+(iii) a local government election (within the meaning of section 204(1) of the Representation of the People Act 1983).
+
+(2) The Scottish Ministers may from time to time make payments into the Fund of such amounts as they may determine.
+
+(3) The Scottish Ministers must make arrangements—
+
+(a) about the procedure or rules for making payments out of the Fund to disabled persons who are candidates at an election mentioned in paragraphs (i) to (iii) of subsection (1)(b),
+
+(b) designating a person to be responsible to administer the making of payments in accordance with that procedure or rules.
+
+(4) The arrangements under subsection (3)(a) must include provision that payments are only to be made to candidates to the extent that they are reasonably attributable to the candidate having a physical or mental impairment that has a substantial and long-term adverse effect on the candidate’s ability to carry out normal day-to-day activities.
+
+(5) The Scottish Ministers may only designate a person in accordance with subsection (3)(b) if a draft of the designation has been laid before, and approved by resolution of, the Scottish Parliament.
+
+(6) The duties mentioned in subsections (1) and (3) may be fulfilled by the continuation of any existing fund which is established and maintained administratively by the Scottish Ministers, including continuing with the administrative arrangements for that fund and with the person responsible for administering that fund (without the need for designation under subsection (5)) .
+
+(7) As soon as reasonably practicable after each ordinary general election for membership of the Parliament (see section 2 of the Scotland Act 1998) and each ordinary local election (within the meaning of section 43(1C) of the Representation of the People Act 1983), the Scottish Ministers must—
+
+(a) prepare a report on the operation of the Fund,
+
+(b) publish the report in such manner as they consider appropriate.
+
+(8) Nothing in this section affects any other power of the Scottish Ministers to make arrangements for or in connection with providing financial support to disabled persons participating as candidates at any election mentioned in paragraphs (i) to (iii) of subsection (1)(b).
+
+## Part 8 — Information to be included with certain electronic material at Scottish elections
+
+### Introduction
+
+#### 47 Application of this Part
+
+(1) This Part applies in relation to electronic material published in connection with a relevant Scottish election which meets the conditions of this Part.
+
+(2) This Part applies in addition to the requirements in relation to electronic material which are set out in Part 6 of the Elections Act 2022 (information to be included with electronic material) or which are set out in any other enactment.
+
+### Interpretation
+
+#### 48 Key definitions
+
+(1) The following definitions have effect for the purposes of this Part—
+
+- “electronic material” means material in electronic form which consists of or includes—
+
+  - text or moving or still images, or
+  - speech or music,
+
+- “promoter”, in relation to electronic material, means the person causing the material to be published (but does not include any person who publishes the material as part of that person’s ordinary course of business),
+
+- “published” means transmitted to the public at large, or any section of the public,
+
+- “relevant third party” means any person who undertakes campaigning activities in relation to an election for a relevant Scottish elective office and who is not—
+
+  - an individual,
+  - a recognised third party, or
+  - a registered party.
+
+(2) In subsection (1) “electronic material” does not include material to the extent that it is received by a person in the form of—
+
+(a) a telephone call made to the person at a telephone number allocated to them in accordance with a national or international numbering plan, or
+
+(b) a short message service text message sent to such a telephone number.
+
+(3) The Scottish Ministers may by regulations amend this section so as to modify the definition of “electronic material”, “promoter” or “published”, or “relevant third party” that for the time being has effect for the purposes of this Part.
+
+#### 49 Further definitions relating to candidates, parties and elections
+
+The following definitions have effect for the purposes of this Part—
+
+- “candidate” means a candidate at an election for a relevant Scottish elective office, including a person who is included in a list of candidates submitted in connection with such an election,
+
+- “future candidate” means a person who, in relation to an election for a relevant Scottish elective office, has been declared, whether by the person or by others, to be a candidate at the election, where—
+
+  - the election is the next scheduled election for the office,
+  - the notice of the election has not been published, and
+  - that declaration has not been withdrawn,
+
+- “recognised third party” has the meaning given in section 85(5) of the Political Parties, Elections and Referendums Act 2000,
+
+- “registered party” has the same meaning as in the Political Parties, Elections and Referendums Act 2000 (see section 160(1) of that Act),
+
+- “relevant Scottish election” means—
+
+  - an election to the Scottish Parliament, or
+  - a local government election within the meaning of section 204 of the Representation of the People Act 1983,
+
+- “relevant Scottish elective office” means the office of—
+
+  - member of the Scottish Parliament, or
+  - member of a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994.
+
+### Electronic material to which the requirements apply
+
+#### 50 Electronic material: conditions for application of section 52
+
+(1) Section 52 applies to electronic material which meets the following conditions.
+
+(2) The first condition is that the electronic material can reasonably be regarded as intended to achieve either purpose mentioned in section 51 (whether or not it can reasonably be regarded as intended to achieve any other purpose as well).
+
+(3) The second condition is that the promoter of the material, or the person on behalf of whom it is published, is a relevant third party.
+
+(4) The third condition is that neither the promoter of the material, nor the person on behalf of whom the material is published, has paid for the material to be published as an advertisement.
+
+#### 51 Purpose of the electronic material
+
+(1) The first purpose is promoting or procuring electoral success at one or more relevant Scottish elections for—
+
+(a) a registered party,
+
+(b) registered parties who advocate (or do not advocate) particular policies or who otherwise fall within a particular category of such parties, or
+
+(c) candidates or future candidates who hold (or do not hold) particular opinions or who advocate (or do not advocate) particular policies or who otherwise fall within a particular category of candidates or future candidates.
+
+(2) For the purposes of subsection (1)—
+
+(a) the reference to electoral success at a relevant Scottish election is a reference—
+
+(i) in relation to a registered party, to the return at the election of any candidate or future candidate who is standing, or is to stand, in the name of the party or is included, or is to be included, in a list of candidates submitted by the party in connection with the election, and
+
+(ii) in relation to any candidate or future candidate, to their return at the election, and
+
+(b) the reference to doing any of the things mentioned in that subsection includes doing so by prejudicing the electoral prospects at the election of other parties, candidates or future candidates.
+
+(3) For the purposes of determining whether electronic material can reasonably be regarded as intended to achieve the purpose mentioned in subsection (1), it is immaterial that it does not expressly mention the name of any party, candidate or future candidate.
+
+(4) The second purpose is promoting or procuring the election of a particular candidate, or a particular future candidate, at one or more relevant Scottish elections.
+
+(5) For the purposes of determining whether electronic material—
+
+(a) can reasonably be regarded as intended to achieve the purpose mentioned in subsection (4), it is immaterial that it does not expressly mention the name of any candidate or future candidate, and
+
+(b) is to be regarded as being published on behalf of a candidate or future candidate—
+
+(i) is not to be so regarded merely because it can be regarded as promoting or procuring the election of a candidate or future candidate at an election, but
+
+(ii) may be regarded as being published on behalf of the party mentioned in subsection (6).
+
+(6) This subsection applies to electronic material which can reasonably be regarded as promoting or procuring the election of—
+
+(a) two or more candidates or future candidates who are standing, or are to stand, in the name of a party, or
+
+(b) two or more candidates or future candidates who are included, or are to be included, in a list of candidates submitted by the party in connection with an election.
+
+### Requirements when publishing electronic material
+
+#### 52 Requirement to include information
+
+(1) Electronic material to which this section applies must not be published unless, in accordance with this section—
+
+(a) the information mentioned in subsection (2) is included as part of the electronic material, or
+
+(b) if it is not reasonably practicable to comply with paragraph (a), the information mentioned in that subsection is displayed in text form in a location that is directly accessible from the electronic material.
+
+(2) That information is—
+
+(a) the name and address of the relevant third party who is the promoter of the material, and
+
+(b) the name and address of any person on behalf of whom the material is being published (and who is not the promoter).
+
+(3) The Scottish Ministers may by regulations amend subsection (2) so as to—
+
+(a) add a description of information, or
+
+(b) modify or remove a description of information that is for the time being specified in that subsection.
+
+(4) Information is included as part of electronic material for the purposes of subsection (1)(a) only if—
+
+(a) where the material consists of or includes text or moving or still images, it is displayed in text form as part of that material,
+
+(b) where the material consists only of speech or music, it forms an audible part of that material.
+
+(5) Information that is included as part of electronic material—
+
+(a) must be legible or audible (as the case may be) regardless of the device used to access the material, and
+
+(b) must be such that, if the electronic material were to be republished by a person who did not alter the material, the information would be retained as part of the material when republished.
+
+(6) Information that is directly accessible from electronic material—
+
+(a) must be legible regardless of the device used to access the information, and
+
+(b) must be such that, if the electronic material were to be republished by a person who did not alter the material, access to the information would be retained as part of the material when republished.
+
+#### 53 Exceptions to requirement in section 52
+
+(1) Section 52 does not apply to the republication of electronic material if—
+
+(a) when it was previously published—
+
+(i) section 52 applied to it, and
+
+(ii) it was published in compliance with that section, and
+
+(b) it is not materially altered when it is republished.
+
+(2) In subsection (1)(b) the reference to electronic material not being materially altered includes a reference to the electronic material retaining—
+
+(a) the information within section 52(2), or
+
+(b) the access to such information,
+
+as a result of which its previous publication complied with section 52.
+
+(3) Section 52 does not apply to the publication of electronic material on a website or mobile application whose primary purpose, or one of whose primary purposes, is the publication of journalism created for publication on the website or mobile application.
+
+(4) In subsection (3) “mobile application” means application software designed and developed for use by the general public on mobile devices such as smartphones and tablets.
+
+(5) The Scottish Ministers may by regulations amend this section so as to add, modify or remove cases to which section 52 does not apply.
+
+### Offences
+
+#### 54 Offence of breaching section 52
+
+(1) Where any electronic material to which section 52 applies is published in contravention of that section, the following persons commit an offence—
+
+(a) the relevant third party who is the promoter of the material, and
+
+(b) any person on behalf of whom the material is being published (and who is not the promoter).
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) It is a defence for a person charged with an offence under subsection (1) to prove—
+
+(a) that the contravention arose from circumstances beyond the person’s control, and
+
+(b) that the person took all reasonable steps, and exercised all due diligence, to ensure that the contravention would not arise.
+
+(4) It is a defence for a person charged with an offence under subsection (1) to prove that the person acted in accordance with guidance issued under section 58.
+
+(5) It is a defence for a person charged with an offence under subsection (1) in relation to the republication of electronic material to prove that—
+
+(a) the electronic material had previously been published,
+
+(b) the person reasonably believed that when it was previously published—
+
+(i) section 52 applied to it, and
+
+(ii) it was published in compliance with that section, and
+
+(c) it was not materially altered when it was republished.
+
+(6) In subsection (5)(c), the reference to electronic material not being materially altered includes a reference to the electronic material retaining—
+
+(a) the information within section 52(3), or
+
+(b) the access to such information,
+
+as a result of which the person reasonably believed its previous publication complied with section 52.
+
+(7) The court by or before which a person is convicted of an offence under subsection (1) must notify the Electoral Commission of the person’s conviction and the sentence imposed on the conviction as soon as is practicable.
+
+#### 55 Individual culpability where organisation commits an offence
+
+(1) This section applies where—
+
+(a) an offence under section 54(1) is committed by a relevant organisation, and
+
+(b) the commission of the offence—
+
+(i) involves consent or connivance on the part of a responsible individual, or
+
+(ii) is attributable to neglect on the part of a responsible individual.
+
+(2) The responsible individual (as well as the relevant organisation) commits the offence.
+
+(3) For the purposes of this section—
+
+- “relevant organisation” means an organisation listed in the first column of the table in subsection (4),
+
+- “responsible individual” means, in relation to a relevant organisation—
+
+  - an individual falling within the corresponding entry in the second column of the table in subsection (4), or
+  - an individual purporting to act in the capacity of an individual falling within the corresponding entry.
+
+(4) The table is as follows—
+
+| *Organisation* | *Individual* |
+|---|---|
+| Company as mentioned in section 1 of the Companies Act 2006 | Director, manager, secretary or other similar officer, or, where the company’s affairs are managed by its members, member |
+| Limited liability partnership | Member |
+| Other partnership | Partner |
+| Any other body or association | Individual who is concerned in the management or control of its affairs |
+
+### Enforcement and investigation
+
+#### 56 Enforcement by the Electoral Commission
+
+(1) Parts 1 to 4 and 6 of Schedule 19C of the Political Parties, Elections and Referendums Act 2000 (civil sanctions) and the Political Parties, Elections and Referendums (Civil Sanctions) Order 2010 (S.I. 2010/2860) apply (subject to the following provisions of this section) in relation to an offence to which this section applies as they apply in relation to a prescribed offence under that Act.
+
+(2) This section applies to an offence under section 54(1) which relates to the publication of electronic material which can reasonably be regarded as intended to achieve a purpose within section 51(1).
+
+(3) In the application of paragraph 23 of schedule 19C of the Political Parties, Elections and Referendums Act 2000 (use of statements made compulsorily) by virtue of this section, the reference in sub-paragraph (1) of that paragraph to schedule 19B of that Act is to be read as including a reference to schedule 12 of the Elections Act 2022 (as applied by section 57(1)).
+
+(4) In the application of paragraph 13(1)(a) of Schedule 1 of the Political Parties, Elections and Referendums (Civil Sanctions) Order 2010 (S.I. 2010/2860) by virtue of this section, the reference to the Political Parties, Elections and Referendums Act 2000 and that Order is to be read as a reference to that Act and that Order as they are applied by this section.
+
+#### 57 Supply of information
+
+(1) Schedule 12 of the Elections Act 2022 (supply of information etc.) applies (subject to the following provisions of this section) in relation to an offence under section 54 as it applies in relation to an offence under Part 6 of that Act.
+
+(2) In the application of Schedule 12 of the Elections Act 2022 by virtue of this section, the references in paragraphs 1(1)(b)(i), 1(2)(b) and 3(2)(b) to section 41 of that Act are to be read as including references to section 52 of this Act.
+
+(3) Paragraphs 3 to 13 and 15 of schedule 19B of the Political Parties, Elections and Referendums Act 2000 (investigatory powers of the Electoral Commission) apply in relation to an offence mentioned in section 56(2) as they apply in relation to an offence under that Act.
+
+### Guidance and Electoral Commission Report
+
+#### 58 Guidance
+
+(1) The Electoral Commission must prepare guidance about—
+
+(a) the operation of this Part, and
+
+(b) the exercise of functions by the Electoral Commission in relation to a breach or suspected breach of this Part.
+
+(2) The Electoral Commission must have regard to guidance issued under this section in exercising those functions.
+
+(3) Once the Electoral Commission has prepared draft guidance under this section, it must submit it to the Scottish Ministers for approval by the Scottish Ministers.
+
+(4) The Scottish Ministers may approve draft guidance either without modifications or with such modifications as the Scottish Ministers may determine.
+
+(5) Once the Scottish Ministers have approved draft guidance, they must lay a copy of the draft before the Scottish Parliament, whether—
+
+(a) in its original form, or
+
+(b) in a form which incorporates any modifications determined under subsection (4).
+
+(6) If the draft guidance incorporates modifications, the Scottish Ministers must at the same time lay before the Scottish Parliament a statement of their reasons for making them.
+
+(7) If, within the 40-day period, the Scottish Parliament resolves not to approve the draft guidance, the Scottish Ministers must take no further steps in relation to it.
+
+(8) Subsection (7) does not prevent new draft guidance from being laid before the Scottish Parliament.
+
+(9) If no resolution of the kind mentioned in subsection (7) is made within the 40-day period—
+
+(a) the Scottish Ministers must issue the guidance in the form of the draft laid before the Scottish Parliament,
+
+(b) the guidance comes into force on the date appointed by the Scottish Ministers by regulations, and
+
+(c) the Electoral Commission must arrange for the guidance to be published in such manner as the Electoral Commission consider appropriate.
+
+(10) References in this section (other than in subsection (1)) to guidance or draft guidance include revised guidance or draft revised guidance.
+
+(11) In this section “the 40-day period”, in relation to draft guidance, means the period of 40 days beginning with the day on which the draft is laid before the Scottish Parliament, no account being taken of any period during which the Scottish Parliament is dissolved or is in recess for more than four days.
+
+#### 59 Electoral Commission’s annual report
+
+(1) Each report by the Electoral Commission under paragraph 20A of schedule 1 of the Political Parties, Elections and Referendums Act 2000 must contain information about—
+
+(a) the convictions notified to the Electoral Commission under section 54(7) during the year in question, and
+
+(b) the use made by the Electoral Commission of its powers under section 57(1) during that year.
+
+(2) The report must, in particular, specify—
+
+(a) the cases in which a notice was given under paragraph 1 of Schedule 12 of the Elections Act 2022 (as applied by section 57),
+
+(b) the cases in which an order under paragraph 2 or 3 of that schedule was applied for or made.
+
+(3) This section does not require the Electoral Commission to include in a report any information that, in its opinion, it would be inappropriate to include on the ground that to do so—
+
+(a) would or might be unlawful, or
+
+(b) might adversely affect any current investigation or proceedings.
+
+### Final provisions
+
+#### 60 Scottish Ministers regulation making powers
+
+(1) The Scottish Ministers may make regulations under this Part only—
+
+(a) if the regulations give effect to a recommendation of the Electoral Commission, or
+
+(b) after consultation with the Electoral Commission.
+
+(2) Regulations under this Part may make consequential, incidental, supplementary, transitional, transitory or saving provision.
+
+(3) Regulations under this Part are subject to the affirmative procedure.
+
+(4) But this section does not apply to regulations under section 58(9)(b).
+
+#### 61 Consequential revocations
+
+(1) The Scottish Elections (Details to appear on Election Material) Regulations 2020 (S.S.I. 2020/297) are revoked.
+
+(2) The Scottish Elections (Details to appear on Election Publications) Regulations 2020 (S.S.I. 2020/298) are revoked.
+
+## Part 9 — Boundaries
+
+### 62 Boundaries Scotland: changing date of next review of local government wards and number of councillors
+
+(1) The Local Government (Scotland) Act 1973 is modified as follows.
+
+(2) In section 14 (duty and power to review local government areas), after subsection (4) insert—
+
+> (5) Any review under this section must be completed no less than 18 months before the date of the next ordinary local election (within the meaning of section 43(1C) of the Representation of the People Act 1983).
+
+.
+
+(3) In section 16 (wards and councillors: substantive changes in electoral arrangements)—
+
+(a) in subsection (2A)(a), for “31 December 2028” substitute “31 October 2030”, and
+
+(b) after subsection (3), insert—
+
+> (4) Boundaries Scotland may not submit a report in accordance with subsection (2A)(b) or make a proposal to the Scottish Ministers following a review under subsection (3) during any period of 18 months immediately preceding the date of each ordinary local election (within the meaning of section 43(1C) of the Representation of the People Act 1983) held after 6 May 2032.
+
+.
+
+### 63 Boundaries Scotland: reports on Parliament boundaries before a general election
+
+(1) Schedule 1 of the Scotland Act 1998 is modified as follows.
+
+(2) After paragraph 3(7), insert—
+
+> (7A) Boundaries Scotland may not submit to the Scottish Ministers—
+>
+> (a) a report mentioned in sub-paragraph (5), or
+>
+> (b) a report under sub-paragraph (6),
+>
+> during the period of 18 months immediately preceding the date of the next ordinary general election for membership of the Parliament.
+
+.
+
+## Part 10 — Electoral commission
+
+### 64 Education about electoral and democratic systems
+
+(1) The Political Parties, Elections and Referendums Act 2000 is modified as follows.
+
+(2) In section 13 (education about electoral and democratic systems), after subsection (1)(a) insert—
+
+> (aa) marking of ballot papers in any election mentioned in section 9A(5A)(a) to (c).
+
+.
+
+### 65 Electoral Commission’s annual report: spoilt ballot papers
+
+(1) Each report by the Electoral Commission under paragraph 20A of schedule 1 of the Political Parties, Elections and Referendums Act 2000 (“PPERA”) must contain information about what steps the Electoral Commission has taken to reduce the number of spoilt ballot papers in devolved Scottish elections.
+
+(2) In this section—
+
+- “devolved Scottish elections” means any election mentioned in section 9A(5A)(a) to (c) of PPERA,
+- “spoilt ballot paper” means a ballot paper that the voter has inadvertently dealt with in such a manner that it cannot be conveniently used as a ballot paper.
+
+### 66 Five-year plan: devolved Scottish elections and referendums
+
+(1) The Political Parties, Elections and Referendums Act 2000 is modified as follows.
+
+(2) In schedule 1 (the Electoral Commission)—
+
+(a) in paragraph 14, after sub-paragraph (8), insert—
+
+> (9) An estimate prepared under this paragraph must not include income or expenditure that is attributable to the exercise of the Commission’s functions in relation to Scottish devolved functions (as to which, see paragraph 14A)
+
+,
+
+(b) in paragraph 14A, in sub-paragraph (4)—
+
+(i) for “Before the start of” substitute “For”,
+
+(ii) for “by such date as the SPCB determines” substitute “at least 6 months before the start of the financial year to which the estimate relates (or such later date as the Commission and the SPCB may agree)”,
+
+(c) in paragraph 15, after sub-paragraph (5), insert—
+
+> (7) A plan prepared under this paragraph must not include aims, objectives or estimated requirements for the exercise of the Commission’s functions in relation to Scottish devolved functions (as to which, see paragraph 15A).
+
+,
+
+(d) for paragraph 15A, substitute—
+
+> **15A** (1) When the Commission send to the Scottish Parliamentary Corporate Body (in this paragraph, the “SPCB”) an estimate under paragraph 14A(4) in respect of the first financial year to begin after the day on which the Scottish Parliament meets for the first time following a general election for membership of the Scottish Parliament, the Commission must at the same time submit to the SPCB a plan prepared by the Commission setting out the Commission’s—
+>
+> (a) aims and objectives for the exercise of the Commission’s devolved Scottish functions during the period of 5 years beginning with the start of the financial year to which the estimate relates, and
+>
+> (b) estimated requirements for resources for the exercise of those functions during that 5 year period.
+>
+> (2) A plan under sub-paragraph (1) must include how the Commission will aim to reduce the number of spoilt ballot papers at the elections mentioned in sub-paragraph (11)(a) during the period.
+>
+> (3) In sub-paragraph (2) a “spoilt ballot paper” means a ballot paper that the voter has inadvertently dealt with in such a manner that it cannot be conveniently used as a ballot paper.
+>
+> (4) The SPCB may require the Commission to submit a plan under sub-paragraph (1) when the Commission send such an estimate as is mentioned in paragraph 14A in respect of a financial year other than one mentioned in that sub-paragraph.
+>
+> (5) The SPCB—
+>
+> (a) must examine each plan submitted to it,
+>
+> (b) must decide whether it is satisfied that the plan is consistent with the economical, efficient and effective discharge by the Commission of their devolved Scottish functions, and
+>
+> (c) if it is not so satisfied, may recommend such modifications to the plan as it considers appropriate for the purpose of achieving such consistency.
+>
+> (6) Before deciding whether it is so satisfied or making any such recommendations, the SPCB may provide a draft of the plan and invite, and (if any are given) consider, comments on it from—
+>
+> (a) a committee of the Scottish Parliament,
+>
+> (b) such other persons as the SPCB consider appropriate.
+>
+> (7) The SPCB must, as soon as reasonably practicable after concluding its examination and making its recommendations (if any) under sub-paragraph (5) in relation to the plan, report to the Commission on its findings and recommendations.
+>
+> (8) After the SPCB has reported to the Commission under sub-paragraph (7), the Commission must—
+>
+> (a) make whatever modifications to the draft plan the Commission consider necessary in light of the SPCB’s findings and recommendations,
+>
+> (b) lay the plan before the Scottish Parliament, and
+>
+> (c) if the Commission do not follow any of the SPCB’s recommendations for modifications to the plan under this paragraph, lay before the Scottish Parliament a document describing its reasons for so doing.
+>
+> (9) The Commission may, at any time during the period of 5 years to which a plan relates, review the plan for that period and submit a revised plan to the SPCB setting out the matters mentioned in sub-sub-paragraphs (a) and (b) of sub-paragraph (1).
+>
+> (10) Sub-paragraphs (5) to (8) apply to a revised plan submitted under sub-paragraph (9) as they apply to a plan submitted under sub-paragraph (1).
+>
+> (11) In this paragraph, “Scottish devolved functions”, in relation to the Commission, means the functions of the Commission—
+>
+> (a) under Part 1 in relation to—
+>
+> (i) Scottish Parliamentary general elections,
+>
+> (ii) elections held under section 9 of the Scotland Act 1998 (constituency vacancies), and
+>
+> (iii) local government elections in Scotland, and
+>
+> (b) under the Referendums (Scotland) Act 2020 in relation to any referendum held throughout Scotland in pursuance of provision made by or under an Act of the Scottish Parliament,
+>
+> in so far as those functions do not relate to reserved matters (within the meaning of the Scotland Act 1998).
+
+,
+
+(e) the cross-heading immediately preceding paragraph 15A of schedule 1 becomes “Five-year plan: devolved Scottish elections and referendums”.
+
+### 67 Reports on promotion of public awareness about elections
+
+(1) The Political Parties, Elections and Referendums Act 2000 is modified as follows.
+
+(2) In section 5 (reports on elections and referendums)—
+
+(a) after subsection (2D) insert—
+
+> (2DA) Subsections (2DB) and (2DC) apply where a report under this section relates to one of the following elections—
+>
+> (a) a Scottish Parliamentary general election, or
+>
+> (b) an ordinary election of councillors for local government areas in Scotland.
+>
+> (2DB) The report must include a description of the steps taken by—
+>
+> (a) the Commission in performing their functions under section 13(1), and
+>
+> (b) returning officers,
+>
+> to promote public awareness about the election and how to vote in it (including, in particular, how to fill in a ballot paper).
+>
+> (2DC) The report may also include a description of steps taken by any other person to promote public awareness about the election and how to vote in it.
+
+,
+
+(b) in subsection (2E), for “subsection (2D)” substitute “subsections (2D) and (2DB)”.
+
+### 68 Electoral Commission strategy: spoilt ballot papers
+
+(1) The Electoral Commission must, before each ordinary local election—
+
+(a) prepare a strategy for reducing the number of spoilt ballot papers at the election, and
+
+(b) publish the strategy in such manner as the Commission thinks fit.
+
+(2) In this section—
+
+- “ordinary local election” has the meaning given in section 43(1C) of the Representation of the People Act 1983,
+- “spoilt ballot paper” means a ballot paper that the voter has inadvertently dealt with in such a manner that it cannot be conveniently used as a ballot paper.
+
+## Part 11 — Electoral management board for Scotland
+
+### 69 Constitution of the Electoral Management Board for Scotland
+
+(1) The Local Electoral Administration (Scotland) Act 2011 is modified as follows.
+
+(2) In section 1 (Electoral Management Board for Scotland)—
+
+(a) for subsection (1) substitute—
+
+> (1) The committee established and known as the Electoral Management Board for Scotland continues to exist and becomes a body corporate to be known under the same name.
+
+,
+
+(b) after subsection (3) insert—
+
+> (4) The schedule makes further provision about the status, membership, etc. of the Board and about other administrative matters in connection with the Board.
+
+.
+
+(3) Sections 2 to 4 are repealed.
+
+(4) After section 7, insert—
+
+> **Planning and reporting on the Board’s functions**
+>
+> **7A Strategic plans**
+>
+> (1) The Board must, at least 6 months before the start of a 5 year period, submit to the Parliamentary corporation a plan (referred to in this section as a “strategic plan”) setting out, for that 5 year period—
+>
+> (a) the Board’s strategic and policy priorities relating to those of its functions mentioned in section 1(3),
+>
+> (b) how it proposes to achieve them,
+>
+> (c) timetables for doing so, and
+>
+> (d) estimates of the costs of doing so.
+>
+> (2) The Parliamentary corporation—
+>
+> (a) must examine each strategic plan submitted to it,
+>
+> (b) must decide whether it is satisfied with the plan, and
+>
+> (c) if it is not so satisfied, may recommend such modifications to the plan as it considers appropriate.
+>
+> (3) Before deciding whether it is so satisfied or making any such recommendations, the Parliamentary corporation may provide the strategic plan to invite, and (if any are given) consider, comments on it from—
+>
+> (a) a committee of the Scottish Parliament, and
+>
+> (b) such other persons as the Parliamentary corporation consider appropriate.
+>
+> (4) The Parliamentary corporation must, as soon as reasonably practicable after concluding its examination and making its recommendations (if any) under subsection (2), report to the Board on its findings and recommendations.
+>
+> (5) After the Parliamentary corporation has reported to the Board under subsection (4), the Board must—
+>
+> (a) make whatever modifications to the strategic plan the Board consider necessary in light of the Parliamentary corporation’s findings and recommendations,
+>
+> (b) lay the plan before the Scottish Parliament, and
+>
+> (c) if the Board do not follow any of the Parliamentary corporation’s recommendations for modifications to the plan under this section, lay before the Scottish Parliament a document describing its reasons for so doing.
+>
+> (6) The Board may, at any time during the 5 year period to which a plan relates, review the strategic plan for that period and submit a revised plan to the Parliamentary corporation setting out the matters mentioned in subsection (1).
+>
+> (7) Subsections (2) to (5) apply to a revised plan submitted under subsection (6) as they apply to a strategic plan submitted under subsection (1).
+>
+> (8) In this section, “5 year period” means each period of 5 years beginning on the first day of the financial year following each ordinary local election (within the meaning of section 43(1C) of the Representation of the People Act 1983).
+>
+> **7B Reports requested by the Scottish Ministers**
+>
+> (1) The Scottish Ministers may request that the Board—
+>
+> (a) review, and
+>
+> (b) submit a report to them on,
+>
+> any matter relating to the Board’s functions mentioned in section 1(3).
+>
+> (2) Before making a request under subsection (1), the Scottish Ministers must consult the Parliamentary corporation.
+>
+> (3) The Board must comply with a request under subsection (1) within such time as the Scottish Ministers may request, or such later time as Ministers and the Board may agree.
+>
+> (4) The Board may, after submitting a report under this section, publish the report in such manner as it considers appropriate.
+
+.
+
+(5) Section 8 and the cross heading immediately preceding it are repealed.
+
+(6) In section 9 (interpretation of Part 1)—
+
+(a) after “Part” insert “and in the schedule”,
+
+(b) after the definition of “electoral registration officer”, insert—
+
+> - “former depute returning officer” means an individual who no longer holds the office but who was previously—
+>
+>   - a depute returning officer, or
+>   - a RUK depute returning officer,
+>
+> - “former electoral registration officer” means an individual who no longer holds the office but who was previously—
+>
+>   - an electoral registration officer, or
+>   - a RUK electoral registration officer,
+>
+> - “former returning officer” means an individual who no longer holds the office but who was previously—
+>
+>   - a returning officer, or
+>   - a RUK returning officer,
+
+,
+
+(c) after the definition of “local government election”, insert—
+
+> - “Parliamentary corporation” means the Scottish Parliamentary Corporate Body,
+
+,
+
+(d) after the definition of “returning officer”, insert—
+
+> - “RUK depute returning officer” means a person appointed as a depute section 35(4) of the 1983 Act,
+> - “RUK electoral registration officer” means an officer appointed under, or holding office in accordance with, section 8(2), (2A) or (4) of the 1983 Act,
+> - “RUK returning officer” means an officer holding office in accordance with section 24, 26 or 35 of the 1983 Act and includes a person discharging the duties of such an officer in accordance with section 28 of that Act,
+
+, and
+
+(e) in the section title, after “Part 1” insert “and the schedule”.
+
+(7) After section 22 (short title), insert as a schedule—
+
+> **Schedule — Electoral Management Board for Scotland**
+>
+> *(introduced by section 1(4))*
+>
+> **Status**
+>
+> **1** (1) The Board, its members and staff—
+>
+> (a) are not servants or agents of the Crown, and
+>
+> (b) have no status, immunity or privilege of the Crown.
+>
+> (2) The Board’s property is not property of, or property held on behalf of, the Crown.
+>
+> **Membership**
+>
+> **2** (1) The Board is to consist of—
+>
+> (a) a convener, who must be either—
+>
+> (i) a returning officer,
+>
+> (ii) a RUK returning officer, or
+>
+> (iii) a former returning officer, and
+>
+> (b) 8 other members of whom—
+>
+> (i) 5 are to be from the RO category, and
+>
+> (ii) 3 are to be from the ERO category.
+>
+> (2) In this schedule—
+>
+> (a) a person is part of “the RO category” if the person is—
+>
+> (i) a returning officer,
+>
+> (ii) a depute returning officer,
+>
+> (iii) a RUK returning officer,
+>
+> (iv) a RUK depute returning officer,
+>
+> (v) a former returning officer,
+>
+> (vi) a former depute returning officer, and
+>
+> (b) a person is part of “the ERO category” if the person is—
+>
+> (i) an electoral registration officer,
+>
+> (ii) a RUK electoral registration officer, or
+>
+> (iii) a former electoral registration officer.
+>
+> (3) The convener is to be appointed by the Parliamentary corporation on the nomination of the Scottish Parliament.
+>
+> (4) The convener holds office on such terms and conditions as the Parliamentary corporation may determine.
+>
+> (5) The convener is to appoint the other members.
+>
+> (6) The other members hold office on such terms and conditions as the convener, with the approval of the Parliamentary corporation, may determine.
+>
+> (7) When appointing members, the convener is to have regard to the desirability of the membership taken as a whole having a broad range of experience in relation to—
+>
+> (a) different local authority areas (including different kinds of areas) throughout Scotland, and
+>
+> (b) the different constituencies and regions provided for Scottish parliamentary elections by schedule 1 of the Scotland Act 1998 (including different kinds of constituencies and regions).
+>
+> (8) A person may not be appointed as a member of the Board if that person has a relevant connection to a political party.
+>
+> (9) In this schedule, a person has “a relevant connection to a political party” if that person would be ineligible for appointment as a member of the staff of the Electoral Commission in accordance with—
+>
+> (a) paragraph 11A(1)(a) or (b) of schedule 1 of the Political Parties, Elections and Referendums Act 2000, or
+>
+> (b) paragraph 11A(1)(c) of that schedule, taking the relevant period mentioned there to be the last 12 months.
+>
+> **Depute conveners**
+>
+> **3** (1) The convener may, from the members of the Board who are in the RO category—
+>
+> (a) appoint a depute convener to act for such period, not exceeding 5 years, as the convener, at the time of the appointment, may determine, and
+>
+> (b) reappoint that depute convener for one further period, not exceeding 5 years, as the convener, at the time of the reappointment, may determine.
+>
+> (2) The convener may, from any other of the members of the Board—
+>
+> (a) appoint a second depute convener to act for such period, not exceeding 5 years, as the convener, at the time of the appointment, may determine, and
+>
+> (b) reappoint that second depute convener for one further period, not exceeding 5 years, as the convener, at the time of the reappointment, may determine.
+>
+> (3) A period of appointment under sub-paragraph (1) or (2) must be approved by the Parliamentary corporation.
+>
+> (4) A depute convener appointed under sub-paragraph (1) may carry out any of the convener’s relevant functions where—
+>
+> (a) the office of convener is vacant, or
+>
+> (b) the person holding the office is for any reason unable to perform the convener’s functions.
+>
+> (5) In sub-paragraph (4) the convener’s relevant functions are—
+>
+> (a) the convener’s functions under this Act, and
+>
+> (b) the convener’s functions under section 43A of the Representation of the People Act 1983 (in relation to fixing another day for the holding of the poll at an ordinary local election).
+>
+> (6) A second depute convener appointed under sub-paragraph (2) may perform such of the convener’s functions under this Act (and to such extent) as the convener may determine, but may not issue directions under sections 4A, 5, 5A or 6.
+>
+> **Duration of appointment**
+>
+> **4** (1) The convener—
+>
+> (a) holds office for such period, not exceeding 5 years, as the Parliamentary corporation, at the time of appointment, may determine, and
+>
+> (b) may be reappointed for one further period, not exceeding 5 years, as the Parliamentary corporation at the time of the reappointment, may determine.
+>
+> (2) Other members of the Board—
+>
+> (a) may be appointed for such period, not exceeding 5 years, as the Parliamentary corporation, at the time of appointment, may determine, and
+>
+> (b) may be reappointed to the Board (once or more) for such further period, not exceeding 5 years, as the Parliamentary corporation at the time of the reappointment, may determine.
+>
+> (3) An appointment as depute convener under paragraph 3(1) or (2) ends when the person appointed is no longer a member of the Board.
+>
+> **Early termination of membership**
+>
+> **5** (1) The convener may be relieved of office by the Parliamentary corporation at the request of the convener.
+>
+> (2) The other members may, by notice in writing to the convener, resign office as a member.
+>
+> (3) The convener may be removed from office by the Parliamentary corporation—
+>
+> (a) if—
+>
+> (i) the Parliamentary corporation is satisfied that the convener has breached the terms and conditions of office and the Parliament resolves that the convener should be removed from office for that breach, or
+>
+> (ii) the Parliament resolves that it has lost confidence in the convener’s willingness, suitability or ability to perform the functions of the convener,
+>
+> and, in either case, the resolution is voted for by a number of members not fewer than two thirds of the total number of seats for members of the Parliament, or
+>
+> (b) if the convener becomes connected to a political party.
+>
+> (4) Any other member may be removed from office by the convener if—
+>
+> (a) the member has been absent, without reasonable excuse from meetings of the Board for a period of longer than 6 consecutive months, or
+>
+> (b) the convener considers that the member is—
+>
+> (i) unable to perform the functions of a member, or
+>
+> (ii) unsuitable to continue as a member, or
+>
+> (c) the member becomes connected to a political party.
+>
+> (5) In this schedule, a person “becomes connected to a political party” on the occurrence, in relation to that person, of such an event as is mentioned in any of paragraphs (a) to (ca) of paragraph 3(3) of schedule 1 of the Political Parties, Elections and Referendums Act 2000.
+>
+> **Remuneration and pensions, etc. of convener and other Board members**
+>
+> **6** (1) The Parliamentary corporation may—
+>
+> (a) pay to the convener such remuneration, allowances and expenses as the Parliamentary corporation may determine,
+>
+> (b) pay, or make arrangements for the payment of, such pensions, allowances and gratuities to, or in respect of, any individual who holds or has held the office of the convener as the Parliamentary corporation may determine.
+>
+> (2) The Board may, with the approval of the Parliamentary corporation—
+>
+> (a) pay its members (other than the convener) such remuneration, allowances and expenses as the Board may determine,
+>
+> (b) pay, or make arrangements for the payment of, such pensions, allowances and gratuities to, or in respect of any individual who holds or has held the office of a member of the Board (other than the office of convener) as the Board may determine.
+>
+> (3) The arrangements mentioned in sub-paragraph (1) and (2) may include—
+>
+> (a) making payments towards the provision of those pensions, allowances and gratuities,
+>
+> (b) providing and maintaining schemes for the payment of those pensions, allowances and gratuities.
+>
+> (4) The reference in sub-paragraph (3) to pensions, allowances and gratuities includes pensions, allowances and gratuities by way of compensation for loss of office.
+>
+> **Staff**
+>
+> **7** (1) The Board may appoint staff.
+>
+> (2) The staff are to be employed on terms and conditions (including any payments of remuneration, pensions, allowances and expenses) as may, with the approval of the Parliamentary corporation, be determined by the Board.
+>
+> (3) A person may not be appointed as a member of the staff of the Board if the person—
+>
+> (a) is a member of the Board, or
+>
+> (b) has a relevant connection to a political party.
+>
+> (4) The appointment of any member of the staff of the Board is to terminate if the person becomes connected to a political party.
+>
+> **Procedure etc.**
+>
+> **8** (1) It is for the Board to regulate its own procedure (and quorum).
+>
+> (2) The convener may (with the agreement of the other members of the Board) invite a person to attend a meeting of the Board for the purpose of providing advice or otherwise assisting the Board in carrying out its functions.
+>
+> **Advisers and other services**
+>
+> **9** (1) The Board may obtain advice, assistance or any other service from any person who, in the opinion of the Board, is qualified to give it.
+>
+> (2) The Board may pay to that person such fees and allowances as the Board determines.
+>
+> (3) Any payment under sub-paragraph (2) is subject to the approval of the Parliamentary corporation.
+>
+> **Powers of the Board and validity of actions**
+>
+> **10** (1) The Board may do anything which appears to it—
+>
+> (a) to be necessary or expedient for the purposes of, or in connection with, the performance of its functions, or
+>
+> (b) be otherwise conductive to the performance of its functions.
+>
+> (2) The validity of anything done by the Board is not affected by—
+>
+> (a) a vacancy in membership,
+>
+> (b) a defect in the appointment of a member,
+>
+> (c) the removal or disqualification of a person as a member after appointment.
+>
+> **Sharing of premises, staff, services and other resources**
+>
+> **11** The Board must comply with any direction given by the Parliamentary corporation as to the sharing of premises, staff, services or other resources with any other public body or any officeholder.
+>
+> **Budget**
+>
+> **12** (1) The Board must, before the start of each financial year, prepare proposals for the Board’s use of resources and expenditure during the year (a “budget”) and, by such date as the Parliamentary corporation determines, send the budget to the Parliamentary corporation for approval.
+>
+> (2) The Board may, in the course of a financial year, prepare a revised budget for the remainder of the year and send it to the Parliamentary corporation for approval.
+>
+> (3) In preparing a budget or revised budget, the Board must ensure that the resources of the Board will be used economically, efficiently and effectively.
+>
+> (4) A budget or revised budget must contain a statement that the Board has complied with the duty under sub-paragraph (3).
+>
+> **Financial provision**
+>
+> **13** (1) The Parliamentary corporation is to pay any expenditure properly incurred by the Board in the exercise of the functions of the Board.
+>
+> (2) Sub-paragraph (1) does not require the Parliamentary corporation to pay any expenses which exceed or are otherwise not covered by a budget or, as the case may be, a revised budget approved under paragraph 12.
+>
+> (3) However, the Parliamentary corporation may pay those expenses.
+>
+> **Accountable officer**
+>
+> **14** (1) The Parliamentary corporation is to designate the convener, a member of the Board, or a member of the Board’s staff as the accountable officer for the purposes of this paragraph.
+>
+> (2) The functions of the accountable officer are—
+>
+> (a) those specified in sub-paragraph (3), and
+>
+> (b) where the accountable officer is not the convener, the duty set out in sub-paragraph (4),
+>
+> and the accountable officer is answerable to the Parliament for the exercise of those functions.
+>
+> (3) The functions referred to in sub-paragraph (2)(a) are—
+>
+> (a) signing the accounts of the expenditure and receipts of the Board,
+>
+> (b) ensuring the propriety and regularity of the finances of the Board,
+>
+> (c) ensuring that the resources of the Board are used economically, efficiently and effectively.
+>
+> (4) The duty referred to in sub-paragraph (2)(b) is a duty, where the accountable officer is required to act in some way but considers that to do so would be inconsistent with the proper performance of the functions specified in sub-paragraph (3), to—
+>
+> (a) obtain written authority from the convener before taking the action, and
+>
+> (b) send a copy of that authority as soon as possible to the Auditor General for Scotland.
+>
+> **Accounts and audit**
+>
+> **15** (1) The Board must—
+>
+> (a) keep proper accounts and accounting records, and
+>
+> (b) prepare annual accounts in respect of each financial year.
+>
+> (2) The Board must send a copy of the annual accounts to the Auditor General for Scotland for auditing.
+>
+> **Annual report**
+>
+> **16** (1) The convener must, prepare a report on the carrying out of the Board’s functions during each financial year.
+>
+> (2) After securing the Board’s approval of the report, the convener must—
+>
+> (a) lay the report before the Scottish Parliament, and
+>
+> (b) send a copy of the report to the Scottish Ministers.
+>
+> (3) The report must be laid before the Parliament within 7 months of the end of each financial year.
+
+.
+
+(8) In section 7(2) of the Referendums (Scotland) Act 2020 (chief counting officer), after “section 2 of” insert “, or paragraph 2 of the schedule of,”.
+
+### 70 Application of public bodies legislation to the Electoral Management Board for Scotland
+
+(1) In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (others), after paragraph 63A insert—
+
+> **63B** Electoral Management Board for Scotland.
+
+.
+
+(2) In the Public Services Reform (Scotland) Act 2010—
+
+(a) In schedule 5, after the entry relating to David MacBrayne Ltd insert—
+
+> - Electoral Management Board for Scotland
+
+.
+
+(b) In schedule 8, after the entry relating to the Drinking Water Quality Regulator for Scotland insert—
+
+> - Electoral Management Board for Scotland
+
+.
+
+(3) In schedule 1 of the Gender Representation on Public Boards (Scotland) Act 2018, after the entry relating to David MacBrayne Limited (company number SC015304) insert—
+
+> |  |
+> |---|
+> | Electoral Management Board for Scotland |
+
+.
+
+### 71 Transitional provision: membership of the Electoral Management Board for Scotland
+
+(1) A person who holds the office of convener of the Electoral Management Board for Scotland immediately before the coming into force of the amendments made by section 69(7) continues to hold that office.
+
+(2) The duration of that person’s appointment is to be calculated as if that person was appointed as convener for the first time for a period of 5 years on the day that the amendments made by section 69(7) came into force.
+
+(3) Any other person who is a member of the Board immediately before the coming into force of the amendments made by section 69(7) continues as a member of the Board.
+
+(4) The duration of the appointment of a person mentioned in subsection (3) is to be calculated as if that person was appointed as a member for a period of 5 years on the day that the amendments made by section 69(7) came into force.
+
+(5) Accordingly, a person continuing as a convener or as a member of the Electoral Management Board for Scotland in accordance with this section—
+
+(a) remains eligible to be reappointed in accordance with paragraph 4 of the schedule of the Local Electoral Administration (Scotland) Act 2011, but
+
+(b) may be removed from office in accordance with paragraph 5 of that schedule.
+
+## Part 12 — General provision
+
+### 72 Ancillary provision
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
+
+(2) Regulations under this section may—
+
+(a) make different provision for different purposes,
+
+(b) modify any enactment (including this Act).
+
+(3) Regulations under this section—
+
+(a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
+
+(b) otherwise are subject to the negative procedure.
+
+### 73 Commencement
+
+(1) This section and sections 72 and 74 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under this section may—
+
+(a) include transitional, transitory or saving provision,
+
+(b) make different provision for different purposes.
+
+### 74 Short title
+
+The short title of this Act is the Scottish Elections (Representation and Reform) Act 2025.
+
+## Schedule — Offences for the purposes of Part 2
+
+*(introduced by section 8)*
+
+### Part 1 — Solemn procedure
+
+**1** An offence tried on indictment.
+
+### Part 2 — Summary procedure
+
+#### Chapter 1 — Common law offences
+
+**2** Kidnapping.
+
+**3** Abduction.
+
+**4** Assault to the danger of life.
+
+**5** Assault to severe injury.
+
+**6** Assault with intent to rape or ravish.
+
+**7** Assault other than a kind listed in paragraphs 4 to 6.
+
+**8** Breach of the peace.
+
+**9** Culpable homicide.
+
+**10** Culpable and reckless conduct.
+
+**11** Culpable and reckless endangering of the public.
+
+**12** Culpable and reckless fire-raising.
+
+**13** Drugging.
+
+**14** Extortion.
+
+**15** Malicious mischief.
+
+**16** Mobbing and rioting.
+
+**17** Uttering threats.
+
+**18** Wilful fire-raising.
+
+#### Chapter 2 — Statutory offences
+
+##### Explosive Substances Act 1883
+
+**19** An offence under either of the following provisions of the Explosive Substances Act 1883—
+
+(a) section 2 (causing explosion likely to endanger life or property),
+
+(b) section 3 (attempt to cause explosion, or making or keeping explosive with intent to endanger life or property).
+
+##### Criminal Law Act 1977
+
+**20** An offence under section 51 (bomb hoaxes) of the Criminal Law Act 1977.
+
+##### Taking of Hostages Act 1982
+
+**21** An offence under section 1 of the Taking of Hostages Act 1982 (hostage taking).
+
+##### Rent (Scotland) Act 1984
+
+**22** An offence under section 22 of the Rent (Scotland) Act 1984 (unlawful eviction and harassment of occupier).
+
+##### Public Order Act 1986
+
+**23** An offence under any of the following provisions of the Public Order Act 1986—
+
+(a) section 18 (racial hatred: use of words or behaviour or display of written material),
+
+(b) section 19 (racial hatred: publishing or distributing written material),
+
+(c) section 20 (racial hatred: public performance of play),
+
+(d) section 21 (racial hatred: distributing, showing or playing a recording),
+
+(e) section 22 (racial hatred: broadcasting or including programme in programme service).
+
+##### Criminal Justice Act 1988
+
+**24** An offence under section 134 (torture) of the Criminal Justice Act 1988.
+
+##### Trade Union and Labour Relations (Consolidation) Act 1992
+
+**25** An offence under section 241 of the Trade Union and Labour Relations (Consolidation) Act 1992 (intimidation or annoyance by violence or otherwise).
+
+##### Criminal Law (Consolidation) (Scotland) Act 1995
+
+**26** An offence under either of the following provisions of the Criminal Law (Consolidation) (Scotland) Act 1995—
+
+(a) section 50A (racially aggravated harassment),
+
+(b) section 52 (vandalism).
+
+##### Communications Act 2003
+
+**27** An offence under section 127 of the Communications Act 2003 (improper use of public electronic communications network).
+
+##### Sexual Offences (Scotland) Act 2009
+
+**28** An offence under any of the following provisions of the Sexual Offences (Scotland) Act 2009—
+
+(a) section 2 (sexual assault by penetration),
+
+(b) section 3 (sexual assault),
+
+(c) section 8 (sexual exposure).
+
+##### Criminal Justice and Licensing (Scotland) Act 2010
+
+**29** An offence under either of the following provisions of the Criminal Justice and Licensing (Scotland) Act 2010—
+
+(a) section 38 (threatening or abusive behaviour),
+
+(b) section 39 (stalking).
+
+##### Hate Crime and Public Order (Scotland) Act 2021
+
+**30** An offence under either of the following provisions of the Hate Crime and Public Order (Scotland) Act 2021—
+
+(a) section 3 (racially aggravated harassment),
+
+(b) section 4 (offences of stirring up hatred).
+
+### Part 3 — Other
+
+#### Inchoate offences
+
+**31** An offence committed by aiding, abetting, counselling, procuring or inciting the commission of any offence listed in paragraphs 1 to 30 of this schedule.
+
+**32** An offence committed by attempting or conspiring to commit any offence listed in paragraphs 1 to 30 of this schedule.
+
+#### Superseded offences
+
+**33** An offence superseded (whether directly or indirectly) by any offence listed in paragraphs 1 to 30 of this schedule (and any qualification in relation to a listed offence applies to the superseded offence as it applies to the listed offence).

@@ -1,0 +1,895 @@
+---
+title: "Gaelic Language (Scotland) Act 2005"
+identifier: "asp/2005/7"
+citation: "2005 asp 7"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2005-06-01
+last_amended: 2026-03-21
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2005/7"
+source_modified: 2026-04-14
+retrieved: 2026-10-11
+---
+
+# Gaelic Language (Scotland) Act 2005
+
+**2005 asp 7**
+
+An Act of the Scottish Parliament to establish a body having functions exercisable with a view to securing the status of the Gaelic language as an official language of Scotland commanding equal respect to the English language, including the functions of preparing a national Gaelic language plan, of requiring certain public authorities to prepare and publish Gaelic language plans in connection with the exercise of their functions and to maintain and implement such plans, and of issuing guidance in relation to Gaelic education.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st April 2005 and received Royal Assent on 1st June 2005
+
+## [[^F1]Status of the Gaelic language
+
+### A1 Status of the Gaelic language
+
+(1) The Gaelic language has official status within Scotland.
+
+(2) Subsection (1) is given legal effect by—
+
+(a) the provisions in this Act conferring functions on Bòrd na Gàidhlig, the Scottish Ministers and other persons in relation to promoting, facilitating and supporting the use of the Gaelic language,
+
+(b) enactments relating to Gaelic education.
+
+(3) Subsection (1) does not affect—
+
+(a) the operation of any other enactment or rule of law,
+
+(b) the status of any other language.
+
+(4) In this section “enactment” has the meaning given in schedule 1 of the Interpretation and Legislative Reform (Scotland) Act 2010.]
+
+## Bòrd na Gàidhlig
+
+### 1 Constitution and functions of Bòrd na Gàidhlig
+
+(1) There is established a body corporate to be known as Bòrd na Gàidhlig (in this Act referred to as “the Bòrd”).
+
+(2) The Bòrd has the general functions of—
+
+(a) promoting, and facilitating the promotion of—
+
+(i) the use and understanding of the Gaelic language, and
+
+(ii) Gaelic education and Gaelic culture,
+
+[[^F2](aa) monitoring, and reporting to the Scottish Ministers on, compliance by relevant public authorities with their duties under this Act,
+
+(ab) advising and assisting (either on request or when it thinks fit) any person on matters relating to the development of the Gaelic language, Gaelic education and Gaelic culture in a particular area,]
+
+(b) advising (either on request or when it thinks fit) the Scottish Ministers, public bodies and other persons exercising functions of a public nature on matters relating to the Gaelic language, Gaelic education and Gaelic culture,
+
+(c) advising (on request) other persons on matters relating to the Gaelic language, Gaelic education and Gaelic culture,
+
+[^F3]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The functions conferred on the Bòrd by this Act are to be exercised with a view to [[^F4]ensuring that the Gaelic language is treated with] equal respect to the English language through—
+
+[[^F5](za) encouraging and supporting the use and understanding of the Gaelic language, with a particular focus on areas of linguistic significance,]
+
+(a) increasing the number of persons who are able to use and understand the Gaelic language,
+
+[^F6]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) facilitating access, in Scotland and elsewhere, to the Gaelic language and Gaelic culture.
+
+[[^F7](3A) The Bòrd must, on the request of a relevant public authority, provide the authority free of charge with assistance in relation to the application of this Act to the authority.
+
+(3B) In giving assistance under subsection (3A), the Bòrd must seek to give effect, so far as is both appropriate in the circumstances and reasonably practicable, to the principle that the Gaelic and English languages should be accorded equal respect.
+
+(3C) In exercising its function under subsection (2)(ab), the Bòrd must in particular provide, or procure the provision of, advice, assistance and support to any person in the preparation of a plan for the development or promotion of the Gaelic language, Gaelic education and Gaelic culture in relation to a community in a particular area.]
+
+(4) The Scottish Ministers may give the Bòrd directions (of a general or specific character) and guidance as to the exercise of the Bòrd's functions.
+
+(5) The Scottish Ministers may vary or revoke any directions or guidance given under subsection (4).
+
+(6) Schedule 1 makes further provision with respect to the status, constitution, proceedings, etc. of the Bòrd.
+
+## [[^F8]Areas of linguistic significance
+
+### 1A Meaning of “area of linguistic significance”
+
+(1) An area may be designated as an area of linguistic significance under section 1B if—
+
+(a) the area contains a significant number of people with Gaelic language skills, or
+
+(b) the area does not contain a significant number of people with Gaelic language skills but—
+
+(i) the area is historically connected with the use of Gaelic,
+
+(ii) the area is one in which teaching and learning by means of the Gaelic language is provided, or
+
+(iii) the area is one in which significant activity relating to the Gaelic language or Gaelic culture takes place.
+
+(2) For the purpose of subsection (1), an area contains a significant number of people with Gaelic language skills if at least 20% of the area’s population has Gaelic language skills.
+
+### 1B Designation by local authority of an area as an area of linguistic significance
+
+(1) A local authority may designate all or part of its area as an area of linguistic significance if it considers that the area falls within the description of an area of linguistic significance set out in section 1A(1).
+
+(2) A local authority must, within the relevant period, consider whether all or part of its area falls within the description of an area of linguistic significance set out in section 1A(1)(a).
+
+(3) In subsection (2), “relevant period” means—
+
+(a) the period of 1 year beginning with the day on which section 4(2) of the Scottish Languages Act 2025 comes into force,
+
+(b) each subsequent period of 5 years.
+
+(4) If a local authority considers that all or part of its area falls within the description of an area of linguistic significance set out in section 1A(1)(a), the local authority must consider submitting a proposed designation to the Scottish Ministers under subsection (6)(c) in respect of that area.
+
+(5) If a local authority—
+
+(a) considers that all or part of its area falls within the description of an area of linguistic significance set out in section 1A(1)(a), and
+
+(b) decides not to submit a proposed designation to the Scottish Ministers under subsection (6)(c) in respect of that area,
+
+the local authority must publicise the decision and its reasons for making it.
+
+(6) Before making a designation, the local authority must—
+
+(a) consult the Bòrd, such persons as the local authority considers to be representative of communities in the area to which the proposed designation relates and such other persons as the local authority considers appropriate about the proposed designation,
+
+(b) take reasonable steps to publicise the proposed designation and its reasons for making it, and
+
+(c) submit the proposed designation to the Scottish Ministers.
+
+(7) The Scottish Ministers may—
+
+(a) approve the proposed designation,
+
+(b) approve the proposed designation with any modifications they consider appropriate, or
+
+(c) reject the proposed designation.
+
+(8) Where the Scottish Ministers intend to approve the proposed designation with modifications, they must consult the local authority before doing so.
+
+(9) A designation must—
+
+(a) identify the area to be designated as an area of linguistic significance, and
+
+(b) specify the date on which the designation takes effect.
+
+(10) A designation may be varied or revoked by the local authority at any time.
+
+(11) Before varying or revoking a designation in relation to any part of its area, the local authority must—
+
+(a) consult the Bòrd, such persons as the local authority considers to be representative of communities in the area affected by the proposed variation or revocation and such other persons as the local authority considers appropriate about the proposed variation or revocation,
+
+(b) take reasonable steps to publicise the proposed variation or revocation and its reasons for making it, and
+
+(c) submit the proposed variation or revocation to the Scottish Ministers.
+
+(12) The Scottish Ministers may—
+
+(a) approve the proposed variation or revocation,
+
+(b) approve the proposed variation or revocation with any modifications they consider appropriate, or
+
+(c) reject the proposed variation or revocation.
+
+(13) Where the Scottish Ministers intend to approve the proposed variation or revocation with modifications, they must consult the local authority before doing so.
+
+(14) A local authority must take reasonable steps to publicise—
+
+(a) the making of a designation and its effect,
+
+(b) any variation or revocation of a designation and its effect.
+
+(15) The Scottish Ministers may give guidance to local authorities relating to their functions under this section.
+
+(16) Guidance under subsection (15) may in particular relate to—
+
+(a) how to determine which areas may be designated as an area of linguistic significance,
+
+(b) factors to be taken into account in determining whether an area falls within the description of an area of linguistic significance set out in section 1A(1)(a),
+
+(c) the process for making such determinations.
+
+(17) A local authority must have regard to any guidance given by the Scottish Ministers under subsection (15).
+
+(18) In this section and sections 1C and 1D “local authority” has the meaning given in schedule 1 of the Interpretation and Legislative Reform (Scotland) Act 2010.
+
+### 1C Request by Bòrd for local authority to consider designation
+
+(1) The Bòrd may request a local authority to consider making a designation under section 1B.
+
+(2) The Bòrd must request a local authority to consider making a designation under section 1B if the Bòrd considers that there is evidence of demand for a designation under section 1B by persons residing in the local authority’s area.
+
+(3) If—
+
+(a) the Bòrd makes a request under this section, and
+
+(b) the local authority to which the request is made decides not to submit a proposed designation to the Scottish Ministers under section 1B(6)(c),
+
+the local authority must publicise the decision and its reasons for making it.
+
+(4) The Scottish Ministers may give guidance to the Bòrd and local authorities relating to their functions under this section.
+
+(5) The Bòrd and local authorities must have regard to any guidance given by the Scottish Ministers under subsection (4).
+
+### 1D Ministerial power to require reconsideration
+
+(1) Subsections (2) to (4) apply where, under section 1B(5) or section 1C(3), a local authority publicises a decision not to submit a proposed designation to the Scottish Ministers under section 1B(6)(c) (“the decision”).
+
+(2) The Scottish Ministers may require the local authority to reconsider the decision.
+
+(3) If the Scottish Ministers make a requirement under subsection (2), the local authority must, within the period of 3 months beginning with the day on which the requirement is made—
+
+(a) reconsider the decision, and
+
+(b) after reconsidering the decision—
+
+(i) submit a proposed designation to the Scottish Ministers, or
+
+(ii) confirm the decision.
+
+(4) If the local authority confirms the decision, it must notify the Scottish Ministers of its reasons for confirming the decision.]
+
+## National Gaelic language plan
+
+### 2 National Gaelic language plan
+
+(1) The Bòrd must—
+
+(a) within 12 months of the commencement of this section,
+
+(b) no later than 5 years after the date on which the most recent plan is published under subsection (7), and
+
+(c) whenever required to do so by the Scottish Ministers,
+
+prepare and submit to the Scottish Ministers a national Gaelic language plan which must include proposals as to the exercise of its functions under this Act.
+
+(2) Those proposals must include a strategy for promoting, and facilitating the promotion of—
+
+(a) the use and understanding of the Gaelic language, and
+
+(b) Gaelic education and Gaelic culture.
+
+(3) In preparing the plan, the Bòrd must—
+
+(a) consult the Parliament,
+
+(b) publish a draft of the plan,
+
+(c) publicise the opportunity to make representations about the draft plan under subsection (4) within such period of not less than 3 months as the Bòrd may specify, and
+
+(d) take into account any representations received by it within that period.
+
+(4) Any person who wishes to make representations to the Bòrd about the draft plan may do so within the period specified in pursuance of subsection (3).
+
+(5) The Scottish Ministers must, within 6 months of receiving the plan—
+
+(a) approve the plan, or
+
+(b) make such comments on the plan as they think fit and require the Bòrd to prepare and submit to them, within such period as they may specify, a further plan taking account of those comments.
+
+(6) Where a further plan is submitted, the Scottish Ministers must, within 3 months of receiving it—
+
+(a) approve the plan, or
+
+(b) order the Bòrd to publish the plan in such terms as the Scottish Ministers think fit.
+
+(7) On the plan being approved or, as the case may be, ordered to be published by the Scottish Ministers, the Bòrd must—
+
+(a) publish it in such manner as it thinks fit, and
+
+(b) lay a copy of it before the Parliament.
+
+## [[^F9]Functions of relevant public authorities
+
+### 2D Duties of relevant public authorities relating to Gaelic language and culture
+
+In exercising its functions, a relevant public authority must have regard to—
+
+(a) promoting, facilitating and supporting the use of the Gaelic language,
+
+(b) developing and encouraging Gaelic culture.
+
+### 2E Power for Scottish Ministers to give guidance
+
+(1) The Scottish Ministers may give guidance to relevant public authorities relating to their duties under section 2D.
+
+(2) In preparing guidance under subsection (1), the Scottish Ministers must have regard to the principle that the Gaelic and English languages should be accorded equal respect.
+
+(3) In preparing guidance under subsection (1), the Scottish Ministers must consult—
+
+(a) the Bòrd, and
+
+(b) such other persons as the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers must publish the results of the consultation undertaken under subsection (3).
+
+(5) A relevant public authority must have regard to any guidance given by the Scottish Ministers under subsection (1).
+
+(6) The Scottish Ministers must publish any guidance given under this section.
+
+### 2F Power for Scottish Ministers to give directions
+
+(1) The Scottish Ministers may, after consulting with a relevant public authority, give a direction to that authority relating to its duties under section 2D.
+
+(2) The Scottish Ministers—
+
+(a) may vary or revoke, and
+
+(b) must publish,
+
+a direction given under this section.
+
+(3) A relevant public authority must comply with a direction given to it under this section.]
+
+## Gaelic language plans
+
+### 3 Gaelic language plans
+
+(1) The Bòrd may give a notice in writing to any relevant public authority requiring the authority to prepare a Gaelic language plan.
+
+(2) The notice must—
+
+(a) state that the authority is required to prepare a Gaelic language plan in accordance with this section and submit it to the Bòrd,
+
+(b) specify a date (being no earlier than 6 months after the date the notice was given) by which the authority must submit the plan to the Bòrd, and
+
+(c) inform the authority of its rights under section 4 to request a review and to appeal to the Scottish Ministers.
+
+(3) In deciding whether to give a notice under subsection (1) to an authority, the Bòrd must have regard to—
+
+[[^F10](a) any national Gaelic language plan published under section 2 which is for the time being in effect,]
+
+(b) the extent to which—
+
+(i) the Gaelic language is used by persons in relation to whom the functions of the authority are exercisable, and
+
+(ii) in the Bòrd's opinion, there is potential for the authority to develop the use of the Gaelic language in connection with the exercise of those functions,
+
+(c) any representations made to it in relation to the use of the Gaelic language in connection with the exercise of those functions, and
+
+(d) any guidance given by the Scottish Ministers.
+
+(4) A Gaelic language plan must—
+
+(a) set out the measures to be taken by the relevant public authority in relation to the use of the Gaelic language in connection with the exercise of the authority's functions,
+
+[[^F11](aa) where the relevant public authority exercises functions in an area that has been designated under section 1B as an area of linguistic significance, set out the measures in relation to the use of the Gaelic language to be taken by the authority in connection with the exercise of its functions in that area,]
+
+(b) specify the date by which the measures are to be taken, and
+
+(c) contain such other information as may be prescribed in regulations made under subsection (7).
+
+(5) A relevant public authority, in preparing a Gaelic language plan, must have regard to—
+
+[[^F12](a) any national Gaelic language plan published under section 2 which is for the time being in effect,]
+
+[[^F13](aa) the most recent national Gaelic language strategy published under section 2A,
+
+(ab) the principle that the Gaelic and English languages should be accorded equal respect,]
+
+(b) the extent to which the persons in relation to whom the authority's functions are exercisable use the Gaelic language,
+
+(c) the potential for developing the use of the Gaelic language in connection with the exercise of those functions,
+
+(d) any representations made to the authority in relation to the use of the Gaelic language in connection with the exercise of those functions, and
+
+(e) any guidance given by the Scottish Ministers or the Bòrd.
+
+(6) In preparing a Gaelic language plan, a relevant public authority must [[^F14]consult—
+
+(a) people with Gaelic language skills in relation to whom the authority exercises functions,
+
+(b) persons with an interest in the promotion of the Gaelic language, and
+
+(c) such other persons as the authority considers appropriate.]
+
+(7) The Scottish Ministers may, after consulting the Bòrd, by regulations make further provision in relation to the content of Gaelic language plans.
+
+(8) Those regulations [^F15]may make different provision for different purposes or for different types of authority [[^F15]may in particular—
+
+(a) make further provision about the required content of Gaelic language plans in respect of areas that have been designated under section 1B as areas of linguistic significance,]
+
+### 4 Review of, and appeal against, notices
+
+(1) Where a relevant public authority receives a notice under subsection (1) of section 3 and considers that the date specified in it by virtue of subsection (2)(b) of that section is unreasonable, it may within 28 days of receipt of the notice request the Bòrd to review the date.
+
+(2) A request under subsection (1) must set out the authority's reasons for its view.
+
+(3) The Bòrd must within 28 days of receipt of the request review the date and—
+
+(a) confirm the date, or
+
+(b) substitute a later date (in which case that date is deemed to be the date specified in the notice by virtue of section 3(2)(b)).
+
+(4) In intimating to the authority its decision under subsection (3) the Bòrd must, if the decision is to confirm the date, set out its reasons for the decision.
+
+(5) If the authority is aggrieved by the Bòrd's decision under subsection (3), it may, within 28 days of receiving intimation of the decision, appeal to the Scottish Ministers.
+
+(6) The Scottish Ministers must determine an appeal under subsection (5) no later than 2 months after the date on which the appeal was made.
+
+(7) If the Scottish Ministers uphold an appeal under subsection (5) they must specify another date by which the authority must submit a Gaelic language plan to the Bòrd.
+
+(8) Where a relevant public authority receives a notice under subsection (1) of section 3 it may, within 28 days of such receipt, appeal to the Scottish Ministers against the notice on the grounds that, having regard to the matters specified in subsection (3)(a) to (d) of that section, the Bòrd's decision to give the notice to the authority was unreasonable.
+
+(9) The Scottish Ministers must determine an appeal under subsection (8) no later than 6 months after the date on which the appeal was made.
+
+(10) If the Scottish Ministers uphold an appeal under subsection (8)—
+
+(a) the notice ceases to have effect, and
+
+(b) the Bòrd may not give a further notice under section 3(1) to the authority until the expiry of the period of 2 years beginning with the date on which the notice to which the appeal relates was given.
+
+### 5 Approval of plans
+
+(1) Where a Gaelic language plan is submitted to the Bòrd by a relevant public authority pursuant to a notice under section 3(1) or under subsection (3)(b) of this section, the Bòrd must—
+
+(a) approve the plan, or
+
+(b) propose modifications to it.
+
+(2) In considering the plan for the purposes of subsection (1), the Bòrd must have regard to—
+
+(a) the matters referred to in section 3(5)(a) to (d), and
+
+(b) any guidance given by the Scottish Ministers.
+
+(3) If the Bòrd proposes modifications, the authority must—
+
+(a) within one month of the date on which the proposed modifications are intimated to the authority, notify the Bòrd that it does not agree with all or any of the modifications, giving reasons for that disagreement, or
+
+(b) by a date specified by the Bòrd, amend the plan to take account of the modifications and resubmit the plan to the Bòrd.
+
+(4) The date referred to in subsection (3)(b) must be no less than 3 months and no more than 6 months after the date on which the proposed modifications are intimated to the authority.
+
+(5) Where notification is given under paragraph (a) of subsection (3), the Bòrd, having considered the reasons referred to in that paragraph, must—
+
+(a) approve the plan as originally submitted to the Bòrd,
+
+(b) approve the plan subject to such modifications (including all or any of those proposed under subsection (1)(b)) as the Bòrd and the authority may agree, or
+
+(c) if, on the expiry of the period of 2 months beginning with the date on which the authority gave notice to the Bòrd under subsection (3)(a), the Bòrd has not approved the plan under paragraph (a) or (b), refer the matter to the Scottish Ministers.
+
+(6) On a reference to them under subsection (5)(c), the Scottish Ministers, after complying with subsection (7), must—
+
+(a) approve the plan as originally submitted to the Bòrd, or
+
+(b) approve the plan subject to such modifications (including all or any of those proposed under subsection (1)(b)) as they think fit.
+
+(7) Before approving a plan under subsection (6), the Scottish Ministers—
+
+(a) must have regard to the matters mentioned in section 3(5)(a) to (c),
+
+(b) must give the Bòrd and the authority an opportunity to make representations about the plan, and
+
+(c) may consult any other person whom they think fit,
+
+and must take account of any representations made by the Bòrd or the authority and any views expressed by a person consulted under paragraph (c).
+
+(8) Approval of a plan under subsection (6) must be given no later than 6 months after the date on which the matter was referred to the Scottish Ministers under subsection (5)(c).
+
+(9) On the plan being approved by the Bòrd or the Scottish Ministers, the authority must—
+
+(a) publish it in such manner as it thinks fit (having regard to any guidance given by the Bòrd), and
+
+(b) implement the measures in accordance with the plan.
+
+### 6 Monitoring of implementation
+
+(1) This section applies where—
+
+(a) a relevant public authority's Gaelic language plan has been approved by the Bòrd or the Scottish Ministers under section 5, and
+
+(b) at least 12 months have elapsed since the date of approval.
+
+(2) The Bòrd may require the authority to submit to it, by a date no earlier than 3 months after the date of the requirement, a report on the extent to which the authority has implemented the measures set out in the plan.
+
+(3) The Bòrd may not make a second or subsequent requirement under subsection (2) within 12 months of the date of the previous requirement.
+
+(4) Where the Bòrd considers that a relevant public authority is failing to implement adequately measures in its Gaelic language plan, it may submit to the Scottish Ministers a report setting out its reasons for that conclusion.
+
+(5) On receipt of the report, the Scottish Ministers may take either or both of the following steps—
+
+(a) they may lay a copy of the report before the Scottish Parliament,
+
+(b) they may direct the authority in question to implement any or all of the measures in its Gaelic language plan by the date specified in the direction.
+
+(6) Before giving a direction under subsection (5)(b), the Scottish Ministers must—
+
+(a) consult the authority about the terms of the proposed direction, and
+
+(b) take account of any representations made by the authority.
+
+### 7 Review of plans
+
+(1) This section applies where a Gaelic language plan has been approved by the Bòrd or the Scottish Ministers under section 5 (including that section as applied by subsection (3) of this section).
+
+(2) Where this section applies, the relevant public authority which prepared the plan must, no later than 5 years after the date of approval of the plan—
+
+(a) review the plan,
+
+(b) make such amendments (if any) to the plan as the authority considers necessary or expedient, and
+
+(c) submit it to the Bòrd.
+
+(3) Sections 3(4) to (6) and 5 apply in relation to the review and amendment of a plan under subsection (2) of this section as they apply in relation to the preparation of a plan pursuant to a notice under section 3(1).
+
+(4) A relevant public authority may, without undertaking a review, at any time amend a Gaelic language plan published under section 5(9) (for example, by correcting an error or by updating factual information which has changed) in a way that does not alter the plan substantially.
+
+### 7A [[^F16]Guidance and directions by Scottish Ministers
+
+(1) The Scottish Ministers may give guidance to relevant public authorities relating to Gaelic language plans.
+
+(2) A relevant public authority must have regard to any guidance given by the Scottish Ministers under subsection (1).
+
+[[^F17](6) Where the authority required to prepare a Gaelic language plan under this Act is an education authority, the Scottish Ministers may give a direction to that authority relating to the application of the standards and requirements specified in regulations made under section 6B of the Education (Scotland) Act 2016 to the preparation of the plan.
+
+(7) The Scottish Ministers may vary or revoke a direction given under subsection (6).
+
+(8) An education authority must comply with a direction given to it under subsection (6).]]
+
+## [[^F18]Financial assistance for the promotion etc. of the Gaelic language
+
+### 7B Financial assistance for the promotion etc. of the Gaelic language
+
+(1) The Scottish Ministers may give financial assistance to any person for the purposes of promoting, facilitating and supporting the use of the Gaelic language.
+
+(2) In subsection (1), “financial assistance” includes grants and loans.
+
+(3) Financial assistance under subsection (1) may be made subject to such conditions as the Scottish Ministers think fit.]
+
+## [[^F19]Scottish Ministers’ powers relating to research etc.
+
+### 7C Scottish Ministers’ powers relating to research etc.
+
+The Scottish Ministers may, for the purposes of or in connection with the exercise of their functions under this Act—
+
+(a) conduct research and inquiries,
+
+(b) collect data and publish statistics or other information,
+
+(c) provide training,
+
+(d) encourage or assist other persons to do any of the things mentioned in paragraphs (a) to (c).]
+
+### 8 Guidance, assistance, etc. by the Bòrd
+
+(1) The Bòrd must, from time to time when it thinks fit, prepare and submit to the Scottish Ministers guidance for relevant public authorities in relation to the operation of sections 3 to 7.
+
+(2) In preparing the guidance, the Bòrd must—
+
+(a) publish a draft of the guidance,
+
+(b) publicise the opportunity to make representations about the draft guidance under subsection (3) within such period of not less than 3 months as the Bòrd may specify, and
+
+(c) take into account any representations received by it within that period.
+
+(3) Any person who wishes to make representations to the Bòrd about the draft guidance may do so within the period specified in pursuance of subsection (2).
+
+(4) The Scottish Ministers must—
+
+(a) approve the guidance with or without modifications, or
+
+(b) reject the guidance and, where they do so, may require the Bòrd to prepare and submit to them, within such period as they may specify, revised guidance.
+
+(5) Where revised guidance is submitted, the Scottish Ministers must—
+
+(a) approve the guidance, or
+
+(b) order the Bòrd to publish it in such terms as the Scottish Ministers think fit.
+
+(6) On such guidance being approved or, as the case may be, ordered to be published by the Scottish Ministers, the Bòrd must publish it in such manner as it thinks fit.
+
+(7) The Bòrd may vary or revoke guidance published under subsection (6), and subsections (2) to (6) apply to a variation.
+
+(8) Before revoking guidance published under subsection (6), the Bòrd must obtain the consent of the Scottish Ministers.
+
+(9) The Bòrd must, on the request of a relevant public authority, provide the authority free of charge with advice and assistance in relation to the application of this Act to the authority.
+
+(10) In preparing guidance under subsection (1) and giving advice and assistance under subsection (9), the Bòrd must seek to give effect, so far as is both appropriate in the circumstances and reasonably practicable, to the principle that the Gaelic and English languages should be accorded equal respect.
+
+## [^F20]Gaelic education
+
+### 9 Guidance on Gaelic education
+
+[^F20]1 [^F20]The Bòrd [^F20][[^F21]must][^F20] prepare and submit to the Scottish Ministers guidance in relation to the provision of Gaelic education and the development of such provision.
+
+[^F20][[^F22]1A [^F20]Guidance under subsection (1) may, in particular, include provision relating to the provision of Gaelic education in schools.
+
+[^F20]1B [^F20]In subsection (1A), “[^F20]schools[^F20]” has the meaning given by section 135(1) of the Education (Scotland) Act 1980.]
+
+[^F20]2 [^F20]Subsections (2) to (8) of section 8 apply to guidance under subsection (1) as they apply to guidance under subsection (1) of that section.
+
+[^F20][[^F23]2A [^F20]Any relevant public authority having functions relating to, or to the provision of, Gaelic education must, to the extent that guidance under subsection (1) relates to the functions, have regard to the guidance in carrying out the functions.]
+
+[^F20]3 [^F20]After subsection (4) of section 5 (education authority's annual statement of improvement objectives) of the Standards in Scotland's Schools [^F20]etc.[^F20] Act 2000 (asp 6), insert—
+
+> [^F20]4A [^F20]In complying with subsection (2)(c) above, an education authority shall have regard to—
+>
+> [^F20]a [^F20]any Gaelic language plan published by the authority under section 5(9) of the Gaelic Language (Scotland) Act 2005 (asp 7), and
+>
+> [^F20]b [^F20]any guidance published by Bòrd na Gàidhlig under section 9 of that Act.
+
+[^F20].
+
+## [[^F24]Enforcement of duties
+
+### 9A Power to enforce duties of relevant public authorities
+
+(1) If the Scottish Ministers are satisfied, either on complaint by any person interested or otherwise, that a relevant public authority has failed to discharge any duty imposed on it by or for the purposes of this Act, the Scottish Ministers may make an order—
+
+(a) declaring the authority to be in default in respect of that duty, and
+
+(b) requiring the authority before a date specified in the order to discharge that duty.
+
+(2) If the relevant public authority has not discharged the duty by the date specified in the order under subsection (1)(b)—
+
+(a) the Scottish Ministers may make such arrangements as they see fit for the discharge of the duty, or
+
+(b) the Court of Session may, on the application of the Lord Advocate, order specific performance of that duty.]
+
+## General
+
+### 10 Interpretation
+
+(1) In this Act—
+
+- “Gaelic culture” includes the traditions, ideas, customs, heritage and identity of those who speak or understand the Gaelic language,
+
+- “Gaelic education” means education [[^F25]consisting of teaching and learning]—
+
+  - (a) in the use and understanding of,
+  - (b) about, or
+  - (c) by means of,
+
+  the Gaelic language,
+
+- “the Gaelic language” means the Gaelic language as used in Scotland.
+
+[[^F26](1A) Any reference in this Act to anything done in writing or produced in written form includes a reference to an electronic communication (as defined in section 15(1) of the Electronic Communications Act 2000 (c. 7)), which has been recorded and is consequently capable of being reproduced.]
+
+(2) References in this Act to a relevant public authority are to—
+
+(a) a Scottish public authority,
+
+(b) so far as not falling within paragraph (a), a cross-border public authority (but only in relation to functions exercisable in or as regards Scotland which do not relate to reserved matters), [^F27]. . .
+
+[[^F28](ba) a post-16 education body within the meaning of section 35 of the Further and Higher Education (Scotland) Act 2005,
+
+(bb) Scottish Rail Holdings,
+
+(bc) Scottish Water, and]
+
+(c) the Scottish Parliamentary Corporate Body.
+
+[^F29]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of this Act, the functions of a relevant public authority include—
+
+(a) functions relating to its internal processes, and
+
+(b) the provision by the authority of any services to the public.
+
+### 11 Regulations and orders
+
+(1) Regulations and orders under this Act are to be made by statutory instrument.
+
+(2) An instrument containing regulations under section 3(7) or an order under paragraph 2(2) of schedule 1 is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+### 12 Consequential amendments
+
+Schedule 2 (consequential amendments) has effect.
+
+### 13 Short title and commencement
+
+(1) This Act may be cited as the Gaelic Language (Scotland) Act 2005.
+
+(2) This Act (except section 11 and this section) comes into force on such day as the Scottish Ministers may by order appoint.
+
+(3) An order under subsection (2) may include such transitional, transitory or saving provision in connection with the coming into force of the provisions brought into force as the Scottish Ministers think fit.
+
+## SCHEDULE 1 — Bòrd na Gàidhlig
+
+*(introduced by section 1(6))*
+
+### Status
+
+**1** The Bòrd—
+
+(a) is not to be regarded as the servant or agent of the Crown,
+
+(b) does not enjoy any status, immunity or privilege of the Crown,
+
+and the Bòrd's property is not to be regarded as property of, or held on behalf of, the Crown.
+
+### Membership
+
+**2** (1) The Bòrd is to consist of—
+
+(a) no fewer than 5, nor more than 11, ordinary members, and
+
+(b) a person whose function is to chair the Bòrd, (in this schedule referred to as the “Cathraiche”) who is to be an ex officio member,
+
+appointed by the Scottish Ministers.
+
+(2) The Scottish Ministers may by order amend sub-paragraph (1)(a) by substituting for the minimum or maximum number of ordinary members for the time being specified there such other number as they think fit.
+
+(3) The members and the Cathraiche are to be appointed for such period as the Scottish Ministers think fit.
+
+(4) Where the office of Cathraiche is vacant, the ordinary members must elect from amongst themselves a person to chair the Bòrd until an appointment is made under sub-paragraph (1)(b).
+
+(5) Each member—
+
+(a) may, by written notice to the Scottish Ministers, resign as a member,
+
+(b) in other respects, holds and vacates office on such terms and conditions as the Scottish Ministers may determine.
+
+(6) The Scottish Ministers may, by written notice, remove a member from office if they are satisfied that—
+
+(a) the member's estate has been sequestrated or the member has been adjudged bankrupt, has made an arrangement with creditors or has granted a trust deed for creditors or a composition contract, or
+
+(b) the member—
+
+(i) is incapacitated as a result of physical or mental illness,
+
+(ii) has been absent from meetings of the Bòrd for a period longer than 3 consecutive months without the permission of the Bòrd, or
+
+(iii) is otherwise unfit or unable to discharge the member's functions as a member.
+
+**3** A person may not be appointed to or continue as a member of the Bòrd if that person is or (as the case may be) becomes—
+
+(a) a member of the House of Commons,
+
+(b) a member of the Scottish Parliament, or
+
+(c) a member of the European Parliament.
+
+### Remuneration and allowances
+
+**4** The Bòrd must pay the Cathraiche and the ordinary members such remuneration and allowances as the Scottish Ministers may determine.
+
+### Ceannard and other staff
+
+**5** (1) The Bòrd must, with the approval of the Scottish Ministers, appoint a person to the post of chief executive (“Ceannard”) on such terms and conditions as it may with the approval of the Scottish Ministers determine.
+
+(2) The Bòrd may appoint on such terms and conditions as it may with the approval of the Scottish Ministers determine such other employees as it considers appropriate.
+
+(3) The Bòrd must, as regards such of its employees as it may with the approval of the Scottish Ministers determine, make such arrangements as it considers appropriate for providing, to or in respect of those employees, pensions, allowances or gratuities.
+
+(4) Such arrangements—
+
+(a) may include the establishment and administration, by the Bòrd or otherwise, of one or more pension schemes, and
+
+(b) must, in any case, be approved by the Scottish Ministers.
+
+(5) The reference in sub-paragraph (3) to the provision of pensions, allowances or gratuities includes a reference to their provision by way of compensation for loss of office or employment or loss or diminution of emoluments.
+
+### Committees
+
+**6** (1) The Bòrd may establish committees for or in connection with such of its functions as it may determine.
+
+(2) The Bòrd may appoint persons who are not members of the Bòrd to be members of a committee.
+
+(3) A person appointed under sub-paragraph (2) is not entitled to vote at meetings of the committee.
+
+### Proceedings and meetings
+
+**7** (1) The Bòrd may determine its own procedure and that of its committees, including a quorum for meetings.
+
+(2) The validity of any proceedings of the Bòrd and of any committee established by it is not affected by any vacancy among its members or the members of the committee or by any defect in the appointment of any member of the Bòrd.
+
+(3) Members of the Scottish Executive, junior Scottish Ministers and persons authorised by the Scottish Ministers may attend and take part in meetings of the Bòrd and any committee established by it, but are not entitled to vote at such meetings.
+
+### Accounts and annual report
+
+**8** The Bòrd must—
+
+(a) prepare for each financial year, in accordance with directions given by the Scottish Ministers, an account of the Bòrd's expenditure and receipts, and
+
+(b) send the account, by such time as the Scottish Ministers may direct, to the Auditor General for Scotland for auditing.
+
+**9** As soon as practicable after the end of each financial year, the Bòrd must prepare a report on the exercise of its functions during that year and must—
+
+(a) publish the report and send a copy to the Scottish Ministers, and
+
+(b) lay the report before the Parliament.
+
+### Delegation of functions by the Scottish Ministers
+
+**10** (1) The Scottish Ministers may make arrangements for any of their functions which relate to the subject matter of this Act to be exercised on their behalf, subject to such conditions as they may impose, by the Bòrd; and the Bòrd may exercise those functions accordingly.
+
+(2) An arrangement under sub-paragraph (1) does not affect the responsibility of the Scottish Ministers for the exercise of their functions.
+
+(3) In sub-paragraph (1), “functions” does not include the function of making, confirming or approving subordinate legislation.
+
+### General powers
+
+**11** (1) The Bòrd may do anything (whether in Scotland or elsewhere) which is conducive or incidental to the exercise of its functions, and may in particular—
+
+(a) engage in any business or undertaking,
+
+(b) form, promote or acquire (whether alone or with others) companies ([[^F30]as defined in section 1(1) of the Companies Act 2006]),
+
+(c) form partnerships with others,
+
+(d) with the consent of the Scottish Ministers, establish or take part in the setting up of organisations having functions similar to the functions of the Bòrd,
+
+(e) enter into contracts,
+
+(f) make grants and loans,
+
+(g) make charges for the provision of advice or other services in such circumstances and of such amounts as the Bòrd may, with the consent of the Scottish Ministers, determine,
+
+(h) accept gifts of money or other property,
+
+(i) invest sums not immediately required in relation to the exercise of its functions,
+
+(j) commission research.
+
+(2) Sub-paragraph (1)(g) does not entitle the Bòrd to make charges for the provision of advice and assistance to relevant public authorities under section [[^F31]1(3A)].
+
+### Grants
+
+**12** (1) The Scottish Ministers may make grants to the Bòrd for such purposes and of such amounts as they think fit.
+
+(2) Any grant made under sub-paragraph (1) may be made subject to such conditions as the Scottish Ministers think fit.
+
+(3) The Bòrd does not have power to borrow money or to give guarantees.
+
+## SCHEDULE 2 — Consequential amendments
+
+*(introduced by section 12)*
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**1** In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000 (devolved public bodies) insert at the appropriate place “ Bòrd na Gàidhlig ”.
+
+### Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**2** In Part 2 of schedule 2 to the Scottish Public Services Ombudsman Act 2002 (listed authorities amendable by Order in Council) insert at the appropriate place “ Bòrd na Gàidhlig ”.
+
+### Freedom of Information (Scotland) Act 2002 (asp 13)
+
+**3** In Part 7 of schedule 1 to the Freedom of Information (Scotland) Act 2002 (Scottish public authorities subject to the duty to provide certain information) insert at the appropriate place
+
+> Bòrd na Gàidhlig
+
+.
+
+### Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+
+**4** In schedule 2 to the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (authorities appointments to which are governed by a code of practice) under the heading “Executive bodies” insert at the appropriate place “ Bòrd na Gàidhlig ”.
+
+---
+
+[^F1]: S. A1 and cross-heading inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 1(2), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F2]: S. 1(2)(aa)(ab) inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 2(2)(a)(i), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F3]: S. 1(2)(d) repealed (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 2(2)(a)(ii), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F4]: Words in s. 1(3) substituted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 2(2)(b)(i), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F5]: S. 1(3)(za) inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 2(2)(b)(ii), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F6]: S. 1(3)(b) repealed (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 2(2)(b)(iii), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F7]: S. 1(3A)-(3C) inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 2(2)(c), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F8]: Ss. 1A-1D and cross-heading inserted (21.3.2026 for specified purposes) by Scottish Languages Act 2025 (asp 10), ss. 4(2), 48(2); S.S.I. 2026/128, reg. 2(1)
+[^F9]: Ss. 2D-2F and cross-heading inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 7(2), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F10]: S. 3(3)(a) substituted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 9(2)(a)(i), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F11]: S. 3(4)(aa) inserted (21.3.2026 for specified purposes) by Scottish Languages Act 2025 (asp 10), ss. 4(3)(a), 48(2); S.S.I. 2026/128, reg. 2(1)
+[^F12]: S. 3(5)(a) substituted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 9(2)(b)(i), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F13]: S. 3(5)(aa)(ab) inserted (30.11.2025 for the insertion of s. 3(5)(ab), otherwise prosp.) by Scottish Languages Act 2025 (asp 10), ss. 9(2)(b)(ii), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F14]: Words in s. 3(6) substituted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 9(2)(c), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F15]: Words in s. 3(8) substituted (21.3.2026 for specified purposes) by Scottish Languages Act 2025 (asp 10), ss. 4(3)(b), 48(2); S.S.I. 2026/128, reg. 2(1)
+[^F16]: S. 7A inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 9(6), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F17]: S. 7A(6)-(8) inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 16(5), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F18]: S. 7B and cross-heading inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 10(2), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F19]: S. 7C and cross-heading inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 11(2), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F20]: S. 9 and cross-heading repealed (30.11.2025 for specified purposes) by Scottish Languages Act 2025 (asp 10), ss. 17(8), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F21]: Word in s. 9(1) substituted (15.7.2016) by Education (Scotland) Act 2016 (asp 8), ss. 16(2), 33(2); S.S.I. 2016/192, reg. 2, sch.
+[^F22]: S. 9(1A)(1B) inserted (15.7.2016) by Education (Scotland) Act 2016 (asp 8), ss. 16(3), 33(2); S.S.I. 2016/192, reg. 2, sch.
+[^F23]: S. 9(2A) inserted (15.7.2016) by Education (Scotland) Act 2016 (asp 8), ss. 16(4), 33(2); S.S.I. 2016/192, reg. 2, sch.
+[^F24]: S. 9A and cross-heading inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 12(2), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F25]: Words in s. 10(1) inserted (15.7.2016) by Education (Scotland) Act 2016 (asp 8), ss. 17(1), 33(2); S.S.I. 2016/192, reg. 2, sch.
+[^F26]: S. 10(1A) inserted (23.6.2006) by The Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367), art. 7
+[^F27]: Word in s. 10(2) repealed (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 13(2)(a), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F28]: S. 10(2)(ba)-(bc) inserted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 13(2)(b), 48(2); S.S.I. 2025/348, reg. 2, sch.
+[^F29]: S. 10(3) repealed (1.4.2015) by Food (Scotland) Act 2015 (asp 1), s. 63(2), Sch. para. 9 (with s. 62); S.S.I. 2015/99, art. 2
+[^F30]: Words in sch. 1 para. 11(1)(b) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 249 (with art. 10)
+[^F31]: Word in sch. 1 para. 11(2) substituted (30.11.2025) by Scottish Languages Act 2025 (asp 10), ss. 2(3), 48(2); S.S.I. 2025/348, reg. 2, sch.

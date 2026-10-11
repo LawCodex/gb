@@ -1,0 +1,2381 @@
+---
+title: "Scottish Public Services Ombudsman Act 2002"
+identifier: "asp/2002/11"
+citation: "2002 asp 11"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2002-04-23
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2002/11"
+source_modified: 2026-10-01
+retrieved: 2026-10-11
+---
+
+# Scottish Public Services Ombudsman Act 2002
+
+**2002 asp 11**
+
+An Act of the Scottish Parliament to make provision (including provision for the purposes of section 91 of the Scotland Act 1998) for the appointment and functions of the Scottish Public Services Ombudsman; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st March 2002 and received Royal Assent on 23rd April 2002
+
+## The Scottish Public Services Ombudsman
+
+### 1 The Scottish Public Services Ombudsman
+
+(1) For the purposes of this Act there is to be an officer known as the Scottish Public Services Ombudsman (in this Act referred to as the “Ombudsman”) who is to be an individual appointed by Her Majesty on the nomination of the Scottish Parliament.
+
+(2) Her Majesty may, on the nomination of the Parliament, appoint individuals to be deputy Scottish Public Services Ombudsmen; and in this Act references to a deputy Ombudsman are to any such deputy.
+
+(3) There are to be no more than three deputy Ombudsmen at any time.
+
+(4) The Ombudsman’s functions may be exercised by a deputy Ombudsman if—
+
+(a) the office of Ombudsman is vacant (unless there is an acting Ombudsman appointed under paragraph 5(1) of schedule 1), or
+
+(b) the Ombudsman is for any reason unable to act,
+
+and while exercising those functions the deputy Ombudsman is to be treated for all purposes, except those of paragraphs 3(a), 4, 7 and 8 of schedule 1, as the Ombudsman.
+
+(5) Schedule 1 makes further provision about the appointment, status, etc. of the Ombudsman and deputy Ombudsmen and about other administrative matters in connection with those officers.
+
+## Investigations by the Ombudsman
+
+### 2 Power of investigation
+
+(1) The Ombudsman may investigate any matter, whenever arising, if—
+
+(a) the matter consists of action taken by or on behalf of a person liable to investigation under this Act,
+
+(b) the matter is one which the Ombudsman is entitled to investigate, and
+
+(c) a complaint in respect of the matter has been duly made to the Ombudsman.
+
+(2) The Ombudsman may investigate any matter, whenever arising, if—
+
+(a) paragraphs (a) and (b) of subsection (1) are satisfied, and
+
+(b) the person liable to investigation has requested the Ombudsman to investigate the matter.
+
+(3) Without prejudice to paragraph 2(2) of schedule 1, it is for the Ombudsman to decide whether to initiate, continue or discontinue an investigation under subsection (1) or (2).
+
+(4) The Ombudsman may take such action in connection with the complaint or request as the Ombudsman thinks may be of assistance in reaching any such decision.
+
+(5) Such action may, in particular, include action with a view to resolving the complaint or request.
+
+### 3 Persons liable to investigation
+
+(1) The persons liable to investigation under this Act are the persons specified, or of a class specified, in Parts 1 [[^F1], 2 and 3] of schedule 2; and references in this Act to a listed authority are references to any such person.
+
+(2) Her Majesty may by Order in Council amend Part 2 of that schedule so as to—
+
+(a) modify any entry in it,
+
+(b) remove any entry from it, or
+
+(c) subject to subsections (3) to (6) and section 4, add any entry to it.
+
+(3) An entry may be added to that Part of that schedule only if the entry relates to a person who, or a class of persons each of whom, is—
+
+(a) a Scottish public authority with mixed functions or no reserved functions,
+
+(b) a publicly-owned company, or
+
+(c) a person who is neither a Scottish public authority nor a publicly-owned company but who appears to Her Majesty to exercise functions of a public nature.
+
+(4) An Order in Council under subsection (2) adding an entry to that Part of that schedule in pursuance of subsection (3)(c)—
+
+(a) may provide for this Act to apply to any person to whom, or falling within any class of persons to which, the entry relates subject to such modifications or exceptions as may be specified in the Order in Council, and
+
+(b) must, in relation to each such person or class of person, specify the functions of a public nature which appear to be exercised by that person or, as the case may be, persons of that class.
+
+(5) No recommendation to make an Order in Council referred to in subsection (4) is to be made to Her Majesty in Council unless every person to whom the Order relates has been consulted.
+
+(6) No entry is to be added to Part 2 of schedule 2 in relation to—
+
+(a) a person whose sole activity is, or whose main activities are—
+
+(i) the provision of education, or the provision of training otherwise than under the Industrial Training Act 1982 (c.10),
+
+(ii) the development of curricula, the conduct of examinations or the validation of educational courses,
+
+(iii) the control of entry to any profession or the regulation of the conduct of members of any profession, or
+
+(iv) the investigation of complaints by members of the public regarding the actions of any person or the supervision or review of such investigations or of steps taken following them, or
+
+(b) a person operating in an exclusively or predominantly commercial manner or a person carrying on under national ownership an industry or undertaking or part of an industry or undertaking.
+
+[[^F2](7) Her Majesty may by Order in Council amend Part 3 of schedule 2 so as to—
+
+(a) modify any entry in it,
+
+(b) remove any entry from it, [^F3]...
+
+(c) add to it any entry relating to a person, or class of persons, providing fundable further education or fundable higher education (within the meaning of the Further and Higher Education (Scotland) Act 2005 (asp 6)) [[^F4], or
+
+(d) add to it an entry relating to a regional strategic body (within the meaning of that Act).]
+
+(8) An Order in Council under subsection (7) adding an entry to that Part of that schedule relating to a person, or class of persons, whose business (whether commercial, charitable or otherwise) includes matters other than the activities which [[^F5]post-16 education] bodies (within the meaning of that Act) generally carry on—
+
+(a) must, as regards that person or class, provide for this Act to apply only in relation to those activities; and
+
+(b) may do so subject to such modifications or exceptions as may be specified in the Order in Council.
+
+(9) No recommendation to make an Order in Council under subsection (7)(c) is to be made to Her Majesty unless every person to whom the Order relates has been consulted.]
+
+### 4 Persons liable to investigation: supplementary
+
+(1) A person is a publicly-owned company for the purposes of section 3(3) if that person is a company wholly owned by the Scottish Ministers or by any listed authority.
+
+(2) A company is wholly owned—
+
+(a) by the Scottish Ministers if it has no members except—
+
+(i) the Scottish Ministers or companies wholly owned by the Scottish Ministers, or
+
+(ii) persons acting on behalf of the Scottish Ministers or of such companies,
+
+(b) by a listed authority if it has no members except—
+
+(i) the authority or companies wholly owned by the authority, or
+
+(ii) persons acting on behalf of the authority or of such companies.
+
+(3) In subsections (1) and (2), “company” includes any body corporate.
+
+### 5 Matters which may be investigated
+
+(1) The matters which the Ombudsman is entitled to investigate are—
+
+(a) in relation to a listed authority other than one to whom paragraph (b), (d) or (e) applies, any action taken by or [[^F6]on] behalf of the authority (other than action consisting of a service failure) in the exercise of administrative functions of the authority,
+
+(b) in relation to a health service body or an independent provider, any action taken by or on behalf of the body or provider (other than action consisting of a service failure),
+
+(c) in relation to a listed authority other than one to whom paragraph (d) or (e) applies, any service failure,
+
+(d) in relation to a family health service provider, any action taken by or on behalf of the provider in connection with any family health services provided by that provider,
+
+(e) in relation to a registered social landlord, any action taken by or on behalf of the landlord.
+
+(2) In subsection (1), “service failure”, in relation to a listed authority, means—
+
+(a) any failure in a service provided by the authority,
+
+(b) any failure of the authority to provide a service which it was a function of the authority to provide.
+
+(3) The Ombudsman may investigate a matter falling within subsection (1) pursuant to a complaint only if a member of the public claims to have sustained injustice or hardship in consequence of—
+
+(a) where the matter is such action as is mentioned in paragraph (a), (b) or (e) of that subsection, maladministration in connection with the action in question,
+
+(b) where the matter is such failure or other action as is mentioned in paragraph (c) or (d), the failure or other action in question.
+
+(4) A person making such a claim is referred to in this Act as the “person aggrieved”.
+
+(5) The Ombudsman may investigate a matter falling within subsection (1) pursuant to a request only if the Ombudsman is satisfied that—
+
+(a) it has been alleged publicly (whether or not by a person aggrieved) that one or more members of the public have sustained injustice or hardship as mentioned in subsection (3), and
+
+(b) the listed authority in question has taken all reasonable steps to deal with the matter to which the allegation relates.
+
+(6) In this section “member of the public” means any individual or body of persons (whether incorporated or not) other than—
+
+(a) the Parliamentary corporation,
+
+(b) a local authority or other authority or body constituted for purposes of the public service or of local government,
+
+(c) an authority or body constituted for the purposes of carrying on under national ownership an industry or undertaking or part of an industry or undertaking,
+
+(d) any other authority or body—
+
+(i) whose members are appointed by Her Majesty or by any Minister of the Crown or government department or by a member of the Scottish Executive, or
+
+(ii) whose revenues consist wholly or mainly of money provided by the Parliament of the United Kingdom or sums payable out of the Scottish Consolidated Fund (whether directly or indirectly).
+
+(7) This section is subject to sections 6 to 8.
+
+### 6 Application of section 5 to certain tribunals
+
+(1) For the purposes of section 5, administrative functions exercisable by any person appointed as a member of the administrative staff of any tribunal specified in schedule 3—
+
+(a) by a listed authority (whether alone or jointly with any other person), or
+
+(b) with the consent (whether as to remuneration and other terms and conditions of service or otherwise) of a listed authority,
+
+are to be taken to be administrative functions of that authority.
+
+(2) Her Majesty may by Order in Council amend schedule 3 so as to—
+
+(a) modify any entry in it,
+
+(b) remove any entry from it, or
+
+(c) add any entry to it.
+
+### 6A [[^F7]Matters which may be investigated: healthcare whistleblowing
+
+(1) The Ombudsman is entitled to investigate the following matters—
+
+(a) whether a body or provider mentioned in subsection (2) has handled a complaint by a whistleblower properly in accordance with the complaints handling procedure described in subsection (3),
+
+(b) any action taken by or on behalf of the body or (as the case may be) the provider in respect of that complaint.
+
+(2) The bodies and providers referred to in subsection (1) are—
+
+(a) any health service body, other than the Scottish Dental Practice Board,
+
+(b) any independent provider,
+
+(c) any family health service provider.
+
+(3) The complaints handling procedure referred to in subsection (1) is the procedure that the body or (as the case may be) the provider is required, by section 16C(2), to ensure complies with a model complaints handling procedure for whistleblowers’ complaints.
+
+(4) In subsection (1)(a), “whistleblower” means a person who, according to the terms of the complaints handling procedure described in subsection (3), is entitled to have a complaint handled in accordance with that procedure.
+
+(5) In connection with any investigation into a matter mentioned in subsection (1), references in this Act to the “person aggrieved” are to the person who made the complaint.
+
+(6) The Ombudsman must not investigate, in an investigation into a matter mentioned in subsection (1), action taken by or on behalf of a family health service provider that was not taken in connection with any family health services provided by that provider.
+
+(7) This section is subject to sections 7 and 8.
+
+(8) For the avoidance of doubt, the action referred to in subsection (1)(b) includes the treatment of any person.]
+
+### 6B [[^F7]Further provision in relation to healthcare whistleblowing
+
+(1) In a case where a complaint or request is made in relation to a matter mentioned in section 6A(1), the complaint or request is not to be regarded as relating to a matter mentioned in section 5(1).
+
+(2) For the avoidance of doubt, the reference—
+
+(a) in section 6A(6) to action taken in connection with family health services, and
+
+(b) in section 7(6) to action taken in relation to services that—
+
+(i) an independent provider provided, or
+
+(ii) it was an independent provider’s function to provide,
+
+includes action taken in handling, or in light of, a complaint made in connection with those services.
+
+(3) Nothing in section 6A requires the Ombudsman to make a model complaints handling procedure for whistleblowers’ complaints relevant to a body or provider by virtue of a specification under section 16C(1).]
+
+### 7 Matters which may be investigated: restrictions
+
+(1) The Ombudsman is not entitled to question the merits of a decision taken without maladministration by or on behalf of a listed authority in the exercise of a discretion vested in that authority.
+
+[[^F8](2) Subsection (1)—
+
+(a) does not apply in the case of an investigation into a matter mentioned in section 6A(1), and
+
+(b) in the case of any other investigation in relation to a health service body, a family health service provider or an independent provider, does not preclude the Ombudsman from questioning the merits of any decision taken by or on behalf of the body or provider to the extent that it was taken in consequence of the exercise of clinical judgement.]
+
+[[^F9](2A) Subsection (1) does not apply to the merits of a decision taken by or on behalf of a listed authority to the extent that the decision was taken in exercise of a function conferred by or under Part 4 or 5 of the 2014 Act.
+
+(2B) The Ombudsman is not entitled to investigate action taken in the exercise of a function conferred by or under Part 4 or 5 of the 2014 Act if the exercise of the function was not a matter which could have been the subject of a complaint under an order under section 30 or 43 of that Act in force at the time of the action.]
+
+[[^F10](2C) Subsection (1) does not apply to the merits of a decision taken by or on behalf of a person mentioned in subsection (2D) in pursuance of a social work function to the extent that the decision was taken in consequence of the exercise of the professional judgment of the social worker or other person discharging the function.
+
+(2D) The persons are—
+
+(a) a local authority, or
+
+(b) the holder of an office established by or under any enactment to which appointments are made by a local authority.
+
+(2E) In subsection (2C), “social work function” means a function conferred by or under—
+
+(a) the Social Work (Scotland) Act 1968,
+
+(b) an enactment mentioned in section 5(1B) of that Act, or
+
+(c) an enactment listed in the schedule to the Public Bodies (Joint Working) (Scotland) Act 2014.]
+
+(3) The Ombudsman must not investigate action taken by or on behalf of a member of the Scottish Executive unless the action was taken in the exercise of functions conferred on the Scottish Ministers or of functions conferred on the First Minister alone.
+
+(4) For the purposes of subsection (3), functions conferred on the Scottish Ministers include functions exercised by them on behalf of a Minister of the Crown or government department by virtue of section 93 (agency arrangements) of the Scotland Act 1998 (c.46).
+
+(5) The Ombudsman must not investigate action taken—
+
+(a) by or on behalf of a listed authority which is a cross-border public authority, or
+
+(b) by a member of the administrative staff of any tribunal specified in schedule 3 which is a cross-border public authority,
+
+unless the action taken concerned Scotland and did not relate to reserved matters.
+
+(6) The Ombudsman must not investigate action taken by or on behalf of an independent provider unless the action—
+
+(a) was taken in relation to, or
+
+(b) consisted of a failure in, or to provide,
+
+a service which the independent provider was providing, or which it was the independent provider’s function to provide, under arrangements with a health service body or a family health service provider.
+
+[^F11]6A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F12](6B) The Ombudsman must not investigate action taken by or on behalf of the Statistics Board in the exercise of any of its functions unless the function is being exercised only in relation to Scottish devolved statistics (within the meaning of section 66 of the Statistics and Registration Service Act 2007).]
+
+[[^F13](6C) The Ombudsman must not investigate action taken by or on behalf of the Committee on Climate Change in the exercise in or as regards Scotland of any function to the extent that the function is not exercisable within devolved competence (within the meaning of section 54 of the Scotland Act 1998).]
+
+[[^F14](6D) The Ombudsman must not investigate action taken by or on behalf of the Electoral Commission unless the action taken concerned local government elections in Scotland [[^F15]or the exercise of the Commission’s functions under the Referendums (Scotland) Act 2020].]
+
+(7) The Ombudsman must not investigate action taken by or on behalf of a person who is a listed authority by virtue of an Order in Council referred to in subsection (4) of section 3 unless the action was taken in the exercise of the functions of a public nature which are specified in the Order in Council in pursuance of paragraph (b) of that subsection.
+
+(8) The Ombudsman must not investigate any matter in respect of which the person aggrieved has or had—
+
+(a) a right of appeal to a Minister of the Crown or the Scottish Ministers,
+
+(b) a right of appeal, reference or review to or before any tribunal constituted by or under any enactment or by virtue of Her Majesty’s prerogative, or
+
+(c) a remedy by way of proceedings in any court of law,
+
+unless the Ombudsman is satisfied that, in the particular circumstances, it is not reasonable to expect the person aggrieved to resort or have resorted to the right or remedy.
+
+(9) Subsection (10) applies where a matter in respect of which a complaint is made under this Act—
+
+(a) is a matter in respect of which a complaint can be made, or a review can be requested, by the person aggrieved under a procedure operated by any listed authority (whether or not the listed authority in relation to whom the complaint under this Act is made), and
+
+(b) is not a matter of the kind mentioned in subsection (8) or paragraph 12 of schedule 4.
+
+(10) In such a case, the Ombudsman must not investigate the matter unless the Ombudsman is satisfied that—
+
+(a) the other procedure has been invoked and exhausted, or
+
+(b) in the particular circumstances it is not reasonable to expect the procedure to be invoked or, as the case may be, exhausted.
+
+### 8 Excluded matters
+
+(1) The Ombudsman must not investigate any matter specified in schedule 4.
+
+(2) Her Majesty may by Order in Council amend schedule 4 so as to—
+
+(a) modify any entry in it,
+
+(b) remove any entry from it,
+
+(c) add any entry to it.
+
+(3) Nothing in section 7 or schedule 4 prevents the Ombudsman conducting an investigation in respect of action taken by a listed authority in operating a procedure established to examine complaints or review decisions.
+
+### 9 Complaints: who may complain
+
+(1) A complaint may be made to the Ombudsman—
+
+(a) by the person aggrieved, or
+
+(b) by a person authorised in writing for the purpose by the person aggrieved.
+
+(2) The persons who may be authorised for the purpose of subsection (1)(b) include, in particular—
+
+(a) a member of the Scottish Parliament,
+
+(b) a listed authority,
+
+(c) a member, officer or member of staff of a listed authority.
+
+(3) Despite subsection (1)—
+
+(a) where an individual by whom a complaint might have been made has died or is for any reason unable to act, the complaint may be made by—
+
+(i) any person authorised for the purpose of subsection (1)(b) before the individual’s death or inability to act,
+
+(ii) the individual’s personal representatives or a member of the individual’s family, or
+
+(iii) any other person suitable to represent the individual,
+
+(b) where a body by whom a complaint might have been made is for any reason unable to act for itself, the complaint may be made by another person suitable to represent it.
+
+(4) Except where subsection (5) applies, the person aggrieved must be resident in the United Kingdom at the time the complaint is made (or, if the person has died, must have been so resident at the time of death).
+
+(5) This subsection applies where the complaint relates to action taken—
+
+(a) in relation to the person while the person was present—
+
+(i) in the United Kingdom, or
+
+(ii) on an installation in a designated area within the meaning of the Continental Shelf Act 1964 (c.29), a ship registered in the United Kingdom or an aircraft so registered, or
+
+(b) in relation to rights or obligations which accrued or arose in the United Kingdom or on such an installation, ship or aircraft.
+
+### 10 Complaints: time limits and procedure
+
+(1) The Ombudsman must not consider a complaint made more than 12 months after the day on which the person aggrieved first had notice of the matter complained of, unless the Ombudsman is satisfied that there are special circumstances which make it appropriate to consider a complaint made outwith that period.
+
+(2) The Ombudsman must not consider a complaint if—
+
+(a) the matter complained of consists of such failure or other action as is mentioned in section 5(1)(b) to (d) taken by or on behalf of a person who was, at the time of the action, a family health service provider or an independent provider but who has since ceased to be such a provider, and
+
+(b) the complaint is made more than 3 years after the last day on which the person was such a provider.
+
+(3) A complaint must be made in writing or electronically unless the Ombudsman is satisfied that there are special circumstances which make it appropriate to consider a complaint made orally.
+
+(4) It is for the Ombudsman to determine whether a complaint has been duly made.
+
+### 11 [[^F16]Decisions not to investigate or to discontinue investigations]
+
+(1) If the Ombudsman,
+
+[[^F17](a) after considering a complaint, decides not to conduct an investigation pursuant to the complaint][[^F18], or
+
+(b) decides to discontinue an investigation following a complaint, ]
+
+the Ombudsman must send a statement of the reasons for the decision to the persons specified in subsection (2).
+
+(2) Those persons are—
+
+(a) the person aggrieved,
+
+(b) the listed authority in question,
+
+(c) any other person who is alleged in the complaint to have taken the action complained of,
+
+(d) if the complaint was made by a person authorised for the purpose of subsection (1)(b) of section 9, that person,
+
+(e) if the complaint was made by a person other than the person aggrieved by virtue of subsection (3) of that section, that other person,
+
+(f) if the listed authority is a family health service provider, any health service body with whom that provider—
+
+(i) is subject to an undertaking to provide family health services, or
+
+(ii) has agreed to perform such services,
+
+(as the case may be), and
+
+(g) if the listed authority is an independent provider, the health service body or family health service provider with whom the independent provider made the arrangement to provide the service concerned.
+
+(3) Where a person referred to in subsection (2)(d) was authorised for the purpose of section 9(1)(b) in a particular capacity but no longer acts in that capacity, the Ombudsman must send the statement of reasons instead to such other person acting in that or a similar capacity as the Ombudsman thinks fit.
+
+[[^F19](3A) Where the Ombudsman decides to discontinue an investigation following a complaint, any reference in paragraphs (b), (f) and (g) of subsection (2) to the listed authority in question or to the listed authority is to be construed as including a reference to a listed authority—
+
+(a) which was not mentioned in the complaint, but
+
+(b) whose action was investigated by the Ombudsman in connection with the investigation.]
+
+(4) If the Ombudsman, after considering a request, decides not to conduct an investigation pursuant to the request, the Ombudsman must send a statement of the reasons for the decision to—
+
+(a) the listed authority who made the request,
+
+(b) if the listed authority is a family health service provider, any health service body with whom that provider is subject to an undertaking to provide family health services, and
+
+(c) if the listed authority is an independent provider, the health service body or family health service provider with whom the independent provider made the arrangement to provide the service concerned.
+
+[[^F20](5) Subsection (4) applies where the Ombudsman decides to discontinue an investigation following a request as it applies where the Ombudsman decides not to conduct such an investigation.]
+
+### 12 Investigation procedure
+
+(1) An investigation under section 2 must be conducted in private.
+
+(2) Where the investigation is pursuant to a complaint, the Ombudsman must give—
+
+(a) the listed authority in question, and
+
+(b) any other person who is alleged in the complaint to have taken the action complained of,
+
+an opportunity to comment on any allegations contained in the complaint.
+
+(3) In other respects the procedure for conducting the investigation is to be such as the Ombudsman thinks fit.
+
+(4) The Ombudsman may, in particular—
+
+(a) obtain information from such persons and in such manner, and make such inquiries, as the Ombudsman thinks fit,
+
+(b) determine whether any person may be represented, by counsel or solicitor or otherwise, in the investigation.
+
+(5) The Ombudsman may pay to—
+
+(a) the person by whom the complaint was made (where an investigation is pursuant to a complaint), and
+
+(b) any other person who attends or supplies information for the purposes of an investigation (whether or not pursuant to a complaint),
+
+such allowances in respect of expenses properly incurred by the person and by way of compensation for loss of time as the Parliamentary corporation may determine.
+
+(6) The conduct of an investigation does not affect—
+
+(a) any action taken by the listed authority in question,
+
+(b) any power or duty of the listed authority to take further action with respect to any matter being investigated.
+
+[[^F21](7) Any reference in subsections (2)(a) and (6)(a) and (b) to the listed authority in question or to the listed authority includes, in relation to an investigation following a complaint, references to a listed authority—
+
+(a) which is not mentioned in the complaint, but
+
+(b) whose action is investigated by the Ombudsman in connection with the investigation.]
+
+### 13 Evidence
+
+(1) For the purposes of an investigation, the Ombudsman may require the listed authority in question and any of the persons mentioned in subsection (2) to supply information or produce documents relevant to the investigation.
+
+(2) Those persons are—
+
+(a) any member, officer or member of staff of the listed authority, and
+
+(b) any other person,
+
+who in the Ombudsman’s opinion is able to supply such information or to produce such documents.
+
+(3) Where the listed authority in question is an office-holder in the Scottish Administration, the persons referred to in subsection (2)(a) include, in particular—
+
+(a) any other office-holder in the Scottish Administration,
+
+(b) any member of the staff of the Scottish Administration assigned to assist the office-holder under investigation in the exercise of the office-holder’s functions.
+
+(4) For the purposes of any such investigation the Ombudsman has the same powers as the Court of Session in respect of—
+
+(a) the attendance and examination of witnesses (including the administration of oaths and the examination of witnesses abroad), and
+
+(b) the production of documents.
+
+(5) No obligation to maintain secrecy or other restriction on the disclosure of information obtained by or supplied to persons in Her Majesty’s service, whether imposed by any enactment or by any rule of law, applies to the disclosure of information for the purposes of an investigation by the Ombudsman.
+
+(6) The Crown (whether in right of Her Majesty’s Government in the United Kingdom or in right of the Scottish Administration) is not entitled in relation to any investigation by the Ombudsman to any such privilege in respect of the production of documents or the giving of evidence as is allowed by law in legal proceedings.
+
+(7) No person is or may be required or authorised by virtue of this Act to supply any information or answer any question relating to proceedings of the Scottish Cabinet or of any committee of the Scottish Cabinet, or to produce so much of any document as relates to such proceedings.
+
+(8) For the purposes of subsection (7), a certificate issued by the most senior member of the staff of the Scottish Administration, with the approval of the First Minister, and certifying that any information, question, document or part of a document so relates is conclusive.
+
+(9) Subject to subsections (5) and (6), no person is compelled, for the purposes of an investigation by the Ombudsman, to give any evidence or produce any document which that person could not be compelled to give or to produce in civil proceedings before the Court of Session.
+
+[[^F22](10) Any reference in subsections (1) to (3) to the listed authority in question or to the listed authority includes, in relation to an investigation following a complaint, a reference to a listed authority—
+
+(a) which is not mentioned in the complaint, but
+
+(b) whose action is investigated by the Ombudsman in connection with the investigation.]
+
+### 14 Obstruction and contempt
+
+(1) Where—
+
+(a) a person, without lawful excuse, obstructs the Ombudsman in the performance of the Ombudsman’s functions [[^F23]under sections 2 to 13], or
+
+(b) a person does any act or fails to take any action in relation to an investigation which, if the investigation were a proceeding in the Court of Session, would constitute contempt of court,
+
+the Ombudsman may apply by petition to the Court of Session for the person to be dealt with in accordance with subsection (2).
+
+(2) Where such a petition is presented, the Court of Session may inquire into the matter and after hearing—
+
+(a) any witnesses who may be produced against or on behalf of the person in question, and
+
+(b) any statement which may be offered in defence,
+
+may deal with the person as if the person had committed a contempt of court in relation to the Court of Session.
+
+(3) Nothing in this section is to be construed as applying to the taking of such action as is mentioned in section 12(6).
+
+### 15 Reports on investigations
+
+(1) [[^F24]Subject to subsection (1A),] after conducting an investigation, the Ombudsman must—
+
+(a) if the investigation is pursuant to a complaint, send a report of the investigation to the persons specified in section 11(2) and to the Scottish Ministers,
+
+(b) if the investigation is pursuant to a request, send a report of the investigation to the persons specified in section 11(4) and to the Scottish Ministers,
+
+and must lay a copy of the report before the Parliament.
+
+[[^F25](1A) Where the Ombudsman decides to discontinue an investigation, the Ombudsman may—
+
+(a) send a report of the investigation to the Scottish Ministers, and
+
+(b) lay a copy of the report before the Parliament.]
+
+(2) Subsection (3) of section 11 applies for the purposes of subsection (1)(a) of this section as it does for the purposes of subsection (2)(d) of that section.
+
+(3) Apart from identifying the listed authority in question, the report must not—
+
+(a) mention the name of any person, or
+
+(b) contain any particulars which, in the Ombudsman’s opinion, are likely to identify any person and can be omitted without impairing the effectiveness of the report,
+
+unless the Ombudsman determines that it is necessary to do so.
+
+(4) The listed authority in question must, unless the Ombudsman otherwise directs—
+
+(a) make arrangements, having effect for a period of at least 3 weeks, for allowing any person to—
+
+(i) inspect the report [[^F26]sent to it by virtue of subsection (1)] at any reasonable time,
+
+(ii) obtain a copy of it, or any part of it (whether or not on payment of a reasonable fee), and
+
+(b) publicise those arrangements.
+
+(5) Subsection (4) has effect—
+
+(a) where the listed authority is a family health service provider, as if the reference to the listed authority were a reference to any health service body with whom that provider—
+
+(i) is subject to an undertaking to provide family health services, or
+
+(ii) has agreed to perform such services,
+
+(as the case may be),
+
+(b) where the listed authority is an independent provider, as if the reference to the listed authority were a reference to the health service body or family health service provider with whom the independent provider made the arrangement to provide the service concerned.
+
+(6) In considering whether to make—
+
+(a) a determination under subsection (3), or
+
+(b) a direction under subsection (4),
+
+the Ombudsman must take into account the public interest as well as the interests of the person aggrieved (if the investigation is pursuant to a complaint) and of any other persons.
+
+(7) Any person who obstructs another person seeking to inspect a report or obtain a copy of it or any part of it in pursuance of arrangements made under subsection (4) is guilty of an offence and liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+
+[[^F27](8) Any reference in subsections (3) to (5) to the listed authority in question or to the listed authority includes, in relation to a complaint following which the investigation was conducted, a reference to a listed authority—
+
+(a) which was not mentioned in the complaint, but
+
+(b) whose action was investigated by the Ombudsman in connection with the investigation.]
+
+[[^F28](9) A report prepared after conducting an investigation into a matter mentioned in section 6A(1) may include any observations the Ombudsman wishes to make about—
+
+(a) the general culture in relation to the handling of complaints in accordance with a complaints handling procedure of the kind described in section 6A(3) by—
+
+(i) the health service body, independent provider or (as the case may be) family health service provider in question, or
+
+(ii) any other listed authority investigated by the Ombudsman in connection with the investigation, and
+
+(b) the treatment, by any person mentioned in paragraph (a), of the person aggrieved.
+
+(10) Subsection (9) is without prejudice to the Ombudsman’s discretion about what to include in any report.]
+
+### 16 Special reports
+
+(1) This section applies where a report under section 15 finds that the person aggrieved has sustained injustice or hardship as is mentioned in section 5(3).
+
+(2) If, following the making of the report, it appears to the Ombudsman that the injustice or hardship has not been, or will not be, remedied, the Ombudsman may make a special report on the case.
+
+(3) The Ombudsman must—
+
+(a) send a special report made under subsection (2) to the persons to whom the report under section 15 was sent, and
+
+(b) lay a copy of the report before the Parliament.
+
+(4) Section 15(3) applies in relation to a special report as it applies in relation to a report under that section.
+
+(5) The Ombudsman may make arrangements for the special report to be available to the public in such manner (whether or not on payment of a reasonable fee) as the Ombudsman thinks fit.
+
+(6) The listed authority to whom the special report relates is liable to reimburse the Ombudsman in respect of any expenses incurred by the Ombudsman by virtue of subsection (5).
+
+## [[^F29]Listed authorities: complaints handling procedures
+
+### 16A Statement of principles
+
+(1) The Ombudsman must publish a statement of principles (referred to in this Act as “the statement of principles”) concerning complaints handling procedures of listed authorities.
+
+(2) A listed authority must ensure—
+
+(a) it has a complaints handling procedure in respect of action taken by the listed authority, and
+
+(b) any such procedure complies with the statement of principles.
+
+(3) A listed authority which is responsible, by virtue of any enactment, for a complaints handling procedure—
+
+(a) in relation to, or
+
+(b) operated by,
+
+another listed authority, must ensure the procedure complies with the statement of principles.
+
+(4) The first statement of principles under subsection (1) is not to be published unless a draft of the statement has been laid before, and approved by a resolution of, the Parliament.
+
+(5) Where a draft is laid in accordance with subsection (4), the Parliament may approve the draft no later than 2 months after being laid.
+
+(6) In calculating any period of 2 months for the purposes of subsection (5), no account is to be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.
+
+(7) Before laying a draft statement of principles before the Parliament in accordance with subsection (4) the Ombudsman must consult—
+
+(a) the Scottish Ministers, and
+
+(b) such listed authorities and other persons as the Ombudsman thinks fit.
+
+(8) The Ombudsman must, in preparing the draft statement of principles to be laid before the Parliament in accordance with subsection (4), have regard to any representations made during the consultation mentioned in subsection (7).
+
+(9) The statement of principles comes into force when it is published by the Ombudsman.
+
+(10) The Ombudsman may from time to time revise and re-publish the statement of principles.
+
+(11) Where the Ombudsman considers that any revision of the statement of principles under subsection (10) is material, subsections (4) to (8) apply to that statement of principles as they do to the first statement of principles.
+
+(12) In this section and sections 16B to 16E, “complaints handling procedures” means procedures of listed authorities which examine complaints or review decisions in respect of action taken by a listed authority where the matter in question is one in respect of which a complaint to the Ombudsman can be made and investigated under this Act.
+
+### 16B Model complaints handling procedures
+
+(1) The Ombudsman may publish model complaints handling procedures for listed authorities.
+
+(2) A model complaints handling procedure (referred to in this Act as a “model CHP”) must comply with the statement of principles.
+
+(3) The Ombudsman may publish different model CHPs for different purposes.
+
+(4) Before publishing a model CHP the Ombudsman must consult such listed authorities or groups of listed authorities as the Ombudsman thinks fit.
+
+(5) The Ombudsman may from time to time revise and re-publish any model CHP; and in doing so subsection (4) applies.
+
+(6) Where a model CHP is revised and re-published by virtue of subsection (5), section 16C has effect with the following modifications—
+
+(a) any specification under subsection (1) of that section in relation to the model CHP continues in effect as a specification in relation to the revised and re-published model CHP,
+
+(b) any other reference to a model CHP is to the model CHP as revised and re-published,
+
+(c) subsection (3) of that section is omitted.
+
+(7) The Ombudsman may withdraw any model CHP at any time; and any specification under section 16C(1) in relation the model CHP ceases to have effect.
+
+### 16BA [[^F30]Model complaints handling procedure: healthcare whistleblowing
+
+(1) The Ombudsman must publish, under section 16B, a model CHP for whistleblowers’ complaints to—
+
+(a) a health service body, other than the Scottish Dental Practice Board,
+
+(b) an independent provider,
+
+(c) a family health service provider.
+
+(2) The Ombudsman may publish different model CHPs in accordance with this section for different purposes.
+
+(3) Any model CHP published in accordance with this section must include the following definition of whistleblowing—
+
+- “Whistleblowing is when a person who delivers services or used to deliver services on behalf of a health service body, family health service provider or independent provider (as defined in section 23 of the Scottish Public Services Ombudsman Act 2002) raises a concern that relates to speaking up, in the public interest, about an NHS service, where an act or omission has created, or may create, a risk of harm or wrong doing.”]
+
+### 16C Model complaints handling procedures: specification of listed authorities
+
+(1) The Ombudsman may specify any listed authority to which a model CHP is relevant; and must notify the authority accordingly.
+
+(2) Where a model CHP is relevant to a listed authority by virtue of a specification under subsection (1), the authority must ensure there is a complaints handling procedure which complies with the model CHP for the purposes of the specification.
+
+(3) Where subsection (2) applies the authority must submit a description of the complaints handling procedure, having taken account of the relevant model CHP, within 6 months of the specification mentioned in that subsection.
+
+(4) A listed authority may, with the consent of the Ombudsman, modify the application of the model CHP which is relevant to it but only to the extent that is necessary for the effective operation of the procedure by the authority.
+
+(5) The Ombudsman may revoke any specification under subsection (1) at any time.
+
+### 16D Declarations of non-compliance
+
+(1) Where a model CHP is relevant to a listed authority by virtue of a specification under section 16C(1) the Ombudsman may declare that the complaints handling procedure of the authority, a description of which was submitted by the authority under section 16C(3) or otherwise, does not comply with the model CHP.
+
+(2) Where there is no specification under section 16C(1) in relation to a listed authority the Ombudsman may declare that the complaints handling procedure of the authority, a description of which was submitted by the authority under section 16E or otherwise, does not comply with the statement of principles.
+
+(3) Where a declaration is made under subsection (1) or (2) the Ombudsman—
+
+(a) must give reasons in writing,
+
+(b) may specify such modifications to the complaints handling procedure as would result in the declaration being withdrawn.
+
+(4) Where a declaration is made under subsection (1) or (2) the listed authority must submit a description of its complaints handling procedure, having taken account of the reasons given under subsection (3)(a) and any modifications specified in subsection (3)(b), within 2 months of the declaration.
+
+(5) The Ombudsman may withdraw a declaration of non-compliance made under subsection (1) or (2) at any time if the Ombudsman thinks fit.
+
+### 16E Submission of description of complaints handling procedure: general
+
+(1) A listed authority must submit a description of its complaints handling procedure if the Ombudsman so directs; and must do so within 3 months of being so directed or such other period as the Ombudsman may direct.
+
+(2) Sections 16C(3) and 16D(4) are subject to any direction given under this section.
+
+(3) Where a listed authority has submitted a description of its complaints handling procedure to the Ombudsman under this Act or otherwise, the authority must provide such additional information in relation to that procedure as the Ombudsman may reasonably request; and must do so within such period as the Ombudsman directs.
+
+### 16F Complaints handling procedures: application of other enactments
+
+The duties in sections 16A(2) and (3) and 16C(2) do not apply to the extent that—
+
+(a) the listed authority lacks the necessary powers (other than by virtue of this Act) to ensure compliance with the duties, or
+
+(b) the duties are inconsistent with any other enactment.
+
+## Complaints handling procedures: promotion of best practice etc.
+
+### 16G Complaints handling procedures: promotion of best practice etc.
+
+(1) The Ombudsman must—
+
+(a) monitor practice and identify any trends in practice as respects the way in which listed authorities handle complaints,
+
+(b) promote best practice in relation to such complaints handling,
+
+(c) encourage co-operation and the sharing of best practice among listed authorities in relation to complaints handling.
+
+(2) A listed authority must co-operate with the Ombudsman in the exercise of the function in subsection (1).
+
+(3) The duty in subsection (2) does not apply to the extent that—
+
+(a) the listed authority lacks the necessary powers (other than by virtue of this Act) to ensure compliance with the duty, or
+
+(b) the duty is inconsistent with any other enactment.]
+
+## [[^F31]Other functions of the Ombudsman
+
+### 16H Reviews under the Welfare Funds (Scotland) Act 2015
+
+As well as the functions conferred by sections 2 to 16G, the Ombudsman has the functions in relation to the review of decisions by local authorities conferred by the 2015 Act (see sections 7 to 12 of that Act).]
+
+## Miscellaneous and general
+
+### 17 Annual reports etc.
+
+(1) The Ombudsman must lay before the Parliament annually a general report on the exercise of the Ombudsman’s functions [[^F32]during the reporting year] .
+
+(2) Such a report may include, in particular, any general recommendations which the Ombudsman may have arising from the exercise of those functions in the [[^F33]reporting year] .
+
+[[^F34](2A) A report under subsection (1) must be laid before the Parliament within seven months after the end of the reporting year.]
+
+(3) The [[^F35]Parliamentary corporation] may give the Ombudsman directions as to the form and content of a report under subsection (1); and the Ombudsman must comply with any such direction.
+
+[[^F36](3A) The Ombudsman must arrange for the publication of each report under subsection (1).]
+
+(4) The Ombudsman may from time to time lay before the Parliament such other reports with respect to the exercise of the Ombudsman’s functions as the Ombudsman thinks fit.
+
+[[^F37](5) In this section, “reporting year” means the year beginning on 1 April.]
+
+### 17A [[^F38]Strategic plans
+
+(1) The Ombudsman must, in respect of each 4 year period, lay before the Parliament a plan (referred to in this section as a “strategic plan”) setting out how the Ombudsman proposes to perform the Ombudsman's functions during the 4 year period.
+
+(2) A strategic plan must, in particular, set out—
+
+(a) the Ombudsman's objectives and priorities during the 4 year period,
+
+(b) how the Ombudsman proposes to achieve them,
+
+(c) a timetable for doing so, and
+
+(d) estimates of the costs of doing so.
+
+(3) Before laying a strategic plan before the Parliament, the Ombudsman must provide a draft of it to and invite, and (if any are given) consider, comments on it from—
+
+(a) the Parliamentary corporation, and
+
+(b) such other persons as the Ombudsman thinks appropriate.
+
+(4) The reference in subsection (3)(b) to other persons includes a reference to a committee of the Parliament.
+
+(5) The Ombudsman must lay each strategic plan before the Parliament not later than the beginning of the 4 year period to which the plan relates.
+
+(6) The Ombudsman must arrange for the publication of each strategic plan laid before the Parliament.
+
+(7) The Ombudsman may, at any time during a 4 year period, review the strategic plan for the period and lay a revised strategic plan before the Parliament.
+
+(8) Subsections (2) to (7) apply to a revised strategic plan as they apply to a strategic plan.
+
+(9) In that application, the reference in subsection (5) to the 4 year period is a reference to the period to which the revised strategic plan relates.
+
+(10) In this section, “4 year period” means the period of 4 years beginning on 1 April next following the coming into force of this section and each subsequent period of 4 years.]
+
+### 18 Protection from actions for defamation
+
+(1) For the purposes of the law of defamation, the following are absolutely privileged—
+
+(a) any statement made by the Ombudsman in pursuance of section 11, 15, 16 or 17,
+
+(b) any statement made by—
+
+(i) the person aggrieved,
+
+(ii) a person authorised for the purpose of subsection (1)(b) of section 9,
+
+(iii) a person falling within subsection (3) of that section, or
+
+(iv) a listed authority,
+
+in communicating with the Ombudsman for the purposes of this Act, or by the Ombudsman in communicating with any such person or authority for those purposes,
+
+(c) any statement made in pursuance of arrangements under section 15(4) or 16(5).
+
+[[^F39](d) any statement made by the Ombudsman in pursuance of section 11 of the 2015 Act,
+
+(e) any statement made by the Ombudsman in communicating with any person for the purposes of a welfare fund review,
+
+(f) any statement made by any person in communicating with the Ombudsman for the purposes of such a review.]
+
+(2) In subsection (1), “statement” has the same meaning as in the Defamation Act 1996 (c.31).
+
+### 19 Confidentiality of information
+
+(1) Information obtained by the Ombudsman or any of the Ombudsman’s advisers in connection with any matter in respect of which a complaint or a request has been made must not be disclosed except for any of the purposes specified in subsection (2) or as permitted by subsection (3).
+
+(2) Those purposes are—
+
+(a) the purposes of—
+
+(i) any consideration of the complaint or request (including any statement under section 11),
+
+(ii) any investigation of the matter (including any report of such an investigation),
+
+(b) the purposes of any proceedings for—
+
+(i) an offence under the Official Secrets Acts 1911 to 1989 alleged to have been committed in respect of information obtained by the Ombudsman,
+
+(ii) an offence of perjury alleged to have been committed in the course of any investigation of the matter,
+
+(c) the purposes of an inquiry with a view to the taking of any of the proceedings mentioned in paragraph (b),
+
+(d) the purposes of any proceedings under section 14.
+
+[[^F40](e) where subsection (2A) applies, the purposes of a welfare fund review.]
+
+[[^F41](2A) This subsection applies if—
+
+(a) the matter in respect of which the complaint or request has been made relates to an exercise of a function by a local authority on an application to receive assistance in pursuance of section 2 of the 2015 Act, and
+
+(b) the welfare fund review relates to the decision made by the authority on that application.
+
+(2B) Information obtained by the Ombudsman or any of the Ombudsman's advisers in connection with a welfare fund review must not be disclosed except for any of the purposes specified in subsection (2C) or as permitted by subsection (3).
+
+(2C) Those purposes are—
+
+(a) the purposes of the review,
+
+(b) the purposes of any proceedings for—
+
+(i) an offence under the Official Secrets Acts 1911 to 1989 alleged to have been committed in respect of information obtained by the Ombudsman,
+
+(ii) an offence of perjury alleged to have been committed in the course of the review,
+
+(c) the purposes of an inquiry with a view to the taking of any of the proceedings mentioned in paragraph (b),
+
+(d) where subsection (2D) applies, the purposes of any consideration of a complaint or request in respect of a matter, or the investigation of the matter.
+
+(2D) This subsection applies if—
+
+(a) the matter in respect of which the complaint or request has been made relates to an exercise of a function by a local authority on an application to receive assistance in pursuance of section 2 of the 2015 Act, and
+
+(b) the welfare fund review relates to the decision made by the authority on that application.]
+
+(3) Where information referred to in subsection (1) [[^F42]or (2B)] is to the effect that any person is likely to constitute a threat to the health or safety of [[^F43]individuals (in particular or in general)], the Ombudsman may disclose the information to any person to whom the Ombudsman thinks it should be disclosed in the interests of the health [[^F44]or] safety of [[^F45]the particular individuals or, as the case may be, individuals in general].
+
+(4) In relation to information disclosed under subsection (3), the Ombudsman must—
+
+(a) where the Ombudsman knows the identity of the person to whom the information relates, inform that person of the disclosure of the information and of the identity of the person to whom it has been disclosed, and
+
+(b) inform the person from whom the information was obtained of the disclosure.
+
+[[^F46](4A) The duty under subsection (4)(a) to inform a person about the identity of a person to whom information has been disclosed does not apply where informing the former person is likely to constitute a threat to the health or safety of the latter person.]
+
+(5) It is not competent to call upon the Ombudsman or the Ombudsman’s advisers to give evidence in any proceedings (other than proceedings referred to in subsection (2)) of matters coming to the knowledge of the Ombudsman or advisers in connection with any matter in respect of which a complaint or request has been made.
+
+[[^F47](5A) It is not competent to call upon the Ombudsman or the Ombudsman's advisers to give evidence in any proceedings (other than proceedings referred to in subsection (2C)) of matters coming to the knowledge of the Ombudsman or advisers in connection with a welfare fund review.]
+
+(6) A member of the Scottish Executive may give notice in writing to the Ombudsman with respect to—
+
+(a) any document or information specified in the notice, or
+
+(b) any class of document or information so specified,
+
+that, in the opinion of the member of the Scottish Executive, the disclosure of the document or information, or of documents or information of that class, would be contrary to the public interest.
+
+(7) Where such a notice is given nothing in this Act is to be construed as authorising or requiring the Ombudsman or any of the Ombudsman’s advisers to communicate to any person or for any purpose any document or information specified in the notice, or any document or information of a class so specified.
+
+(8) Information obtained from—
+
+[[^F48](a)] the [[^F49]Information Commission] by virtue of section 76 of the Freedom of Information Act 2000 (c.36); [[^F50]or
+
+(b) the Scottish Information Commissioner by virtue of section 63 of the Freedom of Information (Scotland) Act 2002 (asp 13),]
+
+is to be treated for the purposes of subsection (1) as obtained in connection with any matter in respect of which a complaint or request has been made.
+
+(9) In relation to such information, subsection (2)(a) has effect as if—
+
+(a) the reference in sub-paragraph (i) to the complaint or request were a reference to any complaint or request, and
+
+(b) the reference in sub-paragraph (ii) to the matter were a reference to any matter.
+
+(10) In this section and section 20 references to the Ombudsman’s advisers are to persons from whom the Ombudsman obtains advice under paragraph 10 of schedule 1.
+
+### 20 Disclosure of information by the Ombudsman
+
+(1) This section applies to any information (referred to in this section as “relevant information”) obtained by, or supplied to, the Ombudsman or any of the Ombudsman’s advisers under or for the purposes of this Act [[^F51]or the 2015 Act ].
+
+(2) The Ombudsman may disclose relevant information to a person or body specified in the first column of schedule 5 if the information appears to the Ombudsman to relate to any matter specified in relation to that person or body in the second column of that schedule.
+
+(3) Nothing in section 19(1) applies in relation to the disclosure of information in accordance with this section.
+
+### 21 Consultation and co-operation with other Commissioners and Ombudsmen
+
+(1) Where the Ombudsman, at any stage in the course of considering a complaint or request, forms the opinion that the complaint or request relates partly to a matter which could be the subject of an investigation—
+
+(a) by the Parliamentary Commissioner for Administration under the Parliamentary Commissioner Act 1967 (c.13),
+
+(b) by [[^F52]the Health Service Commissioner] under the Health Service Commissioners Act 1993 (c.46) (as that Act has effect in England and Wales),
+
+[[^F53](c) by the Public Services Ombudsman for Wales under the Public Services Ombudsman (Wales) Act 2005,]
+
+(d) by a Local Commissioner under Part III [[^F54]or 3A] of the Local Government Act 1974 (c.7), or
+
+(e) by a housing ombudsman in accordance with a scheme approved under section 51 of the Housing Act 1996 (c.52),
+
+the Ombudsman must consult the appropriate Commissioner or other Ombudsman about the complaint or request.
+
+(2) If the Ombudsman considers it necessary, the Ombudsman must inform the person who made the complaint or request of the steps necessary to initiate a complaint to that Commissioner or other Ombudsman.
+
+(3) Where the Ombudsman consults a Commissioner or other Ombudsman in accordance with this section, the consultations may extend to any matter relating to the complaint or request, including—
+
+(a) the conduct of any investigation into the matter to which the complaint or request relates, and
+
+(b) the form, content and publication of any report of the result of such an investigation.
+
+(4) Where a listed authority is also an authority to which the Parliamentary Commissioner Act 1967 (c.13) applies, the Ombudsman must co-operate with the Parliamentary Commissioner to such extent as appears appropriate when exercising any function in relation to that authority.
+
+(5) Nothing in section 19(1) applies in relation to the disclosure of information in the course of consultation or co-operation under this section.
+
+### 22 Information about right to make complaint
+
+(1) A listed authority must take reasonable steps to publicise the application and effect of this Act in relation to the authority including, in particular, providing information about—
+
+(a) the right conferred by this Act to make a complaint,
+
+(b) the time limit for doing so, and
+
+(c) how to contact the Ombudsman.
+
+(2) Information about the matters specified in subsection (1)(a) to (c) must be included in or provided with—
+
+(a) any document published by the listed authority and containing information about services provided by the authority to members of the public or about the procedures of the authority for dealing with complaints,
+
+(b) any document issued by the listed authority responding to a complaint made to it by any person who might be entitled to make a complaint to the Ombudsman.
+
+(3) The Ombudsman may issue guidance with respect to the performance by listed authorities of their duties under this section.
+
+## Supplementary
+
+### 23 Interpretation
+
+(1) In this Act, unless the context otherwise requires—
+
+- [[^F55]“the 2014 Act” means the Children and Young People (Scotland) Act 2014,]
+- [[^F56]“the 2015 Act” means the Welfare Funds (Scotland) Act 2015,]
+- “action” includes failure to act and related expressions are to be construed accordingly,
+- “complaint” means a complaint to the Ombudsman,
+- “deputy Ombudsman” has the meaning given in section 1(2),
+- “family health service provider” has the meaning given in paragraph 5 of schedule 2 and references to family health services are to any of the services mentioned in that paragraph,
+- “health service body” has the meaning given in paragraph 4 of schedule 2,
+- “independent provider” has the meaning given in paragraph 6 of schedule 2,
+- “listed authority” has the meaning given in section 3(1),
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39),
+- “the Ombudsman” has the meaning given in section 1(1),
+- [[^F57]“the Ombudsman's functions” includes the Ombudsman's functions under the 2015 Act,]
+- “the Parliament” means the Scottish Parliament,
+- “the Parliamentary corporation” means the Scottish Parliamentary Corporate Body,
+- [^F58]...
+- “person aggrieved” has the meaning given in section 5(4) [[^F59]or (as the case may be) section 6A(5)],
+- “registered social landlord” has the meaning given in section 111 of the Housing (Scotland) Act 2001 (asp 10),
+- “request” means a request for investigation under section 2(2).
+- [[^F60]“welfare fund review” means a review in pursuance of an application under section 7(2) of the 2015 Act.]
+
+(2) For the purposes of this Act, action taken by or on behalf of a listed authority includes action taken by—
+
+(a) where the authority is a body, a member or committee of the body,
+
+(b) an officer or member of staff of the authority,
+
+(c) any person acting on behalf of the authority, and
+
+(d) any person to whom the authority has delegated functions.
+
+(3) Action taken by or on behalf of a member of the Scottish Executive does not, however, include action taken on behalf of the Scottish Ministers by a Minister of the Crown or government department by virtue of section 93 (agency arrangements) of the Scotland Act 1998 (c.46).
+
+(4) Where a listed authority is an office-holder in the Scottish Administration, the persons referred to in subsection (2)(b) include, in particular, any member of the staff of the Scottish Administration assigned to assist the office-holder in question in the exercise of the office-holder’s functions.
+
+### 24 Orders in Council: general
+
+(1) An Order in Council made under any provision of this Act may include such supplementary, incidental, consequential, transitional, transitory or saving provision as Her Majesty considers necessary or expedient.
+
+(2) No recommendation to make an Order in Council under section 3(2) [[^F61]or (7)], 8(2) or, where the Order contains provisions which add to, replace or omit any part of the text of an Act, 25(2) is to be made to Her Majesty in Council unless a draft of the Order has been laid before, and approved by resolution of, the Parliament.
+
+(3) An Order in Council under section 6(2), 25(2) (except where subsection (2) of this section applies) or 26(2) is subject to annulment in pursuance of a resolution of the Parliament.
+
+### 25 Modification of enactments
+
+(1) Schedule 6 makes modifications of enactments for the purposes of this Act.
+
+(2) Her Majesty may by Order in Council make such modifications in any enactment, instrument or document as she considers necessary or expedient for the purposes of this Act.
+
+### 26 Consequential, transitional, transitory and saving provision
+
+(1) Schedule 7 makes provision for the transfer to the Ombudsman of staff, property and liabilities and undetermined complaints in consequence of the provisions of this Act.
+
+(2) Her Majesty may by Order in Council make such further transitional, transitory or saving provision as she considers necessary or expedient in connection with the coming into force of any provision of this Act.
+
+### 27 Commencement, revocation and short title
+
+(1) The provisions of this Act, except for—
+
+(a) sections 1, 23, 24 and 26(2),
+
+(b) schedule 1, and
+
+(c) this section,
+
+come into force on such day as Her Majesty may by Order in Council appoint.
+
+(2) An Order in Council under subsection (1) may appoint a day for the purposes of article 3 of the Scotland Act 1998 (Transitory and Transitional Provisions) (Complaints of Maladministration) Order 1999 (S.I. 1999/1351).
+
+(3) Different days may be appointed under this section for different purposes.
+
+(4) This Act may be cited as the Scottish Public Services Ombudsman Act 2002.
+
+## SCHEDULE 1 — The Scottish Public Services Ombudsman
+
+*(*introduced by section 1*)*
+
+### Disqualification
+
+**1** (1) A person is disqualified from appointment, and from holding office, as Ombudsman or deputy Ombudsman if that person is—
+
+(a) a member of the House of Commons,
+
+(b) a member of the Scottish Parliament,
+
+(c) a listed authority (within the meaning of section 3(1)),
+
+(d) a member, officer or member of staff of a listed authority,
+
+(e) disqualified from election as a member of the Scottish Parliament or as a member of a local authority.
+
+(2) A person holding office as Ombudsman or deputy Ombudsman—
+
+(a) is disqualified from appointment or, as the case may be, election as—
+
+(i) the holder of any office which is a listed authority, or
+
+(ii) a member, officer or member of staff of a listed authority,
+
+(b) is not entitled to become a family health service provider or an independent provider (within the meaning of paragraph 5 or, as the case may be, 6 of schedule 2), and
+
+(c) is disqualified from appointment to any paid office by a listed authority.
+
+[[^F62](3) A person who has ceased to hold office as Ombudsman or deputy Ombudsman may not, without the approval of the Parliamentary corporation—
+
+(a) be appointed or, as the case may be, elected as—
+
+(i) the holder of any office which is a listed authority, or
+
+(ii) a member, officer or member of staff of a listed authority,
+
+(b) be appointed to any paid office by a listed authority, or
+
+(c) hold any other office, employment, or appointment or engage in any other occupation, being an office, employment, appointment or occupation which, by virtue of paragraph 4(2E)(a), that person could not have held or, as the case may be, engaged in when Ombudsman or, as the case may be, Deputy Ombudsman.
+
+(3A) The restriction in sub-paragraph (3)—
+
+(a) starts when the person ceases to hold office as Ombudsman or, as the case may be, deputy Ombudsman, and
+
+(b) ends on the expiry of the financial year following the one in which it started.
+
+(3B) In sub-paragraph (3), a “paid office” is one where the holder is entitled to remuneration or expenses or any combination of them.]
+
+(4) Sub-paragraph (3)(a)(ii) does not disqualify any person who has ceased to hold office as Ombudsman or deputy Ombudsman from election as a member of any local authority.
+
+(5) In this paragraph, references to a member of a listed authority include any member by co-option of any committee of a listed authority.
+
+(6) For the purposes of sub-paragraphs (2)(c) and (3)(b) an office is a paid office where the holder of the office is entitled to remuneration or expenses.
+
+### Status
+
+**2** (1) The Ombudsman, deputy Ombudsmen and Ombudsman’s staff are not to be regarded as servants or agents of the Crown or as having any status, immunity or privilege of the Crown; and the Ombudsman’s property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+(2) The Ombudsman, in the exercise of that officer’s functions, is not subject to the direction or control of—
+
+(a) any member of the Parliament,
+
+(b) any member of the Scottish Executive,
+
+(c) the Parliamentary corporation.
+
+[[^F63](2A) The Ombudsman is, as such, to be regarded as a juristic person distinct from the natural person holding the office.]
+
+(3) Sub-paragraph (2) is subject to section 17(3) and [[^F64]paragraphs 9(4), 10(3), 12(3), 12A, 12B, 12D and] 15(1) of this schedule.
+
+### Validity of actings
+
+**3** The validity of any actings of the Ombudsman or a deputy Ombudsman is not affected by—
+
+(a) any defect in the nomination by the Parliament for that officer’s appointment, or
+
+(b) any disqualification from appointment as Ombudsman or, as the case may be, deputy Ombudsman.
+
+### Term of office and tenure
+
+**4** (1) The Ombudsman and a deputy Ombudsman each—
+
+(a) holds office for such period not exceeding [[^F65]eight] years as the Parliamentary corporation, at the time of appointment, may determine,
+
+(b) may be relieved of office by Her Majesty at the request of the officer in question,
+
+[^F66]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F67](d) may be removed from office by Her Majesty if sub-paragraph (2C) applies,]
+
+(e) in other respects, holds office on such terms and conditions as the Parliamentary corporation may determine.
+
+[[^F68](2A) A person who has held office as Ombudsman or deputy Ombudsman is ineligible for reappointment at any time.
+
+(2B) Such a person is, however, eligible for appointment to the other office, but may not hold that office beyond the expiry of the period for which the person was first appointed.]
+
+[[^F69](2C) This sub-paragraph applies if—
+
+(a) the Parliamentary corporation is satisfied that the Ombudsman has breached the terms and conditions of office and the Parliament resolves that the Ombudsman should be removed from office for that breach, or
+
+(b) the Parliament resolves that it has lost confidence in the Ombudsman's willingness, suitability or ability to perform the functions of the Ombudsman,
+
+and, in either case, the resolution is voted for by a number of members not fewer than two thirds of the total number of seats for members of the Parliament.
+
+(2D) Sub-paragraph (2C) applies in respect of a deputy Ombudsman as it applies in respect of the Ombudsman.
+
+(2E) The terms and conditions of office referred to in sub-paragraph (1)(e) may, without prejudice to paragraph 1—
+
+(a) prohibit the Ombudsman or deputy Ombudsman from holding any other specified office, employment or appointment or engaging in any other specified occupation,
+
+(b) provide that the Ombudsman's or deputy Ombudman's holding of any such office, employment or appointment or engagement in any such occupation is subject to the approval of the Parliamentary corporation.
+
+(2F) In sub-paragraph (2E), “specified” means specified in the terms and conditions of office or within a description so specified.]
+
+[^F68]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Vacancy in office of Ombudsman
+
+**5** (1) Where the office of Ombudsman is vacant, the Parliamentary corporation may appoint a person (whether or not a deputy Ombudsman or a member of the Ombudsman’s staff) to discharge the Ombudsman’s functions until a new Ombudsman is appointed; and a person so appointed is referred to in this Act as an “acting Ombudsman”.
+
+(2) A person who is disqualified from appointment as Ombudsman is also disqualified from appointment as acting Ombudsman.
+
+(3) A person appointed to be acting Ombudsman—
+
+(a) may be relieved of office at that person’s request,
+
+(b) may be removed from office by the Parliamentary corporation by notice in writing given by it,
+
+(c) in other respects, holds office on such terms and conditions as the Parliamentary corporation may determine,
+
+(d) while holding that office, is to be treated for all purposes, except those of paragraphs 3(a), 4, 7 and 8, as the Ombudsman.
+
+### Vacancy in office of deputy Ombudsman
+
+**6** (1) Where there is a vacancy in the office of deputy Ombudsman, the Parliamentary corporation may appoint a person (whether or not a member of the Ombudsman’s staff) to be an acting deputy Ombudsman until a deputy Ombudsman is appointed to fill the vacancy.
+
+(2) For the purposes of sub-paragraph (1), there is a vacancy in the office of deputy Ombudsman if—
+
+(a) there are fewer than 3 deputy Ombudsmen (whether or not as a consequence of one or more deputies ceasing to hold office as such), and
+
+(b) the Parliamentary corporation reasonably believes that the Parliament is likely to nominate a person for appointment by Her Majesty as a deputy Ombudsman.
+
+(3) A person who is disqualified from appointment as a deputy Ombudsman is also disqualified from appointment as an acting deputy Ombudsman.
+
+(4) A person appointed to be an acting deputy Ombudsman—
+
+(a) may be relieved of office at that person’s request,
+
+(b) may be removed from office by the Parliamentary corporation by notice in writing given by it,
+
+(c) in other respects, holds office on such terms and conditions as the Parliamentary corporation may determine,
+
+(d) while holding that office, is to be treated for all purposes, except those of paragraphs 3(a), 4, 7 and 8, as a deputy Ombudsman.
+
+### Remuneration
+
+**7** (1) The Ombudsman and a deputy Ombudsman are each entitled to—
+
+(a) a salary of such amount, and
+
+(b) such allowances,
+
+as the Parliamentary corporation may determine.
+
+(2) The salary payable to a person holding office as Ombudsman or deputy Ombudsman is to be abated by the amount of any pension payable to that person in respect of any public office in the United Kingdom or elsewhere to which that person was previously elected or appointed.
+
+### Pensions etc.
+
+**8** (1) The Parliamentary corporation may make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to hold office as Ombudsman or deputy Ombudsman and (without prejudice to that generality) may—
+
+(a) make contributions or payments towards provision for such pensions, allowances or gratuities, and
+
+(b) establish and administer one or more pension schemes.
+
+(2) The references in sub-paragraph (1) to pensions, allowances and gratuities include references to, as the case may be, pensions, allowances or gratuities by way of compensation for loss of office.
+
+### Staff
+
+**9** (1) The Ombudsman may appoint such staff, on such terms and conditions, as the Ombudsman may determine.
+
+(2) The Ombudsman may make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to be a member of staff and (without prejudice to that generality) may—
+
+(a) make contributions or payments towards provision for such pensions, allowances or gratuities, and
+
+(b) establish and administer one or more pensions schemes.
+
+(3) References in sub-paragraph (2) to pensions, allowances and gratuities include references to, as the case may be, pensions, allowances or gratuities by way of compensation for loss of employment.
+
+(4) A determination under sub-paragraph (1) and arrangements under sub-paragraph (2) require the approval of the Parliamentary corporation.
+
+### [[^F70]Advisers and other services
+
+**10** (1) The Ombudsman may obtain advice, assistance or any other service from any person who, in the opinion of the Ombudsman, is qualified to give it.
+
+(2) The Ombudsman may pay to that person such fees and allowances as the Ombudsman determines.
+
+(3) Any payment under sub-paragraph (2) is subject to the approval of the Parliamentary corporation.]
+
+### Delegation
+
+**11** (1) Any function of the Ombudsman may be exercised on the Ombudsman’s behalf—
+
+(a) by any person (whether or not a deputy Ombudsman or a member of the Ombudsman’s staff) authorised by the Ombudsman to do so, and
+
+(b) to the extent so authorised.
+
+(2) Sub-paragraph (1) does not affect the responsibility of the Ombudsman for the exercise of that officer’s functions.
+
+### General powers
+
+**12** (1) The Ombudsman may do anything which appears necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the exercise of the Ombudsman’s functions.
+
+(2) Without prejudice to that generality, the Ombudsman may in particular—
+
+(a) acquire and dispose of land and other property, and
+
+(b) enter into contracts.
+
+[[^F71](3) The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.]
+
+### [[^F72]Location of office
+
+**12A** The Ombudsman must comply with any direction given by the Parliamentary corporation as to the location of the Ombudsman's office.
+
+### Sharing of premises, staff, services and other resources
+
+**12B** The Ombudsman must comply with any direction given by the Parliamentary corporation as to the sharing of premises, staff, services or other resources with any other officeholder or any public body.
+
+### Charges for services
+
+**12C** (1) The Ombudsman may determine and charge reasonable sums for anything done or provided by the Ombudsman in the performance of, or in connection with, the Ombudsman's functions.
+
+(2) Any sums received by the Ombudsman by virtue of sub-paragraph (1) are to be retained by the Ombudsman and applied to meet expenditure incurred in doing or providing whatever is charged for.]
+
+### [[^F73]Budget
+
+**12D** (1) The Ombudsman must, before the start of each financial year, prepare proposals for the Ombudsman's use of resources and expenditure during the year (a “budget”) and, by such date as the Parliamentary corporation determines, send the budget to the Parliamentary corporation for approval.
+
+(2) The Ombudsman may, in the course of a financial year, prepare a revised budget for the remainder of the year and send it to the Parliamentary corporation for approval.
+
+(3) In preparing a budget or revised budget, the Ombudsman must ensure that the resources of the Ombudsman will be used economically, efficiently and effectively.
+
+(4) A budget or revised budget must contain a statement that the Ombudsman has complied with the duty under sub-paragraph (3).]
+
+### Financial provision
+
+**13** [[^F74](1) The Parliamentary corporation is to pay—
+
+(a) the salary and allowances of the Ombudsman and any deputy Ombudsman,
+
+(b) any expenses [[^F75]properly] incurred by the Ombudsman in the exercise of the functions of the Ombudsman [[^F76]so far as those expenses are not met out of sums received and applied by the Ombudsman under paragraph 12C(2)] ,
+
+(c) any sums payable by virtue of paragraph 5(3)(a) to (c) or 6(4)(a) to (c) to, or in respect of, a person who—
+
+(i) is appointed as acting Ombudsman or, as the case may be, acting deputy Ombudsman, or
+
+(ii) has ceased to hold such office.]
+
+[[^F77](2) Sub-paragraph (1)(b) does not require the Parliamentary corporation to pay any expenses which exceed or are otherwise not covered by a budget or, as the case may be, a revised budget approved under paragraph 12D.
+
+(3) However, the Parliamentary corporation may pay those expenses.
+
+(4) The Parliamentary corporation is to indemnify the Ombudsman in respect of any liabilities incurred in the exercise of the functions of the Ombudsman.]
+
+### Accountable officer
+
+**14** (1) The Parliamentary corporation is to designate the Ombudsman, a deputy Ombudsman or a member of the Ombudsman’s staff as the accountable officer for the purposes of this paragraph.
+
+(2) The functions of the accountable officer are—
+
+(a) those specified in sub-paragraph (3), and
+
+(b) where the accountable officer is not the Ombudsman, the duty set out in sub-paragraph (4),
+
+and the accountable officer is answerable to the Parliament for the exercise of those functions.
+
+(3) The functions referred to in sub-paragraph (2)(a) are—
+
+(a) signing the accounts of the expenditure and receipts of the Ombudsman,
+
+(b) ensuring the propriety and regularity of the finances of the Ombudsman,
+
+(c) ensuring that the resources of the Ombudsman are used economically, efficiently and effectively.
+
+(4) The duty referred to in sub-paragraph (2)(b) is a duty, where the accountable officer is required to act in some way but considers that to do so would be inconsistent with the proper performance of the functions specified in sub-paragraph (3), to—
+
+(a) obtain written authority from the Ombudsman before taking the action, and
+
+(b) send a copy of that authority as soon as possible to the Auditor General for Scotland.
+
+### Accounts and audit
+
+**15** (1) The Ombudsman must—
+
+(a) keep accounts, and
+
+(b) prepare annual accounts in respect of each financial year,
+
+in accordance with such directions as the Scottish Ministers may give.
+
+(2) The Ombudsman must send a copy of the annual accounts to the Auditor General for Scotland for auditing.
+
+(3) The financial year of the Ombudsman is—
+
+(a) the period beginning with the date on which the first Ombudsman is appointed and ending with 31st March next following that date, and
+
+(b) each successive period of twelve months ending with 31st March.
+
+(4) If requested by any person, the Ombudsman must make available at any reasonable time, and without charge, in printed or in electronic form, the audited accounts, so that they may be inspected by that person.
+
+## SCHEDULE 2 — Listed authorities
+
+*(*introduced by section 3*)*
+
+### Part 1 — Entries not amendable by Order in Council
+
+#### Scottish Parliament and Scottish Administration
+
+**1** The Parliamentary corporation.
+
+**2** Any member of the Scottish Executive.
+
+**3** Any other office-holder in the Scottish Administration.
+
+#### Health service
+
+**4** Any health service body, that is to say—
+
+(a) any Health Board,
+
+(b) any Special Health Board,
+
+(c) any National Health Service trust,
+
+(d) the Common Services Agency for the Scottish Health Service,
+
+(e) the Scottish Dental Practice Board,
+
+(f) the Mental Welfare Commission for Scotland.
+
+[[^F78](g) Healthcare Improvement Scotland]
+
+**5** Any person who is, or was at the time of the matter complained of, a family health service provider, that is to say—
+
+[[^F79](a) a person (whether an individual or a body) providing primary medical services under a general medical services contract (within the meaning of the National Health Service (Scotland) Act 1978) or general dental services under Part II of that Act,]
+
+(b) a person (whether an individual or a body) undertaking to provide in Scotland general ophthalmic services or pharmaceutical services under that Part of that Act, or
+
+(c) an individual performing in Scotland [[^F80]primary medical services] or personal dental services in accordance with—
+
+(i) arrangements made under section 17C of that Act, or
+
+(ii) a pilot scheme under Part I of the National Health Service (Primary Care) Act 1997 (c.46),
+
+(except as an employee of, or otherwise on behalf of, a health service body or an independent provider).
+
+**6** Any person who is, or was at the time of the matter complained of, an independent provider, that is to say a person (whether an individual or a body)—
+
+(a) providing services of any kind in Scotland under arrangements with a health service body or family health service provider, and
+
+(b) not being a health service body or a family health service provider.
+
+#### Local government etc.
+
+**7** Any local authority.
+
+**8** Any committee, joint committee or joint board the members of which, other than ex officio members, are appointed by one or more local authorities.
+
+**9** Any person who, by virtue of section 56(1) of the Local Government (Scotland) Act 1973 (c.65), discharges any of the functions of a local authority.
+
+**10** Any licensing board [[^F81]continued in existence by or established under section 5 of the Licensing (Scotland) Act 2005 (asp 16)] .
+
+**11** The Strathclyde Passenger Transport Authority.
+
+**[[^F82]11A** Any Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12)]
+
+**12** Any National Park authority.
+
+**[[^F83]13** The Scottish Fire and Rescue Service.]
+
+**[^F84]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** Any Children’s Panel Advisory Committee formed under paragraph 3, or joint advisory committee formed under paragraph 8, of Schedule 1 to the Children (Scotland) Act 1995 (c.36).
+
+**16** Any joint committee, for the administration of superannuation schemes for persons employed in local government service or teachers, established by regulations under section 7 or 9 of the Superannuation Act 1972 (c.11) respectively.
+
+**[[^F85]16A** Scottish Water.]
+
+#### Housing
+
+**17** Any person who is, or was at the time of the matter complained of, a registered social landlord.
+
+#### [[^F86]Prisons
+
+**17A** Any person who is, or was at the time of the matter complained of—
+
+(a) the governor of a prison appointed under section 3 of the Prisons (Scotland) Act 1989 (c. 45),
+
+(b) a medical officer of a prison appointed under section 3A or (if appointed before 1 January 1998) section 3(1) of that Act, or
+
+(c) in relation to a contracted out prison (within the meaning of section 106(4) of the Criminal Justice and Public Order Act 1994 (c. 33)—
+
+(i) the director appointed under section 107(1) of that Act, or
+
+(ii) a registered medical practitioner or other person providing appropriate medical services under section 107(6) of that Act,
+
+(but only to the extent that the action taken by or on behalf of that person is not a matter liable to investigation under this Act by virtue of paragraph 2 of this schedule).]
+
+#### [[^F87]Crown Estate
+
+**17B** [[^F88]Crown Estate Scotland].]
+
+### Part 2 — Entries amendable by Order in Council
+
+#### Scottish public authorities
+
+**18** The Accounts Commission for Scotland.
+
+**19** Audit Scotland.
+
+**20** The Auditor General for Scotland.
+
+**20A** [[^F89]Bòrd na Gàidhlig]
+
+**[[^F90]20AA** Boundaries Scotland]
+
+**[[^F91]20B** The British Waterways Board.]
+
+**[^F92]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F93]21ZZA** Children’s Hearings Scotland.]
+
+**21ZA** The Commissioner for Ethical Standards in Public Life in Scotland in the performance of the Commissioner’s functions under the Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)[^F94]... the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4) [[^F95]and the Lobbying (Scotland) Act 2016].
+
+**[[^F96]21A** A community justice authority.]
+
+**[^F97]21B** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F98]21ZZC** Community Justice Scotland.]
+
+**[[^F99]21ZZD** Consumer Scotland.]
+
+**[[^F100]21ZC** The Convener of the School Closure Review Panels.]
+
+**[[^F101]21C** Creative Scotland.]
+
+**22** The Crofters Commission.
+
+**[[^F102]22A** Food Standards Scotland.]
+
+**[^F103]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F104]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25** Highlands and Islands Enterprise.
+
+**[[^F105]25ZA** Historic Environment Scotland.]
+
+**[[^F106]25ZB** ILF Scotland.]
+
+**[[^F107]25ZC** An integration joint board established by order under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014.]
+
+**[[^F108]25A** The Judicial Appointments Board for Scotland.]
+
+**26** Learning and Teaching Scotland.
+
+**27** Any local enterprise company, that is to say any company ( [[^F109]as defined in section 1(1) of the Companies Act 2006] )—
+
+(a) which is a wholly owned subsidiary ( [[^F110]as defined in section 1159 of that Act] ) of Scottish Enterprise or Highlands and Islands Enterprise, and
+
+(b) with which an agreement (not being one which has terminated) has been made in pursuance of section 19 of the Enterprise and New Towns (Scotland) Act 1990 (c.35) by Scottish Enterprise or Highlands and Islands Enterprise for the discharge by that company of any of the functions of Scottish Enterprise or, as the case may be, Highlands and Islands Enterprise.
+
+**[^F111]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F112]28A** The National Convener of Children’s Hearings Scotland.]
+
+**29** The Board of Trustees for the National Galleries of Scotland.
+
+**30** [[^F113]The National Library of Scotland] .
+
+**31** The Board of Trustees of the National Museums of Scotland.
+
+**32** The Parole Board for Scotland.
+
+**[[^F114]32ZA** The Patient Safety Commissioner for Scotland.]
+
+**[[^F115]32A** The Police Investigations and Review Commissioner.]
+
+**[[^F116]32AA** The Principal Reporter.]
+
+**[[^F117]32AAZA** Qualifications Scotland.]
+
+**[[^F118]32AAA** Quality Meat Scotland.]
+
+**[[^F119]32AB** Redress Scotland.]
+
+**[^F120]32B** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F121]32C** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33** The Board of Trustees of the Royal Botanic Garden, Edinburgh.
+
+**[^F122]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35** The Scottish Agricultural Wages Board.
+
+**[^F123]36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F124]36A** The Scottish Biometrics Commissioner.]
+
+**37** The Scottish Children’s Reporter Administration.
+
+**[[^F125]37B** The Scottish Commission for Human Rights.]
+
+**[^F126]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**39** Scottish Enterprise.
+
+**40** The Scottish Environment Protection Agency.
+
+**[[^F127]40A** The Scottish Further and Higher Education Funding Council.]
+
+**[^F128]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**42** The Scottish Further Education Unit.
+
+**[^F129]43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F130]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**45** The Scottish Hospital Endowments Research Trust.
+
+**[[^F131]45A** The Scottish Information Commissioner.]
+
+**46** The Scottish Legal Aid Board.
+
+**[^F132]47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**48** Scottish Natural Heritage.
+
+**[[^F133]48A** The Scottish Pubs Code Adjudicator.]
+
+**[^F134]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F135]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F136]50A** The Scottish Sentencing Council.]
+
+**51** The Scottish Social Services Council.
+
+**52** The Scottish Sports Council.
+
+**[[^F137]52A** Social Care and Social Work Improvement Scotland.]
+
+**[[^F138]52B** South of Scotland Enterprise.]
+
+**53** The Scottish Tourist Board.
+
+**54** The Standards Commission for Scotland.
+
+**[[^F139]54A** VisitScotland.]
+
+**55** The Water Industry [[^F140]Commission] for Scotland.
+
+**56** Any holder of an office—
+
+(a) established by or under any enactment, and
+
+(b) appointments to, or designations of, which are made by a listed authority mentioned in paragraph 7 or 8 of Part 1 of this schedule.
+
+#### Cross-border public authorities
+
+**57** British Library Board.
+
+**[^F141]58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**59** British Tourist Authority.
+
+**60** British Wool Marketing Board.
+
+**61** Central Bureau for Educational Visits and Exchanges.
+
+**[^F142]62** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**63** Community Development Foundation.
+
+**64** Construction Industry Training Board.
+
+**[^F143]65** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F144]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**67** The Criminal Injuries Compensation Authority.
+
+**68** Design Council.
+
+**69** Engineering Construction Industry Training Board.
+
+**[^F145]70** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**71** Forestry Commissioners.
+
+**[^F146]72** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F147]73** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**74** Intervention Board for Agricultural Produce.
+
+**75** Joint Nature Conservation Committee.
+
+**76** The licensing authority designated under section 1(1) of the Activity Centres (Young Persons’ Safety) Act 1995 (c.15).
+
+**[^F148]77** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F149]78** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F150]79** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F151]80** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F152]81** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F153]82** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**83** Scottish Consumer Council.
+
+**84** Sea Fish Industry Authority.
+
+**85** The Theatres Trust.
+
+**86** [^F154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**87** The Trustees of the National Heritage Memorial Fund.
+
+**88** United Kingdom Sports Council.
+
+**89** Unrelated Live Transplant Regulatory Authority.
+
+#### [[^F155]Other bodies]
+
+**[^F156]90** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F157]91** The Security Industry Authority.]
+
+**[[^F158]91A** The Statistics Board.]
+
+**[[^F159]91B** The Committee on Climate Change.]
+
+**[[^F160]91BA** The Electoral Commission.]
+
+**[[^F161]91C** Architecture and Design Scotland]
+
+### [[^F162]Part 3 — Other entries amendable by Order in Council
+
+#### Further and Higher Education
+
+**92** (1) Any fundable body within the meaning of the Further and Higher Education (Scotland) Act 2005 (asp 6) [[^F163]and any college of further education which is assigned to such a fundable body by order made under section 7C(1) of that Act].
+
+(2) Sub-paragraph (1) does not include the Open University (so far as it is a fundable body).
+
+**93** The Scottish Agricultural College.]
+
+## SCHEDULE 3 — Specified tribunals for the purposes of sections 6 and 7
+
+*(*introduced by sections 6 and 7*)*
+
+**[^F164]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F165]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** The Lands Tribunal for Scotland.
+
+**4** Any Meat Hygiene Appeals Tribunal constituted under—
+
+(a) the Fresh Meat (Hygiene and Inspection) Regulations 1995 (S.I. 1995/539),
+
+(b) the Poultry Meat, Farmed Game Birds Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995 (S.I. 1995/540), or
+
+(c) the Wild Game Meat (Hygiene and Inspection) Regulations 1995 (S.I. 1995/2148),
+
+any of whose members was appointed by the Secretary of State for Scotland or by a member of the Scottish Executive.
+
+**[[^F166]4A** The Mental Health Tribunal for Scotland.]
+
+**[^F167]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** The Plant Varieties and Seeds Tribunal.
+
+**7** The Scottish Land Court.
+
+## SCHEDULE 4 — Matters which the Ombudsman must not investigate
+
+*(*introduced by section 8*)*
+
+**1** Action taken—
+
+(a) by or with the authority of a member of the Scottish Executive, or
+
+[^F168]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F169](c) by the Police Investigations and Review Commissioner,]
+
+for the purposes of or in connection with the investigation or prevention of crime or the protection of the security of the State.
+
+**2** [[^F170](1) The commencement or conduct of—
+
+(a) civil or criminal proceedings before any court of law, or
+
+(b) proceedings before any international court or tribunal.]
+
+(2) The reference in sub-paragraph (1) to civil proceedings includes a reference to inquiries under the [[^F171]Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016].
+
+**3** Action taken by any office-holder in, or member of the staff of, the Scottish Administration appointed to be an officer, or a member of the administrative staff, of any court or tribunal, so far as that action is taken at the direction, or on the authority (whether express or implied), of any person acting in a judicial capacity or in the capacity of a member of the tribunal.
+
+**4** Action taken by a member of the administrative staff of any tribunal specified in schedule 3 so far as that action is taken at the direction, or on the authority (whether express or implied), of any person acting in the capacity of a member of the tribunal.
+
+**5** Action taken by a person appointed under section 5(3)(c) of the Criminal Injuries Compensation Act 1995 (c.53), so far as that action is taken at the direction, or on the authority (whether express or implied), of any person acting in the capacity of an adjudicator appointed under that section to determine appeals.
+
+**6** Any exercise of the prerogative of mercy or of the power of a member of the Scottish Executive to make a reference in respect of any person to the High Court of Justiciary.
+
+**7** (1) Action taken in matters [[^F172]arising from concluded] contractual or other commercial transactions of a listed authority.
+
+(2) The action referred to in sub-paragraph (1) does not include any action taken by or on behalf of a health service body, a family health service provider or an independent provider in matters—
+
+(a) relating to NHS contracts (as defined by section 17A of the National Health Service (Scotland) Act 1978 (c.29)),
+
+(b) arising from arrangements between a health service body and an independent provider for the provision of services by the provider,
+
+(c) arising from arrangements between a family health service provider and an independent provider for the provision of services by the independent provider.
+
+(3) The transactions referred to in sub-paragraph (1) include, in particular, transactions relating to the operation of public passenger transport, the carrying on of a dock or harbour undertaking, the provision of entertainment, or the provision and operation of industrial establishments and of markets.
+
+(4) The transactions referred to in sub-paragraph (1) do not include—
+
+(a) any transaction relating to the acquisition or disposal of land,
+
+(b) any transaction (not being a transaction mentioned in sub-paragraph (3)) in the discharge of functions exercisable under any public general Act, other than a transaction required for the procurement of the goods or services necessary to discharge those functions.
+
+**8** Action taken in respect of appointments or removals, pay, discipline, superannuation or other personnel matters.
+
+**9** The grant of honours, awards or privileges within the gift of the Crown, including the grant of Royal Charters.
+
+**10** Action concerning—
+
+(a) the giving of instruction, whether secular or religious, or
+
+(b) conduct, curriculum or discipline,
+
+in any educational establishment under the management of an education authority.
+
+**[[^F173]10A** Action taken by or on behalf of any body falling within Part 3 of schedule 2 in the exercise of academic judgement relating to an educational or training matter.]
+
+**11** Action taken by the Mental Welfare Commission for Scotland under—
+
+[[^F174](a) section 51 (Commission’s power to revoke short term detention certificate or extension certificate) of the Mental Health (Care and Treatment) (Scotland) Act 2003;
+
+(b) section 81 (Commission’s power to revoke order) of that Act;
+
+(ba) section 143 (Commission’s power to revoke compulsion order) of that Act;]
+
+(c) section 50 (orders discharging patients from guardianship) of that Act (before the repeal of that section by the Adults with Incapacity (Scotland) Act 2000 (asp 4)), or
+
+(d) section 73 (recall of powers of guardian) of that Act of 2000.
+
+**12** Action which has been, or is, the subject of an inquiry under section 76 of the National Health Service (Scotland) Act 1978 (c.29) (general powers to hold inquiries).
+
+**13** Action taken by a Health Board in the exercise of its functions under the National Health Service (Service Committees and Tribunal) (Scotland) Regulations 1992 (S.I 1992/434), or any instrument amending or replacing those regulations.
+
+**14** Action taken by a Health Board in the exercise of its functions under regulations made under section [[^F175]17P], 25(2), 26(2) or 27(2) of the National Health Service (Scotland) Act 1978 (c.29) by virtue of section 17 of the Health and Medicines Act 1988 (c.49).
+
+**15** Action relating to the determination of the amount of any rent or service charge.
+
+**[^F176]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Disclosure of information by the Ombudsman
+
+*(*introduced by section 20*)*
+
+<table>
+<tbody>
+<tr><th><i>Person or body</i></th><th><i>Matter</i></th></tr>
+<tr><td>The [[^F177]Information Commission]</td><td>1. A matter in respect of which the [[^F178]Commission] could exercise any power conferred by—<br>(a) [[^F179]sections 142 to 154, 160 to 164 or 174 to 176 of, or Schedule 15 to, the Data Protection Act 2018 (certain provisions relating to enforcement),]<br>(b) section 48 (practice recommend-ations) of the Freedom of Information Act 2000 (c.36), or<br>(c) Part IV (enforcement) of that Act [[^F180]2. The commission of an offence under—<br>(a) a provision of the Data Protection Act 2018 other than paragraph 15 of Schedule 15 (obstruction of execution of warrant etc), or<br>(b) section 77 of the Freedom of Information Act 2000 (offence of altering etc records with intent to prevent disclosure).]</td></tr>
+<tr><td>[[^F181]The Scottish Information Commissioner]</td><td>[[^F181]1. A matter in respect of which the Commissioner could exercise any power conferred by—<br>(a) section 44 (recommendations as to good practice) of the Freedom of Information (Scotland) Act 2002 (asp 13); or<br>(b) Part 4 (enforcement) of that Act 2. The commission of an offence under section 65 (offence of altering etc. records with intent to prevent disclosure) of that Act]</td></tr>
+<tr><td>The Auditor General for Scotland</td><td>1. The audit of an account under sections 21 and 22 of the Public Finance and Accountability (Scotland) Act 2000 (asp 1) (“the 2000 Act”) 2. A matter in respect of which the Auditor General could exercise the power conferred by subsection (1) (power to initiate economy, efficiency and effectiveness examinations) of section 23 of that Act 3. An examination under that section</td></tr>
+<tr><td>A person appointed to audit an account under sections 21 and 22 of the 2000 Act</td><td>The audit of an account under those sections</td></tr>
+<tr><td>A person appointed to carry out an examination under section 23 of the 2000 Act</td><td>An examination under that section</td></tr>
+<tr><td>The Scottish Commission for Public Audit</td><td>A matter in respect of which the Commission could exercise the power conferred by section 25(4) (power to initiate economy, efficiency and effectiveness examinations in relation to Audit Scotland) of the 2000 Act</td></tr>
+<tr><td>A person appointed to audit an account of Audit Scotland under subsection (1) of section 25 of the 2000 Act</td><td>The audit of an account under that subsection</td></tr>
+<tr><td>A person appointed to carry out an examination under subsection (4) of section 25 of the 2000 Act</td><td>An examination under that subsection</td></tr>
+<tr><td>The Accounts Commission for Scotland</td><td>A matter in respect of which the Commission could exercise any function conferred by section 97A (studies for improving economy etc. in services), 102(1) (power of Commission to require Controller of Audit to make a report), 103 (action by Commission on reports by Controller of Audit) or 105A (studies of benefit administration at request of Secretary of State) of the Local Government (Scotland) Act 1973 (c.65) (“the 1973 Act”)</td></tr>
+<tr><td>The Controller of Audit appointed under section 97(4) of the 1973 Act</td><td>A matter in respect of which the Controller of Audit could exercise any function conferred by section 102 (reports to Commission by Controller of Audit) of the 1973 Act</td></tr>
+<tr><td>An auditor within the meaning of section 97(6) of the 1973 Act</td><td>The audit of an account under Part VII of the 1973 Act</td></tr>
+<tr><td>[[^F182]The Common Services Agency for the Scottish Health Service]</td><td>[[^F182]1. The Agency’s function of providing information, advice and management services in support of the functions of the Scottish Ministers, Health Boards and Special Health Boards 2. Fraud or another irregularity in relation to the health service (as defined in section 108(1) of the National Health Service (Scotland) Act 1978)] [[^F183]3. The education or training of persons providing, or intending to provide, services under the National Health Service (Scotland) Act 1978]</td></tr>
+<tr><td>[[^F182]Healthcare Improvement Scotland]</td><td>[[^F182]A matter of relevance to furthering improvement in the quality of health care (as defined in section 10A(2) of the National Health Service (Scotland) Act 1978)]</td></tr>
+<tr><td>[^F184] . . .</td><td>[^F184] . . .</td></tr>
+<tr><td>[[^F185]The Patient Safety Commissioner for Scotland</td><td>A matter of relevance to the Commissioner’s general functions as defined in section 2 of the Patient Safety Commissioner for Scotland Act 2023]</td></tr>
+<tr><td>[[^F182]The Mental Welfare Commission for Scotland]</td><td>[[^F182]1. An investigation under section 11 or 12 of the Mental Health (Care and Treatment) (Scotland) Act 2003 2. Circumstances of a kind mentioned in paragraph (a) or (d) to (f) of section 11(2) of that Act]</td></tr>
+<tr><td rowspan="3">[[^F186]The Scottish Social Services Council</td><td>A matter in respect of which the Scottish Social Services Council could exercise any power conferred by—</td></tr>
+<tr><td>- section 46 (grant or refusal of registration),<br>- section 47 (variation etc. of conditions in relation to registration),<br>- section 49 (removal etc. from the register),</td></tr>
+<tr><td>of the Regulation of Care (Scotland) Act 2001]</td></tr>
+<tr><td rowspan="3">[[^F186]Social Care and Social Work Improvement Scotland</td><td>A matter in respect of which Social Care and Social Work Improvement Scotland could exercise any power conferred by—</td></tr>
+<tr><td>- chapter 2 (social services: inspections),<br>- chapter 3 (care services; registration etc.),<br>- chapter 4 (local authority adoption and fostering services etc.),</td></tr>
+<tr><td>of Part 5 of the Public Services Reform (Scotland) Act 2010]</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 6 — Modification of enactments
+
+*(*introduced by section 25*)*
+
+### Local Government (Scotland) Act 1975 (c.30)
+
+**1** Part II (local administration) of, and Schedules 4 and 5 to, the Local Government (Scotland) Act 1975 are repealed.
+
+### Local Government (Scotland) Act 1978 (c.4)
+
+**2** Section 4 (payments to Commissioner for Local Administration in Scotland and his officers) of the Local Government (Scotland) Act 1978 is repealed.
+
+### Local Government Act 1978 (c.39)
+
+**3** In section 1 (power for authorities to incur expenditure to remedy injustices caused by maladministration) of the Local Government Act 1978, the words “and section 29 of the Local Government (Scotland) Act 1975” are repealed.
+
+### Local Government, Planning and Land Act 1980 (c.65)
+
+**4** Section 184(2) (disclosure of information to Commissioner for Local Administration in Scotland) of the Local Government, Planning and Land Act 1980 is repealed.
+
+### Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c.23)
+
+**5** Schedule 1 (powers of Commissioner for Local Administration in Scotland) to the Local Government (Miscellaneous Provisions) (Scotland) Act 1981 is repealed.
+
+### Mental Health (Scotland) Act 1984 (c.36)
+
+**[^F187]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Hospital Complaints Procedure Act 1985 (c.42)
+
+**7** In section 1 (hospital complaints procedure) of the Hospital Complaints Procedure Act 1985, in subsection (2), for “Health Service Commissioners Act 1993” substitute “ Scottish Public Services Ombudsman Act 2002 (asp 11) ”.
+
+### Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c.73)
+
+**8** Section 55 (power of Commissioner to investigate SSHA and new town development corporations) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 is repealed.
+
+### Legal Aid (Scotland) Act 1986 (c.47)
+
+**9** In section 34 (confidentiality of information) of the Legal Aid (Scotland) Act 1986, in subsection (2), after paragraph (c) insert—
+
+> (d) for the purposes of any investigation by the Scottish Public Services Ombudsman under the Scottish Public Services Ombudsman Act 2002 (asp 11).
+
+### Local Government Act 1988 (c.9)
+
+**10** In Schedule 3 (local government administration) to the Local Government Act 1988, paragraphs 11 to 17 are repealed.
+
+### Housing (Scotland) Act 1988 (c.43)
+
+**11** In Schedule 2 (amendments consequential on establishing of Scottish Homes and abolition of SSHA) to the Housing (Scotland) Act 1988, paragraph 4 is repealed.
+
+### Official Secrets Act 1989 (c.6)
+
+**12** In Schedule 1 (consequential amendments) to the Official Secrets Act 1989, paragraph 1(f) is repealed.
+
+### Local Government and Housing Act 1989 (c.42)
+
+**13** In the Local Government and Housing Act 1989, the following provisions are repealed—
+
+(a) section 23(2) (advice and guidance by Commissioner),
+
+(b) section 27 (implementation of recommendations of Commissioner),
+
+(c) section 29 (consideration of adverse reports: Scotland), and
+
+(d) in Schedule 11 (minor and consequential amendments), paragraphs 44 to 46.
+
+### Health Service Commissioners Act 1993 (c.46)
+
+**14** The Health Service Commissioners Act 1993 is repealed.
+
+### Local Government etc. (Scotland) Act 1994 (c.39)
+
+**15** In Schedule 13 (minor and consequential amendments) to the Local Government etc. (Scotland) Act 1994, in paragraph 100, sub-paragraphs (6) and (7) are repealed.
+
+### Children (Scotland) Act 1995 (c.36)
+
+**16** In Schedule 4 (minor and consequential amendments) to the Children (Scotland) Act 1995, paragraph 25 is repealed.
+
+### Town and Country Planning (Scotland) Act 1997 (c.8)
+
+**17** In Schedule 4 (determination of certain appeals by person appointed by Scottish Ministers) to the Town and Country Planning (Scotland) Act 1997, in paragraph 8(2), for the words from “an officer” to the end substitute “ a member of the staff of the Scottish Administration shall be treated for the purposes of the Scottish Public Services Ombudsman Act 2002 (asp 11) as functions conferred on the Scottish Ministers. ”
+
+### Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 (c.9)
+
+**18** In Schedule 3 (determination of certain appeals by person appointed by Scottish Ministers) to the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997, in paragraph 7(2), for the words from “an officer” to the end substitute “ a member of the staff of the Scottish Administration shall be treated for the purposes of the Scottish Public Services Ombudsman Act 2002 (asp 11) as functions conferred on the Scottish Ministers. ”
+
+### Planning (Hazardous Substances) (Scotland) Act 1997 (c.10)
+
+**19** In the Schedule (determination of certain appeals by person appointed by Scottish Ministers) to the Planning (Hazardous Substances) (Scotland) Act 1997, in paragraph 7(2), for the words from “an officer” to the end substitute “ a member of the staff of the Scottish Administration shall be treated for the purposes of the Scottish Public Services Ombudsman Act 2002 (asp 11) as functions conferred on the Scottish Ministers. ”
+
+### Scottish Legal Services Ombudsman and Commissioner for Local Administration in Scotland Act 1997 (c.35)
+
+**20** Part II (Commissioner for Local Administration in Scotland) of the Scottish Legal Services Ombudsman and Commissioner for Local Administration in Scotland Act 1997 is repealed.
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**21** In section 8 (Standards Commission for Scotland) of the Ethical Standards in Public Life etc. (Scotland) Act 2000, in subsection (8)—
+
+(a) for paragraph (b) substitute—
+
+> (b) the Scottish Public Services Ombudsman,
+
+and
+
+(b) for “Commissioner” in the second place where it occurs substitute “ Ombudsman ”.
+
+### National Parks (Scotland) Act 2000 (asp 10)
+
+**22** In schedule 5 (modification of enactments) to the National Parks (Scotland) Act 2000, paragraph 5 is repealed.
+
+### Freedom of Information Act 2000 (c.36)
+
+**23** (1) The Freedom of Information Act 2000 is amended as follows.
+
+(2) In section 76(1)(disclosure of information between Commissioner and ombudsmen), in the table—
+
+(a) the entries relating to—
+
+(i) the Health Service Commissioner for Scotland,
+
+(ii) the Commissioner for Local Administration in Scotland, and
+
+(iii) the Scottish Parliamentary Commissioner for Administration,
+
+are repealed,
+
+(b) after the entry relating to a Local Commissioner as defined by section 23(3) of the Local Government Act 1974, insert—
+
+> |  |  |
+> |---|---|
+> | The Scottish Public Services Ombudsman | The Scottish Public Services Ombudsman Act 2002 (asp 11) |
+
+.
+
+(3) In Schedule 7 (disclosure of information by ombudsmen), paragraph 13 is repealed.
+
+### Regulation of Care (Scotland) Act 2001 (asp 8)
+
+**24** Section 66 (maladministration) of the Regulation of Care (Scotland) Act 2001 is repealed.
+
+## SCHEDULE 7 — Transfer of staff, property and liabilities and undetermined complaints
+
+*(*introduced by section 26*)*
+
+### Interpretation
+
+**1** (1) In this schedule—
+
+- “the 1975 Act” means the Local Government (Scotland) Act 1975 (c.30),
+- “the 1993 Act” means the Health Service Commissioners Act 1993 (c.46),
+- “the 1999 Order” means the Scotland Act 1998 (Transitory and Transitional Provisions) (Complaints of Maladministration) Order 1999 (S.I. 1999/1351),
+- “the HAOS” means the employee of Scottish Homes appointed by it to be the Housing Association Ombudsman for Scotland,
+- “the Terms of Reference” means the Terms of Reference for the exercise of the functions of the HAOS adopted by Scottish Homes on 7th March 1994 and as amended from time to time.
+
+(2) References in this schedule to an existing Commissioner are references to any of the following office-holders, namely—
+
+(a) the Commissioner for Local Administration in Scotland, established by section 21 of the 1975 Act,
+
+(b) the Health Service Commissioner for Scotland, continued in existence by section 1 of the 1993 Act,
+
+(c) the Scottish Parliamentary Commissioner for Administration appointed under article 4 of the 1999 Order.
+
+(3) References in this schedule to an existing complaints enactment are references to any of the following enactments, namely—
+
+(a) Part II of the 1975 Act,
+
+(b) the 1993 Act,
+
+(c) the 1999 Order.
+
+### Transfer of staff of existing Commissioners and Scottish Homes
+
+**2** (1) On the date on which this schedule comes into force, each person who was, immediately before that date—
+
+(a) employed as an officer or member of staff of an existing Commissioner, or
+
+(b) an employee of Scottish Homes assigned to assist the HAOS in the exercise of the functions of the HAOS,
+
+transfers to and becomes a member of the staff of the Ombudsman.
+
+(2) The contract of employment of such a person—
+
+(a) is not terminated by the transfer, and
+
+(b) has effect from the date of transfer as if originally made between that person and the Ombudsman.
+
+(3) Without prejudice to sub-paragraph (2), where a person becomes a member of the staff of the Ombudsman under sub-paragraph (1)—
+
+(a) all the rights, powers, duties and liabilities of the transferor under or in connection with that person’s contract of employment are by virtue of this sub-paragraph transferred to the Ombudsman on the date on which this schedule comes into force, and
+
+(b) anything done before that date by or in relation to the transferor in respect of that contract of employment or that person is to be treated from that date as having been done by, or in relation to, the Ombudsman.
+
+(4) This paragraph does not prejudice any right of any person to terminate that person’s contract of employment if the terms and conditions of employment are changed substantially to the detriment of the person; but such a change is not to be taken to have occurred by reason only that the identity of that person’s employer changes by virtue of this paragraph.
+
+(5) In this paragraph, “transferor” in relation to a person who is transferred to the Ombudsman by virtue of sub-paragraph (1), means (as the case may be)—
+
+(a) the existing Commissioner from whom that person is so transferred, or
+
+(b) Scottish Homes, where that person is so transferred from Scottish Homes.
+
+### Transfer of property etc. of existing Commissioners and Scottish Homes
+
+**3** (1) On the date on which this schedule comes into force, all property and liabilities—
+
+(a) to which an existing Commissioner was entitled or subject immediately before that date, or
+
+(b) to which Scottish Homes was entitled or subject immediately before that date and which were held, used or, as the case may be, incurred by Scottish Homes wholly for the purposes of or in connection with the functions of the HAOS,
+
+transfer to and vest in the Ombudsman.
+
+(2) Sub-paragraph (1) has effect in relation to property and liabilities to which it applies despite any provision (of whatever nature) which would otherwise prevent, penalise or restrict the transfer of the property or liabilities.
+
+### Transfer of undetermined statutory complaints
+
+**4** (1) This paragraph applies in relation to any complaint (an “undetermined statutory complaint”)—
+
+(a) made to an existing Commissioner under an existing complaints enactment in relation to a person who is a listed authority for the purposes of this Act, and
+
+(b) which has not been determined by the Commissioner before the repeal or revocation of the enactment by or by virtue of this Act.
+
+(2) For the purpose of enabling an undetermined statutory complaint to continue to be dealt with, the existing complaints enactment under which the complaint was made continues in force despite its repeal or revocation and has effect as it had effect immediately before its repeal or revocation but—
+
+(a) as if any reference in it to the existing Commissioner were a reference to the Ombudsman, and
+
+(b) subject to such further modifications (if any) as may be made by virtue of section 24(1) or 26(2).
+
+(3) For the purposes of this paragraph—
+
+(a) a complaint is determined by an existing Commissioner if the Commissioner—
+
+(i) has decided to conduct an investigation pursuant to the complaint and the investigation is concluded, or
+
+(ii) has decided not to conduct an investigation pursuant to the complaint,
+
+(b) an investigation is concluded if the existing Commissioner has reported the results of that investigation in accordance with the existing complaints enactment under which the complaint was made.
+
+(4) Nothing in this paragraph affects the validity of anything done (or having effect as if done) by or in relation to an undetermined statutory complaint by an existing Commissioner under an existing complaints enactment before that enactment’s repeal or revocation by or by virtue of this Act.
+
+(5) Anything (including legal proceedings) which, at that time, is in the process of being done by or in relation to an existing Commissioner may, so far as it relates to an undetermined statutory complaint, be continued by or in relation to the Ombudsman.
+
+(6) Anything done (or having effect as if done) by or in relation to an existing Commissioner for the purposes of or in connection with an undetermined statutory complaint, if in force at that time, has effect as if done by or in relation to the Ombudsman in so far as that is required for continuing its effect on or after that time.
+
+### Transfer of undetermined housing complaints
+
+**5** (1) This paragraph applies in relation to any complaint (an “undetermined housing complaint”)—
+
+(a) made to the HAOS under the Terms of Reference in relation to a registered social landlord, and
+
+(b) which has not been determined by the HAOS before the date on which this schedule comes into force.
+
+(2) For the purpose of enabling an undetermined housing complaint to continue to be dealt with, the Terms of Reference (other than any provision relating to the appointment of the HAOS) continue in force and have effect after the date on which this schedule comes into force as they had effect immediately before that date but—
+
+(a) as if any reference to the HAOS were a reference to the Ombudsman, and
+
+(b) subject to such further modifications (if any) as may be made by virtue of section 24(1) or 26(2).
+
+(3) For the purposes of this paragraph—
+
+(a) a complaint is determined by the HAOS if the HAOS—
+
+(i) has decided to conduct an investigation pursuant to the complaint and the investigation is concluded, or
+
+(ii) has decided not to conduct an investigation pursuant to the complaint,
+
+(b) an investigation is concluded if the HAOS has reported the results of that investigation in accordance with the Terms of Reference.
+
+(4) Nothing in this paragraph affects the validity of anything done (or having effect as if done) by or in relation to an undetermined housing complaint by the HAOS under the Terms of Reference before the date on which this schedule comes into force.
+
+(5) Anything (including legal proceedings) which, at that date, is in the process of being done by or in relation to the HAOS may, so far as it relates to an undetermined housing complaint, be continued by or in relation to the Ombudsman.
+
+(6) Anything done (or having effect as if done) by or in relation to the HAOS for the purposes of or in connection with an undetermined housing complaint, if in force at that date, has effect as if done by or in relation to the Ombudsman in so far as that is required for continuing its effect on or after that time.
+
+---
+
+[^F1]: Words in s. 3(1) substituted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 27(1)(a), 36(2); S.S.I. 2005/419, art. 2(1)
+[^F2]: S. 3(7)-(9) added (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 27(1)(b), 36(2); S.S.I. 2005/419, art. 2(1)
+[^F3]: Word in s. 3(7) omitted (3.3.2014) by virtue of Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 5(2)(a)(i); S.S.I. 2014/21, art. 2, sch. 1
+[^F4]: S. 3(7)(d) and word inserted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 5(2)(a)(ii); S.S.I. 2014/21, art. 2, sch. 1
+[^F5]: Words in s. 3(8) substituted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 5(2)(b); S.S.I. 2014/21, art. 2, sch. 1
+[^F6]: Word in s. 5(1)(a) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 1 (with s. 31(6), sch. 7)
+[^F7]: Ss. 6A, 6B inserted (8.1.2020) by The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5), arts. 2, 3(2)
+[^F8]: S. 7(2) substituted (8.1.2020) by The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5), arts. 2, 3(3)
+[^F9]: S. 7(2A)(2B) inserted (31.8.2016) by The Children and Young People (Scotland) Act 2014 (Part 4 and Part 5 Complaints) Order 2016 (S.S.I. 2016/152), arts. 1(1), 9(2)
+[^F10]: S. 7(2C)-(2E) inserted (1.4.2017) by The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016 (S.S.I. 2016/157), arts. 1, 3
+[^F11]: S. 7(6A) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 7 para. 14; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F12]: S. 7(6B) inserted (1.4.2008) by Statistics and Registration Service Act 2007 (c. 18), ss. 63(5), 74(1); S.I. 2008/839, art. 2
+[^F13]: S. 7(6C) inserted (26.11.2008) by Climate Change Act 2008 (c. 27), s. 100(1), Sch. 1 para. 34(2)
+[^F14]: S. 7(6D) inserted (29.6.2011) by Local Electoral Administration (Scotland) Act 2011 (asp 10), ss. 18(a), 21(1); S.S.I. 2011/277, art. 2(b)
+[^F15]: Words in s. 7(6D) inserted (30.1.2020) by Referendums (Scotland) Act 2020 (asp 2), ss. 32, 41
+[^F16]: S. 11 title substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 2(d) (with s. 31(6), sch. 7)
+[^F17]: Words in s. 11(1) renumbered as s. 11(1)(a) (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 2(a) (with s. 31(6), sch. 7)
+[^F18]: S. 11(1)(b) and word inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 2(a) (with s. 31(6), sch. 7)
+[^F19]: S. 11(3A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 2(b) (with s. 31(6), sch. 7)
+[^F20]: S. 11(5) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 2(c) (with s. 31(6), sch. 7)
+[^F21]: S. 12(7) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 3 (with s. 31(6), sch. 7)
+[^F22]: S. 13(10) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 4 (with s. 31(6), sch. 7)
+[^F23]: Words in s. 14(1)(a) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(2), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F24]: Words in s. 15(1) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 5(a) (with s. 31(6), sch. 7)
+[^F25]: S. 15(1A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 5(b) (with s. 31(6), sch. 7)
+[^F26]: Words in s. 15(4)(a)(i) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 5(c) (with s. 31(6), sch. 7)
+[^F27]: S. 15(8) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 5(d) (with s. 31(6), sch. 7)
+[^F28]: S. 15(9)(10) inserted (8.1.2020) by The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5), arts. 2, 3(4)
+[^F29]: Ss. 16A-16G and cross-heading inserted (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 119, 134(7); S.S.I. 2010/221, art. 3(2), sch.
+[^F30]: S. 16BA inserted (8.1.2020) by The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5), arts. 2, 3(5)
+[^F31]: S. 16H and cross-heading inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(3), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F32]: Words in s. 17(1) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 6(a) (with s. 31(6), sch. 7)
+[^F33]: Words in s. 17(2) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 6(b) (with s. 31(6), sch. 7)
+[^F34]: S. 17(2A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 6(c) (with s. 31(6), sch. 7)
+[^F35]: Words in s. 17(3) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 6(d) (with s. 31(6), sch. 7)
+[^F36]: S. 17(3A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 6(e) (with s. 31(6), sch. 7)
+[^F37]: S. 17(5) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 6(f) (with s. 31(6), sch. 7)
+[^F38]: S. 17A inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 7 (with s. 31(6), sch. 7)
+[^F39]: S. 18(1)(d)-(f) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(4), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F40]: S. 19(2)(e) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(5)(a), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F41]: S. 19(2A)-(2D) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(5)(b), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F42]: Words in s. 19(3) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(5)(c), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F43]: Words in s. 19(3) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 8(a)(i) (with s. 31(6), sch. 7)
+[^F44]: Word in s. 19(3) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 8(a)(ii) (with s. 31(6), sch. 7)
+[^F45]: Words in s. 19(3) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 8(a)(iii) (with s. 31(6), sch. 7)
+[^F46]: S. 19(4A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 8(b) (with s. 31(6), sch. 7)
+[^F47]: S. 19(5A) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(5)(d), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F48]: Words in s. 19(8) renumbered as s. 19(8)(a) (1.1.2005) by Freedom of Information (Scotland) Act 2002 (asp 13), s. 75(1), sch. 4 para. 1(a); S.S.I. 2004/203, art. 3(2)
+[^F49]: Words in s. 19(8)(a) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 30(a); S.I. 2026/1015, reg. 2(c)
+[^F50]: S. 19(8)(b) and word inserted (1.1.2005) by Freedom of Information (Scotland) Act 2002 (asp 13), s. 75(1), sch. 4 para. 1(b); S.S.I. 2004/203, art. 3(2)
+[^F51]: Words in s. 20(1) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(6), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F52]: Words in s. 21(1)(b) substituted (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), s. 40, Sch. 6 para. 73(a)
+[^F53]: S. 21(1)(c) substituted (1.4.2006) by Public Services Ombudsman (Wales) Act 2005 (c. 10), s. 40, Sch. 6 para. 73(b)
+[^F54]: Words in s. 21(1)(d) inserted (1.10.2010) by Health Act 2009 (c. 21), s. 40(1), Sch. 5 para. 15; S.I. 2010/1863, art. 2
+[^F55]: Words in s. 23(1) inserted (31.8.2016) by The Children and Young People (Scotland) Act 2014 (Part 4 and Part 5 Complaints) Order 2016 (S.S.I. 2016/152), arts. 1(1), 9(3)
+[^F56]: Words in s. 23(1) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(7)(a), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F57]: Words in s. 23(1) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(7)(b), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F58]: Words in s. 23(1) repealed (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 9 (with s. 31(6), sch. 7)
+[^F59]: Words in s. 23(1) inserted (8.1.2020) by The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5), arts. 2, 3(6)
+[^F60]: Words in s. 23(1) inserted (1.4.2016) by Welfare Funds (Scotland) Act 2015 (asp 5), ss. 13(7)(c), 14(2); S.S.I. 2015/428, art. 2(2)
+[^F61]: Word in s. 24 inserted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 27(2), 36(2); S.S.I. 2005/419, art. 2(1)
+[^F62]: Sch. 1 para. 1(3)-(3B) substituted for sch. 1 para. 1(3) (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 11 (with s. 31(6), sch. 7)
+[^F63]: Sch. 1 para. 2(2A) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 12(a) (with s. 31(6), sch. 7)
+[^F64]: Words in sch. 1 para. 2(3) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 12(b) (with s. 31(6), sch. 7)
+[^F65]: Word in sch. 1 para. 4(1)(a) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 13(a)(i) (with s. 31(6), sch. 7)
+[^F66]: Sch. 1 para. 4(1)(c) repealed (1.10.2006) by The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031), reg. 1(1), Sch. 9 (with regs. 44-46)
+[^F67]: Sch. 1 para. 4(1)(d) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 13(a)(ii) (with s. 31(6), sch. 7)
+[^F68]: Sch. 1 para. 4(2A)(2B) substituted for sch. 1 para. 4(2)(3) (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 13(b) (with s. 31(6), sch. 7)
+[^F69]: Sch. 1 para. 4(2C)-(2F) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 13(c) (with s. 31(6), sch. 7)
+[^F70]: Sch. 1 para. 10 substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 14 (with s. 31(6), sch. 7)
+[^F71]: Sch. 1 para. 12(3) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 15 (with s. 31(6), sch. 7)
+[^F72]: Sch. 1 paras. 12A-12C inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 16 (with s. 31(6), sch. 7)
+[^F73]: Sch. 1 para. 12D inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 17 (with s. 31(6), sch. 7)
+[^F74]: Sch. 1 para. 13 renumbered as sch. 1 para. 13(1) (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 19 (with s. 31(6), sch. 7)
+[^F75]: Word in sch. 1 para. 13(1)(b) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 18(a) (with s. 31(6), sch. 7)
+[^F76]: Words in sch. 1 para. 13(1)(b) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 18(b) (with s. 31(6), sch. 7)
+[^F77]: Sch. 1 para. 13(2)-(4) inserted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 19 (with s. 31(6), sch. 7)
+[^F78]: Sch. 2 para. 4(g) added (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 17 para. 25; S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F79]: Sch. 2 para. 5(a) substituted (1.4.2004) by Primary Medical Services (Scotland) Act 2004 (asp 1), s. 9(1), sch. para. 4(2)(a); S.S.I. 2004/58, art. 2(3)
+[^F80]: Words in sch. 2 para. 5(c) substituted (1.4.2004) by Primary Medical Services (Scotland) Act 2004 (asp 1), s. 9(1), sch. para. 4(2)(b); S.S.I. 2004/58, art. 2(3)
+[^F81]: Words in sch. 2 para. 10 substituted (1.5.2007) by Licensing (Scotland) Act 2005 (asp 16), s. 150(2), sch. 6 para. 9 (with s. 143); S.S.I. 2007/129, art. 3, sch.
+[^F82]: Sch. 2 para. 11A inserted (10.10.2005) by Transport (Scotland) Act 2005 (asp 12), s. 54(2), sch. 1 para. 19; S.S.I. 2005/454, art. 2, Sch. 2
+[^F83]: Sch. 2 para. 13 substituted (1.10.2012) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 62; S.S.I. 2012/253, art. 2, sch.
+[^F84]: Sch. 2 para. 14 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F85]: Sch. 2 para. 16A inserted (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 3(2), 134(7)(8); S.S.I. 2011/278, art. 2(a)
+[^F86]: Sch. 2 para. 17A inserted (1.10.2010) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(4), sch. 3 para. 20 (with s. 31(6), sch. 7)
+[^F87]: Sch. 2 para. 17B and cross-heading inserted (16.2.2017) by The Crown Estate Scotland (Interim Management) Order 2017 (S.S.I. 2017/36), arts. 1(1), 21(3)
+[^F88]: Words in sch. 2 para. 17B substituted (1.4.2020) by Scottish Crown Estate Act 2019 (asp 1), s. 46(2), sch. 1 para. 3; S.S.I. 2020/77, reg. 2(1), sch. 1
+[^F89]: Words in sch. 2 Pt. 2 inserted (13.2.2006) by Gaelic Language (Scotland) Act 2005 (asp 7), s. 13(2), sch. 2 para. 2; S.S.I. 2006/31, art. 2
+[^F90]: Sch. 2 para. 20AA inserted (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 4(a); S.S.I. 2021/124, reg. 2, sch.
+[^F91]: Sch. 2 para. 20B inserted (2.7.2012) by The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 24 (with arts. 4-6)
+[^F92]: Sch. 2 para. 21 repealed (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 1 para. 10 (with s. 31(6), sch. 7)
+[^F93]: Sch. 2 para. 21ZZA inserted (16.2.2012) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2012 (S.S.I. 2012/43), arts. 1(2), 2(a)
+[^F94]: Word in sch. 2 para. 21ZA repealed (12.03.2018) by Lobbying (Scotland) Act 2016 (asp 16), s. 39(a); S.S.I. 2018/73, reg. 2
+[^F95]: Words in sch. 2 para. 21ZA inserted (12.03.2018) by Lobbying (Scotland) Act 2016 (asp 16), s. 39(b); S.S.I. 2018/73, reg. 2
+[^F96]: Sch. 2 para. 21A inserted (3.4.2006) by Management of Offenders etc. (Scotland) Act 2005 (asp 14), ss. 21(11), 24(2); S.S.I. 2006/48, art. 3(2), sch. Pt. 2
+[^F97]: Sch. 2 para. 21B repealed (15.8.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7)(8), sch. 2 para. 21; S.S.I. 2011/278, art. 2(d)
+[^F98]: Sch. 2 para. 21ZZC inserted (1.4.2017) by Community Justice (Scotland) Act 2016 (asp 10), s. 41(2), sch. 1 para. 14(2); S.S.I. 2017/33, reg. 2(3)
+[^F99]: Sch. 2 para. 21ZZD inserted (1.4.2022) by Consumer Scotland Act 2020 (asp 11), s. 29(2), sch. 2 para. 2; S.S.I. 2021/464, reg. 2
+[^F100]: Sch. 2 para. 21ZC inserted (9.1.2015) by Children and Young People (Scotland) Act 2014 (asp 8), ss. 81(10), 102(3); S.S.I. 2014/353, art. 2(1)(b)
+[^F101]: Sch. 2 para. 21C inserted (1.7.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 10 para. 2(a); S.S.I. 2010/221, art. 3(1)
+[^F102]: sch. 2 para. 22A inserted (1.4.2015) by Food (Scotland) Act 2015 (asp 1), ss. 17(2), 63(2) (with s. 62); S.S.I. 2015/99, art. 2
+[^F103]: Sch. 2 Pt. 2 entry repealed (1.8.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 1 para. 29; S.S.I. 2010/221, art. 3(2), sch.
+[^F104]: Sch. 2 para. 24 omitted (2.4.2012) by virtue of The Scottish Public Services Ombudsman Act 2002 Amendment (No. 2) Order 2012 (S.S.I. 2012/85), arts. 1, 2
+[^F105]: sch. 2 Pt. 2 para. 25ZA inserted (27.2.2015) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 6 para. 2(a) (with ss. 29, 30); S.S.I. 2015/31, art. 2, sch.
+[^F106]: sch. 2 Pt. 2 para. 25ZB inserted (16.7.2015) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2015 (S.S.I. 2015/286), arts. 1, 2
+[^F107]: Sch. 2 para. 25ZC inserted (16.3.2016) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2016 (S.S.I. 2016/155), art. 2
+[^F108]: Sch. 2 para. 25A inserted (1.6.2009) by Judiciary and Courts (Scotland) Act 2008 (asp 6), s. 76(1), sch. 1 para. 20(1); S.S.I. 2009/192, art. 2, sch.
+[^F109]: Words in sch. 2 para. 27 substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 201(a) (with art. 10)
+[^F110]: Words in sch. 2 para. 27(a) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 201(b) (with art. 10)
+[^F111]: Sch. 2 para. 28 repealed (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 4(b); S.S.I. 2021/124, reg. 2, sch.
+[^F112]: Sch. 2 para. 28A inserted (16.2.2012) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2012 (S.S.I. 2012/43), arts. 1(2), 2(b)
+[^F113]: Words in sch. 2 para. 30 substituted (1.2.2013) by National Library of Scotland Act 2012 (asp 3), s. 12(3), sch. 2 para. 5; S.S.I. 2013/1, art. 2
+[^F114]: Sch. 2 para. 32ZA inserted (1.5.2024) by Patient Safety Commissioner for Scotland Act 2023 (asp 6), s. 24(2), sch. 2 para. 1(2); S.S.I. 2024/110, reg. 2(1)
+[^F115]: Sch. 2 para. 32A substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 19(2); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F116]: Sch. 2 para. 32AA inserted (24.6.2013) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2012 (S.S.I. 2012/43), arts. 1(3), 2(c) (see S.S.I. 2013/195, art. 2)
+[^F117]: Words in sch. 2 Pt. 2 inserted (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 2(2)(a); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F118]: Sch. 2 para. 32AAA inserted (7.5.2025) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2025 (S.S.I. 2025/142), arts. 1, 2(2)
+[^F119]: Sch. 2 para. 32AB inserted (28.6.2021) by Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15), s. 109(2), sch. 1 para. 19; S.S.I. 2021/234, reg. 2, sch.
+[^F120]: Sch. 2 para 32B omitted (1.7.2013) by The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para 9(b)
+[^F121]: Sch. 2 para 32C omitted (1.7.2013) by The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197), art. 1, Sch. 2 para 9(b)
+[^F122]: sch. 2 Pt. 2 para. 34 repealed (1.10.2015) by Historic Environment Scotland Act 2014 (asp 19), s. 31(2), sch. 6 para. 2(b) (with ss. 29, 30); S.S.I. 2015/196, art. 2, sch.
+[^F123]: Sch. 2 para. 36 repealed (1.7.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 10 para. 2(b); S.S.I. 2010/221, art. 3(1)
+[^F124]: Sch. 2 para. 36A inserted (1.12.2020) by Scottish Biometrics Commissioner Act 2020 (asp 8), s. 40(2), sch. 2 para. 1; S.S.I. 2020/250, reg. 2
+[^F125]: Sch. 2 para. 37B inserted (1.4.2008) by Scottish Commission for Human Rights Act 2006 (asp 16), s. 22(3), sch. 1 para. 16 (with s. 22(2)); S.S.I. 2008/112, art. 2
+[^F126]: Sch. 2 para. 38 repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 11(a); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F127]: Sch. 2 para. 40A inserted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), s. 36(2), sch. 3 para. 11(a); S.S.I. 2005/419, art. 2(1)
+[^F128]: Sch. 2 para. 41 repealed (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), s. 36(2), sch. 3 para. 11(b); S.S.I. 2005/419, art. 2(1)
+[^F129]: Sch. 2 para. 43 repealed (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), s. 36(2), sch. 3 para. 11(b); S.S.I. 2005/419, art. 2(1)
+[^F130]: sch. 2 para. 44 repealed (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 12; S.S.I. 2014/264, art. 2, sch.
+[^F131]: Sch. 2 Pt. II para. 45A inserted (30.9.2002) by Freedom of Information (Scotland) Act 2002 (asp 13), s. 71(1); S.S.I. 2002/437, art. 2
+[^F132]: Words in Sch. 2 Pt. 2 repealed (1.4.2004) by Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4), s. 21(2), Sch. 4 para. 16(a); S.S.I. 2004/148, art. 2(c)
+[^F133]: Sch. 2 para. 48A inserted (7.5.2025) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2025 (S.S.I. 2025/142), arts. 1, 2(3)
+[^F134]: Words in sch. 2 Pt. 2 repealed (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 2(2)(b); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F135]: Sch. 2 para. 50 repealed (1.7.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 10 para. 2(b); S.S.I. 2010/221, art. 3(1)
+[^F136]: sch. 2 Pt. 2 para. 50A inserted (19.10.2015) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 1 para. 13; S.S.I. 2015/336, art. 2(b)
+[^F137]: Sch. 2 para. 52A inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 14 para. 11(b); S.S.I. 2010/321, art. 3, sch.; S.S.I. 2011/122, art. 2, sch.
+[^F138]: Sch. 2 para. 52B inserted (16.10.2019) by South of Scotland Enterprise Act 2019 (asp 9), s. 24(2), sch. 2 para. 2; S.S.I. 2019/308, reg. 2
+[^F139]: Words in sch. 2 Pt. 2 inserted (1.4.2007) by Tourist Boards (Scotland) Act 2006 (asp 15), s. 5(1), sch. 2 para. 7(b); S.S.I. 2007/47, art. 2
+[^F140]: Word in Sch. 2 para. 55 substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 8(b) (with s. 36); S.S.I. 2005/351, art. 2, sch. 2 (with art. 3(3))
+[^F141]: Sch. 2 para. 58 repealed (7.5.2025) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2025 (S.S.I. 2025/142), arts. 1, 2(4)(a)
+[^F142]: Sch. 2 para. 62 repealed (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), s. 107, Sch. 11 para. 171, Sch. 12; S.I. 2006/2541, art. 2 (with Sch.)
+[^F143]: Sch. 2 para. 65 repealed (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), s. 107, Sch. 11 para. 171, Sch. 12; S.I. 2006/2541, art. 2 (with Sch.)
+[^F144]: Words in sch. 2 Pt. 2 omitted (11.6.2009) by virtue of The Scottish Public Services Ombudsman Act 2002 (Amendment) Order 2009 (S.S.I. 2009/236), arts. 1, 2
+[^F145]: sch. 2 Pt. 2 para. 70 repealed (18.7.2014) by The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924), art. 1(3), Sch.
+[^F146]: Sch. 2 para. 72 repealed (7.5.2025) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2025 (S.S.I. 2025/142), arts. 1, 2(4)(b)
+[^F147]: Sch. 2 para. 73 repealed (7.5.2025) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2025 (S.S.I. 2025/142), arts. 1, 2(4)(c)
+[^F148]: Sch. 2 para. 77 repealed (7.5.2025) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2025 (S.S.I. 2025/142), arts. 1, 2(4)(d)
+[^F149]: Sch. 2 para. 78 repealed (7.5.2025) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2025 (S.S.I. 2025/142), arts. 1, 2(4)(e)
+[^F150]: sch. 2 Pt. 2 para. 79 omitted (1.4.2014) by virtue of The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631), art. 1(3), Sch. 1 para. 16 (with Sch. 1 para. 28, 2 paras. 13-15)
+[^F151]: Sch. 2 para. 80 repealed (1.4.2005) by Health Protection Agency Act 2004 (c. 17), s. 12(1), Sch. 4; S.I. 2005/121, art. 2(2)
+[^F152]: Sch. 2 para. 81 repealed (1.4.2007) by Police and Justice Act 2006 (c. 48), s. 53(1), Sch. 15 Pt. 1(A); S.I. 2007/709, art. 3(q) (with art. 6)
+[^F153]: Sch. 2 para. 82 repealed (24.7.2005) by Railways Act 2005 (c. 14), s. 60(2), Sch. 13 Pt. 1 (with s. 14(4)(5), Sch. 11 para. 11(2)); S.I. 2005/1909, art. 2, Sch.
+[^F154]: Sch. 2 Pt. 2: entry relating to "Traffic Commisioner for the Scottish Traffic Area" omitted (23.10.2002) by virtue of S.S.I. 2002/468, art. 2
+[^F155]: Sch. 7 para. 90 and cross-heading inserted (1.4.2005) by Health Protection Agency Act 2004 (c. 17), s. 12(1), Sch. 3 para. 18(3); S.I. 2005/121, art. 2(2)
+[^F156]: Sch. 2 para. 90 omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 7 para. 15; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F157]: Sch. 2 para. 91 added (6.7.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 171(2), 178(6)(b); S.S.I. 2006/381, art. 2(b)(iv)
+[^F158]: Sch. 2 para. 91A inserted (1.4.2008) by Statistics and Registration Service Act 2007 (c. 18), ss. 63(6), 74(1); S.I. 2008/839, art. 2
+[^F159]: Sch. 2 para. 91B inserted (26.11.2008) by Climate Change Act 2008 (c. 27), s. 100(1), Sch. 1 para. 34(3)
+[^F160]: Sch. 2 para. 91BA inserted (29.6.2011) by Local Electoral Administration (Scotland) Act 2011 (asp 10), ss. 18(b), 21(1); S.S.I. 2011/277, art. 2(b)
+[^F161]: Sch. 2 para. 91C inserted (17.3.2011) by The Scottish Public Services Ombudsman Act 2002 Amendment Order 2011 (S.S.I. 2011/208), arts. 1, 2(2)
+[^F162]: Sch. 2 Pt. 3 added (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 27(3), 36(2); S.S.I. 2005/419, art. 2(1)
+[^F163]: Words in sch. 2 para. 92(1) inserted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 5(3); S.S.I. 2014/21, art. 2, sch. 1
+[^F164]: Sch. 3 para. 1 repealed (6.4.2007) by The Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477), reg. 1, Sch. Pt. 1
+[^F165]: Sch. 3 para. 2 repealed (31.12.2005) by School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12), s. 9(2), sch. 2; S.S.I. 2005/10, art. 3(d) (with art. 3(2))
+[^F166]: Sch. 3 para. 4A inserted (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), s. 333(2), sch. 4 para. 13; S.S.I. 2005/161, art. 3 (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^F167]: Sch. 3 para. 5 omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 4(2) (with sch. 1)
+[^F168]: Sch. 4 para. 1(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F169]: Sch. 4 para. 1(c) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 19(3); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F170]: Sch. 4 para. 2 renumbered as sch. 4 para. 2(1) (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 21(a) (with s. 31(6), sch. 7)
+[^F171]: Words in sch. 4 para. 2(2) substituted (15.6.2017) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(2), sch. 2 para. 9; S.S.I. 2017/155, reg. 2 (with regs. 4(2), 5)
+[^F172]: Words in sch. 4 para. 7(1) substituted (1.4.2011) by Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11), s. 31(5), sch. 3 para. 21(b) (with s. 31(6), sch. 7)
+[^F173]: Sch. 4 para. 10A inserted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 27(4), 36(2); S.S.I. 2005/419, art. 2(1)
+[^F174]: Sch. 4 para. 11(a)-(ba) substituted for Sch. 4 para. 11(a)(b) (27.9.2005) by Mental Health (Care and Treatment0 (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465), art. 1, Sch. 1 para. 31(2)
+[^F175]: Word in sch. 4 para. 14 substituted (1.4.2004) by Primary Medical Services (Scotland) Act 2004 (asp 1), s. 9(1), sch. para. 4(3); S.S.I. 2004/58, art. 2(3)
+[^F176]: Sch. 4 para. 16 repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F177]: Words in sch. 5 table substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 30(b)(i); S.I. 2026/1015, reg. 2(c)
+[^F178]: Word in sch. 5 table substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 30(b)(ii); S.I. 2026/1015, reg. 2(c)
+[^F179]: Words in sch. 5 substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 87(2) (with ss. 117, 209, 210, Sch. 20 para. 47(1)); S.I. 2018/625, reg. 2(1)(g)
+[^F180]: Words in sch. 5 substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 87(3) (with ss. 117, 209, 210, Sch. 20 para. 47(2)); S.I. 2018/625, reg. 2(1)(g)
+[^F181]: Words in sch. 5 inserted (1.1.2005) by Freedom of Information (Scotland) Act 2002 (asp 13), s. 75(1), sch. 4 para. 2; S.S.I. 2004/203, art. 3(2)
+[^F182]: Words in sch. 5 inserted (8.1.2020) by The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5), arts. 2, 3(7)
+[^F183]: Words in sch. 5 inserted (1.4.2026) by The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20), art. 1(1), sch. para. 2(2)(a) (with art. 6)
+[^F184]: Words in sch. 5 repealed (1.4.2026) by The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20), art. 1(1), sch. para. 2(2)(b) (with art. 6)
+[^F185]: Words in sch. 5 inserted (1.5.2024) by Patient Safety Commissioner for Scotland Act 2023 (asp 6), s. 24(2), sch. 2 para. 1(3); S.S.I. 2024/110, reg. 2(1)
+[^F186]: Words in sch. 5 inserted (1.4.2017) by The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016 (S.S.I. 2016/157), arts. 1, 4
+[^F187]: Sch. 6 para. 6 repealed (5.10.2005) by Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), s. 333(2), sch. 5 Pt. 1; S.S.I. 2005/161, art. 3 (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

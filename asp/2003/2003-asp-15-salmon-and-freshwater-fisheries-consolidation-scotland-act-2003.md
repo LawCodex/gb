@@ -1,0 +1,2544 @@
+---
+title: "Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003"
+identifier: "asp/2003/15"
+citation: "2003 asp 15"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2003-05-01
+last_amended: 2013-09-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2003/15"
+source_modified: 2024-05-15
+retrieved: 2026-10-11
+---
+
+# Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003
+
+**2003 asp 15**
+
+An Act of the Scottish Parliament to consolidate, with amendments recommended by the Scottish Law Commission, the enactments relating to salmon and freshwater fisheries in Scotland.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 26th March 2003 and received Royal Assent on 1st May 2003
+
+## Part 1 — Methods of fishing and offences related to fishing
+
+### Methods of fishing
+
+#### 1 Methods of fishing: salmon
+
+(1) Any person who fishes for or takes salmon in any inland waters, except—
+
+(a) by rod and line;
+
+(b) by net and coble; or
+
+(c) subject to subsections (4) and (5) below—
+
+(i) by cruive; or
+
+(ii) in the Solway, by a certificated fixed engine or a haaf net,
+
+shall be guilty of an offence.
+
+(2) Subject to section 25 of this Act, any person who fishes for or takes salmon in any waters in a salmon fishery district other than inland waters except by—
+
+(a) rod and line;
+
+(b) net and coble; or
+
+(c) bag net, fly net or other stake net,
+
+shall be guilty of an offence.
+
+(3) Without prejudice to section 294 (attempts to commit crime) of, and paragraph 10 of Schedule 3 to, the Criminal Procedure (Scotland) Act 1995 (c. 46), any person who attempts to commit or who does any act preparatory to the commission of an offence mentioned in this section shall be guilty of an offence, and liable to the same punishment as if that person had committed the offence mentioned.
+
+(4) In relation to cruives—
+
+(a) a right of fishing by cruive may be exercised if, and only if, it was in existence before 10th May 1951; and
+
+(b) if a question arises in any proceedings as to whether any person is entitled to use a cruive it shall be for the person using or seeking to use the cruive to show that that person is, or has the permission of another person who is, so entitled.
+
+(5) For the purposes of subsection (1)(c)(ii) above—
+
+(a) “certificated fixed engine” means a fixed engine certificated as privileged under section 5 of the Solway Salmon Fisheries Commissioners Act 1877 (c.ccxl), and if a question arises in any proceedings as to whether any fixed engine is so certificated, it shall be for the person using or seeking to use the fixed engine to show that it is so certificated;
+
+(b) in relation to haaf nets—
+
+(i) a right of fishing by haaf net may be exercised at any location if, and only if, it was in existence before 10th May 1951; and
+
+(ii) if a question arises in any proceedings as to whether a person is entitled to use a haaf net, it shall be for the person using or seeking to use such a net to show that that person is, or has the permission of another person who is, so entitled; and
+
+(c) “the Solway” includes the rivers, streams or other watercourses running into the Solway.
+
+(6) A person found guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+#### 2 Methods of fishing: freshwater fish
+
+(1) Subject to subsections (3) and (4) below, any person who fishes for or takes freshwater fish in any inland waters except by rod and line shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(2) Without prejudice to section 294 (attempts to commit crime) of, and paragraph 10 of Schedule 3 to, the Criminal Procedure (Scotland) Act 1995 (c. 46), any person who attempts to commit or who does any act preparatory to the commission of the offence mentioned in subsection (1) above shall be guilty of an offence, and liable to the same punishment as if that person had committed the offence mentioned.
+
+(3) In any pond or loch where all the owners are agreed, a right of fishing may be exercised by net.
+
+(4) In any inland waters an owner or occupier may fish for or take freshwater fish, other than trout, by net or trap.
+
+#### 3 [[^F1]Use of landing nets]
+
+Nothing in section 1 or 2 of this Act shall be construed as prohibiting the use of a [[^F2]knotless non-metallic] landing net [[^F3](that is, a net the mesh of which is knotless and made of non-metallic material)] as auxiliary to the taking of fish by rod and line.
+
+#### 3A [[^F4]Fishing by rod and line
+
+(1) For the purposes of this Act, a person shall be treated as fishing for or taking fish by rod and line in the circumstances set out in subsection (2), (3) or (4) only if the condition specified in the relevant subsection is met.
+
+(2) Where a person—
+
+(a) is fishing for or taking salmonids, and
+
+(b) is not doing so from a boat,
+
+the condition is that the person uses a single rod and line and that the rod is being held by the person.
+
+(3) Where a person—
+
+(a) is fishing for or taking freshwater fish other than salmonids, and
+
+(b) is not doing so from a boat,
+
+the condition is that the person uses no more than 4 rods for that purpose at any one time.
+
+(4) Where a person—
+
+(a) is fishing for or taking fish, and
+
+(b) is doing so from a boat,
+
+the condition is that no more than 4 rods are used on the boat for that purpose at any one time.
+
+(5) In this section, “ salmonids ” means all fish of the family Salmonidae. ]
+
+#### 4 Meaning of “rod and line”
+
+(1) In this Act “rod and line” means [^F5]... rod and line (used otherwise than as a set line or by way of [[^F6]foul hooking]) with such bait or lure as is not prohibited by this section or, in relation to fishing for salmon, under section 33 or 38(5)(b) of this Act [[^F7]or, in relation to fishing for freshwater fish, under section 51A of this Act].
+
+(2) It is prohibited to use [[^F8]live vertebrates,] fish roe, fire or light as bait or lure.
+
+[[^F9](3) In subsection (1)—
+
+- “ foul hooking ” means pointing, or any other method of hooking or attempting to hook a fish other than by inducing the fish to take the hook in its mouth by reason of the bait or lure;
+- “ set line ” means a fishing line left unattended in water and having attached to it one or more lures or baited hooks. ]
+
+### Offences related to fishing for salmon and freshwater fish
+
+#### 5 Prohibition against using explosive and other noxious substances for the destruction or taking of fish
+
+(1) Any person who—
+
+(a) uses any explosive substance with intent to take or destroy fish in any waters (including the sea up to 22 kilometres from the baselines from which the breadth of the territorial sea is measured);
+
+(b) puts any poison or other noxious substance in or near any such waters with intent to take or destroy fish; or
+
+(c) uses any electrical device with intent to stun or destroy salmon or freshwater fish in any such waters,
+
+shall be guilty of an offence.
+
+(2) Without prejudice to section 294 (attempts to commit crime) of, and paragraph 10 of Schedule 3 to, the Criminal Procedure (Scotland) Act 1995 (c. 46), any person who attempts to commit or who does any act preparatory to the commission of an offence mentioned in subsection (1) above shall be guilty of an offence, and liable to the same punishment as if that person had committed the offence mentioned.
+
+(3) A person found guilty of an offence under this section shall be liable—
+
+(a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 3 months or to both such fine and such imprisonment; and
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years or to both a fine and such imprisonment.
+
+#### 5A [[^F10]Prohibition against using pike gags and certain keepnets
+
+(1) Any person who uses a pike gag in relation to the fishing for or taking of fish shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Any person who uses—
+
+(a) a knotted keepnet (that is, a keepnet the mesh of which is knotted),
+
+(b) a metallic keepnet, (that is, a keepnet the mesh of which is made of metallic material),
+
+in relation to the fishing for or taking of fish shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) Without prejudice to section 294 (attempts to commit crime) of, and paragraph 10 of Schedule 3 to, the Criminal Procedure (Scotland) Act 1995, any person who attempts to commit or who does any act preparatory to the commission of the offence mentioned in subsection (1) or (2) above shall be guilty of an offence, and liable to the same punishment as if that person had committed the offence mentioned.
+
+(4) In subsection (1), “ pike gag ” means a device used for the purpose of keeping the jaws of a fish open by inserting it into the mouth of the fish. ]
+
+#### 6 Fishing for salmon without right or permission
+
+(1) Any person who without legal right, or without written permission from a person having such right, fishes for or takes salmon in any waters, including any part of the sea within 1.5 kilometres of mean low water springs, shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Without prejudice to section 294 (attempts to commit crime) of, and paragraph 10 of Schedule 3 to, the Criminal Procedure (Scotland) Act 1995 (c. 46), any person who attempts to commit or who does any act preparatory to the commission of the offence mentioned in subsection (1) above shall be guilty of an offence, and liable to the same punishment as if that person had committed the offence mentioned.
+
+#### 7 Illegal fishing by two or more persons acting together
+
+If two or more persons acting together do any act which would constitute an offence under section 1, 2 or 6 of this Act, every such person shall be guilty of an offence under this section, and liable—
+
+(a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 3 months or to both such fine and such imprisonment; and
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years or to both a fine and such imprisonment.
+
+#### 8 Taking of dead salmon or trout
+
+(1) [^F11]... any person other than—
+
+(a) a constable or a water bailiff in the exercise of their respective duties;
+
+(b) a person authorised in that regard by the Scottish Ministers or a district salmon fishery board; or
+
+(c) a person with a right to fish therein or the agent of any such person,
+
+who takes or removes dead salmon or trout from any waters, including any part of the sea within 1.5 kilometres of low water mark, shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(2) Without prejudice to section 294 (attempts to commit crime) of, and paragraph 10 of Schedule 3 to, the Criminal Procedure (Scotland) Act 1995 (c. 46), any person who attempts to commit or who does any act preparatory to the commission of the offence mentioned in subsection (1) above shall be guilty of an offence, and liable to the same punishment as if that person had committed the offence mentioned.
+
+#### 9 Illegal possession of salmon or trout
+
+(1) Any person who is found in possession of any salmon or trout, or any instrument, explosive, poison or other noxious substance which could be used in the taking of salmon or trout, in circumstances which afford reasonable ground for suspecting that that person has obtained possession of such salmon or trout, or such instrument, explosive, poison or substance as the result or for the purpose of committing an offence under any of the provisions of sections 1, 2, 5, 6 or 7 of this Act, may be charged with unlawful possession as aforesaid of such salmon or trout, or of such instrument, explosive, poison or substance.
+
+(2) Where the court is satisfied that a person charged under subsection (1) above obtained possession of salmon or trout, or of any instrument, explosive, poison or other noxious substance as the result or for the purpose of committing an offence under any of the provisions of sections 1, 2, 5, 6 or 7 of this Act, that person may be convicted of unlawful possession as aforesaid and dealt with in like manner as if that person had been convicted of the same offence.
+
+(3) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+#### 10 Offences in relation to passage of salmon
+
+(1) Any person who does any act for the purpose of preventing salmon from passing through any fish pass, or taking any salmon in its passage through the same, shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(2) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+#### 11 Fishing in waters where fishing rights owned by one person
+
+(1) Any person who without legal right, or without permission from a person having such right, fishes in a proper stank or loch shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+
+(2) For the purposes of this section—
+
+- “proper stank or loch” means a stank or loch the fishing rights in which are owned by one person; and
+- “stank” means a reservoir or pond with neither inlet nor outlet sufficient to allow access or egress by fish.
+
+#### 12 Contravention of protection order
+
+(1) Any person who fishes for or takes freshwater fish in contravention of a prohibition contained in a protection order made under section 48 of this Act shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Without prejudice to section 294 (attempts to commit crime) of, and paragraph 10 of Schedule 3 to, the Criminal Procedure (Scotland) Act 1995 (c. 46), any person who attempts to commit or who does any act preparatory to the commission of the offence mentioned in subsection (1) above shall be guilty of an offence and liable to the same punishment as if that person had committed the offence mentioned.
+
+### Close times for salmon
+
+#### 13 Weekly close time for salmon
+
+(1) The weekly close time for salmon shall extend from the hour of six in the evening on Friday to the hour of six on the following Monday morning.
+
+(2) No person shall fish for or take salmon during Sunday.
+
+(3) No person shall fish for or take salmon (except during Friday, Saturday or Monday by rod and line) during the weekly close time.
+
+(4) Any person who contravenes this section shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(5) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(6) This section is subject to section 31(5) of this Act.
+
+#### 14 Fishing for salmon during annual close time
+
+(1) Subject to subsection (2) below, any person who fishes for or takes salmon during the annual close time within the meaning of section 37 of this Act shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(2) It shall not be an offence to fish for or take salmon by means of rod and line at any period within the annual close time when such fishing is permitted [[^F12]in the district in which the fishing occurs—
+
+(a) by the regulations or byelaws in force in that district;
+
+(b) by a designation order made in respect of that district;
+
+(c) in accordance with the provisions mentioned in section 37(2)(b) of this Act as they apply in respect of that district;
+
+(d) by an annual close time order made in respect of that district; or
+
+(e) by regulations under section 38 of this Act that make provision as mentioned in subsection (5)(c) of that section in respect of that district.]
+
+(3) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+#### 15 Removal of boats and nets during annual close time
+
+(1) The proprietor or occupier of any salmon fishery shall within thirty-six hours after the commencement of the annual close time—
+
+(a) remove and carry from such fishery, and from the landing places and grounds adjacent thereto, all boats, oars, nets, engines and other tackle used or employed by such occupier in taking salmon; and
+
+(b) effectually secure the same so as to prevent their being used in fishing until the end of the close time,
+
+with the exception of such boats and oars as may be used in angling.
+
+(2) The proprietor or occupier of any cruive shall within thirty-six hours after the commencement of the annual close time—
+
+(a) remove and carry away all the hecks, rails and inscales;
+
+(b) effectually secure the same so as to prevent their being used in fishing; and
+
+(c) remove all planks and temporary fixtures and other obstructions to the free passage of fish through the cruive.
+
+(3) Any proprietor or occupier who fails to comply with the duty imposed by subsection (1) or, as the case may be, (2) above shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(4) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(5) Nothing in this section applies to—
+
+(a) any ferry-boat or prevents the continued use of any boat by the owner, or the family of the owner, of lands, if the boat has the owner’s name painted on it, and is secured, when not in use for lawful purposes, by lock and key;
+
+(b) the pins fixed in the ground to assist in the support of the stakes or poles of fly nets or other stake nets;
+
+(c) the fastenings fixed in rocks for the support of bag nets; or
+
+(d) the pins and poles of certificated fixed engines.
+
+#### 16 Buying and selling salmon in close time
+
+(1) Any person who buys, sells, exposes for sale or is in possession of, any salmon taken within the limits of this Act during the period when the annual close time is in force in every salmon fishery district and in the River Tweed, shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) It shall be a defence to a prosecution brought under this section for the accused to prove that the salmon was caught lawfully.
+
+(3) The burden of proving that any salmon was caught beyond the limits of this Act shall lie on the person charged with selling, exposing for sale, or being in possession of, the salmon.
+
+(4) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+### Close time for trout
+
+#### 17 Annual close time for trout
+
+(1) The annual close time for trout shall extend from 7th October to 14th March, both inclusive.
+
+(2) Subject to subsections (3) and (4) below, any person who, during the annual close time for trout—
+
+(a) fishes for or takes trout in any inland waters; or
+
+(b) is in possession of trout,
+
+shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) It shall not be an offence under this section for the owner or occupier of any water where trout are kept in captivity or artificially reared or fed, or any person employed by such a person, to take trout from such water during the annual close time—
+
+(a) for scientific or breeding purposes;
+
+(b) for the purpose of removing them or having them removed, alive, to other waters.
+
+(4) It shall not be an offence under this section for a person to whom trout are consigned, whether by sale or otherwise, for the purpose mentioned in subsection (3)(b) above, to be in possession of such trout.
+
+[[^F13](5) A person who commits an offence under this section may be convicted on the evidence of one witness.]
+
+### [[^F14]Close times for freshwater fish
+
+#### 17A Weekly close time for freshwater fish
+
+(1) The Scottish Ministers may by order, after consulting such persons as they consider appropriate, specify a weekly close time for freshwater fish.
+
+(2) An order under subsection (1) may make different provision for different species of freshwater fish.
+
+(3) During a weekly close time specified by virtue of subsection (1), no person shall fish for or take such freshwater fish as are so specified in relation to that close time.
+
+(4) Any person who contravenes an order made under this section shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(6) An order under subsection (1) may specify that the effect of the order is applicable only to a particular part or area of Scotland.
+
+#### 17B Annual close time for freshwater fish other than trout
+
+(1) The Scottish Ministers may by order, after consulting such persons as they consider appropriate, specify an annual close time for freshwater fish other than trout.
+
+(2) An order under subsection (1) may make different provision for different species of freshwater fish.
+
+(3) Subject to subsections (4) and (5) below, any person who, during the annual close time specified by virtue of subsection (1) in relation to a species of fish—
+
+(a) fishes for or takes such fish in any inland waters; or
+
+(b) is in possession of such fish,
+
+shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) It shall not be an offence under this section for the owner or occupier of any water where fish in relation to which an annual close time is specified by virtue of subsection (1) are kept in captivity or artificially reared or fed, or any person employed by such a person, to take such fish from such water during the annual close time—
+
+(a) for scientific or breeding purposes;
+
+(b) for the purpose of removing them or having them removed, alive, to other waters.
+
+(5) It shall not be an offence under this section for a person to whom fish are consigned, whether by sale or otherwise, for the purpose mentioned in subsection (4)(b) above, to be in possession of such fish.
+
+(6) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(7) An order under subsection (1) may specify that the effect of the order is applicable only to a particular part or area of Scotland.]
+
+### Offences related to sale, purchase and possession of salmon and trout
+
+#### 18 Unclean salmon
+
+(1) Any person who—
+
+(a) wilfully takes or fishes for; or
+
+(b) buys, sells, exposes for sale or is in possession of,
+
+any unclean or unseasonable salmon shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Subsection (1)(a) above does not apply to any person who takes such fish accidentally and forthwith returns it to the water with the least possible injury.
+
+(3) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+#### 19 Salmon roe
+
+(1) Any person who buys, sells, exposes for sale or is in possession of any salmon roe shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Subsection (1) above shall not apply to any person who gives a reason, satisfactory to the court before which that person is charged, for being in possession of salmon roe.
+
+(3) It shall be a defence for a person charged with an offence under subsection (1) above to prove—
+
+(a) that the roe had been produced in the course of fish farming within the meaning given by section 33(6) of the Fisheries Act 1981 (c. 29); or
+
+(b) that that person believed on reasonable grounds that it had been so produced.
+
+(4) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(5) Subsection (3) above is without prejudice to the provisions of subsection (2) above relating to the circumstances in which subsection (1) above does not apply.
+
+#### 20 Possessing salmon which have been illegally taken, killed or landed
+
+(1) Any person who—
+
+(a) is in possession of salmon and believes; or
+
+(b) is in possession of salmon in circumstances in which it would be reasonable for that person to suspect,
+
+that a relevant offence has at any time been committed in relation to the salmon shall be guilty of an offence.
+
+(2) A person found guilty of an offence under this section shall be liable—
+
+(a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 3 months or to both such fine and such imprisonment; and
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years or to both a fine and such imprisonment.
+
+(3) It shall be a defence in proceedings for an offence under this section for the accused to show that no relevant offence had in fact been committed in relation to the salmon.
+
+(4) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(5) For the purposes of this section an offence is a relevant offence in relation to a salmon if—
+
+(a) it is committed by taking, killing or landing that salmon, either in Scotland or in England and Wales; or
+
+(b) that salmon is taken, killed or landed, either in Scotland or in England and Wales in the course of the commission of the offence,
+
+and, for the purposes of this subsection, “offence”, in relation to the taking, killing or landing of salmon either in Scotland or in England and Wales means an offence under the law applicable to the place where the salmon is taken, killed or landed.
+
+(6) A person shall not be guilty of an offence under this section in respect of conduct which constitutes a relevant offence in relation to any salmon or in respect of anything done in good faith for purposes connected with the prevention or detection of crime or the investigation or treatment of disease.
+
+#### 21 Packages of salmon or trout to be marked
+
+(1) Any person who consigns or sends by any common or other carrier any salmon or trout in a package which is not marked conspicuously on the outside with—
+
+(a) the word “salmon” or “sea trout” or, as the case may be, “trout”; and
+
+(b) the name and address of the sender,
+
+shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) An authorised person may open any package consigned or sent or brought to any place to be consigned or sent, and suspected to contain salmon or trout.
+
+(3) Where a package opened under subsection (2) above is found to contain salmon or trout and—
+
+(a) the package is not marked as described in subsection (1) above; or
+
+(b) there is reasonable cause to suspect that salmon or trout contained in any package so marked is being dealt with contrary to law,
+
+an authorised person may detain the package and its contents pending proceedings for an offence against any provision of this Act.
+
+(4) If, before the conclusion of such proceedings as are mentioned in subsection (3) above, any salmon or trout detained under that subsection becomes unfit for human consumption, any authorised person may destroy it, or cause it to be destroyed.
+
+(5) Any person who—
+
+(a) refuses to allow an authorised person to exercise a power conferred by this section; or
+
+(b) obstructs any authorised person in the exercise of a power so conferred,
+
+shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) For the purposes of this section an “authorised person” means—
+
+(a) any constable;
+
+(b) any water bailiff;
+
+(c) any person appointed for the purposes of this section by the Scottish Ministers.
+
+#### 21A [[^F15]Salmon carcass tagging
+
+(1) The Scottish Ministers may by regulations make provision for or in connection with tagging the carcasses of salmon.
+
+(2) Regulations under subsection (1) above may, in particular, make provision—
+
+(a) about—
+
+(i) the nature and form of tags,
+
+(ii) the information which tags are to contain and the nature and form of that information,
+
+(iii) applications for, and the supply, issue and storage of, tags,
+
+(iv) the persons or descriptions of persons who may supply and issue tags, including provision about registration of such persons,
+
+(v) the method of affixing tags to carcasses and the circumstances in which, and the time at or by which, they are to be affixed,
+
+(vi) the circumstances in which, and the time at or by which, tags may be removed,
+
+(vii) the steps to be taken in the event of loss of, or damage to, tags,
+
+(b) for or about the keeping of records in connection with fishing for, taking, and tagging of salmon to which the regulations apply (including the form and content of such records),
+
+(c) for or about the inspection or examination of those records, or the information contained in them, by persons or descriptions of persons mentioned in paragraph (e) below, by such methods as the regulations may specify, and the steps to be taken in the event of loss of, or damage to, the records,
+
+(d) for or about the inspection or examination of tags by persons or descriptions of persons mentioned in paragraph (e) below, including provision about the retention of tags after their removal,
+
+(e) for or about persons, or descriptions of persons, responsible for enforcing and ensuring compliance with the regulations (including the appointment and functions of such persons),
+
+(f) for or about the seizure, detention and destruction by persons, or descriptions of persons, mentioned in paragraph (e) above of salmon—
+
+(i) that have not been tagged, or
+
+(ii) from which a tag has been removed otherwise than,
+
+in accordance with the provisions of the regulations,
+
+(g) for or about the imposition by the Scottish Ministers of charges for the recovery of any reasonable costs they incur in connection with the supply or issue of tags (including charges in relation to the administration costs associated with the imposition of such charges),
+
+(h) for exemptions and exceptions to the regulations and for matters in respect of which the regulations do not apply.
+
+(3) Regulations under subsection (1) above may make—
+
+(a) different provision for different purposes and areas,
+
+(b) incidental, supplemental, consequential, transitional, transitory or saving provision,
+
+(c) such modifications of Part 5 of this Act as the Scottish Ministers think fit.
+
+(4) A person commits an offence if the person—
+
+(a) sells, offers or exposes for sale, or has in the person's possession, any salmon—
+
+(i) that has not been tagged in accordance with regulations under subsection (1) above, or
+
+(ii) from which a tag has been removed otherwise than in accordance with such regulations,
+
+(b) acts in contravention of such regulations, or
+
+(c) fails to take any action required of that person or (as the case may be) fails to comply with any requirement imposed on that person by such regulations.
+
+(5) It is a defence for a person charged with an offence under subsection (4)(c) above to show that the person had a reasonable excuse for failing to take any action or comply with any requirement as mentioned in that subsection.
+
+(6) A person who commits an offence under subsection (4) above—
+
+(a) is liable on summary conviction to a fine not exceeding level 4 on the standard scale,
+
+(b) may be convicted on the evidence of one person.]
+
+#### 22 Size limit for selling trout
+
+(1) Subject to subsection (2) below, any person who purchases, sells, exposes for sale, consigns for sale, exports or consigns for export—
+
+(a) trout under 20 centimetres in length; or
+
+(b) any trout at any time between 1st September and 31st March both inclusive,
+
+shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Nothing in this section shall apply to live trout sold or disposed of for the purpose of stocking any river, loch or water, or of artificial propagation.
+
+### Protection of young salmon
+
+#### 23 Young salmon and spawning beds
+
+(1) Any person who—
+
+(a) knowingly takes, injures or destroys;
+
+(b) buys, sells, exposes for sale or is in possession of; or
+
+(c) places any device or engine for the purpose of obstructing the passage of,
+
+any smolt, parr, salmon fry or alevin shall be guilty of an offence.
+
+(2) Any person who knowingly—
+
+(a) injures or disturbs any salmon spawn; or
+
+(b) disturbs any spawning bed or any bank or shallow in which the spawn of salmon may be,
+
+shall be guilty of an offence.
+
+(3) Any person who during the annual close time obstructs or impedes salmon in their passage to any such bed, bank or shallow shall be guilty of an offence.
+
+(4) Subsections (1) to (3) above shall not apply to acts done in the course of cleaning or repairing any dam or mill-lade, or in the exercise of rights of property in the bed of any river or stream.
+
+(5) Notwithstanding subsections (1) to (3) above and subject to subsection (6) below, a district salmon fishery board may, with the consent of all the proprietors of salmon fisheries in any river or estuary, adopt such means as they think fit for preventing the ingress of salmon into narrow streams in which they or the spawning beds are from the nature of the channel liable to be destroyed.
+
+(6) Nothing done under subsection (5) above may interfere with any water rights used or enjoyed for the purposes of manufacture, agriculture or drainage.
+
+(7) A person who commits an offence under this section may be convicted on the evidence of one witness, and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### [^F16]24 Unauthorised introduction of salmon or salmon eggs into certain waters
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Offences in relation to the Solway
+
+#### 25 Fixed engines in the Solway
+
+(1) Any person who, for the purpose of taking, or obstructing the free passage of, salmon, places or uses an uncertificated fixed engine in the Solway shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(2) In subsection (1) above—
+
+- “fixed engine” includes any net or other implement for taking fish which is fixed to the soil or made stationary in any other way; and
+- “uncertificated” means not having been certificated as privileged under section 5 of the Solway Salmon Fisheries Commissioners (Scotland) Act 1877 (c.ccxl).
+
+#### 26 Fishing without legal right in the Solway
+
+(1) Any person who, without legal right, or without permission of a person having such right, takes or fishes for any fish other than salmon in any of the rivers, streams or other watercourses running into the Solway shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+
+(2) This section shall not apply to the River Annan and, in this subsection, “the River Annan” includes—
+
+(a) the rivers, streams or other watercourses running into the River Annan; and
+
+(b) the coast of the Solway between the west bank of the River Sark and the east bank of the Lochar Water.
+
+### Exemptions
+
+#### 27 Exemption from certain offences in respect of acts done for scientific and other purposes: salmon
+
+(1) A person shall not, in respect of any act or omission relating to salmon or salmon roe or eggs, be guilty of a contravention of an enactment prohibiting or regulating that act or omission if—
+
+(a) the act or omission is for—
+
+(i) some scientific purpose;
+
+(ii) the purpose of protecting, improving or developing stocks of fish; or
+
+(iii) the purpose of conserving any creature or other living thing; and
+
+(b) that person has obtained the previous permission in writing—
+
+(i) if the act or omission is one to which this sub-paragraph applies, of the district salmon fishery board for the salmon fishery district in which it takes place or of the Scottish Ministers; and
+
+(ii) in any other case, of the Scottish Ministers,
+
+for the act or omission.
+
+[[^F17](1A) In granting permission under subsection (1) above, a district salmon fishery board or (as the case may be) the Scottish Ministers may impose conditions or requirements.
+
+(1B) A person commits an offence if the person—
+
+(a) acts in contravention of any such condition or requirement; or
+
+(b) fails to take any action required of the person by any such condition or requirement.
+
+(1C) It is a defence for a person charged with an offence under subsection (1B)(b) above to show that the person had a reasonable excuse for failing to take the action mentioned in that subsection.
+
+(1D) A person who commits an offence under subsection (1B) above is liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+(2) Sub-paragraph (i) of subsection (1)(b) above applies if the act or omission referred to in that sub-paragraph takes place in a salmon fishery district for which there is a district salmon fishery board; and is a contravention of section 1, 2, 5(1)(c), 18, 19 or 23 of this Act.
+
+(3) A permission under subsection (1) above shall specify the act or omission permitted[[^F18], any conditions or requirements imposed under subsection (1A) above] and the enactment to which the permission relates.
+
+#### 28 Exemption from certain offences in respect of acts done for scientific and other purposes: fish other than salmon
+
+(1) A person shall not be guilty of any contravention of a provision specified in subsection (2) below in respect of any act in relation to fish other than salmon, if that person does the act for—
+
+(a) some scientific purpose; or
+
+(b) the purpose of protecting, improving or developing stocks of fish,
+
+and has obtained the previous permission in writing of the Scottish Ministers.
+
+(2) The provisions are—
+
+(a) sections 2, 5, 8, 9, 17[[^F19], 17A, 17B] or 22 of this Act;
+
+(b) section 7 of this Act, so far as it relates to the said section 2; [^F20]...
+
+(c) section 30F(1) of the Control of Pollution Act 1974 (c. 40) (pollution of controlled waters).
+
+[[^F21](3) In granting permission under subsection (1) above, the Scottish Ministers may impose conditions or requirements.
+
+(4) A person commits an offence if the person—
+
+(a) acts in contravention of any such condition or requirement; or
+
+(b) fails to take any action required of the person by any such condition or requirement.
+
+(5) It is a defence for a person charged with an offence under subsection (4)(b) above to show that the person had a reasonable excuse for failing to take the action mentioned in that subsection.
+
+(6) A person who commits an offence under subsection (4) above is liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+#### 29 Exemption from certain offences in respect of certain acts in relation to salmon
+
+(1) A person shall not, in respect of any act or omission relating to fishing for or taking salmon, be guilty of a contravention of an enactment prohibiting or regulating that act or omission if the act or omission has been exempted by the Scottish Ministers.
+
+(2) The Scottish Ministers may exempt an act or omission under subsection (1) above only if they are satisfied that—
+
+(a) the proprietor of every affected salmon fishery in the salmon fishery district in which the act or omission is to take place, being a salmon fishery entered in the valuation roll; and
+
+(b) if there is one, the district salmon fishery board for that district,
+
+have previously consented to it.
+
+(3) In subsection (2) above “affected” means appearing to the Scottish Ministers to be likely to be affected by the exemption.
+
+(4) An exemption under this section—
+
+(a) may relate only to such person as may be specified in it;
+
+(b) may be subject to such conditions as may be so specified;
+
+(c) shall be in writing;
+
+(d) shall specify—
+
+(i) the limits of the waters to which it relates;
+
+(ii) its duration; and
+
+(iii) the enactment to which it relates.
+
+#### 30 Exemptions in relation to fish farming
+
+(1) Subject to subsections (2) to (6) below, a person shall not be guilty of a contravention of any of sections 1, 2, 5(1)(b) and (c),[[^F22]6, 8,] 13(2) and (3), 14(1), 15 to 18 [[^F23], 22(1) and 23], or regulations under[[^F24]section 21A or ] section 31(1)(a) or (d), of this Act in respect of any act or omission if the act or the omission takes place within, and in the course of the operation of, a fish farm.
+
+(2) There shall be no contravention of paragraph (b) or (c) of section 5(1) of this Act, by virtue of subsection (1) above, in respect of an act referred to in those paragraphs if, and only if, the act is carried out with the consent of the Scottish Ministers.
+
+[[^F25](2A) In granting consent under subsection (2) above, the Scottish Ministers may impose conditions or requirements.
+
+(2B) A person commits an offence if the person—
+
+(a) acts in contravention of any such condition or requirement; or
+
+(b) fails to take any action required of the person by any such condition or requirement.
+
+(2C) It is a defence for a person charged with an offence under subsection (2B)(b) above to show that the person had a reasonable excuse for failing to take the action mentioned in that subsection.
+
+(2D) A person who commits an offence under subsection (2B) above is liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+(3) For the purposes of subsection (1) above, the act of selling or exporting fish by or on behalf of a person who has reared the fish in a fish farm shall be deemed to be an act carried out within a fish farm in the course of the operation of that farm.
+
+(4) In any proceedings for an offence under section 15 of this Act in relation to a boat or other thing mentioned in that section which is not in a fish farm, it shall be a defence for the person charged with such offence to prove that the act or omission complained of was necessary for the purpose of the operation of a fish farm.
+
+(5) It shall be a defence for a person charged with an offence under section 16, 17(2)(b),[[^F26]17B(3)(b),] 18(1)(b)[[^F27], 21A(4)(a) or (b)] or 22 of this Act to show that that person believed on reasonable grounds that the fish with respect to which the offence is alleged to have been committed were produced by fish farming.
+
+(6) For the purposes of subsection (5) above “fish farming” means the breeding, rearing or cultivating of fish, whether or not for the purpose of producing food for human consumption; but the reference in that subsection to fish produced by fish farming does not include fish bred, reared or cultivated in captivity which have later been released to the wild.
+
+### Regulation of salmon fisheries
+
+#### 31 Salmon fishing: general regulations
+
+(1) The Scottish Ministers may, after consulting such persons as they consider appropriate, make regulations with respect to—
+
+(a) the due observance of the weekly close time for salmon;
+
+(b) the construction and use of cruives;
+
+(c) the construction and alteration of dams, lades or water wheels so as to afford a reasonable means for the passage of salmon;
+
+(d) the meshes, materials and dimensions of nets used in fishing for or taking salmon;
+
+(e) obstructions in rivers or estuaries to the passage of salmon;
+
+(f) the construction, alteration and use for the control of the passage of salmon of—
+
+(i) screens in off-takes from inland waters; and
+
+(ii) structures associated with such screens.
+
+(2) Regulations made under paragraphs (c) or (f) of subsection (1) above—
+
+(a) may except from a regulation or part of a regulation any works or any category of works; and
+
+(b) are subject to section 32 of this Act.
+
+(3) The power to make regulations under subsection (1)(d) above includes power—
+
+(a) to make different provision for different districts or different parts of a district; and
+
+(b) to except from the application of a regulation or part of a regulation a district or part of a district specified in the regulations.
+
+(4) For the purposes of section 1 of this Act, and after consulting such persons as they consider appropriate, the Scottish Ministers may by regulations define fishing for or taking salmon by—
+
+(a) net and coble;
+
+(b) bag net, fly net or other stake net;
+
+(c) haaf net,
+
+whether by reference to anything used for the purpose, or to the circumstances in which or method by which it is so used, or to any combination thereof; and, in relation to net and coble, may make different provision as respects inland waters from that made as respects other waters.
+
+(5) The Scottish Ministers may, after consulting such persons as they consider appropriate, make regulations amending section 13 of this Act, but such regulations shall not reduce—
+
+(a) the weekly close time to a period of less than 42 hours;
+
+(b) the period within the weekly close time during which it is permitted to fish for salmon by rod and line to less than [[^F28]18] hours; or
+
+(c) the period during which all fishing for salmon is prohibited to less than 24 hours.
+
+(6) Any proprietor or occupier of a fishery at which stake weirs, stake nets, fly nets or bag nets are used who fails, in regard to such weirs or nets, to do all acts required by regulations made under subsection (1) above for the observance of the weekly close time shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(7) Any person who contravenes a regulation made under this section shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(8) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+#### 32 Exception from regulations with respect to the construction of dams, lades and water wheels
+
+(1) No regulations made under this Act with respect to the construction and alteration of dams, lades or waterwheels, so as to afford a reasonable means for the passage of salmon, shall apply to streams or branches or tributaries of rivers which are of such small size as not to be frequented by salmon, nor to dam dykes which in the average state of the river do not obstruct the passage of salmon.
+
+(2) Where in any intake lade there is a sufficient sluice, it shall not be necessary to remove the said sluice to a higher point of the lade, nor to construct an additional sluice at the intake thereof.
+
+(3) It shall be lawful to lift any heck from out the water as a means of protection during a flood, or when the river is encumbered with ice, or with weeds and floating leaves to an extent to choke the heck.
+
+#### 33 Salmon fishing: regulations as to baits and lures
+
+(1) Without prejudice to section 38(5)(b) of this Act and subject to subsections (2) to (7) below, the Scottish Ministers may make regulations prohibiting the use of specified baits and lures for the purposes of the definition of “rod and line” in section 4(1) of this Act in the case of fishing for salmon.
+
+(2) The Scottish Ministers may make regulations under subsection (1) above only on an application to them made in accordance with subsection (5) below.
+
+(3) An application under subsection (2) above may be made by—
+
+(a) a district salmon fishery board; or
+
+(b) one or more such boards jointly,
+
+and any reference in this section to an “applicant” shall be construed accordingly.
+
+(4) Regulations made in respect of an application under subsection (2) above shall be made only in respect of the district of the applicant.
+
+(5) An application under subsection (2) above shall be accompanied by the applicant’s written proposals which shall state—
+
+(a) the baits and lures the use of which it is proposed should be prohibited;
+
+(b) the places to which and the times during which the proposed regulations should apply; and
+
+(c) the reasons for the proposals,
+
+and the application and proposals mentioned in this subsection may be communicated and stored electronically.
+
+(6) Regulations under subsection (1) above shall specify, subject to such exceptions as may be provided therein, all or any, or a combination of, the following—
+
+(a) baits and lures or classes of baits or lures, the use of which is prohibited;
+
+(b) times when the regulations apply;
+
+(c) areas to which the regulations apply.
+
+[[^F29](6A) Regulations under subsection (1) above may impose requirements on district salmon fishery boards in relation to monitoring and evaluation of the effect of the regulations on salmon stocks.
+
+(6B) A district salmon fishery board commits an offence if the board—
+
+(a) acts in contravention of any such requirements; or
+
+(b) fails to take any action required of the board by any such requirements.
+
+(6C) A board which commits an offence under subsection (6B) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+(7) Paragraphs [[^F30]9B] to 15 of schedule 1 to this Act shall apply to the making of regulations under subsection (1) above as they apply to the making of the orders or regulations mentioned in those paragraphs; and references to an applicant, and to an application, under paragraph 1 of that schedule shall be construed respectively as references to an applicant, and to an application, under subsection (2) above.
+
+[[^F31](8) The Scottish Ministers may by order vary the provisions of—
+
+(a) subsections (2) to (5) above;
+
+(b) paragraphs 9B to 15 of schedule 1 to this Act as they apply to the making of regulations under subsection (1) above.]
+
+### [[^F32]Unauthorised introduction of fish into inland waters
+
+#### 33A Unauthorised introduction of fish into inland waters
+
+(1) A person shall be guilty of an offence if the person intentionally introduces any live fish or live spawn of any fish into inland waters.
+
+(2) A person shall be guilty of an offence if the person possesses any live fish or live spawn of any fish with the intention of introducing it into inland waters.
+
+(3) A person shall not be guilty of an offence under [[^F33]subsection (1) or (2) above ] if—
+
+(a) the inland waters concerned constitute or are included in a fish farm, or
+
+(b) the appropriate authority have previously consented in writing.
+
+[[^F34](3A) The appropriate authority may, in granting consent for the purposes of subsection (3)(b) above, impose conditions or requirements.
+
+(3B) A person shall be guilty of an offence if the person—
+
+(a) acts in contravention of any such condition or requirement; or
+
+(b) fails to take any action required of the person by any such condition or requirement.
+
+(3C) It is a defence for a person charged with an offence under subsection (3B)(b) above to show that the person had a reasonable excuse for failing to take the action mentioned in that subsection.]
+
+(4) Where—
+
+(a) the fish concerned are salmon or the spawn concerned are salmon spawn, and
+
+(b) the inland waters concerned are in a salmon fishery district for which there is a district salmon fishery board,
+
+the district salmon fishery board are the appropriate authority.
+
+In any other case the Scottish Ministers are the appropriate authority.
+
+[[^F35](4A) Subsection (4) is subject to provision made in regulations under section 33B of this Act.]
+
+(5) Any person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) A person who commits an offence under this section may be convicted on the evidence of one witness.]
+
+#### 33B [[^F36]Power to modify district salmon fishery boards' functions under section 33A
+
+(1) This section applies to the functions of the appropriate authority under section 33A(3)(b) and (3A) of this Act (the “consenting functions”) so far as the functions may be carried out by district salmon fishery boards.
+
+(2) The Scottish Ministers may by regulations—
+
+(a) provide for the consenting functions to be carried out by the Scottish Ministers instead of district salmon fishery boards in specified cases or circumstances,
+
+(b) provide for applications made to district salmon fishery boards for consent under section 33A of this Act to be referred to the Scottish Ministers in specified cases or circumstances,
+
+(c) in relation to an application referred to the Scottish Ministers by virtue of provision made under paragraph (b) above, provide for the Scottish Ministers—
+
+(i) to determine the application and to carry out the consenting functions in relation to the application, or
+
+(ii) to issue directions to the district salmon fishery board to which the application was made about the determination of the application and the carrying out of the consenting functions in relation to the application.
+
+(3) Regulations under subsection (2) above may—
+
+(a) make different provision for different purposes, including different provision for—
+
+(i) different district salmon fishery districts, or
+
+(ii) different inland waters or parts of such waters,
+
+(b) include incidental, supplemental, consequential, transitional, transitory or saving provision.
+
+(4) In subsection (2) above, “specified” means specified in regulations under that subsection.]
+
+## Part 2 — Administration of salmon fisheries
+
+### Salmon fishery districts
+
+#### 34 Salmon fishery districts
+
+(1) Subject to subsection (2) below, a salmon fishery district shall be the area within the coastal limits of a district (within the meaning of the 1862 to 1868 Acts), and extending—
+
+(a) seaward for 5 kilometres from mean low water springs; and
+
+(b) landward to include the catchment area of each river which flows directly or indirectly into the sea within the coastal limits of the salmon fishery district.
+
+(2) The Scottish Ministers may, in accordance with section 35 of this Act, by order (in this Act referred to as a “designation order”) designate any area as a salmon fishery district, whether or not it includes all or part of an existing salmon fishery district.
+
+(3) After consulting such persons as they think fit, the Scottish Ministers may, by order—
+
+(a) where an island or part of an island is not within the area of a salmon fishery district by virtue of subsection (1) or (2) above, include in the area of such a district—
+
+(i) that island or that part; and
+
+(ii) the sea within 5 kilometres from mean low water springs on that island or that part;
+
+(b) where there is doubt as to whether a particular place is in a particular salmon fishery district, make provision for the purpose of removing that doubt; or
+
+(c) change a reference used in describing a salmon fishery district where the suitability of that reference for that purpose has lessened or ceased,
+
+but such an order shall not create a salmon fishery district.
+
+#### 35 Designation orders
+
+(1) A designation order shall provide for the abolition of such salmon fishery districts as are superseded by the district so designated.
+
+(2) Subject to section 37(1) of this Act, a designation order shall specify for the district so designated the annual close time and the periods within that time when it is permitted to fish for and take salmon by rod and line; and the order may make different provision for different parts of the district.
+
+(3) Paragraphs 1, 2 and [[^F37]9B] to 15 of schedule 1 to this Act shall have effect in relation to the making of designation orders.
+
+[^F38]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 36 Estuary limits
+
+(1) For the purposes of this section “estuary limits” means limits which divide each river including its mouth or estuary from the sea.
+
+(2) The estuary limits of a river shall be the limits fixed and defined—
+
+(a) under section 6(1) of the 1862 Act; or
+
+(b) under an estuary limits order made under subsection (3) below,
+
+and, where no such limits have been fixed as provided for in the preceding paragraphs of this subsection, the estuary limits of a river shall be the natural limits which divide a river (including its estuary) from the sea.
+
+(3) The Scottish Ministers may, in relation to any river, and whether or not any such limits have previously been fixed, by order (in this Act referred to as an “estuary limits order”) prescribe limits which shall be the estuary limits for that river.
+
+(4) Paragraphs 3, 4 and [[^F39]9B] to 15 of schedule 1 to this Act shall have effect in relation to the making of an estuary limits order.
+
+(5) Where the estuary limits of any river have been fixed, and after consulting such persons as they think fit, the Scottish Ministers may, by order, change a reference used in describing estuary limits where the suitability of that reference for that purpose has lessened or ceased; but such an order shall not be an estuary limits order.
+
+### Conservation measures
+
+#### 37 Annual close times for salmon
+
+(1) The annual close time for a salmon fishery district shall be a continuous period of not less than 168 days and shall apply to every mode of fishing for and taking salmon except to the extent that provision is made for periods within that time during which it is permitted to fish for and take salmon by rod and line.
+
+(2) Subject to subsection (3) below [[^F40]and to section 38(5)(c) of this Act], the dates of the annual close time and the periods within that time when it is permitted to fish for and take salmon by rod and line shall be, in the case of any particular district—
+
+(a) the dates and periods specified in any designation order made in respect of that district; or
+
+(b) where no designation order has been made in respect of that district, the dates and periods which were determined for the district (within the meaning of the 1862 to 1868 Acts), which had the same coastal limits as that salmon fishery district, under section 6(5) of the 1862 Act, but subject to any variation made under section 9 of the 1868 Act.
+
+(3) [[^F41]Without prejudice to section 38(5)(c) of this Act,] the Scottish Ministers may, subject to subsection (1) above, by order (in this Act referred to as an “annual close time order”) prescribe for any district the dates of the annual close time and the periods within that time when it is permitted to fish for and take salmon by rod and line and they may make different provision for different parts of a district.
+
+[[^F42](3A) An annual close time order may impose requirements on district salmon fishery boards or proprietors of salmon fisheries in relation to monitoring and evaluation of the effect of the order on salmon stocks.
+
+(3B) A district salmon fishery board or proprietor commits an offence if the board or proprietor—
+
+(a) acts in contravention of any such requirements; or
+
+(b) fails to take any action required of the board or proprietor by any such requirements.
+
+(3C) A board which or proprietor who commits an offence under subsection (3B) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+(4) Paragraphs 5, 6 and [[^F43]9B] to 15 of schedule 1 to this Act shall have effect in relation to the making of orders under this section.
+
+#### 38 Salmon conservation regulations
+
+(1) The Scottish Ministers may make regulations under this section if they consider that it is necessary or expedient to do so for the conservation of salmon.
+
+(2) Regulations under this section shall not be taken to be for something other than the conservation of salmon by reason only that they also have effect in relation to the management of salmon fisheries for exploitation.
+
+(3) In considering whether or not it is necessary or expedient to make regulations under this section the Scottish Ministers shall have regard to any representations made to them by any person having an interest in fishing for or taking salmon, or in the environment.
+
+(4) Regulations under this section—
+
+(a) may be made in relation only to salmon fisheries; and
+
+(b) subject to subsection (5)(b) [[^F44]and (c)] below, shall not be made in respect of matters in relation to which the Scottish Ministers have power to make regulations or orders under any other enactment relating to the management of salmon or freshwater fisheries.
+
+(5) Without prejudice to the generality of the power conferred by this section, regulations under this section may—
+
+(a) specify the type of information about any salmon fishery that a district salmon fishery board may require from the proprietor of the fishery and the time within which such information shall (if required) be supplied;
+
+(b) prohibit the use of specified baits and lures for the purposes of the definition of “rod and line” in section 4 of this Act.
+
+[[^F45](c) subject to section 37(1) of this Act, prescribe for any salmon fishery district the dates of the annual close time for salmon and the periods within that time when it is permitted to fish for and take salmon by rod and line.]
+
+(6) Regulations under this section may—
+
+(a) confer upon constables and water bailiffs such powers of enforcement, additional to those otherwise available under this Act, as the Scottish Ministers consider necessary or expedient for the purposes of the regulations;
+
+(b) make provision generally in relation to any river or salmon fishery district, or in relation to any time or season;
+
+[[^F46](ba) impose on district salmon fishery boards or proprietors of salmon fisheries such requirements as the Scottish Ministers consider necessary or expedient in relation to monitoring and evaluation of the effect of the regulations on salmon stocks;]
+
+(c) make different provision for different salmon fishery districts or different parts of such a district, or for different parts of a river, or for different cases or classes of case.
+
+(7) Any person who—
+
+(a) acts in contravention of; or
+
+(b) fails to take any action required of that person by, or to comply with any requirement imposed on that person by,
+
+regulations made under this section shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(8) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(9) Paragraphs 7 to 15 of schedule 1 to this Act shall have effect in relation to the making of regulations under this section.
+
+### Procedures
+
+#### 39 Procedure for making orders and regulations under section 33 and this Part
+
+[[^F47](1)] Schedule 1 (which makes provision for the making of certain orders and regulations under section 33 and this Part of this Act) shall have effect.
+
+[[^F48](2) The Scottish Ministers may by order vary the provisions of schedule 1 to this Act.
+
+(3) An order under subsection (2) above may make different provision for different purposes.
+
+(4) Subsection (2) above is without prejudice to section 33(8)(b) of this Act.]
+
+## Part 3 — District salmon fishery boards
+
+### Proprietors of salmon fisheries
+
+#### 40 Qualified proprietors and upper and lower proprietors
+
+(1) A qualified proprietor shall be, for the purposes of this Act, a proprietor of a salmon fishery entered in the valuation roll.
+
+(2) Where any salmon fishery is not entered or not entered separately in the valuation roll, the assessor shall, on the request of—
+
+(a) the clerk to the district salmon fishery board for the district in which the fishery is situated; or
+
+(b) where there is no such board for the district, the proprietor of that fishery,
+
+value that fishery and enter it in the valuation roll.
+
+(3) If a salmon fishery is situated in more than one salmon fishery district the assessor shall, on the request of—
+
+(a) the clerk to the district salmon fishery board for either or any of these districts; or
+
+(b) where there is no such board, the proprietor of that fishery,
+
+value that fishery and enter it in the valuation roll according to its value in each district.
+
+(4) A qualified proprietor shall be an upper proprietor or a lower proprietor for the purposes of this Act according to whether the salmon fishery in question is, respectively, upstream or downstream of a division of a river as defined in subsection (7) or (8) below and, in this Act, “upper proprietor” and “lower proprietor” each means a qualified proprietor.
+
+(5) A person who is a qualified proprietor of one salmon fishery situated above and another situated below a division referred to in subsection (4) above shall be both an upper proprietor and a lower proprietor, whether or not both fisheries are on the same river in the district, and may act in either capacity or in both capacities in accordance with the provisions of this Act.
+
+(6) Subject to subsection (5) above, a qualified proprietor in a salmon fishery district shall not be eligible for election, co-option or appointment to the district salmon fishery board for that district in respect of more than one salmon fishery.
+
+(7) The division referred to in subsection (4) above shall be—
+
+(a) a line across the river between such points on either bank prescribed by the Scottish Ministers under subsection (8) below; or
+
+(b) where the Scottish Ministers have not prescribed such points but a point of division has been fixed in accordance with section 6(4) of the 1862 Act, that point of division; or
+
+(c) where no division has been effected under paragraph (a) or (b) above, the normal tidal limit.
+
+(8) When requested to do so by the district salmon fishery board for the district in which a river is situated, the Scottish Ministers may by order prescribe a point of division on each bank of the river to which the request relates.
+
+(9) The clerk to a district salmon fishery board shall maintain a roll showing—
+
+(a) the upper and lower proprietors in the district; and
+
+(b) the values of their fisheries as entered in the valuation roll;
+
+and the board may, if they are satisfied that a name should be added or removed, add or remove it.
+
+(10) Subject to section 5 of the Sheriff Courts (Scotland) Act 1907 (c. 51) (jurisdiction as regards heritable property), the sheriff may, on summary application made by a person whose request to the board to add or remove a name has not been met, order the board to add or remove that name.
+
+#### 41 Sole proprietor in a salmon fishery district
+
+Where there is in a salmon fishery district only one proprietor of salmon fisheries, for references in this Act, except in paragraph 1 of schedule 2, to two proprietors of salmon fisheries in a salmon fishery district for which there is no board there shall be substituted references to that sole proprietor.
+
+### Mandatories
+
+#### 42 Mandatories
+
+(1) A qualified proprietor or an elected member or convener of a district salmon fishery board may at any time authorise a person to act on behalf of such proprietor, member or convener; and such a person is referred to in this Act as a “mandatory”.
+
+(2) A mandatory may as such be elected under schedule 2 to this Act as a representative of qualified proprietors or as convener but, subject to subsection (4) below, a person may not authorise another to act as a co-opted member under this Act nor shall a mandatory be co-opted under section 45(2) of this Act.
+
+(3) A person who is both an upper and a lower proprietor by virtue of section 40(5) of this Act may authorise a person in accordance with this section in either or both of those capacities or may do so in each capacity.
+
+(4) Where a co-opted member is not a natural person, it may authorise a natural person to represent it for the purposes of this Act.
+
+### District salmon fishery boards
+
+#### 43 District salmon fishery boards
+
+(1) If proprietors of salmon fisheries in a salmon fishery district—
+
+(a) form an association for the purpose of the protection or improvement of the fisheries within their district; and
+
+(b) elect, in accordance with schedule 2 to this Act, a committee to act for them,
+
+that committee shall be the district salmon fishery board for that district; and the purpose of such a board shall be the purpose specified above in respect of the association.
+
+(2) A district salmon fishery board shall have the powers and duties conferred—
+
+(a) on them under this Act; and
+
+(b) by any other enactment on a district board within the meaning of the Salmon Fisheries (Scotland) Acts 1862 to 1868.
+
+(3) Subject to subsection (4) below, a committee mentioned in subsection (1) above shall cease to be the district salmon fishery board for a district on the expiry of a period of three years from the date of the last meeting of proprietors which elected, in accordance with Part 1 of schedule 2 to this Act, such members as require to be elected under Part 2 of that schedule.
+
+(4) On the coming into force of a designation order the committee within the meaning of this section in respect of a district superseded by the district so designated shall cease to be a district salmon fishery board; and any committee within the meaning of this section which has been constituted in accordance with schedule 2 to this Act in anticipation of the order and in respect of the district designated by the order shall be the district salmon fishery board for that district.
+
+(5) If a committee ceases to be a district salmon fishery board, the assets and liabilities of that board shall be the assets and liabilities of the members of the association for which the committee acts; but, for the purposes of the winding-up of such an association, any assets of the former board remaining after the settlement of the liabilities of the former board shall be distributed amongst all the proprietors in the district who were liable to the fishery assessment immediately before the date on which the committee ceased to be such a board, according to the valuation of each fishery as entered in the valuation roll at that date.
+
+(6) A district salmon fishery board shall not be bound by any direction given to them by the association for which the elected members of the board act as a committee.
+
+(7) There may be a district salmon fishery board for a district whether or not there are any salmon in the waters of that district.
+
+(8) The Scottish Ministers may by order vary the provisions of schedule 2 to this Act.
+
+#### 44 Financial powers and duties of district salmon fishery boards
+
+(1) Each year, a district salmon fishery board shall prepare—
+
+(a) a report; and
+
+(b) a statement of accounts, which shall be audited,
+
+relating to the activities of the board; and the clerk of the board shall call an annual meeting of qualified proprietors in the district for the purposes of considering the report and the audited accounts.
+
+[[^F49](1A) As soon as practicable after the annual meeting held under subsection (1) above, the clerk of the board must—
+
+(a) arrange for the final report and audited accounts to be published; and
+
+(b) send a copy of the final report and audited accounts to the Scottish Ministers.
+
+(1B) In subsection (1A) above, the references to the final report and audited accounts are references to—
+
+(a) the report and audited accounts as submitted for consideration at the annual meeting held under subsection (1) above; or
+
+(b) if they are revised following consideration at the meeting, the revised versions of them.]
+
+(2) A district salmon fishery board shall have power to impose an assessment, to be known as the fishery assessment, on each salmon fishery in their district.
+
+(3) The fishery assessment shall be assessed at such uniform rate as is determined for all fisheries in the district by the board and shall be exigible according to the valuation of a fishery as entered in the valuation roll.
+
+(4) Subsections (2) and (3) of section 40 of this Act shall apply for the purposes of this section as they apply for the purposes of that section.
+
+(5) Arrears of fishery assessment may, as the case may be, be recovered by—
+
+(a) the district salmon fishery board which imposed the assessment; or
+
+(b) the district salmon fishery board for a district created by a designation order in respect of an assessment imposed by a district salmon fishery board for a district superseded by that order,
+
+by action for payment of money.
+
+(6) The powers under subsection (5) above to recover arrears of fishery assessment include power to recover interest, chargeable at such rate as the Scottish Ministers shall determine, on such arrears from, in the case of recovery of arrears under subsection (5) above which have been outstanding for at least three months from the date of issue of a notice of assessment, that date until payment or the commencement of an action for payment, whichever is the earlier.
+
+(7) A board may, in carrying out their purpose under this Act, borrow—
+
+(a) an amount not exceeding twice the amount of the fishery assessment collected within the twelve month period immediately prior to the date of the decision to borrow; or
+
+(b) such higher sum as is approved by the proprietors of fisheries which together amount to four fifths of the total value of fisheries in the district as entered in the valuation roll.
+
+(8) In subsection (7)(a) above, “collected” means collected in—
+
+(a) the district for which that board are the district salmon fishery board; and
+
+(b) if that district has been designated in an order made under section 34(2) of this Act within that twelve month period, all the districts superseded by that order.
+
+(9) In carrying out their purpose, a district salmon fishery board may authorise expenditure, including expenditure for the acquisition of heritable property, out of sums accruing to them from—
+
+(a) the fishery assessment;
+
+(b) the exercise of the power, under subsection (7) above, to borrow; or
+
+(c) any other source;
+
+but they shall not pay to any member of that board any salary or fees for acting in any way as a member of or under that board.
+
+#### 45 General powers and duties of district salmon fishery boards
+
+(1) A district salmon fishery board may do such acts, execute such works and incur such expenses as may appear to them expedient for—
+
+(a) the protection or improvement of the fisheries within their district;
+
+(b) the increase of salmon; or
+
+(c) the stocking of the waters of the district with salmon.
+
+(2) The elected members of a district salmon fishery board shall, in accordance with Part 2 of schedule 2 to this Act, co-opt representatives of salmon anglers and tenant netsmen.
+
+(3) On such terms and conditions as the board think fit, a district salmon fishery board—
+
+(a) shall appoint a person to act as clerk to the board; and
+
+(b) may appoint persons to act as water bailiffs, or in such other capacity as the board see fit.
+
+(4) A district salmon fishery board may sue or be sued in the name of their clerk.
+
+(5) References in any enactment to water bailiffs shall include references to water bailiffs appointed under this section.
+
+#### 46 Proceedings of district salmon fishery boards
+
+(1) The first meeting of a district salmon fishery board shall be at the date, time and place determined by the members of the board who were elected at the meeting of qualified proprietors called under paragraph 1 of schedule 2 to this Act but in any case shall be no later than 21 days after that meeting.
+
+(2) A district salmon fishery board shall determine the quorum for their meetings.
+
+(3) At any meeting of the board, each member shall have one vote, subject to the following exceptions—
+
+(a) the convener, in that capacity, shall have both a casting and a deliberative vote; and
+
+(b) a person who is both an upper proprietor and a lower proprietor by virtue of section 40(5) of this Act shall have a vote in either capacity or in both capacities according to the capacity or capacities in which that person has been elected or co-opted.
+
+(4) No act or proceeding of a district salmon fishery board shall be questioned on account of any vacancy in their membership and no defect in the qualification or appointment of any person acting as a member shall vitiate any proceedings of the board in which that member has taken part.
+
+(5) The minutes of proceedings of district salmon fishery boards shall be signed by the convener and shall be conclusive evidence of the proceedings; and a meeting so minuted shall be presumed to have been duly convened and held and all members thereof to have been duly qualified.
+
+(6) On the written request of any two members of the board, the convener shall be bound to convene a meeting of the board within fourteen days of receiving the request and the clerk shall give notice to each member of the date, time and place of and the agenda for that meeting, and the request mentioned in this subsection may be communicated and stored electronically.
+
+#### 46A [[^F50]Annual report
+
+(1) This section applies in relation to the report to be prepared under section 44(1)(a) of this Act by a district salmon fishery board.
+
+(2) The board must ensure that the report contains, in particular—
+
+(a) a summary of what the board have done in carrying out their functions under this Act, or any other enactment, during the year to which the report relates,
+
+(b) a summary of what the board propose to do in carrying out those functions in the following year,
+
+(c) information about complaints made to the board during the year, including—
+
+(i) the number of complaints, and
+
+(ii) a statement of the nature of each complaint and how it was disposed of, and
+
+(d) a statement as to how the board—
+
+(i) have complied during the year with the good governance requirements, and
+
+(ii) propose to comply with those requirements in the following year.
+
+(3) For the purposes of subsection (2)(d) above, the “good governance requirements” are the requirements under—
+
+(a) this section,
+
+(b) section 44(1) and (1A) of this Act, and
+
+(c) sections 46B to 46E of this Act.
+
+#### 46B Annual public meeting
+
+(1) A district salmon fishery board—
+
+(a) must hold one public meeting in each year, to be known as the “annual public meeting” of the board, and
+
+(b) may hold other public meetings in the course of the year.
+
+(2) Subject to subsection (4) below, the matters to be considered at the annual public meeting are for the board to determine, but must include the final report and statement of accounts required to be prepared under section 44(1).
+
+(3) The reference in subsection (2) above to the final report and audited accounts is to be construed in accordance with section 44(1B) of this Act.
+
+(4) The board must ensure that members of the public, and others who attend or propose to attend the meeting, are given an opportunity—
+
+(a) to propose matters for consideration at the meeting, and
+
+(b) to speak at the meeting.
+
+#### 46C Further provision about meetings
+
+(1) Subsection (2) below applies in relation to—
+
+(a) the annual meeting of qualified proprietors required to be called by the clerk of a district salmon fishery board under section 44(1) of this Act, and
+
+(b) the annual public meeting of a district salmon fishery board.
+
+(2) The clerk of the board must, no later than 21 days before the day on which the meeting is to be held—
+
+(a) prepare a notice—
+
+(i) specifying the date and time of the meeting and the place where it is to be held,
+
+(ii) containing a list of the matters to be considered at the meeting,
+
+(iii) stating that the meeting is open to the public, and
+
+(iv) in the case of the annual public meeting, providing information as to how salmon anglers, tenant netsmen and other members of the public can submit proposals for matters to be considered at the meeting,
+
+(b) arrange for the notice to be published in such manner as the clerk considers appropriate, and
+
+(c) send a copy of the notice to the Scottish Ministers.
+
+(3) In relation to any other meeting of a district salmon fishery board, the clerk of the board must—
+
+(a) take such steps as the clerk considers appropriate to publicise the meeting, and
+
+(b) subject to subsection (6) below, ensure that the public are given an opportunity to attend the meeting.
+
+(4) Subsections (5) to (9) below apply in relation to—
+
+(a) the meetings referred to in subsection (1) above, and
+
+(b) any other meeting of a district salmon fishery board.
+
+(5) Subject to subsection (6) below, the board must ensure that the business at the meeting is conducted in public.
+
+(6) In the case of a meeting other than the annual public meeting, the board may, if there is a good reason for doing so, decide to conduct the meeting, or to consider any particular item of business, in private.
+
+(7) As soon as practicable after the meeting, the clerk of the board must—
+
+(a) prepare a minute of the meeting,
+
+(b) arrange for the minute to be published in such manner as the clerk considers appropriate, and
+
+(c) in the case of the minutes of the meetings referred to in subsection (1) above, send a copy of the minutes to the Scottish Ministers.
+
+(8) Subsection (9) below applies where the board decide—
+
+(a) to conduct the meeting in private, or
+
+(b) to consider any item of business at the meeting in private.
+
+(9) The board must state reasons for the decision and ensure that the statement of reasons is included in the minute of the meeting.
+
+#### 46D Complaints procedure
+
+(1) A district salmon fishery board must maintain, and keep under review, proper arrangements for dealing with complaints made to the board about the way in which the board have carried out, or propose to carry out, their functions under this Act or any other enactment.
+
+(2) A board's arrangements under subsection (1) above must, in particular, include provision for dealing with complaints made by—
+
+(a) members of the public,
+
+(b) proprietors of salmon fisheries in the board's district,
+
+(c) salmon anglers in the board's district,
+
+(d) tenant netsmen in the board's district,
+
+(e) members of the board,
+
+(f) other district salmon fishery boards.
+
+(3) The arrangements may make different provision in relation to different categories of complaint or complainant.
+
+(4) As soon as practicable after making or reviewing arrangements under subsection (1) above, a district salmon fishery board must—
+
+(a) take such steps to publicise the arrangements as the board consider appropriate in order to bring them to the attention of persons who may wish to make complaints, and
+
+(b) send to the Scottish Ministers a note of the arrangements.
+
+(5) A district salmon fishery board must keep records of complaints made to the board about the way in which they have carried out, or propose to carry out, their functions, including information about how each complaint was disposed of.
+
+#### 46E Members' interests
+
+(1) A district salmon fishery board must maintain, and keep under review, proper arrangements for the registration and declaration of relevant financial interests of members of the board.
+
+(2) A board's arrangements under subsection (1) above must, in particular, include provision for—
+
+(a) further defining what are relevant financial interests,
+
+(b) the clerk to keep a register of members' relevant financial interests,
+
+(c) members to register their relevant financial interests in the register,
+
+(d) members to declare any relevant financial interests before taking part in the board's consideration of any business,
+
+(e) members to be excluded from taking part in the board's consideration of any business in which the member has a relevant financial interest.
+
+(3) A district salmon fishery board must ensure that the register of members' relevant financial interests is made available for public inspection.
+
+(4) In this section, “relevant financial interests”—
+
+(a) means interests of a pecuniary nature that could be affected by a decision of the board, or the holding of which could otherwise have a bearing on or otherwise influence a member's view on any matter being considered by the board, and
+
+(b) includes such interests held by a member or by another person with whom the member has a personal or business relationship.
+
+#### 46F Ministerial power to modify the good governance requirements
+
+(1) The Scottish Ministers may by order—
+
+(a) modify any of the good governance requirements,
+
+(b) modify this Act so as to impose further requirements on district salmon fishery boards.
+
+(2) An order under subsection (1) above may make only such provision as the Scottish Ministers consider necessary for a purpose specified in subsection (3) below.
+
+(3) The purposes are—
+
+(a) ensuring that the boards' affairs are conducted in an open and accountable manner,
+
+(b) ensuring that the boards' affairs are conducted to appropriate standards of propriety and good governance.
+
+(4) An order under subsection (1) above may include incidental, supplemental, consequential, transitional, transitory or saving provision.
+
+(5) In this section, the “good governance requirements” has the same meaning as in section 46A(3) of this Act.
+
+#### 46G Ministerial power to dissolve the committee constituting a board
+
+(1) This section applies where the Scottish Ministers consider that a district salmon fishery board have persistently—
+
+(a) failed to comply with the good governance requirements, or
+
+(b) otherwise contravened the requirements of this Act.
+
+(2) The Scottish Ministers may by order dissolve the committee constituting the board on a date specified in the order.
+
+(3) The dissolution of the committee by an order under subsection (2) above has the same effect in relation to the committee (and the board) as the expiry of the period of three years mentioned in sections 43(3) and 47(1) of this Act.
+
+(4) Accordingly, the references in section 43(3) and 47(1) of this Act to the expiry of the period of three years are to be read, in relation to a committee dissolved by an order under subsection (2) above, as including a reference to the date of dissolution specified in the order.
+
+(5) In this section, the “good governance requirements” has the same meaning as in section 46A(3) of this Act.]
+
+#### 47 Tenure of office
+
+(1) Before the expiry of a period of three years from—
+
+(a) the first election of the members of the board; or
+
+(b) the last meeting of qualified proprietors called under this section,
+
+the clerk to that board shall call a meeting of qualified proprietors in that district for the purpose of electing or re-electing, in accordance with Part 1 of schedule 2 to this Act, such members as require to be elected under Part 2 of that schedule; and at that meeting each member of the board shall first resign.
+
+(2) The provisions of schedule 2 to this Act, apart from paragraph 1, shall apply to further elections as they apply to the first election of the members.
+
+(3) Without prejudice to subsection (1) above, a member of a district salmon fishery board may resign at any time and a person who ceases to meet the requirements of this Act for membership of a district salmon fishery board shall cease to be a member of that board.
+
+(4) Where a person is both an upper and a lower proprietor by virtue of section 40(5) of this Act, subsection (3) above shall have effect as respects either or each such capacity.
+
+(5) Where a vacancy in their number occurs, the board shall, so far and as soon as is reasonably practicable, fill that vacancy by—
+
+(a) the electing by the elected members from amongst themselves of a new convener;
+
+(b) the appointing by the elected members of a qualified proprietor in the district as a representative of qualified proprietors according to the rules in schedule 2 to this Act regarding the balance between upper and lower proprietors; or
+
+(c) the co-opting by the board of a representative of salmon anglers or of tenant netsmen in accordance with that schedule,
+
+as the case may be, and a person appointed under paragraph (b) above shall be an elected representative of qualified proprietors for the purposes of this Act.
+
+## Part 4 — Administration of freshwater fisheries
+
+### 48 Increased availability of, and protection for, freshwater fishing
+
+(1) Where the Scottish Ministers are satisfied that, if proposals submitted to them under this section were implemented, there would be a significant increase in the availability of fishing for freshwater fish in inland waters to which the proposals relate, they may, subject to subsection (3) below, make an order (in this Act referred to as a “protection order”).
+
+(2) A protection order shall—
+
+(a) be made in relation to such area as the Scottish Ministers may prescribe, which shall be the catchment area, or such part thereof as the Scottish Ministers think appropriate, of any river; and
+
+(b) prohibit persons without legal right or without written permission from a person having such right from fishing for or taking freshwater fish in the inland waters in the prescribed area.
+
+[[^F51](2A) In prescribing the area in relation to which a protection order is made, the Scottish Ministers need not prescribe the entire area to which the proposals, whether modified or not, relate.]
+
+(3) The Scottish Ministers shall not make a protection order unless—
+
+(a) they have received proposals in writing from or on behalf of an owner of land, to which pertains a right of fishing for freshwater fish in any inland waters in the area to which the proposals relate, or an occupier of such right, in relation to the improvement of, or the giving or availability of access to, fishings; and
+
+(b) they have consulted a body which in their opinion is representative of persons wishing to fish for freshwater fish in inland waters in Scotland; and
+
+(c) they are satisfied that, if such proposals were implemented, fishing for freshwater fish in the area to be prescribed by them in the protection order would be available—
+
+(i) to a degree, which they consider reasonable having regard in particular to what is, in their opinion, the demand, by persons who are neither owners nor occupiers of a right of fishing for freshwater fish in the waters to which the proposals relate nor members of a club which is such an owner or occupier in those waters, for fishing in that area; and
+
+(ii) on such terms and conditions as they consider reasonable; and
+
+(d) they have taken into consideration the need for conservation of any species of fish and have carried out such consultation in this regard as they consider necessary.
+
+(4) Proposals referred to in subsection (3)(a) above shall specify—
+
+(a) the limits of the waters to which they relate;
+
+(b) the extent to which, and the places with regard to which, it is proposed to grant leases or permits in respect of fishing for freshwater fish in those waters, and any terms and conditions (including charges) relating to such leases or permits;
+
+(c) any operations which it is proposed to carry out for the purpose of improving such fishing in those waters;
+
+(d) such matters as the Scottish Ministers may at any time in relation to the proposals direct;
+
+and the person submitting such proposals to the Scottish Ministers may at any time withdraw them or, after consultation with the Scottish Ministers [[^F52]and subject to subsection (4B)], modify them.
+
+[[^F53](4A) At any time, the Scottish Ministers may, after consultation with the person submitting the proposals referred to in subsection (3)(a), modify in such way as they think fit—
+
+(a) those proposals, or
+
+(b) those proposals as modified by the person by virtue of subsection (4) above.
+
+(4B) Proposals modified by the Scottish Ministers by virtue of subsection (4A) may not be modified by the person referred to in that subsection; but that person may at any time withdraw them.]
+
+(5) In deciding for the purposes of subsection (3)(c) above whether the terms and conditions referred to therein are reasonable, the Scottish Ministers may have regard to the circumstances in which fishing is made available in any waters other than those to which the proposals relate in respect of the following matters—
+
+(a) the amount of charges;
+
+(b) the permitted methods of fishing or tackle;
+
+(c) the maximum number of fish that may be caught;
+
+(d) the permitted maximum number of rods;
+
+(e) the permitted times of fishing;
+
+(f) the permitted minimum size of fish which may be taken;
+
+(g) the number of persons permitted to fish who are neither owners nor occupiers of a right of fishing for freshwater fish in those waters nor members of a club which is such an owner or occupier in those waters; and
+
+(h) any other matters which the Scottish Ministers consider relevant.
+
+(6) The Scottish Ministers may at any time require an owner or occupier of a right of fishing for freshwater fish in a prescribed area to furnish them with information regarding the implementation in that area of proposals in so far as they relate to that right.
+
+(7) Subject to subsection (8) below, a protection order may provide that—
+
+(a) it shall cease to have effect on a date specified therein; and
+
+(b) any complaints concerning the implementation of proposals must be received by the Scottish Ministers not later than 6 months before the specified date;
+
+and if, 6 months before the specified date, the Scottish Ministers have received no such complaints or if, in their opinion, the complaints received by them are insignificant or frivolous, they may make a protection order renewing that protection order with effect from the specified date without further procedure, except that paragraph 7 of schedule 3 to this Act shall apply to such an order.
+
+(8) Where the Scottish Ministers have received complaints under subsection (7) above which appear to them to be well-founded (that is to say, neither insignificant nor frivolous), they shall, without prejudice to the competence of their making a fresh protection order in accordance with this section, not renew the protection order under that subsection.
+
+(9) Subject to subsections (7) and (8) above, schedule 3 to this Act shall have effect as to the procedure in the making, variation and revocation of a protection order.
+
+(10) In subsections (1), (3)(c), (6) and (7) above “proposals” means proposals as originally submitted to the Scottish Ministers or, as the case may be, as modified under subsection (4) [[^F54]or (4A)] above.
+
+(11) The proposals mentioned in this section may be communicated and stored electronically.
+
+(12) For the purposes of this section and section 49 of this Act, “inland waters” does not include the tidal parts of rivers.
+
+### 49 Appointment of wardens to secure compliance with protection order
+
+(1) For the purpose of securing compliance with a protection order, the Scottish Ministers may appoint as wardens such persons as they think fit from among persons nominated to them by or on behalf of an owner of land to which a right of fishing for freshwater fish pertains or by or on behalf of an occupier of such a right in any inland waters in the prescribed area.
+
+(2) A warden appointed under subsection (1) above or a constable may—
+
+(a) make enquiry as to the legal right or written permission of any person to fish for or take freshwater fish in any waters in the prescribed area where there is reasonable cause to suspect that that person has no such right or permit and may require that person to produce written evidence of such right or permission within 14 days;
+
+(b) if there is reasonable cause to suspect that a contravention of a prohibition contained in a protection order has taken place, within the prescribed area seize any instrument or article used or calculated to be of use in such contravention.
+
+(3) In this section and section 50 of, and schedule 3 to, this Act “prescribed area” means the area prescribed in a protection order made under section 48 of this Act.
+
+### 50 Powers of entry and obstruction of wardens etc.
+
+(1) A warden shall have right to enter any land—
+
+(a) in the vicinity of any waters in the prescribed area for the purpose of exercising any of the powers conferred by section 49(2) of this Act;
+
+(b) for the purpose of affixing or maintaining a copy of any order or notice which that person is required to affix or maintain by any provision of schedule 3 to this Act;
+
+(c) in the vicinity of any waters in the prescribed area and remain there during any period for the purpose of preventing a breach of a protection order or of detecting any person contravening a protection order; and no warden remaining on such land for such a purpose shall be deemed to be a trespasser on that land.
+
+(2) Any person duly authorised in writing by the Scottish Ministers under schedule 3 to this Act shall have a right to enter land for the purpose of affixing or maintaining a copy of any notice or order which that person is required to affix or maintain by any provision of that schedule.
+
+(3) Any person who wilfully obstructs or refuses to allow—
+
+(a) a warden to exercise any of the powers conferred by section 49(2) of this Act or subsection (1) above; or
+
+(b) any person referred to in subsection (2) above to exercise the powers conferred by that subsection,
+
+shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale or to imprisonment for a term not exceeding 3 months.
+
+(4) The production of the instrument of appointment of a warden purporting to be signed by or on behalf of the Scottish Ministers or of the authorisation by the Scottish Ministers of any person referred to in subsection (2) above shall be sufficient warrant for the exercise of any power which has been conferred on that warden or such a person.
+
+(5) In this section “land” does not include any building.
+
+### 51 Financial contributions towards organisations developing freshwater fisheries
+
+The Scottish Ministers may make payments of such amount and subject to such conditions as they may determine to any organisation approved by them and having as its object, or one of its principal objects, the development and improvement of freshwater fisheries and the making of such fisheries available for letting or fishing by persons authorised to fish.
+
+## [[^F55]Conservation measures
+
+### 51A Freshwater fish conservation regulations
+
+(1) The Scottish Ministers may make regulations under this section if they consider that it is necessary or expedient to do so for the conservation of freshwater fish.
+
+(2) Regulations under this section shall not be taken to be for something other than the conservation of freshwater fish by reason only that they also have effect in relation to the management of freshwater fisheries for exploitation.
+
+(3) In considering whether or not it is necessary or expedient to make regulations under this section the Scottish Ministers shall have regard to any representations made to them by any person having an interest in fishing for or taking freshwater fish, or in the environment.
+
+(4) Regulations under this section—
+
+(a) may be made in relation only to freshwater fisheries;
+
+(b) may make different provision for different species of freshwater fish.
+
+(5) Without prejudice to the generality of the power conferred by this section, regulations under this section may prohibit the use of specified baits and lures for the purposes of the definition of “rod and line” in section 4(1) of this Act in the case of fishing for freshwater fish.
+
+(6) Regulations under this section which prohibit the use of specified baits and lures for the purposes mentioned in subsection (5) shall specify, subject to such exceptions as may be so specified—
+
+(a) baits and lures or classes of baits or lures, the use of which is prohibited;
+
+(b) times when the regulations apply;
+
+(c) areas to which the regulations apply.
+
+(7) Regulations under this section may—
+
+(a) confer upon constables and water bailiffs such powers of enforcement, additional to those otherwise available under this Act, as the Scottish Ministers consider necessary or expedient for the purposes of the regulations;
+
+(b) make provision generally in relation to any river, or in relation to any time or season;
+
+(c) make different provision for different parts of a river, or for different cases or classes of case.
+
+(8) Any person who—
+
+(a) acts in contravention of; or
+
+(b) fails to take any action required of that person by, or to comply with any requirement imposed on that person by,
+
+regulations made under this section shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(9) A person who commits an offence under this section may be convicted on the evidence of one witness.
+
+(10) Paragraphs 9A and 11 to 15 of schedule 1 to this Act shall have effect in relation to the making of regulations under this section.]
+
+## Part 5 — Enforcement
+
+### Powers of constables and water bailiffs
+
+#### 52 Grant of warrant to search premises or vehicles
+
+(1) Any sheriff or justice of the peace, upon information on oath that there is probable cause to suspect that—
+
+(a) a breach of any of the provisions of this Act has been committed; or
+
+(b) any salmon or trout illegally taken, or any illegal nets or other engines or instruments are concealed,
+
+on any premises or in any vehicle, may by warrant under the hand of such sheriff or justice authorize and empower any constable or water bailiff to enter such premises or vehicle, if necessary by force, for the purpose of detecting such offence, or such concealed fish or instruments, and to seize all illegal nets, engines or other instruments, or any salmon or trout illegally taken, that may be found on such premises or in such vehicle.
+
+(2) A warrant granted under this section—
+
+(a) may specify the time or times in the day or night at which it may be exercised; and
+
+(b) shall not continue in force for more than one week from the date on which it is granted.
+
+(3) A person authorised by a warrant issued under subsection (1) above to search any premises or any vehicle may search every person who is found in, or whom the person so authorised has reasonable ground to believe to have recently left or to be about to enter, those premises or that vehicle, as the case may be.
+
+(4) No person shall in pursuance of any search authorised by this section be searched except by a person of the same sex.
+
+(5) This section is subject to section 56 of this Act.
+
+#### 53 Powers of constables
+
+(1) A constable who has reasonable grounds for suspecting that an offence against any of the provisions of this Act has been committed, and that evidence of the commission of the offence is to be found in any vehicle, but who considers that by reason of urgency or other good cause it is impracticable to apply for a warrant to search such vehicle, may stop and search that vehicle and any person who is found in, or whom there are reasonable grounds to believe to have recently left or to be about to enter the vehicle.
+
+(2) A constable who has reasonable grounds for suspecting that an offence against any of the provisions of this Act is being committed and that evidence of the commission of the offence is to be found in any premises (other than a dwelling house or any yard, garden, outhouses and pertinents belonging thereto or usually enjoyed therewith) but who considers that by reason of urgency or other good cause it is impracticable to apply for a warrant to search such premises, may search them without warrant.
+
+(3) Any constable may exercise any of the powers conferred on a water bailiff by section 55 of this Act.
+
+(4) No person shall in pursuance of any search authorised by this section be searched except by a person of the same sex.
+
+(5) This section is subject to section 56 of this Act.
+
+#### 54 Powers of constables and water bailiffs to enter land
+
+(1) Any constable or water bailiff may enter and remain upon any land in the vicinity of any river or of the sea coast during any hour of the day or night for the purpose—
+
+(a) of preventing a breach of the provisions of this Act; or
+
+(b) of detecting persons guilty of any breach of those provisions.
+
+(2) This section is subject to section 56 of this Act.
+
+#### 55 Powers of water bailiffs
+
+(1) Any water bailiff appointed by a district salmon fishery board may do within the district of that board all or any of the following things—
+
+(a) examine any dam, fixed engine or obstruction, or any lade, and for that purpose enter on any land;
+
+(b) stop and search any boat which is used in fishing or any boat which there is reasonable cause to suspect of containing salmon or trout;
+
+(c) search and examine nets or other instruments used in fishing or any basket, pocket or other receptacle capable of carrying fish, which there is reasonable cause to suspect of containing salmon or trout illegally taken;
+
+(d) seize any fish, instrument or article, boat or vehicle liable to be forfeited in pursuance of this Act.
+
+(2) A water bailiff appointed by a district salmon fishery board who has reasonable grounds for suspecting that an offence against any of the provisions of this Act has been committed and that evidence of the commission of the offence is to be found in any vehicle on any private land adjoining any water within the district of the district salmon fishery board by which that bailiff was appointed or any adjoining district or in any stationary vehicle on a road within the meaning of the Roads (Scotland) Act 1984 (c. 54) adjoining such water or such land, may search that vehicle.
+
+(3) Any water bailiff appointed by a district salmon fishery board may exercise in any district adjoining that of the board by which that bailiff was appointed any power which that bailiff may lawfully exercise in the district of such board.
+
+(4) The production by a water bailiff of the instrument of appointment purporting to be signed on behalf of the district salmon fishery board by which that bailiff was appointed, or of any badge or other device indicating such appointment and purporting to be issued by such board, shall be a sufficient warrant for the exercise of any power conferred on such water bailiff by or in pursuance of this Act.
+
+(5) The Scottish Ministers may appoint persons as water bailiffs, and any person so appointed may exercise any of the powers conferred by this Act on water bailiffs appointed by a district salmon fishery board, but only in relation to such district or part of a district as may be specified in the instrument of appointment; and the production of the instrument of appointment purporting to be signed by or on behalf of the Scottish Ministers shall be a sufficient warrant for the exercise of any such power.
+
+(6) It shall be lawful for a water bailiff, without any warrant or other authority than this Act, to seize and detain any person found committing an offence against any provision of this Act and to deliver such person to a constable.
+
+(7) For the purposes of this section and section 54 of this Act “land” includes land covered by water, but does not include a dwelling house or any yard, garden, outhouses and pertinents belonging thereto or usually enjoyed therewith.
+
+(8) This section is subject to section 56 of this Act.
+
+#### 56 General enforcement provisions not to apply in relation to protection orders
+
+Without prejudice to any other enactment or rule of law, sections 52, 53, 54, 55 and 60 of this Act shall not apply in relation to the enforcement of protection orders made under section 48 of this Act.
+
+### Further provision as to offences
+
+#### 57 Offences by bodies corporate
+
+(1) Where an offence under any of the provisions of this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, that person as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) above shall apply in relation to the acts and defaults of a member in connection with any functions of management as if that person were a director of the body corporate.
+
+#### 58 Offences in relation to obstruction
+
+Any person who refuses to allow a constable or a water bailiff to exercise any power conferred on such constable or bailiff by or in pursuance of this Act, or who obstructs the exercise of any such power, shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale or to imprisonment for a term not exceeding 3 months or to both such fine and such imprisonment.
+
+### Powers of court
+
+#### 59 Power of court in trial for an offence to convict of another
+
+If, upon a trial for an offence under section 9, 16 or 20 of this Act, or any rule of law relating to reset, the court is satisfied that the accused is—
+
+(a) not guilty of the offence charged; but
+
+(b) guilty of another of those offences,
+
+it may acquit the accused of the offence charged but find the accused guilty of the other offence and the accused shall then be liable to the punishment for that other offence.
+
+#### 60 Forfeiture
+
+(1) Any person who is convicted of an offence against any of the provisions of this Act shall be liable to the forfeiture of—
+
+(a) any fish illegally taken by that person or in that person’s possession at the time of the offence;
+
+(b) any instrument or article by which the offence was committed;
+
+(c) any vehicle or boat used by that person to assist in the commission of the offence.
+
+(2) Subject to subsection (3) below, anything forfeited under this section shall be disposed of as the court may direct.
+
+(3) Any fish seized under this section as liable to forfeiture may be sold by the person seizing it, and the net proceeds of the sale shall be liable to forfeiture in the same manner as the fish sold.
+
+(4) No person shall be subject to any liability on account of any neglect or failure to exercise the powers conferred by this section.
+
+(5) This section is subject to section 56 of this Act.
+
+#### 61 Defences
+
+(1) Subsection (2) applies where in accordance with a provision mentioned in subsection (3) it is a defence for a person charged with an offence to prove a particular matter.
+
+(2) If the person adduces evidence which is sufficient to raise an issue with respect to the matter the court or jury shall assume that the defence is satisfied unless the prosecution proves beyond reasonable doubt that it is not.
+
+(3) The provisions in respect of which subsection (2) applies are sections 16, 19, 20 and 30 of this Act.
+
+#### 62 Jurisdiction in respect of offences committed on sea coast or at sea
+
+Any offence committed under this Act on the sea coast, or at sea beyond the ordinary jurisdiction of any sheriff or justices of the peace, shall be held to have been committed within the body of any sheriffdom abutting on such sea coast, or adjoining such sea, and may be tried and punished accordingly.
+
+#### 63 Disqualification of justices
+
+No justice of the peace shall be entitled to hear any case in respect of an offence committed on that justice’s own fishery.
+
+## Part 6 — Miscellaneous
+
+### 64 Power of Scottish Ministers to conduct inquiries and to obtain information
+
+(1) For the purpose of protecting and developing stocks of salmon and trout the Scottish Ministers may—
+
+[[^F56](za) require a person having rights in a salmon fishery or freshwater fishery to provide the Scottish Ministers with such information relating to the fishery as they may reasonably request;]
+
+(a) conduct inquiries and investigations into questions of practical or scientific importance to salmon and freshwater fisheries, and for such purpose enter on and conduct such operations as may be necessary in any fishery[^F57]...
+
+[[^F58](b) to make orders requiring any proprietor or occupier of a salmon fishery to furnish them with such statistics relating to salmon or to fishing for salmon as they may specify, in such form and at such times as they may specify; and they may make different provision for different cases, including different provision in relation to different persons, circumstances or areas; and]
+
+(c) publish such statistics in such manner as they think fit.
+
+(2) [[^F59]Any person having rights in a salmon fishery or freshwater fishery] who wilfully refuses to comply with any requirement made in pursuance of this section, or makes any statement in relation to such a requirement which is false in a material particular, shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+[[^F60](3) In this section, a “person having rights in a salmon fishery or freshwater fishery” means—
+
+(a) a proprietor of a salmon fishery;
+
+(b) an occupier of such a fishery;
+
+(c) an owner of land to which a right of fishing for freshwater fish pertains; or
+
+(d) an occupier of such a right.]
+
+[[^F61](3) The power under this section to make orders shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+### 64A [[^F62]Powers in relation to salmon and freshwater fisheries: sampling, etc.
+
+(1) A person authorised by the Scottish Ministers (an “authorised person”) may—
+
+(a) for a purpose mentioned in subsection (2)(a) or (b) below, require a person having rights in a salmon fishery or freshwater fishery—
+
+(i) to permit the authorised person to take and retain fish from the fishery,
+
+(ii) to permit the authorised person to take samples of material from fish in the fishery,
+
+(iii) to provide the authorised person with fish, or samples of material from fish, in the fishery,
+
+(b) for a purpose mentioned in subsection (2)(c) below, affix a tag of such type and in such a way as the Scottish Ministers consider appropriate to any fish taken from a salmon fishery or freshwater fishery,
+
+(c) for a purpose mentioned in subsection (2)(d) below, enter on a salmon fishery or freshwater fishery.
+
+(2) The purposes referred to in subsection (1) above are—
+
+(a) carrying out analysis of the fish or samples by any method that the Scottish Ministers consider appropriate,
+
+(b) ascertaining whether an offence has been committed under section 33A of this Act,
+
+(c) tracking or monitoring the fish,
+
+(d) exercising the powers mentioned in paragraphs (a) and (b) of subsection (1) above, or tracking or monitoring fish tagged under paragraph (b) of that subsection.
+
+(3) An authorised person seeking to exercise a power mentioned in subsection (1) above must, if requested, produce evidence of identity and authorisation.
+
+(4) A person having rights in a salmon fishery or freshwater fishery commits an offence if the person—
+
+(a) fails or wilfully refuses to comply with a requirement under paragraph (a) of subsection (1) above, or
+
+(b) obstructs an authorised person in the exercise of any of the powers under paragraph (b) or (c) of that subsection.
+
+(5) It is a defence for a person charged with an offence under subsection (4)(a) above to show that the person had a reasonable excuse for failing or refusing to comply with a requirement as mentioned in that subsection.
+
+(6) A person who commits an offence—
+
+(a) under subsection (4)(a) above is liable on summary conviction to a fine not exceeding level 3 on the standard scale,
+
+(b) under subsection (4)(b) above is liable on summary conviction—
+
+(i) to a fine not exceeding level 3 on the standard scale,
+
+(ii) to imprisonment for a term not exceeding 3 months, or
+
+(iii) to both such fine and such imprisonment.
+
+(7) In this section, references to a person having rights in a salmon fishery or freshwater fishery are to be construed in accordance with section 64(3) of this Act.]
+
+### 65 Additional powers in respect of licensing and regulation of salmon dealing
+
+(1) Without prejudice to the generality of section 44 of the Civic Government (Scotland) Act 1982 (c. 45) (power to designate additional activities as subject to licensing and regulation) an order as respects dealing in salmon made under that section may—
+
+(a) define dealing in salmon and so define it as to—
+
+(i) include such acts preparatory to or connected with dealing in salmon;
+
+(ii) exclude dealing in such class or classes of salmon,
+
+as may be specified in the order;
+
+(b) provide that the offence under section 7(1) of that Act (doing anything for which a licence is required without having one) shall be punishable—
+
+(i) on summary conviction, by imprisonment for a term not exceeding three months, or a fine not exceeding the statutory maximum or both;
+
+(ii) on conviction on indictment, by imprisonment for a term not exceeding two years, or a fine or both;
+
+(c) provide that it shall be an offence for any person, other than a person holding a salmon dealer’s licence, to buy salmon from or sell salmon to a person not having such a licence;
+
+(d) provide that the offences under the said section 7(1) and any provision under paragraph (c) above shall be subject to such exceptions as may be specified in the order;
+
+(e) provide that a licence shall be required only for such class or classes of dealing in salmon and dealing in such class or classes of salmon as may be specified in the order;
+
+(f) provide as to the exercise of powers of entry and search by water bailiffs,
+
+but not so as to enable these powers to be exercised in any dwelling house or any yard, garden, outhouses and pertinents belonging thereto or usually enjoyed therewith.
+
+(2) The Scottish Ministers shall have power by order to prescribe the fees, or the maximum amounts of the fees, which the licensing authority may determine and charge under sub-paragraph (1) of paragraph 15 of Schedule 1 to the said Act of 1982 in respect of the licensing of dealing in salmon; and in that respect the licensing authority’s powers under that paragraph shall be subject to the provisions of any such order.
+
+### 66 Application of Leases Act 1449
+
+(1) Notwithstanding any rule of law to the contrary, any contract entered into in writing for a consideration and for a period of not less than a year whereby an owner of land to which a right of fishing for freshwater fish in any inland waters pertains or the occupier of such a right authorises another person to so fish shall be deemed to be a lease to which the Leases Act 1449 (c. 6) applies, and the right of fishing so authorised shall, for the purposes of succession to that right, be deemed to be heritable property.
+
+(2) For the purposes of this section “inland waters” does not include the tidal parts of rivers.
+
+## Part 7 — General
+
+### 67 [[^F63]Application of this Act to the Crown
+
+(1) This Act binds the Crown and applies in relation to Crown land as it applies in relation to any other land.
+
+(2) No contravention by the Crown of any provision made by or under this Act makes the Crown criminally liable.
+
+(3) But the Court of Session may, on the application of the Lord Advocate, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(4) Despite subsection (2), any provision made by or under the provisions of this Act applies to persons in the public service of the Crown as it applies to other persons.
+
+(5) For the purposes of subsection (1), “Crown land” means land an interest in which—
+
+(a) belongs to Her Majesty in right of the Crown or in right of Her private estates,
+
+(b) belongs to an office-holder in the Scottish Administration or a Government department or is held in trust for Her Majesty for the purposes of the Scottish Administration or a Government department.
+
+(6) The powers conferred by sections 54(1), 64(1)(a) and 64A(1)(c) are exercisable in relation to land an interest in which belongs to Her Majesty in right of Her private estates only with the consent of a person appointed by Her Majesty under the Royal Sign Manual or, if no such appointment is made, by the Scottish Ministers.
+
+(7) In this section—
+
+(a) references to Her Majesty's private estates are to be construed in accordance with section 1 of the Crown Private Estates Act 1862,
+
+(b) “Government department” means a department of the United Kingdom government.
+
+(8) For the purposes of this section, “land” includes salmon fisheries.]
+
+### 68 Orders and regulations
+
+(1) Any power of the Scottish Ministers to make an order or regulations under this Act shall be exercised by statutory instrument.
+
+(2) Subject to subsections (3) and (4) below, a statutory instrument containing any order or regulations under this Act shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(3) Subsection (2) above does not apply to regulations or orders under sections—
+
+(a) 33(1) (specific prohibitions of baits and lures);
+
+(b) 34(2) (designation orders);
+
+(c) 34(3) (orders ancillary to designation orders);
+
+(d) 36(3) (estuary limits orders);
+
+(e) 36(5) (orders ancillary to estuary limits orders);
+
+(f) 37(3) (annual close time orders);
+
+(g) 40(8) (division between upper and lower proprietors);
+
+(h) 48(1) (protection orders);
+
+(i) 71(2) (commencement orders),
+
+of this Act.
+
+(4) No regulations are to be made under [[^F64]subsection (1) of section 21A of this Act that make modifications such as are mentioned in subsection (3)(c) of that section, or under] section 31(4)(c) of this Act [[^F65]and no order is to be made under section 46F(1) of this Act,] unless a draft has been laid before, and approved by resolution of, the Parliament.
+
+### 69 Interpretation
+
+(1) In this Act, unless the context otherwise requires—
+
+- “the 1862 Act” means the Salmon Fisheries (Scotland) Act 1862 (c. 97);
+
+- “the 1864 Act” means the Salmon Fisheries (Scotland) Act 1864 (c. 118);
+
+- “the 1868 Act” means the Salmon Fisheries (Scotland) Act 1868 (c. 123);
+
+- “the 1862 to 1868 Acts” means the 1862 Act, the 1864 Act and the 1868 Act;
+
+- “the 1986 Act” means the Salmon Act 1986 (c. 62);
+
+- “annual close time for salmon” has the meaning given in section 37(1) of this Act;
+
+- “annual close time for trout” has the meaning given in section 17 of this Act;
+
+- “assessor” means an assessor appointed under section 27 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+
+- “bag net, fly or other stake net” shall be construed in accordance with any regulations made under section 31(4) of this Act;
+
+- “boat” includes any craft or vessel used in fishing;
+
+- “certificated fixed engine” has the meaning given in section 1(5)(a) of this Act;
+
+- “coastal limits” means the limits of sea coast fixed for a salmon fishery district either prior to the coming into force of this Act or by an order under section 34(2) of this Act;
+
+- “cruive” shall be construed in accordance with any regulations made under section 31(1)(b) of this Act;
+
+- “dam” means any weir, dam, dyke, cauld, mill dam or other structure constructed in the bed of any stream, river or loch for the purpose of controlling, impounding or diverting water therefrom;
+
+- “designation order” has the meaning given in section 34(2) of this Act;
+
+- “district” means a salmon fishery district;
+
+- “district salmon fishery board” has the meaning given in section 43 of this Act;
+
+- “enactment” includes any Act of Parliament or Act of the Scottish Parliament, and any subordinate legislation made under either of such Acts;
+
+- “estuary limits” has the meaning given in section 36 of this Act;
+
+- “fish farm” has the same meaning as in [[^F66]section 41(1) of the Salmon and Freshwater Fisheries Act 1975 (c. 51)];
+
+- “fishery” and “salmon fishery” mean a salmon fishery in any river or estuary or in the sea;
+
+- “fixed engine” means any engine, net or trap used for the taking of salmon, other than a sweep net which when in use is hauled through the water continuously and is not allowed to be stationary in the water or to drift with the current;
+
+- “freshwater fish” means any fish living in fresh water, including trout and eels and the fry of eels but exclusive of salmon and of any kind of fish which migrate between the open sea and tidal waters;
+
+- “haaf net” shall be construed in accordance with any regulations made under section 31(4) of this Act;
+
+- “inland waters” includes all rivers above estuary limits and their tributary streams, and all waters, watercourses and lochs whether natural or artificial which drain or drain to some extent into the sea;
+
+- “lade” includes any artificial channel through which water is diverted from any inland water in which salmon or trout are present;
+
+- “land” includes land covered by water;
+
+- “net and coble” shall be construed in accordance with any regulations made under section 31(4) of this Act;
+
+- “package” includes any box, basket, barrel, case, receptacle, sack, bag, container, wrapper or other thing in which salmon or trout is placed for the purpose of carriage, consignment or exportation;
+
+- “pointing” means the action of using the point of the rod as a means of hooking a fish;
+
+- “prescribed area”, in relation to protection orders, has the meaning given in section 48 of this Act;
+
+- “proprietor” means, subject to subsection (3) below, any person, partnership, company or corporation which is the proprietor of a salmon fishery or which receives or is entitled to receive the rents of such fishery on its own account or as trustee, guardian or factor for any person, company or corporation; and “qualified proprietor” has the meaning given in section 40 of this Act;
+
+- “river” includes tributaries and any loch from or through which any river flows;
+
+- “rod and line” has the meaning given in section 4 of this Act;
+
+- “salmon” means all fish of the species Salmo salar and migratory fish of the species Salmo trutta and commonly known as salmon and sea trout respectively or any part of any such fish;
+
+- “salmon fishery district” has the meaning given in section 34(1) of this Act, and “district” shall be construed accordingly;
+
+- “subordinate legislation” means Orders in Council, orders, rules, regulations, schemes, warrants, byelaws and other instruments made or to be made under any Act of Parliament or Act of the Scottish Parliament;
+
+- “tenant netsman” means a person in possession of a right, under a lease or sub-lease, of fishing for salmon with nets;
+
+- “the Solway” means the waters to the east of a line from the Mull of Galloway to Hodbarrow Point, so far as any of them lie within Scotland;
+
+- “trout” means non-migratory trout of the species Salmo trutta living in fresh water or in estuaries;
+
+- “valuation roll” means a roll made up under section 28(1) of the Local Government etc. (Scotland) Act 1994 (c. 39) or, in relation to the Borders, Dumfries and Galloway, Fife, Highland, Orkney Islands, Shetland Islands or Western Isles, under section 1 of the Local Government (Scotland) Act 1975 (c. 30);
+
+- “vehicle” means any conveyance other than a vehicle used for the purposes of a public passenger transport service within the meaning of the Transport Act 1985 (c. 67); and
+
+- “water bailiff” means any person appointed as such by—
+
+  - (a) a district salmon fishery board under section 45(3)(b); or
+  - (b) by the Scottish Ministers under section 55(5),
+
+  of this Act.
+
+(2) References to an occupier of a right of fishing for freshwater fish are references to a person who is in possession of that right as tenant under a lease of land to which such a right pertains or under a contract which by virtue of section 66 of this Act is deemed to be a lease and, for the purposes of this subsection “tenant” and “lease” include “subtenant” and “sublease” respectively.
+
+(3) In this Act, “proprietor” includes not more than one person authorised by—
+
+(a) in the case of a fishery in which more than one person has a pro indiviso share, such persons; or
+
+(b) in the case of a fishery in which the rights to that fishery are shared by more than one person in any other way, such persons;
+
+but in neither case does it include, except by virtue of this subsection, a person whose right to that fishery is so shared.
+
+### 70 Consequential amendments, repeals and revocations
+
+(1) The Acts mentioned in Part 1 of schedule 4 to this Act shall have effect subject to the amendments mentioned in that Part, being amendments consequential upon the provisions of this Act.
+
+(2) The enactments mentioned in the first column of Part 2 of schedule 4 to this Act are repealed or revoked to the extent mentioned in the second column of that Part, except in so far as they apply to the River Tweed or the Upper Esk.
+
+### 71 Short title, commencement and extent
+
+(1) This Act may be cited as the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003.
+
+(2) This Act (except this section) shall come into force on such date as the Scottish Ministers may by order made by statutory instrument appoint.
+
+(3) This Act does not apply to the River Tweed.
+
+(4) This Act does not apply to the Upper Esk.
+
+(5) Section 6 of this Act does not apply to the Lower Esk.
+
+(6) For the purposes of this section and section 70 of this Act—
+
+- “River Tweed” and “River Esk” have the same meaning as in section 111 of the Scotland Act 1998 (c. 46);
+- “Upper Esk” means that part of the River Esk lying upstream of a line drawn from a point at grid reference NY 3245 6632 on the western bank of the River Sark in a southerly direction to a point at grid reference NY 3245 6503 on the coast of Cumbria; and
+- “Lower Esk” means that part of the River Esk lying downstream of the line drawn from a point at grid reference NY 3245 6632 on the western bank of the River Sark in a southerly direction to a point at grid reference NY 3245 6503 on the coast of Cumbria.
+
+## SCHEDULE 1 — Designation orders, estuary limits orders, annual close time orders and regulations under sections 33 and 38
+
+*(introduced by section 39)*
+
+### Designation orders
+
+**1** The Scottish Ministers may make a designation order only on an application to them by—
+
+(a) a district salmon fishery board for a district which would be affected by the proposed order;
+
+(b) where there is no such board, two proprietors of salmon fisheries in the area which would be affected by the proposed order; or
+
+(c) any number of or combination of such boards or such proprietors in the area which would be affected by the proposed order,
+
+but the Scottish Ministers may act under this schedule notwithstanding that the applicants do not represent the whole area which would be affected by the proposed order.
+
+**2** An application under paragraph 1 above shall be accompanied by the applicant’s written proposals which shall state—
+
+(a) the area which it is proposed should be designated as a salmon fishery district;
+
+(b) the salmon fishery district or districts which are, at the time of the application, contained wholly or partly within that area;
+
+(c) the reasons for the creation of the proposed salmon fishery district;
+
+(d) the proposed dates of the annual close time and the periods within which it shall be permitted to fish for and take salmon by rod and line in the proposed district; and
+
+(e) the general effect of the proposals.
+
+### Estuary limits orders
+
+**3** The Scottish Ministers may make an estuary limits order only on application to them by—
+
+(a) the district salmon fishery board for the district in which the river is situated; or
+
+(b) where there is no such board, two proprietors of salmon fisheries in that district.
+
+**4** An application under paragraph 3 above shall be accompanied by the applicant’s written proposals which shall state—
+
+(a) the proposed estuary limits; and
+
+(b) the general effect of the proposals.
+
+### Annual close time orders
+
+**5** The Scottish Ministers may make an annual close time order in respect of a salmon fishery district only on application to them by—
+
+(a) the district salmon fishery board for that district; or
+
+(b) where there is no such board, two proprietors of salmon fisheries in that district.
+
+**6** An application under paragraph 5 above shall be accompanied by the applicant’s written proposals which shall state—
+
+(a) the proposed dates of the annual close time and the periods within that time when it shall be permitted to fish for and take salmon by rod and line in the district; and
+
+(b) the general effect of the proposals,
+
+and the proposals may include different dates and periods for different parts of the district.
+
+### Salmon conservation regulations
+
+**7** The Scottish Ministers may make regulations under section 38 of this Act either—
+
+(a) on an application to them by—
+
+(i) any district salmon fishery board; or
+
+(ii) where there is no such board in a salmon fishery district, two proprietors of salmon fisheries in that district; or
+
+(b) otherwise.
+
+**8** An application under paragraph 7(a) above shall be in writing and shall contain the applicant’s proposals, including—
+
+(a) a general description of the proposals;
+
+(b) a statement as to why the applicant considers that the proposals are necessary or expedient; and
+
+(c) a statement as to the general effect of the proposals.
+
+**9** In the application of paragraphs 10 to 15 below to regulations under section 38 of this Act made under paragraph 7(b) above—
+
+(a) references to an applicant and to an application shall be omitted;
+
+[[^F67](aa) references to proposals shall be construed as the proposals of the Scottish Ministers in relation to the proposed regulations in question;]
+
+(b) the reference in paragraph 10 to the persons who shall be consulted shall be construed as including, in particular, such district salmon fishery boards as the Scottish Ministers consider appropriate; and
+
+(c) paragraph 11(3) shall be omitted.
+
+### [[^F68]Freshwater fish conservation regulations
+
+**9A** (1) Before making regulations under section 51A of this Act, the Scottish Ministers shall consult such persons as they consider appropriate and then proceed in accordance with paragraphs 11 to 15 below.
+
+(2) In the application of paragraphs 11 to 15 below to regulations made under section 51A of this Act—
+
+(a) references to an applicant and to an application shall be omitted;
+
+(b) references to proposals shall be construed as the proposals of the Scottish Ministers in relation to the proposed regulations in question;
+
+(c) paragraph 11(3) shall be omitted;
+
+(d) in paragraph 12(a), the reference to paragraph 10 is to be read as if there were substituted a reference to paragraph 9A(1).]
+
+### Common provisions with respect to orders
+
+**10** On receiving an application under paragraph 1, 3, 5 or 7 above, the Scottish Ministers shall consult such persons as they consider appropriate and may—
+
+(a) request from the applicant such additional information as they think fit;
+
+(b) dismiss the application;
+
+(c) proceed in accordance with the remaining provisions of this schedule.
+
+**11** (1) Before making an order or, as the case may be, regulations, the Scottish Ministers shall direct that notice of the general effect of the proposals shall be given, specifying the time (not being less than 28 days from the date of the first publication of the notice) within which, and the manner in which, representations or objections with respect to the proposals may be made.
+
+(2) Notice shall be given at least once in each of two successive weeks by advertising in a newspaper circulating in the district or districts affected by the proposals.
+
+(3) The cost of giving notice shall be met by the applicant under paragraph 1, 3 or 5 above.
+
+**12** At any time, the Scottish Ministers may alter the proposals in such way as they think fit and shall consider whether such alterations are sufficient to require—
+
+(a) further consultation as mentioned in paragraph 10 above; and
+
+(b) further notice to be given under paragraph 11 above.
+
+### Making of designation, annual close time or estuary limits order or salmon conservation regulations
+
+**13** If no representations or objections are duly made, or if all so made are withdrawn, the Scottish Ministers may make an order or, as the case may be, regulations.
+
+**14** (1) If any representation or objection duly made is not withdrawn, the Scottish Ministers may, after considering the same—
+
+(a) make an order or, as the case may be, regulations;
+
+(b) dismiss the application; or
+
+(c) cause a local inquiry to be held.
+
+(2) Where they decide to proceed under sub-paragraph (1)(c) above, the Scottish Ministers shall appoint a person to hold the inquiry and to report thereon to them.
+
+(3) Notification of the time when and the place where the inquiry is to be held shall be sent to any person who has duly made and has not withdrawn representations about or objections to the proposals, and shall be published at least once in each of two successive weeks in a newspaper circulating in the district or districts affected by the proposals.
+
+(4) The person appointed to hold the inquiry may administer oaths and examine witnesses on oath and may accept, in lieu of evidence on oath by any person, a statement in writing by that person.
+
+(5) The Scottish Ministers may make orders as to the expenses incurred by them in relation to the inquiry (including such reasonable sum as they may determine for the services of the person appointed to hold the inquiry) and as to the expenses incurred by the parties to the inquiry and as to the parties by whom such expenses shall be paid.
+
+(6) Any order of the Scottish Ministers under sub-paragraph (5) above requiring any party to pay expenses may be enforced in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+**15** After considering the report of the person appointed to hold the inquiry in pursuance of paragraph 14 above and any representations or objections which were duly made, the Scottish Ministers may make an order or, as the case may be, regulations.
+
+**16** Applications under this schedule may be communicated and stored electronically.
+
+## SCHEDULE 2 — Election and co-option of members of district salmon fishery boards
+
+*(introduced by section 43)*
+
+### Part 1 — Meeting of qualified proprietors
+
+#### Calling of meeting
+
+**1** (1) Where there is no district salmon fishery board for a district, the sheriff shall, on the application of two qualified proprietors of salmon fisheries in the district—
+
+(a) make up a roll of upper and lower proprietors in the district to which the application relates;
+
+(b) call a meeting of these proprietors, at such time and place as the sheriff may direct, for the purpose of forming an association of proprietors of salmon fisheries for that district and electing a committee to become the district salmon fishery board for that district; and
+
+(c) give notice at least once in each of two successive weeks by advertising in a newspaper circulating in the district of the date, time and place of that meeting.
+
+(3) Where proposals for a designation order have been considered by the Scottish Ministers, in accordance with schedule 1 to this Act, and they consider that a designation order should be made—
+
+(a) the clerk or, acting jointly, the clerks to the district salmon fishery boards for any district or districts which would be superseded by the proposed designation order shall perform, in respect of the proposed district, the duties specified in sub-paragraph (1) above; or
+
+(b) where there is no district salmon fishery board for any district which would be superseded by the proposed designation order, the sheriff shall perform the duties specified in sub-paragraph (1) above on the application of two proprietors of salmon fisheries in the proposed district,
+
+and the following provisions of this schedule shall have effect in respect of the proposed district as if it had been designated.
+
+(4) Where the salmon fishery district lies in more than one sheriffdom, the sheriff in whose jurisdiction lies the major part of that district may, for the purposes of this schedule, perform the duties specified in sub-paragraph (1) above in an adjacent sheriffdom.
+
+(5) The sheriff may recover from the committee formed in accordance with this schedule all expenses incurred by the sheriff in the performance of the sheriff’s duties under this paragraph, whether or not that committee becomes a district salmon fishery board, but if it does become such a board, these expenses may be met out of the fishery assessment.
+
+**2** (1) At a meeting of proprietors called—
+
+(a) by the sheriff under paragraph 1 above; or
+
+(b) by the clerk to a board in accordance with section 47(1) of this Act,
+
+the proprietors present shall elect or, as the case may be, re-elect a committee to act on behalf of the association.
+
+(2) If—
+
+(a) the membership of that committee is in accordance with Part 2 of this schedule; and
+
+(b) the requirements of this Part as respects eligibility are met,
+
+that committee shall be or continue to be the district salmon fishery board for that district.
+
+(3) Membership of such a committee, whether or not it is a district salmon fishery board, shall not affect eligibility for membership of any other such committee or board.
+
+**3** (1) In accordance with the following provisions of this Part of this schedule, representatives of qualified proprietors shall be elected by—
+
+(a) the upper proprietors from amongst themselves; and
+
+(b) the lower proprietors from amongst themselves.
+
+(2) At least one representative shall be elected from amongst upper proprietors and at least one representative shall be elected from amongst lower proprietors, but an election under this paragraph shall not be held invalid if either—
+
+(a) there is no upper or, as the case may be, lower proprietor present; or
+
+(b) there is no upper or, as the case may be, lower proprietor willing to be elected.
+
+(3) The total number of representatives of qualified proprietors shall be at least three.
+
+(4) A qualified proprietor shall have, in respect of each fishery that person owns within the district, one vote in an election under this paragraph and shall have one additional vote for each £5,000 or part thereof by which the value of that fishery as entered in the valuation roll exceeds £5,000 but, subject to sub-paragraph (5) below, no proprietor shall have more than four votes in total as respects each fishery.
+
+(5) A person who is both an upper and a lower proprietor by virtue of section 40(5) of this Act shall count as both an upper and as a lower proprietor for the purposes of this paragraph and may both vote and be elected in each capacity.
+
+**4** (1) In the co-opting of representatives of salmon anglers and of tenant netsmen under Part 2 below, the number of representatives of salmon anglers and tenant netsmen together shall be less than the number of elected representatives of qualified proprietors.
+
+(2) A person who is both an upper and a lower proprietor by virtue of section 40(5) of this Act shall be counted in each capacity for the purposes of sub-paragraph (1) above.
+
+(3) A representative of salmon anglers shall be a person whom the board consider to be representative of persons angling for salmon in the district but who is not an upper proprietor in that district.
+
+(4) Before co-opting a person as a representative of salmon anglers, the board shall consult such organisations representing salmon anglers in the district as they think fit; but this requirement shall not apply to the filling of a vacancy in accordance with section 47(5) of this Act.
+
+(5) A representative of tenant netsmen shall be—
+
+(a) a tenant netsman in the district who is not a lower proprietor in that district;
+
+(b) a tenant netsman in the district who is a lower proprietor in that district if—
+
+(i) there are insufficient tenant netsmen who are qualified or willing to be co-opted and who are not also lower proprietors in that district; and
+
+(ii) that person has not been elected to the board of that district as a representative of lower proprietors or as convener; or
+
+(c) a lower proprietor in the district who is not a tenant netsman in that district if—
+
+(i) there are insufficient tenant netsmen qualified or willing to be co-opted, whether or not they are also lower proprietors in that district; and
+
+(ii) that person has not been elected to the board of that district as a representative of lower proprietors or as convener,
+
+but a person shall not be disqualified under this sub-paragraph solely by reason of being an upper proprietor in that district or of having been elected to the board of that district as a representative of upper proprietors.
+
+### Part 2 — Membership
+
+**5** (1) The members of the committee shall be members of a district salmon fishery board if the committee consists of not fewer than three elected representatives of qualified proprietors in the district.
+
+(2) As soon after their election as is practicable, the elected representatives of qualified proprietors shall, in accordance with the provisions of this schedule co-opt representatives of salmon anglers and tenant netsmen in the district as required by section 45(2) of this Act.
+
+(3) As soon after such co-option as is practicable, the elected representatives of qualified proprietors and the co-opted representatives shall elect, from among the representatives of qualified proprietors, a convener.
+
+(4) The members of a district salmon fishery board shall be—
+
+(a) the persons mentioned in sub-paragraph (1) above;
+
+(b) the convener elected in accordance with sub-paragraph (3) above;
+
+(c) at least one co-opted representative of salmon anglers in the district; and
+
+(d) at least one co-opted representative of tenant netsmen in the district,
+
+but a committee shall not fail to be a district salmon fishery board only by reason that no persons or not enough persons have been co-opted in accordance with this paragraph if—
+
+(i) there are no salmon anglers or no tenant netsmen in the district; or
+
+(ii) no persons or not enough persons are willing to be co-opted.
+
+## SCHEDULE 3 — Provisions as to making, variation and revocation of protection orders
+
+*(introduced by section 48(9))*
+
+### Making of protection order
+
+**1** Before the Scottish Ministers make a protection order they shall require a person from whom they have received proposals under section 48(3)(a) of this Act to give notice in such form as they may direct—
+
+(a) stating the general effect of those proposals;
+
+(b) naming a place or places where a copy of the proposals and any map accompanying the proposals may be inspected free of charge at all reasonable hours; and
+
+(c) specifying the time (not being less than 28 days from the date of the first publication of the notice) within which, and the manner in which, representations or objections with respect to the proposals may be made.
+
+**2** The notice to be given under paragraph 1 above shall be given by publication [^F69]...and in such number of such newspapers as the Scottish Ministers may direct.
+
+**3** The Scottish Ministers may direct that, in addition to publication of the notice as required by paragraph 2 above, a copy or copies of it shall be affixed by a person duly authorised in writing by them to some conspicuous object or objects on the banks of any waters to which the proposals relate or of such other waters as they may direct and at such number of places as they may direct.
+
+**4** If no representations or objections are duly made, or if any so made are withdrawn, the Scottish Ministers may make a protection order.
+
+**5** (1) If any representation or objection duly made is not withdrawn, the Scottish Ministers may, after considering the same, forthwith make a protection order or may cause a local inquiry to be held.
+
+(2) The Scottish Ministers shall appoint a person to hold the inquiry and to report thereon to them.
+
+(3) Notification of the time when and the place where the inquiry is to be held shall be sent to any person who has duly made and has not withdrawn representations or objections to the proposals, and shall be published in such newspaper or newspapers as the Scottish Ministers may direct.
+
+(4) The person appointed to hold the inquiry may, on the motion of any party thereto or on that person’s own motion, serve a notice in writing on any person requiring that person to attend at the time and place set forth in the notice to give evidence or to produce any books or documents in that person’s custody or under that person’s control which relate to any matter in question at the inquiry:
+
+Provided that—
+
+(i) no person shall be required in obedience to such a notice to attend at any place which is more than 16 kilometres from the place where that person resides unless the necessary expenses are paid or tendered to that person; and
+
+(ii) nothing in this sub-paragraph shall empower the person appointed to hold the inquiry to require any person to produce any book or document or to answer any question which that person would be entitled, on the ground of privilege or confidentiality, to refuse to produce or to answer if the inquiry were a proceeding in a court of law.
+
+(5) The person appointed to hold the inquiry may administer oaths and examine witnesses on oath and may accept, in lieu of evidence on oath by any person, a statement in writing by that person.
+
+(6) Any person who refuses or wilfully neglects to attend in obedience to a notice under sub-paragraph (4) above or to give evidence or who wilfully alters, suppresses, conceals, destroys, or refuses to produce, any book or document which that person may be required to produce by such a notice shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 1 on the standard scale or to imprisonment for a period not exceeding 3 months.
+
+(7) The Scottish Ministers may make orders as to the expenses incurred by them in relation to the inquiry (including such reasonable sum as they may determine for the services of the person appointed to hold the inquiry) and as to the expenses incurred by the parties to the inquiry and as to the parties by whom such expenses shall be paid.
+
+(8) Any order of the Scottish Ministers under sub-paragraph (7) above requiring any party to pay expenses may be enforced in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+**6** After considering the report of the person appointed to hold the inquiry in pursuance of paragraph 5 above and any representations or objections which were duly made, the Scottish Ministers may make a protection order.
+
+**7** As soon as may be after a protection order has been made—
+
+(a) the Scottish Ministers shall publish the making of the order in the Edinburgh Gazette and in such number of local newspapers circulating in the area to which the order relates as they think fit; and
+
+(b) a person duly authorised in writing by the Scottish Ministers or a warden shall affix and maintain a copy or copies of the order and such other notice as the Scottish Ministers may consider necessary of the incidence of the order to some conspicuous object or objects, at such places as the Scottish Ministers may direct, on the banks of any waters to which the order relates or elsewhere.
+
+**[[^F70]8** (1) Before the Scottish Ministers make an order varying a protection order, they shall by notice make such publication as they think fit of the general effect of the proposed variation and specify a time within which, and the manner in which, representations or objections with respect to the proposed variation may be made.
+
+(2) The Scottish Ministers may cause a copy or copies of the notice referred to in sub-paragraph (1) above to be affixed by a person duly authorised by them in writing to some conspicuous object or objects on the banks of such waters at such places as the Scottish Ministers may direct.
+
+(3) If no representations or objections are duly made, or if any so made are withdrawn, the Scottish Ministers may make an order varying the protection order.
+
+(4) If any representation or objection duly made is not withdrawn, the Scottish Ministers may forthwith make an order or may cause a local inquiry to be held.
+
+(5) Sub-paragraphs (2) to (8) of paragraph 5 above shall apply in relation to an inquiry under this paragraph as they apply in relation to an inquiry under that paragraph, but as if in sub-paragraph (3) of that paragraph for the word “proposals” there were substituted the words “proposed variation”.
+
+(6) Paragraph 6 and 7 above shall apply in relation to an order varying a protection order as they apply in relation to a protection order, but as if in paragraph 6 for the reference to paragraph 5 above there were substituted a reference to this paragraph.]
+
+**9** (1) Before the Scottish Ministers make an order revoking a protection order, they [[^F71]shall]by notice make such publication as they think fit of the general effect of the proposed revocation and specify a time within which, and the manner in which, representations or objections with respect to the proposed revocation may be made.
+
+(2) The Scottish Ministers may cause a copy or copies of the notice referred to in sub-paragraph (1) above to be affixed by a person duly authorised by them in writing to some conspicuous object or objects on the banks of such waters at such places as the Scottish Ministers may direct.
+
+(3) If no representations or objections are duly made, or if any so made are withdrawn, the Scottish Ministers may make the order revoking the protection order.
+
+(4) If any representation or objection duly made is not withdrawn, the Scottish Ministers may forthwith make the order or may cause a local inquiry to be held.
+
+(5) Sub-paragraphs (2) to (8) of paragraph 5 above shall apply in relation to an inquiry under this paragraph as they apply in relation to an inquiry under that paragraph, but as if in sub-paragraph (3) of that paragraph for the word “proposals” there were substituted the words “ proposed revocation ”.
+
+(6) Paragraph 6 and 7 above shall apply in relation to an order revoking a protection order as they apply in relation to a protection order, but as if in paragraph 6 for the reference to paragraph 5 above there were substituted a reference to this paragraph.
+
+**10** The Scottish Ministers shall cause to be published each year a list of prescribed areas.
+
+## SCHEDULE 4 — Consequential amendments, repeals and revocations
+
+*(introduced by section 70)*
+
+### Part 1 — Consequential amendments
+
+**1** In section 18 (enforcement of orders in relation to salmon and migratory trout) of the Sea Fish (Conservation) Act 1967, for subsection (2) there shall be substituted—
+
+> (2) Where any order under the said section 4, 5 or 6 imposes any prohibition or restriction on fishing for salmon or migratory trout within any waters which form part of the district of a district salmon fishery board within the meaning of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15), or on landing salmon or migratory trout at a place within such a district as aforesaid, the provisions of sections 52, 53, 54, 55, 57, 58 and 60(3) and (4) of that Act (which relate to enforcement and forfeiture) shall apply in relation to any contravention of the orders mentioned above as they apply in relation to a contravention of that Act.
+
+**2** (1) The Inshore Fishing (Scotland) Act 1984 shall be amended as follows.
+
+(2) In subsection (1) of section 7 (powers of water bailiffs etc.), for the words from “district board” to the end there shall be substituted the words “ district salmon fishery board within the meaning of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15) (“the 2003 Act”). ”
+
+(3) For subsection (2) of section 7 there shall be substituted—
+
+> (2) The provisions of sections 52, 53, 54, 55, 57, 58 and 60(3) and (4) of the 2003 Act (which relate to enforcement and forfeiture) shall apply in relation to a contravention of an order referred to in subsection (1) above as they apply in relation to a contravention of that Act.
+
+**3** (1) The Water Act 1989 shall be amended as follows.
+
+(2) In paragraph 4 of Schedule 17 (minor and consequential amendments) for the words from “section 15” to “Secretary of State” there shall be substituted the words “ section 64 of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15) (power of Scottish Ministers ”.
+
+(3) In the paragraph to be inserted into this Act by paragraph (a) of that paragraph—
+
+(a) for the word “him” there shall be substituted the word “ them ”; and
+
+(b) for the word “he”, in each place where it occurs, there shall be substituted the word “ they ”.
+
+### Part 2 — Repeals and revocations
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal or revocation* |
+| Theft Act 1607(c. 6) | The words “and fisches in propir stankis and loches”. |
+| Solway Firth Fisheries Act 1804 (c.xlv) | The whole Act. |
+| Salmon Fisheries (Scotland) Act 1868 (c. 123) | The whole Act. |
+| Solway Salmon Fisheries Commissioners (Scotland) Act 1877 (c. ccxl.) | The whole Act. |
+| Freshwater Fish (Scotland) Act 1902 (c. 29) | The whole Act. |
+| Trout (Scotland) Act 1933 (c. 35) | The whole Act. |
+| Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951 (c. 26) | The whole Act. |
+| Rivers (Prevention of Pollution) (Scotland) Act 1965 (c. 13) | Section 13(1). |
+| Control of Pollution Act 1974 (c. 13) | In Schedule 3, paragraph 11. |
+| Freshwater and Salmon Fisheries (Scotland) Act 1976 (c. 22) | The whole Act. |
+| Fishery Limits Act 1976 (c. 86) | In Schedule 2, paragraph 12. |
+| Fisheries Act 1981 (c. 29) | In Schedule 4, paragraphs 18 to 25. |
+| Salmon Act 1986 (c. 62) | Sections 1 to 3 and 5 to 30. Schedules 1 to 3. In Schedule 4, paragraphs 1 to 5, 7 to 10, 12 and 15. |
+| Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40) | In Schedule 4, paragraph 11. |
+| Deregulation (Salmon Fisheries (Scotland) Act 1868) Order 1996 ( S.I. 1996/1211) | The whole Order. |
+| District Salmon Fishery Boards Order 1999 (S.I. 1999/1111) | The whole Order. |
+| Salmon Conservation (Scotland) Act 2001 (asp 3) | The whole Act. |
+
+---
+
+[^F1]: S. 3 substituted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 19(2), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F2]: Words in s. 3 substituted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 19(1)(a), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F3]: Words in s. 3 inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 19(1)(b), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F4]: S. 3A inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 20(1), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F5]: Word in s. 4(1) repealed (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 20(2)(a)(i), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F6]: Words in s. 4(1) substituted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 20(2)(a)(ii), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F7]: Words in s. 4(1) added (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 24(2), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F8]: Words in s. 4(2) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 20(2)(b), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F9]: S. 4(3) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 20(2)(c), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F10]: S. 5A inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 21, 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F11]: Words in s. 8(1) omitted (27.3.2009) by virtue of Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85), reg. 1(2)(c), Sch. 2 para. 10(a) (with reg. 2.)
+[^F12]: Words in s. 14(2) substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 31, 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F13]: S. 17(5) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(2) (with s. 39); S.S.I. 2007/333, art. 2(1) (with art. 4)
+[^F14]: S. 17A - S. 17B inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 22, 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F15]: S. 21A inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 26(2), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F16]: S. 24 repealed (1.8.2008) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 35(1), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(2)
+[^F17]: S. 27(1A)-(1D) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 33(2)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F18]: Words in s. 27(3) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 33(2)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F19]: Words in s. 28(2)(a) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 23(1), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F20]: S. 28(2)(c) repealed (1.4.2006) by Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181), art. 1, Sch. Pt. I (with Sch. Pt. III)
+[^F21]: S. 28(3)-(6) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 33(3), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F22]: Words in s. 30(1) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 23(2)(a)(i), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F23]: Words in s. 30(1) substituted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 23(2)(a)(ii), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F24]: Words in s. 30(1) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 26(3)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F25]: S. 30(2A)-(2D) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 33(4), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F26]: Word in s. 30(5) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 23(2)(b), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F27]: Words in s. 30(5) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 26(3)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F28]: Word in s. 31(5)(b) substituted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(3) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F29]: S. 33(6A)-(6C) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 29(2), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F30]: Word in s. 33(7) substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 25(2)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F31]: S. 33(8) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 30(2), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F32]: S. 33A and preceding cross heading inserted (1.8.2008) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 35(2), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(2)
+[^F33]: Words in s. 33A(3) substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 32(2)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F34]: S. 33A(3A)-(3C) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 32(2)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F35]: S. 33A(4A) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 32(2)(c), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F36]: S. 33B inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 32(3), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F37]: Word in s. 35(3) substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 25(2)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F38]: S. 35(4) repealed (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 30(3), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F39]: Word in s. 36(4) substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 25(2)(c), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F40]: Words in s. 37(2) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 29(3)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F41]: Words in s. 37(3) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 29(3)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F42]: S. 37(3A)-(3C) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 29(3)(c), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F43]: Word in s. 37(4) substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 25(2)(d), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F44]: Words in s. 38(4) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 29(4)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F45]: S. 38(5)(c) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 29(4)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F46]: S. 38(6)(ba) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 29(4)(c), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F47]: S. 39 renumbered as 39(1) (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 30(4)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F48]: S. 39(2)-(4) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 30(4)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F49]: S. 44(1A)(1B) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 24(2), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F50]: Ss. 46A-46G inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 24(3), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F51]: S. 48(2A) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(4)(a) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F52]: Words in s. 48(4) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(4)(b) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F53]: S. 48(4A) - S. 48(4B) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(4)(c) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F54]: Words in s. 48(10) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(4)(d) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F55]: S. 51A inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), ss. 24(1), 45(2) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F56]: S. 64(1)(za) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 28(2)(a), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F57]: Words in s. 64(1)(a) repealed (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 28(2)(b), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F58]: S. 64(1)(b) substituted (1.4.2005) by 1989 (c.15), s. 141, Sch. 17 para. 4(a) (as amended by Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15), s. 71(2), Sch. 4 para. 3 (with s. 71(3)(4)(6))); S.S.I. 2005/174, art. 2
+[^F59]: Words in s. 64(2) substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 28(3), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F60]: S. 64(3) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 28(4), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F61]: S. 64(3) added (1.4.2005) by 1989 (c.15), s. 141, Sch. 17 para. 4(b) (as amended by Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15), s. 71(2), Sch. 4 para. 3 (with s. 71(3)(4)(6))); S.S.I. 2005/174, art. 2
+[^F62]: S. 64A inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 27(2), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F63]: S. 67 substituted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 34, 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F64]: Words in s. 68(4) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 26(4), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F65]: Words in s. 68(4) inserted (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 24(4), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
+[^F66]: Words in s. 69 substituted (27.3.2009) by virtue of Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85), reg. 1(2)(c), Sch. 2 para. 10(b) (with reg. 2.)
+[^F67]: Sch. 1 para. 9(aa) inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(5)(a) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F68]: Sch. 1 para. 9A inserted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(5)(b) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F69]: Words in Sch. 3 para. 2 repealed (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(6) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F70]: Sch. 3 para. 8 substituted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(7) (with s. 39); S.S.I. 2007/333, art. 2(1)
+[^F71]: Word in Sch. 3 para. 9(1) substituted (1.8.2007) by Aquaculture and Fisheries (Scotland) Act 2007 (asp 12), s. 45(2), Sch. para. 6(8) (with s. 39); S.S.I. 2007/333, art. 2(1)

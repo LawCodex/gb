@@ -1,0 +1,1484 @@
+---
+title: "Public Finance and Accountability (Scotland) Act 2000"
+identifier: "asp/2000/1"
+citation: "2000 asp 1"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2000-01-17
+last_amended: 2026-09-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2000/1"
+source_modified: 2026-10-01
+retrieved: 2026-10-11
+---
+
+# Public Finance and Accountability (Scotland) Act 2000
+
+**2000 asp 1**
+
+An Act of the Scottish Parliament to make provision about public resources and finances and, for the purposes of section 70 of the Scotland Act 1998, about accountability for their use; and for connected purposes
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 1st December 1999 and received Royal Assent on 17th January 2000
+
+## PART 1 — PUBLIC RESOURCES AND FINANCES
+
+### Use of resources
+
+#### 1 Use of resources
+
+(1) The use of resources by—
+
+(a) the Scottish Administration, and
+
+(b) each body or office-holder (other than an office-holder in the Scottish Administration) whose expenditure is payable out of the Scottish Consolidated Fund (“the Fund”) under any enactment,
+
+for any purpose in any financial year must be authorised for that year by Budget Act and must not exceed any amount so authorised in relation to that purpose.
+
+(2) The use of resources accruing to the Scottish Administration or any such body or office-holder in a financial year (“accruing resources”) for any purpose in that financial year must be so authorised separately from the use of other resources.
+
+(3) In this Act a reference to the use of resources is a reference to their expenditure, consumption or reduction in value.
+
+#### 2 Emergency arrangements
+
+(1) This section applies where, at the beginning of any financial year (“the current financial year”), the use of resources mentioned in section 1(1) has not been authorised for that year by Budget Act.
+
+(2) Until there is in force a Budget Act authorising that use of resources for the current financial year—
+
+(a) any purpose for which the use of resources was authorised for the previous financial year by Budget Act shall be taken to be a purpose for which the use of resources is authorised for the current financial year, and
+
+(b) the use of resources for any purpose for each calendar month of the current financial year must not exceed whichever is the greater of—
+
+(i) one-twelfth of any amount authorised in relation to that purpose by Budget Act for the previous financial year, and
+
+(ii) the amount of resources used for that purpose in the corresponding calendar month of the previous financial year;
+
+and section 1 has effect accordingly.
+
+(3) Subsection (2) is subject to any provision made by Budget Act for the current financial year.
+
+#### 3 Contingencies
+
+(1) This section applies where it is proposed that resources be used for any purpose in any financial year by the Scottish Administration or a body or office-holder referred to in section 1(1)(b) other than in accordance with that section (whether or not as modified by section 2).
+
+(2) The resources may be so used only with the authority of the Scottish Ministers.
+
+(3) The Scottish Ministers may authorise the use of resources only if they consider that—
+
+(a) the use is necessarily required in the public interest, and
+
+(b) it is not reasonably practicable, for reasons of urgency, for the requirements of section 1 in relation to the use to be satisfied by a Budget Act.
+
+(4) The aggregate amount of the resources which the Scottish Ministers may authorise to be used under this section in any financial year must not exceed 0.5% of the aggregate amount of the resources which, at the beginning of that year, were authorised to be used in that year by virtue of section 1.
+
+(5) Where the Scottish Ministers authorise the use of resources under this section they must, as soon as possible, lay before the Parliament a report setting out the circumstances of the authorisation and why they considered it to be necessary.
+
+### The Scottish Consolidated Fund
+
+#### 4 Payments out of the Scottish Consolidated Fund
+
+(1) A sum may be paid out of the Fund under section 65(1)(c) of the Scotland Act 1998 (c.46) (“the 1998 Act”) only in accordance with the rules in this section and sections 5 and 6 of this Act.
+
+(2) The sum must fall within the overall cash authorisation for the financial year in which it is to be paid out.
+
+(3) The expenditure for or in connection with which the sum is to be paid out must be a use of resources authorised for that financial year by virtue of sections 1 to 3.
+
+(4) In this Act “overall cash authorisation”, in relation to a financial year, means the maximum amount authorised by Budget Act to be paid out of the Fund in that year.
+
+(5) Where provision is made by Budget Act for a separate overall cash authorisation in relation to—
+
+(a) the Scottish Administration, or
+
+(b) any body or office-holder (other than an office-holder in the Scottish Administration) whose expenditure is payable out of the Fund under any enactment,
+
+references in this Act to an overall cash authorisation are to the overall cash authorisation in relation to the Scottish Administration or, as the case may be, the body or office-holder in question.
+
+#### 5 Credits for payments out of the Fund
+
+(1) No sum may be paid out of the Fund except in accordance with a credit granted on the Fund by the Auditor General.
+
+(2) The Auditor General shall grant credits for payments out of the Fund from time to time at the request of the Scottish Ministers.
+
+(3) Such a credit must not be granted if, in the Auditor General’s opinion, the proposed payment out of the Fund would not comply with section 65(1) and (2) of the 1998 Act.
+
+(4) This section does not apply to sums paid out of the Fund by virtue of section 6.
+
+#### 6 Repayments from the Fund
+
+A sum paid into the Fund where there is no obligation to do so may, with the agreement of the Auditor General, be repaid to the body or office-holder who made the payment.
+
+#### 7 Application of receipts
+
+(1) Subsection (2) applies where the use of accruing resources for any purpose in a financial year is authorised by virtue of sections 1 to 3.
+
+(2) Sums—
+
+(a) which are received in connection with those resources in that or any later financial year by the Scottish Administration or, as the case may be, the body or office-holder in question, and
+
+(b) which, apart from this section, are payable into the Fund,
+
+may instead be applied in the financial year in which they are received for or in connection with expenditure which is a use of resources authorised for that year by virtue of sections 1 to 3.
+
+### Further financial provisions
+
+#### 8 Capital expenditure of, and borrowing by, certain statutory bodies
+
+Schedule 1, which modifies various enactments concerning capital expenditure of, and borrowing by, certain bodies established under enactments, has effect.
+
+#### [^F1]9 Keeper of the Registers of Scotland: financial arrangements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — ACCOUNTABILITY AND AUDIT
+
+### Audit authorities
+
+#### 10 Audit Scotland
+
+(1) There is to be a body corporate to be known as Audit Scotland, with the functions conferred on it by virtue of this Act and any other enactment.
+
+(2) Audit Scotland is to consist of—
+
+(a) the Auditor General,
+
+(b) the Chairman of the Accounts Commission, and
+
+(c) 3 other members appointed [[^F2]by the Scottish Commission for Public Audit].
+
+(3) Audit Scotland is to provide such assistance and support as the Auditor General and the Accounts Commission require in the exercise of their respective functions and, in particular, is to provide them, or ensure that they are provided, with the property, staff and services which they require for the exercise of those functions.
+
+(4) Directions may be given to Audit Scotland—
+
+(a) by the Auditor General, for the purpose of or in connection with the exercise of Audit Scotland’s functions in relation to the Auditor General,
+
+(b) by the Accounts Commission, for the purpose of or in connection with the exercise of Audit Scotland’s functions in relation to the Commission.
+
+(5) Audit Scotland may make arrangements with any public body or office-holder for the provision by Audit Scotland to the body or office-holder of administrative, professional or technical services in connection with the conduct of audits.
+
+(6) Schedule 2 makes further provision about Audit Scotland.
+
+#### 11 Audit Scotland: financial provisions
+
+(1) Audit Scotland may impose reasonable charges in respect of the exercise of its functions in connection with—
+
+(a) the provision of services under arrangements made in pursuance of section 10(5),
+
+(b) the audit under sections 21 and 22 of an account, other than one prepared in pursuance of section 19(1) to (3) or 20(1),
+
+(c) the carrying out under section 23 of an examination, other than one in respect of an office-holder in the Scottish Administration or a body or other office-holder to whom sums are paid out of the Fund,
+
+[[^F3](ca) carrying out a data matching exercise under section 26A,]
+
+(d) the audit of an account in pursuance of Part VII of the Local Government (Scotland) Act 1973 (c.65),
+
+(e) the undertaking or promotion of any study under section 97A or 105A of that Act,
+
+(f) the giving of directions under section 1 of the Local Government Act 1992 (c.19).
+
+(2) Charges under subsection (1) may be determined by reference to particular cases or classes of case.
+
+(3) In determining the amounts of those charges Audit Scotland must seek to ensure that the total sum received in respect of the charges is, taking one year with another, broadly equivalent to its expenditure in connection with the matters mentioned in subsection (1)(a) to (f).
+
+(4) Charges under subsection (1)(b) to (f) are payable by the body or office-holder whose account is audited or, as the case may be, in respect of whom the examination is carried out, the study undertaken or promoted or the direction given.
+
+(5) Where a charge under subsection (1)(c), (e) or (f) relates to an examination, study or direction in respect of more than one body or office-holder, each body or office-holder is to pay such proportion of the charge as is determined by Audit Scotland.
+
+[[^F4](5A) Charges under subsection (1)(ca) may be imposed on (either or both)—
+
+(a) persons who disclose data for a data matching exercise,
+
+(b) persons who receive the results of such an exercise.]
+
+(6) Sums received by Audit Scotland in respect of charges under subsection (1) are to be retained by it and applied to meet the expenditure mentioned in subsection (3).
+
+(7) Any other sums received by Audit Scotland are to be paid into the Fund, subject to any provision made by any enactment for such sums to be applied for any purpose instead of being paid into the Fund.
+
+(8) Any expenditure of Audit Scotland, so far as not met out of sums received and applied in accordance with subsection (6), is payable out of the Fund.
+
+(9) Audit Scotland must, for each financial year, prepare proposals for its use of resources and expenditure and send the proposals to the Scottish Commission for Public Audit (constituted under section 12), which is to examine the proposals and report to the Parliament on them.
+
+#### 12 Scottish Commission for Public Audit
+
+(1) There is to be a body to be known as the Scottish Commission for Public Audit, with the functions conferred on it by virtue of this Act.
+
+(2) The Commission is to consist of—
+
+(a) the member of the Parliament who is for the time being convener of the [[^F5]Public] Audit Committee, and
+
+(b) 4 other members of the Parliament appointed in accordance with standing orders.
+
+(3) The Commission may require Audit Scotland to provide it with such documents, information and explanations about the exercise of the functions of Audit Scotland as the Commission reasonably considers necessary in connection with the discharge of its functions.
+
+(4) The Commission is from time to time to report to the Parliament on the exercise of its functions.
+
+(5) Schedule 3 makes further provision about the Commission.
+
+#### 13 Auditor General for Scotland
+
+(1) The Auditor General is entitled to—
+
+(a) a salary of such amount, and
+
+(b) such allowances,
+
+as the Parliamentary corporation may determine.
+
+(2) The salary and allowances and any expenses incurred by the Auditor General in the exercise of the Auditor General’s functions are to be paid by Audit Scotland.
+
+(3) Audit Scotland must make arrangements for the payment of pensions, gratuities or allowances to, or in respect of, any person who has ceased to hold the office of Auditor General.
+
+(4) In particular, Audit Scotland may—
+
+(a) make contributions or payments towards provision for such pensions, gratuities or allowances,
+
+(b) establish and administer one or more pension schemes.
+
+[[^F6](4A) A person appointed to be the Auditor General holds office for a period of 8 years.]
+
+(5) A person appointed to be the Auditor General—
+
+(a) may be relieved of office by Her Majesty at that person’s request,
+
+[[^F7](aa) vacates office on the expiry of the period of appointment,]
+
+[^F8]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F9]... [[^F10] in other respects,] holds office on such terms and conditions as the Parliamentary corporation may determine.
+
+[[^F11](5A) A person having held the office of the Auditor General is not eligible for reappointment.]
+
+(6) Any function of the Auditor General may be exercised on behalf of the Auditor General by any person (whether or not a member of the staff of Audit Scotland) authorised by the Auditor General to do so.
+
+(7) The Auditor General’s functions under sections 21(4) and 23(8) may be exercised by another person by virtue of subsection (6) only where the Auditor General is incapable of exercising those functions personally.
+
+(8) Subsections (6) and (7) do not affect the responsibility of the Auditor General for the exercise of the Auditor General’s functions.
+
+(9) Where the office of Auditor General is vacant, the Scottish Commission for Public Audit may appoint a person (whether or not a member of the staff of Audit Scotland) to discharge the functions of the Auditor General until—
+
+(a) the appointment of a new Auditor General, or
+
+(b) the expiry of the period of 12 months beginning with the date on which the vacancy arose,
+
+whichever is the earlier.
+
+(10) A person appointed under subsection (9)—
+
+(a) holds office on such terms and conditions as the Parliamentary corporation may determine,
+
+(b) shall, while he holds office, be treated for all purposes, except those of section 69(1) to (3) of the 1998 Act and subsections (1) to (5) of this section, as the Auditor General.
+
+(11) Any sums payable by virtue of subsection (10)(a) to, or in respect of, a person appointed under subsection (9), or who has ceased to hold office by virtue of such an appointment, are to be paid by Audit Scotland.
+
+### Accountable officers
+
+#### 14 Principal accountable officer for the Scottish Administration
+
+(1) The most senior member of the staff of the Scottish Administration is, by virtue of this subsection, principal accountable officer for the Scottish Administration.
+
+(2) The principal accountable officer has the functions set out in subsection (3) and is answerable to the Parliament for the exercise of those functions.
+
+(3) Those functions are—
+
+(a) signing the accounts of the expenditure and receipts of the Scottish Administration or any part of it, so far as it is not a function of any accountable officer designated under section 15(1) to do so,
+
+(b) signing any account prepared in pursuance of section 19(2),
+
+(c) ensuring the propriety and regularity of the finances of the Scottish Administration,
+
+(d) ensuring that the resources of the Scottish Administration are used economically, efficiently and effectively,
+
+(e) designating persons as accountable officers, and determining their functions as such, in accordance with section 15,
+
+(f) ensuring the performance of those functions by accountable officers for parts of the Scottish Administration, and
+
+(g) the duty set out in subsection (4).
+
+(4) That duty is a duty, where the principal accountable officer considers that any action which the officer is required to take is inconsistent with the proper performance of the functions mentioned in subsection (3)(a) to (f), to—
+
+(a) obtain written authority from, as the case may be, the Scottish Ministers, the Lord Advocate or the non-ministerial office-holder in question before taking the action, and
+
+(b) send a copy of the authority to the Auditor General as soon as possible.
+
+(5) In subsection (4)(a), “non-ministerial office-holder” means the holder of an office in the Scottish Administration which is not a ministerial office (within the meaning of section 126(8) of the 1998 Act).
+
+#### 15 Accountable officers
+
+(1) The principal accountable officer for the Scottish Administration is to designate members of the staff of the Scottish Administration as accountable officers for such parts of the Administration as the principal accountable officer may specify.
+
+(2) There may, by virtue of subsection (1), be more than one accountable officer having functions in relation to any particular part of the Scottish Administration.
+
+(3) The principal accountable officer for the Scottish Administration may designate a member of the staff of any body or office-holder to whom subsection (4) applies as its accountable officer.
+
+(4) This subsection applies to any body or office-holder (other than an office-holder in the Scottish Administration) any account of whom is an account in relation to which sections 21 and 22 apply.
+
+(5) Subsection (3) does not apply in relation to the Parliamentary corporation, Audit Scotland or any other body or office-holder in relation to whom provision for the appointment of an accountable officer is made by virtue of any enactment.
+
+(6) The functions of accountable officers designated under subsection (1) or (3) are—
+
+(a) those determined by the principal accountable officer for the Scottish Administration, and
+
+(b) the duty set out in subsection (8); and the accountable officers are answerable to the Parliament for the exercise of those functions.
+
+(7) The functions which may be determined under subsection (6)(a) include, in particular—
+
+(a) signing the accounts of the expenditure and receipts of the part of the Scottish Administration, or body or office-holder, in question,
+
+(b) ensuring the propriety and regularity of the finances of that part, body or office-holder,
+
+(c) ensuring that the resources of that part, body or office-holder are used economically, efficiently and effectively.
+
+(8) The duty referred to in subsection (6)(b) is a duty, where the accountable officer in question considers that any action which the officer is required to take is inconsistent with the proper performance of the functions determined under subsection (6)(a), to—
+
+(a) obtain written authority from, as the case may be, the Scottish Ministers, the Lord Advocate or the body or office-holder in question before taking the action, and
+
+(b) send a copy of the authority to the Auditor General as soon as possible.
+
+#### 16 Principal accountable officer for the Parliamentary corporation
+
+(1) The Clerk of the Parliament is, by virtue of this subsection, principal accountable officer for the Parliamentary corporation.
+
+(2) The principal accountable officer has the functions set out in subsection (3) and is answerable to the Parliament for the exercise of those functions.
+
+(3) Those functions are—
+
+(a) signing the accounts of the expenditure and receipts of the corporation or any part of it, so far as it is not a function of any accountable officer designated under section 17(1) to do so,
+
+(b) ensuring the propriety and regularity of the finances of the corporation,
+
+(c) ensuring that the resources of the corporation are used economically, efficiently and effectively,
+
+(d) designating persons as accountable officers, and determining their functions as such, in accordance with section 17,
+
+(e) ensuring the performance of those functions by accountable officers for parts of the corporation, and
+
+(f) the duty set out in subsection (4).
+
+(4) That duty is a duty, where the principal accountable officer considers that any action which the officer is required to take is inconsistent with the proper performance of the functions mentioned in subsection (3)(a) to (e), to—
+
+(a) obtain written authority from the corporation before taking the action, and
+
+(b) send a copy of the authority to the Auditor General as soon as possible.
+
+#### 17 Parliamentary corporation: accountable officers
+
+(1) The principal accountable officer for the Parliamentary corporation may designate members of the staff of the Parliament as accountable officers for such parts of the corporation as the principal accountable officer may specify.
+
+(2) The functions of accountable officers designated under subsection (1) are—
+
+(a) those determined by the principal accountable officer, and
+
+(b) the duty set out in subsection (4);
+
+and the accountable officers are answerable to the Parliament for the exercise of those functions.
+
+(3) The functions which may be determined under subsection (2)(a) include, in particular—
+
+(a) signing the accounts of the expenditure and receipts of the part of the corporation in question,
+
+(b) ensuring the propriety and regularity of the finances of that part,
+
+(c) ensuring that the resources of that part are used economically, efficiently and effectively.
+
+(4) The duty referred to in subsection (2)(b) is a duty, where the accountable officer in question considers that any action which the officer is required to take is inconsistent with the proper performance of the functions determined under subsection (2)(a), to—
+
+(a) obtain written authority from the corporation before taking the action, and
+
+(b) send a copy of the authority to the Auditor General as soon as possible.
+
+#### 18 Audit Scotland: accountable officer
+
+(1) The Scottish Commission for Public Audit is to designate the Auditor General or a member of the staff of Audit Scotland as the accountable officer for Audit Scotland.
+
+(2) The functions of the accountable officer are—
+
+(a) those specified in subsection (3), and
+
+(b) the duty set out in subsection (4);
+
+and the accountable officer is answerable to the Parliament for the exercise of those functions.
+
+(3) The functions referred to in subsection (2)(a) are—
+
+(a) signing the accounts of the expenditure and receipts of Audit Scotland,
+
+(b) ensuring the propriety and regularity of the finances of Audit Scotland, and
+
+(c) ensuring that the resources of Audit Scotland are used economically, efficiently and effectively.
+
+(4) The duty referred to in subsection (2)(b) is a duty, where the accountable officer considers that any action which the officer is required to take is inconsistent with the proper performance of the functions specified in subsection (3), to—
+
+(a) obtain written authority from Audit Scotland before taking the action, and
+
+(b) send a copy of the authority as soon as possible to the person appointed under section 25(1) to audit an account of Audit Scotland.
+
+### Accounts
+
+#### 19 Duty to prepare accounts
+
+(1) The Scottish Ministers, the Lord Advocate and every other person to whom sums are paid out of the Fund in a financial year must prepare accounts of their expenditure and receipts for that year.
+
+(2) The Scottish Ministers must prepare for each financial year an account of payments into and out of the Fund.
+
+(3) Holders of offices in the Scottish Administration which are not ministerial offices (within the meaning of section 126(8) of the 1998 Act) must, if required to do so by the Scottish Ministers, prepare for each financial year accounts of their expenditure and receipts.
+
+(4) Accounts prepared in pursuance of subsections (1) to (3) must be prepared in accordance with directions issued by the Scottish Ministers.
+
+(5) Subsection (1) does not apply to any cross-border public authority in relation to which the condition in section 70(6) of the 1998 Act is satisfied.
+
+(6) Subsection (3) does not apply to any office-holder to whom subsection (1) applies.
+
+(7) Accounts prepared in pursuance of subsections (1) to (3) (except accounts to which subsection (8) applies) must be sent to the Auditor General for auditing.
+
+(8) Accounts prepared by Audit Scotland in pursuance of subsection (1) must be sent to the Scottish Commission for Public Audit for auditing.
+
+#### 20 Consolidated public accounts
+
+(1) The Scottish Ministers may prepare for any financial year consolidated accounts, in such form and manner as they may determine in writing, for—
+
+(a) the Scottish Administration,
+
+(b) the Scottish Administration together with such bodies and office-holders, or bodies or office-holders of such classes, mentioned in subsection (2) as they may designate for that financial year for the purposes of this section.
+
+(2) Those bodies and office-holders and classes of body or office-holder are any body or office-holder which appears, and any class of body or office-holder all the members of which appear, to the Scottish Ministers—
+
+(a) to exercise functions of a public nature, or
+
+(b) to be entirely or substantially funded from public money.
+
+(3) A body or office-holder designated, or of a class designated, for a financial year must—
+
+(a) prepare such financial information in relation to that year, and in such form and manner, as the Scottish Ministers may require,
+
+(b) arrange for the information to be audited so far as the Scottish Ministers may require, and
+
+(c) send the information and any explanation which the Scottish Ministers may require to the Scottish Ministers by such time as they may direct.
+
+(4) Accounts prepared in pursuance of subsection (1) and the determination under that subsection must be sent to the Auditor General.
+
+(5) The Auditor General must examine the accounts and prepare a report on whether the accounts have been prepared in accordance with the determination.
+
+(6) The Auditor General must send the report to the Scottish Ministers, who must lay before the Parliament a copy of the accounts and the report.
+
+(7) Subsections (1) and (2) of section 24 apply for the purposes of the examination of accounts under subsection (5) of this section as they apply for the purposes of the audit of an account under sections 21 and 22.
+
+### Audit and value for money examinations
+
+#### 21 Audit of accounts
+
+(1) This section and section 22 apply in relation to any account which is, by virtue of any enactment or prerogative instrument, required (in whatever words) to be—
+
+(a) audited by the Auditor General, or
+
+(b) sent to the Auditor General for auditing.
+
+(2) The account must be sent to the Auditor General not later than 6 months after the end of the financial year to which the account relates.
+
+(3) The account is to be audited by—
+
+(a) the Auditor General, or
+
+(b) a qualified person appearing to the Auditor General to be suitable for appointment to audit the account by reason of, among other things, the person’s professional qualifications and experience.
+
+(4) It is for the Auditor General personally to decide who is to audit the account.
+
+(5) For the purposes of subsection (3)(b) a person is qualified if that person is—
+
+(a) [[^F12]eligible for appointment as a statutory auditor under Chapter 2 of Part 42 of the Companies Act 2006]), or
+
+(b) a member of a body of accountants established in the United Kingdom or another EEA State;
+
+[^F13]...
+
+[[^F14](6) In this section, “EEA State” means a member State, Norway, Iceland or Lichtenstein.]
+
+#### 22 Audit of accounts: further provisions
+
+(1) The auditor’s report on an account in relation to which this section applies (unless it is an account prepared in pursuance of section 19(2)) must set out the auditor’s findings on the following matters—
+
+(a) whether the expenditure and receipts shown in the account were incurred or applied in accordance with—
+
+(i) any enactment by virtue of which the expenditure was incurred or the income received,
+
+(ii) the Budget Act or Acts for the financial year, or any part of the financial year, to which the account relates, and
+
+(iii) sections 4 to 7,
+
+(b) where sums have been paid out of the Fund for the purpose of meeting such expenditure, whether the sums were applied in accordance with section 65 of the 1998 Act,
+
+(c) whether the expenditure and receipts shown in the account were incurred or applied in accordance with any applicable guidance (whether as to propriety or otherwise) issued by the Scottish Ministers,
+
+(d) whether the account complies with any applicable direction by virtue of any enactment.
+
+(2) The auditor’s report on an account prepared in pursuance of section 19(2) must set out the auditor’s findings on the following matters—
+
+(a) whether sums paid out of the Fund were paid out in accordance with section 65 of the 1998 Act and sections 4 to 6 of this Act,
+
+(b) whether the account complies with any applicable direction by virtue of any enactment
+
+(3) The auditor (unless the Auditor General) must send the account and the auditor’s report to the Auditor General, who may prepare a report on the account.
+
+(4) The Auditor General must send to the Scottish Ministers the account, the auditor’s report on the account and any report prepared by the Auditor General under subsection (3) in sufficient time to enable the Scottish Ministers to comply with subsection (5).
+
+(5) The Scottish Ministers must—
+
+(a) lay before the Parliament a copy of every account and report sent to them under subsection (4), and
+
+(b) [[^F15]except where the account and the report are published by the body or office-holder in question, ] publish every such account and report,
+
+not later than 9 months after the end of the financial year to which the account relates.
+
+(6) In section 21 and this section “financial year”, in relation to an account, means the financial year of the body or office-holder in question.
+
+#### 23 Economy, efficiency and effectiveness examinations
+
+(1) The Auditor General may initiate examinations into the economy, efficiency and effectiveness with which bodies and office-holders mentioned in subsection (2) have used their resources in discharging their functions.
+
+(2) Those bodies and office-holders are—
+
+(a) any body or office-holder so far as an account of that body or office-holder is an account in relation to which sections 21 and 22 apply,
+
+(b) any other body or office-holder, or a body or office-holder of any class, specified by the Scottish Ministers by order,
+
+(c) any body or office-holder not falling within paragraph (a) or (b) which agrees to such an examination being carried out.
+
+(3) An order made under subsection (2)(b) may specify a body or office-holder, or a class of body or office-holder, only if the Scottish Ministers reasonably believe that—
+
+(a) in the case of a body or office-holder, in any of the financial years of the body or office-holder—
+
+(i) more than a quarter of the income of the body or office-holder was received from public funds, or
+
+(ii) the amount of the income of the body or office-holder received from public funds exceeded £500,000,
+
+(b) in the case of a class of body or office-holder, paragraph (a) is satisfied in relation to at least half of those in the class.
+
+(4) An examination under this section in respect of a body or office-holder, or a body or office-holder of a class, specified in such an order may be carried out only—
+
+(a) in relation to any period as respects which the Auditor General reasonably believes that—
+
+(i) more than a quarter of the income of the body or office-holder was derived from public funds, or
+
+(ii) the amount of the income of the body or office-holder received from public funds exceeded £500,000,
+
+(b) so far as is reasonably practicable, in relation to the use by the body or office-holder of the income derived from public funds and to resources used in discharging the functions for which such income was used.
+
+(5) For the purposes of subsections (3) and (4)—
+
+(a) income is received from public funds if it is paid by—
+
+(i) any body or office-holder mentioned in subsection (2)(a), or
+
+(ii) any body or office-holder, or body or office-holder of a class, specified in an order made under subsection (2)(b), in a financial year of that body or office-holder in which more than half of the income of the body or office-holder was received from public funds,
+
+(b) in calculating income, capital receipts are to be disregarded,
+
+(c) money paid as consideration for the acquisition of property or the supply of goods or services or as remuneration, expenses, pensions, allowances or similar benefits for or in respect of a person as the holder of an office is to be disregarded.
+
+(6) In determining whether an examination under this section is to be carried out, the Auditor General must take into account any proposals made by the Parliament.
+
+(7) Before initiating an examination under this section in respect of [[^F16]Scottish Water] the Auditor General must consult the Water Industry [[^F17]Commission] for Scotland.
+
+(8) It is for the Auditor General personally to initiate an examination under this section and to decide who is to carry out the examination.
+
+(9) In carrying out the examination that person (“the examiner”)—
+
+(a) is not entitled to question the merits of the policy objectives of the body or office-holder in question, but
+
+(b) may consider the appropriateness of any criteria used by the body or office-holder to assess use of resources.
+
+(10) The examiner (if not the Auditor General) must report the results to the Auditor General, who may report the results to the Parliament.
+
+[[^F18](11) The Auditor General may publish the results of any examination carried out under this section.]
+
+#### 23A [[^F19]Defamation
+
+For the purposes of the law of defamation, the following are absolutely privileged—
+
+(a) reports sent to the Scottish Ministers under section 22(4),
+
+(b) results of an examination carried out and reported to the Parliament under section 23.]
+
+#### 24 Access to documents and information
+
+(1) For the purposes of the audit of an account under sections 21 and 22 the auditor is entitled to—
+
+(a) have access at all reasonable times to any document in the possession, or under the control, of the body or office-holder who prepared the account which the auditor may reasonably require,
+
+(b) require from any person holding, or accountable for, any such document any assistance, information or explanation which the auditor reasonably thinks necessary,
+
+(c) require the body or office-holder who prepared the account to provide, at times specified by the auditor, accounts of such of the transactions of the body or office-holder as the auditor may specify.
+
+(2) For those purposes the auditor is also entitled to—
+
+(a) have access at all reasonable times to any document in the possession, or under the control, of a relevant person which the auditor may reasonably require,
+
+(b) require from a relevant person any assistance, information or explanation which the auditor reasonably thinks necessary for those purposes.
+
+(3) For the purposes of an examination under section 23 the examiner is entitled to—
+
+(a) have access at all reasonable times to any document in the possession, or under the control, of the body or office-holder in question which the examiner may reasonably require,
+
+(b) require from any person holding, or accountable for, any such document any assistance, information or explanation which the examiner reasonably thinks necessary,
+
+(c) require the body or office-holder to provide, at times specified by the examiner, accounts of such of the transactions of the body or office-holder as the examiner may specify.
+
+(4) For those purposes the examiner is also entitled to—
+
+(a) have access at all reasonable times to any document in the possession, or under the control, of a relevant person which the examiner may reasonably require,
+
+(b) require from a relevant person any assistance, information or explanation which the examiner reasonably thinks necessary for those purposes.
+
+(5) In subsections (2) and (4) “relevant person” means a person specified, or of a class specified, by the Scottish Ministers by order.
+
+(6) An order under subsection (5) may—
+
+(a) specify different persons, or classes of person, in relation to subsections (2) and (4),
+
+(b) provide for those subsections, or either of them, to apply to any specified person or class of person with such modifications as the order may specify.
+
+(7) In this section “document” means anything in which information is recorded in any form.
+
+#### 25 Audit and examination: Audit Scotland
+
+(1) The Scottish Commission for Public Audit, when required to do so by the Auditor General, must appoint a qualified person to audit an account of Audit Scotland sent to the Commission for auditing under section 19(8).
+
+(2) In subsection (1) “qualified” has the same meaning as in section 21(5).
+
+(3) The auditor must examine and certify the account and report on the account to the Commission, including in the report the auditor’s findings on the matters set out in section 22(1)(a) and (b).
+
+(4) The Commission may initiate an examination into the economy, efficiency and effectiveness with which Audit Scotland has used its resources in discharging its functions and may appoint a person to carry out the examination and report the results to the Commission.
+
+(5) Subsection (9) of section 23 applies in relation to an examination under subsection (4) of this section as it applies in relation to an examination under that section.
+
+(6) The Commission must—
+
+(a) lay before the Parliament a copy of the account and the auditor’s report under subsection (3) and of any report made to it under subsection (4), and
+
+(b) publish the account and those reports.
+
+(7) Subsections (1) and (3) of section 24 apply respectively for the purposes of the audit of an account under subsection (3), and an examination under subsection (4), of this section as they apply for the purposes of the audit of an account under sections 21 and 22 and an examination under section 23.
+
+(8) Appointments under subsections (1) and (4) of this section are to be on such terms and conditions as the Commission may determine and any remuneration payable to the person appointed is to be paid by Audit Scotland.
+
+### Supplementary
+
+#### 26 Modification of enactments
+
+(1) Schedule 4, which makes modifications of enactments relating to this Part, has effect.
+
+(2) The Scottish Ministers may by order make such modifications in any enactment or prerogative instrument or any other instrument or document as appear to them to be necessary or expedient in consequence of this Part.
+
+## [[^F20]PART 2A — DATA MATCHING
+
+### 26A Power to carry out data matching exercises
+
+(1) Audit Scotland may carry out data matching exercises or arrange for them to be carried out on its behalf.
+
+(2) A data matching exercise is an exercise involving the comparison of sets of data to determine how far they match (including the identification of any patterns and trends).
+
+(3) The power in subsection (1) may be exercised for one or more of the following purposes—
+
+(a) assisting in the prevention and detection of fraud,
+
+(b) assisting in the prevention and detection of crime (other than fraud),
+
+(c) assisting in the apprehension and prosecution of offenders.
+
+(4) A data matching exercise may not be used for the sole purpose of identifying patterns and trends in a person's characteristics or behaviour which suggest the person is likely to commit fraud in the future.
+
+### 26B Voluntary disclosure of data to Audit Scotland
+
+(1) For the purposes of a data matching exercise, any person may disclose data to Audit Scotland (or a person acting on its behalf).
+
+(2) Such disclosure does not breach—
+
+(a) any duty of confidentiality owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of data.
+
+(3) Nothing in this section authorises a disclosure—
+
+(a) which contravenes [[^F21]the data protection legislation] ,
+
+[[^F22](b) which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016,]
+
+(c) of data comprising or including patient data.
+
+(4) “Patient data” means data relating to an individual which is held for medical purposes and from which the individual can be identified.
+
+(5) “Medical purposes” are the purposes of—
+
+(a) preventative medicine,
+
+(b) medical diagnosis,
+
+(c) medical research,
+
+(d) the provision of care and treatment,
+
+(e) the management of health and social care services, and
+
+(f) informing individuals about their physical or mental health or condition, the diagnosis of their condition or their care and treatment.
+
+(6) Nothing in this section prevents disclosure of data under any other provision of this Act, another enactment or any rule of law.
+
+(7) Data matching exercises may include data disclosed by a person outside Scotland.
+
+### 26C Power to require disclosure of data
+
+(1) Audit Scotland may require the persons mentioned in subsection (2) to disclose to it (or a person acting on its behalf) such data as it (or the person acting on its behalf) may reasonably require for the purpose of carrying out data matching exercises in such form as it (or such person) may so require.
+
+(2) Those persons are—
+
+(a) a body or an office holder any of whose accounts is an account in relation to which sections 21 and 22 apply,
+
+(b) a body whose accounts must be audited under Part 7 of the Local Government (Scotland) Act 1973 (c.65) (finance),
+
+(c) a Licensing Board continued in existence by or established under section 5 of the Licensing (Scotland) Act 2005 (asp 16), or
+
+(d) an officer or a member of a body, office holder or board mentioned in paragraph (a), (b) or (c).
+
+(3) Audit Scotland must not require a person to disclose data if—
+
+(a) the disclosure would contravene [[^F23]the data protection legislation] ,
+
+[[^F24](b) the disclosure is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.]
+
+(4) A disclosure made in response to a requirement imposed under subsection (1) does not breach—
+
+(a) any duty of confidentiality owed by the person making the disclosure, or
+
+(b) any other restriction on the disclosure of data.
+
+(5) A person mentioned in subsection (2) who without reasonable excuse fails to comply with a requirement made in accordance with this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 26D Disclosure of results of data matching
+
+(1) This section applies to the following data—
+
+(a) data relating to a particular person obtained by or on behalf of Audit Scotland for the purpose of carrying out a data matching exercise, and
+
+(b) the results of such an exercise.
+
+(2) Data to which this section applies may be disclosed by or on behalf of Audit Scotland if the disclosure is—
+
+(a) for, or in connection with, a purpose for which a data matching exercise is carried out,
+
+(b) to a Scottish audit agency, or a related party, for, or in connection with a function of that audit agency under—
+
+(i) Part 2 of this Act, or
+
+(ii) Part 7 of the Local Government (Scotland) Act 1973 (c.65) (finance),
+
+(c) to a United Kingdom audit agency, or a related party, for, or in connection with, a function of that audit agency corresponding or similar to—
+
+(i) the functions of a Scottish audit agency, or
+
+(ii) the functions of Audit Scotland under this Part, or
+
+(d) in pursuance of a duty imposed by or under an enactment.
+
+(3) “Scottish audit agency”, for the purpose of subsections (2)(b) and (c)(i), means—
+
+(a) the Auditor General, or
+
+(b) the Accounts Commission.
+
+(4) “United Kingdom audit agency”, for the purposes of subsection (2)(c), means—
+
+[[^F25](a) the Comptroller and Auditor General,]
+
+[[^F26](b) the Secretary of State,
+
+(ba) the Minister for the Cabinet Office,
+
+(bb) a local auditor within the meaning of the Local Audit and Accountability Act 2014,]
+
+(c) the Auditor General for Wales,
+
+(d) the Comptroller and Auditor General for Northern Ireland, or
+
+(e) a person designated as a local government auditor under article 4 of the Local Government (Northern Ireland) Order 2005 ( S.I. 2005/1968 (NI.18)).
+
+(5) “ Related party ”, in relation to a Scottish or United Kingdom audit agency means—
+
+(a) a person acting on its behalf,
+
+(b) a body or office holder whose accounts are required to be audited by it or by a person appointed by it, or
+
+(c) a person appointed by it to audit those accounts.
+
+(6) If the data used for a data matching exercise includes patient data—
+
+(a) subsection (2)(a) applies only so far as the purpose for which the disclosure is made relates to a relevant NHS body, and
+
+(b) subsection (2)(b) or (c) applies only so far as the function for, or in connection with, which the disclosure is made relates to such a body.
+
+(7) In subsection (6)—
+
+- “ patient data ” has the same meaning as section 26B(4), and
+
+- “ relevant NHS body ” means—
+
+  - (a) an NHS body as defined in section 22(1) of the Community Care and Health (Scotland) Act 2002 (asp 5),
+  - (b) [[^F27] a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant NHS body”);]
+  - (c) a Welsh NHS body as defined in section 60 of the Public Audit (Wales) Act 2004 (c.23),
+  - (d) a
+
+(8) Data disclosed under subsection (2) may not be further disclosed except—
+
+(a) for, or in connection with—
+
+(i) the purpose for which it was disclosed under subsection (2)(a), or
+
+(ii) the function for which it was disclosed under subsection (2)(b) or (c),
+
+(b) otherwise for the investigation or prosecution of an offence, or
+
+(c) in pursuance of a duty imposed by or under an enactment.
+
+(9) Except as authorised by subsections (2) and (8), a person who discloses data to which this section applies is guilty of an offence and liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months, to a fine or to both, or
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both.
+
+### 26E Publication of reports on data matching
+
+(1) Audit Scotland may publish a report on a data matching exercise (including a report on the results of an exercise).
+
+(2) Such a report must not include data relating to a particular person if—
+
+(a) the person is the subject of any data included in the data matching exercise,
+
+(b) the person can be identified from the data, and
+
+(c) the data is not otherwise in the public domain.
+
+(3) A report published under subsection (1) is to be published in such manner as Audit Scotland considers appropriate for the purposes of bringing it to the attention of those members of the public who may be interested.
+
+(4) Nothing in section 26D prevents publication under this section.
+
+(5) This section does not affect any powers of an auditor where the data matching exercise in question forms part of an audit under—
+
+(a) Part 2 of this Act, or
+
+(b) Part 7 of the Local Government (Scotland) Act 1973 (c.65) (finance).
+
+### 26F Data matching code of practice
+
+(1) Audit Scotland must prepare, and keep under review, a code of practice with respect to data matching exercises.
+
+(2) Regard must be had to the code in carrying out and participating in any such exercise.
+
+(3) Audit Scotland must consult the following persons before preparing or altering the code of practice—
+
+(a) the [[^F28]Information Commission],
+
+(b) the persons mentioned in section 26C(2), and
+
+(c) any other person Audit Scotland thinks fit.
+
+(4) Audit Scotland must, from time to time, publish the code.
+
+### 26G Powers of the Scottish Ministers
+
+(1) The Scottish Ministers may by order amend this Part—
+
+(a) to add a public body to the persons mentioned in section 26C(2),
+
+(b) to modify the application of this Part in relation to a public body so added, or
+
+(c) to remove a person from the persons mentioned in section 26C(2).
+
+(2) An order under this section may include such incidental, consequential, supplementary or transitional provision as the Scottish Ministers think fit.
+
+(3) In this section, “public body” means a person whose functions—
+
+(a) are functions of a public nature, or
+
+(b) include functions of a public nature.
+
+(4) A person referred to in subsection (3)(b) is a public body to the extent only of the functions referred to in that subsection.]
+
+## PART 3 — SUPPLEMENTARY
+
+### 27 Orders and directions
+
+(1) Any power to make orders under this Act is exercisable by statutory instrument.
+
+(2) No order containing provisions which add to, replace or omit any part of the text of an Act is to be made under section 26(2) unless a draft has been laid before, and approved by resolution of, the Parliament.
+
+(3) A statutory instrument containing an order under this Act (except sections 26(2) (where subsection (2) of this section applies) and 30) is to be subject to annulment in pursuance of a resolution of the Parliament.
+
+(4) Directions under sections 10(4) and 19(4) and paragraph 6 of schedule 3 are to be given in writing and may be varied or revoked by subsequent directions under the same provision.
+
+### 28 Transitional, transitory and saving provision
+
+The Scottish Ministers may by order make such transitional, transitory or saving provision as they consider necessary or expedient in connection with the coming into force of any provision of this Act.
+
+### 29 Interpretation
+
+(1) In this Act, unless the context otherwise requires—
+
+- “the 1998 Act” means the Scotland Act 1998 (c.46),
+- “the Accounts Commission” means the Accounts Commission for Scotland,
+- “accruing resources” has the meaning given in section 1(2),
+- “the Auditor General” means the Auditor General for Scotland,
+- [[^F29]“the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);]
+- “enactment” includes an enactment whenever passed or made,
+- “the examiner” has the meaning given in section 23(9),
+- “financial year” means the 12 months ending with 31st March,
+- “the Fund” means the Scottish Consolidated Fund,
+- “overall cash authorisation” has the meaning given in section 4,
+- “the Parliament” means the Scottish Parliament,
+- “the Parliamentary corporation” means the Scottish Parliamentary Corporate Body,
+- “use of resources” has the meaning given in section 1(3).
+
+(2) References in this Act to auditing, in relation to accounts, are to examining, certifying and reporting on the accounts.
+
+(3) References in this Act and in any other enactment to a Budget Act are to an Act of the Scottish Parliament making provision, for any financial year, for all or any of the following matters—
+
+(a) authorising the use of resources by the Scottish Administration, or by any body or office-holder (other than an office-holder in the Scottish Administration) whose expenditure is payable out of the Fund under any enactment,
+
+(b) authorising payment of sums out of the Fund,
+
+(c) for sums which are payable into the Fund to be applied for any purpose instead of being paid into the Fund,
+
+(d) specifying the maximum amount of relevant expenditure for the purposes of section 94(5) of the Local Government (Scotland) Act 1973 (c.65) and maximum amounts of borrowing by certain statutory bodies.
+
+### 30 Commencement and short title
+
+(1) The preceding provisions of this Act (including the schedules) are to come into force on such day as the Scottish Ministers may by order appoint.
+
+(2) Different days may be appointed under this section for different purposes.
+
+(3) This Act may be cited as the Public Finance and Accountability (Scotland) Act 2000.
+
+## SCHEDULE 1 — CAPITAL EXPENDITURE OF, AND BORROWING BY, CERTAIN STATUTORY BODIES
+
+*(introduced by section 8)*
+
+### Capital expenditure of local authorities etc.
+
+**1** In section 94 of the Local Government (Scotland) Act 1973 (c.65) (capital expenses of local authorities etc.) insert—
+
+> (5) In exercising their functions under subsection (1) above the Scottish Ministers shall seek to ensure that the aggregate amount of relevant expenditure by virtue of this section in any financial year does not exceed the amount specified for that year for the purposes of this subsection in a Budget Act.
+>
+> (6) In subsection (5) above, “relevant expenditure” means such expenditure as the Scottish Ministers may from time to time determine in writing, being expenditure resulting from the incurring of liabilities to which subsection (1) above applies.
+>
+> (7) The Scottish Ministers shall lay before the Scottish Parliament every determination under subsection (6) above together with a statement of their reasons for making the determination in those terms.
+
+### NHS trusts
+
+**2** (1) In Schedule 7B to the National Health Service (Scotland) Act 1978 (c.29) (financial provisions relating to NHS trusts), after paragraph 2 insert—
+
+> **Limits on borrowing**
+>
+> **2A** In any financial year the net aggregate amount of sums borrowed by NHS trusts shall not exceed the amount specified for that year for the purposes of this paragraph in a Budget Act.
+>
+> **2B** In paragraph 2A above, “net aggregate amount” means the aggregate amount of sums borrowed in the financial year less any repayments made during that year (otherwise than by way of interest) in respect of sums borrowed in that or any other year.
+
+(2) Paragraphs 3 and 4 of that Schedule are repealed.
+
+**[^F30]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Scottish Enterprise and Highlands and Islands Enterprise
+
+**4** (1) The Enterprise and New Towns (Scotland) Act 1990 (c.35) is amended as follows.
+
+(2) In section 25 (finances of Scottish Enterprise)—
+
+(a) after subsection (1) insert—
+
+> (1A) In any financial year the net aggregate amount of sums borrowed by Scottish Enterprise and its subsidiaries as general external borrowing shall not exceed the amount specified for that year for the purposes of this section in a Budget Act.
+>
+> (1B) In subsection (1A) above—
+>
+> - “general external borrowing” means—
+>
+>   - (a) in relation to Scottish Enterprise, sums borrowed by it other than sums borrowed from a body corporate which is or was one of its subsidiaries at the time of the loan,
+>   - (b) in relation to a subsidiary of Scottish Enterprise, sums borrowed by the subsidiary (whether or not a subsidiary of Scottish Enterprise at the time of the loan) other than sums borrowed from Scottish Enterprise, or another subsidiary of Scottish Enterprise,
+>
+> - “net aggregate amount” means the aggregate amount of sums borrowed in the financial year less any repayments made during that year (otherwise than by way of interest) in respect of sums borrowed in that or any other year.
+
+,
+
+(b) subsections (2) to (4) are repealed.
+
+(3) In section 26 (finances of Highlands and Islands Enterprise), after subsection (3) insert—
+
+> (3A) In any financial year the net amount of sums borrowed shall not exceed the amount specified for that year for the purposes of this section in a Budget Act.
+>
+> (3B) In subsection (3A) above, “net amount” means the amount of sums borrowed in the financial year less any repayments made during that year (otherwise than by way of interest) in respect of sums borrowed in that or any other year.
+
+**5** The Scottish Enterprise Act 1999 (c.5) is repealed.
+
+**[^F31]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Scottish Environment Protection Agency
+
+**7** (1) The Environment Act 1995 (c.25) is amended as follows.
+
+(2) In section 48 (borrowing powers of Agencies)—
+
+(a) in subsections (2) and (3), for “subsection (5)” substitute “ subsections (5) and (5A) ”,
+
+(b) subsection (5)(b) and the preceding “or” are repealed,
+
+(c) after subsection (5) insert—
+
+> (5A) In any financial year the net amount of sums borrowed by SEPA under this section shall not exceed the amount specified for that year for the purposes of this section in a Budget Act.
+>
+> (5B) In subsection (5A) above, “net amount” means the amount of sums borrowed in the financial year less any repayments made during that year (otherwise than by way of interest) in respect of sums borrowed in that or any other year.
+
+(3) In section 49 (government loans to Agencies), subsections (3) to (5) cease to have effect so far as relating to the Scottish Environment Protection Agency.
+
+## SCHEDULE 2 — AUDIT SCOTLAND: FURTHER PROVISIONS
+
+*(introduced by section 10)*
+
+### Membership
+
+**1** The Auditor General and the Chairman of the Accounts Commission are not entitled to any remuneration in respect of their membership of Audit Scotland.
+
+**2** A person who is a member of the staff of Audit Scotland or a member of the Accounts Commission is [[^F32]not] eligible for appointment under section 10(2)(c) [^F33]...
+
+**[[^F34]2A** An appointment under section 10(2)(c) may be for a period not exceeding 3 years.]
+
+**[[^F34]2B** A person appointed under section 10(2)(c) is, on ceasing to be a member, eligible for reappointment for a single further period.]
+
+**3** A member of Audit Scotland appointed under section 10(2)(c)—
+
+(a) is to be appointed on such terms and conditions as the [[^F35]Scottish Commission for Public Audit] may determine,
+
+(b) is to hold and vacate office in accordance with the terms of the appointment,
+
+(c) may resign as a member by notice in writing given to the [[^F36]Scottish Commission for Public Audit].
+
+**4** The [[^F37]Scottish Commission for Public Audit] may remove from membership of Audit Scotland a member appointed under section 10(2)(c) if they consider that the member is for any reason unable or unfit to exercise the functions of a member.
+
+### Staff
+
+**5** (1) Audit Scotland may appoint staff.
+
+(2) It is for Audit Scotland to determine the terms and conditions of appointment of the staff, including arrangements for the payment of pensions, gratuities or allowances to, or in respect of, any person who has ceased to be a member of staff.
+
+(3) In particular, Audit Scotland may—
+
+(a) make contributions or payments towards provision for such pensions, gratuities or allowances,
+
+(b) establish and administer one or more pension schemes.
+
+### Powers
+
+**6** (1) Audit Scotland may do anything which appears to it to be necessary or expedient for the purpose of or in connection with the discharge of its functions.
+
+(2) That includes, in particular—
+
+(a) holding property,
+
+(b) entering into contracts,
+
+(c) charging for goods or services,
+
+(d) borrowing sums in sterling by way of overdraft or otherwise for the purpose of meeting a temporary excess of expenditure over sums otherwise available to meet that expenditure.
+
+(3) Sub-paragraph (2)(c) is without prejudice to section 11.
+
+(4) Audit Scotland may borrow money only under sub-paragraph (2)(d).
+
+### Proceedings
+
+**7** (1) The validity of any act of Audit Scotland is not affected by any vacancy among its members, or any defect in the appointment, or qualification for membership, of any member.
+
+(2) Audit Scotland may—
+
+(a) determine its own procedure,
+
+[^F38]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F39](3) The Scottish Commission for Public Audit must appoint one of the members of Audit Scotland appointed under section 10(2)(c) to preside at the meetings of Audit Scotland.]
+
+[[^F39](4) Audit Scotland must appoint one of its other members appointed under section 10(2)(c) to preside at its meetings where the member mentioned in sub-paragraph (3) is not present.]
+
+### Transfers from Accounts Commission
+
+**8** (1) With effect from 1st April 2000 each person who was, immediately before that date, employed as an officer of the Accounts Commission transfers to and becomes a member of the staff of Audit Scotland.
+
+(2) The terms and conditions of appointment of such a person are to be determined by Audit Scotland but, taken as a whole, must be not less favourable to the person transferred than the terms on which that person was employed immediately before the transfer.
+
+(3) Where a person becomes a member of the staff of Audit Scotland under sub-paragraph (1), then, for the purposes of the Employment Rights Act 1996 (c.18), that person’s period of employment by the Accounts Commission counts as a period of employment by Audit Scotland and the change of employment does not break the continuity of the period of employment.
+
+(4) Where a person ceases to be employed as an officer of the Accounts Commission by virtue of sub-paragraph (1) that person is not, on ceasing to be so employed, to be treated—
+
+(a) for the purposes of any scheme or regulations by virtue of the Superannuation Act 1972 (c.11) as having been retired on redundancy,
+
+(b) for the purposes of Part XI of the Employment Rights Act 1996 (c.18) as having been dismissed by reason of redundancy.
+
+**9** On 1st April 2000 all property, rights and liabilities to which the Accounts Commission was entitled or subject immediately before that date transfer to and vest in Audit Scotland.
+
+## SCHEDULE 3 — SCOTTISH COMMISSION FOR PUBLIC AUDIT: FURTHER PROVISIONS
+
+*(introduced by section 12)*
+
+**1** The member of the Scottish Commission for Public Audit holding office under section 12(2)(a) on a dissolution of the Parliament continues to hold office until a convener of the [[^F40]Public] Audit Committee is appointed following a general election.
+
+**2** A member of the Commission appointed under section 12(2)(b) holds office until the Parliament is dissolved unless the member previously resigns, ceases to be a member of the Parliament otherwise than by virtue of a dissolution or is removed from office by resolution of the Parliament.
+
+**3** The validity of any act of the Commission is not affected by any vacancy in its membership or by any defect in the appointment, or qualification for membership, of any member.
+
+**4** The Commission may—
+
+(a) determine its own procedure,
+
+(b) appoint one of its members to preside at its meetings.
+
+**5** The Parliamentary corporation is to provide the Commission, or ensure that the Commission is provided, with the property, staff and services required for its purposes.
+
+**6** The Commission may give directions to the corporation for the purpose of or in connection with the exercise of the corporation’s functions in relation to the Commission.
+
+**7** Any expenses incurred by the Commission in the exercise of its functions are to be paid by the corporation.
+
+**[[^F41]8** For the purposes of the law of defamation, the following are absolutely privileged—
+
+(a) any statement made in proceedings of the Commission,
+
+(b) the publication under the authority of the Commission of any statement, and
+
+(c) any report to the Parliament under section 12(4).]
+
+**[[^F41]9** In paragraph 8, “statement” has the same meaning as in the Defamation Act 1996 (c. 31).]
+
+## SCHEDULE 4 — MODIFICATION OF ENACTMENTS RELATING TO PART 2
+
+*(introduced by section 26)*
+
+### National Galleries of Scotland Act 1906 (c.50)
+
+**1** In paragraph 8 of the Schedule to the National Galleries of Scotland Act 1906 (accounts of the Board)—
+
+(a) in sub-paragraph (5), the words from “on or” to “any year” are repealed, and after “General” insert “ for auditing ”,
+
+(b) sub-paragraph (6) is repealed.
+
+### National Library of Scotland Act 1925 (c.73)
+
+**[^F42]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government (Scotland) Act 1973 (c.65)
+
+**3** (1) The Local Government (Scotland) Act 1973 is amended as follows.
+
+(2) In section 96 (accounts and audit of local authorities), in subsection (4), for “an officer of the Accounts Commission for Scotland” substitute “ a member of the staff of Audit Scotland ”.
+
+(3) In section 97 (Accounts Commission for Scotland)—
+
+(a) in subsection (1)—
+
+(i) for “fifteen” substitute “ twelve ”,
+
+(ii) for “eleven” substitute “ six ”,
+
+(iii) the words “and such organisations connected with the health service” are repealed,
+
+(b) in subsection (2), the following provisions are repealed—
+
+(i) paragraph (a)(ii), (iv) and (v),
+
+(ii) in paragraph (c), the words “or, as the case may be, health service bodies”,
+
+(iii) in paragraph (d), the words “or health service bodies”,
+
+(c) after that subsection insert—
+
+> (2AA) Any function of the Commission may be exercised on behalf of the Commission by any person (whether or not a member of the staff of Audit Scotland) authorised by the Commission to do so.
+>
+> (2AB) Subsection (2AA) above does not apply in relation to the following functions—
+>
+> (a) considering reports in pursuance of subsection (2)(b) above,
+>
+> (b) appointing an auditor under subsection (6) below,
+>
+> (c) deciding who is to audit any account, or class of account, in pursuance of this Part of this Act,
+>
+> (d) deciding whether to undertake or promote a study under section 97A or 105A of this Act.
+>
+> (2AC) Subsections (2AA) and (2AB) above do not affect the responsibility of the Commission for the exercise of their functions.
+
+,
+
+(d) subsection (2B) is repealed,
+
+(e) in subsection (3), the words “and such organisations connected with the health service” are repealed,
+
+(f) in subsection (4), the words from “and the Commission” to the end are repealed,
+
+(g) after that subsection insert—
+
+> (4AA) The Controller of Audit shall, by virtue of appointment as such, be a member of the staff of Audit Scotland unless that person is also the Auditor General for Scotland.
+
+,
+
+(h) subsections (4A) to (4D) are repealed,
+
+(i) in subsection (6), for “officers of the Commission” substitute “ members of the staff of Audit Scotland ”, and the words from “or a person” to the end are repealed,
+
+(j) subsection (6A) is repealed.
+
+(4) In section 97A (studies for improving economy etc. in services), in each of subsections (2) and (3), the words from “and, in” to the end are repealed.
+
+(5) In section 98 (expenses and accounts of the Accounts Commission)—
+
+(a) in subsection (1), for paragraphs (a) to (c) substitute “ such expenses shall be met by Audit Scotland ”,
+
+(b) subsections (2) to (7) are repealed.
+
+(6) In section 99 (general duties of auditors)—
+
+(a) the words “or health service body”, in both places where they occur, are repealed,
+
+(b) in paragraph (a), the words from “or, in the case of a health service body” to “1978” are repealed.
+
+(7) In section 100 (auditor’s right of access to documents)—
+
+(a) in subsection (1), the words “or health service body” and “or body” are repealed,
+
+(b) in subsection (1B), the words “or body” are repealed,
+
+(c) in subsection (2), the words “and health service body” are repealed.
+
+(8) In section 101 (completion of audit), subsection (5) is repealed.
+
+(9) In section 102 (reports to Commission by Controller of Audit)—
+
+(a) in subsection (1), the words “and health service bodies” and “or health service body” are repealed,
+
+(b) subsection (5) is repealed.
+
+(10) In section 103 (action by Commission on reports by Controller of Audit), the words “with respect to the accounts of any local authority” are repealed.
+
+(11) Section 104A (special provisions as to audit of health service bodies) is repealed
+
+(12) In section 106 (application of sections 93 to 105 to bodies other than local authorities and to officers), subsection (3) is repealed.
+
+(13) In Schedule 8 (provisions as to the Accounts Commission for Scotland)—
+
+(a) in paragraph 3A—
+
+(i) the words “out of their funds” are repealed,
+
+(ii) at the end insert “ ; and such salary, fees and allowances shall be paid by Audit Scotland ”,
+
+(b) in paragraph 4(1), for “five” substitute “ four ”,
+
+(c) paragraph 6 is repealed,
+
+(d) in paragraph 7, the words from “and, without prejudice” to the end are repealed.
+
+### National Health Service (Scotland) Act 1978 (c.29)
+
+**4** (1) The National Health Service (Scotland) Act 1978 is amended as follows.
+
+[^F43]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 86 (accounts of the Health Boards and the Agency)—
+
+(a) in subsection (1), for the words from “those accounts” to the end substitute “ shall send those accounts to the Scottish Ministers by such time as they may direct ”,
+
+(b) after that subsection insert—
+
+> (1AA) The Scottish Ministers shall send the accounts to the Auditor General for Scotland for auditing.
+
+,
+
+(c) subsection (2) is repealed,
+
+(d) for subsection (4), substitute—
+
+> (4) The Scottish Ministers may if they think fit prepare, in respect of any financial year, summarised or consolidated accounts, in such form as they may determine, of such of the bodies mentioned in paragraphs (a) to (c) of subsection (1), or such groups of those bodies, as they may determine; and they shall transmit any such accounts to the Auditor General for Scotland for auditing
+
+.
+
+### National Heritage (Scotland) Act 1985 (c.16)
+
+**5** (1) Schedule 1 to the National Heritage (Scotland) Act 1985 is amended as follows.
+
+(2) In paragraph 9 (accounts of the Board of Trustees of the National Museums of Scotland)—
+
+(a) in sub-paragraph (5), the words from “on or” to “any year” are repealed, and for “Comptroller and Auditor General” substitute “ Auditor General for Scotland for auditing ”,
+
+(b) sub-paragraph (6) is repealed.
+
+(3) In paragraph 20 (accounts of the Board of Trustees of the Royal Botanic Garden, Edinburgh)—
+
+(a) in sub-paragraph (5), the words from “on or” to “any year” are repealed, and for “Comptroller and Auditor General” substitute “ Auditor General for Scotland for auditing ”,
+
+(b) sub-paragraph (6) is repealed.
+
+### Legal Aid (Scotland) Act 1986 (c.47)
+
+**6** (1) Section 5 of the Legal Aid (Scotland) Act 1986 (accounts and audit of the Scottish Legal Aid Board) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) The Board shall send the accounts and the statement of accounts to the Scottish Ministers by such time as they may direct.
+>
+> (2B) The Scottish Ministers shall send the accounts and the statement of accounts to the Auditor General for Scotland for auditing.
+
+(3) Subsections (3) to (6) and (7)(b) and (c) are repealed.
+
+**[^F44]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### National Health Service and Community Care Act 1990 (c.19)
+
+**8** In Schedule 7 to the National Health Service and Community Care Act 1990 (audit of accounts of Scottish health service bodies), paragraphs 2, 3(2)(b) to (d) and (3) to (7), 4 to 6, 7(2) and (4) and 8 to 12 are repealed.
+
+### Enterprise and New Towns (Scotland) Act 1990 (c.35)
+
+**9** In section 30 of the Enterprise and New Towns (Scotland) Act 1990 (accounts and annual reports of Scottish Enterprise and Highlands and Islands Enterprise)—
+
+(a) in subsection (3), the words from “on or” to “each year” are repealed, and for “Comptroller and Auditor General” substitute “ Auditor General for Scotland for auditing ”,
+
+(b) subsection (4) is repealed,
+
+(c) in subsection (5)(a), the words “or the Comptroller and Auditor General” are repealed.
+
+### Natural Heritage (Scotland) Act 1991 (c.28)
+
+**10** In section 10 of the Natural Heritage (Scotland) Act 1991 (reports and accounts of Scottish Natural Heritage)—
+
+(a) in subsection (4), the words from “on or” to “any year” are repealed, and for “Comptroller and Auditor General” substitute “ Auditor General for Scotland for auditing ”,
+
+(b) subsection (5) is repealed.
+
+### Further and Higher Education (Scotland) Act 1992 (c.37)
+
+**11** (1) The Further and Higher Education (Scotland) Act 1992 is amended as follows.
+
+[^F45]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In paragraph 18 of Schedule 2 (accounts of boards of management of colleges of further education)—
+
+(a) in sub-paragraph (2)—
+
+(i) the words “and audited” are repealed,
+
+(ii) for the words “Secretary of State”, in the first place where they appear, substitute “ Scottish Ministers ”,
+
+(iii) for the words from “Secretary of State”, in the second place where they appear, to the end substitute “ Scottish Ministers by such time as they may direct ”,
+
+(b) after that sub-paragraph insert—
+
+> (2A) The Scottish Ministers shall send the accounts to the Auditor General for Scotland for auditing.
+
+[^F45]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government etc. (Scotland) Act 1994 (c.39)
+
+**12** (1) The Local Government etc. (Scotland) Act 1994 is amended as follows.
+
+[^F46]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 136 (reports, accounts etc. of the Scottish Children’s Reporter Administration)—
+
+(a) in subsection (4), the words from “on or” to “any year” are repealed, and for “Comptroller and Auditor General” substitute “ Auditor General for Scotland for auditing ”,
+
+(b) subsection (5) is repealed.
+
+[^F46]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Environment Act 1995 (c.25)
+
+**13** (1) The Environment Act 1995 is amended as follows.
+
+(2) Section 46 (audit of new Agencies) ceases to have effect so far as relating to the Scottish Environment Protection Agency.
+
+(3) After that section insert—
+
+> **Audit: SEPA**
+>
+> **46A** (1) SEPA shall send the statement of accounts for each accounting year to the Scottish Ministers by such time as they may direct.
+>
+> (2) The Scottish Ministers shall send the statement of accounts to the Auditor General for Scotland for auditing.
+>
+> (3) In this section, “accounting year” has the same meaning as in section 45 above.
+
+### Criminal Procedure (Scotland) Act 1995 (c.46)
+
+**14** In paragraph 9 of Schedule 9A to the Criminal Procedure (Scotland) Act 1995 (accounts of the Scottish Criminal Cases Review Commission)—
+
+(a) in sub-paragraph (3), the words “a copy of” and “and to the Comptroller and Auditor General” are repealed,
+
+(b) after that sub-paragraph insert—
+
+> (3A) The Scottish Ministers shall send the statement of accounts to the Auditor General for Scotland for auditing.
+
+,
+
+(c) sub-paragraph (4) is repealed.
+
+### Education (Scotland) Act 1996 (c.43)
+
+**15** In section 16 of the Education (Scotland) Act 1996 (accounts, records and audit of the Scottish Qualifications Authority)—
+
+(a) in subsection (3), the words “copies of” and “and the Comptroller and Auditor General” are repealed,
+
+(b) after that subsection insert—
+
+> (3A) The Scottish Ministers shall send the statement of accounts to the Auditor General for Scotland for auditing.
+
+,
+
+(c) subsection (4) is repealed.
+
+---
+
+[^F1]: S. 9 repealed (31.3.2020) by The Public Services Reform (Registers of Scotland) Order 2020 (S.S.I. 2020/92), arts. 1(2), 2
+[^F2]: Words in s. 10(2)(c) substituted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(2), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F3]: S. 11(1)(ca) inserted (6.10.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 97(2)(a), 206(1); S.S.I. 2010/339, art. 2
+[^F4]: S. 11(5A) inserted (6.10.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 97(2)(b), 206(1); S.S.I. 2010/339, art. 2
+[^F5]: Word in s. 12(2)(a) inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(3), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F6]: S. 13(4A) inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(4)(a), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F7]: S. 13(5)(aa) inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(4)(b)(i), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F8]: S. 13(5)(b) omitted (6.4.2007) by virtue of Employment Equality (Age) (Consequential Amendments) Regulations 2007 (S.I. 2007/825), regs. 1, 4(2)(a)
+[^F9]: Words in s. 13(5)(c) omitted (6.4.2007) by virtue of Employment Equality (Age) (Consequential Amendments) Regulations 2007 (S.I. 2007/825), regs. 1, 4(2)(b)
+[^F10]: Words in s. 13(5)(c) inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(4)(b)(ii), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F11]: S. 13(5A) inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(4)(c), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F12]: Words in s. 21(5)(a) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), Sch. 1 para. 27 (with arts. 6, 11, 12)
+[^F13]: Words in s. 21(5) repealed (1.7.2013) by The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177), reg. 1(1), sch. para. 4(a)
+[^F14]: S. 21(6) inserted (1.7.2013) by The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177), reg. 1(1), sch. para. 4(b)
+[^F15]: Words in s. 22(5)(b) inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(5), 134(7); S.S.I. 2010/321, art. 3, Sch.
+[^F16]: Words in s. 23(7) substituted (1.4.2002) by 2002 asp 3, s. 71(2), Sch. 7 para. 27(2) (with s. 67); S.S.I. 2002/118, art. 2(3) (subject to art. 3)
+[^F17]: Word in s. 23(7) substituted (1.7.2005) by Water Services etc. (Scotland) Act 2005 (asp 3), s. 37(2), sch. 5 para. 5 (with s. 36); S.S.I. 2005/351, art. 2, sch. 2 (with art. 3(3))
+[^F18]: S. 23(11) added (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(6), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F19]: S. 23A inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(7), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F20]: Pt. 2A (ss. 26A-26G) inserted (6.10.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 97(3), 206(1); S.S.I. 2010/339, art. 2
+[^F21]: Words in s. 26B(3)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 67 (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F22]: S. 26B(3)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 8(2) (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F23]: Words in s. 26C(3)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 68 (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F24]: S. 26C(3)(b) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 8(3) (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F25]: S. 26D(4)(a) substituted (1.4.2012) by Budget Responsibility and National Audit Act 2011 (c. 4), s. 29, Sch. 5 para. 24; S.I. 2011/2576, art. 5
+[^F26]: S. 26D(4)(b)-(bb) substituted for s. 26D(4)(b) (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 47(2); S.I. 2015/841, art. 3(x) (with Sch. para. 2) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F27]: Words in s. 26D(7) substituted (1.4.2015) by Local Audit and Accountability Act 2014 (c. 2), s. 49(1), Sch. 12 para. 47(3); S.I. 2015/841, art. 3(x) (with Sch. para. 2) (as amended (27.6.2016) by S.I. 2016/675, art. 2)
+[^F28]: Words in s. 26F(3)(a) substituted (30.9.2026) by The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386), reg. 1(2), Sch. 2 para. 29; S.I. 2026/1015, reg. 2(c)
+[^F29]: Words in s. 29(1) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 69 (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+[^F30]: Sch. 1 para. 3 repealed (1.11.2001) by 2001 asp 10, s. 112, Sch. 10 para. 28(1); S.S.I. 2001/397, art. 2, Sch. Table (subject to transitional provisions and savings in arts. 3-6)
+[^F31]: Sch. 1 para. 6 repealed (1.4.2002) by 2002 asp 3, s. 71(2), Sch. 7 para. 27(3)(a) (with s. 67); S.S.I. 2002/118, art. 2(3) (subject to art. 3)
+[^F32]: Word in Sch. 2 para. 2 inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(a)(i), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F33]: Words in Sch. 2 para. 2 repealed (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(a)(ii), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F34]: Sch. 2 paras. 2A, 2B inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(b), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F35]: Words in Sch. 2 para. 3(a) substituted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(c)(i), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F36]: Words in Sch. 2 para. 3(c) substituted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(c)(ii), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F37]: Words in Sch. 2 para. 4 substituted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(d), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F38]: Sch. 2 para. 7(2)(b) repealed (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(e)(i), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F39]: Sch. 2 para. 7(3)(4) added (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(8)(e)(ii), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F40]: Word in Sch. 3 para. 1 inserted (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(9)(a), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F41]: Sch. 3 paras. 8, 9 added (1.10.2010) by Public Services Reform (Scotland) Act 2010 (asp 8), ss. 118(9)(b), 134(7); S.S.I. 2010/321, art. 3, sch.
+[^F42]: Sch. 4 para. 2 repealed (1.2.2013) by National Library of Scotland Act 2012 (asp 3), s. 12(3), sch. 3; S.S.I. 2013/1, art. 2
+[^F43]: Sch. 4 para. 4(2) repealed (1.11.2005) by Smoking, Health and Social Care (Scotland) Act 2005 (asp 13), s. 43(3), sch. 3; S.S.I. 2005/492, art. 3(b), sch. 2
+[^F44]: Sch. 4 para. 7 repealed (1.11.2001) by 2001 asp 10, s. 112, Sch. 10 para. 28(2); S.S.I. 2001/397, art. 2, Sch. Table (subject to transitional provisions and savings in arts. 3-6)
+[^F45]: Sch. 4 para. 11(2)(4) repealed (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), s. 36(2), sch. 3 para. 8; S.S.I. 2005/419, art. 2(1)
+[^F46]: Sch. 4 para. 12(2)(4) repealed (1.4.2002) by 2002 asp 3, s. 71(2), Sch. 7 para. 27(3)(b) (with s. 67); S.S.I. 2002/118, art. 2(3) (subject to art. 3)

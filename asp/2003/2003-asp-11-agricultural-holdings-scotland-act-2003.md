@@ -1,0 +1,4563 @@
+---
+title: "Agricultural Holdings (Scotland) Act 2003"
+identifier: "asp/2003/11"
+citation: "2003 asp 11"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2003-04-22
+last_amended: 2021-02-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2003/11"
+source_modified: 2024-06-19
+retrieved: 2026-10-11
+---
+
+# Agricultural Holdings (Scotland) Act 2003
+
+**2003 asp 11**
+
+An Act of the Scottish Parliament to amend the law relating to agricultural holdings under the Agricultural Holdings (Scotland) Act 1991; to provide for new forms of agricultural tenancies and to make provision in relation to these tenancies; to provide for the right of certain agricultural tenants to buy land; to provide for the use of certain agricultural land for non-agricultural purposes; to make special provision for certain agricultural tenancies where the tenant is a partnership; to make new provision for the resolution of disputes between landlords and tenants arising under agricultural tenancies; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 12th March 2003 and received Royal Assent on 22nd April 2003
+
+## Part 1 — Agricultural tenancies
+
+### Chapter 1 — Types of tenancy
+
+#### Tenancies under the 1991 Act
+
+##### 1 Application of the 1991 Act to agricultural holdings
+
+(1) This subsection applies where—
+
+(a) a lease is entered into on or after the coming into force of this subsection; and
+
+(b) the tenancy under the lease is a tenancy of an agricultural holding in relation to which the Agricultural Holdings (Scotland) Act 1991 (c. 55) (in this Act referred to as “the 1991 Act”) would have applied had the lease been entered into immediately before the coming into force of this subsection.
+
+(2) Where subsection (1) applies, the 1991 Act does not apply in relation to the tenancy (except in so far as this Act applies any provision of that Act to short limited duration tenancies or limited duration tenancies) unless the lease—
+
+(a) is entered into in writing prior to the commencement of; and
+
+(b) expressly states that the 1991 Act is to apply in relation to,
+
+the tenancy.
+
+(3) Section 2 (leases for less than year to year) of the 1991 Act is repealed.
+
+(4) Where, in respect of a tenancy of an agricultural holding—
+
+(a) the lease is entered into before the coming into force of this subsection and the 1991 Act applies in relation to the tenancy; or
+
+(b) the lease is entered into on or after the coming into force of this subsection and (by virtue of the conditions mentioned in paragraphs (a) and (b) of subsection (2) being fulfilled) the 1991 Act applies in relation to the tenancy,
+
+the tenancy under the lease is in this Act referred to as a “1991 Act tenancy”.
+
+##### [^F1]2 Conversion from 1991 Act tenancy to limited duration tenancy
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 2A [[^F2]Conversion from 1991 Act tenancy to modern limited duration tenancy
+
+(1) The landlord and tenant under a 1991 Act tenancy may terminate the tenancy by agreement in writing provided that—
+
+(a) the agreement—
+
+(i) specifies the date on which the termination is to have effect, and
+
+(ii) is made not less than 30 days before that date, and
+
+(b) subsection (2) is complied with.
+
+(2) This subsection is complied with if the landlord and tenant enter into a lease constituting a modern limited duration tenancy for a term of not less than 25 years which—
+
+(a) comprises or includes the same land as that comprised in the tenancy being terminated under subsection (1), and
+
+(b) has effect from the date on which the termination under that subsection has effect.
+
+(3) The landlord or tenant is entitled, at any time before the date on which the termination under subsection (1) has effect, to revoke (without penalty)—
+
+(a) the agreement made under that subsection, and
+
+(b) the lease mentioned in subsection (2),
+
+by giving notice in writing to the other of the revocation.
+
+(4) On termination of a 1991 Act tenancy under subsection (1), the tenant is entitled to—
+
+(a) such compensation for improvements as the tenant would have been entitled to under Part 4 (compensation for improvements) of the 1991 Act (or, as the case may be, under the lease), and
+
+(b) such compensation as the tenant would have been entitled to under section 45A (compensation arising as a result of diversification and cropping of trees) of that Act,
+
+were the tenant quitting the holding as a result of the termination of the tenancy.
+
+(5) Where a 1991 Act tenancy is terminated under subsection (1), section 21 (notice to quit and notice of intention to quit) of the 1991 Act does not apply in respect of the tenancy.
+
+(6) Section 5B does not apply to a modern limited duration tenancy created under this section.]
+
+##### 2B [[^F3]Conversion from limited duration tenancy to modern limited duration tenancy
+
+(1) The landlord and tenant under a limited duration tenancy may terminate the tenancy by agreement in writing provided that—
+
+(a) the agreement—
+
+(i) specifies the date on which the termination is to have effect, and
+
+(ii) is made not less than 30 days before that date, and
+
+(b) subsection (2) is complied with.
+
+(2) This subsection is complied with if the landlord and tenant enter into a lease constituting a modern limited duration tenancy for a term of not less than the term remaining under the limited duration tenancy which—
+
+(a) comprises or includes the same land as that comprised in the tenancy being terminated under subsection (1), and
+
+(b) has effect from the date on which the termination under that subsection has effect.
+
+(3) The landlord or tenant is entitled, at any time before the date on which the termination under subsection (1) has effect, to revoke (without penalty)—
+
+(a) the agreement made under that subsection, and
+
+(b) the lease mentioned in subsection (2),
+
+by giving notice in writing to the other of the revocation.
+
+(4) On termination of a limited duration tenancy under subsection (1), the tenant is not entitled to compensation for improvements under Part 4 (or, as the case may be, under the lease).
+
+(5) But any improvements for which the tenant would have been entitled to compensation under that Part but for subsection (4) are, for the purposes of that Part, to be regarded as improvements carried out during the modern limited duration tenancy.
+
+(6) Where a limited duration tenancy is terminated under subsection (1), section 8 does not apply in respect of the tenancy.
+
+(7) Section 5B does not apply to a modern limited duration tenancy created under this section.]
+
+#### Leases for grazing or mowing
+
+##### 3 Leases for grazing or mowing
+
+(1) This section applies to a tenancy under a lease under which agricultural land is let for the purpose of its being used only for grazing or mowing during some specified period of the year (whether or not the lease expressly so provides).
+
+(2) The tenancy is not to be constituted for a period of more than 364 days; and where the term of the tenancy has expired, the land may not be let for the same purpose to the same tenant before one clear day from the date of expiry of the tenancy has elapsed.
+
+#### New types of tenancy
+
+##### 4 Short limited duration tenancies
+
+(1) Where—
+
+(a) agricultural land is let under a lease for a term of not more than five years;
+
+(b) the land comprised in the lease is not let to the tenant during the tenant’s continuance in any office, appointment or employment held under the landlord; and
+
+(c) the lease does not constitute—
+
+(i) a 1991 Act tenancy; or
+
+(ii) a tenancy to which section 3 applies,
+
+the tenancy under the lease is, by virtue of this subsection, a short limited duration tenancy.
+
+(2) Without prejudice to subsection (1), where the tenant remains in occupation of the land after the expiry of the term of a tenancy to which section 3 applies with the consent of the landlord, the tenancy continues to have effect as if it were for a term of—
+
+(a) 5 years; or
+
+(b) such period of less than 5 years as the landlord and tenant may agree to,
+
+and the tenancy is, by virtue of this subsection, a short limited duration tenancy.
+
+(3) Where the tenant remains in occupation of the land after the expiry of the term of a short limited duration tenancy of less than 5 years (including such a term fixed by virtue of subsection (2)) with the consent of the landlord, the tenancy continues to have effect as if it were for a term of—
+
+(a) 5 years; or
+
+(b) such period of less than 5 years as the landlord and tenant may agree to.
+
+(4) This subsection applies to a short limited duration tenancy where—
+
+(a) the term of the tenancy has expired and the tenant has not remained in occupation of the land; or
+
+(b) during the term of the tenancy, the landlord and tenant have terminated the tenancy by agreement.
+
+(5) Where the landlord and tenant enter into a lease constituting a further short limited duration tenancy which—
+
+(a) comprises the same land as that comprised in the tenancy to which subsection (4) applies; and
+
+(b) has effect less than one year from the expiry of the term of, or termination of, that tenancy,
+
+the expired period of the term of that tenancy counts as an expired period of the term of the further tenancy; but this is subject to subsection (3) of section 5.
+
+##### [^F4]5 Limited duration tenancies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 5A [[^F5]Modern limited duration tenancies
+
+(1) Where—
+
+(a) agricultural land is let under a lease entered into on or after the coming into force of this section for a term of not less than 10 years,
+
+(b) the land comprised in the lease is not let to the tenant during the tenant's continuance in any office, appointment or employment held under the landlord, and
+
+(c) the lease does not constitute a 1991 Act tenancy or a repairing tenancy,
+
+the tenancy under the lease is, by virtue of this subsection, a modern limited duration tenancy.
+
+(2) Where—
+
+(a) at any time before the expiry of the term of a short limited duration tenancy, the landlord and the tenant agree in writing to convert the tenancy to a modern limited duration tenancy, or
+
+(b) the tenant remains in occupation of the land after the expiry of the term of a short limited duration tenancy of 5 years (including such a term fixed by virtue of section 4(2) or (3)) with the consent of the landlord,
+
+the tenancy has effect as if it were for a term of 10 years commencing at the start of the term of the short limited duration tenancy, and the tenancy is, by virtue of this subsection, a modern limited duration tenancy.
+
+(3) Where subsection (5) of section 4 results in a short limited duration tenancy purporting to be for a term of more than 5 years, the tenancy has effect as if it were for a term of 10 years; and the tenancy is, by virtue of this subsection, a modern limited duration tenancy.
+
+(4) Without prejudice to subsections (2) and (3), where a lease constituting a tenancy of agricultural land, as described in paragraphs (b) and (c) of subsection (1), purports to be for a term of more than 5 years and less than 10 years, the tenancy has effect as if it were for a term of 10 years; and the tenancy is, by virtue of this subsection, a modern limited duration tenancy.
+
+(5) Section 5B does not apply to a modern limited duration tenancy created under subsection (2), (3) or (4).
+
+##### 5B Modern limited duration tenancies: break clauses
+
+(1) This section applies where the tenant under a lease constituting a modern limited duration tenancy is a new entrant to farming.
+
+(2) The lease may contain a provision that the tenancy may be terminated after 5 years in accordance with section 8D (a “break clause”).
+
+(3) The Scottish Ministers may by regulations make further provision about the tenants who are new entrants for the purposes of this section.]
+
+##### 5C [[^F6]Repairing tenancies: creation
+
+(1) Where—
+
+(a) agricultural land is let under a lease entered into on or after the coming into force of this section for a term of not less than 35 years,
+
+(b) the land comprised in the lease is not let to the tenant during the tenant's continuance in any office, appointment or employment held under the landlord,
+
+(c) the lease does not constitute a 1991 Act tenancy,
+
+(d) the lease requires the tenant, during the repairing period, to improve the land comprised in the lease in order to bring it into a state capable of being farmed, after the expiry of the repairing period, in accordance with the rules of good husbandry, and
+
+(e) the lease expressly states that this section is to apply to the tenancy,
+
+the tenancy is, by virtue of this subsection, a repairing tenancy.
+
+(2) In this Part, the “repairing period” is the period, beginning with the commencement of the tenancy, of—
+
+(a) 5 years, or
+
+(b) such longer period—
+
+(i) as the landlord and tenant may agree under this paragraph or, as the case may be, under subsection (3)(a), or
+
+(ii) as the Land Court may determine under subsection (3)(b).
+
+(3) The repairing period may be extended at any time before its expiry—
+
+(a) by the landlord and tenant by agreement, or
+
+(b) by the Land Court on the application of either the landlord or the tenant.
+
+(4) On an application under subsection (3)(b), the Land Court may extend the repairing period—
+
+(a) if it considers it appropriate in all the circumstances to do so, and
+
+(b) by such period as it determines necessary in all the circumstances.
+
+(5) A lease constituting a repairing tenancy may contain a provision that the tenancy may be terminated in accordance with section 8G (a “break clause”).
+
+(6) In this section and section 5D, what is good husbandry is to be construed by reference to schedule 6 of the Agriculture (Scotland) Act 1948.
+
+##### 5D Repairing tenancies: exemption from rules of good husbandry during repairing period
+
+(1) Where a lease constituting a repairing tenancy does not include provision mentioned in subsection (2), such provision is incorporated.
+
+(2) The provision is that during the repairing period the tenant cannot be held liable for not farming the land comprised in the lease in accordance with the rules of good husbandry.]
+
+### Chapter 2 — General provision as to new types of tenancy
+
+#### [[^F7]New types of tenancy: general provision]
+
+##### 6 Assignation, subletting and termination of short limited duration tenancies
+
+(1) The tenant may not assign a lease constituting a short limited duration tenancy nor sublet the land comprised in the lease.
+
+(2) A short limited duration tenancy may be terminated by the landlord and tenant by agreement.
+
+##### 7 Assignation and subletting of limited duration tenancies
+
+(1) A lease constituting a limited duration tenancy may be assigned by the tenant if, following notice under subsection (2), the landlord consents to a proposed assignation.
+
+(2) The tenant must give the landlord a notice in writing of any intention of the tenant to assign the lease; and the notice must include the particulars of the proposed assignee, the terms upon which the assignation is to be made and the date on which it is to take effect.
+
+(3) [[^F8]Subject to subsection (3A), the] landlord may withhold consent to the proposed assignation if there are reasonable grounds for doing so; and, in particular, the landlord may withhold consent if not satisfied that the proposed assignee—
+
+(a) would have the ability to pay—
+
+(i) the rent due under the lease; or
+
+(ii) for adequate maintenance of the land; or
+
+(b) has the skills or experience that would be required properly to manage and maintain the land in accordance with the rules of good husbandry.
+
+[[^F9](3A) Where the tenant proposes to assign the lease to a person who is a near relative of the tenant, the only grounds on which the landlord can withhold consent to the proposed assignation are the following—
+
+(a) that the person is not of good character,
+
+(b) that the person does not have sufficient resources to enable the person to farm the land with reasonable efficiency,
+
+(c) subject to subsection (3B), that the person has neither sufficient training in agriculture nor sufficient experience in the farming of land to enable the person to farm the land with reasonable efficiency.]
+
+[[^F9](3B) The ground of objection in subsection (3A)(c) does not apply where the person—
+
+(a) is engaged in or will begin, before the expiry of the period of 6 months beginning with the date of the notice under subsection (2), a course of relevant training in agriculture which the person is expected to complete satisfactorily within 4 years from that date, and
+
+(b) has made arrangements to secure that the land is farmed with reasonable efficiency until the person completes that course.]
+
+(4) Any such withholding of consent (and the grounds for withholding it) is to be intimated in writing to the tenant within 30 days of the giving of the notice under subsection (2); and, if no such intimation is made, the landlord is (except where the landlord exercises the right under subsection (5) to acquire the tenant’s interest in the lease) deemed to have consented to the proposed assignation.
+
+(5) Where the landlord has been given notice under subsection (2), the landlord is entitled to acquire the tenant’s interest in the lease provided that—
+
+(a) the landlord gives the tenant notice—
+
+(i) in writing; and
+
+(ii) within 30 days of the giving of the notice under subsection (2),
+
+of the landlord’s intention to acquire that interest; and
+
+(b) the terms upon which the landlord acquires that interest are no less favourable to the tenant than any reasonable terms upon which the proposed assignation was to have been made.
+
+[[^F10](5A) For the purposes of subsection (3A), “near relative”, in relation to a tenant of an agricultural holding, means—
+
+(a) a parent of the tenant,
+
+(b) a spouse or civil partner of the tenant,
+
+(c) a child of the tenant,
+
+(d) a spouse or civil partner of such a child,
+
+(e) a grandchild of the tenant,
+
+(f) a brother or sister of the tenant,
+
+(g) a spouse or civil partner of such a brother or sister,
+
+(h) a child of a brother or sister of the tenant,
+
+(i) a grandchild of a brother or sister of the tenant,
+
+(j) a brother or sister of the tenant's spouse or civil partner,
+
+(k) a spouse or civil partner of such a brother or sister,
+
+(l) a child of such a brother or sister,
+
+(m) a grandchild of such a brother or sister.]
+
+(6) For the purposes of subsection (3)(b), what is good husbandry is to be construed by reference to the Sixth Schedule to the Agriculture (Scotland) Act 1948 (c. 45).
+
+(7) A tenant may sublet the land comprised in a lease constituting a limited duration tenancy only on such basis as the lease expressly permits.
+
+##### 7A [[^F11]Subletting of modern limited duration tenancies
+
+A tenant may sublet the land comprised in a lease constituting a modern limited duration tenancy only on such basis as the lease expressly permits.]
+
+##### 7B [[^F12]Assignation of modern limited duration tenancies
+
+(1) A lease constituting a modern limited duration tenancy may be assigned by the tenant if, following notice under subsection (2), the landlord consents to a proposed assignation.
+
+(2) The tenant must give the landlord a notice in writing of any intention of the tenant to assign the lease; and the notice must include the particulars of the proposed assignee, the terms upon which the assignation is to be made and the date on which it is to take effect.
+
+(3) Subject to subsection (4), the landlord may withhold consent to the proposed assignation if there are reasonable grounds for doing so; and, in particular, the landlord may withhold consent if not satisfied that the proposed assignee—
+
+(a) would have the ability to pay—
+
+(i) the rent due under the lease, or
+
+(ii) for adequate maintenance of the land, or
+
+(b) has the skills or experience that would be required properly to manage and maintain the land in accordance with the rules of good husbandry.
+
+(4) Where the tenant proposes to assign the lease to a person who is a near relative of the tenant, the only grounds on which the landlord can withhold consent to the proposed assignation are the following—
+
+(a) that the person is not of good character,
+
+(b) that the person does not have sufficient resources to enable the person to farm the land with reasonable efficiency,
+
+(c) subject to subsection (5), that the person has neither sufficient training in agriculture nor sufficient experience in the farming of land to enable the person to farm the land with reasonable efficiency.
+
+(5) The ground of objection in subsection (4)(c) does not apply where the person—
+
+(a) is engaged in or will begin, before the expiry of the period of 6 months beginning with the date of the notice under subsection (2), a course of relevant training in agriculture which the person is expected to complete satisfactorily within 4 years from that date, and
+
+(b) has made arrangements to secure that the land is farmed with reasonable efficiency until the person completes that course.
+
+(6) Any such withholding of consent (and the grounds for withholding it) is to be intimated in writing to the tenant within 30 days of the giving of the notice under subsection (2); and, if no such intimation is made, the landlord is deemed to have consented to the proposed assignation.
+
+(7) For the purposes of subsection (3)(b), what is good husbandry is to be construed by reference to schedule 6 of the Agriculture (Scotland) Act 1948.
+
+(8) For the purposes of subsection (4), “near relative”, in relation to a tenant of an agricultural holding, means—
+
+(a) a parent of the tenant,
+
+(b) a spouse or civil partner of the tenant,
+
+(c) a child of the tenant,
+
+(d) a spouse or civil partner of such a child,
+
+(e) a grandchild of the tenant,
+
+(f) a brother or sister of the tenant,
+
+(g) a spouse or civil partner of such a brother or sister,
+
+(h) a child of a brother or sister of the tenant,
+
+(i) a grandchild of a brother or sister of the tenant,
+
+(j) a brother or sister of the tenant's spouse or civil partner,
+
+(k) a spouse or civil partner of such a brother or sister,
+
+(l) a child of such a brother or sister,
+
+(m) a grandchild of such a brother or sister.]
+
+##### 8 Continuation and termination of limited duration tenancies
+
+(1) A limited duration tenancy may be terminated by agreement between the landlord and tenant if the agreement is in writing and—
+
+(a) is entered into after the commencement of the tenancy; and
+
+(b) makes provision as to compensation payable by the landlord or the tenant to the other.
+
+(2) At and after the expiry of the term of a limited duration tenancy, the tenancy continues to have effect in accordance with subsection (6) unless it is terminated in accordance with this section.
+
+(3) At the expiry of the term of a limited duration tenancy, the landlord may terminate the tenancy by giving a notice under this subsection to the tenant.
+
+(4) A notice under subsection (3) must—
+
+(a) be in writing and state that the tenant shall quit the land on the expiry of the term of the tenancy; and
+
+(b) be given not less than one year nor more than two years before the expiry of the term of the tenancy, provided that not less than 90 days have elapsed from the date on which the intimation mentioned in subsection (5) is given.
+
+(5) A notice under subsection (3) is of no effect unless the landlord has given written intimation of the landlord’s intention to terminate the tenancy to the tenant not less than two years nor more than three years before the expiry of the term of the tenancy.
+
+(6) If the tenancy is not terminated in accordance with this section, it continues in effect on a cycle of continuations; that is to say, a continuation of three years (a “first short continuation”) followed by a further continuation of three years (a “second short continuation”) followed by a further continuation of [[^F13]10] years (a “long continuation”) (the cycle being repeated without limit to the number of times).
+
+(7) During a first short continuation, the landlord may terminate the tenancy by giving a notice under this subsection to the tenant; and subsections (4) and (5) apply to a notice under this subsection as they do to a notice under subsection (3).
+
+(8) During a second short continuation, the landlord may terminate the tenancy by giving a notice under this subsection to the tenant.
+
+(9) A notice under subsection (8)—
+
+(a) must be in writing and state that the tenant shall quit the land on the relevant day; and
+
+(b) may be given at any time during the continuation.
+
+(10) For the purposes of subsection (9)(a)—
+
+(a) where the notice has been given during the first year of the continuation, the relevant day is the day on which the continuation expires; and
+
+(b) in any other case, the relevant day is the day on which the period of two years from the giving of the notice expires (and the continuation is deemed to expire on the relevant day).
+
+(11) During a long continuation, the landlord may terminate the tenancy by giving a notice under this subsection to the tenant; and subsections (4) and (5) apply to a notice under this subsection as they do to a notice under subsection (3).
+
+(12) For the purposes of subsections (7) and (11), the references in subsections (4) and (5) to the expiry of the term of the tenancy are to be read as references to the expiry of the continuation.
+
+(13) At or after the expiry of the term of a limited duration tenancy, the tenant may terminate the tenancy by giving a notice under this subsection to the landlord.
+
+(14) A notice under subsection (13) must—
+
+(a) be in writing and state that the tenant intends to quit the land on the expiry of the term of the tenancy or, as the case may be, a continuation of the tenancy; and
+
+(b) be given not less than one year nor more than two years before the expiry of the term of the tenancy or, as the case may be, continuation.
+
+(15) During the term of a limited duration tenancy, the term of the tenancy may be extended by the landlord and tenant by agreement in writing.
+
+##### 8A [[^F14]Termination of modern limited duration tenancies by agreement
+
+A modern limited duration tenancy may be terminated by agreement between the landlord and tenant if the agreement is in writing and—
+
+(a) is entered into after the commencement of the tenancy, and
+
+(b) makes provision as to compensation payable by the landlord or the tenant to the other.
+
+##### 8B Termination of modern limited duration tenancies by landlord
+
+(1) At the expiry of the term of a modern limited duration tenancy, the landlord may terminate the tenancy by giving a notice under this subsection to the tenant.
+
+(2) A notice under subsection (1) must—
+
+(a) be in writing and state that the tenant must quit the land on the expiry of the term of the tenancy, and
+
+(b) be given not less than 1 year nor more than 2 years before the expiry of the term of the tenancy, provided that not less than 90 days have elapsed from the date on which the intimation mentioned in subsection (3) is given.
+
+(3) A notice under subsection (1) is of no effect unless the landlord has given written intimation of the landlord's intention to terminate the tenancy to the tenant not less than 2 years nor more than 3 years before the expiry of the term of the tenancy.
+
+##### 8C Termination of modern limited duration tenancies by tenant
+
+(1) At the expiry of the term of a modern limited duration tenancy, the tenant may terminate the tenancy by giving a notice under this subsection to the landlord.
+
+(2) A notice under subsection (1) must—
+
+(a) be in writing and state that the tenant intends to quit the land on the expiry of the term of the tenancy, and
+
+(b) be given not less than 1 year nor more than 2 years before the expiry of the term of the tenancy.
+
+##### 8D Termination of modern limited duration tenancies subject to break clause
+
+(1) This section applies where the lease constituting a modern limited duration tenancy contains a break clause by virtue of section 5B.
+
+(2) The tenant may terminate the tenancy after 5 years by giving a notice under this subsection to the landlord.
+
+(3) A notice under subsection (2) must—
+
+(a) be in writing and state that the tenant intends to quit the land on the expiry of the period of 5 years beginning with the day the tenancy commenced, and
+
+(b) be given not less than 1 year nor more than 2 years before the expiry of that period.
+
+(4) The landlord may terminate the tenancy after 5 years by giving a notice under this subsection to the tenant.
+
+(5) A notice under subsection (4) must—
+
+(a) be in writing and state—
+
+(i) that the tenant must quit the land on the expiry of the period of 5 years beginning with the day the tenancy commenced, and
+
+(ii) the landlord's reasons for terminating the tenancy, and
+
+(b) be given not less than 1 year nor more than 2 years before the expiry of that period.
+
+(6) The landlord may give notice under subsection (4) only if the tenant—
+
+(a) is not using the land in accordance with the rules of good husbandry, or
+
+(b) is otherwise failing to comply with any other provision of the lease.
+
+(7) For the purposes of subsection (6)(a), what is good husbandry is to be construed by reference to schedule 6 of the Agriculture (Scotland) Act 1948.
+
+##### 8E Continuation and extension of modern limited duration tenancies
+
+(1) At and after the expiry of the term of a modern limited duration tenancy, the tenancy continues to have effect for a further term of 7 years unless it is terminated in accordance with section 8A, 8B or 8C.
+
+(2) During the term of a modern limited duration tenancy, the term of the tenancy may be extended by the landlord and tenant by agreement in writing.]
+
+##### 9 [^F15]Review of rent under limited duration tenancies[[^F15]Review of rent under limited duration tenancies, modern limited duration tenancies and repairing tenancies]
+
+[[^F16](A1) Where, by virtue of any provision, a review of rent due as payable under a lease constituting a limited duration tenancy [[^F17], a modern limited duration tenancy or a repairing tenancy] —
+
+(a) may be initiated only by the landlord; or
+
+(b) may only determine that the rent is to be increased,
+
+the provision concerned is void and the rent due as payable under the lease is instead to be reviewed and determined in accordance with this section.]
+
+(1) Where a lease constituting a limited duration tenancy [[^F18]or a modern limited duration tenancy] makes no provision for review of rent, the rent due as payable under the lease is to be reviewed and determined in accordance with this section.
+
+[[^F19](1A) The rent due as payable under a lease constituting a repairing tenancy is to be reviewed and determined in accordance with this section.]
+
+[^F20]2 [^F20]A rent review is to take place on such date as the landlord or tenant may specify in a notice in writing to the other provided that—
+
+[^F20]a [^F20]the notice is given not less than one year nor more than two years before the date so specified; and
+
+[^F20]b [^F20]the date so specified is not less than three years—
+
+[^F20]i [^F20]in the case of the first rent review, from the commencement of the tenancy; or
+
+[^F20]ii [^F20]in the case of any subsequent rent review, from the date of the review under this subsection which precedes it.
+
+[^F20]3 [^F20]On review, subject to subsections (4) to (7), the rent payable is the rent which the tenancy would reasonably be expected to fetch in the open market where there is a willing landlord and a willing tenant—
+
+[^F20]a [^F20]disregarding—
+
+[^F20]i [^F20]any effect on rent due to the fact that the tenant is in occupation of the land; and
+
+[^F20]ii [^F20]any distortion in rent due to a scarcity of lets; and
+
+[^F20]b [^F20]having regard to—
+
+[^F20]i [^F20]the terms of the tenancy (other than those relating to rent);
+
+[^F20]ii [^F20]information about rents for other agricultural tenancies (including when fixed) and any factors affecting those rents (or any of them) except any distortion due to a scarcity of lets; and
+
+[^F20]iii [^F20]the current economic conditions in the relevant sector of agriculture.
+
+[^F20]4 [^F20]Account is to be taken of any increase in the rental value of the land resulting from the use of the land for a purpose that is not an agricultural purpose.
+
+[^F20]5 [^F20]No account is to be taken of any increase in the rental value of the land resulting from improvements—
+
+[^F20]a [^F20]so far as—
+
+[^F20]i [^F20]they have been carried out wholly or partly at the expense of the tenant (whether or not that expense has been or will be reimbursed by any grant) without equivalent allowance or benefit having been made or given by the landlord in consideration of their execution; and
+
+[^F20]ii [^F20]they have not been carried out under an obligation imposed on the tenant by the terms of the lease; and
+
+[^F20]b [^F20]which have been carried out by the landlord, in so far as the landlord has received or will receive any grant in respect of them,
+
+[^F20]nor may the rent be determined to be a higher amount than would have been payable if those improvements had not been so carried out.
+
+[^F20]6 [^F20]For the purposes of subsection (5)—
+
+[^F20]a [^F20]subject to paragraph (b), “[^F20]improvements[^F20]” is to be construed by reference to Schedule 5 to the 1991 Act; and
+
+[^F20]b [^F20]the continuous adoption by the tenant of a standard of farming or a system of farming more beneficial to the land than the standard or system required by the terms of the lease or, in so far as no system of farming is so required, than the system of farming normally practised on comparable agricultural land in the district, is to be treated as an improvement executed at the tenant’s expense.
+
+[^F20]7 [^F20]No account is to be taken of—
+
+[^F20]a [^F20]any reduction in the rental value of the land as a result of any dilapidation or deterioration of, or damage to, fixed equipment or land caused or permitted by the tenant; or
+
+[^F20]b [^F20]any such reduction resulting from—
+
+[^F20]i [^F20]the use of any of the land, or changes to the land, for a purpose that is not an agricultural purpose; or
+
+[^F20]ii [^F20]the carrying out of conservation activities on the land.
+
+[^F20]8 [^F20]The rent determined in accordance with this section is to take effect from the date of the rent review.
+
+[[^F20](2) The landlord may initiate a review of the rent that is to be payable under the lease by serving a notice in writing on the tenant.
+
+(3) The tenant may initiate such a review by serving a notice in writing on the landlord.
+
+(4) A notice served under subsection (2) or (3) is a “rent review notice”.]
+
+##### 9A [[^F21]Form and content of rent review notice
+
+(1) A rent review notice must be dated and state the following—
+
+(a) the names and designations of the landlord and the tenant,
+
+(b) the name (if any) and the address of the land comprised in the lease or such other description of the land as will identify it,
+
+(c) the rent currently payable in respect of the land,
+
+(d) the rent that the person serving the notice proposes should be payable,
+
+(e) the date by which the landlord and the tenant must reach agreement as to what the rent payable should be (the “rent agreement date”).
+
+(2) The rent review notice must be accompanied by information in writing explaining the basis on which the rent proposed by the person serving the notice has been calculated.
+
+(3) The Scottish Ministers may by regulations make further provision about—
+
+(a) the form and content of rent review notices,
+
+(b) the information that must or may accompany them.
+
+##### 9B Determination of rent
+
+(1) On review, the rent payable is the fair rent for the tenancy taking account of all the circumstances and having regard, in particular, to—
+
+(a) the productive capacity of the land comprised in the lease,
+
+(b) the open market rent of any surplus residential accommodation on the land provided by the landlord, and
+
+(c) the open market rent of—
+
+(i) any fixed equipment on the land provided by the landlord, or
+
+(ii) any land comprised in the lease,
+
+used for a purpose that is not an agricultural purpose.
+
+(2) In this section and section 9C(4)(a)(ii), the “open market rent” means the rent at which—
+
+(a) any surplus residential accommodation, or
+
+(b) any fixed equipment or land used for a purpose that is not an agricultural purpose,
+
+might reasonably be expected to be let on the open market by a willing landlord to a willing tenant.
+
+(3) The Scottish Ministers may by regulations make provision for the purposes of this section about the productive capacity of land comprised in leases of limited duration tenancies, modern limited duration tenancies and repairing tenancies, including how the productive capacity of such land is to be determined.
+
+(4) The rent determined in accordance with this section is to take effect from the rent agreement date.
+
+##### 9C Review of rent under limited duration tenancies, modern limited duration tenancies and repairing tenancies: surplus residential accommodation
+
+(1) Residential accommodation on land comprised in the lease of a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy is surplus to the extent that it exceeds what is necessary to provide accommodation for the standard labour requirement of the land.
+
+(2) In determining whether residential accommodation is surplus—
+
+(a) whether the standard labour requirement of the holding varies (seasonally or otherwise) may be taken into account,
+
+(b) any accommodation—
+
+(i) all or part of which is occupied by the tenant, or
+
+(ii) which the tenant is prohibited (by the lease or otherwise) from subletting,
+
+is to be disregarded.
+
+(3) But any such prohibition as is mentioned in subsection (2)(b)(ii) is to be ignored if the tenant has sublet the accommodation by virtue of section 39(3).
+
+(4) In having regard for the purposes of section 9B(1)(b) to the open market rent for any surplus residential accommodation—
+
+(a) all the circumstances must be taken into account, including—
+
+(i) the condition of the accommodation and its location, and
+
+(ii) where accommodation is occupied by a retired agricultural worker, under an arrangement or agreement between the landlord and the tenant, at no rent or at a rent that is below what the open market rent for that accommodation would otherwise be, that fact,
+
+(b) the fact that the accommodation is not currently let is to be disregarded.
+
+(5) Where regard is had to the open market rent for surplus residential accommodation for the purposes of section 9B(1)(b), that accommodation is to be disregarded for the purposes of section 9B(1)(c).
+
+(6) The Scottish Ministers may by regulations make provision about the standard labour requirement of land comprised in leases of limited duration tenancies, modern limited duration tenancies or repairing tenancies, including how the standard labour requirement of such land is to be determined.]
+
+##### 10 Increase in rent: landlord’s improvements
+
+(1) Where the landlord has carried out an improvement on the land comprised in a lease constituting a limited duration tenancy [[^F22], a modern limited duration tenancy or a repairing tenancy] (whether or not one specified in Schedule 5 to the 1991 Act)—
+
+(a) at the request of, or in agreement with, the tenant;
+
+(b) in pursuance of an undertaking given by the landlord by virtue of section 49(2) (as read with section 39(3) of the 1991 Act); [^F23]...
+
+(c) in compliance with a direction given by the Scottish Ministers under powers conferred on them by or under any enactment, [[^F24]or
+
+(d) after giving a landlord improvement notice in accordance with section 10A and—
+
+(i) the tenant has not given notice of objection in accordance with section 10B, or
+
+(ii) the tenant has given such notice of objection but the Land Court has approved the improvement under section 10C,]
+
+subject to subsections (2) and (3), the rent payable is to be increased as from the completion of the improvement by an amount equal to the increase in the rental value of the land resulting from the carrying out of the improvement.
+
+(2) The landlord must give the tenant notice in writing of any such increase in the rent payable within 6 months of the completion of the improvement.
+
+(3) Where any grant has been made to the landlord in respect of an improvement mentioned in subsection (1), the increase in rent under that subsection must be reduced proportionately.
+
+##### 10A [[^F25]Landlord improvement notices
+
+(1) This section applies where the landlord of—
+
+(a) a short limited duration tenancy within the meaning of section 4,
+
+(b) a limited duration tenancy [^F26]...,
+
+(c) a modern limited duration tenancy within the meaning of section 5A, or
+
+(d) subject to subsection (2), a repairing tenancy within the meaning of section 5C,
+
+intends to carry out a relevant improvement.
+
+(2) Subsection (1) does not apply in respect of the landlord of a repairing tenancy in relation to which the repairing period has not expired.
+
+(3) A “relevant improvement” is an improvement specified in schedule 5 of the 1991 Act which is not intended to be carried out—
+
+(a) at the request of or in agreement with the tenant,
+
+(b) in pursuance of an undertaking given by landlord under section 49(2) (as read with section 39(3) of the 1991 Act), or
+
+(c) in pursuance of a direction given by the Scottish Ministers under powers conferred on them by or under any enactment.
+
+(4) The landlord must give notice in writing to the tenant before carrying out the relevant improvement, unless section 10F applies.
+
+(5) A notice served in accordance with this section is a “landlord improvement notice”.
+
+(6) A landlord improvement notice must be dated and state the following—
+
+(a) the names and designations of the landlord and the tenant,
+
+(b) the name (if any) and the address of the land comprised in the lease or such other description of the land as will identify it,
+
+(c) details of the intended improvement, including the manner of the improvement,
+
+(d) the landlord's reasons as to why the improvement is necessary to enable the tenant to fulfil the tenant's responsibilities to farm the land comprised in the lease in accordance with the rules of good husbandry.
+
+(7) In this section and in sections 10B to 10F, what is good husbandry is to be construed by reference to schedule 6 of the Agriculture (Scotland) Act 1948.
+
+##### 10B Objection by tenant
+
+(1) Where the landlord has given a landlord improvement notice under section 10A, the tenant may object to the improvement or to part of it by giving notice in writing to the landlord before the end of the period of 2 months beginning with the day on which the tenant received the landlord improvement notice.
+
+(2) A notice under subsection (1) must be dated and must state the tenant's reasons as to why the improvement is not necessary to enable the tenant to fulfil the tenant's responsibilities to farm the land comprised in the lease in accordance with the rules of good husbandry.
+
+##### 10C Referral to Land Court
+
+(1) Where the tenant has given notice of objection under section 10B the landlord may, before the end of the period of 2 months beginning with the day on which the landlord received the notice of objection, apply to the Land Court for approval of the relevant improvement.
+
+(2) The Land Court may—
+
+(a) approve the carrying out of the relevant improvement—
+
+(i) unconditionally, or
+
+(ii) upon such terms as appear to it to be appropriate, or
+
+(b) withhold its approval.
+
+(3) Before approving a relevant improvement, the Land Court must be satisfied that the improvement is necessary to enable the tenant to fulfil the tenant's responsibilities to farm the land comprised in the lease in accordance with the rules of good husbandry.
+
+##### 10D Notice of dates of improvement
+
+(1) This section applies where an improvement is to be carried out by the landlord—
+
+(a) at the request of or in agreement with the tenant,
+
+(b) in pursuance of an undertaking given by the landlord under section 49(2),
+
+(c) in pursuance of a direction given by the Scottish Ministers under powers conferred on them by or under any enactment, or
+
+(d) after the landlord has given a landlord improvement notice in accordance with section 10A and—
+
+(i) the tenant has not given notice of objection in accordance with section 10B, or
+
+(ii) the tenant has given such notice of objection but the Land Court has approved the improvement under section 10C(2)(a).
+
+(2) The landlord must give notice in writing to the tenant stating the period during which the landlord intends to carry out the improvement.
+
+(3) Unless the landlord and tenant agree otherwise, that period must not commence earlier than the expiry of 2 weeks beginning with the day on which the landlord gives notice under subsection (2).
+
+(4) Where the landlord has not begun to carry out an improvement, notice of which has been given under subsection (2), and there is a good reason for postponing the carrying out of the improvement, the landlord may give a new notice under subsection (2).
+
+(5) Subsection (6) applies where the landlord has begun to carry out an improvement, notice of which has been given under subsection (2), and there is a good reason for extending the period during which the improvement is to be carried out.
+
+(6) The landlord may, at any time before the expiry of the period stated in the notice under subsection (2), extend the period by giving notice in writing to the tenant stating the extended period during which the landlord intends to carry out the improvement.
+
+(7) See section 10F on emergency improvements.
+
+##### 10E Improvement by landlord without notice etc.
+
+(1) Subsection (2) applies where a landlord has carried out an improvement and—
+
+(a) the landlord did not give notice of the improvement to the tenant in accordance with section 10A,
+
+(b) the tenant objected to the improvement under section 10B and the Land Court has not approved the improvement under section 10C(2)(a),
+
+(c) the improvement is in breach of any decision of the Land Court under section 10C,
+
+(d) the improvement was not an emergency improvement as defined in section 10F.
+
+(2) Any such improvement is to be disregarded for the purposes of—
+
+(a) assessing the tenant's responsibilities—
+
+(i) in relation to farming the land comprised in the lease in accordance with the rules of good husbandry,
+
+(ii) in relation to fixed equipment under sections 16(4)(b) and 16A(5)(b)(ii),
+
+(b) any subsequent rent review under section 9.
+
+##### 10F Emergency improvements
+
+(1) Where a landlord or a tenant considers that an emergency improvement is required, sections 10A(4) and 10D(2), (3), (5) and (6) do not apply.
+
+(2) In this section an “emergency improvement” means a relevant improvement that is necessary for the purposes of—
+
+(a) protecting public health from infectious diseases, contamination or other hazards which constitute a danger to human health,
+
+(b) preventing a danger or potential danger to public safety,
+
+(c) enabling the tenant to comply with the requirements of the Animal Health and Welfare (Scotland) Act 2006,
+
+(d) securing the provision of essential services including electricity and water supply services, or
+
+(e) remedying an accident or natural cause or force majeure which was exceptional and could not reasonably have been foreseen.]
+
+##### 11 Variation of rent by Land Court
+
+Where it appears to the Land Court, in determining any matter in relation to a limited duration tenancy [[^F27], a modern limited duration tenancy or a repairing tenancy] by virtue of section 13 [[^F28], 16, 16A or 16B] , that it is equitable that the rent payable under the lease should be varied, it may vary the rent accordingly.
+
+##### 12 Right of tenant to withhold rent
+
+(1) Subsection (2) applies to an order—
+
+(a) made under subsection (1)(b) of section 84; and
+
+(b) which is in relation to a failure of the landlord in a short limited duration tenancy [[^F29], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] to fulfil any obligation the landlord has towards the tenant in respect of fixed equipment.
+
+(2) Where the landlord has failed—
+
+(a) in a material regard; and
+
+(b) as at the date specified under subsection (2) of that section,
+
+to comply with an order to which this subsection applies, the tenant may apply to the Land Court for an order under subsection (3).
+
+(3) An order under this subsection may (either or both)—
+
+(a) authorise the tenant to carry out such work as the landlord would have to have carried out for the landlord to comply with the order to which subsection (2) applies; and
+
+(b) authorise the tenant to withhold payment of the rent payable to the landlord under the tenancy on the condition that the tenant consigns to the Land Court the amount otherwise so payable.
+
+(4) The Land Court may, on the application of the tenant, from time to time release to the tenant any of the amount so consigned towards or in satisfaction of any reasonable costs incurred or to be incurred by the tenant for the purposes of or in connection with the carrying out of such work as is mentioned in paragraph (a) of subsection (3).
+
+(5) The Land Court, on the application of the landlord and having regard to—
+
+(a) whether any work mentioned in paragraph (a) of subsection (3) remains to be carried out; and
+
+(b) any costs mentioned in subsection (4),
+
+may terminate the order made under subsection (3) if it considers that it would be not be appropriate for the order to remain in force.
+
+(6) Where the Land Court terminates the order made under subsection (3), it is to order such division between the landlord and tenant of the amount (or, where any of the amount has been released to the tenant, any remaining amount) consigned under subsection (3)(b) as it considers to be equitable.
+
+(7) Any work carried out and authorised under subsection (3)(a) is to be treated as having been carried out at the landlord’s expense in so far as the costs of the work have been or are to be satisfied by the release to the tenant of any amount consigned under subsection (3)(b).
+
+(8) Any right of the landlord to irritate the lease or remove the tenant on the grounds of non-payment of rent is unenforceable if the non-payment of rent is in consequence of an authorisation under subsection (3)(b) to withhold rent.
+
+(9) Any term of the lease or of any agreement between the landlord and tenant that purports to deprive the tenant of any right conferred by virtue of this section is, in so far as it so purports, of no effect.
+
+##### 13 Written leases and the revision of certain leases
+
+(1) Where, in respect of a short limited duration tenancy[[^F30], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] —
+
+(a) there is not in force a lease in writing; or
+
+(b) there is in force a lease in writing but—
+
+(i) the lease does not contain provision for the matters mentioned in subsection (2)(a) or contains provision inconsistent with those matters; or
+
+(ii) the lease contains provision inconsistent with section 16 (as read with section 5(2) to (4) of the 1991 Act)[[^F31], section 16A or, as the case may be, section 16B],
+
+the landlord or tenant may give notice in writing to the other requesting that a lease in writing be entered into containing the matters mentioned in subsection (2).
+
+(2) Those matters are, as the case may be—
+
+(a) provision for all the matters specified in Schedule 1 to the 1991 Act (that Schedule applying for the purposes of this section as it does for the purposes of that Act) or provision consistent with those matters; or
+
+(b) provision consistent with section 16[[^F32], 16A or, as the case may be, 16B].
+
+(3) If, within the period of 6 months after notice has been given under subsection (1), no such lease has been concluded, the terms of the lease may be determined by the Land Court.
+
+(4) In such a determination, the Land Court—
+
+(a) is to specify the terms of the existing tenancy and, in so far as those terms do not make provision for the matters mentioned in subsection (2)(a) or make provision inconsistent with those matters or with section 16 (as read with section 5(2) to (4) of the 1991 Act)[[^F33], section 16A or, as the case may be, section 16B,] make such provision for those matters as appears to it to be reasonable; and
+
+(b) may specify any further term of the tenancy which is—
+
+(i) agreed between the landlord and the tenant; and
+
+(ii) not inconsistent with any provision applying to the tenancy by virtue of this Act.
+
+(5) Any determination of the Land Court by virtue of this section or section 16[[^F34], 16A or, as the case may be, 16B] has effect as if—
+
+(a) the terms and provisions specified or made therein were contained in an agreement in writing between the landlord and the tenant; and
+
+(b) such agreement had effect as from the date of the determination or from such later date as the determination may appoint.
+
+(6) If it appears to the Land Court that on the date of the determination the landlord or tenant would be in breach of any term of the tenancy so specified or made, the Court is to appoint such later date as would allow the landlord or, as the case may be, tenant to remedy the breach.
+
+##### 14 Freedom of cropping and disposal of produce
+
+Section 7 (freedom of cropping and disposal of produce) of the 1991 Act applies to short limited duration tenancies [[^F35], limited duration tenancies, modern limited duration tenancies and repairing tenancies] as it does to 1991 Act tenancies, but as if—
+
+(a) the references to the holding were references to the land;
+
+(b) in subsection (4)—
+
+(i) the reference to section 61(1) of that Act were a reference to section 78(1) of this Act; and
+
+(ii) the reference to arbitration included any other method mentioned in that section of this Act (the reference to the arbiter being construed accordingly);
+
+(c) in subsection (5)—
+
+(i) paragraph (a); and
+
+(ii) in paragraph (b), the words “in any other case,”,
+
+were omitted; and
+
+(d) in subsection (6), in paragraph (b), the reference to a direction under section 9 of the 1949 Act were omitted.
+
+##### 15 Permanent pasture
+
+Section 9 (arbitration as to permanent pasture) of the 1991 Act applies in relation to short limited duration tenancies [[^F36], limited duration tenancies, modern limited duration tenancies and repairing tenancies] as it does in relation to 1991 Act tenancies, but as if the references to the holding were references to the land.
+
+##### 16 Fixed equipment etc.
+
+[[^F37](1) There is incorporated in every lease constituting a short limited duration tenancy or a limited duration tenancy an undertaking by the landlord that the landlord will—
+
+(a) within 6   months of the commencement of the tenancy or, where that is not reasonably practicable by virtue of any obligation on the landlord under any other enactment, as soon as reasonably practicable thereafter—
+
+(i) provide such fixed equipment as will enable the tenant to maintain efficient production as respects the use of the land as specified in the lease; and
+
+(ii) put the fixed equipment so provided into the condition specified in the schedule of fixed equipment that is required by virtue of subsection   (2); and
+
+(b) during the tenancy, effect such renewal or replacement of the fixed equipment so provided as may be rendered necessary by natural decay or by fair wear and tear.
+
+(2) Where a lease constituting a short limited duration tenancy or a limited duration tenancy is entered into and fixed equipment is comprised in the lease, the parties must agree in writing a schedule of fixed equipment specifying—
+
+(a) the fixed equipment which the landlord will provide in terms of subsection (1)(a); and
+
+(b) the condition of the fixed equipment,
+
+and on being so agreed (or, failing such agreement, on being determined in accordance with section   77 or 78 of this Act) the schedule of fixed equipment is deemed to form part of the lease.
+
+(3) If at any time after the commencement of the tenancy the fixed equipment or its condition is varied, the landlord and tenant may agree to amend the schedule of fixed equipment accordingly or to substitute for it a new schedule.
+
+(4) There is also incorporated in every such lease a provision that the liability of the tenant in relation to the maintenance of fixed equipment extends only to a liability to maintain the fixed equipment specified in the schedule of fixed equipment in as good a state of repair (natural decay and fair wear and tear excepted) as it was in—
+
+(a) immediately after it was put into the condition specified in the schedule of fixed equipment; or
+
+(b) in the case of equipment improved, provided, renewed or replaced, during the tenancy, immediately after it was so improved, provided, renewed or replaced.
+
+(5) The cost of making and agreeing the schedule of fixed equipment under this section must, unless otherwise agreed, be borne by the landlord and tenant in equal shares.]
+
+(6) Any agreement between the landlord and tenant which purports to provide for the tenant to bear any expense of any work which the landlord is required to execute in order to fulfil the landlord’s obligations under the lease is of no effect.
+
+(7) Any term of a lease constituting a short limited duration tenancy or a limited duration tenancy that requires the tenant to pay the whole or any part of the premium due under a fire insurance policy over any fixed equipment on the land is of no effect.
+
+##### 16A [[^F38]Modern limited duration tenancies: fixed equipment etc.
+
+(1) There is incorporated in every lease constituting a modern limited duration tenancy an undertaking by the landlord that the landlord will, within 6 months of the commencement of the tenancy or, where that is not reasonably practicable by virtue of any obligation on the landlord under any other enactment, as soon as reasonably practicable thereafter—
+
+(a) provide such fixed equipment as will enable the tenant to maintain efficient production as respects the use of the land as specified in the lease, and
+
+(b) put the fixed equipment so provided into the condition specified in the schedule of fixed equipment that is required by virtue of subsection (2).
+
+(2) Where a lease constituting a modern limited duration tenancy is entered into and fixed equipment is comprised in the lease, the parties must agree in writing a schedule of fixed equipment specifying—
+
+(a) the fixed equipment which the landlord will provide in terms of subsection (1)(a), and
+
+(b) the condition of the fixed equipment,
+
+and on being so agreed (or, failing such agreement, on being determined in accordance with section 77 or 78) the schedule of fixed equipment is deemed to form part of the lease.
+
+(3) The schedule of fixed equipment must be agreed before the expiry of the period of 90 days beginning with the commencement of the tenancy.
+
+(4) If at any time after the commencement of the tenancy the fixed equipment or its condition is varied, the landlord and tenant may agree to amend the schedule of fixed equipment accordingly or to substitute for it a new schedule.
+
+(5) Unless the lease makes provision to the contrary, there is also incorporated in every such lease—
+
+(a) an undertaking by the landlord that the landlord will, during the tenancy, effect such renewal or replacement of the fixed equipment provided as required by virtue of subsection (1) as may be rendered necessary by natural decay or by fair wear and tear, and
+
+(b) a provision that the liability of the tenant in relation to the maintenance of fixed equipment extends only to a liability to maintain the fixed equipment specified in the schedule of fixed equipment in as good a state of repair (natural decay and fair wear and tear excepted) as it was in—
+
+(i) immediately after it was put into the condition specified in the schedule of fixed equipment, or
+
+(ii) in the case of equipment improved, provided, renewed or replaced, during the tenancy, immediately after it was so improved, provided, renewed or replaced.
+
+(6) The cost of making and agreeing the schedule of fixed equipment under this section must, unless otherwise agreed, be borne by the landlord and tenant in equal shares.
+
+(7) Any agreement between the landlord and tenant which purports to provide for the tenant to bear any expense of any work which the landlord is required to execute in order to fulfil the landlord's obligations under the lease is of no effect.
+
+(8) Any term of a lease constituting a modern limited duration tenancy that requires the tenant to pay the whole or any part of the premium due under a fire insurance policy over any fixed equipment on the land is of no effect.]
+
+##### 17 Resumption of land by landlord
+
+(1) The landlord may resume the land or any part of the land comprised in a lease constituting a short limited duration tenancy or [[^F39], a limited duration tenancy or a modern limited duration tenancy] if (and only if)—
+
+(a) the resumption is for a non-agricultural purpose in respect of which permission requires to be obtained, and has been obtained, under the enactments relating to town and country planning by—
+
+(i) in the case of a short limited duration tenancy, any person (including the tenant);
+
+(ii) in the case of a limited duration tenancy [[^F40]or a modern limited duration tenancy] , any person apart from the tenant;
+
+(b) the lease does not expressly prohibit resumption for that purpose; and
+
+(c) notice as mentioned in subsection (2) has been given.
+
+(2) The landlord must give the tenant notice of any intention of the landlord so to resume any land; and the notice must—
+
+(a) be in writing;
+
+(b) be given not less than 1 year before the date on which the resumption is to take place; and
+
+(c) specify that date.
+
+(3) Where notice is given under subsection (2) for resumption of part of the land, the tenant may, within 28 days after—
+
+(a) the giving of the notice; or
+
+(b) the determination of any matter arising from the notice,
+
+whichever is the later, terminate the tenancy by giving notice in writing to the landlord; and the termination takes effect on the date specified under subsection (2)(c).
+
+(4) Where the landlord resumes part of the land under this section, the tenant is entitled to a reduction in rent—
+
+(a) of an amount proportionate to that part; and
+
+(b) of an amount in respect of any depreciation of the value to the tenant of the remainder of the land caused by the resumption of the part or any use made of the part,
+
+but where paragraph (a) applies, in determining the amount of the reduction, account is to be taken of any benefit or relief allowed to the tenant under the lease in respect of the part resumed.
+
+(5) Where—
+
+(a) part of the land has been resumed under this section for a purpose mentioned in paragraph (f) (which specifies certain forms of mineral exploitation) of subsection (2) of section 29 of the 1991 Act (that paragraph applying for the purposes of this subsection as it does for the purposes of that section); and
+
+(b) the land which formed that part has subsequently been made suitable for, and is available for, agricultural use,
+
+that land is, if the conditions in subsection (6) are fulfilled, to be restored to the tenancy.
+
+(6) The conditions are that—
+
+(a) the tenancy continues in effect with the same landlord and tenant under the lease; and
+
+(b) any compensation paid to the tenant in consequence of the resumption was calculated on the basis that the land would be restored under subsection (5).
+
+##### 18 Irritancy of lease and good husbandry
+
+(1) Without prejudice to any rule of law, it is for the landlord and tenant to provide in the lease constituting a short limited duration tenancy or a limited duration tenancy what grounds there are for irritancy of the lease.
+
+(2) Any term of such a lease or of an agreement in connection with the lease that provides for the lease to be irritated solely on the grounds that the tenant is not or has not been resident on the land is of no effect.
+
+[[^F41](2A) Where such a lease may be irritated on the grounds that the rent is due and unpaid, notice as mentioned in subsection (7) may not be given unless—
+
+(a) the landlord has given the tenant a demand in writing requiring the tenant to pay the rent due before the expiry of the period of 2 months beginning with the date of the demand, and
+
+(b) the demand has not been complied with.]
+
+(3) Where such a lease may be irritated on the grounds that the tenant is not using the land in accordance with the rules of good husbandry, what is good husbandry is to be construed, subject to subsections (4) and (5), by reference to the Sixth Schedule to the Agriculture (Scotland) Act 1948 (c. 45).
+
+(4) Conservation activities are to be treated as being in accordance with the rules of good husbandry if they are carried out in accordance with—
+
+(a) an agreement entered into under any enactment by the tenant; or
+
+(b) the conditions of—
+
+(i) any grant for the purpose of such activities paid out of the Scottish Consolidated Fund; or
+
+(ii) such other grant of a public nature as the Scottish Ministers may by order specify.
+
+(5) In the case of limited duration tenancies, such use of any of the land, or such change to the land, for a non-agricultural purpose as has been permitted under section 40 or 41 is to be treated as being in accordance with the rules of good husbandry.
+
+(6) The landlord may not enforce any right to remove the tenant on grounds of irritancy unless notice as mentioned in subsection (7) is given.
+
+(7) The landlord must give the tenant notice in writing of any intention of the landlord so to remove the tenant not less than 2 months before the date on which the tenant is to be removed.
+
+##### 18A [[^F42]Irritancy of lease and good husbandry: modern limited duration tenancies
+
+(1) Without prejudice to any rule of law, it is for the landlord and tenant to provide in the lease constituting a modern limited duration tenancy what grounds there are for irritancy of the lease.
+
+(2) Any term of such a lease or of an agreement in connection with the lease that provides for the lease to be irritated solely on the grounds that the tenant is not or has not been resident on the land is of no effect.
+
+(3) Where such a lease may be irritated on the grounds that the tenant is not using the land in accordance with the rules of good husbandry, what is good husbandry is to be construed, subject to subsections (4) and (5), by reference to schedule 6 of the Agriculture (Scotland) Act 1948.
+
+(4) Conservation activities are to be treated as being in accordance with the rules of good husbandry if they are carried out in accordance with—
+
+(a) an agreement entered into under any enactment by the tenant, or
+
+(b) the conditions of—
+
+(i) any grant for the purpose of such activities paid out of the Scottish Consolidated Fund, or
+
+(ii) such other grant of a public nature as the Scottish Ministers may by regulations specify.
+
+(5) Such use of any of the land, or such change to the land, for a non-agricultural purpose as has been permitted under section 40 or 41 is to be treated as being in accordance with the rules of good husbandry.
+
+(6) Where the landlord intends to irritate the lease, the landlord must give the tenant notice in writing specifying—
+
+(a) the breach of the tenant's obligations under the lease which form the grounds on which the landlord intends to irritate the lease, and
+
+(b) the period before the expiry of which the tenant must remedy that breach, which period must be not less than 12 months beginning with the date of the notice.
+
+(7) The period mentioned in subsection (6)(b) may be extended—
+
+(a) by the landlord and the tenant by agreement, or
+
+(b) by the Land Court on the application of the tenant.
+
+(8) The landlord may not enforce any right to remove the tenant on grounds of irritancy unless—
+
+(a) the period specified in the notice under subsection (6)(b), or such extended period as mentioned in subsection (7), has expired without the tenant having remedied the breach specified in the notice, and
+
+(b) the landlord has given notice in writing of the intention so to enforce the right to remove the tenant not less than 2 months before the date on which the tenant is to be removed.]
+
+##### 19 Resumption and irritancy: supplementary
+
+Any provision of this Act as to the termination of a short limited duration tenancy [[^F43], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] does not affect any right of the landlord to—
+
+(a) resume land under section 17 [[^F44]or 17A] ; or
+
+(b) remove a tenant—
+
+(i) whose estate has been sequestrated; or
+
+(ii) who for any reason has incurred irritancy of the lease or other liability to be removed.
+
+#### Succession to short limited duration tenancies and limited duration tenancies
+
+##### 20 Section 16 of the Succession (Scotland) Act 1964
+
+In section 16 (provisions relating to leases) of the Succession (Scotland) Act 1964 (c. 41) (in sections 21 to 23 referred to as “the 1964 Act”), after subsection (4) there is inserted—
+
+> (4A) Where an interest, being an interest under a lease constituting a short limited duration tenancy or a limited duration tenancy—
+>
+> (a) is not the subject of a valid bequest by the deceased; or
+>
+> (b) is the subject of such a bequest, but the bequest is not accepted by the legatee; or
+>
+> (c) is the subject of such a bequest, but the bequest is declared null and void by virtue of section 21 of the 2003 Act,
+>
+> and there is among the conditions of the lease (whether expressly or by implication) a condition prohibiting assignation of the interest, the executor shall be entitled, notwithstanding that condition, to transfer the interest to a person to whom subsection (4B) below applies; and the executor shall be entitled so to transfer the interest without the consent of the landlord.
+>
+> (4B) This subsection applies to—
+>
+> (a) any one of the persons entitled to succeed to the deceased’s intestate estate, or to claim legal rights or the prior rights of a surviving spouse out of the estate, in or towards satisfaction of that person’s entitlement or claim; or
+>
+> (b) any other person.
+>
+> (4C) In the case of any interest under a lease constituting a short limited duration tenancy or a limited duration tenancy—
+>
+> (a) if at any time the executor is satisfied that the interest cannot be disposed of according to law and so informs the landlord, the executor may terminate the tenancy (in so far as it relates to the interest); and
+>
+> (b) if the interest is not so disposed of within the period referred to in subsection (4D) below, the lease shall (in so far as it relates to the interest) terminate at the expiry of the period,
+>
+> notwithstanding any provision in the lease, or any enactment or rule of law, to the contrary effect.
+>
+> (4D) The period is one year or such longer period as may be fixed by agreement or, failing agreement, by the Land Court on the application of the executor—
+>
+> (a) in the case of an interest which is the subject of an application to that court by virtue of section 21 of the 2003 Act, from the date of the determination or withdrawal of the application; and
+>
+> (b) in any other case, from the date of death of the deceased.
+>
+> (4E) The—
+>
+> (a) interest may be transferred under subsections (4A) and (4B) above; or
+>
+> (b) tenancy may be terminated under subsection (4C)(a) above,
+>
+> only if the transfer, or as the case may be, termination is in the best interests of the deceased’s estate.
+
+.
+
+##### 21 Bequest of lease
+
+(1) Subject to subsections (2) and (3), the tenant of a short limited duration tenancy [[^F45], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] may, by will or other testamentary writing, bequeath the lease constituting the tenancy to [[^F46]any one of the persons mentioned in subsection (1A)] .
+
+[[^F47](1A) The persons referred to in subsection (1) are—
+
+(a) any person who would be, or would in any circumstances have been, entitled to succeed to the tenant's estate on intestacy by virtue of the Succession (Scotland) Act 1964,
+
+(b) a spouse or civil partner of a child of the tenant,
+
+(c) a spouse or civil partner of a grandchild of the tenant,
+
+(d) a spouse or civil partner of a brother or sister of the tenant,
+
+(e) a brother or sister of the tenant's spouse or civil partner,
+
+(f) a spouse or civil partner of such a brother or sister,
+
+(g) a child (including a step-child) of such a brother or sister,
+
+(h) a grandchild (including a step-grandchild) of such a brother or sister,
+
+(i) a step-child of the tenant,
+
+(j) a spouse or civil partner of such a step-child,
+
+(k) a descendant of such a step-child,
+
+(l) a step-brother or step-sister of the tenant,
+
+(m) a spouse or civil partner of such a step-brother or step-sister,
+
+(n) a descendant of such a step-brother or step-sister.]
+
+[[^F48](2) Sections 11(2) and (3), 12A, 12B and 12C(1) and (2) of the 1991 Act apply in relation to subsection (1) as they do in relation to section 11(1), subject to the following modifications—
+
+(a) in section 11(2), the words “of a holding” and “of the holding” are omitted,
+
+(b) in section 12A, in subsections (3)(b) and (c) and (4)(b), for “holding” substitute “ land comprised in the lease ”,
+
+(c) in section 12C, in subsection (1), for “holding” substitute “ land comprised in the lease ”.]
+
+(3) If the person to whom the lease is so bequeathed does not accept the bequest, or if the bequest is declared null and void by virtue of subsection (2), the right to the lease is, subject to section 16(4A) to (4E) of the 1964 Act, to be treated as intestate estate of the deceased in accordance with Part I of that Act.
+
+##### 22 Right of landlord to object to acquirer of tenancy
+
+(1) A person to whom a lease constituting a short limited duration tenancy [[^F49], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] is transferred under section 16 (provisions relating to leases) of the 1964 Act must give notice of the transfer to the landlord within 21 days of the transfer or (where that is not possible) as soon as practicable thereafter; and the lease is, subject to subsections (2) and (3), binding on the landlord and that person as landlord and tenant respectively as from the date of the transfer if such notice is given.
+
+[[^F50](2) Sections 12A, 12B and 12C(1), (2) and (5) of the 1991 Act apply in relation to subsection (1) as they do in relation to section 12(1), subject to the following modifications—
+
+(a) in section 12A—
+
+(i) in subsection (2), the reference to notice given under section 12(1) is to be read as a reference to notice given under subsection (1),
+
+(ii) in subsections (3)(b) and (c) and (4)(b), for “holding” substitute “ land comprised in the lease ”,
+
+(b) in section 12B(2), the reference to notice given under section 12(1) is to be read as a reference to notice given under subsection (1),
+
+(c) in section 12C, in subsection (1), for “holding” substitute “ land comprised in the lease ”.]
+
+(3) Where a lease constituting a short limited duration tenancy [[^F51], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] is transferred to a person under subsections (4A) and (4B)(b) of section 16 of the 1964 Act, the landlord is entitled to acquire the person’s interest in the lease provided that—
+
+(a) the landlord gives the person notice—
+
+(i) in writing; and
+
+(ii) within 30 days of the giving of the notice under subsection (1),
+
+of the landlord’s intention to acquire that interest; and
+
+(b) the terms upon which the landlord acquires that interest are no less favourable to the person than any reasonable terms upon which the lease was transferred to the person.
+
+##### 23 Effect of termination of tenancy where tenant deceased
+
+Termination of a short limited duration tenancy [[^F52], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] by virtue of—
+
+(a) section 16 of the 1964 Act; or
+
+(b) section 22,
+
+is to be treated, for the purposes of any compensation payable under this Act, as termination at the expiry of the term of the tenancy.
+
+## Part 2 — Tenant’s right to buy land
+
+### Registration of interest and the right to buy
+
+#### 24 The Keeper and the Register
+
+(1) For the purposes of this Part, “the Keeper” is the person who keeps the Register of Community Interests in Land (in this Part referred to as “the Register”) under section 36 (Register of Community Interests in Land) of the Land Reform (Scotland) Act 2003 (asp 2).
+
+(2) The Keeper is to keep the Register so that there is contained in it a part for registering tenants' interests in acquiring land in accordance with section 25.
+
+(3) There is to be included in that part of the Register—
+
+(a) a record of any notice or notification sent to the Keeper under any provision of this Part; and
+
+(b) where a registration of a tenant’s interest in acquiring land is removed under section 25(15), an entry specifying the date on which that is effected.
+
+#### 25 Registration of tenant’s interest
+
+(1) A tenant of a 1991 Act tenancy may apply to have registered an interest in acquiring the land comprised in the lease by sending a notice (in this section referred to as a “notice of interest”) to the Keeper.
+
+(2) For the purposes of this Part, “tenant”—
+
+(a) where there are two or more tenants under the lease, means those tenants; and
+
+(b) does not include a sub-tenant.
+
+(3) The notice of interest must be in such form as the Scottish Ministers may prescribe by regulations and must specify—
+
+(a) the particulars of the tenant and the owner of the land;
+
+(b) where there are two or more tenants under the lease, the fact that each of them consents to the making of the application to register their interest in acquiring the land;
+
+(c) the location and boundaries of the land (by reference, where appropriate, to the lease or any map or drawing);
+
+(d) any interest or rights comprised in the land (including any sporting or mineral rights); and
+
+(e) such other information as the Scottish Ministers may so prescribe.
+
+(4) The tenant must send a copy of the notice of interest to the owner of the land and notify the Keeper that the copy has been so sent.
+
+(5) On receipt of the notice of interest, the Keeper must—
+
+(a) register—
+
+(i) the tenant’s interest in acquiring the land;
+
+(ii) the details specified in the notice of interest; and
+
+(iii) the date of registration; and
+
+(b) send an extract of the registration to the tenant and the owner of the land.
+
+(6) Where the registration relates to land over which there is a standard security, the owner, on receipt of the extract, must—
+
+(a) intimate that fact to the tenant; and
+
+(b) send a copy of the extract to the creditor in the standard security.
+
+(7) The Keeper may charge such reasonable fee for—
+
+(a) registering tenants' interests in acquiring land; and
+
+(b) providing extracts, and copy extracts, of registration,
+
+as the Scottish Ministers may by order specify.
+
+(8) If the owner of the land disputes any matter contained in the extract of registration, the owner may, by notice in writing to the Keeper, challenge the registration of the tenant’s interest in acquiring the land on the grounds that any matter contained in the extract is inaccurate.
+
+(9) On receipt of notice under subsection (8), the Keeper is to make such enquiry in connection with the tenant’s interest in acquiring the land as the Keeper considers appropriate; and following such an enquiry, if the Keeper considers that the notice of interest is inaccurate, the Keeper—
+
+(a) must, if the inaccuracy is material, rescind the registration of the tenant’s interest; and
+
+(b) may, if the inaccuracy is not material, amend that registration.
+
+(10) Where, under subsection (9)—
+
+(a) the registration of the tenant’s interest in acquiring the land is rescinded, the Keeper must intimate that fact to the tenant and the owner of the land; and
+
+(b) that registration is amended, the Keeper must send an extract of the registration to the tenant and the owner of the land.
+
+(11) The tenant or the owner of the land may appeal to the Land Court against any decision made, following notice under subsection (8), by the Keeper in respect of the registration of the tenant’s interest in acquiring the land; and in an appeal under this subsection the Court may make such order as it considers appropriate.
+
+(12) A registration of a tenant’s interest in acquiring land—
+
+(a) continues to have effect only in relation to such land as remains comprised in the tenancy; and
+
+(b) ceases to have effect—
+
+(i) if the registration is rescinded;
+
+(ii) if the tenancy is terminated; or
+
+(iii) where neither of those things has occurred, at the expiry of the period of five years from the date of registration.
+
+(13) Where—
+
+(a) the tenancy is terminated during that period; or,
+
+(b) there is a reduction in the land comprised in the tenancy,
+
+the landlord must give notice in writing of that fact to the Keeper.
+
+(14) Where a tenant’s interest in acquiring land is, or has been, registered, the tenant may at any time apply to have the interest registered again (with or without modification to the matters specified in the notice of interest).
+
+(15) The Keeper must remove from the Register any registration of a tenant’s interest in acquiring land which no longer has effect.
+
+#### 26 Notice of proposal to transfer land
+
+(1) Where the owner of land in respect of which a tenant’s interest in acquiring land is registered under section 25 or a creditor in a standard security with a right to sell the land proposes to transfer the land or any part of it to another person, the owner or, as the case may be, the creditor must, subject to section 27—
+
+(a) give notice in writing of that fact to the tenant; and
+
+(b) send a copy of the notice to the Keeper.
+
+(2) Notice under subsection (1) must be given in accordance with such provisions (including provisions as to the form of the notice) as the Scottish Ministers may prescribe by regulations.
+
+#### 27 Transfers not requiring notice
+
+(1) Notice is not required under section 26 where the transfer is or, as the case may be, would be—
+
+(a) otherwise than for value;
+
+(b) in implement or pursuance of an order of a court (other than an order under section 24 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35) or a decree in an action for the division and sale of land);
+
+(c) between spouses in pursuance of an arrangement between them entered into at any time after they have ceased living together;
+
+(d) of croft land to the crofter tenanting it;
+
+(e) between companies in the same group;
+
+(f) to a statutory undertaker for the purpose of carrying on the undertaking;
+
+(g) a transfer—
+
+(i) implementing the compulsory acquisition of land under any enactment;
+
+(ii) by agreement, of land which could have been acquired compulsorily under any enactment;
+
+(iii) implementing any right conferred by Part 2 (which provides for the community right to buy) of the Land Reform (Scotland) Act 2003 (asp 2) to buy land;
+
+(iv) implementing any right conferred by Part 3 (which provides for the crofting community right to buy) of that Act to buy eligible land within the meaning of that Part of that Act;
+
+(v) implementing missives for the sale and purchase of land concluded, or an option to acquire land which existed on a date on which no notice of interest in acquiring the land was registered under section 25;
+
+[^F53]vi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(vii) which requires, or which but for the provisions of section 14 of that Act would require, the consent of the Scottish Ministers under subsection (5) or (7) of section 12 of that Act;
+
+[[^F54](viii) by a registered social landlord (within the meaning of the Housing (Scotland) Act 2010 (asp 17) ) in pursuance of the power conferred by section 107 of that Act; ]
+
+(ix) vesting the land in a person for the purposes of any enactment relating to sequestration, bankruptcy, winding up or incapacity or to the purposes for which judicial factors may be appointed; or
+
+(h) a transfer of land in consequence of—
+
+(i) the assumption or resignation or death of one or more of the partners in a partnership; or
+
+(ii) the assumption or resignation or death of one or more of the trustees of a trust.
+
+(2) In the case of a transfer mentioned in any of paragraphs (a), (e) and (h) of subsection (1), if the transfer—
+
+(a) is or forms part of a scheme or arrangement or is one of a series of transfers; and
+
+(b) the main purpose or effect, or one of the main purposes or effects, of the scheme, arrangement or, as the case may be, series is the avoidance of the requirements or consequences of this Part,
+
+the transfer is, for the purposes of section 28, deemed to be a transfer in respect of which notice is required under section 26.
+
+(3) For the purposes of subsection (1)(e), companies are in the same group if they are, or are included in a number of, companies which, by virtue of section 170 of the Taxation of Chargeable Gains Act 1992 (c. 12), together form a group for the purposes of sections 171 to 181 of that Act.
+
+(4) In subsection (1)(f), “statutory undertaker” is to be construed in accordance with section 214 of the Town and Country Planning (Scotland) Act 1997 (c. 8).
+
+(5) The Scottish Ministers may by order modify (any or all) subsections (1) to (4).
+
+#### 28 Right to buy
+
+(1) Where a tenant’s interest in acquiring land is for the time being registered under section 25 and—
+
+(a) the owner of the land or a creditor in a standard security with a right to sell the land, gives notice to the tenant under section 26 of a proposal to transfer the land or any part of it; or
+
+(b) the owner or the creditor takes any action with a view to the transfer of the land or any part of it and—
+
+(i) the transfer is a transfer in respect of which notice to the tenant is required under section 26; and
+
+(ii) such notice has not been given,
+
+the tenant has the right to buy the land to which the transfer relates (including any interest or rights comprised in the land) from the owner or, as the case may be, the creditor.
+
+(2) Where—
+
+(a) a tenant has a right to buy land under subsection (1); and
+
+(b) despite the existence of that right, the owner, or as the case may be, the creditor transfers the land to a person other than the tenant,
+
+the tenant has the right to buy the land (including any interests or rights comprised in the land) from the person to whom the land is transferred or is subsequently transferred.
+
+(3) For the purposes of subsection (1)(b), action is taken with a view to a transfer of land when—
+
+(a) the land is, by or with the authority of the owner of the land or a creditor in a standard security with a right to sell the land, advertised or otherwise exposed for sale;
+
+(b) the owner or the creditor, or a person acting on behalf of the owner or the creditor, enters into negotiations with another person with a view to the transfer of the land; or
+
+(c) the owner or the creditor, or a person acting on behalf of the owner or the creditor, proceeds further with any proposed transfer of the land which was initiated prior to the date on which the notice of interest was registered.
+
+(4) References in subsection (3) to the owner of land include references to the person in whom it has vested for the purposes of any such enactment as is mentioned in section 27(1)(g)(ix).
+
+(5) The Scottish Ministers may by order modify (either or both) subsections (3) and (4).
+
+#### 29 Exercise of right to buy
+
+(1) Where a tenant has a right to buy land under section 28(1), the tenant may proceed in accordance with section 32 to buy the land from the owner or, as the case may be, the creditor provided that notice is given under subsection (2).
+
+(2) Notice is given under this subsection if the tenant, within 28 days of receipt of the notice under section 26, gives notice to the owner or, as the case may be, the creditor that the tenant intends to buy the land.
+
+(3) Where a tenant has a right to buy under section 28(2), the tenant may proceed in accordance with section 32 to buy the land from the person to whom the land has been transferred or subsequently transferred provided that notice is given under subsection (4).
+
+(4) Notice is given under this subsection if—
+
+(a) the tenant gives notice to that person that the tenant intends to buy the land; and
+
+(b) the notice is given within three years from the transfer to that person,
+
+and the tenancy is in force on the date on which the notice is given.
+
+(5) If, at any time, the tenant does not intend to proceed, in accordance with section 32, to buy the land, the tenant is to give notice of that fact to the person from whom the land would otherwise have been bought.
+
+(6) Where the tenant—
+
+(a) does not give notice in accordance with subsection (2) or, as the case may be, (4); or
+
+(b) gives notice under subsection (5),
+
+the right to buy is extinguished.
+
+(7) A tenant giving any notice under this section must send a copy of the notice to the Keeper.
+
+#### 30 Meaning of “creditor in a standard security with a right to sell land”
+
+Any reference in this Part to a creditor in a standard security with a right to sell land is a reference to a creditor who has such a right under—
+
+(a) section 20(2) or 23(2) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35); or
+
+(b) a warrant granted under section 24(1) of that Act.
+
+#### 31 Effect of extinguishing of right to buy
+
+Where a right to buy land is extinguished under section 29(6) or 32(8), the tenant may acquire a subsequent right to buy the same land or any part of it under section 28(1), but only if—
+
+(a) the period of 12 months from the extinguishing of the right to buy has expired; or
+
+(b) before that period has expired—
+
+(i) the land is transferred to another person; and
+
+(ii) that person requires to give notice under section 26 in relation to a subsequent transfer.
+
+### Procedure for buying and valuation
+
+#### 32 Procedure for buying
+
+(1) It is for the tenant to make the offer to buy in exercise of the tenant’s right to buy under section 28.
+
+(2) The offer is to be at a price—
+
+(a) agreed between the tenant and the person from whom the land is to be bought (“the seller”); or
+
+(b) where there is no such agreement—
+
+(i) payable by the tenant in accordance with section 34(8); or
+
+(ii) if the price is determined in an appeal under section 37, as is so determined,
+
+and must specify the date of entry and of payment of the price in accordance with subsection (3).
+
+(3) The date of entry and of payment of the price are to be—
+
+(a) a date not later than 6 months from the date when the tenant gave notice under section 29(2) or (4) of the tenant’s intention to buy;
+
+(b) where the price payable by the tenant is the subject of an appeal under section 37 which has not, within the period of 4 months after the date when the tenant gave such notice, been—
+
+(i) determined; or
+
+(ii) abandoned following agreement between the tenant and the seller,
+
+a date not later than 2 months after the appeal is so determined or, as the case may be, abandoned; or
+
+(c) such later date as may be agreed between the tenant and the seller.
+
+(4) The offer may include such other reasonable conditions as are necessary or expedient to secure the efficient progress and completion of the transfer.
+
+(5) If the tenant has not, within the period fixed by or agreed under subsection (3), done any of the things mentioned in subsection (6), the seller may apply to the Land Court for an order under subsection (7).
+
+(6) The things are—
+
+(a) concluding missives with the seller for the sale of the land to the tenant; or
+
+(b) if the tenant has not so concluded missives, taking all steps which the tenant could reasonably have taken in the time available towards so concluding missives.
+
+(7) An order under this subsection may—
+
+(a) direct the tenant—
+
+(i) to conclude missives with the seller within such period; and
+
+(ii) to take such remedial action for the purpose of so concluding missives; and
+
+(b) direct the tenant and seller to incorporate into the missives any term or condition in respect of the sale of the land,
+
+as the order may specify.
+
+(8) If—
+
+(a) the tenant fails to comply with an order under subsection (7); or
+
+(b) where the seller has not applied for an order under that subsection, the tenant has not (having regard to the period fixed by or agreed under subsection (3)) within a reasonable period from the acquiring by the tenant of the right to buy otherwise concluded missives with the seller for the sale of the land to the tenant,
+
+the right to buy is extinguished.
+
+#### 33 Appointment of valuer
+
+(1) Where the price is not agreed between the seller and the tenant, the land is, except where subsection (2) applies, to be valued by a valuer appointed by agreement between the seller and the tenant or by a person nominated by them.
+
+(2) This subsection applies where the land in respect of which the tenant is exercising a right to buy forms part of an estate comprising other land in respect of which any other tenant has given notice under section 29(2) or (4) of the tenant’s intention to buy.
+
+(3) Where subsection (2) applies, the land mentioned in that subsection is to be valued by a valuer appointed by agreement between—
+
+(a) the seller; and
+
+(b) at least half of the tenants mentioned in that subsection,
+
+or by a person nominated by them.
+
+(4) Where there is no agreement as to the appointment of a valuer under subsection (1) or (3), the valuer is to be appointed by the Land Court or by a person nominated by the Court.
+
+(5) In this Part, “valuer” includes two valuers with an oversman.
+
+#### 34 Valuation of the land
+
+(1) The valuer appointed under section 33 is to assess the value of the land in respect of which the right to buy is being exercised as at the date of notice under section 26 of the seller’s proposal to transfer the land.
+
+(2) The valuer is to assess the value of the land—
+
+(a) having regard to the value that would be likely to be agreed between a reasonable seller and buyer of such land—
+
+(i) assuming that the seller and buyer are, as respects the transaction, willing; and
+
+(ii) where the buyer is a sitting tenant;
+
+(b) taking account, in so far as a seller and a buyer of the land (assuming that they are, as respects the transaction, willing) would do so, of any factor attributable to the known existence of a person who (not being the tenant who is exercising a right to buy the land) would be willing to buy the land at a price higher than other persons because of a characteristic of the land which relates peculiarly to that person’s interest in buying it;
+
+(c) taking account of when the seller would in the normal course of events have been likely to recover vacant possession of the land from the tenant;
+
+(d) taking account of the terms and conditions of any lease of sporting interests affecting the land;
+
+(e) taking account of any moveable property belonging to the owner of the land which is, by agreement between the tenant and the owner, to be—
+
+(i) sold with; and
+
+(ii) valued along with,
+
+the land;
+
+(f) taking no account of—
+
+(i) the absence of the period of time during which the land would, on the open market, be likely to be advertised and exposed for sale; or
+
+(ii) any factor attributable to any use of the land which is or would be unlawful;
+
+(g) taking no account of any increase in the value of the land resulting from improvements carried out at the expense of the tenant;
+
+(h) taking no account of any increase in the value of the land resulting from the use of any of the land, or changes to the land, for a purpose that is not an agricultural purpose or the carrying out of conservation activities on the land;
+
+(i) taking no account of—
+
+(i) any reduction in the value of the land as a result of any dilapidation or deterioration of, or damage to, fixed equipment or land caused or permitted by the tenant; or
+
+(ii) any such reduction resulting from the use of any of the land, or changes to the land, for a purpose that is not an agricultural purpose or the carrying out of conservation activities on the land; and
+
+(j) taking no account of any fixed equipment owned by the tenant.
+
+(3) For the purposes of subsection (2)(g)—
+
+(a) subject to paragraph (b), “improvements” is to be construed by reference to Schedule 5 to the 1991 Act; and
+
+(b) the continuous adoption by the tenant of a standard of farming or a system of farming more beneficial to the land than the standard or system required by the lease or, in so far as no system of farming is so required, than the system of farming normally practised on comparable agricultural land in the district, is to be treated as an improvement executed at the tenant’s expense.
+
+(4) Where land in respect of which the right to buy is being exercised forms part of an estate, the valuer is, in addition to assessing the value of the land under subsection (2), to assess the value representing the difference between—
+
+(a) the value of the estate were the estate being sold by the seller to a person other than the tenant; and
+
+(b) the value of the remainder of the estate (that is to say, the estate less the land in respect of which the right to buy is being exercised) were the remainder being sold by the seller to such a person.
+
+(5) For the purpose of valuation under subsection (4), where two or more parts of an estate are being bought in exercise of a right to buy under this Part, the valuer may apportion to each such part of the estate (or re-apportion if for any reason the sale of any such part does not proceed) such amount representing the reduction in the value of the estate as the valuer considers equitable.
+
+(6) The Scottish Ministers may issue guidance (either generally or in respect of a particular class of case) for the purposes of valuation under this section.
+
+(7) An estate is to be treated, for the purposes of subsections (4) and (5), as comprising—
+
+(a) any land forming part of the estate and which is being bought in exercise of a right to buy under this Part; and
+
+(b) any other land forming part of the estate offered for sale by the seller at the same time as the land mentioned in paragraph (a).
+
+(8) For the purposes of section 32(2)(b)(i), the price payable by a tenant is—
+
+(a) the value assessed under subsection (2); or
+
+(b) where the land forms part of an estate, the greater of the values assessed under—
+
+(i) that subsection; and
+
+(ii) subsection (4).
+
+#### 35 Special provision where buyer is general partner in limited partnership
+
+Where the person exercising a right to buy under section 28 is doing so by virtue of section 72(2)—
+
+(a) the valuer, in assessing the value of the land under subsection (2) of section 34, is to have regard to—
+
+(i) the fact that the buyer is a general partner of a limited partnership; and
+
+(ii) any provision of the partnership agreement entitling a limited partner to dissolve the partnership; and
+
+(b) paragraph (a)(ii) of that subsection is of no effect.
+
+#### 36 Valuation etc.: further provision
+
+(1) The valuer is—
+
+(a) to invite—
+
+(i) the seller and the tenant; and
+
+(ii) where the land forms part of an estate, any other person the valuer considers to have an interest in the estate,
+
+to make written representations about the matters mentioned in subsection (2); and
+
+(b) to have regard to any such representations.
+
+(2) The matters are—
+
+(a) the valuation of the land; and
+
+(b) where the land forms part of an estate, any valuation of the estate (and any apportionment of a reduction in the value of the estate),
+
+under section 34.
+
+(3) The valuer may—
+
+(a) enter onto land; and
+
+(b) make any reasonable request of the seller and tenant,
+
+for the purposes of any assessment under section 34.
+
+(4) The valuer must, within 6 weeks of being appointed, send to the seller and the tenant a notice in writing specifying the price payable by the tenant under section 34(8) and setting out how the price was calculated.
+
+(5) The expenses of the valuer accrued in carrying out the valuer’s functions under section 34 and this section are to be—
+
+(a) met by the tenant; or
+
+(b) where subsection (2) of section 33 applies, shared equally between the tenants mentioned in that subsection.
+
+(6) Where—
+
+(a) the Land Court has made an order under section 32(7);
+
+(b) the tenant to whom the order applies has complied with the order; and
+
+(c) the seller does not proceed with the sale of the land to the tenant,
+
+the seller is liable to the tenant for any expenses met by the tenant by virtue of subsection (5).
+
+(7) The Scottish Ministers may by regulations make further provision for or in connection with the matters provided for in this section and sections 33 and 34.
+
+#### 37 Appeal to Lands Tribunal against valuation
+
+(1) The seller or the tenant may appeal to the Lands Tribunal against the valuation carried out under section 34.
+
+(2) An appeal under this section must state the grounds on which it is being made and must be lodged within 21 days of the date of the notice under section 36(4).
+
+(3) In an appeal under this section, the Lands Tribunal may—
+
+(a) reassess any value of the land (and any factor affecting the value) or of an estate (and how any reduction in the value of an estate is to be apportioned); and
+
+(b) for the purposes of section 32(2)(b)(ii), determine the price.
+
+(4) The valuer whose valuation is appealed against may be a witness in the appeal proceedings.
+
+(5) In the appeal proceedings, in addition to the seller and the tenant, the following persons are entitled to be heard—
+
+(a) where the seller is—
+
+(i) a creditor in a standard security, the owner of the land; and
+
+(ii) the owner of the land, any creditor in a standard security over the land or any part of it; and
+
+(b) where the land forms part of an estate—
+
+(i) any creditor in a standard security over; and
+
+(ii) any tenant of,
+
+any other land forming part of the estate.
+
+(6) The Lands Tribunal is to give reasons for its decision on an appeal under this section and is to issue a written statement of these reasons.
+
+(7) The decision of the Lands Tribunal in an appeal under this section is final.
+
+(8) In this section and section 38, “the Lands Tribunal” means the Lands Tribunal for Scotland.
+
+#### 38 Referral of certain matters by Lands Tribunal to Land Court
+
+Where, in an appeal before the Lands Tribunal under section 37, an issue of law arises which may competently be determined by the Land Court by virtue of the 1991 Act or this Act, the Tribunal is to refer the issue to the Land Court for determination unless the Tribunal considers that it is not appropriate to do so.
+
+## [[^F55]PART 2A — Sale where landlord in breach
+
+### Application toLand Courtfor order for sale
+
+#### 38A Application to Land Court for order for sale
+
+(1) This section applies where—
+
+(a) the Land Court has made an order (but not an interim order) under section 84(1)(b) requiring the landlord of a 1991 Act tenancy to remedy a material breach of the landlord's obligations in relation to the tenant, or
+
+(b) an arbiter appointed under section 61A(3) of the 1991 Act has by virtue of section 61A(5) made an award having the same effect as such an order.
+
+(2) Subject to subsection (5), the tenant may apply to the Land Court for an order for sale if the landlord fails to comply with the order or award mentioned in subsection (1)—
+
+(a) in a material regard, and
+
+(b) by the date specified in the order or award by virtue of section 84(2) or, as the case may be, section 61A(5) of the 1991 Act.
+
+(3) An “order for sale” is an order that the tenant has the right to buy the land comprised in the lease.
+
+(4) The tenant must give notice of the application—
+
+(a) to the landlord,
+
+(b) where there is a heritable security over an interest in the land comprised in the lease, to the creditor who holds the security,
+
+(c) to such other persons as the Scottish Ministers may prescribe by regulations.
+
+(5) Where—
+
+(a) the tenant acquired a right to buy the land comprised in the lease under section 28, and
+
+(b) the right to buy was extinguished under section 29(6) or 32(8),
+
+the tenant may apply for an order for sale only if the period of 12 months, beginning with the date on which the right to buy was extinguished, has expired.
+
+#### 38B Order for sale
+
+(1) The Land Court may make an order for sale if satisfied that—
+
+(a) the landlord has failed to comply with the order or award mentioned in section 38A(1)—
+
+(i) in a material regard, and
+
+(ii) by the date specified in the order or, as the case may be, the award,
+
+(b) the failure substantially and adversely affects the tenant's ability to fulfil the tenant's responsibilities to farm the holding in accordance with the rules of good husbandry,
+
+(c) greater hardship would be caused by not making the order than by making it, and
+
+(d) in all the circumstances it is appropriate.
+
+(2) The Land Court may make an order for sale despite the fact that the owner is subject to a legal incapacity or disability which would affect the owner's ability to transfer or otherwise deal with the land in respect of which the order is made.
+
+(3) Where the owner is subject to an enforceable personal obligation to transfer the land to a person other than the tenant, the Land Court may not make an order for sale unless—
+
+(a) the transfer is a transfer mentioned in subsection (4), and
+
+(b) the transfer—
+
+(i) is or forms part of a scheme or arrangement or is one of a series of transfers, and
+
+(ii) the main purpose or effect, or one of the main purposes or effects, of the scheme, arrangement or, as the case may be, series is the avoidance of the making of an order for sale.
+
+(4) The transfer referred to in subsection (3) is a transfer—
+
+(a) otherwise than for value,
+
+(b) between spouses in pursuance of an arrangement between them entered into at any time after they have ceased living together,
+
+(c) between companies in the same group, or
+
+(d) in consequence of—
+
+(i) the assumption, resignation or death of one or more of the partners in a partnership, or
+
+(ii) the assumption, resignation or death of one or more of the trustees of a trust.
+
+(5) For the purposes of subsection (4)(c), companies are in the same group if they are, or are included in a number of, companies which, by virtue of section 170 of the Taxation of Chargeable Gains Act 1992, together form a group for the purposes of sections 171 to 181 of that Act.
+
+(6) The Land Court must give notice of the making of the order to—
+
+(a) the landlord,
+
+(b) the owner (where the owner is not the landlord),
+
+(c) where there is a heritable security over an interest in the land comprised in the lease, the creditor who holds the security,
+
+(d) the Keeper of the Registers of Scotland,
+
+(e) such other persons as the Scottish Ministers may prescribe by regulations.
+
+(7) In subsection (1)(b), what is good husbandry is to be construed by reference to schedule 6 of the Agriculture (Scotland) Act 1948.
+
+(8) In this Part, “owner” includes a person in whom the land is vested for the purposes of any enactment relating to—
+
+(a) sequestration, bankruptcy, winding-up or incapacity, or
+
+(b) the purposes for which judicial factors may be appointed.
+
+#### 38C Effect of order for sale: prohibition of transfer etc.
+
+(1) The Scottish Ministers may by regulations make provision prohibiting persons from transferring or otherwise dealing with land in respect of which an order for sale has been made under section 38B.
+
+(2) Regulations under subsection (1) may in particular include provision—
+
+(a) specifying the persons to whom the prohibition is to apply,
+
+(b) specifying the period during which the prohibition is to apply,
+
+(c) specifying transfers or dealings which are and are not prohibited by the regulations,
+
+(d) requiring information to be incorporated in deeds relating to the land (including specifying the information that is to be incorporated, the circumstances in which it is to be incorporated and the deeds in which it is to be incorporated),
+
+(e) requiring such information to be removed and the circumstances in which it is to be so removed.
+
+#### 38D Effect of order for sale: suspension of rights
+
+(1) Where an order for sale is made under section 38B, the rights mentioned in subsection (3) are—
+
+(a) suspended as from the date when the Land Court makes the order, and
+
+(b) revived—
+
+(i) when a transfer by virtue of the order is completed, or
+
+(ii) if such a transfer is not completed before the end of the period mentioned in subsection (2), or if the order for sale ceases to have effect, on the end of that period or on the order ceasing to have effect, whichever occurs first.
+
+(2) The period referred to in subsection (1)(b)(ii) is whichever of the following periods ends later—
+
+(a) the period of 12 months beginning with the day on which notice under section 38E(3) is given, or
+
+(b) such longer period fixed by or agreed under section 38F(4) or, as the case may be, specified in an order under section 38I(4)(b)(ii).
+
+(3) The rights referred to in subsection (1) are any rights—
+
+(a) of pre-emption, redemption or reversion, or
+
+(b) deriving from any other option to purchase,
+
+exercisable over the land in respect of which the order for sale has been made.
+
+(4) The Scottish Ministers may by regulations make provision about the suspension and revival of other rights in or over land in respect of which an order for sale has been made.
+
+(5) Regulations under subsection (4) may in particular include provision specifying—
+
+(a) the rights to which the regulations do and do not apply,
+
+(b) the period during which such rights are suspended,
+
+(c) the circumstances in which the rights are revived (which may include the ending of a period as specified in the regulations).
+
+(6) Nothing in this section—
+
+(a) affects the operation of an inhibition on the sale of the land,
+
+(b) prevents an action of adjudication from proceeding, or
+
+(c) affects the commencement, execution or operation of any other diligence.
+
+#### 38E Tenant's right to buy
+
+(1) Where—
+
+(a) an order for sale is made under section 38B, and
+
+(b) the period within which an appeal against the making of the order may be brought has expired without an appeal being brought or, where such an appeal has been brought, it has been abandoned or dismissed,
+
+the tenant has the right to buy the land in respect of which the order has been made from the owner.
+
+(2) Where a tenant has a right to buy under subsection (1), the tenant may proceed in accordance with section 38F to buy the land from the owner provided that notice is given under subsection (3).
+
+(3) Notice is given under this subsection if, before the period mentioned in subsection (4) has expired, the tenant gives notice that the tenant intends to buy the land to—
+
+(a) the owner,
+
+(b) the Keeper of the Registers of Scotland, and
+
+(c) the Land Court.
+
+(4) That period is the period of 28 days beginning with—
+
+(a) the day after the last day on which an appeal may be brought (no appeal having been brought), or
+
+(b) an appeal having been brought, the day after the day on which the appeal was abandoned or dismissed.
+
+(5) If at any time the tenant does not intend to proceed in accordance with section 38F to buy the land, the tenant must give notice of that fact to—
+
+(a) the owner,
+
+(b) the Keeper of the Registers of Scotland, and
+
+(c) the Land Court.
+
+(6) Where the tenant—
+
+(a) does not give notice under subsection (3), or
+
+(b) gives notice under subsection (5),
+
+the tenant's right to buy is extinguished.
+
+### Procedure for buying and valuation
+
+#### 38F Procedure for buying
+
+(1) It is for the tenant to make the offer to buy in exercise of the tenant's right to buy under section 38E.
+
+(2) The offer is to be at a price—
+
+(a) agreed between the tenant and the person from whom the land is to be bought (“the seller”), or
+
+(b) where there is no such agreement—
+
+(i) payable by the tenant in accordance with section 34(8), or
+
+(ii) if the price is determined in an appeal under section 37, as is so determined.
+
+(3) The offer must specify the date of entry and of payment of the price in accordance with subsection (4).
+
+(4) The date of entry and of payment of the price are to be—
+
+(a) a date not later than 6 months from the date when the tenant gave notice under section 38E(3) of the tenant's intention to buy,
+
+(b) where the price payable by the tenant is the subject of an appeal under section 37 which has not, before the expiry of the period of 4 months beginning with the date when the tenant gave such notice, been—
+
+(i) determined, or
+
+(ii) abandoned following agreement between the tenant and the seller,
+
+a date not later than 2 months after the appeal is so determined or, as the case may be, abandoned, or
+
+(c) such later date as may be agreed between the tenant and the seller.
+
+(5) The offer may include such other reasonable conditions as are necessary or expedient to secure the efficient progress and completion of the transfer.
+
+(6) The seller must—
+
+(a) make available to the tenant such deeds and other documents as are sufficient to enable the tenant to proceed to complete title to the land,
+
+(b) transfer title accordingly.
+
+#### 38G Appointment of valuer and valuation of the land
+
+(1) The provisions mentioned in subsection (2) apply to a sale implementing a tenant's right to buy by virtue of an order for sale as they apply to a sale implementing a tenant's right to buy under section 28, subject to the modifications mentioned in that subsection.
+
+(2) Those provisions are—
+
+(a) section 33 (appointment of valuer), subject to the modifications that—
+
+(i) in subsection (2), the reference to section 29(2) or (4) is to be read as a reference to section 38E(3),
+
+(ii) subsection (5) does not apply,
+
+(b) section 34 (valuation of land), subject to the modifications that—
+
+(i) in subsection (1), the reference to the date of notice under section 26 of the seller's proposal to transfer the land is to be read as a reference to the date of notice under section 38E(3),
+
+(ii) in subsection (8), the reference to section 32(2)(b)(i) is to be read as a reference to section 38F(2)(b)(i),
+
+(c) section 35 (special provision where buyer is general partner in limited partnership), subject to the modification that the reference to section 28 is to be read as a reference to section 38E,
+
+(d) section 36 (further provision on valuation), subject to the modifications that—
+
+(i) in subsection (6)(a), the reference to section 32(7) is to be read as a reference to section 38I(3),
+
+(ii) the following subsection is to be inserted after subsection (6)—
+
+> (6A) Where—
+>
+> (a) the Land Court has made an order under section 38H(3),
+>
+> (b) the seller to whom the order applies has complied with the order, and
+>
+> (c) the tenant does not proceed with the purchase of the land from the seller,
+>
+> the tenant is liable to the seller for any expenses met by the seller by virtue of subsection (5).
+
+,
+
+(e) section 37 (appeal to the Lands Tribunal against valuation), subject to the modification that, in subsection (3)(b), the reference to section 32(2)(b)(ii) is to be read as a reference to section 38F(2)(b)(ii), and
+
+(f) section 38 (referral of certain matters by the Lands Tribunal to the Land Court).
+
+#### 38H Failure of seller to complete transaction
+
+(1) If the seller has not, within the period fixed by or agreed under section 38F(4)—
+
+(a) complied with section 38F(6)(a), or
+
+(b) done any of the things mentioned in subsection (2),
+
+the tenant may apply to the Land Court for an order under subsection (3).
+
+(2) The things are—
+
+(a) concluding missives for the sale of the land, or
+
+(b) taking all steps which the seller could reasonably have taken in the time available towards so concluding missives.
+
+(3) An order under this subsection may—
+
+(a) direct the seller to comply with section 38F(6)(a) within such period as the order may specify,
+
+(b) direct the seller—
+
+(i) to conclude missives, and
+
+(ii) to take such remedial action for the purpose of so concluding missives,
+
+within such period as the order may specify, and
+
+(c) direct the tenant and seller to incorporate into the missives any term or condition in respect of the sale of the land as the order may specify.
+
+(4) If the seller fails to comply—
+
+(a) with an order under subsection (3), or
+
+(b) with section 38F(6)(b),
+
+the Land Court may, on the application of the tenant, authorise its principal clerk to adjust, execute and deliver such deeds or other documents as will complete the transfer of ownership of the land to the tenant to the same force and effect as if done by the seller.
+
+#### 38I Failure of tenant to complete transaction
+
+(1) If the tenant has not, within the period fixed by or agreed under section 38F(4), done any of the things mentioned in subsection (2), the seller may apply to the Land Court for an order under subsection (3).
+
+(2) The things are—
+
+(a) concluding missives for the sale of the land, or
+
+(b) taking all steps which the tenant could reasonably have taken in the time available towards so concluding missives.
+
+(3) An order under this subsection may—
+
+(a) direct the tenant—
+
+(i) to conclude missives, and
+
+(ii) to take such remedial action for the purpose of so concluding missives,
+
+within such period as the order may specify, and
+
+(b) direct the tenant and seller to incorporate into the missives any term or condition in respect of the sale of the land as the order may specify.
+
+(4) The right to buy is extinguished if—
+
+(a) the tenant fails to comply with an order under subsection (3), or
+
+(b) no order having been applied for under section 38H(3) or under subsection (3), missives have not been concluded before the end of—
+
+(i) the period of 12 months beginning with the date when the tenant gave notice under section 38E(3) of the tenant's intention to buy, or
+
+(ii) such longer period as the Land Court may, on the application of the tenant, order.
+
+#### 38J Completion of sale to tenant
+
+(1) The price paid for the transfer of ownership of the land to the tenant is to be paid not later than the final settlement date.
+
+(2) The “final settlement date” is the date on which the period, fixed or agreed under section 38F(4) or, as the case may be, specified in an order under section 38I(4)(b)(ii), expires.
+
+(3) Where, on the final settlement date, the seller is not able to effect the grant of a good and marketable title to the tenant—
+
+(a) the price, or
+
+(b) if, for any reason, the price has not been ascertained, such sum as may be fixed by the valuer appointed under section 33,
+
+is to be consigned into the Land Court until that title is granted, the tenant gives notice under section 38E(5) to the court of the tenant's decision not to proceed to complete the transaction or, as the case may be, the Land Court orders its release.
+
+(4) Except where subsection (3) applies, where the price remains unpaid after the date not later than which it is to be paid, the tenant's right to buy is extinguished.
+
+(5) Any heritable security which burdened the land immediately before title is granted to the tenant in pursuance of this section ceases to do so on the registration of that title in the Land Register of Scotland.
+
+(6) Where such a security also burdens land other than the land in respect of which title is granted to the tenant, the security does not, by virtue of subsection (5), cease to burden that other land.
+
+(7) Unless the creditors holding any such security otherwise agree, the tenant must pay to them according to their respective rights and preferences any sum which would, but for this subsection, be paid to the seller by the tenant as the price for the land.
+
+(8) Any sum paid by a tenant under subsection (7) is to be deducted from the sum which the tenant is to pay to the seller as the price for the land.
+
+(9) Any legal incapacity or disability of an owner has no effect on the title passed to a tenant to which land has been sold in accordance with this Part.
+
+#### 38K Effect of extinguishing of right to buy
+
+(1) Where a right to buy is extinguished under section 38E(6), 38I(4) or 38J(4), the tenant may acquire a subsequent right to buy the same land or any part of it under section 28(1) but only if the conditions mentioned in subsection (2) are met.
+
+(2) Those conditions are that—
+
+(a) the period of 12 months from the extinguishing of the right to buy under section 38E(6), 38I(4) or 38J(4) has expired, or
+
+(b) before that period has expired—
+
+(i) the land is transferred to another person whether under an order for sale or otherwise, and
+
+(ii) that person requires to give notice under section 26 in relation to a subsequent transfer.
+
+### Sale to third party
+
+#### 38L Sale to third party
+
+(1) This section applies where a tenant's right to buy land in respect of which an order for sale has been made is extinguished under section 38E(6), 38I(4) or 38J(4).
+
+(2) The tenant may, before the expiry of the period mentioned in subsection (3), apply to the Land Court for the order for sale to be varied to allow the land in respect of which the order has been made to be offered for sale on the open market.
+
+(3) That period is the period of 28 days beginning with the date on which the right to buy was extinguished.
+
+(4) The tenant must give notice of the application—
+
+(a) to the owner,
+
+(b) where there is a heritable security over an interest in the land to which the application relates, to the creditor who holds the security,
+
+(c) to such other persons as the Scottish Ministers may prescribe by regulations.
+
+(5) The Land Court may, if it considers it appropriate in all the circumstances, grant the application and vary the order for sale to require the land to be offered for sale on the open market.
+
+(6) Where—
+
+(a) no application is made under subsection (2), or
+
+(b) the Land Court refuses such an application,
+
+the order for sale ceases to have effect.
+
+#### 38M Procedure for sale to third party
+
+(1) The Scottish Ministers may by regulations make further provision about the sale of land in relation to which the Land Court has, under section 38L, varied an order for sale to allow the land to be offered for sale on the open market.
+
+(2) Regulations under subsection (1) may in particular include provision about—
+
+(a) the appointment of a person to sell the land,
+
+(b) the valuation of the land (including the appointment of a valuer, who need not be a different person to the person appointed to sell the land),
+
+(c) the procedure for the sale of the land (including sale by private bargain or by public roup),
+
+(d) the period within which the land is to be sold (including provision for applications to the Land Court to extend such a period),
+
+(e) the persons to whom the land cannot be sold,
+
+(f) the powers of the person appointed to sell the land, including powers to adjust, execute or deliver any deeds or other documents necessary to complete the transfer of ownership of the land,
+
+(g) the duties of the person appointed to sell the land, which must include—
+
+(i) a duty to ensure that the price at which the land is sold is the best that can reasonably be obtained, and
+
+(ii) a duty to compensate any person who incurs a loss caused as a result of the appointed person's negligence in the sale of the land,
+
+(h) the distribution of the proceeds of sale,
+
+(i) liability for any expenses incurred by the person appointed to sell or value the land,
+
+(j) reports by the person appointed to sell the land to the Land Court,
+
+(k) the effect on any rights such as are mentioned in section 38D(3),
+
+(l) the effect on any heritable securities which burden the land in respect of which the order for sale has been made,
+
+(m) what happens if the land is not sold within a period specified in the regulations.
+
+(3) Regulations under subsection (1) may apply the provisions of this Act, that apply to the sale of land comprised in a lease to a tenant by virtue of an order for sale, to the sale of such land on the open market, with or without modifications.
+
+(4) Regulations under subsection (1) may modify any enactment (including this Act).
+
+### Post-sale obligations
+
+#### 38N Restriction on notice to quit etc. where sale to third party
+
+(1) This section applies where a third party buys the land comprised in the lease of a 1991 Act tenancy by virtue of an order for sale varied under section 38L.
+
+(2) During the period of 10 years beginning with the date the third party acquired title to the land, sections 22 to 24, 26 and 43 of the 1991 Act have effect in relation to the tenancy subject to the following modifications.
+
+(3) Section 22(2) has effect as if—
+
+(a) paragraphs (a) and (b) were omitted,
+
+(b) for paragraph (c) there were substituted—
+
+> (c) the Land Court, on an application made—
+>
+> (i) by a landlord who bought the land constituting the tenancy by virtue of an order for sale varied under section 38L of the Agricultural Holdings (Scotland) Act 2003 Act,
+>
+> (ii) not more than 9 months before the giving of the notice to quit,
+>
+> granted a certificate under section 26(1) that the tenant was not fulfilling the tenant's responsibilities to farm the holding in accordance with the rules of good husbandry,
+
+, and
+
+(c) for “any of paragraphs (a) to (f)” there were substituted “ any of paragraphs (c) to (f) ”.
+
+(4) Section 24(1)(e) has effect as if, for “not falling within section 22(2)(b) of this Act”, there were substituted “ and, in a case where the use requires permission under the enactments relating to town and country planning, such permission has been obtained ”.
+
+(5) Section 26 has effect as if, after subsection (1), there were inserted—
+
+> (1A) The Land Court must not grant a certificate under subsection (1) where subsection (1B) applies.
+>
+> (1B) This subsection applies where—
+>
+> (a) the application under subsection (1) is made by a landlord who bought the land constituting the tenancy by virtue of an order for sale varied under section 38L of the Agricultural Holdings (Scotland) Act 2003 Act (the “2003 Act”), and
+>
+> (b) the tenant's failure to farm in accordance with the rules of good husbandry is attributable to a material breach of the former landlord's obligations in relation to the tenant on the basis of which the Land Court made the order under section 84(1)(b) of the 2003 Act referred to in section 38A(1)(a) of that Act.
+
+.
+
+(6) Section 43 has effect as if, for subsection (2), there were substituted—
+
+> (2) Compensation is not payable under this section where—
+>
+> (a) the notice to quit relates to land being permanent pasture which the landlord has been in the habit of letting annually for seasonal grazing or of keeping in the landlord's own occupation and which has been let to the tenant for a definite and limited period for cultivation as arable land on condition that the tenant must, along with the last or waygoing crop, sow permanent grass seeds, or
+>
+> (b) the application of section 22(1) to the notice to quit is excluded by any of paragraphs (c) to (f) of subsection (2) of that section.
+
+.
+
+#### 38O Payment to former landlord where early resale
+
+(1) This section applies where—
+
+(a) a tenant or, as the case may be, a third party (the “original buyer”) buys land under an order for sale made in respect of the land, and
+
+(b) the land is subsequently sold—
+
+(i) before the end of the period of 10 years beginning with the date on which the original buyer acquired title to the land (the “original date”),
+
+(ii) at a price higher than the price paid by the original buyer to the person from whom the land was bought (the “original seller”).
+
+(2) The original buyer must pay to the original seller a proportion of the difference between the price at which the land is subsequently sold and the price paid by the original buyer to the original seller.
+
+(3) The proportion of the difference which must be paid to the original seller is to be—
+
+(a) 100 per cent where the subsequent sale occurs before the end of the period of 5 years beginning with the original date,
+
+(b) 66 per cent where it occurs after the end of that period but before the end of the period of 8 years beginning with that date,
+
+(c) 33 per cent where it occurs after the end of the period of 8 years beginning with that date.
+
+(4) The Scottish Ministers may by regulations make further provision about the payment that the original buyer must make to the original seller.
+
+(5) Regulations under subsection (4) may in particular include provision about—
+
+(a) the exclusion, for the purposes of subsection (2), of so much of the price at which the land is subsequently sold as is attributable to an increase in the value of the land resulting from such causes as may be specified in the regulations (which may include improvements of the kind mentioned in schedule 5 of the 1991 Act),
+
+(b) payment where part only of the land bought under the order for sale is subsequently sold within the period of 10 years mentioned in subsection (1)(b),
+
+(c) the granting of standard securities over the land in relation to the liability to make a payment under this section (including the priority of such securities in relation to any other securities over the land),
+
+(d) circumstances in which no liability to make a payment under this section arises.
+
+#### 38P Compensation
+
+(1) Any person, including an owner or former owner of land comprised in the lease of a 1991 Act tenancy, who has incurred loss or expense—
+
+(a) in complying with the requirements of this Part following the making of an application by a tenant under section 38A(2) or 38L(2), or
+
+(b) where the tenant gave notice under section 38E(3) of the tenant's intention to buy the land, as a result of the failure of the tenant or the seller to complete the purchase,
+
+is entitled to recover the amount of that loss or expense from the Scottish Ministers.
+
+(2) The Scottish Ministers may by regulations make provision about—
+
+(a) the losses and expenses which may and may not be compensated,
+
+(b) the procedure for claiming compensation (including who determines whether compensation is payable),
+
+(c) the amount of compensation payable (including the manner in which such compensation is calculated).
+
+(3) Where, at the expiry of such period of time as may be fixed for the purposes of this subsection by regulations under subsection (2)(b), any question as to whether compensation is payable or as to the amount of any compensation payable has not been settled as between the parties, either of them may refer the question to the Lands Tribunal for Scotland.]
+
+## Part 3 — Use of agricultural land: diversification
+
+### 39 Use of land for non-agricultural purposes
+
+(1) A—
+
+(a) 1991 Act tenancy; [^F56]...
+
+(b) tenancy under a lease constituting a limited duration tenancy,
+
+[[^F57](c) tenancy under a lease constituting a modern limited duration tenancy, or
+
+(d) tenancy under a lease constituting a repairing tenancy,]
+
+does not cease to be such a tenancy by reason only that the land is used for a non-agricultural purpose.
+
+(2) Any term of the lease which prohibits the use of the land for a non-agricultural purpose is of no effect.
+
+(3) Where—
+
+(a) subletting the land is prohibited (by the lease or otherwise); and
+
+(b) that prohibition impedes the use of the land for a non-agricultural purpose,
+
+the tenant may, despite the prohibition, sublet the land provided that the purpose for which it is sublet is ancillary to the tenant’s use of the land for the non-agricultural purpose.
+
+(4) Subsections (1) to (3) do not apply if the use of the land for a non-agricultural purpose is otherwise than has been permitted under section 40 or 41.
+
+(5) In this section and sections 40 and 41, any reference to the land is a reference to the whole of the land comprised in the lease constituting the tenancy or any part of it.
+
+### 40 Notice of and objection to diversification
+
+(1) A tenant under a tenancy mentioned in section 39(1) who intends to use the land for a non-agricultural purpose must send a notice (in this section and [[^F58]in sections 40A and 41] referred to as a “notice of diversification”) to the landlord.
+
+(2) The notice of diversification must be given in writing not less than 70 days before the date on which the tenant proposes to commence using the land for that purpose and must specify—
+
+(a) what the non-agricultural purpose is;
+
+(b) the land that would be used for that purpose;
+
+(c) any changes to the land the tenant proposes to effect for that purpose; and
+
+(d) the date on which the tenant proposes to commence using the land for that purpose,
+
+and must address such matters as may constitute any ground of objection mentioned in subsection (9)(a)(i) to (iii).
+
+(3) Where—
+
+(a) the tenant proposes to effect changes to the land for the non-agricultural purpose; or
+
+(b) the tenant’s intended use of the land for that purpose is in furtherance of a business,
+
+the notice must also specify how the changes are, or, as the case may be, the business is (so far as relating to the land), to be financed and managed.
+
+(4) Where a notice of diversification is given in accordance with subsections (2) and (3), and the landlord does not object to the notice, the land may be used—
+
+(a) for the purpose specified under paragraph (a), and as specified under paragraphs (b) and (c), of subsection (2); and
+
+(b) from the appointed date,
+
+subject to any conditions imposed under subsection (10).
+
+(5) For the purposes of subsection (4)(b), the appointed date is—
+
+(a) the date specified under subsection (2)(d);
+
+[[^F59](b) where the landlord has made a request for information under subsection (6), the date falling 70 days from the making of the request, if later than the date so specified,]
+
+(c) such earlier date as the landlord and tenant may agree to.
+
+[[^F60](5A) Where the landlord objects to the notice of diversification, the land may be used for the purpose specified under paragraph (a), and as specified under paragraphs (b) and (c), of subsection (2)—
+
+(a) only if—
+
+(i) the landlord withdraws the objection,
+
+(ii) the landlord does not apply under section 40A for a determination in relation to the objection, or
+
+(iii) such an application having been made, the Land Court determines under section 41 that the objection is unreasonable,
+
+(b) from the relevant date, and
+
+(c) subject to any conditions imposed—
+
+(i) by the landlord under subsection (14), or
+
+(ii) by the Land Court under section 41(2) or (3).
+
+(5B) For the purposes of subsection (5A)(b), the relevant date is—
+
+(a) where no application is made under section 40A—
+
+(i) the date specified under subsection (2)(d),
+
+(ii) if the objection is withdrawn, the date of the withdrawal,
+
+(iii) the date the period mentioned in section 40A(3) expires,
+
+whichever is the later,
+
+(b) where an application is made under section 40A, the date fixed by the Land Court under section 41(1)(b)(ii).]
+
+[[^F61](6) The landlord may, on one occasion within 30 days of the giving of the notice of diversification, request the tenant to provide the landlord with relevant information.]
+
+(7) For the purposes of subsection (6), information is relevant if it—
+
+(a) relates to—
+
+(i) the intended use of the land for the non-agricultural purpose (including any proposed changes to the land); and
+
+(ii) where the intended use of the land is in furtherance of a business, the finance or management of the business; and
+
+(b) is necessary for the landlord’s consideration of whether or not there are grounds under subsection (9)(a)(i) to (iii) or (b) for objection to the notice of diversification.
+
+(8) The tenant is to provide any information reasonably requested under subsection (6) within 30 days of the date on which it was requested.
+
+(9) The landlord may object to the notice of diversification if (and only if)—
+
+(a) the landlord reasonably considers that the intended use of the land for the non-agricultural purpose (including any proposed changes to the land) would—
+
+(i) lessen significantly the amenity of the land or the surrounding area;
+
+(ii) substantially prejudice the use of the land for agricultural purposes in the future;
+
+(iii) be detrimental to the sound management of the estate of which the land consists or forms part; or
+
+(iv) cause the landlord to suffer undue hardship;
+
+(b) where the notice specifies a matter mentioned in subsection (3), the landlord reasonably considers that it fails to demonstrate that the proposed changes are, or, as the case may be, the business (so far as relating to the land) is, viable; or
+
+(c) the tenant has failed to comply with subsection (8).
+
+(10) Where the landlord does not object to the notice of diversification, the landlord may impose on the tenant any reasonable conditions in relation to the use of the land for the non-agricultural purpose (including in relation to any proposed changes to the land).
+
+(11) The landlord is, within the period mentioned in subsection (12), to notify the tenant in writing—
+
+(a) of any objection to the notice of diversification (and the grounds for the objection) or, as the case may be, of the fact that the landlord does not object to the notice; and
+
+(b) where the landlord does not object to the notice, of any conditions imposed under subsection (10) (and the reasons for imposing them).
+
+(12) The period is—
+
+[[^F62](a) where the landlord has made a request for information under subsection (6), 60 days from the making of the request,]
+
+(b) where the landlord has made no such request, 60 days from the giving of the notice of diversification.
+
+(13) If no notification is given in accordance with subsections (11) and (12), the landlord is, except where the non-agricultural purpose is the planting and cropping of trees, deemed not to have objected to the notice of diversification nor to have imposed any conditions in relation to use of, or changes to, the land.
+
+[[^F63](14) Where the landlord withdraws the objection under subsection (9) before the expiry of the period mentioned in section 40A(3), the landlord—
+
+(a) must notify the tenant in writing of the withdrawal, and
+
+(b) may impose any conditions as mentioned in subsection (10) and, where such conditions are imposed, must, at the same time as notifying the tenant of the withdrawal of the objection, notify the tenant in writing of the conditions (and the reasons for imposing them).]
+
+### 40A [[^F64]Landlord's objection: application to Land Court
+
+(1) This section applies where the landlord gives notice of an objection under section 40(11)(a) to a notice of diversification.
+
+(2) The landlord may, before the expiry of the period mentioned in subsection (3), apply to the Land Court for a determination under section 41 that the objection is reasonable.
+
+(3) That period is 60 days from the giving of notice of the objection under section 40(11)(a).
+
+(4) The objection ceases to have effect—
+
+(a) on the expiry of the period mentioned in subsection (3) unless the landlord applies, before the expiry of that period, to the Land Court under subsection (2), or
+
+(b) if it is withdrawn before the expiry of that period, no such application having been made.]
+
+### 41 Imposition of conditions by Land Court
+
+(1) Where [[^F65], on an application made by the landlord under section 40A(2),] the Land Court determines that an objection by the landlord to a notice of diversification is unreasonable—
+
+(a) the objection is of no effect; and
+
+(b) the land may be used—
+
+(i) as mentioned in paragraph (a) of subsection (4) of section 40; and
+
+(ii) from such date as the Court may fix,
+
+subject to any conditions imposed under subsection (2).
+
+(2) Where, by virtue of subsection (1), the land may be used as mentioned in section [[^F66]40(4)(a) or (5A)] , the Land Court may impose on the tenant such reasonable conditions in relation to the use of the land as so mentioned as it considers appropriate.
+
+(3) Where [[^F67], on the application of the tenant,] the Land Court determines that a condition imposed by the landlord under section 40(10) [[^F68]or, as the case may be, (14)] is unreasonable, the Court may—
+
+(a) remove the condition; and
+
+(b) in its place, impose on the tenant such reasonable conditions as it considers appropriate.
+
+### 42 Tenant’s right to timber
+
+(1) The tenant under—
+
+(a) a 1991 Act tenancy; [^F69]...
+
+(b) a limited duration tenancy,
+
+[[^F70](c) a modern limited duration tenancy, or
+
+(d) a repairing tenancy,]
+
+has, for so long as the tenancy continues to have effect, the right to cut timber from any trees planted on the land by the tenant on or after the coming into force of this section; and any such timber belongs to the tenant.
+
+(2) Subsection (1) does not apply in so far as the lease or any agreement in writing between the landlord and tenant makes provision to the contrary, provided that the lease or agreement also includes provision for a reduction in rent or payment of compensation to the tenant in respect of any loss incurred by the tenant as a result of that contrary provision.
+
+## Part 4 — Compensation under agricultural tenancies
+
+### Chapter 1 — Compensation for improvements
+
+#### 1991 Act tenancies
+
+##### 43 Agreements as to compensation for improvements
+
+(1) After section 33 (improvements) of the 1991 Act there is inserted—
+
+> **33A Agreements as to compensation for improvements**
+>
+> Where the tenant has carried out an improvement—
+>
+> (a) specified in Part II or III of Schedule 5 to this Act; and
+>
+> (b) by executing work which the landlord was required, at the time the lease was entered into and by virtue of section 5(2)(a) of this Act, to execute in order to fulfil his obligations under the lease,
+>
+> any term of the lease or of an agreement between the landlord and tenant made before the coming into force of this section which purports to provide that the amount of compensation payable to the tenant for the improvement is less than the amount of compensation to which the tenant is entitled under this Part of this Act for the improvement (or that no compensation is payable) shall not apply in relation to such part or proportion of the improvement as the landlord would have been so required to carry out in order to fulfil those obligations.
+
+.
+
+(2) The following provisions of that Act (which relate to agreements as to compensation for improvements) are repealed—
+
+(a) in section 34, paragraph (b) of subsection (4);
+
+(b) in section 37, subsection (2); and
+
+(c) in section 38, subsection (5).
+
+(3) In section 38 (notice required of certain improvements) of that Act, after subsection (2) there is inserted—
+
+> (2A) Subsection (1) above shall not apply in the case of an improvement mentioned in subsection (1)(c) above if the improvement was carried out by executing work which the landlord was required, at the time the lease was entered into and by virtue of section 5(2)(a) of this Act, to execute in order to fulfil his obligations under the lease.
+
+.
+
+##### 44 Amount of compensation where grant made to tenant
+
+In section 36 (amount of compensation) of the 1991 Act, in subsection (3), for the words from “improvement” in the first place where it appears to the end there is substituted
+
+> improvement—
+>
+> (a) there shall be taken into account any benefit which the landlord has agreed in writing to give the tenant in consideration of the tenant carrying out the improvement; and
+>
+> (b) where a grant has been or will be made to the tenant in respect of the improvement, subject to the conditions of the grant—
+>
+> (i) if either the landlord or tenant has not made or will not make a contribution towards the cost of the improvement, or neither of them has made or will make such a contribution, the grant shall not be taken into account;
+>
+> (ii) in any other case, there shall be taken into account such proportion of the grant as equals the proportion of the contribution by the tenant towards the cost of the improvement as a proportion of the total of his contribution added to that of the landlord.
+
+.
+
+#### [[^F71]New types of tenancy]
+
+##### 45 Right to compensation for improvements
+
+(1) Subject to sections 48 and 49, a tenant of a short limited duration tenancy [[^F72], a limited duration tenancy or a modern limited duration tenancy] is entitled, on quitting the land on termination of the tenancy, to compensation from the landlord in respect of any improvement to which this subsection applies carried out by the tenant.
+
+(2) Subsection (1) applies to the improvements specified in Schedule 5 to the 1991 Act (that Schedule applying for the purposes of that subsection as it does for the purposes of that Act).
+
+(3) Where an improvement is the improvement specified in paragraph 32 (laying down of temporary pasture) of that Schedule, the tenant is entitled to compensation under subsection (1) even if—
+
+(a) that improvement; or
+
+(b) the leaving of temporary pasture at the termination of the tenancy,
+
+was in contravention of a term of the lease or any agreement made by the tenant as to the method of cropping the arable lands.
+
+(4) Where a tenant has remained in occupation of the land during two or more tenancies, the tenant is not deprived of any right to compensation under subsection (1) by reason only that the improvements were not carried out during the tenancy on the termination of which the tenant quits the land.
+
+[[^F73](5) Nothing in any order made under section 73 of the 1991 Act which varies the provisions of schedule 5 to that Act affects the right of a tenant of a short limited duration tenancy, a limited duration tenancy or a modern limited duration tenancy to claim, in respect of an improvement made or begun before the date on which such order comes into force, any compensation to which, but for the making of the order, the tenant would have been entitled.]
+
+##### 45A [[^F74]Amnesty under the Land Reform (Scotland) Act 2016
+
+A tenant under a short limited duration tenancy, a limited duration tenancy or a modern limited duration tenancy is entitled to compensation under section 45 if Chapter 8 of Part 10 of the Land Reform (Scotland) Act 2016 applies.]
+
+##### 46 Payment of compensation by incoming tenant
+
+Subsections (2) to (5) of section 35 (payment of compensation by incoming tenant) of the 1991 Act (as read with Schedule 5 to that Act) apply to compensation which is payable or has been paid to an outgoing tenant of a short limited duration tenancy [[^F75], a limited duration tenancy or a modern limited duration tenancy] by the landlord under section 45(1) of this Act as they do to compensation to which that section of that Act applies, but as if—
+
+(a) in subsection (4), paragraph (a) were omitted;
+
+(b) in subsections (4) and (5), the references to an agricultural holding and the holding were references to the land; and
+
+(c) in subsection (5), the words “a new” were read as “an”.
+
+##### 47 Amount of compensation
+
+(1) The amount of compensation payable to a tenant under section 45(1) is such sum as fairly represents the value of the improvement to an incoming tenant.
+
+(2) In ascertaining the amount of compensation so payable—
+
+(a) account is to be taken of any benefit which the landlord has agreed in writing to give the tenant in consideration of the tenant carrying out the improvement; and
+
+(b) where a grant has been or will be made to the tenant in respect of the improvement, subject to the conditions of the grant—
+
+(i) if either the landlord or tenant has not made or will not make a contribution towards the cost of the improvement, or neither of them has made or will make such a contribution, the grant is not to be taken into account;
+
+(ii) in any other case, there is to be taken into account such proportion of the grant as equals the proportion of any contribution made by the tenant towards the cost of the improvement as a proportion of the total of the tenant’s contribution added to that of the landlord.
+
+(3) In ascertaining the amount of any compensation payable by virtue of subsection (3) of section 45, account is to be taken of any injury to or deterioration of the land due to the contravention of the lease or agreement mentioned in that subsection (except insofar as the landlord has recovered damages in respect of the injury or deterioration).
+
+##### 48 Consent required for compensation in certain cases
+
+Compensation under section 45(1) is not payable for an improvement specified in Part I of Schedule 5 to the 1991 Act unless, before the improvement was carried out, the landlord consented to it in writing (whether unconditionally or upon terms agreed on between the parties).
+
+##### 49 Notice required for certain improvements
+
+(1) Compensation under section 45(1) is not payable for an improvement specified in Part II of Schedule 5 to the 1991 Act unless the tenant gave notice in writing to the landlord specifying the tenant’s intention to carry out the improvement and the manner in which it was proposed to carry it out.
+
+(2) In section 39 (approval of Land Court in certain cases) of the 1991 Act (as read with Schedule 5 to that Act), subsections (1) to (4) apply in relation to compensation under section 45(1) as they do in relation to compensation under Part IV of that Act but as if, in subsection (1) of that section—
+
+(a) the words “a new” were omitted;
+
+(b) the words “one month” read “60 days”; and
+
+(c) the reference to notice under section 38(3) of that Act were a reference to the notice mentioned in subsection (1) of this section.
+
+### Chapter 2 — Compensation for disturbance and diversification etc.
+
+#### 1991 Act tenancies
+
+##### 50 Compensation for disturbance and for damage by game
+
+(1) In section 43 (compensation for disturbance) of the 1991 Act, paragraph (c) of subsection (4) is repealed.
+
+(2) In section 52 (compensation for damage by game) of that Act, in paragraph (b) of subsection (2) for the words from “one” to the end there is substituted “ 6 months of the giving of notice under paragraph (a) above ”.
+
+##### 51 Compensation arising as a result of diversification etc.
+
+(1) After section 45 (compensation to landlord for deterioration etc.) of the 1991 Act there is inserted—
+
+> **45A Compensation arising as a result of diversification and cropping of trees**
+>
+> (1) Subject to subsection (2) below, the landlord of an agricultural holding shall be entitled to recover from the tenant, on his quitting the holding on termination of the tenancy, compensation where the landlord shows that the value of the holding has been reduced during the tenancy by the use, on or after the coming into force of this section, of the holding for a purpose which is not an agricultural purpose; and the amount of compensation payable shall be an amount equal to the reduction in the value of the holding.
+>
+> (2) Where there are trees on the holding which were planted—
+>
+> (a) by the tenant on or after the coming into force of this section; and
+>
+> (b) for future cropping,
+>
+> the landlord or tenant shall be entitled to recover from the other, on the tenant quitting the holding on the termination of the tenancy, compensation calculated in accordance with subsections (3) and (4) below.
+>
+> (3) For the purposes of subsection (2) above, at the termination of the tenancy—
+>
+> (a) the trees shall be valued on the basis of their worth to a willing purchaser for future cropping; and
+>
+> (b) there shall be evaluated any loss of rent to the landlord which would be incurred by his retaining the trees until the likely date of cropping added to the cost to him of returning the land to agricultural use after cropping.
+>
+> (4) If the value reached under paragraph (a) of subsection (3) above is—
+>
+> (a) greater than that reached under paragraph (b) of that subsection, the tenant shall be entitled to the difference between the values as compensation;
+>
+> (b) less than that reached under paragraph (b) of that subsection, the landlord shall be entitled to the difference between the values as compensation.
+>
+> (5) Where the value of an agricultural holding has been increased during the tenancy by such use of the land or part of the land, or such change to the land, for a purpose that is not an agricultural purpose—
+>
+> (a) as occurred on or after the coming into force of this section; and
+>
+> (b) as had been permitted under section 40 or 41 of the Agricultural Holdings (Scotland) Act 2003 (asp 11),
+>
+> the tenant shall, subject to subsections (6) and (7) below, be entitled, on quitting the holding on termination of the tenancy, to recover from the landlord such compensation as fairly represents the value of the use, change or carrying out of the activities to an incoming tenant.
+>
+> (6) In ascertaining the amount of compensation payable under subsection (5) above—
+>
+> (a) there shall be taken into account any benefit which the landlord has agreed in writing to give the tenant in consideration of the matters referred to in that subsection; and
+>
+> (b) where a grant has been or will be made to the tenant in respect of those matters, subject to the conditions of the grant—
+>
+> (i) if either the landlord or tenant has not made or will not make a contribution towards the cost of the improvement, or neither of them has made or will make such a contribution, the grant shall not be taken into account;
+>
+> (ii) in any other case, there shall be taken into account such proportion of the grant as equals the proportion of the contribution by the tenant towards the cost of the improvement as a proportion of the total of his contribution added to that of the landlord.
+>
+> (7) No compensation is payable under subsection (5) above if, owing to—
+>
+> (a) any of the matters referred to in that subsection, the land is unsuitable for use for agriculture by an incoming tenant; or
+>
+> (b) any use of fixed equipment in connection with any of those matters, the landlord would, at the commencement of an incoming tenant’s tenancy, be unable to fulfil his obligations under the lease as to fixed equipment,
+>
+> in so far as those matters or, as the case may be, that use is attributable to those facts.
+>
+> (8) Where the tenant has remained in occupation of the holding during two or more tenancies, he shall not be deprived of his right to compensation under this section by reason only that the use of the land or change to the land did not occur during the tenancy on the termination of which he quits the holding.
+
+.
+
+(2) In section 47 (provisions supplementary to sections 45 and 46) of that Act, in subsection (1), for the words “under section 45” there is substituted “ by the landlord under section 45 or 45A ”.
+
+#### [[^F76]New types of tenancy]
+
+##### 52 Compensation for disturbance
+
+(1) Where—
+
+(a) any land is resumed under section 17; or
+
+(b) a short limited duration tenancy [[^F77], a limited duration tenancy or a modern limited duration tenancy] terminates by notice under subsection (3) of that section,
+
+compensation for disturbance is payable by the landlord to the tenant.
+
+(2) Subsections (3) to (6) of section 43 (compensation for disturbance) of the 1991 Act apply in relation to compensation payable under subsection (1) above as they do in relation to compensation payable under that section, but as if—
+
+(a) in those subsections, the references to the holding were references to the land;
+
+(b) in subsection (6)—
+
+(i) the reference to the tenant of an agricultural holding were a reference to the tenant of the short limited duration tenancy [[^F78], limited duration tenancy or modern limited duration tenancy] ; and
+
+(ii) the reference to a notice to quit given by the landlord were a reference to the termination of the tenancy; and
+
+(c) where the resumption under section 17 is of part of the land—
+
+(i) the references to the land in those subsections of section 43 of that Act by virtue of paragraph (a) of this subsection were references to that part; and
+
+(ii) the references to the rent in subsection (4)(a) and (b) of that section were references to the rent proportionate to the part.
+
+(3) Where the tenancy terminates as mentioned in subsection (1)(b) and—
+
+(a) the part of the land affected by the notice under subsection (2) of section 17, together with any part of the land resumed following a previous such notice is—
+
+(i) less than a quarter of the original area of the land comprised in the lease constituting the tenancy; or
+
+(ii) of a rental value less than a quarter of the rental value of that area of land; and
+
+(b) the remainder of the land is reasonably capable of being farmed separately,
+
+compensation is payable under subsection (1) only in respect of the part of the land to which the notice relates.
+
+(4) In a case mentioned in subsection (2)(c), in determining the amount of compensation payable, account is to be taken of any benefit or relief allowed to the tenant under the lease in respect of the part resumed.
+
+(5) Where compensation is payable under subsection (1)(a), in addition to that compensation, compensation is payable by the landlord to the tenant of an amount equal to the additional benefit (if any) which would have accrued to the tenant if the land (instead of being resumed on the date of resumption) had been resumed on the expiry of the period of 12 months from the end of the year of tenancy current at the date 2 months before the date of resumption.
+
+##### 53 Compensation for other particular things
+
+(1) Section 44 (compensation for continuous adoption of special standard of farming) of the 1991 Act applies to short limited duration tenancies[[^F79], limited duration tenancies and modern limited duration tenancies] as it does to 1991 Act tenancies, but as if—
+
+(a) the references to the holding were references to the land;
+
+(b) in subsection (2) of that section, the reference to a record of fixed equipment were a reference to fixed equipment specified under section 16 [[^F80]or 16A] of this Act; the reference to the date of the record were a reference to the date on which the equipment was so specified; and the words from “or” to the end were omitted; and
+
+(c) in subsection (3) of that section, the reference to Part IV of that Act were a reference to section 45(1) of this Act.
+
+(2) Section 45A (compensation arising as a result of diversification etc.) of that Act, as read with subsection (1) of section 47 of that Act, applies to limited duration tenancies [[^F81]and to modern limited duration tenancies] as it does to 1991 Act tenancies, but as if the references to the holding were references to the land.
+
+(3) Section 52 (compensation for damage by game) of that Act applies to short limited duration tenancies[[^F82], limited duration tenancies and modern limited duration tenancies] as it does to 1991 Act tenancies.
+
+### Chapter 3 — Compensation where compulsory acquisition of land
+
+#### 54 Compensation where compulsory acquisition of land
+
+(1) Subject to subsection (4), this subsection applies where, in pursuance of any enactment providing for the acquisition or taking of possession of land compulsorily, any person (the “acquiring authority”) acquires the interest of the tenant under, or takes possession of the land or any part of the land comprised in a lease constituting, a short limited duration tenancy [[^F83], a limited duration tenancy or a modern limited duration tenancy] .
+
+(2) Where subsection (1) applies, compensation for disturbance is payable by the acquiring authority to the tenant of an amount equal to four times the annual rent of the land or, in the case of part of the land, four times the annual rent proportionate to that part.
+
+(3) For the purposes of subsection (2), the tenant is deemed not to be the tenant in so far as, immediately before the acquiring of the interest or the taking of possession mentioned in subsection (1), the tenant was not in possession, nor entitled to take possession, of any of the land.
+
+(4) Subsection (1) does not apply—
+
+(a) where the acquiring authority requires the land or part of the land for the purposes of agricultural research or experiment or of demonstrating agricultural methods; or
+
+(b) where the Scottish Ministers acquire the land or part of the land under section 57(1)(c) or 64 of the Agriculture (Scotland) Act 1948 (c. 45).
+
+(5) For the purposes of subsection (4)(a), where an acquiring authority exercises, in relation to any land, power to acquire or take possession of land compulsorily which is conferred on the authority by virtue of section 189 of the Town and Country Planning (Scotland) Act 1997 (c. 8) or section 7 of the New Towns (Scotland) Act 1968 (c. 16), the authority is deemed not to require the land for any purpose mentioned in that subsection.
+
+(6) Schedule 8 to the 1991 Act has effect in relation to payments under subsection (2) as it does in relation to payments under section 56 (additional payments in consequence of compulsory acquisition etc.) of that Act, but as if—
+
+(a) the references to sections 54 and 56 of that Act were references to that subsection;
+
+(b) the references to sections 13 and 15 of that Act were references to sections 9 and 10 of this Act respectively; and
+
+(c) any reference to, or in relation to, statutory small tenants were omitted.
+
+(7) Any reference in this section to the acquisition of property is a reference to the vesting of the property in the person acquiring it.
+
+### Chapter 4 — Miscellaneous provision as to compensation
+
+#### 55 Right to compensation for yielding vacant possession
+
+(1) This section applies to—
+
+(a) a 1991 Act tenancy; [^F84]...
+
+(b) a limited duration tenancy created under section 2 [[^F85], and
+
+(c) a modern limited duration tenancy.]
+
+(2) Where the landlord wishes to sell the land with vacant possession, the landlord may enter into an agreement in writing with the tenant that—
+
+(a) the tenant will give notice of intention to quit and then vacate the land by such date as may be specified in the agreement; and
+
+(b) the landlord, having sold the land, will pay to the tenant an amount of compensation for so doing calculated by reference to subsection (3) below.
+
+(3) That amount is, subject to subsection (8), half of the difference between—
+
+(a) the price for which the land is sold; and
+
+(b) the estimated value of the land if it had been sold with the tenant still in occupation,
+
+minus half of the cost of the valuation carried out for the purposes of paragraph (b).
+
+(4) Where [[^F86]the tenancy is a limited duration tenancy or a modern limited duration tenancy and] the tenant wishes to quit the land, the tenant may enter into an agreement in writing with the landlord that—
+
+(a) the tenant will give notice of intention to quit and then vacate the land by such date as may be specified in the agreement; and
+
+(b) the landlord will pay to the tenant an amount of compensation for so doing calculated by reference to subsection (5) below.
+
+(5) That amount is, subject to subsection (8), half of the difference between—
+
+(a) the estimated value of the land if sold with vacant possession; and
+
+(b) the estimated value of the land if sold with the tenant still in occupation,
+
+minus half of the cost of the valuations carried out for the purposes of paragraphs (a) and (b).
+
+(6) Any valuation for the purposes of this section is to be carried out by a valuer appointed by agreement between the landlord and the tenant or by a person nominated by them; and in this section “valuer” includes two valuers with an oversman.
+
+(7) A valuer appointed or nominated under subsection (6) is to act, so far as practicable, as if the valuation was subject to subsections (2) to (7) of section 34.
+
+(8) The amount of compensation under subsection (3) or (5) shall take account of—
+
+(a) where the tenancy is a limited duration tenancy, the proportion of the term of the tenancy [[^F87]or a modern limited duration tenancy] which is unexpired; and
+
+(b) in any case, any—
+
+(i) investments;
+
+(ii) improvements; and
+
+(iii) repairs and maintenance,
+
+in the holding made by both tenant and landlord over the period of the lease.
+
+#### 56 No right to penal rent etc.
+
+The landlord under a short limited duration tenancy [[^F88], a limited duration tenancy or a modern limited duration tenancy] is not entitled to recover any sum, by way of higher rent, liquidated damages or otherwise, in consequence of any breach or non-fulfilment of a term or condition of the lease, which is in excess of the damage actually suffered by the landlord in consequence of the breach or non-fulfilment; and any provision of the lease to the contrary is of no effect.
+
+#### 57 Provision as to parts of land and divided land
+
+(1) Where any land comprised in a lease constituting a short limited duration tenancy [[^F89], a limited duration tenancy or a modern limited duration tenancy] is not agricultural land only because of the reason mentioned in subsection (2), the provisions of this Part as to compensation apply as if the remainder of the land were the land comprised in the lease.
+
+(2) The reason is that, due to the nature of the building on the land or the use to which the land is put, the land would not, if separately let when the tenancy commenced, have been capable of being the subject of the tenancy.
+
+(3) Where the interest of the landlord in a short limited duration tenancy [[^F90], a limited duration tenancy or a modern limited duration tenancy] has become vested in several parts in more than one person and the rent payable by the tenant under the lease has not been apportioned with the tenant’s consent or under any enactment, the tenant is entitled to require that any compensation payable to the tenant under this Part be determined as if the land had not been divided.
+
+(4) For the purposes of subsection (3), the Land Court, where necessary, is to apportion the amount payable between the persons who together constitute the landlord, and any additional expenses of the determination caused by the apportionment are to be directed by the Land Court to be paid by those persons in such proportions as it determines.
+
+#### 58 Compensation not payable where direction as to permanent pasture
+
+(1) Notwithstanding any provision of this Part or any custom or agreement—
+
+(a) no compensation is payable under this Part (except under paragraph (b)) to the tenant in respect of anything done in pursuance of any direction as to permanent pasture given by virtue of section 15; and
+
+(b) in assessing compensation to an outgoing tenant where land has been ploughed up in pursuance of any such direction, the value per hectare of any tenant’s pasture (being pasture laid down at the expense of the tenant or paid for by the tenant on entering the tenancy) comprised in the land is to be taken not to exceed the average value per hectare of the whole of the tenant’s pasture comprised in the land on the termination of the tenancy.
+
+(2) Where an improvement specified in Part III of Schedule 5 to the 1991 Act (that Part of that Schedule having effect for the purposes of this subsection and section 15 as it does for the purposes of section 9 of that Act) is carried out for the purposes of any requirement in relation to permanent pasture provided for by virtue of section 15, the tenant is not entitled to compensation for the improvement.
+
+#### 59 Extent to which compensation recoverable under agreements
+
+(1) Where by virtue of any provision of this Part compensation is payable to a landlord or tenant of a short limited duration tenancy [[^F91], a limited duration tenancy or a modern limited duration tenancy] , that person—
+
+(a) is entitled to such compensation notwithstanding the terms of any agreement between them; and
+
+(b) is not entitled to such compensation except by virtue of that provision,
+
+but this subsection is subject to any express provision by virtue of this Part to the contrary.
+
+(2) Where the landlord and tenant agree in writing for such a variation of the terms of the lease as may be made by a direction by virtue of section 15, the agreement may also provide for the exclusion of compensation on the same basis as under section 58(1).
+
+(3) In a case for which there is no provision for compensation by virtue of this Part, a claim for compensation by a landlord or tenant of a short limited duration tenancy [[^F92], a limited duration tenancy or a modern limited duration tenancy] is not enforceable except under an agreement in writing.
+
+#### 59A [[^F93]Compensation under repairing tenancies
+
+The Scottish Ministers may by regulations provide that Part 4, in its application to repairing tenancies, has effect with such modifications as the regulations may specify.]
+
+## Part 5 — Miscellaneous amendments to the 1991 Act
+
+### 60 Agreements as to fixed equipment
+
+In section 5 (fixed equipment and insurance premiums) of the 1991 Act—
+
+(a) subsection (3) is repealed; and
+
+(b) after subsection (4) there is inserted—
+
+> (4A) Any agreement between the landlord and tenant made before the coming into force of this subsection which purports to provide for the tenant to execute on behalf of the landlord (whether wholly at his expense or wholly or partly at the expense of the landlord) any work effecting such replacement or renewal of the building or other fixed equipment on the holding as is rendered necessary by natural decay or by fair wear and tear shall be nullified provided that subsection (4B) below is complied with.
+>
+> (4B) This subsection is complied with if—
+>
+> (a) following a determination (in accordance with section 13 of this Act) of the rent payable in respect of the holding, the tenant gives notice to the landlord that the agreement be nullified as from a date specified in the notice; and
+>
+> (b) on that date—
+>
+> (i) the buildings and other fixed equipment are in a reasonable state of repair; or
+>
+> (ii) if the buildings and other fixed equipment were in an unreasonable state of repair when the agreement was made, they are not in a worse state of repair than they were then.
+>
+> (4C) Any agreement between the landlord and tenant made before the coming into force of this subsection which purports to provide for the tenant to bear any expense of any work effecting such replacement or renewal of the building or other fixed equipment on the holding as is rendered necessary by natural decay or by fair wear and tear shall be subject to subsections (4A) and (4B) above.
+>
+> (4D) Any agreement between the landlord and tenant made on or after this subsection comes into force which purports to provide for the tenant to bear any expense of any work which the landlord is required to execute in order to fulfil his obligations under the lease shall be null and void.
+
+.
+
+### 61 Making of records
+
+(1) In section 8 (record of condition, etc. of holding) of the 1991 Act—
+
+(a) for subsection (3) there is substituted—
+
+> (3) A record under this section shall be made by a person to be appointed by agreement between the parties; but, in the absence of such agreement, the Scottish Ministers shall on the application of either party appoint a person to make the record.
+>
+> (3A) The Scottish Ministers may charge such reasonable fee as they may determine for making an appointment under subsection (3) above.
+>
+> (3B) The record shall be in such form as the parties agree or, in the absence of such agreement, as the recorder considers appropriate.
+
+;
+
+(b) in subsection (6), the words “, on the application of the landlord or tenant,” are repealed; and
+
+(c) in each of subsections (8) and (9), for the word “the” in the second place where it appears there is substituted “ any ”.
+
+(2) In section 80 (determination of matters where the Scottish Ministers are landlord or tenant) of that Act—
+
+(a) in subsection (2), after “Act” insert “ (except section 8) ”; and
+
+(b) after that subsection there is inserted—
+
+> (3) Where this section applies, section 8 of this Act shall have effect—
+>
+> (a) with the substitution for “Scottish Ministers” in subsection (3) of “sheriff”;
+>
+> (b) as if subsection (3A) were omitted.
+
+.
+
+### 62 Interdict in certain cases
+
+In section 7 (freedom of cropping and disposal of produce) of the 1991 Act—
+
+(a) in subsection (3), the words “, but no other” are repealed;
+
+(b) after that subsection there is inserted—
+
+> (3A) Such interdict as is, or damages as are, mentioned in subsection (3) above shall be obtainable only in the Land Court; and, notwithstanding the terms of section 84 of the Agricultural Holdings (Scotland) Act 2003 (asp 11), no other remedy shall be available in respect of the circumstances mentioned in that subsection.
+
+;
+
+(c) for subsection (4) there is substituted—
+
+> (4) For the purposes of any proceedings for an interdict brought under paragraph (a) of subsection (3) above, where the question whether the tenant is exercising or has exercised his rights under subsection (1) above in such a manner as is referred to in subsection (3) above has, by virtue of section 61(1) of this Act, been determined by arbitration, a certificate of the arbiter as to his determination of the question shall, for the purposes of any proceedings brought under this section, be conclusive proof of the facts stated in the certificate.
+
+; and
+
+(d) in subsection (6)(b), after the word “or” in the second place where it appears there is inserted “ it has been determined ”.
+
+### 63 Variation of rent
+
+In section 13 (variation of rent) of the 1991 Act—
+
+(a) in subsection (2), for the word “(7)” there is substituted “ (7A) ”;
+
+(b) in subsection (3), for the words from “there” to the end there is substituted
+
+> disregarding—
+>
+> (a) any effect on rent of the fact that the tenant is in occupation of the holding; and
+>
+> (b) any distortion in rent due to a scarcity of lets,
+>
+> but having regard to the matters referred to in subsection (4) below.
+
+;
+
+(c) for subsection (4) there is substituted—
+
+> (4) For the purposes of determining the rent payable under subsection (3) above, the Land Court shall have regard to the following—
+>
+> (a) information about rents of other agricultural holdings (including when fixed) and any factors affecting those rents (or any of them) except any distortion due to a scarcity of lets; and
+>
+> (b) the current economic conditions in the relevant sector of agriculture.
+
+;
+
+(d) in subsection (7)—
+
+(i) the words from “any” to the end become paragraph (a); and
+
+(ii) after that paragraph there is inserted
+
+> ; or
+>
+> (b) any reduction in the rental value of the holding resulting from—
+>
+> (i) the use of the land or part of the land, or changes to the land, for a purpose that is not an agricultural purpose; or
+>
+> (ii) the carrying out of conservation activities on the land.
+
+; and
+
+(e) after that subsection there is inserted—
+
+> (7A) The Land Court shall take into account any increase in the rental value of the holding resulting from the use of the land for a purpose that is not an agricultural purpose.
+
+.
+
+### 64 Tenant’s right to withhold rent
+
+After section 15 (increase of rent for certain improvements by landlord) of the 1991 Act there is inserted—
+
+> **Tenant’s right to withhold rent**
+>
+> **15A Tenant’s right to withhold rent**
+>
+> (1) Subsection (2) below shall apply to an order—
+>
+> (a) made under subsection (1)(b) of section 84 of the Agricultural Holdings (Scotland) Act 2003 (asp 11); and
+>
+> (b) which is in relation to a failure of the landlord of an agricultural holding to fulfil any obligation he has towards the tenant in respect of fixed equipment.
+>
+> (2) Where the landlord has failed—
+>
+> (a) in a material regard; and
+>
+> (b) as at the date specified under subsection (2) of that section,
+>
+> to comply with an order to which this subsection applies, the tenant may apply to the Land Court for an order under subsection (3) below.
+>
+> (3) An order under this subsection may (either or both)—
+>
+> (a) authorise the tenant to carry out such work as the landlord would have to have carried out for the landlord to comply with the order to which subsection (2) above applies; and
+>
+> (b) authorise the tenant to withhold payment of the rent payable to the landlord in respect of the holding on the condition that the tenant shall consign to the Land Court the amount otherwise so payable.
+>
+> (4) The Land Court may, on the application of the tenant, from time to time release to the tenant any of the amount so consigned towards or in satisfaction of any reasonable costs incurred or to be incurred by the tenant for the purposes of or in connection with the carrying out of such work as is mentioned in paragraph (a) of subsection (3) above.
+>
+> (5) The Land Court, on the application of the landlord and having regard to—
+>
+> (a) whether any work mentioned in paragraph (a) of subsection (3) above remains to be carried out; and
+>
+> (b) any costs mentioned in subsection (4) above,
+>
+> may terminate the order made under subsection (3) above if the Court consider that it would be not be appropriate for the order to remain in force.
+>
+> (6) Where the Land Court terminate the order made under subsection (3) above, the Court shall order such division between the landlord and tenant of the amount (or, where any of the amount has been released to the tenant, any remaining amount) consigned under subsection (3)(b) above as the Court consider to be equitable.
+>
+> (7) Any work carried out and authorised under subsection (3)(a) above shall be treated as having been carried out at the landlord’s expense in so far as the costs of the work have been or are to be satisfied by the release to the tenant of any amount consigned under subsection (3)(b) above.
+>
+> (8) Any right of the landlord—
+>
+> (a) to irritate the lease on the grounds of non-payment of rent; or
+>
+> (b) under section 20 or 22 of this Act in relation to non-payment of rent,
+>
+> shall be unenforceable if the non-payment is in consequence of an authorisation under subsection (3)(b) above to withhold rent.
+>
+> (9) Any term of the lease or of any agreement between the landlord and tenant that purports to deprive the tenant of any right conferred by virtue of this section shall, in so far as it so purports, be null and void.
+
+.
+
+### 65 Termination of tenancy
+
+After section 16 (leases not terminated by variation of terms, etc.) of the 1991 Act there is inserted—
+
+> **16A Leases not terminated on grounds of non-residence**
+>
+> (1) The lease of an agricultural holding shall not be brought to an end, and accordingly the landlord shall not be entitled to bring proceedings to terminate the lease or to treat it as at an end, by reason only that the tenant is not or has not been resident on the agricultural holding.
+>
+> (2) Where there is a term in a lease of an agricultural holding which purports to require the tenant to reside on the holding, there shall, in place of that term, be deemed to be incorporated in the lease an undertaking by the tenant that he will, if he does not reside on the holding, ensure that a person who has the skills and experience necessary to farm the holding in accordance with the rules of good husbandry resides on the holding.
+
+.
+
+### 66 Assignation and subletting of tenancy
+
+After section 10 (power of landlord to enter on holding) of the 1991 Act there is inserted—
+
+> **10A Assignation and subletting of tenancy**
+>
+> (1) A lease of an agricultural holding may be assigned by the tenant to any of the persons who would be entitled to succeed to his estate on intestacy by virtue of the Succession (Scotland) Act 1964 (c. 41) if, following notice under subsection (2), the landlord consents to a proposed assignation.
+>
+> (2) The tenant must give the landlord a notice in writing of any intention of the tenant to assign the lease; and the notice must include the particulars of the proposed assignee, the terms upon which the assignation is to be made and the date on which it is to take effect.
+>
+> (3) The landlord may withhold consent to the proposed assignation if there are reasonable grounds for doing so; and, in particular the landlord may withhold consent if not satisfied that the proposed assignee—
+>
+> (a) would have the ability to pay—
+>
+> (i) the rent due under the lease; or
+>
+> (ii) for adequate maintenance of the land; or
+>
+> (b) has the skills or experience that would be required properly to manage and maintain the land in accordance with the rules of good husbandry.
+>
+> (4) Any such withholding of consent (and the grounds for withholding it) is to be intimated in writing to the tenant within 30 days of the giving of the notice under subsection (2); and, if no such intimation is made, the landlord is deemed to have consented to the proposed assignation.
+>
+> (5) Any term of a lease or of an agreement between the landlord and tenant which purports to provide that the lease of an agricultural holding may not be assigned under this section shall, in so far as it so purports, be null and void.
+
+.
+
+### 67 Notices to quit
+
+(1) In section 22 (restriction on operation of notices to quit) of the 1991 Act, in paragraph (b) of subsection (2), for the words from “has” to the end there is substituted “ requires to be obtained, and has been obtained, under the enactments relating to town and country planning ”.
+
+(2) In section 24 (consents for the purposes of section 22) of that Act—
+
+(a) in subsection (2)—
+
+(i) the words from “that” in the second place where it appears to the end become paragraph (a); and
+
+(ii) after that paragraph there is added
+
+> ; or
+>
+> (b) where the notice is to quit the whole of the holding, that use of the land for the purpose for which the landlord proposes to terminate the tenancy would not create greater economic and social benefits to the community than would exist were the tenancy not terminated.
+
+; and
+
+(b) after subsection (4) there is added—
+
+> (5) For the purposes of subsection (2)(b) above—
+>
+> (a) “the community”—
+>
+> (i) shall be defined by reference to the postcode unit (or postcode units) pertaining to the holding and the vicinity of the holding; and
+>
+> (ii) comprises the persons from time to time resident in that postcode unit (or any of those postcode units);
+>
+> (b) “economic benefits” shall be defined by reference to an increase, or the potential for increase, in employment or income;
+>
+> (c) “social benefits” shall be defined by reference to the likely—
+>
+> (i) sustaining of, or increase in, the population; and
+>
+> (ii) improvement of amenities and services.
+>
+> (6) In subsection (5)(a) above, “postcode unit” means an area, determined by the Registrar General for Scotland, in relation to which a single postcode is used to facilitate the identification of postal service delivery points in the area.
+>
+> (7) The Land Court shall, for the purposes of its determining the matters referred to in subsection (2)(b) above, have regard to such representations as it considers may assist in its consideration of those matters.
+
+.
+
+### 68 Restoration of agricultural holding following mineral exploitation
+
+After section 29 (notice to quit part of holding to be valid in certain cases) of the 1991 Act there is inserted—
+
+> **29A Holding to be restored in certain circumstances**
+>
+> (1) Subsection (2) below applies where the tenancy of part of an agricultural holding has been terminated by reason of a notice to quit which is rendered valid by virtue of subsections (1)(b) and (2)(f) of section 29 of this Act.
+>
+> (2) Where—
+>
+> (a) this subsection applies; and
+>
+> (b) the land which formed that part has subsequently been made suitable for, and is available for, agricultural use,
+>
+> that land shall, if the conditions in subsection (3) below are fulfilled, be restored to the holding.
+>
+> (3) The conditions are that—
+>
+> (a) the tenancy of the holding continues in force with the same landlord and tenant under the lease; and
+>
+> (b) any compensation paid to the tenant in consequence of the termination was calculated on the basis that the holding would be restored under this section.
+
+.
+
+### 69 Good husbandry and conservation activities
+
+(1) In subsection (2) of section 85 (interpretation) of the 1991 Act, after “shall” there is inserted “ , subject to subsections (2A) and (2B) below, ”.
+
+(2) After that subsection there is inserted—
+
+> (2A) For the purposes of this Act, conservation activities are to be treated as being in accordance with the rules of good husbandry if they are carried out in accordance with—
+>
+> (a) an agreement entered into under any enactment by the tenant; or
+>
+> (b) the conditions of—
+>
+> (i) any grant for the purpose of such activities paid out of the Scottish Consolidated Fund; or
+>
+> (ii) such other grant of a public nature as may be prescribed.
+>
+> (2B) For the purposes of this Act, such use of the land or part of the land, or such change to the land, for a purpose that is not an agricultural purpose as has been permitted under section 40 or 41 of the Agricultural Holdings (Scotland) Act 2003 (asp 11) is to be treated as being in accordance with the rules of good husbandry.
+
+.
+
+## Part 6 — Rights of certain persons where tenant is a partnership
+
+### 70 Rights of certain persons where tenant is a partnership
+
+(1) Subsection (2) applies to—
+
+(a) a 1991 Act tenancy if the lease constituting the tenancy is entered into on or after the coming into force of this section; and
+
+(b) a tenancy under a lease constituting a short limited duration tenancy [[^F94], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] ,
+
+where the tenant is a partnership.
+
+(2) Where this subsection applies and—
+
+(a) any partner is—
+
+(i) the landlord or an associate of the landlord; or
+
+(ii) a partnership or a company in which the landlord has a relevant interest; and
+
+(b) there is any other partner,
+
+subsections (3) and (4) apply.
+
+(3) Where this subsection applies, any partner not mentioned in subsection (2)(a) may exercise or enforce any right of a tenant conferred by virtue of this Act or the 1991 Act as if the partner were the tenant in the partner’s own right.
+
+(4) Where this subsection applies, if the tenancy purports to be terminated as a consequence of—
+
+(a) the dissolution of the partnership—
+
+(i) in accordance with the partnership agreement; or
+
+(ii) due to the actings of any partner mentioned in subsection (2)(a);
+
+(b) the renunciation of the tenancy by such a partner; or
+
+(c) a breach of the tenancy by such a partner,
+
+subsection (5) applies.
+
+(5) Where this subsection applies, notwithstanding the purported termination of the tenancy—
+
+(a) the tenancy continues to have effect; and
+
+(b) any partner not mentioned in subsection (2)(a) becomes the tenant (or a joint tenant) under the tenancy in the partner’s own right,
+
+if the partner gives notice to the landlord in accordance with subsection (6).
+
+(6) Notice is given in accordance with this subsection if—
+
+(a) it is in writing;
+
+(b) it is given within 28 days of the purported termination of the tenancy; and
+
+(c) it states that the partner intends to become the tenant (or a joint tenant) under the tenancy in the partner’s own right.
+
+(7) For the purposes of this section and section 72, a landlord has a relevant interest in a partnership or company if the landlord or an associate of the landlord is—
+
+(a) a partner in the partnership;
+
+(b) a partner in a partnership which forms part of the partnership;
+
+(c) a shareholder in the company; or
+
+(d) the holder of a standard security or floating charge over an interest in a tenancy where the partnership or the company is a partner in the tenant.
+
+(8) For the purposes of this section and section 72, a person is an associate of a landlord if the person is—
+
+(a) where the landlord is a partnership or a company, a partner in the landlord or, as the case may be, a shareholder of the landlord;
+
+(b) where an associate of the landlord is a partnership or a company, a partner in or, as the case may be, a shareholder of that associate;
+
+(c) an agent of the landlord or of an associate of the landlord; or
+
+(d) a member of the landlord’s family.
+
+(9) The Scottish Ministers may by order modify (either or both) subsections (7) and (8).
+
+### 71 Meaning of “family”
+
+(1) For the purposes of section 70(8)(d), who the members of a person’s family are is to be construed in accordance with subsections (2) and (3).
+
+(2) A person (“AG”) is a member of another person’s family if—
+
+(a) AG is the person’s spouse [[^F95]or civil partner] or AG and the person live together as husband and wife or in a relationship which has the characteristics of the relationship between husband and wife except that AG and the person are of the same sex; or
+
+(b) AG is the person’s parent, grandparent, child, grandchild, sibling, uncle, aunt, nephew, niece or cousin.
+
+(3) For the purposes of subsection (2)(b)—
+
+(a) a relationship by marriage [[^F96]or by virtue of civil partnership] is to be treated as a relationship by blood;
+
+(b) a relationship of the half-blood is to be treated as a relationship of the whole blood;
+
+(c) if AG is—
+
+(i) the stepchild of the person, AG is to be treated as the person’s child;
+
+(ii) the step-parent of the person, AG is to be treated as the person’s parent;
+
+(d) if AG is brought up or treated by the person as if the person’s child, AG is to be treated as the person’s child.
+
+(4) The Scottish Ministers may by order modify (any or all) subsections (1) to (3).
+
+### 72 Rights of certain persons where tenant is a limited partnership
+
+(1) Subsections (2) and (3) apply to a 1991 Act tenancy where the lease constituting the tenancy is entered into before the coming into force of this section and—
+
+(a) the tenant is a limited partnership; and
+
+(b) any limited partner is—
+
+(i) the landlord or an associate of the landlord; or
+
+(ii) a partnership or a company in which the landlord has a relevant interest.
+
+(2) Where this subsection applies, any general partner may exercise or enforce any right of a tenant conferred by virtue of Part 2 of this Act as if the partner were the tenant in the partner’s own right [^F97]....
+
+(3) Where this subsection applies and the tenancy purports to be terminated as a consequence of—
+
+(a) the dissolution of the partnership by notice served on or after 16th September 2002 by a limited partner mentioned in subsection (1)(b);
+
+(b) the renunciation of the tenancy on or after that date by such a partner; or
+
+(c) a breach of the tenancy on or after that date by such a partner,
+
+subsection (6) applies [^F98]....
+
+[^F99]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F100]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where this subsection applies, notwithstanding the purported termination of the tenancy—
+
+(a) the tenancy continues to have effect; and
+
+(b) any general partner becomes the tenant (or a joint tenant) under the tenancy in the partner’s own right,
+
+if the general partner gives notice to the landlord within 28 days of the purported termination of the tenancy or within 28 days of the coming into force of this section (whichever is the later) stating that the partner intends to become the tenant (or a joint tenant) under the tenancy in the partner’s own right.
+
+[^F101]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F101]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F101]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F101]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F101]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In this section, the expressions, “limited partnership”, “limited partner” and “general partner” are to be construed in accordance with the Limited Partnerships Act 1907 (c. 24).
+
+### 72A [[^F102]Application of section 73
+
+(1) Section 73 applies to a tenancy continuing to have effect by virtue of section 72(6) unless the tenancy is a relevant tenancy.
+
+(2) If—
+
+(a) the tenancy is a relevant tenancy,
+
+(b) the circumstances described in subsection (3) do not apply, and
+
+(c) the landlord gives an application notice to the tenant within the intimation period,
+
+section 73 applies to the tenancy from the date on which the application notice is given.
+
+(3) The circumstances are that—
+
+(a) the landlord purchased the landlord’s interest in the tenancy at a time when it was no longer possible for an order under section 72(8) to be made in respect of the tenancy, or
+
+(b) the landlord acquired (by any means) the landlord’s interest in the tenancy from—
+
+(i) the landlord who purchased that interest in the circumstances described in paragraph (a), or
+
+(ii) a successor of such a landlord.
+
+(4) In this section—
+
+- “application notice” means a notice, in writing, intimating that the landlord may bring the tenancy to an end in accordance with section 73,
+
+- “the intimation period” means the period of 12 months beginning on 28th November 2014,
+
+- “relevant tenancy” means a tenancy continuing to have effect by virtue of section 72(6) where—
+
+  - the action taken by a limited partner in consequence of which the tenancy was purportedly terminated (being an action described in section 72(3)(a) to (c)) occurred before 1st July 2003,
+  - notice was given to the landlord under section 72(6) before the coming into force of this section, and
+  - there is no ongoing application for an order under section 72(8) in respect of the tenancy;
+
+- “successor” includes the executor, assignee, legatee, disponee, guardian, legal representative (within the meaning of Part I of the Children (Scotland) Act 1995) or (in relation to a sequestration) trustee or interim trustee, of a landlord.
+
+(5) For the purposes of this section, a reference to an ongoing application for an order under section 72(8) is a reference to an application made to the Land Court under section 72(7) before the coming into force of this section and which, at that time—
+
+(a) has not been finally determined by the Land Court, or
+
+(b) is subject to an appeal from that Court which has not been finally determined.]
+
+### 73 Termination of tenancy continued under section 72
+
+(1) Where this section applies, subsections (1) to (3) and (5) of section 21 (notice to quit and notice of intention to quit) of the 1991 Act do not apply in relation to the bringing of the tenancy to an end by the landlord.
+
+(2) Subsections (4), (6) and (7) of that section apply in relation to subsections (3) to (5) as they apply in relation to subsections (1) to (3) and (5) of that section.
+
+(3) The tenancy may be brought to an end by the landlord if the landlord gives a notice under this subsection to the tenant.
+
+(4) Subject to subsection (7), a notice under subsection (3) must—
+
+(a) be in writing and state that the tenant shall quit the land on the expiry of the stipulated endurance of the lease constituting the tenancy (or, where the lease has continued in force by tacit relocation, on the expiry of a period of continuation); and
+
+(b) be given not less than one year nor more than two years before the expiry of the stipulated endurance of the lease (or expiry of the period of continuation), provided that not less than 90 days have elapsed from the date on which the intimation mentioned in subsection (5) is given.
+
+(5) Subject to subsection (7), a notice under subsection (3) is of no effect unless the landlord has given written intimation of the landlord’s intention to terminate the tenancy to the tenant not less than two years nor more than three years before the expiry of the stipulated endurance of the lease (or expiry of the period of continuation).
+
+(6) The landlord may apply to the Land Court for an order under subsection (7).
+
+(7) An order under this subsection is an order that, instead of the periods of time mentioned in subsections (4) and (5), such shorter periods as the Land Court may specify are to apply.
+
+(8) The Land Court is to make such an order if (but only if) it is satisfied that—
+
+(a) service of the notice mentioned in paragraph (a) of subsection (3) of section 72, or the thing mentioned in paragraph (b) or (c) of that subsection, occurred otherwise than for the purposes of depriving the tenant (being then a general partner) of any right deriving from section 72; and
+
+(b) it is reasonable to make the order.
+
+### 74 Application of right to buy provisions
+
+The Scottish Ministers may by regulations—
+
+(a) provide that Part 2, in its application in relation to—
+
+(i) partnerships who are tenants; and
+
+(ii) such partners of partnerships as may exercise or enforce any right of tenants conferred by that Part,
+
+has effect with or subject to such modifications as the regulations may specify; and
+
+(b) make such further provision in relation to such partnerships and partners as they consider necessary or expedient for the purposes of that Part.
+
+### 74A [[^F103]Application of Part 3A of the 1991 Act
+
+(1) The Scottish Ministers may by regulations provide that Part 3A of the 1991 Act does not apply in relation to such types of partnership who are tenants, and in such circumstances, as the regulations may specify.
+
+(2) The Scottish Ministers may by regulations—
+
+(a) provide that general partners, of such types of limited partnership as the regulations may specify, may, in such circumstances as may be so specified, exercise and enforce any rights of tenants conferred by Part 3A of that Act,
+
+(b) provide that Part 3A, in its application in relation to—
+
+(i) partnerships who are tenants, and
+
+(ii) such partners of partnerships as may exercise or enforce any rights of tenants conferred by that Part,
+
+has effect with or subject to such modifications as the regulations may specify,
+
+(c) make such further provision in relation to such partnerships and partners as they consider appropriate for the purposes of that Part.
+
+(3) Regulations under subsection (2) may make different provision for different types of partnership.]
+
+## Part 7 — Jurisdiction of the Land Court and the resolution of disputes
+
+### 1991 Act tenancies
+
+#### 75 Jurisdiction of the Land Court
+
+For section 60 (questions between landlord and tenant) of the 1991 Act there is substituted—
+
+> **60 Resolution of disputes by Land Court**
+>
+> (1) The Land Court shall have jurisdiction to hear and determine any of the matters referred to in subsection (2) below.
+>
+> (2) Those matters are—
+>
+> (a) whether a tenancy of an agricultural holding in relation to which this Act applies exists or has been terminated;
+>
+> (b) any question or difference between the landlord and tenant of such a holding arising out of the tenancy or in connection with the holding, whether such question or difference arises during the currency of or on or after the termination of the tenancy;
+>
+> (c) any claim by the landlord or tenant of such a holding against the other which arises, under this Act or under any rule of law, custom or agreement, on or out of the termination of the tenancy (or part thereof);
+>
+> (d) any other issue of fact or law relating to—
+>
+> (i) a tenancy of such a holding or any other type of agricultural tenancy; or
+>
+> (ii) agriculture,
+>
+> which the landlord or tenant reasonably require to have resolved.
+>
+> (3) Such matters include, in particular (and without prejudice to the generality of subsection (2) above), any question or difference between the landlord and tenant arising in relation to Part 2 of the Agricultural Holdings (Scotland) Act 2003 (asp 11) except any question or difference of fact relating to the determination of the price payable by the tenant for the purposes of that Part of that Act.
+>
+> (4) Such matters do not include any question as to—
+>
+> (a) who is entitled to succeed to the estate of a deceased person on intestacy by virtue of the Succession (Scotland) Act 1964 (c. 41);
+>
+> (b) the validity of—
+>
+> (i) any bequest; or
+>
+> (ii) any transfer,
+>
+> of an interest under the lease; or
+>
+> (c) whether any such transfer is in the best interests of the estate of a deceased person.
+>
+> (5) The Land Court shall also have jurisdiction to hear and determine any question or difference, between the tenant and any person with whom he has in pursuance of section 10A(1) of this Act entered into a contract assigning his interest under the lease, which arises out of or in connection with the assignation.
+>
+> (6) Any application to the Land Court for a matter to be determined by the Court under this Act may be made by either party or by them jointly.
+>
+> (7) In the application of this section to any question or difference arising in relation to Part 2 of the Agricultural Holdings (Scotland) Act 2003 (asp 11), “landlord” shall be construed as including a creditor in a standard security with a right to sell land (that expression being construed by reference to that Part of that Act) which comprises or forms part of an agricultural holding.
+>
+> (8) Any reference in this section to a landlord or tenant of an agricultural holding shall be construed as including a person who was formerly the landlord or tenant thereof.
+>
+> (9) Any other provision of an enactment which provides for the determination of a matter by the Land Court is without prejudice to this section.
+
+.
+
+#### 76 Arbitrations etc.
+
+For section 61 (arbitrations) of the 1991 Act there is substituted—
+
+> **61 Agreement to refer matters to arbitration**
+>
+> (1) Subject to subsection (2) below, where this Act makes provision for any matter to be determined by the Land Court, the matter may, if the landlord and tenant so agree at or after the time when the matter arises, instead of being so determined, be determined by arbitration.
+>
+> (2) Subsection (1) above does not apply in relation to any matter which may be determined by the Land Court—
+>
+> (a) in pursuance of section 8(6), 11, 12, 22, 26, 32, 39, 41(1), 55(7) or 66(2) or (2A) of this Act; or
+>
+> (b) on appeal.
+>
+> (3) In this Act, other than in section 61A, “arbitration” includes any other method of resolving the matter; and “arbiter” shall be construed accordingly.
+>
+> **61A Arbitration: procedure etc.**
+>
+> (1) This section applies to any arbitration to which a matter is referred by the landlord and tenant under section 61(1) of this Act.
+>
+> (2) The agreement of the parties to refer the matter to arbitration shall have the effect of depriving each party of his right to—
+>
+> (a) have the matter heard (or any issue in relation to the matter determined) by the Land Court (other than on appeal); and
+>
+> (b) agree under section 61(1) of this Act to another method of resolving the matter.
+>
+> (3) It shall be for the landlord and tenant to agree whether the arbitration is conducted by—
+>
+> (a) a single arbiter; or
+>
+> (b) two arbiters (with or without an oversman),
+>
+> and the arbiter or, as the case may be, each arbiter, may be appointed by the parties or by a person nominated by them.
+>
+> (4) The procedure to be followed at arbitration (including any matters to be taken into account by the arbiter and the matters to be contained in his award) shall, subject to subsection (5) below, be as the parties agree or, in the absence of such agreement, as the arbiter considers appropriate.
+>
+> (5) Any provision of this Act that would apply to the Land Court as respects its consideration or determination of any matter had the matter not been referred to arbitration shall apply as respects the consideration or determination of the matter by arbitration.
+>
+> (6) Any party to the arbitration may appeal to the Land Court against the arbiter’s award on a question of law within 28 days of the award; and in an appeal under this subsection the Court may—
+>
+> (a) quash, confirm or vary the award or any part of it; and
+>
+> (b) where the Court quashes the award or any part of it—
+>
+> (i) remit the case to the arbiter for further procedure; and
+>
+> (ii) direct the arbiter on any question of law relevant to the case.
+>
+> **61B Clauses in leases as to resolution of disputes**
+>
+> Any term of—
+>
+> (a) a lease of an agricultural holding in relation to which this Act applies; or
+>
+> (b) any agreement in connection with such a lease (other than an agreement under section 61(1) of this Act),
+>
+> that makes provision restricting any right of a landlord or tenant to apply to the Land Court under this Act to have a matter determined by the Court shall, in so far as it makes that provision, be null and void.
+
+.
+
+### Short limited duration tenancies and limited duration tenancies etc.
+
+#### 77 Resolution of disputes by Land Court
+
+(1) The Land Court has jurisdiction to hear and determine any of the matters referred to in subsection (2).
+
+(2) Those matters are—
+
+(a) whether—
+
+(i) a short limited duration tenancy;
+
+(ii) a limited duration tenancy; [^F104]...
+
+[[^F105](iia) a modern limited duration tenancy, or
+
+(iib) a repairing tenancy,]
+
+(iii) a tenancy to which section 3 applies,
+
+exists or has been terminated;
+
+(b) any question or difference between the landlord and tenant arising out of or in connection with any such tenancy, whether the question or difference arises during the currency of or on or after the termination of the tenancy;
+
+(c) any claim by the landlord or tenant of any such tenancy against the other which arises, by virtue of this Act or under any rule of law, custom or agreement, on or out of the termination of the tenancy or of any part of it;
+
+(d) any other issue of fact or law relating to—
+
+(i) any such tenancy or a 1991 Act tenancy; or
+
+(ii) agriculture,
+
+which the landlord or tenant reasonably require to have resolved.
+
+(3) Such matters do not include any question as to—
+
+(a) who is entitled to succeed to the estate of a deceased person on intestacy by virtue of the Succession (Scotland) Act 1964 (c. 41);
+
+(b) the validity of
+
+(i) any bequest; or
+
+(ii) any transfer,
+
+of any interest under the lease constituting the tenancy; or
+
+(c) whether any such transfer is in the best interests of the estate of a deceased person.
+
+(4) The Land Court also has jurisdiction to hear and determine any question or difference, between the tenant under a limited duration tenancy[[^F106], a modern limited duration tenancy or a repairing tenancy] and any person with whom the tenant has in pursuance of section 7(1) [[^F107]or, as the case may be, 7B(1), 7D(1) or 7D(7)] entered into a contract assigning the tenant’s interest under the lease constituting the tenancy, which arises out of or in connection with the assignation.
+
+(5) Any application to the Land Court for a matter to be determined by the Court by virtue of this Act may be made by either party or by them jointly.
+
+(6) Any reference in this section to a landlord or tenant of a tenancy is to be construed as including a person who was formerly the landlord or tenant of the tenancy.
+
+(7) Any other provision of an enactment which provides for the determination of any matter by the Land Court is without prejudice to this section.
+
+#### 78 Agreement to refer matters to arbitration
+
+(1) Subject to subsection (2), where by virtue of this Act [[^F108]or by virtue of section 116 of the Land Reform (Scotland) Act 2016] any matter may be determined by the Land Court, the matter may, if the landlord and tenant so agree at or after the time when the matter arises, instead of being so determined, be determined by—
+
+(a) arbitration; or
+
+(b) any other method of resolving the matter.
+
+(2) Subsection (1) does not apply in relation to any matter which may be determined by the Land Court—
+
+(a) in pursuance of [[^F109]section 21 or 22]; or
+
+(b) on appeal.
+
+#### 79 Arbitration: procedure etc.
+
+(1) This section applies to any arbitration to which a matter is referred by the landlord and tenant under section 78(1)(a).
+
+(2) The agreement of the parties to refer the matter to arbitration has the effect of depriving each party of the right to—
+
+(a) have the matter heard (or any issue in relation to the matter determined) by the Land Court (other than on appeal); and
+
+(b) agree under section 78(1)(b) to another method of resolving the matter.
+
+(3) It is for the landlord and tenant to agree whether the arbitration is conducted by—
+
+(a) a single arbiter; or
+
+(b) two arbiters (with or without an oversman),
+
+and the arbiter or, as the case may be, each arbiter may be appointed by the parties or by a person nominated by them.
+
+(4) The procedure to be followed at arbitration (including any matters to be taken into account by the arbiter and the matters to be contained in the arbiter’s award) is, subject to subsection (5), to be as the parties agree or, in the absence of such agreement, as the arbiter considers appropriate.
+
+(5) Any provision by virtue of this Act [[^F110]or by virtue of section 116 of the Land Reform (Scotland) Act 2016] that would apply to the Land Court as respects its consideration or determination of any matter had the matter not been referred to arbitration applies as respects the consideration or determination of the matter by arbitration.
+
+(6) Any party to the arbitration may appeal to the Land Court against the arbiter’s award on a question of law within 28 days of the award; and in an appeal under this subsection the Court may—
+
+(a) quash, confirm or vary the award or any part of it; and
+
+(b) where the Court quashes the award or any part of it—
+
+(i) remit the case to the arbiter for further procedure; and
+
+(ii) direct the arbiter on any question of law relevant to the case.
+
+#### 80 Other provisions as to the resolution of disputes
+
+(1) Section 62 (claims on termination of tenancy) of the 1991 Act applies to any claim referred to in section 77(2)(c) as it does to any claim referred to in section 60(2)(c) of that Act.
+
+(2) Section 65 (recovery of compensation and other sums due) of that Act applies to any award or agreement by virtue of this Act as it does to any award or agreement under that Act.
+
+(3) In section 66 (power to enable demand to remedy breach to be modified) of that Act, subsection (1) applies in relation to a matter which may be determined by the Land Court by virtue of this Act as it does in relation to a matter which may be determined by the Land Court under that Act.
+
+#### 81 Clauses in leases as to resolution of disputes
+
+Any term of—
+
+(a) a lease constituting a short limited duration tenancy, a limited duration tenancy [[^F111], a modern limited duration tenancy, a repairing tenancy] or a tenancy to which section 3 applies; or
+
+(b) any agreement in connection with such a lease (other than an agreement under section 78(1)),
+
+that makes provision restricting any right of the landlord or tenant to apply to the Land Court by virtue of this Act [[^F112]or by virtue of section 116 of the Land Reform (Scotland) Act 2016] to have a matter determined by the Court is, so far as it makes that provision, of no effect.
+
+### Jurisdiction of the Land Court: further provision
+
+#### 82 Amendment of the Scottish Land Court Act 1993
+
+In the Scottish Land Court Act 1993 (c. 45)—
+
+(a) in subsection (6) of section 1 (the Land Court)—
+
+(i) after the word “enactment” there is inserted “ , or under the Agricultural Holdings (Scotland) Act 2003 (asp 11) ”;
+
+(ii) for the words “1993,” there is substituted “ 1993 or ”;
+
+(iii) the words “or the Agricultural Holdings (Scotland) Act 1991” are repealed; and
+
+(iv) after “any” in the third place where it appears there is inserted “ such ”;
+
+(b) after subsection (7) of that section there is inserted—
+
+> (7A) Subsection (7) above does not apply in respect of proceedings in connection with any matter which may be determined by the Land Court by virtue of the Agricultural Holdings (Scotland) Act 1991 (c. 55) or the Agricultural Holdings (Scotland) Act 2003.
+
+; and
+
+(c) in Schedule 1 (the Land Court)—
+
+(i) in sub-paragraph (2) of paragraph 6, after the word “shall” in the first place where it appears there is inserted “ , subject to sub-paragraph (3) below ”; and
+
+(ii) after that sub-paragraph there is inserted—
+
+> (3) There shall be no such review if the Court, when making a delegation in pursuance of this paragraph in relation to a matter before it in pursuance of the Agricultural Holdings (Scotland) Act 1991 (c. 55) or the Agricultural Holdings (Scotland) Act 2003 (asp 11), so orders.
+
+.
+
+#### 83 Power to amend Land Court’s jurisdiction
+
+The Scottish Ministers may by order modify (any or all)—
+
+(a) sections 77(2) and 78(2); and
+
+(b) sections 60(2) and 61(2) (which make provision as to the resolution of disputes) of the 1991 Act.
+
+#### 84 Power of Land Court to grant remedies etc.
+
+(1) Where the Land Court has by virtue of the 1991 Act or this Act determined any matter, it may, in relation to the rights of any party, make such order or grant such remedy as it considers appropriate and, in particular, it may make or grant (any or all)—
+
+(a) a decree of interdict (including an interim decree);
+
+(b) an order *ad factum praestandum* or an order of specific implement (including in either case an interim order);
+
+(c) an order of specific restitution;
+
+(d) an order of reduction or rectification;
+
+(e) an order of removal or ejection (but not an interim order);
+
+(f) an order for damages or other substitutionary redress;
+
+(g) a declarator.
+
+(2) Where the Land Court makes an order under subsection (1)(b) in relation to a failure of the landlord to fulfil any obligation the landlord has towards the tenant in respect of fixed equipment, the Court—
+
+(a) must specify the date by which the landlord is to comply with the order; and
+
+(b) may, following an application by the landlord, specify a later date (in place of the date specified under paragraph (a)) by which the landlord is to comply with the order if it is satisfied that the landlord intends to comply with the order but reasonably requires more time to do so.
+
+(3) Where a matter before the Land Court by virtue of the 1991 Act or this Act concerns the removal or ejection of the tenant from the land to which the tenancy relates, the Court may order the finding of caution, or the giving of such undertaking as the Court considers appropriate, in relation to any liability of the landlord or tenant to the other which may arise from the landlord or, as the case may be, tenant remaining on the land pending the Court’s determination of the matter.
+
+#### 85 Remit from Land Court to sheriff or Court of Session
+
+(1) Where—
+
+(a) a matter is before the Land Court for determination by virtue of the 1991 Act or this Act; and
+
+(b) an action in respect of the matter could competently have been brought before a sheriff or in the Court of Session,
+
+the Land Court may (at its own instance or following a request under subsection (2)(a) below) remit the case to the sheriff within whose jurisdiction the action could have been brought, or to the Court of Session, if it considers that to be appropriate.
+
+(2) Any person with an interest in a matter that is before the Land Court for determination under this Act may make an application—
+
+(a) to the Land Court requesting that it remit the matter to the Court of Session under subsection (1) above; or
+
+(b) to the Court of Session craving it to require the Land Court so to remit the matter.
+
+(3) Where an application is made under subsection (2)(b) above, the Court of Session may require the Land Court to remit the matter to it if it considers that it would be appropriate for it to determine the matter.
+
+#### 86 Remit to Land Court by sheriff or Court of Session
+
+(1) In the Sheriff Courts (Scotland) Act 1971 (c. 58), after subsection (2C) of section 37 (remits) there is inserted—
+
+> (2D) In the case of any action in the sheriff court where the matter to which the action relates could competently be determined by the Land Court by virtue of the Agricultural Holdings (Scotland) Act 1991 (c. 55) or the Agricultural Holdings (Scotland) Act 2003 (asp 11), the sheriff may (of his own accord or on the motion of any of the parties) at any stage remit the case to the Land Court if he is of the opinion that it is appropriate to do so.
+
+.
+
+(2) Where an action is before the Court of Session and the matter to which the action relates could competently be determined by the Land Court by virtue of the 1991 Act or this Act, it may (at its own instance or on the application of any party to the action) remit the case to the Land Court if it considers that to be appropriate.
+
+#### 87 Transmission of case where contingency
+
+(1) The Land Court may, on an application by any of the parties, if it considers that there is contingency between a cause depending before the sheriff and a matter before the Court for determination by virtue of the 1991 Act or this Act, grant warrant to the clerk of the sheriff court for transmission of the case to the Land Court.
+
+(2) In the Court of Session Act 1988 (c. 36), after subsection (2) of section 33 (transmissions to Court on ground of contingency) there is inserted—
+
+> (3) The Court may, on an application by any of the parties, if it is of the opinion that there is contingency between a matter before the Land Court for determination by virtue of the Agricultural Holdings (Scotland) Act 1991 (c. 55) or the Agricultural Holdings (Scotland) Act 2003 (asp 11) and a cause depending before the Court, grant warrant to the clerk of the Land Court for transmission of the case to the Court from the Land Court.
+
+.
+
+#### 88 Appeal from Land Court to Court of Session
+
+(1) Subject to subsection (2), any party to a matter determined by the Land Court by virtue of the 1991 Act or this Act may appeal to the Court of Session against the determination on a question of law within 28 days of the determination; and in an appeal under this section the Court of Session may—
+
+(a) quash, confirm or vary the determination or any part of it; and
+
+(b) where the Court quashes the determination or any part of it—
+
+(i) remit the case to the Land Court for further procedure; and
+
+(ii) direct the Land Court on any question of law relevant to the case.
+
+(2) A determination by the Land Court in an appeal may not be appealed against under subsection (1).
+
+(3) The decision of the Court of Session in any appeal made under subsection (1) is final.
+
+#### 89 Expenses in sheriff court and Court of Session
+
+Where the matter to which an action in the sheriff court or before the Court of Session relates could competently be or have been determined by the Land Court by virtue of the 1991 Act or this Act, the sheriff or, as the case may be, the Court must, without prejudice to any rule of law, take account of that fact in deciding what (if any) expenses to award.
+
+#### 90 Conduct of arbiter and setting aside of arbiter’s award
+
+(1) Any person with an interest in a matter determined by an arbitration to which section 61A of the 1991 Act applies or conducted by virtue of section 78(1)(a) of this Act who has reasonable grounds for believing that—
+
+(a) the arbiter has misconducted himself during the course of the arbitration; or
+
+(b) the arbitration has been improperly procured,
+
+may make an application to the Land Court for an order under subsection (2).
+
+(2) Where, on such an application, the Land Court is satisfied that—
+
+(a) the arbiter has so misconducted himself, or the arbitration has been improperly procured, it may make an order setting aside the arbiter’s award;
+
+(b) the arbiter has so misconducted himself, it may make an order removing the arbiter.
+
+## Part 8 — General provisions
+
+### 91 Orders and regulations
+
+(1) Any power of the Scottish Ministers to make orders or regulations under this Act is exercisable by statutory instrument.
+
+(2) Any such power includes power—
+
+(a) to make such incidental, supplemental, consequential, transitional, transitory or saving provision as the Scottish Ministers consider necessary or expedient; and
+
+(b) to make different provision for different purposes.
+
+(3) A statutory instrument containing—
+
+(a) an order under section 18(4)(b)(ii)[^F113]..., 72(11) or, except where subsection (5) applies, section 92; or
+
+(b) regulations under section [[^F114]5B(3), 9A(3),] [[^F115]18A(4)(b)(ii), 26(2), 38A(4)(c), 38B(6)(e), 38L(4)(c) or 38P(2)] ,
+
+is subject to annulment in pursuance of a resolution of the Parliament.
+
+(4) A statutory instrument containing—
+
+(a) an order under section 27(5), 28(5), 70(9), 71(4) or 83; or
+
+(b) regulations under section [[^F116]9B(3), 9C(6),] 36(7) [[^F117], 38C(1), 38D(4), 38M(1), 38O(4), 59A] [[^F118], 74 or 74A,]
+
+is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+(5) A statutory instrument containing an order under section 92 which amends an Act is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+### 92 Ancillary provision
+
+(1) The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes of or in consequence of this Act.
+
+(2) An order under subsection (1) may, in particular, amend provisions of any enactment which apply to 1991 Act tenancies or land held under 1991 Act tenancies so as to apply them to short limited duration tenancies [[^F119], limited duration tenancies, modern limited duration tenancies and repairing tenancies] or land held under such tenancies.
+
+### 93 Interpretation
+
+In this Act (unless the context requires otherwise)—
+
+- “the 1991 Act” means the Agricultural Holdings (Scotland) Act 1991 (c. 55);
+
+- “1991 Act tenancy” is to be construed in accordance section 1;
+
+- “agriculture” is to be construed in accordance with section 85 (interpretation) of the 1991 Act; and “agricultural” and “non-agricultural” are to be construed accordingly;
+
+- “agricultural land” means land used for agriculture for the purposes of a trade or business;
+
+- “fixed equipment” is to be construed by reference to section 85 of the 1991 Act;
+
+- “the Land Court” means the Scottish Land Court;
+
+- “landlord” means any person for the time being entitled to receive the rents under a lease constituting a tenancy and includes the executor, assignee, legatee, disponee, guardian [[^F120]or] legal representative (within the meaning of Part I of the Children (Scotland) Act 1995 (c. 36)) [[^F121]of a landlord or the trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a landlord's estate;]
+
+- [[^F122]“ limited duration tenancy ” means a tenancy—
+
+  - ((a)) created by virtue of section 5(1), or
+  - ((b)) converted by virtue of section 5(2), (3) or (4),
+
+  before the repeal of that section by section 85(2) of the Land Reform (Scotland) Act 2016,
+
+- “modern limited duration tenancy” is to be construed in accordance with section 5A,]
+
+- “the Parliament” means the Scottish Parliament;
+
+- [[^F123]“repairing tenancy” is to be construed in accordance with section 5C,]
+
+- “short limited duration tenancy” is to be construed in accordance with section 4;
+
+- “tenant” means the holder of land under a tenancy constituted by a lease and includes the executor, assignee, legatee, disponee, guardian [[^F124]or] legal representative (within the meaning of Part I of the Children (Scotland) Act 1995) [[^F125]of a tenant or the trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a tenant's estate;]
+
+- “termination”, in relation to a tenancy, means the termination of the lease constituting the tenancy.
+
+### 94 Amendments to enactments
+
+The schedule, which makes amendments to enactments in consequence of this Act, has effect.
+
+### 95 Short title, Crown application and commencement
+
+(1) This Act may be cited as the Agricultural Holdings (Scotland) Act 2003.
+
+(2) This Act binds the Crown.
+
+(3) The provisions of this Act, except this section and sections 91, 92 and 93, come into force on such day as the Scottish Ministers may by order appoint.
+
+(4) Different days may be so appointed for different provisions and for different purposes.
+
+## SCHEDULE — Amendments to enactments
+
+*(introduced by section 94)*
+
+**1** After section 37 (notice of termination of tenancy) of the Sheriff Courts (Scotland) Act 1907 there is inserted—
+
+> **Exception for certain tenancies**
+>
+> **37A** The provisions of this Act relating to removings (including summary removings) shall not apply to or in relation to short limited duration tenancies or limited duration tenancies within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11).
+
+.
+
+**2** (1) In section 16 (provisions relating to leases) of the Succession (Scotland) Act 1964—
+
+(a) in subsection (2), at the beginning there is inserted “ Subject to subsection (4A), ”;
+
+(b) in subsection (3)—
+
+(i) at the beginning there is inserted “ Subject to subsection (4C), ”; and
+
+(ii) in paragraph (b), for the words “sheriff on summary application by” there is substituted “ relevant court on the application of ”;
+
+(c) in subsection (6)—
+
+(i) for the words “to an arbiter to determine” there is substituted “ for the determination of ”;
+
+(ii) for the words from “Land” in the second place where it appears to “award” there is substituted “ order or determination shall not be ”; and
+
+(iii) the words “the court or the arbiter is satisfied that” are repealed;
+
+(d) in subsection (8), after the word “Act” in the second place where it appears there is inserted " “ or, as the case may be, section 21(2) and (3) of the 2003 Act, ”;
+
+(e) after that subsection there is inserted—
+
+> (8A) For the purposes of subsection (3)(b) above, the “relevant court” is—
+>
+> (a) in the case of an interest under a lease constituting a 1991 Act tenancy, the Land Court; and
+>
+> (b) in any other case, the sheriff,
+>
+> and an application to the sheriff in any such other case shall be by summary application.
+
+; and
+
+(f) in subsection (9)—
+
+(i) in the definition of “agricultural lease”, for the words from “or” in the first place where it appears to the end there is substituted “ , or a lease of a croft within the meaning of section 3(1) of the Act of 1955, or a lease constituting a 1991 Act tenancy, or a lease constituting a short limited duration tenancy or a limited duration tenancy ”;
+
+(ii) after the definition of “the 1991 Act” there is inserted—
+
+> “the 2003 Act” means the Agricultural Holdings (Scotland) Act 2003 (asp 11);
+
+; and
+
+(iii) at the end there is inserted—
+
+> “1991 Act tenancy”, “short limited duration tenancy” and “limited duration tenancy” shall be construed in accordance with the 2003 Act.
+
+(2) In section 29 (right of tenant to bequeath interest under lease) of that Act, in subsection (2), after the words “1991” there is inserted “ or section 21 of the Agricultural Holdings (Scotland) Act 2003 (asp 11) ”.
+
+**3** In paragraph 5 of Schedule 1 to the Conveyancing and Feudal Reform (Scotland) Act 1970 (land obligations not subject to variation or discharge under section 1 of that Act)—
+
+(a) the word “of” in the first place where it appears is repealed;
+
+(b) for paragraph (a) there is substituted—
+
+> (a) constituting a 1991 Act tenancy, within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11);
+>
+> (aa) constituting a short limited duration tenancy or a limited duration tenancy, within the meaning of that Act;
+
+; and
+
+(c) at the beginning of each of paragraphs (b) and (c) there is inserted the word “ of ”.
+
+**4** In section 8 (which makes provision concerning property let under certain leases) of the Land Tenure Reform (Scotland) Act 1974, in subsection (5), for paragraph (a) there is substituted—
+
+> (a) the land comprised in a lease constituting a 1991 Act tenancy, within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11);
+>
+> (aa) the land comprised in a lease constituting a short limited duration tenancy or a limited duration tenancy, within the meaning of that Act;
+
+.
+
+**5** In section 13 (transfer of tenancy) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981—
+
+(a) in subsection (7), for paragraph (b) there is substituted—
+
+> (b) is on or pertains to land comprised in an agricultural lease;
+
+; and
+
+(b) in subsection (8), for the definition of “agricultural holding” there is substituted—
+
+> “agricultural lease” means a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or a lease constituting a limited duration tenancy or a short limited duration tenancy (within the meaning of that Act);
+
+.
+
+**6** In section 25(1) (interpretation) of the Rent (Scotland) Act 1984, in the definition of “statutorily protected tenant”, at the end there is added “ , or a limited duration tenancy (within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11)). ”.
+
+**7** In section 7 (interpretation of sections 4 to 6) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985—
+
+(a) in subsection (1)—
+
+(i) in paragraph (b), the words “an agricultural holding,”, and the word “or” immediately preceding that paragraph, are repealed; and
+
+(ii) after that paragraph there is inserted
+
+> ; or
+>
+> (c) where the lease is an agricultural lease.
+
+; and
+
+(b) in subsection (2), for the definition of “agricultural holding” there is substituted—
+
+> “agricultural lease” means a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or a lease constituting a short limited duration tenancy or a limited duration tenancy (within the meaning of that Act);
+
+.
+
+### Agriculture Act 1986 (c. 49)
+
+**[^F126]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F126]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F126]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The 1991 Act
+
+**11** The 1991 Act is amended as follows.
+
+**12** In section 4 (written leases and the revision of certain leases)—
+
+(a) in subsection (1), for the word “arbitration” there is substituted “ the Land Court ”;
+
+(b) in subsection (2)—
+
+(i) for the words “arbiter shall by his award” there is substituted “ Land Court shall in its determination ”; and
+
+(ii) for the word “arbiter” in the second place where it appears there is substituted “ Land Court ”;
+
+(c) in subsection (3), for the words “arbiter may include in his award” there is substituted “ Land Court may include in its determination ”; and
+
+(d) in subsection (4)—
+
+(i) for the words “award of an arbiter” there is substituted “ determination of the Land Court ”; and
+
+(ii) for the word “award” in the second and third places where it appears there is in each case substituted “ determination ”.
+
+**13** In section 5 (fixed equipment and insurance premiums), subsection (5) is repealed.
+
+**14** In section 9 (arbitration as to permanent pasture)—
+
+(a) in subsection (1), for the words from “landlord” to “of” in the fifth place where it appears, there is substituted “ Land Court may determine ”;
+
+(b) in subsection (2), for the words from the beginning to “award” there is substituted “ The Land Court may in its determination ”; and
+
+(c) in subsection (3)—
+
+(i) for the word “arbiter” there is substituted “ Land Court ”; and
+
+(ii) for the words “he may also by his award” there is substituted “ it may also ”.
+
+**15** In section 13 (variation of rent)—
+
+(a) in subsection (1)—
+
+(i) for the words from “by” in the first place where it appears to “of” in the third place where it appears there is substituted “ have determined by the Land Court ”; and
+
+(ii) the words from “, and” to the end are repealed;
+
+(b) in subsection (2), for the words from the beginning to “arbiter” there is substituted “ In relation to such a question, the Land Court ”;
+
+(c) in subsection (5), for the word “arbiter” there is substituted “ Land Court ”;
+
+(d) in subsection (7), for the word “arbiter” there is substituted “ Land Court ”; and
+
+(e) in subsection (8), for the word “arbitration” there is substituted “ the Land Court ”.
+
+**16** For section 14 (arbitrations under sections 4 and 5) substitute—
+
+> **Determination by the Land Court under sections 4 and 5**
+>
+> **14** Where it appears to the Land Court—
+>
+> (a) that, by reason of any provision which it is required by section 4 of this Act to include in its determination; or
+>
+> (b) that, by reason of any provision included in its determination on any question as to the liability of a landlord or tenant under section 5 of this Act,
+>
+> it is equitable that the rent of the holding should be varied, it may vary the rent accordingly.
+
+.
+
+**17** In section 15 (increase of rent for certain improvements by landlord), subsection (3) is repealed.
+
+**18** In section 19 (payments for implements, etc., sold on quitting), subsection (3) is repealed.
+
+**19** In section 20 (removal of tenant for non-payment of rent)—
+
+(a) in subsection (1), for “sheriff court” there is substituted “ Land Court ”;
+
+(b) in subsection (2)—
+
+(i) for “sheriff” there is substituted “ Land Court ”; and
+
+(ii) for “his” there is substituted “ its ”; and
+
+(c) subsection (4) is repealed.
+
+**20** In section 21 (notice to quit and notice of intention to quit), in subsection (1), after the word “below” there is inserted “ and to sections 2 and 73 of the Agricultural Holdings (Scotland) Act 2003 (asp 11) ”.
+
+**21** In section 23 (consent by Land Court or arbitration on notices to quit)—
+
+(a) in subsection (2), for the word “arbitration” there is substituted “ the Land Court ”;
+
+(b) in subsection (3)—
+
+(i) for the words “the award of the arbiter in an arbitration” there is substituted “ the determination of the Land Court ”; and
+
+(ii) for the words “arbiter’s award” there is substituted “ Land Court’s determination ”;
+
+(c) in subsection (4)—
+
+(i) for the words “an arbitration” there is substituted “ a determination ”; and
+
+(ii) for the words from “arbiter's” to the end there is substituted “ Land Court’s determination ”; and
+
+(d) in subsection (5), for the words from “award” to “arbitration” there is substituted “ determination ”.
+
+**22** In section 31 (reduction of rent where tenant dispossessed of part of holding)—
+
+(a) in subsection (1), for the word “arbitration” there is substituted “ the Land Court ”; and
+
+(b) in subsection (2), for the word “arbiter” there is substituted “ Land Court ”.
+
+**23** In section 32 (further restrictions on operation of certain notices to quit)—
+
+(a) in subsection (3) for the word “arbitration” there is substituted “ the Land Court ”;
+
+(b) in subsection (4)—
+
+(i) in paragraph (b), for the word “arbitration” there is substituted “ Land Court’s determination ”; and
+
+(ii) in paragraph (c), for the words “arbiter’s award” there is substituted “ Land Court’s determination ”; and
+
+(c) in subsection (6), for the word “arbitration” there is substituted “ Land Court’s determination ”.
+
+**24** In section 34(6) (right to compensation for improvements), for the word “arbiter” there is substituted “ Land Court ”.
+
+**25** In section 36(4) (amount of compensation), for the word “arbiter” there is substituted “ Land Court ”.
+
+**26** In section 37(1) (consent necessary for some improvements), the words “as to compensation or otherwise” are repealed.
+
+**27** In section 41 (direction by Land Court that holding be treated as market garden), in subsection (2), for the word “arbitration” there is substituted “ the Land Court ”.
+
+**28** In section 43 (compensation for disturbance)—
+
+(a) in subsection (3), for the words “of an arbitration to determine” there is substituted “ arising from the determination of ”; and
+
+(b) in subsection (5), for the words “arbiter finds to be” there is substituted “ Land Court determines as ”.
+
+**29** In section 46 (compensation for failure to repair or maintain fixed equipment)—
+
+(a) in subsection (2) for the word “arbitration” there is substituted “ the Land Court ”; and
+
+(b) in subsection (3)—
+
+(i) for the word “arbitration” there is substituted “ the Land Court ”; and
+
+(ii) for the word “award” there is substituted “ determination ”.
+
+**30** In section 49 (compensation provisions to apply to parts of holdings in certain cases), in subsection (2) for the words “arbiter, in assessing” there is substituted “ Land Court, in determining ”.
+
+**31** In section 50 (determination of claims for compensation where holding is divided)—
+
+(a) for the word “arbiter” in each place where it appears there is substituted “ Land Court ”;
+
+(b) for the word “award” there is substituted “ determination ”; and
+
+(c) for the word “he” there is substituted “ it ”.
+
+**32** In section 52 (compensation for damage by game), for the word “arbitration” in each place where it appears there is substituted “ the Land Court ”.
+
+**33** In section 55 (provisions supplementary to section 54), in subsection (7) for the words from “the” in the fourth place where it appears to the end there is substituted “ it shall be determined by the Land Court ”.
+
+**34** In section 62 (claims on termination of tenancy)—
+
+(a) for subsection (1) there is substituted—
+
+> (1) This section applies to any claim referred to in section 60(2)(c) of this Act.
+
+; and
+
+(b) in subsection (5), for the words from “, an” to the end there is substituted—
+
+> (a) an application has been made to the Land Court; or
+>
+> (b) an arbiter has been appointed or any application has been made for the appointment of an arbiter,
+>
+> to determine the claim
+
+.
+
+**35** Sections 63 and 64 are repealed.
+
+**36** In section 66 (power to enable demand to remedy breach to be modified)—
+
+(a) in subsection (1)—
+
+(i) for the word “arbitration” there is substituted “ the Land Court ”; and
+
+(ii) for the word “arbiter” in each place where it appears there is substituted “ Land Court ”;
+
+(b) in subsection (2)—
+
+(i) for the words “an arbiter” there is substituted “ the Land Court ”; and
+
+(ii) the words “the arbiter or” and “by the arbiter” are repealed;
+
+(c) after subsection (2) there is inserted—
+
+> (2A) Where, by virtue of section 61(1) of this Act, an arbiter specifies under subsection (1)(a) above a period within which a breach should be remedied or the period for remedying a breach is extended by virtue of subsection (4) below, the Land Court may, on the application of the arbiter or the landlord, specify a date for the termination of the tenancy by notice to quit in the event of the tenant’s failure to remedy the breach within that period, being a date not earlier than whichever of the two dates referred to in subsection (2) above is the later.
+
+;
+
+(d) in subsection (3)—
+
+(i) after the word “(2)” there is inserted “ or (2A) ”; and
+
+(ii) for the word “arbiter” there is substituted “ Land Court ”; and
+
+(e) in subsection (4)—
+
+(i) for the word “arbiter” in the first, third and fourth places where it appears there is in each case substituted “ Land Court ”;
+
+(ii) for the words “arbiter on an arbitration required by notice” there is substituted “ Land Court in a determination required ”;
+
+(iii) for the words “his award” there is substituted “ its determination ”;
+
+(iv) for the word “award” in the second place where it appears there is substituted “ determination ”; and
+
+(v) for the word “he” there is substituted “ it ”.
+
+**37** In section 68 (sheep stock valuation)—
+
+(a) in subsection (1)—
+
+(i) for the words “69 to” in the first place where they appear there is substituted “ 71 and ”;
+
+(ii) for the word “arbitration” there is substituted “ any method ”; and
+
+(iii) the words “and sections 69 to 72 of this Act” are repealed;
+
+(b) after that subsection there is inserted—
+
+> (1A) Where this section applies, the sheep stock valuation shall be determined by the Land Court in the manner provided for by virtue of this section.
+
+;
+
+(c) in subsection (2)—
+
+(i) for the words “arbiter shall in his award” there is substituted “ Land Court shall in its determination ”; and
+
+(ii) for the word “he” there is substituted “ it ”;
+
+(d) in subsection (3), for the word “arbiter” there is substituted “ Land Court ”; and
+
+(e) subsection (4) is repealed.
+
+**38** Sections 69 and 70 are repealed.
+
+**39** In section 71 (statement of sales of stock), after the word “or” in the first place where it appears there is inserted “ , by virtue of section 61(1) of this Act, ”.
+
+**40** In section 72 (interpretation of sections 68 to 71), paragraphs (b) and (c) are repealed.
+
+**41** In section 80 (determination of matters where the Scottish Ministers are landlord or tenant), paragraph (b) of subsection (2), and the word “or” immediately preceding that paragraph, are repealed.
+
+**42** In section 85 (interpretation), at the appropriate place there is inserted—
+
+> “enactment” includes an Act of the Scottish Parliament or an instrument made under an Act of the Scottish Parliament;
+
+.
+
+**43** In section 86 (construction of certain references), for the words “within the meaning of this Act” there is substituted “ to which this Act applies ”.
+
+**44** Schedule 7 is repealed.
+
+**45** In Schedule 8 (supplementary provisions with respect to payments under section 56)—
+
+(a) in paragraph 2—
+
+(i) for the word “arbitration” there is substituted “ the Land Court ”; and
+
+(ii) for the words “the Land Court in pursuance of section 61(2)” there is substituted “ arbitration by virtue of section 61(1) ”; and
+
+(b) in paragraph 3, after the word “question” there is inserted “ by the Land Court or ”.
+
+**46** In Schedule 9 (valuation of sheep stock in respect of old leases)—
+
+(a) in paragraph 1, after the word “or” there is inserted “ , by virtue of section 61(1) of this Act, ”; and
+
+(b) in paragraph 4—
+
+(i) after the word “shall,” there is inserted “ where the valuer is the Land Court (and not an arbiter by virtue of section 61(1) of this Act), on the application of the parties, ”; and
+
+(ii) the words from “by” in the second place where it appears to “prices” in the first place where it appears are repealed.
+
+**47** In Schedule 10 (valuation of sheep stock in respect of leases entered into after 1st December 1986)—
+
+(a) in paragraph 1, after the word “or” there is inserted “ , by virtue of section 61(1) of this Act, ”; and
+
+(b) in paragraph 4—
+
+(i) after the word “shall,” there is inserted “ where the valuer is the Land Court (and not an arbiter appointed by virtue of section 61(1) of this Act), on the application of the parties, ”; and
+
+(ii) the words from “by” in the second place where it appears to “prices” in the first place where it appears are repealed.
+
+**48** In Schedule 1 to the Tribunals and Inquiries Act 1992, in Part II (tribunals under supervision of the Scottish Committee of the Council on Tribunals), the entry relating to agriculture (that is to say, paragraph 46) is repealed.
+
+**49** In the Crofters (Scotland) Act 1993—
+
+(a) in section 29 (miscellaneous provisions regarding subleases of crofts), in subsection (1), for the words from “a crofter” to the end there is substituted—
+
+> (a) a crofter; or
+>
+> (b) the tenant under a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or under a lease constituting a short limited duration tenancy or a limited duration tenancy (within the meaning of that Act).
+
+;
+
+(b) in section 30 (compensation to crofter for improvements), in subsection (5)—
+
+(i) after the words “1991” there is inserted “ or of the Agricultural Holdings (Scotland) Act 2003 (asp 11) ”; and
+
+(ii) for the words “that Act” in each place where they appear there is substituted “ either of those Acts ”; and
+
+(c) in paragraph 11 of Schedule 2 (the statutory conditions)—
+
+(i) after the words “1991” there is inserted “ , or by virtue of section 53(3) of the Agricultural Holdings (Scotland) Act 2003 (asp 11) ”; and
+
+(ii) the words from “, and that section” to the end are repealed.
+
+**50** In section 106 (contracting out of prisons) of the Criminal Justice and Public Order Act 1994, in subsection (3)(b), after the words “1991” there is inserted “ and the Agricultural Holdings (Scotland) Act 2003 (asp 11) ”.
+
+**51** In section 35 (notice etc. of applications to owners and agricultural tenants) of the Town and Country Planning (Scotland) Act 1997—
+
+(a) in subsection (1)(a)(ii), for the word “holding” there is substituted “ land ”; and
+
+(b) in subsection (7), for the definition of “agricultural holding” there is substituted—
+
+> “agricultural land” means land comprised in a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or comprised in a lease constituting a short limited duration tenancy or a limited duration tenancy (within the meaning of that Act);
+
+.
+
+**52** In section 149 (contracting out of certain detention centres) of the Immigration and Asylum Act 1999, in subsection (3)(f), after the words “1991” there is inserted “ and the Agricultural Holdings (Scotland) Act 2003 (asp 11) ”.
+
+---
+
+[^F1]: S. 2 repealed (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 90(2), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 3)
+[^F2]: S. 2A inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 90(3), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 3)
+[^F3]: S. 2B inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 91(2), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F4]: S. 5 repealed (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 85(2), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 4)
+[^F5]: Ss. 5A, 5B inserted (23.12.2016 for specified purposes, 30.11.2017 in so far as not already in force) by Land Reform (Scotland) Act 2016 (asp 18), ss. 85(3), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.; S.S.I. 2017/299, reg. 2, sch. (with reg. 5)
+[^F6]: Ss. 5C, 5D inserted (23.12.2016 for specified purposes) by Land Reform (Scotland) Act 2016 (asp 18), ss. 92(2), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F7]: S. 6 cross-heading substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(2) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F8]: Words in s. 7(3) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 104(2)(a), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 4)
+[^F9]: S. 7(3A)(3B) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 104(2)(b), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 4)
+[^F10]: S. 7(5A) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 104(2)(c), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 4)
+[^F11]: S. 7A inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 86(2), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F12]: S. 7B inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 105(2), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F13]: Word in s. 8(6) substituted (22.3.2011) by The Public Services Reform (Agricultural Holdings) (Scotland) OrderÂ 2011 (S.S.I. 2011/232), arts. 1(1), 7(2) (with art. 10)
+[^F14]: Ss. 8A-8E inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 87(2), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F15]: S. 9 heading substituted (23.12.2016 for the purpose of making regulations under s. 9A(3), 9B(3) and 9C(6) and otherwise prosp.) by Land Reform (Scotland) Act 2016 (asp 18), ss. 102(2)(e), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F16]: S. 9(A1) inserted (12.9.2012) by Agricultural Holdings (Amendment) (Scotland) Act 2012 (asp 6), ss. 2, 5(2) (with s. 4(2))
+[^F17]: Words in s. 9(A1) inserted (23.12.2016 for the purpose of making regulations under s. 9A(3), 9B(3) and 9C(6) and otherwise prosp.) by Land Reform (Scotland) Act 2016 (asp 18), ss. 102(2)(a), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F18]: Words in s. 9(1) inserted (23.12.2016 for the purpose of making regulations under s. 9A(3), 9B(3) and 9C(6) and otherwise prosp.) by Land Reform (Scotland) Act 2016 (asp 18), ss. 102(2)(b), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F19]: S. 9(1A) inserted (23.12.2016 for the purpose of making regulations under s. 9A(3), 9B(3) and 9C(6) and otherwise prosp.) by Land Reform (Scotland) Act 2016 (asp 18), ss. 102(2)(c), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F20]: S. 9(2)-(4) substituted for s. 9(2)-(8) (23.12.2016 for the purpose of making regulations under s. 9A(3), 9B(3) and 9C(6) and otherwise prosp.) by Land Reform (Scotland) Act 2016 (asp 18), ss. 102(2)(d), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F21]: Ss. 9A-9C inserted (23.12.2016 for specified purposes) by Land Reform (Scotland) Act 2016 (asp 18), ss. 102(3), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F22]: Words in s. 10(1) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(3) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F23]: Word in s. 10(1) repealed (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 120(5), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F24]: S. 10(1)(d) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 120(6), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F25]: Ss. 10A-10F inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 119(4), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with regs. 10, 11)
+[^F26]: Words in s. 10A(1)(b) omitted (30.11.2017) by virtue of The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416), reg. 1(1), sch. 1 para. 8(2)
+[^F27]: Words in s. 11 inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(4)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F28]: Words in s. 11 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(4)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F29]: Words in s. 12(1)(b) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(5) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F30]: Words in s. 13(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(6)(a)(i) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F31]: Words in s. 13(1)(b)(ii) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(6)(a)(ii) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F32]: Words in s. 13(2)(b) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(6)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F33]: Words in s. 13(4)(a) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(6)(c) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F34]: Words in s. 13(5) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(6)(d) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F35]: Words in s. 14 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(7) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F36]: Words in s. 15 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(8) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F37]: S. 16(1)-(5) substituted (22.3.2011) by The Public Services Reform (Agricultural Holdings) (Scotland) Order 2011 (S.S.I. 2011/232), arts. 1(1), 9 (with art. 10)
+[^F38]: S. 16A inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 88(2), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F39]: Words in s. 17(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(9)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F40]: Words in s. 17(1)(ii) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(9)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F41]: S. 18(2A) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 123(2), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 13)
+[^F42]: S. 18A inserted (23.12.2016 for specified purposes, 30.11.2017 in so far as not already in force) by Land Reform (Scotland) Act 2016 (asp 18), ss. 89(2), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.; S.S.I. 2017/299, reg. 2, sch.
+[^F43]: Words in s. 19 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(10)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F44]: Words in s. 19(a) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(10)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F45]: Words in s. 21(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 108(3)(a)(i), 130(1) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F46]: Words in s. 21(1) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 108(3)(a)(ii), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F47]: S. 21(1A) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 108(3)(b), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with regs. 5-8)
+[^F48]: S. 21(2) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 16(2) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with regs. 5-8)
+[^F49]: Words in s. 22(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(11)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F50]: S. 22(2) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 16(3) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with regs. 5-8)
+[^F51]: Words in s. 22(3) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(11)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F52]: Words in s. 23 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(12) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F53]: S. 27(1)(g)(vi) repealed (1.8.2016) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 15; S.S.I. 2014/264, art. 2, sch. (with art. 4)
+[^F54]: S. 27(1)(g)(viii) substituted (1.4.2012) by The Housing (Scotland) Act 2010 (Consequential Modifications) Order 2012 (S.S.I. 2012/38), art. 1, Sch. para. 4
+[^F55]: Pt. 2A inserted (23.12.2016 for specified purposes) by Land Reform (Scotland) Act 2016 (asp 18), ss. 100(2), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F56]: Word in s. 39(1) repealed (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(13)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F57]: S. 39(1)(c)(d) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(13)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F58]: Words in s. 40(1) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(2)(a), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F59]: S. 40(5)(b) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 122(2)(a), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F60]: S. 40(5A)(5B) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(2)(b), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F61]: S. 40(6) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 122(2)(b), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F62]: S. 40(12)(a) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 122(2)(c), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F63]: S. 40(14) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(2)(c), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F64]: S. 40A inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(3), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F65]: Words in s. 41(1) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(4)(a), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F66]: Words in s. 41(2) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(4)(b), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F67]: Words in s. 41(3) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(4)(c)(i), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F68]: Words in s. 41(3) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), ss. 121(4)(c)(ii), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 12)
+[^F69]: Word in s. 42(1) repealed (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(14)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F70]: S. 42(1)(c)(d) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(14)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F71]: S. 45 cross-heading substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(15) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F72]: Words in s. 45(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(16)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F73]: S. 45(5) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(16)(b) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 14)
+[^F74]: S. 45A inserted (13.6.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 113(2), 130(1) (with s. 128); S.S.I. 2017/20, reg. 2, sch. (with reg. 4)
+[^F75]: Words in s. 46 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(17) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F76]: S. 52 cross-heading substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(18) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F77]: Words in s. 52(1)(b) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(19)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F78]: Words in s. 52(2)(b)(i) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(19)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F79]: Words in s. 53(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(20)(a)(i) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F80]: Words in s. 53(1)(b) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(20)(a)(ii) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F81]: Words in s. 53(2) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(20)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F82]: Words in s. 53(3) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(20)(c) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F83]: Words in s. 54(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(21) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F84]: Word in s. 55(1) repealed (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(22)(a)(i) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F85]: S. 55(1)(c) and word inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(22)(a)(ii) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F86]: Words in s. 55(4) inserted (28.2.2021) by Land Reform (Scotland) Act 2016 (asp 18), ss. 111(3), 130(1) (with s. 128); S.S.I. 2020/428, reg. 2
+[^F87]: Words in s. 55(8)(a) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(22)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F88]: Words in s. 56 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(23) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F89]: Words in s. 57(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(24)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F90]: Words in s. 57(3) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(24)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F91]: Words in s. 59(1) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(25)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F92]: Words in s. 59(3) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(25)(b) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F93]: S. 59A inserted (23.12.2016 for specified purposes) by Land Reform (Scotland) Act 2016 (asp 18), ss. 98(2), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F94]: Words in s. 70(1)(b) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(26) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F95]: Words in s. 71(2)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 68(2); S.S.I. 2005/604, arts. 2(c), 4
+[^F96]: Words in s. 71(3)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 68(3); S.S.I. 2005/604, arts. 2(c), 4
+[^F97]: Words in s. 72(2) repealed (3.4.2014) by The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98), arts. 1(2), 2(2)(a)
+[^F98]: Words in s. 72(3) repealed (3.4.2014) by The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98), arts. 1(2), 2(2)(b)
+[^F99]: S. 72(4) repealed (3.4.2014) by The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98), arts. 1(2), 2(2)(c), 3
+[^F100]: S. 72(5) repealed (3.4.2014) by The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98), arts. 1(2), 2(2)(c), 3
+[^F101]: S. 72(7)-(11) repealed (3.4.2014) by The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98), arts. 1(2), 2(2)(c), 3
+[^F102]: S. 72A inserted (3.4.2014) by The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98), arts. 1(2), 2(3)
+[^F103]: S. 74A inserted (23.12.2016 for specified purposes, 28.2.2021 in so far as not already in force) by Land Reform (Scotland) Act 2016 (asp 18), ss. 111(4), 130(1) (with s. 128); S.S.I. 2016/365, reg. 2; S.S.I. 2020/428, reg. 2
+[^F104]: Word in s. 77(2)(a) repealed (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(27)(a)(i) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F105]: S. 77(2)(a)(iia)(iib) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(27)(a)(ii) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F106]: Words in s. 77(4) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(27)(b)(i) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F107]: Words in s. 77(4) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(27)(b)(ii) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F108]: Words s. 78(1) inserted (13.6.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 118(3)(a)(i), 130(1) (with s. 128); S.S.I. 2017/20, reg. 2, Sch.
+[^F109]: Words s. 78(2) substituted (13.6.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 118(3)(a)(ii), 130(1) (with s. 128); S.S.I. 2017/20, reg. 2, Sch.
+[^F110]: Words s. 79(15 inserted (13.6.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 118(3)(b), 130(1) (with s. 128); S.S.I. 2017/20, reg. 2, Sch.
+[^F111]: Words in s. 81(a) inserted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(28) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 12)
+[^F112]: Words s. 81 inserted (13.6.2017) by Land Reform (Scotland) Act 2016 (asp 18), ss. 118(3)(c), 130(1) (with s. 128); S.S.I. 2017/20, reg. 2, Sch.
+[^F113]: Word in s. 91(3)(a) repealed (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 19(2)(a) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F114]: Words in s. 91(3)(b) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 19(2)(b)(i) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F115]: Words in s. 91(3)(b) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 19(2)(b)(ii) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F116]: Words in s. 91(4)(b) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 19(2)(c)(i) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F117]: Words in s. 91(4)(b) inserted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 19(2)(c)(ii) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F118]: Words in s. 91(4)(b) substituted (23.12.2016) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 19(2)(c)(iii) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F119]: Words in s. 92(2) substituted (23.12.2016 for specified purposes) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(29) (with s. 128); S.S.I. 2016/365, reg. 2, sch. (with reg. 15)
+[^F120]: Word in s. 93 inserted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 19(a)(i) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F121]: Words in s. 93 substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 19(a)(ii) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F122]: Words in s. 93 substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(30)(a) (with s. 128); S.S.I. 2017/299, reg. 2, sch.
+[^F123]: Words in s. 93 inserted (23.12.2016 for specified purposes) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 7(30)(b) (with s. 128); S.S.I. 2016/365, reg. 2, sch.
+[^F124]: Word in s. 93 inserted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 19(b)(i) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F125]: Words in s. 93 substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 19(b)(ii) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F126]: Sch. paras. 8-10 repealed (28.2.2019) by The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391), reg. 1(1), sch. Pt. 1

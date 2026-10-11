@@ -1,0 +1,2177 @@
+---
+title: "Custodial Sentences and Weapons (Scotland) Act 2007"
+identifier: "asp/2007/17"
+citation: "2007 asp 17"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2007-04-19
+last_amended: 2026-03-24
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2007/17"
+source_modified: 2026-04-21
+retrieved: 2026-10-11
+---
+
+# Custodial Sentences and Weapons (Scotland) Act 2007
+
+**2007 asp 17**
+
+An Act of the Scottish Parliament to restate and amend the law relating to the confinement and release of prisoners; to make provision relating to the control of weapons; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 15th March 2007 and received Royal Assent on 19th April 2007
+
+## [^F1]Part 1 — The Parole Board for Scotland (prospective)
+
+### [^F1]1 The Parole Board for Scotland (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]2 Parole Board rules (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Confinement and release of prisoners
+
+### Chapter 1 — Introductory (prospective)
+
+#### 3 Application of Part 2 (prospective)
+
+This Part does not apply in relation to a sentence (other than a life sentence) imposed on a person for an offence committed before the coming into force of the Part.
+
+#### 4 Basic definitions (prospective)
+
+(1) In this Part—
+
+- “the 1995 Act” means the Criminal Procedure (Scotland) Act 1995 (c. 46),
+
+- “curfew condition” has the meaning given by section 48,
+
+- “custody and community prisoner” means a person serving a custody and community sentence,
+
+- “custody and community sentence” means a sentence of imprisonment for an offence for a term of 15 days or more,
+
+- “custody-only prisoner” means a person serving a custody-only sentence,
+
+- “custody-only sentence” means a sentence of imprisonment for a term of less than 15 days; and includes a sentence of detention imposed under section 206(2) of the 1995 Act (detention for up to 4 days in summary case),
+
+- “custody part” has the meaning given by section 6(3),
+
+- “life prisoner” means a person on whom a life sentence is imposed,
+
+- “life sentence” means—
+
+  - (a) a sentence of life imprisonment for an offence for which that sentence is not the sentence fixed by law (a “discretionary life sentence”),
+  - (b) a sentence of life imprisonment for murder or for any other offence for which that sentence is the sentence fixed by law (a “mandatory life sentence”), or
+  - (c) a sentence of imprisonment for an indeterminate period constituted by an order for lifelong restriction under section 210F of the 1995 Act,
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39),
+
+- “Parole Board” means the Parole Board for Scotland,
+
+- “punishment part” has the meaning given by section 20(3),
+
+- “standard conditions” means the conditions mentioned in section 28(2), and
+
+- “supervision conditions” means the conditions mentioned in section 29(4).
+
+(2) The Scottish Ministers may by order amend the definitions of “custody and community sentence” and “custody-only sentence” in subsection (1) by substituting a different term for the term for the time being mentioned in those definitions.
+
+(3) References in this Part to release on community licence are references to the release on licence of a custody and community prisoner.
+
+(4) References in this Part to release on life licence are references to the release on licence of a life prisoner.
+
+### Chapter 2 — Confinement, review and release of prisoners
+
+#### Custody-only prisoners (prospective)
+
+##### 5 Release on completion of sentence (prospective)
+
+As soon as a custody-only prisoner has served the term of imprisonment specified in the prisoner's sentence the Scottish Ministers must release the prisoner unconditionally.
+
+#### Custody and community prisoners (prospective)
+
+##### 6 Setting of custody part (prospective)
+
+(1) This section applies where the court imposes on a person a custody and community sentence.
+
+(2) After imposing the sentence, the court must make an order specifying the custody part of the sentence.
+
+(3) The custody part is that part of the sentence which represents an appropriate period to satisfy the requirements for retribution and deterrence (ignoring any period of confinement which may be necessary for the protection of the public).
+
+(4) An order specifying a custody part must specify that the custody part is—
+
+(a) one-half of the sentence, or
+
+(b) if subsection (5) applies, such greater proportion of the sentence as the court specifies.
+
+(5) This subsection applies if, taking into account in particular the matters mentioned in subsection (6), the court considers that it would be appropriate to specify a greater proportion of the sentence as the custody part.
+
+(6) Those matters are—
+
+(a) the seriousness of the offence, or of the offence combined with other offences of which the person is convicted on the same indictment or complaint as that offence,
+
+(b) where the offence was committed when the person was serving a sentence of imprisonment for another offence, that fact, and
+
+(c) any previous conviction of the person.
+
+(7) The court may not make an order specifying a custody part which is greater than three-quarters of the sentence.
+
+(8) An order specifying a custody part must specify the custody part by reference to a fixed period of time.
+
+(9) Where (but for this subsection) a custody part would fall to be specified as a period including a fraction of a day, the custody part must be specified in whole days (any such fraction being rounded up to a whole day).
+
+(10) Where, by virtue of subsection (4)(b), the court specifies a custody part of more than one-half of the sentence, the court must state in open court the reason for doing so.
+
+(11) An order specifying a custody part constitutes part of a person's sentence within the meaning of the 1995 Act for the purposes of any appeal or review.
+
+##### 7 Power to amend section 6(4) (prospective)
+
+The Scottish Ministers may by order amend section 6(4)(a) by substituting for the proportion for the time being specified there a different proportion specified in the order.
+
+##### 8 Provision of information by court (prospective)
+
+(1) This section applies where—
+
+(a) a court imposes a custody and community sentence on a person, and
+
+(b) the court is not required by—
+
+(i) section 21(4) of the Criminal Justice (Scotland) Act 2003 (asp 7), or
+
+(ii) section 210H(2) of the 1995 Act,
+
+to prepare a report.
+
+(2) As soon as is reasonably practicable after imposing the sentence, the court must provide the Scottish Ministers with such information about—
+
+(a) the person, and
+
+(b) the circumstances of the case,
+
+as the court considers appropriate.
+
+(3) Information provided by virtue of subsection (2) is to be provided in such form as the court considers appropriate.
+
+##### 9 Joint arrangements between Scottish Ministers and local authorities (prospective)
+
+(1) The Scottish Ministers and each local authority must jointly establish arrangements for the assessment and management of the risks posed in the local authority's area by custody and community prisoners.
+
+(2) For the purposes of assisting the Scottish Ministers in making a determination under section 10(1), the Scottish Ministers and the appropriate local authority must during the custody part of a custody and community prisoner's sentence assess in accordance with arrangements established under subsection (1) whether subsection (3) applies in respect of the prisoner.
+
+(3) This subsection applies if the prisoner would, were the prisoner released on community licence on the expiry of the custody part, be likely to cause serious harm to members of the public.
+
+(4) In this section, “appropriate local authority”, in relation to a custody and community prisoner, means the local authority for the area in which the prisoner—
+
+(a) resided immediately before the imposition of the custody and community sentence, or
+
+(b) intends to reside on release on community licence.
+
+(5) If, by virtue of subsection (4), two or more local authorities are the appropriate local authority in relation to a custody and community prisoner, those authorities may agree that the functions conferred on them by subsection (2) and section 31(4) may be carried out by only one of them.
+
+##### 10 Review by Scottish Ministers (prospective)
+
+(1) Before the expiry of the custody part of a custody and community prisoner's sentence the Scottish Ministers must determine whether subsection (2) applies in respect of the prisoner.
+
+(2) This subsection applies if the prisoner would, if not confined, be likely to cause serious harm to members of the public.
+
+##### 11 Consequences of review (prospective)
+
+(1) This section applies where the Scottish Ministers make a determination under subsection (1) of section 10 in respect of a prisoner.
+
+(2) If the Scottish Ministers determine that subsection (2) of that section does not apply in respect of the prisoner, they must release the prisoner on community licence on the expiry of the custody part of the prisoner's sentence.
+
+(3) If the Scottish Ministers determine that subsection (2) of that section applies in respect of the prisoner, they must, before the expiry of the custody part of the prisoner's sentence, refer the prisoner's case to the Parole Board.
+
+##### 12 Review by Parole Board (prospective)
+
+(1) Subsection (2) applies where a custody and community prisoner's case is referred to the Parole Board under section 11(3).
+
+(2) Before the expiry of the custody part of the prisoner's sentence, the Parole Board must determine whether section 10(2) applies in respect of the prisoner.
+
+##### 13 Release on community licence following review by Parole Board (prospective)
+
+(1) Subsection (2) applies where the Parole Board determines under section 12(2) or 17(3) that section 10(2) does not apply in respect of a prisoner.
+
+(2) The Parole Board must—
+
+(a) direct the Scottish Ministers to release the prisoner on community licence, and
+
+(b) specify conditions to be included in the licence.
+
+(3) Where a direction is given under subsection (2)(a) the Scottish Ministers must release the prisoner on community licence.
+
+(4) In the case of a determination under section 12(2) the direction must be implemented on the expiry of the custody part of the prisoner's sentence.
+
+##### 14 Determination that section 10(2) applicable: consequences (prospective)
+
+(1) This section applies where the Parole Board determines under section 12(2) or 17(3) that section 10(2) applies in respect of a prisoner.
+
+(2) The Parole Board must give the prisoner reasons in writing for its determination.
+
+(3) If on the day of the determination less than 4 months of the prisoner's sentence remain to be served before the three-quarter point—
+
+(a) the prisoner must be confined until the three-quarter point, and
+
+(b) the Parole Board must specify conditions to be included in the prisoner's community licence.
+
+(4) If on the day of the determination at least 4 months but no more than 2 years of the prisoner's sentence remain to be served before the three-quarter point, the Parole Board may fix a date falling within the period mentioned in subsection (5) on which it will next consider the prisoner's case.
+
+(5) That period is the period—
+
+(a) beginning with the day falling 4 months after the day of the determination, and
+
+(b) ending with the three-quarter point.
+
+(6) If no date is fixed under subsection (4)—
+
+(a) the prisoner must be confined until the three-quarter point, and
+
+(b) the Parole Board must fix a date falling within the period mentioned in subsection (5) on which it must specify conditions to be included in the prisoner's community licence.
+
+(7) If on the day of the determination more than 2 years of the prisoner's sentence remain to be served before the three-quarter point, the Parole Board must fix a date falling within the period mentioned in subsection (8) on which it will next consider the prisoner's case.
+
+(8) That period is the period—
+
+(a) beginning with the day falling 4 months after the day of the determination, and
+
+(b) ending immediately before the second anniversary of the day of the determination.
+
+(9) In this section, “three-quarter point”, in relation to a prisoner's custody and community sentence, means the day on which the prisoner will have served three-quarters of the prisoner's sentence.
+
+(10) This section is subject to section 26.
+
+##### 15 Prisoner's right to request early reconsideration by Parole Board (prospective)
+
+(1) Subsection (2) applies where the Parole Board has fixed a date under section 14(4) or (7) for considering a prisoner's case.
+
+(2) On the prisoner's request, the Board may, if it considers it appropriate to do so, substitute for that date an earlier date when it will next consider the prisoner's case by fixing that earlier date under section 14(4) or, as the case may be, (7).
+
+(3) Subsection (4) applies where the Parole Board does not fix a date under section 14(4).
+
+(4) On the prisoner's request, the Board may, if it considers it appropriate to do so, fix a date under section 14(4) when it will next consider the prisoner's case.
+
+(5) This section is subject to section 26.
+
+##### 16 Referral to Parole Board for the purposes of specifying conditions (prospective)
+
+(1) This section applies where the Parole Board fixes a date under section 14(6)(b).
+
+(2) The Scottish Ministers must refer the prisoner's case to the Parole Board before that date.
+
+(3) On that date, the Parole Board must specify conditions to be included in the prisoner's community licence.
+
+##### 17 Further referral to Parole Board (prospective)
+
+(1) This section applies where the Parole Board fixes a date under section 14(4) or (7) for considering a prisoner's case.
+
+(2) The Scottish Ministers must refer the prisoner's case to the Parole Board before that date.
+
+(3) The Parole Board must determine whether section 10(2) applies in respect of the prisoner.
+
+##### 18 Cases where custody part specified as three-quarters of prisoner's sentence (prospective)
+
+(1) This section applies where, by virtue of section 6(4)(b), the court specifies a custody part which is three-quarters of a prisoner's custody and community sentence.
+
+(2) Section 10(1) does not apply.
+
+(3) Before the expiry of the custody part—
+
+(a) the Scottish Ministers must refer the prisoner's case to the Parole Board, and
+
+(b) the Parole Board must specify conditions to be included in the prisoner's community licence.
+
+##### 19 Release after three-quarters of sentence served (prospective)
+
+(1) As soon as a custody and community prisoner has served three-quarters of the prisoner's custody and community sentence, the Scottish Ministers must release the prisoner on community licence.
+
+(2) Subsection (1) does not apply in relation to a prisoner whose licence has been revoked by virtue of section 37(1) or (4).
+
+#### Life prisoners
+
+##### 20 Setting of punishment part (prospective)
+
+(1) This section applies where the court imposes on a person a life sentence.
+
+(2) After imposing the sentence, the court must make an order specifying the punishment part of the sentence.
+
+(3) The punishment part is that part of the person's life sentence which, taking into account—
+
+(a) in the case of a mandatory life sentence, the matters mentioned in subsection (4),
+
+(b) in the case of a discretionary life sentence or an order for lifelong restriction under section 210F of the 1995 Act, the matters mentioned in subsection (5),
+
+the court considers appropriate to satisfy the requirements for retribution and deterrence [^F2]....
+
+(4) Those matters are—
+
+(a) the seriousness of the offence, or of the offence combined with other offences of which the person is convicted on the same indictment as that offence,
+
+(b) any previous conviction of the person, and
+
+(c) where appropriate, the matters mentioned in paragraphs (a) and (b) of section 196(1) of the 1995 Act.
+
+[[^F3](4A) As respects the punishment part in the case to which subsection (4) relates, the court is to ignore any period of confinement which may be necessary for the protection of the public.]
+
+(5) Those matters are—
+
+(a) any period of imprisonment which the court considers would have been appropriate for the offence had the court not imposed a sentence, or made an order, such as is mentioned in subsection (3)(b) for the offence, [^F4]...
+
+(b) the part of that period of imprisonment which [[^F5]would represent an appropriate period to satisfy the requirements of retribution and deterrence,] [[^F6]and]
+
+[[^F6](c) where appropriate, the ones mentioned in paragraphs (a) and (b) of section 196(1) of the 1995 Act.]
+
+[[^F7](5A) But—
+
+(a) in the application of subsection (5)(a), the court is to ignore any period of confinement which may be necessary for the protection of the public,
+
+(b) subsection (5)(b) is subject to section 20A,
+
+(c) subsection (5)(c) is inapplicable until the court has made the assessment required by virtue of subsection (5)(a) and (b).]
+
+(6) An order specifying a punishment part must specify the punishment part in years and months.
+
+(7) It does not matter that a punishment part so specified may exceed the remainder of the person's natural life.
+
+(8) An order specifying a punishment part constitutes part of a person's sentence within the meaning of the 1995 Act for the purposes of any appeal or review.
+
+##### 20A [[^F8]Assessment under section 20(5)(a) and (b)
+
+(1) The part mentioned in subsection (5)(b) of section 20 in relation to the period mentioned in subsection (5)(a) of that section is—
+
+(a) one-half of that period, or
+
+(b) if subsection (2) applies, such greater proportion of that period as the court specifies.
+
+(2) This subsection applies if, taking into account in particular the matters mentioned in subsection (5), the court considers that it would be appropriate to specify as that part a greater proportion of that period.
+
+(3) In subsections (1)(b) and (2), the references to a greater proportion extend so as to include the whole of that period.
+
+(4) In subsections (1) to (3), the references to the period mentioned in subsection (5)(a) of section 20 are to that period as informed by subsection (5A)(a) of that section.
+
+(5) For the purpose of subsection (2), the matters are (continuing to ignore any period of confinement which may be necessary for the protection of the public)—
+
+(a) the seriousness of the offence, or of the offence combined with other offences of which the prisoner is convicted on the same indictment as that offence,
+
+(b) where the offence was committed when the prisoner was serving a period of imprisonment for another offence, that fact, and
+
+(c) any previous conviction of the prisoner.]
+
+##### 21 Referral to Parole Board (prospective)
+
+Before the expiry of the punishment part of a prisoner's life sentence, the Scottish Ministers must refer the prisoner's case to the Parole Board.
+
+##### 22 Review by Parole Board (prospective)
+
+(1) Subsection (2) applies where a life prisoner's case is referred to the Parole Board under section 21.
+
+(2) Before the expiry of the punishment part of the prisoner's life sentence, the Parole Board must determine whether subsection (3) applies in respect of the prisoner.
+
+(3) This subsection applies if the prisoner would, if not confined, be likely to cause serious harm to members of the public.
+
+##### 23 Release on life licence following review by Parole Board (prospective)
+
+(1) Subsection (2) applies where the Parole Board determines under section 22(2) or 25(3) that section 22(3) does not apply in respect of a life prisoner.
+
+(2) The Parole Board must—
+
+(a) direct the Scottish Ministers to release the prisoner on life licence, and
+
+(b) specify conditions to be included in the prisoner's licence.
+
+(3) Where a direction is given under subsection (2)(a) the Scottish Ministers must release the prisoner on life licence.
+
+(4) In the case of a determination under section 22(2) the direction must be implemented on the expiry of the punishment part of the prisoner's sentence.
+
+##### 24 Determination that section 22(3) applicable: consequences (prospective)
+
+(1) This section applies where the Parole Board determines under section 22(2) or 25(3) that section 22(3) applies in respect of a life prisoner.
+
+(2) The Parole Board must—
+
+(a) give the prisoner reasons in writing for its determination, and
+
+(b) fix the date on which it will next consider the prisoner's case.
+
+(3) Subject to section 26, the date fixed under subsection (2)(b) must fall within the period—
+
+(a) beginning with the day falling 4 months after the day of the determination, and
+
+(b) ending immediately before the second anniversary of the day of the determination.
+
+(4) Subsection (5) applies where the Parole Board has fixed a date under subsection (2)(b).
+
+(5) On the prisoner's request, the Board may, if it considers it appropriate to do so, replace that date by fixing under subsection (2)(b) an earlier date when it will next consider the prisoner's case.
+
+##### 25 Further referral to Parole Board (prospective)
+
+(1) This section applies where the Parole Board fixes a date under section 24(2)(b) for considering a prisoner's case.
+
+(2) The Scottish Ministers must refer the prisoner's case to the Parole Board before that date.
+
+(3) The Parole Board must determine whether section 22(3) applies in respect of the prisoner.
+
+#### Referral to Parole Board: postponement (prospective)
+
+##### 26 Referral to Parole Board: postponement (prospective)
+
+(1) Subsection (2) applies where—
+
+(a) a prisoner's case is referred to the Parole Board under this Part (the “referred case”),
+
+(b) after the referral another sentence of imprisonment is imposed on the prisoner (the “new sentence”),
+
+(c) when that sentence is imposed, the Board has not fixed a date for considering the prisoner's case, and
+
+(d) the prisoner would not be eligible for release in relation to the new sentence on the date which would (apart from this section) have been fixed for considering the referred case.
+
+(2) The Parole Board must—
+
+(a) fix in accordance with subsection (5) a different date for considering the referred case, and
+
+(b) if a further new sentence is imposed on the prisoner in relation to which the prisoner would not be eligible for release on that different date, fix in accordance with that subsection a further different date.
+
+(3) Subsection (4) applies where—
+
+(a) the Parole Board fixes a date for considering the referred case,
+
+(b) before that date, a new sentence is imposed on the prisoner, and
+
+(c) the prisoner would not be eligible for release in relation to the new sentence on that date.
+
+(4) The Parole Board must—
+
+(a) fix in accordance with subsection (5) a different date for considering the referred case, and
+
+(b) if a further new sentence is imposed on the prisoner in relation to which the prisoner would not be eligible for release on that different date, fix in accordance with that subsection a further different date.
+
+(5) A date is fixed in accordance with this subsection if—
+
+(a) it is a date which would have been fixed in relation to the new sentence if that were the only sentence imposed on the prisoner, and
+
+(b) it replaces any date previously fixed for considering the referred case.
+
+#### Compassionate release on licence (prospective)
+
+##### 27 Compassionate release on licence (prospective)
+
+(1) Where the Scottish Ministers are satisfied that there are compassionate grounds justifying the release on licence of a prisoner, the Scottish Ministers may release the prisoner on licence.
+
+(2) Before releasing a custody and community prisoner or a life prisoner under subsection (1) the Scottish Ministers must consult the Parole Board.
+
+(3) The Scottish Ministers need not consult the Parole Board if it is impracticable to do so.
+
+### Chapter 3 — Community and life licences (prospective)
+
+#### The standard conditions (prospective)
+
+##### 28 Release on licence: the standard conditions (prospective)
+
+(1) Where a prisoner is released on licence by virtue of this Part, the prisoner is released subject to the standard conditions.
+
+(2) The standard conditions are—
+
+(a) that the prisoner must be of good behaviour, and
+
+(b) that, subject to subsection (3), the prisoner is prohibited from leaving the United Kingdom.
+
+(3) Paragraph (b) of subsection (2) does not apply if—
+
+(a) the prisoner falls within subsection (4), or
+
+(b) the Scottish Ministers permit, or a person designated by them for the purposes of this section permits, the prisoner to leave the United Kingdom.
+
+(4) The prisoner falls within this subsection if—
+
+(a) the prisoner is liable to deportation under section 3(5) of the Immigration Act 1971 (c. 77) and has been notified of a decision to make a deportation order,
+
+(b) the prisoner is liable to deportation under section 3(6) of that Act,
+
+(c) the prisoner has been notified of a decision to refuse the prisoner leave to enter the United Kingdom,
+
+(d) the prisoner is an illegal entrant within the meaning of section 33(1) of that Act,
+
+(e) the prisoner is liable to removal under section 10 of the Immigration and Asylum Act 1999 (c. 33).
+
+#### The supervision conditions (prospective)
+
+##### 29 Release on licence of certain prisoners: the supervision conditions (prospective)
+
+(1) This section applies where a prisoner falling within subsection (2) is released on licence by virtue of this Part.
+
+(2) A prisoner falls within this subsection if—
+
+(a) the prisoner is
+
+(i) a life prisoner,
+
+(ii) a custody and community prisoner serving a custody and community sentence of 6 months or more,
+
+(iii) any other custody and community prisoner in respect of whom—
+
+(A) by virtue of section 6(4)(b), the court specifies a custody part which is three-quarters of the prisoner's sentence, or
+
+(B) the Parole Board determines under section 12(2), that section 10(2) applies,
+
+(iv) a person released on licence by virtue of section 27(1),
+
+(v) a person subject to an extended sentence (as defined in section 210A of the 1995 Act),
+
+(vi) a person subject to the notification requirements in Part 2 of the Sexual Offences Act 2003 (c. 42), or
+
+(vii) a child (as defined in section 307(1) of the 1995 Act) subject to a sentence of detention under section 208 of that Act, and
+
+(b) the prisoner does not fall within section 28(4).
+
+(3) The prisoner is released subject to the supervision conditions.
+
+(4) The supervision conditions are—
+
+(a) that the prisoner is to be under the supervision of a relevant officer of the local authority specified in the licence,
+
+(b) that the prisoner is to maintain contact with the relevant officer as the officer directs,
+
+(c) that the prisoner is to inform the relevant officer of—
+
+(i) any change of address,
+
+(ii) any change in employment, and
+
+(d) that the prisoner is to comply with any other requirements imposed in relation to the supervision by the relevant officer.
+
+(5) In subsection (4) “relevant officer”, in relation to a local authority, means an officer of the authority employed by it in the discharge of its functions under section 27(1) of the Social Work (Scotland) Act 1968 (c. 49).
+
+#### Community licences (prospective)
+
+##### 30 Release on community licence on Parole Board's direction (prospective)
+
+(1) This section applies where by virtue of section 13(2)(b), 14(3)(b), 16(3), 18(3)(b) or 42(4)(b) the Parole Board specifies conditions which are to be included in a prisoner's community licence.
+
+(2) The Scottish Ministers must include in the prisoner's community licence—
+
+(a) those conditions,
+
+(b) the standard conditions, and
+
+(c) if section 29(1) applies, the supervision conditions.
+
+(3) On the direction of the Parole Board, the Scottish Ministers may—
+
+(a) vary the conditions mentioned in subsection (2),
+
+(b) cancel conditions (other than the standard conditions and the supervision conditions),
+
+(c) include in the licence further conditions.
+
+##### 31 Community licences in which Scottish Ministers may specify conditions (prospective)
+
+(1) This section applies where by virtue of section 11(2) or 27(1) the Scottish Ministers release a prisoner on community licence.
+
+(2) The Scottish Ministers—
+
+(a) must include in the prisoner's community licence—
+
+(i) the standard conditions, and
+
+(ii) if section 29(1) applies, the supervision conditions,
+
+(b) may include in the licence such other conditions as they consider appropriate.
+
+(3) The Scottish Ministers may—
+
+(a) vary the conditions mentioned in subsection (2),
+
+(b) cancel conditions (other than the standard conditions and the supervision conditions),
+
+(c) include in the licence such further conditions as they consider appropriate.
+
+(4) Before exercising any of the powers conferred by subsection (2) or (3), the Scottish Ministers must, in pursuance of arrangements established under section 9(1), co-operate with the appropriate local authority.
+
+(5) In subsection (4) “appropriate local authority” has the same meaning as in section 9.
+
+#### Life licences (prospective)
+
+##### 32 Release on life licence: conditions (prospective)
+
+(1) This section applies where by virtue of section 23(2)(b) or 42(4)(b) the Parole Board specifies conditions which are to be included in a prisoner's life licence.
+
+(2) The Scottish Ministers must include in the prisoner's life licence—
+
+(a) those conditions,
+
+(b) the standard conditions, and
+
+(c) if section 29(1) applies, the supervision conditions.
+
+(3) On the direction of the Parole Board, the Scottish Ministers may—
+
+(a) vary the conditions mentioned in subsection (2),
+
+(b) cancel conditions,
+
+(c) include in the licence further conditions.
+
+##### 33 Compassionate release on life licence: conditions (prospective)
+
+(1) This section applies where by virtue of section 27(1) the Scottish Ministers release a prisoner on life licence.
+
+(2) The Scottish Ministers must include in the licence—
+
+(a) the standard conditions,
+
+(b) the supervision conditions, and
+
+(c) such other conditions as they consider appropriate.
+
+(3) The Scottish Ministers may—
+
+(a) vary or cancel the conditions mentioned in subsection (2),
+
+(b) include further conditions in the licence.
+
+#### Duration of licence (prospective)
+
+##### 34 Period during which licence in force (prospective)
+
+(1) Where a custody-only prisoner is released on licence by virtue of section 27(1), the licence remains in force until the expiry of the prisoner's sentence.
+
+(2) Where a custody and community prisoner is released on community licence by virtue of section 11(2), 13(2)(a), 19(1), 27(1) or, as the case may be 42(4)(a), the licence remains in force until the expiry of the prisoner's sentence.
+
+(3) Where a life prisoner is released on life licence by virtue of section 23(2)(a), 27(1) or, as the case may be 42(4)(a), the licence remains in force until the prisoner dies.
+
+#### Prisoner to comply with licence conditions (prospective)
+
+##### 35 Prisoner to comply with licence conditions (prospective)
+
+Where a prisoner is released on licence by virtue of section 11(2), 13(2)(a), 19(1), 23(2)(a), 27(1) or 42(4)(a), the prisoner must, while the licence is in force, comply with the conditions included in the licence.
+
+#### Suspension (prospective)
+
+##### 36 Suspension of licence conditions while detained (prospective)
+
+(1) Subsection (2) applies where—
+
+(a) the Scottish Ministers release a prisoner on licence by virtue of section 11(2), 13(2)(a), 19(1), 23(2)(a), 27(1) or 42(4)(a), and
+
+(b) while the licence is in force the prisoner continues to be, or is, detained in prison by virtue of this Part, any other enactment or any rule of law.
+
+(2) Any condition in the licence other than a condition mentioned in subsection (3) is suspended for the relevant period.
+
+(3) Those conditions are any conditions (however expressed) requiring the prisoner—
+
+(a) to be of good behaviour and to keep the peace,
+
+(b) to refrain from contacting a person, or class of person, specified in the licence (or to refrain from doing so without the approval of a person specified in the licence).
+
+(4) The relevant period is—
+
+(a) the period during which the prisoner remains detained in prison, and
+
+(b) the licence remains in force.
+
+(5) The Scottish Ministers may by order amend subsection (3) by amending conditions or adding or removing conditions.
+
+#### Revocation (prospective)
+
+##### 37 Revocation of licence (prospective)
+
+(1) If—
+
+(a) a prisoner is released on licence by virtue of section 11(2), 13(2)(a), 19(1), 23(2)(a), 27(1) or 42(4)(a),
+
+(b) the prisoner is not detained as mentioned in section 36(1)(b), and
+
+(c) subsections (2) and (3) apply,
+
+the Scottish Ministers must revoke the licence and recall the prisoner to prison.
+
+(2) This subsection applies if—
+
+(a) the prisoner breaches a licence condition, or
+
+(b) the Scottish Ministers consider that the prisoner is likely to breach a licence condition.
+
+(3) This subsection applies if the Scottish Ministers consider that it is in the public interest to revoke the licence and recall the prisoner to prison.
+
+(4) If—
+
+(a) a prisoner is released on licence by virtue of section 11(2), 13(2)(a), 19(1), 23(2)(a), 27(1) or 42(4)(a),
+
+(b) the prisoner is detained as mentioned in section 36(1)(b), and
+
+(c) subsections (2) and (5) apply,
+
+the Scottish Ministers must revoke the licence.
+
+(5) This subsection applies if the Scottish Ministers consider that it is in the public interest to revoke the licence.
+
+##### 38 Compassionate release: additional ground for revocation of licence (prospective)
+
+(1) This section applies if—
+
+(a) a prisoner is released on licence by virtue of section 27(1), and
+
+(b) the Scottish Ministers are satisfied that there are no longer compassionate grounds justifying the prisoner's release on licence by virtue of that section.
+
+(2) The Scottish Ministers must revoke the licence.
+
+(3) If the prisoner is not detained as mentioned in section 36(1)(b), the Scottish Ministers must recall the prisoner to prison.
+
+##### 39 Prisoners unlawfully at large (prospective)
+
+Where—
+
+(a) a prisoner's licence is revoked by virtue of section 37(1) or 38(2), and
+
+(b) the prisoner is at large,
+
+the prisoner is unlawfully at large.
+
+##### 40 Compassionate release: effect of revocation in certain circumstances (prospective)
+
+(1) Subsection (2) applies where—
+
+(a) a prisoner is released on licence by virtue of section 27(1),
+
+(b) the licence is revoked by virtue of section 37(1) or (4) or 38(2), and
+
+(c) the revocation occurs before the expiry of the relevant period.
+
+(2) This Part applies to the prisoner as if the prisoner had not been released on licence by virtue of section 27(1).
+
+(3) The relevant period is—
+
+(a) in the case of a custody-only prisoner, the prisoner's sentence,
+
+(b) in the case of a custody and community prisoner, the custody part of the prisoner's sentence,
+
+(c) in the case of a life prisoner, the punishment part of the prisoner's sentence.
+
+##### 41 Referral to Parole Board following revocation of licence (prospective)
+
+(1) Subsection (2) applies where the Scottish Ministers revoke a licence by virtue of section 37(1) or (4) or 38(2).
+
+(2) The Scottish Ministers must—
+
+(a) inform the prisoner of the reasons for the revocation, and
+
+(b) subject to section 40, refer the prisoner's case to the Parole Board.
+
+##### 42 Consideration by Parole Board (prospective)
+
+(1) This section applies where a prisoner's case is referred to the Parole Board by virtue of section 41(2)(b), 43(9) or 44(5).
+
+(2) The Parole Board must determine whether subsection (3) applies in respect of the prisoner.
+
+(3) This subsection applies if it is in the public interest that the prisoner be confined.
+
+(4) If the Parole Board determines that subsection (3) does not apply it must—
+
+(a) direct the Scottish Ministers to release the prisoner on licence, and
+
+(b) specify conditions to be included in the licence.
+
+(5) Where a direction is given under subsection (4)(a) the Scottish Ministers must release the prisoner on community licence or, as the case may be, life licence.
+
+##### 43 Determination that section 42(3) applicable: consequences for custody and community prisoners (prospective)
+
+(1) This section applies where the Parole Board determines, under subsection (2) of section 42, that subsection (3) of that section applies to a custody and community prisoner.
+
+(2) The Parole Board must give the prisoner reasons in writing for its determination.
+
+(3) If on the day of the determination less than 4 months of the prisoner's sentence remain to be served, the prisoner must be confined until the expiry of the prisoner's sentence.
+
+(4) If on the day of the determination at least 4 months but no more than 2 years of the prisoner's sentence remain to be served, the Parole Board may, subject to section 26, fix a date falling within the period mentioned in subsection (5) on which it will next consider the prisoner's case.
+
+(5) That period is the period—
+
+(a) beginning with the day falling 4 months after the day of the determination, and
+
+(b) ending on the expiry of the prisoner's sentence.
+
+(6) If no date is fixed under subsection (4) the prisoner must be confined until the expiry of the prisoner's sentence.
+
+(7) If on the day of the determination at least 2 years of the prisoner's sentence remain to be served, the Parole Board must, subject to section 26, fix a date falling within the period mentioned in subsection (8) on which it will next consider the prisoner's case.
+
+(8) That period is the period—
+
+(a) beginning with the day falling 4 months after the day of the determination, and
+
+(b) ending immediately before the second anniversary of the day of the determination.
+
+(9) Where a date is fixed under subsection (4) or (7), the Scottish Ministers must refer the case to the Parole Board before that date.
+
+##### 44 Determination that section 42(3) applicable: consequences for life prisoners (prospective)
+
+(1) This section applies where the Parole Board determines, under subsection (2) of section 42, that subsection (3) of that section applies to a life prisoner.
+
+(2) The Parole Board must give the prisoner reasons in writing for its determination.
+
+(3) The Parole Board must, subject to section 26, fix a date falling within the period mentioned in subsection (4) on which it will next consider the prisoner's case.
+
+(4) That period is the period—
+
+(a) beginning with the day falling 4 months after the day of the determination, and
+
+(b) ending immediately before the second anniversary of the day of the determination.
+
+(5) The Scottish Ministers must refer the case to the Parole Board before the date fixed under subsection (3).
+
+##### 45 Prisoner's right to request early reconsideration by Parole Board (prospective)
+
+(1) Subsection (2) applies where the Parole Board fixes a date under—
+
+(a) section 43(4),
+
+(b) section 43(7), or
+
+(c) section 44(3),
+
+for considering a prisoner's case.
+
+(2) On the prisoner's request, the Board may, if it considers it appropriate to do so, substitute for that date an earlier date when it will next consider the prisoner's case by fixing that earlier date under section 43(4), 43(7) or, as the case may be, 44(3).
+
+(3) Subsection (4) applies where the Parole Board does not fix a date under section 43(4).
+
+(4) On the prisoner's request, the Board may, if it considers it appropriate to do so, fix a date under section 43(4) when it will next consider the prisoner's case.
+
+#### Single licence (prospective)
+
+##### 46 Multiple licences to be replaced by single licence (prospective)
+
+(1) This section applies where a prisoner—
+
+(a) is released on licence by virtue of section 11(2), 13(2)(a), 19(1), 23(2)(a), 27(1) or 42(4)(a) as respects any sentence of imprisonment (the “original sentence”), and
+
+(b) while the licence remains in force, another sentence of imprisonment is imposed on the prisoner (the “subsequent sentence”).
+
+(2) Where—
+
+(a) the prisoner is to be released on licence by virtue of this Part as respects the subsequent sentence, and
+
+(b) the licence as respects the original sentence remains in force,
+
+the prisoner must be released on a single licence as respects both the original sentence and the subsequent sentence.
+
+(3) The single licence replaces the licence as respects both the original sentence and the subsequent sentence.
+
+(4) The single licence must include the conditions which were in the licence as respects the original sentence immediately before that licence was replaced.
+
+(5) The single licence remains in force (unless revoked) for the longer of the periods for which the licences as respects—
+
+(a) the original sentence, or
+
+(b) the subsequent sentence,
+
+would (apart from this section and if not revoked) have remained in force.
+
+(6) Where—
+
+(a) the prisoner is to be released unconditionally under this Part as respects the subsequent sentence, and
+
+(b) the licence as respects the original sentence remains in force,
+
+the licence as respects the original sentence continues in force (unless revoked).
+
+### Chapter 4 — Curfew licences (prospective)
+
+#### 47 Curfew licences (prospective)
+
+(1) Subsection (2) applies in relation to a custody and community prisoner who—
+
+(a) is serving a sentence of imprisonment for a term of 3 months or more, and
+
+(b) is of a description specified by the Scottish Ministers by order.
+
+(2) The Scottish Ministers may release the prisoner on licence (a “curfew licence”) before the expiry of the custody part of the prisoner's sentence.
+
+(3) A curfew licence must include a curfew condition.
+
+(4) The Scottish Ministers may release a prisoner on curfew licence only—
+
+(a) after the later of—
+
+(i) the day on which the prisoner has served the greater of one-quarter or four weeks of the prisoner's sentence, or
+
+(ii) the day falling 135 days before the expiry of the custody part of the sentence, and
+
+(b) before the day falling 14 days before the expiry of the custody part.
+
+(5) In determining whether to release a prisoner on curfew licence, the Scottish Ministers must have regard to the need to—
+
+(a) protect the public at large,
+
+(b) prevent re-offending by the prisoner, and
+
+(c) secure the successful re-integration of the prisoner into the community.
+
+(6) The Scottish Ministers may include in a curfew licence such other conditions as they consider appropriate.
+
+(7) Where a prisoner is released on curfew licence, the prisoner must, while the licence is in force, comply with the conditions included in the licence.
+
+(8) A curfew licence remains in force until the expiry of the custody part of the prisoner's sentence.
+
+(9) An order under subsection (1)(b) may include provision—
+
+(a) applying provisions of this Part to curfew licences subject to modifications specified in the order,
+
+(b) amending the periods of time mentioned in subsection (4).
+
+#### 48 Curfew conditions (prospective)
+
+(1) A curfew condition is a condition which requires the person to whom it relates to remain at a place specified in the condition for periods so specified.
+
+(2) A curfew condition may—
+
+(a) require the person not to be in a place, or class of place, so specified at a time or during a period so specified,
+
+(b) specify different places, or different periods, for different days.
+
+(3) A curfew condition may not specify periods which amount to less than nine hours in any one day (excluding the first and last days of the period for which the condition is in force).
+
+#### [^F9]49 Monitoring of curfew conditions (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 5 — No release on weekends or public holidays (prospective)
+
+#### 50 No release on weekends or public holidays (prospective)
+
+(1) Where (but for this subsection) a prisoner would fall to be released by virtue of this Part on a day which is a Saturday, Sunday or public holiday, the prisoner must instead be released on the last preceding day which is not a Saturday, Sunday or public holiday.
+
+(2) In subsection (1), “public holiday” means any day on which, in the opinion of the Scottish Ministers, public offices or other facilities likely to be of use to the prisoner in the area in which the prisoner is likely to be following release will be closed.
+
+### Chapter 6 — Extended and multiple sentences (prospective)
+
+#### 51 Prisoners serving extended sentences: application of Part 2 (prospective)
+
+(1) Where a prisoner is serving, or liable to serve, an extended sentence, this Part applies subject to the modifications in subsections (2) to (5).
+
+(2) In section 6(4), (5), (7) and (10), references to a custody and community sentence are to be read as references to the confinement term of an extended sentence.
+
+(3) In section 14(9), the second reference to the prisoner's custody and community sentence is to be read as a reference to the confinement term of the prisoner's extended sentence.
+
+(4) In sections 18(1) and 19(1), references to the prisoner's custody and community sentence are to be read as references to the confinement term of the prisoner's extended sentence.
+
+(5) In section 47(4)(a)(i), the reference to the prisoner's sentence is to be read as a reference to the confinement term of the prisoner's extended sentence.
+
+(6) In this section, the expressions “extended sentence” and “the confinement term” are to be construed in accordance with section 210A(2) of the 1995 Act.
+
+#### 52 Prisoners serving more than one sentence: application of Part 2 (prospective)
+
+Schedule 2 (which makes provision for the application of this Part to prisoners serving, or liable to serve, more than one sentence of imprisonment) has effect.
+
+#### 53 Sentences framed to run consecutively (prospective)
+
+Schedule 3 (which makes provision for and in connection with the imposition of sentences of imprisonment framed to take effect on the expiry of another sentence) has effect.
+
+### Chapter 7 — Application of Part 2 to certain persons (prospective)
+
+#### 54 Persons detained under mental health provisions (prospective)
+
+(1) Where a transfer for treatment direction under section 136(2) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) has been made in respect of a person serving a sentence of imprisonment, this Part applies to that person as if—
+
+(a) the person continues to serve the sentence while detained in hospital, and
+
+(b) the person had not been removed to hospital.
+
+(2) Where a person is conveyed to and detained in a hospital pursuant to a hospital direction under section 59A of the 1995 Act, this Part applies to that person as if, while so detained, the person were serving a sentence of imprisonment imposed at the time the direction was made.
+
+#### 55 Application to young offenders and children (prospective)
+
+(1) This Part applies in relation to the persons mentioned in subsection (2) as it applies in relation to custody-only prisoners.
+
+(2) Those persons are—
+
+(a) a person on whom detention is imposed under section 207(2) of the 1995 Act for a period of less than 15 days,
+
+(b) a person sentenced to be detained under section 208 of that Act for such a period.
+
+(3) This Part applies in relation to the persons mentioned in subsection (4) as it applies in relation to custody and community prisoners.
+
+(4) Those persons are—
+
+(a) a person on whom detention is imposed under section 207(2) of the 1995 Act for a period of 15 days or more,
+
+(b) a person sentenced to be detained under section 208 of that Act for such a period.
+
+(5) This Part applies in relation to the persons mentioned in subsection (6) as it applies in relation to life prisoners.
+
+(6) Those persons are—
+
+(a) a person sentenced under section 205(2) or (3) of the 1995 Act to be detained without limit of time or for life,
+
+(b) a person on whom detention without limit of time or for life is imposed under section 207(2) of that Act,
+
+(c) a person sentenced to be detained without limit of time under section 208 of that Act.
+
+(7) In this Part as applied by subsections (1), (3) and (5), references to imprisonment are to be read as references to detention; and cognate expressions are to be construed accordingly.
+
+#### 56 Fine defaulters and persons in contempt of court (prospective)
+
+(1) This Part applies in relation to the persons mentioned in subsection (2) as it applies in relation to custody-only prisoners.
+
+(2) Those persons are—
+
+(a) a person serving by virtue of section 219(1) of the 1995 Act a period of imprisonment or, as the case may be, a period of detention in a young offenders institution,
+
+(b) a person serving a period of imprisonment or, as the case may be, a period of detention in a young offenders institution for contempt of court.
+
+(3) Subsection (1) does not apply in relation to—
+
+(a) a person on whom the court imposes before the coming into force of this Part—
+
+(i) a period of imprisonment in default of payment of a fine under paragraph (a) of section 219(1) of the 1995 Act, or
+
+(ii) imprisonment for failure to a pay a fine, or any part or instalment of a fine, under paragraph (b) of that section, or
+
+(b) a person found in contempt of court, where the conduct which is treated as contempt of court occurs (or first occurs) before the coming into force of this Part.
+
+### Chapter 8 — Cross-border transfer of prisoners (prospective)
+
+#### 57 Cross-border transfer of prisoners (prospective)
+
+(1) The Scottish Ministers may by order make provision for or in connection with—
+
+(a) the transfer of a person serving a sentence of imprisonment in Scotland from Scotland to a place outwith Scotland,
+
+(b) the transfer to, and confinement in, Scotland of a person serving a sentence of imprisonment imposed outwith Scotland.
+
+(2) An order under subsection (1) may—
+
+(a) include provision modifying the application of Part 2 in relation to persons specified in the order,
+
+(b) modify any other enactment.
+
+## Part 3 — Weapons
+
+### Licensing of knives, swords etc.
+
+#### 58 Licensing of knife dealers
+
+After section 27 of the Civic Government (Scotland) Act 1982 (c. 45) insert—
+
+> **Licensing and regulation of knife dealers**
+>
+> **27A Knife dealers' licences**
+>
+> (1) A licence, to be known as a “knife dealer's licence”, is required for carrying on business as a dealer in any article mentioned in subsection (2).
+>
+> (2) Those articles are—
+>
+> (a) knives (other than those designed for domestic use);
+>
+> (b) knife blades (other than those designed for domestic use);
+>
+> (c) swords;
+>
+> (d) any other article—
+>
+> (i) which has a blade; or
+>
+> (ii) which is sharply pointed,
+>
+> and which is made or adapted for use for causing injury to the person.
+>
+> (3) A knife dealer's licence shall, in addition to specifying the activity which the dealer engages in, specify the premises in or from which the activity is to be carried on.
+>
+> (4) In subsections (1) and (3), “dealer” means a person carrying on a business which consists wholly or partly of—
+>
+> (a) selling;
+>
+> (b) hiring;
+>
+> (c) offering for sale or hire;
+>
+> (d) exposing for sale or hire;
+>
+> (e) lending; or
+>
+> (f) giving,
+>
+> to persons not acting in the course of a business or profession any article mentioned in subsection (2) (whether or not the activities mentioned in paragraphs (a) to (f) are carried out incidentally to a business which would not, apart from this section, require a knife dealer's licence).
+>
+> (5) In subsection (4), “selling”, in relation to an article mentioned in subsection (2)—
+>
+> (a) includes—
+>
+> (i) selling such an article by auction;
+>
+> (ii) accepting goods or services in payment (whether in part or in full) for such an article; but
+>
+> (b) does not include selling (by auction or otherwise) such an article by one person on behalf of another;
+>
+> and “sale” is to be construed accordingly.
+>
+> (6) For the purposes of subsection (4), an article is not to be treated as being exposed for sale if it is exposed for sale (by auction or otherwise) by a person other than the owner.
+>
+> (7) The Scottish Ministers may by order modify subsection (2) so as to—
+>
+> (a) add articles or classes of article;
+>
+> (b) amend descriptions of articles or classes of article;
+>
+> (c) remove articles or classes of article.
+>
+> (8) The Scottish Ministers may by order—
+>
+> (a) modify subsection (4) so as to modify the definition of “dealer”;
+>
+> (b) specify descriptions of activity which are not to be taken to be businesses for the purposes of that subsection (or that subsection as modified).
+>
+> (9) The power in subsection (8)(a) includes in particular power to add descriptions of business.
+>
+> **27B Applications for knife dealers' licences: notice**
+>
+> (1) A licensing authority must cause public notice to be given of every application made to them for the grant or renewal of a knife dealer's licence.
+>
+> (2) Sub-paragraph (8) of paragraph 2 of Schedule 1 applies to the giving of public notice under subsection (1) as it applies to the giving of public notice under sub-paragraph (7) of that paragraph.
+>
+> **27C Knife dealers' licences: conditions**
+>
+> (1) In granting or renewing a knife dealer's licence, a licensing authority—
+>
+> (a) must attach to the licence such conditions as are specified (in particular or in general) by order by the Scottish Ministers;
+>
+> (b) may, without prejudice to paragraph 5 of Schedule 1, attach to the licence different conditions in relation to different articles or different classes of article;
+>
+> (c) may, without prejudice to that paragraph, attach to the licence conditions for or in connection with—
+>
+> (i) the keeping of records by the holder of the licence;
+>
+> (ii) the storage of articles mentioned in section 27A(2); and
+>
+> (iii) the display of such articles.
+>
+> (2) An order under subsection (1)(a) may provide for different conditions to apply to different articles or different classes of article.
+>
+> **27D Provision of information to holder of knife dealer's licence**
+>
+> (1) Subsection (2) applies where the holder of a knife dealer's licence (“the dealer”)—
+>
+> (a) is required by the licence to obtain information of a type specified in the licence from a person; and
+>
+> (b) the dealer requests (whether orally, in writing or otherwise) the information from the person.
+>
+> (2) A person, or any person acting on behalf of the person, who knowingly or recklessly provides false information in response to a request under subsection (1)(b) is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> **27E Knife dealers' licences: warrants to enter, search and seize articles**
+>
+> (1) Subsection (2) applies if a justice of the peace or sheriff is satisfied by evidence on oath that—
+>
+> (a) subsection (3) applies; and
+>
+> (b) subsection (4) or (5) applies.
+>
+> (2) The justice of the peace or sheriff may grant a warrant authorising a constable or an authorised officer—
+>
+> (a) to enter and search the premises specified in the warrant; and
+>
+> (b) to seize and remove any relevant article.
+>
+> (3) This subsection applies if there are reasonable grounds for suspecting that a person (the “suspect”) is carrying on in any premises an activity in respect of which a knife dealer's licence is required under section 27A.
+>
+> (4) This subsection applies if no knife dealer's licence is in force in respect of the activity.
+>
+> (5) This subsection applies if a knife dealer's licence is in force in respect of the activity but there are reasonable grounds for suspecting that the suspect has failed, or is failing, to comply with a condition of the licence.
+>
+> **27F Powers of constables and authorised officers**
+>
+> (1) A constable or an authorised officer may use reasonable force in executing a warrant granted under section 27E(2).
+>
+> (2) Where a constable who is not in uniform is about to enter, is entering or has entered any premises under the powers conferred under section 27E(2) he must, if required to do so by a person in or upon the premises, produce his identification.
+>
+> (3) Where an authorised officer is about to enter, is entering or has entered any premises under the powers conferred under section 27E(2) he must, if required to do so by a person in or upon the premises, produce his authorisation.
+>
+> (4) If a constable has been required to produce his identification under subsection (2) he is not entitled to enter or search the premises or, as the case may be, remain there or continue to search the premises until he has produced it.
+>
+> (5) If an authorised officer has been required to produce his authority under subsection (3), he is not entitled to enter or search the premises or, as the case may be, remain there or continue to search the premises until he has produced it.
+>
+> (6) Any person who—
+>
+> (a) fails without reasonable excuse to permit a constable, or an authorised officer, acting in pursuance of a warrant granted under section 27E(2) to enter and search any premises; or
+>
+> (b) obstructs the entry to, or search of, any premises by a constable or an authorised officer so acting,
+>
+> is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (7) Any relevant article which has been seized and removed under a warrant granted under section 27E(2) may be retained until the conclusion of proceedings against the suspect.
+>
+> (8) For the purposes of subsection (7), proceedings in relation to a suspect are concluded if—
+>
+> (a) he is found guilty and sentenced or otherwise dealt with for the offence;
+>
+> (b) he is acquitted;
+>
+> (c) proceedings for the offence are discontinued;
+>
+> (d) it is decided not to prosecute him.
+>
+> (9) In this section, “suspect” is to be construed in accordance with section 27E(3).
+>
+> **27G Power to inspect documents**
+>
+> (1) Subsection (2) applies where—
+>
+> (a) a constable or an authorised officer has reasonable grounds for suspecting that an activity in respect of which a knife dealer's licence is required under section 27A is being carried on; and
+>
+> (b) no such licence is in force in respect of the activity.
+>
+> (2) The constable or authorised officer may—
+>
+> (a) require a relevant person to produce any records or other documents connected with the activity,
+>
+> (b) inspect any such records or documents, and
+>
+> (c) take copies of, or extracts from, any such records or documents.
+>
+> (3) A relevant person who—
+>
+> (a) is required under subsection (2) to produce records or documents; and
+>
+> (b) fails without reasonable excuse to do so,
+>
+> is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (4) Before exercising the power conferred by subsection (2)—
+>
+> (a) a constable who is not in uniform must produce his identification to the relevant person;
+>
+> (b) an authorised officer must produce his authorisation to the relevant person.
+>
+> (5) For the purposes of this section, a person is “relevant” if the constable or authorised officer has reasonable grounds for believing that the person has access to the records or documents.
+>
+> **27H Sections 27E to 27G: interpretation**
+>
+> (1) In sections 27E and 27F—
+>
+> - “premises” includes a vehicle or vessel;
+> - “relevant article” means an article mentioned in any of paragraphs (a) to (d) of subsection (2) of section 27A.
+>
+> (2) In sections 27E to 27G, “authorised officer” means an officer of a licensing authority authorised by the authority for the purposes of section 27E, 27F or, as the case may be, 27G.
+>
+> **27J Forfeiture orders**
+>
+> (1) Subsection (2) applies where a person (“the offender”) is convicted of an offence under subsection (A1) or (2) of section 7 in relation to a relevant article—
+>
+> (a) seized by virtue of a warrant granted under section 27E(2); or
+>
+> (b) in the offender's possession or control at the relevant time.
+>
+> (2) The court by which the offender is convicted may make an order for forfeiture (a “forfeiture order”) in respect of the relevant article.
+>
+> (3) The court may make a forfeiture order—
+>
+> (a) whether or not it also deals with the offender in respect of the offence in any other way; and
+>
+> (b) without regard to any restrictions on forfeiture in any enactment.
+>
+> (4) In considering whether to make a forfeiture order, the court must have regard to—
+>
+> (a) the value of the relevant article; and
+>
+> (b) the likely financial and other effects on the offender of the making of the order (taken together with any other order that the court contemplates making).
+>
+> (5) In this section—
+>
+> - “relevant article” means an article mentioned in any of paragraphs (a) to (d) of subsection (2) of section 27A;
+>
+> - “relevant time” means—
+>
+>   - (a) the time of the offender's arrest for the offence; or
+>   - (b) the time of his being cited as an accused in respect of the offence.
+>
+> **27K Effect of forfeiture order**
+>
+> (1) A forfeiture order under section 27J(2) operates to deprive the offender of any rights he has in the property to which it relates.
+>
+> (2) The property to which a forfeiture order relates must be taken into the possession of the police.
+>
+> (3) The court by which the offender is convicted may, on the application of a person who—
+>
+> (a) claims property to which a forfeiture order relates; but
+>
+> (b) is not the offender from whom it was forfeited,
+>
+> make an order (a “recovery order”) for delivery of the property to the applicant if it appears to the court that he owns it.
+>
+> (4) An application under subsection (3) must be made—
+>
+> (a) in such manner as may be prescribed by Act of Adjournal; and
+>
+> (b) before the end of the period of 6 months beginning with the date on which the forfeiture order was made.
+>
+> (5) An application may be granted only if the applicant satisfies the court that—
+>
+> (a) he had not consented to the offender's having possession of the property; or
+>
+> (b) he did not know, and had no reason to suspect, that the offence was likely to be committed.
+>
+> (6) If a person has a right to recover property which, by virtue of a recovery order, is in the possession of another, that right—
+>
+> (a) is not affected by the making of the recovery order at any time before the end of the period of 6 months beginning with the day on which the order is made;
+>
+> (b) is lost at the end of that period.
+>
+> (7) The Scottish Ministers may by order make provision for or in connection with the disposal of property forfeited under a forfeiture order in cases where—
+>
+> (a) no application under subsection (3) has been made before the end of the 6 month period beginning with the day on which the forfeiture order was made; or
+>
+> (b) no such application has succeeded.
+>
+> (8) An order under subsection (7) may in particular make provision for—
+>
+> (a) dealing with any proceeds from the disposal;
+>
+> (b) investing money; and
+>
+> (c) auditing accounts.
+>
+> **27L Offences by partnerships**
+>
+> Where an offence committed by a partnership under—
+>
+> (a) section 5 (in so far as the offence relates to a knife dealer's licence);
+>
+> (b) section 7 (in so far as the offence so relates);
+>
+> (c) section 27D;
+>
+> (d) section 27F; or
+>
+> (e) section 27G,
+>
+> is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership is guilty of the offence and is liable to be proceeded against and punished accordingly.
+>
+> **27M Appropriate licence required**
+>
+> Where a person carries on a business which—
+>
+> (a) by virtue of section 24 requires a second-hand dealer's licence; and
+>
+> (b) by virtue of section 27A requires a knife dealer's licence,
+>
+> the person requires the appropriate licence in respect of each activity.
+>
+> **27N Remote sales of knives etc.**
+>
+> (1) This section applies where, in connection with the sale of an article mentioned in section 27A(2)—
+>
+> (a) the premises (the “relevant premises”) from which the article is dispatched in pursuance of the sale are not the same as those where the order for the article is taken (the “sale premises”),
+>
+> (b) the relevant premises are in Scotland, and
+>
+> (c) the sale premises are not in Scotland.
+>
+> (2) For the purposes of this Act the sale of the article is to be treated as taking place on the relevant premises.
+>
+> **27P Sales and dispatches in different local authority areas**
+>
+> (1) Subsection (2) applies where, in connection with the sale of an article mentioned in section 27A(2)—
+>
+> (a) the relevant premises are situated in the area of a local authority, and
+>
+> (b) the sale premises are situated in the area of another local authority which, by virtue of section 2(2), is the licensing authority in respect of the taking of the order for the article.
+>
+> (2) For the purposes of this Act, the sale of the article is to be treated as taking place—
+>
+> (a) on the relevant premises, and
+>
+> (b) on the sale premises.
+>
+> (3) In this section, “relevant premises” and “sale premises” have the same meanings as in section 27N.
+>
+> **27Q Duty to avoid conflict between conditions of licences**
+>
+> (1) Subsection (2) applies where an application is made to a licensing authority for the grant or renewal of a second-hand dealer's licence by the holder of a knife dealer's licence issued by that authority.
+>
+> (2) In granting the application, the licensing authority must not impose any condition which conflicts, or is inconsistent, with a condition of the knife dealer's licence.
+>
+> (3) Subsection (4) applies where an application is made to a licensing authority for the grant or renewal of a knife dealer's licence by the holder of a second-hand dealer's licence issued by that authority.
+>
+> (4) In granting the application, the licensing authority must, in accordance with paragraph 10 of Schedule 1, vary the terms and conditions of the second-hand dealer's licence to avoid any conflict or inconsistency with the terms or conditions of the knife-dealer's licence.
+>
+> **27R Offences in relation to knife dealers' licences: exceptions**
+>
+> The Scottish Ministers may by order provide that an offence under—
+>
+> (a) section 5 (in so far as the offence relates to a knife dealer's licence);
+>
+> (b) section 7 (in so far as the offence so relates);
+>
+> (c) section 27D;
+>
+> (d) section 27F; or
+>
+> (e) section 27G,
+>
+> is subject to such exceptions as may be specified in the order.
+>
+> **27S Orders under sections 27A to 27R**
+>
+> (1) Any power conferred by section 27A(7), 27A(8), 27C(1)(a), 27K(7) or 27R to make orders is exercisable by statutory instrument.
+>
+> (2) Subject to subsection (3), a statutory instrument containing an order under any of those sections is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+>
+> (3) A statutory instrument containing an order under section 27R may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+.
+
+#### 59 Knife dealers' licences: further provision
+
+(1) The Civic Government (Scotland) Act 1982 (c. 45) is amended in accordance with subsections (2) and (3).
+
+(2) In section 6(1)(a) (powers of entry to and search of unlicensed premises), after “Act” insert “ (other than a knife dealer's licence) ”.
+
+(3) In section 7 (offences etc.)—
+
+(a) before subsection (1) insert—
+
+> (A1) Any person who without reasonable excuse does anything for which a licence is required under section 27A without having such a licence is guilty of an offence and liable—
+>
+> (a) on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum or both;
+>
+> (b) on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine or both.
+
+,
+
+(b) in subsection (1)—
+
+(i) after “under” insert “ any provision of ”, and
+
+(ii) after “Act” insert “ other than section 27A ”,
+
+(c) in subsection (2)—
+
+(i) the word “and” immediately after paragraph (a) is repealed, and
+
+(ii) after that paragraph, insert—
+
+> (aa) in a case where the licence is a knife dealer's licence, to a fine not exceeding level 5 on the standard scale; and
+
+,
+
+(d) in subsection (4), after “conviction,” insert—
+
+> (a) in a case where the application is for a knife dealer's licence, to a fine not exceeding level 5 on the standard scale; and
+>
+> (b) in any other case,
+
+.
+
+### Sale etc. of weapons
+
+#### 60 Sale etc. of weapons
+
+(1) In section 141 of the Criminal Justice Act 1988 (c. 33) (prohibition on sale etc. of certain weapons)—
+
+(a) in each of subsections (5), (8) and (9), for “prove” substitute “ show ”, and
+
+(b) after subsection (11) insert—
+
+> (11A) Subject to subsection (11C), where a person is charged with an offence under subsection (1) above in respect of conduct of his relating to a weapon to which this section applies, it shall be a defence to show that his conduct was for the purpose only of making the weapon in question available for one or more of the purposes specified in subsection (11B).
+>
+> (11B) Those purposes are—
+>
+> (a) the purposes of theatrical performances and of rehearsals for such performances;
+>
+> (b) the production of films (as defined in section 5B of the Copyright, Designs and Patents Act 1988 (c. 48));
+>
+> (c) the production of television programmes (as defined in section 405(1) of the Communications Act 2003 (c. 21)).
+>
+> (11C) Where—
+>
+> (a) a person is charged with an offence under subsection (1) above in respect of conduct of his relating to a weapon to which this section applies (a “relevant weapon”), and
+>
+> (b) the relevant weapon is one the importation of which is prohibited,
+>
+> subsection (11A) does not apply unless the condition in subsection (11D) is satisfied.
+>
+> (11D) The condition is that there is in force as respects Scotland provision to the effect that it is a defence for a person (“A”) charged with a relevant offence in respect of A's conduct relating to a relevant weapon to show that A's conduct was for the purpose only of making the weapon in question available for one or more of the purposes specified in subsection (11B).
+>
+> (11E) In subsection (11D), “relevant offence” means an offence under section 50(2) or (3) of the Customs and Excise Management Act 1979 (c. 2) (penalty for improper importation of goods).
+>
+> (11F) For the purposes of this section, a person shall be taken to have shown a matter specified in subsection (5), (8), (9) or (11A) above if—
+>
+> (a) sufficient evidence of the matter is adduced to raise an issue with respect to it; and
+>
+> (b) the contrary is not proved beyond a reasonable doubt.
+>
+> (11G) The Scottish Ministers may by order made by statutory instrument modify the application of this section in relation to any description of weapon specified in the order.
+>
+> (11H) An order under subsection (11G) may make different provision for different purposes.
+>
+> (11J) A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the Scottish Parliament.
+
+.
+
+(2) The defence in section 141(11A) of the Criminal Justice Act 1988 (c. 33) is not available in relation to so much of any charge as relates to conduct taking place before the commencement of this section.
+
+### Swords
+
+#### 61 Sale etc. of swords
+
+(1) The Criminal Justice Act 1988 (c. 33) is amended in accordance with subsections (2) and (3).
+
+(2) After section 141 insert—
+
+> **141ZA Application of section 141 to swords: further provision**
+>
+> (1) This section applies where the Scottish Ministers make an order under subsection (2) of section 141 directing that the section shall apply to swords.
+>
+> (2) The Scottish Ministers may include in the order provision for or in connection with modifying section 141 in its application to swords.
+>
+> (3) The Scottish Ministers may in particular—
+>
+> (a) provide for defences (including in particular defences relating to religious, cultural or sporting purposes) to offences;
+>
+> (b) increase the penalties specified in subsection (1) of section 141 (or that subsection as modified) so as to make a person liable—
+>
+> (i) on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine or both;
+>
+> (ii) on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or both;
+>
+> (c) create an offence (punishable on summary conviction only and subject to a penalty which is no greater than that mentioned in subsection (6)) relating to the provision, without reasonable excuse, of false information by a person acquiring a sword in circumstances specified in the order.
+>
+> (4) In making provision under subsection (3)(a) the Scottish Ministers may make provision for or in connection with—
+>
+> (a) the granting, and revocation, by them of authorisations in relation to the acquisition of swords;
+>
+> (b) enabling them to specify conditions in such authorisations;
+>
+> (c) requiring persons to whom authorisations are granted to comply with such conditions;
+>
+> (d) making it an offence (punishable on summary conviction only and subject to a penalty which is no greater than that mentioned in subsection (6)) to fail to comply with any such conditions.
+>
+> (5) Defences specified under subsection (3)(a) may relate to swords in general or to a class, or classes, of sword specified in the order.
+>
+> (6) The penalty is—
+>
+> (a) imprisonment for a term not exceeding 12 months; or
+>
+> (b) a fine not exceeding level 5 on the standard scale,
+>
+> or both.
+>
+> (7) The power conferred by subsection (2) is without prejudice to the generality of the power conferred by section 141(11G).
+
+.
+
+(3) In subsection (4) of section 172 (extent), after “124” insert— “ section 141ZA; ”.
+
+### Crossbows
+
+#### 62 Sale etc. of crossbows
+
+(1) In the Crossbows Act 1987 (c. 32), in the provisions mentioned in subsection (2), for “seventeen” in each place it occurs, substitute “ eighteen ”.
+
+(2) The provisions are—
+
+(a) section 1 (sale and letting on hire),
+
+(b) section 2 (purchase and hiring),
+
+(c) section 3 (possession).
+
+### Possession of weapons in prisons etc.
+
+#### 63 Possession of weapons in prisons etc.
+
+After section 49B of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39), insert—
+
+> **49C Offence of having offensive weapon etc. in prison**
+>
+> (1) Any person who has with him in a prison—
+>
+> (a) an offensive weapon, or
+>
+> (b) any other article which has a blade or is sharply pointed,
+>
+> commits an offence.
+>
+> (2) It is a defence for a person charged with an offence under subsection (1) to prove that he had good reason or lawful authority for having the weapon or other article with him in the prison.
+>
+> (3) A defence under subsection (2) includes, in particular, a defence that the person had the weapon or other article with him in prison—
+>
+> (a) for use at work,
+>
+> (b) for religious reasons, or
+>
+> (c) as part of any national costume.
+>
+> (4) Where a person is convicted of an offence under subsection (1), the court may make an order for the forfeiture of any weapon or other article to which the offence relates.
+>
+> (5) Any weapon or other article forfeited under subsection (4) is, subject to section 193 of the Criminal Procedure (Scotland) Act 1995 (c. 46), to be disposed of as the court may direct.
+>
+> (6) A person guilty of an offence under subsection (1) is liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum or both,
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 4 years or a fine or both.
+>
+> (7) In this section—
+>
+> - “offensive weapon” has the meaning given by section 47(4),
+>
+> - “prison” includes—
+>
+>   - (a) any prison other than a naval, military or air force prison,
+>   - (b) a remand centre (within the meaning of paragraph (a) of subsection (1) of section 19 of the Prisons (Scotland) Act 1989 (c. 45) (provision of remand centres and young offenders institutions),
+>   - (c) a young offenders institution (within the meaning of paragraph (b) of that subsection), and
+>   - (d) secure accommodation within the meaning of section 93(1) of the Children (Scotland) Act 1995 (c. 36).
+
+.
+
+## Part 4 — General
+
+### 64 Ancillary provision (prospective)
+
+(1) The Scottish Ministers may by order make such incidental, supplementary, consequential, transitory, transitional or saving provision as they consider appropriate for the purposes of, in consequence of or for giving full effect to this Act or any provision of it.
+
+(2) An order under subsection (1) may modify any enactment (including this Act), instrument or document.
+
+### 65 Rules, regulations and orders
+
+(1) The powers conferred by this Act on the Scottish Ministers to make [^F10]... regulations and orders are exercisable by statutory instrument.
+
+(2) Each of those powers includes power to make—
+
+(a) different provision for different purposes,
+
+(b) supplementary, incidental, consequential, transitory, transitional or saving provision.
+
+(3) Subject to subsection (4), a statutory instrument containing [^F10]... regulations or an order under this Act (other than an order under section 67) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(4) A statutory instrument containing—
+
+(a) an order under section 4(2), 7, 47(1)(b) or 57(1) or paragraph 6 of schedule 3,
+
+(b) an order under section 64(1) which contains provision modifying an Act, or
+
+(c) regulations under paragraph 3(1) or 17 of schedule 1,
+
+may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+### 66 Minor and consequential amendments and repeals
+
+(1) Schedule 4 (which contains minor amendments and amendments consequential on the provisions of this Act) has effect.
+
+(2) The enactments mentioned in the first column in schedule 5 are repealed to the extent set out in the second column.
+
+(3) Schedule 6 (which contains certain transitory amendments of the Prisoners and Criminal Proceedings (Scotland) Act 1993) has effect.
+
+### 67 Short title and commencement
+
+(1) This Act may be cited as the Custodial Sentences and Weapons (Scotland) Act 2007.
+
+(2) This Act (other than this section and section 65) shall come into force on such day as the Scottish Ministers may by order appoint.
+
+(3) Different days may be appointed under subsection (2) for different purposes.
+
+## [^F11]SCHEDULE 1 — The Parole Board for Scotland (prospective)
+
+*(introduced by section 1(5))*
+
+### [^F11]Membership (prospective)
+
+**[^F11]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]Tenure of appointments (prospective)
+
+**[^F11]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]Carrying out of functions (prospective)
+
+**[^F11]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]Removal of members (prospective)
+
+**[^F11]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]Remuneration, allowances and other expenses (prospective)
+
+**[^F11]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F11]Reporting and planning (prospective)
+
+**[^F11]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Prisoners serving more than one sentence: application of Part 2 (prospective)
+
+*(introduced by section 52)*
+
+### Multiple custody-only sentences (prospective)
+
+**1** (1) This paragraph applies where a prisoner—
+
+(a) is serving, or liable to serve, two or more custody-only sentences, and
+
+(b) is not serving, or liable to serve, any other sentence of imprisonment.
+
+(2) Part 2 applies subject to the following modifications.
+
+(3) In sections 5 and 34(1), references to the prisoner's sentence are to be read as references to the custody-only sentence which expires after the expiry of the other custody-only sentence (or sentences) imposed on the prisoner.
+
+### Multiple custody and community sentences (prospective)
+
+**2** (1) This paragraph applies where a prisoner—
+
+(a) is serving, or liable to serve, two or more custody and community sentences, and
+
+(b) is not serving, or liable to serve, any other sentence of imprisonment.
+
+(2) Part 2 applies subject to the following modifications.
+
+(3) In sections 10 to 13, 18 and 47, references to the custody part of the prisoner's custody and community sentence are to be read as references to the custody part which expires after the expiry of the other custody part (or parts) specified in relation to the prisoner.
+
+(4) In section 14—
+
+(a) subsection (9) does not apply, and
+
+(b) “three-quarter point”, in relation to each of the sentences imposed on the prisoner, means the day on which the prisoner will have served at least three-quarters of each of those sentences.
+
+(5) In section 19(1), the reference to the prisoner's having served three-quarters of the prisoner's sentence is to be read as a reference to the prisoner's having served at least three-quarters of each sentence imposed on the prisoner.
+
+(6) In sections 34(2) and 43, references to the expiry of the prisoner's sentence are to be read as references to the expiry of the sentence which expires after the expiry of the other custody and community sentence (or sentences) imposed on the prisoner.
+
+(7) In section 47(4)(a)(i), the reference to the prisoner's sentence is to be read as a reference to the longer (or longest) of the sentences imposed on the prisoner.
+
+(8) This paragraph is subject to paragraph 7.
+
+### Combinations of custody-only and custody and community sentences (prospective)
+
+**3** (1) This paragraph applies where a prisoner—
+
+(a) is serving, or liable to serve, at least one custody-only sentence and at least one custody and community sentence, and
+
+(b) is not serving, or liable to serve, any other sentence of imprisonment.
+
+(2) Part 2 applies subject to the following modifications.
+
+(3) Sections 5 and 34(1) do not apply.
+
+(4) In sections 10 to 13, 18 and 47, references to the custody part are to be read as references to the custody-only sentence or, as the case may be, the custody part of the custody and community sentence which expires after the expiry of—
+
+(a) any other custody-only sentence (or sentences) imposed on the prisoner, and
+
+(b) the custody part of any other custody and community sentence (or sentences) so imposed.
+
+(5) In section 14—
+
+(a) subsection (9) does not apply, and
+
+(b) “three-quarter point”, in relation to each of the sentences imposed on the prisoner, means the day on which the prisoner will have served—
+
+(i) at least three-quarters of the custody and community sentence (or sentences), and
+
+(ii) the custody-only sentence (or sentences).
+
+(6) In section 19(1), the reference to the prisoner's having served three-quarters of the prisoner's sentence is to be read as a reference to the prisoner's having served—
+
+(a) at least three-quarters of the custody and community sentence (or sentences) imposed on the prisoner, and
+
+(b) the custody-only sentence (or sentences) so imposed.
+
+(7) In sections 34(2) and 43, references to the expiry of the prisoner's sentence are to be read as references to the expiry of the sentence which expires after the expiry of the other sentence (or sentences) imposed on the prisoner.
+
+(8) In section 47(4)(a)(i), the reference to the prisoner's sentence is to be read as a reference—
+
+(a) where one custody and community sentence is imposed on the prisoner, to that sentence,
+
+(b) where two or more such sentences are so imposed, to the longer (or longest) of them.
+
+(9) This paragraph is subject to paragraph 7.
+
+### Multiple life sentences (prospective)
+
+**4** (1) This paragraph applies where a prisoner—
+
+(a) is serving, or liable to serve, two or more life sentences, and
+
+(b) is not serving, or liable to serve, any other sentence of imprisonment.
+
+(2) Part 2 applies subject to the following modifications.
+
+(3) In sections 20 to 23, references to the punishment part are to be read as references to the punishment part which expires after the expiry of the other punishment part (or parts) imposed on the prisoner.
+
+### Combinations of life sentences and other sentences (prospective)
+
+**5** (1) This paragraph applies where a prisoner is serving, or liable to serve, at least one life sentence and any of the following—
+
+(a) a custody-only sentence,
+
+(b) two or more custody-only sentences,
+
+(c) a custody and community sentence,
+
+(d) two or more custody and community sentences.
+
+(2) Part 2 applies subject to the following modifications.
+
+(3) Sections 5, 9 to 19, 30, 31, 34(1) and (2), 43 and 47 to 49 do not apply.
+
+(4) In sections 20 to 23, references to the punishment part are to be read as references to the custody-only sentence, the custody part of the custody and community sentence or, as the case may be, the punishment part of the life sentence which expires after the expiry of—
+
+(a) any other custody-only sentence (or sentences) imposed on the prisoner,
+
+(b) the custody part of any other custody and community sentence (or sentences) so imposed, and
+
+(c) the punishment part of any other life sentence (or sentences) so imposed.
+
+### Single licence for released prisoner serving multiple sentences (prospective)
+
+**6** (1) This paragraph applies where—
+
+(a) paragraph 2, 3, 4 or 5 applies to a prisoner, and
+
+(b) the prisoner is released on licence by virtue of section 11(2), 13(2)(a), 19(1), 23(2)(a), 27(1) or 42(4)(a).
+
+(2) The prisoner must be released on a single licence as respects both (or all) sentences of imprisonment imposed on the prisoner.
+
+(3) References in Part 2 to the prisoner's licence are to be read as references to that single licence.
+
+### Special case: extended sentences (prospective)
+
+**7** (1) Where a custody and community sentence imposed on a prisoner is an extended sentence, the modifications in paragraphs 2(4), (5) and (7) and 3(5), (6)(a) and (8) are to be read subject to sub-paragraph (2).
+
+(2) In the case of the extended sentence, references in those paragraphs to the prisoner's sentence are references to the confinement term of the prisoner's sentence.
+
+(3) In this paragraph the expressions “extended sentence” and “the confinement term” are to be construed in accordance with section 210A(2) of the 1995 Act.
+
+## SCHEDULE 3 — Sentences framed to run consecutively (prospective)
+
+*(introduced by section 53)*
+
+### Power to impose sentence to take effect on expiry of other sentence (prospective)
+
+**1** (1) This paragraph applies where—
+
+(a) a prisoner is serving, or liable to serve, at least one sentence of imprisonment (the “previous sentence”), and
+
+(b) the court imposes a further sentence of imprisonment for an offence (the “further sentence”).
+
+(2) The court may, when imposing the further sentence on a prisoner serving, or liable to serve, one previous sentence, frame the further sentence to take effect immediately on the expiry of the relevant period of the previous sentence.
+
+(3) The court may, when imposing the further sentence on a prisoner serving, or liable to serve, two or more previous sentences, frame the further sentence to take effect immediately on the expiry of the relevant period of whichever previous sentence the court considers appropriate.
+
+(4) The relevant period, in relation to a sentence of imprisonment, is—
+
+(a) in the case of a custody-only sentence, that sentence,
+
+(b) in the case of a custody and community sentence, the custody part of that sentence,
+
+(c) in the case of a life sentence, the punishment part of that sentence.
+
+### Postponement of sentencing where previous punishment part or custody part not specified (prospective)
+
+**2** (1) This paragraph applies where—
+
+(a) it falls to the court to sentence a person who is subject to a previous sentence, and
+
+(b) a punishment part or, as the case may be, custody part requires to be specified in respect of the previous sentence but has not been so specified.
+
+(2) The court must not sentence the person until such time as the punishment part or, as the case may be, custody part–
+
+(a) is specified, or
+
+(b) no longer requires to be specified,
+
+in respect of the previous sentence.
+
+### Effect of sentences framed to take effect consecutively (prospective)
+
+**3** (1) This paragraph applies where—
+
+(a) the court imposes a custody-only sentence as a further sentence,
+
+(b) the court frames the sentence to take effect in accordance with paragraph 1(2) or (3), and
+
+(c) the prisoner's previous sentence (or one of the prisoner's previous sentences) is a custody and community sentence.
+
+(2) In determining the date on which the previous sentence expires, no account is to be taken of the period of confinement served under the further sentence.
+
+**4** (1) This paragraph applies where—
+
+(a) the court imposes a custody and community sentence as a further sentence,
+
+(b) the court frames the sentence to take effect in accordance with paragraph 1(2) or (3), and
+
+(c) the prisoner's previous sentence (or one of the prisoner's previous sentences) is a custody and community sentence.
+
+(2) In determining the date on which the previous sentence expires, no account is to be taken of the period of confinement served under the custody part of the further sentence.
+
+(3) In determining the date on which the further sentence expires, no account is to be taken of the balance of the previous sentence.
+
+(4) The balance of the previous sentence is the term of the sentence less the custody part of the sentence.
+
+### Effect of sentences framed to take effect consecutively on extension periods (prospective)
+
+**5** (1) In paragraph 3, if the previous sentence is an extended sentence, the reference in sub-paragraph (2) of that paragraph to the date when the previous sentence is due to expire is to be read as a reference to the date when the confinement term of that sentence is due to expire.
+
+(2) In paragraph 4, if the previous sentence is an extended sentence—
+
+(a) the reference in sub-paragraph (2) of that paragraph to the date when the previous sentence is due to expire is to be read as a reference to the date when the confinement term of that sentence is due to expire,
+
+(b) the extension period of the previous sentence is to commence immediately after the date on which the further sentence expires in accordance with sub-paragraph (3) of that paragraph.
+
+(3) In paragraph 4, if the further sentence is an extended sentence, the reference in sub-paragraph (3) of that paragraph to the date when the further sentence expires is to be read as a reference to the date when the confinement term of that sentence expires.
+
+(4) Subject to section 210A(3) of the 1995 Act and to any direction by the court which imposes the further sentence, where both the further sentence and the previous sentence are extended sentences—
+
+(a) the references in paragraph 4(2) and (3) to the dates when those sentences expire are to be read as references to the dates when the confinement terms of those sentences expire,
+
+(b) the extension periods of the sentences must be aggregated, and
+
+(c) that aggregated extension period is to commence immediately after the date on which the further sentence expires in accordance with paragraph 4(3).
+
+(5) In this paragraph the expressions “extended sentence”, “the confinement term” and “the extension period” are to be construed in accordance with section 210A(2) of the 1995 Act.
+
+### Application of schedule where previous sentence imposed by court outwith Scotland (prospective)
+
+**6** The Scottish Ministers may by order make provision for or in connection with the application of this schedule (subject to modifications specified in the order) where a previous sentence is passed by a court in any part of the United Kingdom outwith Scotland.
+
+## SCHEDULE 4 — Minor and consequential amendments (prospective)
+
+*(introduced by section 66(1))*
+
+### Criminal Procedure (Scotland) Act 1995 (c. 46) (prospective)
+
+**1** (1) Section 167 of the 1995 Act (forms of finding and sentence in summary proceedings) is amended as follows.
+
+(2) In subsection (7)—
+
+(a) ”paragraph (a) and the word “or immediately following it are repealed,
+
+(b) for the words “previous sentence for a term or order” substitute “ period mentioned in subsection (7D) below ”, and
+
+(c) for the words “later conviction or order” substitute “ order mentioned in paragraph (b) of this subsection ”.
+
+(3) After subsection (7C), insert—
+
+> (7D) The periods are—
+>
+> (a) any previous custody-only sentence,
+>
+> (b) the custody part of any previous custody and community sentence,
+>
+> (c) any previous sentence for a term passed by a court in any part of the United Kingdom outwith Scotland,
+>
+> following on conviction or any previous order for committal in default of payment of any sum of money or for contempt of court.
+>
+> (7E) In subsection (7D) above, “custody and community sentence”, “custody-only sentence” and “custody part” have the meanings given by section 4(1) of the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17).
+
+.
+
+**2** In section 204A of the 1995 Act (restriction on consecutive sentences for released prisoners), for the words from “at” to the end of the section substitute “ on licence by virtue of Part 2 of the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17). ”.
+
+**3** (1) Section 210A of the 1995 Act (extended sentences for sex and violent offenders) is amended as follows.
+
+(2) In subsection (1)(b), before “licence” insert “ community ”.
+
+(3) In subsection (2)—
+
+(a) in paragraph (a), for “custodial” substitute “ confinement ”,
+
+(b) in paragraph (b), before “licence” insert “ community ”.
+
+(4) In subsection (6), for “custodial” substitute “ confinement ”.
+
+(5) In subsection (10), for the words from “ “licence”” to “1993” substitute—
+
+> “community licence” has the same meaning as in Part 2 of the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17);
+>
+> “relevant officer”, in relation to a local authority, means an officer of that authority employed by them in the discharge of their functions under section 27(1) of the Social Work (Scotland) Act 1968 (supervision and care of persons put on probation or released from prison etc.);
+
+.
+
+### Criminal Justice (Scotland) Act 2003 (asp 7) (prospective)
+
+**4** (1) Section 40 of the Criminal Justice (Scotland) Act 2003 (remote monitoring of released prisoners) is amended as follows.
+
+(2) In subsection (1), for the words from “licence” to the end of paragraph (b) substitute “ community licence or life licence under Part 2 of the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17) ”.
+
+(3) In subsection (3)—
+
+(a) for “specify” substitute “ include ”, and
+
+(b) for “specified” substitute “ included ”.
+
+(4) In subsection (8), for paragraphs (a) and (b) substitute—
+
+> (a) section 30 of the Custodial Sentences and Weapons (Scotland) Act 2007 (community licences: Scottish Ministers to include only licence conditions specified by Parole Board), or
+>
+> (b) section 32(2) of that Act (life licences: Scottish Ministers to include only licence conditions specified by Parole Board).
+
+.
+
+### Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10) (prospective)
+
+**5** (1) The Police, Public Order and Criminal Justice (Scotland) Act 2006 is amended as follows.
+
+(2) In section 91 (assistance by offender: reduction in sentence), in subsection (8)(b), for “section 2 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)” substitute “ section 20(3) of the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17) ”.
+
+(3) In section 92 (assistance by offender: review of sentence), in subsection (5), for the words from “(whether” to the end of the subsection substitute “ on licence under Part 2 of the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17) is to be treated as still serving the sentence for so long as the licence remains in force. ”
+
+(4) In section 94 (section 92: further provision), in subsection (3)(b)—
+
+(a) for “or unconditionally under Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)” substitute “ under Part 2 of the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17) ”, and
+
+(b) the words from “before” to “full” are repealed.
+
+## SCHEDULE 5 — Repeals
+
+*(introduced by section 66(2))*
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Criminal Justice Act 1988 (c. 33) | Section 141(3). |
+| Prisons (Scotland) Act 1989 (c. 45) | In section 39, subsections (7), (7A) and (7B). |
+| Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9) | Part 1. |
+| Criminal Procedure (Scotland) Act 1995 (c. 46) | In section 167, subsections (7A) to (7C). Section 204B. |
+| Crime and Disorder Act 1998 (c. 37) | In Schedule 8, paragraph 71. |
+
+## [[^F12]SCHEDULE 6 — TRANSITORY AMENDMENTS
+
+*(introduced by section 66(3))*
+
+**1** Until the coming into force of the repeal by this Act of Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9), that Part has effect in accordance with paragraphs 2 to 4.
+
+**2** In section 1 (release of short-term and long-term prisoners), subsection (3) has effect as if for paragraphs (a) and (b) there were substituted “ must, ”
+
+**3** Section 9 (persons liable to removal from the United Kingdom) has effect as if—
+
+(a) subsection (1) were repealed, and
+
+(b) in subsection (3), after “section”, where it first occurs, there were inserted “ and sections 9A and 9B ” .
+
+**4** That Part has effect as if after section 9 there were inserted—
+
+> **Persons eligible for removal from the United Kingdom**
+>
+> **9A** (1) For the purposes of this Part, to be “eligible for removal from the United Kingdom” a person must show, to the satisfaction of the Scottish Ministers, that the condition in subsection (2) is met.
+>
+> (2) The condition is that the person has the settled intention of residing permanently outside the United Kingdom if removed from prison under section 9B.
+>
+> (3) The person must not be one who is liable to removal from the United Kingdom.
+>
+> **Early removal of certain short-term prisoners from the United Kingdom**
+>
+> **9B** (1) Subject to subsection (2), where a short-term prisoner is liable to, or eligible for, removal from the United Kingdom, the Scottish Ministers may remove the prisoner from prison under this section at any time during the period of [[^F13]210] days ending with the day on which the prisoner [[^F14]is entitled to be released under this Part].
+>
+> (2) Subsection (1) does not apply in relation to a prisoner unless the prisoner has served [[^F15]15%] of the sentence.
+>
+> (3) A prisoner removed from prison under this section—
+>
+> (a) if liable to removal from the United Kingdom, is so removed only for the purpose of enabling the Secretary of State to remove the prisoner from the United Kingdom under powers conferred by—
+>
+> (i) Schedule 2 or 3 to the Immigration Act 1971 (c.77), or
+>
+> (ii) section 10 of the Immigration and Asylum Act 1999 (c.33),
+>
+> (b) if eligible for removal from the United Kingdom, is so removed only for the purpose of enabling the prisoner to leave the United Kingdom in order to reside permanently outside the United Kingdom, and
+>
+> (c) in either case, so long as remaining in the United Kingdom, remains liable to be detained in pursuance of the prisoner's sentence until the prisoner has served [[^F16]the proportion of the sentence required under this Part in order for the prisoner to be entitled to be released].
+>
+> (4) So long as a prisoner removed from prison under this section remains in the United Kingdom but has not been returned to prison, any duty or power of the Scottish Ministers under section 1(1), 1AA or 3 is exercisable in relation to the prisoner as if the prisoner were in prison.
+>
+> [[^F17](5) The Scottish Ministers may by order do either or both of the following—
+>
+> (a) amend the number of days for the time being specified in subsection (1),
+>
+> (b) amend a period for the time being specified in subsection (2) (which may be done by amending the subsection to describe a period as a particular length of time or a proportion of a prisoner’s sentence).]
+>
+> (6) A statutory instrument containing an order under subsection (5) may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+>
+> [[^F18](7) This section does not apply in relation to a person to whom section 1AB applies.]
+>
+> **Re-entry into United Kingdom of prisoner removed from prison early**
+>
+> **9C** (1) This section applies in relation to a person (referred to in this section as “ the removed person ”) who, after being removed from prison under section 9B, has been removed from the United Kingdom before serving [[^F19]the proportion of the sentence required under this Part in order for the prisoner to be entitled to be released].
+>
+> (2) Where the removed person re-enters the United Kingdom at any time before the date on which the person would have served the person's sentence in full (but for the person's removal from prison under section 9B), the person is liable to be detained in pursuance of the person's sentence until the earlier of the following—
+>
+> (a) the date of the expiry of the outstanding custodial period,
+>
+> (b) the date on which the person would have served the person's sentence in full (but for the person's removal from prison under section 9B).
+>
+> (3) In the case of a person liable to be detained under subsection (2), the duty to release the person under section 1(1) or 1AA(1) applies only after the expiry of the outstanding custodial period.
+>
+> (4) A person who is liable to be detained by virtue of subsection (2) is, if at large, to be taken [^F20]... to be unlawfully at large.
+>
+> (5) Subsection (2) does not prevent—
+>
+> (a) the further removal from prison under section 9B(1) of a person falling within that subsection, or
+>
+> (b) the further removal from the United Kingdom of such a person.
+>
+> (6) In this section, the “ outstanding custodial period ” means, in relation to a removed person, a period of time equal to the period beginning with the date of removal from the United Kingdom and ending with the date on which the person would, but for the removal, have served [[^F21]the proportion of the sentence required under this Part in order for the prisoner to be entitled to be released].
+
+.
+
+**5** Until the coming into force of the repeal by this Act of Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9), paragraph (c) of section 24 of the International Criminal Court (Scotland) Act 2001 (asp 13) (limited disapplication of certain provisions relating to sentences) has effect as if—
+
+(a) after “9” there were inserted “, 9A, 9B, 9C” , and
+
+(b) after “transfer” there were inserted “, removal”. ]
+
+---
+
+[^F1]: Pt. 1 repealed (1.10.2020) by Management of Offenders (Scotland) Act 2019 (asp 14), ss. 47(2), 63(2); S.S.I. 2020/283, reg. 2(l)
+[^F2]: Words in s. 20(3) repealed (24.9.2012) by Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7), ss. 1(5)(a), 5(2); S.S.I. 2012/249, art. 2
+[^F3]: S. 20(4A) inserted (24.9.2012) by Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7), ss. 1(5)(b), 5(2); S.S.I. 2012/249, art. 2
+[^F4]: Word in s. 20(5)(a) repealed (24.9.2012) by Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7), ss. 1(5)(c)(i), 5(2); S.S.I. 2012/249, art. 2
+[^F5]: Words in s. 20(5)(b) substituted (24.9.2012) by Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7), ss. 1(5)(c)(ii), 5(2); S.S.I. 2012/249, art. 2
+[^F6]: S. 20(5)(c) and word preceding it inserted (24.9.2012) by Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7), ss. 1(5)(c)(iii), 5(2); S.S.I. 2012/249, art. 2
+[^F7]: S. 20(5A) inserted (24.9.2012) by Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7), ss. 1(5)(d), 5(2); S.S.I. 2012/249, art. 2
+[^F8]: S. 20A inserted (24.9.2012) by Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7), ss. 1(6), 5(2); S.S.I. 2012/249, art. 2
+[^F9]: S. 49 repealed (17.5.2022) by Management of Offenders (Scotland) Act 2019 (asp 14), s. 63(2), sch. 1 para. 10(2); S.S.I. 2022/94, reg. 2(2)(l) (with reg. 1(2))
+[^F10]: Word in s. 65(1)(3) repealed (1.10.2020) by Management of Offenders (Scotland) Act 2019 (asp 14), ss. 47(3), 63(2); S.S.I. 2020/283, reg. 2(l)
+[^F11]: Sch. 1 repealed (1.10.2020) by Management of Offenders (Scotland) Act 2019 (asp 14), ss. 47(2), 63(2); S.S.I. 2020/283, reg. 2(l)
+[^F12]: Sch. 6 substituted (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 19, 206(1); S.S.I. 2011/178, art. 2, Sch.
+[^F13]: Word in sch. 6 para. 4 substituted (24.3.2026) by The Early Removal of Prisoners from the United Kingdom (Amendment of Specified Time Periods) (Scotland) Order 2026 (S.S.I. 2026/137), arts. 1, 2(2)(a)
+[^F14]: Words in sch. 6 para. 4 substituted (16.1.2026) by The Management of Offenders (Scotland) Act 2019 and the Prisoners (Early Release) (Scotland) Act 2025 (Consequential Modifications) Regulations 2026 (S.S.I. 2026/4), regs. 1, 2(2)(a)
+[^F15]: Word in sch. 6 para. 4 substituted (24.3.2026) by The Early Removal of Prisoners from the United Kingdom (Amendment of Specified Time Periods) (Scotland) Order 2026 (S.S.I. 2026/137), arts. 1, 2(2)(b)
+[^F16]: Words in sch. 6 para. 4 substituted (16.1.2026) by The Management of Offenders (Scotland) Act 2019 and the Prisoners (Early Release) (Scotland) Act 2025 (Consequential Modifications) Regulations 2026 (S.S.I. 2026/4), regs. 1, 2(2)(b)
+[^F17]: Words in sch. 6 para. 4 substituted (16.1.2026) by The Management of Offenders (Scotland) Act 2019 and the Prisoners (Early Release) (Scotland) Act 2025 (Consequential Modifications) Regulations 2026 (S.S.I. 2026/4), regs. 1, 2(2)(c)
+[^F18]: Words in sch. 6 para. 4 inserted (30.4.2021) by Counter-Terrorism and Sentencing Act 2021 (c. 11), s. 50(1)(i), Sch. 13 para. 58
+[^F19]: Words in sch. 6 para. 4 substituted (16.1.2026) by The Management of Offenders (Scotland) Act 2019 and the Prisoners (Early Release) (Scotland) Act 2025 (Consequential Modifications) Regulations 2026 (S.S.I. 2026/4), regs. 1, 2(3)(a)
+[^F20]: Words in sch. 6 para. 4 repealed (11.10.2019) by Management of Offenders (Scotland) Act 2019 (asp 14), ss. 60(5), 63(2); S.S.I. 2019/309, reg. 2, sch.
+[^F21]: Words in sch. 6 para. 4 substituted (16.1.2026) by The Management of Offenders (Scotland) Act 2019 and the Prisoners (Early Release) (Scotland) Act 2025 (Consequential Modifications) Regulations 2026 (S.S.I. 2026/4), regs. 1, 2(3)(b)

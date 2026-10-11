@@ -1,0 +1,752 @@
+---
+title: "Scottish Civil Justice Council and Criminal Legal Assistance Act 2013"
+identifier: "asp/2013/3"
+citation: "2013 asp 3"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2013-03-05
+last_amended: 2016-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2013/3"
+source_modified: 2016-08-23
+retrieved: 2026-10-11
+---
+
+# Scottish Civil Justice Council and Criminal Legal Assistance Act 2013
+
+**2013 asp 3**
+
+An Act of the Scottish Parliament to establish the Scottish Civil Justice Council; to make provision about contributions in respect of criminal legal assistance; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 29th January 2013 and received Royal Assent on 5th March 2013
+
+## PART 1 — Scottish Civil Justice Council
+
+### Establishment
+
+#### 1 Establishment of the Scottish Civil Justice Council
+
+There is to be a body to be known as the Scottish Civil Justice Council (“the Council”).
+
+### Functions and powers
+
+#### 2 Functions of the Council
+
+(1) The functions of the Council are—
+
+(a) to keep the civil justice system under review,
+
+(b) to review the practice and procedure followed in proceedings in the Court of Session and in civil proceedings in[[^F1]the Sheriff Appeal Court or] the sheriff court,
+
+[[^F2](bb) to review the practice and procedure followed in inquiry proceedings under the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016,]
+
+(c) to prepare and submit to the Court of Session—
+
+[[^F3](i)] draft civil procedure rules,
+
+[[^F4](ia) draft fees rules,]
+
+[[^F5](ib) draft inquiry procedure rules,]
+
+(d) to provide advice and make recommendations to the Lord President on the development of, and changes to, the civil justice system, and
+
+(e) to provide such advice on any matter relating to the civil justice system as may be requested by the Lord President.
+
+(2) In carrying out its functions under this Act, the Council must have regard to—
+
+(a) the principles in subsection (3), and
+
+(b) any guidance issued by the Lord President.
+
+(3) The principles are—
+
+(a) the civil justice system should be fair, accessible and efficient,
+
+(b) rules relating to practice and procedure should be as clear and easy to understand as possible,
+
+(c) practice and procedure should, where appropriate, be similar in all civil courts, and
+
+(d) methods of resolving disputes which do not involve the courts should, where appropriate, be promoted.
+
+(4) For the purposes of this Part, “draft civil procedure rules” are draft rules which relate to a matter in subsection (5).
+
+(5) Those matters are—
+
+(a) any matter relating to a court within the remit of the Council which the Court of Session may regulate by act of sederunt,
+
+(b) any matter relating to a court within the remit of the Council in anticipation of the Court of Session being given power to regulate the matter by act of sederunt, or
+
+(c) any matter relating to a proposed court in anticipation of—
+
+(i) the court being established and added to the remit of the Council, and
+
+(ii) the Court of Session being given power to regulate the matter by act of sederunt.
+
+(6) The courts within the remit of the Council are—
+
+(a) the Court of Session, [^F6]...
+
+[[^F7](aa) the Sheriff Appeal Court, and]
+
+(b) the sheriff court.
+
+[[^F8](6A) For the purposes of this Part, “ draft fees rules ” means drafts of such provision as the Court of Session may make by act of sederunt under section 105(1) or 106(1) of the Courts Reform (Scotland) Act 2014 (powers to regulate court fees). ]
+
+[[^F9](6B) For the purposes of this Part, “draft inquiry procedure rules” are draft rules prepared with a view to the making by the Court of Session of an act of sederunt under section 36(1) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016.]
+
+#### 3 Powers of the Council
+
+(1) The Council may take such action as it considers necessary or desirable in pursuance of its functions.
+
+(2) In particular, the Council may—
+
+(a) have regard to proposals for legislative reform which may affect the civil justice system,
+
+(b) have regard to the criminal justice system and its effects on the civil justice system,
+
+(c) consult such persons as it considers appropriate,
+
+(d) co-operate with, and seek the assistance and advice of, such persons as it considers appropriate,
+
+(e) make proposals for research into the civil justice system,
+
+(f) provide advice and make recommendations to the Scottish Ministers on the development of, and changes to, the civil justice system, and
+
+(g) publish any recommendation it makes.
+
+#### 4 Court of Session to consider rules
+
+(1) The Court of Session must consider any draft civil procedure rules[[^F10], draft fees rules][[^F11]or draft inquiry procedure rules] submitted to it by the Council and may—
+
+(a) approve the rules,
+
+(b) approve the rules with such modifications as it considers appropriate, or
+
+(c) reject the rules.
+
+(2) Where the Court of Session approves draft civil procedure rules[[^F12], draft fees rules][[^F13]or draft inquiry procedure rules] (with or without modification) it must embody the approved rules in an act of sederunt.
+
+(3) Nothing in this Part affects the powers of the Court of Session to prepare or make rules—
+
+[[^F14](a)] which relate to a matter in section 2(5).
+
+[[^F15](b) under section 105(1) or 106(1) of the Courts Reform (Scotland) Act 2014.]
+
+[[^F16](c) under section 36(1) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016.]
+
+#### 5 Annual programme and report
+
+(1) The Council must prepare an annual plan setting out its objectives and priorities for each yearly period beginning on 1 April before the start of that period (“the programme”).
+
+(2) The Council must prepare an annual report on its activities as soon as reasonably practicable after the end of each yearly period ending on 31 March (“the report”).
+
+(3) The report must include a summary of the recommendations made (if any) by the Council during the period covered by the report.
+
+(4) The Council must lay a copy of the programme and the report before the Scottish Parliament.
+
+(5) In complying with the duty in subsection (4), the Council may combine the programme for the coming year with the report for the ending year.
+
+### Membership
+
+#### 6 Composition of the Council
+
+(1) The Council is to have not more than 20 members and is to be comprised of—
+
+(a) the Lord President,
+
+(b) the Chief Executive of the Scottish Court Service,
+
+(c) the principal officer of the Scottish Legal Aid Board,
+
+(d) 1 member appointed by the Scottish Ministers under subsection (2),
+
+(e) at least 4 judges (“judicial members”), including a minimum of—
+
+(i) 1 judge of the Court of Session, and
+
+(ii) 1 sheriff principal or sheriff,
+
+(f) at least 2 practising advocates (“advocate members”),
+
+(g) at least 2 practising solicitors (“solicitor members”),
+
+(h) at least 2 persons (“consumer representative members”) who, between them, appear to the Lord President to have—
+
+(i) experience and knowledge of consumer affairs,
+
+(ii) knowledge of the non-commercial legal advice sector, and
+
+(iii) an awareness of the interests of litigants in the civil courts, and
+
+(i) up to 6 other persons considered by the Lord President to be suitable to be members of the Council (“LP members”).
+
+(2) The Scottish Ministers must appoint as a member a person who is a member of staff of the Scottish Government and whom they consider to be suitable to be a member of the Council.
+
+(3) The Scottish Ministers may by order amend subsection (1) by substituting for the number of members (or the minimum number in a category of membership) for the time being specified there such other number as they think fit.
+
+(4) Before making an order under subsection (3) the Scottish Ministers must consult the Lord President.
+
+(5) The power to make an order under subsection (3) includes power to make such supplementary, incidental, consequential, transitional, transitory or saving provision as the Scottish Ministers consider appropriate.
+
+(6) But such power does not include power to modify the description of a category of membership described in subsection (1) or to add a category of membership.
+
+(7) Orders under subsection (3) are subject to the affirmative procedure.
+
+#### 7 Lord President appointment process
+
+(1) The Lord President must appoint persons to be members of the Council in respect of the categories of membership described in section 6(1)(e) to (i) and ensure that the number of members in each such category of membership is maintained at the required level.
+
+(2) The Lord President must prepare and publish a statement of appointment practice setting out the process which the Lord President will follow for appointing—
+
+(a) advocate members,
+
+(b) solicitor members,
+
+(c) consumer representative members, and
+
+(d) LP members.
+
+(3) In preparing the statement of appointment practice the Lord President must have regard to the principles in subsection (4).
+
+(4) The principles are—
+
+(a) appointments to the Council should be made fairly and openly, and
+
+(b) so far as reasonably practicable, all eligible persons should be afforded an opportunity to be considered for appointment.
+
+(5) The statement of appointment practice must include a requirement for the Lord President to consult—
+
+(a) the Faculty of Advocates before appointing an advocate member,
+
+(b) the Council of the Law Society of Scotland before appointing a solicitor member,
+
+(c) the Scottish Ministers before appointing—
+
+(i) a consumer representative member, or
+
+(ii) a LP member.
+
+#### 8 Tenure
+
+(1) The Lord President, the Chief Executive of the Scottish Court Service and the principal officer of the Scottish Legal Aid Board are members of the Council by virtue of holding their respective offices.
+
+(2) A member appointed by the Scottish Ministers holds office until such time as the Scottish Ministers appoint a replacement member.
+
+(3) A judicial member holds office for a period of 3 years unless, prior to the expiry of that period, the Lord President replaces the member with another judicial member or requires the member to leave office.
+
+(4) Any other member holds office for a period of 3 years.
+
+(5) A member appointed under section 7(1) ceases to hold office—
+
+(a) at the end of a period of appointment,
+
+(b) upon giving written notice of resignation to the Lord President,
+
+(c) on becoming disqualified from holding office as a member or on being removed from such office (see section 9),
+
+(d) on ceasing to fall within the category of membership in respect of which the member was appointed.
+
+(6) For the purposes of subsection (5)(d), a LP member ceases to fall within that category of membership where, in the opinion of the Lord President, the basis of the LP member's appointment has materially changed.
+
+(7) A person who is or has been a member of the Council may be reappointed (whether in respect of the same or a different category of membership) for further periods.
+
+#### 9 Disqualification and removal from office
+
+(1) A person is disqualified from appointment under section 7(1) as a member of the Council, and from holding office as such a member, if the person is or becomes—
+
+(a) a member of the Scottish Parliament,
+
+(b) a member of the House of Commons,
+
+(c) a member of the European Parliament,
+
+(d) a councillor of any council constituted under section 2 of the Local Government etc. (Scotland) Act 1994,
+
+(e) a member of the Scottish Government, or
+
+(f) a Minister of the Crown.
+
+(2) The Lord President may, by notice in writing, remove any member appointed under section 7(1) if satisfied that the member—
+
+(a) is unfit to be a member by reason of inability, neglect of duty or misbehaviour, or
+
+(b) is otherwise unsuitable to continue as a member.
+
+(3) The Lord President must consult the Scottish Ministers before removing—
+
+(a) a consumer representative member, or
+
+(b) a LP member.
+
+#### 10 Expenses and remuneration
+
+(1) The Scottish Court Service may pay such expenses as it thinks fit to—
+
+(a) a member of the Council, and
+
+(b) a person appointed under section 13(2) as a member of a committee of the Council.
+
+(2) The Scottish Court Service may pay such remuneration as it thinks fit to—
+
+(a) an advocate member,
+
+(b) a solicitor member,
+
+(c) a consumer representative member,
+
+(d) a LP member, and
+
+(e) a person (other than one mentioned in subsection (3)) appointed under section 13(2) as a member of a committee of the Council.
+
+(3) Remuneration is not to be paid under subsection (2) to a person who is—
+
+(a) a member of staff of the Scottish Legal Aid Board, or
+
+(b) a member of staff of the Scottish Administration.
+
+### Operation
+
+#### 11 Chairing of the Council
+
+(1) It is for the Lord President to determine who is to be chair of the Council.
+
+(2) The only persons who may be chair are—
+
+(a) the Lord President (but see also section 12(5)), or
+
+(b) a judicial member holding the office of judge of the Court of Session.
+
+(3) A person ceases to be chair when—
+
+(a) if applicable, the judicial member ceases to be a member of the Council, or
+
+(b) the Lord President determines that someone else is to be chair under subsection (1).
+
+(4) Members of the Council must elect a member to act as deputy to the chair.
+
+#### 12 Proceedings
+
+(1) The Lord President may determine the number of members required to constitute a quorum for meetings of the Council.
+
+(2) The Lord President may determine different numbers of members to constitute a quorum for different purposes.
+
+(3) The Council may otherwise determine—
+
+(a) its own procedure, and
+
+(b) the procedure of any committees established by it.
+
+(4) The validity of any proceedings or actings of the Council is not affected by—
+
+(a) any vacancy in the membership of the Council (even if that vacancy creates a deficiency in one of the categories of membership),
+
+(b) any defect in the appointment of a member of the Council,
+
+(c) disqualification of any individual from holding office as a member of the Council.
+
+(5) The Lord President may nominate the Lord Justice Clerk to attend and participate in meetings of the Council on behalf of the Lord President (which participation includes, where the Lord President is acting as chair under section 11(1), chairing the meeting).
+
+(6) The Chief Executive of the Scottish Court Service may nominate a member of staff of the Scottish Court Service to attend and participate in meetings of the Council on behalf of the Chief Executive.
+
+(7) The principal officer of the Scottish Legal Aid Board may nominate a member of staff of the Scottish Legal Aid Board to attend and participate in meetings of the Council on behalf of the principal officer.
+
+(8) The Scottish Ministers may nominate another member of staff of the Scottish Government who they consider would be suitable to be a member of the Council to attend and participate on behalf of the member appointed by them under section 6(2).
+
+#### 13 Committees
+
+(1) The Council may establish committees.
+
+(2) A person who is not a member of the Council may be appointed to be a member of any committee established by it.
+
+### General
+
+#### 14 Dissolution of existing rules councils
+
+(1) The Court of Session Rules Council established under section 18 of the Administration of Justice (Scotland) Act 1933 (c. 41) (and continued under section 8 of the Court of Session Act 1988 (c. 36)) is dissolved.
+
+(2) Section 8 of the Court of Session Act 1988 is repealed.
+
+(3) The Sheriff Court Rules Council is dissolved.
+
+(4) Sections 33 and 34 of the Sheriff Courts (Scotland) Act 1971 (c. 58) are repealed.
+
+#### 15 Modification of enactments
+
+(1) In section 38(3) of the Legal Aid (Scotland) Act 1986 (c. 47) (rules of court), after “consult” insert “ the Scottish Civil Justice Council, ”.
+
+(2) In section 32(3) of the Sheriff Courts (Scotland) Act 1971 (c. 58) (power of Court of Session to regulate civil procedure in sheriff court), for “Sheriff Court Rules Council under section 34 of this Act” substitute “ Scottish Civil Justice Council ”.
+
+(3) In section 62 of the Judiciary and Courts (Scotland) Act 2008 (asp 6) (administrative support for other persons), in subsection (1)—
+
+(a) after paragraph (d) insert—
+
+> (ea) the Scottish Civil Justice Council,
+
+, and
+
+(b) paragraphs (e) and (g) are repealed.
+
+#### 16 Interpretation of Part 1
+
+In this Part—
+
+- “advocate” means a member of the Faculty of Advocates,
+- “draft civil procedure rules” has the meaning given in section 2(4),
+- [[^F17]draft fees rules” has the meaning given in section 2(6A),]
+- [[^F18] “ draft inquiry procedure rules ” has the meaning given in section 2(6B), ]
+- “solicitor” means a person qualified to practise as solicitor under section 4 of the Solicitors (Scotland) Act 1980 (c. 46),
+- “the Chief Executive of the Scottish Court Service” means the chief executive appointed under paragraph 14(1) of schedule 3 to the Judiciary and Courts (Scotland) Act 2008 (asp 6),
+- “the Lord Justice Clerk” means the Lord Justice Clerk of the Court of Session,
+- “the Lord President” means the Lord President of the Court of Session,
+- “the principal officer of the Scottish Legal Aid Board” means the principal officer appointed under paragraph 7(1) of Schedule 1 to the Legal Aid (Scotland) Act 1986 (c. 47).
+
+## PART 2 — Criminal legal assistance
+
+### Contributions in respect of automatically available criminal advice and assistance
+
+#### 17 Contributions in respect of automatically available criminal advice and assistance
+
+In the Legal Aid (Scotland) Act 1986 (c. 47) (“the 1986 Act”), in section 8A (criminal advice and assistance: automatic availability in certain circumstances)—
+
+(a) after subsection (1) insert—
+
+> (1A) Regulations under subsection (1) may also provide that, in such circumstances as may be prescribed in the regulations, section 11(2) is not to apply in respect of advice and assistance made available to a relevant client.
+
+,
+
+(b) in subsection (2), for “subsection (1)” insert “ subsections (1) and (1A) ”.
+
+### Assistance by way of representation in relation to criminal matters
+
+#### 18 Availability of criminal assistance by way of representation
+
+(1) In section 9(2) of the 1986 Act (regulations may apply Part 2 to representation), after paragraph (dd), insert—
+
+> (dda) provide that, in relation to assistance by way of representation which relates to such criminal proceedings as may be prescribed, sections 9A and 11A are to apply instead of sections 8 and 11;
+
+.
+
+(2) After section 9 of the 1986 Act insert—
+
+> **9A Availability of specified criminal assistance by way of representation**
+>
+> (1) Assistance by way of representation to which this section applies by virtue of regulations made under section 9(1) is to be available to a client where—
+>
+> (a) the solicitor—
+>
+> (i) has considered the financial circumstances of the client, and
+>
+> (ii) is satisfied as to the criteria mentioned in subsection (2), or
+>
+> (b) the Board has approved the provision of the assistance.
+>
+> (2) The criteria are—
+>
+> (a) the scheme of eligibility provides that the fees and outlays of the assistance cannot be met without undue hardship to the client or the dependants of the client, and
+>
+> (b) any further criterion prescribed in pursuance of section 9(2)(c).
+>
+> (3) The Board must establish a procedure for a client to apply to the Board for approval under subsection (1)(b) in circumstances where assistance by way of representation has not been made available under subsection (1)(a).
+>
+> (4) For the purposes of this section, “scheme of eligibility” means a scheme approved under section 9B(3).
+>
+> (5) This section is subject to any provision made in regulations under section 8A(1).
+>
+> **9B Scheme of eligibility**
+>
+> (1) The Board must, for the purposes of section 9A, prepare and publish a scheme of eligibility setting out financial circumstances in which the Board considers that paying the fees and outlays in respect of assistance by way of representation will result in undue hardship for a client or the dependants of a client.
+>
+> (2) Before publishing a scheme of eligibility the Board must submit the scheme to the Scottish Ministers for approval.
+>
+> (3) The Scottish Ministers may approve a scheme of eligibility submitted to them under subsection (2) with or without modification.
+>
+> (4) The Scottish Ministers may at any time—
+>
+> (a) approve a modification of an approved scheme of eligibility proposed by the Board or withdraw approval of such a scheme or modification,
+>
+> (b) require the Board to prepare and publish a scheme under subsection (1).
+>
+> (5) In preparing and publishing the scheme of eligibility under subsection (1) the Board must comply with any direction given by the Scottish Ministers.
+>
+> (6) A scheme of eligibility may make different provision for different cases or classes of case.
+
+.
+
+#### 19 Clients' contributions for criminal assistance by way of representation
+
+(1) In section 11(1) of the 1986 Act (clients' contributions), after “below” insert “ or, where applicable, section 11A ”.
+
+(2) The title of section 11 becomes “ **Clients' contributions: general** ”.
+
+(3) After section 11 insert—
+
+> **11A Clients' contributions: specified criminal assistance by way of representation**
+>
+> (1) This section applies where—
+>
+> (a) assistance by way of representation has been made available to a client under section 9A(1) (“the assistance”), and
+>
+> (b) the client—
+>
+> (i) has disposable income of, or exceeding, £82 per week and is not (directly or indirectly) in receipt of any of the benefits mentioned in section 11(2)(b), or
+>
+> (ii) has disposable capital of, or exceeding, £750.
+>
+> (2) The client is liable to pay a contribution in respect of the assistance provided of up to, but not in aggregate exceeding, such amount as may be prescribed by regulations made under section 33ZA(1).
+>
+> (3) Except where regulations made under section 33ZA(1) otherwise provide—
+>
+> (a) in a case where the assistance is being provided—
+>
+> (i) by a solicitor employed by the Board by virtue of sections 26 and 27 or, as the case may be, section 28A, or
+>
+> (ii) by counsel instructed by such a solicitor,
+>
+> it is for the Board to determine the amount of and collect any contribution payable by the client under subsection (2), and
+>
+> (b) in any other case, it is for the solicitor to determine the amount of and collect any contribution payable by the client under subsection (2).
+>
+> (4) A contribution collected by the solicitor is to be treated as payment of a fee or outlay properly chargeable (in accordance with section 33).
+
+.
+
+### Contributions for criminal legal aid (prospective)
+
+#### 20 Contributions for criminal legal aid (prospective)
+
+After section 25AB of the 1986 Act insert—
+
+> **25AC Legal aid: contributions**
+>
+> (1) A person (A) is not to be required to pay any sums in respect of criminal legal aid received in pursuance of this Part except in accordance with subsection (3) or section 25AA(5).
+>
+> (2) Subsection (3) applies where—
+>
+> (a) the legal aid is not being provided in any of the circumstances described in section 22(1) or under section 23(1), and
+>
+> (b) A—
+>
+> (i) has disposable income of, or exceeding, £82 a week and is not (directly or indirectly) in receipt of any of the benefits mentioned in section 11(2)(b), or
+>
+> (ii) has disposable capital of, or exceeding, £750.
+>
+> (3) A is liable to pay a contribution in respect of the criminal legal aid provided of up to, but not in aggregate exceeding, such amount as may be prescribed by regulations made under section 33ZA(1).
+>
+> (4) Except where regulations made under section 33ZA(1) otherwise provide—
+>
+> (a) in a case where the criminal legal aid is being provided—
+>
+> (i) in relation to solemn proceedings, proceedings relating to an appeal or proceedings relating to the Supreme Court,
+>
+> (ii) by a solicitor employed by the Board by virtue of sections 26 and 27 or, as the case may be, section 28A, or
+>
+> (iii) by counsel instructed by such a solicitor,
+>
+> it is for the Board to collect any contribution payable by A under subsection (3), and
+>
+> (b) in any other case, it is for the solicitor to collect any contribution payable by A under subsection (3).
+>
+> (5) A contribution collected by the solicitor is to be treated as payment of a fee or outlay properly chargeable (in accordance with section 33).
+>
+> (6) For the purposes of subsections (4)(b) and (5), “the solicitor” means the solicitor by whom any criminal legal aid is being provided or, where it is provided by counsel, the solicitor on whose instruction counsel provides it.
+>
+> **25AD Payment of fees or outlays otherwise than through contributions**
+>
+> (1) Except in so far as regulations made by the Scottish Ministers under this section or section 33ZA(1) otherwise provide, any fees and outlays payable to the solicitor in respect of criminal legal aid are to be paid as follows—
+>
+> (a) *first*, out of any contribution payable by the person receiving the criminal legal aid in accordance with section 25AC(3),
+>
+> (b) *second*, in priority to all other debts, out of any expenses which by virtue of an order of a criminal court are payable to that person by any other person in respect of the matter in connection with which the criminal legal aid was given, and
+>
+> (c) *third*, by the Board out of the Fund, following receipt by it of a claim submitted by the solicitor.
+>
+> (2) In subsection (1)—
+>
+> (a) the reference to fees and outlays is a reference to any fees and outlays properly chargeable (in accordance with section 33) in respect of criminal legal aid given to a person under this Part (but does not include the salary payable to a solicitor employed by the Board under sections 26 and 27 or section 28A),
+>
+> (b) the reference to a contribution payable by the person receiving criminal legal aid does not include a contribution which it is for the Board to collect (whether under section 25AC(4)(a) or any regulations made under section 33ZA(1)).
+>
+> (3) For the purposes of this section, “the solicitor” means the solicitor by whom any criminal legal aid is being provided or, where it is provided by counsel, the solicitor on whose instruction counsel provides it.
+
+.
+
+### Contributions for appeals where appellant deceased (prospective)
+
+#### 21 Contributions for appeals where appellant deceased (prospective)
+
+In section 25AA of the 1986 Act (legal aid in respect of appeals under section 303A of the Criminal Procedure (Scotland) Act 1995), after subsection (4) insert—
+
+> (5) Where legal aid is being made available to an authorised person under this section (in either of the circumstances described in subsection (2) or (3)), the Board may require the payment of a contribution in respect of the expenses of the criminal legal aid of such amount as the Board may determine.
+>
+> (6) The Board may require the contribution to be paid from the estate of the deceased person or by the authorised person.
+>
+> (7) The amount determined by the Board under subsection (5) must not exceed the whole expenses of the criminal legal aid provided.
+>
+> (8) The Board must take into account any contribution made by the deceased person prior to death in assessing the amount of contribution payable.
+>
+> (9) It is for the Board to collect any contribution payable under subsection (5).
+
+.
+
+### General
+
+#### 22 Regulations about contributions for criminal legal assistance
+
+After section 33 of the 1986 Act insert—
+
+> **33ZA Regulations about contributions for criminal legal assistance**
+>
+> (1) The Scottish Ministers may by regulations make provision in connection with the amount, determination and collection of any contribution payable under section 11 (in so far as relating to criminal matters) or section 11A, 25AA or 25AC.
+>
+> (2) Regulations made under subsection (1) may, in particular—
+>
+> (a) make provision permitting a lower contribution to be payable where otherwise the person liable to pay the contribution, or the dependants of such person, would suffer undue hardship,
+>
+> (b) make provision for determining appropriate contributions where the person is in receipt of criminal legal assistance in respect of two or more distinct proceedings,
+>
+> (c) except in relation to section 25AA, specify whether it is for the Board or the solicitor providing the assistance to determine the amount of, or collect, a contribution,
+>
+> (d) specify how a person's contributions are to be transferred or accounted for in relation to proceedings which are—
+>
+> (i) instituted by way of summary complaint but which are subsequently dealt with under solemn procedure, or
+>
+> (ii) instituted by way of indictment but which are subsequently dealt under summary procedure,
+>
+> (e) make provision about the payment of contributions by instalments,
+>
+> (f) make provision requiring the Board to make arrangements to provide to solicitors a service of collecting contributions payable to solicitors on their behalf.
+>
+> (3) Regulations made under subsection (1) containing provision made in pursuance of subsection (2)(f) may include provision about the operation of the service, including provision—
+>
+> (a) regulating the arrangements for remitting to a solicitor the amount of a contribution (or an instalment of a contribution) following its collection,
+>
+> (b) enabling or requiring, or, where enabled or required, regulating, the imposition by the Board of charges for the recovery of any reasonable costs the Board incurs in connection with the provision of the service to a solicitor.
+>
+> (4) Regulations made under subsection (1) may provide for different provision in relation to different cases or classes of case.
+>
+> (5) In this section “the solicitor” means the solicitor by whom any criminal legal aid is being provided or, where it is provided by counsel, the solicitor on whose instruction counsel provides it.
+
+.
+
+#### 23 Consequential modifications
+
+(1) The 1986 Act is amended as follows.
+
+(2) In section 4(3)(aa) (Scottish Legal Aid Fund), after “11” insert “ , 11A, 25AA or 25AC ”.
+
+(3) In section 8 (availability of advice & assistance), after “8A(1)” insert “ or 9(1) ”.
+
+(4) In section 8A(1) (criminal advice and assistance: automatic availability in certain circumstances)—
+
+(a) the words “the financial limits in section 8” become paragraph (a),
+
+(b) after that paragraph insert
+
+> ; or—
+>
+> (b) the criteria mentioned in section 9A(2)
+
+.
+
+(5) In section 9(2) (regulations may apply Part 2 to representation), in paragraph (de), after “11(2)” insert or “ 11A ”.
+
+(6) In section 11 (clients' contributions)—
+
+(a) in subsection (1)—
+
+(i) after “(2)” insert “ or ”,
+
+(ii) the words “or (3)” are repealed,
+
+(b) in subsection (2A)—
+
+(i) for the words from “criminal” where it first occurs to “assistance” where it third occurs substitute “ advice and assistance (other than assistance by way of representation to which section 9A applies) ”,
+
+(ii) after “27” insert “ or section 28A ”,
+
+(c) in subsection (3A), after “27” insert “ or section 28A ”, and
+
+(d) subsections (3) and (4) are repealed.
+
+(7) In section 12 (payment of fees and outlays otherwise than through clients' contributions)—
+
+(a) in subsection (3)(a), after “11(2)” insert “ or, as the case may be, section 11A(2) ”, and
+
+(b) after subsection (3), insert—
+
+> (4) In subsection (3), the reference to an amount payable by the client does not include an amount which it is for the Board to collect (whether under section 11A(3) or any regulations made under section 33ZA(1)).
+
+.
+
+(8) In section 33A (contracts for the provision of criminal legal assistance)—
+
+(a) in subsection (5)(a), after “11(2)” insert “ , 11A(2) or 25AC(3) ”, and
+
+(b) after subsection (5), insert—
+
+> (5A) In subsection (5), the reference to an amount payable by the client does not include an amount which it is for the Board to collect (whether under section 11A(3), section 25AC(4)(a), or any regulations made under section 33ZA(1)).
+
+.
+
+(9) In section 36(2) (regulations)—
+
+(a) in paragraph (b)—
+
+(i) after “11(2),” insert “ 11A(1), ”,
+
+(ii) for “and 17(2)” substitute “ , 17(2) and 25AC(2) ”,
+
+(iii) for “amount specified in section 10(2)” substitute “ amounts specified in sections 10(2), 11A(1) and 25AC(2) and, in so far as relating to criminal matters, sections 8 and 11(2) ”.
+
+(10) In section 37(2) (parliamentary procedure) after “24(4)” insert “ , 33ZA(1) ”.
+
+## PART 3 — General
+
+### 24 Ancillary provision
+
+(1) The Scottish Ministers may by order make such supplementary, incidental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes of or in connection with this Act.
+
+(2) The power of Scottish Ministers to make an order under subsection (1) includes power to make different provision for different purposes.
+
+(3) An order under subsection (1) may modify this or any other enactment.
+
+(4) Subject to subsection (5), an order under subsection (1) is subject to the negative procedure.
+
+(5) An order under subsection (1) which adds to, replaces or omits any part of the text of an Act (including this Act) is subject to the affirmative procedure.
+
+### 25 Commencement
+
+(1) This Part comes into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by order appoint.
+
+(3) An order under this section may include transitional, transitory or saving provision.
+
+### 26 Short title
+
+The short title of this Act is the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013.
+
+---
+
+[^F1]: Words in s. 2(1)(b) inserted (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 18(a); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F2]: S. 2(1)(bb) inserted (15.1.2016) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(1), Sch. 1 para. 1(2)(a)
+[^F3]: Words in s. 2(1)(c)(i) in s. 2(1)(c) renumbered as s. 2(1)(c)(i) (8.1.2016) by Tribunals (Scotland) Act 2014 (asp 10), s. 83(2), Sch. 9 para. 13(2)(b)(i) (with Sch. 9 paras. 4, 6, 8); S.S.I. 2015/422, art. 2
+[^F4]: S. 2(1)(c)(ia) inserted after s. 2(1)(c)(i) (1.4.2015) by virtue of Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 31(2)(a); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F5]: S. 2(1)(c)(ib) inserted (15.1.2016) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(1), Sch. 1 para. 1(2)(b)
+[^F6]: Word in s. 2(6) repealed (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 18(b)(i); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F7]: S. 2(6)(aa) inserted (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 18(b)(ii); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F8]: S. 2(6A) inserted (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 31(2)(b); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F9]: S. 2(6B) inserted (15.1.2016) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(1), Sch. 1 para. 1(3)
+[^F10]: Words in s. 4(1) inserted (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 31(3)(a); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F11]: Words in s. 4(1) inserted (15.1.2016) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(1), Sch. 1 para. 1(4)(a)
+[^F12]: Words in s. 4(2) inserted (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 31(3)(b); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F13]: Words in s. 4(2) inserted (15.1.2016) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(1), Sch. 1 para. 1(4)(b)
+[^F14]: Words in s. 4(3) renumbered as s. 4(3)(a) (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 31(3)(c)(i); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F15]: S. 4(3)(b) inserted (1.4.2015) by Courts Reform (Scotland) Act 2014 (asp 18), s. 138(2), Sch. 5 para. 31(3)(c)(ii); S.S.I. 2015/77, art. 2(2)(3), Sch.
+[^F16]: S. 4(3)(c) inserted (15.1.2016) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(1), Sch. 1 para. 1(4)(c)
+[^F17]: Words in s. 16 inserted (1.4.2016) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142), arts. 1, 3
+[^F18]: Words in s. 16 inserted (15.1.2016) by Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), s. 42(1), Sch. 1 para. 1(5)

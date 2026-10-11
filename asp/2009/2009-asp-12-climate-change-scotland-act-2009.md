@@ -1,0 +1,3813 @@
+---
+title: "Climate Change (Scotland) Act 2009"
+identifier: "asp/2009/12"
+citation: "2009 asp 12"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2009-08-04
+last_amended: 2025-11-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2009/12"
+source_modified: 2025-11-04
+retrieved: 2026-10-11
+---
+
+# Climate Change (Scotland) Act 2009
+
+**2009 asp 12**
+
+An Act of the Scottish Parliament to set a target for the year 2050, an interim target for the year 2020, and to provide for annual targets, for the reduction of greenhouse gas emissions; to provide about the giving of advice to the Scottish Ministers relating to climate change; to confer power on Ministers to impose climate change duties on public bodies; to make further provision about mitigation of and adaptation to climate change; to make provision about energy efficiency, including provision enabling council tax discounts; to make provision about the reduction and recycling of waste; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 24th June 2009 and received Royal Assent on 4th August 2009
+
+## Part 1 — Emissions reduction targets
+
+### [[^F1]The net-zero emissions target
+
+#### A1 The net-zero emissions target
+
+(1) The Scottish Ministers must ensure that the net Scottish emissions account for the net-zero emissions target year is at least 100% lower than the baseline (the target is known as the “net-zero emissions target”).
+
+(2) The “net-zero emissions target year” is 2045.
+
+(3) The Scottish Ministers may by regulations modify subsection (2) so as to substitute for the year for the time being mentioned in that subsection—
+
+(a) an earlier year, or
+
+(b) a later year if—
+
+(i) that later year is consistent with the most up-to-date advice they have received from the relevant body, and
+
+(ii) that advice states that the later year is appropriate on the basis of either scientific knowledge about climate change or current international carbon reporting practice (or both).
+
+(4) In preparing a draft of regulations to be made under subsection (3), the Scottish Ministers must have regard to—
+
+(a) the target-setting criteria, and
+
+(b) the most up-to-date advice they have received from the relevant body.
+
+(5) As soon as reasonably practicable after laying for approval a draft of such regulations, the Scottish Ministers must publish a statement setting out—
+
+(a) their reasons for proposing to modify the net-zero emissions target year,
+
+(b) the extent to which the proposed net-zero emissions target year takes account of the target-setting criteria, and
+
+(c) whether the proposed net-zero emissions target year is consistent with the most up-to-date advice they have received from the relevant body and, if it is not, the reasons why.]
+
+### [[^F2]Scottish carbon budgets
+
+#### A2 Scottish carbon budgets and associated concepts
+
+(1) A Scottish carbon budget is the number of tonnes of carbon dioxide equivalent prescribed for a given period.
+
+(2) The Scottish carbon budget for a period is exceeded if the net Scottish emissions account for the period exceeds the number of tonnes of carbon dioxide equivalent prescribed for the period.
+
+(3) Not exceeding a Scottish carbon budget is referred to in this Act as a “Scottish carbon budget target”.
+
+(4) Where this Act refers to an emissions reduction target for a year, the reference is to be construed in the context of a Scottish carbon budget target as follows—
+
+(a) the year in question is the final year of the period covered by the Scottish carbon budget giving rise to the target, and
+
+(b) the target for the year is met if that budget has not been exceeded.
+
+(5) In this section, “prescribed” means prescribed [[^F3]in section A2A].
+
+#### A2A [[^F4]Scottish carbon budgets: 2026 to 2045
+
+(1) The Scottish carbon budget for the period in column 1 of the following table is the corresponding proportion of the budget-relevant baseline in column 2—
+
+| Scottish carbon budget period | Proportion of budget-relevant baseline |
+|---|---|
+| Column 1 | Column 2 |
+| 2026 to 2030 | 43% |
+| 2031 to 2035 | 31% |
+| 2036 to 2040 | 20% |
+| 2041 to 2045 | 6% |
+
+(2) In subsection (1), “budget-relevant baseline” means the baseline multiplied by the number of years comprising the period in column 1.]
+
+#### A3 Duty of Scottish Ministers in relation to budgets
+
+The Scottish Ministers must ensure that each Scottish carbon budget target is met.
+
+#### A4 Budget-setting regulations
+
+(1) The Scottish Ministers must, by regulations, set Scottish carbon budgets so that every year between 2026 and the net-zero emissions target year is covered by a budget.
+
+(2) A budget for a period—
+
+(a) may be set by expressing the prescribed number of tonnes of carbon dioxide equivalent for the period either as a figure or as a method for calculating a figure, and
+
+(b) may, in particular, be set by expressing the number as a proportion of the baseline multiplied by the number of years comprising the period.
+
+(3) The period covered by a Scottish carbon budget—
+
+(a) is to be 5 years (for example 2026 to 2030), but
+
+(b) may be shorter in the case of the budget for the period that ends with the net-zero emissions target year.
+
+(4) In preparing a draft of regulations to be made under this section, the Scottish Ministers must—
+
+(a) have regard to the target-setting criteria, and
+
+(b) take into account the most up-to-date advice they have received from the relevant body.
+
+(5) On the same day as laying before the Scottish Parliament for approval a draft of regulations under this section, the Scottish Ministers must publish a statement setting out in respect of each Scottish carbon budget that would be set by the regulations—
+
+(a) the extent to which the proposed budget takes account of the target-setting criteria, and
+
+(b) whether the proposed budget is in accordance with the most up-to-date advice the Ministers have received from the relevant body and, if it is not, the reasons why.
+
+(6) A statement under subsection (5) must also set out, in indicative terms, the proposals and policies in relation to each of the sectors mentioned in section 35(3) which are likely (if the regulations are approved) to be set out in the next climate change plan due to be laid before the Scottish Parliament under section 35(1).
+
+(7) A statement under subsection (5) must also state whether the Scottish Ministers expect that, during the period covered by a Scottish carbon budget that would be set by the regulations, the net Scottish emissions account for a year will, for the first time since this section came into force, be—
+
+(a) 75% lower than the baseline,
+
+(b) 90% lower than the baseline.
+
+#### A5 Alteration of budget periods
+
+(1) The Scottish Ministers may by regulations modify section A4(3) so as to alter the length of the periods to be covered by Scottish carbon budgets.
+
+(2) The power under this section may be exercised only if it appears to the Scottish Ministers necessary to do so in order to keep the periods covered by Scottish carbon budgets in line with similar periods under any international agreement to which the United Kingdom is a party.
+
+(3) Before laying before the Scottish Parliament for approval a draft of regulations under this section, the Scottish Ministers must consult the relevant body.]
+
+### [^F5]...
+
+#### [^F5]1 The 2050 target
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F6]...
+
+#### [^F6]2 The interim targets
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]2A Modification of the interim targets
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F8]The target-setting criteria
+
+#### 2B The target-setting criteria
+
+(1) In this Act, the “target-setting criteria” are—
+
+(a) the objective of not exceeding the fair and safe Scottish emissions budget,
+
+(b) European and international law and policy relating to climate change (including the United Nations Framework Convention on Climate Change and protocols to that Convention),
+
+(c) scientific knowledge about climate change,
+
+(d) technology relevant to climate change,
+
+(e) economic circumstances, in particular the likely impact of the target on—
+
+(i) the Scottish economy,
+
+(ii) the competitiveness of particular sectors of the Scottish economy,
+
+(iii) small and medium-sized enterprises,
+
+(iv) jobs and employment opportunities,
+
+(f) fiscal circumstances, in particular the likely impact of the target on taxation, public spending and public borrowing,
+
+(g) social circumstances, in particular the likely impact of the target on those living in poorer or deprived communities,
+
+(h) the likely impact of the target on public health,
+
+(i) the likely impact of the target on those living in remote rural communities and island communities,
+
+(j) energy policy, in particular the likely impact of the target on energy supplies, the renewable energy sector and the carbon and energy intensity of the Scottish economy,
+
+(k) environmental considerations and, in particular, the likely impact of the target on biodiversity,
+
+(l) the likely impact of the target on the achievement of sustainable development, including the achievement of the United Nations sustainable development goals,
+
+(m) current international carbon reporting practice.
+
+(2) In this Act, the “fair and safe Scottish emissions budget” is the aggregate amount of net Scottish emissions of greenhouse gases for the period 2010 to 2050 as recommended by the relevant body as being consistent with Scotland, in line with the principles set out in article 3 of the United Nations Framework Convention on Climate Change, contributing appropriately to the holding of the increase in global average temperature to well below 2°C above pre-industrial levels, and pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels.
+
+(3) The Scottish Ministers may by regulations modify subsection (1) and (2) so as to add, remove or vary the description of a target-setting criterion.]
+
+### [[^F9]Advice about targets
+
+#### 2C Duty to seek advice from the relevant body
+
+(1) The Scottish Ministers must request advice from the relevant body at least once before the expiry of each relevant 5 year period.
+
+(2) A “relevant 5 year period” means a period of 5 years which begins with—
+
+(a) in the case of the first period, the date on which this section comes into force, and
+
+(b) in the case of a subsequent period, the date on which the previous request for advice was, or is treated as having been, made under subsection (1).
+
+(3) A request for advice under subsection (1) must request the relevant body's views as to—
+
+(a) whether the net-zero emissions target is achievable and, if so, what is the earliest achievable net-zero emissions target year (with views on both matters taking account of the target-setting criteria),
+
+[[^F10](ab) whether each Scottish carbon budget for a period not yet reported on under section 33 is appropriate by reference to the target-setting criteria (and if not, advice as to any alternative budget for the period that would be appropriate),]
+
+(c) whether the fair and safe Scottish emissions budget is appropriate, and request that, if not, the body makes a fresh recommendation for the purpose of the budget,
+
+(d) the estimated contribution of the net-zero emissions target and the [[^F11]Scottish carbon budget] targets towards global efforts to limit the global average temperature increase to 1.5°C above pre-industrial levels,
+
+(e) the extent to which each relevant target should be met by—
+
+(i) taking action to reduce net Scottish emissions of greenhouse gases, and
+
+(ii) the crediting of carbon units to the net Scottish emissions account in accordance with regulations under section 13(5),
+
+(f) the respective contributions towards meeting each relevant target that should be made by—
+
+(i) the sectors of the Scottish economy which are covered by trading schemes within the meaning of section 44 of the 2008 Act, and
+
+(ii) the other sectors of the Scottish economy,
+
+(g) the respective contributions towards meeting each relevant target that should be made by each of the sectors mentioned in section 35(3),
+
+(h) whether the multiplier to reflect the direct and indirect non-carbon dioxide climate change impacts of emissions at altitude from international aviation which applies for each greenhouse gas by virtue of section 16(3) is appropriate (and if not, advice as to any alternative multiplier that would be appropriate).
+
+(4) A “relevant target” is—
+
+[[^F12](ab) a Scottish carbon budget target arising from a Scottish carbon budget for a period that falls wholly within the period of 15 years beginning with the year immediately following the year in which the request is made under subsection (1), and]
+
+(c) the net-zero emissions target, if the net-zero emissions target year is within that 15 year period.
+
+(5) A request for advice under subsection (1) may request the relevant body's views as to any other matter which the Scottish Ministers consider relevant for the purposes of this Part.]
+
+#### 2D [[^F13]Power to seek additional advice
+
+(1) The Scottish Ministers may request advice from the relevant body at any time on—
+
+(a) a matter mentioned in section 2C(3),
+
+(b) any other matter which they consider relevant for the purposes of this Part.
+
+(2) But any request for advice under subsection (1) on all of the matters mentioned in section 2C(3) is to be treated as having been made under section 2C(1).]
+
+#### 2E [[^F14]Ministerial duties following request for advice
+
+(1) The Scottish Ministers must publish any advice received in response to a request under section 2C(1) or 2D(1) as soon as reasonably practicable after they receive it.
+
+(2) Subsection (3) applies if—
+
+(a) the relevant body's advice states that a particular year is the earliest achievable year for the net-zero emissions target, and
+
+(b) that year is not already the net-zero emissions target year.
+
+(3) The Scottish Ministers must—
+
+(a) within 3 months of receiving that advice publish a statement setting out how they intend to respond to that advice, and
+
+(b) if they do not, within 12 months of receiving that advice, lay for approval a draft of regulations under section A1(3) which modify the net-zero emissions target year to that year, make a statement to the Scottish Parliament setting out the reasons for not doing so.
+
+[[^F15](3A) Subsection (3B) applies if the relevant body’s advice states that the Scottish carbon budget for a period not yet reported on under section 33 is not appropriate and that a different Scottish carbon budget for the period would be appropriate.
+
+(3B) The Scottish Ministers must—
+
+(a) within 3 months of receiving that advice publish a statement setting out how they intend to respond to that advice, and
+
+(b) if they do not, within 12 months of receiving that advice, lay for approval a draft of regulations under section A4 to make the advised change to the Scottish carbon budget for the period, make a statement to the Scottish Parliament setting out the reasons for not doing so.]
+
+[^F16]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Subsection (7) applies if—
+
+(a) the relevant body's advice states that, for a greenhouse gas, the multiplier figure reflecting the direct and indirect non-carbon dioxide climate change impacts of emissions at altitude from international aviation applying when the request is made is not appropriate and that another figure would be appropriate, and
+
+(b) the Scottish Ministers do not, within 12 months of receiving that advice, lay for approval a draft order under section 16(1) amending the multiplier to that figure.
+
+(7) The Scottish Ministers must publish a statement setting out the reasons for not laying for approval a draft order under section 16(1) making the advised modification to that multiplier figure.]
+
+### [^F18]...
+
+#### [^F18]3 Annual targets: 2021 to year before net-zero year
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F19]3A Annual targets: recalculation if net-zero emissions target year is in certain periods
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F20]3B Annual targets: further rules on recalculation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F21]Information about targets
+
+#### 3C Publication of targets
+
+(1) The Scottish Ministers must keep and maintain a list of the following—
+
+(a) the net-zero emissions target year,
+
+[[^F22](ab) the Scottish carbon budgets,]
+
+(d) the percentage figure for each of the years 2018 and 2019, as set out in section 11 of the Climate Change (Emissions Reduction Targets) (Scotland) Act 2019.
+
+(2) The Scottish Ministers may remove from the list any entry in respect of a year in relation to which the Scottish Ministers have reported on under section 33.
+
+[[^F23](3) The Scottish Ministers must lay a copy of the list before the Scottish Parliament as soon as reasonably practicable after any change is made to it.]
+
+(4) The Scottish Ministers must publish, in such manner as they consider appropriate, the information contained in the list mentioned in subsection (1).]
+
+#### [^F24]4 Setting annual targets
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F24]5 Advice before setting annual targets
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F24]6 Modifying annual targets etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F24]7 Advice before modifying annual targets etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F24]...
+
+#### [^F24]8 The domestic effort target
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F25]Nitrogen balance sheet
+
+#### 8A Nitrogen balance sheet
+
+(1) The Scottish Ministers must, no later than [[^F26]24] months after this section comes into force, create a balance sheet to quantify all major nitrogen flows across all sectors and media in Scotland, including its coastal waters, the atmosphere and soil and flows across these boundaries, to be known as a “nitrogen balance sheet” for the purpose mentioned in subsection (2).
+
+(2) The purpose of the nitrogen balance sheet is to record how nitrogen use efficiency contributes to achieving the targets in this Act.
+
+(3) The Scottish Ministers must by regulations make provision for—
+
+(a) a baseline figure for nitrogen use efficiency,
+
+(b) how nitrogen use efficiency is to be calculated,
+
+(c) the timescale in which the nitrogen balance sheet is to be reviewed,
+
+(d) monitoring and reporting upon the nitrogen balance sheet,
+
+(e) such other matters as they consider appropriate.
+
+(4) The Scottish Ministers must, before laying draft regulations under subsection (3) before the Scottish Parliament, consult such persons as they consider appropriate.
+
+(5) In this Act “nitrogen use efficiency” means the ratio of nitrogen removed from the environment compared to total nitrogen inputs.
+
+(6) For the purposes of assessing the ratio mentioned in subsection (5), account should be taken of sources of nitrogen pollution, including—
+
+(a) food production and waste,
+
+(b) energy, and
+
+(c) transport.]
+
+### Advice on progress
+
+#### 9 Progress towards targets
+
+(1) The Scottish Ministers must in each year[^F27]... request the relevant body to prepare a report setting out that body's views on—
+
+(a) progress towards achievement of [[^F28]future emissions reduction targets,]—
+
+[^F29]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) whether the [[^F30]future emissions reduction targets] are likely to be achieved;
+
+(c) any further effort which may be necessary to achieve [[^F31]the future emissions reduction targets].
+
+[[^F32](d) any draft climate change plan laid before the Scottish Parliament under section 35A(1)(a) within the period of 12 months immediately preceding the making of the request.]
+
+(2) No later than the end of the second year following [[^F33]each target year], the Scottish Ministers must request the relevant body to prepare a report setting out that body's views on—
+
+(a) whether the [[^F34]emissions reduction] target for the target year was met;
+
+[^F35]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) the ways in which those targets were or were not met;
+
+(d) the action taken by the Scottish Ministers to reduce net Scottish emissions [[^F36]of greenhouse gases] during [[^F37]the period of the Scottish carbon budget for the period ending with the target year].
+
+(3) The Scottish Ministers must lay a response to the relevant body's report under this section before the Scottish Parliament as soon as reasonably practicable after they receive that body's report.
+
+### Greenhouse gases
+
+#### 10 Greenhouse gases
+
+(1) In this Act, a “greenhouse gas” means—
+
+(a) carbon dioxide;
+
+(b) methane;
+
+(c) nitrous oxide;
+
+(d) hydrofluorocarbons;
+
+(e) perfluorocarbons;
+
+(f) sulphur hexafluoride.
+
+[[^F38](g) nitrogen trifluoride.]
+
+(2) The Scottish Ministers may, if they consider it appropriate to do so, by order, modify subsection (1) so as to—
+
+(a) add a gas;
+
+(b) modify the description of a gas.
+
+(3) The power in subsection (2)(a) may be exercised only if it appears to the Scottish Ministers that an agreement or arrangement at European or international level recognises that the gas to be added contributes to climate change.
+
+(4) The Scottish Ministers must, before laying a draft of a statutory instrument containing an order under subsection (2) before the Scottish Parliament, request advice from the relevant body.
+
+(5) If the order makes provision different from that recommended by the relevant body, the Scottish Ministers must publish a statement setting out the reasons why.
+
+(6) A statement under subsection (5) may be published in such manner as the Scottish Ministers consider appropriate.
+
+### Baseline
+
+#### 11 The baseline
+
+(1) In this Act, the “baseline” means the aggregate amount of—
+
+(a) net Scottish emissions of carbon dioxide for 1990; and
+
+(b) net Scottish emissions of each of the greenhouse gases other than carbon dioxide for the year that is the baseline year for that gas.
+
+(2) The baseline years for greenhouse gases other than carbon dioxide are—
+
+(a) for methane, 1990;
+
+(b) for nitrous oxide, 1990;
+
+(c) for hydrofluorocarbons, 1995;
+
+(d) for perfluorocarbons, 1995;
+
+(e) for sulphur hexafluoride, 1995.
+
+[[^F39](f) for nitrogen trifluoride, 1995.]
+
+#### 12 Baselines for additional greenhouses gases
+
+(1) This section applies where the Scottish Ministers have made an order under section 10(2)(a) adding a greenhouse gas.
+
+(2) In this section, such a gas is referred to as an “additional greenhouse gas”.
+
+(3) The Scottish Ministers may, by order, make provision as to the manner of determining, in the case of an additional greenhouse gas, the amount of net Scottish emissions for the baseline year.
+
+(4) An order under subsection (3) may in particular—
+
+(a) designate a year as the baseline year for the additional greenhouse gas;
+
+(b) provide for the amount of net Scottish emissions of the gas for that year to be treated for the purposes of this Act as the amount of net Scottish emissions of that gas for that baseline year.
+
+### Supplementary
+
+#### 13 The net Scottish emissions account
+
+(1) The net Scottish emissions account means the aggregate amount of net Scottish emissions of greenhouse gases—
+
+(a) reduced by the amount of carbon units credited to the net Scottish emissions account for the period in accordance with regulations under subsection (5);
+
+(b) increased by the amount of carbon units that, in accordance with such regulations, are to be debited from the net Scottish emissions account for the period.
+
+[^F40]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F40]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Scottish Ministers may, by regulations, make provision about—
+
+(a) the circumstances in which carbon units may [[^F41]or may not] be credited to the net Scottish emissions account for a period;
+
+(b) the circumstances in which such units may [[^F42]or may not] be debited from that account for a period;
+
+(c) the manner in which this is to be done.
+
+[[^F43](5A) But the amount of carbon units purchased by the Scottish Ministers that may, by virtue of regulations under subsection (5), be credited to the net Scottish emissions account for a period is zero, unless regulations under section 13A specify a higher limit in relation to that period.]
+
+(6) The regulations must contain provision for ensuring that carbon units that are credited to the net Scottish emissions account for a period cease to be available to offset other greenhouse gas emissions.
+
+#### 13A [[^F44]Permitted use of carbon units purchased by the Scottish Ministers
+
+(1) The Scottish Ministers may by regulations set a limit representing the maximum amount of carbon units purchased by them that may be credited to the net Scottish emissions account for a [[^F45]given period].
+
+(2) A limit set in regulations under subsection (1) for a [[^F46]period] must not exceed an amount which represents 20% of the planned reduction in the net Scottish emissions account for [[^F47]that period].
+
+[[^F48](2A) The planned reduction in the net Scottish emissions account for a period covered by a Scottish carbon budget is the difference between the following amounts, both being determined immediately before the regulations under subsection (1) are made—
+
+(a) the Scottish carbon budget for the period, and
+
+(b) the Scottish carbon budget for the immediately preceding period.
+
+(2B) In order for the planned reduction in the net Scottish emissions account to be calculated for the first period to be covered by a Scottish carbon budget, the Scottish Ministers are by regulations to prescribe a notional Scottish carbon budget for the 5 years immediately preceding the first period to be covered by a Scottish carbon budget.
+
+(2C) Subsections (4) and (5) of section A4 apply in relation to regulations under subsection (2B) of this section as they do in relation to regulations under that section.]
+
+(3) The planned reduction in the net Scottish emissions account for [[^F49]a year that does not fall within a period covered by a Scottish carbon budget] is the difference between the following amounts, both being calculated immediately before the regulations under subsection (1) are made—
+
+(a) the minimum amount by which the emissions reduction target for the [^F50]... year requires the net Scottish emissions account to be lower than the baseline, and
+
+(b) the minimum amount by which the emissions reduction target for the immediately preceding year requires the net Scottish emissions account to be lower than the baseline.
+
+[[^F51](3A) In subsection (3), “emissions reduction target”, in relation to a year, means the annual target under section 3 or (as the case may be) the interim target under section 2 that applied in respect of the year immediately before the section was repealed.]
+
+(4) Regulations under subsection (1) may set a limit only for [[^F52]a period]—
+
+(a) in respect of which the Scottish Ministers have not yet reported on under section 33, and
+
+(b) which ends no more than 10 years after the year in which the regulations come into force.]
+
+#### [^F53]14 Restriction on use in 2010–2017 of carbon units purchased by Scottish Ministers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15 Attribution of emissions to Scotland
+
+For the purposes of section 17(1), emissions of a greenhouse gas are attributable to Scotland if—
+
+(a) they are emitted from sources in Scotland;
+
+(b) they are attributed to Scotland by virtue of an order under section 16(1).
+
+#### 16 Scottish share of emissions from international aviation and international shipping
+
+(1) The Scottish Ministers may, by order, make provision regarding the emissions of greenhouse gases from international aviation and international shipping that are attributable to Scotland.
+
+(2) An order under subsection (1)—
+
+(a) must make provision for emissions from international aviation and international shipping of—
+
+(i) in the case of the first order under that subsection, each greenhouse gas; and
+
+(ii) in the case of any subsequent order under subsection (1), any gas added to the list of greenhouse gases in section 10(1) since the last such order was made,
+
+to be taken into account as Scottish emissions of each such gas in the period starting with the 1 January following the order being approved by the Scottish Parliament and ending on 31 December 2050;
+
+(b) may make provision as to any past period in which emissions of a greenhouse gas are to be taken into account as Scottish emissions of that gas;
+
+(c) may not, once emissions from international aviation and international shipping of a greenhouse gas are, by virtue of a previous order under subsection (1), being taken into account as Scottish emissions of that gas, provide for such emissions to cease to be taken into account as Scottish emissions of that gas;
+
+(d) must, subject to subsection (3), make provision as to the manner in which emissions from international aviation and international shipping of each greenhouse gas are to be taken into account in determining Scottish emissions of that gas—
+
+(i) for the year that is the baseline year for that gas; and
+
+(ii) in the period during which such emissions of that gas are to be taken into account as Scottish emissions of that gas.
+
+(3) Provision made by virtue of subsection (2)(d) must include the use, for each greenhouse gas, of a multiplier which reflects the direct and indirect non-carbon dioxide climate change impacts of emissions at altitude from international aviation.
+
+(4) A draft of a statutory instrument containing the first order under subsection (1) must be laid before the Scottish Parliament no later than 1 June 2010.
+
+(5) If a draft of the first order is not laid by the date mentioned in subsection (4), the Scottish Ministers must lay the draft as soon as reasonably practicable afterwards.
+
+(6) The Scottish Ministers must, before laying a draft of a statutory instrument containing an order under subsection (1) before the Scottish Parliament, request advice from the relevant body (including advice as to an appropriate multiplier for each greenhouse gas for the purposes of subsection (3)).
+
+(7) If the order makes provision different from that recommended by the relevant body, the Scottish Ministers must publish a statement setting out the reasons why.
+
+(8) A statement under subsection (7) may be published in such manner as the Scottish Ministers consider appropriate.
+
+#### 17 Scottish emissions and removals
+
+(1) In this Act—
+
+- “emissions”, in relation to a greenhouse gas, means emissions of that gas into the atmosphere that are attributable to human activity;
+- “Scottish emissions”, in relation to a greenhouse gas, means emissions of that gas which are attributable to Scotland;
+- “Scottish removals”, in relation to a greenhouse gas, means removals of that gas from the atmosphere due to land use, land-use change or forestry activities in Scotland;
+- “the net Scottish emissions” for a period, in relation to a greenhouse gas, means the amount of Scottish emissions of that gas for the period reduced by the amount of Scottish removals of that gas for the period.
+
+(2) The Scottish Ministers may, if they consider it appropriate to do so, by order, modify the definition of Scottish removals in subsection (1).
+
+[[^F54](3) The amount of Scottish emissions and Scottish removals of a greenhouse gas for a period must be determined, in so far as reasonably practicable, consistently with current international carbon reporting practice or, for the purposes of assessing and reporting in accordance with [[^F55]sections 33 and 34A], target-relevant international carbon reporting practice.]
+
+#### 18 Measurement of emissions etc.
+
+(1) For the purposes of this Act, greenhouse gas emissions, reductions of such emissions and removals of greenhouse gases from the atmosphere are measured or calculated in tonnes of carbon dioxide equivalent.
+
+[[^F56](2) A “tonne of carbon dioxide equivalent” means one metric tonne of carbon dioxide or an amount of any other greenhouse gas with an equivalent global warming potential (determined, in so far as reasonably practicable, consistently with current international carbon reporting practice or, for the purposes of assessing and reporting in accordance with [[^F57]sections 33 and 34A], target-relevant international carbon reporting practice).]
+
+#### 19 International carbon reporting practice
+
+[[^F58](1) In this Act, “international carbon reporting practice” means accepted practice in relation to reporting for the purposes of—
+
+(a) the protocols to the United Nations Framework Convention on Climate Change;
+
+(b) such other agreements or arrangements at European or international level as the Scottish Ministers may, by order, specify.]
+
+[[^F59](2) The following definitions also apply for the purposes of this Act—
+
+- “current international carbon reporting practice” means the most up-to-date international carbon reporting practice,
+
+- “target-relevant international carbon reporting practice” means a practice which produces results which are consistent with those which would have been produced by using the international carbon reporting practice which was current at the later of—
+
+  - (a) 30 June 2018, or
+  - (b) the date on which Scottish Ministers last received advice from the relevant body following a request under section 2C.]
+
+#### 20 Carbon units and carbon accounting
+
+(1) The Scottish Ministers may, by regulations, make provision for a scheme—
+
+(a) for registering or otherwise keeping track of carbon units;
+
+(b) for establishing and maintaining accounts in which carbon units may be held, and between which they may be transferred, by the Scottish Ministers.
+
+(2) Regulations under subsection (1) may, in particular, provide for an existing scheme to be adapted for these purposes.
+
+(3) The regulations may also include provision—
+
+(a) designating a person or body to administer the scheme;
+
+(b) establishing a person or body for that purpose and making such provision in relation to the appointment of members, staffing, expenditure, procedure and otherwise of the person or body as the Scottish Ministers consider appropriate;
+
+(c) conferring power on the Scottish Ministers to give guidance or directions to the person or body administering the scheme;
+
+(d) conferring power on the Scottish Ministers to delegate the performance of any of the functions conferred on them by the regulations;
+
+(e) requiring the payment by persons using the scheme of such charges as are reasonably required to cover the reasonable costs incurred in operating the scheme.
+
+(4) In this Act, a “carbon unit” means a unit of a kind specified in regulations made under subsection (1) and which represents—
+
+(a) a reduction in an amount of greenhouse gas emissions;
+
+(b) the removal of an amount of greenhouse gas from the atmosphere;
+
+(c) an amount of greenhouse gas emissions allowed under a scheme or arrangement imposing a limit on such emissions.
+
+#### 20A [[^F60]The relevant body
+
+(1) In this Part, the “relevant body” means—
+
+(a) where no order has been made under section 24(1) designating a person or body as the advisory body, the UK Committee on Climate Change, or
+
+(b) where such an order has been made, the advisory body.
+
+(2) In subsection (1)(a), the “UK Committee on Climate Change” means the Committee on Climate Change established under section 32 of the 2008 Act.]
+
+#### [^F61]21 Limits on use of carbon units
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F62]22 Modifying limits on use of carbon units etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F63]23 Advice before setting or modifying limits on use of carbon units etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Advisory functions
+
+### Advisory body
+
+#### 24 Meaning of advisory body
+
+(1) The Scottish Ministers may, by order, designate—
+
+(a) a body established under section 25(1); or
+
+(b) such other public body as they consider appropriate,
+
+to exercise the functions mentioned in subsection (3) (the “advisory functions”).
+
+(2) In this Act, the body designated by virtue of subsection (1) is the “advisory body”.
+
+(3) The advisory functions are—
+
+(a) the function of providing advice, analysis, information and other assistance to the Scottish Ministers in respect of Ministers' duty under section [[^F64]A3] and functions under sections [[^F65]2C, 2D], 9 and 10(4);
+
+(b) the functions conferred on the advisory body by sections [[^F66]30] to 32 and 56; and
+
+(c) such other functions relating to advice on climate change as the Scottish Ministers may confer by an order under subsection (1).
+
+(4) An order under subsection (1) may in particular provide—
+
+(a) for the conferral of functions on the advisory body relating to advice on climate change;
+
+(b) for the information that advice must contain;
+
+(c) for the factors to which the body is to have regard in giving that advice;
+
+(d) for the period within which the body must give that advice;
+
+(e) as to whom that advice is to be given;
+
+(f) for the form and manner in which that advice is to be published and laid before the Scottish Parliament.
+
+(5) In subsection (1)(b) , a “public body” means a person or body with functions of a public nature.
+
+### Scottish Committee on Climate Change
+
+#### 25 Scottish Committee on Climate Change (prospective)
+
+(1) The Scottish Ministers may, by order, establish a body for the purpose of exercising the advisory functions.
+
+(2) The body established by virtue of subsection (1) is to be known as the Scottish Committee on Climate Change (the “Committee”).
+
+(3) Schedule 1 makes further provision about the Committee.
+
+(4) An order under subsection (1) may in particular provide—
+
+(a) for the conferral of functions on the Committee relating to advice on climate change;
+
+(b) in relation to the status, constitution and proceedings of the Committee as the Scottish Ministers consider appropriate;
+
+(c) for the information that the Committee's advice must contain;
+
+(d) for the factors to which the Committee is to have regard in giving that advice;
+
+(e) for the period within which the Committee must give that advice;
+
+(f) as to whom that advice is to be given;
+
+(g) for the form and manner in which that advice is to be published and laid before the Scottish Parliament.
+
+#### 26 [[^F67]Application of sections 30 to 32 and 56]
+
+(1) Sections [[^F68]30] to 32 and 56 have effect only from—
+
+(a) the day when an order made by the Scottish Ministers under section 24(1) comes into force; or
+
+(b) such later day or days as the Scottish Ministers may specify in an order under that section.
+
+(2) When an order under section 24(1)—
+
+[^F69]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) bringing section 56 into effect comes into force, subsection (4) of section 55 ceases to have effect.
+
+#### [^F70]27 Advice on annual targets etc. (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F70]28 Reporting on progress towards targets (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F70]29 Scottish Ministers' response to reports on progress (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 30 Duty of advisory body to provide advice or other assistance (prospective)
+
+When requested to do so by the Scottish Ministers, the advisory body must provide advice, analysis, information or assistance as regards—
+
+(a) the exercise of the Scottish Ministers' functions under this Act;
+
+(b) the exercise of Ministers' functions in relation to climate change other than under this Act;
+
+(c) other matters relating to climate change.
+
+#### 31 Guidance to advisory body (prospective)
+
+(1) The advisory body must have regard to any guidance given by the Scottish Ministers to it in relation to the exercise of its functions under this Act.
+
+(2) The Scottish Ministers may not give the advisory body guidance as to the content of any advice or report.
+
+(3) The power to give guidance under subsection (1) includes power to vary or revoke the guidance.
+
+#### 32 Power to give directions to advisory body (prospective)
+
+(1) The Scottish Ministers may, if they consider it appropriate to do so, give the advisory body directions as to the exercise of its functions under this Act.
+
+(2) The Scottish Ministers may not direct the advisory body as to the content of any advice or report.
+
+(3) The power to give directions under subsection (1) includes power to vary or revoke the directions.
+
+(4) The advisory body must comply with any directions given under subsection (1).
+
+## [[^F71]PART 2A — Citizens Assembly
+
+### 32A Citizens assembly
+
+(1) The Scottish Ministers must establish a panel to be known as a “citizens assembly” to exercise the functions mentioned in subsection (5).
+
+(2) The citizens assembly is a panel made up of such persons as the Scottish Ministers consider to be representative of the general populace of Scotland.
+
+(3) The citizens assembly is to have two conveners who are independent of the Scottish Ministers and the Scottish Parliament.
+
+(4) There is to be a gender balance between the conveners.
+
+(5) The functions conferred on the citizens assembly are to—
+
+(a) consider how to prevent or minimise, or remedy or mitigate the effects of, climate change,
+
+(b) make recommendations on measures proposed to achieve the emissions reduction targets,
+
+(c) make recommendations about such other matters in relation to climate change as the Scottish Ministers may, in accordance with subsection (6), refer to the assembly.
+
+(6) The Scottish Ministers may refer matters to the citizens assembly under subsection (5)(c) only if those matters have been approved by resolution of the Scottish Parliament.
+
+(7) The Scottish Ministers must, before the first meeting of the citizens assembly, lay before the Scottish Parliament a report on the arrangements for the administration and operation of the assembly.
+
+(8) The citizens assembly is to—
+
+(a) set out its recommendations in a report,
+
+(b) lay the report before the Scottish Parliament, and
+
+(c) send a copy of the report to the Scottish Ministers.
+
+(9) The Scottish Ministers must, within 6 months of receiving a copy of the report, publish a statement setting out how they intend to respond to the recommendations made in it.
+
+(10) The citizens assembly is to—
+
+(a) lay its report before the Scottish Parliament under subsection (8)(b) by 28 February 2021 [[^F72]or, if it is unable to lay the report by that date for a reason relating to coronavirus, as soon as reasonably practicable after that date],
+
+(b) complete its consideration of the matters mentioned in subsection (5)(a) by [[^F73]the date on which its report is so laid].
+
+[[^F74](11) In subsection (10)(a), “coronavirus” has the meaning given by section 1 of the Coronavirus (Scotland) Act 2020.]]
+
+## Part 3 — [[^F75]Reporting and planning duties]
+
+### [[^F76]Reporting
+
+#### 33 Reports on emissions reduction targets
+
+[[^F77](1) The Scottish Ministers must, following each period covered by a Scottish carbon budget, lay before the Scottish Parliament a report in relation to that period.
+
+(2) The report must state—
+
+(a) the Scottish carbon budget for the period,
+
+(b) whether the Scottish carbon budget target arising from that budget has been met,
+
+(c) the percentage by which the net Scottish emissions account for the period is lower than the baseline multiplied by the number of years comprising the period,
+
+(d) the difference between—
+
+(i) the net Scottish emissions account for the period, and
+
+(ii) the Scottish carbon budget for the period.
+
+[[^F78](2ZA) The report must also set out details of any assessments, carried out during the period to which the report relates, in accordance with the proposals and policies set out in a climate change plan for assessing the impact of major capital projects on meeting Scottish carbon budget targets.]
+
+(2A) The report relating to the period ending with the net-zero emissions target year must also state—
+
+(a) the net-zero emissions target,
+
+(b) whether that target has been met,
+
+(c) the percentage by which the net Scottish emissions account for the net-zero emissions target year is lower than the baseline,
+
+(d) the amount by which the net Scottish emissions account for the net-zero emissions target year is lower or higher than the net-zero emissions target.]
+
+(3) The Scottish Ministers must—
+
+(a) use target-relevant international carbon reporting practice for the purposes of assessing and reporting on the matters mentioned in [[^F79]subsections (2) and (2A)] and, in doing so, determine each figure and amount in a manner as would be consistent with the most up-to-date advice provided by the relevant body on the methods to be used for that purpose, and
+
+(b) specify in the report the methods used to determine each figure and amount in accordance with paragraph (a).
+
+(4) The report under this section must be laid before the Parliament as soon as reasonably practicable after the information to be contained in the report becomes available.]
+
+#### 34 [[^F80]Reports on emissions reduction targets: further content
+
+(1) A report under section 33 must, in addition to the matters required under that section, state—
+
+(a) in relation to net Scottish emissions of greenhouse gases—
+
+(i) the baseline,
+
+(ii) the aggregate amount of net Scottish emissions of greenhouse gases for [[^F81]each year] covered by the report,
+
+(iii) the percentage by which the aggregate amount of net Scottish emissions of greenhouse gases for [[^F82]each year] covered by the report is lower than the baseline,
+
+(iv) the percentage by which the aggregate amount of net Scottish emissions of greenhouse gases for [[^F83]each year] covered by the report is lower or higher than the equivalent amount for the immediately preceding year, and
+
+(v) the methods used to determine the aggregate amount of net Scottish emissions of greenhouse gases, together with details of any changes to those methods,
+
+(b) in relation to the net Scottish emissions account—
+
+(i) its amount for [[^F84]each year] covered by the report,
+
+(ii) the percentage by which the account for [[^F85]each year] covered by the report is lower than the baseline,
+
+(iii) the percentage by which the account for [[^F86]each year] covered by the report is lower or higher than the equivalent account for the immediately preceding year, and
+
+(iv) the percentage of any reduction in the account for [[^F87]each year] covered by the report, relative to the equivalent account for the immediately preceding year, which is accounted for by reductions in net Scottish emissions of greenhouse gases,
+
+(c) the total amount of carbon units that were—
+
+(i) credited to or debited from the net Scottish emissions account for [[^F88]each year] covered by the report,
+
+(ii) purchased by the Scottish Ministers in [[^F89]each year] covered by the report, and
+
+(iii) held by the Scottish Ministers immediately after the end of the [[^F90]final] year covered by the report and which remained available to offset greenhouse gas emissions for other [^F91]... years,
+
+(d) for each [[^F92]year between 2010 and the final] year covered by the report—
+
+(i) the aggregate amount of net Scottish emissions of greenhouse gases, and
+
+(ii) the amount of the net Scottish emissions account, and
+
+(e) the fair and safe Scottish emissions budget, and the aggregate amount of net Scottish emissions of greenhouse gases for the period from 2010 to the end of the [[^F93]final] year covered by the report.
+
+(2) The Scottish Ministers must use current international carbon reporting practice for the purposes of assessing and reporting on the matters mentioned in subsection (1).
+
+(3) If the methods used to determine net Scottish emissions of greenhouse gases change and that change is such as to require adjustment of an amount for [[^F94]a year covered by a previous report under section 33 or 34A], the report must—
+
+(a) specify the adjustment required and state the adjusted amount, and
+
+(b) explain why the adjustment is required.
+
+(4) An adjustment under subsection (3) must, in so far as reasonably practicable, be made in accordance with current international carbon reporting practice.
+
+(5) The report may contain such other information as the Scottish Ministers consider appropriate.]
+
+#### 34A [[^F95]Annual report on emissions reduction
+
+(1) The Scottish Ministers must following each year lay before the Scottish Parliament a report in relation to that year.
+
+(2) But subsection (1) does not apply in relation to a year if—
+
+(a) it is the final year of a period covered by a Scottish carbon budget,
+
+(b) it has been reported on under section 33, or
+
+(c) it is a year that is—
+
+(i) earlier than the first year to be reported on under section 33, or
+
+(ii) later than the net-zero emissions target year.
+
+(3) The report must be laid before the Parliament as soon as reasonably practicable after the information to be contained in the report becomes available.
+
+(4) The report—
+
+(a) must state—
+
+(i) the percentage by which the net Scottish emissions account for the year is lower than the baseline, and
+
+(ii) the information mentioned in section 34(1), read subject to the modification that references to each year, and the final year, covered by the report are to be read as references to the year covered by the report, and
+
+(b) may contain such other information as the Scottish Ministers consider appropriate.
+
+(5) The Scottish Ministers must use current international carbon reporting practice for the purposes of assessing and reporting on the matters mentioned in subsection (4).
+
+(6) If the methods used to determine net Scottish emissions of greenhouse gases change and that change is such as to require adjustment of an amount for a year covered by a report under section 33 or a previous report under this section, the report must—
+
+(a) specify the adjustment required and state the adjusted amount, and
+
+(b) explain why the adjustment is required.
+
+(7) An adjustment under subsection (6) must, in so far as practicable, be made in accordance with current international carbon reporting practice.]
+
+### [[^F96]Climate change plan
+
+#### 35 Climate change plan
+
+(1) The Scottish Ministers must lay a climate change plan before the Scottish Parliament—
+
+[[^F97](a) in the case of the first plan, before the end of the period of 90 days, of which no fewer than 45 must be days on which the Parliament is not dissolved or in recess, beginning with the day on which the period described by section 35A(1)(a) ends following the laying of a draft plan in accordance with section 3(1) of the Climate Change (Emissions Reduction Targets) (Scotland) Act 2024,]
+
+(b) in the case of each subsequent plan, before the end of the period of 5 years beginning with the day on which the previous plan was laid.
+
+(2) The plan must, in particular, set out—
+
+(a) the Scottish Ministers' proposals and policies for meeting the emissions reduction targets during the plan period,
+
+(b) those proposals and policies in chapters on—
+
+(i) each of the sectors mentioned in subsection (3), and
+
+(ii) such other sectors or topics as the Scottish Ministers consider appropriate for the plan, and
+
+(c) the timescales over which those proposals and policies are expected to take effect.
+
+(3) The sectors referred to in subsection (2)(b)(i) are—
+
+(a) energy supply,
+
+(b) transport (including international aviation and shipping),
+
+(c) business and industrial process,
+
+(d) residential and public (in relation to buildings in those sectors),
+
+(e) waste management,
+
+(f) land use, land use change and forestry,
+
+(g) agriculture.
+
+(4) In subsection (2), the “plan period” means the period of—
+
+(a) 15 years beginning with the year after the year in which the draft plan is laid before the Parliament, or
+
+(b) such other period of between 10 and 20 years beginning with that year as the Scottish Ministers may specify in the plan in order that the period ends in [[^F98]a] target year.
+
+(5) The plan must also set out [^F99]... the respective contributions [[^F100](in measurable terms)] towards meeting the emissions reduction targets that should be made by
+
+[[^F101](a)] each of the sectors mentioned in subsection (3) [[^F102], and
+
+(b) each group of associated policies set out in the plan.]
+
+(6) Without prejudice to the generality of subsection (5), the plan must in particular set out the Scottish Ministers' proposals and policies for—
+
+(a) the establishment of any regional land use partnerships (subject to such partnerships having not already been established), and
+
+(b) the support to and resourcing of any regional land use partnerships to develop frameworks.
+
+(7) For the purposes of this section—
+
+- “regional land use partnership” is a partnership established in a strategy under section 57,
+- “frameworks” are frameworks created by a regional land use partnership.
+
+(8) The plan must also set out the Scottish Ministers' proposals and policies regarding the exploitation of fossil fuels including onshore unconventional oil and gas reserves.
+
+(9) The plan must also set out the Scottish Ministers' proposals and policies regarding the development of district heating for new developments, where feasible.
+
+(10) The plan must also set out the Scottish Ministers' proposals and policies regarding the public procurement of electric vehicles.
+
+(11) The plan must also set out the Scottish Ministers' proposals and policies for improved access to electric vehicle charging stations for those living in tenements within the meaning of section 26 of the Tenements (Scotland) Act 2004.
+
+(12) The plan must also set out the Scottish Ministers' proposals and policies regarding public procurement of ultra-low emission vehicles.
+
+(13) The plan must also set out the Scottish Ministers' proposals and policies regarding—
+
+(a) the establishment of a whole farm approach to emissions accounting on Scottish farms,
+
+(b) the reduction of Scottish whole farm greenhouse gas emissions through the use of—
+
+(i) research,
+
+(ii) knowledge transfer and advice,
+
+(iii) land management accreditation, including organic farming,
+
+(iv) nutrient resource budgeting,
+
+(v) circular economy initiatives,
+
+(vi) energy generation and efficiency,
+
+(vii) any land use strategy prepared under section 57,
+
+(viii) agroecology,
+
+(ix) carbon sequestration,
+
+(x) agroforestry.
+
+(14) For the purposes of subsection (13)—
+
+- “agroecology” means a whole farm approach to land and resource management which integrates the production of food with restoration and maintenance of the natural environment and other social benefits, taking into account the wider impact of the farm's activities,
+- “whole farm” has the same combined meaning as “agriculture”, “agricultural land” and “agricultural unit” as in section 86 of the Agriculture (Scotland) Act 1948.
+
+(15) The plan must also set out the Scottish Ministers' proposals and policies regarding the consideration of the potential for the capture and long-term storage of carbon when designating marine protected areas under section 67 of the Marine (Scotland) Act 2010.
+
+(16) The plan must also set out the Scottish Ministers' proposals and policies regarding the establishment of a fund, to be known as an Agricultural Modernisation Fund, to support investment in mitigation measures to reduce greenhouse gas emissions on Scottish farms.
+
+(17) Without prejudice to the generality of subsection (2), the plan must set out what (if any) measures the Scottish Ministers propose to take during the plan period to ensure that emissions from housing are reduced such that the majority of housing in Scotland achieves an energy performance certificate rating of “C” or above, where practical.
+
+(18) The plan must also set out the Scottish Ministers' proposals and policies for taking, or supporting, action to reduce emissions of greenhouse gases (whether in Scotland or elsewhere) which are produced by or otherwise associated with the consumption and use of goods and services in Scotland.
+
+(19) The plan must also set out the Scottish Ministers' proposals and policies for supporting, including by the sharing of expertise and technology, action in developing countries to reduce emissions of greenhouse gases and adapt to the effects of climate change.
+
+(20) The plan must also, with reference to the just transition principles (see section 35C)—
+
+(a) explain how the proposals and policies set out in the plan are expected to affect different sectors of the Scottish economy and different regions in Scotland, including how they are expected to affect employment in those sectors and regions, and
+
+(b) set out the Scottish Ministers' proposals and policies for supporting the workforce, employers and communities in those sectors and regions.
+
+[[^F103](20A) The plan must also set out the Scottish Ministers’ proposals and policies for assessing the impact of major capital projects (as defined in the plan) on meeting Scottish carbon budget targets.]
+
+(21) The plan must also set out an estimate of the costs and benefits associated with the policies set out in the plan [[^F104], broken down by reference to the period covered by a Scottish carbon budget in which those costs and benefits are expected to arise].
+
+(22) In preparing a plan under subsection (1), the Scottish Ministers must have regard to—
+
+(a) the just transition principles (see section 35C), and
+
+(b) the climate justice principle.
+
+(23) In subsection (22)(b), the “climate justice principle” is the importance of taking action to reduce global emissions of greenhouse gases and to adapt to the effects of climate change in ways which—
+
+(a) support the people who are most affected by climate change but who have done the least to cause it and are the least equipped to adapt to its effects, and
+
+(b) help to address inequality.
+
+(24) Each plan under this section must explain—
+
+(a) the extent to which it takes account of the just transition principles,
+
+(b) how the implementation of the plan is expected to contribute to the achievement of sustainable development, including the achievement of the United Nations sustainable development goals.
+
+(25) Each plan under this section—
+
+(a) must contain an assessment of the progress towards implementing proposals and policies set out in the immediately preceding plan, and
+
+(b) may make such adjustments to those proposals and policies as the Scottish Ministers consider appropriate.
+
+(26) For the purposes of subsection (25), the “immediately preceding plan” includes the most recent report on proposals and policies for meeting annual targets which was laid by the Scottish Ministers under section 35 of this Act before the date on which section 24 of the Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 came into force.
+
+(27) The Scottish Ministers may by regulations modify subsection (3).
+
+(28) Any modification made in regulations under subsection (27) must be consistent with international carbon reporting practice.
+
+#### 35ZA [[^F105]Preparation of climate change plan: public consultation
+
+(1) The Scottish Ministers must carry out a public consultation to inform the proposals and policies to be set out in a climate change plan laid under section 35(1)(b).
+
+(2) Before carrying out a consultation under subsection (1), the Scottish Ministers must lay a statement before the Parliament setting out—
+
+(a) the methodologies the Scottish Ministers plan to use to consult, which may include digital, postal or in-person events,
+
+(b) the steps the Scottish Ministers are planning to take to ensure persons likely to be interested in the subject matter of the consultation are aware of the consultation,
+
+(c) the period of time for which the Scottish Ministers plan to consult, which must be a period no less than 6 months,
+
+(d) such other information as the Scottish Ministers consider appropriate.]
+
+#### 35A Climate change plan: further procedure
+
+(1) The Scottish Ministers must, before laying a climate change plan under section 35 before the Scottish Parliament—
+
+(a) lay a draft of the plan before the Parliament for a period of 120 days, of which no fewer than 60 must be days on which the Parliament is not dissolved or in recess, [^F106]...
+
+[[^F107](aa) request the views of such persons as they consider appropriate with—
+
+(i) knowledge of international law or policy relating to climate change,
+
+(ii) scientific knowledge about climate change,
+
+(iii) technical knowledge of climate change, and]
+
+(b) have regard to—
+
+(i) any representations on the draft plan made to them,
+
+(ii) any views on the draft plan set out by the relevant body in a report under section 9(1)(d),
+
+[[^F108](iia) any views on the draft plan set out by a person whose views were requested in accordance with paragraph (aa),]
+
+(iii) any resolution relating to the draft plan passed by the Parliament, and
+
+(iv) any report relating to the draft plan published by any committee of the Parliament for the time being appointed by virtue of standing orders.
+
+[[^F109](1A) The Scottish Ministers must publish a response to any—
+
+(a) resolution of a kind mentioned in sub-paragraph (iii) of subsection (1)(b), or
+
+(b) report of a kind mentioned in sub-paragraph (iv) of that provision,
+
+within 3 months of the resolution being passed or (as the case may be) the report being published.
+
+(1B) The duty under subsection (1A) may be fulfilled by laying a statement before the Parliament in accordance with subsection (2) that addresses the resolution or report in question.]
+
+(2) The Scottish Ministers must, when laying a climate change plan under section 35 before the Parliament, lay a statement setting out—
+
+(a) details of any representations, views, resolutions or reports mentioned in subsection (1)(b),
+
+(b) the changes (if any) they have made to the plan in response to such representations, views, resolutions or reports and the reasons for those changes.
+
+#### 35B Climate change plan: annual progress reports
+
+(1) The Scottish Ministers must in each relevant year, lay before the Scottish Parliament a report on each substantive chapter of the most recent climate change plan laid under section 35.
+
+(2) Each report laid under subsection (1) must contain an assessment of progress towards implementing the proposals and policies set out in that chapter, including proposals and policies for supporting the workforce, employers and communities.
+
+[[^F110](2A) If, when preparing a report under subsection (1), the Scottish Ministers’ assessment of progress is such that they consider that it is more likely than not that an emissions reduction target will not be met, the report must also explain—
+
+(a) why they consider that to be the case, and
+
+(b) what they intend to do to ensure the target is met, including details of any changes to policies that will be implemented during the period covered by a Scottish carbon budget in which the report is laid.]
+
+(3) A report under subsection (1) must be laid by 31 May in each relevant year or, if the Scottish Ministers consider that is not possible because the information needed for the report is not available, as soon as reasonably practicable after that date.
+
+(4) In this section—
+
+(a) “relevant year” means—
+
+(i) 2021, and
+
+(ii) each subsequent year, other than any year in which a climate change plan is laid before the Scottish Parliament under section 35(1), and
+
+(b) “substantive chapter” means a chapter of the climate change plan which is included in the plan by virtue of section 35(2)(b) and which contains distinct proposals and policies for meeting the emissions reduction targets during the plan period.
+
+(5) Until such time as the first climate change plan is laid under section 35, subsection (1) is to be read as if it—
+
+(a) applied in relation to the most recent report on proposals and policies for meeting annual targets which was laid by the Scottish Ministers under section 35 of this Act before the date on which section 24 of the Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 came into force, and
+
+(b) required a report on each chapter of that most recent report which contains distinct proposals and policies for meeting the targets to which the report relates during the period covered by the report.
+
+#### 35C Just transition principles
+
+(1) In this Act, the “just transition principles” are the importance of taking action to reduce net Scottish emissions of greenhouse gases in a way which—
+
+(a) supports environmentally and socially sustainable jobs,
+
+(b) supports low-carbon investment and infrastructure,
+
+(c) develops and maintains social consensus through engagement with workers, trade unions, communities, non-governmental organisations, representatives of the interests of business and industry and such other persons as the Scottish Ministers consider appropriate,
+
+(d) creates decent, fair and high-value work in a way which does not negatively affect the current workforce and overall economy,
+
+(e) contributes to resource efficient and sustainable economic approaches which help to address inequality and poverty.
+
+(2) The Scottish Ministers may by regulations modify subsection (1).]
+
+#### 36 [[^F111]Reports on proposals and policies where emissions reduction targets not met]
+
+[[^F112](1) This section applies if the Scottish Ministers lay a report under section 33 which states that an emissions reduction target has not been met.]
+
+(2) [[^F113]Within the period of 6 months beginning with the day that the report referred to in subsection (1) is laid before the Parliament], the Scottish Ministers must lay a report before the Scottish Parliament setting out proposals and policies to compensate in future years for the excess emissions.
+
+### [[^F114]Other reporting provisions]
+
+#### 37 Reports on emissions attributable to Scottish consumption of goods and services
+
+(1) The Scottish Ministers must lay before the Scottish Parliament a report in respect of each year in the period 2010–2050 containing the following information.
+
+(2) The report must, in so far as reasonably practicable, set out
+
+[[^F115](a) the emissions of greenhouse gases (whether in Scotland or elsewhere) which are produced by or otherwise associated with the consumption and use of goods and services in Scotland during that year.]
+
+[[^F116](b) the goods and services the consumption and use of which contributed most significantly to those emissions.]
+
+(3) The report may also contain such other information as the Scottish Ministers consider appropriate.
+
+[[^F117](4) Each report under subsection (1) must be laid before the Scottish Parliament within the period of 15 months beginning on the date on which the previous report under that subsection was so laid.]
+
+#### 37A [[^F118]Reports on land use strategy
+
+(1) The Scottish Ministers must lay before the Scottish Parliament a report on—
+
+(a) the assessment of progress towards implementing the objectives, proposals and policies of the land use strategy under section 57, and
+
+(b) how these objectives, proposals and policies will contribute towards achieving the targets in the Act.
+
+(2) The Scottish Ministers must—
+
+(a) publish each report prepared under subsection (1), and
+
+(b) lay a copy of it before the Scottish Parliament,
+
+as soon as reasonably practicable after the end of each financial year.
+
+(3) The report may also contain such other information as the Scottish Ministers consider appropriate.]
+
+#### [^F119]38 Reports on impact on emissions of exercise of electricity generation related functions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F119]39 Report on progress towards meeting the interim target
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F119]40 Report on the interim target
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F119]41 Report on the 2050 target
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 42 Reports: provision of further information to the Scottish Parliament
+
+(1) Where the Scottish Ministers lay a report mentioned in subsection (2) before the Scottish Parliament, they must—
+
+(a) immediately send a copy of the report to the persons who convene and chair such committees of the Scottish Parliament as are for the time being appointed by virtue of standing orders; and
+
+(b) as soon as reasonably practicable after doing so, and in so far as reasonably practicable, make a statement to the Parliament relating to the report.
+
+[[^F120](1A) If—
+
+(a) the year covered by the report is a target year, and
+
+(b) the emissions reduction target for that year has not been met,
+
+the statement under subsection (1)(b) must explain why.]
+
+(2) Those reports are reports under—
+
+(a) section 33(1) (report on [[^F121]emissions reduction targets]);
+
+[[^F122](ab) section 34A(1) (annual report on emissions reduction);]
+
+[[^F123](aa) section 35B (climate change plan: annual progress reports);]
+
+(b) section 36(2) (report on proposals and policies to compensate for excess emissions);
+
+[^F124]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F124]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where the Scottish Ministers lay a [[^F125]report on emissions reduction targets under section 33] [[^F126]or 34A], they must also, as soon as reasonably practicable after doing so, and in so far as reasonably practicable, attend, if invited, the proceedings of any such committees of the Scottish Parliament as are for the time being appointed by virtue of standing orders, for the purposes of giving evidence on the report.
+
+(4) The Scottish Ministers must have regard to—
+
+(a) any resolution passed by the Scottish Parliament;
+
+(b) any report published by any committee of the Parliament for the time being appointed by virtue of standing orders,
+
+relating to the content of any report referred to in subsection (2).
+
+#### 43 Further provision about reporting duties
+
+(1) The Scottish Ministers may, if they consider it appropriate to do so, by order, make further provision imposing duties on themselves to report to the Scottish Parliament.
+
+(2) An order under subsection (1) may in particular—
+
+(a) provide for the information to be provided under the duties;
+
+(b) provide for the period in relation to which that information is to be provided;
+
+(c) provide for the period within which that information is to be provided.
+
+## Part 4 — Duties of public bodies relating to climate change
+
+### Duties of public bodies
+
+#### 44 Duties of public bodies relating to climate change
+
+(1) A public body must, in exercising its functions, act—
+
+(a) in the way best calculated to contribute to the delivery of the targets set in or under Part 1 of this Act;
+
+(b) in the way best calculated to help deliver any programme laid before the Scottish Parliament under section 53;
+
+(c) in a way that it considers is most sustainable.
+
+(2) In this Part, a “public body” means a Scottish public authority within the meaning of section 3(1)(a) of the Freedom of Information (Scotland) Act 2002 (asp 13).
+
+(3) The Scottish Ministers may, if they consider it appropriate to do so, by order, make further provision relating to the imposition on relevant public bodies of duties relating to climate change.
+
+(4) The duties imposed by subsection (1) and any duty imposed by virtue of an order under subsection (3) are referred to in this Act as “climate change duties”.
+
+(5) In this Part, a public body which has climate change duties under subsection (1) or by virtue of subsection (3) is a “relevant public body”.
+
+(6) An order under subsection (3) may in particular—
+
+(a) impose climate change duties on—
+
+(i) all public bodies;
+
+(ii) public bodies of a particular description;
+
+(iii) individual public bodies;
+
+(b) impose different climate change duties on different public bodies or descriptions of public body;
+
+(c) remove climate change duties.
+
+(7) Before laying a draft of a statutory instrument containing an order under subsection (3) before the Scottish Parliament, the Scottish Ministers must consult, in so far as reasonably practicable, the persons mentioned in subsection (8).
+
+(8) Those persons are—
+
+(a) such associations of local authorities; and
+
+(b) such other persons,
+
+as the Scottish Ministers consider appropriate.
+
+(9) The Scottish Ministers must co-operate with a relevant public body to help that body comply with its climate change duties.
+
+#### 45 Guidance to relevant public bodies
+
+(1) The Scottish Ministers must give guidance to relevant public bodies in relation to climate change duties and those bodies must have regard to such guidance.
+
+(2) Before giving guidance under subsection (1), the Scottish Ministers must consult, in so far as reasonably practicable, the persons mentioned in subsection (3).
+
+(3) Those persons are—
+
+(a) such associations of local authorities; and
+
+(b) such other persons,
+
+as the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers may vary or revoke guidance given under this section and where guidance is varied to a substantial extent, subsections (2) and (3) apply.
+
+(5) The Scottish Ministers must publish any guidance given under this section.
+
+#### 46 Reporting on climate change duties
+
+(1) The Scottish Ministers may, by order, make provision—
+
+(a) requiring relevant public bodies to prepare reports on compliance with climate change duties;
+
+(b) requiring any relevant public body found, following an investigation under section 48, to be failing to comply with its climate change duties, to prepare a report on the actions it has taken, is taking or intends to take to secure future compliance with those duties;
+
+(c) subject to subsection (2), setting out what information reports must contain;
+
+(d) setting out the form and manner of reports;
+
+(e) setting out the period within which reports must be sent to the Scottish Ministers.
+
+(2) A report required by virtue of subsection (1)(a) must, in particular, contain information relating to how—
+
+(a) procurement policies of relevant public bodies; and
+
+(b) procurement activity by relevant public bodies,
+
+have contributed to compliance with climate change duties.
+
+(3) An order under subsection (1) may in particular—
+
+(a) require two or more relevant public bodies to prepare a joint report in relation to compliance with one or more climate change duties; and
+
+(b) require those bodies to co-operate with each other for the purpose of preparing that report.
+
+### Monitoring body
+
+#### 47 Appointment of monitoring body
+
+(1) The Scottish Ministers may, by order, designate one or more persons or bodies to monitor whether relevant public bodies are—
+
+(a) complying with climate change duties;
+
+(b) having regard to any guidance given under section 45.
+
+(2) In this Part, a person or body designated under subsection (1) is the “monitoring body”.
+
+### Investigations
+
+#### 48 Investigations
+
+(1) The monitoring body may carry out an investigation into—
+
+(a) a relevant public body's compliance with climate change duties;
+
+(b) whether a relevant public body is having regard to guidance given under section 45.
+
+(2) The monitoring body must carry out an investigation if the Scottish Ministers direct it to do so.
+
+#### 49 Investigations: investigators' powers
+
+(1) In this section an “investigator” means—
+
+(a) the monitoring body;
+
+(b) a person authorised by the monitoring body for the purpose of carrying out investigations.
+
+(2) An investigator may use the powers set out in subsections (3) to (5) if the investigator considers that it is necessary to do so for the purposes of or in connection with an investigation.
+
+(3) An investigator may, by notice in writing, require any relevant public body to provide any relevant document or relevant information in the possession, or under the control, of the relevant public body.
+
+(4) An investigator may require any person who possesses or controls any document or information referred to in subsection (3) to provide an explanation of the document or information.
+
+(5) An investigator may take copies of, or extracts from, any document or information produced in accordance with subsection (3).
+
+(6) Nothing in this section authorises an investigator to require the disclosure of anything which a person would be entitled to refuse to disclose on grounds of confidentiality in proceedings in the Court of Session.
+
+#### 50 Reporting by monitoring body
+
+(1) The Scottish Ministers may direct the monitoring body to prepare a report relating to—
+
+(a) the monitoring body's activities under this Part;
+
+(b) investigations carried out by the monitoring body;
+
+(c) its use of resources in carrying out its functions under this Part;
+
+(d) any other matters the Scottish Ministers may direct.
+
+(2) The report may include information relating to a continuing investigation only if the Scottish Ministers direct that information to be included.
+
+(3) The monitoring body must send the report to the Scottish Ministers.
+
+(4) The Scottish Ministers must lay the report before the Scottish Parliament.
+
+#### 51 Guidance to monitoring body
+
+(1) The monitoring body must have regard to any guidance given by the Scottish Ministers to it in relation to the exercise of its functions under this Part.
+
+(2) Before giving guidance under subsection (1), the Scottish Ministers must consult, in so far as reasonably practicable, the persons mentioned in subsection (3).
+
+(3) Those persons are—
+
+(a) the monitoring body; and
+
+(b) such other persons,
+
+as the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers may vary or revoke guidance given under this section and where guidance is varied to a substantial extent, subsections (2) and (3) apply.
+
+(5) The Scottish Ministers must publish any guidance given under this section.
+
+#### 52 Power to direct monitoring body
+
+(1) The Scottish Ministers may give directions to the monitoring body relating to the exercise of its functions under this Part.
+
+(2) The Scottish Ministers may vary or revoke a direction given under this section.
+
+(3) The monitoring body must comply with a direction given under this section.
+
+## Part 5 — Other climate change provisions
+
+### Chapter 1 — Adaptation
+
+#### Adaptation programmes
+
+##### 53 Programmes for adaptation to climate change
+
+(1) This section applies where the Secretary of State lays a report under section 56 of the 2008 Act (report on impact of climate change) before Parliament.
+
+(2) The Scottish Ministers must lay a programme before the Scottish Parliament—
+
+(a) setting out—
+
+(i) their objectives in relation to adaptation to climate change;
+
+(ii) their proposals and policies for meeting those objectives;
+
+(iii) the arrangements for involving employers, trade unions and other stakeholders in meeting those objectives;
+
+(iv) the mechanisms for ensuring public engagement in meeting those objectives;
+
+(v) the period within which those proposals and policies will be introduced; and
+
+(b) otherwise addressing the risks identified in the report under section 56 of the 2008 Act.
+
+[[^F127](2A) In setting out their objectives under subsection (2)(a)(i), the Scottish Ministers must include an objective in relation to Scotland's contribution to international climate change adaptation in line with international best practice.]
+
+(3) Where the report laid under section 56 of the 2008 Act is a subsequent report (within the meaning of subsection (3) of that section), the programme must contain an assessment of the progress made towards implementing the objectives, proposals and policies set out in the previous programme.
+
+(4) The Scottish Ministers must lay each programme as soon as reasonably practicable after they receive the copy of the Secretary of State's report.
+
+##### 54 Reports on progress towards implementation of programmes for adaptation
+
+(1) This section applies where the Scottish Ministers lay a programme under section 53(2) before the Scottish Parliament.
+
+(2) The Scottish Ministers must lay before the Scottish Parliament reports setting out their assessment of the progress made towards implementing the objectives, proposals and policies set out in the programme.
+
+(3) The first report under this section must be laid before the Scottish Parliament no later than the expiry of the period of 12 months beginning with the day on which the programme is laid.
+
+(4) The second and subsequent reports under this section must be laid before the Scottish Parliament no later than the expiry of each subsequent period of 12 months.
+
+##### 55 Progress towards implementation of programmes for adaptation
+
+(1) This section applies where—
+
+(a) the Scottish Ministers lay a programme under section 53(2) before the Scottish Parliament;
+
+(b) the Secretary of State lays a second or subsequent report under section 56 of the 2008 Act before Parliament.
+
+(2) Where subsection (1)(a) applies, the Scottish Ministers must, before the expiry of the period of 2 years beginning with the day on which the programme is laid, request the relevant body to prepare a report setting out its assessment of the progress made towards implementing the objectives, proposals and policies set out in that programme.
+
+(3) Where subsection (1)(b) applies, the Scottish Ministers must, as soon as reasonably practicable after they receive the copy of the report laid, request the relevant body to prepare a further report setting out its assessment of the progress made towards implementing the objectives, proposals and policies set out in the most recent programme laid by the Scottish Ministers under section 53(2).
+
+(4) The Scottish Ministers must, as soon as reasonably practicable after they receive the relevant body's report under subsection (2) or, as the case may be, further report under subsection (3), lay it before the Scottish Parliament.
+
+##### 56 Reports on programmes for adaptation (prospective)
+
+(1) This section applies where—
+
+(a) the Scottish Ministers lay a programme under section 53(2) before the Scottish Parliament;
+
+(b) the Secretary of State lays a second or subsequent report under section 56 of the 2008 Act before Parliament.
+
+(2) Where subsection (1)(a) applies, the advisory body must, before the expiry of the period of 2 years beginning with the day on which the programme is laid, prepare a report setting out its assessment of the progress made towards implementing the objectives, proposals and policies set out in that programme.
+
+(3) Where subsection (1)(b) applies, the advisory body must, as soon as reasonably practicable after the report is laid, prepare a further report setting out its assessment of the progress made towards implementing the objectives, proposals and policies set out in the most recent programme laid by the Scottish Ministers under section 53(2).
+
+(4) The advisory body must, as soon as reasonably practicable after preparing a report under subsection (2) or, as the case may be, a further report under subsection (3), lay it before the Scottish Parliament.
+
+### Chapter 2 — Land use
+
+#### Land use strategy
+
+##### 57 Duty to produce a land use strategy
+
+(1) The Scottish Ministers must, no later than 31 March 2011, lay a land use strategy before the Scottish Parliament.
+
+(2) The strategy must, in particular, set out—
+
+(a) the Scottish Ministers' objectives in relation to sustainable land use;
+
+(b) their proposals and policies for meeting those objectives; and
+
+(c) the timescales over which those proposals and policies are expected to take effect.
+
+(3) The objectives, proposals and policies referred to in subsection (2) must contribute to—
+
+(a) achievement of the Scottish Ministers' duties under section [[^F128]A1 or A3];
+
+(b) achievement of the Scottish Ministers' objectives in relation to adaptation to climate change, including those set out in any programme produced by virtue of section 53(2); and
+
+(c) sustainable development.
+
+(4) Before laying the strategy before the Scottish Parliament, the Scottish Ministers must publish a draft strategy and consult with such bodies as they consider appropriate and also with the general public.
+
+(5) The strategy must be accompanied by a report setting out—
+
+(a) the consultation process undertaken in order to comply with subsection (4); and
+
+(b) the ways in which views expressed during that process have been taken account of in finalising the strategy (or stating that no account has been taken of such views).
+
+(6) The Scottish Ministers must, no later than—
+
+(a) 5 years after laying a strategy before the Scottish Parliament under subsection (1); and
+
+(b) the end of every subsequent period of 5 years,
+
+lay a revised strategy before the Scottish Parliament; and subsections (2) to (5) apply to a revised strategy as they apply to a strategy laid under subsection (1).
+
+#### Muirburn
+
+##### 58 Variation of permitted times for making muirburn
+
+After section 23 of the Hill Farming Act 1946 (c. 73) (prohibition of muirburn at certain times), insert—
+
+> **23A Power to vary permitted times for making muirburn**
+>
+> (1) The Scottish Ministers may, by order, modify section 23 so as to substitute for any of the dates for the time being mentioned in subsection (1), (2) or, as the case may be, (3) of that section such other dates as they consider appropriate as the dates before which or after which it is lawful to make muirburn in any year.
+>
+> (2) The Scottish Ministers may make an order under subsection (1) only if they consider it necessary or expedient to do so in relation to climate change.
+>
+> (3) An order under subsection (1) may not modify any of the dates for the time being mentioned in section 23 if the modification would result in a period during which it is lawful to make muirburn in any year being shorter than the corresponding period which applied immediately before the coming into force of section 58 of the Climate Change (Scotland) Act 2009 (asp 12).
+>
+> (4) The power conferred by subsection (1) is exercisable by statutory instrument.
+>
+> (5) No statutory instrument containing an order under subsection (1) may be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+.
+
+#### Forestry
+
+##### [^F129]59 Power to modify functions of Forestry Commissioners
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 3 — Energy efficiency
+
+#### Promotion of energy efficiency and renewable heat
+
+##### 60 Duty of Scottish Ministers to promote energy efficiency
+
+(1) The Scottish Ministers must prepare and publish a plan for—
+
+(a) promoting energy efficiency; and
+
+(b) improving the energy efficiency of living accommodation,
+
+in Scotland.
+
+(2) The plan must set annual energy efficiency targets and describe how those targets are to be reported on.
+
+(3) The plan must also include details of how the Scottish Ministers intend to update planning and building regulations to ensure that all new buildings avoid a specified and rising proportion of the projected greenhouse gas emissions from their use, calculated on the basis of the approved design and plans for the specific building, through the installation and operation of low and zero-carbon generating technologies.
+
+(4) The plan prepared under subsection (1) must be published no later than 12 months after the day on which this section comes into force.
+
+(5) The Scottish Ministers—
+
+(a) may, from time to time; and
+
+(b) must, before the end of the period mentioned in subsection (6),
+
+review the plan prepared and published under this section.
+
+(6) The period referred to in subsection (5)(b) is the period of 3 years beginning with the day on which—
+
+(a) the plan is first published; or
+
+(b) the plan was last reviewed under subsection (5).
+
+(7) Where, following a review under subsection (5), the Scottish Ministers vary the plan, they must, as soon as reasonably practicable after so doing, publish the plan as so varied.
+
+(8) In preparing or varying the plan, the Scottish Ministers must have regard to the contributions which improvements to buildings and changes in building standards can make to the delivery of energy efficiency and to the reduction of greenhouse gas emissions.
+
+(9) In this section—
+
+- “energy efficiency” includes the use of—
+
+  - (a) technologies (other than those used for the production of heat) reliant on renewable sources of energy;
+  - (b) materials and equipment the manufacture or use of which produces or involves lower emissions of greenhouse gases than other materials and equipment; and
+  - (c) surplus heat from electricity generation or other industrial processes for district heating or other purposes;
+
+- “fossil fuel” means—
+
+  - (a) coal;
+  - (b) lignite;
+  - (c) peat;
+  - (d) natural gas (within the meaning of the Energy Act 1976 (c. 76));
+  - (e) crude liquid petroleum;
+  - (f) petroleum products (within the meaning of that Act);
+  - (g) any substance produced directly or indirectly from a substance mentioned in paragraphs (a) to (f);
+
+- “renewable sources” means sources other than fossil fuel and nuclear fuel.
+
+##### 61 Duty of Scottish Ministers to promote renewable heat
+
+(1) The Scottish Ministers must prepare and publish a plan for the promotion of the use of heat produced from renewable sources.
+
+(2) The plan must, in particular—
+
+(a) set—
+
+(i) targets for the percentage of heat to be produced from renewable sources; and
+
+(ii) in relation to each target, the date by which it should be met; and
+
+(b) describe how those targets are to be reported on.
+
+(3) The plan prepared under subsection (1) must be published no later than 12 months after the day on which this section comes into force.
+
+(4) The Scottish Ministers—
+
+(a) may, from time to time; and
+
+(b) must, before the end of the period mentioned in subsection (5),
+
+review the plan prepared and published under this section.
+
+(5) The period referred to in subsection (4)(b) is the period of 2 years beginning with the day on which—
+
+(a) the plan is first published; or
+
+(b) the plan was last reviewed under subsection (4).
+
+(6) Where, following a review under subsection (4), the Scottish Ministers vary the plan, they must, as soon as reasonably practicable after so doing, publish the plan as so varied.
+
+(7) In this section, “renewable sources” has the same meaning as in section 60(9).
+
+##### 62 Laying of plans and reports
+
+(1) The Scottish Ministers must, as soon as reasonably practicable after publishing a plan under section 60(1) or (7) or section 61(1) or (6), lay it before the Scottish Parliament.
+
+(2) The Scottish Ministers must, before the end of the period mentioned in subsection (3), lay before the Parliament a report on what steps have been taken in implement of the plan.
+
+(3) The period referred to in subsection (2) is the period of 12 months beginning with the day on which—
+
+(a) the plan is first published; or
+
+(b) a report was last laid under subsection (2).
+
+(4) Where the Scottish Ministers lay a plan mentioned in subsection (1) or a report mentioned in subsection (2) before the Parliament, they must, as soon as reasonably practicable after doing so, and in so far as reasonably practicable, make a statement to the Parliament relating to the plan or, as the case may be, report.
+
+#### Energy performance of non-domestic buildings
+
+##### 63 Non-domestic buildings: assessment of energy performance and emissions
+
+(1) The Scottish Ministers must, by regulations—
+
+(a) provide for the assessment of—
+
+(i) the energy performance of non-domestic buildings;
+
+(ii) the emission of greenhouse gases produced by or otherwise associated with such buildings or with activities carried out in such buildings;
+
+(b) require owners of such buildings to take steps, identified by such assessments, to—
+
+(i) improve the energy performance of such buildings;
+
+(ii) reduce such emissions.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which the regulations apply;
+
+(b) the non-domestic buildings to which the regulations apply;
+
+(c) the persons who may be required to have assessments carried out;
+
+(d) the periods within which such assessments must be carried out;
+
+(e) the procedure and methodology for assessing the energy performance of buildings;
+
+(f) the procedure and methodology for assessing the greenhouse gas emissions produced by or otherwise associated with buildings or activities carried out in buildings;
+
+(g) the persons who may carry out such assessments;
+
+(h) the issuing of certificates following such assessments, including the form, manner and content of such certificates;
+
+(i) the form of any recommendations, contained in such certificates, as to the improvement of the energy performance of buildings and the reduction of emissions produced by or otherwise associated with buildings or activities carried out in buildings;
+
+(j) the manner in which and periods within which persons must take steps to comply with any recommendations contained in such certificates;
+
+(k) the registration of such certificates;
+
+(l) the disclosure of information which is entered in the register;
+
+(m) subject to subsection (3), the enforcement authority in relation to the regulations;
+
+(n) subject to subsection (5), the functions of that authority;
+
+(o) the keeping of information and its production to the enforcement authority;
+
+(p) the enforcement of the duties imposed by the regulations;
+
+(q) offences in relation to failures to comply with requirements of the regulations.
+
+(3) The enforcement authority provided for in the regulations is to be such person or body as the Scottish Ministers consider appropriate.
+
+(4) The regulations may provide for the functions of the enforcement authority to be exercised by two or more such authorities and about the functions of each such authority.
+
+(5) The functions of the enforcement authority may include power to levy charges to recover the reasonable costs incurred by it in exercising its functions under the regulations.
+
+(6) The Scottish Ministers must, no later than 12 months after the day on which this section comes into force, publish a report setting out—
+
+(a) what measures they intend to take to reduce emissions from non-domestic buildings; and
+
+(b) when they intend to make provision as mentioned in paragraphs (i) and (j) of subsection (2).
+
+(7) In this section, “non-domestic building”—
+
+(a) means a building other than a dwelling;
+
+(b) does not include—
+
+(i) any yard, garden, outbuilding or other land or buildings;
+
+(ii) any common areas,
+
+associated with such a dwelling.
+
+#### Energy performance of living accommodation
+
+##### 64 Living accommodation: assessment of energy performance and emissions
+
+(1) The Scottish Ministers must, by regulations—
+
+(a) provide for the assessment of—
+
+(i) the energy performance of living accommodation;
+
+(ii) the emission of greenhouse gases produced by or otherwise associated with such accommodation;
+
+(b) require owners of such accommodation to take steps, identified by such assessments, to—
+
+(i) improve the energy performance of such accommodation;
+
+(ii) reduce such emissions.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which the regulations apply;
+
+(b) the living accommodation to which the regulations apply;
+
+(c) the persons who may be required to have assessments carried out;
+
+(d) the periods within which such assessments must be carried out;
+
+(e) the procedure and methodology for assessing the energy performance of living accommodation;
+
+(f) the procedure and methodology for assessing the greenhouse gas emissions produced by or otherwise associated with living accommodation;
+
+(g) the persons who may carry out such assessments;
+
+(h) the issuing of certificates, following such assessments, including the form, manner and content of such certificates;
+
+(i) the form of any recommendations, contained in such certificates, as to the improvement of the energy performance of, and the reduction of emissions produced by or otherwise associated with, living accommodation;
+
+(j) the manner in which and periods within which persons must take steps to comply with any recommendations contained in such certificates;
+
+(k) the registration of such certificates;
+
+(l) the disclosure of information which is entered in the register;
+
+(m) subject to subsection (3), the enforcement authority in relation to the regulations;
+
+(n) subject to subsection (5), the functions of that authority;
+
+(o) the keeping of information and its production to the enforcement authority;
+
+(p) the enforcement of the duties imposed by the regulations;
+
+(q) offences in relation to failures to comply with requirements of the regulations.
+
+(3) The enforcement authority provided for in the regulations is to be such person or body as the Scottish Ministers consider appropriate.
+
+(4) The regulations may provide for the functions of the enforcement authority to be exercised by two or more such authorities and about the functions of each such authority.
+
+(5) The functions of the enforcement authority may include power to levy charges to recover the reasonable costs incurred by it in exercising its functions under the regulations.
+
+(6) The Scottish Ministers must, no later than 12 months after the day on which this section comes into force, publish a report setting out—
+
+(a) what measures they intend to take to reduce emissions from living accommodation; and
+
+(b) when they intend to make provision as mentioned in paragraphs (i) and (j) of subsection (2).
+
+(7) In this section, “living accommodation”—
+
+(a) means a dwelling; and
+
+(b) includes—
+
+(i) any building having a total useful floor area of 50m2 or more; and
+
+(ii) any common areas,
+
+associated with such a dwelling.
+
+#### Energy efficiency discount schemes
+
+##### 65 Duty of local authorities to establish energy efficiency discount schemes
+
+(1) The Local Government Finance Act 1992 (c. 14) is amended as follows.
+
+(2) After section 80 (reduced amounts payable in respect of council tax), insert—
+
+> **80A Local authority's power to reduce amount of tax payable**
+>
+> (1) A local authority must establish a scheme for reducing the amounts which persons are liable to pay in respect of council tax where improvements are made to the energy efficiency of chargeable dwellings.
+>
+> (2) A scheme established under subsection (1) is an “energy efficiency discount scheme”.
+>
+> (3) An energy efficiency discount scheme may make such provision as the local authority considers appropriate, including, in particular, provision about—
+>
+> (a) the energy efficiency improvements to which the scheme applies;
+>
+> (b) the chargeable dwellings to which the scheme applies;
+>
+> (c) the reduction, which may be made under the scheme, in the amount which persons are liable to pay in respect of council tax;
+>
+> (d) applications under the scheme.
+>
+> (4) But, under an energy efficiency discount scheme, the amount which a person is liable to pay in respect of council tax may be reduced only where each of the conditions mentioned in subsection (5) is met (whatever other conditions may require to be met under the scheme).
+>
+> (5) Those conditions are—
+>
+> (a) the person is liable to pay council tax in respect of a chargeable dwelling and any day;
+>
+> (b) improvements are made to the energy efficiency of that dwelling (whether by the person liable to pay or not);
+>
+> (c) those improvements are made during the same financial year to which the reduction of the amount which the person is liable to pay in respect of council tax relates;
+>
+> (d) the amount which the person is liable to pay in respect of that year has not already been reduced under the scheme in respect of those improvements;
+>
+> (e) the amount which any other person is liable to pay in respect of council tax in respect of that dwelling and that year has not been reduced under the scheme in respect of those improvements.
+>
+> (6) In ascertaining whether the condition in subsection (5)(e) is met, no account is to be taken of any person who is jointly and severally liable, with the person mentioned in subsection (5)(a), to pay council tax in respect of the dwelling.
+>
+> (7) The minimum reduction which may be provided for under an energy efficiency discount scheme must be—
+>
+> (a) where the amount which the person is liable to pay in respect of council tax is £50 or more, no less than £50;
+>
+> (b) where the amount which the person is liable to pay in respect of council tax is less than £50, an amount equal to that person's liability.
+>
+> (8) The local authority may, under an energy efficiency discount scheme, reduce the amount which a person is liable to pay in respect of a dwelling to nil.
+>
+> (9) In this section—
+>
+> - “energy efficiency” includes the use of—
+>
+>   - (a) technologies reliant on sources of energy other than fossil fuel and nuclear fuel;
+>   - (b) materials the manufacture or use of which produces or involves lower emissions of greenhouse gases than other materials; and
+>   - (c) surplus heat from electricity generation or other industrial sources for district heating or other purposes;
+>
+> - “fossil fuel” means—
+>
+>   - (a) coal;
+>   - (b) lignite;
+>   - (c) peat;
+>   - (d) natural gas (within the meaning of the Energy Act 1976 (c. 76));
+>   - (e) crude liquid petroleum;
+>   - (f) petroleum products (within the meaning of that Act);
+>   - (g) any substance produced directly or indirectly from a substance mentioned in paragraphs (a) to (f);
+>
+> - “greenhouse gas” has the meaning given by section 10(1) of the Climate Change (Scotland) Act 2009 (asp 12).
+
+.
+
+(3) In schedule 2, after paragraph 21 (effect of reduction of liability to pay council tax under section 13A), insert—
+
+> **22**
+>
+> (1) This paragraph applies where a local authority establishes an energy efficiency discount scheme under section 80A.
+>
+> (2) Where, under an energy efficiency discount scheme, the amount which a person is liable to pay in respect of council tax is reduced, any amount in relation to which the reduction applies is to be treated for the purposes of this schedule as subject to a discount equal to the amount of the reduction.
+
+.
+
+##### 66 Review of energy efficiency discount schemes
+
+(1) The Scottish Ministers must, as soon as practicable after 31 March 2012 and annually thereafter, lay before the Scottish Parliament a report on the operation of energy efficiency discount schemes established under section 80A of the Local Government Finance Act 1992 (c. 14), which must include an assessment of whether the reductions thereby provided for have contributed effectively to promoting energy efficiency.
+
+(2) The Scottish Ministers may, if they consider it appropriate, by order amend section 80A of the Local Government Finance Act 1992 for the purpose of improving the contribution of energy efficiency discount schemes to promoting energy efficiency.
+
+##### 67 Non-domestic rates: discounts for energy efficiency etc.
+
+In section 153 (power to prescribe amount of non-domestic rate) of the Local Government etc. (Scotland) Act 1994 (c. 39), in subsection (3)—
+
+(a) the words “whose rateable value exceeds, and those whose rateable value does not exceed, a prescribed figure”become paragraph (a); and
+
+(b) at the end insert—
+
+> (b) whose energy efficiency and greenhouse gas emissions fall into different categories prescribed for the purpose of this paragraph in rules under subsection (1).
+>
+> (3A) Regulations under this section may make provision in relation to how lands and heritages are to be determined to fall within a category prescribed for the purpose of subsection (3)(b) in rules under subsection (1).
+
+.
+
+#### Climate change burdens
+
+##### 68 Climate change burdens
+
+After section 46 (health care burdens) of the Title Conditions (Scotland) Act 2003 (asp 9), insert—
+
+> **Climate change burdens**
+>
+> **46A Climate change burdens**
+>
+> (1) On and after the day on which this section comes into force, it shall be competent to create a real burden in favour of a public body or trust, or of the Scottish Ministers, for the purpose of reducing greenhouse gas emissions; and any such burden shall be known as a “climate change burden”.
+>
+> (2) A climate change burden may only consist of an obligation, in the event of the burdened property being developed, for the property to meet specified mitigation and adaptation standards.
+>
+> (3) For the purposes of this section, a “public body” means a body listed in Part I or II of the Schedule to the Title Conditions (Scotland) Act 2003 (Conservation Bodies) Order 2003 (SSI 2003/453).
+
+.
+
+#### Tenement Management Scheme
+
+##### 69 Tenement Management Scheme: definition of “maintenance”
+
+In schedule 1 (Tenement Management Scheme) to the Tenements (Scotland) Act 2004 (asp 11), in the definition of “maintenance” in rule 1.5, after “replacement,” insert “ the installation of insulation, ”.
+
+#### Permitted development rights
+
+##### 70 Air source heat pumps and micro wind turbines in domestic properties
+
+(1) The Scottish Ministers must exercise their functions under sections 30 and 31 of the Town and Country Planning (Scotland) Act 1997 (c. 8) so as to make provision specifying the circumstances in which development of the class mentioned in subsection (2) is granted planning permission by virtue of an order under section 30 of that Act.
+
+(2) That class is the installation, alteration or replacement, within the curtilage of a dwellinghouse or building containing one or more flats, of—
+
+(a) air source heat pump microgeneration equipment; or
+
+(b) wind turbine microgeneration equipment.
+
+(3) The Scottish Ministers must comply with subsection (1) no later than 6 months after the day on which this section comes into force.
+
+(4) Before complying with subsection (1), the Scottish Ministers must consult—
+
+(a) such persons appearing to them to represent the producers and suppliers of the equipment mentioned in paragraphs (a) and (b) of subsection (2); and
+
+(b) such other persons as the Scottish Ministers consider appropriate.
+
+(5) In this section, “microgeneration” has the meaning given in section 82(6) of the Energy Act 2004 (c. 20).
+
+##### 71 Microgeneration in non-domestic buildings
+
+(1) The Scottish Ministers must exercise their functions under sections 30 and 31 of the Town and Country Planning (Scotland) Act 1997 (c. 8) so as to make provision specifying the circumstances in which development of the class mentioned in subsection (2) is granted planning permission by virtue of an order under section 30 of that Act.
+
+(2) That class is the installation, alteration or replacement, within the curtilage of a non-domestic building, of microgeneration equipment.
+
+(3) The Scottish Ministers must comply with subsection (1) no later than 12 months after the day on which this section comes into force.
+
+(4) Before complying with subsection (1), the Scottish Ministers must consult—
+
+(a) such persons appearing to them to represent the producers and suppliers of the equipment mentioned in subsection (2); and
+
+(b) such other persons as the Scottish Ministers consider appropriate.
+
+(5) In this section—
+
+- “microgeneration” has the same meaning as in section 70(5);
+- “non-domestic building” has the same meaning as in section 63(7).
+
+#### Development plans
+
+##### [^F130]72 Development plans: inclusion of greenhouse gas emissions policies
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### [^F131]73 Annual report on operation of section 72
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Promotion of water conservation and water-use efficiency
+
+##### 74 Duty of Scottish Water to promote water conservation and water-use efficiency
+
+In section 56(1) of the Water Industry (Scotland) Act 2002 (asp 3), after paragraph (a) insert—
+
+> (aa) requiring it to promote water conservation and water-use efficiency,
+
+.
+
+### Chapter 4 — The Scottish civil estate
+
+#### 75 Energy performance of buildings procured for the Scottish civil estate
+
+(1) The Scottish Ministers must, in so far as reasonably practicable, ensure that the energy performance of any building that becomes part of the civil estate in Scotland falls within the top quartile of energy performance.
+
+(2) For the purposes of subsection (1), a building becomes part of the civil estate if it is procured or constructed by or on behalf of the Scottish Ministers.
+
+(3) The Scottish Ministers may, by regulations, provide that the duty under subsection (1) does not apply in respect of specified buildings or categories of buildings.
+
+#### 76 Report on the Scottish civil estate
+
+(1) The Scottish Ministers must, in respect of each financial year beginning with 2010–2011, lay before the Scottish Parliament a report containing an assessment of the progress made in the year towards improving—
+
+(a) the efficiency; and
+
+(b) the contribution to sustainability,
+
+of buildings that are part of the civil estate in Scotland.
+
+(2) If the energy performance of a building mentioned in subsection (3) does not fall within the top quartile of energy performance, the report must state the reasons why the building has become part of the civil estate.
+
+(3) That building is a building—
+
+(a) to which section 75 applies; and
+
+(b) which becomes part of the civil estate in the financial year to which the report relates.
+
+(4) The report under this section must be laid before the Parliament no later than 31 October next following the end of the financial year to which the report relates.
+
+#### 77 Scottish civil estate: supplementary
+
+(1) For the purposes of this section and sections 75 and 76—
+
+(a) “building” means a building that uses energy for heating or cooling the whole or any part of its interior; and
+
+(b) a building is part of the civil estate in Scotland if it—
+
+(i) is used for the purposes of Scottish central government administration; and
+
+(ii) is of a description of buildings for which the Scottish Ministers have responsibilities in relation to efficiency and sustainability.
+
+(2) The Scottish Ministers may, by order, provide—
+
+(a) for buildings of a description specified in the order to be treated as being, or as not being, part of the civil estate;
+
+(b) for uses specified in the order to be treated as being, or as not being, uses for the purposes of Scottish central government administration.
+
+### Chapter 5 — Waste reduction and recycling
+
+#### Waste prevention and management plans
+
+##### 78 Waste prevention and management plans
+
+(1) The Scottish Ministers may, by regulations, require persons of the kinds specified—
+
+(a) to prepare plans for the prevention, reduction, management, recycling, use and disposal of waste produced by or otherwise associated with their activities;
+
+(b) to comply with those plans.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which plans must be prepared, including when more than one plan must be prepared;
+
+(b) the kinds of waste in relation to which plans must be prepared;
+
+(c) the periods—
+
+(i) to which plans relate;
+
+(ii) within which plans must be prepared;
+
+(d) the content of plans;
+
+(e) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations; and
+
+(ii) the functions of that authority, including the approval by it of plans prepared under the regulations;
+
+(f) the keeping of plans and other information and their production to the enforcement authority;
+
+(g) the enforcement of the duties imposed by the regulations;
+
+(h) offences in relation to failures to comply with requirements of the regulations.
+
+(3) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+
+(4) In this Chapter—
+
+- “recycling”, in relation to any waste, includes recovery and re-use (whether or not the waste is subjected to any process) (and cognate expressions are to be construed accordingly);
+- “specified” means specified in regulations (and cognate expressions are to be construed accordingly);
+- “waste” has the meaning given by section 75(2) of the Environmental Protection Act 1990 (c. 43) (the “1990 Act”).
+
+#### [[^F132]Restrictions on the disposal of unsold consumer goods
+
+##### 78A Restrictions on the disposal of unsold consumer goods
+
+(1) The Scottish Ministers may, by regulations, make provision prohibiting or restricting the disposal of unsold consumer goods if they consider it appropriate to do so for the purpose of reducing waste.
+
+(2) In subsection (1), “consumer goods” means goods intended to be purchased, used or consumed by a consumer.
+
+(3) But “consumer goods” does not include food (within the meaning of Regulation (EC) No. 178/2002).
+
+(4) Consumer goods are “unsold” if they have not been sold to, or have been returned by, a consumer.
+
+(5) In this section, “consumer” means—
+
+(a) an individual—
+
+(i) who purchases, uses or receives goods or services which are supplied in the course of a business carried on by the person supplying them, and
+
+(ii) who is not purchasing, using or receiving the goods or services wholly or mainly in the course of a business carried on by the individual, or
+
+(b) a business (including a business carried on by an individual) which purchases, uses or receives goods or services which are supplied in the course of a business carried on by the person supplying them.
+
+(6) Regulations under subsection (1) may in particular—
+
+(a) specify the particular types of unsold consumer goods to which the prohibitions or restrictions apply,
+
+(b) include provision about the persons to whom the prohibitions or restrictions apply,
+
+(c) include provision about the meaning of “disposal” for the purposes of the regulations,
+
+(d) include further provision about the meaning of “unsold” for the purposes of the regulations,
+
+(e) include provision to prioritise the re-use, rather than recycling of unsold goods, in line with the waste hierarchy,
+
+(f) provide for exemptions from the prohibitions or restrictions,
+
+(g) subject to section 89, include provision about—
+
+(i) the enforcement authority in relation to the regulations, and
+
+(ii) the functions of that authority,
+
+(h) include other provision about enforcement of the regulations.
+
+(7) Provision about enforcement under subsection (6)(h) may in particular include provision—
+
+(a) enabling functions of the enforcement authority to be carried out on its behalf by persons authorised in accordance with the regulations,
+
+(b) about the keeping of records and their production to the enforcement authority,
+
+(c) about offences in relation to failures to comply with requirements in the regulations,
+
+(d) for the giving of notices by or on behalf of the enforcement authority offering a person the opportunity of discharging any liability to conviction for an offence under the regulations by payment of a fixed penalty.
+
+(8) Before laying a draft of a Scottish statutory instrument containing regulations under subsection (1) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
+
+(9) The Scottish Ministers must, as soon as reasonably practicable after regulations under subsection (1) are made, publish guidance for the enforcement authority in relation to the functions conferred on it by the regulations.
+
+(10) The enforcement authority must have regard to any guidance published under subsection (9).]
+
+#### Waste data
+
+##### 79 Information on waste
+
+(1) The Scottish Ministers may, by regulations, require persons of the kinds specified to provide SEPA with information on the waste produced by or otherwise associated with such persons' activities.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which information must be provided;
+
+(b) the information required to be provided, including the periods to which the information relates;
+
+(c) the form and manner in which information must be provided;
+
+(d) the periods within which information must be provided;
+
+(e) the functions of SEPA in relation to the regulations;
+
+(f) the keeping of information and its production to SEPA;
+
+(g) the enforcement of the duties imposed by the regulations;
+
+(h) offences in relation to failures to comply with requirements of the regulations.
+
+(3) The power to make regulations under this section is without prejudice to section 34(5) of the 1990 Act and any other enactment to the same effect as that section; and any duty imposed on any person by regulations under this section is without prejudice to any duty to provide information on waste imposed by regulations under that section or by virtue of any other such enactment.
+
+(4) SEPA may give guidance to persons to whom the regulations apply on how to comply with the requirements of the regulations.
+
+(5) A draft of a statutory instrument containing the first regulations under subsection (1) must be laid before the Scottish Parliament no later than 12 months after the day on which this section comes into force.
+
+(6) In this section and in section 89, “SEPA” means the Scottish Environment Protection Agency.
+
+#### Deposit of recyclable waste etc.
+
+##### 80 Recyclable waste: facilities for deposit etc.
+
+(1) The Scottish Ministers may, by regulations, require—
+
+(a) persons of the kinds specified to provide facilities for the deposit of waste;
+
+(b) authorised persons—
+
+(i) to collect waste deposited by virtue of paragraph (a);
+
+(ii) to ensure, in so far as reasonably practicable, that such waste collected by or transferred to them (whether in accordance with section 34 of the 1990 Act or otherwise) is recycled.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which facilities must be provided, including the places at which they must be provided;
+
+(b) the persons for whom facilities must be provided;
+
+(c) the kinds of waste for which facilities must be provided;
+
+(d) the circumstances in which authorised persons must collect waste, including which authorised persons must do so;
+
+(e) the charging by authorised persons for collecting waste, for recycling waste and for otherwise ensuring waste is recycled;
+
+(f) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations; and
+
+(ii) the functions of that authority;
+
+(g) the keeping of records and their production to the enforcement authority;
+
+(h) the enforcement of the duties imposed by the regulations;
+
+(i) offences in relation to failures to comply with requirements of the regulations.
+
+(3) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+
+(4) The Scottish Ministers may not, by regulations under this section, impose requirements on persons to provide facilities for the deposit of waste in circumstances in relation to which regulations under section 81 may be made.
+
+(5) In this section and in section 81, “authorised person” has the same meaning as in section 34(3) of the 1990 Act.
+
+##### 81 Recyclable waste: facilities for deposit at events etc.
+
+(1) The Scottish Ministers may, by regulations, confer power on local authorities to issue notices requiring—
+
+(a) persons responsible for organising temporary events open to the public to provide facilities for the deposit of waste by persons attending those events;
+
+(b) authorised persons to—
+
+(i) collect waste deposited by virtue of paragraph (a);
+
+(ii) ensure, in so far as reasonably practicable, that such waste collected by or transferred to them (whether in accordance with section 34 of the 1990 Act or otherwise) is recycled.
+
+(2) The regulations may in particular include provision about—
+
+(a) the events in relation to which notices can be issued;
+
+(b) the circumstances in which facilities must be provided, including the places at which they must be provided;
+
+(c) the persons for whom facilities must be provided;
+
+(d) the kinds of waste for which facilities must be provided;
+
+(e) the persons to whom notices can be issued;
+
+(f) the content of notices;
+
+(g) the form of and manner in which notices can be issued, including the times at which notices can be issued;
+
+(h) appeals against notices;
+
+(i) the circumstances in which authorised persons must collect waste, including which authorised persons must do so;
+
+(j) the charging by authorised persons for collecting waste, recycling waste and otherwise ensuring waste is recycled;
+
+(k) subject to section 89—
+
+(i) the enforcement authority in relation to notices; and
+
+(ii) the functions of that authority;
+
+(l) the keeping of records by persons to whom notices are issued and their production to the enforcement authority;
+
+(m) the enforcement of duties imposed by notices;
+
+(n) offences in relation to failures to comply with requirements of notices.
+
+(3) Local authorities must have regard to any guidance given by the Scottish Ministers to them in relation to the functions conferred on them by the regulations.
+
+(4) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+
+#### Procurement of recyclate
+
+##### 82 Procurement of recyclate
+
+(1) The Scottish Ministers may, by regulations, require persons of the kinds specified to comply with the requirement in subsection (2).
+
+(2) That requirement is to ensure that things procured or constructed by or on behalf of such persons—
+
+(a) comprise of; or
+
+(b) include or contain a certain proportion of,
+
+recyclate.
+
+(3) The regulations may in particular include provision about—
+
+(a) the circumstances in which the requirement applies;
+
+(b) the kinds of things in relation to which the requirement applies;
+
+(c) the proportion of recyclate that such things must include or contain;
+
+(d) how such proportions are to be determined;
+
+(e) the circumstances in which a person may apply to the Scottish Ministers to have the requirement disapplied;
+
+(f) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations; and
+
+(ii) the functions of that authority;
+
+(g) the keeping of records and their production to the enforcement authority;
+
+(h) the enforcement of the duties imposed by the regulations;
+
+(i) offences in relation to failures to comply with requirements of the regulations.
+
+(4) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+
+(5) Persons to whom the regulations apply must have regard to any guidance given by—
+
+(a) the Scottish Ministers;
+
+(b) the enforcement authority,
+
+to them in relation to the requirements imposed by the regulations.
+
+(6) In this section, “recyclate” means waste that has been recycled.
+
+##### 82A [[^F133] Procurement of recycled and recyclable products etc.
+
+(1) The Scottish Ministers may by regulations require specified contracting authorities to ensure that—
+
+(a) a specified proportion of the goods or works procured by or on behalf of the authorities, or
+
+(b) a specified proportion of the materials used in the production, provision or construction of goods, services or works so procured,
+
+fall within subsection (2).
+
+(2) Something falls within this subsection if—
+
+(a) it has been used already (including where it has been refurbished since that use),
+
+(b) it has been remanufactured, or
+
+(c) it is designed to be repaired, reused, refurbished, remanufactured or recycled.
+
+(3) The regulations may, in particular, make provision about—
+
+(a) the circumstances in which the requirement applies,
+
+(b) the kinds of things in relation to which the requirement applies,
+
+(c) how the specified proportions are to be determined,
+
+(d) the circumstances in which a person may apply to the Scottish Ministers to have the requirement disapplied,
+
+(e) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations, and
+
+(ii) the functions of that authority,
+
+(f) the keeping of records and their production to the enforcement authority,
+
+(g) the enforcement of the duties imposed by the regulations,
+
+(h) offences in relation to failures to comply with requirements of the regulations.
+
+(4) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+
+(5) Persons to whom the regulations apply must have regard to any guidance given by—
+
+(a) the Scottish Ministers,
+
+(b) the enforcement authority,
+
+to them in relation to the requirements imposed by the regulations.
+
+(6) In this section—
+
+- “ contracting authority ” has the meaning given by section 1 of the Procurement Reform (Scotland) Act 2014,
+- “ specified ” means specified in the regulations. ]
+
+#### Reduction of packaging
+
+##### 83 Targets for reduction of packaging etc.
+
+(1) The Scottish Ministers may, by regulations—
+
+(a) set targets—
+
+(i) for the reduction of packaging;
+
+(ii) for the reduction of greenhouse gas emissions produced by the manufacture of or otherwise associated with packaging;
+
+(b) require persons of the kinds specified to comply with those targets.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which the requirement in subsection (1)(b) applies;
+
+(b) the kinds of packaging in relation to which targets may be set;
+
+(c) the targets in relation to such packaging (including how targets may be set);
+
+(d) the methods of determining whether targets have been met;
+
+(e) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations; and
+
+(ii) the functions of that authority;
+
+(f) the keeping of records and other information and their production to the enforcement authority (including the periods to which records or information must relate and within which it must be produced to the authority);
+
+(g) the enforcement of the duties imposed by the regulations;
+
+(h) offences in relation to failures to comply with requirements of the regulations.
+
+(3) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+
+(4) [[^F134]For the purpose of this section and any regulations made under it,] “packaging” has the meaning given by Article 3 of Directive 94/62/EC of the European Parliament and of the Council on packaging and packaging waste.
+
+#### Deposit and return
+
+##### 84 Deposit and return schemes
+
+(1) The Scottish Ministers may, by regulations, establish deposit and return schemes.
+
+(2) A “deposit and return scheme” is a scheme under which—
+
+(a) the sale price of articles includes a returnable element (a “deposit”);
+
+(b) persons who return—
+
+(i) such articles;
+
+(ii) the packaging associated with such articles (“returnable packaging”); or
+
+(iii) both such articles and such packaging,
+
+are entitled to be paid a sum equal to that deposit.
+
+(3) Retailers may be required, under a deposit and return scheme, to—
+
+(a) include a deposit in the price of articles placed on the market by them;
+
+(b) accept the return to them of—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging;
+
+(c) pay a sum equal to the deposit to persons who return to them—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging;
+
+(d) return such articles to the producers of them;
+
+(e) return returnable packaging to the producers of it or of the articles with which it is associated.
+
+(4) Producers may be required, under a deposit and return scheme, to—
+
+(a) include a deposit in the price of articles placed on the market by them;
+
+(b) accept the return to them of—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging;
+
+(c) pay a sum equal to the deposit to retailers who return to them—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging;
+
+(d) recycle, or have recycled—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging.
+
+(5) A deposit and return scheme may also provide for a person or body (a “scheme administrator”) to—
+
+(a) ensure that deposits are included in the price of articles placed on the market;
+
+(b) accept the return of—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging;
+
+(c) pay sums equal to deposits to persons who return—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging;
+
+(d) return such articles to the producers of them;
+
+(e) return returnable packaging to the producers of it or of the articles with which it is associated;
+
+(f) recover sums equal to deposits from such producers;
+
+(g) recycle, or have recycled—
+
+(i) such articles;
+
+(ii) returnable packaging; or
+
+(iii) both such articles and such packaging.
+
+(6) The Scottish Ministers may make regulations under this section only where they consider it necessary or expedient to do so for the purpose of promoting or securing an increase in the recycling of materials.
+
+(7) The regulations may in particular include provision about—
+
+(a) the persons who are retailers and producers for the purposes of deposit and return schemes;
+
+(b) the articles to which such schemes apply;
+
+(c) the deposits to be included in the price of such articles;
+
+(d) the inclusion, in the sale price of articles, of a non-returnable element to cover the reasonable costs incurred by retailers, producers or a scheme administrator in administering such schemes;
+
+(e) the articles the return of which entitles persons to payment of sums equal to deposits;
+
+(f) the methods by which such articles are to be identified;
+
+(g) the packaging which is returnable packaging for the purposes of such schemes;
+
+(h) the methods by which returnable packaging is to be identified;
+
+(i) information on the operation of schemes (including notices on premises where articles are offered for sale and the content of such notices);
+
+(j) the places to which articles can be returned;
+
+(k) the places to which returnable packaging can be returned;
+
+(l) the registration of retailers and producers to whom schemes apply (including the reasonable fees payable in relation to such registration);
+
+(m) the scheme administrator;
+
+(n) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations; and
+
+(ii) the functions of that authority;
+
+(o) the keeping of records and other information and their production to the enforcement authority;
+
+(p) the enforcement of the duties imposed by the regulations;
+
+(q) offences in relation to failures to comply with requirements of the regulations.
+
+[[^F135](8) For the purpose of this section and any regulations made under it, “packaging” has the meaning given by Article 3 of Directive 94/62/EC of the European Parliament and of the Council on packaging and packaging waste.]
+
+##### 85 Deposit and return schemes: designation of scheme administrator
+
+(1) The Scottish Ministers may, by order, designate—
+
+(a) a body established under section 86(1); or
+
+(b) such other person or body as they consider appropriate (an “existing body”),
+
+as a scheme administrator of a deposit and return scheme established by virtue of section 84.
+
+(2) An order under subsection (1)(b) may, in so far as the Scottish Ministers consider it necessary or expedient to do so, modify the functions of an existing body by—
+
+(a) conferring functions on;
+
+(b) removing functions from; or
+
+(c) otherwise varying the functions of,
+
+the body.
+
+(3) That order may in particular include provision about—
+
+(a) borrowing by the existing body (with the approval of the Scottish Ministers);
+
+(b) the charging by the body, in respect of the exercise of its functions in relation to a deposit and return scheme, of such reasonable amounts as the Scottish Ministers consider appropriate.
+
+[[^F136](4) An order under subsection (1)(a) or (b) may include provision about the giving of directions by the Scottish Ministers to the scheme administrator about the exercise of the administrator’s functions in relation to the scheme.]
+
+##### 86 Power to establish scheme administrator
+
+(1) The Scottish Ministers may, by order, establish a body to be a scheme administrator of a deposit and return scheme established by virtue of section 84(1).
+
+(2) A body established under subsection (1) is to be a body corporate.
+
+(3) The body may do anything which appears to it—
+
+(a) to be necessary or expedient for the purpose of, or in connection with, the exercise of its functions in relation to a deposit and return scheme;
+
+(b) to be conducive to the exercise of those functions.
+
+(4) In particular, the body may—
+
+(a) enter into contracts;
+
+(b) with the agreement of the Scottish Ministers, borrow money;
+
+(c) charge, in respect of the exercise of its functions in relation to a deposit and return scheme, such reasonable amounts as the Scottish Ministers consider appropriate.
+
+(5) An order under subsection (1) may in particular include provision about—
+
+(a) the status and constitution of the body;
+
+(b) the status of the members and any employees of the body;
+
+(c) the remuneration, allowances and pensions of such members and such employees;
+
+(d) the conferral of functions on the body;
+
+(e) the keeping by the body of accounts and accounting records.
+
+##### 87 Finance of scheme administrator
+
+(1) The Scottish Ministers may, for the purpose of or in connection with the exercise by a scheme administrator of functions in relation to a deposit and return scheme—
+
+(a) pay grants;
+
+(b) make loans,
+
+to the administrator of such amounts as Ministers may determine.
+
+(2) Any such grant or loan may be paid or, as the case may be, made, on such terms and subject to such conditions (including, in the case of a loan, conditions as to repayment) as the Scottish Ministers consider appropriate.
+
+(3) The Scottish Ministers may, from time to time after any grant or loan is paid or, as the case may be, made, vary the terms and conditions on which it was paid or made.
+
+(4) The Scottish Ministers may guarantee, in such manner and on such conditions as they consider appropriate, the discharge of any financial obligation in connection with any sums borrowed by a scheme administrator for the purpose of, or in connection with, the exercise of its functions in relation to a deposit and return scheme.
+
+#### [[^F137]Chargeable items
+
+##### 87A Charges for supply of single-use items
+
+(1) The Scottish Ministers may, by regulations, require suppliers of goods—
+
+(a) to charge for items specified in the regulations,
+
+(b) to apply the net proceeds raised by such charges to the advancement of environmental protection or improvement or to any other purposes that may be reasonably regarded as analogous.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which the requirement applies,
+
+(b) the suppliers to whom the requirement applies,
+
+(c) the minimum amount to be charged for an item specified in the regulations,
+
+(d) how the net proceeds raised by the charge are to be ascertained,
+
+(e) the particular purposes to which those net proceeds are to be applied,
+
+(f) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations, and
+
+(ii) the functions of that authority,
+
+(g) the keeping of records and their production to the enforcement authority,
+
+(h) the enforcement of the requirements imposed by the regulations,
+
+(i) offences in relation to failures to comply with the requirements imposed by the regulations.
+
+(3) The regulations may only specify items which are—
+
+(a) manufactured,
+
+(b) provided—
+
+(i) as a container or packaging for goods, or
+
+(ii) to be used in connection with the consumption or use of goods, and
+
+(c) likely to be used for that purpose only—
+
+(i) once, or
+
+(ii) for a short period.
+
+(4) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.]
+
+#### [^F138]...
+
+##### 88 Charges for supply of carrier bags
+
+(1) The Scottish Ministers may, by regulations, require suppliers of goods—
+
+(a) to charge for carrier bags supplied at the place where the goods are supplied for the purpose of enabling the goods to be taken away or delivered;
+
+(b) to apply the net proceeds raised by such charges to the advancement of environmental protection or improvement or to any other purposes that may be reasonably regarded as analogous.
+
+(2) The regulations may in particular include provision about—
+
+(a) the circumstances in which the requirement applies;
+
+(b) the suppliers to whom the requirement applies;
+
+(c) the carrier bags to which the requirement applies;
+
+(d) the minimum amount to be charged for each carrier bag;
+
+(e) how the net proceeds raised by the charge are to be ascertained;
+
+(f) the purposes to which those net proceeds are to be applied;
+
+(g) subject to section 89—
+
+(i) the enforcement authority in relation to the regulations; and
+
+(ii) the functions of that authority;
+
+(h) the keeping of records and their production to the enforcement authority;
+
+(i) the enforcement of the duties imposed by the regulations;
+
+(j) offences in relation to failures to comply with requirements of the regulations.
+
+(3) The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.
+
+#### [^F139][[^F140]...
+
+##### 88A [[^F141]Offences relating to supply of chargeable items: fixed penalty notices]
+
+(1) A person authorised for the purpose of this section by an enforcement authority may give a person a fixed penalty notice if the person so authorised has reason to believe that the person to whom the notice is given has committed a relevant offence.
+
+(2) In subsection (1), “relevant offence” means an offence provided for in regulations made under section [[^F142]87A or] 88.
+
+(3) The Scottish Ministers may by regulations make further provision about fixed penalty notices under subsection (1).
+
+(4) Subject to section 89, the regulations may in particular include provision about—
+
+(a) the enforcement authority in relation to the regulations; and
+
+(b) the functions of that authority in relation to fixed penalty notices.
+
+(5) Schedule 1A makes further provision about fixed penalties.]
+
+#### General provision
+
+##### 89 Enforcement authorities
+
+(1) This section applies to any regulations made under this Chapter other than under section 79.
+
+(2) The enforcement authority provided for in the regulations is to be—
+
+(a) SEPA;
+
+(b) a local authority; or
+
+(c) such other person or body as the Scottish Ministers consider appropriate.
+
+(3) The regulations may provide for the functions of the enforcement authority in relation to the regulations to be exercised by two or more such authorities and about the functions of each such authority.
+
+(4) The regulations may also provide for enforcement authorities to levy charges to recover the reasonable costs incurred by them in exercising their functions under the regulations.
+
+##### 90 Penalties
+
+(1) A person who commits an offence under regulations made under this Part is liable to such penalties, not exceeding those mentioned in subsection (2), as are provided for in the regulations.
+
+(2) Those penalties are—
+
+(a) on summary conviction, a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, a fine.
+
+## Part 6 — General and miscellaneous
+
+### 91 Public engagement
+
+(1) The Scottish Ministers must prepare and publish a strategy (a “public engagement strategy”) setting out the steps they intend to take to—
+
+(a) inform persons in Scotland about the targets specified by virtue of this Act;
+
+(b) encourage them to contribute to the achievement of those targets.
+
+(2) The public engagement strategy must, in particular, identify actions which persons in Scotland may take to contribute to the achievement of the targets referred to in subsection (1)(a).
+
+(3) The public engagement strategy must be published no later than 31 December 2010.
+
+(4) The Scottish Ministers—
+
+(a) may, from time to time; and
+
+(b) must, before the end of the period mentioned in subsection (5),
+
+review the strategy.
+
+(5) The period referred to in subsection (4)(b) is the period of 5 years beginning with the day on which—
+
+(a) the strategy is first published; or
+
+(b) the strategy was last reviewed under subsection (4).
+
+(6) Where, following a review under subsection (4), the Scottish Ministers vary the public engagement strategy, they must, as soon as reasonably practicable after so doing, publish the strategy as so varied.
+
+(7) A strategy published under subsection (6) must contain an assessment of the progress made towards implementing the steps set out in earlier strategies.
+
+(8) The public engagement strategy may be published in such manner as the Scottish Ministers consider appropriate.
+
+(9) The Scottish Ministers must lay the public engagement strategy before the Scottish Parliament as soon as reasonably practicable after it is published.
+
+### 92 Sustainable development
+
+(1) The persons mentioned in subsection (2) must, in exercising functions conferred on them by virtue of this Act, take into account the need to do so in a way that contributes to the achievement of sustainable development[[^F143], including the achievement of the United Nations sustainable development goals].
+
+(2) Those persons are—
+
+(a) the Scottish Ministers;
+
+(b) the advisory body.
+
+### 93 Equal opportunities
+
+(1) The persons mentioned in subsection (2) must exercise their functions under this Act in a manner which encourages equal opportunities and in particular the observance of the equal opportunities requirements.
+
+(2) Those persons are—
+
+(a) the Scottish Ministers;
+
+(b) the advisory body;
+
+(c) public bodies (as defined in section 44(2)).
+
+(3) In this section, “equal opportunities” and the “equal opportunities requirements” have the same meanings as those expressions have in section L2 of Part 2 of Schedule 5 to the Scotland Act 1998 (c. 46).
+
+### 94 Impact of budget proposals on emissions
+
+(1) The Scottish Ministers must, at the same time as laying before the Scottish Parliament any document setting out draft proposals for the use of resources in any financial year, lay before the Scottish Parliament a document describing the direct and indirect impact on greenhouse gas emissions of the activities to be funded by virtue of the proposals.
+
+(2) In this section, “use of resources” has the meaning given in section 1(3) of the Public Finance and Accountability (Scotland) Act 2000 (asp 1).
+
+### 94A [[^F144]Impact of infrastructure investment on emissions
+
+(1) Subsection (2) applies where the Scottish Ministers publish an infrastructure investment plan.
+
+(2) They must also publish an assessment of the extent to which investment in accordance with the plan is expected to contribute to the meeting of the emissions reduction targets.
+
+(3) The assessment—
+
+(a) may be set out—
+
+(i) in the plan, or
+
+(ii) in a separate document,
+
+(b) if set out in a separate document, must be published at the same time as, or as soon as reasonably practicable after, the plan is published.
+
+(4) In subsection (1), “infrastructure investment plan” means a plan prepared by the Scottish Ministers setting out their priorities for investing in, and strategy for the development of, public infrastructure.]
+
+### 95 Crown application
+
+(1) This Act and any orders and regulations made under it bind the Crown.
+
+(2) No contravention by the Crown of any provision made by virtue of this Act makes the Crown criminally liable.
+
+(3) But the Court of Session may, on the application of any public body or office-holder having responsibility for enforcing that provision, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+(4) Despite subsection (2), any provision made by virtue of this Act applies to persons in the public service of the Crown as it applies to other persons.
+
+### 96 Subordinate legislation
+
+(1) Any power conferred by this Act on the Scottish Ministers to make orders or regulations is exercisable by statutory instrument.
+
+(2) Any such power—
+
+(a) may be exercised so as to make different provision for different cases or descriptions of case or for different purposes;
+
+(b) includes power to make such consequential, incidental, supplementary, transitory, transitional or saving provision as the Scottish Ministers consider appropriate.
+
+(3) An order or regulations under this Act may modify any enactment (including this Act).
+
+(4) Subject to subsections (5) to (8) and to section 97, no statutory instrument containing an order or regulations under this Act (other than an order under section 100(2)) may be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+(5) A statutory instrument containing an order mentioned in subsection (6) or regulations mentioned in subsection (7) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(6) Those orders are orders under—
+
+(a) section [[^F145]19(1)(b)];
+
+(b) section 46(1);
+
+(c) paragraph 2(2) of schedule 1.
+
+(7) Those regulations are—
+
+[^F146]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F147](aa) regulations under section 13A(1) that do not propose an increase to any limit on the maximum amount of carbon units that may be credited to the net Scottish emissions account for a [[^F148]period],]
+
+(b) the second or subsequent regulations under section 20(1) (other than regulations which make provision specifying a carbon unit of a kind not previously specified in regulations under that section);
+
+(c) regulations under section 84(1) which make provision about one or more of the following matters only—
+
+(i) the deposits mentioned in section 84(7)(c);
+
+(ii) the form and content of notices mentioned in section 84(7)(i);
+
+(iii) setting the registration fees mentioned in section 84(7)(l);
+
+(d) regulations under Chapter 5 of Part 5 which make provision about the matter mentioned in section 89(4) only.
+
+(8) Subsection (5) does not apply to an order or regulations which includes provision modifying an Act or an Act of the Scottish Parliament.
+
+### 97 Subordinate legislation: pre-laying procedure
+
+(1) This section applies where the Scottish Ministers propose to lay before the Scottish Parliament a draft of a statutory instrument containing
+
+[[^F149](za) regulations, other than the first regulations, under section A4;]
+
+[[^F150](a) the first regulations under section 84 or 88 (other than a draft containing regulations mentioned in section 96(7)(c) or (d) to which section 96(5) applies)][[^F151]; [^F152]...
+
+(b) regulations under section 13A(1) that propose an increase to any limit on the maximum amount of carbon units that may be credited to the net Scottish emissions account for a [[^F153]period];]
+
+[[^F154](c) regulations under section 87A which specify (or modify the description of) items that suppliers of goods are required to charge for.]
+
+(2) The Scottish Ministers must, before doing so, lay before the Parliament—
+
+(a) a copy of the proposed regulations;[^F155]...
+
+(b) a statement setting out their reasons for proposing to make those regulations[[^F156]; and
+
+(c) in the case of regulations mentioned in subsection (1)(b), a statement setting out whether the proposed limit is consistent with the most up-to-date advice they have received from the relevant body.]
+
+(3) The Scottish Ministers must, when laying such a copy, specify a period (the “representation period”) during which representations on the proposed regulations may be made to them.
+
+(4) The representation period must be at least 90 days, of which no fewer than 30 must be days on which the Parliament is not dissolved or in recess.
+
+(5) The Scottish Ministers must, as soon as reasonably practicable after laying a copy of the proposed regulations, publicise them in such manner as they consider appropriate.
+
+(6) The Scottish Ministers must, before laying the proposed regulations before the Parliament, have regard to—
+
+(a) any representations on the proposed regulations made to them;
+
+(b) any resolution relating to those regulations passed by the Parliament; and
+
+(c) any report relating to those regulations published by any committee of the Parliament for the time being appointed by virtue of standing orders,
+
+before the expiry of the representation period.
+
+(7) The Scottish Ministers must, when laying such proposed regulations, lay a statement setting out—
+
+(a) details of any representations, resolutions or reports mentioned in subsection (6);
+
+(b) the changes (if any) they have made to the proposed regulations in response to such representations, resolutions or reports and the reasons for those changes[[^F157]; and
+
+(c) in the case of regulations mentioned in subsection (1)(b), whether the proposed limit is consistent with the most up-to-date advice they have received from the relevant body.]
+
+(8) In this section, “proposed regulations” means a draft of a statutory instrument to which subsection (1) applies.
+
+### 98 Interpretation
+
+In this Act—
+
+- “additional greenhouse gas” has the meaning given by section 12(2);
+
+- “advisory body” has the meaning given by section 24(2);
+
+- “advisory functions” has the meaning given by section 24(3);
+
+- [^F158]...
+
+- “authorised person” has the meaning given by section 80(5);
+
+- “baseline” has the meaning given by section 11(1);
+
+- “baseline year” means—
+
+  - (a) in relation to a greenhouse gas mentioned in subsection (2) of section 11, the year mentioned in paragraph (a), (b), (c), (d) or, as the case may be, (e) of that subsection;
+  - (b) in relation to an additional greenhouse gas, any year designated by virtue of section 12(3);
+
+- “carbon unit” has the meaning given by section 20(4);
+
+- “climate change duties” has the meaning given by section 44(4);
+
+- “Committee” means the Scottish Committee on Climate Change;
+
+- [[^F159]“current international carbon reporting practice” has the meaning given by section 19(2),]
+
+- “deposit and return scheme” means a scheme established by virtue of section 84(1);
+
+- [^F160]...
+
+- “emissions” has the meaning given by section 17(1);
+
+- [[^F161]“emissions reduction target” means—
+
+  - (ab) [[^F162]a Scottish carbon budget target (and references to meeting such a target are to be construed in accordance with section A2(4)), or]
+  - (c) the net-zero emissions target,]
+
+- “energy efficiency” has the meaning given by section 60(9);
+
+- [[^F163]“fair and safe Scottish emissions budget” has the meaning given by section 2B(2),]
+
+- “greenhouse gas” has the meaning given by section 10(1);
+
+- [^F164]...
+
+- “international carbon reporting practice” has the meaning given by section [[^F165]19(1)];
+
+- [[^F166]“just transition principles” has the meaning given by section 35C(1),]
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
+
+- “monitoring body” has the meaning given by section 47(2);
+
+- “net Scottish emissions” [[^F167]is to be construed in accordance with] section 17(1);
+
+- “net Scottish emissions account” has the meaning given by section 13(1);
+
+- [[^F168]“net-zero emissions target” has the meaning given by section A1(1),]
+
+- [[^F168]“net-zero emissions target year” has the meaning given by section A1(2),]
+
+- [^F169]...
+
+- “public body” (except in Part 4 and section 93) has the meaning given by section 24(5);
+
+- “relevant body” has the meaning given by section [[^F170]20A(1)];
+
+- “relevant public body” has the meaning given by section 44(5);
+
+- “recycling” has the meaning given by section 78(4);
+
+- “renewable sources” has the meaning given by section 60(9);
+
+- [[^F171]“Scottish carbon budget” has the meaning given by section A2(1),]
+
+- [[^F171]“Scottish carbon budget target” has the meaning given by section A2(3),]
+
+- “Scottish Committee on Climate Change” has the meaning given by section 25(2);
+
+- “Scottish emissions” has the meaning given by section 17(1);
+
+- “Scottish removals” has the meaning given by section 17(1);
+
+- “SEPA” has the meaning given by section 79(6);
+
+- [[^F172]“target year” means—
+
+  - the final year of a period for which a Scottish carbon budget is set,
+  - the net-zero emissions target year,]
+
+- [[^F173]“target-relevant international carbon reporting practice” has the meaning given by section 19(2),]
+
+- “target-setting criteria” means the matters mentioned in section [[^F174]2B(1)];
+
+- “the 1990 Act” means the Environmental Protection Act 1990 (c. 43);
+
+- “the 2008 Act” means the Climate Change Act 2008 (c. 27);
+
+- [^F175]...
+
+- “UK Committee on Climate Change” has the meaning given by section [[^F176]20A(2)];
+
+- [[^F177]“United Nations sustainable development goals” means the goals set out in “Transforming our world: the 2030 Agenda for sustainable development” adopted by the General Assembly of the United Nations by resolution A/Res/70/1 of 25 September 2015,]
+
+- “waste” has the meaning given by section 78(4).
+
+### 99 Minor and consequential modifications
+
+Schedule 2 makes minor modifications and modifications consequential on the provisions of this Act.
+
+### 100 Short title and commencement
+
+(1) This Act may be cited as the Climate Change (Scotland) Act 2009.
+
+(2) This Act (other than this section and sections [[^F178]30] to 32, 56, 70 and 96) comes into force on such day (in the case of sections 44 to 52, being no later than 18 months after the day on which the Bill for this Act receives Royal Assent) as the Scottish Ministers may, by order, appoint.
+
+(3) Sections [[^F179]30] to 32 and 56 come into force in accordance with section 26.
+
+(4) Section 70 comes into force on the day after the Bill for this Act receives Royal Assent.
+
+(5) Different days may, under subsection (2), be appointed for different purposes.
+
+## SCHEDULE 1 — The Scottish Committee on Climate Change (prospective)
+
+*(introduced by section 25(3))*
+
+### Status (prospective)
+
+**1** (1) The Committee is a body corporate.
+
+(2) The Committee is not to be regarded as a servant or agent of the Crown, nor is it to be regarded as having any status, privilege or immunity of the Crown.
+
+(3) The Committee's members and employees are not to be regarded as civil servants.
+
+(4) The Committee's property is not to be regarded as property of, or held on behalf of, the Crown.
+
+### Membership of the Committee (prospective)
+
+**2** (1) The Committee is to consist of the following members—
+
+(a) a person to chair the Committee (“the Chair”); and
+
+(b) not fewer than five and not more than eight other members.
+
+(2) The Scottish Ministers may, by order, modify sub-paragraph (1)(b) so as to alter the number of other members of the Committee.
+
+(3) Members of the Committee are appointed by the Scottish Ministers.
+
+(4) In appointing members to the Committee, the Scottish Ministers must have regard to the desirability of the Committee (taken as a whole) having expertise or experience in the following—
+
+(a) business competitiveness;
+
+(b) climate change policy at Scottish, UK and international level (in particular the social impact of such policy);
+
+(c) climate science and other branches of environmental science;
+
+(d) economic analysis and forecasting;
+
+(e) emissions trading;
+
+(f) energy production and supply;
+
+(g) financial investment;
+
+(h) technology development and diffusion.
+
+### Period, and conditions, of appointment of members (prospective)
+
+**3** (1) Each member of the Committee is to be appointed for a period not exceeding 5 years.
+
+(2) A member holds and vacates office in accordance with the terms and conditions of appointment.
+
+(3) A member may resign office as a member of the Committee by giving written notice to the Scottish Ministers.
+
+(4) On ceasing to be a member, a person is eligible to be reappointed for one further period.
+
+### Persons not eligible for appointment (prospective)
+
+**4** No person may be appointed as a member of the Committee if that person is, or has at any time during the previous year been, a member of—
+
+(a) the House of Commons;
+
+(b) the Scottish Parliament;
+
+(c) the European Parliament.
+
+### Removal of members of Committee (prospective)
+
+**5** (1) Subject to sub-paragraph (3), the Chair may, by giving written notice, remove a member from office if the Chair is satisfied that one of the situations set out in sub-paragraph (2) exists.
+
+(2) Those situations are—
+
+(a) that the member is insolvent;
+
+(b) that the member has been convicted of a criminal offence;
+
+(c) that the member has been absent from meetings of the Committee for a period longer than 6 months without the permission of the Chair;
+
+(d) that the member is otherwise unable or unfit to discharge the functions of a member or is unsuitable to continue as a member.
+
+(3) The Chair may only remove a member from office with the agreement of the Scottish Ministers.
+
+(4) The Scottish Ministers may, by giving written notice, remove the Chair from office if the Scottish Ministers are satisfied that one of the situations set out in sub-paragraph (2) exists.
+
+(5) For the purposes of sub-paragraph (2)(a), a member is insolvent when—
+
+(a) a voluntary arrangement proposed by the member is approved;
+
+(b) the member is adjudged bankrupt;
+
+(c) the member's estate is sequestrated;
+
+(d) the member enters into a debt arrangement programme under Part 1 of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) as the debtor;
+
+(e) the member grants a trust deed for creditors.
+
+### Remuneration, allowances and pensions of members (prospective)
+
+**6** (1) The Committee must pay its members such remuneration and allowances as the Scottish Ministers may in each case determine.
+
+(2) The Committee may, with the agreement of the Scottish Ministers—
+
+(a) pay (or make arrangements for the payment);
+
+(b) make payments towards the provision;
+
+(c) provide and maintain schemes (whether contributory or not) for the payment,
+
+of such pensions, allowances or gratuities to or in respect of any person who is or has ceased to be a member of the Committee, as the Committee may determine.
+
+(3) The reference in sub-paragraph (2) to pensions, allowances and gratuities includes pensions, allowances and gratuities paid by way of compensation for loss of office.
+
+### Chief executive and other employees (prospective)
+
+**7** (1) The Committee is to employ a chief executive.
+
+(2) The chief executive is to be appointed by the Committee on such terms and conditions as the Committee may determine.
+
+(3) The appointment of the chief executive and the terms and conditions of that appointment are subject to the agreement of the Scottish Ministers.
+
+(4) The Committee may appoint other employees on such terms and conditions as the Committee may determine.
+
+(5) The Scottish Ministers may give directions to the Committee as regards the appointment of employees under sub-paragraph (4), which may relate in particular to—
+
+(a) the number of appointments;
+
+(b) the terms and conditions of employment.
+
+(6) The Committee must comply with directions given under sub-paragraph (5).
+
+(7) The Committee may, with the agreement of the Scottish Ministers—
+
+(a) pay (or make arrangements for the payment of);
+
+(b) make payments towards the provision of;
+
+(c) provide and maintain schemes (whether contributory or not) for the payment of,
+
+such pensions, allowances or gratuities to or in respect of any person who is or has ceased to be an employee of it, as the Committee may determine.
+
+(8) The reference in sub-paragraph (7) to pensions, allowances and gratuities includes pensions, allowances and gratuities paid by way of compensation for loss of office.
+
+### Accounts (prospective)
+
+**8** (1) The Committee must—
+
+(a) keep proper accounts and accounting records;
+
+(b) prepare in respect of each financial year a statement of accounts;
+
+(c) send the statement of accounts to the Scottish Ministers.
+
+(2) The Committee must comply with any directions which the Scottish Ministers gives it in relation to the matters mentioned in sub-paragraph (1).
+
+(3) The Scottish Ministers must, as soon as reasonably practicable after receiving the statement of accounts from the Committee—
+
+(a) send the statement of accounts to the Auditor General for Scotland for auditing;
+
+(b) lay the audited statement before the Scottish Parliament.
+
+(4) The Committee must make its audited statement of accounts and its accounting records available so that they may be inspected by any person.
+
+(5) Those documents are to be made available—
+
+(a) at any reasonable time; and
+
+(b) without charge.
+
+(6) In this paragraph and paragraph 9, “financial year” means—
+
+(a) the period beginning with the day the Committee is established and ending with 31 March in the following calendar year;
+
+(b) each subsequent period of 12 months ending with 31 March.
+
+### Reports (prospective)
+
+**9** (1) As soon as practicable after the end of each financial year, the Committee must prepare a report on—
+
+(a) the discharge of the Committee's functions during that year;
+
+(b) the actions that the Committee proposes to take during the following year in pursuance of its functions.
+
+(2) The Committee must—
+
+(a) send a copy of the report to the Scottish Ministers; and
+
+(b) publish the report.
+
+(3) The Committee must prepare and publish the report in accordance with any directions which the Scottish Ministers may give.
+
+(4) The Scottish Ministers must as soon as reasonably practicable after receiving the report from the Committee, lay a copy of it before the Scottish Parliament.
+
+(5) The Committee may publish such other reports on matters relevant to its functions as it considers appropriate.
+
+### Sub-committees (prospective)
+
+**10** (1) The Committee may establish sub-committees for any purposes relating to its functions.
+
+(2) A sub-committee must comply with any directions given to it by the Committee.
+
+### Proceedings (prospective)
+
+**11** (1) Subject to the remaining provisions of this paragraph, the Committee may regulate—
+
+(a) its own procedure (including any quorum);
+
+(b) the procedure of any sub-committee (including any quorum).
+
+(2) The Chair must, if present, chair meetings of the Committee or any sub-committee of the Committee.
+
+(3) If the Chair is not available to be present at a meeting of the Committee (or any sub-committee of the Committee), the Chair is to appoint another member to chair the meeting.
+
+(4) The Chair has a casting vote and any person appointed by the Chair under sub-paragraph (3) has a casting vote for the purposes of that appointment.
+
+(5) The validity of any proceedings of the Committee (or any of its sub-committees) is not affected by a vacancy in membership nor by any defect in the appointment of a member.
+
+### Delegation of functions (prospective)
+
+**12** (1) The Committee may, subject to sub-paragraph (2), authorise—
+
+(a) any of its members;
+
+(b) any of its sub-committees;
+
+(c) its chief executive;
+
+(d) any other employee,
+
+to exercise such of its functions (and to such extent) as it may determine.
+
+(2) The Committee may not authorise the exercise of the following functions under sub-paragraph (1)—
+
+(a) the approval of annual reports and accounts;
+
+(b) the approval of any budget or other financial plan.
+
+(3) Sub-paragraph (1) does not affect the responsibility of the Committee for the exercise of its functions.
+
+### General powers (prospective)
+
+**13** (1) The Committee may do anything which appears to it—
+
+(a) to be necessary or expedient for the purpose of, or in connection with, the exercise of its functions;
+
+(b) to be conducive to the exercise of its functions.
+
+(2) In particular, the Committee may—
+
+(a) enter into contracts;
+
+(b) with the agreement of the Scottish Ministers, borrow money;
+
+(c) with the agreement of the Scottish Ministers, acquire and dispose of land;
+
+(d) obtain advice and assistance from any person who, in the Committee's opinion, is qualified to give it.
+
+(3) The Committee may pay to any person from whom advice or assistance is obtained such fees, remuneration and allowances as the Committee may, with the agreement of the Scottish Ministers, determine.
+
+## [[^F180]SCHEDULE 1A — FIXED PENALTIES
+
+*(introduced by section 88A(5))*
+
+### Preliminary
+
+**1** In this schedule, unless the context otherwise requires—
+
+- “enforcement authority” means the enforcement authority provided for in the regulations;
+- “notice” means a fixed penalty notice given under section 88A(1);
+- “the offence” means the offence to which the notice relates;
+- “prescribed” means prescribed by the regulations;
+- “the regulations” means regulations under section 88A(3).
+
+### Content of fixed penalty notice
+
+**2** (1) A notice must give reasonable particulars of the circumstances alleged to constitute the offence.
+
+(2) A notice must also contain the following information—
+
+(a) the amount of the fixed penalty;
+
+(b) the payment deadline;
+
+(c) the discounted amount and the discounted payment deadline;
+
+(d) the name of—
+
+(i) the enforcement authority to which payment should be made; or
+
+(ii) a person acting on behalf of the enforcement authority to whom payment should be made;
+
+(e) the address at which payment should be made; and
+
+(f) the method by which payment should be made.
+
+(3) A notice given to a person must state that—
+
+(a) any liability to conviction of the offence is discharged if the person makes payment of—
+
+(i) the fixed penalty before the payment deadline; or
+
+(ii) the discounted amount before the discounted payment deadline;
+
+(b) the payment of a fixed penalty is not a conviction nor may it be recorded as such;
+
+(c) no proceedings may be commenced against the person in respect of the offence unless the payment deadline has passed and the discounted amount or fixed penalty has not been paid;
+
+(d) the person has the right to make representations as mentioned in paragraph 8.
+
+### Period in which notice can be given
+
+**3** A notice may not be given after such time relating to the offence as may be prescribed.
+
+### Amount of penalty
+
+**4** (1) The amount of the fixed penalty, and the discounted amount, are such amounts as may be prescribed.
+
+(2) The maximum amount of the fixed penalty that may be prescribed is an amount equal to level 2 on the standard scale (within the meaning of section 225(1) of the Criminal Procedure (Scotland) Act 1995).
+
+(3) The discounted amount prescribed must be less than the maximum amount of the fixed penalty.
+
+### Deadlines for payment
+
+**5** (1) The payment deadline is the first working day occurring at least 28 days after the day on which the notice is given.
+
+(2) But the enforcement authority may extend the payment deadline in any particular case after the notice is given if it considers it appropriate to do so.
+
+(3) The discounted payment deadline is the first working day occurring at least 14 days after the day on which notice is given.
+
+(4) But the enforcement authority may extend the discounted payment deadline in any particular case after the notice is given if it considers it appropriate to do so.
+
+(5) On extending the payment deadline under sub-paragraph (2), or the discounted payment deadline under sub-paragraph (4), the enforcement authority must notify the recipient of the notice.
+
+(6) In this paragraph, “working day” means any day other than a Saturday, a Sunday, Christmas Day or a day which, under the Banking and Financial Dealings Act 1971, is a bank holiday in Scotland.
+
+### Method of payment
+
+**6** The fixed penalty (and the discounted payment amount) is payable—
+
+(a) to the enforcement authority or the person acting on its behalf specified in the notice;
+
+(b) at the address specified in the notice; and
+
+(c) by the method specified in the notice.
+
+### Restriction on proceedings and effect of payment
+
+**7** (1) The earliest date that proceedings for the offence may be commenced is the day after the payment deadline.
+
+(2) But no such proceedings may be commenced against a person if—
+
+(a) the person makes payment of the discounted amount on or before the discounted payment deadline (or that deadline as extended under paragraph 5(4)); or
+
+(b) the person makes payment of the fixed penalty on or before the payment deadline (or that deadline as extended under paragraph 5(2)).
+
+(3) In proceedings for the offence, a certificate which—
+
+(a) purports to be signed by or on behalf of a person having responsibility for the financial affairs of the enforcement authority; and
+
+(b) states that payment of an amount specified in the certificate was, or was not, received by a date so specified,
+
+is sufficient evidence of the facts stated.
+
+(4) Where the enforcement authority is a local authority, the reference to a person having responsibility for the financial affairs of the enforcement authority in sub-paragraph (3)(a) is to be read as a reference to the person who has, as respects the local authority, the responsibility mentioned in section 95 of the Local Government (Scotland) Act 1973 (financial administration).
+
+### Withdrawal of fixed penalty notice
+
+**8** (1) A recipient of a notice may make representations to the enforcement authority as to why the notice ought not to have been given.
+
+(2) If, having considered any representations under sub-paragraph (1), the enforcement authority considers that the notice ought not to have been given, it may give to the person a notice withdrawing the notice.
+
+(3) Where a notice under sub-paragraph (2) is given—
+
+(a) the enforcement authority must repay any amount which has been paid in pursuance of the fixed penalty notice; and
+
+(b) no proceedings may be commenced against the person for the offence.
+
+### Effect of prosecution on fixed penalty notice
+
+**9** Where proceedings for an offence in respect of which a notice has been given are commenced, the notice is to be treated as withdrawn.
+
+### General and supplemental
+
+**10** The regulations may make provision about—
+
+(a) the application by enforcement authorities of payments received under this schedule;
+
+(b) the keeping of accounts, and the preparation and publication of statements of account, in relation to such payments.
+
+**11** (1) The regulations may prescribe—
+
+(a) the form of notices including notices under paragraph 8(2);
+
+(b) the circumstances in which notices may not be given; and
+
+(c) the method by which fixed penalties may be paid.
+
+(2) The regulations may modify sub-paragraphs (1) and (3) of paragraph 5 so as to substitute a different deadline for the deadline for the time being specified there.
+
+**12** The enforcement authority must have regard to any guidance given by the Scottish Ministers to it in relation to the functions conferred on it by the regulations.]
+
+## SCHEDULE 2 — Minor and consequential modifications
+
+*(introduced by section 99)*
+
+### Hill Farming Act 1946 (c. 73)
+
+**1** In section 23(1) of the Hill Farming Act 1946 (prohibition of muirburn at certain times), after “section” insert “ and to section 23A, ”.
+
+### Environment Act 1995 (c. 25)
+
+**2** In section 41(1) of the Environment Act 1995 (power to make schemes imposing charges), after paragraph (e), insert—
+
+> (f) as a means of recovering costs incurred by it in performing functions conferred by regulations under section 79 of the Climate Change (Scotland) Act 2009 (asp 12), SEPA may require the payment to it of such charges as may from time to time be prescribed;
+
+.
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7) (prospective)
+
+**3** In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies) at the appropriate place, insert— “ The Scottish Committee on Climate Change ”.
+
+### Scottish Public Services Ombudsman Act 2002 (asp 11) (prospective)
+
+**4** In the Scottish Public Services Ombudsman Act 2002, in Part 2 of schedule 2 (listed authorities) at the appropriate place, insert— “ The Scottish Committee on Climate Change ”.
+
+### Freedom of Information (Scotland) Act 2002 (asp 13) (prospective)
+
+**5** In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (Scottish public authorities) at the appropriate place, insert—
+
+> The Scottish Committee on Climate Change
+
+.
+
+### Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4) (prospective)
+
+**6** In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (specified authorities) at the appropriate place in the list of advisory bodies, insert— “ The Scottish Committee on Climate Change ”.
+
+### Housing (Scotland) Act 2006 (asp 1)
+
+**7** In the Housing (Scotland) Act 2006, section 179 (duty of Scottish Ministers to prepare strategy for improving energy efficiency of living accommodation) is repealed.
+
+---
+
+[^F1]: S. A1 and cross-heading inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 1, 32(2); S.S.I. 2020/66, reg. 2
+[^F2]: Ss. A2-A5 and cross-heading inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 1(2), 15
+[^F3]: Words in s. A2(5) substituted (10.10.2025) by The Climate Change (Scotland) Act 2009 (Scottish Carbon Budgets) Amendment Regulations 2025 (S.S.I. 2025/281), regs. 1, 2(2)
+[^F4]: S. A2A inserted (10.10.2025) by The Climate Change (Scotland) Act 2009 (Scottish Carbon Budgets) Amendment Regulations 2025 (S.S.I. 2025/281), regs. 1, 2(3)
+[^F5]: S. 1 and cross-heading repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 2, 32(2); S.S.I. 2020/66, reg. 2
+[^F6]: S. 2 and cross-heading repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(2), 15
+[^F7]: S. 2A repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(3), 15
+[^F8]: S. 2B and cross-heading inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 5, 32(2); S.S.I. 2020/66, reg. 2
+[^F9]: S. 2C and cross-heading inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 6, 32(2); S.S.I. 2020/66, reg. 2
+[^F10]: S. 2C(3)(ab) substituted for s. 2C(3)(b) (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(4)(a)(i), 15
+[^F11]: Words in s. 2C(3)(d) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(4)(a)(ii), 15
+[^F12]: S. 2C(4)(ab) substituted for s. 3C(4)(a)(b) (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(4)(b), 15
+[^F13]: S. 2D inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 7, 32(2); S.S.I. 2020/66, reg. 2
+[^F14]: S. 2E inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 8, 32(2); S.S.I. 2020/66, reg. 2
+[^F15]: S. 2E(3A)(3B) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(5)(a), 15
+[^F16]: S. 2E(4) repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(5)(b), 15
+[^F17]: S. 2E(5) repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(5)(b), 15
+[^F18]: S. 3 and cross-heading repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(6), 15
+[^F19]: S. 3A repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(7), 15
+[^F20]: S. 3B repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(8), 15
+[^F21]: S. 3C and cross-heading inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 13, 32(2); S.S.I. 2020/66, reg. 2
+[^F22]: S. 3C(1)(ab) substituted for s. 3C(1)(b)(c) (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(9)(a), 15
+[^F23]: S. 3C(3) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(9)(b), 15
+[^F24]: Ss. 4-8 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 2; S.S.I. 2020/66, reg. 2
+[^F25]: S. 8A and cross-heading inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 17, 32(2); S.S.I. 2020/66, reg. 2
+[^F26]: Word in s. 8A(1) substituted (27.5.2020) by Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 3 para. 1(2) (with s. 9)
+[^F27]: Words in s. 9(1) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(a)(i); S.S.I. 2020/66, reg. 2
+[^F28]: Words in s. 9(1)(a) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(a)(ii); S.S.I. 2020/66, reg. 2
+[^F29]: S. 9(1)(a)(i)-(iii) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(a)(iii); S.S.I. 2020/66, reg. 2
+[^F30]: Words in s. 9(1)(b) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(a)(iv); S.S.I. 2020/66, reg. 2
+[^F31]: Words in s. 9(1)(c) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(a)(v); S.S.I. 2020/66, reg. 2
+[^F32]: S. 9(1)(d) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 24(2), 32(2); S.S.I. 2020/66, reg. 2
+[^F33]: Words in s. 9(2) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(b)(i); S.S.I. 2020/66, reg. 2
+[^F34]: Words in s. 9(2)(a) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(b)(ii); S.S.I. 2020/66, reg. 2
+[^F35]: S. 9(2)(b) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(b)(iii); S.S.I. 2020/66, reg. 2
+[^F36]: Words in s. 9(2)(d) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 3(b)(iv); S.S.I. 2020/66, reg. 2
+[^F37]: Words in s. 9(2)(d) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(10), 15
+[^F38]: S. 10(1)(g) inserted (16.5.2015) by The Climate Change (Additional Greenhouse Gas) (Scotland) Order 2015 (S.S.I. 2015/197), arts. 1, 2
+[^F39]: S. 11(2)(f) inserted (16.5.2015) by The Climate Change (Additional Greenhouse Gas) (Scotland) Order 2015 (S.S.I. 2015/197), arts. 1, 3
+[^F40]: S. 13(2)-(4) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 14(1)(a), 32(2) (with s. 14(3)(4)); S.S.I. 2020/66, reg. 2
+[^F41]: Words in s. 13(5)(a) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 14(1)(b)(i), 32(2) (with s. 14(3)(4)); S.S.I. 2020/66, reg. 2
+[^F42]: Words in s. 13(5)(b) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 14(1)(b)(ii), 32(2) (with s. 14(3)(4)); S.S.I. 2020/66, reg. 2
+[^F43]: S. 13(5A) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 14(1)(c), 32(2) (with s. 14(3)(4)); S.S.I. 2020/66, reg. 2
+[^F44]: S. 13A inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 15(1), 32(2); S.S.I. 2020/66, reg. 2
+[^F45]: Words in s. 13A(1) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(a), 15
+[^F46]: Word in s. 13A(2) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(b)(i), 15
+[^F47]: Words in s. 13A(2) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(b)(ii), 15
+[^F48]: S. 13A(2A)-(2C) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(c), 15
+[^F49]: Words in s. 13A(3) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(d)(i), 15
+[^F50]: Word in s. 13A(3)(a) repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(d)(ii), 15
+[^F51]: S. 13A(3A) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(e), 15
+[^F52]: Words in s. 13A(4) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(11)(f), 15
+[^F53]: S. 14 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 4; S.S.I. 2020/66, reg. 2
+[^F54]: S. 17(3) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 16(1), 32(2); S.S.I. 2020/66, reg. 2
+[^F55]: Words in s. 17(3) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(12), 15
+[^F56]: S. 18(2) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 16(2), 32(2); S.S.I. 2020/66, reg. 2
+[^F57]: Words in s. 18(2) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(13), 15
+[^F58]: S. 19 renumbered as s. 19(1) (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 16(3)(a), 32(2); S.S.I. 2020/66, reg. 2
+[^F59]: S. 19(2) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 16(3)(b), 32(2); S.S.I. 2020/66, reg. 2
+[^F60]: S. 20A inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 5; S.S.I. 2020/66, reg. 2
+[^F61]: S. 21 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 4; S.S.I. 2020/66, reg. 2
+[^F62]: S. 22 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 4; S.S.I. 2020/66, reg. 2
+[^F63]: S. 23 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 4; S.S.I. 2020/66, reg. 2
+[^F64]: Word in s. 24(3)(a) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(14), 15
+[^F65]: Words in s. 24(3)(a) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 6(a); S.S.I. 2020/66, reg. 2
+[^F66]: Word in s. 24(3)(b) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 6(b); S.S.I. 2020/66, reg. 2
+[^F67]: S. 26 title substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 8; S.S.I. 2020/66, reg. 2
+[^F68]: Word in s. 26(1) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 7(a); S.S.I. 2020/66, reg. 2
+[^F69]: S. 26(2)(a) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 7(b); S.S.I. 2020/66, reg. 2
+[^F70]: Ss. 27-29 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 9; S.S.I. 2020/66, reg. 2
+[^F71]: Pt. 2A inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 9, 32(2); S.S.I. 2020/66, reg. 2
+[^F72]: Words in s. 32A(10)(a) inserted (27.5.2020) by Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 3 para. 1(3)(a) (with s. 9)
+[^F73]: Words in s. 32A(10)(b) substituted (27.5.2020) by Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 3 para. 1(3)(b) (with s. 9)
+[^F74]: S. 32A(11) inserted (27.5.2020) by Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 3 para. 1(3)(c) (with s. 9)
+[^F75]: Pt. 3 title substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 12; S.S.I. 2020/66, reg. 2
+[^F76]: S. 33 and cross-heading substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 18, 32(2) (with s. 11); S.S.I. 2020/66, reg. 2
+[^F77]: S. 33(1)-(2A) substituted for s. 33(1)(2) (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(15)(a), 15
+[^F78]: S. 33(2ZA) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 12(2), 15
+[^F79]: Words in s. 33(3) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(15)(b), 15
+[^F80]: S. 34 substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 19, 32(2); S.S.I. 2020/66, reg. 2
+[^F81]: Word in s. 34(1)(a)(ii) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(A), 15
+[^F82]: Word in s. 34(1)(a)(iii) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(A), 15
+[^F83]: Word in s. 34(1)(a)(iv) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(A), 15
+[^F84]: Word in s. 34(1)(b)(i) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(B), 15
+[^F85]: Word in s. 34(1)(b)(ii) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(B), 15
+[^F86]: Word in s. 34(1)(b)(iii) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(B), 15
+[^F87]: Word in s. 34(1)(b)(iv) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(B), 15
+[^F88]: Word in s. 34(1)(c)(i) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(C), 15
+[^F89]: Word in s. 34(1)(c)(ii) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(i)(C), 15
+[^F90]: Word in s. 34(1)(c)(iii) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(ii)(A), 15
+[^F91]: Word in s. 34(1)(c)(iii) repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(ii)(B), 15
+[^F92]: Words in s. 34(1)(d) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(iii), 15
+[^F93]: Word in s. 34(1)(e) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(a)(iv), 15
+[^F94]: Words in s. 34(3) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(16)(b), 15
+[^F95]: S. 34A inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(17), 15
+[^F96]: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 24(1), 32(2); S.S.I. 2020/66, reg. 2
+[^F97]: S. 35(1)(a) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 3(3), 15
+[^F98]: Word in s. 35(4)(b) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(18), 15
+[^F99]: Words in s. 35(5) repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 5(2)(a), 15
+[^F100]: Words in s. 35(5) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 5(2)(b), 15
+[^F101]: Words in s. 35(5) renumbered as s. 35(5)(a) (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 5(2)(c), 15
+[^F102]: S. 35(5)(b) and word inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 5(2)(d), 15
+[^F103]: S. 35(20A) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 12(3), 15
+[^F104]: Words in s. 35(21) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 4(2), 15
+[^F105]: S. 35ZA inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 6(2), 15
+[^F106]: Word in s. 35A(1) repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 7(2)(a), 15
+[^F107]: S. 35A(1)(aa) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 7(2)(b), 15
+[^F108]: S. 35A(1)(b)(iia) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 7(2)(c), 15
+[^F109]: S. 35A(1A)(1B) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 8(2), 15
+[^F110]: S. 35B(2A) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 9(2), 15
+[^F111]: S. 36 title substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(19), 15
+[^F112]: S. 36(1) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 20(2), 32(2); S.S.I. 2020/66, reg. 2
+[^F113]: Words in s. 36(2) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 10(2), 15
+[^F114]: S. 37 cross-heading inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 10; S.S.I. 2020/66, reg. 2
+[^F115]: Words in s. 37(2) renumbered as s. 37(2)(a) (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 21(a)(i), 32(2); S.S.I. 2020/66, reg. 2
+[^F116]: S. 37(2)(b) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 21(a)(ii), 32(2); S.S.I. 2020/66, reg. 2
+[^F117]: S. 37(4) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 21(b), 32(2); S.S.I. 2020/66, reg. 2
+[^F118]: S. 37A inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 22, 32(2); S.S.I. 2020/66, reg. 2
+[^F119]: Ss. 38-41 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 11; S.S.I. 2020/66, reg. 2
+[^F120]: S. 42(1A) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(20)(a), 15
+[^F121]: Words in s. 42(2)(a) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 23(3)(a), 32(2); S.S.I. 2020/66, reg. 2
+[^F122]: S. 42(2)(ab) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(20)(b), 15
+[^F123]: S. 42(2)(aa) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 11(2), 15
+[^F124]: S. 42(2)(c)(d) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 23(3)(b), 32(2); S.S.I. 2020/66, reg. 2
+[^F125]: Words in s. 42(3) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 23(4), 32(2); S.S.I. 2020/66, reg. 2
+[^F126]: Words in s. 42(3) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(20)(c), 15
+[^F127]: S. 53(2A) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 25, 32(2); S.S.I. 2020/66, reg. 2
+[^F128]: Words in s. 57(3)(a) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(21), 15
+[^F129]: S. 59 repealed (1.4.2019) by Forestry and Land Management (Scotland) Act 2018 (asp 8), s. 85(2), sch. 2 (with s. 83); S.S.I. 2019/47, reg. 2 (with regs. 3-22)
+[^F130]: S. 72 repealed (1.11.2025) by The Climate Change (Local Development Plan) (Repeals) (Scotland) Order 2025 (S.S.I. 2025/283), arts. 1, 2
+[^F131]: S. 73 repealed (1.11.2025) by The Climate Change (Local Development Plan) (Repeals) (Scotland) Order 2025 (S.S.I. 2025/283), arts. 1, 2
+[^F132]: S. 78A and cross-heading inserted (1.8.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 9(2), 27(2); S.S.I. 2025/170, reg. 2, sch.
+[^F133]: S. 82A inserted (18.4.2016) by Procurement Reform (Scotland) Act 2014 (asp 12), ss. 36, 45; S.S.I. 2016/30, art. 3 (with art. 5)
+[^F134]: Words in s. 83(4) substituted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(2), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F135]: S. 84(8) inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(3), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F136]: S. 85(4) substituted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 25(2), 27(2); S.S.I. 2025/10, reg. 3(f)
+[^F137]: S. 87A and cross-heading inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(4), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F138]: S. 88 cross-heading omitted (1.4.2025) by virtue of Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(5), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F139]: S. 88A cross-heading omitted (1.4.2025) by virtue of Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(6), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F140]: S. 88A and cross-heading inserted (30.6.2014) by Regulatory Reform (Scotland) Act 2014 (asp 3), ss. 43(2), 61(2); S.S.I. 2014/160, art. 2(1)(2), Sch.
+[^F141]: S. 88A heading substituted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(7)(b), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F142]: Words in s. 88A(2) inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(7)(a), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F143]: Words in s. 92(1) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 26, 32(2); S.S.I. 2020/66, reg. 2
+[^F144]: S. 94A inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 27, 32(2); S.S.I. 2020/66, reg. 2
+[^F145]: Word in s. 96(6)(a) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 13; S.S.I. 2020/66, reg. 2
+[^F146]: S. 96(7)(a) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 14(2), 32(2); S.S.I. 2020/66, reg. 2
+[^F147]: S. 96(7)(aa) inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 15(2), 32(2); S.S.I. 2020/66, reg. 2
+[^F148]: Word in s. 96(7)(aa) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(22), 15
+[^F149]: S. 97(1)(za) inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 1(3), 15
+[^F150]: Words in s. 97(1) renumbered as s. 97(1)(a) (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 15(3)(a)(i), 32(2); S.S.I. 2020/66, reg. 2
+[^F151]: S. 97(1)(b) and word inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 15(3)(a)(ii), 32(2); S.S.I. 2020/66, reg. 2
+[^F152]: Word in s. 97(1) repealed (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(8)(a), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F153]: Word in s. 97(1)(b) substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(23), 15
+[^F154]: S. 97(1)(c) inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(8)(b), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F155]: Word in s. 97(2) repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 15(3)(b)(i), 32(2); S.S.I. 2020/66, reg. 2
+[^F156]: S. 97(2)(c) and word inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 15(3)(b)(ii), 32(2); S.S.I. 2020/66, reg. 2
+[^F157]: S. 97(7)(c) and word inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 15(3)(c), 32(2); S.S.I. 2020/66, reg. 2
+[^F158]: Words in s. 98 repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(24)(a), 15
+[^F159]: Words in s. 98 inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(3), 32(2); S.S.I. 2020/66, reg. 2
+[^F160]: Words in s. 98 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 14(a); S.S.I. 2020/66, reg. 2
+[^F161]: Words in s. 98 inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(4), 32(2); S.S.I. 2020/66, reg. 2
+[^F162]: Words in s. 98 substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(24)(b), 15
+[^F163]: Words in s. 98 inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(5), 32(2); S.S.I. 2020/66, reg. 2
+[^F164]: Words in s. 98 repealed (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(24)(c), 15
+[^F165]: Word in s. 98 substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(6), 32(2); S.S.I. 2020/66, reg. 2
+[^F166]: Words in s. 98 inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(7), 32(2); S.S.I. 2020/66, reg. 2
+[^F167]: Words in s. 98 substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 14(c)(i); S.S.I. 2020/66, reg. 2
+[^F168]: Words in s. 98 inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(8), 32(2); S.S.I. 2020/66, reg. 2
+[^F169]: Words in s. 98 repealed (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), ss. 10(9), 27(2); S.S.I. 2025/10, reg. 3(a)
+[^F170]: Word in s. 98 substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 14(c)(ii); S.S.I. 2020/66, reg. 2
+[^F171]: Words in s. 98 inserted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(24)(d), 15
+[^F172]: Words in s. 98 substituted (23.11.2024) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15), ss. 2(24)(e), 15
+[^F173]: Words in s. 98 inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(10), 32(2); S.S.I. 2020/66, reg. 2
+[^F174]: Word in s. 98 substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 14(c)(iii); S.S.I. 2020/66, reg. 2
+[^F175]: Words in s. 98 repealed (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 14(b); S.S.I. 2020/66, reg. 2
+[^F176]: Word in s. 98 substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 14(c)(iv); S.S.I. 2020/66, reg. 2
+[^F177]: Words in s. 98 inserted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), ss. 28(11), 32(2); S.S.I. 2020/66, reg. 2
+[^F178]: Word in s. 100(2) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 15(a); S.S.I. 2020/66, reg. 2
+[^F179]: Word in s. 100(3) substituted (23.3.2020) by Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15), s. 32(2), sch. para. 15(b); S.S.I. 2020/66, reg. 2
+[^F180]: Sch. 1A inserted (30.6.2014) by Regulatory Reform (Scotland) Act 2014 (asp 3), ss. 43(3), 61(2); S.S.I. 2014/160, art. 2(1)(2), Sch.

@@ -1,0 +1,4101 @@
+---
+title: "Housing (Scotland) Act 2010"
+identifier: "asp/2010/17"
+citation: "2010 asp 17"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2010-12-09
+last_amended: 2026-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2010/17"
+source_modified: 2026-05-06
+retrieved: 2026-10-11
+---
+
+# Housing (Scotland) Act 2010
+
+**2010 asp 17**
+
+An Act of the Scottish Parliament to establish the Scottish Housing Regulator and to make provision about housing, including provision about the performance and regulation of social landlords and reforms of the right to buy social housing; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 3rd November 2010 and received Royal Assent on 9th December 2010
+
+## Part 1 — The Scottish Housing Regulator
+
+### The Regulator
+
+#### 1 The Scottish Housing Regulator
+
+There is established a body corporate to be known as the Scottish Housing Regulator.
+
+#### 2 The Regulator's objective
+
+(1) The Regulator's objective is to safeguard and promote the interests of persons who are or who may become—
+
+(a) homeless,
+
+(b) tenants of social landlords, or
+
+(c) recipients of housing services provided by social landlords.
+
+(2) The Regulator must, so far as is reasonably practicable, perform its functions in a way—
+
+(a) which is compatible with its objective, and
+
+(b) which it considers most appropriate for the purpose of meeting that objective.
+
+#### 3 The Regulator's functions
+
+(1) The Regulator's general functions are—
+
+(a) to keep a publicly available register of social landlords, and
+
+(b) to monitor, assess and report regularly on (and, where appropriate, to make regulatory interventions relating to)—
+
+(i) social landlords' performance of housing activities, and
+
+(ii) registered social landlords' financial well-being and standards of governance.
+
+(2) The Regulator must perform its functions in a way which—
+
+(a) is proportionate, accountable and transparent,
+
+(b) is targeted only where action is needed,
+
+(c) encourages equal opportunities and in particular the observance of the requirements of the law for the time being relating to equal opportunities, and
+
+(d) is consistent with any other principle which appears to it to represent best regulatory practice.
+
+#### 4 Statement on performance of functions
+
+(1) The Regulator—
+
+(a) must prepare a statement setting out how it intends to perform its functions,
+
+(b) must review that statement from time to time (and may revise it following such a review), and
+
+(c) must publish that statement (and any revision).
+
+(2) The statement must include information on how the Regulator intends—
+
+(a) to meet its objective, and
+
+(b) to perform its functions in the way described in section 3(2).
+
+(3) In preparing the statement the Regulator must take into account the different types of social landlord, for example by taking into account—
+
+(a) legal status and governance arrangements,
+
+(b) property owned or managed,
+
+(c) annual turnover,
+
+(d) number of employees.
+
+(4) Before preparing the statement (and when reviewing it), the Regulator must—
+
+(a) have regard to the interests of persons who may become—
+
+(i) homeless, or
+
+(ii) tenants of social landlords, and
+
+(b) consult—
+
+(i) Ministers,
+
+(ii) tenants of social landlords or their representatives,
+
+(iii) homeless persons or bodies representing the interests of homeless persons,
+
+(iv) recipients of housing services provided by social landlords or their representatives,
+
+(v) social landlords or their representatives,
+
+(vi) secured creditors of registered social landlords or their representatives, and
+
+(vii) the Accounts Commission for Scotland.
+
+#### 5 Involvement of representative bodies
+
+(1) Where the Regulator considers it appropriate, it must—
+
+(a) consult representative bodies about the performance of its general functions (for example, by holding meetings), and
+
+(b) involve representative bodies in the performance of its general functions (for example, by appointing them to committees).
+
+(2) The representative bodies referred to in subsection (1) are—
+
+(a) representatives of homeless persons,
+
+(b) representatives of tenants of social landlords, and
+
+(c) representatives of recipients of housing services.
+
+(3) The Regulator must publish a statement about how it intends to comply with subsection (1).
+
+#### 6 Involvement of the Accounts Commission
+
+(1) The Regulator must, at such intervals and in such manner as it considers appropriate, consult the Accounts Commission for Scotland about the performance of the Regulator's general functions in relation to local authority landlords.
+
+(2) The Regulator must publish a statement about how it intends to comply with subsection (1).
+
+#### 7 Independence from Ministers
+
+Ministers must not—
+
+(a) give directions relating to, or
+
+(b) otherwise seek to control,
+
+the performance of the Regulator's functions.
+
+This section is subject to any contrary provision in this or any other enactment.
+
+### Membership
+
+#### 8 The Regulator's membership
+
+(1) The Regulator is to consist of such number of members (but not fewer than 3) as Ministers think fit.
+
+(2) Each member—
+
+(a) is to be appointed by Ministers from among those persons appearing to them to have knowledge and skills relevant to the functions of the Regulator,
+
+(b) is to be appointed for such period as is specified in the appointment,
+
+(c) may, by notice to Ministers, resign as a member,
+
+(d) in other respects holds and vacates office on such terms and conditions as Ministers may determine, and
+
+(e) after ceasing to hold office, may be reappointed as a member.
+
+#### 9 Disqualification and removal from office
+
+(1) A person is disqualified from appointment, and from holding office, as a member of the Regulator if that person is—
+
+(a) a member of the Scottish Parliament,
+
+(b) a member of the House of Commons,
+
+(c) a member of the European Parliament,
+
+(d) an office-holder in the Scottish Administration,
+
+(e) a councillor of any local authority,
+
+(f) an officer of any registered social landlord (other than by virtue of this Act),
+
+(g) an employee of any local authority, or
+
+(h) an employee of any registered social landlord.
+
+(2) Ministers may remove a member from office if satisfied that—
+
+(a) the member is an undischarged bankrupt, or
+
+(b) the member—
+
+(i) has been absent from meetings of the Regulator for a period longer than 6 consecutive months without the permission of the Regulator, or
+
+(ii) is unable to discharge the member's functions as a member or is unsuitable to continue as a member.
+
+#### 10 Members' expenses
+
+The Regulator may pay to its members such sums as it may determine by way of reimbursement of expenses incurred in respect of the performance of their functions.
+
+### Chairing and proceedings
+
+#### 11 Chairing
+
+(1) Ministers—
+
+(a) must appoint one of the Regulator's members to chair meetings of the Regulator, and
+
+(b) may appoint another of the Regulator's members to act as deputy to that member.
+
+(2) A member so appointed vacates office on ceasing to be a member of the Regulator.
+
+(3) The member appointed to chair the meetings and any member appointed to act as deputy to that member otherwise hold and vacate office as such in accordance with the terms of their appointments.
+
+(4) A member so appointed may, by notice to Ministers, resign from office as such.
+
+(5) Where a member—
+
+(a) is appointed to chair meetings or to act as deputy, or
+
+(b) ceases to hold office as such,
+
+Ministers may vary the terms of the member's appointment so as to alter the date on which office as a member is to be vacated.
+
+#### 12 The Regulator's proceedings
+
+(1) The Regulator may regulate its own procedure (including any quorum) and that of any of its committees.
+
+(2) The validity of any proceedings or acts of the Regulator is not affected by any—
+
+(a) vacancy in its membership, or
+
+(b) defect in the appointment of a member.
+
+### Staff and property
+
+#### 13 The Regulator's chief executive
+
+(1) The Regulator is to appoint, as a member of staff, a chief executive.
+
+(2) Ministers are to appoint the first chief executive of the Regulator on such terms as they may determine.
+
+(3) Before appointing the first chief executive, Ministers must consult the member of the Regulator appointed to chair meetings of the Regulator (if a person holds that office).
+
+(4) The Regulator may, with the approval of Ministers, appoint subsequent chief executives on such terms as it may, with the approval of Ministers, determine.
+
+(5) The chief executive is to be appointed from among persons who appear—
+
+(a) as regards the first appointment, to Ministers, and
+
+(b) as regards subsequent appointments, to the Regulator,
+
+to have knowledge and skills relevant to the functions of the Regulator.
+
+(6) The Regulator may, with the approval of Ministers—
+
+(a) vary any terms of a person's appointment as chief executive, or
+
+(b) terminate a person's appointment as chief executive if satisfied that the person is not performing the functions of that post adequately.
+
+#### 14 The Regulator's other staff and property
+
+(1) The Regulator may appoint, on such terms as it may determine, other members of staff.
+
+(2) The Regulator must obtain the approval of Ministers for the terms of such staff.
+
+(3) Schedule 1 makes transitional provisions about the Regulator's staff and property.
+
+### Powers
+
+#### 15 The Regulator's general powers
+
+(1) The Regulator may do anything which appears necessary or expedient for the purpose of, or in connection with, the performance of its functions.
+
+(2) The Regulator may not however—
+
+(a) acquire or dispose of land without the consent of Ministers,
+
+(b) borrow money,
+
+(c) give guarantees without the consent of Ministers, or
+
+(d) determine the location of its office premises without the approval of Ministers.
+
+#### 16 Delegation of powers
+
+Any function of the Regulator may be performed on its behalf—
+
+(a) by any person (whether or not a member of the Regulator or its staff) authorised by the Regulator to do so, and
+
+(b) to the extent so authorised.
+
+This section does not affect the Regulator's responsibility for performance of, or its ability to perform, delegated functions.
+
+### Studies, co-operation and annual reports
+
+#### 17 Studies
+
+(1) The Regulator may carry out, or commission, studies or research to inform its approach towards meeting its objective.
+
+(2) The Regulator may publish a report on any study or research.
+
+#### 18 Co-operation with other regulators
+
+(1) The Regulator must, so far as consistent with the proper performance of its functions, seek to secure co-operation between it and other relevant regulators.
+
+(2) “Relevant regulators” are—
+
+(a) [[^F1]the Regulator of Social Housing],
+
+(b) the Office of the Scottish Charity Regulator,
+
+(c) Healthcare Improvement Scotland,
+
+(d) Social Care and Social Work Improvement Scotland,
+
+(e) the Scottish Public Services Ombudsman,
+
+[[^F2](f) the Financial Conduct Authority,
+
+(fa) the Prudential Regulation Authority,]
+
+(g) the registrar of companies, and
+
+(h) the Accounts Commission for Scotland.
+
+(3) The Regulator may disclose any information to any relevant regulator—
+
+(a) for any purpose connected with the performance of the Regulator's functions, or
+
+(b) for the purpose of enabling or assisting the relevant regulator to perform any functions.
+
+#### 19 Annual reports
+
+(1) As soon as practicable after 31 March in each year, the Regulator must—
+
+(a) prepare and publish a general report on the exercise of its functions during the 12 month period ending on 31 March,
+
+(b) lay a copy of it before the Scottish Parliament, and
+
+(c) send a copy of it to Ministers.
+
+(2) A general report must include information about the use of the Regulator's powers under Parts 4 and 5 of this Act.
+
+(3) It is otherwise for the Regulator to determine the form and content of a general report and by what means it is to be published.
+
+## Part 2 — Registered social landlords
+
+### The register
+
+#### 20 Registered social landlords
+
+(1) The Regulator must keep a register of social landlords (“the register”).
+
+(2) Neither local authority landlords nor local authorities which provide housing services are to be included in the register.
+
+(3) The Regulator must—
+
+(a) keep the register open for inspection at all reasonable times, and
+
+(b) make the register available on a website, or by other electronic means, to members of the public.
+
+(4) The register must contain an entry for each body included in it setting out—
+
+(a) the body's name,
+
+(b) details of how to contact the body,
+
+(c) the body's legal status,
+
+(d) the body's purposes or objects, and
+
+(e) such other information relating to the body as the Regulator considers appropriate.
+
+#### 21 Population of the register
+
+(1) Each body which was, immediately before the commencement of this section, registered in the register maintained by Ministers under section 57 of the Housing (Scotland) Act 2001 (asp 10) is to be included in the register.
+
+(2) Subsection (1) does not affect the Regulator's power to remove the body from the register under section 27 or 28.
+
+#### 22 Application
+
+An application for inclusion in the register must—
+
+(a) be made in such manner as the Regulator may determine, and
+
+(b) include or be accompanied by such information as the Regulator may request.
+
+#### 23 Entry in the register
+
+(1) The Regulator must include every applicant body which it considers meets the registration criteria in the register.
+
+(2) The “registration criteria” are—
+
+(a) the legislative registration criteria, and
+
+(b) the regulatory registration criteria.
+
+(3) A body entered in the register is presumed to be eligible for registration while the registration lasts, irrespective of whether and why the body is later removed from the register.
+
+### Registration criteria
+
+#### 24 Legislative registration criteria
+
+(1) The “legislative registration criteria” are—
+
+(a) that a body does not trade for profit,
+
+(b) that a body is established for the purpose of, or has among its objects and powers, the provision, construction, improvement or management of—
+
+(i) houses to be kept available for letting,
+
+(ii) houses for occupation by members of that body, where the rules of that body restrict membership to persons entitled or prospectively entitled (as tenants or otherwise) to occupy a house provided or managed by that body, or
+
+(iii) hostels,
+
+(c) that a body carries out, or intends to carry out, those purposes, objects or powers in Scotland, and
+
+(d) that any additional purposes or objects of a body must be from among the following—
+
+(i) providing land, amenities or services, or providing, constructing, repairing or improving buildings, for its residents (or for its residents and other persons together),
+
+(ii) acquiring, or repairing and improving, or creating by the conversion of houses or other property, houses to be disposed of on sale, on lease, on shared ownership terms or on shared equity terms,
+
+(iii) constructing houses to be disposed of on shared ownership terms or on shared equity terms,
+
+(iv) managing—
+
+(A) houses which are held on leases or other lettings (not being houses falling within subsection (1)(b)(i) or (1)(b)(ii)), or
+
+(B) blocks of flats (a block of flats meaning a building containing two or more flats which are held on leases or other lettings and which are occupied or intended to be occupied wholly or mainly for residential purposes),
+
+(v) providing services of any description for owners or occupiers of houses in—
+
+(A) arranging or carrying out works of maintenance, repair or improvement, or encouraging or facilitating the carrying out of such works,
+
+(B) arranging property insurance,
+
+(vi) encouraging and giving advice on the formation of registered social landlords,
+
+(vii) providing services for, and giving advice on the running of—
+
+(A) registered social landlords, and
+
+(B) other organisations whose activities are not carried on for profit which are concerned with housing or matters connected with housing,
+
+(viii) promoting or improving the economic, social or environmental wellbeing of—
+
+(A) its residents (or its residents and other persons together), or
+
+(B) the area in which the houses or hostels it provides are situated,
+
+(ix) giving financial assistance (by way of grant or loan or otherwise) to persons in order to help them to acquire houses on shared equity terms.
+
+(2) But a body is not ineligible for registration by reason only that its powers include power—
+
+(a) to acquire commercial premises or businesses as an incidental part of a project or series of projects undertaken for purposes or objects falling within subsection (1)(b) or (1)(d),
+
+(b) to repair, improve or convert any commercial premises acquired as mentioned in paragraph (a) or to carry on for a limited period any business so acquired, or
+
+(c) to repair or improve houses, or buildings in which houses are situated, after the tenants have exercised, or claimed to exercise, rights to purchase under section 61 of the Housing (Scotland) Act 1987 (c.26).
+
+(3) Ministers may by order—
+
+(a) amend the purposes, objects and powers specified in subsections (1)(d) and (2),
+
+(b) make such provision (including provision amending or otherwise modifying any provision of this Act) which Ministers consider appropriate for the purpose of applying any provision of this Act to, or adapting it for, bodies constituted otherwise than as a registered society or registered company.
+
+(4) Before making any order under this section, Ministers must––
+
+(a) have regard to the interests of persons who may become—
+
+(i) homeless, or
+
+(ii) tenants of social landlords, and
+
+(b) consult—
+
+(i) the Regulator,
+
+(ii) tenants of social landlords or their representatives,
+
+(iii) social landlords or their representatives, and
+
+(iv) secured creditors of registered social landlords or their representatives.
+
+(5) Any order which restricts or limits purposes or objects in subsection (1)(d) has no effect in relation to a body registered as a social landlord when the order was made.
+
+(6) In this section—
+
+- “letting” includes the grant of a right or permission to occupy,
+- “residents”, in relation to a body, means persons occupying the houses or hostels provided or managed by the body.
+
+#### 25 Regulatory registration criteria
+
+(1) The “regulatory registration criteria” are such criteria as the Regulator may set about—
+
+(a) a body's financial situation,
+
+(b) the arrangements for a body's governance and financial management,
+
+(c) the manner in which a body provides housing services,
+
+and different criteria may be set for different types of bodies or cases.
+
+(2) Before setting, revising or withdrawing any criteria, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of social landlords or their representatives,
+
+(c) social landlords or their representatives, and
+
+(d) secured creditors of registered social landlords or their representatives.
+
+(3) The Regulator must make arrangements for bringing the regulatory registration criteria (and any revision or withdrawal) to the attention of those affected by it.
+
+#### 26 Guidance on registration criteria
+
+(1) The Regulator must issue guidance as to how it will assess whether a body meets the registration criteria.
+
+(2) Before issuing or revising guidance, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of registered social landlords or their representatives,
+
+(c) registered social landlords or their representatives, and
+
+(d) secured creditors of registered social landlords or their representatives.
+
+(3) The Regulator must make arrangements for bringing any issue or revision of guidance to the attention of those affected by it.
+
+### Removal from register
+
+#### 27 Compulsory de-registration
+
+(1) The Regulator may remove a body from the register under this section only if it considers that the body—
+
+(a) no longer meets (or has never met) the registration criteria,
+
+(b) has ceased to carry out activities, or
+
+(c) has ceased to exist.
+
+(2) In determining whether to remove a body from the register, the Regulator may require the body to provide information demonstrating that it meets any of the registration criteria.
+
+(3) Before removing a body from the register the Regulator must—
+
+(a) take all reasonable steps to give the body at least 14 days' notice, and
+
+(b) have regard to any views expressed by the body in that period.
+
+#### 28 Voluntary de-registration
+
+(1) The Regulator must set de-registration criteria to be applied where a registered social landlord seeks to be removed from the register (and may set different criteria for different types of bodies or cases).
+
+(2) A registered social landlord may ask the Regulator to remove it from the register on the ground that it meets the de-registration criteria.
+
+(3) The Regulator, if satisfied that the landlord meets the de-registration criteria, must remove the landlord from the register.
+
+(4) Before setting or revising de-registration criteria, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of registered social landlords or their representatives,
+
+(c) registered social landlords or their representatives, and
+
+(d) secured creditors of registered social landlords or their representatives.
+
+(5) The Regulator must make arrangements for bringing the de-registration criteria (and any revision) to the attention of those affected by them.
+
+### Appeals
+
+#### 29 Appeal against decision on registration or removal
+
+(1) A body may appeal to the Court of Session against a decision of the Regulator—
+
+(a) not to register it,
+
+(b) to remove it from the register, or
+
+(c) not to remove it from the register.
+
+(2) The Court may determine an appeal by—
+
+(a) confirming the decision,
+
+(b) quashing the decision, or
+
+(c) remitting the case to the Regulator for reconsideration,
+
+and the Court's determination of the matter is final.
+
+(3) Where the appeal is against a decision to remove a body from the register, the Regulator must not remove the body before the appeal has been finally determined or is withdrawn.
+
+### Communication with other regulators
+
+#### 30 Communication with other regulators
+
+(1) As soon as reasonably practicable after registering or de-registering a body, the Regulator must—
+
+(a) in the case of a charity, notify the Office of the Scottish Charity Regulator,
+
+(b) in the case of a registered society, notify the [[^F3]Financial Conduct Authority], and
+
+(c) in the case of a registered company, notify the registrar of companies.
+
+(2) As soon as reasonably practicable after an appeal is brought under section 29, the Regulator must give notice of the outcome of the appeal to—
+
+(a) in the case of a charity, the Office of the Scottish Charity Regulator,
+
+(b) in the case of a registered society, the [[^F3]Financial Conduct Authority], and
+
+(c) in the case of a registered company, the registrar of companies.
+
+(3) The Office of the Scottish Charity Regulator must keep a record of any notice it is given under this section.
+
+## Part 3 — Performance of social landlords
+
+### Scottish Social Housing Charter
+
+#### 31 Scottish Social Housing Charter
+
+Ministers must set out standards and outcomes which social landlords should aim to achieve when performing housing activities.
+
+The document in which those standards and outcomes are set out is to be known as the “Scottish Social Housing Charter”.
+
+#### 32 Standards and outcomes
+
+(1) Standards and outcomes set out in the Scottish Social Housing Charter may, for example, relate to—
+
+(a) the housing needs for which social landlords should provide,
+
+(b) the prevention and alleviation of homelessness, [[^F4], including the associated support that social landlords should provide to tenants whom they have reason to believe have experienced, are experiencing or are at risk of domestic abuse,]
+
+(c) the provision and management of sites for gypsies and travellers, whatever their race or origin,
+
+(d) the acquisition and disposal of housing accommodation,
+
+(e) the allocation of housing accommodation,
+
+(f) the terms of tenancies and the principles upon which levels of rent should be determined,
+
+(g) the condition and quality of housing accommodation,
+
+(h) the maintenance and repair of housing accommodation,
+
+(i) the contribution of registered social landlords and local authority landlords to the amenity of the areas in which housing accommodation is situated,
+
+(j) the contribution to and promotion of the environmental well-being and regeneration of the areas in which housing accommodation is situated,
+
+(k) the prevention of harassment or anti-social behaviour,
+
+(l) the provision of information to the public by registered social landlords on their housing services and governance arrangements,
+
+(m) the participation of tenants (and bodies representing tenants) in formulating social landlords' proposals concerning the provision of housing services and in reviewing those proposals once formulated,
+
+(n) the procedures for dealing with tenants' complaints about social landlords and for resolving other disputes between social landlords and their tenants.
+
+(2) Different standards and outcomes may be set out for different social landlords or for different areas or cases.
+
+[[^F5](3) In subsection (1)(b), “domestic abuse” means abusive behaviour within the meaning of section 2 of the Domestic Abuse (Protection) (Scotland) Act 2021 (as read with sections 1 and 3 of that Act).]
+
+#### 33 Scottish Social Housing Charter: supplemental
+
+(1) Ministers—
+
+(a) must review the Scottish Social Housing Charter from time to time, and
+
+(b) may revise it following such a review.
+
+(2) Before preparing the Scottish Social Housing Charter (and when reviewing it), Ministers must––
+
+(a) have regard to the interests of persons who may become—
+
+(i) homeless, or
+
+(ii) tenants of social landlords, and
+
+(b) consult—
+
+(i) the Regulator,
+
+(ii) tenants of social landlords or their representatives,
+
+(iii) homeless persons or bodies representing the interests of homeless persons,
+
+(iv) recipients of housing services provided by social landlords or their representatives,
+
+(v) social landlords or their representatives,
+
+(vi) secured creditors of registered social landlords or their representatives,
+
+(vii) the Accounts Commission for Scotland, and
+
+(viii) the Commission for Equality and Human Rights and such other bodies representing equal opportunities interests as Ministers think fit.
+
+(3) The Scottish Social Housing Charter (and any revision) does not have effect unless a proposed Charter (or revision) has been laid before and approved by a resolution of the Scottish Parliament.
+
+(4) Ministers must—
+
+(a) publish the Scottish Social Housing Charter (and any revision), and
+
+(b) make arrangements for bringing the Scottish Social Housing Charter (and any revision) to the attention of—
+
+(i) social landlords, and
+
+(ii) registered tenant organisations associated with social landlords.
+
+### Targets, guidance, code of conduct and equal opportunities
+
+#### 34 Performance improvement targets
+
+(1) The Regulator may set performance improvement targets specifying the level or quality of housing services or the standard of housing activities which social landlords must aim to provide by a specified time.
+
+(2) Different performance improvement targets, or different times, may be set for different social landlords or for different areas or cases.
+
+(3) Before issuing, revising or withdrawing a performance improvement target, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of social landlords or their representatives,
+
+(c) homeless persons or bodies representing the interests of homeless persons,
+
+(d) recipients of housing services provided by social landlords or their representatives,
+
+(e) social landlords or their representatives,
+
+(f) secured creditors of registered social landlords or their representatives, and
+
+(g) the Accounts Commission for Scotland.
+
+This subsection does not apply where—
+
+(i) the performance improvement target affects only one social landlord, or
+
+(ii) the Regulator considers that there is an urgent need to set the performance improvement target.
+
+(4) The Regulator must make arrangements for bringing a performance improvement target (and any revision or withdrawal) to the attention of affected social landlords.
+
+#### 35 Guidance: housing activities
+
+(1) The Regulator must issue guidance setting out—
+
+(a) indicators by reference to which it intends to measure progress towards achieving standards and outcomes set out in the Scottish Social Housing Charter, and
+
+(b) how it otherwise intends to assess whether a social landlord has achieved, or made progress towards achieving those standards and outcomes.
+
+(2) The Regulator may also issue guidance—
+
+(a) setting out indicators by reference to which it intends to measure progress towards meeting a performance improvement target,
+
+(b) setting out how it otherwise intends to assess whether a social landlord has met, or made progress towards meeting, a performance improvement target,
+
+(c) on any other matter related to housing services provided by social landlords.
+
+(3) Guidance may be given generally or for particular purposes (and different guidance may be issued for different social landlords or for different areas or cases).
+
+(4) Before issuing, revising or withdrawing general guidance, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of social landlords or their representatives,
+
+(c) homeless persons or bodies representing the interests of homeless persons,
+
+(d) recipients of housing services provided by social landlords or their representatives,
+
+(e) social landlords or their representatives,
+
+(f) secured creditors of registered social landlords or their representatives, and
+
+(g) the Accounts Commission for Scotland.
+
+(5) The Regulator must make arrangements for bringing its guidance (and any revision or withdrawal) to the attention of affected social landlords.
+
+#### 36 Code of conduct: governance and financial accountability
+
+(1) The Regulator must issue a code of conduct setting out standards of financial management and governance for registered social landlords.
+
+(2) The code of conduct may make different provision for different registered social landlords or for different areas or cases.
+
+(3) The Regulator must issue guidance on the code of conduct.
+
+(4) Before issuing or revising its code of conduct or guidance, the Regulator must consult—
+
+(a) tenants of registered social landlords or their representatives,
+
+(b) registered social landlords or their representatives, and
+
+(c) secured creditors of registered social landlords or their representatives.
+
+(5) The Regulator must make arrangements for bringing the code of conduct (and any revision) and its guidance (and any revision) to the attention of registered social landlords.
+
+#### 37 Financial management or governance targets for registered social landlords
+
+(1) The Regulator may set financial management or governance targets specifying standards of financial management or governance which registered social landlords must aim to achieve by a specified time.
+
+(2) Different financial management or governance targets, or different times, may be set for different registered social landlords or for different cases.
+
+(3) Before issuing, revising or withdrawing a financial management or governance target, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of registered social landlords or their representatives,
+
+(c) registered social landlords or their representatives, and
+
+(d) secured creditors of registered social landlords or their representatives.
+
+This subsection does not apply where—
+
+(i) the financial management or governance target affects only one registered social landlord, or
+
+(ii) the Regulator considers that there is an urgent need to set the financial management or governance target.
+
+(4) The Regulator must make arrangements for bringing a financial management or governance target (and any revision or withdrawal) to the attention of affected registered social landlords.
+
+#### 38 Guidance: financial management or governance targets
+
+(1) The Regulator may issue guidance—
+
+(a) setting out indicators by reference to which it intends to measure progress towards meeting a financial management or governance target,
+
+(b) setting out how it otherwise intends to assess whether a registered social landlord has met, or made progress towards meeting, a financial management or governance target.
+
+(2) Guidance may be given generally or for particular purposes (and different guidance may be issued for different registered social landlords or for different cases).
+
+(3) Before issuing, revising or withdrawing guidance on a financial management or governance target, the Regulator must consult those persons who it was required to consult when issuing or revising the target.
+
+(4) The Regulator must make arrangements for bringing its guidance (and any revision or withdrawal) to the attention of affected registered social landlords.
+
+#### 39 Encouragement of equal opportunities
+
+Social landlords when performing housing services must act in a manner which encourages equal opportunities and in particular the observance of the requirements of the law for the time being relating to equal opportunities.
+
+### Assessing and reporting
+
+#### 40 Assessment of social landlords
+
+(1) When assessing a social landlord's performance of housing activities, the Regulator must consider—
+
+(a) the level and quality of housing services provided by the social landlord (with particular regard to the level of rents and other service charges),
+
+(b) the Scottish Social Housing Charter,
+
+(c) any relevant performance improvement target, and
+
+(d) any relevant guidance issued under section 35.
+
+(2) When assessing a registered social landlord's financial well-being or standards of governance, the Regulator must consider––
+
+(a) the code of conduct and guidance issued under section 36,
+
+(b) any relevant financial management or governance target, and
+
+(c) any relevant guidance issued under section 38.
+
+#### 41 Performance reports
+
+(1) The Regulator must publish performance reports containing—
+
+(a) an assessment of social landlords' performance in—
+
+(i) achieving the standards and outcomes set out in the Scottish Social Housing Charter, and
+
+(ii) meeting any relevant performance improvement targets,
+
+(b) the identity of any social landlord considered to have failed, or to be at risk of failing, to achieve those outcomes or meet those standards and targets.
+
+(2) The Regulator may include in a performance report—
+
+(a) information about regulatory interventions made by the Regulator,
+
+(b) information about the financial well-being of registered social landlords generally,
+
+(c) such other information about the performance of social landlords or the financial well-being or standards of governance of registered social landlords which the Regulator considers likely to be useful to—
+
+(i) social landlords, or
+
+(ii) persons who are, or who may become, tenants of social landlords or other recipients of housing services provided by social landlords.
+
+(3) The Regulator may publish performance reports as often as it considers appropriate but must do so at intervals of not more than 12 months.
+
+(4) As soon as practicable after publishing a performance report, the Regulator must—
+
+(a) lay a copy of it before the Scottish Parliament, and
+
+(b) send a copy of it to Ministers.
+
+## Part 4 — Inquiries and information
+
+### Inquiries
+
+#### 42 Inquiries about social landlords
+
+(1) The Regulator may make inquiries about—
+
+(a) a social landlord, or
+
+(b) a body which at the material time is or was connected to a registered social landlord or a local authority landlord.
+
+(2) Inquiries may be made—
+
+(a) at any time, and
+
+(b) generally or for particular purposes.
+
+(3) Inquiries may relate to—
+
+(a) a social landlord's housing activities, or
+
+(b) a registered social landlord's financial or other affairs.
+
+(4) Inquiries may be carried out—
+
+(a) by the Regulator, or
+
+(b) by another person (an “inquirer”) appointed by the Regulator,
+
+and, where carried out by an inquirer, references to the Regulator in sections 43 to 49 include references to the inquirer.
+
+(5) Where inquiries are made about a body connected to a registered social landlord or a local authority landlord, references to the social landlord in sections 43 and 46 are references to the social landlord and the connected body.
+
+#### 43 Inquiries: general powers
+
+(1) The Regulator, when making inquiries, has the following general powers in addition to the powers conferred by section 48 and other provisions of this Act.
+
+(2) The Regulator has a right of access at all reasonable times to—
+
+(a) any premises occupied by the social landlord concerned, and
+
+(b) any document or other information relating to the social landlord concerned which the Regulator believes to be relevant to the inquiries.
+
+(3) The social landlord concerned and any person in premises accessed under subsection (2) must provide such facilities and assistance as the Regulator may reasonably request in connection with the inquiries.
+
+(4) A person holding or accountable for any document or other information of a kind described in subsection (2) must, if so required, attend before the Regulator in person to produce the document or, as the case may be, give the information.
+
+(5) The Regulator may inspect, copy, make extracts from or take away any document or other information found on premises accessed under subsection (2) (including any information accessible by computers on the premises but stored elsewhere).
+
+(6) It is an offence for a person, without reasonable excuse—
+
+(a) to fail to comply with subsection (3) or (4), or
+
+(b) to otherwise obstruct the Regulator from properly exercising its powers when making inquiries.
+
+(7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 44 Inquiries: survey powers
+
+(1) The Regulator may arrange for a survey of the condition of housing accommodation where it suspects that the standard to which it is being maintained means that a social landlord is, or is at risk of, failing—
+
+(a) to achieve a standard or an outcome set out in the Scottish Social Housing Charter,
+
+(b) to meet a performance improvement target,
+
+(c) to meet a financial management or governance target, or
+
+(d) to implement an approved performance improvement plan.
+
+(2) The Regulator may require the social landlord to pay some or all of the expenses of the survey.
+
+(3) A survey may be carried out by any person authorised in writing by the Regulator.
+
+(4) The authorised person—
+
+(a) has a right of access to the housing accommodation at all reasonable times to carry out the survey,
+
+(b) must, when seeking to enter accommodation in order to carry out a survey, produce a copy of his or her authorisation on request by an occupier.
+
+(5) The Regulator must give the social landlord at least 28 days' notice of its intention to carry out a survey.
+
+(6) A social landlord to which notice is given under subsection (5) must give each occupier of the housing accommodation concerned at least 7 days' notice of the Regulator's intention to carry out a survey.
+
+(7) The authorised person must—
+
+(a) produce a written report after carrying out a survey, and
+
+(b) give a copy of the report to the Regulator.
+
+(8) The Regulator must give a copy of the authorised person's report to the social landlord.
+
+(9) It is an offence for a person, without reasonable excuse—
+
+(a) to fail to comply with subsection (6), or
+
+(b) to obstruct an authorised person from carrying out a survey under this section.
+
+(10) A person guilty of an offence under subsection (9) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 45 Exceptional audit
+
+(1) The Regulator may, as part of inquiries about a registered social landlord's financial or other affairs, arrange for a qualified auditor (appointed by the Regulator) to—
+
+(a) audit the registered social landlord's accounts and balance sheet, and
+
+(b) report to the Regulator about matters specified by the Regulator.
+
+“qualified auditor” means a person eligible for appointment as auditor of the registered social landlord's ordinary accounts.
+
+(2) It is for the Regulator to pay for the expenses of the audit (including the auditor's remuneration).
+
+(3) An audit done under this section is additional to, and does not affect, any other audit done or to be done under any other enactment.
+
+(4) It is an offence for a person, without reasonable excuse, to obstruct a person from carrying out an audit under this section.
+
+(5) A person guilty of an offence under subsection (4) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 46 Reports on inquiries
+
+(1) The Regulator may prepare and publish a report of any inquiries it makes.
+
+(2) The Regulator must—
+
+(a) publish a statement setting out the types of inquiries on which it intends to publish reports, and
+
+(b) make arrangements for bringing its statement (and any revision) to the attention of––
+
+(i) Ministers,
+
+(ii) tenants of social landlords,
+
+(iii) social landlords,
+
+(iv) secured creditors of registered social landlords, and
+
+(v) the Accounts Commission for Scotland.
+
+(3) The Regulator must send a copy of a report prepared under this section to the social landlord concerned.
+
+(4) Where the Regulator publishes a report, it must send a copy of the report to every registered tenant organisation associated with the social landlord which is the subject of the report.
+
+### Information
+
+#### 47 Information from tenants on significant performance failures
+
+(1) The Regulator must make arrangements to enable and assist tenants of social landlords to provide it with information on significant performance failures by social landlords.
+
+(2) The Regulator must publish a statement setting out—
+
+(a) what it considers to be a significant performance failure (with reference to standards and outcomes in the Scottish Social Housing Charter, performance improvement targets, financial management and governance targets and the code of conduct issued under section 36), and
+
+(b) details of its arrangements (including details of how it will deal with information provided and how it will respond to tenants).
+
+#### 48 Power to obtain information
+
+(1) The Regulator may, when making inquiries or otherwise for a purpose connected with its functions, require any person to provide it with any document or other information relating to—
+
+(a) a social landlord, or
+
+(b) a body which at the material time is or was connected to a registered social landlord or a local authority landlord.
+
+(2) A requirement must specify—
+
+(a) the document or other information which the person must provide, and
+
+(b) where and by when the person must provide it.
+
+(3) A requirement must not be made of a person other than the social landlord or connected body concerned unless—
+
+(a) the social landlord or connected body has already failed to comply with a requirement to provide the document or other information, or
+
+(b) the Regulator believes that the social landlord or connected body is unable to provide the document or other information.
+
+(4) This section does not authorise the Regulator to require—
+
+(a) the disclosure of anything which a person would be entitled to refuse to disclose on grounds of confidentiality in the Court of Session, or
+
+(b) a banker to disclose anything in breach of a duty of confidentiality owed to anyone other than the social landlord or connected body concerned (or any other body connected to the social landlord).
+
+(5) The Regulator may copy, or make extracts from, any document or other information it receives.
+
+#### 49 Failure to provide information etc.
+
+(1) It is an offence for a person, without reasonable excuse, to fail to comply with a requirement made under section 48.
+
+(2) It is an offence for a person, knowingly or recklessly, to provide information which is false or misleading in a material respect to the Regulator or any other person—
+
+(a) in purported compliance with a requirement made under section 48, or
+
+(b) otherwise if the person knows, or could reasonably be expected to know, that the information may be used by, or provided to, the Regulator.
+
+(3) It is an offence for a person intentionally to alter, suppress, conceal or destroy a document or other information which the person, or which the person knows another person, has been required to provide under section 48.
+
+(4) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) A person guilty of an offence under subsection (2) or (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 50 Social landlords' involvement of tenants etc. when providing information
+
+(1) The Regulator must issue guidance setting out the extent to which social landlords must seek to involve persons (or representatives of such persons) who are or who may become—
+
+(a) homeless,
+
+(b) tenants of social landlords, or
+
+(c) recipients of housing services provided by social landlords,
+
+in the preparation of information to be given by social landlords to the Regulator.
+
+(2) The Regulator may require a social landlord to provide information on how it has involved such persons (or their representatives) in providing information to which the guidance relates.
+
+(3) Guidance may be given generally or for particular purposes (and different guidance may be issued for different social landlords or for different areas or cases).
+
+(4) Before issuing or revising guidance, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of social landlords or their representatives,
+
+(c) homeless persons or bodies representing the interests of homeless persons,
+
+(d) recipients of housing services provided by social landlords or their representatives,
+
+(e) social landlords or their representatives,
+
+(f) secured creditors of registered social landlords or their representatives, and
+
+(g) the Accounts Commission for Scotland.
+
+(5) The Regulator must make arrangements for bringing its guidance (and any revision or withdrawal) to the attention of affected social landlords.
+
+### Code of practice
+
+#### 51 Code of practice: inquiries
+
+(1) The Regulator must issue a code of practice on inquiries setting out how it intends to make inquiries and otherwise perform its functions under this Part.
+
+(2) The code of practice may, in particular, set out examples of situations in which it may make inquiries, arrange for surveys or audits or require information to be provided.
+
+(3) The code of practice must be kept under review and must be re-issued (with any revisions which the Regulator thinks appropriate) at least once every 5 years.
+
+(4) Before issuing a code of practice, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of social landlords or their representatives,
+
+(c) homeless persons or bodies representing the interests of homeless persons,
+
+(d) recipients of housing services provided by social landlords or their representatives,
+
+(e) social landlords or their representatives,
+
+(f) secured creditors of registered social landlords or their representatives, and
+
+(g) the Accounts Commission for Scotland.
+
+(5) The Regulator must make arrangements for bringing the issued code of practice to the attention of social landlords.
+
+## Part 5 — Regulatory intervention
+
+### Introductory
+
+#### 52 Regulatory intervention
+
+Regulatory intervention may consist of any combination of the Regulator—
+
+(a) requiring submission of a performance improvement plan (see section 55),
+
+(b) serving an enforcement notice (see section 56),
+
+(c) appointing, or requiring the appointment of, a manager (see sections 57 and 58),
+
+(d) removing, suspending or appointing a registered social landlord's officers or agents (see sections 60 to 65),
+
+(e) acting to protect a registered social landlord's assets (see sections 66 and 67).
+
+#### 53 Exercise of regulatory intervention powers
+
+(1) This section applies where the Regulator is deciding—
+
+(a) whether to make a regulatory intervention,
+
+(b) which regulatory intervention to make, or
+
+(c) how to make a regulatory intervention.
+
+(2) The Regulator must consider—
+
+(a) the desirability of social landlords being free to choose how to provide housing services and manage their financial and other affairs,
+
+(b) the speed with which the failure or other problem needs to be dealt with, and
+
+(c) its code of practice issued under section 54.
+
+#### 54 Code of practice: regulatory intervention
+
+(1) The Regulator must issue a code of practice on regulatory interventions setting out how it intends to make decisions referred to in section 53(1).
+
+(2) The code of practice may, in particular, set out examples of situations in which it may make a regulatory intervention.
+
+(3) The code of practice must be kept under review and must be re-issued (with any revisions which the Regulator thinks appropriate) at least once every 5 years.
+
+(4) Before issuing a code of practice, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of social landlords or their representatives,
+
+(c) homeless persons or bodies representing the interests of homeless persons,
+
+(d) recipients of housing services provided by social landlords or their representatives,
+
+(e) social landlords or their representatives,
+
+(f) secured creditors of registered social landlords or their representatives, and
+
+(g) the Accounts Commission for Scotland.
+
+(5) The Regulator must make arrangements for bringing the issued code of practice to the attention of social landlords.
+
+### Remedial action
+
+#### 55 Performance improvement plans
+
+(1) This section applies where the Regulator, having made inquiries or otherwise, considers—
+
+(a) that a social landlord is, or is at risk of, failing—
+
+(i) to achieve a standard or an outcome set out in the Scottish Social Housing Charter, or
+
+(ii) to meet a performance improvement target,
+
+(b) that––
+
+(i) a registered social landlord is, or is at risk of, failing to meet a financial management or governance target, or
+
+(ii) there has been misconduct or mismanagement in a registered social landlord's financial or other affairs, or
+
+(c) that any other conduct by a social landlord justifies requiring it to submit and implement a performance improvement plan.
+
+(2) The Regulator may require the social landlord to submit, by such time as the Regulator may specify, a performance improvement plan setting out how and by when the social landlord proposes to rectify or avoid the failure or other problem.
+
+(3) The Regulator may require the social landlord to involve in such a way as the Regulator may specify, persons (or representatives of persons) who are or who may become—
+
+(a) homeless,
+
+(b) tenants of the social landlord, or
+
+(c) recipients of housing services provided by the social landlord,
+
+in preparing a performance improvement plan.
+
+(4) The Regulator may require the social landlord to provide information on how it has involved such persons (or their representatives) in the preparation of a performance improvement plan.
+
+(5) The Regulator may approve (with or without modifications or additional conditions) or reject a performance improvement plan submitted to it.
+
+(6) The Regulator must not—
+
+(a) approve a performance improvement plan submitted by a social landlord with modifications or additional conditions, or
+
+(b) reject a performance improvement plan submitted by a social landlord,
+
+unless it has given the social landlord notice of its intention to do so and has had regard to any views expressed by the social landlord within such period as the Regulator may specify.
+
+(7) An approved performance improvement plan must be implemented by the social landlord concerned.
+
+(8) The social landlord must—
+
+(a) publish the approved performance improvement plan, and
+
+(b) send a copy of it to any registered tenant organisation associated with the social landlord.
+
+(9) Where a performance improvement plan is rejected, the social landlord must submit a revised plan to the Regulator by such time as the Regulator may specify.
+
+#### 56 Enforcement notices
+
+(1) The Regulator may serve an enforcement notice if, having made inquiries or otherwise, it considers—
+
+(a) that a social landlord is, or is at risk of, failing—
+
+(i) to achieve a standard or an outcome set out in the Scottish Social Housing Charter,
+
+(ii) to meet a performance improvement target, or
+
+(iii) to implement an approved performance improvement plan,
+
+(b) that––
+
+(i) a registered social landlord is, or is at risk of, failing to meet a financial management or governance target, or
+
+(ii) there has been misconduct or mismanagement in a registered social landlord's financial or other affairs,
+
+(c) that the interests of a social landlord's tenants need protection,
+
+(d) that a registered social landlord's assets need protection,
+
+(e) that a registered social landlord's financial viability is in jeopardy, or
+
+(f) that any other conduct by a social landlord justifies serving an enforcement notice.
+
+(2) An enforcement notice is a notice requiring the social landlord concerned to take action—
+
+(a) to rectify or avoid a failure or other problem, or
+
+(b) to protect its tenants or assets.
+
+(3) An enforcement notice must—
+
+(a) say why it has been served, and
+
+(b) state by when the social landlord must take action.
+
+(4) The Regulator must—
+
+(a) publish an enforcement notice, and
+
+(b) send a copy of it to every registered tenant organisation associated with the social landlord concerned.
+
+### Managerial appointment
+
+#### 57 Appointment of manager for housing activities
+
+(1) This section applies where the Regulator, having made inquiries or otherwise, considers—
+
+(a) that a social landlord [[^F6]has failed, or is] failing—
+
+(i) to achieve a standard or an outcome set out in the Scottish Social Housing Charter,
+
+(ii) to meet a performance improvement target,
+
+(iii) to implement an approved performance improvement plan, or
+
+(iv) to comply with an enforcement notice, and
+
+(b) that a person needs to be appointed in order to ensure that the social landlord provides housing services [[^F7]in a way that will rectify the failure].
+
+(2) The Regulator may appoint, or require the social landlord to appoint, a manager [[^F8]to manage the landlord's housing activities generally, or such aspects of those activities as are necessary, for the purpose of rectifying the failure which the Regulator considers requires the appointment of the manager.]
+
+(3) Before appointing or requiring appointment of a manager for a local authority or a local authority landlord, the Regulator must—
+
+(a) consult—
+
+(i) the local authority or local authority landlord,
+
+(ii) such bodies representing local authorities as it thinks fits, and
+
+(iii) the Accounts Commission for Scotland, and
+
+(b) have regard to views expressed by those consulted by such time as the Regulator may specify.
+
+#### 58 Appointment of manager for financial or other affairs
+
+[[^F9](1) This section applies where the Regulator, having made inquiries or otherwise, considers—
+
+(a) that a registered social landlord has failed, or is failing, to comply with—
+
+(i) a duty imposed by this Act or by any other enactment, or
+
+(ii) a requirement imposed on the landlord by the Regulator under this Act or any other enactment, and
+
+(b) that a person needs to be appointed in order to ensure that the landlord manages its financial or other affairs in a way that will rectify the failure.]
+
+(2) The Regulator may appoint, or require the registered social landlord to appoint, a manager [[^F10]to manage the landlord's financial or other affairs generally, or such aspects of those affairs as are necessary, for the purpose of rectifying the failure which the Regulator considers requires the appointment of the manager.]
+
+#### 59 Appointment of manager: supplementary
+
+(1) It is for the Regulator to determine the terms on which a manager is to be appointed under section 57 or 58 (including [[^F11], subject to subsection (1A),] as to period of appointment and remuneration and expenses).
+
+[[^F12](1A) The appointment is to be only for so long as is necessary to rectify the failure which gave rise to the manager's appointment.]
+
+(2) It is for the social landlord to pay the manager's remuneration and expenses.
+
+(3) A manager has—
+
+(a) general powers to do anything required to perform the manager's functions (including power to enter into agreements or do anything else which the social landlord has power to do), and
+
+(b) such specific powers as the Regulator may specify.
+
+[[^F13](4) The Regulator may give a manager directions about the rectification of the failure which gave rise to the manager's appointment.
+
+(4A) The manager—
+
+(a) must comply with such directions,
+
+(b) may be removed by the Regulator on failure to so comply.]
+
+(5) A manager acts as the social landlord's agent and is accordingly not personally liable on an agreement entered into as manager.
+
+(6) Anyone dealing with a manager in good faith and for value need not inquire whether the manager is acting within the powers conferred by virtue of this section.
+
+### Registered social landlords: removal, suspension and appointment of officers etc.
+
+#### 60 General power to remove officers
+
+(1) The Regulator may remove an officer of a registered social landlord if the officer—
+
+(a) is an undischarged bankrupt or is otherwise apparently insolvent,
+
+(b) is subject to a disqualification order or a disqualification undertaking under the Company Directors Disqualification Act 1986 (c.46) or equivalent legislation in Northern Ireland,
+
+(c) is disqualified from being a charity trustee under section 69 of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10),
+
+(d) is, because of a mental disorder, incapable of acting, or
+
+[[^F14](e) is, because of absence or other failure to act, failing to ensure that the registered social landlord is complying with—
+
+(i) a duty imposed by this Act or by any other enactment,
+
+(ii) a requirement imposed on the landlord by the Regulator under this Act or any other enactment.]
+
+(2) Before removing an officer, the Regulator must give at least 14 days' notice of its intention to do so to—
+
+(a) the officer, and
+
+(b) the registered social landlord.
+
+(3) In this section “apparently insolvent” [[^F15] is to be construed in accordance with section 16 of the Bankruptcy (Scotland) Act 2016].
+
+#### 61 Suspension of officers etc. during or following inquiries
+
+(1) The Regulator, when making or having made inquiries, may suspend a responsible individual (pending decision on removal or otherwise) where it considers—
+
+[[^F16](a) that the registered social landlord has failed, or is failing, to comply with—
+
+(i) a duty imposed by this Act or by any other enactment, or
+
+(ii) a requirement imposed on the landlord by the Regulator under this Act or any other enactment,
+
+relating to its housing activities or its financial or other affairs,]
+
+(d) that the responsible individual—
+
+(i) is, during a moratorium under section 75, obstructing the Regulator from performing its functions under Part 7, or
+
+(ii) is not co-operating in accordance with section 84(2).
+
+(2) The Regulator, unless it considers the case to be one of urgency, must give at least 14 days' notice of its intention to suspend a responsible individual to—
+
+(a) the responsible individual, and
+
+(b) the registered social landlord.
+
+(3) A suspension ceases to have effect—
+
+(a) if the Regulator removes the individual or lifts the suspension, or
+
+(b) where the Regulator does not so act, on the day falling 6 months after the inquiries concerned are concluded.
+
+(4) The Regulator may give the registered social landlord directions about—
+
+(a) the performance of a suspended individual's functions,
+
+(b) any other matter arising from the suspension,
+
+and may appoint an individual, on such terms as it thinks fit, to perform the suspended individual's functions.
+
+(5) It is an offence for a suspended individual to take any action in relation to the management or control of—
+
+(a) the registered social landlord concerned, or
+
+(b) any other registered social landlord,
+
+without the Regulator's consent.
+
+(6) An individual guilty of such an offence is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 62 Removal of officers etc. following inquiries
+
+(1) The Regulator may remove a responsible individual where, having made inquiries, it considers—
+
+[[^F17](a) that the registered social landlord has failed, or is failing, to comply with—
+
+(i) a duty imposed by this Act or by any other enactment, or
+
+(ii) a requirement imposed on the landlord by the Regulator under this Act or any other enactment,
+
+relating to its housing activities or its financial or other affairs,]
+
+(d) that the responsible individual—
+
+(i) is, during a moratorium under section 75, obstructing the Regulator from performing its functions under Part 7, or
+
+(ii) is not co-operating in accordance with section 84(2).
+
+(2) Before removing a responsible individual, the Regulator must give at least 14 days' notice of its intention to do so to—
+
+(a) the responsible individual, and
+
+(b) the registered social landlord.
+
+(3) It is an offence for a removed individual to take any action in relation to the management or control of—
+
+(a) the registered social landlord concerned, or
+
+(b) any other registered social landlord,
+
+without the Regulator's consent.
+
+(4) An individual guilty of such an offence is liable, on summary conviction, to—
+
+(a) imprisonment for a term not exceeding 3 months,
+
+(b) a fine not exceeding level 5 on the standard scale, or
+
+(c) both.
+
+#### 63 Responsible individuals
+
+“Responsible individual” (used in sections 61 and 62) means an officer or agent of a registered social landlord who appears to the Regulator—
+
+(a) to have been responsible for,
+
+(b) to have facilitated or otherwise contributed to, or
+
+(c) to have been privy to,
+
+the [^F18]... failure or other problem concerned.
+
+#### 64 Appeals against suspension or removal
+
+(1) An individual may appeal to the Court of Session against the Regulator's decision to—
+
+(a) remove the individual under section 60 or 62, or
+
+(b) suspend the individual under section 61.
+
+(2) The Court may determine an appeal by—
+
+(a) confirming the decision,
+
+(b) quashing the decision,
+
+(c) remitting the case to the Regulator for reconsideration,
+
+and the Court's determination of the matter is final.
+
+#### 65 Appointment of new officers
+
+(1) The Regulator may appoint an individual as an officer of a registered social landlord—
+
+(a) in place of an officer it removes under section 60 or 62,
+
+(b) where there are no officers,
+
+(c) where—
+
+(i) the registered social landlord has an insufficient number of officers to be able to appoint an officer under its constitution, and
+
+(ii) the constitution does not provide a mechanism for appointing an officer in such circumstances, or
+
+(d) if the Regulator considers that an additional officer is needed [[^F19]to rectify a failure by the registered social landlord to comply with—
+
+(i) a duty imposed by this Act or by any other enactment, or
+
+(ii) a requirement imposed on the landlord by the Regulator under this Act or any other enactment,
+
+relating to its] financial or other affairs.
+
+(2) It is for the Regulator to determine the terms on which an officer is appointed (including [[^F20], subject to subsection (2A),] as to period of appointment and remuneration and expenses).
+
+[[^F21](2A) Where the officer is appointed by virtue of subsection (1)(d) to rectify a failure to comply with a duty or requirement, the appointment is to be only for so long as is necessary to so rectify the failure.]
+
+(3) The Regulator may require the registered social landlord to purchase and maintain personal indemnity insurance approved by the Regulator for the officer appointed.
+
+“personal indemnity insurance” means insurance designed to indemnify against liability attaching to an individual in connection with any negligence, default, or breach of duty committed in the individual's capacity as officer but does not include insurance with a provision—
+
+(a) prohibited by section 68A(2) of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10),
+
+(b) prohibited by section 234(3) of the Companies Act 2006 (c.46), or
+
+(c) which would be prohibited if the registered social landlord was a registered company or a charity.
+
+(4) [[^F22]Subject to subsection (4A), the] Regulator may renew the appointment of an officer on expiry of any period of appointment so determined.
+
+[[^F23](4A) Where the officer was appointed by virtue of subsection (1)(d), subsection (2A) applies to the renewal of the appointment as it applies to the appointment.]
+
+(5) It is for the registered social landlord to pay the appointed officer's remuneration and expenses.
+
+(6) An appointed officer is entitled—
+
+(a) to require a general meeting of the registered social landlord to be convened within 21 days of giving notice to the landlord's officers of a request to that effect,
+
+(b) to attend, speak and vote at such a general meeting (whether or not convened in pursuance of paragraph (a)),
+
+(c) to move a resolution at such a general meeting (whether or not so convened), and
+
+(d) to resign or retire in accordance with the registered social landlord's constitution.
+
+(7) An appointment may be made despite any contrary restriction in the registered social landlord's constitution (and any such restriction contrary to anything done by virtue of this section is accordingly overridden in relation to the appointment concerned).
+
+### Registered social landlords: asset protection
+
+#### 66 Restrictions on dealings during or following inquiries
+
+(1) This section applies if the Regulator, when making or having made inquiries, considers—
+
+(a) that there has been misconduct or mismanagement in a registered social landlord's financial or other affairs,
+
+(b) that the interests of a registered social landlord's tenants need protection,
+
+(c) that a registered social landlord's assets need protection, or
+
+(d) that a registered social landlord's financial viability is in jeopardy.
+
+(2) The Regulator may—
+
+(a) direct the registered social landlord not to—
+
+(i) undertake particular transactions, or
+
+(ii) make payments of a particular nature or amount,
+
+without the Regulator's consent, or
+
+(b) direct a bank or other person not to dispose of any money, securities or other assets it holds for the registered social landlord without the Regulator's consent.
+
+(3) It is an offence for a person to fail to comply with a direction.
+
+(4) A person guilty of such an offence is liable on summary conviction to—
+
+(a) imprisonment for a term not exceeding 3 months,
+
+(b) a fine not exceeding level 5 on the standard scale, or
+
+(c) both.
+
+#### 67 Transfer of assets following inquiries
+
+(1) This section applies if the Regulator, having made inquiries, considers—
+
+(a) that there has been misconduct or mismanagement in a registered social landlord's financial or other affairs, or
+
+(b) that a registered social landlord's viability is in jeopardy for financial or governance reasons or because it cannot provide housing services to an acceptable standard.
+
+(2) In either case the Regulator must also consider that a transfer of some or all of a registered social landlord's assets would improve the management of the assets.
+
+(3) The Regulator may direct the registered social landlord to transfer some or all of its assets to another registered social landlord.
+
+(4) The Regulator must—
+
+(a) before making a direction, consult—
+
+(i) the tenants of any houses it proposes to transfer, and
+
+(ii) any secured creditor whom the Regulator knows to hold security over those houses, and
+
+(b) when making a direction, have regard to any views expressed by those consulted by such time as the Regulator may specify.
+
+[[^F24](4A) A duty on the Regulator to consult in accordance with paragraph (i) or (ii) of subsection (4)(a) does not apply where the Regulator considers that—
+
+(a) the registered social landlord's viability is in jeopardy for financial reasons,
+
+(b) a person could take a step in relation to the registered social landlord which would require to be notified to the Regulator under section 73,
+
+(c) the direction would substantially reduce the likelihood of a person taking such a step, and
+
+(d) there is insufficient time to comply with that duty and make a direction which would substantially reduce that likelihood.
+
+(4B) The Regulator must—
+
+(a) issue guidance on subsection (4A), such guidance to include—
+
+(i) the circumstances in which it considers that subsection (4A) is likely to apply,
+
+(ii) the actions it expects to take in those circumstances, and
+
+(iii) how, in those circumstances, it intends to communicate with any of the persons mentioned in paragraph (b) who are affected by its actions, and
+
+(b) before issuing or revising any guidance, consult—
+
+(i) tenants of registered social landlords or their representatives,
+
+(ii) registered social landlords or their representatives, and
+
+(iii) secured creditors of registered social landlords or their representatives.
+
+(4C) Where the Regulator proposes to direct a transfer of some (but not all) of a registered social landlord's assets, the Regulator must—
+
+(a) before making a direction, obtain an independent valuation of those assets, and
+
+(b) when making a direction, have regard to that valuation.]
+
+(5) A transfer of assets under a direction must be made on terms specified in, or determined in accordance with, the direction.
+
+(6) Those terms must however—
+
+[^F25]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in the case of a transfer of all of a registered social landlord's assets, provide for the settlement or transfer of all the transferor's proper debts and liabilities in respect of the assets (whether secured or not).
+
+(7) The Regulator may direct the transfer of assets from a registered social landlord which is a charity only if the recipient registered social landlord is a charity which the Regulator, after consulting the Office of the Scottish Charity Regulator, considers has the same or similar charitable purposes (within the meaning of section 7(2) of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10)).
+
+(8) The Regulator may direct the transfer of assets which the registered social landlord is under a duty to apply in accordance with section 19(1) of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10) only if the Regulator—
+
+(a) consults with the Office of the Scottish Charity Regulator, and
+
+(b) after doing so, considers that the recipient registered social landlord will secure the proper application of those assets for the purposes which were set out in the transferor registered social landlord's entry in the Scottish Charity Register immediately before its removal from that register.
+
+## Part 6 — Registered social landlords: accounts and audit
+
+### 68 Determination of accounting requirements
+
+(1) The Regulator may determine accounting requirements with a view to ensuring that the accounts of each registered social landlord—
+
+(a) are prepared in a proper form, and
+
+(b) give a true and fair view of—
+
+(i) its state of affairs in relation to its housing activities, and
+
+(ii) the disposition of funds and assets which it holds, or has held, in connection with its housing activities.
+
+(2) A determination may be made generally or for particular purposes (and different determinations may be made for different registered social landlords or different cases).
+
+(3) Before making, revising or withdrawing a determination, the Regulator must consult—
+
+(a) registered social landlords or their representatives,
+
+(b) the Office of the Scottish Charity Regulator,
+
+(c) [[^F26]the Regulator of Social Housing], and
+
+(d) such bodies representing auditors and accountants as the Regulator thinks fit.
+
+(4) The Regulator must make arrangements for bringing a determination (and any revision or withdrawal) to the attention of affected registered social landlords.
+
+(5) A determination must not relate to a period beginning before it is published.
+
+### 69 Compliance with accounting requirements
+
+(1) The accounts of a registered social landlord must comply with accounting requirements determined by the Regulator.
+
+(2) The auditor's report must state the auditor's opinion on whether the accounts so comply.
+
+### 70 Delivery of accounts and audit
+
+[[^F27](1)] A registered social landlord must provide the Regulator with a copy of its accounts and auditor's report within 6 months of the end of the period to which they relate.
+
+[[^F28](2) In respect of the financial year ending with 31 March 2020—
+
+(a) subsection (1) does not apply,
+
+(b) a registered social landlord must provide the Regulator with a copy of its accounts and auditor’s report within 9 months of the end of the period to which they relate.]
+
+### 71 Failure to deliver compliant accounts
+
+(1) It is an offence for a registered social landlord to fail to comply with section 69 or 70.
+
+(2) A registered social landlord guilty of such an offence is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 72 Disclosure of information
+
+(1) This section applies to any person appointed—
+
+(a) to carry out an audit of a registered social landlord's accounts, or
+
+(b) as a reporting accountant in relation to registered social landlord.
+
+“reporting accountant” means a person appointed to prepare a report which, by virtue of any enactment, has to be prepared in respect of accounts which are not subject to audit.
+
+(2) A person to whom this section applies must disclose information to the Regulator (and may express an opinion on it) where the person has reasonable cause to believe that the information is likely to be of material significance in relation to the performance of the Regulator's general functions under section 3(1)(b).
+
+(3) A person to whom this section applies may disclose information to the Regulator (and express an opinion on it) where the person has reasonable cause to believe that—
+
+(a) there is no requirement to report the information under subsection (2), but
+
+(b) the information is likely to be relevant to the performance of any of the Regulator's functions.
+
+(4) A duty or power which arises under subsection (2) or (3) is not affected if the person in relation to whom it arises subsequently stops acting in the capacity mentioned in subsection (1).
+
+(5) No duty of confidentiality or other restriction on disclosure howsoever imposed prevents a person from disclosing information to the Regulator under this section.
+
+## Part 7 — Registered social landlords: insolvency etc.
+
+### Moratorium
+
+#### 73 Notification of step towards insolvency etc.
+
+(1) A person specified in the following table must notify the Regulator—
+
+(a) before taking a step so specified, and
+
+(b) as soon as reasonably practicable after such a step is taken.
+
+|  |  |
+|---|---|
+| *Person* | *Step* |
+| The person taking the step | A step to enforce a security over a registered social landlord's land |
+| The petitioner | Presenting a petition for the winding up of a registered social landlord (but not the presenting of a petition by the Regulator under section 105) |
+| The registered social landlord | Notice being given (in accordance with the constitution of the body to those entitled to vote on the resolution) of the proposal of a resolution for the winding up of a registered social landlord |
+| The person who applied for the order | Applying for, or making, an administration order in respect of a registered social landlord which is a registered company |
+| The person making the appointment | Appointing an administrator in respect of a registered social landlord which is a registered company |
+
+(2) The Regulator may determine for the purposes of this Part what is meant by a step to enforce a security over a registered social landlord's land.
+
+(3) Before making, revising or withdrawing a determination, the Regulator must consult—
+
+(a) Ministers,
+
+(b) registered social landlords or their representatives, and
+
+(c) secured creditors of registered social landlords or their representatives.
+
+(4) The Regulator must make arrangements for bringing any determination (and any revision or withdrawal) to the attention of those affected by it.
+
+#### 74 Effect of failure to notify
+
+(1) A step specified in the table in section 73 has no effect if the person so specified fails to give notice under section 73(1)(a) before the step is taken.
+
+(2) Failure to give notice of such a step under section 73(1)(b) does not invalidate the step.
+
+#### 75 Moratorium
+
+(1) A moratorium on the disposal of a registered social landlord's land begins when a step specified in the table in section 73 is taken in respect of the registered social landlord.
+
+(2) The taking of another such step during the moratorium does not trigger a new moratorium or affect the duration of the existing one.
+
+#### 76 Period of moratorium
+
+(1) A moratorium ends (unless extended or cancelled) 56 days after notice of the step in respect of which it began is given under section 73(1)(b).
+
+(2) The Regulator may extend the moratorium from time to time (but may do so only with the consent of all of the registered social landlord's secured creditors whom the Regulator can locate after making reasonable enquiries).
+
+(3) The Regulator must give notice of any extension to—
+
+(a) the registered social landlord, and
+
+(b) any liquidator, administrative receiver, receiver or administrator appointed in respect of the registered social landlord or its land.
+
+(4) The Regulator may, after consulting the person whose step triggered a moratorium, cancel the moratorium where it considers that the proper management of the registered social landlord's land can be secured without making proposals under section 80.
+
+(5) The Regulator must give notice of a moratorium ending to—
+
+(a) the registered social landlord, and
+
+(b) all of the registered social landlord's secured creditors whom the Regulator can locate after making reasonable enquiries.
+
+(6) Such a notice must (except where the moratorium has been cancelled) include an explanation of section 77.
+
+#### 77 Further moratorium
+
+(1) If a moratorium ends (other than by cancellation), taking a step specified in the table in section 73 in respect of the registered social landlord concerned within 3 years of the moratorium ending does not trigger another moratorium.
+
+(2) But the Regulator may, in such circumstances, renew the original moratorium for a specified period if all of the registered social landlord's secured creditors whom the Regulator can locate after making reasonable enquiries consent to the renewal.
+
+(3) The Regulator must give notice of a renewal of a moratorium to—
+
+(a) the registered social landlord, and
+
+(b) any liquidator, administrative receiver, receiver or administrator appointed in respect of the registered social landlord or its land.
+
+#### 78 Effect of moratorium
+
+(1) During a moratorium a registered social landlord's land may not be disposed of without the Regulator's consent.
+
+(2) Subsection (1)—
+
+(a) applies to disposals by the registered social landlord and by any other person having power to dispose of the registered social landlord's land, but
+
+(b) does not apply to a disposal [[^F29]of a type mentioned in paragraphs (a) to (g) and (i) to (k) of section 108(1)].
+
+(3) The Regulator's consent to a disposal may be given—
+
+(a) before or after the moratorium begins,
+
+(b) subject to such conditions as the Regulator considers appropriate.
+
+(4) A purported disposal during a moratorium without consent is void.
+
+#### 79 Interim manager
+
+(1) During a moratorium the Regulator may appoint, or require the registered social landlord to appoint, an interim manager—
+
+(a) to manage its housing activities or its financial and other affairs generally, or
+
+(b) to manage particular aspects of those activities or affairs.
+
+(2) It is for the Regulator to determine the terms on which an interim manager is to be appointed (including as to period of appointment and remuneration and expenses).
+
+(3) An interim manager's appointment ends with the earliest of the following—
+
+(a) any date specified in the appointment,
+
+(b) the end of the moratorium, or
+
+(c) the agreement of proposals under section 82.
+
+(4) An interim manager has—
+
+(a) general powers to do anything required to perform the interim manager's functions (including power to enter into agreements or do anything else which the registered social landlord has power to do), and
+
+(b) such specific powers as the Regulator may specify.
+
+(5) But an interim manager—
+
+(a) must comply with any direction by the Regulator about the performance of the interim manager's functions (and may be removed on failure to so comply), and
+
+(b) may not dispose of land.
+
+(6) An interim manager acts as the registered social landlord's agent and is accordingly not personally liable on an agreement entered into as interim manager.
+
+(7) Anyone dealing with a manager in good faith and for value need not inquire whether the interim manager is acting within the powers conferred by virtue of this section.
+
+### Making proposals
+
+#### 80 Proposals: formulation
+
+(1) The Regulator may, during a moratorium, make proposals about the future ownership and management of the registered social landlord's land with a view to ensuring that land is managed properly in the future by a registered social landlord.
+
+(2) Before making proposals, the Regulator must consult—
+
+(a) the registered social landlord,
+
+(b) all of the registered social landlord's secured creditors whom the Regulator can locate after making reasonable enquiries,
+
+(c) the registered social landlord's tenants (so far as practicable),
+
+(d) where the registered social landlord is a registered society, the [[^F30]Financial Conduct Authority], and
+
+(e) where the registered social landlord is a charity, the Office of the Scottish Charity Regulator.
+
+(3) The Regulator must, when formulating proposals—
+
+(a) have regard to the interests of the registered social landlord's creditors as a whole (both secured and unsecured), and
+
+(b) so far as practicable, aim to avoid worsening the position of the registered social landlord's unsecured creditors.
+
+(4) Proposals may provide for the appointment of a manager to implement the proposals (and proposals which do so must provide for the payment of the manager's remuneration and expenses).
+
+(5) Proposals must not include anything which would result in—
+
+(a) non-preferential debts being paid before preferential debts,
+
+[[^F31](aa) secondary preferential debts being paid before ordinary preferential debts,]
+
+(b) preferential creditors being paid different proportions of [[^F32]ordinary] preferential debts (except where affected preferential creditors agree to be paid a smaller proportion)[^F33]...
+
+[[^F34](c) preferential creditors being paid different proportions of secondary preferential debts (except where affected preferential creditors agree to be paid a smaller proportion),][[^F35] or
+
+(d) where the debtor is a relevant financial institution—
+
+(i) secondary non-preferential debts being paid before ordinary non-preferential debts,
+
+(ii) tertiary non-preferential debts being paid before secondary non-preferential debts, or
+
+(iii) creditors being paid different proportions of secondary non-preferential debts (except where affected creditors agree to be paid a smaller proportion).]
+
+“preferential debt[[^F36], ordinary preferential debt, secondary preferential debt]” and “preferential creditor” have the same meaning as in the Insolvency Act 1986 (c.45).
+
+[[^F37](6) In this section—
+
+“ordinary non-preferential debts” has the meaning given by section 129(1)(g) of the Bankruptcy (Scotland) Act 2016;
+
+“secondary non-preferential debts” and “tertiary non-preferential debts” have the meanings given by section 129A of the Bankruptcy (Scotland) Act 2016.]
+
+#### 81 Proposals: submission
+
+(1) The Regulator must submit its proposals to all of the registered social landlord's secured creditors whom the Regulator can locate after making reasonable enquiries.
+
+(2) The Regulator must give notice of submitted proposals to—
+
+(a) the registered social landlord and its officers, and
+
+(b) any liquidator, administrative receiver, receiver or administrator appointed in respect of the registered social landlord or its land.
+
+(3) The Regulator must also make arrangements for bringing submitted proposals to the attention of the registered social landlord's members, tenants and unsecured creditors.
+
+#### 82 Proposals: agreement
+
+(1) Secured creditors to whom proposals are submitted under section 81 may—
+
+(a) agree to the proposals (with or without modification), or
+
+(b) reject the proposals.
+
+(2) Proposals agreed with modifications have effect only if the Regulator agrees to the modifications.
+
+(3) The Regulator must give notice of agreed proposals to—
+
+(a) the registered social landlord and its officers,
+
+(b) all of the registered social landlord's secured creditors whom the Regulator can locate after making reasonable enquiries,
+
+(c) any liquidator, administrative receiver, receiver or administrator appointed in respect of the registered social landlord or its land,
+
+(d) where the registered social landlord is a registered society, the [[^F38]Financial Conduct Authority], and
+
+(e) where the registered social landlord is a charity, the Office of the Scottish Charity Regulator.
+
+(4) The Regulator must also make arrangements for bringing agreed proposals to the attention of the registered social landlord's members, tenants and unsecured creditors.
+
+#### 83 Modifying proposals
+
+(1) Agreed proposals may be modified from time to time with the agreement of—
+
+(a) the Regulator, and
+
+(b) all of the registered social landlord's secured creditors to whom the original proposals were submitted.
+
+(2) Sections 80 and 82(3) apply to modified proposals as to the original proposals (and references in sections 84 to 90 to agreed proposals include references to modified proposals).
+
+### Implementing proposals
+
+#### 84 Implementation of agreed proposals
+
+(1) Agreed proposals are binding on and accordingly must be implemented by—
+
+(a) the Regulator,
+
+(b) the registered social landlord,
+
+(c) the registered social landlord's creditors (both secured and unsecured), and
+
+(d) any liquidator, administrative receiver, receiver or administrator appointed in respect of the registered social landlord or its land.
+
+(2) The registered social landlord's officers must co-operate in the implementation of agreed proposals.
+
+But this subsection does not require or allow officers to do anything in breach of a fiduciary or other duty owed by them.
+
+#### 85 Appointment of manager to implement proposals
+
+(1) The Regulator must appoint a manager to implement agreed proposals (where the proposals so provide).
+
+(2) A manager must comply with any direction by the Regulator about the performance of the manager's functions (and may be removed on failure to so comply).
+
+(3) A manager may apply to the Court of Session for directions about the performance of the manager's functions (and a direction by the court supersedes any contrary direction by the Regulator).
+
+(4) The Regulator may appoint another manager in place of a person who for any reason ceases to be manager.
+
+#### 86 Manager: powers
+
+(1) A manager appointed to implement agreed proposals may do anything necessary to secure that implementation.
+
+(2) A manager may, in particular—
+
+(a) take possession of land (and raise legal proceedings for that purpose),
+
+(b) sell or otherwise dispose of land by public auction or private contract,
+
+(c) raise or borrow money,
+
+(d) grant security over land,
+
+(e) grant or enter into, or accept a renunciation of, a lease or tenancy,
+
+(f) carry on the registered social landlord's business (in so far as relating to management and transfer of land),
+
+(g) carry out works, or do anything else, in connection with the management or transfer of land,
+
+(h) execute deeds or other documents on behalf of the registered social landlord,
+
+(i) use the registered social landlord's seal (if it has one),
+
+(j) make any arrangement or compromise on behalf of the registered social landlord,
+
+(k) appoint (and dismiss) agents and staff,
+
+(l) appoint a solicitor, accountant or other professional to assist the manager,
+
+(m) make payments,
+
+(n) take out insurance,
+
+(o) raise or defend legal proceedings,
+
+(p) refer a dispute to arbitration,
+
+(q) do anything incidental to the exercise of the above powers.
+
+(3) A manager acts as the registered social landlord's agent and is accordingly not personally liable on an agreement entered into as manager.
+
+(4) Anyone dealing with a manager in good faith and for value need not inquire whether the manager is acting within the powers conferred by virtue of this section.
+
+(5) A manager must, so far as practicable—
+
+(a) consult the registered social landlord's tenants before doing anything likely to affect them, and
+
+(b) inform them of the effect of any such action.
+
+#### 87 Manager of registered society: extra powers
+
+(1) This section applies where a manager is appointed to implement proposals relating to a registered social landlord which is a registered society.
+
+(2) The manager may make and execute, on behalf of the society—
+
+(a) an instrument providing for the amalgamation of the society with another registered society (“amalgamation instrument”), or
+
+(b) an instrument transferring the society's engagements.
+
+(3) An amalgamation instrument executed by a manager has the same effect as a resolution by the society under [[^F39]section 109 of the Co-operative and Community Benefit Societies Act 2014] (amalgamation of societies by special resolution).
+
+(4) An instrument transferring the engagements has the same effect as a transfer of engagements under [[^F40]section 110 or 112 of the Co-operative and Community Benefit Societies Act 2014].
+
+(5) The manager must send a copy of the instrument (signed by the manager) to the [[^F41]Financial Conduct Authority].
+
+(6) The copy instrument must be registered by that Authority and the instrument does not take effect until the copy is so registered.
+
+(7) A copy instrument must be sent for registration within 14 days of execution (but a copy registered after that period is valid).
+
+#### 88 Regulator assistance
+
+(1) The Regulator may give financial or other assistance to a registered social landlord in order to—
+
+(a) preserve its position pending the making or agreement of proposals, or
+
+(b) facilitate implementation of agreed proposals.
+
+(2) In order to facilitate implementation of agreed proposals, the Regulator may give financial or other assistance to—
+
+(a) a manager appointed to implement agreed proposals,
+
+(b) an officer of the registered social landlord.
+
+(3) The Regulator may, in particular—
+
+(a) lend staff,
+
+(b) arrange payment of a manager's remuneration and expenses.
+
+(4) But the Regulator may not—
+
+(a) pay grants,
+
+(b) make loans,
+
+(c) indemnify a manager or officer, or
+
+(d) make payments, or give guarantees, connected with loans (whether secured or otherwise),
+
+without the consent of Ministers.
+
+#### 89 Failure by manager to implement agreed proposals
+
+(1) This section applies where a registered social landlord, or any of its creditors, applies to the Court of Session on the ground that a manager has acted otherwise than in accordance with agreed proposals.
+
+(2) The Court may—
+
+(a) confirm, modify or reduce any decision or other act of the manager,
+
+(b) give the manager directions, or
+
+(c) make such other order as the court thinks fit.
+
+#### 90 Other failure to implement agreed proposals
+
+(1) This section applies where any person bound by agreed proposals applies to the Court of Session on the ground that another person so bound has acted, or proposes to act, otherwise than in accordance with the proposals.
+
+(2) The Court may—
+
+(a) confirm or modify the act,
+
+(b) declare the act to be of no effect, or
+
+(c) make such other order (by way of interdict, award of damages or otherwise) as the court thinks fit.
+
+#### 91 Meaning of “land”
+
+References in this Part to a registered social landlord's land include references to any existing or future interest of the landlord in rent or other receipts arising from land.
+
+## Part 8 — Registered social landlords: organisational change etc.
+
+### Change of name, office or constitution
+
+#### 92 [[^F42]Change of name, office or constitution
+
+A registered social landlord must give the Regulator notice of—
+
+(a) any change to—
+
+(i) its name, or
+
+(ii) its registered or principal office,
+
+(b) any amendment to its constitution (other than a change of name or office),
+
+within 28 days of the change or amendment being made.]
+
+#### [^F43]93 Change of constitution
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F43]94 Registered society's rules: supplementary
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F43]95 Change of registered company's articles: supplementary
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Registered societies: restructuring, winding up and dissolution
+
+#### 96 Restructuring, winding up and dissolution of registered societies
+
+(1) This group of sections applies to a registered social landlord—
+
+(a) which is a registered society, and
+
+(b) whose inclusion in the register has been recorded by the [[^F44]Financial Conduct Authority].
+
+[^F45]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F45]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 96A [[^F46]Proposed restructuring of society
+
+(1) This section applies where the society proposes to pass a special resolution for the purposes of a restructuring provision where the restructuring—
+
+(a) will result in a tenant under a Scottish secure tenancy ceasing to be a tenant of the society proposing the restructuring, and
+
+(b) is a restructuring other than the conversion of the society into a company in accordance with section 112 of the Co-operative and Community Benefit Societies Act 2014.
+
+(2) The society must comply with sections 115 to 120 (as applied by subsection (3)) in relation to the proposed restructuring.
+
+(3) Sections 115 to 120 apply in relation to a proposed restructuring to which this section applies as they apply in relation to a proposed disposal to which section 107(4) applies, subject to the modification that section 115A(2) has effect as if, for paragraph (b), there were substituted—“(b)before notice of a meeting at which the special resolution is intended to be proposed is given under section 111 or, as the case may be, 113 of the Co-operative and Community Benefit Societies Act 2014,”.
+
+(4) In this section and section 97, “restructuring provision” means any of the following provisions of the Co-operative and Community Benefit Societies Act 2014—
+
+(a) section 109 (amalgamation),
+
+(b) section 110 (transfer of engagements),
+
+(c) section 112 (conversion into or amalgamation with registered company).]
+
+#### 97 [[^F47]Restructuring of society
+
+(1) This section applies in relation to a special resolution passed by the society for the purposes of a restructuring provision.
+
+(2) Where the restructuring to which the special resolution relates is one to which section 96A applies, the Financial Conduct Authority may register the special resolution only if—
+
+(a) the society confirms the matters mentioned in subsection (3), and
+
+(b) a copy of the confirmation accompanies the copy special resolution sent to the Financial Conduct Authority for the purposes of the Co-operative and Community Benefit Societies Act 2014.
+
+(3) Those matters are that, before the special resolution was passed—
+
+(a) the society complied with sections 115 and 115A(1) (as applied by section 96A(3)), and
+
+(b) a majority of tenants—
+
+(i) voting in a ballot conducted under section 115A(1)(a) wish the restructuring to proceed, or, as the case may be,
+
+(ii) whose written agreement to the restructuring was sought under section 115A(1)(b) have given that agreement.
+
+(4) The society must, as soon as reasonably practicable after sending the copy special resolution to the Financial Conduct Authority (and, in a case to which subsection (2) applies, no later than 28 days after doing so), give notice of the restructuring to the Regulator.
+
+(5) Any new body created, or to whom engagements are transferred, in pursuance of such a special resolution is to be included in the register (and is to be treated as so included pending such inclusion).]
+
+#### 98 [[^F48]Voluntary winding up of society
+
+(1) This section applies in relation to the voluntary winding up of the society under the Insolvency Act 1986.
+
+(2) The society must consult its tenants in relation to the proposed voluntary winding up before passing a resolution for the winding up of the society.
+
+(3) Such a resolution is valid only if—
+
+(a) the society confirms that it consulted its tenants as mentioned in subsection (2), and
+
+(b) a copy of the confirmation accompanies the copy resolution sent to the Financial Conduct Authority for the purposes of section 30 of the Companies Act 2006 (as applied by virtue of section 123 of the Co-operative and Community Benefit Societies Act 2014 and section 84(3) of the Insolvency Act 1986).
+
+(4) The society must, as soon as reasonably practicable after sending the copy resolution to the Financial Conduct Authority, give notice of the voluntary winding up to the Regulator.
+
+(5) The Regulator must issue guidance in relation to consultation for the purpose of subsection (2).
+
+(6) A society must, in consulting tenants for that purpose, have regard to guidance issued under subsection (5).]
+
+#### 99 [[^F49]Dissolution of society
+
+(1) This section applies where the society proposes an instrument of dissolution of the society (within the meaning of section 119 of the Co-operative and Community Benefit Societies Act 2014).
+
+(2) The society must consult its tenants in relation to the proposed dissolution before seeking the approval of the instrument for the purposes of section 119 of that Act.
+
+(3) The Financial Conduct Authority may register an instrument of dissolution of the society under section 121 of the Co-operative and Community Benefit Societies Act 2014, or cause notice of the dissolution to be advertised under section 122 of that Act, only if—
+
+(a) the society confirms that it consulted its tenants as mentioned in subsection (2), and
+
+(b) a copy of the confirmation accompanies the instrument sent to the Financial Conduct Authority for the purposes of section 121 of that Act.
+
+(4) The society must, as soon as reasonably practicable after sending the instrument to the Financial Conduct Authority, give notice of the dissolution to the Regulator.
+
+(5) The Regulator must issue guidance in relation to consultation for the purpose of subsection (2).
+
+(6) A society must, in consulting tenants for that purpose, have regard to guidance issued under subsection (5).]
+
+### Companies: restructuring and winding up
+
+#### 100 Restructuring and winding up of companies
+
+(1) This group of sections applies to a registered social landlord which is a registered company.
+
+[^F50]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F50]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 100A [[^F51]Restructuring by company: proposed restructuring
+
+(1) [[^F52]Subsections (2) and (3) apply] where—
+
+(a) a court order is made in respect of the company under section 896 of the Companies Act 2006,
+
+(b) the meeting summoned by the court order is to agree a restructuring of a type mentioned in section 900(1) of that Act, [^F53]...
+
+[[^F54](c) the restructuring will result in a tenant under a Scottish secure tenancy ceasing to be a tenant of the company in respect of which the order is made, and
+
+(d) the company is not being wound up and is not in administration.]
+
+(2) The company must comply with sections 115 to 120 (as applied by subsection (3)) in relation to the proposed restructuring.
+
+(3) Sections 115 to 120 apply in relation to a proposed restructuring to which [[^F55]this subsection] applies as they apply in relation to a proposed disposal to which section 107(4) applies, subject to the modification that section 115A(2) has effect as if, for paragraph (b), there were substituted—
+
+> (b) before the meeting summoned by the court order under section 896 of the Companies Act 2006 takes place,
+
+.]
+
+[[^F56](4) Subsections (5) and (6) apply where—
+
+(a) a court order is made in respect of the company under section 901C(1) of the Companies Act 2006,
+
+(b) the meeting summoned by the court order is to agree a restructuring of a type mentioned in section 901J(1) of that Act,
+
+(c) the restructuring will result in a tenant under a Scottish secure tenancy ceasing to be a tenant of the company in respect of which the order is made, and
+
+(d) the company is not being wound up and is not in administration.
+
+(5) The company must comply with sections 115 to 120 (as applied by subsection (6)) in relation to the proposed restructuring.
+
+(6) Sections 115 to 120 apply in relation to a proposed restructuring to which this subsection applies as they apply in relation to a proposed disposal to which section 107(4) applies, subject to the modification that section 115A(2) has effect as if, for paragraph (b), there were substituted—
+
+> (b) before the meeting summoned by the court order under section 901C of the Companies Act 2006 takes place,]
+
+#### 101 [[^F57]Restructuring of company
+
+(1) This section applies where—
+
+(a) a court order is made in respect of a company under section 899 or 900 of the Companies Act 2006, and
+
+(b) the restructuring to which the order relates is of a type mentioned in section 900(1) of that Act.
+
+[[^F58](1A) This section also applies where—
+
+(a) a court order is made in respect of a company under section 901F or 901J of the Companies Act 2006, and
+
+(b) the restructuring to which the order relates is of a type mentioned in section 901J(1) of that Act.]
+
+(2) Where section 100A applies in relation to a restructuring, a court order mentioned in subsection (1) [[^F59]or (1A)] in relation to the same restructuring has effect only if—
+
+(a) the company confirms the matters mentioned in subsection (3), and
+
+(b) a copy of the confirmation accompanies the copy of the order delivered to the registrar of companies in accordance with section 900(6) [[^F60]or (as the case may be) section 901J(6)] of the Companies Act 2006.
+
+(3) The matters are that, before the order was made—
+
+(a) the company complied with sections 115 and 115A(1) (as applied by section 100A(3) [[^F61]or (6) (as the case may be)]), and
+
+(b) a majority of tenants—
+
+(i) voting in a ballot conducted under section 115A(1)(a) wish the restructuring to proceed, or, as the case may be,
+
+(ii) whose written agreement to the restructuring was sought under section 115A(1)(b) have given that agreement.
+
+(4) The company must, as soon as reasonably practicable after the order is made (and, in a case to which subsection (2) applies, no later than 28 days after that event), give notice of the restructuring to the Regulator.
+
+(5) Where the whole or any part of the undertaking and property and liabilities of the company are transferred to another company in pursuance of an order under section 900 [[^F62]or 901J] of the Companies Act 2006, that other company is to be included in the register (and is to be treated as so included pending such inclusion).]
+
+#### 102 [[^F63]Conversion of company into a registered society
+
+(1) This section applies in relation to the conversion of the company into a registered society under section 115 of the Co-operative and Community Benefit Societies Act 2014.
+
+(2) The company must consult its tenants on the proposed conversion before passing a special resolution for the conversion of the company into a registered society under section 115 of that Act.
+
+(3) Such a special resolution has effect only if—
+
+(a) the company confirms that it consulted its tenants as mentioned in subsection (2), and
+
+(b) a copy of the confirmation accompanies the resolution sent to the registrar of companies in accordance with section 115(5) of the Co-operative and Community Benefit Societies Act 2014.
+
+(4) The company must, as soon as reasonably practicable after sending the resolution to the registrar of companies, give notice of the conversion to the Regulator.
+
+(5) The new registered society created in pursuance of the resolution is to be included in the register (and is to be treated as so included pending such inclusion).
+
+(6) The Regulator must issue guidance in relation to consultation for the purpose of subsection (2).
+
+(7) A company must, in consulting tenants for that purpose, have regard to guidance issued under subsection (6).]
+
+#### 103 [[^F64]Company voluntary arrangement
+
+(1) This section applies in relation to a voluntary arrangement under Part 1 of the Insolvency Act 1986 in relation to the company.
+
+(2) The company must consult its tenants about the voluntary arrangement before the arrangement is approved under section 4 of that Act.
+
+(3) Such a voluntary arrangement does not take effect under section 5 of the Insolvency Act 1986 unless the company has consulted its tenants as mentioned in subsection (2).
+
+(4) The company must, as soon as reasonably practicable after the voluntary arrangement takes effect, give notice of the arrangement to the Regulator.
+
+(5) The Regulator must issue guidance in relation to consultation for the purpose of subsection (2).
+
+(6) A company must, in consulting tenants for that purpose, have regard to guidance issued under subsection (5).]
+
+#### 104 [[^F65]Voluntary winding up of company
+
+(1) This section applies in relation to the voluntary winding up of the company under the Insolvency Act 1986.
+
+(2) The company must consult its tenants on the proposed winding up before passing a special resolution for the winding up of the company under that Act.
+
+(3) Such a special resolution is valid only if—
+
+(a) the company confirms that it consulted its tenants as mentioned in subsection (2), and
+
+(b) a copy of the confirmation accompanies the copy resolution sent to the registrar of companies in accordance with section 30 of the Companies Act 2006.
+
+(4) The company must, as soon as reasonably practicable after sending the copy resolution to the registrar of companies, give notice of the voluntary winding up to the Regulator.
+
+(5) The Regulator must issue guidance in relation to consultation for the purpose of subsection (2).
+
+(6) A company must, in consulting tenants for that purpose, have regard to guidance issued under subsection (5).]
+
+### [[^F66]Registered social landlord becoming a subsidiary of another body
+
+#### 104A [[^F67]Registered social landlord becoming a subsidiary of another body
+
+(1) This section applies where a registered social landlord which is a registered society or a registered company proposes to enter into an arrangement under which the landlord will become a subsidiary of a body of which it is not currently a subsidiary.
+
+(2) Subject to subsection (5)—
+
+(a) the registered social landlord must comply with sections 115 to 120 (as applied by subsection (3)) in relation to the arrangement, and
+
+(b) the arrangement has effect only if the conditions in subsection (4) are met.
+
+(3) Sections 115 to 120 apply in relation to a proposed arrangement to which this section applies as they apply in relation to a proposed disposal to which section 107(4) applies.
+
+(4) The conditions are that, before the arrangement was completed—
+
+(a) the registered social landlord complied with sections 115 and 115A(1) (as applied by subsection (3)), and
+
+(b) a majority of tenants—
+
+(i) voting in a ballot conducted under section 115(1)(a) wish the arrangement to proceed, or, as the case may be,
+
+(ii) whose written agreement to the arrangement was sought under section 115A(1)(b) have given that agreement.
+
+(5) The Regulator must determine that subsections (2) and (3) are not, or are to cease, to apply in relation to an arrangement where the Regulator considers that—
+
+(a) the registered social landlord’s viability is in jeopardy for financial reasons,
+
+(b) a person could take a step in relation to the landlord which would require to be notified to the Regulator under section 73, and
+
+(c) the determination under this subsection would substantially reduce the likelihood of a person taking such a step.
+
+(6) The registered social landlord must, as soon as reasonably practicable after the arrangement takes effect (and no later than 28 days after that event), give notice of the arrangement to the Regulator.]]
+
+### Winding up petition
+
+#### [^F68]105 Regulator's power to petition for winding up
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Asset transfer on dissolution or winding up
+
+#### 106 Asset transfer on dissolution or winding up
+
+(1) This section applies to a registered social landlord—
+
+(a) which is a registered society dissolved as mentioned in [[^F69]section 119 or 123 of the Co-operative and Community Benefit Societies Act 2014], or
+
+(b) which is a registered company wound up under the Insolvency Act 1986 (c.45).
+
+(2) Any surplus assets available after the registered social landlord's liabilities have been discharged are to be transferred to such other registered social landlord as the Regulator directs.
+
+(3) The Regulator must—
+
+(a) before making a direction, consult the tenants of any houses to be included in the transfer, and
+
+(b) when making a direction, have regard to any views expressed by those consulted by such time as the Regulator may specify.
+
+(4) The Regulator may discharge any liability of the registered social landlord in order to ensure that assets which would otherwise need to be sold to discharge that liability are instead transferred under subsection (2).
+
+(5) The Regulator may direct the transfer of assets from a registered social landlord which is a charity only if the recipient registered social landlord is a charity which the Regulator, after consulting the Office of the Scottish Charity Regulator, considers has the same or similar charitable purposes (within the meaning of section 7(2) of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10)).
+
+(6) The Regulator may direct the transfer of assets which the registered social landlord is under a duty to apply in accordance with section 19(1) of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10) only if the Regulator—
+
+(a) consults with the Office of the Scottish Charity Regulator, and
+
+(b) after doing so, considers that the recipient registered social landlord will secure the proper application of those assets for the purposes which were set out in the transferor registered social landlord's entry in the Scottish Charity Register immediately before its removal from that register.
+
+(7) This section has effect despite anything in—
+
+[[^F70](a) the Co-operative and Community Benefit Societies Act 2014,]
+
+(b) the Insolvency Act 1986 (c.45),
+
+(c) the Companies Act 2006 (c.46), or
+
+(d) the registered social landlord's constitution.
+
+## Part 9 — Disposal of land or assets by registered social landlords
+
+### 107 [[^F71]Restrictions on power to dispose of land
+
+(1) A registered social landlord may make a disposal of land to which subsection (2) applies only if the landlord complies with section 110 in relation to the disposal.
+
+(2) This subsection applies to a disposal of land, other than a disposal by way of granting security over the land or any interest in it, which will not result in a tenant under a Scottish secure tenancy ceasing to be a tenant of the landlord making the disposal.
+
+(3) A registered social landlord may make a disposal of land to which subsection (4) applies only if––
+
+(a) the landlord complies with sections 115 to 120 in relation to the disposal, and
+
+(b) a majority of tenants—
+
+(i) voting in a ballot in relation to the disposal under section 115A(1)(a) wish the disposal to proceed, or, as the case may be,
+
+(ii) whose written agreement to the disposal was sought under section 115A(1)(b) have given that agreement.
+
+(4) This subsection applies to a disposal of land which will result in a tenant under a Scottish secure tenancy ceasing to be a tenant of the landlord making the disposal.
+
+(5) This section does not apply where section 108 applies to the disposal.]
+
+### 108 [[^F72]Disposals not subject to section 107]
+
+(1) [[^F73]This section applies to] a disposal—
+
+(a) by way of a lease under a Scottish secure tenancy (or what would be such a tenancy but for schedule 1 to the Housing (Scotland) Act 2001 (asp 10)),
+
+(b) by way of a lease under a short Scottish secure tenancy,
+
+(c) by way of a lease under an assured tenancy or an assured agricultural occupancy,
+
+(d) by way of a lease under what would be an assured tenancy but for any of paragraphs 3 to 8 and 12 of schedule 4 to the Housing (Scotland) Act 1988 (c.43),
+
+[[^F74](da) by way of a lease under what would be a private residential tenancy but for—
+
+(i) any of paragraphs 2 to 6 or 20 of schedule 1 of the Private Housing (Tenancies) (Scotland) Act 2016, and
+
+(ii) paragraph 14 of that schedule.]
+
+(e) by way of an occupancy arrangement,
+
+[^F75]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) made in pursuance of a direction given by the Regulator under section 67 or 106,
+
+(h) for which the Regulator's consent is required under section 78,
+
+(i) made in implementation of agreed proposals under section 86 or 87,
+
+(j) arising from a restructuring [[^F76]in relation to which Part 8 applies], or
+
+(k) of such type and made in such manner as the Regulator may determine.
+
+(2) For the purposes of subsection (1)(e) an occupancy arrangement is an arrangement other than a lease—
+
+(a) under which a person has the lawful right to occupy living accommodation (within the meaning of section 194 of the Housing (Scotland) Act 2006 (asp 1)) which forms part of premises or a group of premises owned by the landlord, and
+
+(b) where the occupants of the premises share with each other one or more of—
+
+(i) a toilet,
+
+(ii) personal washing facilities, or
+
+(iii) facilities for the preparation or provision of cooked food.
+
+(3) Before making, revising or withdrawing a determination under subsection (1)(k), the Regulator must consult—
+
+(a) Ministers,
+
+(b) registered social landlords or their representatives, and
+
+(c) secured creditors of registered social landlords or their representatives.
+
+(4) The Regulator must make arrangements for bringing a determination (and any revision or withdrawal) to the attention of those affected by it.
+
+### 109 [[^F77]Notification of disposals]
+
+[[^F78](1) A registered social landlord must notify the Regulator of any disposal of land or any other asset as soon as reasonably practicable (and, where section 107(4) applies, no later than 28 days) after the disposal is made.
+
+(2) The Regulator may make a determination—
+
+(a) dispensing with the notification requirement in subsection (1),
+
+(b) where section 107(4) applies, extending the period mentioned in that subsection.]
+
+(3) A determination may be given generally or for particular purposes (and different determinations may be issued for different social landlords or for different areas or properties).
+
+(4) Before issuing, revising or withdrawing a general determination, the Regulator must consult—
+
+(a) Ministers,
+
+(b) tenants of social landlords or their representatives,
+
+(c) registered social landlords or their representatives, and
+
+(d) secured creditors of registered social landlords or their representatives.
+
+(5) The Regulator need not consult on a specific determination relating only to one or more particular registered social landlords or properties.
+
+### 110 [[^F79]Tenant consultation where no change of landlord]
+
+[[^F80](1) This section applies in relation to disposals of land by registered social landlords to which section 107(2) applies.]
+
+(2) The registered social landlord must [[^F81], before making such a disposal] —
+
+(a) consult—
+
+(i) tenants of any houses included in the disposal, and
+
+(ii) any other person whom the Regulator requires the landlord to consult, and
+
+(b) inform the Regulator of the views expressed by those consulted.
+
+[[^F82](3) The Regulator must issue guidance in relation to consultation under subsection (2).
+
+(4) A registered social landlord must, in consulting tenants or other persons under subsection (2)(a), have regard to guidance issued by the Regulator under subsection (3).]
+
+### 111 [[^F83]Effect of disposals in breach of section 107
+
+(1) A disposal of land by a registered social landlord to which section 107(2) applies is void if the landlord did not comply with section 110(2)(a).
+
+(2) A disposal of land by a registered social landlord to which section 107(4) applies is void if—
+
+(a) the landlord did not comply with section 115 or 115A(1), or
+
+(b) a majority of tenants—
+
+(i) voting in a ballot in relation to the disposal under section 115A(1)(a) did not wish the disposal to proceed, or, as the case may be,
+
+(ii) whose written agreement to the disposal was sought under section 115A(1)(b) did not give that agreement.]
+
+### 112 De-registered bodies
+
+This Part applies in relation to a disposal of land by a body removed from the register of social landlords as if that body were still registered. But it only so applies in relation to land held by the body before it was so removed.
+
+## Part 10 — Special procedure for disposals and restructuring resulting in change of landlord
+
+### Chapter 1 — Disposals by a registered social landlord
+
+#### 113 Disposals resulting in change of landlord
+
+(1) This Chapter applies to a disposal of land by a registered social landlord [[^F84]to which section 107(4) applies.]
+
+[^F85]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where this Chapter applies to only a part of a disposal of land, it applies to that part as to a separate disposal.
+
+#### [^F86]114 Regulator's initial decision
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 115 Consultation with tenants
+
+(1) A registered social landlord proposing to make a disposal must [^F87]... serve a notice on the tenants of each house included in the proposed disposal—
+
+(a) specifying to whom the proposed disposal is to be made,
+
+(b) explaining the likely consequences of the disposal for the tenants,
+
+(c) informing them of their right to make representations to the registered social landlord within such reasonable period (of not less than 28 days) as may be specified, and
+
+(d) including such other details about the proposed disposal as the landlord considers appropriate.
+
+(2) The registered social landlord must, after considering any timeous representations made in pursuance of the notice served under subsection (1), serve a further notice on the tenants concerned—
+
+(a) informing them—
+
+(i) of any significant changes to the proposed disposal, [^F88] . . .
+
+[^F88]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) explaining that the disposal requires the [[^F89]approval of tenants by way of ballot or written agreement].
+
+#### 115A [[^F90]Tenant approval
+
+(1) A registered social landlord must, in relation to a proposed disposal—
+
+(a) conduct a ballot of tenants of houses included in the proposed disposal on the question of whether the tenants wish the disposal to proceed, or
+
+(b) seek the written agreement of the tenants of houses included in the proposed disposal to the disposal.
+
+(2) The registered social landlord must—
+
+(a) as soon as reasonably practicable after the ballot is completed or, as the case may be, the period for the giving of written agreement has expired, and
+
+(b) before making the disposal,
+
+notify the Regulator of the results of the ballot or, as the case may be, the number of written agreements sought and the number given.]
+
+#### 115B [[^F90]Guidance
+
+(1) The Regulator must issue guidance in relation to tenant consultation and approval under sections 115 and 115A.
+
+(2) Guidance issued under subsection (1) may in particular include guidance as to—
+
+(a) how notices under section 115(1) and (2) are to be served and the information to be contained in such notices,
+
+(b) the consideration to be given to timeous representations made in pursuance of a notice served under section 115(1),
+
+(c) the circumstances in which the approval of tenants under section 115A is to be sought by way of—
+
+(i) ballot,
+
+(ii) written agreement,
+
+(d) how such ballots are to be conducted and how such written agreements are to be sought and given.
+
+(3) A registered social landlord must, in complying with sections 115 and 115A, have regard to guidance issued by the Regulator under subsection (1).]
+
+#### [^F91]116 Regulator's consent
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F91]117 Further information
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F91]118 Ballot
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F91]119 Written agreements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 120 Unaffected tenants
+
+(1) In this section, “unaffected tenant” means a tenant of a house included in a proposed disposal of land who the registered social landlord expects to have vacated the house before the disposal is made.
+
+(2) The registered social landlord—
+
+(a) need not give notice (or further notice) under section 115 to an unaffected tenant, and
+
+(b) may exclude an unaffected tenant from any ballot conducted under [[^F92]section 115A(1)(a)], and
+
+[[^F93](c) need not seek the agreement of an unaffected tenant when seeking written agreement under section 115A(1)(b).]
+
+(3) But, where a registered social landlord does not give such a notice or so excludes a tenant from the ballot or does not seek the tenant's written consent, the [[^F94]registered social landlord must confirm that the tenants concerned have all vacated the houses concerned when notifying the Regulator under section 115A(2)].
+
+#### [^F95]121 Regulator's approval
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F96]122 Purchaser protection
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter 2 — Restructuring of a registered social landlord
+
+#### [^F97]123 Restructuring resulting in change of landlord
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F98]124 Purchaser protection
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F99]CHAPTER 3 — REGISTERED SOCIAL LANDLORD BECOMING A SUBSIDIARY OF ANOTHER BODY]
+
+#### [^F100]124A Regulator's consent
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F101]124B Purchaser protection
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 11 — Change of landlord: secure tenants
+
+### 125 Right to acquire certain houses from local authority landlords
+
+(1) An approved person has the right to acquire an eligible house from a local authority landlord.
+
+(2) That right includes the right to acquire such other heritable property owned by the local authority landlord which will reasonably serve a beneficial purpose in connection with the occupation of that house (and references in this Part to “house” are to be construed accordingly).
+
+### 126 Approved persons
+
+(1) The Regulator may approve any person (other than a local authority landlord) as a person who may exercise the right conferred by section 125.
+
+(2) An approval may be given generally or for particular persons, acquisitions, areas or purposes and different approvals may be given for different cases.
+
+(3) An approval may be given subject to conditions (for example, an approval may specify a maximum number of houses which the approved person may acquire).
+
+(4) The Regulator may vary or revoke an approval (but such a revocation or approval has no effect on transactions previously completed).
+
+### 127 Eligible houses
+
+(1) An eligible house is a house (other than an exempt house) which is—
+
+(a) owned by a local authority landlord, and
+
+(b) occupied by a qualifying tenant.
+
+(2) A “qualifying tenant” is a tenant under a Scottish secure tenancy (other than a tenancy in respect of which an order for recovery of possession has been granted under section 16(2) of the Housing (Scotland) Act 2001 (asp 10)).
+
+(3) An exempt house is a house—
+
+(a) which is one of a group which has been provided with facilities (including a call system and the services of a warden) specially designed or adapted for the needs of persons of pensionable age or disabled persons,
+
+(b) which has facilities which are substantially different from those of an ordinary house and has been designed or adapted for occupation by a person of pensionable age or a disabled person whose special needs require accommodation of the kind provided by the house, or
+
+(c) which falls within subsection (4).
+
+(4) A house falls within this subsection if—
+
+(a) it is held by Orkney Islands Council, Shetland Islands Council or Comhairle nan Eilean Sar for the purposes of its functions as an education authority and is required for the accommodation of a person who is or will be employed by the council for those purposes, and
+
+(b) the council concerned is not likely to be able reasonably to provide other suitable accommodation for that person.
+
+### 128 Application to acquire eligible house
+
+(1) An approved person may make an application to a local authority landlord which—
+
+(a) states that the applicant seeks to acquire under this Part an eligible house owned by the local authority landlord, and
+
+(b) is otherwise in such form as the Regulator may from time to time determine.
+
+(2) Such an application must be accompanied by the written agreement to an approach being made to the local authority landlord of—
+
+(a) the qualifying tenant occupying the eligible house (and in the case of a joint tenancy each qualifying tenant), and
+
+(b) any spouse or civil partner of such a qualifying tenant, or any person living with such a qualifying tenant as if they were the tenant's spouse or civil partner, who occupies the house as an only or principal home.
+
+(3) The applicant must give a copy of the application to—
+
+(a) the Regulator, and
+
+(b) each qualifying tenant.
+
+(4) An application ceases to have effect if, at any time before notice of acceptance of an offer to sell is given under section 132—
+
+(a) the applicant withdraws the application by giving notice of withdrawal to the local authority landlord and each qualifying tenant,
+
+(b) a person whose agreement has been obtained for the purposes of subsection (2) withdraws that agreement by giving notice to the local authority landlord and the applicant, or
+
+(c) the applicant is required to do anything under this Part within a certain period and that period (or that period as extended under section 136) expires without the applicant doing what is required,
+
+but this does not affect the applicant's right to make a further application.
+
+### 129 Offer to sell
+
+(1) The local authority landlord must, within 2 months of an application being made under section 128—
+
+(a) make an offer to sell the house to the applicant—
+
+(i) at a price equal to the market value of house as determined in accordance with section 130, and
+
+(ii) subject to conditions imposed in accordance with section 131, or
+
+(b) refuse the application under section 133.
+
+(2) The local authority landlord must give a copy of an offer to sell to the qualifying tenant.
+
+### 130 Market value of eligible house
+
+(1) It is for the local authority landlord to instruct either of the following to determine the market value of an eligible house—
+
+(a) the district valuer, or
+
+(b) a qualified valuer nominated by the local authority landlord and accepted by the applicant.
+
+(2) In determining the market value of an eligible house, the valuer must have regard to the price which the house would realise if sold on the open market by a willing seller, with the following assumptions—
+
+(a) that it was sold on the day on which the application to acquire the house was made,
+
+(b) that it was sold subject to the tenancy held by the qualifying tenant but otherwise with vacant possession,
+
+(c) that it was to be conveyed with the same right and subject to the same burdens as would apply to an acquisition under this Part,
+
+(d) that the only prospective acquirers were the persons who were approved persons on the date on which the application was made, and
+
+(e) that the applicant would, within a reasonable period, carry out such works as are reasonably necessary to put the house into the state of repair required by the local authority landlord's repairing obligations.
+
+(3) Where a valuer determines that the house would not realise any price if offered for sale in accordance with subsection (2) that price may be taken to be—
+
+(a) a negative value equal to the amount which would require to be paid to an approved person in order that the approved person would willingly acquire the house, or
+
+(b) where an approved person would willingly acquire the house for no consideration, nil,
+
+and the house's market value may accordingly be determined to be a negative value or nil.
+
+(4) Where market value is determined to be a negative value or nil—
+
+(a) the reference in section 129 to selling the house is to be read as a reference to disposing of it, and
+
+(b) where the market value is determined to be a negative value, the obligation to pay falls on the local authority landlord.
+
+### 131 Sale conditions
+
+(1) An offer to sell—
+
+(a) must include such conditions as are needed to entitle the applicant to receive a good and marketable title to the house, and
+
+(b) may be subject to such other conditions as are reasonable.
+
+(2) But such other conditions—
+
+(a) must not reduce the tenant's enjoyment and use of the house as tenant of the applicant from that which the tenant had as tenant of the local authority landlord,
+
+(b) must not require the applicant or the tenant to pay any of the local authority landlord's expenses, and
+
+(c) must not impose a new charge, or increase an existing charge, for the provision of a service in relation to the house unless that charge is in reasonable proportion to the cost to the local authority landlord of providing the service.
+
+(3) An applicant who—
+
+(a) considers that a condition contained in the offer to sell is unreasonable, or
+
+(b) wishes to have a new condition included in the offer to sell,
+
+may request the local authority landlord to amend the offer to sell accordingly.
+
+(4) Such a request—
+
+(a) is to be given by serving notice on the local authority landlord, and
+
+(b) must be made within 1 month of the offer to sell being made.
+
+(5) The local authority landlord must, within 1 month of such a request being made—
+
+(a) agree to the request and make an accordingly amended offer to sell to the applicant, or
+
+(b) refuse the request by notifying the applicant accordingly.
+
+(6) If a local authority landlord—
+
+(a) refuses a request, or
+
+(b) fails to comply with subsection (5),
+
+the applicant may refer the matter to the Lands Tribunal.
+
+(7) Such a reference must be made within 1 month of the refusal or, as the case may be, of the expiry of the period referred to in subsection (5).
+
+(8) The Lands Tribunal may determine such a reference by—
+
+(a) upholding a condition,
+
+(b) striking out or modifying a condition, or
+
+(c) inserting a new condition.
+
+(9) Where a Lands Tribunal determination results in a modification of the offer to sell, it must order the local authority landlord to make to the applicant an amended offer to sell (amended in accordance with the determination) within 2 months of the determination.
+
+### 132 Acceptance of an offer to sell
+
+(1) An applicant may give the local authority landlord notice of acceptance of an offer to sell within 2 months of the latest of—
+
+(a) the date on which the offer to sell was made,
+
+(b) the date on which an amended offer to sell (or, if there is more than one, the latest amended offer to sell) was made,
+
+(c) the date of a determination by the Lands Tribunal under section 131(8) which does not require the local authority landlord to make an amended offer to sell.
+
+(2) If a notice of acceptance is not given within the period required by subsection (1) (or within that period as extended under section 136), both the offer to sell and the related application made under section 128 lapse.
+
+(3) A notice of acceptance is of no effect unless the qualifying tenant and the applicant have concluded a lease of the house for a period immediately subsequent to the acquisition of the house (being a lease which is conditional upon that acquisition proceeding).
+
+(4) Giving a notice of acceptance constitutes a contract of sale of the house between the local authority landlord and the applicant on the terms contained in the offer (or amended offer) to sell.
+
+### 133 Refusal of application
+
+(1) A local authority landlord may refuse an application made under section 128 (by giving notice of refusal to the applicant) where it—
+
+(a) disputes the applicant's right to acquire under this Part, or
+
+(b) considers after reasonable inquiry (including giving the applicant a reasonable opportunity to amend the application) that any information in the application is materially incorrect.
+
+(2) A notice of refusal must—
+
+(a) specify the grounds of the dispute or, as the case may be, the information considered to be materially incorrect, and
+
+(b) must be given—
+
+(i) where given under subsection (1)(a), within 1 month of the date on which the application was made, and
+
+(ii) where given under subsection (1)(b), within 2 months of that date.
+
+(3) The applicant may, within 1 month of a notice of refusal being given, refer the matter to the Lands Tribunal for a finding that the applicant is entitled to exercise the right conferred by this Part on such terms as it may determine.
+
+### 134 Reference to Lands Tribunal
+
+(1) Where a local authority landlord—
+
+(a) fails to comply with section 129(1),
+
+(b) fails to comply with an order made under section 131(9), or
+
+(c) fails to progress an application in accordance with any finding under section 133(3) within 2 months of that finding being made,
+
+the applicant may refer the matter to the Lands Tribunal.
+
+(2) The Lands Tribunal may, if it finds that any of paragraphs (a) to (c) of subsection (1) apply, make an offer to sell to the applicant and do otherwise as the local authority landlord might do in pursuance of such an offer to sell.
+
+Anything done by the Lands Tribunal under this subsection has effect as if done by the local authority landlord.
+
+(3) Nothing in this section affects a provision in any other enactment relating to the enforcement of a statutory duty whether under that enactment or otherwise.
+
+### 135 Consent for subsequent disposals
+
+(1) A person who acquires any property under this Part must not dispose of it unless the Regulator consents to the disposal.
+
+(2) The Regulator may—
+
+(a) give general consent to certain disposals, or
+
+(b) give consent for particular purposes (for example, for particular persons, particular property or particular disposals).
+
+(3) The Regulator's consent may be conditional.
+
+(4) Before consenting to a disposal, the Regulator must—
+
+(a) satisfy itself that the person who is seeking the consent has consulted—
+
+(i) the tenants of houses included in the disposal, and
+
+(ii) any other person whom the Regulator requires the person to consult, and
+
+(b) have regard to the views expressed by those consulted.
+
+(5) This section does not apply to a disposal by a registered social landlord (such a disposal being subject to Part 9).
+
+### 136 Extension of time periods
+
+Any period during which a local authority landlord or an applicant may or must do anything under this Part may be extended (or further extended) by notice given before the end of the period by—
+
+(a) the applicant, where the thing is to be done by the local authority landlord, or
+
+(b) the local authority landlord, where the thing is to be done by the applicant.
+
+## Part 12 — Charitable registered social landlords
+
+### 137 Charitable registered social landlords
+
+(1) In this section—
+
+- “charitable registered social landlord” means a registered social landlord which is entered in the Scottish Charity Register, and
+- “OSCR” means the Office of the Scottish Charity Regulator.
+
+(2) The Regulator and OSCR must, in pursuance of section 18 of this Act and section 20 of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10), together make arrangements with a view to—
+
+(a) securing the exchange of information between them about charitable registered social landlords,
+
+(b) securing the co-ordination of any activities they carry on in exercising functions in relation to charitable registered social landlords, and
+
+(c) preventing any unnecessary duplication in relation to any inquiries made, or to be made, by them in relation to charitable registered social landlords.
+
+(3) The Regulator and OSCR—
+
+(a) must set out the arrangements in a memorandum,
+
+(b) must keep the memorandum under review, and
+
+(c) may from time to time revise or replace the memorandum.
+
+(4) The Regulator and OSCR must take such steps as they think fit to publicise the memorandum (and any revision or replacement).
+
+## Part 13 — Social landlords and rural housing bodies: long leases and heritable securities
+
+### 138 Residential restriction on a long lease
+
+In section 8 of the Land Tenure Reform (Scotland) Act 1974 (c.38), after subsection (3) insert—
+
+> (3A) The condition contained in subsection (1) above does not apply to a long lease executed after the commencement of section 138 of the Housing (Scotland) Act 2010 (asp 17) where at the time the lease is executed the lessee is—
+>
+> (a) a social landlord (within the meaning of section 165 of the Housing (Scotland) Act 2010);
+>
+> (b) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010); or
+>
+> (c) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003).
+
+.
+
+### 139 Heritable security redemption right
+
+In section 11 of the Land Tenure Reform (Scotland) Act 1974, after subsection (3) insert—
+
+> (3A) The right to redeem a heritable security conferred by this section does not apply to a heritable security where—
+>
+> (a) the debtor (or where the debtor is not the proprietor, the proprietor of the security subjects) has in writing renounced the right to redeem conferred by this section; and
+>
+> (b) at the time of doing so that body is—
+>
+> (i) a social landlord (within the meaning of section 165 of the Housing (Scotland) Act 2010);
+>
+> (ii) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010); or
+>
+> (iii) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003).
+
+.
+
+## Part 14 — Right to buy: reforms
+
+### [^F102]140 Re-accommodated persons: protection of right to buy
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F102]141 Limitation on right to buy: new tenants
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F102]142 Pressured areas: amendments
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F102]143 Limitation on right to buy: new supply social housing
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F102]144 Limitation on right to buy: police housing
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F103]145 Duty to collect and publish information: local authority housing stock
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F104]146 Duty to collect and publish information: tenants eligible for right to buy
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F105]147 Duty to collect and publish information: sale of houses by registered social landlords
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 15 — Amendment of Housing (Scotland) Act 2006
+
+### 148 Introductory
+
+This Part contains miscellaneous amendments of the Housing (Scotland) Act 2006 (asp 1) (“the 2006 Act”).
+
+### 149 HRA designation orders: removal of Ministerial involvement
+
+(1) Section 2(2) of the 2006 Act is repealed.
+
+(2) In section 5 of the 2006 Act—
+
+(a) in subsection (1), paragraph (b) and the word “or” immediately preceding it are repealed,
+
+(b) in subsection (2), the words “, with the consent of the Scottish Ministers,” are repealed,
+
+(c) in subsection (4), the words “(1)(b) or” are repealed.
+
+(3) In schedule 1 to the 2006 Act—
+
+(a) in paragraph 1(3)—
+
+(i) for the words from first “as” to “considering” substitute “ consider ”,
+
+(ii) after first “notice” insert “ before deciding whether to make the HRA designation order. ”,
+
+(iii) sub-paragraphs (a) and (b) are repealed,
+
+(b) after paragraph 1(5) insert—
+
+> (5A) Before making such a modification, the local authority must—
+>
+> (a) give notice describing the general effect of the proposed modification to—
+>
+> (i) any owner and occupier of a house, and any other person, who it considers likely to be significantly affected by the modification, and
+>
+> (ii) where it considers that a building which falls within paragraph 4 is likely to be significantly affected by the modification, the planning authority (where the planning authority is not the local authority), and
+>
+> (b) consider any representations made by such persons.
+
+,
+
+(c) paragraph 1(6) is repealed,
+
+(d) paragraph 2 is repealed,
+
+(e) in the heading for paragraph 3, for “designation” substitute “ decision ”,
+
+(f) after paragraph 3(2) insert—
+
+> (3) Where the local authority decides not to make an HRA designation order proposed under paragraph 1(1), they must give notice of that fact to the persons, and in the manner, mentioned in that provision.
+
+.
+
+### 150 Recovery of expenses
+
+(1) In section 50(2)(c)(i) of the 2006 Act, after “unable” insert “ or unwilling ”.
+
+(2) In section 59(1) of the 2006 Act, after paragraph (a) insert—
+
+> (aa) expenses it incurs in pursuance of—
+>
+> (i) devising a maintenance plan under 46(1)(b)(ii) or (c), or
+>
+> (ii) varying a maintenance plan under section 47(1),
+
+.
+
+(3) In section 61 of the 2006 Act, after subsection (3) insert—
+
+> (3A) A local authority may recover—
+>
+> (a) the amount of any fee payable in respect of registering any such document,
+>
+> (b) any administrative expenses incurred by it in connection with the registration, and
+>
+> (c) interest, at such reasonable rate as it may determine, from the date when a demand for payment is served until the whole amount is paid,
+>
+> from the owner of the house concerned.
+
+.
+
+(4) In section 172 of the 2006 Act—
+
+(a) in subsection (1), after “(2)” insert “ , section 61(3A), subsection (6A) below ”,
+
+(b) after subsection (6) insert—
+
+> (6A) A local authority may recover—
+>
+> (a) the amount of any fee payable in respect of registering a repayment charge or a discharge of such a charge,
+>
+> (b) any administrative expenses incurred by it in connection with the registration, and
+>
+> (c) interest, at such reasonable rate as it may determine, from the date when a demand for payment is served until the whole amount is paid,
+>
+> from the owner of the living accommodation concerned.
+
+.
+
+### 151 Scheme of assistance: demolition works
+
+Section 71 of the 2006 Act is amended as follows—
+
+(a) in subsection (1)(b), after “work” insert “ (including demolition work) ”,
+
+(b) in subsection (2), after paragraph (d) insert—
+
+> (da) demolishing a house,
+
+.
+
+## Part 16 — Miscellaneous
+
+### 152 Tenant protection: orders for possession against landlord
+
+(1) After section 5A(8) of the Heritable Securities (Scotland) Act 1894 (c.44) insert—
+
+> (9) For the avoidance of doubt, a decree granted on an application to which this section applies is not an order for possession of a house let on an assured tenancy (within the meaning of Part II of the Housing (Scotland) Act 1988 (c.43)).
+
+.
+
+(2) After section 24(9) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35) insert—
+
+> (10) For the avoidance of doubt, a decree granted on an application under subsection (1B) above is not an order for possession of a house let on an assured tenancy (within the meaning of Part II of the Housing (Scotland) Act 1988 (c.43)).
+
+.
+
+(3) After section 216(2) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) insert—
+
+> (2A) Subsection (2) does not apply to an occupant with an assured tenancy (within the meaning of Part II of the Housing (Scotland) Act 1988 (c.43)) or any effects of that occupant where the decree for removing from heritable property was granted on an application—
+>
+> (a) to which section 5A of the Heritable Securities (Scotland) Act 1894 (c.44) applies; or
+>
+> (b) under section 24(1B) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35).
+
+.
+
+### 153 Tenant protection: repossession orders
+
+The Housing (Scotland) Act 2001 (asp 10) is amended as follows—
+
+(a) in section 16, after subsection (5) insert—
+
+> (5A) Where an order is made under subsection (2) in proceedings under section 14 on the ground that rent lawfully due from the tenant has not been paid (as set out in paragraph 1 of schedule 2) or on grounds including that ground—
+>
+> (a) subsection (5)(a) does not apply,
+>
+> (b) the tenancy is terminated only if the landlord recovers possession of the house in pursuance of the order,
+>
+> (c) the order must specify the period for which the landlord's right to recover possession of the house is to have effect (being no longer than any maximum period which the Scottish Ministers by order prescribe), and
+>
+> (d) the landlord must have regard to any guidance issued by the Scottish Ministers about recovery of possession in pursuance of the order.
+>
+> (5B) Before making an order under subsection (5A)(c) or issuing guidance under subsection (5A)(d), the Scottish Ministers must consult—
+>
+> (a) such bodies representing local authorities,
+>
+> (b) such registered social landlords or bodies representing them,
+>
+> (c) such bodies representing tenants' interests, and
+>
+> (d) such other persons,
+>
+> as they think fit.
+
+,
+
+(b) in section 109(6), after second “section” insert “ 16(5A)(c) or ”.
+
+### 154 Police accommodation not to be Scottish secure tenancy
+
+In paragraph 2 of schedule 1 to the Housing (Scotland) Act 2001 (asp 10)—
+
+(a) sub-paragraph (a) is repealed,
+
+(b) in sub-paragraph (c), for the words “a police force or” substitute “ an ”,
+
+(c) at the end of the paragraph insert—
+
+> (2) A tenancy is not a Scottish secure tenancy if the landlord is a local authority landlord and—
+>
+> (a) the house occupied by the tenant is held by the landlord for the purposes of a police force, or
+>
+> (b) the tenant is let the house expressly on a temporary basis pending its being required for the purposes of a police force.
+>
+> (3) Sub-paragraph (2)(a) does not prevent a tenancy from being a Scottish secure tenancy if—
+>
+> (a) the tenancy was created before the relevant day,
+>
+> (b) the tenant moved to the house in pursuance of—
+>
+> (i) an order for recovery of possession made under section 16(2) of the Housing (Scotland) Act 2001 (asp 10), on any of the grounds set out in paragraphs 9 to 13 and 15 of schedule 2 to that Act, in respect of a house subject to a Scottish secure tenancy created before the relevant day, or
+>
+> (ii) the operation of section 19(3)(b), 21(3)(b) or 22(6) of that Act following termination of a Scottish secure tenancy created before the relevant day,
+>
+> (c) the tenant moved to the house from a house subject to a Scottish secure tenancy created before the relevant day in pursuance of a decision by the landlord to demolish that other house as a result of which—
+>
+> (i) the tenancy of that other house was terminated by written agreement between the landlord and the tenant, and
+>
+> (ii) the house was made available to the tenant,
+>
+> (d) the tenant occupied the house immediately before the relevant day under a short Scottish secure tenancy which has, since that day, been converted into a Scottish secure tenancy under section 37, or
+>
+> (e) the tenant—
+>
+> (i) occupied the house (or any other house held by the landlord for the purposes of a police force) under a Scottish secure tenancy immediately before the creation of the tenancy, and
+>
+> (ii) agreed to terminate that Scottish secure tenancy without having been notified by the landlord of the effect of sub-paragraph (2)(a) at least 28 days before so agreeing.
+>
+> (4) In this paragraph—
+>
+> - “police force” has the same meaning as in the Police (Scotland) Act 1967 (c.77),
+> - “relevant day” means the day on which section 154 of the Housing (Scotland) Act 2010 (asp 17) comes into force.
+
+.
+
+### 155 Scottish secure tenancy: rent arrears pre-action requirements
+
+The Housing (Scotland) Act 2001 (asp 10) is amended as follows—
+
+(a) in section 14—
+
+(i) after subsection (2) insert—
+
+> (2A) Where such proceedings are to include the ground that rent lawfully due from the tenant has not been paid (as set out in paragraph 1 of schedule 2)—
+>
+> (a) the notice under subsection (2) must not be served unless the landlord has complied with the pre-action requirements in section 14A, and
+>
+> (b) the proceedings may not be raised unless the landlord has confirmed to the court in such form as the Scottish Ministers may prescribe by regulations that those requirements have been complied with.
+
+,
+
+(ii) the word “and” immediately following subsection (4)(a) is repealed, and
+
+(iii) in subsection (4), at the end of paragraph (b) insert
+
+> , and
+>
+> (c) where subsection (2A) applies, the steps taken by the landlord which the landlord considers to constitute compliance with the pre-action requirements in section 14A.
+
+,
+
+(b) after section 14, insert—
+
+> **14A Pre-action requirements where grounds for possession include rent arrears**
+>
+> (1) The pre-action requirements referred to in section 14(2A) are set out in subsections (2) to (7) below.
+>
+> (2) The landlord must provide the tenant with clear information about—
+>
+> (a) the terms of the tenancy agreement, and
+>
+> (b) outstanding rent and any other outstanding financial obligation of the tenancy.
+>
+> (3) The landlord must make reasonable efforts to provide the tenant with advice and assistance on the tenant's eligibility to receive—
+>
+> (a) housing benefit, and
+>
+> (b) other types of financial assistance (for example, other benefits or grants).
+>
+> (4) The landlord must provide the tenant with information about sources of advice and assistance in relation to management of debt.
+>
+> (5) The landlord must make reasonable efforts to agree with the tenant a reasonable plan for future payments to the landlord, such plan to include proposals in respect of—
+>
+> (a) future payments of rent, and
+>
+> (b) outstanding rent and any other outstanding financial obligation of the tenancy.
+>
+> (6) The landlord must not serve a notice under section 14(2) if—
+>
+> (a) an application for housing benefit for the tenant—
+>
+> (i) has been made but has not yet been determined, and
+>
+> (ii) is, in the opinion of the landlord, likely to result in the benefit being paid at a level allowing the tenant to pay, or reduce by an amount acceptable to the landlord, the outstanding rent and any other outstanding financial obligation of the tenancy,
+>
+> (b) the tenant is taking other steps which, in the opinion of the landlord, are likely to result in the payment to the landlord within a reasonable time of—
+>
+> (i) the outstanding rent, and
+>
+> (ii) any other outstanding financial obligation of the tenancy, or
+>
+> (c) the tenant is complying with the terms of a plan agreed to in accordance with subsection (5).
+>
+> (7) The landlord, unless it is a local authority landlord, must encourage the tenant to contact the local authority in whose area the house is situated.
+>
+> (8) In complying with the pre-action requirements the landlord must have regard to any guidance issued by the Scottish Ministers.
+>
+> (9) The Scottish Ministers may by order make further provision about the pre-action requirements, including provision—
+>
+> (a) specifying particular steps to be taken, or not to be taken, by a landlord in complying with any requirement;
+>
+> (b) modifying or removing any requirement.
+>
+> (10) In this section, “housing benefit” has the same meaning as in section 123 of the Social Security Contributions and Benefits Act 1992 (c.4).
+
+, and
+
+(c) in section 109—
+
+(i) in subsection (4), after “7(3)” insert “ , 14A(9) ”, and
+
+(ii) in subsection (6), after second “section” insert “ 14A(9) or ”.
+
+### 156 Local authority duties on homelessness: armed forces
+
+In section 27 of the Housing (Scotland) Act 1987 (c.26)—
+
+(a) sub-paragraph (i) of subsection (2)(a) and the word “or” following it are repealed,
+
+(b) paragraph (a) of subsection (3) and the word “or” following it are repealed,
+
+(c) in paragraph (b) of subsection (3), the word “other” is repealed.
+
+### 157 Vacant dwellings: use of information obtained for council tax purposes
+
+(1) In paragraph 18A(1) of schedule 2 to the Local Government Finance Act 1992 (c.14)—
+
+(a) for “A billing” substitute “ An ”,
+
+(b) after “Part 1” insert “ or Part 2 ”.
+
+(2) In section 129(8)(a) of the Local Government Act 2003 (c.26), the word “85,” is repealed.
+
+### 158 Housing support: persons found to be homeless or threatened with homelessness
+
+After section 32A of the Housing (Scotland) Act 1987 (c.26) insert—
+
+> **32B Housing support: persons found to be homeless or threatened with homelessness**
+>
+> (1) Subsection (2) applies where a local authority—
+>
+> (a) are subject to the duty under section 31(2) or 32(2) in relation to an applicant; and
+>
+> (b) have reason to believe that the applicant may be in need of prescribed housing support services.
+>
+> (2) The local authority must assess whether the applicant, and any other person residing with the applicant, needs prescribed housing support services.
+>
+> (3) In carrying out such an assessment the local authority must—
+>
+> (a) conduct inquiries of such type as may be prescribed; and
+>
+> (b) have regard to any prescribed matters.
+>
+> (4) Following such an assessment, the local authority must ensure that prescribed housing support services are provided to any person assessed as being in need of them.
+>
+> (5) The Scottish Ministers may by regulations made by statutory instrument make further provision about the provision of prescribed housing support services in pursuance of subsection (4) and may, in particular, specify—
+>
+> (a) the period for which services are to be provided;
+>
+> (b) matters to which a local authority are to have regard when ensuring provision of services.
+>
+> (6) Regulations made under this section may make different provision for different purposes and different areas.
+>
+> (7) Before making any regulations under this section, the Scottish Ministers must consult—
+>
+> (a) such bodies representing local authorities;
+>
+> (b) such bodies representing the interests of homeless persons; and
+>
+> (c) such other persons,
+>
+> as they think fit.
+>
+> (8) Regulations under this section may be made only if a draft of the statutory instrument containing the regulations has been laid before, and approved by resolution of, the Scottish Parliament.
+>
+> (9) In this section, “housing support services” includes any service which provides support, assistance, advice or counselling to an individual with particular needs with a view to enabling that individual to occupy, or to continue to occupy, residential accommodation as the individual's sole or main residence.
+
+.
+
+## Part 17 — Supplementary and final provisions
+
+### 159 Offences by bodies corporate etc.
+
+(1) Where—
+
+(a) an offence under this Act has been committed by—
+
+(i) a social landlord, or
+
+(ii) a body corporate, or a Scottish partnership or other unincorporated association, other than a social landlord, and
+
+(b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+
+(i) a relevant individual, or
+
+(ii) an individual purporting to act in the capacity of a relevant individual,
+
+that individual as well as the offender is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In subsection (1), “relevant individual” means—
+
+(a) in relation to a registered social landlord, an officer of the registered social landlord,
+
+(b) in relation to a local authority, an officer or member of the local authority,
+
+(c) in relation to a body corporate other than a local authority or registered social landlord—
+
+(i) a director, manager, secretary or other similar officer of the body,
+
+(ii) where the affairs of the body are managed by its members, the members,
+
+(d) in relation to a Scottish partnership, a partner, and
+
+(e) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+### 160 Formal communications
+
+(1) A “formal communication” means—
+
+(a) any approval, application, certificate, consent, direction, notice, offer to sell, requirement or submission, or
+
+(b) any copy of such a thing,
+
+which is made, served or given under or for the purposes of this Act.
+
+(2) A formal communication must be in writing.
+
+(3) A formal communication is made, served or given if it is—
+
+(a) hand delivered to the person concerned,
+
+(b) sent, by first class post or by using a registered or recorded delivery postal service, in an envelope or package addressed—
+
+(i) where sent to the Regulator, to the “Scottish Housing Regulator” at the Regulator's principal office,
+
+(ii) where sent to a registered social landlord, to the landlord at the address set out in the register,
+
+(iii) where sent to a local authority, to the local authority at its principal office,
+
+(iv) where sent to a body other than a registered social landlord or local authority, to the body at its registered or principal office,
+
+(v) where sent to an individual, to the individual at the individual's principal place of business or usual or last known abode,
+
+(vi) in any case, to the person concerned at a postal address designated for the purpose by that person (such designation to be made by giving notice to the person making, serving or giving the formal communication), or
+
+(c) sent to the person concerned in some other way (including by email, fax or other electronic means) which the sender reasonably considers likely to cause it to be delivered on the same or next day.
+
+(4) A formal communication which is sent by email, fax or other electronic means is to be treated as being in writing only if it is legible and capable of being used for subsequent reference.
+
+(5) A formal communication is, unless the contrary is proved, to be treated as having been made, served or given—
+
+(a) where hand delivered, on the day of delivery,
+
+(b) where posted, on the day on which it would be delivered in the ordinary course of post, or
+
+(c) where sent in a way described in subsection (3)(c), on the day after it is sent.
+
+(6) This section does not apply in relation to—
+
+(a) an application, direction, notice or other thing which is made, served or given for the purposes of legal proceedings, or
+
+(b) an approval by the Scottish Parliament.
+
+### 161 Orders
+
+(1)Any power of Ministers under this Act to make orders is exercisable by statutory instrument.
+
+(2) Any such power includes power to make—
+
+(a) in the case of an order made under section 166(2) (commencement orders), such transitional, transitory or saving provision as Ministers consider appropriate,
+
+(b) in the case of any other order, such supplementary, incidental, consequential, transitional, transitory or saving provision as Ministers consider appropriate,
+
+(c) different provision for different purposes.
+
+(3) A statutory instrument containing an order is subject to annulment in pursuance of a resolution of the Scottish Parliament. This subsection does not apply—
+
+(a) to orders made under section 166(2) (commencement orders), or
+
+(b) where subsection (4) makes contrary provision.
+
+(4) An order—
+
+(a) under section 24(3)(b), or
+
+(b) under section 163(1)(a) which adds to, replaces or omits any text in this or any other Act,
+
+may be made only if a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
+
+### 162 Minor and consequential amendments and repeals
+
+Schedule 2 sets out minor amendments and amendments and repeals consequential on the provisions of this Act.
+
+### 163 Ancillary provision
+
+(1) Ministers may by order make any—
+
+(a) supplementary provision, or
+
+(b) incidental, consequential, transitional, transitory or saving provision,
+
+which they consider appropriate for the purposes of, or in connection with, or for the purposes of giving full effect to, any provision of this Act.
+
+(2) Such an order may modify any enactment, instrument or document.
+
+### 164 Connected bodies
+
+A body is connected to a social landlord if—
+
+(a) the social landlord can (directly or through nominees) secure that the body's affairs are conducted in accordance with the social landlord's wishes,
+
+(b) the body can (directly or through nominees) secure that the social landlord's affairs are conducted in accordance with the body's wishes,
+
+(c) the body is the social landlord's subsidiary,
+
+(d) the social landlord is the body's subsidiary, or
+
+(e) the body is the subsidiary of a body of which the social landlord is a subsidiary.
+
+[^F106]...
+
+### 165 Interpretation
+
+In this Act, except where the contrary intention appears—
+
+- “approved person” means a person approved under section 126,
+
+- “asset” includes property, rights and interests,
+
+- “assured agricultural occupancy” has the same meaning as in Part 1 of the Housing Act 1988 (c.50),
+
+- “assured tenancy” has the same meaning as in Part 2 of the Housing (Scotland) Act 1988 (c.43),
+
+- “body” includes a body of persons corporate or unincorporated and a partnership constituted under the law of Scotland,
+
+- “charity” means a body entered in the Scottish Charity Register,
+
+- “connected body”, and similar expressions, have the meaning given by section 164,
+
+- “constitution”—
+
+  - (a) in relation to a registered company, means its articles of association,
+  - (b) in relation to a registered society, means its rules,
+  - (c) in relation to a body of any other status, means the instrument which establishes it and states its purposes,
+
+- “disposal”, in relation to property, means any disposal of the property or any interest in it and, in particular, includes—
+
+  - (a) a sale or lease of the property or any interest in it,
+  - (b) granting security over the property or any interest in it, and
+  - (c) granting an option or otherwise entering into a contract for disposal,
+
+- “eligible house” has the meaning given by section 127(1),
+
+- “enforcement notice” has the meaning given by section 56,
+
+- “equal opportunities” has the same meaning as in Section L2 of Part 2 of Schedule 5 to the Scotland Act 1998 (c.46),
+
+- “financial management or governance target” has the meaning given by section 37,
+
+- “house” includes—
+
+  - (a) any part of a building occupied or intended to be occupied as a separate dwelling, and in particular includes a flat, and
+  - (b) any yard, garden, garage, outhouse and pertinent belonging to the house or usually enjoyed with it,
+
+- “housing accommodation” includes flats, lodging-houses and hostels,
+
+- “housing activities” means any activities undertaken by a social landlord in relation to housing services which are or may be provided by it,
+
+- “housing services” means providing housing accommodation and related services and includes anything done, or required to be done, in relation to—
+
+  - (a) the prevention and alleviation of homelessness,
+  - (b) the management of housing accommodation,
+  - (c) the provision of services for owners and occupiers of houses,
+  - (d) the provision and management of sites for gypsies and travellers, whatever their race or origin,
+
+- “inquiries” means inquiries under section 42,
+
+- “landlord” means any person who lets a house under a tenancy, and includes the landlord's successors in title,
+
+- “Lands Tribunal” means the Lands Tribunal for Scotland,
+
+- “legislative registration criteria” has the meaning given by section 24,
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39) and references to a local authority area are to be construed accordingly,
+
+- “local authority landlord” means a landlord which is a local authority, a joint board or joint committee of 2 or more local authorities, or the common good of a local authority, or any trust controlled by a local authority,
+
+- “Ministers” means the Scottish Ministers,
+
+- “offer to sell” has the meaning given by section 129,
+
+- “officer”—
+
+  - (a) in relation to a registered social landlord which is a registered company, has the meaning given by section 1173 of the Companies Act 2006 (c.46),
+  - (b) in relation to a registered social landlord which is a registered society, has the meaning given by [[^F107]section 149 of the Co-operative and Community Benefit Societies Act 2014],
+  - (c) in relation to a registered social landlord of any other status, means any person concerned in the management or control of the registered social landlord,
+
+- “owner”, in relation to any property, means a person who has right to the property whether or not that person has completed title,
+
+- “performance improvement plan” has the meaning given by section 55,
+
+- “performance improvement target” has the meaning given by section 34,
+
+- “personal indemnity insurance” has the meaning given by section 65(3),
+
+- “qualifying tenant” has the meaning given by section 127(2),
+
+- “register” has the meaning given by section 20(1),
+
+- “registered company” means a company for the purposes of the Companies Act 2006 (c.46),
+
+- “registered social landlord” means a body registered in the register,
+
+- “registered society” means a society registered under the [[^F108]Co-operative and Community Benefit Societies Act 2014],
+
+- “registered tenant organisation” has the meaning given by section 53(6) of the Housing (Scotland) Act 2001 (asp 10),
+
+- “registration criteria” has the meaning given by section 23,
+
+- “the Regulator” means the Scottish Housing Regulator established by section 1,
+
+- “regulatory intervention” is to be construed in accordance with section 52,
+
+- “regulatory registration criteria” has the meaning given by section 25,
+
+- “relevant regulators” has the meaning given by section 18(2),
+
+- “responsible individual” has the meaning given by section 63,
+
+- “revision” includes addition and replacement,
+
+- “tenancy” means an agreement under which a house is made available for human habitation, and “lease” and other related expressions are to be construed accordingly,
+
+- “tenant” means a person who leases a house from a landlord and whose right in the house derives directly from the landlord, and in the case of a joint tenancy means all the tenants,
+
+- “Scottish secure tenancy” has the same meaning as in the Housing (Scotland) Act 2001 (asp 10),
+
+- “Scottish Social Housing Charter” has the meaning given by section 31,
+
+- “secured creditor” in relation to a registered social landlord, means a creditor who holds a security over assets,
+
+- “security” means any security or charge (including a floating charge),
+
+- “short Scottish secure tenancy” has the same meaning as in the Housing (Scotland) Act 2001 (asp 10),
+
+- “social landlord” means a registered social landlord, local authority landlord or a local authority which provides housing services,
+
+- [[^F109] "subsidiary" has the same meaning as in the Companies Act 2006 (c.46) or, as the case may be, the [[^F110]Co-operative and Community Benefit Societies Act 2014], ]
+
+- “undischarged bankrupt” means an individual—
+
+  - (a) whose estate has been sequestrated and who has not been discharged (or against whom a bankruptcy order has been made and is still in force),
+  
+  - (b) who has granted a trust deed for, or made a composition or arrangement with, creditors (and has not been discharged in respect of it),
+  
+  - (c) who is the subject of—
+  
+    - (i) a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 (c.66) [[^F111], the Bankruptcy (Scotland) Act 2016] or the Insolvency Act 1986 (c.45), or
+    - (ii) a bankruptcy restrictions undertaking entered into under [[^F112]paragraph 7 of Schedule 4A to the Insolvency Act 1986], or
+  
+  - (d) who has been adjudged bankrupt (and has not been discharged), or is subject to any other kind of order, arrangement or undertaking analogous to those described above, anywhere in the world.
+
+### 166 Commencement
+
+(1) The following provisions come into force on Royal Assent—
+
+- section 161
+- section 163
+- section 165
+- this section
+- section 167
+
+(2) Ministers may by order appoint the day on which each other provision comes into force.
+
+### 167 Short title
+
+This Act is called the Housing (Scotland) Act 2010.
+
+## SCHEDULE 1 — Transitional provisions
+
+*(introduced by section 14(3))*
+
+### Transfer of staff
+
+**1** (1) All staff, other than excepted staff, employed immediately before the coming into force of this paragraph in the Executive Agency of Ministers known as the Scottish Housing Regulator are transferred to, and become members of staff of, the Regulator. Accordingly—
+
+(a) the contract of employment of a transferred person—
+
+(i) is not terminated by the transfer, and
+
+(ii) has effect from the date of transfer as if originally made between the person and the Regulator,
+
+(b) all the rights, powers, duties and liabilities of Ministers under or in connection with a transferred person's contract of employment are transferred to the Regulator, and
+
+(c) anything done before that date by or in relation to Ministers in respect of that contract of employment or a transferred person is to be treated from that date as having been done by, or in relation to, the Regulator.
+
+(2) The excepted staff are staff on secondment or loan to the Agency from another part of the Scottish Administration.
+
+(3) Sub-paragraph (1) does not affect the right of a transferred person to terminate that person's contract of employment if the terms of employment are changed substantially to the detriment of the person; but such a change is not to be taken to have occurred by reason only that the identity of that person's employer has changed.
+
+(4) A determination by Ministers that any member of their staff is employed as mentioned in sub-paragraph (1) or excepted by virtue of sub-paragraph (2) is conclusive of that fact for the purposes of this paragraph.
+
+### Transfer of assets and liabilities
+
+**2** (1) Ministers may by order provide for the transfer to the Regulator of—
+
+(a) any assets held or used by them for or in connection with the purposes of the Executive Agency of Ministers known as the Scottish Housing Regulator,
+
+(b) any liabilities of Ministers incurred for or in connection with those purposes.
+
+(2) An order under sub-paragraph (1) may, in particular—
+
+(a) provide for the creation of rights or interests, or the imposition of liabilities or conditions, in relation to assets transferred, or rights or interests acquired, by virtue of the order,
+
+(b) provide for any assets, liabilities or conditions to be determined under the order.
+
+(3) An order under sub-paragraph (1) has effect in relation to any assets or liabilities to which it applies despite any provision (of whatever nature) which would otherwise prevent, penalise or restrict the transfer of the assets or liabilities.
+
+(4) A right of pre-emption, right of irritancy, right of return or other similar right—
+
+(a) does not operate or become exercisable as a result of any transfer of assets by virtue of an order under sub-paragraph (1), and
+
+(b) accordingly has effect in the case of any such transfer as if the Regulator were the same person in law as Ministers and as if no transfer of the assets had taken place.
+
+(5) Such compensation as is just is to be paid (by Ministers or by the Regulator or by both) to any person in respect of any such right which—
+
+(a) would but for sub-paragraph (4) have operated in favour of, or become exercisable by, that person, but
+
+(b) because of the operation of that sub-paragraph, cannot subsequently operate in the person's favour or (as the case may be) become exercisable by the person.
+
+(6) An order under sub-paragraph (1) may provide for the determination of disputes as to—
+
+(a) whether and, if so, how much compensation is payable, and
+
+(b) the person to whom or by whom it is to be paid.
+
+(7) A certificate given by Ministers which states whether an asset or liability has, or has not, been transferred by virtue of an order under sub-paragraph (1) is conclusive evidence of whether the asset or liability has been so transferred.
+
+(8) In this paragraph “right of return” means any right for the return or reversion of assets in specified circumstances.
+
+## SCHEDULE 2 — Modifications of enactments
+
+*(introduced by section 162)*
+
+### Co-operative and Community Benefit Societies and Credit Unions Act 1968 (c.55)
+
+**1** In section 4A(3)(ba) (societies which cannot disapply section 4) of the Co-operative and Community Benefit Societies and Credit Unions Act 1968, for “section 57 of the Housing (Scotland) Act 2001 (asp 10)” substitute “ section 20(1) of the Housing (Scotland) Act 2010 (asp 17) ”.
+
+### Land Tenure Reform (Scotland) Act 1974 (c.38)
+
+**2** In section 21 (provisions for contracting out to be void) of the Land Tenure Reform (Scotland) Act 1974, for “sections 8(6) and 11(3)” substitute “ sections 8(3A), 8(6), 11(3) and 11(3A) ”.
+
+### Housing (Scotland) Act 1987 (c.26)
+
+**3** (1) The Housing (Scotland) Act 1987 is amended as follows.
+
+(2) Sections 17A and 17B are repealed.
+
+(3) In section 14(2)(a) (houses which may be sold by local authorities without consent) for “Part III of the Housing (Scotland) Act 1988” substitute “ Part 11 of the Housing (Scotland) Act 2010 (asp 17) ”.
+
+[^F113]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In the definition of “registered social landlord” in section 338(1), for “Housing (Scotland) Act 2001 (asp 10)” substitute “ Housing (Scotland) Act 2010 (asp 17) ”.
+
+### Housing (Scotland) Act 1988 (c.43)
+
+**4** (1) The Housing (Scotland) Act 1988 is amended as follows.
+
+(2) In section 1(3)(e), the words from “maintaining” to the third occurrence of “landlords” are repealed.
+
+(3) Sections 56 to 64 are repealed.
+
+(4) For paragraph 11(ea) (local authority and other tenancies) of Schedule 4 substitute—
+
+> (ea) a registered social landlord within the meaning of the Housing (Scotland) Act 2010 (asp 17).
+
+.
+
+### Housing Act 1988 (c.50)
+
+**5** In section 52(10) (recovery etc. of grants) of the Housing Act 1988, for “Housing (Scotland) Act 2001 (asp 10).” substitute “ Housing (Scotland) Act 2010 (asp 17). ”.
+
+### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+
+**6** In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies) after the entry relating to the Scottish Further and Higher Education Funding Council”, insert— “ The Scottish Housing Regulator ”.
+
+### Housing (Scotland) Act 2001 (asp 10)
+
+**7** (1) The Housing (Scotland) Act 2001 is amended as follows.
+
+(2) Sections 57 to 68 (and schedules 7 and 8) are repealed.
+
+(3) Sections 69 to 75 are repealed.
+
+(4) In section 76—
+
+(a) in subsection (1), the words “or a registered social landlord” are repealed,
+
+(b) in subsection (2), the words “or, as the case may be, section 66 of this Act” are repealed.
+
+(5) Sections 79 to 82 are repealed.
+
+(6) In section 111, for the definition of “registered social landlord”, substitute—
+
+> “registered social landlord” means a body registered in the register maintained under section 20(1) of the Housing (Scotland) Act 2010 (asp 17),
+
+.
+
+(7) In schedule 9—
+
+(a) in paragraph 1(1), sub-sub-paragraph (b) (and the word “or” immediately preceding it) are repealed,
+
+(b) in paragraph 2(1), the words “or section 66 of this Act” are repealed.
+
+### Scottish Public Services Ombudsman Act 2002 (asp 11)
+
+**8** In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities) for the words “Scottish Homes” in paragraph 44 substitute “ The Scottish Housing Regulator ”.
+
+### Freedom of Information (Scotland) Act 2002 (asp 13)
+
+**[^F114]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Public Appointments and Public Bodies etc.(Scotland) Act 2003 (asp 4)
+
+**10** In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (specified authorities) after the entry relating to the Scottish Further and Higher Education Funding Council insert— “ Scottish Housing Regulator ”.
+
+### Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+
+**11** In the definition of “registered social landlord” in section 143(2) of the Antisocial Behaviour etc. (Scotland) Act 2004, for “section 57 of the Housing (Scotland) Act 2001 (asp 10)” substitute “ section 20(1) of the Housing (Scotland) Act 2010 (asp 17) ”.
+
+### Further and Higher Education (Scotland) Act 2005 (asp 6)
+
+**12** In section 22(5) of the Further and Higher Education (Scotland) Act 2005, for paragraph (i) substitute—
+
+> (i) the Scottish Housing Regulator.
+
+### Charities and Trustee Investment (Scotland) Act 2005 (asp 10)
+
+**13** (1) The Charities and Trustee Investment (Scotland) Act 2005 is amended as follows.
+
+(2) In Section 19, after subsection (4) insert––
+
+> (4A) OSCR must consult the Scottish Housing Regulator before making an application under subsection (4) in relation to a registered social landlord (within the meaning of the Housing (Scotland) Act 2010 (asp 17)).
+
+(3) In section 38—
+
+(a) subsection (1) is repealed,
+
+(b) in subsection (2), for “functions referred to in subsection (1)” substitute “ OSCR's functions under sections 28 to 35 (other than section 30) and section 70A ”,
+
+(c) subsection (7) is repealed,
+
+(d) the words “(1) or”, where occurring in subsections (8), (9) and (10), are repealed,
+
+(e) subsection (12) is repealed.
+
+### Housing (Scotland) Act 2006 (asp 1)
+
+**14** In section 22(4)(b) (application to private rented housing panel) of the Housing (Scotland) Act 2006, for “section 57 of that Act” substitute “ section 20(1) of the Housing (Scotland) Act 2010 (asp 17) ”.
+
+### Public Services Reform (Scotland) Act 2010 (asp 8)
+
+**15** (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
+
+(2) In section 115(6), after the entry relating to the Mental Welfare Commission for Scotland insert— “ Scottish Housing Regulator, ”.
+
+(3) In schedule 19 (persons subject to user focus duty), after the entry relating to the Office of the Scottish Charity Regulator insert— “ Scottish housing regulator ”.
+
+(4) In schedule 20 (persons subject to duty of co-operation), after the entry relating to the Mental Welfare Commission for Scotland insert— “ Scottish Housing Regulator ”.
+
+---
+
+[^F1]: Words in s. 18(2)(a) substituted (1.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 16 para. 60; S.I. 2012/628, art. 6(i) (with arts. 9 11 14 15 17)
+[^F2]: S. 18(2)(f)(fa) substituted (1.4.2013) for s. 18(2)(f) by The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496), art. 1(1), Sch. 11 para. 10(2) (with Sch. 12)
+[^F3]: Words in s. 30 substituted (1.4.2013) by The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496), art. 1(1), Sch. 11 para. 10(3)(4)(a) (with Sch. 12)
+[^F4]: Words in s. 32(1)(b) inserted (1.4.2026) by Housing (Scotland) Act 2025 (asp 13), ss. 58(2)(a), 86(2); S.S.I. 2026/115, reg. 2(1)(5), sch. Pt. 1
+[^F5]: S. 32(3) inserted (1.4.2026) by Housing (Scotland) Act 2025 (asp 13), ss. 58(2)(b), 86(2); S.S.I. 2026/115, reg. 2(1)(5), sch. Pt. 1
+[^F6]: Words in s. 57(1)(a) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(2)(a)(i), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F7]: Words in s. 57(1)(b) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(2)(a)(ii), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F8]: Words in s. 57(2) substituted for s. 57(2)(a)(b) (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(2)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F9]: S. 58(1) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(3)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F10]: Words in s. 58(2) substituted for s. 58(2)(a)(b) (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(3)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F11]: Words in s. 59(1) inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(4)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F12]: S. 59(1A) inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(4)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F13]: S. 59(4)(4A) substituted for s. 59(4) (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(4)(c), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F14]: S. 60(1)(e) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(2), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 3)
+[^F15]: Words in s. 60(3) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 27(2) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F16]: S. 61(1)(a) substituted for s. 61(1)(a)-(c) (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(3), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 4)
+[^F17]: S. 62(1)(a) substituted for s. 62(1)(a)-(c) (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(4), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 5)
+[^F18]: Words in s. 63 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(5), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F19]: Words in s. 65(1)(d) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(6)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F20]: Words in s. 65(2) inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(6)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F21]: S. 65(2A) inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(6)(c), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F22]: Words in s. 65(4) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(6)(d), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F23]: S. 65(4A) inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(6)(e), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F24]: S. 67(4A)-(4C) inserted (20.11.2014 for specified purposes, 31.8.2015 in so far as not already in force) by Housing (Scotland) Act 2014 (asp 14), ss. 97(a), 104(3); S.S.I. 2014/264, art. 2, Sch.; S.S.I. 2015/272, art. 2, Sch.
+[^F25]: S. 67(6)(a) repealed (20.11.2014 for specified purposes, 31.8.2015 in so far as not already in force) by Housing (Scotland) Act 2014 (asp 14), ss. 97(b), 104(3); S.S.I. 2014/264, art. 2, Sch.; S.S.I. 2015/272, art. 2, Sch.
+[^F26]: Words in s. 68(3)(c) substituted (1.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 16 para. 61; S.I. 2012/628, art. 6(i) (with arts. 9 11 14 15 17)
+[^F27]: S. 70 renumbered as s. 70(1) (27.5.2020) by Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 3 para. 2(2)(a) (with s. 9)
+[^F28]: S. 70(2) inserted (27.5.2020) by Coronavirus (Scotland) (No.2) Act 2020 (asp 10), s. 16(1), sch. 3 para. 2(2)(b) (with s. 9)
+[^F29]: Words in s. 78(2)(b) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(2), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F30]: Words in s. 80(2)(d) substituted (1.4.2013) by The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496), art. 1(1), Sch. 11 para. 10(3)(4)(b) (with Sch. 12)
+[^F31]: S. 80(5)(aa) inserted (1.1.2015) by The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486), arts. 1(2), 31(2)(a) (with art. 3)
+[^F32]: Word in s. 80(5)(b) inserted (1.1.2015) by The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486), arts. 1(2), 31(2)(b) (with art. 3)
+[^F33]: Word in s. 80(5) omitted (19.12.2018) by virtue of The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244), arts. 1(2), 41(a)(i) (with art. 3)
+[^F34]: S. 80(5)(c) and word inserted (1.1.2015) by The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486), arts. 1(2), 31(2)(c) (with art. 3)
+[^F35]: S. 80(5)(d) and preceding word inserted (19.12.2018) by The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244), arts. 1(2), 41(a)(ii) (with art. 3)
+[^F36]: Words in s. 80(5) inserted (1.1.2015) by The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486), arts. 1(2), 31(2)(d) (with art. 3)
+[^F37]: S. 80(6) inserted (19.12.2018) by The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244), arts. 1(2), 41(b) (with art. 3)
+[^F38]: Words in s. 82(3)(d) substituted (1.4.2013) by The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496), art. 1(1), Sch. 11 para. 10(3)(4)(c) (with Sch. 12)
+[^F39]: Words in s. 87(3) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(5)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F40]: Words in s. 87(4) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 1(5)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F41]: Words in s. 87(5) substituted (1.4.2013) by The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496), art. 1(1), Sch. 11 para. 10(3)(4)(d) (with Sch. 12)
+[^F42]: S. 92 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 5(2), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F43]: Ss. 93-95 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 5(3), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 7)
+[^F44]: Words in s. 96(1)(b) substituted (1.4.2013) by The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496), art. 1(1), Sch. 11 para. 10(3)(4)(f) (with Sch. 12)
+[^F45]: S. 96(2)(3) repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(2), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F46]: S. 96A inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(3), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F47]: S. 97 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(4), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 8)
+[^F48]: S. 98 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(5), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 8)
+[^F49]: S. 99 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(6), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 8)
+[^F50]: S. 100(2)(3) repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(7), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F51]: S. 100A inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(8), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F52]: Words in s. 100A(1) substituted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 47(2)(a) (with ss. 2(2), 5(2))
+[^F53]: Word in s. 100A(1) omitted (26.6.2020) by virtue of Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 47(2)(b) (with ss. 2(2), 5(2))
+[^F54]: S. 100A(1)(c)(d) substituted (26.6.2020) for s. 100A(1)(c) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 47(2)(c) (with ss. 2(2), 5(2))
+[^F55]: Words in s. 100A(3) substituted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 47(3) (with ss. 2(2), 5(2))
+[^F56]: S. 100A(4)-(6) inserted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 47(4) (with ss. 2(2), 5(2))
+[^F57]: S. 101 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(9), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 8)
+[^F58]: S. 101(1A) inserted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 48(2) (with ss. 2(2), 5(2))
+[^F59]: Words in s. 101(2) inserted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 48(3)(a) (with ss. 2(2), 5(2))
+[^F60]: Words in s. 101(2)(b) inserted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 48(3)(b) (with ss. 2(2), 5(2))
+[^F61]: Words in s. 101(3)(a) inserted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 48(4) (with ss. 2(2), 5(2))
+[^F62]: Words in s. 101(5) inserted (26.6.2020) by Corporate Insolvency and Governance Act 2020 (c. 12), s. 49(1), Sch. 9 para. 48(5) (with ss. 2(2), 5(2))
+[^F63]: S. 102 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(10), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 8)
+[^F64]: S. 103 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(11), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F65]: S. 104 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(12), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 8)
+[^F66]: S. 104A and cross-heading inserted (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), ss. 98(1), 104(3); S.S.I. 2014/264, art. 2, Sch. (with art. 3)
+[^F67]: S. 104A substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 7(2), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F68]: S. 105 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(13), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F69]: Words in s. 106(1)(a) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(14)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F70]: S. 106(7)(a) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(14)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F71]: S. 107 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(3), 11(2); S.S.I. 2018/253, reg. 2(2) (with reg. 6)
+[^F72]: S. 108 title substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(5), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F73]: Words in s. 108(1) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(4)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F74]: S. 108(1)(da) inserted (1.12.2017) by The Private Housing (Tenancies) (Scotland) Act 2016 (Consequential Provisions) Regulations 2017 (S.S.I. 2017/405), regs. 1, 3(2)
+[^F75]: S. 108(1)(f) repealed (1.8.2016) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 18(3); S.S.I. 2014/264, art. 2, sch. (with art. 4)
+[^F76]: Words in s. 108(1)(j) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(4)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F77]: S. 109 title substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(7), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F78]: S. 109(1)(2) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(6), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F79]: S. 110 title substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(9), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F80]: S. 110(1) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(8)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F81]: Words in s. 110(2) inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(8)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F82]: S. 110(3)(4) inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(8)(c), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F83]: S. 111 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 3(10), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F84]: Words in s. 113(1) substituted for s. 113(1)(a)(b) (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(2)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F85]: S. 113(2) repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(2)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F86]: S. 114 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(3), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F87]: Words in s. 115(1) repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(4)(a), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F88]: S. 115(2)(a)(ii) and word repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(4)(b)(i), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F89]: Words in s. 115(2)(b) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(4)(b)(ii), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F90]: Ss. 115A, 115B inserted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(5), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F91]: Ss. 116-119 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(6), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F92]: Words in s. 120(2)(b) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(7)(a)(i), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F93]: S. 120(2)(c) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(7)(a)(ii), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F94]: Words in s. 120(3) substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(7)(b), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F95]: S. 121 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(8), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F96]: S. 122 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 4(8), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F97]: S. 123 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(15), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F98]: S. 124 repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(15), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F99]: Pt. 10 Ch. 3 inserted (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), ss. 98(2), 104(3); S.S.I. 2014/264, art. 2, Sch.
+[^F100]: S. 124A repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 7(3), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F101]: S. 124B repealed (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 7(3), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F102]: Ss. 140-144 repealed (1.8.2016) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 18(6); S.S.I. 2014/264, art. 2, sch. (with art. 4)
+[^F103]: Ss. 145-147 repealed (20.11.2014 for the repeal of s. 147, 1.7.2017 in so far as not already in force) by Housing (Scotland) Act 2014 (asp 14), ss. 1(3), 104(3); S.S.I. 2014/264, art. 2, sch.
+[^F104]: Ss. 145-147 repealed (20.11.2014 for the repeal of s. 147, 1.7.2017 in so far as not already in force) by Housing (Scotland) Act 2014 (asp 14), ss. 1(3), 104(3); S.S.I. 2014/264, art. 2, sch.
+[^F105]: Ss. 145-147 repealed (20.11.2014 for the repeal of s. 147, 1.7.2017 in so far as not already in force) by Housing (Scotland) Act 2014 (asp 14), ss. 1(3), 104(3); S.S.I. 2014/264, art. 2, sch.
+[^F106]: Words in s. 164 repealed (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), ss. 98(3), 104(3); S.S.I. 2014/264, art. 2, Sch.
+[^F107]: Words in s. 165 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 2(7), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F108]: Words in s. 165 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 6(16), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F109]: Words in s. 165 inserted (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), ss. 98(4), 104(3); S.S.I. 2014/264, art. 2, Sch.
+[^F110]: Words in s. 165 substituted (8.3.2019) by Housing (Amendment) (Scotland) Act 2018 (asp 13), ss. 7(4), 11(2); S.S.I. 2018/253, reg. 2(2)
+[^F111]: Words in s. 165 inserted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 27(3) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F112]: Words in s. 165 substituted (1.4.2015) by Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11), s. 57(2), Sch. 3 para. 41; S.S.I. 2014/261, art. 3 (with arts. 4-7, 12) (as amended by S.S.I. 2015/54, art. 2)
+[^F113]: Sch. 2 para. 3(4) repealed (1.8.2016) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 18(7)(a); S.S.I. 2014/264, art. 2, sch. (with art. 4)
+[^F114]: Sch. 2 para. 9 repealed (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), Sch. 2 para. 18(7)(b); S.S.I. 2014/264, art. 2, Sch.

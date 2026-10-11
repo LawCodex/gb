@@ -1,0 +1,2757 @@
+---
+title: "Sexual Offences (Scotland) Act 2009"
+identifier: "asp/2009/9"
+citation: "2009 asp 9"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2009-07-14
+last_amended: 2021-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2009/9"
+source_modified: 2024-06-19
+retrieved: 2026-10-11
+---
+
+# Sexual Offences (Scotland) Act 2009
+
+**2009 asp 9**
+
+An Act of the Scottish Parliament to make new provision about sexual offences, and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 10th June 2009 and received Royal Assent on 14th July 2009
+
+## Part 1 — Rape etc.
+
+### Rape
+
+#### 1 Rape
+
+(1) If a person (“A”), with A's penis—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+penetrates to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of B then A commits an offence, to be known as the offence of rape.
+
+(2) For the purposes of this section, penetration is a continuing act from entry until withdrawal of the penis; but this subsection is subject to subsection (3).
+
+(3) In a case where penetration is initially consented to but at some point of time the consent is withdrawn, subsection (2) is to be construed as if the reference in it to a continuing act from entry were a reference to a continuing act from that point of time.
+
+(4) In this Act—
+
+- “penis” includes a surgically constructed penis if it forms part of A, having been created in the course of surgical treatment, and
+- “vagina” includes—
+
+(a) the vulva, and
+
+(b) a surgically constructed vagina (together with any surgically constructed vulva), if it forms part of B, having been created in the course of such treatment.
+
+### Sexual assault by penetration
+
+#### 2 Sexual assault by penetration
+
+(1) If a person (“A”), with any part of A's body or anything else—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+penetrates sexually to any extent, either intending to do so or reckless as to whether there is penetration, the vagina or anus of B then A commits an offence, to be known as the offence of sexual assault by penetration.
+
+(2) For the purposes of this section, penetration is a continuing act from entry to withdrawal of whatever is intruded; but this subsection is subject to subsection (3).
+
+(3) In a case where penetration is initially consented to but at some point of time the consent is withdrawn, subsection (2) is to be construed as if the reference in it to a continuing act from entry were a reference to a continuing act from that point of time.
+
+(4) Without prejudice to the generality of subsection (1), the reference in that subsection to penetration with any part of A's body is to be construed as including a reference to penetration with A's penis.
+
+### Sexual assault and other sexual offences
+
+#### 3 Sexual assault
+
+(1) If a person (“A”)—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+does any of the things mentioned in subsection (2), then A commits an offence, to be known as the offence of sexual assault.
+
+(2) Those things are, that A—
+
+(a) penetrates sexually, by any means and to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of B,
+
+(b) intentionally or recklessly touches B sexually,
+
+(c) engages in any other form of sexual activity in which A, intentionally or recklessly, has physical contact (whether bodily contact or contact by means of an implement and whether or not through clothing) with B,
+
+(d) intentionally or recklessly ejaculates semen onto B,
+
+(e) intentionally or recklessly emits urine or saliva onto B sexually.
+
+(3) For the purposes of paragraph (a) of subsection (2), penetration is a continuing act from entry until withdrawal of whatever is intruded; but this subsection is subject to subsection (4).
+
+(4) In a case where penetration is initially consented to but at some point of time the consent is withdrawn, subsection (3) is to be construed as if the reference in it to a continuing act from entry were a reference to a continuing act from that point of time.
+
+(5) Without prejudice to the generality of paragraph (a) of subsection (2), the reference in the paragraph to penetration by any means is to be construed as including a reference to penetration with A's penis.
+
+#### 4 Sexual coercion
+
+If a person (“A”)—
+
+(a) without another person (“B”) consenting to participate in a sexual activity, and
+
+(b) without any reasonable belief that B consents to participating in that activity,
+
+intentionally causes B to participate in that activity, then A commits an offence, to be known as the offence of sexual coercion.
+
+#### 5 Coercing a person into being present during a sexual activity
+
+(1) If a person (“A”)—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+either intentionally engages in a sexual activity and for a purpose mentioned in subsection (2) does so in the presence of B or intentionally and for a purpose mentioned in that subsection causes B to be present while a third person engages in such an activity, then A commits an offence, to be known as the offence of coercing a person into being present during a sexual activity.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(3) Without prejudice to the generality of subsection (1), the reference in that subsection—
+
+(a) to A engaging in a sexual activity in the presence of B, includes a reference to A engaging in it in a place in which A can be observed by B other than by B looking at an image, and
+
+(b) to B being present while a third person engages in such an activity, includes a reference to B being in a place from which the third person can be so observed by B.
+
+#### 6 Coercing a person into looking at a sexual image
+
+(1) If a person (“A”) intentionally and for a purpose mentioned in subsection (2) causes another person (“B”)—
+
+(a) without B consenting, and
+
+(b) without any reasonable belief that B consents,
+
+to look at a sexual image, then A commits an offence, to be known as the offence of coercing a person into looking at a sexual image.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(3) For the purposes of subsection (1), a sexual image is an image (produced by whatever means and whether or not a moving image) of—
+
+(a) A engaging in a sexual activity or of a third person or imaginary person so engaging,
+
+(b) A's genitals or the genitals of a third person or imaginary person.
+
+#### 7 Communicating indecently etc.
+
+(1) If a person (“A”), intentionally and for a purpose mentioned in subsection (3), sends, by whatever means, a sexual written communication to or directs, by whatever means, a sexual verbal communication at, another person (“B”)—
+
+(a) without B consenting to its being so sent or directed, and
+
+(b) without any reasonable belief that B consents to its being so sent or directed,
+
+then A commits an offence, to be known as the offence of communicating indecently.
+
+(2) If, in circumstances other than are as mentioned in subsection (1), a person (“A”), intentionally and for a purpose mentioned in subsection (3), causes another person (“B”) to see or hear, by whatever means, a sexual written communication or sexual verbal communication—
+
+(a) without B consenting to seeing or as the case may be hearing it, and
+
+(b) without any reasonable belief that B consents to seeing or as the case may be hearing it,
+
+then A commits an offence, to be known as the offence of causing a person to see or hear an indecent communication.
+
+(3) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(4) In this section—
+
+- “written communication” means a communication in whatever written form, and without prejudice to that generality includes a communication which comprises writings of a person other than A (as for example a passage in a book or magazine), and
+
+- “verbal communication” means a communication in whatever verbal form, and without prejudice to that generality includes—
+
+  - (a) a communication which comprises sounds of sexual activity (whether actual or simulated), and
+  - (b) a communication by means of sign language.
+
+#### 8 Sexual exposure
+
+(1) If a person (“A”)—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+intentionally and for a purpose mentioned in subsection (2), exposes A's genitals in a sexual manner to B with the intention that B will see them, then A commits an offence, to be known as the offence of sexual exposure.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+#### 9 Voyeurism
+
+(1) A person (“A”) commits an offence, to be known as the offence of voyeurism, if A does any of the things mentioned in subsections (2) to (5).
+
+(2) The first thing is that A—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+for a purpose mentioned in subsection (6) observes B doing a private act.
+
+(3) The second thing is that A—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+operates equipment with the intention of enabling A or another person (“C”), for a purpose mentioned in subsection (7), to observe B doing a private act.
+
+(4) The third thing is that A—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+records B doing a private act with the intention that A or another person (“C”), for a purpose mentioned in subsection (7), will look at an image of B doing the act.
+
+[[^F1](4A) The fourth thing is that A—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+operates equipment beneath B's clothing with the intention of enabling A or another person (“C”), for a purpose mentioned in subsection (7), to observe B's genitals or buttocks (whether exposed or covered with underwear) or the underwear covering B's genitals or buttocks, in circumstances where the genitals, buttocks or underwear would not otherwise be visible.
+
+(4B) The fifth thing is that A—
+
+(a) without another person (“B”) consenting, and
+
+(b) without any reasonable belief that B consents,
+
+records an image beneath B's clothing of B's genitals or buttocks (whether exposed or covered with underwear) or the underwear covering B's genitals or buttocks, in circumstances where the genitals, buttocks or underwear would not otherwise be visible, with the intention that A or another person (“C”), for a purpose mentioned in subsection (7), will look at the image.]
+
+(5) The [[^F2]sixth] thing is that A—
+
+(a) installs equipment, or
+
+[[^F3](b) constructs or adapts a structure or part of a structure, with the intention of enabling A or another person to do an act referred to in subsection (2), (3), (4), (4A) or (4B).]
+
+(6) The purposes referred to in subsection (2) are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(7) The purposes referred to in subsections (3) [[^F4], (4), (4A) and (4B)] are—
+
+(a) obtaining sexual gratification (whether for A or C),
+
+(b) humiliating, distressing or alarming B.
+
+#### 10 Interpretation of section 9
+
+(1) For the purposes of section 9, a person is doing a private act if the person is in a place which in the circumstances would reasonably be expected to provide privacy, and—
+
+(a) the person's genitals, buttocks or breasts are exposed or covered only with underwear,
+
+(b) the person is using a lavatory, or
+
+(c) the person is doing a sexual act that is not of a kind ordinarily done in public.
+
+(2) For the purposes of section 9(3) [[^F5]and (4A)], operating equipment includes enabling or securing its activation by another person without that person's knowledge.
+
+(3) In section 9(5), “structure” includes a tent, vehicle or vessel or other temporary or movable structure.
+
+#### 11 Administering a substance for sexual purposes
+
+(1) If a person (“A”) intentionally administers a substance to, or causes a substance to be taken by, another person (“B”)—
+
+(a) without B knowing, and
+
+(b) without any reasonable belief that B knows,
+
+and does so for the purpose of stupefying or overpowering B, so as to enable any person to engage in a sexual activity which involves B, then A commits an offence, to be known as the offence of administering a substance for sexual purposes.
+
+(2) For the purposes of subsection (1), if A, whether by act or omission, induces in B a reasonable belief that the substance administered or taken is (either or both)—
+
+(a) of a substantially lesser strength, or
+
+(b) in a substantially lesser quantity,
+
+than it is, any knowledge which B has (or belief as to knowledge which B has) that it is being administered or taken is to be disregarded.
+
+## Part 2 — Consent and reasonable belief
+
+### Consent
+
+#### 12 Meaning of “consent” and related expressions
+
+In Parts 1 and 3, “consent” means free agreement (and related expressions are to be construed accordingly).
+
+#### 13 Circumstances in which conduct takes place without free agreement
+
+(1) For the purposes of section 12, but without prejudice to the generality of that section, free agreement to conduct is absent in the circumstances set out in subsection (2).
+
+(2) Those circumstances are—
+
+(a) where the conduct occurs at a time when B is incapable because of the effect of alcohol or any other substance of consenting to it,
+
+(b) where B agrees or submits to the conduct because of violence used against B or any other person, or because of threats of violence made against B or any other person,
+
+(c) where B agrees or submits to the conduct because B is unlawfully detained by A,
+
+(d) where B agrees or submits to the conduct because B is mistaken, as a result of deception by A, as to the nature or purpose of the conduct,
+
+(e) where B agrees or submits to the conduct because A induces B to agree or submit to the conduct by impersonating a person known personally to B, or
+
+(f) where the only expression or indication of agreement to the conduct is from a person other than B.
+
+(3) References in this section to A and to B are to be construed in accordance with sections 1 to 9.
+
+#### 14 Consent: capacity while asleep or unconscious
+
+(1) This section applies in relation to sections 1 to 9.
+
+(2) A person is incapable, while asleep or unconscious, of consenting to any conduct.
+
+#### 15 Consent: scope and withdrawal
+
+(1) This section applies in relation to sections 1 to 9.
+
+(2) Consent to conduct does not of itself imply consent to any other conduct.
+
+(3) Consent to conduct may be withdrawn at any time before, or in the case of continuing conduct, during, the conduct.
+
+(4) If the conduct takes place, or continues to take place, after consent has been withdrawn, it takes place, or continues to take place, without consent.
+
+### Reasonable belief
+
+#### 16 Reasonable belief
+
+In determining, for the purposes of Part 1, whether a person's belief as to consent or knowledge was reasonable, regard is to be had to whether the person took any steps to ascertain whether there was consent or, as the case may be, knowledge; and if so, to what those steps were.
+
+## Part 3 — Mentally disordered persons
+
+### Mentally disordered persons
+
+#### 17 Capacity to consent
+
+(1) This section applies in relation to sections 1 to 9.
+
+(2) A mentally disordered person is incapable of consenting to conduct where, by reason of mental disorder, the person is unable to do one or more of the following—
+
+(a) understand what the conduct is,
+
+(b) form a decision as to whether to engage in the conduct (or as to whether the conduct should take place),
+
+(c) communicate any such decision.
+
+(3) In this Act, “mental disorder” has the same meaning as in section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) (and related expressions are to be construed accordingly).
+
+## Part 4 — Children
+
+### Young children
+
+#### 18 Rape of a young child
+
+If a person (“A”), with A's penis, penetrates to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of a child (“B”) who has not attained the age of 13 years, then A commits an offence, to be known as the offence of rape of a young child.
+
+#### 19 Sexual assault on a young child by penetration
+
+(1) If a person (“A”), with any part of A's body or anything else, penetrates sexually to any extent, either intending to do so or reckless as to whether there is penetration, the vagina or anus of a child (“B”) who has not attained the age of 13 years, then A commits an offence, to be known as the offence of sexual assault on a young child by penetration.
+
+(2) Without prejudice to the generality of subsection (1), the reference in that subsection to penetration with any part of A's body is to be construed as including a reference to penetration with A's penis.
+
+#### 20 Sexual assault on a young child
+
+(1) If a person (“A”) does any of the things mentioned in subsection (2) (“B” being in each case a child who has not attained the age of 13 years), then A commits an offence, to be known as the offence of sexual assault on a young child.
+
+(2) Those things are, that A—
+
+(a) penetrates sexually, by any means and to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of B,
+
+(b) intentionally or recklessly touches B sexually,
+
+(c) engages in any other form of sexual activity in which A, intentionally or recklessly, has physical contact (whether bodily contact or contact by means of an implement and whether or not through clothing) with B,
+
+(d) intentionally or recklessly ejaculates semen onto B,
+
+(e) intentionally or recklessly emits urine or saliva onto B sexually.
+
+(3) Without prejudice to the generality of paragraph (a) of subsection (2), the reference in the paragraph to penetration by any means is to be construed as including a reference to penetration with A's penis.
+
+#### 21 Causing a young child to participate in a sexual activity
+
+If a person (“A”) intentionally causes a child (“B”) who has not attained the age of 13 years to participate in a sexual activity, then A commits an offence, to be known as the offence of causing a young child to participate in a sexual activity.
+
+#### 22 Causing a young child to be present during a sexual activity
+
+(1) If a person (“A”) either—
+
+(a) intentionally engages in a sexual activity and for a purpose mentioned in subsection (2) does so in the presence of a child (“B”) who has not attained the age of 13 years, or
+
+(b) intentionally and for a purpose mentioned in subsection (2) causes B to be present while a third person engages in such an activity,
+
+then A commits an offence, to be known as the offence of causing a young child to be present during a sexual activity.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(3) Without prejudice to the generality of subsection (1), the reference—
+
+(a) in paragraph (a) of that subsection to A engaging in a sexual activity in the presence of B, includes a reference to A engaging in it in a place in which A can be observed by B other than by B looking at an image, and
+
+(b) in paragraph (b) of that subsection to B being present while a third person engages in such an activity, includes a reference to B being in a place from which the third person can be so observed by B.
+
+#### 23 Causing a young child to look at a sexual image
+
+(1) If a person (“A”) intentionally and for a purpose mentioned in subsection (2) causes a child (“B”) who has not attained the age of 13 years to look at a sexual image, then A commits an offence, to be known as the offence of causing a young child to look at a sexual image.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(3) For the purposes of subsection (1), a sexual image is an image (produced by whatever means and whether or not a moving image) of—
+
+(a) A engaging in a sexual activity or of a third person or imaginary person so engaging,
+
+(b) A's genitals or the genitals of a third person or imaginary person.
+
+#### 24 Communicating indecently with a young child etc.
+
+(1) If a person (“A”), intentionally and for a purpose mentioned in subsection (3)—
+
+(a) sends, by whatever means, a sexual written communication to, or
+
+(b) directs, by whatever means, a sexual verbal communication at,
+
+a child (“B”) who has not attained the age of 13 years, then A commits an offence, to be known as the offence of communicating indecently with a young child.
+
+(2) If, in circumstances other than are as mentioned in subsection (1), a person (“A”), intentionally and for a purpose mentioned in subsection (3) causes a child (“B”) who has not attained the age of 13 years to see or hear, by whatever means, a sexual written communication or sexual verbal communication, then A commits an offence, to be known as the offence of causing a young child to see or hear an indecent communication.
+
+(3) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(4) In this section—
+
+- “written communication” means a communication in whatever written form, and without prejudice to that generality includes a communication which comprises writings of a person other than A (as for example a passage in a book or magazine), and
+
+- “verbal communication” means a communication in whatever verbal form, and without prejudice to that generality includes—
+
+  - (a) a communication which comprises sounds of sexual activity (whether actual or simulated), and
+  - (b) a communication by means of sign language.
+
+#### 25 Sexual exposure to a young child
+
+(1) If a person (“A”) intentionally and for a purpose mentioned in subsection (2) exposes A's genitals in a sexual manner to a child (“B”) who has not attained the age of 13 years, with the intention that B will see them, then A commits an offence, to be known as the offence of sexual exposure to a young child.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+#### 26 Voyeurism towards a young child
+
+(1) If a person (“A”) does any of the things mentioned in subsections (2) to (5) in relation to a child (“B”) who has not attained the age of 13 years, then A commits an offence, to be known as the offence of voyeurism towards a young child.
+
+(2) The first thing is that A, for a purpose mentioned in subsection (6), observes B doing a private act.
+
+(3) The second thing is that A operates equipment with the intention of enabling A or another person (“C”), for a purpose mentioned in subsection (7), to observe B doing a private act.
+
+(4) The third thing is that A records B doing a private act with the intention that A or another person (“C”), for a purpose mentioned in subsection (7), will look at an image of B doing the act.
+
+[[^F6](4A) The fourth thing is that A operates equipment beneath B's clothing with the intention of enabling A or another person (“C”), for a purpose mentioned in subsection (7), to observe—
+
+(a) B's genitals or buttocks (whether exposed or covered with underwear), or
+
+(b) the underwear covering B's genitals or buttocks,
+
+in circumstances where the genitals, buttocks or underwear would not otherwise be visible.
+
+(4B) The fifth thing is that A records an image beneath B's clothing of—
+
+(a) B's genitals or buttocks (whether exposed or covered with underwear), or
+
+(b) the underwear covering B's genitals or buttocks,
+
+in circumstances where the genitals, buttocks or underwear would not otherwise be visible, with the intention that A or another person (“C”), for a purpose mentioned in subsection (7), will look at the image.]
+
+(5) The [[^F7]sixth] thing is that A—
+
+(a) installs equipment, or
+
+[[^F8](b) constructs or adapts a structure or part of a structure, with the intention of enabling A or another person to do an act referred to in subsection (2), (3), (4), (4A) or (4B).]
+
+(6) The purposes referred to in subsection (2) are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(7) The purposes referred to in subsections (3) [[^F9], (4), (4A) and (4B)] are—
+
+(a) obtaining sexual gratification (whether for A or C),
+
+(b) humiliating, distressing or alarming B.
+
+(8) Section 10 applies for the purposes of this section as it applies for the purposes of section 9 (the references in that section to section 9(3) [[^F10], (4A)] and (5) being construed as references to subsections (3) [[^F11], (4A)] and (5) of this section).
+
+#### 27 Belief that child had attained the age of 13 years
+
+It is not a defence to a charge in proceedings under any of sections 18 to 26 that A believed that B had attained the age of 13 years.
+
+### Older children
+
+#### 28 Having intercourse with an older child
+
+If a person (“A”), who has attained the age of 16 years, with A's penis, penetrates to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of a child (“B”), who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+then A commits an offence, to be known as the offence of having intercourse with an older child.
+
+#### 29 Engaging in penetrative sexual activity with or towards an older child
+
+(1) If a person (“A”), who has attained the age of 16 years, with any part of A's body or anything else penetrates sexually to any extent, either intending to do so or reckless as to whether there is penetration, the vagina or anus of a child (“B”) who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+then A commits an offence, to be known as the offence of engaging in penetrative sexual activity with or towards an older child.
+
+(2) Without prejudice to the generality of subsection (1), the reference in that paragraph to penetration with any part of A's body is to be construed as including a reference to penetration with A's penis.
+
+#### 30 Engaging in sexual activity with or towards an older child
+
+(1) If a person (“A”), who has attained the age of 16 years, does any of the things mentioned in subsection (2), “B” being in each case a child who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+then A commits an offence, to be known as the offence of engaging in sexual activity with or towards an older child.
+
+(2) Those things are, that A—
+
+(a) penetrates sexually, by any means and to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of B,
+
+(b) intentionally or recklessly touches B sexually,
+
+(c) engages in any other form of sexual activity in which A, intentionally or recklessly, has physical contact (whether bodily contact or contact by means of an implement and whether or not through clothing) with B,
+
+(d) intentionally or recklessly ejaculates semen onto B,
+
+(e) intentionally or recklessly emits urine or saliva onto B sexually.
+
+(3) Without prejudice to the generality of paragraph (a) of subsection (2), the reference in the paragraph to penetration by any means is to be construed as including a reference to penetration with A's penis.
+
+#### 31 Causing an older child to participate in a sexual activity
+
+If a person (“A”), who has attained the age of 16 years, intentionally causes a child (“B”), who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+to participate in a sexual activity, then A commits an offence, to be known as the offence of causing an older child to participate in a sexual activity.
+
+#### 32 Causing an older child to be present during a sexual activity
+
+(1) If a person (“A”), who has attained the age of 16 years either—
+
+(a) intentionally engages in a sexual activity and for a purpose mentioned in subsection (2) does so in the presence of a child (“B”), who—
+
+(i) has attained the age of 13 years, but
+
+(ii) has not attained the age of 16 years, or
+
+(b) intentionally, and for a purpose mentioned in subsection (2) causes B to be present while a third person engages in such an activity,
+
+then A commits an offence, to be known as the offence of causing an older child to be present during a sexual activity.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(3) Without prejudice to the generality of subsection (1), the reference—
+
+(a) in paragraph (a) of that subsection to A engaging in a sexual activity in the presence of B, includes a reference to A engaging in it in a place in which A can be observed by B other than by B looking at an image, and
+
+(b) in paragraph (b) of that subsection to B being present while a third person engages in such an activity, includes a reference to B being in a place from which the third person can be so observed by B.
+
+#### 33 Causing an older child to look at a sexual image
+
+(1) If a person (“A”), who has attained the age of 16 years, intentionally and for a purpose mentioned in subsection (2) causes a child (“B”), who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+to look at a sexual image, then A commits an offence, to be known as the offence of causing an older child to look at a sexual image.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(3) For the purposes of subsection (1), a sexual image is an image (produced by whatever means and whether or not a moving image) of—
+
+(a) A engaging in a sexual activity or of a third person or imaginary person so engaging,
+
+(b) A's genitals or the genitals of a third person or imaginary person.
+
+#### 34 Communicating indecently with an older child etc.
+
+(1) If a person (“A”), who has attained the age of 16 years, intentionally and for a purpose mentioned in subsection (3), sends, by whatever means, a sexual written communication to or directs, by whatever means, a sexual verbal communication at, a child (“B”) who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+then A commits an offence, to be known as the offence of communicating indecently with an older child.
+
+(2) If, in circumstances other than are as mentioned in subsection (1), a person (“A”), who has attained the age of 16 years, intentionally and for a purpose mentioned in subsection (3), causes another person (“B”) who is a child described in paragraphs (a) and (b) of subsection (1) to see or hear, by whatever means, a sexual written communication or sexual verbal communication, then A commits an offence, to be known as the offence of causing an older child to see or hear an indecent communication.
+
+(3) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(4) In this section—
+
+- “written communication” means a communication in whatever written form, and without prejudice to that generality includes a communication which comprises writings of a person other than A (as for example a passage in a book or magazine), and
+
+- “verbal communication” means a communication in whatever verbal form, and without prejudice to that generality includes—
+
+  - (a) a communication which comprises sounds of sexual activity (whether actual or simulated), and
+  - (b) a communication by means of sign language.
+
+#### 35 Sexual exposure to an older child
+
+(1) If a person (“A”), who has attained the age of 16 years, intentionally and for a purpose mentioned in subsection (2) exposes A's genitals in a sexual manner to a child (“B”) who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+with the intention that B will see them, then A commits an offence, to be known as the offence of sexual exposure to an older child.
+
+(2) The purposes are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+#### 36 Voyeurism towards an older child
+
+(1) If a person (“A”), who has attained the age of 16 years, does any of the things mentioned in subsections (2) to (5) in relation to a child (“B”) who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years,
+
+then A commits an offence, to be known as the offence of voyeurism towards an older child.
+
+(2) The first thing is that A, for a purpose mentioned in subsection (6), observes B doing a private act.
+
+(3) The second thing is that A operates equipment with the intention of enabling A or another person (“C”), for a purpose mentioned in subsection (7), to observe B doing a private act.
+
+(4) The third thing is that A records B doing a private act with the intention that A or another person (“C”), for a purpose mentioned in subsection (7), will look at an image of B doing the act.
+
+[[^F12](4A) The fourth thing is that A operates equipment beneath B's clothing with the intention of enabling A or another person (“C”), for a purpose mentioned in subsection (7), to observe—
+
+(a) B's genitals or buttocks (whether exposed or covered with underwear), or
+
+(b) the underwear covering B's genitals or buttocks,
+
+in circumstances where the genitals, buttocks or underwear would not otherwise be visible.
+
+(4B) The fifth thing is that A records an image beneath B's clothing of—
+
+(a) B's genitals or buttocks (whether exposed or covered with underwear), or
+
+(b) the underwear covering B's genitals or buttocks,
+
+in circumstances where the genitals, buttocks or underwear would not otherwise be visible, with the intention that A or another person (“C”), for a purpose mentioned in subsection (7), will look at the image.]
+
+(5) The [[^F13]sixth] thing is that A—
+
+(a) installs equipment, or
+
+[[^F14](b) constructs or adapts a structure or part of a structure, with the intention of enabling A or another person to do an act referred to in subsection (2), (3), (4), (4A) or (4B).]
+
+(6) The purposes referred to in subsection (2) are—
+
+(a) obtaining sexual gratification,
+
+(b) humiliating, distressing or alarming B.
+
+(7) The purposes referred to in subsections (3) [[^F15], (4), (4A) and (4B)] are—
+
+(a) obtaining sexual gratification (whether for A or C),
+
+(b) humiliating, distressing or alarming B.
+
+(8) Section 10 applies for the purposes of this section as it applies for the purposes of section 9 (the references in that section to section 9(3) [[^F16], (4A)] and (5) being construed as references to subsections (3) [[^F17], (4A)] and (5) of this section).
+
+#### 37 Older children engaging in sexual conduct with each other
+
+(1) If a child (“A”), being a child mentioned in subsection (2), does any of the things mentioned in subsection (3), “B” being in each case a child mentioned in subsection (2), then A commits an offence, to be known as the offence of engaging while an older child in sexual conduct with or towards another older child.
+
+(2) The child is a child who—
+
+(a) has attained the age of 13 years, but
+
+(b) has not attained the age of 16 years.
+
+(3) The things are that A—
+
+(a) penetrates sexually, with A's penis and to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of B,
+
+(b) intentionally or recklessly touches the vagina, anus or penis of B sexually with A's mouth.
+
+(4) In the circumstances specified in subsection (1), if B engages by consent in the conduct in question, then B commits an offence, to be known as the offence of engaging while an older child in consensual sexual conduct with another older child.
+
+(5) In paragraph (b) of subsection (3), the reference to A's mouth is to be construed as including a reference to A's tongue or teeth.
+
+#### 38 Penetration and consent for the purposes of section 37
+
+(1) This section applies for the purposes of section 37.
+
+(2) Penetration is a continuing act from entry until withdrawal of whatever is intruded.
+
+(3) “Consent” means free agreement (and related expressions are to be construed accordingly).
+
+(4) Without prejudice to the generality of subsection (3), free agreement to conduct is absent in the circumstances set out in section 13(2) (references in that section to A and B being construed in accordance with section 37).
+
+(5) A person is incapable, while asleep or unconscious, of consenting to any conduct.
+
+(6) Consent to conduct does not of itself imply consent to any other conduct.
+
+(7) Consent to conduct may be withdrawn at any time before, or in the case of continuing conduct, during, the conduct.
+
+(8) If the conduct takes place, or continues to take place, after consent has been withdrawn, it takes place, or continues to take place, without consent.
+
+#### 39 Defences in relation to offences against older children
+
+(1) It is a defence to a charge in proceedings—
+
+(a) against A under any of sections 28 to 37(1) that A reasonably believed that B had attained the age of 16 years,
+
+(b) against B under section 37(4) that B reasonably believed that A had attained the age of 16 years.
+
+(2) But—
+
+(a) the defence under subsection (1)(a) is not available to A—
+
+(i) if A has previously been charged by the police with a relevant sexual offence, [^F18]. . .
+
+[[^F19](ia) if A has a previous conviction for a relevant foreign offence committed against a person under the age of 16 [[^F20]and the court before which the charge is brought considers it is appropriate for that conviction to have that effect], or]
+
+(ii) if there is in force in respect of A a risk of sexual harm order,
+
+(b) the defence under subsection (1)(b) is not available to B—
+
+(i) if B has previously been charged by the police with a relevant sexual offence, [^F21]. . .
+
+[[^F22](ia) if B has a previous conviction for a relevant foreign offence committed against a person under the age of 16 [[^F23]and the court before which the charge is brought considers it is appropriate for that conviction to have that effect], or]
+
+(ii) if there is in force in respect of B a risk of sexual harm order.
+
+(3) It is a defence to a charge in proceedings under any of the sections mentioned in subsection (4) that at the time when the conduct to which the charge relates took place, the difference between A's age and B's age did not exceed 2 years.
+
+(4) Those sections are—
+
+(a) section 30(2)(a), but not in so far as the charge is founded on—
+
+(i) penetration of B's vagina, anus or mouth with A's penis,
+
+(ii) penetration of B's vagina or anus with A's mouth, tongue or teeth,
+
+(b) section 30(2)(b) or (c), but not in so far as the charge is founded on sexual touching or other physical activity involving—
+
+(i) B's vagina, anus or penis being touched sexually by A's mouth,
+
+(ii) A's vagina, anus or mouth being penetrated by B's penis,
+
+(iii) A's vagina, anus or penis being touched sexually by B's mouth,
+
+(c) section 30(2)(d) [[^F24]or (e)],
+
+(d) any of sections 31 to 36.
+
+(5) In paragraphs (a) and (b) of subsection (2)—
+
+(a) “a relevant sexual offence” means an offence listed in schedule 1,
+
+[[^F25](aa) “a previous conviction for a relevant foreign offence” means a previous conviction by a court in a member State of the European Union [^F26]... for an offence that is equivalent to one listed in paragraph 1, 4, 7, 10, 13 (so far as applying to an offence listed in paragraph 1, 4, 7 or 10) or 14 of schedule 1,]
+
+(b) “a risk of sexual harm order” means an order under section 2 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9) or section 123 of the Sexual Offences Act 2003 (c. 42).
+
+[[^F27](5A) Any issue of equivalence arising in pursuance of subsection (5)(aa) is for the court to determine.
+
+(5B) For that purpose, an offence may be equivalent to one listed in paragraph 1, 4, 7, 10, 13 (so far as applying to an offence listed in paragraph 1, 4, 7 or 10) or 14 of schedule 1 even though, under the law of the member State (or part of the member State) in question, it is an offence—
+
+(a) regardless of the age of the victim, or
+
+(b) only if committed against a person under an age other than 16 years.]
+
+(6) The Scottish Ministers may by order modify schedule 1 so as to add an offence against a child which involves sexual conduct or delete an offence listed there.
+
+(7) It is not a defence to a charge in—
+
+(a) proceedings under any of sections 28 to 37(1) against A that A believed that B had not attained the age of 13 years,
+
+(b) proceedings under section 37(4) against B that B believed that A had not attained the age of 13 years.
+
+### General
+
+#### 40 Special provision as regards failure to establish whether child has or has not attained certain ages
+
+(1) Deeming provision 1 applies to a trial where—
+
+(a) A is charged with an offence under any of sections 28 to 36 or 37(1),
+
+(b) there is a failure to establish beyond reasonable doubt that B was a child who had attained the age of 13 years at the relevant time, and
+
+(c) the court or, in the case of a trial of an indictment, the jury is satisfied it is established beyond reasonable doubt that B had not attained the age of 16 years at the time.
+
+(2) Deeming provision 2 applies to a trial where—
+
+(a) B is charged with an offence under section 37(4),
+
+(b) there is a failure to establish beyond reasonable doubt that A was a child who had attained the age of 13 years at the relevant time, and
+
+(c) the court or, in the case of a trial of an indictment, the jury is satisfied it is established beyond reasonable doubt that A had not attained the age of 16 years at the time.
+
+(3) Deeming provision 3 applies to a trial where—
+
+(a) A is charged with an offence under section 37(1),
+
+(b) there is a failure to establish beyond reasonable doubt that A was a child who had not attained the age of 16 years at the relevant time, and
+
+(c) the court or, in the case of a trial of an indictment, the jury is satisfied it is established beyond reasonable doubt that A had attained the age of 13 years at the time.
+
+(4) Deeming provision 4 applies to a trial where—
+
+(a) B is charged with an offence under section 37(4),
+
+(b) there is a failure to establish beyond reasonable doubt that B was a child who had not attained the age of 16 years at the relevant time, and
+
+(c) the court or, in the case of a trial of an indictment, the jury is satisfied it is established beyond reasonable doubt that B had attained the age of 13 years at the time.
+
+(5) Where any of the deeming provisions apply, references in sections 28 to 37 to A or B having or not having attained a particular age are to be construed in accordance with this section and section 41.
+
+(6) In this section and section 41, the “relevant time” is when the conduct to which the proceedings relate occurred.
+
+#### 41 Special provision as regards age: deeming provisions
+
+The deeming provisions are—
+
+|  |  |
+|---|---|
+| *Deeming provision 1* | B is to be deemed for the purposes of the proceedings to be a person who has attained the age of 13 years at the relevant time. |
+| *Deeming provision 2* | A is to be deemed for the purposes of the proceedings to be a person who has attained the age of 13 years at the relevant time. |
+| *Deeming provision 3* | A is to be deemed for the purposes of the proceedings to be a child who has not attained the age of 16 years at the relevant time. |
+| *Deeming provision 4* | B is to be deemed for the purposes of the proceedings to be a person who has not attained the age of 16 years at the relevant time. |
+
+## Part 5 — Abuse of position of trust
+
+### Children
+
+#### 42 Sexual abuse of trust
+
+If a person (“A”) who has attained the age of 18 years—
+
+(a) intentionally engages in a sexual activity with or directed towards another person (“B”) who is under 18, and
+
+(b) is in a position of trust in relation to B,
+
+then A commits an offence, to be known as the offence of sexual abuse of trust.
+
+#### 43 Positions of trust
+
+(1) For the purposes of section 42, a person (“A”) is in a position of trust in relation to another person (“B”) if any of the five conditions set out below is fulfilled.
+
+(2) The first condition is that B is detained by virtue of an order of court or under an enactment in an institution and A looks after persons under 18 in that institution.
+
+(3) The second condition is that B is resident in a home or other place in which accommodation is provided by a local authority under section 26(1) of the Children (Scotland) Act 1995 (c. 36) and A looks after persons under 18 in that place.
+
+(4) The third condition is that B is accommodated and cared for in—
+
+(a) a hospital,
+
+(b) accommodation provided by an independent health care service,
+
+(c) accommodation provided by a care home service,
+
+(d) a residential establishment, or
+
+(e) accommodation provided by a school care accommodation service or a secure accommodation service,
+
+and A looks after persons under 18 in that place.
+
+(5) The fourth condition is that B is receiving education at—
+
+(a) a school and A looks after persons under 18 in that school, or
+
+(b) a further or higher education institution and A looks after B in that institution.
+
+(6) The fifth condition is that A—
+
+(a) has any parental responsibilities or parental rights in respect of B,
+
+(b) fulfils any such responsibilities or exercises any such rights under arrangement with a person who has such responsibilities or rights,
+
+(c) had any such responsibilities or rights but no longer has such responsibilities or rights, or
+
+(d) treats B as a child of A's family,
+
+and B is a member of the same household as A.
+
+(7) A looks after a person for the purposes of this section if A regularly cares for, teaches, trains, supervises, or is in sole charge of the person.
+
+(8) The Scottish Ministers may by order modify this section (other than this subsection) and section 44 so as to add, delete or amend a condition.
+
+#### 44 Interpretation of section 43
+
+In section 43—
+
+- “care home service” has the meaning given by [[^F28]paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 (asp 8) (“the 2010 Act”)],
+
+- “further or higher education institution” means a body listed in schedule 2 to the Further and Higher Education (Scotland) Act 2005 (asp 6) [[^F29]or a college of further education which is assigned to a regional strategic body by order made under section 7C(1) of that Act],
+
+- “hospital” means a health service hospital (as defined in section 108(1) of the National Health Service (Scotland) Act 1978 (c. 29)),
+
+- [[^F30]“independent health care service” means any of the following—
+
+  - an independent hospital;
+  - a private psychiatric hospital;
+  - an independent clinic; or
+  - an independent medical agency,
+
+  as each of those terms is defined in section   10F(2) of the National Health Service (Scotland) Act 1978 (c.29) ,. ]
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39),
+
+- “parental responsibilities” and “parental rights” have the same meanings as in the Children (Scotland) Act 1995 (c. 36),
+
+- “residential establishment” has the meaning given by section 93(1)(a) of that Act of 1995,
+
+- “school” has the same meaning as in the Education (Scotland) Act 1980 (c. 44),
+
+- “school care accommodation service” has the meaning given by [[^F31]paragraph 3 of schedule 12 to the 2010 Act], and
+
+- “secure accommodation service” has the meaning given by [[^F32]paragraph 6 of schedule 12 to the 2010 Act].
+
+#### 45 Sexual abuse of trust: defences
+
+(1) It is a defence to a charge in proceedings under section 42 that A reasonably believed—
+
+(a) that B had attained the age of 18, or
+
+(b) that B was not a person in relation to whom A was in a position of trust.
+
+(2) It is a defence to a charge in proceedings under section 42—
+
+(a) that B was A's spouse or civil partner, or
+
+(b) that immediately before the position of trust came into being, a sexual relationship existed between A and B.
+
+(3) Subsection (2) does not apply if A was in a position of trust in relation to B by virtue of section 43(6).
+
+### Mentally disordered persons
+
+#### 46 Sexual abuse of trust of a mentally disordered person
+
+(1) If a person (“A”)—
+
+(a) intentionally engages in a sexual activity with or directed towards a mentally disordered person (“B”), and
+
+(b) is a person mentioned in subsection (2),
+
+then A commits an offence, to be known as sexual abuse of trust of a mentally disordered person.
+
+(2) Those persons are—
+
+(a) a person providing care services to B,
+
+(b) a person who—
+
+(i) is an individual employed in, or contracted to provide services in or to, or
+
+(ii) not being the Scottish Ministers, is a manager of,
+
+a hospital, independent health care service or state hospital in which B is being given medical treatment.
+
+(3) References in this section to the provision of care services are references to anything done by way of such services—
+
+(a) by,
+
+(b) by an employee of, or
+
+(c) in the course of a service provided or supplied by,
+
+a care service, whether by virtue of a contract of employment or any other contract or in such other circumstances as may be specified in an order made by the Scottish Ministers.
+
+(4) In this section—
+
+- [[^F33]“care service” has the meaning given by subsection (1)(a), (b), (d), (f), (g), (j) and (m) of section 47 of the Public Services Reform (Scotland) Act 2010 (asp 8) as read with paragraphs 1, 2, 4, 6, 7, 11 and 19 of schedule 12 to that Act,]
+- “hospital” and “independent health care service” have the meanings given in section 44, and
+- “state hospital” means a hospital provided under section 102(1) of the National Health Service (Scotland) Act 1978 (c. 29).
+
+#### 47 Sexual abuse of trust of a mentally disordered person: defences
+
+(1) It is a defence to a charge in proceedings under section 46 that A reasonably believed—
+
+(a) that B did not have a mental disorder, or
+
+(b) that A was not a person specified in section 46(2).
+
+(2) It is a defence to a charge in proceedings under section 46—
+
+(a) that B was A's spouse or civil partner, or
+
+(b) in a case where A was—
+
+(i) a person specified in section 46(2)(a), that immediately before A began to provide care services to B, a sexual relationship existed between A and B,
+
+(ii) a person specified in section 46(2)(b), that immediately before B was admitted to the hospital (or other establishment) referred to in that provision or (where B has been admitted to that establishment more than once) was last admitted to it, such a relationship existed.
+
+## Part 6 — Penalties
+
+### Penalties
+
+#### 48 Penalties
+
+(1) A person guilty of an offence mentioned in the first column of schedule 2 is liable—
+
+(a) on summary conviction, to the penalty mentioned in the third column,
+
+(b) on conviction on indictment, to the penalty mentioned in the fourth column.
+
+(2) Where an individual is convicted on indictment of rape, sexual assault by penetration, rape of a young child or sexual assault on a young child by penetration, a penalty of imprisonment without a fine may be imposed, but not a penalty of a fine alone; and the power of the court in section 199(2)(b) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (to substitute a fine for imprisonment) is not available.
+
+(3) Where—
+
+(a) a body corporate,
+
+(b) a Scottish partnership, or
+
+(c) an unincorporated association other than a Scottish partnership,
+
+is convicted on indictment of an offence specified in subsection (2), a penalty of a fine alone may be imposed.
+
+## Part 7 — Miscellaneous and general
+
+### Miscellaneous
+
+#### 49 Establishment of purpose for the purposes of sections 5 to 9, 22 to 26 and 32 to 36
+
+(1) For the purposes of sections 5 to 9, 22 to 26 and 32 to 36, A's purpose was—
+
+(a) obtaining sexual gratification, or
+
+(b) humiliating, distressing or alarming B,
+
+if in all the circumstances of the case it may reasonably be inferred A was doing the thing for the purpose in question.
+
+(2) In applying subsection (1) to determine A's purpose, it is irrelevant whether or not B was in fact humiliated, distressed or alarmed by the thing done by A.
+
+#### 50 Power to convict for offence other than that charged
+
+(1) If, in a trial—
+
+(a) on an indictment for an offence mentioned in the first column of schedule 3 the jury are not satisfied that the accused committed the offence charged but are satisfied that the accused committed the alternative offence (or as the case may be one of the alternative offences) mentioned in the third column, they may, or
+
+(b) in summary proceedings for an offence mentioned in the first column of that schedule the court is not satisfied that the accused committed the offence charged but is satisfied that the accused committed the alternative offence (or as the case may be one of the alternative offences) mentioned in the third column, it may,
+
+acquit the accused of the charge but find the accused guilty of the alternative offence in respect of which so satisfied (the accused then being liable to be punished accordingly).
+
+(2) Where either of conditions 1 or 2 apply in a trial, the court or jury may acquit the accused of the charge but find the accused guilty of the alternative older child offence (the accused then being liable to be punished accordingly).
+
+(3) Condition 1 is that—
+
+(a) A is charged with an offence under sections 18 to 26, and
+
+(b) but for a failure to establish beyond reasonable doubt that B had attained the age of 13 years at the relevant time, a court or jury would, by virtue of subsection (1), find that A committed an offence (“the alternative older child offence”) of—
+
+(i) having intercourse with an older child,
+
+(ii) engaging in penetrative sexual activity with or towards an older child,
+
+(iii) engaging in sexual activity with or towards an older child,
+
+(iv) causing an older child to participate in a sexual activity,
+
+(v) causing an older child to be present during a sexual activity,
+
+(vi) causing an older child to look at a sexual image,
+
+(vii) communicating indecently with an older child,
+
+(viii) causing an older child to see or hear an indecent communication,
+
+(ix) sexual exposure to an older child,
+
+(x) voyeurism towards an older child,
+
+(xi) engaging while an older child in sexual conduct with or towards another older child,
+
+(xii) engaging while an older child in consensual sexual conduct with another older child.
+
+(4) Condition 2 is that—
+
+(a) A is charged with an offence under section 28, 29 or 30, and
+
+(b) but for a failure to establish beyond reasonable doubt that A had not attained the age of 16 years at the relevant time, a court or jury would, by virtue of subsection (1), find that A committed an offence (“the alternative older child offence”) of—
+
+(i) engaging while an older child in sexual conduct with or towards another older child,
+
+(ii) engaging while an older child in consensual sexual conduct with another older child.
+
+(5) In this section, the “relevant time” is when the conduct to which the proceedings relate occurred.
+
+(6) A reference in this section to an offence includes a reference to—
+
+(a) an attempt to commit,
+
+(b) incitement to commit,
+
+(c) counselling or procuring the commission of, and
+
+(d) involvement art and part in,
+
+an offence.
+
+#### 51 Exceptions to inciting or being involved art and part in offences under Part 4 or 5
+
+A person (“X”) is not guilty of inciting, or being involved art and part in, an offence under Part 4 or 5 if, as regards another person (“Y”), X acts—
+
+(a) for the purpose of—
+
+(i) protecting Y from sexually transmitted infection,
+
+(ii) protecting the physical safety of Y,
+
+(iii) preventing Y from becoming pregnant, or
+
+(iv) promoting Y's emotional well-being by the giving of advice, and
+
+(b) not for the purpose of—
+
+(i) obtaining sexual gratification,
+
+(ii) humiliating, distressing or alarming Y, or
+
+(iii) causing or encouraging the activity constituting the offence or Y's participation in it.
+
+#### 52 Common law offences
+
+For all purposes not relating to offences committed before the coming into force of this section—
+
+(a) the common law offences of—
+
+(i) rape,
+
+(ii) clandestine injury to women,
+
+(iii) lewd, indecent or libidinous practice or behaviour, and
+
+(iv) sodomy,
+
+are abolished, and
+
+(b) without prejudice to paragraph (a), in so far as the provisions of this Act regulate any conduct they replace any rule of law regulating that conduct.
+
+#### 53 Continuity of law on sexual offences
+
+(1) This section applies where, in any trial—
+
+(a) the accused is charged in respect of the same conduct both with an offence under this Act (“the new offence”) and with an offence specified in subsection (2) (“the existing offence”),
+
+(b) there is a failure to establish beyond reasonable doubt that—
+
+(i) the time when the conduct took place was after the coming into force of the provision providing for the new offence, and
+
+(ii) the time when the conduct took place was before the abolishment or replacement of or, as the case may be, the coming into force of the repeal of the enactment providing for, the existing offence, and
+
+(c) the court (or, in the case of a trial of an indictment, the jury) is satisfied in every other respect that the accused committed the offences charged.
+
+(2) The offences referred to in subsection (1)(a) are—
+
+(a) rape (at common law),
+
+(b) clandestine injury to women,
+
+(c) lewd, indecent or libidinous practice or behaviour,
+
+(d) any other common law offence which is replaced by an offence under this Act,
+
+(e) an offence under section 3 of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) (intercourse of person in position of trust with child under 16),
+
+(f) an offence under section 5(1), (2) or (3) (intercourse with girl under 16) or 6 (indecent behaviour towards girl between 12 and 16) of that Act,
+
+(g) an offence under section 3 of the Sexual Offences (Amendment) Act 2000 (c. 44) (abuse of position of trust).
+
+(3) Where this section applies, the accused may be found guilty—
+
+(a) if the maximum penalty for the existing offence is less than the maximum penalty for the new offence, of the existing offence,
+
+(b) in any other case, of the new offence.
+
+(4) In subsection (3) the reference, in relation to an offence, to the maximum penalty is a reference to the maximum penalty by way of imprisonment or other detention that could be imposed on the accused on conviction of the offence in the proceedings in question.
+
+(5) A reference in this section to an offence includes a reference to—
+
+(a) an attempt to commit an offence,
+
+(b) incitement to commit an offence,
+
+(c) counselling or procuring the commission of an offence,
+
+(d) involvement art and part in an offence, and
+
+(e) an offence as modified by section 16A or 16B of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39).
+
+#### 54 [[^F34]Incitement to commit certain sexual acts outside Scotland]
+
+(1) If a person does an act in Scotland which would amount to the offence of incitement to commit a listed offence but for the fact that what the person had in view (referred to in this section as “the relevant conduct”) is intended to occur in a country outside [[^F35]Scotland] , then—
+
+(a) the relevant conduct is to be treated as the listed offence, and
+
+(b) the person accordingly commits the offence of incitement to commit the listed offence.
+
+[[^F36](2) However—
+
+(a) a person who is not a habitual resident of Scotland commits an offence by virtue of subsection (1) in respect of relevant conduct intended to occur elsewhere in the United Kingdom only if, and
+
+(b) a person who is not a UK national commits an offence by virtue of subsection (1) in respect of relevant conduct intended to occur outside the United Kingdom only if,
+
+the condition in subsection (2A) is met.
+
+(2A) That condition is that the relevant conduct would also involve the commission of an offence under the law in force in the country where the whole or any part of it was intended to take place.]
+
+(3) Conduct punishable under the law in force in the country is an offence under that law for the purposes of subsection [[^F37](2A)] however it is described in that law.
+
+(4) The condition specified in subsection [[^F38](2A)] is to be taken as satisfied unless, not later than such time as may be prescribed by Act of Adjournal, the accused serves on the prosecutor a notice—
+
+(a) stating that, on the facts as alleged with respect to the relevant conduct, the condition is not in the accused's opinion satisfied,
+
+(b) setting out the grounds for the accused's opinion, and
+
+(c) requiring the prosecutor to prove that the condition is satisfied.
+
+(5) But the court, if it thinks fit, may permit the accused to require the prosecutor to prove that the condition is satisfied without the prior service of a notice under that subsection.
+
+(6) In proceedings on indictment, the question whether the condition is satisfied is to be determined by the judge alone.
+
+(7) Any act of incitement by means of a message (however communicated) is to be treated as done in Scotland if the message is sent or received in Scotland.
+
+(8) In this section—
+
+- “country” includes territory,
+
+- “listed offence” means an offence listed in Part 1 of schedule 4,
+
+- [[^F39]“habitual resident of Scotland” means an individual who was at the time the act mentioned in subsection (1) took place habitually resident in Scotland,]
+
+- “UK national” means an individual who was at the time the [[^F40]act mentioned in subsection (1)] took place[^F41]...—
+
+  - (a) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+  - (b) a person who under the British Nationality Act 1981 is a British subject, or
+  - (c) a British protected person within the meaning of that Act.
+
+#### 54A [[^F42]Offences committed outside Scotland
+
+(1) If a person does an act elsewhere in the United Kingdom which would, if it had been done in Scotland, constitute a listed offence then the person commits that offence.
+
+(2) However, a person who is not a habitual resident of Scotland commits an offence by virtue of subsection (1) only if the act would also constitute an offence under the law in force in the country where it took place.
+
+(3) For the purposes of subsection (2), an act punishable under the law in force in the country is an offence under that law however it is described in that law.
+
+(4) The condition specified in subsection (2) is to be taken to be satisfied unless, not later than such time as may be prescribed by Act of Adjournal, the accused serves on the prosecutor a notice—
+
+(a) stating that, on the facts as alleged with respect to the act in question, the condition is not in the accused's opinion satisfied,
+
+(b) setting out the grounds for the accused's opinion, and
+
+(c) requiring the prosecutor to prove that the condition is satisfied.
+
+(5) But the court, if it thinks fit, may permit the accused to require the prosecutor to prove that the condition is satisfied without the prior service of a notice under that subsection.
+
+(6) In proceedings on indictment, the question whether the condition is satisfied is to be determined by the judge alone.
+
+(7) A person may be prosecuted, tried and punished for any offence to which this section applies—
+
+(a) in any sheriff court district in Scotland in which the person is apprehended or in custody, or
+
+(b) in such sheriff court district as the Lord Advocate may determine,
+
+as if the offence had been committed in that district; and the offence is, for all purposes incidental to or consequential on trial or punishment, to be deemed to have been committed in that district.
+
+(8) In this section—
+
+- “habitual resident of Scotland” means an individual who was at the time the act mentioned in subsection (1) took place habitually resident in Scotland,
+- “listed offence” means an offence listed in Part 2 of schedule 4,
+- “sheriff court district” is to be construed in accordance with section 307(1) of the Criminal Procedure (Scotland) Act 1995.
+
+#### 54B Offence committed by virtue of section 54A(1): limitations on prosecution
+
+(1) Subject to section 54C, this section applies in relation to a listed offence committed by a person by virtue of section 54A(1).
+
+(2) Prosecution in respect of the listed offence—
+
+(a) is not competent if the person has been, or is being, prosecuted in respect of the act constituting the listed offence, in the country where the act took place, and
+
+(b) is competent only if—
+
+(i) before the prosecution is initiated, the prosecutor has consulted the relevant director of public prosecutions about the prosecution, and
+
+(ii) the person is prosecuted, on the same indictment or complaint, in respect of an act in Scotland constituting a listed offence.
+
+(3) For the purposes of subsection (2)(a), a person is not to be regarded as having been prosecuted in respect of the act constituting the listed offence, in the country where the act took place, if a prosecution in that country was withdrawn in order to enable the prosecution of the person in Scotland.
+
+(4) For the purposes of subsection (2)(b)(i)––
+
+(a) the prosecution is initiated when the indictment or complaint is served,
+
+(b) the relevant director of public prosecutions is—
+
+(i) in the case of an act which took place in England and Wales, the Director of Public Prosecutions (that is, the head of the Crown Prosecution Service),
+
+(ii) in the case of an act which took place in Northern Ireland, the Director of Public Prosecutions for Northern Ireland.
+
+(5) In this section, “listed offence” means an offence listed in Part 2 of schedule 4.
+
+#### 54C Listed offence: limitations on prosecution if country not specified
+
+(1) The indictment or complaint in which a listed offence is charged need not contain information from which the country in the United Kingdom in which the act constituting the listed offence took place can be determined.
+
+(2) If the indictment or complaint does not contain that information, prosecution in respect of the listed offence—
+
+(a) is not competent if the person charged with the offence has been, or is being, prosecuted, in respect of the act constituting the listed offence elsewhere in the United Kingdom, and
+
+(b) is competent only if the conditions in subsection (3) which are applicable in the case are met.
+
+(3) Those conditions are—
+
+(a) if it can be determined from the indictment or complaint that the act constituting the offence took place—
+
+(i) either in Scotland or in England and Wales, or
+
+(ii) either in Scotland or in Northern Ireland,
+
+that before the indictment or complaint was served, the prosecutor consulted the relevant director of public prosecutions about the prosecution,
+
+(b) if it can be determined from the indictment or complaint that the act constituting the offence took place either in England and Wales or in Northern Ireland but not in Scotland, that—
+
+(i) before the indictment or complaint was served, the prosecutor consulted both directors of public prosecutions about the prosecution, and
+
+(ii) the person is prosecuted, on the same indictment or complaint, in respect of an act in Scotland constituting a listed offence,
+
+(c) if neither paragraph (a) nor (b) applies, that before the indictment or complaint was served, the prosecutor consulted both directors of public prosecutions about the prosecution.
+
+(4) For the purposes of subsection (3)—
+
+(a) the relevant director of public prosecutions is—
+
+(i) in relation to subsection (3)(a)(i), the Director of Public Prosecutions (that is, the head of the Crown Prosecution Service),
+
+(ii) in relation to subsection (3)(a)(ii), the Director of Public Prosecutions for Northern Ireland,
+
+(b) the references to both directors of public prosecutions are to the Director of Public Prosecutions and the Director of Public Prosecutions for Northern Ireland.
+
+(5) For the purposes of subsection (2)(a), a person is not to be regarded as having been prosecuted in respect of the act constituting the listed offence, elsewhere in the United Kingdom, if a prosecution elsewhere in the United Kingdom was withdrawn in order to enable the prosecution of the person in Scotland.
+
+(6) In this section, “listed offence” means an offence listed in Part 2 of schedule 4.]
+
+#### 54D [[^F43]Offences committed outside the United Kingdom: adult victims
+
+(1) If—
+
+(a) a person who is a UK national does an act in a country outside the United Kingdom, and
+
+(b) the act, if done in Scotland, would constitute an offence to which this subsection applies,
+
+then the person commits that offence.
+
+(2) If—
+
+(a) a person who is habitually resident in Scotland does an act in a country outside the United Kingdom,
+
+(b) the act constitutes an offence under the law in force in that country, and
+
+(c) the act, if done in Scotland, would constitute an offence to which this subsection applies,
+
+then the person commits that offence.
+
+(3) The offences to which subsections (1) and (2) apply are offences under any of sections 1 to 4 where the victim of the offence was 18 or over at the time of the offence.
+
+(4) For the purposes of subsection (2)(b), an act punishable under the law in force in the country is an offence under that law however it is described in that law.
+
+(5) The condition specified in subsection (2)(b) is to be taken as satisfied unless, not later than such time as may be prescribed by Act of Adjournal, the accused serves on the prosecutor a notice—
+
+(a) stating that, on the facts as alleged with respect to the act in question, the condition is not in the accused's opinion satisfied,
+
+(b) setting out the grounds for the accused's opinion, and
+
+(c) requiring the prosecutor to prove that the condition is satisfied.
+
+(6) But the court, if it thinks fit, may permit the accused to require the prosecutor to prove that the condition is satisfied without the prior service of a notice under subsection (5).
+
+(7) In proceedings on indictment, the question whether the condition is satisfied is to be determined by the judge alone.
+
+(8) A person may be prosecuted, tried and punished for an offence by virtue of this section—
+
+(a) in any sheriff court district in Scotland in which the person is apprehended or is in custody, or
+
+(b) in such sheriff court district as the Lord Advocate may determine,
+
+as if the offence had been committed in that district; and the offence is, for all purposes incidental to or consequential on trial or punishment, to be deemed to have been committed in that district.
+
+(9) In this section—
+
+- “country” includes territory;
+
+- “sheriff court district” is to be construed in accordance with section 307(1) of the Criminal Procedure (Scotland) Act 1995 (interpretation);
+
+- “UK national” means an individual who is—
+
+  - (a) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+  - (b) a person who under the British Nationality Act 1981 is a British subject, or
+  - (c) a British protected person within the meaning of that Act.]
+
+#### 55 Offences committed outside the United Kingdom [[^F44]: child victims]
+
+(1) If a UK national does an act in a country outside the United Kingdom which would, if it had been done in Scotland, constitute a listed offence then the UK national commits that offence.
+
+(2) If—
+
+(a) a UK resident does an act in a country outside the United Kingdom which would, if it had been done in Scotland, constitute a listed offence, and
+
+(b) the act constitutes an offence under the law in force in that country,
+
+then the UK resident commits the listed offence.
+
+[[^F45](2A) If—
+
+(a) a person who is not a UK national or a UK resident does an act in a country outside the United Kingdom which would, if it had been done in Scotland, constitute a listed offence,
+
+(b) the act constitutes an offence under the law in force in that country, and
+
+(c) the person meets the nationality or residence condition at the relevant time,
+
+proceedings may be brought against the person in Scotland for that listed offence as if the person had done the act there.
+
+(2B) The person meets the nationality or residence condition at the relevant time if the person is a UK national or a UK resident at the time when the indictment or complaint is served on the person.]
+
+(3) For the purposes of [[^F46]subsections (2)(b) and (2A)(b)] , an act punishable under the law in force in the country is an offence under that law however it is described in that law.
+
+(4) The condition specified in subsection (2)(b) [[^F47]or (2A)(b)] is to be taken as satisfied unless, not later than such time as may be prescribed by Act of Adjournal, the accused serves on the prosecutor a notice—
+
+(a) stating that, on the facts as alleged with respect to the act in question, the condition is not in the accused's opinion satisfied,
+
+(b) setting out the grounds for the accused's opinion, and
+
+(c) requiring the prosecutor to prove that the condition is satisfied.
+
+(5) But the court, if it thinks fit, may permit the accused to require the prosecutor to prove that the condition is satisfied without the prior service of a notice under that subsection.
+
+(6) In proceedings on indictment, the question whether the condition is satisfied is to be determined by the judge alone.
+
+(7) A person may be [[^F48]prosecuted], tried and punished for any offence to which this section applies—
+
+(a) in any sheriff court district in Scotland in which the person is apprehended or is in custody, or
+
+(b) in such sheriff court district as the Lord Advocate may determine,
+
+as if the offence had been committed in that district; and the offence is, for all purposes incidental to or consequential on trial or punishment, to be deemed to have been committed in that district.
+
+(8) In this section—
+
+- “country” includes territory,
+
+- “listed offence” means an offence listed in Part 2 of schedule 4,
+
+- “sheriff court district” is to be construed in accordance with section 307(1) (interpretation) of the Criminal Procedure (Scotland) Act 1995 (c. 46),
+
+- [[^F49]“UK national” means an individual who was at the time the act mentioned in subsection (1) or (2A) took place—
+
+  - ((a)) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+  - ((b)) a person who under the British Nationality Act 1981 is a British subject, or
+  - ((c)) a British protected person within the meaning of that Act,]
+
+- “UK resident” means an individual who was at the time the act mentioned in subsection (2) [[^F50]or (2A)] took place[^F51]..., resident in the United Kingdom.
+
+#### 56 [[^F52]Section 55: continuity of law]
+
+(1) This section applies where, in any trial—
+
+(a) the accused is charged in respect of the same conduct both—
+
+(i) with an offence mentioned in subsection (2) as modified by section 16B of the Criminal Law (Consolidation) (Scotland) Act 1995 (commission of certain sexual acts outside the United Kingdom), and
+
+(ii) with that offence as modified by section 55,
+
+(b) there is a failure to establish beyond reasonable doubt that—
+
+(i) the time when the conduct took place was after the coming into force of section 55, and
+
+(ii) the time when the conduct took place was before the coming into force of the repeal of section 16B of the Criminal Law (Consolidation) (Scotland) Act 1995, and
+
+(c) the court (or, in the case of a trial of an indictment, the jury) is satisfied in every other respect that the accused committed the offences charged.
+
+(2) The offences referred to in subsection (1)(a) are—
+
+(a) an offence under section 52 of the Civic Government (Scotland) Act 1982 (c. 45) (taking and distribution of indecent images of children),
+
+(b) an offence under section 52A of that Act (possession of indecent images of children),
+
+(c) an offence under section 9 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9) (paying for sexual services of a child),
+
+(d) an offence under section 10 of that Act (causing or inciting provision by child of sexual services or pornography),
+
+(e) an offence under section 11 of that Act (controlling a child providing sexual services or involved in pornography),
+
+(f) an offence under section 12 of that Act (arranging or facilitating provision by child of sexual services or pornography).
+
+(3) Where this section applies, the accused may be found guilty of the offence mentioned in subsection (2) as modified by section 16B of the Criminal Law (Consolidation) (Scotland) Act 1995.
+
+(4) A reference in this section to an offence includes a reference to—
+
+(a) an attempt to commit,
+
+(b) incitement to commit,
+
+(c) counselling or procuring the commission of, and
+
+(d) involvement art and part in,
+
+an offence.
+
+### General provisions
+
+#### 57 Offences by bodies corporate etc.
+
+(1) Where—
+
+(a) an offence under this Act has been committed by—
+
+(i) a body corporate,
+
+(ii) a Scottish partnership, or
+
+(iii) an unincorporated association other than a Scottish partnership, and
+
+(b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+
+(i) a relevant individual, or
+
+(ii) an individual purporting to act in the capacity of a relevant individual,
+
+that individual (as well as the body corporate, partnership or, as the case may be, unincorporated association) commits the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In subsection (1), “relevant individual” means—
+
+(a) in relation to a body corporate (other than a limited liability partnership)—
+
+(i) a director, manager, secretary or other similar officer of the body,
+
+(ii) where the affairs of the body are managed by its members, a member,
+
+(b) in relation to a limited liability partnership, a member,
+
+(c) in relation to a Scottish partnership, a partner,
+
+(d) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+#### 58 Ancillary provision
+
+(1) The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes of, or in consequence of, or for giving full effect to, this Act or any provision of it.
+
+(2) An order under this section may modify any enactment, instrument or document.
+
+#### 59 Orders
+
+(1) Any power of the Scottish Ministers to make orders under this Act—
+
+(a) must be exercised by statutory instrument,
+
+(b) may be exercised so as to make different provision for different purposes,
+
+(c) includes power to make incidental, supplemental, consequential, transitional, transitory or saving provision.
+
+(2) A statutory instrument containing an order made under this Act (except an order made under section 62(2)) is, subject to subsection (3), subject to annulment in pursuance of a resolution of the Parliament.
+
+(3) A statutory instrument containing—
+
+(a) an order under section 39(6) or section 43(8), or
+
+(b) an order under section 58 containing incidental, supplemental or consequential provision,
+
+is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
+
+#### 60 Interpretation
+
+(1) In this Act—
+
+- “mental disorder” has the meaning given by section 17(3),
+- “penis” and “vagina” have the meanings given by section 1(4).
+
+(2) For the purposes of this Act—
+
+(a) penetration, touching, or any other activity,
+
+(b) a communication,
+
+(c) a manner of exposure, or
+
+(d) a relationship,
+
+is sexual if a reasonable person would, in all the circumstances of the case, consider it to be sexual.
+
+#### 61 Modification of enactments
+
+(1) Schedule 5 (which contains modifications of enactments) has effect.
+
+(2) The enactments mentioned in the first column of schedule 6 are repealed to the extent specified in the second column of that schedule.
+
+#### 62 Short title and commencement
+
+(1) This Act may be cited as the Sexual Offences (Scotland) Act 2009.
+
+(2) This Act (other than sections 1(4), 17(3), 58 to 60 and this section) comes into force in accordance with provision made by the Scottish Ministers by order.
+
+## SCHEDULE 1 — Relevant sexual offences
+
+*(introduced by section 39(5)(a))*
+
+### Part 1 — Offences that may currently be committed
+
+**1** Any of the following offences under this Act—
+
+(a) an offence under Part 1 against a person under the age of 16,
+
+(b) an offence under Part 4 (but not an offence of engaging while an older child in sexual conduct with or towards another older child (section 37(1)) or engaging while an older child in consensual sexual conduct with another older child (section 37(4)),
+
+(c) sexual abuse of trust (section 42) of a person under the age of 16,
+
+(d) sexual abuse of trust of a mentally disordered person (section 46) of a person under the age of 16.
+
+**2** An offence under any of the following provisions of the Sexual Offences (Northern Ireland) Order 2008 (SI No. 1769 (N.I. 2)) against a person under the age of 16—
+
+(a) article 5 (rape),
+
+(b) article 6 (assault by penetration),
+
+(c) article 7 (sexual assault),
+
+(d) article 8 (causing a person to engage in sexual activity without consent),
+
+(e) article 23 (abuse of position of trust: sexual activity with a child under 18),
+
+(f) article 24 (abuse of position of trust: causing or inciting a child under 18 to engage in sexual activity),
+
+(g) article 25 (abuse of position of trust: sexual activity in the presence of a child under 18),
+
+(h) article 26 (abuse of position of trust: causing a child under 18 to watch a sexual act),
+
+(i) article 32 (sexual activity with an under 18 child family member),
+
+(j) article 33 (inciting an under 18 child family member to engage in sexual activity),
+
+(k) article 37 (paying for sexual services of a child under 18),
+
+(l) article 38 (causing or inciting a child under 18 to become a prostitute or to be involved in pornography),
+
+(m) article 39 (controlling the activities of a child under 18 in relation to prostitution or involvement in pornography),
+
+(n) article 40 (arranging or facilitating the prostitution or involvement in pornography of a child under 18),
+
+(o) article 51 (care workers: sexual activity with a person with a mental disorder),
+
+(p) article 52 (care workers: causing or inciting a person with a mental disorder to engage in sexual activity),
+
+(q) article 53 (care workers: sexual activity in the presence of a person with a mental disorder),
+
+(r) article 54 (care workers: causing a person with a mental disorder to watch a sexual act),
+
+(s) article 65 (administering a substance with intention of stupefying etc. for sexual activity),
+
+(t) article 70 (exposure of genitals),
+
+(u) article 71 (voyeurism).
+
+**3** An offence under any of the following provisions of that order—
+
+(a) article 12 (rape of a child under 13),
+
+(b) article 13 (assault of a child under 13 by penetration),
+
+(c) article 14 (sexual assault of a child under 13),
+
+(d) article 15 (causing or inciting a child under 13 to engage in sexual activity),
+
+(e) article 16 (sexual activity with a child under 16),
+
+(f) article 17 (causing or inciting a child under 16 to engage in sexual activity),
+
+(g) article 18 (engaging in sexual activity in the presence of a child under 16),
+
+(h) article 19 (causing a child under 16 to watch a sexual act),
+
+(i) article 20 (offences under articles 16 to 19 by a person under 18),
+
+(j) article 21 (arranging or facilitating commission of an offence under articles 16 to 20),
+
+(k) article 22 (meeting a child under 16 following sexual grooming etc.).
+
+**4** An offence under any of the following provisions of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9) against a person under the age of 16—
+
+(a) section 1 (meeting a person following certain preliminary contact with intention of engaging in unlawful sexual activity),
+
+(b) section 9 (paying a person for sexual services),
+
+(c) section 10 (causing or inciting provision by a person of sexual services or pornography),
+
+(d) section 11 (controlling a person providing sexual services or involved in pornography),
+
+(e) section 12 (arranging or facilitating provision by a person of sexual services or pornography).
+
+**5** An offence under any of the following provisions of the Sexual Offences Act 2003 (c. 42) against a person under the age of 16—
+
+(a) section 1 (rape),
+
+(b) section 2 (assault by penetration),
+
+(c) section 3 (sexual assault),
+
+(d) section 4 (causing a person to engage in sexual activity without consent),
+
+(e) section 16 (abuse of position of trust: sexual activity with a child under 18),
+
+(f) section 17 (abuse of position of trust: causing or inciting a child under 18 to engage in sexual activity),
+
+(g) section 18 (abuse of position of trust: sexual activity in the presence of a child under 18),
+
+(h) section 19 (abuse of position of trust: causing a child under 18 to watch a sexual act),
+
+(i) section 25 (sexual activity with a family member under 18),
+
+(j) section 26 (inciting a family member under 18 to engage in sexual activity),
+
+(k) section 38 (care workers: sexual activity with a person with a mental disorder),
+
+(l) section 39 (care workers: causing or inciting a person with a mental disorder to engage in sexual activity),
+
+(m) section 40 (care workers: sexual activity in the presence of a person with a mental disorder),
+
+(n) section 41 (care workers: causing a person with a mental disorder to watch a sexual act),
+
+(o) section 47 (paying for sexual services of a person under 18),
+
+(p) section 48 (causing or inciting a child under 18 to become a prostitute or to be involved in pornography),
+
+(q) section 49 (controlling the activities of a child under 18 in relation to prostitution or involvement in pornography),
+
+(r) section 50 (arranging or facilitating the prostitution or involvement in pornography of a child under 18),
+
+(s) section 61 (administering a substance with intention of stupefying etc. for sexual activity),
+
+(t) section 66 (exposure of genitals),
+
+(u) section 67 (voyeurism).
+
+**6** An offence under any of the following provisions of that Act—
+
+(a) section 5 (rape of a child under 13),
+
+(b) section 6 (assault of a child under 13 by penetration),
+
+(c) section 7 (sexual assault of a child under 13),
+
+(d) section 8 (causing or inciting a child under 13 to engage in sexual activity),
+
+(e) section 9 (sexual activity with a child under 16),
+
+(f) section 10 (causing or inciting a child under 16 to engage in sexual activity),
+
+(g) section 11 (engaging in sexual activity in the presence of a child under 16),
+
+(h) section 12 (causing a child under 16 to watch a sexual act),
+
+(i) section 13 (sex offences against a child under 16 committed by children or young persons),
+
+(j) section 14 (arranging or facilitating commission of a sex offence against a child under 16),
+
+(k) section 15 (meeting a child under 16 following sexual grooming etc.).
+
+**7** Any of the following offences under the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)—
+
+(a) an offence under section 1 (incest) or 2 (intercourse with a step-child) against a child under the age of 16,
+
+(b) an offence under section 3 (intercourse of person in position of trust with a child under 16),
+
+(c) an offence under section 8 against a girl under the age of 16 (abduction of a woman or girl for purposes of unlawful sexual intercourse),
+
+(d) an offence under section 9 (permitting a girl under 16 to use premises for intercourse),
+
+(e) an offence under section 10 (person having parental responsibilities causing or encouraging sexual activity in relation to a girl under 16).
+
+**8** An offence under section 160 of the Criminal Justice Act 1988 (c. 33) against a person under the age of 16 (possession of indecent photographs of a person under 18).
+
+**9** An offence under article 15 of the Criminal Justice (Evidence, Etc.) (Northern Ireland) Order 1988 (SI No. 1847 (N.I. 17)) (possession of indecent photographs of a person under 16).
+
+**10** An offence under the following provisions of the Civic Government (Scotland) Act 1982 (c. 45) against a person under the age of 16—
+
+(a) section 52 (taking and distribution of indecent images of a person under 18),
+
+(b) section 52A (possession of indecent images of a person under 18).
+
+**11** An offence under section 1 of the Protection of Children Act 1978 (c. 37) against a person under the age of 16 (taking or distribution of indecent images of a person under 18).
+
+**12** An offence under article 3 of the Protection of Children (Northern Ireland) Order 1978 (SI 1978 No. 1047 (N.I. 17) (taking or distribution of indecent images of a person under 16).
+
+**13** An attempt, conspiracy or incitement to commit an offence in Part 1 of this schedule.
+
+**14** An offence under section 293(2) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (aiding and abetting etc. the commission of a statutory offence) relating to an offence in paragraphs 1, 4, 7 or 10 of that Part.
+
+### Part 2 — Offences replaced by an offence in Part 1 or this Part
+
+**15** The following common law offences against a person under the age of 16 years—
+
+(a) rape,
+
+(b) clandestine injury to women,
+
+(c) sexual assault,
+
+(d) lewd, indecent or libidinous practice or behaviour,
+
+(e) sodomy.
+
+**16** Rape under the common law of Northern Ireland of a person under the age of 17.
+
+**17** Any of the following offences under the Sexual Offences Act 2003, in its application to Northern Ireland—
+
+(a) an offence under section 15,
+
+(b) an offence under section 16, 17, 18, 19, 47, 48, 49, 50, 66 or 67 against a child under the age of 17.
+
+**18** An offence under article 18, 19, 20 or 21 of the Criminal Justice (Northern Ireland) Order 2003 (SI No. 1247 (N.I. 13)) against a person under the age of 17.
+
+**19** An offence under section 3 of the Sexual Offences (Amendment) Act 2000 (c. 44) against a person under the age of 16.
+
+**20** An offence under section 3, 5, 6 or 13(5)(c) of the Criminal Law (Consolidation) (Scotland) Act 1995.
+
+**21** An offence under article 123 of the Mental Health (Northern Ireland) Order 1986 (SI No. 595 (N.I. 4)) against a person under the age of 17.
+
+**22** An offence under article 9 of the Criminal Justice (Northern Ireland) Order 1980 (SI No. 704 (N.I. 6)).
+
+**23** An offence under section 54 of the Criminal Law Act 1977 (c. 45).
+
+**24** Any of the following offences under the Sexual Offences (Scotland) Act 1976 (c. 67)—
+
+(a) an offence under section 2A or 2B against a person under the age of 16,
+
+(b) an offence under section 2C, 3, 4, 5 or 10(1).
+
+**25** An offence under section 21 or 22 of the Children and Young Persons Act (Northern Ireland) 1968 (c. 34).
+
+**26** An offence under section 1 of the Indecency with Children Act 1960 (c. 33).
+
+**27** An offence under section 2 of the Attempted Rape, etc., Act 1960 (Northern Ireland) (c.3) against a person under the age of 17.
+
+**28** An offence under section 1, 10, 11, 12, 14, 15 or 16 of the Sexual Offences Act 1956 (c. 69) against a person under the age of 16.
+
+**29** An offence under section 5, 6 or 28 of that Act.
+
+**30** An offence under section 1 of the Punishment of Incest Act 1908 (c. 45)—
+
+(a) in its application to England and Wales, against a girl under the age of 16,
+
+(b) in its application to Northern Ireland, against a girl under the age of 17.
+
+**31** Any of the following offences under the Criminal Law Amendment Act 1885 (48 & 49 Vict.) (c.69)—
+
+(a) an offence under section 2, 3, 5, 7 or 8—
+
+(i) in its application to Scotland or England and Wales, against a girl under the age of 16,
+
+(ii) in its application to Northern Ireland, against a girl under the age of 17,
+
+(b) an offence under section 4 or 6.
+
+**32** Any of the following offences under the Offences Against the Person Act 1861 (24 & 25 Vict.) (c.100)—
+
+(a) an offence under section 52, 53 or 54—
+
+(i) in its application to England and Wales, against a person under the age of 16,
+
+(ii) in its application to Northern Ireland, against a person under the age of 17,
+
+(b) an offence under section 61 or 62.
+
+**33** An attempt, conspiracy or incitement to commit an offence in Part 2 of this schedule.
+
+**34** An offence under section 293(2) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (aiding and abetting etc. the commission of a statutory offence) relating to any of the following offences—
+
+(a) an offence against a person under the age of 16 under section 3 of the Sexual Offences (Amendment) Act 2000 in its application to Scotland (see paragraph 19),
+
+(b) an offence in paragraph 20 or 24,
+
+(c) an offence against a girl under the age of 16 under section 2, 3, 5, 7 or 8 of the Criminal Law Amendment Act 1885 in its application to Scotland.
+
+## SCHEDULE 2 — Penalties
+
+*(introduced by section 48)*
+
+|  |  |  |  |
+|---|---|---|---|
+| *Offence* | *Section introducing offence* | *Maximum penalty on summary conviction* | *Maximum penalty on conviction on indictment* |
+| Rape | Section 1 |  | Life imprisonment and a fine |
+| Sexual assault by penetration | Section 2 |  | Life imprisonment and a fine |
+| Sexual assault | Section 3 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Life imprisonment or a fine (or both) |
+| Sexual coercion | Section 4 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Life imprisonment or a fine (or both) |
+| Coercing a person into being present during a sexual activity | Section 5 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Coercing a person into looking at a sexual image | Section 6 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Communicating indecently | Section 7(1) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Causing a person to see or hear an indecent communication | Section 7(2) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Sexual exposure | Section 8 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Voyeurism | Section 9 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Administering a substance for sexual purposes | Section 11 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Rape of a young child | Section 18 |  | Life imprisonment and a fine |
+| Sexual assault on a young child by penetration | Section 19 |  | Life imprisonment and a fine |
+| Sexual assault on a young child | Section 20 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Life imprisonment or a fine (or both) |
+| Causing a young child to participate in a sexual activity | Section 21 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Life imprisonment or a fine (or both) |
+| Causing a young child to be present during a sexual activity | Section 22 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Causing a young child to look at a sexual image | Section 23 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Communicating indecently with a young child | Section 24(1) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Causing a young child to see or hear an indecent communication | Section 24(2) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Sexual exposure to a young child | Section 25 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Voyeurism towards a young child | Section 26 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Having intercourse with an older child | Section 28 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Engaging in penetrative sexual activity with or towards an older child | Section 29 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Engaging in sexual activity with or towards an older child | Section 30 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Causing an older child to participate in a sexual activity | Section 31 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Causing an older child to be present during a sexual activity | Section 32 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Causing an older child to look at a sexual image | Section 33 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Communicating indecently with an older child | Section 34(1) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Causing an older child to see or hear an indecent communication | Section 34(2) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Sexual exposure to an older child | Section 35 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Voyeurism towards an older child | Section 36 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Engaging while an older child in sexual conduct with or towards another older child | Section 37(1) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Engaging while an older child in consensual sexual conduct with another older child | Section 37(4) | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 10 years or a fine (or both) |
+| Sexual abuse of trust | Section 42 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both) |
+| Sexual abuse of trust of a mentally disordered person | Section 46 | Imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) | Imprisonment for a term not exceeding 5 years or a fine (or both). |
+
+## SCHEDULE 3 — Alternative verdicts
+
+*(introduced by section 50)*
+
+|  |  |  |
+|---|---|---|
+| *Offence* | *Section introducing offence* | *Alternative offence* |
+| Rape | Section 1 | Sexual assault by penetration Sexual assault Having intercourse with an older child Assault at common law [[^F53]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child An offence under section 1 (incest) of the Criminal Law (Consolidation) (Scotland) Act 1995 An offence under section 2 (intercourse with step-child) of that Act] |
+| Sexual assault by penetration | Section 2 | Sexual assault Engaging in penetrative sexual activity with or towards an older child Engaging in sexual activity with or towards an older child Assault at common law [[^F54]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child] |
+| Sexual assault | Section 3 | Engaging in sexual activity with or towards an older child Assault at common law [[^F54]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child] |
+| Sexual coercion | Section 4 | Coercing a person into being present during a sexual activity Coercing a person into looking at a sexual image Communicating indecently Causing a person to see or hear an indecent communication Causing an older child to participate in a sexual activity Assault at common law [[^F54]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child] |
+| Coercing a person into being present during a sexual activity | Section 5 | Sexual coercion Coercing a person into looking at a sexual image Communicating indecently Causing a person to see or hear an indecent communication Sexual exposure Assault at common law |
+| Coercing a person into looking at a sexual image | Section 6 | Sexual coercion Coercing a person into being present during a sexual activity Communicating indecently Causing a person to see or hear an indecent communication Sexual exposure Assault at common law |
+| Communicating indecently | Section 7(1) | Sexual coercion Coercing a person into being present during a sexual activity Coercing a person into looking at a sexual image Causing a person to see or hear an indecent communication Sexual exposure |
+| Causing a person to see or hear an indecent communication | Section 7(2) | Sexual coercion Coercing a person into being present during a sexual activity Coercing a person into looking at a sexual image Communicating indecently Sexual exposure |
+| Sexual exposure | Section 8 | Public indecency at common law Breach of the peace at common law |
+| Voyeurism | Section 9 | Breach of the peace at common law |
+| Rape of a young child | Section 18 | Sexual assault on a young child by penetration Sexual assault on a young child Having intercourse with an older child Engaging in penetrative sexual activity with or towards an older child Engaging in sexual activity with or towards an older child Engaging while an older child in sexual conduct with or towards another older child Assault at common law [[^F54]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child] |
+| Sexual assault on a young child by penetration | Section 19 | Sexual assault on a young child Engaging in penetrative sexual activity with or towards an older child Engaging in sexual activity with or towards an older child Assault at common law [[^F54]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child] |
+| Sexual assault on a young child | Section 20 | Engaging in sexual activity with or towards an older child Engaging while an older child in sexual conduct with or towards another older child Engaging while an older child in consensual sexual conduct with another older child Assault at common law [[^F54]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child] |
+| Causing a young child to participate in a sexual activity | Section 21 | Causing a young child to be present during a sexual activity Causing a young child to look at a sexual image Communicating indecently with a young child Causing a young child to see or hear an indecent communication Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Causing an older child to see or hear an indecent communication Assault at common law [[^F54]Assault with intent to commit rape at common law Assault with intent to commit the offence of rape under section 1 of this Act Assault with intent to commit the offence of rape of a young child Abduction with intent to commit rape at common law Abduction with intent to commit the offence of rape under section 1 of this Act Abduction with intent to commit the offence of rape of a young child] |
+| Causing a young child to be present during a sexual activity | Section 22 | Causing a young child to participate in a sexual activity Causing a young child to look at a sexual image Communicating indecently with a young child Causing a young child to see or hear an indecent communication Sexual exposure to a young child Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Causing an older child to see or hear an indecent communication Sexual exposure to an older child |
+| Causing a young child to look at a sexual image | Section 23 | Causing a young child to participate in a sexual activity Causing a young child to be present during a sexual activity Communicating indecently with a young child Causing a young child to see or hear an indecent communication Sexual exposure to a young child Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Causing an older child to see or hear an indecent communication Sexual exposure to an older child |
+| Communicating indecently with a young child | Section 24(1) | Causing a young child to participate in a sexual activity Causing a young child to be present during a sexual activity Causing a young child to look at a sexual image Causing a young child to see or hear an indecent communication Sexual exposure to a young child Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Causing an older child to see or hear an indecent communication Sexual exposure to an older child |
+| Causing a young child to see or hear an indecent communication | Section 24(2) | Causing a young child to participate in a sexual activity Causing a young child to be present during a sexual activity Causing a young child to look at a sexual image Communicating indecently with a young child Sexual exposure to a young child Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Causing an older child to see or hear an indecent communication Sexual exposure to an older child |
+| Sexual exposure to a young child | Section 25 | Sexual exposure to an older child Public indecency at common law Breach of the peace at common law |
+| Voyeurism towards a young child | Section 26 | Voyeurism towards an older child Breach of the peace at common law |
+| Having intercourse with an older child | Section 28 | Engaging in penetrative sexual activitiy with or towards an older child Engaging in sexual activity with or towards an older child Engaging while an older child in sexual conduct with or towards another older child |
+| Engaging in penetrative sexual activity with or towards an older child | Section 29 | Engaging in sexual activity with or towards an older child Engaging while an older child in sexual conduct with or towards another older child |
+| Engaging in sexual activity with or towards an older child | Section 30 | Engaging while an older child in sexual conduct with or towards another older child Engaging while an older child in consensual sexual conduct with another older child |
+| Causing an older child to participate in a sexual activity | Section 31 | Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Causing an older child to see or hear an indecent communication |
+| Causing an older child to be present during a sexual activity | Section 32 | Causing an older child to participate in a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Causing an older child to see or hear an indecent communication Sexual exposure to an older child |
+| Causing an older child to look at a sexual image | Section 33 | Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Communicating indecently with an older child Causing an older child to see or hear an indecent communication Sexual exposure to an older child |
+| Communicating indecently with an older child | Section 34(1) | Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Causing an older child to see or hear an indecent communication Sexual exposure to an older child |
+| Causing an older child to see or hear an indecent communication | Section 34(2) | Causing an older child to participate in a sexual activity Causing an older child to be present during a sexual activity Causing an older child to look at a sexual image Communicating indecently with an older child Sexual exposure to an older child |
+| Sexual exposure to an older child | Section 35 | Public indecency at common law Breach of the peace at common law |
+| Voyeurism towards an older child | Section 36 | Breach of the peace at common law |
+
+## SCHEDULE 4 — Listed offences
+
+*(introduced by section 54)*
+
+### Part 1 — Incitement to commit certain sexual acts outside UK
+
+**1** An offence under Part 1 of this Act against a person under the age of 18.
+
+**2** An offence under Part 4 of this Act.
+
+**3** Sexual abuse of trust (section 42 of this Act).
+
+**4** Sexual abuse of trust of a mentally disordered person (section 46 of this Act) where the mentally disordered person is under the age of 18.
+
+**5** Indecent assault of a person under the age of 18.
+
+### Part 2 — Offences committed outside UK
+
+**6** An offence under Part 1 of this Act against a person under the age of 18.
+
+**7** An offence under Part 4 of this Act.
+
+**8** Sexual abuse of trust (section 42 of this Act).
+
+**9** Sexual abuse of trust of a mentally disordered person (section 46 of this Act) where the mentally disordered person is under the age of 18.
+
+**10** Indecent assault of a person under the age of 18.
+
+**11** An offence under section 52 of the Civic Government (Scotland) Act 1982 (c. 45) (taking and distribution of indecent images of children).
+
+**12** An offence under section 52A of that Act (possession of indecent images of children).
+
+**13** An offence under section 9 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9) (paying for sexual services of a child).
+
+**14** An offence under section 10 of that Act (causing or inciting provision by child of sexual services or pornography).
+
+**15** An offence under section 11 of that Act (controlling a child providing sexual services or involved in pornography).
+
+**16** An offence under section 12 of that Act (arranging or facilitating provision by child of sexual services or pornography).
+
+**17** Conspiracy or incitement to commit any offence specified in paragraphs 6 to 16.
+
+**18** An offence under section 293(2) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (aiding and abetting etc. the commission of a statutory offence) relating to any offence mentioned in paragraphs 6 to 9 or 11 to 16.
+
+## SCHEDULE 5 — Minor and consequential amendments
+
+*(introduced by section 61)*
+
+### The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+
+**1** (1) The Criminal Law (Consolidation) (Scotland) Act 1995 is amended as follows.
+
+(2) In section 4 (proceedings and penalties for offences under sections 1 to 3), in each of subsections (1) and (5), for the words “, 2 or 3” there is substituted “ or 2 ”.
+
+(3) In the section title of that section, for the words “to 3” there is substituted “ and 2 ”.
+
+(4) In section 9 (permitting girl under 16 years to use premises for intercourse)—
+
+(a) in subsection (2)—
+
+(i) after the word “charge” there is inserted “ in proceedings ”,
+
+(ii) the words from “, being” to “offence,” are omitted,
+
+(b) after that subsection, there is inserted—
+
+> (2A) But the defence under subsection (2) is not available to the person so charged if—
+>
+> (a) that person has previously been charged by the police with a relevant sexual offence; or
+>
+> (b) there is in force in respect of that person a risk of sexual harm order.
+
+,
+
+(c) in subsection (3), for the words from “(2)” to the end there is substituted
+
+> (2A) above—
+>
+> (a) “a relevant sexual offence” has the same meaning as in section 39(5)(a) of the Sexual Offences (Scotland) Act 2009 (asp 9); and
+>
+> (b) “a risk of sexual harm order” has the same meaning as in section 39(5)(b) of that Act.
+
+.
+
+(5) In section 10(3) (application of provisions of section 10 to offence of indecent behaviour towards girl under 16), for “section 6 of this Act” there is substituted “ sections 19 to 26 and 29 to 36 of the Sexual Offences (Scotland) Act 2009 (asp 9) (certain sexual offences relating to children) ”.
+
+(6) After section 12, there is inserted—
+
+> **Sections 11(5) and 12: further provision**
+>
+> **12A** (1) Premises shall be treated for the purposes of sections 11(5) and 12 of this Act as a brothel if people resort to them for the purposes of homosexual acts in circumstances in which resort to them for heterosexual practices would have led to the premises being treated as a brothel for the purposes of those sections.
+>
+> (2) For the purposes of this section, a homosexual act is an act of engaging in sexual activity by one male person with another male person; and an activity is sexual in any case if a reasonable person would, in all the circumstances of the case, consider it to be sexual.
+
+.
+
+(7) For the heading above section 13, there is substituted “ *Living on earnings of another from male prostitution* ”.
+
+(8) For the section title, there is substituted “ Living on earnings of another from male prostitution ”.
+
+(9) In section 13 (homosexual offences), in subsection (9), the words from “or who” to “above” are omitted.
+
+### The Criminal Procedure (Scotland) Act 1995 (c. 46)
+
+**2** (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+
+(2) In section 3(6) (jurisdiction and powers of solemn courts), after the word “rape” there is inserted “ (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)), rape of a young child (under section 18 of that Act) ”.
+
+(3) In section 7(8)(b)(i) (JP court: jurisdiction and powers), after the word “rape” there is inserted “ (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)), rape of a young child (under section 18 of that Act) ”.
+
+(4) In section 19A (samples etc. from persons convicted of sexual and violent crimes)—
+
+(a) in subsection (6), in the definition of “relevant sexual offence”—
+
+(i) in paragraph (a), after the word “rape” there is inserted “ at common law ”,
+
+(ii) the word “and” which immediately follows paragraph (h) is repealed, and
+
+(iii) after paragraph (i) there is inserted
+
+> and
+>
+> (j) any offence which consists of a contravention of any of the following provisions of the Sexual Offences (Scotland) Act 2009 (asp 9)—
+>
+> (i) section 1 (rape),
+>
+> (ii) section 2 (sexual assault by penetration),
+>
+> (iii) section 3 (sexual assault),
+>
+> (iv) section 4 (sexual coercion),
+>
+> (v) section 5 (coercing a person into being present during a sexual activity),
+>
+> (vi) section 6 (coercing a person into looking at a sexual image),
+>
+> (vii) section 7(1) (communicating indecently),
+>
+> (viii) section 7(2) (causing a person to see or hear an indecent communication),
+>
+> (ix) section 8 (sexual exposure),
+>
+> (x) section 9 (voyeurism),
+>
+> (xi) section 18 (rape of a young child),
+>
+> (xii) section 19 (sexual assault on a young child by penetration),
+>
+> (xiii) section 20 (sexual assault on a young child),
+>
+> (xiv) section 21 (causing a young child to participate in a sexual activity),
+>
+> (xv) section 22 (causing a young child to be present during a sexual activity),
+>
+> (xvi) section 23 (causing a young child to look at a sexual image),
+>
+> (xvii) section 24(1) (communicating indecently with a young child),
+>
+> (xviii) section 24(2) (causing a young child to see or hear an indecent communication),
+>
+> (xix) section 25 (sexual exposure to a young child),
+>
+> (xx) section 26 (voyeurism towards a young child),
+>
+> (xxi) section 28 (having intercourse with an older child),
+>
+> (xxii) section 29 (engaging in penetrative sexual activity with or towards an older child),
+>
+> (xxiii) section 30 (engaging in sexual activity with or towards an older child),
+>
+> (xxiv) section 31 (causing an older child to participate in a sexual activity),
+>
+> (xxv) section 32 (causing an older child to be present during a sexual activity),
+>
+> (xxvi) section 33 (causing an older child to look at a sexual image),
+>
+> (xxvii) section 34(1) (communicating indecently with an older child),
+>
+> (xxviii) section 34(2) (causing an older child to see or hear an indecent communication),
+>
+> (xxix) section 35 (sexual exposure to an older child),
+>
+> (xxx) section 36 (voyeurism towards an older child),
+>
+> (xxxi) section 37(1) (engaging while an older child in sexual conduct with or towards another older child),
+>
+> (xxxii) section 37(4) (engaging while an older child in consensual sexual conduct with another older child),
+>
+> (xxxiii) section 42 (sexual abuse of trust) but only if the condition set out in section 43(6) of that Act is fulfilled,
+>
+> (xxxiv) section 46 (sexual abuse of trust of a mentally disordered person);
+
+,
+
+(b) in subsection (7), in paragraph (b)(i) after the words “paragraph (i)” there is inserted “ or (j) ”.
+
+(5) In section 24A (bail conditions: remote monitoring of restrictions on movements), in each of subsections (2)(a), (3) and (5)(a), for the words “or rape” there is substituted “ , rape (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)) or rape of a young child (under section 18 of that Act) ”.
+
+(6) In section 210A(10) (extended sentences for sex and violent offenders), in the definition of “sexual offence” —
+
+(a) in paragraph (i), after the word “rape” there is inserted “ at common law ”, and
+
+(b) after paragraph (xxvi) there is inserted
+
+> and
+>
+> (xxvii) an offence which consists of a contravention of any of the following provisions of the Sexual Offences (Scotland) Act 2009 (asp 9)—
+>
+> (A) section 1 (rape),
+>
+> (B) section 2 (sexual assault by penetration),
+>
+> (C) section 3 (sexual assault),
+>
+> (D) section 4 (sexual coercion),
+>
+> (E) section 5 (coercing a person into being present during a sexual activity),
+>
+> (F) section 6 (coercing a person into looking at a sexual image),
+>
+> (G) section 7(1) (communicating indecently),
+>
+> (H) section 7(2) (causing a person to see or hear an indecent communication),
+>
+> (I) section 8 (sexual exposure),
+>
+> (J) section 9 (voyeurism),
+>
+> (K) section 11 (administering a substance for sexual purposes),
+>
+> (L) section 18 (rape of a young child),
+>
+> (M) section 19 (sexual assault on a young child by penetration),
+>
+> (N) section 20 (sexual assault on a young child),
+>
+> (O) section 21 (causing a young child to participate in a sexual activity),
+>
+> (P) section 22 (causing a young child to be present during a sexual activity)
+>
+> (Q) section 23 (causing a young child to look at a sexual image),
+>
+> (R) section 24(1) (communicating indecently with a young child),
+>
+> (S) section 24(2) (causing a young child to see or hear an indecent communication),
+>
+> (T) section 25 (sexual exposure to a young child),
+>
+> (U) section 26 (voyeurism towards a young child),
+>
+> (V) section 28 (having intercourse with an older child),
+>
+> (W) section 29 (engaging in penetrative sexual activity with or towards an older child),
+>
+> (X) section 30 (engaging in sexual activity with or towards an older child),
+>
+> (Y) section 31 (causing an older child to participate in a sexual activity),
+>
+> (Z) section 32 (causing an older child to be present during a sexual activity),
+>
+> (ZA) section 33 (causing an older child to look at a sexual image),
+>
+> (ZB) section 34(1) (communicating indecently with an older child),
+>
+> (ZC) section 34(2) (causing an older child to see or hear an indecent communication),
+>
+> (ZD) section 35 (sexual exposure to an older child),
+>
+> (ZE) section 36 (voyeurism towards an older child),
+>
+> (ZF) section 37(1) (engaging while an older child in sexual conduct with or towards another older child),
+>
+> (ZG) section 37(4) (engaging while an older child in consensual sexual conduct with another older child),
+>
+> (ZH) section 42 (sexual abuse of trust),
+>
+> (ZI) section 46 (sexual abuse of trust of a mentally disordered person);
+
+.
+
+(7) In section 288C(2) (prohibition of personal conduct of defence in cases of certain sexual offences)—
+
+(a) in paragraph (a), after the word “rape” there is inserted “ (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)) ”,
+
+(b) for paragraph (j) there is substituted—
+
+> (j) an offence under any of the following provisions of the Sexual Offences (Scotland) Act 2009 (asp 9)—
+>
+> (i) section 2 (sexual assault by penetration),
+>
+> (ii) section 3 (sexual assault),
+>
+> (iii) section 4 (sexual coercion),
+>
+> (iv) section 5 (coercing a person into being present during a sexual activity),
+>
+> (v) section 6 (coercing a person into looking at a sexual image),
+>
+> (vi) section 7(1) (communicating indecently),
+>
+> (vii) section 7(2) (causing a person to see or hear an indecent communication),
+>
+> (viii) section 8 (sexual exposure),
+>
+> (ix) section 9 (voyeurism),
+>
+> (x) section 18 (rape of a young child),
+>
+> (xi) section 19 (sexual assault on a young child by penetration),
+>
+> (xii) section 20 (sexual assault on a young child),
+>
+> (xiii) section 21 (causing a young child to participate in a sexual activity),
+>
+> (xiv) section 22 (causing a young child to be present during a sexual activity),
+>
+> (xv) section 23 (causing a young child to look at a sexual image),
+>
+> (xvi) section 24(1) (communicating indecently with a young child),
+>
+> (xvii) section 24(2) (causing a young child to see or hear an indecent communication),
+>
+> (xviii) section 25 (sexual exposure to a young child),
+>
+> (xix) section 26 (voyeurism towards a young child),
+>
+> (xx) section 28 (having intercourse with an older child),
+>
+> (xxi) section 29 (engaging in penetrative sexual activity with or towards an older child),
+>
+> (xxii) section 30 (engaging in sexual activity with or towards an older child),
+>
+> (xxiii) section 31 (causing an older child to participate in a sexual activity),
+>
+> (xxiv) section 32 (causing an older child to be present during a sexual activity),
+>
+> (xxv) section 33 (causing an older child to look at a sexual image),
+>
+> (xxvi) section 34(1) (communicating indecently with an older child),
+>
+> (xxvii) section 34(2) (causing an older child to see or hear an indecent communication),
+>
+> (xxviii) section 35 (sexual exposure to an older child),
+>
+> (xxix) section 36 (voyeurism towards an older child),
+>
+> (xxx) section 37(1) (engaging while an older child in sexual conduct with or towards another older child),
+>
+> (xxxi) section 37(4) (engaging while an older child in consensual sexual conduct with another older child),
+>
+> (xxxii) section 42 (sexual abuse of trust) but only if the condition set out in section 43(6) of that Act is fulfilled,
+>
+> (xxxiii) section 46 (sexual abuse of trust of a mentally disordered person);
+
+, and
+
+(c) after paragraph (j) (as inserted by paragraph (b) above), there is inserted—
+
+> (k) attempting to commit any of the offences set out in paragraphs (a) to (j).
+
+.
+
+(8) In Schedule 1 (offences against children under the age of 17 years to which special provisions apply)—
+
+(a) after paragraph 1 there is inserted—
+
+> **1A** Any offence under section 18 (rape of a young child) or 28 (having intercourse with an older child) of the Sexual Offences (Scotland) Act 2009 (asp 9).
+>
+> **1B** Any offence under section 19 (sexual assault on a young child by penetration) or 29 (engaging in penetrative sexual activity with or towards an older child) of that Act.
+>
+> **1C** Any offence under section 20 (sexual assault on a young child) or 30 (engaging in sexual activity with or towards an older child) of that Act.
+>
+> **1D** Any offence under section 42 of that Act (sexual abuse of trust) towards a child under the age of 17 years but only if the condition set out in section 43(6) of that Act is fulfilled.
+
+, and
+
+(b) after paragraph 4 there is inserted—
+
+> **4A** Any offence under section 5 (coercing a person into being present during a sexual activity), 6 (coercing a person into looking at a sexual image), 7 (communicating indecently etc.), 8 (sexual exposure) or 9 (voyeurism) of the Sexual Offences (Scotland) Act 2009 (asp 9) towards a child under the age of 17 years.
+>
+> **4B** Any offence under any of sections 21 to 26 or 31 to 37 of that Act (certain sexual offences relating to children).
+
+.
+
+### The Criminal Injuries Compensation Act 1995 (c. 53)
+
+**3** In section 11(9) of the Criminal Injuries Compensation Act 1995 (approval by parliament of certain alterations to the Tariff or provisions of the Scheme), at the end there is inserted “ , and in relation to anything done in Scotland means rape (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)) and rape of a young child (under section 18 of that Act) ”.
+
+### The Protection of Children (Scotland) Act 2003 (asp 5)
+
+**4** (1) Schedule 1 to the Protection of Children (Scotland) Act 2003 is amended as follows.
+
+(2) At the end of paragraph 1 there is inserted—
+
+> (n) an offence under section 18 (rape of a young child) of the Sexual Offences (Scotland) Act 2009 (asp 9);
+>
+> (o) an offence under section 19 (sexual assault on a young child by penetration) of that Act;
+>
+> (p) an offence under section 20 (sexual assault on a young child) of that Act;
+>
+> (q) an offence under section 21 (causing a young child to participate in a sexual activity) of that Act;
+>
+> (r) an offence under section 22 (causing a young child to be present during a sexual activity) of that Act;
+>
+> (s) an offence under section 23 (causing a young child to look at a sexual image) of that Act;
+>
+> (t) an offence under section 24(1) (communicating indecently with a young child) of that Act;
+>
+> (u) an offence under section 24(2) (causing a young child to see or hear an indecent communication) of that Act;
+>
+> (v) an offence under section 25 (sexual exposure to a young child) of that Act;
+>
+> (w) an offence under section 26 (voyeurism towards a young child) of that Act;
+>
+> (x) an offence under section 28 (having intercourse with an older child) of that Act;
+>
+> (y) an offence under section 29 (engaging in penetrative sexual activity with or towards an older child) of that Act;
+>
+> (z) an offence under section 30 (engaging in sexual activity with or towards an older child) of that Act;
+>
+> (za) an offence under section 31 (causing an older child to participate in a sexual activity) of that Act;
+>
+> (zb) an offence under section 32 (causing an older child to be present during a sexual activity) of that Act;
+>
+> (zc) an offence under section 33 (causing an older child to look at a sexual image) of that Act;
+>
+> (zd) an offence under section 34(1) (communicating indecently with an older child) of that Act;
+>
+> (ze) an offence under section 34(2) (causing an older child to see or hear an indecent communication) of that Act;
+>
+> (zf) an offence under section 35 (sexual exposure to an older child) of that Act;
+>
+> (zg) an offence under section 36 (voyeurism towards an older child) of that Act;
+>
+> (zh) an offence under section 42 (sexual abuse of trust) of that Act.
+
+.
+
+(3) After paragraph 2(d) there is inserted—
+
+> (da) commits an offence under section 1 (rape) of the Sexual Offences (Scotland) Act 2009 (asp 9) in relation to a child;
+>
+> (db) commits an offence under section 2 (sexual assault by penetration) of that Act in relation to a child;
+>
+> (dc) commits an offence under section 3 (sexual assault) of that Act in relation to a child;
+>
+> (dd) commits an offence under section 4 (sexual coercion) of that Act in relation to a child;
+>
+> (de) commits an offence under section 5 (coercing a person into being present during a sexual activity) of that Act in relation to a child;
+>
+> (df) commits an offence under section 6 (coercing a person into looking at a sexual image) of that Act in relation to a child;
+>
+> (dg) commits an offence under section 7(1) (communicating indecently) of that Act in relation to a child;
+>
+> (dh) commits an offence under section 7(2) (causing a person to see or hear an indecent communication) of that Act in relation to a child;
+>
+> (di) commits an offence under section 8 (sexual exposure) of that Act in relation to a child;
+>
+> (dj) commits an offence under section 9 (voyeurism) of that Act in relation to a child;
+>
+> (dk) commits an offence under section 46 (sexual abuse of trust of a mentally disordered person) of that Act in relation to a child;
+
+.
+
+### The Sexual Offences Act 2003 (c. 42)
+
+**5** In Schedule 3 to the Sexual Offences Act 2003 (sexual offences for purposes of Part 2 of that Act)—
+
+(a) in paragraph 36, at the end there is added “ at common law ”,
+
+(b) after paragraph 41, there is inserted—
+
+> **41A** Public indecency if—
+>
+> (a) a person (other than the offender) involved in the offence was under 18, and
+>
+> (b) the court determines that there was a significant sexual aspect to the offender's behaviour in committing the offence.
+
+,
+
+(c) after paragraph 59C there is inserted—
+
+> **59D** An offence under section 1 of the Sexual Offences (Scotland) Act 2009 (asp 9) (rape).
+>
+> **59E** An offence under section 2 of that Act (sexual assault by penetration).
+>
+> **59F** An offence under section 3 of that Act (sexual assault).
+>
+> **59G** An offence under section 4 of that Act (sexual coercion).
+>
+> **59H** An offence under section 5 of that Act (coercing a person into being present during a sexual activity).
+>
+> **59I** An offence under section 6 of that Act (coercing a person into looking at a sexual image).
+>
+> **59J** An offence under section 7(1) of that Act (communicating indecently).
+>
+> **59K** An offence under section 7(2) of that Act (causing a person to see or hear an indecent communication).
+>
+> **59L** An offence under section 8 of that Act (sexual exposure) if—
+>
+> (a) the offender, in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital, or
+>
+> (b) the offender was 18 or over and the victim was under 18.
+>
+> **59M** An offence under section 9 of that Act (voyeurism).
+>
+> **59N** An offence under section 11 of that Act (administering a substance for sexual purposes).
+>
+> **59O** An offence under section 18 of that Act (rape of a young child).
+>
+> **59P** An offence under section 19 of that Act (sexual assault on a young child by penetration).
+>
+> **59Q** An offence under section 20 of that Act (sexual assault on a young child).
+>
+> **59R** An offence under section 21 of that Act (causing a young child to participate in a sexual activity).
+>
+> **59S** An offence under section 22 of that Act (causing a young child to be present during a sexual activity).
+>
+> **59T** An offence under section 23 of that Act (causing a young child to look at a sexual image).
+>
+> **59U** An offence under section 24(1) of that Act (communicating indecently with a young child).
+>
+> **59V** An offence under section 24(2) of that Act (causing a young child to see or hear an indecent communication).
+>
+> **59W** An offence under section 25 of that Act (sexual exposure to a young child).
+>
+> **59X** An offence under section 26 of that Act (voyeurism towards a young child).
+>
+> **59Y** An offence under section 28 of that Act (having intercourse with an older child) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59Z** An offence under section 29 of that Act (engaging in penetrative sexual activity with or towards an older child) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZA** An offence under section 30 of that Act (engaging in sexual activity with or towards an older child) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZB** An offence under section 31 of that Act (causing an older child to participate in a sexual activity) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZC** An offence under section 32 of that Act (causing an older child to be present during a sexual activity) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZD** An offence under section 33 of that Act (causing an older child to look at a sexual image) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZE** An offence under section 34(1) of that Act (communicating indecently with an older child) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZF** An offence under section 34(2) of that Act (causing an older child to see or hear an indecent communication) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZG** An offence under section 35 of that Act (sexual exposure to an older child) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZH** An offence under section 36 of that Act (voyeurism towards an older child) if the offender—
+>
+> (a) was 18 or over, or
+>
+> (b) in respect of the offence, is or has been—
+>
+> (i) sentenced to a term of imprisonment, or
+>
+> (ii) admitted to a hospital.
+>
+> **59ZI** An offence under section 37(1) of that Act (engaging while an older child in sexual conduct with or towards another older child) if, in respect of the offence, the offender is or has been—
+>
+> (a) sentenced to a term of imprisonment, or
+>
+> (b) admitted to a hospital.
+>
+> **59ZJ** An offence under section 37(4) of that Act (engaging while an older child in consensual sexual conduct with another older child) if, in respect of the offence, the offender is or has been—
+>
+> (a) sentenced to a term of imprisonment, or
+>
+> (b) admitted to a hospital.
+>
+> **59ZK** An offence under section 42 of that Act (sexual abuse of trust) where (either or both)—
+>
+> (a) the offender is 20 or over,
+>
+> (b) the condition set out in section 43(6) of that Act is fulfilled.
+>
+> **59ZL** An offence under section 46 of that Act (sexual abuse of trust of a mentally disordered person).
+
+, and
+
+(d) in paragraph 60, for the words “59C” there is substituted “ 59ZL ”.
+
+### The Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+
+**6** In section 326(4)(c) of the Mental Health (Care and Treatment) (Scotland) Act 2003, for “310 or 313(5)” there is substituted “ or 310 ”.
+
+### The Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9)
+
+**7** In section 1(5) of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005, for the words from “Subsections” to “(c.39)” substitute “ Subsection (7) of section 55 of the Sexual Offences (Scotland) Act 2009 (asp 9) ”.
+
+## SCHEDULE 6 — Repeals
+
+*(introduced by section 61)*
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) | Sections 3, 5 and 6. Section 7(2) and (3). Section 13(1) to (8A), (10) and (11). Sections 14, 16A and 16B. |
+| Criminal Procedure (Scotland) Act 1995 (c. 46) | In section 210A(10), in the definition of “sexual offence”, paragraph (vii). |
+| Crime and Punishment (Scotland) Act 1997 (c. 48) | In Schedule 1, paragraph 18(3). |
+| Criminal Justice (Terrorism and Conspiracy) Act 1998 (c. 40) | In Schedule 1, paragraph 8. |
+| Sexual Offences (Amendment) Act 2000 (c. 44) | The whole Act. |
+| Regulation of Care (Scotland) Act 2001 (asp 8) | In schedule 3, paragraph 25. |
+| Convention Rights (Compliance) (Scotland) Act 2001 (asp 7) | In section 10, paragraph (b) and the word “and” immediately before that paragraph. |
+| Sexual Offences Act 2003 (c. 42) | Section 142(5). In Schedule 3, paragraph 42. In Schedule 6, paragraph 33. |
+| Criminal Justice (Scotland) Act 2003 (asp 7) | Section 19(2)(c). |
+| Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) | Sections 311 to 313 and 319. |
+| Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9) | In the schedule, paragraph 1. |
+
+---
+
+[^F1]: S. 9(4A)(4B) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(2)(a), 206; S.S.I. 2010/357, art. 2(b)
+[^F2]: Word in s. 9(5) subsitituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(2)(b)(i), 206; S.S.I. 2010/357, art. 2(b)
+[^F3]: S. 9(5)(b) subsitituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(2)(b)(ii), 206; S.S.I. 2010/357, art. 2(b)
+[^F4]: Words in s. 9(7) subsitituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(2)(c), 206; S.S.I. 2010/357, art. 2(b)
+[^F5]: Words in s. 10(2) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(3), 206; S.S.I. 2010/357, art. 2(b)
+[^F6]: S. 26(4A)(4B) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(4)(a), 206; S.S.I. 2010/357, art. 2(b)
+[^F7]: Word in s. 26(5) substituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(4)(b)(i), 206; S.S.I. 2010/357, art. 2(b)
+[^F8]: S. 26(5)(b) substituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(4)(b)(ii), 206; S.S.I. 2010/357, art. 2(b)
+[^F9]: Words in s. 26(7) substituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(4)(c), 206; S.S.I. 2010/357, art. 2(b)
+[^F10]: Word in s. 26(8) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(4)(d), 206; S.S.I. 2010/357, art. 2(b)
+[^F11]: Word in s. 26(8) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(4)(d), 206; S.S.I. 2010/357, art. 2(b)
+[^F12]: S. 36(4A)(4B) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(5)(a), 206; S.S.I. 2010/357, art. 2(b)
+[^F13]: Word in s. 36(5) subsitituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(5)(b)(i), 206; S.S.I. 2010/357, art. 2(b)
+[^F14]: S. 36(5)(b) subsitituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(5)(b)(ii), 206; S.S.I. 2010/357, art. 2(b)
+[^F15]: Words in s. 36(7) subsitituted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(5)(c), 206; S.S.I. 2010/357, art. 2(b)
+[^F16]: Word in s. 36(8) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(5)(d)(i), 206; S.S.I. 2010/357, art. 2(b)
+[^F17]: Word in s. 36(8) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 43(5)(b)(ii), 206; S.S.I. 2010/357, art. 2(b)
+[^F18]: Word following s. 39(2)(a) repealed (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss 71(1), 206, Sch. 4 para. 13(2)(a)(i); S.S.I. 2010/413, art. 2, Sch.
+[^F19]: S. 39(2)(a)(ia) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss 71(1), 206, Sch. 4 para. 13(2)(a)(ii); S.S.I. 2010/413, art. 2, Sch.
+[^F20]: Words in s. 39(2)(a)(ia) inserted (31.12.2020) by The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339), regs. 1(3), 14(a) (with reg. 16)
+[^F21]: Word following s. 39(2)(b) repealed (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss 71(1), 206, Sch. 4 para. 13(2)(b)(i); S.S.I. 2010/413, art. 2, Sch.
+[^F22]: S. 39(2)(b)(ia) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss 71(1), 206, Sch. 4 para. 13(2)(b)(ii); S.S.I. 2010/413, art. 2, Sch.
+[^F23]: Words in s. 39(2)(b)(ia) inserted (31.12.2020) by The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339), regs. 1(3), 14(a) (with reg. 16)
+[^F24]: Word. in s. 39(4)(c) inserted (1.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 44, 206; S.S.I. 2010/357, art. 2(b)
+[^F25]: S. 39(5)(aa) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss 71(1), 206, Sch. 4 para. 13(3); S.S.I. 2010/413, art. 2, Sch.
+[^F26]: Words in s. 39(5)(aa) omitted (31.12.2020) by virtue of The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339), regs. 1(3), 14(b) (with reg. 16)
+[^F27]: S. 39(5A)(5B) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss 71(1), 206, Sch. 4 para. 13(4); S.S.I. 2010/413, art. 2, Sch.
+[^F28]: Words in s. 44 substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, Sch. 1 para. 20(2)(a)
+[^F29]: Words in s. 44 inserted (31.3.2015) by The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153), art. 1, Sch. para. 5
+[^F30]: Definition in s. 44 substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, Sch. 2 para. 11
+[^F31]: Words in s. 44 substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, Sch. 1 para. 20(2)(b)
+[^F32]: Words in s. 44 substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, Sch. 1 para. 20(2)(c)
+[^F33]: Definition in s. 46(4) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, Sch. 1 para. 20(3)
+[^F34]: S. 54 heading substituted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 7(7), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F35]: Word in s. 54(1) substituted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 7(2), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F36]: S. 54(2)(2A) substituted for s. 54(2) (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 7(3), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F37]: Word in s. 54(3) substituted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 7(4), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F38]: Word in s. 54(4) substituted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 7(5), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F39]: Words in s. 54(8) inserted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 7(6)(a), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F40]: Words in s. 54(8) substituted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), s. 45(2)(3), sch. 2 para. 6 (with s. 44); S.S.I. 2017/93, reg. 2
+[^F41]: Words in s. 54(8) omitted (24.4.2017) by virtue of Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 7(6)(b), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F42]: Ss. 54A-54C inserted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 8, 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F43]: S. 54D inserted (29.6.2021) by Domestic Abuse Act 2021 (c. 17), s. 90(6), Sch. 3 para. 5(2); S.S.I. 2021/239, reg. 2
+[^F44]: Words in s. 55 heading inserted (29.6.2021) by Domestic Abuse Act 2021 (c. 17), s. 90(6), Sch. 3 para. 5(3); S.S.I. 2021/239, reg. 2
+[^F45]: S. 55(2A)(2B) inserted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 9(2), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F46]: Words in s. 55(3) substituted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 9(3), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F47]: Words in s. 55(4) inserted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 9(4), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F48]: Word in s. 55(7) subsitituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 203, 206, Sch. 7 para. 86; S.S.I. 2010/413, art. 2, Sch.
+[^F49]: Words in s. 55(8) substituted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 9(5), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F50]: Words in s. 55(8) inserted (24.4.2017) by Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 9(6)(a), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F51]: Words in s. 55(8) omitted (24.4.2017) by virtue of Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22), ss. 9(6)(b), 45(2)(3) (with s. 44); S.S.I. 2017/93, reg. 2
+[^F52]: S. 56 heading heading substituted (29.6.2021) by Domestic Abuse Act 2021 (c. 17), s. 90(6), Sch. 3 para. 5(4); S.S.I. 2021/239, reg. 2
+[^F53]: Sch. 3: entries inserted (1.12.2010) by The Sexual Offences (Scotland) Act 2009 (Supplemental and Consequential Provisions) Order 2010 (S.S.I. 2010/421), art. 2, Sch. para. 4(a)
+[^F54]: Sch. 3: entries inserted (1.12.2010) by The Sexual Offences (Scotland) Act 2009 (Supplemental and Consequential Provisions) Order 2010 (S.S.I. 2010/421), art. 2, Sch. para. 4(b)

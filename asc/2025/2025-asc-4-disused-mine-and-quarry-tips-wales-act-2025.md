@@ -1,0 +1,2479 @@
+---
+title: "Disused Mine and Quarry Tips (Wales) Act 2025"
+identifier: "asc/2025/4"
+citation: "2025 asc 4"
+type: act
+legislation_type: asc
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 2025-09-11
+last_amended: 2025-09-12
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asc/2025/4"
+source_modified: 2026-05-08
+retrieved: 2026-10-11
+---
+
+# Disused Mine and Quarry Tips (Wales) Act 2025
+
+**2025 asc 4**
+
+An Act of Senedd Cymru to establish the Disused Tips Authority for Wales; to make provision to prevent disused tips from threatening human welfare by reason of their instability; and to make provision for connected purposes.
+
+[11 September 2025]
+
+**Having been passed by Senedd Cymru and having received the assent of His Majesty, it is enacted as follows:**
+
+## PART 1 — THE DISUSED TIPS AUTHORITY FOR WALES (prospective)
+
+### Establishment and exercise of functions (prospective)
+
+#### 1 The Disused Tips Authority for Wales (prospective)
+
+(1) The Disused Tips Authority for Wales is established as a body corporate.
+
+(2) In this Act, references to “the Authority” are to that body.
+
+(3) Schedule 1 makes further provision about the Authority.
+
+#### 2 The Authority’s exercise of its functions (prospective)
+
+(1) The‍ Authority must exercise its functions under this Act with a view to ensuring that disused tips do not threaten human welfare by reason of their instability.
+
+(2) In exercising its functions under this Act, the Authority must also promote high standards in relation to the management of disused tips and threats to their stability.
+
+### General functions (prospective)
+
+#### 3 Information, advice and assistance (prospective)
+
+(1) The Authority must give the Welsh Ministers such information, advice or assistance as they may require in connection with any matter relevant to the exercise of their functions under this Act or any of their other functions.
+
+(2) The Authority may, of its own initiative, give the Welsh Ministers information, advice or assistance in connection with any matter relevant to the exercise of their functions under this Act or any of their other functions.
+
+(3) The Authority may give any person other than the Welsh Ministers information or advice on, or assistance with, any matter relating to a particular disused tip or to disused tips generally.
+
+(4) The Authority may charge a fee for the provision of information, advice or assistance under subsection (3).
+
+(5) In this section, “assistance” includes carrying out operations on land.
+
+#### 4 Financial assistance (prospective)
+
+(1) The Authority may, with the consent of the Welsh Ministers, give financial assistance to any person in respect of relevant expenditure.
+
+(2) In subsection (1), “relevant expenditure” means expenditure incurred or to be incurred by the person on anything which the Authority considers conducive to the attainment of its main objective.
+
+(3) Financial assistance may be given under subsection (1)—
+
+(a) by grant or loan;
+
+(b) subject to conditions.
+
+#### 5 Ancillary powers (prospective)
+
+(1) The Authority may do anything which is calculated to facilitate, or which is conducive or incidental to, the exercise of its functions.
+
+(2) But the Authority may not borrow money from any person other than the Welsh Ministers.
+
+## PART 2 — ASSESSMENT, REGISTRATION AND MONITORING OF DISUSED TIPS (prospective)
+
+### CHAPTER 1 — REGISTER OF DISUSED TIPS (prospective)
+
+#### The register (prospective)
+
+##### 6 Duty to compile and maintain register (prospective)
+
+(1) The Authority must compile and maintain an electronic register of disused tips that the Authority decides—
+
+(a) pose a threat to human welfare by reason of instability, or
+
+(b) could pose such a threat in the event of instability.
+
+(2) Chapter 3 sets out the process for including disused tips in the register or removing them from it.
+
+(3) In this Part, references to “the register” are to the register referred to in subsection (1).
+
+##### 7 The criteria for registration (prospective)
+
+For the purposes of this Part, the criteria for registering a disused tip are that the tip—
+
+(a) poses a threat to human welfare by reason of instability, or
+
+(b) could pose such a threat in the event of instability.
+
+##### 8 Content of the register (prospective)
+
+(1) An entry in the register for a disused tip must include—
+
+(a) a map showing the area of the tip, and
+
+(b) the information described in subsection (2).
+
+(2) The information is—
+
+(a) the name or names by which the tip is commonly known (if any);
+
+(b) the location of the tip;
+
+(c) a unique identifier given by the Authority to the tip;
+
+(d) the tip’s category (see Chapter 4);
+
+(e) the date of the most recent inspection of the tip (if any);
+
+(f) any additional information specified by regulations made by the Welsh Ministers.
+
+(3) The Welsh Ministers must consult the Authority before making regulations under subsection (2)(f).
+
+(4) A change to the map showing the area of a disused tip or a change to a tip’s category may only be made in accordance with Chapter 5.
+
+##### 9 Public access to the register (prospective)
+
+The Authority must‍ publish the maps and information in the register, other than any information specified by regulations under section 8(2)(f).
+
+#### Monitoring registered tips (prospective)
+
+##### 10 Duty to monitor registered tips (prospective)
+
+(1) The Authority must monitor the stability, and threats to the stability, of each disused tip in the register.
+
+(2) In order to perform its duty under subsection (1) ‍in relation to a tip which is a category 1 tip, the Authority—
+
+(a) must inspect the tip within 6 months of the tip being recorded in the register as a category 1 tip, and
+
+(b) must then inspect the tip—
+
+(i) twice within the period of 12 months beginning with the day on which the inspection required by paragraph (a) is completed, and
+
+(ii) twice within each subsequent period of 12 months.
+
+(3) In order to perform its duty under subsection (1) in relation to a tip which is a category 2 tip, the Authority—
+
+(a) must inspect the tip within 12 months of the tip being recorded in the register as a category 2 tip, and
+
+(b) must then inspect the tip—
+
+(i) once within the period of 12 months beginning with the day on which the inspection required by paragraph (a) is completed, and
+
+(ii) once within each subsequent period of 12 months.
+
+(4) The Authority may carry out any other monitoring activities (including additional inspections) that it considers appropriate in relation to a tip which is a category 1 tip or a category 2 tip.
+
+(5) In order to perform its duty under subsection (1) in relation to a tip which is a category 3 tip or a category 4 tip, the Authority may carry out any inspections or other monitoring activities that it considers appropriate.
+
+(6) The Welsh Ministers may by regulations amend subsection (2) or (3)—
+
+(a) to change any period referred to for the time being in those subsections as the period within which an inspection or inspections (as the case may be) must be carried out;
+
+(b) to change, in relation to any such period, the number of inspections which the Authority is required to carry out.
+
+### CHAPTER 2 — ASSESSMENT OF DISUSED TIPS (prospective)
+
+#### General (prospective)
+
+##### 11 Overview (prospective)
+
+This Chapter makes provision for the assessment of disused tips; in particular, it requires the Authority to carry out—
+
+(a) a preliminary assessment of disused tips not in the register, to identify those tips that may need to be included in it;
+
+(b) a full assessment of those tips identified by a preliminary assessment as ones that may need to be included in the register;
+
+(c) in certain circumstances, a full assessment of tips already in the register.
+
+#### Preliminary assessment (prospective)
+
+##### 12 Meaning of “preliminary assessment” (prospective)
+
+In this Chapter, “preliminary assessment” means an assessment of whether it appears that the criteria for registering a disused tip may be met.
+
+##### 13 Preliminary assessments of all disused tips (prospective)
+
+(1) The Authority must—
+
+(a) carry out a preliminary assessment in relation to every disused tip, and
+
+(b) produce‍ and publish a report of each assessment.
+
+(2) The Authority may publish a report under subsection (1)(b) in a redacted form if the Authority considers it necessary to do so in order to avoid disclosing information contrary to any prohibition imposed by an enactment or other rule of law.
+
+(3) The Authority must prepare a programme which sets out its proposed approach to, and proposed timetable for, carrying out the preliminary assessments required by this section.
+
+(4) The Authority must send the programme to the Welsh Ministers for approval before the end of 12 months beginning with the coming into force of this section.
+
+(5) The Welsh Ministers may approve the programme with or without modifications.
+
+(6) The Authority must publish the programme as approved by the Welsh Ministers as soon as practicable.
+
+(7) The Authority may revise the published programme with the approval of the Welsh Ministers.
+
+(8) If the Authority revises the published programme, it must publish it in its revised form as soon as practicable after making the revision.
+
+(9) In complying with subsection (1), the Authority must have regard to the most recent programme published by it under this section.
+
+##### 14 Additional preliminary assessments (prospective)
+
+(1) This section applies where a preliminary assessment has been carried out under this Chapter in relation to a disused tip that is not in the register, but the Authority considers that an additional preliminary assessment ought to be carried out in relation to the tip—
+
+(a) because of a change in circumstances, or
+
+(b) because information is available that was not taken into account when the previous assessment was carried out.
+
+(2) The Authority must, as soon as practicable—
+
+(a) carry out an additional preliminary assessment in relation to the tip, and
+
+(b) produce‍ and publish a report of‍ the assessment.
+
+(3) The Authority may publish a report under subsection (2)(b) in a redacted form if the Authority considers it necessary to do so in order to avoid disclosing information contrary to any prohibition imposed by an enactment or other rule of law.
+
+#### Full assessment (prospective)
+
+##### 15 Meaning of “full assessment” (prospective)
+
+In this Chapter, “full assessment”, in relation to a disused tip, means an assessment of—
+
+(a) the stability of the tip;
+
+(b) matters affecting or with the potential to affect the stability of the tip (including any interdependencies between the tip and any other disused tip);
+
+(c) whether any interdependencies between the tip and another disused tip could affect the stability of the other tip;
+
+(d) whether the criteria for registration are met.
+
+##### 16 Full assessment of unregistered tip (prospective)
+
+(1) If, on the basis of a preliminary assessment under this Chapter, it appears to the Authority that the criteria for registering a disused tip may be met in relation to a disused tip that is not in the register, the Authority must—
+
+(a) carry out a full assessment in relation to the tip, and
+
+(b) produce‍ and publish a report of‍ the assessment.
+
+(2) The Authority may publish a report under subsection (1)(b) in a redacted form if the Authority considers it necessary to do so in order to avoid disclosing information contrary to any prohibition imposed by an enactment or other rule of law.
+
+##### 17 Full assessment of registered tip (prospective)
+
+(1) This section applies where the Authority considers that an additional full assessment ought to be carried out in relation a disused tip already in the register—
+
+(a) because of a change in circumstances, or
+
+(b) because information is available that was not taken into account when a full assessment was last carried out in relation to the tip.
+
+(2) The Authority must, as soon as practicable—
+
+(a) carry out an additional full assessment in relation to the tip, and
+
+(b) produce‍ and publish a report of‍ the assessment.
+
+(3) The Authority may publish a report under subsection (2)(b) in a redacted form if the Authority considers it necessary to do so in order to avoid disclosing information contrary to any prohibition imposed by an enactment or other rule of law.
+
+##### 18 Notice of intention to carry out full assessment (prospective)
+
+(1) Before carrying out a full assessment in relation to a disused tip, the Authority must give a notice to every owner and every occupier of land to which access is required for the purposes of the assessment.
+
+(2) The notice must—
+
+(a) state that the Authority has arranged a full assessment in relation to the tip;‍
+
+(b) explain that access to the land may be needed to carry out the assessment;
+
+(c) specify the date on which access to the land may be needed (which must not be less than 14 days after the date on which the notice is given);
+
+(d) state that the Authority may, unless the land is Crown land, apply for a warrant to enter the land under section 67 if access is refused.
+
+##### 19 Notice of conclusions of full assessment (prospective)
+
+Where the Authority produces a report of a full assessment in relation to a disused tip, it must, as soon as practicable, give notice of the conclusions of the report to every owner and every occupier of the land on which the tip is situated.
+
+### CHAPTER 3 — REGISTERING AND DEREGISTERING DISUSED TIPS (prospective)
+
+#### 20 Proposal to register tip (prospective)
+
+(1) This section applies where a report of a full assessment under section 16 concludes that the criteria for registering a disused tip are met.
+
+(2) The Authority must, as soon as practicable, give notice that it proposes to include the tip in the register (a “notice of proposed registration”) to—
+
+(a) every owner and every occupier of the land on which the tip is situated, and
+
+(b) any other person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee.
+
+(3) A notice of proposed registration must—
+
+(a) identify the disused tip;
+
+(b) include a map showing the area of the tip;
+
+(c) explain that the Authority is proposing to register the tip and its reasons for the proposal;
+
+(d) specify the category the Authority is proposing for the tip and its reasons for the proposal;
+
+(e) specify the period for making representations to the Authority about the proposal, which must be a period of at least 30 days beginning with the day after the day on which the notice is given;
+
+(f) explain how a person may make representations.
+
+(4) The Welsh Ministers may by regulations amend subsection (3)(e) to change the minimum period for making representations, but the amended period must not be less than 14 days.
+
+#### 21 Decision on registration (prospective)
+
+(1) This section applies where the period for making representations about a proposal to include a disused tip in the register has ended.
+
+(2) The Authority must, as soon as practicable, decide whether it is satisfied that the criteria for registering the tip are met.
+
+(3) In making its decision, the Authority must have regard to—
+
+(a) the conclusions of the report of the full assessment mentioned in section 20, and
+
+(b) any representations made about the proposal by a person who was given the notice of proposed registration.
+
+(4) The Authority may also have regard to any other information it considers relevant.
+
+(5) Where the Authority decides that the criteria for registration are met, it must include the tip in the register as soon as practicable.
+
+(6) The Authority may register a disused tip otherwise than in accordance with the proposal in the notice of proposed registration if it considers it appropriate to do so.
+
+(7) The Authority must give notice of a decision under this section (a “decision notice”) to—
+
+(a) every owner and every occupier of the land on which the disused tip is situated,
+
+(b) any other person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee, and
+
+(c) any other person who was given the notice of proposed registration.
+
+(8) A decision notice must—
+
+(a) identify the disused tip;
+
+(b) include a map showing the area of the tip;
+
+(c) explain the Authority’s decision and its reasons for the decision;
+
+(d) if the tip has been included in the register—
+
+(i) specify the date on which tip was added to the register,
+
+(ii) specify the tip’s category, and
+
+(iii) where the tip has been registered otherwise than in accordance with the notice of proposed registration, explain any differences and the reasons for the differences.
+
+#### 22 Proposal to remove tip from register (prospective)
+
+(1) This section applies where a report of a full assessment under section 17 concludes that the criteria for registration are no longer met in relation to a disused tip in the register.
+
+(2) The Authority must, as soon as practicable, give notice that it proposes to remove the tip from the register (a “notice of proposed deregistration”) to—
+
+(a) every owner and every occupier of the land on which the tip is situated, and
+
+(b) any other person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee.
+
+(3) A notice of proposed deregistration must—
+
+(a) identify the disused tip;
+
+(b) include a map showing the area of the tip;
+
+(c) explain that the Authority is proposing to remove the tip from the register and its reasons for the proposal;
+
+(d) specify the period for making representations to the Authority about the proposal, which must be a period of at least 30 days beginning with the day after the day on which the notice is given;
+
+(e) explain how a person may make representations.
+
+(4) The Welsh Ministers may by regulations amend subsection (3)(d) to change the minimum period for making representations, but the amended period must not be less than 14 days.
+
+#### 23 Decision on removal of tip from register (prospective)
+
+(1) This section applies where the period for making representations about a proposal to remove a disused tip from the register has ended.
+
+(2) The Authority must, as soon as practicable, decide whether it is satisfied that the criteria for registration are no longer met in relation to the tip.
+
+(3) In making its decision, the Authority must have regard to—
+
+(a) the conclusions of the report of the full assessment mentioned in section 22, and
+
+(b) any representations made about the proposal by a person who was given the notice of proposed deregistration.
+
+(4) The Authority may also have regard to any other information it considers relevant.
+
+(5) Where the Authority decides that the criteria for registration are no longer met, it must remove the tip from the register as soon as practicable.
+
+(6) The Authority must, as soon as practicable, give notice of a decision under this section (a “decision notice”) to—
+
+(a) every owner and every occupier of the land on which the disused tip is situated,
+
+(b) any other person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee, and
+
+(c) any other person who was given the notice of proposed deregistration.
+
+(7) A decision notice must—
+
+(a) identify the disused tip;
+
+(b) include a map showing the area of the tip;
+
+(c) explain the Authority’s decision and its reasons for the decision;
+
+(d) if the tip has been removed from the register, specify the date on which it was removed.
+
+### CHAPTER 4 — THE CATEGORIES OF DISUSED TIP ETC. (prospective)
+
+#### 24 Categories of disused tip (prospective)
+
+(1) There are four categories in which a disused tip in the register may be placed under this Part: category 1, 2, 3 or 4.
+
+(2) The four categories represent the different degrees to which disused tips cause the Authority concern, with—
+
+(a) category 1 representing those disused tips causing the Authority most concern, and
+
+(b) category 4 representing those disused tips causing the Authority the least concern,
+
+on the basis of one or more of the matters in subsection (3).
+
+(3) The matters are—
+
+(a) the tip’s instability;
+
+(b) the tip’s potential for instability;
+
+(c) the threat to human welfare posed by the tip’s instability;
+
+(d) the threat the tip could pose to human welfare in the event of instability.
+
+#### 25 Statement of policy on categorisation (prospective)
+
+(1) The Authority must publish a statement of its policy on the categorisation of disused tips.
+
+(2) The Authority may revise the statement; but where it does so, it must publish the statement in its revised form as soon as practicable after making the revision.
+
+(3) Before publishing the statement (including in a revised form), the Authority must consult such persons as it considers appropriate.
+
+#### 26 Initial categorisation of a disused tip (prospective)
+
+(1) This section applies in relation to—
+
+(a) a proposal under section 20 to register a disused tip, and
+
+(b) a decision under section 21 to register a disused tip.
+
+(2) In proposing or deciding on a tip’s category, the Authority must—
+
+(a) have regard to the report of the full assessment carried out under section 16 in relation to the tip, and
+
+(b) follow the policy in the statement published under section 25.
+
+(3) The Authority may have regard to any other information it considers relevant in proposing or deciding on a tip’s category.
+
+#### 27 Reviews of categorisation (prospective)
+
+(1) Where—
+
+(a) the Authority carries out a full assessment under section 17 in relation to a disused tip in the register, and
+
+(b) the report concludes that the criteria for registering the tip continue to be met,
+
+the Authority must review the tip’s category as soon as practicable.
+
+(2) The Authority may review a disused tip’s category at any other time.
+
+(3) If the Authority considers, on a review, that a disused tip’s category ought to be changed, it must propose a different category for the tip as soon as practicable.
+
+(4) In reviewing a disused tip’s category, and in proposing a different category for a disused tip, the Authority must—
+
+(a) have regard to the report of the most recent full assessment carried out in relation to the tip, and
+
+(b) follow the policy in the statement published under section 25.
+
+(5) The Authority may have regard to any other information it considers relevant in reviewing a disused tip’s category, or in proposing a different category for a disused tip.
+
+(6) See Chapter 5 for provision about the procedure to be followed by the Authority when proposing, and making, a change to the category for a disused tip.
+
+### CHAPTER 5 — NOTIFIABLE CHANGES TO THE REGISTER (prospective)
+
+#### 28 Meaning of “notifiable change” (prospective)
+
+In this Chapter, “notifiable change” means—
+
+(a) a change to the area shown as the area of a disused tip on a map in the register (see section 8(1)(a)), or
+
+(b) a change to a disused tip’s category.
+
+#### 29 Proposal to make notifiable change (prospective)
+
+(1) If the Authority proposes to make a notifiable change in relation to a disused tip, it must give notice of the proposal (a “notice of a proposed change to the register”) to—
+
+(a) every owner and every occupier of the land on which the tip is situated, and
+
+(b) any other person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee.
+
+(2) A notice of a proposed change to the register must—
+
+(a) identify the disused tip;
+
+(b) include a copy of the map in the register that shows the area of the tip;
+
+(c) explain the change the Authority is proposing (which must, in the case of a change to the area of a tip shown on a map in the register, include a map showing the proposed revisions clearly marked);
+
+(d) explain the Authority’s reasons for the proposal;
+
+(e) specify the period for making representations to the Authority about the proposal, which must be a period of at least 30 days beginning with the day after the day on which the notice is given;
+
+(f) explain how a person may make representations.
+
+(3) The Welsh Ministers may by regulations amend subsection (2)(e) to change the minimum period for making representations, but the amended period must not be less than 14 days.
+
+#### 30 Decision on notifiable change (prospective)
+
+(1) This section applies where the period for making representations about a proposal to make a notifiable change has ended.
+
+(2) The Authority must, as soon as practicable, decide whether to make the change.
+
+(3) Where—
+
+(a) the proposed change is a change to the map in the register showing the area of a disused tip, and
+
+(b) the Authority considers that the change ought to be made in a modified form,
+
+it may decide to make the change with any modifications it considers necessary.
+
+(4) Where the proposed change is a change to a disused tip’s category, the Authority may decide to change the category to a category that is different from the proposed category.
+
+(5) In making its decision under subsection (2), the Authority must have regard to any representations made by a person who was given notice of the proposal.
+
+(6) The Authority may also have regard to any other information it considers relevant.
+
+(7) Where the Authority decides to make a notifiable change, it must update the register to reflect its decision as soon as practicable.
+
+(8) The Authority must give notice of its decision under subsection (2) (a “decision notice”) to—
+
+(a) every owner and every occupier of the land on which the disused tip is situated,
+
+(b) any other person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee, and
+
+(c) any other person who was given notice of the proposed change to the register.
+
+(9) A decision notice must—
+
+(a) identify the disused tip;
+
+(b) include a map showing the area of the tip;
+
+(c) explain the Authority’s decision and its reasons for the decision;
+
+(d) if a change has been made to the entry in the register for the tip, give the date on which the change was made.
+
+### CHAPTER 6 — SUPPLEMENTARY PROVISION (prospective)
+
+#### 31 Duty to compile and maintain list of all disused tips (prospective)
+
+(1) The Authority must compile and maintain an electronic list of all disused tips in relation to which an assessment under section 13 (preliminary assessment of all disused tips) has been carried out.
+
+(2) The Authority must include a disused tip in the list as soon as practicable after completing the assessment referred to in subsection (1) in relation to the tip.
+
+(3) An entry in the list for a disused tip must include—
+
+(a) the name or names by which the tip is commonly known (if any);
+
+(b) the location of the tip;
+
+(c) a unique identifier given by the Authority to the tip.
+
+(4) The Authority must‍ publish the list.
+
+#### 32 Duty to publish notices (prospective)
+
+(1) Where a provision in Chapter 3 or 5 of this Part requires a notice to be given to a person, the Authority must publish the notice as soon as practicable after it is given.
+
+(2) In complying with subsection (1), the Authority may publish a notice in a redacted form if it considers it necessary to do so in order to avoid disclosing information contrary to any prohibition imposed by an enactment or other rule of law.
+
+#### 33 Compensation for damage or disturbance (prospective)
+
+(1) This section applies where—
+
+(a) an inspection or other monitoring activity is carried out under Chapter 1, or
+
+(b) a preliminary assessment or a full assessment is carried out under Chapter 2.
+
+(2) If, as a result of carrying out the inspection, activity or assessment—
+
+(a) any land or other property is damaged, or
+
+(b) any person’s enjoyment of any land is disturbed,
+
+the persons referred to in subsection (3) are entitled to recover compensation from the Authority in respect of the damage or disturbance.
+
+(3) The persons are—
+
+(a) in the case of damage to land, any person with an estate or interest in the land;
+
+(b) in the case of damage to other property, the owner of the property;
+
+(c) in the case of disturbance to a person’s enjoyment of land, the person whose enjoyment of the land is disturbed.
+
+(4) Any dispute arising on a claim for compensation under this section is to be determined by the court.
+
+(5) Schedule 2 has effect in relation to certain claims for compensation under this section.
+
+#### 34 Penalty for obstructing monitoring activities or assessments (prospective)
+
+(1) A person who intentionally obstructs or interferes with—
+
+(a) an inspection or other monitoring activity under Chapter 1, or
+
+(b) a preliminary assessment or full assessment under Chapter 2,
+
+commits an offence.
+
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine.
+
+(3) A contravention of subsection (1) by the Crown does not make the Crown criminally liable (but see section 28(3) of the Legislation (Wales) Act 2019 (anaw 4) regarding the liability of persons in the service of the Crown).
+
+## PART 3 — DEALING WITH TIP INSTABILITY AND THREATS TO TIP STABILITY (prospective)
+
+### CHAPTER 1 — REQUIRING AN OWNER OF LAND TO CARRY OUT OPERATIONS (prospective)
+
+#### 35 Notice requiring owner of land to carry out operations (prospective)
+
+(1) The Authority may by notice require an owner of land to carry out operations on the land if the Authority considers the operations to be necessary to achieve the following objective.
+
+(2) The objective is to—
+
+(a) prevent or deal with threats to the stability of a disused tip, or
+
+(b) stabilise a disused tip or prevent a disused tip from becoming more unstable,
+
+so as to avoid or reduce threats to human welfare.
+
+(3) A notice must specify—
+
+(a) the disused tip in connection with which the notice is given,
+
+(b) the operations that must be carried out, and
+
+(c) the threat to human welfare that the specified operations are intended to avoid or reduce.
+
+(4) A notice must also specify the period within which the operations are to be completed, which must be a period beginning at least 21 days after the day on which the notice is given to the owner.
+
+#### 36 Owner’s right of entry onto land etc. (prospective)
+
+(1) If—
+
+(a) an owner of land who is given a notice under section 35 is not in occupation of the land, or any part of the land, on which the operations required by the notice must be carried out, and
+
+(b) the owner’s estate in the land is superior to any estate or interest of the occupier,
+
+the owner has the right to enter the land in order to carry out the operations and any consequential works of reinstatement.
+
+(2) An owner exercising a right of entry under subsection (1) may take any other persons, equipment and material onto the land as may be necessary.
+
+(3) An owner of land who is given a notice under section 35 may, for the purpose of carrying out operations required by the notice on the land, remove and dispose of any property situated on the land that belongs to another person.
+
+(4) If an owner of land disposes of property under subsection (3) by selling it, the owner of the land must account to the owner of the property for the proceeds of sale.
+
+(5) Subsection (4) does not prevent an owner of land from—
+
+(a) deducting from the proceeds of sale any expenses reasonably incurred by the owner in selling the property;
+
+(b) setting off the proceeds of sale, or any part of those proceeds, against any sum which the owner is entitled to recover from the owner of the property under Chapter 3.
+
+#### 37 Duty to give interested parties copies of notice (prospective)
+
+(1) Where the Authority gives a notice to an owner of land under section 35, it must also give a copy of the notice to any other person with an interest in the notice.
+
+(2) For the purposes of this section, the following persons (in addition to the owner) are persons with an interest in a notice—
+
+(a) a person occupying land on which the operations required by the notice are to be carried out;
+
+(b) a person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee;
+
+(c) a person who, to the Authority’s knowledge, otherwise than as a mortgagee—
+
+(i) has an estate or interest in the land on which the disused tip is situated, or
+
+(ii) had an estate or interest in that land at any time in the 12 years before the day on which the notice is given to the owner;
+
+(d) a person who, to the Authority’s knowledge, has an interest in (including a right to acquire) all or any of the material comprised in the disused tip;
+
+(e) a person who, to the Authority’s knowledge, has at any time within the 12 year period mentioned in paragraph (c), used the disused tip to deposit waste from a mine or quarry;
+
+(f) a person who the Authority believes has, at any time within the 12 year period mentioned in paragraph (c), caused or contributed to the need for the operations required by the notice by—
+
+(i) carrying out other operations or performing any other activity on any land, or
+
+(ii) failing to do something which the person might reasonably have done on any land to avoid creating or contributing to the need for the operations required by the notice.
+
+(3) In subsection (2), “disused tip” means the disused tip in connection with which the notice under section 35 is given.
+
+(4) The Authority must give the copies required by this section within 7 days beginning with the day on which the notice is given to the owner.
+
+#### 38 Right of owner and interested parties to appeal against notice (prospective)
+
+(1) An owner of land who is given a notice under section 35, or a person who is given a copy of the notice under section 37, may apply to the Welsh Ministers to vary or cancel the notice.
+
+(2) An application under this section must be made within 21 days beginning with the day that the notice is given to the owner.
+
+(3) An application under this section may be made on one or more of the following grounds—
+
+(a) that there is no reasonable ground for believing that the operations required by the notice are necessary to avoid or reduce the threat to human welfare specified in the notice;
+
+(b) that the operations required by the notice are more extensive than is necessary to avoid or reduce the threat to human welfare specified in the notice;
+
+(c) that—
+
+(i) the threat to human welfare specified in the notice could be avoided, or reduced to at least the same extent, by carrying out different operations, in whole or in part, from the operations required by the notice, and
+
+(ii) the owner is prepared to carry out the alternative operations;
+
+(d) that—
+
+(i) the owner or another person has already started, or has entered into a contract with a third party to start, operations different, in whole or in part, from the operations required by the notice, and
+
+(ii) the alternative operations will avoid, or reduce to at least the same extent, the threat to human welfare specified in the notice;
+
+(e) that the period within which the operations required by the notice must be carried out is not reasonably sufficient;
+
+(f) that there is a material defect or error in, or in connection with, the notice.
+
+(4) An owner of land who is given a notice under section 35 may also make an application under this section on the ground that the owner is unable to meet the costs of the operations required by the notice.
+
+(5) On receiving an application under this section, the Welsh Ministers must notify—
+
+(a) the Authority, and
+
+(b) each person who was given the notice or a copy of the notice.
+
+#### 39 Determination of appeals (prospective)
+
+(1) An application under section 38 is to be determined by a person appointed by the Welsh Ministers (an “appointed person”).
+
+(2) If the appointed person is satisfied, on an application under section 38, that the ground (or any of the grounds) of the application is made out, the appointed person may by direction vary or cancel the notice.
+
+(3) Where an appointed person varies a notice under subsection (2), the notice and any copy of it given under section 37 is to be treated as always having had effect as varied.
+
+(4) Where an application is made under section 38 and is not withdrawn, the period specified in the notice as the period within which the operations must be completed does not end before the application is determined.
+
+(5) Where an application is made under section 38, the appointed person may extend the period specified in the notice as the period within which the operations must be completed, regardless of whether the ground (or any of the grounds) of the application is made out.
+
+(6) As soon as practicable after an appointed person determines an application under this section, the Welsh Ministers must notify the following persons of the outcome—
+
+(a) the Authority, and
+
+(b) each person who was given the notice or a copy of the notice.
+
+(7) Where an appointed person varies a notice, the Welsh Ministers must also give the persons mentioned in subsection (6)(a) and (b) a copy of the notice as varied.
+
+#### 40 Supplementary provision about appeals (prospective)
+
+(1) The Welsh Ministers must by regulations make provision about the procedure to be followed in determining applications under section 38.
+
+(2) The Welsh Ministers may by regulations make other provision in connection with the determination of applications under section 38.
+
+(3) Regulations under this section may, among other things, make provision—
+
+(a) about the attendance and examination of parties or witnesses (including provision authorising an appointed person to administer oaths or to take affirmations);
+
+(b) about the production and inspection of documents;
+
+(c) for powers to enter land.
+
+(4) Regulations under this section may confer a discretion on a person.
+
+(5) Regulations under this section may create offences in connection with failures to comply with any requirements imposed by or under the regulations.
+
+#### 41 Penalty for failure to comply with notice (prospective)
+
+(1) An owner of land who is given a notice under section 35 commits an offence if, without reasonable excuse, the owner fails to carry out the operations required by the notice within the period specified in the notice or, if that period is extended under section 39, within the extended period.
+
+(2) A person who is guilty of an offence under subsection (1) is liable on summary conviction to a fine.
+
+(3) A contravention of subsection (1) by the Crown does not make the Crown criminally liable (but see section 28(3) of the Legislation (Wales) Act 2019 (anaw 4) regarding the liability of persons in the service of the Crown).
+
+#### 42 Power to cancel notice (prospective)
+
+(1) This section applies where—
+
+(a) the Authority has given a notice to an owner of land under section 35 (“the section 35 notice”), and
+
+(b) the operations required by the notice have not been completed.
+
+(2) The Authority may give the owner a notice (a “notice of cancellation”) cancelling the section 35 notice.
+
+(3) Where an owner of land is given a notice of cancellation, the owner is no longer required to carry out the operations specified in the section 35 notice.
+
+(4) The Authority may give a notice of cancellation even if—
+
+(a) an application under section 38 has been made in respect of the section 35 notice,
+
+(b) the operations required by the section 35 notice have started to be carried out, or
+
+(c) the period specified in the section 35 notice for the completion of the operations has ended.
+
+(5) Where the Authority gives a notice of cancellation under this section, it must also give a copy of the notice to each person who was given a copy of the section 35 notice.
+
+(6) A notice of cancellation does not affect—
+
+(a) any penalty already incurred by the owner under section 41, or
+
+(b) the Authority’s power to give a further notice under section 35 in relation to the land.
+
+#### 43 Reimbursement of owner’s expenses on cancellation of notice (prospective)
+
+(1) This section applies where—
+
+(a) the Authority has cancelled a notice given under section 35, and
+
+(b) the owner of land who was given the notice has incurred expenditure in complying with it.
+
+(2) The owner may apply to the Welsh Ministers to be reimbursed by the Authority for—
+
+(a) any expenditure incurred by the owner in consequence of the giving of the notice, and
+
+(b) any expenditure incurred by the owner which is attributable to the cancellation of the notice (whether attributable to the reinstatement of any land, the cancellation of any contract or otherwise).
+
+(3) An application under this section is to be determined by a person appointed by the Welsh Ministers (an “appointed person”).
+
+(4) The appointed person may direct the Authority to reimburse to the owner the whole or any part of the expenditure referred to in subsection (2).
+
+(5) In deciding whether to give a direction under subsection (4), or to what extent the Authority should be required to reimburse the owner, the appointed person must have regard to all the circumstances of the case and, in particular, to—
+
+(a) the grounds on which the Authority gave the notice of cancellation under section 42, and
+
+(b) whether the Authority has given or intends to give the owner a further notice under section 35 or intends to carry out operations itself under section 44.
+
+(6) The Authority must comply with a direction given under subsection (4).
+
+(7) The Welsh Ministers must by regulations make provision about the procedure to be followed in determining applications under this section.
+
+(8) The Welsh Ministers may by regulations make other provision in connection with determining applications under this section.
+
+(9) Subsections (3) to (5) of section 40 apply in relation to regulations under this section as if the references in those subsections to section 40 were to this section.
+
+### CHAPTER 2 — OPERATIONS CARRIED OUT BY THE AUTHORITY (prospective)
+
+#### 44 Authority’s power to carry out operations (prospective)
+
+(1) The Authority may carry out operations on any land if it considers it necessary to do so to achieve the following objective, but this is subject to section 46.
+
+(2) The objective is to—
+
+(a) prevent or deal with threats to the stability of a disused tip, or
+
+(b) stabilise a disused tip or prevent a disused tip from becoming more unstable,
+
+so as to avoid or reduce threats to human welfare.
+
+(3) Where the Authority carries out operations under subsection (1), it may also carry out any consequential works of reinstatement that it considers are reasonably necessary.
+
+#### 45 Authority’s right to remove and dispose of property (prospective)
+
+(1) The Authority may, for the purpose of carrying out operations or consequential works of reinstatement on land under section 44, remove and dispose of any property situated on the land that belongs to another person.
+
+(2) If the Authority disposes of property under subsection (1) by selling it, the Authority must account to the owner of the property for the proceeds of sale.
+
+(3) Subsection (2) does not prevent the Authority from—
+
+(a) deducting from the proceeds of sale any expenses reasonably incurred by the Authority in selling the property;
+
+(b) setting off the proceeds of sale, or any part of those proceeds, against any sum which the Authority is entitled to recover from the owner of the property under Chapter 3.
+
+#### 46 Duty to give notice to owners (prospective)
+
+(1) The Authority may not carry out operations on land under section 44 unless it has given the owner of the land at least 21 clear days’ notice of its intention to do so, but this is subject to subsection (3).
+
+(2) A notice under subsection (1) must specify—
+
+(a) the disused tip in connection with which the notice is given,
+
+(b) the nature and extent of the proposed operations and of any proposed consequential works of reinstatement, and
+
+(c) the threat to human welfare that the operations are intended to avoid or reduce.
+
+(3) If the Authority considers that operations need to be carried out immediately, it may carry out those operations—
+
+(a) without giving notice under subsection (1), or
+
+(b) where it has given notice under subsection (1), before the end of the 21 day period mentioned in that subsection.
+
+(4) Where the Authority starts operations on land without having given notice, it must, as soon as practicable, give the owner of the land notice that the operations have started.
+
+(5) A notice under subsection (4) must specify—
+
+(a) the disused tip in connection with which the notice is given,
+
+(b) the nature and extent of the operations and of any consequential works of reinstatement, and
+
+(c) the threat to human welfare that the operations are intended to avoid or reduce.
+
+#### 47 Duty to give interested parties copies of notice (prospective)
+
+(1) Where the Authority gives a notice under section 46 to an owner of land, it must also give a copy of the notice to any other person with an interest in the notice.
+
+(2) For the purposes of this section, the following persons (in addition to the owner) are persons with an interest in a notice—
+
+(a) a person occupying land on which the operations specified in the notice are to be carried out;
+
+(b) a person who, to the Authority’s knowledge, has an estate or interest in that land otherwise than as a mortgagee;
+
+(c) a person who, to the Authority’s knowledge, otherwise than as a mortgagee—
+
+(i) has an estate or interest in the land on which the disused tip is situated, or
+
+(ii) had an estate or interest in that land at any time in the 12 years before the day on which the notice is given to the owner;
+
+(d) a person who, to the Authority’s knowledge, has an interest in (including a right to acquire) all or any of the material comprised in the disused tip;
+
+(e) a person who, to the Authority’s knowledge, has at any time within the 12 year period mentioned in paragraph (c), used the disused tip to deposit waste from a mine or quarry;
+
+(f) a person who the Authority believes has, at any time within the 12 year period mentioned in paragraph (c), caused or contributed to the need for the operations specified in the notice by—
+
+(i) carrying out other operations or performing any other activity on any land, or
+
+(ii) failing to do something which the person might reasonably have done on any land to avoid creating or contributing to the need for the operations specified in the notice.
+
+(3) In subsection (2), “disused tip” means the disused tip in connection with which the notice under section 46 is given.
+
+(4) The Authority must give the copies required by this section on the day that the notice is given to the owner or as soon as‍ practicable after that day.
+
+### CHAPTER 3 — PAYMENTS IN CONNECTION WITH OPERATIONS (prospective)
+
+#### 48 Contribution orders (prospective)
+
+(1) The court may, on an application made under this section, order that one or more of the persons referred to in subsection (2) must contribute towards the expenses that an owner of land would otherwise have to bear as a result of the carrying out of operations specified in a notice under section 35 or 46.
+
+(2) The persons are—
+
+(a) a person who, otherwise than as a mortgagee, had an estate or interest in the land on which the disused tip is situated—
+
+(i) on the day on which the notice was given to the owner, or
+
+(ii) at any time in the 12 years ending immediately before that day;
+
+(b) a person who has, at any time within the 12 year period mentioned in paragraph (a), used the disused tip to deposit waste from a mine or quarry;
+
+(c) a person who, in the court’s opinion, has at any time within the 12 year period mentioned in paragraph (a), caused or contributed to the need for the operations specified in the notice by—
+
+(i) carrying out other operations or performing any other activity on any land, or
+
+(ii) failing to do something that the person might reasonably have done on any land to avoid creating or contributing to the need for the operations specified in the notice.
+
+(3) In this section, “disused tip” means the disused tip in connection with which the notice was given.
+
+(4) An application under this section may be made—
+
+(a) by the owner of land who was given the notice, and
+
+(b) in the case of a notice under section 46, by the Authority.
+
+(5) A person who makes an application under this section must, at the same time, give a copy of the application to each person in relation to whom an order is sought.
+
+(6) An application under this section must be made—
+
+(a) where it relates to a notice under section 35 and no application is made in respect of that notice under section 38 (right to appeal against notice), within 3 months beginning with the day on which the notice is given;
+
+(b) where it relates to a notice under section 35 and an application is made in respect of that notice under section 38, within 3 months beginning with the day on which the application is withdrawn or determined;
+
+(c) where it relates to a notice under section 46, within 3 months beginning with day on which the notice is given.
+
+(7) In determining whether to make an order under this section, and in determining the amount of any contribution, the court must have regard to all the circumstances, and in particular—
+
+(a) to the extent to which it appears to the court that the person has, by any act or omission, caused or contributed to the need for the operations specified in the notice;
+
+(b) to the extent to which the person has used the disused tip to deposit waste from a mine or quarry;
+
+(c) to the nature and extent of any estate or interest that the person had, at the date on which the notice was given, in the land on which the operations specified in the notice were to be carried out;
+
+(d) where a person had an estate or interest in that land but disposed of it before that date, to whether, in the court’s opinion, the person made that disposal for the purpose of avoiding any liability (whether under this Act or otherwise) in connection with the land;
+
+(e) to the terms of any covenant, agreement or statutory provision affecting the rights and obligations of the person and the owner in relation to that land.
+
+(8) An order under this section must specify the amount of the contribution to be made by the person to whom it relates as a percentage (which may be 100 per cent) of the total amount in respect of which a contribution can be claimed under this Chapter.
+
+#### 49 Meaning of “contribution order”, “contributory” and “the specified percentage” (prospective)
+
+In this Act—
+
+- “contribution order” (“*gorchymyn cyfrannu*”) means an order under section 48;
+- “contributory” (“*cyfrannydd*”) means the person to whom a contribution order relates;
+- “the specified percentage” (“*y ganran benodedig*”), in relation to a contributory, means the percentage specified, in accordance with section 48(8), in the contribution order relating to the contributory.
+
+#### 50 Compensation for damage, loss or disturbance etc. (prospective)
+
+(1) This section applies where—
+
+(a) as a result of operations carried out by an owner of land in compliance with a notice under section 35, or any consequential works of reinstatement—
+
+(i) any land is damaged,
+
+(ii) any other property is damaged, removed or disposed of, or
+
+(iii) any person’s enjoyment of any land is disturbed;
+
+(b) as a result of operations, or any consequential works of reinstatement, carried out by the Authority under section 44—
+
+(i) any land is damaged,
+
+(ii) any other property is damaged, removed or disposed of, or
+
+(iii) any person’s enjoyment of any land is disturbed;
+
+(c) as a result of investigations carried out under section 55 to determine whether operations need to be required under section 35 or carried out under section 44—
+
+(i) any land is damaged,
+
+(ii) any other property is damaged, or
+
+(iii) any person’s enjoyment of any land is disturbed.
+
+(2) The persons referred to in subsection (3) are entitled to compensation in respect of the damage, loss or disturbance or, in the case of the removal of property, in respect of any financial loss directly attributable to the removal.
+
+(3) The persons are—
+
+(a) in the case of damage to land, any person with an estate or interest in the land;
+
+(b) in the case of damage to other property, or the removal or disposal of that property, the owner of the property;
+
+(c) in the case of disturbance to a person’s enjoyment of land, the person whose enjoyment of the land is disturbed.
+
+(4) Compensation in relation to damage, removal, loss or disturbance resulting from the carrying out of operations or consequential works of reinstatement is recoverable from—
+
+(a) the owner of the land, if the owner carried out the operations or works;
+
+(b) the Authority, if the Authority carried out the operations or works.
+
+(5) Compensation in relation to damage or disturbance resulting from the carrying out of investigations is recoverable from the Authority.
+
+(6) Nothing in this section entitles an owner of land to compensation in relation to damage, removal, loss or disturbance resulting from operations carried out by the owner or by any other person who was the owner of the land at the time the operations were carried out.
+
+(7) Any dispute arising on a claim for compensation under this section is to be determined by the court.
+
+(8) Schedule 2 has effect in relation to certain claims for compensation under this section.
+
+#### 51 Owner’s right to recover expenses from contributory (prospective)
+
+(1) This section applies where—
+
+(a) an owner of land has carried out operations in compliance with a notice under section 35, and
+
+(b) a contribution order has been made in relation to those operations.
+
+(2) The owner of the land is entitled to recover from the contributory the specified percentage of the total amount determined in accordance with subsection (3) (but see subsection (7)).
+
+(3) For the purposes of this section, the total amount is the aggregate of—
+
+(a) the expenses reasonably incurred by the owner of the land in carrying out the operations and any works of reinstatement reasonably necessary in consequence of carrying out those operations,
+
+(b) the amount of any compensation that is recoverable (or has been recovered) from the owner of the land under section 50, and
+
+(c) the amount of any compensation under section 50 in respect of which the owner of the land could have made a claim under that section if the operations and any consequential works of reinstatement had been carried out by the Authority.
+
+(4) No contribution is recoverable under this section unless the owner gives the contributory a demand for the contribution.
+
+(5) A demand under subsection (4) must specify—
+
+(a) the amount of the contribution;
+
+(b) the total amount in respect of which the contribution is claimed;
+
+(c) the separate amounts which comprise the total amount, identified by reference to paragraphs (a), (b) and (c) of subsection (3).
+
+(6) A demand under subsection (4) is final and conclusive, unless an application to vary the demand is made under section 52.
+
+(7) Where the owner of the land has carried out operations specified in a notice under section 35 and that notice is cancelled by the Authority under section 42, this section and section 52 have effect with the modifications in Schedule 3.
+
+#### 52 Right of contributory to appeal against owner’s demand (prospective)
+
+(1) A contributory who is given a demand under section 51(4) may apply to the court for an order varying the demand.
+
+(2) An application under this section must be made within 6 weeks beginning with the day on which the demand is given to the contributory.
+
+(3) An application under this section may be made on one or more of the following grounds—
+
+(a) that the amount of the expenses incurred by the owner of the land in carrying out the operations was greater than was reasonable;
+
+(b) that the amount of the expenses incurred by the owner of the land in carrying out works of reinstatement was greater than was reasonably necessary to reinstate the land in consequence of the operations;
+
+(c) that the amount of compensation paid or payable to a person in pursuance of a claim under section 50 is greater than it would otherwise have been, because the owner of the land has taken an unreasonably long time to carry out the operations or consequential works of reinstatement;
+
+(d) that the amount of the compensation paid or payable to a person in pursuance of a claim under section 50 is greater than is necessary to compensate the person under that section;
+
+(e) that the amount specified in the demand as being the amount referred to in section 51(3)(c) is greater than the compensation that could have been claimed by the owner of the land in the circumstances described in that paragraph;
+
+(f) that the amount claimed in the demand is greater than the specified percentage of the total amount determined under section 51(3).
+
+(4) If the court is satisfied that the ground (or any of the grounds) of the application is made out, the court may make an order reducing the amount recoverable by the owner of the land from the contributory.
+
+#### 53 Authority’s right to recover certain expenses (prospective)
+
+(1) Where the Authority has carried out operations on land under section 44, it is entitled to recover from the owner of the land—
+
+(a) the expenses reasonably incurred by the Authority in carrying out any investigations under section 55 that resulted in the carrying out of the operations,
+
+(b) the expenses reasonably incurred by the Authority in carrying out the operations and any works of reinstatement reasonably necessary in consequence of carrying out the operations, and
+
+(c) the amount of any compensation under section 50 that is recoverable (or has been recovered) from the Authority in pursuance of a claim under that section.
+
+(2) Where the Authority has carried out investigations under section 55 that resulted in the giving of a notice under section 35 requiring an owner of land to carry out operations on the land, it is entitled to recover from the owner of the land—
+
+(a) the expenses reasonably incurred by the Authority in carrying out the investigations, and
+
+(b) the amount of any compensation under section 50 that is recoverable (or has been recovered) from the Authority in pursuance of a claim under that section.
+
+(3) Where a contribution order has been made in relation to the expenses that the owner of the land would otherwise have to bear under subsection (1) or (2)—
+
+(a) the Authority is entitled to recover from the contributory the specified percentage of the amount recoverable from the owner of the land under the relevant subsection, and
+
+(b) the amount that the Authority may recover from the owner of the land under the relevant subsection is reduced by the sum that the Authority is entitled to recover from the contributory under paragraph (a).
+
+(4) No sum is recoverable under this section from an owner of land or a contributory unless the Authority gives that person a demand for that sum.
+
+(5) A demand under subsection (4) must specify—
+
+(a) the sum claimed by the Authority from the person;
+
+(b) if the demand is given to a contributory, the total amount in respect of which the contribution is claimed;
+
+(c) if the demand is given to the owner of the land, the sums (if any) that the Authority is entitled to recover from any contributory or contributories;
+
+(d) in all cases, the separate amounts which comprise the total amount recoverable by the Authority, identified by reference to paragraphs (a) to (c) of subsection (1) or, as the case may be, paragraphs (a) and (b) of subsection (2).
+
+(6) A demand under subsection (4) is final and conclusive, unless an application to vary or cancel the demand is made under section 54.
+
+(7) The Authority is entitled to recover interest on any sum recoverable under this section, at a rate determined by the Authority, from the date on which the demand for the sum is given to the person until the sum is paid in full.
+
+(8) Any sum recoverable under this section may, if the Authority agrees, be paid in instalments agreed by the Authority.
+
+(9) For the purposes of this section—
+
+(a) the owner of the land—
+
+(i) in a case falling within subsection (1), is the person who was the owner when the Authority started to carry out the operations referred to in that subsection;
+
+(ii) in a case falling within subsection (2), is the person who was given the notice referred to in that subsection;
+
+(b) investigations are to be treated as having resulted in the carrying out of operations under section 44 if the Authority started to carry out the operations within 12 months beginning with the day after the completion of the investigations;
+
+(c) investigations are to be treated as having resulted in the giving of a notice under section 35 to an owner of land if the Authority gave a notice under that section to the owner of the land within 6 months beginning with the day after the completion of the investigations.
+
+#### 54 Right to appeal against Authority’s demand (prospective)
+
+(1) A person who is given a demand under section 53(4) may apply to the court for an order varying or cancelling the demand.
+
+(2) An application under this section must be made within 6 weeks beginning with the day on which the demand is given to the person.
+
+(3) Where the demand is made in a case falling within section 53(1), the grounds on which an application may be made are—
+
+(a) that the amount of the expenses incurred by the Authority in carrying out the investigations or operations was greater than was reasonable;
+
+(b) that the amount of the expenses incurred by the Authority in carrying out works of reinstatement was greater than was reasonably necessary to reinstate the land in consequence of the operations;
+
+(c) that, at the time the operations were begun, there was no reasonable ground for believing that the operations were necessary to avoid or reduce the threat to human welfare specified in the notice given to the owner of the land under section 46 regarding the operations;
+
+(d) that the operations carried out by the Authority were more extensive than was necessary to avoid or reduce the threat to human welfare specified in the notice given to the owner of the land under section 46 regarding the operations;
+
+(e) that the amount of the compensation paid or payable to a person in pursuance of a claim under section 50 is greater than it would otherwise have been, because the time the Authority took to carry out the investigations or operations or any consequential works of reinstatement was unreasonably long;
+
+(f) that the amount of the compensation paid or payable to a person in pursuance of a claim under section 50 is greater than is necessary to compensate the person under that section;
+
+(g) that, in the case of a demand given to a contributory, the amount claimed in the demand is greater than the specified percentage of the total amount recoverable by the Authority under section 53(1);
+
+(h) that, in the case of a demand given to the owner of the land on which the operations were carried out, the amount claimed in the demand does not make proper allowance for a sum that the Authority is entitled to recover from a contributory.
+
+(4) Where the demand is made in a case falling within section 53(2), the grounds on which an application may be made are—
+
+(a) that the amount of the expenses incurred by the Authority in carrying out the investigations was greater than was reasonable;
+
+(b) that the compensation paid or payable to a person in pursuance of a claim under section 50 is greater than it would otherwise have been, because the time the Authority took to carry out the investigations was unreasonably long;
+
+(c) that the amount of the compensation paid or payable to a person in pursuance of a claim under section 50 is greater than is necessary to compensate the person under that section;
+
+(d) that, in the case of a demand given to a contributory, the amount claimed in the demand is greater than the specified percentage of the total amount recoverable by the Authority under section 53(2);
+
+(e) that, in the case of a demand given to the owner of the land on which the operations were carried out, the amount claimed in the demand does not make proper allowance for a sum that the Authority is entitled to recover from a contributory.
+
+(5) If, on an application under this section, the court is satisfied that the ground (or any of the grounds) of the application is made out, the court may make an order—
+
+(a) cancelling the demand in respect of which the application was made, or
+
+(b) reducing the amount recoverable from the person who was given the demand.
+
+### CHAPTER 4 — SUPPLEMENTARY PROVISION (prospective)
+
+#### 55 Power to carry out investigations (prospective)
+
+The Authority may carry out investigations on land to determine—
+
+(a) whether operations need to be required under section 35 or carried out under section 44, or
+
+(b) whether operations are being carried out in compliance with a notice given under section 35.
+
+#### 56 Penalty for obstructing operations etc. (prospective)
+
+(1) A person who intentionally obstructs or interferes with—
+
+(a) an investigation into—
+
+(i) whether operations need to be required under section 35 or carried out under section 44, or
+
+(ii) whether operations are being carried out in compliance with a notice given under section 35,
+
+(b) the carrying out of operations required by a notice under section 35, or
+
+(c) the carrying out of operations under section 44,
+
+commits an offence.
+
+(2) A person who intentionally damages or otherwise interferes with any works completed in the course of operations required by a notice under section 35 or carried out under section 44 commits an offence.
+
+(3) A person guilty of an offence under subsection (1) or (2) is liable on summary conviction to a fine.
+
+(4) A contravention of subsection (1) or (2) by the Crown does not make the Crown criminally liable (but see section 28(3) of the Legislation (Wales) Act 2019 (anaw 4) regarding the liability of persons in the service of the Crown).
+
+## PART 4 — SUPPLEMENTARY (prospective)
+
+### Management plans for registered tips (prospective)
+
+#### 57 Management plans (prospective)
+
+(1) The Authority must prepare and maintain a management plan for every disused tip in the register which is a category 1 tip or category 2 tip.
+
+(2) The management plan for a disused tip to which subsection (1) applies must be prepared as soon as practicable after the tip is first recorded in the register as a category 1 tip or category 2 tip.
+
+(3) The Authority may at any time prepare and maintain a management plan for a disused tip in the register which is a category 3 tip or category 4 tip.
+
+(4) A management plan must set out—
+
+(a) how the Authority intends to exercise its functions under this Act in relation to the tip (including details of any information or advice that it intends to give to owners or occupiers of land under section 3);
+
+(b) information that the Authority considers may be relevant in an emergency involving the tip;
+
+(c) information about the roles and responsibilities of the Authority and other public authorities in such an emergency;
+
+(d) how the Authority intends to co-operate with those public authorities in such an emergency.
+
+(5) A management plan may include any other information that the Authority considers appropriate.
+
+### Information sharing (prospective)
+
+#### 58 Meaning of “relevant public authority” (prospective)
+
+(1) In this Part, “relevant public authority” means—
+
+(a) the Welsh Ministers;
+
+(b) Natural Resources Wales;
+
+(c) a council for a county or county borough in Wales;
+
+(d) a National Park Authority for a National Park in Wales;
+
+(e) the Coal Authority;
+
+(f) a Fire and Rescue Authority for an area in Wales.
+
+(2) In subsection (1)(f), “Fire and Rescue Authority” means a fire and rescue authority constituted under section 2 of the Fire and Rescue Services Act 2004 (c. 21), or a scheme to which section 4 of that Act applies.
+
+(3) The Welsh Ministers may by regulations amend this section to change the definition of “relevant public authority”.
+
+(4) Regulations under subsection (3) may not include a person within the scope of the definition unless the person is a devolved Welsh authority (within the meaning of section 157A(1)(a) of the Government of Wales Act 2006 (c. 32)).
+
+#### 59 Authority’s power to require relevant public authorities to give information (prospective)
+
+(1) A relevant public authority must give the Authority such information as the Authority requests for the purpose of exercising functions conferred by or under this Act.
+
+(2) This section does not require or permit information to be given contrary to any prohibition imposed by an enactment or other rule of law.
+
+(3) If a relevant public authority decides not to comply with a request under subsection (1), it must give the Authority its written reasons for the decision.
+
+#### 60 Duties of Authority and relevant public authorities to share information (prospective)
+
+(1) If, in exercising its functions, a relevant public authority—
+
+(a) becomes aware of a threat to the stability of a disused tip, or evidence of a disused tip’s instability, and
+
+(b) considers that the information ought to be shared with the Authority in the interests of avoiding or reducing a threat to human welfare,
+
+the public authority must give the Authority the information as soon as practicable.
+
+(2) If the Authority, in exercising its functions, becomes aware of something that it considers ought to be brought to the attention of a relevant public authority for the purpose of the public authority’s exercise of its functions, it must give the public authority the information as soon as practicable.
+
+(3) This section does not require or permit information to be given contrary to any prohibition imposed by an enactment or other rule of law.
+
+#### 61 Information about estates or interests in land (prospective)
+
+(1) The Authority may give a notice to an occupier of land, or to a person who receives rent (either directly or indirectly) in respect of land, requiring the person to confirm in writing—
+
+(a) the nature of the person’s estate or interest in the land, and
+
+(b) if that person knows of another person who has an estate or interest in the land, the other person’s name and contact details (if known).
+
+(2) In subsection (1)(b), “contact details”, in relation to a person, means the person’s address and any other information about how the person may be contacted.
+
+(3) The Authority may not give a notice under this section unless it needs the information required by the notice to enable or assist it to exercise a function conferred by or under this Act.
+
+(4) A notice under this section may require the information to be given within—
+
+(a) 20 working days beginning with the first working day after the day the notice is given, or
+
+(b) any longer period specified in the notice or agreed by the Authority.
+
+(5) This section does not require or permit information to be given contrary to any prohibition imposed by an enactment or other rule of law.
+
+(6) The Authority may not give a notice under this section to a relevant public authority.
+
+(7) The Authority may not give a notice under this section to an appropriate Crown authority in respect of an estate or interest in Crown land which is not a private interest.
+
+#### 62 Information about estates or interests in Crown land (prospective)
+
+(1) This section applies to an estate or interest in Crown land which is not a private interest.
+
+(2) The Authority may, for the purpose of enabling or assisting it to exercise a function conferred by or under this Act, request the appropriate Crown authority to confirm in writing—
+
+(a) the nature of the estate or interest, and
+
+(b) if the authority knows of another person who has an estate or interest in the land, the other person’s name and contact details (if known).
+
+(3) In subsection (2)(b), “contact details”, in relation to a person, means the person’s address and any other information about how the person may be contacted.
+
+(4) The appropriate Crown authority must comply with a request under subsection (2) except to the extent—
+
+(a) that the information requested is not within the knowledge of the authority, or
+
+(b) that do to so will disclose information about—
+
+(i) national security, or
+
+(ii) the measures taken, or to be taken, to ensure the security of any land or other property.
+
+#### 63 Information to identify or assess threats to stability of a disused tip etc. (prospective)
+
+(1) The Authority may give a notice (an “information notice”) to a person requiring the person to give the Authority information of a description specified in the notice, if the Authority—
+
+(a) considers that information of that description will enable or assist it to identify or assess a threat to the stability of a disused tip, or to assess the stability of a disused tip, and
+
+(b) has reason to believe that the information is in the person’s possession or under the person’s control.
+
+(2) An information notice may require a person to give the information in a way and in a form specified in the notice.
+
+(3) An information notice may require a person to give the information within—
+
+(a) 20 working days beginning with the first working day after the day the notice is given, or
+
+(b) any longer period specified in the notice or agreed by the Authority.
+
+(4) This section does not require or permit information to be given contrary to any prohibition imposed by an enactment or other rule of law.
+
+(5) The Authority may not give an information notice to a relevant public authority.
+
+#### 64 Penalties in connection with notices requiring information (prospective)
+
+(1) A person who is required to give information under section 61 or 63 commits an offence if the person fails, without reasonable excuse, to give the information.
+
+(2) A person who is guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) A person who is required to give information under section 61 or 63 commits an offence if the person, in purported compliance with the notice—
+
+(a) gives information which is false or misleading in a material respect, and
+
+(b) either—
+
+(i) knows that the information is false or misleading, or
+
+(ii) is reckless as to whether the information is false or misleading.
+
+(4) A person who is guilty of an offence under subsection (3) is liable on summary conviction, or on conviction on indictment, to a fine.
+
+(5) A contravention of subsection (1) or (3) by the Crown does not make the Crown criminally liable (but see section 28(3) of the Legislation (Wales) Act 2019 (anaw 4) regarding the liability of persons in the service of the Crown).
+
+### Powers of entry (prospective)
+
+#### 65 Power to enter land (prospective)
+
+(1) An authorised person may enter land for the purpose of doing any of the following things on behalf of the Authority—
+
+(a) carrying out a preliminary assessment or a full assessment under Part 2;
+
+(b) carrying out an inspection or other monitoring activity in relation to a tip registered under that Part;
+
+(c) investigating whether operations need to be required or carried out under Part 3;
+
+(d) investigating whether operations are being carried out in compliance with a notice given under section 35 of that Part;
+
+(e) carrying out operations and consequential works of reinstatement under section 44 of that Part;
+
+(f) inspecting any other activities that are being carried out on the land where those activities may affect the stability of a disused tip.
+
+(2) An authorised person may, for the purposes mentioned in subsection (1)—
+
+(a) take any other persons, equipment and material onto the land that may be necessary;
+
+(b) leave equipment and material on the land.
+
+(3) An authorised person may, for the purposes mentioned in subsection (1)—
+
+(a) carry out inspections and examinations (including tests and surveys) on the land;
+
+(b) take measurements and photographs and make recordings;
+
+(c) take and remove samples from the land.
+
+(4) In this Part, “authorised person” means a person authorised in writing by the Authority to act on its behalf.
+
+#### 66 Entry to land without a warrant (prospective)
+
+(1) An authorised person may not, under section 65, demand admission as of right to any land which is occupied unless at least 48 hours’ notice of the intended entry has been given to every occupier of the land.
+
+(2) An authorised person may not, under section 65, demand as of right—
+
+(a) to take other persons, equipment or material onto land which is occupied, or
+
+(b) to leave equipment or material on the land,
+
+unless at least 48 hours’ notice of the intention to do so (including details of the persons, equipment or material) has been given to every occupier of the land.
+
+(3) Subsections (1) and (2) do not apply if the Authority believes—
+
+(a) that a disused tip is unstable, and
+
+(b) that the instability of the tip poses a threat to human welfare that requires immediate entry to the land for a purpose mentioned in section 65(1)(c) or (e).
+
+(4) An authorised person may not, under section 65, demand admission as of right to residential land.
+
+(5) An authorised person may demand admission as of right to land under section 65—
+
+(a) only at a reasonable time, unless the condition in subsection (3) is satisfied;
+
+(b) at any time, if that condition is satisfied.
+
+(6) An authorised person must—
+
+(a) if requested to do so by or on behalf of an owner or occupier of the land, produce evidence of the person’s authorisation and state the purpose of the entry before entering the land under section 65;
+
+(b) if leaving the land at a time when no owner or occupier is present, leave it as effectively secured against trespassers as the person found it.
+
+(7) In this section—
+
+- “land” (“*tir*”) does not include Crown land;
+
+- “residential land” (“*tir preswyl*”) means so much of any land as consists of—
+
+  - a dwelling or part of a dwelling,
+  - a garden, yard, private garage or outhouse which is used and enjoyed wholly or mainly with a dwelling, or
+  - in the case of a building which includes one or more dwellings, any part of the building which is used and enjoyed wholly or mainly with those dwellings or any of them.
+
+(8) See section 70 for provision about entry to Crown land under section 65.
+
+#### 67 Warrant to enter land (prospective)
+
+(1) A justice of the peace may, on an application made by the Authority, issue a warrant conferring power on an authorised person to enter land, if necessary by force.
+
+(2) A justice of the peace may issue a warrant only if satisfied, on sworn information in writing—
+
+(a) that there are reasonable grounds for entering the land for a purpose mentioned in section 65(1), and
+
+(b) that one or more of the conditions in subsection (3) is met.
+
+(3) The conditions are—
+
+(a) that it has not been possible to give notice under section 66 to every occupier of the land, despite reasonable efforts to do so;
+
+(b) that entry to the land has been refused or obstructed or that a refusal or obstruction is reasonably expected;
+
+(c) that it is necessary for the authorised person to enter residential land.
+
+(4) For the purposes of subsection (3)(b), entry to land is to be treated as having been refused if no reply is received to a request or demand for admission within a reasonable period.
+
+(5) If a justice of the peace is satisfied, on sworn information in writing, that it is necessary for the authorised person, for a purpose mentioned in section 65(1)—
+
+(a) to take other persons, equipment or material on the land, or
+
+(b) to leave equipment or material on the land,
+
+the warrant may also confer power on the authorised person to do those things; and if the warrant does so, it must include details of the persons, equipment or material.
+
+(6) A warrant issued under subsection (1) may confer power on the authorised person—
+
+(a) to carry out inspections and examinations (including tests and surveys) on the land;
+
+(b) to take measurements and photographs and make recordings;
+
+(c) to take and remove samples from the land.
+
+(7) A warrant issued under this section continues in force until the purpose for which it is issued has been fulfilled.
+
+(8) In this section--
+
+- “land” (“*tir*”) does not include Crown land;
+- “residential land” (“*tir preswyl*”) has the meaning given by section 66(7).
+
+#### 68 Entry to land with a warrant (prospective)
+
+(1) A warrant under section 67 may confer a power to enter land only at a reasonable time.
+
+(2) But subsection (1) does not apply if the justice of the peace issuing the warrant is satisfied, on sworn information in writing—
+
+(a) that a disused tip is unstable, and
+
+(b) that the instability of the tip poses a threat to human welfare that requires immediate entry to the land, if necessary by force, for a purpose mentioned in section 65(1)(c) or (e).
+
+(3) A person authorised by a warrant under section 67 to enter land must—
+
+(a) if requested to do so by or on behalf of an owner or occupier of the land, produce the warrant and state the purpose of the entry before entering the land;
+
+(b) if leaving the land at a time when no owner or occupier is present, leave it as effectively secured against trespassers as the person found it.
+
+#### 69 Penalty for obstructing entry to land (prospective)
+
+(1) This section applies where a power to enter land is conferred on a person by section 65(1) or by a warrant issued under section 67(1).
+
+(2) A person who intentionally obstructs the exercise of the power commits an offence.
+
+(3) A person guilty of an offence under subsection (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) A contravention of subsection (2) by the Crown does not make the Crown criminally liable (but see section 28(3) of the Legislation (Wales) Act 2019 (anaw 4) regarding the liability of persons in the service of the Crown).
+
+#### 70 Entry to Crown land (prospective)
+
+(1) An authorised person may not enter Crown land under section 65 unless—
+
+(a) the appropriate Crown authority has given the authorised person permission to do so, or
+
+(b) the Authority believes—
+
+(i) that a disused tip is unstable, and
+
+(ii) that the tip’s instability poses a threat to human welfare that requires immediate entry to the land for a purpose mentioned in section 65(1)(c) or (e).
+
+(2) In the circumstances mentioned in subsection (1)(b), the authorised person may—
+
+(a) demand admission as of right to the land, and
+
+(b) demand as of right—
+
+(i) to take other persons, equipment or material onto the land, and
+
+(ii) to leave equipment or material on the land.
+
+(3) But the authorised person may not demand admission as of right to any part of Crown land that is residential land.
+
+(4) If an authorised person enters Crown land in the circumstances mentioned in subsection (1)(b) without the permission of the appropriate Crown authority, the Authority must inform the appropriate Crown authority as soon as reasonably practicable.
+
+(5) An authorised person must—
+
+(a) if requested to do so by or on behalf of an owner or occupier of Crown land, produce evidence of the person’s authorisation and state the purpose of the entry before entering the land under section 65;
+
+(b) if leaving the land at a time when no owner or occupier is present, leave it as effectively secured against trespassers as the person found it.
+
+(6) In this section, “residential land” has the same meaning as in section 66(7).
+
+### Miscellaneous (prospective)
+
+#### 71 Duty to establish and maintain a website or other electronic facility (prospective)
+
+The Authority must establish and maintain a website, or other electronic facility (such as a software application), which the public can access without charge.
+
+#### 72 Publication (prospective)
+
+Where this Act requires the Authority to publish anything—
+
+(a) it must be published on the website, or other electronic facility, established and maintained under section 71, and
+
+(b) it may also be published in any other manner the Authority considers appropriate.
+
+#### 73 Provision of administrative, technical or professional services (prospective)
+
+(1) The Authority may provide administrative, professional or technical services to any devolved Welsh authority (within the meaning of section 157A of the Government of Wales Act 2006 (c. 32)).
+
+(2) The Authority may charge a fee for providing a service under subsection (1).
+
+#### 74 Guidance‍ (prospective)
+
+(1) The Welsh Ministers must give guidance to the Authority in relation to the exercise of its functions under—
+
+(a) section 3(4) (Authority’s power to charge fees);
+
+(b) section 10 (Authority’s duty to monitor registered tips);
+
+(c) Chapter 2 of Part 2 (preliminary and full assessment of tips by the Authority);
+
+(d) section 33 (compensation for damage or disturbance caused by monitoring or assessment activity);
+
+(e) Chapter 3 of Part 3 (payments in connection with operations);
+
+(f) section 57 (management plans).
+
+(2) The Welsh Ministers may give guidance to the Authority in relation to the exercise of any of its other functions under this Act.
+
+(3) The Authority must have regard to guidance given under subsection (1) or (2) in exercising its functions.‍
+
+(4) The Welsh Ministers must give guidance to a person appointed to determine—
+
+(a) an application under section 38 (application to vary or cancel notice requiring owner to carry out operations), or
+
+(b) an application under section 43 (application for reimbursement of owner’s expenditure where notice to carry out operations is cancelled).
+
+(5) A person appointed to determine an application referred to in subsection (4) must, in exercising functions conferred on the person by or under this Act, have regard to guidance given under that subsection.
+
+(6) Before giving guidance under this section, the Welsh Ministers must consult such persons as they consider appropriate.
+
+#### 75 Amendments to the Mines and Quarries (Tips) Act 1969 (prospective)
+
+(1) The Mines and Quarries (Tips) Act 1969 (c. 10) is amended as follows.
+
+(2) In the heading of Part 2 (prevention of public danger from disused tips), after “tips” insert “: England and Scotland”.
+
+(3) In section 11 (local authorities having functions under Part 2)—
+
+(a) in the heading, after “local authorities” insert “in England and Scotland”;
+
+(b) in subsection (1), after “local authorities” insert “in England and Scotland”;
+
+(c) in subsection (3), omit paragraph (aa).
+
+(4) In section 36 (interpretation of Part 2)—
+
+(a) in subsection (1), in the definition of “Ministers”, omit “, the Secretary of State for Wales”;
+
+(b) in subsection (4), omit paragraph (b).
+
+## PART 5 — GENERAL
+
+### Offences
+
+#### 76 Offences by bodies corporate
+
+(1) This section applies where an offence in this Act, or in regulations made under it, committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of—
+
+(a) a senior officer of the body, or
+
+(b) a person who was purporting to be a senior officer of the body.
+
+(2) The senior officer or person (as well as the body corporate) is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(3) In this section, “senior officer” means a director, secretary or other similar officer of the body corporate.
+
+(4) But in the case of a body corporate whose affairs are managed by its members, “director” means a member of the body.
+
+#### 77 Bringing proceedings
+
+Proceedings in respect of an offence in this Act, or in regulations made under it, may not be brought otherwise than by the Authority or by or with the consent of the Director of Public Prosecutions.
+
+### Regulations
+
+#### 78 Power to make consequential, transitional etc. provision
+
+(1) If the Welsh Ministers consider it necessary or appropriate for the purposes of, in consequence of, or for giving full effect to, any provision of this Act, they may by regulations make—
+
+(a) supplementary, incidental or consequential provision;
+
+(b) transitional or saving provision.
+
+(2) Regulations under subsection (1) may modify any enactment (whenever enacted or made, and including this Act).
+
+(3) In subsection (2), “modify” includes amend, revoke and repeal.
+
+#### 79 Regulations under this Act
+
+(1) A power to make regulations under this Act is exercisable by statutory instrument.
+
+(2) A power to make regulations under this Act includes—
+
+(a) power to make different provision for different purposes;
+
+(b) power to make—
+
+(i) supplementary, incidental or consequential provision;
+
+(ii) transitional or saving provision.
+
+(3) A statutory instrument to which this subsection applies may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
+
+(4) Subsection (3) applies to a statutory instrument containing regulations under any of the following provisions—
+
+(a) section 10(5) (change to minimum number or period of inspections for category 1 tips or category 2 tips);
+
+(b) section 20(4), section 22(4) or section 29(3) (change to minimum period for making representations to the Authority);
+
+(c) section 40 (procedure etc. for appeals under Chapter 1 of Part 3);
+
+(d) section 43 (procedure etc. for claims for reimbursement of owners’ expenses under Chapter 1 of Part 3);
+
+(e) section 58 (change to meaning of “relevant public authority” in Part 4);
+
+(f) section 85 (application of Act to land owned by the Authority);
+
+(g) section 86 (change to meaning of “disused tip”);
+
+(h) paragraph 2(4) of Schedule 1 (change to the number of members of the Authority);
+
+(i) paragraph 19(11) of Schedule 1 (change to the period to which the Authority’s corporate plan relates).
+
+(5) Subsection (3) also applies to a statutory instrument containing regulations under section 78 that modify any provision of primary legislation.
+
+(6) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(7) In this section, “primary legislation” means any of the following—
+
+(a) an Act of Senedd Cymru;
+
+(b) an Assembly Measure;
+
+(c) an Act of the Parliament of the United Kingdom.
+
+### Giving notices and other documents
+
+#### 80 General provision about giving notices etc.
+
+(1) This section applies where a provision of this Act, or of regulations made under it, requires or authorises a notice or other document to be given to a person (whether the provision uses the expression “give” or any other expression).
+
+(2) The document may be given by—
+
+(a) handing it to the person,
+
+(b) leaving it at the person’s proper address,
+
+(c) sending it by post to the person at that address, or
+
+(d) sending it by email to the person’s email address.
+
+(3) A document is given in accordance with subsection (2)(a)—
+
+(a) if the person is a body corporate, by handing it to an officer of the body,
+
+(b) if the person is a partnership, by handing it to a partner, or
+
+(c) if the person is an unincorporated association other than a partnership, by handing it to a member of the governing body of the association.
+
+(4) For the purposes of subsection (2)(b) and (c), the proper address of a person is—
+
+(a) in the case of a body corporate, the address of the body’s registered or principal office in the United Kingdom;
+
+(b) in the case of a partnership, the address of the principal office of the partnership in the United Kingdom;
+
+(c) in any other case, the last known address of the person (whether of the person’s residence or of a place where the person carries on business or is employed) or, if the person has provided an address at which documents may be given under this Act, that address.
+
+(5) For the purposes of subsection (2)(d), a person’s email address is—
+
+(a) any email address published for the time being by that person as an address for contacting that person, or
+
+(b) if there is no such published address, any email address at which the person has agreed to receive documents or has agreed to receive the document.
+
+(6) In this section—
+
+- “agreed” (“*wedi cytuno*”) means agreed in writing;
+- “officer” (“*swyddog*”), in relation to a body corporate, means a director, manager, secretary or other similar officer of the body.
+
+(7) Sections 231 and 233 of the Local Government Act 1972 (c. 70) do not apply to documents to be given to or by a local authority under this Act.
+
+(8) This section does not apply where a provision of this Act, or of regulations made under it, requires or authorises a notice or other document to be given to the Crown.
+
+#### 81 Additional provision about giving notices etc. to persons occupying or interested in land
+
+(1) This section applies (in addition to section 80) where a provision of this Act, or of regulations made under it, requires or authorises a notice or other document to be given—
+
+(a) to a person as having an estate or interest in land, or
+
+(b) to a person as an occupier of land,
+
+(whether the provision uses the expression “give” or any other expression).
+
+(2) Where—
+
+(a) the document is to be given to a person as having an estate or interest in land, and
+
+(b) the name of the person cannot be discovered after making reasonable inquiries,
+
+the document may be addressed to the person as “the owner” of the land (which must be described).
+
+(3) Where the document is to be given to a person as being the occupier of land, it may be addressed to the person by name or as “the occupier” of the land (which must be described).
+
+(4) Subsection (5) applies—
+
+(a) where—
+
+(i) a document is to be given to a person as having an estate or interest in land, and
+
+(ii) the person’s proper address (within the meaning of section 80) cannot be discovered after making reasonable inquiries;
+
+(b) where a document is to be given to a person as being the occupier of land.
+
+(5) The document is to be treated as having been properly given if it is addressed to the person, clearly marked as an important communication affecting the person’s land, and is—
+
+(a) sent to the land by post and not returned as undelivered,
+
+(b) handed to a person who is, or appears to be, resident or employed on the land, or
+
+(c) attached conspicuously to an object on the land.
+
+(6) This section does not apply where a provision of this Act, or of regulations made under it, requires or authorises a notice or other document to be given to the Crown.
+
+#### 82 Giving notices etc. to the Crown
+
+Where a provision of this Act, or of regulations made under it, requires or authorises a notice or other document to be given to the Crown (whether the provision uses the expression “give” or any other expression), the document must be given to the appropriate Crown authority.
+
+### Special cases
+
+#### 83 Raising of money in particular cases to meet expenditure
+
+(1) This section has effect with respect to the raising of money in particular cases for the payment of—
+
+(a) expenses incurred in carrying out operations in pursuance of a notice under section 35 and in carrying out any consequential works of reinstatement;
+
+(b) compensation recoverable under section 50 and referable to any such operations or works of reinstatement;
+
+(c) sums recoverable under section 51 or 53.
+
+(2) In this section, “relevant expenditure” means any expenses, compensation or sums referred to in subsection (1)(a) to (c).
+
+(3) The purposes authorised for the application of capital moneys by section 73 of the Settled Land Act 1925 (c. 18) include the payment of any relevant expenditure.
+
+(4) The purposes authorised for raising moneys by mortgage by section 71 of the Settled Land Act 1925 include the payment of any relevant expenditure.
+
+(5) The purposes authorised by section 25 of the Duchy of Lancaster Act 1817 (c. 97) for the application of moneys arising by such sale of annuities standing in the name or to the account of the Duchy of Lancaster as is mentioned in that section include the payment of any relevant expenditure.
+
+(6) The purposes authorised by section 8 of the Duchy of Cornwall Management Act 1863 (c. 49) for the advancement of parts of such gross sums as are mentioned in that section include the payment of any relevant expenditure.
+
+#### 84 Church of England land
+
+(1) Where a provision of this Act, or of regulations made under it, requires or authorises a notice or other document to be given to a person as occupier of, or owner of an estate or interest in, land which is Church of England land, a copy of the document must also be given to the appropriate Diocesan Board of Finance.
+
+(2) Compensation payable under section 33 or 50 to a person by virtue of the person having the freehold estate in land which is Church of England land must (where the estate is vested in a person other than the appropriate Diocesan Board of Finance)—
+
+(a) be paid to the appropriate Diocesan Board of Finance, and
+
+(b) be applied by that Board for the purposes for which the proceeds of a sale by agreement of the land would be applicable under any enactment or Church Measure authorising, or disposing of the proceeds of, such a sale.
+
+(3) Where Church of England land is vested in the incumbent of an ecclesiastical benefice which is vacant, the land is to be treated for the purposes of this Act as being vested in the appropriate Diocesan Board of Finance.
+
+(4) Where—
+
+(a) subsection (3) does not apply, and
+
+(b) a person is liable to pay a sum under this Act, either as owner or as a contributory, by virtue of the freehold estate in land belonging to an ecclesiastical benefice being vested in the person,
+
+the appropriate Diocesan Board of Finance may apply any sums held by it in discharging the whole or any part of that liability.
+
+(5) In this section—
+
+- “appropriate Diocesan Board of Finance” (“*Bwrdd Cyllid Esgobaethol priodol*”), in relation to any land, means the Diocesan Board of Finance for the diocese in which the land is situated;
+
+- “Church of England land” (“*tir Eglwys Loegr*”) means land which—
+
+  - belongs to an ecclesiastical benefice,
+  - is or forms part of a church subject to the jurisdiction of a bishop of a diocese of the Church of England or the site of such a church, or
+  - is or forms part of a burial ground subject to the jurisdiction of such a bishop;
+
+- “Church Measure” (“*Mesur gan Eglwys Loegr*”) means a Measure of the Church Assembly or the General Synod of the Church of England;
+
+- “ecclesiastical benefice” (“*bywoliaeth eglwysig*”) means an ecclesiastical benefice of the Church of England.
+
+#### 85 Power to modify application of Act to Authority land
+
+The Welsh Ministers may, by regulations, modify the application of this Act in relation to land in which the Authority has an estate or interest.
+
+### Interpretation
+
+#### 86 Meaning of “tip” and “disused tip”
+
+(1) In this Act, “tip” means an accumulation or deposit of waste (whatever its form or composition) from a mine or quarry other than an accumulation or deposit situated underground.
+
+(2) Any wall or other structure (whether or not composed entirely or partially of waste) which retains or confines a tip is to be treated for the purposes of this Act as forming part of the tip.
+
+(3) In this Act, “disused tip” means a tip situated wholly or partly in Wales other than one to which the Quarries Regulations 1999 (S.I. 1999/2024) or the Mines Regulations 2014 (S.I. 2014/3248) applies.
+
+(4) If either of the Regulations mentioned in subsection (3) is revoked or amended, the Welsh Ministers may amend this section by regulations to change the definition of “disused tip”.
+
+(5) The Welsh Ministers may by regulations provide that a tip of a description prescribed by the regulations is not to be treated, despite subsection (3), as a disused tip for the purpose of this Act or any provision of this Act specified by the regulations.
+
+(6) Before making regulations under subsection (5), the Welsh Ministers must consult such persons as they consider appropriate.
+
+#### 87 Meaning of “threat to human welfare”
+
+For the purposes of this Act, a threat to human welfare exists where there is a possibility of—
+
+(a) loss of human life,
+
+(b) serious human illness or injury,
+
+(c) serious damage to property,
+
+(d) serious disruption of a supply of food, water, energy or fuel,
+
+(e) serious disruption of a system of communication,
+
+(f) serious disruption of facilities for transport, or
+
+(g) serious disruption of services relating to health.
+
+#### 88 Meaning of “owner”
+
+In this Act, “owner”, in relation to any land, means the person who has a legal estate in the land which—
+
+(a) is either the freehold estate or a tenancy for a specific term which has at least a year left to run and is not a mortgage term, and
+
+(b) is not in reversion expectant on the termination of such a tenancy.
+
+#### 89 Definitions relating to the Crown
+
+(1) This section applies for the purposes of this Act.
+
+(2) “Crown land” means land in which there is a Crown interest or a Duchy interest.
+
+(3) “Crown interest” means an estate or interest which—
+
+(a) belongs to His Majesty in right of the Crown or in right of His private estates, or
+
+(b) belongs to a government department or is held in trust for His Majesty for the purposes of a government department.
+
+(4) “Duchy interest” means an estate or interest which—
+
+(a) belongs to His Majesty in right of the Duchy of Lancaster, or
+
+(b) belongs to the Duchy of Cornwall.
+
+(5) “Private interest”, in relation to Crown land, means an estate or interest which is neither a Crown interest nor a Duchy interest.
+
+(6) “Appropriate Crown authority”—
+
+(a) in relation to Crown land, means—
+
+(i) in the case of land that belongs to His Majesty in right of the Crown and forms part of the Crown Estate, the Crown Estate Commissioners;
+
+(ii) in relation to any other land that belongs to His Majesty in right of the Crown, the government department having the management of the land;
+
+(iii) in relation to land that belongs to His Majesty in right of His private estates, a person appointed by His Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Welsh Ministers;
+
+(iv) in relation to land that belongs to His Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy;
+
+(v) in relation to land that belongs to the Duchy of Cornwall, a person appointed by the Duke of Cornwall or by the possessor for the time being of the Duchy;
+
+(vi) in the case of land that belongs to a government department or is held in trust for His Majesty for the purposes of a government department, the department;
+
+(b) in any other case, the Treasury.
+
+(7) “The Crown” is to be treated as including the Senedd Commission.
+
+(8) Any question that arises about who is the appropriate Crown authority in relation to any land must be referred to the Treasury, whose decision is final.
+
+(9) In this section—
+
+(a) references to His Majesty’s private estates are to be read in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37);
+
+(b) references to a government department include a Minister of the Crown and the Senedd Commission (and see section 85 of the Government of Wales Act 2006 (c. 32), which provides for references to a government department to include the Welsh Ministers, the First Minister and the Counsel General).
+
+#### 90 General interpretation
+
+In this Act—
+
+- “the court” (“*y llys*”) means the High Court or the county court.
+- “operations” (“*gweithrediadau*”) includes, but is not limited to, building and engineering operations.
+
+#### 91 Index of defined terms
+
+The Table below lists terms that are defined or otherwise explained in this Act.
+
+| ***Terms*** | ***Provision*** |
+|---|---|
+| appropriate Crown authority (“ *awdurdod priodol y Goron* ”) | section 89(6) |
+| authorised person (“ *person awdurdodedig* ”) | section 65(4) |
+| the Authority (“ *yr Awdurdod* ”) | section 1(2) |
+| category (“ *categori* ”) | section 24 |
+| contribution order (“ *gorchymyn cyfrannu* ”) | section 49 |
+| contributory (“ *cyfrannydd* ”) | section 49 |
+| the court (“ *y llys* ”) | section 90 |
+| criteria for registration (“ *y meini prawf ar gyfer cofrestru* ”) | section 7 |
+| the Crown (“ *y Goron* ”) | section 89(7) |
+| Crown land (“ *tir y Goron* ”) | section 89(2) |
+| disused tip (“ *tomen nas defnyddir* ”) | section 86(3) |
+| executive members (“ *aelodau gweithredol* ”) | Schedule 1, paragraph 2(3)(b) |
+| full assessment (“ *asesiad llawn* ”) | section 15 |
+| management plan (“ *cynllun rheoli* ”) | Section 57 |
+| non-executive members (“ *aelodau anweithredol* ”) | Schedule 1, paragraph 2(3)(a) |
+| notifiable change (“ *newid hysbysadwy* ”) | section 28 |
+| operations (“ *gweithrediadau* ”) | section 90 |
+| owner (“ *perchennog* ”) | section 88 |
+| preliminary assessment (“ *asesiad rhagarweiniol* ”) | section 12 |
+| private interest (“ *buddiant preifat* ”) | section 89(5) |
+| the register (“ *y gofrestr* ”) | section 6(3) |
+| relevant public authority (“ *awdurdod cyhoeddus perthnasol* ”) | section 58 |
+| residential land (“ *tir preswyl* ”) | section 66(7) |
+| the specified percentage (“ *y ganran benodedig* ”) | section 49 |
+| threat to human welfare (“ *bygythiad i les pobl* ”) | section 87 |
+| tip (“ *tomen* ”) | section 86(1) |
+
+### Miscellaneous
+
+#### 92 Coming into force
+
+(1) This Part comes into force on the day after the day on which this Act receives Royal Assent.
+
+(2) Sections 1, 2 and 5 and Schedule 1 come into force on 1 April 2027.
+
+(3) The other provisions of this Act come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
+
+(4) An order under subsection (3) may make transitional or saving provision.
+
+#### 93 Short title
+
+This Act may be referred to as—
+
+(a) the Disused Mine and Quarry Tips (Wales) Act 2025, or
+
+(b) Deddf Tomenni Mwyngloddiau a Chwareli Nas Defnyddir (Cymru) 2025.
+
+## SCHEDULE 1 — THE DISUSED TIPS AUTHORITY FOR WALES (prospective)
+
+*(introduced by section 1(3))*
+
+### PART 1 — STATUS (prospective)
+
+#### Status (prospective)
+
+**1** (1) The Authority is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+(2) The Authority’s property is not to be regarded as property of the Crown or property held on behalf of the Crown.
+
+### PART 2 — MEMBERS (prospective)
+
+#### Members (prospective)
+
+**2** (1) The members of the Authority are—
+
+(a) a person appointed by the Welsh Ministers as its chairperson,
+
+(b) at least 3 but not more than 5 other persons appointed by the Welsh Ministers,
+
+(c) its chief executive (see paragraph 6), and
+
+(d) at least 1 but no more than 2 other members appointed by the chief executive and the non-executive members from among the Authority’s staff.
+
+(2) The Welsh Ministers may appoint one of the members appointed under sub-paragraph (1)(b) as deputy chairperson.
+
+(3) In this Schedule—
+
+(a) the chairperson and members of the Authority appointed under sub-paragraph (1)(b) are collectively referred to as “non-executive members”;
+
+(b) the chief executive and members of the Authority appointed under sub-paragraph (1)(d) are collectively referred to as “executive members”.
+
+(4) The Welsh Ministers may by regulations amend sub-paragraph (1) so as to substitute a different number for any of the numbers for the time being specified in it; but the regulations must ensure that the number of non-executive members continues to exceed the number of executive members.
+
+#### Disqualification from being a non-executive member (prospective)
+
+**3** A person is disqualified from being appointed, or holding office, as a non-executive member of the Authority if the person is or becomes—
+
+(a) a member of the Authority’s staff,
+
+(b) a member of Senedd Cymru,
+
+(c) a member of a council for a county or county borough in Wales,
+
+(d) a member of the House of Commons or the House of Lords,
+
+(e) a member of the Welsh Government,
+
+(f) a person employed in the civil service of the State, or
+
+(g) the holder of an office, or a member or member of staff of a body, specified by regulations made by the Welsh Ministers.
+
+#### Terms of non-executive membership (prospective)
+
+**4** (1) A non-executive member of the Authority holds office for such period, and on such terms and conditions, as may be specified in the terms of appointment, but this is subject to sub-paragraphs (2) and (3) and paragraph 5.
+
+(2) The period of office specified in a non-executive member’s terms of appointment may not exceed 5 years.
+
+(3) A person who has held office as a non-executive member may be reappointed as a non-executive member once only (and sub-paragraph (2) applies in relation to the reappointment).
+
+(4) The Authority may, with the approval of the Welsh Ministers—
+
+(a) pay its non-executive members remuneration, expenses and allowances;
+
+(b) pay pensions to, or in respect of, persons who have been non-executive members of the Authority, and amounts for or towards the provision of pensions to, or in respect of, persons who have been non-executive members of the Authority.
+
+#### Removal etc. of members (prospective)
+
+**5** (1) The Welsh Ministers may by notice remove a person who is a non-executive member from office if satisfied—
+
+(a) that the person is unfit to continue as a member, or
+
+(b) that the person is unable or unwilling to exercise the functions of a member.
+
+(2) The Welsh Ministers may by notice suspend a person who is a non-executive member from office if it appears to them—
+
+(a) that the person may be unfit to continue as a member, or
+
+(b) that the person may be unable or unwilling to exercise the functions of a member.
+
+(3) A suspension under sub-paragraph (2) has effect until the Welsh Ministers give a further notice to the person suspended.
+
+(4) A person who is a non-executive member may resign from office by giving notice to the Welsh Ministers.
+
+(5) A person ceases to be a non-executive member of the Authority if that person becomes disqualified under paragraph 3.
+
+(6) A person ceases to be chairperson or deputy chairperson (as the case may be) if that person ceases to be a non-executive member of the Authority.
+
+(7) A person ceases to be an executive member of the Authority upon ceasing to be a member of the Authority’s staff.
+
+### PART 3 — STAFF (prospective)
+
+#### Chief executive (prospective)
+
+**6** (1) The Authority must have a chief executive.
+
+(2) The first chief executive of the Authority is to be appointed by the Welsh Ministers on such terms and conditions (including terms and conditions as to remuneration, expenses, allowances and pension) as they may determine.
+
+(3) Subsequent appointments are to be made by the non-executive members on such terms and conditions (including terms and conditions as to remuneration, expenses, allowances and pension) as they may determine with the approval of the Welsh Ministers.
+
+#### Other staff (prospective)
+
+**7** (1) The Authority may appoint members of staff other than a chief executive.
+
+(2) A member of staff appointed under this paragraph is appointed on such terms and conditions (including terms and conditions as to remuneration, expenses, allowances and pension) as the Authority may determine.
+
+(3) The Authority may not agree terms and conditions as to remuneration, expenses, allowances or pension without the approval of the Welsh Ministers.
+
+### PART 4 — DELEGATION (prospective)
+
+#### Committees and sub-committees (prospective)
+
+**8** (1) The Authority may establish committees and sub-committees.
+
+(2) A committee established under this paragraph may establish sub-committees.
+
+(3) A committee or sub-committee established under this paragraph may include persons who are not members of the Authority or members of its staff, but such persons are not entitled to vote at meetings of the committee or sub-committee (as the case may be).
+
+(4) The Authority may pay such remuneration, expenses and allowances as the Welsh Ministers may determine to any person who—
+
+(a) is a member of a committee or sub-committee established under this paragraph, but
+
+(b) is not a member of the Authority, or a member of its staff.
+
+#### Delegation (prospective)
+
+**9** (1) The Authority may delegate any of its functions to any of its—
+
+(a) committees,
+
+(b) sub-committees (whether established under paragraph 8(1) or (2)),
+
+(c) members, or
+
+(d) members of staff.
+
+(2) A committee of the Authority may delegate any function exercisable by it to—
+
+(a) a sub-committee of the Authority (whether established under paragraph 8(1) or (2)),
+
+(b) a member of the Authority, or
+
+(c) a member of the Authority’s staff.
+
+(3) A sub-committee of the Authority (whether established under paragraph 8(1) or (2)) may delegate any function exercisable by it to—
+
+(a) a member of the Authority, or
+
+(b) a member of the Authority’s staff.
+
+(4) The Authority may—
+
+(a) direct a committee or sub-committee of the Authority that it may not delegate a function specified in the direction;
+
+(b) direct a committee or sub-committee of the Authority to vary or revoke any delegation specified in the direction;
+
+(c) direct a committee of the Authority to vary or revoke any direction given by the committee under sub-paragraph (5).
+
+(5) A committee of the Authority that has delegated a function to a sub-committee may—
+
+(a) direct the sub-committee that it may not delegate the function;
+
+(b) direct the sub-committee to vary or revoke any delegation of that function made by it.
+
+(6) A function is delegated under this paragraph to the extent and on the terms determined by the person making the delegation, but this is subject to any direction under sub-paragraph (4) or (5).
+
+(7) Delegation of a function under this paragraph does not prevent the Authority (or the committee or sub-committee, as the case may be) from exercising the function.
+
+(8) Delegation of a function under this paragraph does not affect the Authority’s responsibility for the exercise of the function.
+
+### PART 5 — PROCEDURE ETC. (prospective)
+
+#### Procedure (prospective)
+
+**10** (1) The Authority must make rules to regulate its own procedure (including quorum).
+
+(2) The rules must provide that a meeting of the Authority is not quorate unless a majority of the members present are non-executive members.
+
+(3) The Authority must make rules to regulate the procedure of its committees and sub-committees (including quorum).
+
+(4) Rules made by the Authority under sub-paragraph (3) may authorise its committees and sub-committees to determine their own procedure (including quorum).
+
+#### Validity of proceedings and acts (prospective)
+
+**11** The validity of proceedings and acts of the Authority (or of its committees and sub-committees) is not affected by—
+
+(a) any vacancy in the membership of the Authority, or
+
+(b) any defect in the appointment of a member.
+
+#### Seal (prospective)
+
+**12** If the Authority has a seal, it must be authenticated by the signature of—
+
+(a) a member of the Authority, or
+
+(b) a member of the Authority’s staff
+
+who is authorised for that purpose.
+
+#### Evidence (prospective)
+
+**13** A document purporting to be duly executed under the seal of the Authority, or to be signed on the Authority’s behalf, is to be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
+
+### PART 6 — FINANCIAL MATTERS (prospective)
+
+#### Funding (prospective)
+
+**14** The Welsh Ministers may make payments to the Authority of such amounts, and at such times, and on such conditions, as the Welsh Ministers determine.
+
+#### Accounting officer (prospective)
+
+**15** (1) The chief executive of the Authority is its accounting officer.
+
+(2) The accounting officer has, in relation to the accounts and finances of the Authority, the responsibilities which are for the time being specified by the Welsh Ministers.
+
+(3) The responsibilities which may be specified under this paragraph include (among other things)—
+
+(a) responsibilities in relation to the signing of the accounts;
+
+(b) responsibilities for the propriety and regularity of the finances of the Authority;
+
+(c) responsibilities for the economy, efficiency and effectiveness with which the Authority uses its resources;
+
+(d) responsibilities owed to the Welsh Ministers, Senedd Cymru or its Public Accounts Committee.
+
+#### Accounts (prospective)
+
+**16** (1) The Authority must, for each financial year—
+
+(a) keep proper accounts and proper records in relation to those accounts, and
+
+(b) prepare a statement of accounts.
+
+(2) Each statement of accounts must comply with any directions given by the Welsh Ministers as to—
+
+(a) the information to be contained in it,
+
+(b) the manner in which the information is to be presented, and
+
+(c) the methods and principles according to which the statement is to be prepared.
+
+(3) No later than 30 September after the end of each financial year, the Authority must submit its statement of accounts for that financial year to—
+
+(a) the Welsh Ministers, and
+
+(b) the Auditor General for Wales.
+
+#### Audit (prospective)
+
+**17** (1) This paragraph applies in relation to each statement of accounts submitted to the Auditor General for Wales by the Authority under paragraph 16(3)(b).
+
+(2) The Auditor General for Wales must—
+
+(a) examine, certify and report on the statement of accounts;
+
+(b) provide a copy of the certified statement of accounts and the report to the Authority.
+
+(3) The Auditor General for Wales must, before the end of the period of 4 months beginning with the day on which the statement of accounts is submitted (“the 4-month period”), lay before Senedd Cymru—
+
+(a) a copy of the certified statement of accounts and the report, or
+
+(b) if it is not reasonably practicable to comply with paragraph (a), a statement to that effect, which must include reasons as to why this is the case.
+
+(4) Where a statement has been laid under sub-paragraph (3)(b), the Auditor General must lay a copy of the certified statement of accounts and the report before Senedd Cymru as soon as is reasonably practicable after the end of the 4-month period.
+
+(5) In complying with sub-paragraph (2), the Auditor General for Wales must examine and report on whether, in the opinion of the Auditor General, the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority which governs it.
+
+#### Examination into use of resources (prospective)
+
+**18** (1) The Auditor General for Wales may carry out examinations into the economy, efficiency and effectiveness with which resources have been used in the discharging of the Authority’s functions.
+
+(2) But that does not entitle the Auditor General for Wales to question the merits of the policy objectives of the Authority.
+
+(3) Before carrying out an examination under this paragraph, the Auditor General for Wales must—
+
+(a) consult Senedd Cymru, and
+
+(b) take into account the views of Senedd Cymru as to whether or not an examination should be carried out.
+
+(4) The Auditor General for Wales must—
+
+(a) as soon as is reasonably practicable, publish a report of the results of any examination carried out under this paragraph, and
+
+(b) lay a copy of the report before Senedd Cymru.
+
+### PART 7 — REPORTING REQUIREMENTS ETC. (prospective)
+
+#### Corporate plan (prospective)
+
+**19** (1) The Authority must prepare a corporate plan for each planning period.
+
+(2) The corporate plan must set out how the Authority intends to discharge its functions under this Act during the planning period.
+
+(3) The Authority must submit the corporate plan for approval by the Welsh Ministers.
+
+(4) Before submitting the corporate plan for approval, the Authority must consult such persons as it considers appropriate.
+
+(5) The Welsh Ministers may approve the corporate plan subject to such modifications as may be agreed between them and the Authority.
+
+(6) The Authority must publish the corporate plan approved by the Welsh Ministers.
+
+(7) The Welsh Ministers must lay a copy of the approved corporate plan before Senedd Cymru.
+
+(8) The Authority may review the approved corporate plan during the planning period to which it relates and submit a revised corporate plan to the Welsh Ministers for approval.
+
+(9) Sub-paragraphs (2) to (8) apply to a revised corporate plan as they apply to a corporate plan.
+
+(10) “Planning period” means—
+
+(a) the period of 3 years beginning with 1 October 2027, and
+
+(b) each subsequent period of 3 years.
+
+(11) The Welsh Ministers may by regulations amend sub-paragraph (10)(b).
+
+(12) The corporate plan for a planning period must be submitted to the Welsh Ministers for approval before the period begins.
+
+#### Annual report (prospective)
+
+**20** (1) As soon as is reasonably practicable after the end of each financial year, the Authority must—
+
+(a) prepare and publish a report (an “annual report”) on the exercise of its functions during that financial year, and
+
+(b) send a copy of its annual report to the Welsh Ministers.
+
+(2) The Welsh Ministers must lay a copy of the annual report before Senedd Cymru.
+
+### PART 8 — MINOR AND CONSEQUENTIAL AMENDMENTS (prospective)
+
+#### Coal Industry Act 1994 (c. 21) (prospective)
+
+**21** In section 59 of the Coal Industry Act 1994 (information to be kept confidential by the Coal Authority), after subsection (3)(f) insert—
+
+> (g) the Disused Tips Authority for Wales is a relevant authority in relation to its functions under the Disused Mine and Quarry Tips (Wales) Act [2025].
+
+#### Government of Wales Act 2006 (c. 32) (prospective)
+
+**22** In section 148 of the Government of Wales Act 2006 (meaning of “Welsh public records”), after subsection (2)(ca) insert—
+
+> (cb) the Disused Tips Authority for Wales,
+
+.
+
+#### Welsh Language (Wales) Measure 2011 (nawm 1) (prospective)
+
+**23** In Schedule 6 to the Welsh Language (Wales) Measure 2011 (public bodies etc.: standards), in the table, under the heading “General”, after the entry for the Disabled Persons Transport Advisory Committee insert—
+
+> |  |  |
+> |---|---|
+> | The Disused Tips Authority for Wales (“ *Awdurdod Tomenni Nas Defnyddir Cymru* ”) | Service delivery standards Policy making standards Operational standards Record keeping standards |
+
+.
+
+#### Well-being of Future Generations (Wales) Act 2015 (anaw 2) (prospective)
+
+**24** (1) In section 6 of the Well-being of Future Generations (Wales) Act 2015 (meaning of public body), after subsection (1)(l) insert—
+
+> (la) the Disused Tips Authority for Wales;
+
+.
+
+(2) Section 9 of the Well-being of Future Generations (Wales) Act 2015 (other public bodies’ well-being objectives) is to be read in relation to the Authority as if for subsection (2)(a) there were substituted—
+
+> (a) no later than the end of the financial year after the financial year in which the Disused Tips Authority for Wales is established, and
+
+.
+
+## SCHEDULE 2 — CLAIMS FOR COMPENSATION BY OWNERS AND CONTRIBUTORIES (prospective)
+
+*(introduced by sections 33(5) and 50(8))*
+
+**1** (1) This Schedule applies to an owner of land if—
+
+(a) the Authority has carried out operations on the land under section 44, or has carried out investigations under section 55 that resulted in the carrying out of the operations,
+
+(b) the owner has claimed compensation from the Authority under this Act, and
+
+(c) either—
+
+(i) no contribution order has been made in respect of the expenses that the owner otherwise has to bear in respect of the carrying out of those operations or investigations, or
+
+(ii) one or more such orders have been made but the specified percentage or, as the case may be, the aggregate of the specified percentages is less than 100.
+
+(2) This Schedule applies to a contributory if—
+
+(a) the expenses in respect of which a contribution may be claimed under section 51 or 53 include expenses incurred in carrying out any operations or investigations referred to in section 53(1) or (2), and
+
+(b) the contributory has claimed compensation from an owner of land or the Authority under this Act.
+
+(3) For the purposes of sub-paragraph (1), investigations are to be treated as having resulted in the carrying out of operations if, within 12 months beginning with the day after the completion of the investigations, the Authority started to carry out the operations.
+
+**2** (1) Where this Schedule applies to an owner of land, the owner is not entitled to enforce the claim for compensation, otherwise than by way of set-off against a sum demanded from the owner by the Authority under section 53, until the end of 12 months beginning with the day on which the operations referred to in paragraph 1 were completed.
+
+(2) But where—
+
+(a) the Authority gives the owner of the land a demand under section 53(4), and
+
+(b) the amount recoverable by virtue of that demand (having regard to any application made by the owner under section 54) is less than the amount of the owner’s claim for compensation from the Authority,
+
+sub-paragraph (1) does not apply to proceedings brought by the owner to recover the balance of that compensation from the Authority.
+
+**3** (1) Where this Schedule applies to a contributory, the contributory is not entitled to enforce the claim for compensation, otherwise than by way of set-off against any sum demanded from the contributory under section 51 or 53, until the end of the relevant period.
+
+(2) But where—
+
+(a) the contributory is given a demand for a contribution under section 51 or 53, and
+
+(b) the amount recoverable by virtue of that demand (having regard to any application made under section 52 or 54) is less than the amount of the contributory’s claim for compensation from the person who gave the demand,
+
+sub-paragraph (1) does not apply to proceedings brought by the contributory to recover the balance of the compensation from that person.
+
+(3) For the purposes of this paragraph, the “relevant period” is—
+
+(a) in relation to a claim by a contributory for compensation recoverable from an owner of land, 12 months beginning with the day on which the owner completed the operations referred to in paragraph 1(2)(a);
+
+(b) in relation to a claim by a contributory for compensation recoverable from the Authority—
+
+(i) where the expenses in respect of which a contribution may be claimed from the contributory fall within section 53(1), 12 months beginning with day on which the operations referred to in that section were completed;
+
+(ii) where the expenses in respect of which a contribution may be claimed from the contributory fall within section 53(2), 12 months beginning with day on which the investigations referred to in that section were completed.
+
+**4** In this Schedule, references to operations include works of reinstatement consequential on those operations.
+
+**5** In the case of an owner of land or contributory to whom this Schedule applies, the person’s cause of action to recover the compensation referred to in paragraph 1 is to be regarded, for the purposes of section 9 of the Limitation Act 1980 (c.58), as having accrued—
+
+(a) at the end of the period referred to in paragraph 2(1) or 3(1), whichever is applicable, or
+
+(b) if paragraph 2(2) or 3(2) applies, on the date on which the demand referred to in the applicable paragraph was given.
+
+## SCHEDULE 3 — MODIFICATIONS OF SECTIONS 51 AND 52 WHERE A NOTICE UNDER SECTION 35 IS CANCELLED (prospective)
+
+*(introduced by section 51(7))*
+
+**1** Where the Authority has cancelled a notice given to an owner of land under section 35, sections 51 and 52 have effect with the modifications specified in this Schedule.
+
+**2** A reference in those sections to operations carried out in compliance with the notice under section 35 is to be interpreted as a reference to operations so carried out before the notice was cancelled.
+
+**3** (1) In determining, for the purpose of sections 51 and 52, the amount of the expenses reasonably incurred by the owner of the land in carrying out the operations, deduct any sum that—
+
+(a) is recoverable (or has been recovered) by the owner from the Authority by virtue of a direction under section 43, and
+
+(b) is referable to expenditure incurred by the owner in consequence of the giving of the notice under section 35.
+
+(2) No sum is recoverable by the owner of land under section 51 in respect of expenses incurred by the owner in carrying out works of reinstatement.
+
+**4** Where, by virtue of a direction under section 43, the owner of land is entitled to recover (or has recovered) a sum from the Authority in respect of the expenditure incurred by the owner in consequence of the giving of a notice under section 35—
+
+(a) a demand under section 51(4) must specify the total sum recoverable (or recovered) by virtue of the direction, distinguishing between—
+
+(i) the part referable to expenditure incurred in consequence of the giving of the notice under section 35, and
+
+(ii) the part referable to expenditure incurred by the owner that is attributable to the cancellation of the notice;
+
+(b) the reference in section 51(5) to the total amount in respect of which the contribution is claimed is to be interpreted as a reference to the amount in respect of which the contribution could have been claimed if no direction had been given;
+
+(c) an application may be made under section 52 on the ground that the amount claimed in the demand does not make proper allowance for a sum that must be deducted by virtue of paragraph 3.

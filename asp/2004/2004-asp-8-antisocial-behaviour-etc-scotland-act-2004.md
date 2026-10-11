@@ -1,0 +1,4909 @@
+---
+title: "Antisocial Behaviour etc. (Scotland) Act 2004"
+identifier: "asp/2004/8"
+citation: "2004 asp 8"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2004-07-26
+last_amended: 2026-03-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2004/8"
+source_modified: 2026-04-15
+retrieved: 2026-10-11
+---
+
+# Antisocial Behaviour etc. (Scotland) Act 2004
+
+**2004 asp 8**
+
+An Act of the Scottish Parliament to make provision in connection with antisocial behaviour; to make provision about criminal justice; to make provision in relation to child welfare; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 17th June 2004 and received Royal Assent on 26th July 2004
+
+## Part 1 — Antisocial behaviour strategies
+
+### 1 Antisocial behaviour strategies
+
+(1) Each local authority and [[^F1]the] chief constable shall, acting jointly, prepare a strategy for dealing with antisocial behaviour in the authority’s area.
+
+(2) Each local authority shall publish the strategy.
+
+(3) The strategy shall in particular—
+
+(a) set out an assessment of the extent of occurrences of antisocial behaviour in the authority’s area;
+
+(b) set out an assessment of the types of antisocial behaviour occurring in the authority’s area;
+
+(c) specify arrangements for consulting community bodies and other persons (including in particular young persons) in each part of the authority’s area in which there are (or are likely to be) occurrences of antisocial behaviour, about how to deal with antisocial behaviour in the part;
+
+(d) specify the range and availability in the authority’s area of any services—
+
+(i) for persons under the age of 16 years; and
+
+(ii) for persons generally,
+
+which are designed to deal with antisocial behaviour occurring there, the consequences of such behaviour or the prevention of such behaviour;
+
+(e) in so far as not specified under paragraph (d), specify the range and availability in the authority’s area of any services for—
+
+(i) victims of antisocial behaviour;
+
+(ii) persons who witness occurrences of antisocial behaviour; and
+
+(iii) the provision of mediation in relation to disputes arising from antisocial behaviour; and
+
+(f) make provision about—
+
+(i) how the authority and the [^F2]... chief constable are to co-ordinate the discharge of their functions in so far as they may be discharged in relation to antisocial behaviour in the authority’s area;
+
+(ii) the exchange of information relating to such behaviour between the authority and the [^F3]... chief constable;
+
+(iii) the giving by the authority and the [^F4]... chief constable of information of that kind to such other persons as appear to the authority and the chief constable to have an interest in dealing with antisocial behaviour and the receipt by the authority and the chief constable of information of that kind from those other persons; and
+
+(iv) the exchange of information relating to antisocial behaviour among such other persons as are mentioned in sub-paragraph (iii).
+
+(4) The local authority and the [^F5]... chief constable—
+
+(a) shall keep the strategy under review; and
+
+(b) may from time to time revise the strategy.
+
+(5) If a strategy is revised under subsection (4), the local authority shall publish the revised strategy.
+
+(6) In preparing, reviewing and revising the strategy, the local authority shall consult—
+
+(a) the Principal Reporter;
+
+(b) registered social landlords which provide or manage property in the authority’s area; and
+
+(c) such community bodies and other persons as the local authority considers appropriate.
+
+(7) In considering which persons to consult, the local authority shall seek to include those who are representative of persons adversely affected by antisocial behaviour.
+
+(8) Each local authority and [^F6]... chief constable shall, in discharging functions under this section and in implementing a strategy as published under it, have regard to any guidance issued by the Scottish Ministers about those matters.
+
+(9) Before issuing any such guidance, the Scottish Ministers shall consult such persons as they see fit.
+
+(10) For the purposes of subsection (1), the Scottish Ministers may by directions require such persons as appear to them to hold information relating to antisocial behaviour to supply—
+
+(a) such information as may be specified in the direction; or
+
+(b) information of a description specified in the direction,
+
+to a local authority and [^F7]... chief constable.
+
+(11) In this section—
+
+- “community bodies” has the meaning given by section 15(4) of the Local Government in Scotland Act 2003 (asp 1); and
+- [[^F8]“chief constable” means the chief constable of the Police Service of Scotland.]
+
+### 2 Reports and information
+
+(1) Subject to subsection (3)(b), each local authority shall from time to time publish reports on—
+
+(a) how the authority and the [^F9]... chief constable have implemented the strategy as published under section 1(2) or (5); and
+
+(b) what were the results of that implementation.
+
+(2) It shall be the duty of—
+
+(a) the [^F10]... chief constable;
+
+(b) the Principal Reporter; and
+
+(c) any registered social landlord which provides or manages property within the area of the local authority that published the strategy,
+
+to provide such information as the authority may reasonably require in order to enable the authority to comply with the duty under subsection (1).
+
+(3) The Scottish Ministers may by regulations make provision as to—
+
+(a) the form and content of reports under subsection (1); and
+
+(b) the frequency and timing of publication of such reports.
+
+(4) Before making regulations under subsection (3) the Scottish Ministers shall consult—
+
+(a) such associations of local authorities; and
+
+(b) such other persons,
+
+as they think fit.
+
+(5) A local authority shall, on being so required by the Scottish Ministers, provide them with reports or other information (being reports or information about the matters referred to in subsection (1)) of such kind as they specify in the requirement.
+
+(6) In this section “[[^F11] chief constable ]” has the same meaning as in section 1.
+
+### 3 Scottish Ministers' power to apply sections 1 and 2 to registered social landlords
+
+(1) The Scottish Ministers may make regulations for the purpose of securing the participation of a registered social landlord in the preparation, review or revision of a strategy such as is mentioned in section 1(1).
+
+(2) Regulations under subsection (1) may in particular make such modifications of sections 1(1), (3), (4), (6) and (8) and 2(1) as the Scottish Ministers consider necessary or expedient for that purpose.
+
+## Part 2 — Antisocial behaviour orders
+
+### Antisocial behaviour orders
+
+#### 4 Antisocial behaviour orders
+
+(1) On the application of a relevant authority, the sheriff may, if satisfied that the conditions mentioned in subsection (2) are met as respects the person to whom the application relates (the “specified person”), make an antisocial behaviour order.
+
+(2) Those conditions are—
+
+(a) that the specified person is at least 12 years of age;
+
+(b) that the specified person has engaged in antisocial behaviour towards a relevant person; and
+
+(c) that an antisocial behaviour order is necessary for the purpose of protecting relevant persons from further antisocial behaviour by the specified person.
+
+(3) For the purpose of determining whether the condition mentioned in subsection (2)(b) is met, the sheriff shall disregard any act or conduct of the specified person which that person shows was reasonable in the circumstances.
+
+(4) Where the specified person is a child, the sheriff shall, before determining the application, require the Principal Reporter to arrange a children’s hearing for the purpose of obtaining their advice as to whether the condition mentioned in subsection (2)(c) is met; and the sheriff shall, in determining whether that condition is met, have regard to that advice.
+
+(5) Subject to subsections (6) and (7), an antisocial behaviour order is an order which prohibits, indefinitely or for such period as may be specified in the order, the specified person from doing anything described in the order.
+
+(6) The prohibitions that may be imposed by an antisocial behaviour order are those necessary for the purpose of protecting relevant persons from further antisocial behaviour by the specified person.
+
+(7) If an antisocial behaviour order is made on the application of a local authority the order may, in addition to imposing prohibitions that are necessary for the purpose mentioned in subsection (6), impose such prohibitions as are necessary for the purpose of protecting other persons (“affected persons”) from further antisocial behaviour by the specified person.
+
+(8) Before making an antisocial behaviour order, the sheriff shall, where the specified person is present in court, explain in ordinary language—
+
+(a) the effect of the order and the prohibitions proposed to be included in it;
+
+(b) the consequences of failing to comply with the order;
+
+(c) the powers the sheriff has under sections 5 and 6; and
+
+(d) the entitlement of the specified person to appeal against the making of the order.
+
+(9) Failure to comply with subsection (8) shall not affect the validity of the order.
+
+(10) An application for an antisocial behaviour order shall be made by summary application to the sheriff within whose sheriffdom the specified person is alleged to have engaged in antisocial behaviour.
+
+(11) Before making an application under this section—
+
+(a) a relevant authority shall consult the relevant consultees; and
+
+(b) a registered social landlord shall—
+
+(i) in the case where the specified person is a child, consult the local authority within whose area the specified person resides or appears to reside about the proposed application;
+
+(ii) in the case where the specified person is not a child, notify that local authority of the proposed application.
+
+(12) Nothing in this section shall prevent a relevant authority from instituting any legal proceedings otherwise than under this section against any person in relation to any antisocial behaviour.
+
+(13) In this section, “relevant person” means—
+
+(a) in relation to an application by a local authority, a person within the area of the authority; and
+
+(b) in relation to an application by a registered social landlord—
+
+(i) a person residing in, or otherwise in or likely to be in, property provided or managed by that landlord; or
+
+(ii) a person in, or likely to be in, the vicinity of such property.
+
+#### 5 Antisocial behaviour orders: variation and revocation
+
+(1) On the application of—
+
+(a) the relevant authority that obtained an antisocial behaviour order; or
+
+(b) the person subject to such an order,
+
+the sheriff may vary or revoke the order.
+
+(2) Where the person subject to the order is a child, the sheriff shall, in determining whether to vary or revoke it, have regard to any views expressed by the Principal Reporter.
+
+(3) Before making an application under this section—
+
+(a) a relevant authority shall consult the relevant consultees; and
+
+(b) a registered social landlord shall—
+
+(i) in the case where the person subject to the order is a child, consult the local authority within whose area the person resides or appears to reside about the proposed application;
+
+(ii) in the case where the person subject to the order is not a child, notify that local authority of the proposed application.
+
+#### 6 Appeals: effect on competence of application under section 5
+
+Where a person appeals against—
+
+(a) the making of an antisocial behaviour order; or
+
+(b) the variation, under section 5, of such an order,
+
+it shall not be competent for that person to make an application under that section before the appeal is disposed of or abandoned.
+
+### Interim antisocial behaviour orders
+
+#### 7 Interim antisocial behaviour orders
+
+(1) Subsection (2) applies where—
+
+(a) an application is made under section 4; and
+
+(b) the application has been intimated to the specified person.
+
+(2) If the sheriff is satisfied—
+
+(a) that the condition mentioned in paragraph (a) of section 4(2) is met;
+
+(b) that *prima facie* the condition mentioned in paragraph (b) of that section is met; and
+
+(c) that the making of an interim antisocial behaviour order (an “interim order”) is necessary for the purpose mentioned in paragraph (c) of that section,
+
+the sheriff may make an interim order.
+
+(3) Where the specified person is a child, the sheriff shall, in determining whether to make an interim order, have regard to any views expressed by the Principal Reporter.
+
+(4) An interim order is an order which prohibits, pending the determination of the application, the specified person from doing anything described in the order.
+
+(5) Sections 4(6) and (7) shall apply to an interim order as they apply to an antisocial behaviour order.
+
+(6) Before making an interim order, the sheriff shall, where the specified person is present in court, explain in ordinary language—
+
+(a) the effect of the order and the prohibitions proposed to be included in it;
+
+(b) the consequences of failing to comply with the order;
+
+(c) the power the sheriff has to recall the order; and
+
+(d) the entitlement of the specified person to appeal against the making of the order.
+
+(7) Failure to comply with subsection (6) shall not affect the validity of the order.
+
+(8) An interlocutor granting or refusing an interim order is an appealable interlocutor.
+
+### Notification of orders
+
+#### 8 Notification of making etc. of orders and interim orders
+
+(1) Subsection (2) applies where—
+
+(a) an antisocial behaviour order is made or varied; or
+
+(b) an interim order is made.
+
+(2) The clerk of the court by which the order is made or varied shall cause a copy of the order as so made or varied to be—
+
+(a) served on the person subject to the order; and
+
+(b) given to the relevant authority on whose application the order was made.
+
+(3) Subsection (4) applies where—
+
+(a) an antisocial behaviour order is revoked; or
+
+(b) an interim order is recalled.
+
+(4) The clerk of the court by which the order is revoked or recalled shall notify—
+
+(a) the person subject to the order; and
+
+(b) the relevant authority on whose application the order was made,
+
+of the revocation or recall.
+
+(5) For the purposes of subsection (2)(a), a copy is served if—
+
+(a) given to the person subject to the order; or
+
+(b) sent to that person by registered post or the recorded delivery service.
+
+(6) For the purposes of subsection (4)(a), the person subject to the order is notified if notification is sent to the person by registered post or the recorded delivery service.
+
+(7) A certificate of posting of a letter sent under subsection (5)(b) or (6) issued by the postal operator concerned shall be sufficient evidence of the sending of the letter on the day specified in such certificate.
+
+(8) In subsection (7), “postal operator” has the meaning given by [[^F12]section 27 of the Postal Services Act 2011 (c.5)].
+
+### Breach of orders
+
+#### 9 Breach of orders
+
+(1) Subject to subsection (3), a person who—
+
+(a) is subject to an antisocial behaviour order or an interim order; and
+
+(b) without reasonable excuse, does anything that the order to which the person is subject prohibits the person from doing,
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum or to both; or
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine or to both.
+
+(3) If—
+
+(a) otherwise than under subsection (1), the thing done by the person constitutes an offence (a “separate offence”); and
+
+(b) the person is charged with the separate offence,
+
+the person shall not be liable to be proceeded against for an offence under subsection (1).
+
+(4) Subject to subsection (5), if a person is convicted of a separate offence, the court which sentences the person for that offence shall, in determining the appropriate sentence or disposal, have regard to—
+
+(a) the fact that the separate offence was committed while the person was subject to the antisocial behaviour order or, as the case may be, interim order;
+
+(b) the number of antisocial behaviour orders and interim orders to which the person was subject at the time of commission of the separate offence;
+
+(c) any previous conviction of the person for an offence under subsection (1); and
+
+(d) the extent to which the sentence or disposal in respect of any previous conviction of the person differed, by virtue of this subsection, from that which the court would have imposed but for this section.
+
+(5) The court shall not, under subsection (4)(a), have regard to the fact that the separate offence was committed while the person was subject to the antisocial behaviour order or, as the case may be, the interim order unless that fact is libelled in the indictment or, as the case may be, specified in the complaint.
+
+(6) The fact that the separate offence was committed while the person was subject to an antisocial behaviour order or, as the case may be, an interim order, shall, unless challenged—
+
+(a) in the case of proceedings on indictment, by the giving of notice of a preliminary objection in accordance with section 71(2) or 72(6)(b)(i) of the Criminal Procedure (Scotland) Act 1995 (c. 46); or
+
+(b) in summary proceedings, by preliminary objection before the person’s plea is recorded,
+
+be held as admitted.
+
+#### 10 Breach of orders: prohibition on detention of children
+
+(1) The Criminal Procedure (Scotland) Act 1995 (c. 46) shall be amended as follows.
+
+(2) In subsection (2) of section 44 (detention of children), after “offence” there shall be inserted “ (other than, if the child is under the age of 16 years, an offence under section 9(1) of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) or that section as applied by section 234AA(11) of this Act) ”.
+
+(3) In section 208 (detention of children convicted on indictment), after “Act” there shall be inserted “ and subsection (3) below ”.
+
+(4) At the end of section 208 there shall be added—
+
+> (3) If the child is under the age of 16 years, the power conferred by subsection (1) above shall not be exercisable in respect of a conviction for an offence under section 9(1) of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) or that section as applied by section 234AA(11) of this Act.
+
+.
+
+#### [^F13]11 Breach of orders: arrest without warrant
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Orders in respect of children
+
+#### 12 Sheriff’s power to refer case to children’s hearing
+
+[[^F14](1) This section applies where—
+
+(a) the sheriff makes an antisocial behaviour order or an interim order in respect of a child, and
+
+(b) the sheriff considers that a section 67 ground (other than the ground mentioned in section 67(2)(j)) applies in relation to the child.
+
+(1A) The sheriff may require the Principal Reporter to arrange a children's hearing.
+
+(1B) The sheriff must give the Principal Reporter a section 12 statement if—
+
+(a) the sheriff makes a requirement under subsection (1A), and
+
+(b) a compulsory supervision order is not in force in relation to the child.
+
+(1C) A section 12 statement is a statement—
+
+(a) specifying which of the section 67 grounds the sheriff considers applies in relation to the child,
+
+(b) setting out the reasons why the sheriff considers the ground applies, and
+
+(c) setting out any other information about the child which appears to the sheriff to be relevant.
+
+(1D) In this section—
+
+- “compulsory supervision order” has the meaning given by section 83 of the Children's Hearings (Scotland) Act 2011,
+- “section 67 ground” means a ground mentioned in section 67(2) of that Act.]
+
+[^F15]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F15]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F15]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F15]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13 Sheriff’s power to make parenting order
+
+(1) Where a sheriff makes an antisocial behaviour order in respect of a child, the sheriff may, where subsection (2) applies, make a parenting order in respect of a parent of the child.
+
+(2) This subsection applies where—
+
+(a) the sheriff is satisfied that the making of the order is desirable in the interests of preventing the child from engaging in further antisocial behaviour; and
+
+(b) the Scottish Ministers have notified the court that the local authority for the area in which the parent ordinarily resides has made arrangements that would enable the order to be complied with.
+
+(3) In this section—
+
+- “parent” has the meaning given by section 117; and
+- “parenting order” has the meaning given by section 103(1).
+
+### Provision of information and records
+
+#### 14 Provision of information to local authorities
+
+(1) Where by virtue of subsection (2)(b) of section 8 a registered social landlord—
+
+(a) is given a copy of an antisocial behaviour order as made or varied; or
+
+(b) is given a copy of an interim order,
+
+it shall give a copy to each relevant local authority.
+
+(2) Where by virtue of subsection (4)(b) of that section a registered social landlord—
+
+(a) is notified of the revocation of an antisocial behaviour order; or
+
+(b) is notified of the recall of an interim order,
+
+it shall notify each relevant local authority of the date on which the order was revoked or recalled.
+
+(3) In this section “relevant local authority” means a local authority whose area includes the premises referred to in section 4(13)(b) in relation to any person for whose protection the order was made.
+
+#### 15 Records of orders
+
+(1) A local authority shall keep records of—
+
+(a) each antisocial behaviour order; and
+
+(b) each interim order,
+
+of which the authority is given a copy by virtue of section 8(2)(b) or 14(1).
+
+(2) A record kept under subsection (1) shall specify—
+
+(a) the person in respect of whom the order was made;
+
+(b) the prohibitions imposed by the order;
+
+(c) if the record relates to an antisocial behaviour order—
+
+(i) whether a prohibition is indefinite or for a definite period and where it is for a period, that period;
+
+(ii) where the authority is, by virtue of section 8(2)(b) or, as the case may be, 14(1), given a copy of the order as varied, the variation and its date; and
+
+(iii) where the authority is, by virtue of section 8(4)(b) or, as the case may be, 14(2), notified of the revocation of the order, the date on which it was revoked;
+
+(d) if the record relates to an interim order, where the authority is, by virtue of section 8(4)(b) or, as the case may be, 14(2), notified of the recall of the order, the date on which it was recalled; and
+
+(e) such other matters relating to the order as the Scottish Ministers may prescribe in regulations.
+
+(3) A local authority shall, on a request to do so being made to it by a person mentioned in subsection (4), disclose to that person information contained in a record kept under subsection (1).
+
+(4) Those persons are—
+
+(a) the Scottish Ministers;
+
+(b) the Principal Reporter;
+
+(c) any other local authority;
+
+[[^F16](d) the chief constable of the Police Service of Scotland;]
+
+(e) a registered social landlord.
+
+### Guidance and research
+
+#### 16 Guidance in relation to antisocial behaviour orders
+
+A person (other than a court) shall, in discharging functions by virtue of this Part (other than section 13), have regard to any guidance given by the Scottish Ministers about—
+
+(a) the discharge of those functions; and
+
+(b) matters arising in connection with the discharge of those functions.
+
+#### 17 Arrangement of study into operation of Part
+
+(1) The Scottish Ministers shall—
+
+(a) arrange for the carrying out of a study into the operation of this Part; and
+
+(b) lay a report on the results of the study before the Scottish Parliament within 3 years of the date on which the whole of the Part was first in force.
+
+(2) The Scottish Ministers shall make such preparations for the carrying out of the study as are necessary to enable the study to commence as soon as the whole of the Part is in force; and such preparations may include, in particular, the instruction of a research team and the formation of a research advisory group to assist in the direction of the study.
+
+### Interpretation
+
+#### 18 Interpretation of Part 2
+
+In this Part—
+
+- “affected person” has the meaning given by section 4(7);
+
+- “antisocial behaviour order” has the meaning given by section 4(5);
+
+- “child” means a person who is under the age of 16 years;
+
+- “interim order” has the meaning given by section 7(2)(c);
+
+- “relevant authority” means—
+
+  - (a) a local authority; or
+  - (b) a registered social landlord;
+
+- “relevant consultees” means—
+
+  - (a) in relation to an antisocial behaviour order sought or made on the application of a local authority—
+  
+    - (ia) [[^F17]the chief constable of the Police Service of Scotland;]
+    - (iii) each local authority in whose area there is an affected person; and
+    - (iv) if the person in respect of whom the order is sought or made is a child, the Principal Reporter;
+  
+  - (b) in relation to an antisocial behaviour order sought or made on the application of a registered social landlord—
+  
+    - (i) [[^F18]the chief constable of the Police Service of Scotland;]
+    - (ii) if [[^F19]the person in respect of whom the order is sought or made] is a child, the Principal Reporter;
+
+- “specified person” has the meaning given by section 4(1).
+
+## Part 3 — Dispersal of groups
+
+### Authorisations and powers
+
+#### 19 Authorisations
+
+(1) Subsection (2) applies where a police officer of or above the rank of superintendent (a “senior police officer”) has reasonable grounds for believing—
+
+(a) that any members of the public have been alarmed or distressed as a result of the presence or behaviour of groups of two or more persons in public places in any locality in the officer’s police area (the “relevant locality”); and
+
+(b) that antisocial behaviour is a significant, persistent and serious problem in the relevant locality.
+
+(2) The senior police officer may authorise the exercise of the powers conferred by section 21—
+
+(a) during a specified period;
+
+(b) on specified days that fall within a specified period;
+
+(c) between specified times that fall within a specified period.
+
+(3) An authorisation under subsection (2)—
+
+(a) shall be in writing;
+
+(b) shall be signed by the senior police officer giving it; and
+
+(c) shall specify—
+
+(i) the relevant locality;
+
+(ii) the grounds on which the authorisation is given; and
+
+(iii) when the powers are exercisable.
+
+(4) Before giving an authorisation under subsection (2) the senior police officer who proposes to give it shall ensure that any local authority whose area includes the whole or part of the relevant locality is consulted.
+
+(5) A period specified under subsection (2) shall not exceed 3 months.
+
+(6) In subsection (2), “specified” means specified by the senior police officer.
+
+#### 20 Authorisations: supplementary
+
+(1) Before the powers conferred by section 21 become exercisable by virtue of an authorisation, the senior police officer who gave the authorisation shall ensure that an authorisation notice is—
+
+(a) published in a newspaper circulating in the relevant locality; and
+
+(b) displayed in some conspicuous place or places within the relevant locality.
+
+(2) An “authorisation notice” is a notice which—
+
+(a) states that authorisation has been given;
+
+(b) specifies the relevant locality; and
+
+(c) specifies when the powers may be exercised.
+
+(3) An authorisation may be withdrawn by—
+
+(a) the senior police officer who gave it; or
+
+(b) any police officer [^F20]... whose rank is the same as or higher than that of the senior police officer mentioned in paragraph (a).
+
+(4) Before withdrawing, under subsection (3), an authorisation, the police officer who proposes to withdraw the authorisation shall ensure that any local authority whose area includes the whole or part of the relevant locality is consulted.
+
+(5) The withdrawal of an authorisation shall not affect the exercise, by virtue of the authorisation, of any power which occurred before the withdrawal.
+
+(6) The giving or withdrawal of an authorisation shall not prevent the giving of a further authorisation in respect of a locality which includes the whole or any part of the relevant locality to which the earlier authorisation relates.
+
+(7) In this section, “authorisation” means an authorisation under section 19.
+
+#### 21 Powers exercisable in pursuance of authorisations
+
+(1) Where a constable has reasonable grounds for believing that the presence or behaviour of a group of two or more persons in any public place in the relevant locality is causing or is likely to cause alarm or distress to any members of the public, the constable may exercise a power mentioned in subsection (3).
+
+(2) In determining whether to exercise a power mentioned in subsection (3) a constable shall have regard to whether the exercise of the power would be likely to result in the persons in the group causing less alarm and distress to members of the public in the relevant locality than if the power were not exercised.
+
+(3) Subject to subsection (5), the constable may give—
+
+(a) a direction requiring the persons in the group to disperse;
+
+(b) a direction requiring any of those persons whose place of residence is not within the relevant locality to leave the relevant locality or any part of the relevant locality;
+
+(c) a direction prohibiting any of those persons whose place of residence is not within the relevant locality from returning to the relevant locality or any part of the relevant locality during such period (not exceeding 24 hours) from the giving of the direction as the constable may specify.
+
+(4) The constable may require a direction under paragraph (a) or (b) of subsection (3) to be complied with—
+
+(a) immediately or by such time as the constable may specify;
+
+(b) in such way as may be so specified.
+
+(5) A direction under subsection (3) may not be given in respect of a group of persons—
+
+(a) who are engaged in conduct which is lawful under section 220 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52); or
+
+(b) who are taking part in a procession in respect of which—
+
+(i) written notice has been given in accordance with subsections (2) and (3) of section 62 of the Civic Government (Scotland) Act 1982 (c. 45);
+
+(ii) by virtue of subsection (6) or (7) of that section such notice is not required to be given.
+
+#### 22 Powers under section 21: supplementary
+
+(1) A direction under section 21—
+
+(a) may be given orally;
+
+(b) may be given to any person individually or to two or more persons together; and
+
+(c) may be withdrawn or varied by the constable who gave it.
+
+(2) A person who, without reasonable excuse, knowingly contravenes a direction given to the person under section 21 shall be guilty of an offence and liable on summary conviction to—
+
+(a) a fine not exceeding level 4 on the standard scale; or
+
+(b) imprisonment for a term not exceeding 3 months,
+
+or to both.
+
+[^F21]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F21]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Guidance and research
+
+#### 23 Guidance in relation to dispersal of groups
+
+(1) A person exercising a power by virtue of this Part shall, in the exercise of the power, have regard to any guidance given by the Scottish Ministers about—
+
+(a) the exercise of the power; and
+
+(b) any other matter relating to the power.
+
+(2) The Scottish Ministers shall lay before the Scottish Parliament a copy of any guidance such as is mentioned in subsection (1).
+
+#### 24 Operation of Part: arrangement of study
+
+(1) The Scottish Ministers shall—
+
+(a) arrange for the carrying out of a study into the operation of this Part; and
+
+(b) lay a report on the results of the study before the Scottish Parliament within 3 years of the date on which the whole of the Part was first in force.
+
+(2) The Scottish Ministers shall make such preparations for the carrying out of the study as are necessary to enable the study to commence as soon as the whole of the Part is in force; and such preparations may include, in particular, the instruction of a research team and the formation of a research advisory group to assist in the direction of the study.
+
+### Interpretation
+
+#### 25 Interpretation of Part 3
+
+(1) In this Part—
+
+- “public place” means any place to which the public have access at the material time (whether on payment of a fee or otherwise); and includes—
+
+  - (a) the doorways or entrances of premises abutting on any such place;
+  - (b) a road (as defined in section 151(1) of the Roads (Scotland) Act 1984 (c. 54));
+  - (c) any common passage, close, court, stair or yard pertinent to any tenement or group of separately owned houses; and
+  - (d) any place to which the public do not have access but to which persons have unlawfully gained access; and
+
+- “relevant locality” has the meaning given by section 19(1)(a).
+
+(2) In this Part, any reference to the presence or behaviour of a group of persons includes a reference to the presence or behaviour of any one or more of the persons in the group.
+
+## Part 4 — Closure of premises
+
+### Closure notices
+
+#### 26 Authorisation of closure notice
+
+(1) Subject to subsections (2) [[^F22]to (3B)], a senior police officer may authorise the service of a notice (a “closure notice”) prohibiting access to premises by any person other than—
+
+(a) a person who habitually resides in the premises; or
+
+(b) the owner of the premises.
+
+(2) The Scottish Ministers may by regulations specify premises or descriptions of premises in respect of which an authorisation under subsection (1) may not be given.
+
+(3) A senior police officer may [[^F23], in a case involving antisocial behaviour,] authorise the service of a closure notice only where the senior police officer—
+
+(a) has reasonable grounds for believing that—
+
+(i) at any time during the immediately preceding 3 months a person has engaged in antisocial behaviour on the premises; and
+
+(ii) the use of the premises is associated with the occurrence of relevant harm; and
+
+(b) is satisfied that—
+
+(i) the local authority for the area in which the premises are situated has been consulted; and
+
+(ii) reasonable steps have been taken to establish the identity of any person who lives on, has control of, has responsibility for or has an interest in the premises.
+
+[[^F24](3A) A senior police officer may, in a case involving an exploitation offence, authorise the service of a closure notice only where the senior police officer—
+
+(a) has reasonable grounds for believing that—
+
+(i) such an offence is being (or, at any time in the immediately preceding 3 months, was) committed in the premises, or
+
+(ii) the premises are being (or, at any time in the immediately preceding 3 months, have been) used for or in connection with the commission of such an offence, and
+
+(b) is satisfied that—
+
+(i) the local authority for the area in which the premises are situated has been consulted, and
+
+(ii) reasonable steps have been taken to establish the identity of any person who lives on, has control of, has responsibility for or has an interest in the premises.
+
+(3B) Subsection (3A) is without prejudice to subsection (3) (including in so far as subsection (3) is applicable in relation to a brothel or other place where prostitution may occur).]
+
+(4) An authorisation given under subsection (1) shall, if given orally, be confirmed by the senior police officer in writing as soon as is practicable.
+
+#### 27 Service etc.
+
+(1) This section applies where the service of a closure notice in respect of premises is authorised under section 26(1).
+
+(2) The closure notice shall be served by a constable who shall do so by—
+
+(a) fixing a copy of the notice to—
+
+(i) at least one prominent place on the premises;
+
+(ii) each normal means of access to the premises; and
+
+(iii) any outbuildings that appear to the constable to be used with or as part of the premises; and
+
+(b) giving a copy of the notice to—
+
+(i) each person identified in pursuance of section 26(3)(b)(ii) [[^F25]or (as the case may be) (3A)(b)(ii)]; and
+
+(ii) every other person appearing to the constable to be a person of a description mentioned [[^F26]there].
+
+(3) If after having made reasonable enquiries at the time of serving the closure notice under subsection (2) the constable believes that the access of any person who occupies—
+
+(a) any other part of the building; or
+
+(b) any other structure,
+
+in which the premises are situated would be impeded by the making of an order under section 30, the constable shall give a copy of the notice to that person.
+
+(4) Failure to comply with subsection (2)(b) or (3) shall not affect the validity of the closure notice.
+
+(5) The closure notice shall—
+
+(a) specify the premises to which it relates;
+
+(b) state that access to the premises by any person other than—
+
+(i) a person who habitually resides in the premises; or
+
+(ii) the owner of the premises,
+
+is prohibited;
+
+(c) state that failure to comply with the notice amounts to an offence;
+
+(d) state that an application is to be made under section 28 for the closure of the premises;
+
+(e) specify such matters about that application as may be prescribed in rules of court;
+
+(f) explain the effects of an order made under section 30; and
+
+(g) give information about the names of, and means of contacting, persons who and organisations which provide advice about housing and legal matters in the locality of the premises.
+
+### Closure orders
+
+#### 28 Application to sheriff
+
+(1) Subsection (2) applies where paragraph (a) of section 27(2) is fulfilled in relation to a closure notice.
+
+(2) A senior police officer shall apply to the sheriff for a closure order in respect of the premises specified in the notice.
+
+(3) Subject to subsection (4), an application under subsection (2) shall be made no later than the first court day after the day on which paragraph (a) of section 27(2) is fulfilled in relation to the notice.
+
+(4) The sheriff may, on cause shown, allow an application which is late to proceed.
+
+(5) An application under subsection (2) shall—
+
+(a) specify the premises in respect of which the closure order is sought;
+
+(b) state the grounds on which the application is made; and
+
+(c) be accompanied by such supporting evidence (whether in documentary form or otherwise) as will enable the sheriff to determine the application.
+
+#### 29 Closure orders
+
+(1) A closure order is an order that the premises specified in the order are closed to all persons for such period not exceeding 3 months as is specified in the order.
+
+(2) A closure order may be made only in respect of all or any part of premises that are the subject of a closure notice.
+
+(3) A closure order may include such provision as the sheriff (or, on appeal, the sheriff principal) making it considers appropriate about access to any part of the building or structure of which the premises specified in the order form part.
+
+#### 30 Application: determination
+
+(1) On an application under section 28, the sheriff may, if satisfied that the conditions mentioned in subsection (2) [[^F27]or (2A)] are met, make a closure order in respect of premises.
+
+(2) [[^F28]Where the application is in a case involving antisocial behaviour, the] conditions are—
+
+(a) that a person has engaged in antisocial behaviour on the premises;
+
+(b) that the use of the premises is associated with the occurrence of relevant harm; and
+
+(c) that the making of the order is necessary to prevent the occurrence of such relevant harm for the period specified in the order.
+
+[[^F29](2A) Where the application is in a case involving an exploitation offence, the conditions are—
+
+(a) that it appears that—
+
+(i) such an offence is being (or was recently) committed in the premises, or
+
+(ii) the premises continue to be (or recently have been) used for or in connection with the commission of such an offence, and
+
+(b) that the making of the order is necessary to prevent the commission of such an offence for the period specified in the order.]
+
+(3) The sheriff shall, in determining whether to make a closure order in respect of premises, have regard to—
+
+(a) the ability of any person who habitually resides in the premises to find alternative accommodation; and
+
+(b) any vulnerability of any person such as is mentioned in paragraph (a) who has not been [[^F30] (as the case may be)—
+
+(i) engaged in antisocial behaviour which has occurred in the premises, or
+
+(ii) involved in the commission of an exploitation offence in or connected with the premises.]
+
+[[^F31](3A) For the purpose of paragraph (b)(ii) of subsection (3), a person such as is mentioned in paragraph (a) of that subsection is not involved in the commission of an exploitation offence where that person is the victim of the offence.]
+
+(4) Subject to subsection (5), the sheriff shall determine an application under section 28 no later than the second court day after the day on which the application is made.
+
+(5) The sheriff may postpone determination of the application for a period of not more than 14 days to enable a person mentioned in subsection (6) to show why a closure order should not be made.
+
+(6) Those persons are—
+
+(a) the occupier of the premises specified in the closure notice upon which the application proceeds;
+
+(b) any person who has control of or responsibility for those premises;
+
+(c) any other person with an interest in those premises.
+
+(7) Where, under subsection (5), the sheriff postpones determination of an application, the sheriff may order that the closure notice upon which the application proceeds shall continue in effect until the determination of the application.
+
+#### 31 Enforcement
+
+(1) Subject to subsection (3), a constable or an authorised person may—
+
+(a) do anything necessary to secure closed premises against entry by any person;
+
+(b) carry out essential maintenance or repairs to closed premises; and
+
+(c) enter the premises for the purposes of paragraph (a) or (b).
+
+(2) A constable or an authorised person acting under subsection (1) may use reasonable force.
+
+(3) An authorised person seeking to enter closed premises under paragraph (c) of subsection (1) for the purpose of paragraph (a) of that subsection shall, if requested to do so by or on behalf of the owner, occupier or other person in charge of the premises, produce evidence of identity and authorisation.
+
+(4) In this section, “authorised person” means a person authorised in writing by the chief constable [[^F32]of the Police Service of Scotland].
+
+#### 32 Extension
+
+(1) The sheriff may, on the application of a senior police officer and if satisfied that it is necessary to do so to prevent the occurrence of relevant harm, make an order extending the period for which a closure order has effect for a period not exceeding the maximum period.
+
+[[^F33](1A) The sheriff may, on the application of a senior police officer and if satisfied that it is necessary to do so to prevent the commission of an exploitation offence, make an order extending the period for which a closure order has effect for a period not exceeding the maximum period.]
+
+(2) In [[^F34]subsections (1) and (1A)], the “maximum period” is the period of 6 months less—
+
+(a) the period specified in the order when it was made; and
+
+(b) if the order has previously been extended, the total period for which it was previously extended.
+
+(3) A senior police officer may [[^F35], in a case involving antisocial behaviour,] make an application under [[^F36]subsection (1)] only if—
+
+(a) it is made while the closure order has effect; and
+
+(b) the senior police officer—
+
+(i) has reasonable grounds for believing that it is necessary to extend the period for which the closure order has effect for the purpose of preventing the occurrence of relevant harm; and
+
+(ii) is satisfied that the appropriate local authority has been consulted about the intention to make the application.
+
+[[^F37](3A) A senior police officer may, in a case involving an exploitation offence, make an application under subsection (1A) only if—
+
+(a) it is made while the closure order has effect, and
+
+(b) the senior police officer—
+
+(i) has reasonable grounds for believing that it is necessary to extend the period for which the closure order has effect for the purpose of preventing the commission of an exploitation offence, and
+
+(ii) is satisfied that the appropriate local authority has been consulted about the intention to make the application.]
+
+#### 33 Revocation
+
+(1) On the application of a person mentioned in subsection (2), the sheriff may if satisfied that a closure order is no longer necessary to prevent [[^F38] (as the case may be)—
+
+(a) the occurrence of relevant harm, or
+
+(b) the commission of an exploitation offence,
+
+revoke the order.]
+
+(2) Those persons are—
+
+(a) a senior police officer;
+
+(b) the appropriate local authority;
+
+(c) a person on whom the closure notice relating to the premises in respect of which the closure order has effect was served under section 27(2)(b) or (3); and
+
+(d) a person who has an interest in those premises but on whom the closure notice was not served.
+
+(3) Where an application under this section is made other than by a senior police officer the sheriff shall order service upon such senior police officer as the sheriff considers appropriate.
+
+#### 34 Access to other premises
+
+(1) The sheriff may, on the application of a person who occupies or owns any part of a building or structure—
+
+(a) in which closed premises are situated; and
+
+(b) in respect of which the closure order does not have effect,
+
+make an order making such provision as the sheriff considers appropriate in relation to access to any part of the building or structure in which the premises in respect of which the closure order has effect are situated.
+
+(2) An application under subsection (1) may be made only while the closure order has effect.
+
+(3) An order under subsection (1) may be made notwithstanding any provision made as mentioned in section 29(3).
+
+#### 35 Reimbursement of expenditure
+
+(1) The sheriff may, on the application of [[^F39]the Scottish Police Authority] or a local authority, make such order as the sheriff considers appropriate for the reimbursement by a relevant person of relevant expenditure.
+
+(2) An application under this section may not be made after the expiry of the period of 3 months beginning with the day on which the closure order ceases to have effect.
+
+(3) An application under this section shall be served—
+
+(a) where the application is made—
+
+(i) by a local authority, on the [[^F40]Scottish Police Authority;]
+
+(ii) by [[^F41]the Scottish Police Authority], on the local authority for the area in which the premises are situated; and
+
+(b) on the relevant person.
+
+(4) In this section—
+
+- “relevant person” means the owner of the premises in respect of which the order has (or had) effect; and
+- “relevant expenditure” means expenditure incurred by the applicant for the purpose of clearing, securing or maintaining the premises in respect of which the closure order has (or had) effect.
+
+#### 36 Appeals
+
+(1) A person who was a party to the proceedings in which the order or decision (as the case may be) was given may appeal against—
+
+(a) a closure order;
+
+(b) an order extending a closure order;
+
+(c) a decision to refuse to make—
+
+(i) a closure order; or
+
+(ii) an order extending a closure order;
+
+(d) a decision to revoke a closure order;
+
+(e) a decision to refuse to revoke a closure order;
+
+(f) an order under section 34(1);
+
+(g) a decision to refuse to make an order under section 34(1);
+
+(h) an order under section 35(1); or
+
+(i) a decision to refuse to make an order under section 35(1).
+
+(2) An appeal under this section shall be made to the sheriff principal and shall be made within the period of 21 days beginning with the day on which the order or decision appealed against was made.
+
+(3) On an appeal under this section, the sheriff principal may make any order the sheriff principal considers appropriate.
+
+(4) The decision of the sheriff principal on an appeal under this section shall be final.
+
+(5) In subsection (1), “order extending a closure order” means an order made under section 32(1) [[^F42]or (1A)].
+
+### General
+
+#### 37 Offences
+
+(1) If without reasonable excuse a person remains on or enters premises—
+
+(a) in contravention of a closure notice; or
+
+(b) in respect of which a closure order has effect,
+
+the person shall be guilty of an offence.
+
+(2) If a person obstructs an authorised person acting in pursuance of section 31(1) the person shall be guilty of an offence.
+
+(3) In subsection (2), “authorised person” has the meaning given by section 31(4).
+
+(4) A person guilty of an offence under subsection (1) or (2) [[^F43]shall be liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding the prescribed sum within the meaning of section 225(8) of the Criminal Procedure (Scotland) Act 1995 (c. 46) or to both.]
+
+(5) [^F44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F45]38 Offences under section 37: arrest without warrant
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 39 Guidance in relation to closure of premises
+
+A person (other than a court) shall, in discharging functions by virtue of this Part, have regard to any guidance given by the Scottish Ministers about—
+
+(a) the discharge of those functions; or
+
+(b) matters arising in connection with the discharge of those functions.
+
+### Interpretation
+
+#### 40 Interpretation of Part 4
+
+In this Part—
+
+- “appropriate local authority” means the local authority for the area in which the premises in respect of which the closure order has effect are situated;
+
+- “closure notice” has the meaning given by section 26(1);
+
+- “closure order” has the meaning given by section 29(1);
+
+- “closed premises” means premises in respect of which a closure order has effect;
+
+- “court day” means a day which is not—
+
+  - (a) a Saturday or Sunday; or
+  - (b) a day which, by virtue of an order made under [[^F46]section 28(1) of the Courts Reform (Scotland) Act 2014 (asp 18)], is a court holiday in respect of criminal business in the sheriff court in question;
+
+- “premises” includes—
+
+  - (a) any land or other place (whether enclosed or not); and
+  - (b) any outbuildings which are or are used as part of the premises; and
+
+- “relevant harm” means—
+
+  - (a) significant and persistent disorder; or
+  - (b) significant, persistent and serious nuisance to members of the public.
+
+#### 40A [[^F47]Exploitation offences
+
+(1) In this Part, an “exploitation offence” is any of the following offences—
+
+(a) so far as concerning travel or identity documentation for enabling the trafficking of people (including passports, visas and work permits)—
+
+(i) fraud, or
+
+(ii) uttering a forged document,
+
+(b) so far as concerning the trafficking of people, an offence under section 26(1)(d) of the Immigration Act 1971 (c.77) (falsification of documentation),
+
+(c) an offence under section 52 or 52A of the Civic Government (Scotland) Act 1982 (c.45) (possession, taking or distribution of indecent images of children),
+
+(d) an offence under sections 7 to 12 or 13(9) of the Criminal Law (Consolidation) (Scotland) Act 1995 (c.39) (offences relating to prostitution and brothels),
+
+[^F48]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) an offence under section 1 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9) (meeting a child following certain preliminary contact),
+
+(g) an offence under sections 9 to 12 of that Act (offences relating to provision by child of sexual services or child pornography),
+
+[^F48]h . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(i) an offence under Part 1 of the Sexual Offences (Scotland) Act 2009 (asp 9) (rape etc.),
+
+(j) an offence under Part 4 of that Act (sexual offences involving children) other than an offence under section 37 (older children engaging in sexual conduct with each other),
+
+(k) an offence under section 42 of that Act (sexual abuse of trust),
+
+(l) an offence under section 46 of that Act (sexual abuse of trust of a mentally disordered person),
+
+[[^F49](m) an offence under section 4 of the Human Trafficking and Exploitation (Scotland) Act 2015 (slavery, servitude and forced or compulsory labour),]
+
+[[^F50](n) an offence of human trafficking (see section 1 of the Human Trafficking and Exploitation (Scotland) Act 2015).]
+
+(2) For the purposes of subsection (1)(a) and (b), a reference to trafficking of people is a reference to a person intentionally doing something in respect of at least one other person which involves the commission of an offence mentioned in subsection (1)(e) or (h).
+
+(3) For the purposes of subsection (1), a reference to an offence includes a reference to—
+
+(a) an attempt to commit an offence,
+
+(b) incitement to commit an offence,
+
+(c) counselling or procuring the commission of an offence,
+
+(d) involvement art and part in an offence, and
+
+(e) an offence as modified by section 54 of the Sexual Offences (Scotland) Act 2009 (asp 9) (incitement to commit certain sexual acts outside the United Kingdom).
+
+(4) The Scottish Ministers may by order add to or otherwise modify the specification of offences listed in subsection (1).]
+
+## Part 5 — Noise nuisance
+
+### Summary procedure for dealing with noise from certain places
+
+#### 41 Application of noise control provisions to local authority areas
+
+(1) Sections 43 to 47 (the “noise control provisions”) apply to the area of a local authority only if the authority has so resolved.
+
+(2) A resolution for the purpose of subsection (1) shall specify—
+
+(a) a date (being a date at least 2 months after the passing of the resolution) on and after which the noise control provisions are to have effect in the area of the authority (the “commencement date”); and
+
+(b) periods of the week during which noise is to be controlled by virtue of those provisions (each such period being a “noise control period”).
+
+(3) For the purpose of subsection (2)(b), a resolution may specify—
+
+(a) the whole week as a noise control period; and
+
+(b) different noise control periods for different—
+
+(i) areas;
+
+(ii) times of year; or
+
+(iii) other circumstances.
+
+(4) For the purpose of subsection (2)(b), a week begins on Monday.
+
+(5) If a local authority resolves to apply the noise control provisions to its area, it shall—
+
+(a) cause a notice to be published (in consecutive weeks with the second notice appearing at least a month before the commencement date) in a local newspaper circulating in its area; and
+
+(b) at least a month before the commencement date—
+
+(i) give a copy of the resolution to the Scottish Ministers; and
+
+(ii) give a copy of the notice mentioned in paragraph (a) to each local authority whose area adjoins its area.
+
+(6) A notice published under subsection (5)(a) shall—
+
+(a) state that the resolution has been passed;
+
+(b) state the commencement date; and
+
+(c) set out—
+
+(i) the general effect of the noise control provisions and sections 48, 49 and 51; and
+
+(ii) the noise control periods specified in the resolution.
+
+(7) Where a local authority is given a notice under subsection (5)(b)(ii), it shall take such steps as it considers necessary for the purpose of making persons in its area aware of the contents of the notice.
+
+#### 42 Revocation or variation of resolution under section 41
+
+(1) A local authority may by resolution—
+
+(a) revoke the resolution made for the purpose of section 41(1);
+
+(b) revoke any noise control period specified in that resolution; or
+
+(c) specify noise control periods—
+
+(i) in addition to; or
+
+(ii) in substitution for,
+
+any such noise control period.
+
+(2) A resolution under subsection (1) shall specify a date (being a date at least 2 months after the passing of the resolution) on which the provision made by the resolution shall come into effect (the “effective date”).
+
+(3) If a local authority passes a resolution under subsection (1), it shall—
+
+(a) cause a notice to be published (in consecutive weeks with the second notice appearing at least a month before the effective date) in a local newspaper circulating in its area; and
+
+(b) at least a month before the effective date—
+
+(i) give a copy of the resolution to the Scottish Ministers; and
+
+(ii) give a copy of the notice mentioned in paragraph (a) to each local authority whose area adjoins its area.
+
+(4) A notice published under subsection (3)(a) shall—
+
+(a) state that the resolution has been passed;
+
+(b) state the effective date; and
+
+(c) set out the provision made by the resolution.
+
+(5) Where a local authority is given a copy of a notice under subsection (3)(b)(ii), it shall take such steps as it considers necessary for the purpose of making persons in its area aware of the contents of the notice.
+
+### Noise control provisions
+
+#### 43 Investigation of excessive noise from certain places
+
+(1) Where a local authority receives a complaint from an individual that excessive noise is being emitted from relevant property during a noise control period, it shall ensure that an officer of the authority investigates the latter matter.
+
+(2) A complaint under subsection (1) may be made by any means.
+
+(3) If in consequence of an investigation under subsection (1) an officer of a local authority is satisfied that—
+
+(a) noise is being emitted from relevant property (the “offending property”) during a noise control period; and
+
+(b) the noise, if it were measured from a relevant place—
+
+(i) would; or
+
+(ii) might,
+
+exceed the permitted level,
+
+the officer may serve a notice about the noise under section 44.
+
+(4) For the purposes of subsection (3), it is for the officer of the authority dealing with the particular case—
+
+(a) to decide whether any noise, if it were measured from a relevant place—
+
+(i) would; or
+
+(ii) might,
+
+exceed the permitted level; and
+
+(b) for the purposes of that decision to decide—
+
+(i) from what place to assess the noise; and
+
+(ii) whether to use any device for measuring the noise.
+
+(5) Where—
+
+(a) a local authority (the “first local authority”) receives a complaint under subsection (1); and
+
+(b) the offending property is within the area of another local authority,
+
+the first local authority may act under the noise control provisions as if the offending property were within its area, and accordingly may so act whether or not the noise control provisions apply to the area of the other local authority.
+
+#### 44 Warning notices
+
+(1) A notice under this section (a “warning notice”) shall—
+
+(a) state that an officer of the authority considers—
+
+(i) that noise is being emitted from the offending property during a noise control period; and
+
+(ii) that the noise exceeds, or may exceed, the permitted level, as measured from a relevant place; and
+
+(b) state that any person who is responsible for noise which—
+
+(i) is emitted from the offending property in the period specified in the notice; and
+
+(ii) exceeds the permitted level as measured from a relevant place,
+
+may be guilty of an offence.
+
+(2) The period specified in a warning notice shall be a period—
+
+(a) beginning not earlier than 10 minutes after the time when the notice is served; and
+
+(b) ending at the relevant time.
+
+(3) In subsection (2)(b), “relevant time” means the earlier of—
+
+(a) the end of the noise control period during which the warning notice is served; and
+
+(b) the point (if any) at which the permitted level at the time the notice is served ceases to be applicable.
+
+(4) Subject to subsection (5), a warning notice shall be served by delivering it to any person present at or near the offending property and appearing to the officer of the authority to be responsible for the noise.
+
+(5) If it is not reasonably practicable to identify any person present at or near the offending property as being a person responsible for the noise on whom the notice may reasonably be served, a warning notice shall be served by leaving it at the offending property.
+
+(6) A warning notice shall state the time at which it is served.
+
+(7) For the purpose of the noise control provisions, a person is responsible for noise emitted from relevant property if the emission of the noise is wholly or partly attributable to the person’s act, failure or sufferance.
+
+#### 45 Offence where noise exceeds permitted level after service of notice
+
+(1) If a warning notice has been served in respect of noise emitted from relevant property, any person who is responsible for noise which—
+
+(a) is emitted from the relevant property in the period specified in the notice; and
+
+(b) exceeds the permitted level as measured from a relevant place,
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) It shall be a defence for a person charged with an offence under subsection (1) to show that there was a reasonable excuse for the act, failure or sufferance by reference to which the person was charged.
+
+(4) A person shall be taken to have shown the matter mentioned in subsection (3) if—
+
+(a) sufficient evidence is adduced to raise an issue with respect to it; and
+
+(b) the prosecution does not prove the contrary beyond reasonable doubt.
+
+(5) In proceedings for an offence under this section, a measurement of noise by a device is not admissible as evidence of a level of noise unless the device is an approved device and any conditions subject to which the approval was given are satisfied.
+
+#### 46 Fixed penalty notices
+
+(1) Subject to subsection (3), where a relevant officer has reason to believe that a person—
+
+(a) is committing; or
+
+(b) has just committed,
+
+an offence under section 45, the officer may give that person a notice (a “fixed penalty notice”) offering the person the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
+
+(2) In subsection (1), “relevant officer” means—
+
+(a) an officer of the local authority authorised for the purposes of this section; or
+
+(b) a constable.
+
+(3) If a fixed penalty notice is given to a person in respect of noise emitted from relevant property in the period specified in a warning notice, no further fixed penalty notice may be given to that person in respect of noise emitted from the relevant property during that period.
+
+(4) Subject to subsection (5), a fixed penalty notice may be given to a person by delivering the notice to the person.
+
+(5) If it is not reasonably practicable to deliver it to the person, a fixed penalty notice shall be given by leaving the notice, addressed to the person, at the offending property.
+
+(6) A fixed penalty notice shall give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information of the offence.
+
+(7) A fixed penalty notice shall state—
+
+(a) the period during which, by virtue of paragraph (a) of section 51(2), proceedings will not be taken for the offence;
+
+(b) the amount of the fixed penalty; and
+
+(c) the person to whom, and the address at which, the fixed penalty may be paid.
+
+(8) Payment of the fixed penalty may (among other methods) be made by pre-paying and posting to that person at that address a letter containing the amount of the penalty (in cash or otherwise).
+
+(9) Where a letter containing the amount of the penalty is sent in accordance with subsection (8), payment is to be regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
+
+(10) The fixed penalty payable under this section is £100.
+
+(11) A fixed penalty payable under this section shall be payable to the local authority whose officer issued the warning notice under reference to which the offence was committed.
+
+#### 47 Powers of entry and seizure of equipment used to make noise unlawfully
+
+(1) Subsection (2) applies where—
+
+(a) a warning notice has been served in respect of noise emitted from relevant property; and
+
+(b) an officer of the local authority in whose area the relevant property is situated has reason to believe that, at any time in the period specified in the notice, noise emitted from the relevant property has exceeded the permitted level as measured from a relevant place.
+
+(2) An officer of the local authority, or a person authorised by the authority for the purpose, may seize and remove any equipment which appears—
+
+(a) to be being; or
+
+(b) to have been,
+
+used in the emission of the noise.
+
+(3) If required to do so, a person exercising the power conferred by subsection (2) shall produce the person’s authority.
+
+(4) If a sheriff or justice of the peace is satisfied by evidence on oath—
+
+(a) that a warning notice has been served in respect of noise emitted from relevant property;
+
+(b) that, at any time in the period specified in the notice, noise emitted from the relevant property has exceeded the permitted level, as measured from a relevant place; and
+
+(c) that—
+
+(i) entry of an officer of the local authority, or of a person authorised by the authority for the purpose, to the relevant property has been refused;
+
+(ii) such a refusal is apprehended; or
+
+(iii) a request by an officer of the authority, or of such a person, for admission would defeat the object of the entry,
+
+the sheriff or justice may grant a warrant under this subsection.
+
+(5) A warrant under subsection (4) is a warrant authorising the local authority, by any of its officers or any person authorised by it for the purpose—
+
+(a) to enter the relevant property for the purpose of seizing and removing any equipment which appears to be being used or to have been used in the emission of the noise; and
+
+(b) for the purpose of exercising the power mentioned in paragraph (a), to open lockfast places on the relevant property.
+
+(6) A person who enters premises by virtue of a warrant granted under subsection (4)—
+
+(a) may be accompanied by such persons, and take such equipment, as may be necessary; and
+
+(b) shall, where the relevant property is unoccupied on the person’s leaving, leave it as effectively secured against trespassers as it was when the person entered it.
+
+(7) A person who wilfully obstructs a person—
+
+(a) exercising the power conferred by subsection (2); or
+
+(b) exercising the power conferred by a warrant granted under subsection (4),
+
+shall be guilty of an offence.
+
+(8) A person guilty of an offence under subsection (7) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(9) Schedule 1 (which makes further provision in relation to anything seized and removed by virtue of this section) shall have effect.
+
+### The permitted level
+
+#### 48 Permitted level of noise
+
+(1) For the purposes of the noise control provisions, the Scottish Ministers may by regulations prescribe the maximum level of noise (the “permitted level”) which may be emitted from relevant property.
+
+(2) The permitted level shall be a level for noise as measured from any relevant place by an approved device used in accordance with any conditions subject to which the approval was given.
+
+(3) Different permitted levels may be prescribed for different—
+
+(a) periods of the week;
+
+(b) areas or descriptions of areas;
+
+(c) times of year; or
+
+(d) other circumstances,
+
+and the permitted level may be prescribed partly by reference to other levels of noise.
+
+### Miscellaneous
+
+#### 49 Approval of measuring devices
+
+(1) For the purposes of the noise control provisions, the Scottish Ministers may by regulations approve any type of device used for the measurement of noise.
+
+(2) An approval under subsection (1) may be given subject to such conditions as to—
+
+(a) the purposes for which; or
+
+(b) the manner and circumstances in which,
+
+devices of the type approved are to be used as may be prescribed in the regulations.
+
+#### 50 Power to provide funds to local authorities
+
+(1) The Scottish Ministers may make to a local authority payments in respect of—
+
+(a) the whole; or
+
+(b) any part,
+
+of the expenditure of the authority in relation to the discharge of the functions under this Part of the authority and its officers.
+
+(2) Payments under this section shall be made at such times, in such manner and subject to such conditions as the Scottish Ministers may determine.
+
+#### 51 Fixed penalty notices: supplementary
+
+(1) If a form for a fixed penalty notice is specified in an order made by the Scottish Ministers, a fixed penalty notice shall be given in that form.
+
+(2) Where a person is given a fixed penalty notice—
+
+(a) proceedings for the offence in respect of which the notice was given shall not be instituted before the end of the period of 28 days beginning with the date of the notice;
+
+(b) the person cannot be convicted of that offence if the person pays the fixed penalty before the end of that period; and
+
+(c) the person may be convicted of a further offence under section 45 in respect of noise emitted from the relevant property—
+
+(i) after the notice is given; and
+
+(ii) before the end of the period specified in the warning notice.
+
+(3) In proceedings for an offence under section 45, evidence that payment of a fixed penalty was or was not made before the end of any period may be given by the production of a certificate which—
+
+(a) purports to be signed by or on behalf of the person having responsibility for the financial affairs of the local authority; and
+
+(b) states that payment of a fixed penalty was made on any date or, as the case may be, was not received before the end of that period.
+
+(4) Subject to subsection (5), the Scottish Ministers may by order amend section 46(10) by substituting an amount specified in the order for the amount that is for the time being mentioned in that section.
+
+(5) The Scottish Ministers may not specify an amount exceeding level 2 on the standard scale.
+
+(6) Any sum received by a local authority under section 46 shall [[^F51]accrue to that authority].
+
+#### 52 Guidance in relation to this Part
+
+A person (other than a court) shall, in discharging functions by virtue of this Part, have regard to any guidance given by the Scottish Ministers about—
+
+(a) the discharge of those functions; and
+
+(b) matters arising in connection with the discharge of those functions.
+
+### Interpretation
+
+#### 53 Meaning of “relevant place” and “relevant property”
+
+(1) In this Part—
+
+- “relevant place” means—
+
+  - (a) any place within accommodation (except, in the case of measurement of noise emitted from relevant property which is accommodation, that accommodation); and
+  - (b) such other place as may be prescribed;
+
+- “relevant property” means—
+
+  - (a) any accommodation;
+  
+  - (b) any land belonging exclusively to, or enjoyed exclusively with, any accommodation;
+  
+  - (c) any land not falling within paragraph (b)—
+  
+    - (i) to which at least two persons have rights in common; and
+    - (ii) which is used by those persons as a private garden;
+  
+  - (d) any common passage, close, court, stair, lift or yard pertinent to any tenement or group of separately owned houses; or
+  
+  - (e) such other place as may be prescribed.
+
+(2) In subsection (1)—
+
+- “accommodation” means a building or other structure (or part of a building or other structure) used or intended to be used as a separate unit of accommodation (whether on a permanent basis or otherwise); and
+- “prescribed” means prescribed by the Scottish Ministers by order.
+
+#### 54 Interpretation of Part 5
+
+(1) In this Part—
+
+- “fixed penalty notice” has the meaning given by section 46(1);
+- “noise control period” has the meaning given by section 41(2)(b);
+- “noise control provisions” has the meaning given by section 41(1);
+- “offending property” has the meaning given by section 43(3)(a);
+- “permitted level” has the meaning given by section 48(1); and
+- “warning notice” has the meaning given by section 44(1).
+
+(2) References in this Part to approved devices are references to devices of a type approved by virtue of section 49(1).
+
+## Part 6 — The environment
+
+### Controlled waste and litter
+
+#### 55 Contraventions of section 33(1)(a) and (c) of 1990 Act: fixed penalty notices
+
+After section 33 of the Environmental Protection Act 1990 (c. 43) (“the 1990 Act”) there shall be inserted—
+
+> **33A Fixed penalty notices for contraventions of section 33(1)(a) and (c): Scotland**
+>
+> (1) Where—
+>
+> (a) an authorised officer of a local authority has reason to believe that a person has committed a relevant offence in the area of that authority; or
+>
+> (b) a constable, or an authorised officer of a waste regulation authority, has reason to believe that a person has committed a relevant offence,
+>
+> he may give that person a notice under this section in respect of the offence.
+>
+> (2) In subsection (1) above, “relevant offence” means an offence under section 33 above in respect of a contravention of subsection (1)(a) or (c) of that section.
+>
+> (3) A notice under this section is a notice offering the opportunity, by paying a fixed penalty, of discharging any liability to conviction for the offence to which it relates.
+>
+> (4) Where—
+>
+> (a) a constable; or
+>
+> (b) an authorised officer of a waste regulation authority,
+>
+> gives a notice under this section to a person, he shall, no later than 24 hours after the giving of the notice, send a copy of it to the local authority in whose area the offence was committed.
+>
+> (5) Where a person is given a notice under this section in respect of an offence—
+>
+> (a) no proceedings shall be instituted for that offence before the expiration of fourteen days following the date of the notice; and
+>
+> (b) he shall not be convicted of that offence if he pays the fixed penalty before the expiration of that period.
+>
+> (6) A notice under this section shall give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information about the offence and shall state—
+>
+> (a) the period during which, by virtue of subsection (5)(a) above, proceedings will not be taken for the offence;
+>
+> (b) the amount of the fixed penalty; and
+>
+> (c) the person to whom and the address at which the fixed penalty may be paid;
+>
+> and without prejudice to payment by any other method, payment of the fixed penalty may be made by pre-paying and posting to that person at that address a letter containing the amount of the penalty (in cash or otherwise).
+>
+> (7) Where a letter is sent in accordance with subsection (6) above payment shall be regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
+>
+> (8) The form of notices under this section shall be such as the Scottish Ministers may by order prescribe.
+>
+> (9) The fixed penalty payable in pursuance of a notice under this section shall, subject to subsection (10) below, be £50.
+>
+> (10) The Scottish Ministers may by order substitute a different amount (not exceeding level 2 on the standard scale) for the amount for the time being specified as the amount of the fixed penalty in subsection (9) above.
+>
+> (11) In any proceedings a certificate which—
+>
+> (a) purports to be signed by or on behalf of the proper officer for the local authority in whose area the offence was committed; and
+>
+> (b) states that the payment of a fixed penalty was or was not received by a date specified in the certificate,
+>
+> shall be evidence of the facts stated.
+>
+> (12) A fixed penalty payable in pursuance of a notice under this section shall be payable to the local authority in whose area the offence was committed; and as respects the sums received by a local authority, those sums shall be treated as if the penalty were a fine imposed by a district court.
+>
+> (13) In this section—
+>
+> - “authorised officer” means an officer of the authority in question who is authorised in writing by the authority for the purpose of issuing notices under this section;
+> - “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39); and “area”, in relation to a local authority, means the local government area (within the meaning of that Act) for which the council is constituted;
+> - “proper officer” means the officer who has, as respects the authority, the responsibility mentioned in section 95 of the Local Government (Scotland) Act 1973 (c. 65) (financial administration).
+
+.
+
+#### 56 Litter: power of constables to issue fixed penalty notices
+
+(1) Section 88 of the 1990 Act (fixed penalty notices for litter) shall be amended as follows.
+
+(2) In subsection (1)—
+
+(a) the words “on any occasion” and “finds a person who he” shall be repealed;
+
+(b) for “has on that occasion” there shall be substituted “ that a person has ”;
+
+(c) the words from “an”, where it first occurs, to “authority”, where it secondly occurs, shall become paragraph (a) of that subsection; and
+
+(d) after “authority”, where it secondly occurs, there shall be inserted
+
+> ; or
+>
+> (b) a constable has reason to believe that a person has committed an offence under that section,
+
+.
+
+(3) After subsection (1) there shall be inserted—
+
+> (1A) Where a constable gives a notice under this section to a person, he shall, no later than 24 hours after the giving of the notice, send a copy of it to the litter authority in whose area the offence was committed.
+
+.
+
+(4) After subsection (5) there shall be inserted—
+
+> (5A) A fixed penalty payable in pursuance of a notice under this section shall be payable to the litter authority in whose area the offence was committed.
+
+.
+
+(5) In subsection (6)—
+
+(a) the words “to a litter authority” are repealed; and
+
+(b) for “the”, where it thirdly occurs, there shall be substituted “ a litter ”.
+
+(6) In subsection (7), after “amount”, where it first occurs, there shall be inserted “ (not exceeding level 2 on the standard scale) ”.
+
+(7) In subsection (8)(a)(ii), after “officer” there shall be inserted “ for the litter authority in whose area the offence was committed ”.
+
+#### 57 Directions in respect of duty under section 89 of 1990 Act
+
+(1) Sections 89, 91 and 92 of the 1990 Act shall be amended as follows.
+
+(2) In section 89 (duties to keep land etc. free of litter), after subsection (6) there shall be inserted—
+
+> (6A) The Scottish Ministers may give to any person subject to a duty imposed by subsection (1) or (2) above such directions as they consider necessary or expedient for securing compliance by such person with such duty.
+>
+> (6B) A person to whom a direction is given under subsection (6A) shall comply with the direction.
+>
+> (6C) A direction under subsection (6A) may—
+>
+> (a) be given generally or to a specific person;
+>
+> (b) make different provision for different persons and different cases or circumstances;
+>
+> (c) include provision specifying, in relation to any factor by reference to which a person’s discharging of any such duty can be measured, standards to be met by the person.
+>
+> (6D) The Scottish Ministers shall—
+>
+> (a) cause—
+>
+> (i) any direction under subsection (6A) above; and
+>
+> (ii) any variation or revocation of such a direction,
+>
+> to be published; and
+>
+> (b) cause copies of each such direction, variation or revocation to be made available to the public.
+
+.
+
+(3) In section 91 (litter abatement orders: applications by aggrieved persons), in subsection (11)—
+
+(a) after “A”, where it first occurs, there shall be inserted—
+
+> (a) direction under section 89(6A); or
+
+;
+
+(b) the words “code of practice under section 89(7)” shall become paragraph (b); and
+
+(c) after “a”, where it secondly occurs, there shall be inserted “ direction or ”.
+
+(4) In section 92 (litter abatement notices: litter authorities), in subsection (8)—
+
+(a) after “A”, where it first occurs, there shall be inserted—
+
+> (a) direction under section 89(6A); or
+
+;
+
+(b) the words “code of practice under section 89(7)” shall become paragraph (b); and
+
+(c) after “a”, where it secondly occurs, there shall be inserted “ direction or ”.
+
+### Graffiti
+
+#### 58 Power of local authority to serve notice about graffiti
+
+(1) Where it appears to a local authority that—
+
+(a) a relevant surface in its area has been defaced by graffiti; and
+
+(b) the defacement is—
+
+(i) detrimental to the amenity of the locality; or
+
+(ii) offensive,
+
+the authority may serve a graffiti removal notice on any responsible person.
+
+(2) A graffiti removal notice is a notice requiring the person on whom it is served to remove, clear or otherwise remedy the defacement described in the notice before the expiry of such period as may be specified in the notice (being a period of not less than 28 days beginning with the day on which the notice is served).
+
+(3) A relevant surface is—
+
+(a) any surface of—
+
+(i) a public road; or
+
+(ii) any building, structure, apparatus, plant or other object on such a road; or
+
+(b) where subsection (4) or (5) applies, any surface of—
+
+(i) land owned, occupied or controlled by a relevant body; or
+
+(ii) any building, structure, apparatus, plant or other object on such land.
+
+(4) This subsection applies where the land is public land.
+
+(5) This subsection applies where—
+
+(a) the surface is visible from public land; or
+
+(b) the surface is not visible from public land but is visible to members of the public from land owned, occupied or controlled by—
+
+(i) the relevant body which owns, occupies or controls the land; or
+
+(ii) any other relevant body,
+
+which they are on for the purpose of using that body’s services or facilities.
+
+(6) For the purposes of this section, a road or land is public if the public are entitled or permitted to have access to it (with or without payment).
+
+(7) A local authority may at any time withdraw a graffiti removal notice issued by it.
+
+(8) The withdrawal, under subsection (7), of a graffiti removal notice (the “withdrawn notice”) shall not affect the power of the local authority to issue a further graffiti removal notice in respect of the defacement described in the withdrawn notice.
+
+(9) In this section—
+
+- “educational institution” has the meaning given by section 98(3) of the 1990 Act and includes the governing body of such an institution;
+
+- “graffiti” includes painting, writing, soiling, marking or otherwise defacing by whatever means;
+
+- “relevant body” means—
+
+  - (a) an educational institution; or
+  - (b) a statutory undertaker;
+
+- “responsible person” means, in relation to a surface, a person who owns, leases, occupies, controls, operates or maintains the thing of which it is a surface;
+
+- “road” has the meaning given by section 151(1) of the Roads (Scotland) Act 1984 (c. 54);
+
+- “statutory undertaker” has the meaning given by section 98(6) of the 1990 Act; and
+
+- “surface” includes a surface—
+
+  - (a) on the inside of a thing; or
+  - (b) not exposed to the weather.
+
+#### 59 Power to modify meaning of “relevant surface”
+
+(1) The Scottish Ministers may by order modify—
+
+(a) paragraph (a) or (b) of subsection (3); or
+
+(b) subsection (4), (5) or (6),
+
+of section 58.
+
+(2) An order under subsection (1) may make such modifications of subsection (9) of that section as the Scottish Ministers consider appropriate in consequence of any modification made by virtue of subsection (1).
+
+#### 60 Graffiti removal notice: content and service
+
+(1) A graffiti removal notice shall explain the effects of sections 61, 63 and 64.
+
+(2) Subject to subsection (3), subsections (2) to (5) of section 160 of the 1990 Act shall apply in relation to the service of a graffiti removal notice as they apply to any notice required or authorised to be served under that Act.
+
+(3) Where, after reasonable enquiry, a local authority is unable to ascertain the name or proper address of any person upon whom a graffiti removal notice may be served, it may—
+
+(a) affix the notice to the surface to which it relates; and
+
+(b) in so far as is reasonably necessary for that purpose, enter any land.
+
+(4) In subsection (3), “proper address” shall be read in accordance with section 160(4) and (5) of the 1990 Act.
+
+(5) Where a graffiti removal notice is affixed in accordance with subsection (3), it shall be treated as having been served on a person on whom it may be served.
+
+#### 61 Non-compliance with graffiti removal notice
+
+(1) Subsection (2) applies where a person on whom a graffiti removal notice is served (the “responsible person”) does not comply with it.
+
+(2) The local authority that served the notice or a person authorised by it may—
+
+(a) remove, clear or otherwise remedy the defacement; and
+
+(b) in so far as is reasonably necessary for that purpose, enter any land.
+
+(3) Where subsection (4) applies, a local authority may recover from the responsible person expenditure reasonably incurred by virtue of subsection (2).
+
+(4) This subsection applies where the local authority has served on the responsible person a notice setting out—
+
+(a) the amount of; and
+
+(b) details of,
+
+the expenditure which it proposes to recover.
+
+(5) Subsections (2) to (5) of section 160 of the 1990 Act shall apply in relation to the service of a notice mentioned in subsection (4) as they apply to notices required or authorised to be served under that Act.
+
+#### 62 Guidance to local authorities about graffiti removal functions
+
+A local authority shall, in discharging its functions under sections 58, 60 and 61, have regard to any guidance about those sections given by the Scottish Ministers.
+
+#### 63 Appeal against graffiti removal notice
+
+(1) On the application of a person on whom a graffiti removal notice is served, the sheriff may—
+
+(a) if satisfied that—
+
+(i) the surface to which the notice relates was not, at the time the notice was served, defaced as described in it;
+
+(ii) the defacement described in the notice is neither detrimental to the amenity of the locality nor offensive; or
+
+(iii) the applicant was not, at the time the notice was served, a responsible person as respects the surface to which the notice relates,
+
+make an order revoking the notice; or
+
+(b) if satisfied that there is a material defect in, or in connection with, the notice, make an order revoking or (if appropriate) amending the notice.
+
+(2) In subsection (1)(a)(iii), “responsible person” has the same meaning as in section 58.
+
+(3) Where a sheriff—
+
+(a) makes an order under paragraph (b) of subsection (1) amending a graffiti removal notice; or
+
+(b) makes an order refusing an application such as is mentioned in that subsection,
+
+the sheriff may extend (for such period as may be specified in the order) the period specified in the notice.
+
+(4) An application such as is mentioned in subsection (1) shall be made before the expiry of the period of 21 days beginning with the day on which the graffiti removal notice to which it relates was served.
+
+(5) Where an application such as is mentioned in subsection (1) is made, the graffiti removal notice to which it relates shall be of no effect pending the—
+
+(a) determination; or
+
+(b) withdrawal,
+
+of the application.
+
+#### 64 Appeal against notice under section 61(4)
+
+(1) On the application of a person on whom a notice under section 61(4) is served, the sheriff may, if satisfied that the expenditure which the authority is proposing to recover is excessive, make an order substituting for that amount a lower one.
+
+(2) An application such as is mentioned in subsection (1) shall be made within the period of 21 days beginning with the day on which the notice to which it relates was served.
+
+#### 65 Graffiti removal notice: exemptions from liability
+
+(1) Subject to subsection (3), a relevant person shall have no liability whatsoever (whether at common law or otherwise) to any responsible person in respect of anything done or omitted to be done in the exercise or purported exercise of the power conferred by section 60(3) or 61(2).
+
+(2) In subsection (1), “relevant person” means—
+
+(a) in the case of the power conferred by section 60(3)—
+
+(i) the local authority; and
+
+(ii) any employee of the authority;
+
+(b) in the case of the power conferred by section 61(2)—
+
+(i) the local authority;
+
+(ii) any employee of the authority;
+
+(iii) any person authorised by the authority under that section; and
+
+(iv) any employer or employee of a person so authorised.
+
+(3) Subsection (1) does not apply—
+
+(a) if the act or omission is shown to have been in bad faith; or
+
+(b) in respect of a liability arising out of a failure to exercise due care and attention.
+
+(4) In this section, “responsible person” has the same meaning as in section 58.
+
+(5) This section is without prejudice to any other exemption from liability (whether at common law or otherwise).
+
+### Penalties for environmental offences
+
+#### 66 Increase in penalties for certain environmental offences
+
+Schedule 2 (which contains amendments relating to penalties for certain environmental offences) shall have effect.
+
+### Interpretation
+
+#### 67 Interpretation of Part 6
+
+In this Part, “the 1990 Act” means the Environmental Protection Act 1990 (c. 43).
+
+## Part 7 — Housing: antisocial behaviour notices
+
+### Antisocial behaviour notices
+
+#### 68 Antisocial behaviour notices
+
+(1) Where it appears to a local authority that either person mentioned in subsection (2) is engaging in antisocial behaviour at, or in the locality of, a relevant house situated within the authority’s area, the authority may serve an antisocial behaviour notice on the landlord of the relevant house.
+
+[[^F52](1A) A local authority may also serve an antisocial behaviour notice on the landlord of a relevant house situated within the authority’s area and used for holiday purposes where—
+
+(a) the house has been used for those purposes on at least two occasions;
+
+(b) during at least two of those occasions a person mentioned in subsection (2) has engaged in antisocial behaviour at, or in the locality of, that house; and
+
+(c) the authority anticipates further use for those purposes that will result in antisocial behaviour by such a person.]
+
+(2) Those persons are—
+
+(a) any person who, by virtue of a tenancy or an occupancy arrangement, occupies the relevant house mentioned in subsection (1) [[^F53]or, as the case may be, (1A)]; and
+
+(b) any visitor for the time being in that house.
+
+(3) An antisocial behaviour notice is a notice—
+
+[[^F54](za) stating whether it is served under subsection (1) or subsection (1A);]
+
+(a) [[^F55]where the notice is served under subsection (1),] describing the antisocial behaviour that has been engaged in at, or in the locality of, the relevant house to which the notice relates by either of the persons mentioned in subsection (2);
+
+[[^F56](aa) where the notice is served under subsection (1A), describing the antisocial behaviour that has been engaged in at, or in the locality of, the relevant house to which the notice relates;]
+
+(b) [[^F57]where the notice is served under subsection (1),] requiring the landlord of the relevant house to take, before the expiry of such period as may be specified in the notice, such action for the purpose of dealing with the antisocial behaviour as may be so specified;
+
+[[^F58](ba) where the notice is served under subsection (1A), requiring the landlord of the relevant house to take, before the expiry of such period as may be specified in the notice, such action for the purpose of dealing with future antisocial behaviour as may be so specified;]
+
+(c) stating the consequences of failure to take, within that period, the action so specified; and
+
+(d) informing the landlord of the right to request a review under section 69(1).
+
+(4) If the local authority is aware of the name and address of a person who acts for the landlord as respects the tenancy or occupancy arrangement relating to the relevant house, the authority shall, in addition to serving a notice on the landlord under subsection (1), give a copy of the notice to the person.
+
+(5) If—
+
+(a) the local authority is unable to identify the landlord, it may serve the notice under subsection (1) [[^F59]or (1A)] by publishing it in two or more newspapers (of which one shall, if practicable, be a local newspaper) circulating in the locality of the relevant house;
+
+(b) the local authority is aware of the landlord’s identity but is unable to ascertain the landlord’s current address, it may serve the notice under that subsection by serving it on the landlord—
+
+(i) at the relevant house; and
+
+(ii) if it is aware of a previous address of the landlord, at that address.
+
+(6) For the purpose of applying this Part in relation to relevant houses which are used for holiday purposes, the Scottish Ministers may by order make such modifications of the Part as they consider necessary or expedient.
+
+#### 69 Review of antisocial behaviour notices
+
+(1) If a landlord on whom an antisocial behaviour notice is served under section 68(1) [[^F60]or (1A)] requests the local authority that served the notice to review the notice, the local authority shall review the notice.
+
+(2) A request under subsection (1) shall be made before the expiry of the period of 21 days beginning with the day on which the notice is served or such longer period as the authority may allow.
+
+(3) There is no duty to carry out a review of a decision reached on review.
+
+#### 70 Internal procedure on review
+
+(1) A review of an antisocial behaviour notice under section 69(1) shall be carried out by a person (a “reviewer”) who had no involvement in the decision to issue the notice and who is senior to the person who was responsible for the processes culminating in that decision.
+
+(2) The reviewer may—
+
+(a) confirm the notice;
+
+(b) vary any part of it;
+
+(c) suspend the notice for such period as may be specified pending completion of the review; or
+
+(d) revoke the notice.
+
+(3) The local authority shall notify the person who requested the review of the decision reached on review and the reasons for reaching that decision.
+
+### Failure to comply with notice: sanctions
+
+#### 71 Failure to comply with notice: order as to rental income
+
+(1) If, on the application of the local authority that served an antisocial behaviour notice on a landlord under section 68(1) [[^F61]or (1A)], the sheriff is satisfied as to the matters mentioned in subsection (2), the sheriff may—
+
+(a) make an order that, with effect from the making of the order—
+
+(i) no rent be payable by any person who occupies the relevant house; and
+
+(ii) no other consideration be payable or exigible for occupation of the relevant house; and
+
+(b) make such incidental order as the sheriff considers necessary.
+
+(2) Those matters are—
+
+(a) that the landlord has not taken the action specified in the antisocial behaviour notice within the time so specified; and
+
+(b) that, having regard to all the circumstances relating to the relevant house, it would be reasonable for the landlord to take that action.
+
+(3) Where an order is made under subsection (1), the local authority shall give a copy of the order to the persons mentioned in subsection (4).
+
+(4) Those persons are—
+
+(a) if the local authority is aware of the name and address of a person who by virtue of a tenancy or an occupancy arrangement occupies the house to which the order relates, that person; and
+
+(b) if the local authority is aware of the name and address of a person who acts for the landlord as respects the tenancy or occupancy arrangement relating to the relevant house, that person.
+
+(5) Except as provided in an order under subsection (1), nothing in this Part affects the validity of any lease or occupancy arrangement by virtue of which a person has the use of a relevant house during the period when the order is in force.
+
+#### 72 Appeals against orders under section 71
+
+(1) An appeal against the decision of a sheriff making or refusing to make an order under section 71(1) shall be made to the sheriff principal and shall be made within the period of 21 days beginning with the day on which the decision appealed against was made.
+
+(2) Subsection (3) applies where a person appeals against the decision of a sheriff making an order under section 71(1)(a).
+
+(3) The person shall (in addition to complying with any other requirements as to notification imposed by virtue of any enactment) give notice to the person who has the use of the house to which the order relates (the “tenant”) of such matters as may be prescribed by the Scottish Ministers by regulations.
+
+(4) Regulations under subsection (3) may include provision for or in connection with—
+
+(a) the form of the notice;
+
+(b) the manner and timing of service of the notice.
+
+(5) If a person fails to comply with subsection (3), the sheriff principal shall not require the tenant to pay any sums that, but for the making of the order, would have been due by the tenant.
+
+(6) The Scottish Ministers may by regulations make provision for or in connection with specifying other circumstances in which the [[^F62]Sheriff Appeal Court] shall not require a tenant to pay any sums that, but for the making of the order, would have been due by the tenant.
+
+(7) Regulations under subsection (6) may in particular include provision—
+
+(a) specifying procedures;
+
+(b) imposing obligations on landlords.
+
+(8) The decision of the sheriff principal on an appeal under this section shall be final.
+
+#### 73 Orders under section 71: revocation and suspension
+
+(1) This section applies where an order is made under section 71.
+
+(2) On the application of the local authority specified in the order or the landlord of the relevant house which is subject to the order, the sheriff may, if satisfied that—
+
+(a) the landlord has taken the action specified in the antisocial behaviour notice; or
+
+(b) having regard to all the circumstances relating to the relevant house, it would be unreasonable for the order to continue to have effect,
+
+revoke or, for such period as may be specified, suspend the order.
+
+(3) The revocation or suspension of an order under subsection (2) shall not operate so as to make a person liable to pay any rent or other consideration in respect of the period during which the order was in force.
+
+(4) Where an order is revoked or suspended under subsection (2), the local authority shall give a copy of the order revoking or, as the case may be, suspending the order to the persons mentioned in section 71(4).
+
+#### 74 Failure to comply with notice: management control order
+
+(1) If, on the application of the local authority that served an antisocial behaviour notice on a landlord under section 68(1) [[^F63]or (1A)], the sheriff is satisfied as to the matters mentioned in subsection (2), the sheriff may make a management control order in respect of the house to which the notice relates.
+
+(2) Those matters are—
+
+(a) that the landlord has not taken the action specified in the antisocial behaviour notice within the time so specified;
+
+(b) that, having regard to all the circumstances relating to the relevant house, it would be reasonable for the landlord to take that action; and
+
+(c) that, to enable the antisocial behaviour described in the notice to be dealt with, it is necessary to make the order.
+
+(3) A management control order is an order which—
+
+(a) transfers, for such period not exceeding 12 months as may be specified in the order, to the local authority which made the application the rights and obligations of the landlord under the tenancy or occupancy arrangement under which the house is occupied;
+
+(b) if during that period a tenancy is granted or an occupancy arrangement made for the occupation of the house, transfers for that period to the local authority the rights and obligations of the landlord under that tenancy or arrangement;
+
+(c) makes for that period such incidental provision as the sheriff considers necessary.
+
+(4) Where the local authority on whose application a management control order is made is satisfied that—
+
+(a) sums in respect of rent or other consideration for occupation have been paid to the landlord under the tenancy or occupancy arrangement under which the house is occupied; and
+
+(b) those sums have been paid in respect of a period during which the order is in force,
+
+the authority may recover those sums from the landlord.
+
+(5) Schedule 3 (which makes further provision in relation to management control orders) shall have effect.
+
+#### 75 Management control order: notification
+
+(1) Subsection (2) applies where a management control order is made under section 74.
+
+(2) As soon as practicable after the order is made, the local authority on whose application the order was made shall—
+
+(a) inform—
+
+(i) the person who, immediately before the order was made, was the landlord of the house to which the order relates; and
+
+(ii) if the authority is aware of the name and address of a person occupying the house by virtue of a tenancy or occupancy arrangement, that person,
+
+of the making of the order; and
+
+(b) if the authority is aware of the name and address of a person who acts for the person mentioned in paragraph (a)(i) as respects a tenancy or occupancy arrangement in respect of the house, give a copy of the order to that person.
+
+(3) If it is impracticable for the local authority to comply with the requirement in subsection (2)(a)(i), the authority need not do so.
+
+#### 76 Management control order: revocation
+
+(1) On the application of—
+
+(a) the local authority specified in a management control order (“the local authority”); or
+
+(b) the person who, immediately before the order was made, was the landlord of the relevant house to which the order relates (“the landlord”),
+
+the sheriff may, if satisfied that subsection (2) or (3) applies, revoke the management control order.
+
+(2) This subsection applies if—
+
+(a) the local authority; or
+
+(b) the landlord,
+
+has taken the action specified in the antisocial behaviour notice.
+
+(3) This subsection applies if, having regard to all the circumstances relating to the relevant house, it would be unreasonable for the order to continue to have effect.
+
+#### 77 Management control order: notification of revocation
+
+(1) Subsection (2) applies where a management control order is revoked under section 76(1) on the application of the local authority specified in the order.
+
+(2) As soon as practicable after the order is revoked, the local authority shall—
+
+(a) inform—
+
+(i) the person who, immediately before the management control order was made, was the landlord of the house to which the order related; and
+
+(ii) if the authority is aware of the name and address of a person occupying the house by virtue of a tenancy or occupancy arrangement, that person,
+
+of the revocation of the order; and
+
+(b) if the authority is aware of the name and address of a person who acts for the person mentioned in paragraph (a)(i) as respects a tenancy or occupancy arrangement in respect of the house, give a copy of the order to that person.
+
+(3) If it is impracticable for the local authority to comply with the requirement in subsection (2)(a)(i), the authority need not do so.
+
+(4) Subsection (5) applies where a management control order is revoked under section 76(1) on the application of the person who, immediately before the order was made, was the landlord of the house to which the order related.
+
+(5) As soon as practicable after the order is revoked, the person shall—
+
+(a) inform the local authority specified in the order; and
+
+(b) any person occupying the house by virtue of a tenancy or occupancy arrangement,
+
+of the revocation of the order.
+
+#### 78 Failure to comply with notice: action by authority at landlord’s expense
+
+(1) Subsections (2) and (3) apply where—
+
+(a) a local authority serves an antisocial behaviour notice on a landlord under section 68(1) [[^F64]or (1A)] ;
+
+(b) the landlord fails to take the action specified in the notice within the time so specified; and
+
+(c) in consequence of that failure, it appears to the authority that it is necessary for it to take steps to deal with the antisocial behaviour described in the notice [[^F65]under section 68(1) or, as the case may be, future antisocial behaviour in respect of which action was specified in a notice under section 68(1A)].
+
+(2) The local authority may take such steps as it considers necessary to deal with the antisocial behaviour described in the notice [[^F66]under section 68(1) or, as the case may be, future antisocial behaviour in respect of which action was specified in a notice under section 68(1A)].
+
+(3) In such circumstances as the Scottish Ministers may by regulations prescribe, the landlord shall be liable for expenditure—
+
+(a) incurred, by virtue of subsection (2), by the local authority; and
+
+(b) of such description as may be so prescribed.
+
+(4) Regulations under subsection (3) may include provision for or in connection with—
+
+(a) imposing requirements on local authorities and landlords as respects arrangements for the notification and collection of expenditure of a description prescribed in the regulations;
+
+(b) specifying arrangements for the settling of disputes arising by virtue of subsection (3).
+
+#### 79 Failure to comply with notice: offence
+
+(1) Where—
+
+(a) a local authority serves an antisocial behaviour notice on a landlord under section 68(1) [[^F67]or (1A)]; and
+
+(b) the landlord fails to take the action specified in the notice within the time so specified,
+
+the landlord shall be guilty of an offence.
+
+(2) A landlord guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) It shall be a defence for a landlord charged with an offence under subsection (1) to show that there was a reasonable excuse for the failure in question.
+
+### Regulations
+
+#### 80 Regulations about advice and assistance: Part 7
+
+For the purposes of this Part, the Scottish Ministers may by regulations make provision requiring local authorities to provide advice and assistance of such description as may be specified in the regulations to persons of such description as may be so specified.
+
+### Interpretation
+
+#### 81 Interpretation of Part 7
+
+(1) In this Part—
+
+- “landlord”, in relation to an occupancy arrangement, means the person who under the arrangement permits another to occupy the building or, as the case may be, the part of the building;
+
+- “occupancy arrangement” means any arrangement under which a person having the lawful right to occupy a building or part of a building permits another, by way of contract or otherwise, to occupy the building or, as the case may be, the part of it; but does not include a lease;
+
+- “relevant house” means, subject to subsection (2), any building or part of a building which—
+
+  - (a) is occupied as a dwelling under—
+  
+    - (i) a tenancy; or
+    - (ii) an occupancy arrangement; and
+  
+  - (b) does not fall within subsection (3).
+
+(2) If—
+
+(a) the same person is the landlord in relation to two or more relevant houses; and
+
+(b) those relevant houses share the same toilet, washing or cooking facilities,
+
+then those relevant houses shall be deemed to be a single relevant house.
+
+(3) A building or part of a building falls within this subsection if—
+
+(a) it is owned by—
+
+(i) a local authority;
+
+(ii) a registered social landlord; or
+
+(iii) Scottish Homes;
+
+(b) it is used for the provision of—
+
+(i) a care home service (as defined in [[^F68]paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010] (asp 8));
+
+(ii) a school care accommodation service (as defined in [[^F69]paragraph 3 of that schedule]);
+
+[^F70]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iv) a secure accommodation service (as defined in [[^F71]paragraph 6 of that schedule]);
+
+[[^F72](v) an independent hospital (as defined in subsection (2) of section 10F of the Public Services Reform (Scotland) Act 2010 (asp 8));
+
+(vi) a private psychiatric hospital (as defined in that section);
+
+(vii) an independent clinic (as defined in that section); or
+
+(viii) an independent medical agency (as defined in that section);]
+
+(c) the house is used by a religious order the principal occupation of which is prayer, contemplation, education or the relief of suffering; or
+
+(d) a control order under section 178 of the Housing (Scotland) Act 1987 (c. 26) is in force in respect of the house.
+
+(4) For the purposes of this Part, a person engages in antisocial behaviour if the person—
+
+(a) acts in a manner that causes or is likely to cause alarm, distress, nuisance or annoyance; or
+
+(b) pursues a course of conduct that causes or is likely to cause alarm, distress, nuisance or annoyance,
+
+to a person residing in, visiting or otherwise engaging in lawful activity at, or in the locality of, a relevant house.
+
+## Part 8 — Housing: registration of certain landlords
+
+### Registration
+
+#### 82 Registers
+
+(1) Each local authority shall prepare and maintain a register for the purposes of this Part.
+
+(2) [^F73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 83 Application for registration
+
+(1) An application by a relevant person to a local authority for entry in the register maintained by it under section 82(1) shall specify—
+
+(a) the name and address of the relevant person;
+
+(b) the address of each house (if any) within the area of the authority which the relevant person owns and which is subject to—
+
+(i) a lease; or
+
+(ii) an occupancy arrangement,
+
+by virtue of which an unconnected person may use the house as a dwelling;
+
+(c) if the relevant person has a person who acts for the person in relation to the lease or occupancy arrangement to which any house specified under paragraph (b) is subject, the name and address of the person; [^F74]. . .
+
+[[^F75](ca) the address to which correspondence with the relevant person should be directed; and]
+
+(d) such other information as the Scottish Ministers may by regulations prescribe.
+
+(2) Subject to subsection (3), the application shall be accompanied by such fee as the local authority may determine.
+
+(3) The Scottish Ministers may by regulations prescribe for the purposes of subsection (2)—
+
+(a) fees;
+
+(b) how fees are to be arrived at;
+
+(c) cases in which no fee shall be payable.
+
+(4) A person who, in an application under this section—
+
+(a) specifies information which the person knows is false in a material particular; or
+
+(b) knowingly fails to specify information required by subsection (1),
+
+shall be guilty of an offence.
+
+(5) A person guilty of an offence under subsection (4) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) For the purposes of subsection (1)(b), the use of a house as a dwelling shall be disregarded if—
+
+(a) the house is being used for the provision of—
+
+(i) a care home service (as defined in [[^F76]paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010] (asp 8));
+
+(ii) a school care accommodation service (as defined in [[^F77]paragraph 3 of that schedule]);
+
+[^F78]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iv) a secure accommodation service (as defined in [[^F79]paragraph 6 of that schedule]);
+
+[[^F80](v) an independent hospital (as defined in subsection (2) of section 10F of the Public Services Reform (Scotland) Act 2010 (asp 8));
+
+(vi) a private psychiatric hospital (as defined in that section);
+
+(vii) an independent clinic (as defined in that section); or
+
+(viii) an independent medical agency (as defined in that section);]
+
+(b) the house is being used by a religious order the principal occupation of which is prayer, contemplation, education or the relief of suffering;
+
+(c) a control order under section 178 of the Housing (Scotland) Act 1987 (c. 26) is in force in respect of the house; [^F81]. . .
+
+(d) the house is being used for holiday purposes.
+
+[[^F82](e) the house is the only or main residence of the relevant person;
+
+(f) the house is–
+
+(i) on agricultural land which is land comprised in a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 [^M1] or comprised in a lease constituting a short limited duration tenancy [[^F83], limited duration tenancy, modern limited duration tenancy or repairing tenancy] (within the meaning of that Act); and
+
+(ii) occupied by the tenant of the relevant lease;
+
+(g) the house is on a croft (within the meaning of section 3 of the Crofters (Scotland) Act 1993 [^M2]);
+
+(h) the house is–
+
+(i) on a holding to which any of the provisions of the Small Landholders (Scotland) Acts 1886 to 1931 applies;
+
+(ii) not situated in the crofting counties (within the meaning of the Crofters (Scotland) Act 1993); and
+
+(iii) occupied by the landholder;
+
+(i) the house is occupied by virtue of a liferent;
+
+(j) the house is–
+
+(i) owned by an organisation which has the advancement of religion as its principal purpose and the regular holding of worship as its principal activity; and
+
+(ii) occupied by a person whose principal responsibility is the leading of members of the organisation in worship and preaching the faith of that organisation;
+
+(k) the house is part of an estate of a deceased person and has been held by an executor for a period not exceeding 6 months from the date of death; [^F84]. . .
+
+(l) the house is in the lawful possession of a heritable creditor and has been held by that creditor for a period not exceeding 6 months from the date of possession; ][^F85][[^F86]...
+
+(m) the house is owned by a person acting as an insolvency practitioner within the meaning of section 388 of the Insolvency Act 1986 [^M3] and has been so owned by that person for a period not exceeding six months [[^F87]; [^F88]...]]
+
+[[^F89](n) the house is being used for a short-term let as defined in article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022][[^F90]; or
+
+(o) the house is being used, under an occupancy arrangement, by a person who has permission to enter into or to stay in the United Kingdom granted under the immigration rules laid down under section 3(2) of the Immigration Act 1971 in relation to the Homes for Ukraine Sponsorship Scheme.]
+
+(7) The Scottish Ministers may by order modify subsection (6).
+
+(8) In this Part—
+
+- “relevant person” means a person who is not—
+
+  - (a) a local authority;
+  - (b) a registered social landlord; or
+  - (c) Scottish Homes; and
+
+- “unconnected person”, in relation to a relevant person, means a person who is not a member of the family of the relevant person.
+
+#### 84 Registration
+
+(1) This section applies where a relevant person makes an application to a local authority in accordance with section 83.
+
+(2) Where [[^F91](subject to subsections (7) and (8))], having considered the application—
+
+(a) the local authority is satisfied that subsection (3) or (4) applies, the authority shall enter the relevant person in the register maintained by the authority under section 82(1);
+
+(b) the authority is not satisfied that either of those subsections applies, the authority shall refuse to enter the relevant person in the register.
+
+(3) This subsection applies where—
+
+(a) under paragraph (b) of section 83(1), the application—
+
+(i) does not specify a house; or
+
+(ii) specifies a house (or two or more houses);
+
+(b) under paragraph (c) of that section, the application does not specify the name and address of a person; and
+
+(c) the relevant person is a fit and proper person to act as landlord under—
+
+(i) a lease; or
+
+(ii) an occupancy arrangement,
+
+by virtue of which an unconnected person may use a house as a dwelling.
+
+(4) This subsection applies where—
+
+(a) under paragraph (b) of section 83(1), the application specifies at least one house;
+
+(b) under paragraph (c) of that section, the application specifies the name and address of a person;
+
+(c) subsection (3)(c) applies; and
+
+[[^F92](d) either—
+
+(i) the person is a registered letting agent, or
+
+(ii) in the case of a person who is not a registered letting agent, the person is a fit and proper person to act for the landlord such as is mentioned in subsection (3)(c) in relation to the lease or, as the case may be, arrangement.]
+
+(5) An entry in a register under subsection (2)(a) shall state, in relation to the relevant person, the information specified by virtue of paragraphs (a) to [[^F93](ca)] of section 83(1) in the application made by the relevant person.
+
+[[^F94](5A) An entry in a register under subsection (2)(a) shall state, in relation to the relevant person, a registration number (to be known as the “landlord registration number”).]
+
+(6) Subject to sections 88(8) and 89(1), where a local authority makes an entry in a register under subsection (2)(a), the authority shall remove the entry from the register on the expiry of the period of 3 years beginning with the day on which the entry is made.
+
+[[^F95](7) The local authority may refuse to enter a person in the register maintained by the authority under section 82(1) if the person fails to comply with the duty, if applicable, imposed by section 92B(3).
+
+(8) The local authority must refuse to enter a person in the register maintained by the authority under section 82(1) if the person is disqualified by an order made under section 93A(2).]
+
+#### 85 Section 84: considerations
+
+(1) In deciding for the purposes of section 84(3) or (4) whether the relevant person or, as the case may be, the person is a fit and proper person, the local authority shall have regard (among other things) to any material falling within subsections (2) to (4).
+
+(2) Material falls within this subsection if it shows that the relevant person or, as the case may be, the person has—
+
+(a) committed any offence involving—
+
+(i) fraud or other dishonesty;
+
+[[^F96](ia) firearms (within the meaning of section 57(1) of the Firearms Act 1968 (c. 27));]
+
+(ii) violence; or
+
+(iii) drugs;
+
+[[^F97](aa) committed a sexual offence (within the meaning of section 210A(10) of the Criminal Procedure (Scotland) Act 1995 (c. 46));]
+
+(b) practised unlawful discrimination [^F98]. . . in, or in connection with, the carrying on of any business; or
+
+(c) contravened any provision of—
+
+[[^F99](zi) any Letting Code issued under section 92A;]
+
+(i) the law relating to housing; or
+
+(ii) landlord and tenant law.
+
+(3) Material falls within this subsection if it relates to any actings of the relevant person or, as the case may be, the person as respects antisocial behaviour affecting a house—
+
+(a) subject to a lease or occupancy arrangement such as is mentioned in section 84(3)(c); and
+
+(b) in relation to which the relevant person was (or is) the landlord under the lease or arrangement or, as the case may be, the person was (or is) acting for the landlord in relation to the lease or arrangement.
+
+[[^F100](3A) Material falls within this subsection if it relates to any agreement between the relevant person and any person in terms of which that person acts for the relevant person in relation to a lease or occupancy arrangement such as is mentioned in section 84(3)(c).]
+
+(4) Material falls within this subsection if it appears to the authority that the material is relevant to the question of whether the relevant person or, as the case may be, the person is a fit and proper person.
+
+[[^F101](4A) A local authority need not, despite subsection (1), have regard to any material falling within subsection (3A) in deciding for the purposes of section 84(4) whether a person specified in an application by virtue of section 83(1)(c) is a fit and proper person to act for a landlord.]
+
+(5) In subsection (3), “actings” includes failure to act.
+
+[[^F102](6) Examples of material which falls within subsection (2) (as mentioned in paragraph (c)(i) or (ii)) are (without prejudice to the generality of that provision)—
+
+(a) an offence or disqualification under—
+
+(i) this Part;
+
+(ii) Part 5 of the Housing (Scotland) Act 2006 (asp 1);
+
+(b) a repairing standard enforcement order made under section 24(2) of that Act.
+
+(7) Examples of material which falls within subsection (3) are (without prejudice to the generality of that provision)—
+
+(a) an antisocial behaviour order (or any interim order) within the meaning of Part 2;
+
+(b) an antisocial behaviour notice within the meaning of Part 7.
+
+(8) Examples of material which falls within subsection (4) are (without prejudice to the generality of that provision)—
+
+(a) complaints and other information which come to the attention of the local authority concerning the relevant person or, as the case may be the person, in relation to the fulfilment of any financial obligation in respect of any house which is included in the application;
+
+(b) concerns and other information which come to the attention of the local authority in the exercise of any of its functions in connection with any house which is included in the application;
+
+(c) where section 85A(3)(b) applies, the relevant person fails to provide the certificate within the period the local authority directs.
+
+(9) The Scottish Ministers may by order modify subsection (2).]
+
+#### 85A [[^F103][[^F104]Fit and proper person: Level 2 disclosure]
+
+(1) A local authority may, in deciding for the purposes of section 84(3) or (4) whether a relevant person is, or is no longer, a fit and proper person, require the relevant person to provide the local authority with a [[^F105]Level 2 disclosure (within the meaning of section 8(1) of the Disclosure (Scotland) Act 2020).]
+
+(2) A local authority may require a [[^F106]Level 2 disclosure] to be provided under subsection (1) only if it has reasonable grounds to suspect that the information provided with an application for entry in the register maintained under section 82(1) in relation to material falling within subsection (2), (3) or (4) of section 85 is, or has become, inaccurate.
+
+(3) Where a local authority has required a [[^F107]Level 2 disclosure] to be provided under subsection (1)—
+
+(a) in the case of an application for entry in the register maintained under section 82(1), a relevant person may not be entered in the register until the [[^F108]Level 2 disclosure] has been received by the local authority;
+
+(b) in the case of a relevant person entered in the register, the relevant person must provide the [[^F109]Level 2 disclosure] within such reasonable period as the local authority directs.]
+
+#### 86 Notification of registration or refusal to register
+
+(1) Where a local authority—
+
+(a) enters a person in its register under paragraph (a) of section 84(2); or
+
+(b) refuses to enter a person in its register under paragraph (b) of that section [[^F110]or subsection (7) or (8) of section 84],
+
+the authority shall, as soon as practicable after doing so, give notice of the fact to the person.
+
+[[^F111](1A) Where a local authority gives notice of the fact of registration under subsection (1)(a) it must, in doing so, give notice of the landlord registration number.]
+
+(2) Where a local authority refuses to enter a person in its register under section 84(2)(b), [[^F112](7) or (8),] the authority shall, as soon as practicable after doing so, send notice of the fact to—
+
+(a) each address specified by virtue of paragraph (b) of section 83(1) in the application for registration; and
+
+(b) if, by virtue of paragraph (c) of section 83(1), the application specified the name and address of a person, that person.
+
+#### 87 Duty of registered person to provide information to local authority
+
+(1) This section applies where a person is registered by a local authority.
+
+(2) If in consequence of a change in circumstances any information provided by the person to the local authority by virtue of section 83(1) or, as the case may be, this subsection, becomes inaccurate, the person shall, as soon as practicable after the inaccuracy arises, give notice in writing to the authority of the change that has occurred.
+
+(3) Subject to subsection (4), any notice given under subsection (2) shall be accompanied by such fee as the local authority may determine.
+
+(4) The Scottish Ministers may by regulations prescribe for the purposes of subsection (3)—
+
+(a) fees;
+
+(b) how fees are to be arrived at;
+
+(c) cases in which no fee shall be payable.
+
+(5) A person who, without reasonable excuse, fails to comply with subsection (2) shall be guilty of an offence.
+
+(6) A person guilty of an offence under subsection (5) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### 87A [[^F113][[^F114]Duty of local authority to note decisions of the First-tier Tribunal for Scotland Housing and Property Chamber]
+
+(1) This section applies where a local authority receives notice under paragraph 6 of schedule 2 to the Housing (Scotland) Act 2006 (asp 1) that [[^F115]the First-tier Tribunal for Scotland Housing and Property Chamber] has, in pursuance of a decision of the [[^F116]First-tier Tribunal for Scotland Housing and Property Chamber] —
+
+(a) made or varied a repairing standard enforcement order;
+
+(b) revoked a repairing standard enforcement order;
+
+(c) consented under section 28(6) of that Act to the landlord entering into a tenancy or occupancy arrangement; or
+
+(d) granted a certificate under section 60 of that Act;
+
+and the landlord to whom the notice relates is a person registered by the local authority.
+
+(2) Where paragraph (a) or (c) of subsection (1) applies, the local authority must note the decision of the [[^F117]First-tier Tribunal for Scotland Housing and Property Chamber] in the person's entry in the register.
+
+(3) Where paragraph (b) or (d) of subsection (1) applies, the local authority must remove any information noted in the register by virtue of subsection (2) which relates to the order revoked or to the order in relation to which the certificate was granted, as the case may be.]
+
+#### 88 Registered person: appointment of agent
+
+(1) Subsection (2) applies where—
+
+(a) a person is registered by a local authority (the “registered person”); and
+
+(b) the registered person appoints a person to act for the person in relation to—
+
+(i) a lease; or
+
+(ii) occupancy arrangement,
+
+by virtue of which an unconnected person may use as a dwelling a house within the area of the authority which the registered person owns.
+
+(2) The registered person shall, as soon as practicable after appointing the person, give notice in writing to the local authority of the appointment.
+
+[[^F118](2A) Subject to subsections (2B) and (2C), the notice shall be accompanied by such fee as the local authority may determine.
+
+(2B) No fee shall be payable under subsection (2A) if, when the notice is given—
+
+(a) the person appointed is entered in the register as a relevant person; [^F119]...
+
+(b) another relevant person's entry in the register states that the person appointed acts for the other relevant person.[[^F120],or
+
+(c) the person appointed is a registered letting agent.]
+
+(2C) The Scottish Ministers may by regulations prescribe for the purposes of subsection (2A)—
+
+(a) fees;
+
+(b) how fees are to be arrived at;
+
+(c) other cases in which no fee shall be payable.]
+
+(3) The local authority shall, as soon as practicable after being given notice under subsection (2), determine whether the condition in subsection (4) is satisfied in relation to the person appointed.
+
+[[^F121](4) The condition is that either—
+
+(a) the person is a registered letting agent, or
+
+(b) in the case of a person who is not a registered letting agent, the person is a fit and proper person to act for the registered person in relation to a lease or occupancy arrangement such as is mentioned in subsection (1)(b).]
+
+(5) Subsections (2) to (5) of section 85 shall apply for the purposes of subsection [[^F122](4)(b)] as those subsections apply for the purposes of subsection (1) of that section.
+
+(6) If the local authority determines that the condition in subsection (4) is satisfied—
+
+(a) the registered person shall be deemed, with effect from the date of the determination, to be registered by virtue of subsection (4) of section 84; and
+
+(b) the local authority shall give the registered person notice in writing of that fact.
+
+(7) Subsection (6)(a) shall not affect the calculation of the period mentioned in section 84(6).
+
+(8) If the local authority determines that the condition in subsection (4) is not satisfied, the authority shall remove the registered person from the register.
+
+[[^F123](9) A registered person is guilty of an offence who, without reasonable excuse—
+
+(a) in giving notice under subsection (2), specifies information which is false in a material particular; or
+
+(b) fails to comply with subsection (2).
+
+(10) A person guilty of an offence under subsection (9) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+#### 88A [[^F124]Access to register
+
+(1) Each local authority shall, on the application of any person (“the applicant”), in relation to—
+
+(a) a particular house, provide the applicant with—
+
+[[^F125](zi) confirmation of whether any application relating to the house has been made in accordance with section 83 but has not yet been determined;]
+
+(i) the name of [[^F126]any owner of the house] included in its register by virtue of section 83(1)(a) or 87(2);
+
+(ii) the name of any person who acts for the owner in relation to a lease or occupancy arrangement to which the house is subject included in its register by virtue of section 83(1)(c), 87(2) or 88(2);
+
+(iii) the address to which correspondence with the relevant person should be directed included in its register by virtue of section 83(1)(ca) or 87(2); and
+
+(iv) any information included in its register by virtue of section 87A(2).
+
+(b) a particular person, confirm to the applicant [[^F127]—
+
+(i)] whether that other person is registered in its register[[^F128]; and
+
+(ii) whether its register includes a note under section 92ZA of a decision to refuse that other person's entry in, or to remove that other person from, the register.].
+
+(2) A local authority may, on the application of any person, provide that person with such other information from its register as it thinks appropriate.
+
+(3) Information provided under subsection (2) may be provided subject to such conditions as the local authority thinks appropriate.
+
+(4) Despite subsection (1), a local authority may withhold information where it considers that providing the information would be likely to jeopardise—
+
+(a) the safety or welfare of any person; or
+
+(b) the security of any premises.]
+
+#### 89 Removal from register
+
+(1) Where—
+
+(a) a person is registered by a local authority; and
+
+(b) subsection (2) or (3) applies,
+
+the authority shall remove the person from its register.
+
+(2) This subsection applies where—
+
+(a) the person was registered by virtue of section 84(3); and
+
+(b) paragraph (c) of that section no longer applies.
+
+(3) This subsection applies where—
+
+(a) the person was registered by virtue of section 84(4); and
+
+(b) paragraph (c) or [[^F129](d)(ii)] of that section no longer applies.
+
+[[^F130](3A) Where—
+
+(a) a person is registered by the local authority by virtue of section 84(4), and
+
+(b) paragraph (d)(i) of that section no longer applies,
+
+the authority may remove the person from the register.]
+
+[[^F131](4) Where a registered person, without reasonable excuse, fails to comply with the duty imposed by section 92B(1) the authority may remove the person from the register.
+
+(5) Where—
+
+(a) a person is registered by a local authority; and
+
+(b) the person is disqualified from being registered by virtue of an order under section 93A(2),
+
+the authority shall remove the person from its register.]
+
+#### 90 Notification of removal from register: registered person
+
+(1) Subsection (2) applies where under section 88(8) or 89(1) [[^F132], (3A) ] [[^F133], (4) or (5)] a local authority removes a person from the register maintained by it under section 82(1).
+
+(2) As soon as practicable after the removal, the local authority shall give the person notice in writing of—
+
+(a) the removal; and
+
+(b) the date of the removal.
+
+(3) Notice under subsection (2) shall be given to the person at the address which, immediately before the removal, was specified as being the address of the person in the entry for the person in the register.
+
+(4) For the purposes of subsection (2), notice is given by being sent by the recorded delivery service.
+
+#### 91 Notification of removal from register: other persons
+
+(1) Subsection (2) applies where under section 88(8) or 89(1) [[^F134], (3A) ] [[^F135], (4) or (5)] a local authority removes a person from the register maintained by it under section 82(1).
+
+(2) As soon as practicable after the removal, the local authority shall give notice of the removal and the date of the removal to—
+
+(a) the address of each house that, immediately before the removal, was entered in the person’s entry in the register; and
+
+(b) if the authority is aware of the name and address of a person who acts for the person whose name was removed from the register in relation to a lease or occupancy arrangement such as is mentioned in section 88(1)(b), that person.
+
+#### 92 Appeal against refusal to register or removal from register
+
+(1) Subsection (2) applies where—
+
+(a) under section 84(2)(b) [[^F136], (7) or (8)] a local authority refuses to enter a person in the register maintained by it under section 82(1); or
+
+(b) under section 88(8) or 89(1) [[^F137], (3A) ] [[^F138]or (4)] an authority removes a person from the register.
+
+(2) The [[^F139]First-tier Tribunal] may, on the application of the person, make an order—
+
+(a) requiring the authority to enter the person in the register; and
+
+(b) specifying whether the entry shall be deemed to be made by virtue of subsection (3) or (4) of section 84.
+
+(3) Where by virtue of subsection (2) a local authority enters a person in the register maintained by it under section 82(1), the entry shall be deemed to have been made under subsection (2)(a) of section 84 by virtue of the subsection specified in the order.
+
+[^F140]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) An appeal against the decision of a [[^F141]First-tier Tribunal] granting or refusing an application under subsection (2) [^F142]... shall be made within the period of 21 days beginning with the day on which the decision appealed against was made.
+
+(6) The decision of the [[^F143]Upper Tribunal] on an appeal under this section shall be final.
+
+#### 92ZA [[^F144]Duty to note refusals and removals
+
+(1) Subsection (4) applies where—
+
+(a) a local authority decides to—
+
+(i) refuse to enter a person in its register under section 84(2)(b) or (7); or
+
+(ii) remove a person from its register under section 88(8) or 89(1) [[^F145], (3A) ] or (4); and
+
+(b) either—
+
+(i) the period for making an application to the [[^F146]First-tier Tribunal] in relation to the decision for the purposes of section 92(2) expires without an application being made; or
+
+(ii) such application is refused by the [[^F147]First-tier Tribunal] and—
+
+(A) the period for appealing against the [[^F148]First-tier Tribunal's] decision expires without an appeal being made; or
+
+(B) such an appeal is refused by the [[^F149]Upper Tribunal] .
+
+(2) Subsection (4) applies where—
+
+(a) a local authority decides to refuse to enter a person in its register under section 84(8); and
+
+(b) either—
+
+(i) the period for making an application to the [[^F150]First-tier Tribunal] in relation to the decision for the purposes of section 92(2) expires without an application being made; or
+
+(ii) such application is refused by the [[^F151]First-tier Tribunal] and—
+
+(A) the period for appealing against the [[^F152]First-tier Tribunal's] decision expires without an appeal being made; or
+
+(B) such an appeal is refused by the [[^F153]Upper Tribunal] .
+
+(3) Subsection (4) applies where a local authority removes a person from its register under section 89(5).
+
+(4) Where this subsection applies, the local authority must note the fact in its register that the person has been refused entry to, or removed from, its register.
+
+(5) Where a fact is noted by virtue of subsection (1) it must, subject to subsection (6)—
+
+(a) remain on the register for 12 months from the date on which the local authority is required to note it in its register; and
+
+(b) be removed from the register at the end of that period.
+
+(6) Where a person in respect of whom a local authority notes a fact in its register by virtue of subsection (1) is subsequently entered in the register before the end of the period mentioned in subsection (5)(a), the local authority must remove the fact from the register when the person is so registered.
+
+(7) Where a fact is noted by virtue of subsection (2) or (3) it must—
+
+(a) remain on the register for the period of disqualification specified in the order made under section 93A(2); and
+
+(b) be removed from the register at the end of that period.]
+
+#### 92A [[^F154]The Letting Code
+
+(1) The Scottish Ministers may prepare and issue a code of practice, to be known as the Letting Code, making provision about the standards of management of—
+
+(a) any relevant person who enters into, or who seeks to enter into, a lease or occupancy arrangement by virtue of which an unconnected person may use a house as a dwelling, and
+
+(b) any other person [[^F155] (other than a registered letting agent)] who acts for such a relevant person in relation to such a lease or occupancy arrangement.
+
+(2) The Scottish Ministers must, from time to time, review any Letting Code issued under subsection (1) and may, following such a review—
+
+(a) vary it, or
+
+(b) revoke and replace it.
+
+(3) The Scottish Ministers must, before preparing, varying or replacing any Letting Code—
+
+(a) publish, in such manner as they think fit, an assessment of the effectiveness of any existing obligations and voluntary arrangements which relate to any standards of management which a Letting Code may make provision about, and
+
+(b) consult—
+
+(i) such bodies representing local authorities,
+
+(ii) such bodies representing private sector landlords, and
+
+(iii) such other persons,
+
+as they think fit about the need for, and the terms of, the Letting Code or variation proposed.
+
+(4) An assessment under subsection 3(a) above must, in particular, assess the effectiveness of—
+
+(a) the Rent (Scotland) Act 1984 (c. 58), and
+
+(b) registration under this Part,
+
+in dealing with harassment, unlawful eviction or unlawful management practices.]
+
+#### 92B [[^F156]Duty of certain persons to include landlord registration number in advertisements
+
+(1) Where—
+
+(a) a person who is registered by a local authority (“the registered person”), in relation to a house that the person owns in the area of the authority, communicates with another person with a view to entering into a lease or an occupancy arrangement such as is mentioned in section 93(1)(a); and
+
+(b) the communication is by way of an advertisement in writing,
+
+the registered person must ensure the advertisement includes the landlord registration number given by the authority.
+
+(2) Where the house is owned jointly by two or more persons registered by the local authority, the duty in subsection (1) is complied with if the advertisement includes the landlord registration number given by the authority in relation to one of the persons.
+
+(3) Where—
+
+(a) subsections (2) and (5) of section 93 apply; and
+
+(b) the communication referred to in subsection (2)(b) of that section is by way of an advertisement in writing,
+
+the relevant person must ensure the advertisement includes the words “landlord registration pending”.
+
+(4) Subsection (5) applies where the house is owned jointly by—
+
+(a) one or more persons who are registered by the local authority (“the registered persons”), and
+
+(b) one or more relevant persons in relation to whom subsections (2) and (5) of section 93 apply.
+
+(5) The duties in subsections (1) and (3) are complied with if the advertisement includes either—
+
+(a) the landlord registration number given by the local authority in relation to one of the registered persons, or
+
+(b) the words “landlord registration pending”.
+
+(6) In this section, “advertisement”—
+
+(a) includes any form of advertising whether to the public generally, to any section of the public or individually to selected persons; but
+
+(b) does not include a notice board at or near the house concerned.]
+
+### Enforcement
+
+#### 93 Offences
+
+(1) Where—
+
+(a) a relevant person owns a house within the area of a local authority which is subject to—
+
+(i) a lease; or
+
+(ii) an occupancy arrangement,
+
+by virtue of which an unconnected person may use the house as a dwelling; and
+
+(b) the relevant person is not registered by that authority,
+
+the relevant person shall be guilty of an offence.
+
+(2) Where—
+
+(a) a relevant person is not registered by a local authority; and
+
+(b) in relation to a house that the relevant person owns in the area of the authority, the relevant person communicates with another person with a view to entering into a lease or an occupancy arrangement such as is mentioned in subsection (1)(a),
+
+the relevant person shall be guilty of an offence.
+
+(3) Where subsection (5) applies, nothing in subsection (1) makes it an offence for a relevant person to own a house which is subject to a lease or, as the case may be, occupancy arrangement such as is mentioned in subsection (1).
+
+(4) Where subsection (5) applies, nothing in subsection (2) makes it an offence for a relevant person to communicate with another person with a view to entering into a lease or, as the case may be, occupancy arrangement such as is mentioned in subsection (2).
+
+(5) This subsection applies where—
+
+(a) the relevant person has made an application under section 83 to the local authority within whose area the house is situated; [^F157]. . .
+
+[[^F158](aa) the local authority has not, during the year which immediately preceded the making of the application, refused to enter the relevant person in pursuance of an earlier application under section 83;
+
+[[^F159](aaa) the relevant person is not disqualified from being registered by virtue of an order under section 93A(2);]
+
+(ab) the application is accompanied by the fee determined under section 83(2); and]
+
+(b) the application has not been determined under section 84 by the authority.
+
+(6) It shall be a defence for a person charged with an offence under subsection (1) or (2) to show that there was a reasonable excuse for acting in the way charged.
+
+(7) A person guilty of an offence under subsection (1) or (2) shall be liable on summary conviction to a fine not exceeding [[^F160]£50,000].
+
+#### 93A [[^F161]Disqualification orders etc.
+
+(1) This section applies where a court convicts a person of an offence under section 93(1) or (2).
+
+(2) The court may, in addition to imposing a penalty under section 93(7), by order disqualify the convicted person (and, where the person is not an individual, any director, partner or other person concerned in the management of the person) from being registered by any local authority for such period not exceeding 5 years as may be specified in the order.
+
+(3) A person may appeal against an order under subsection (2) in the same manner as the convicted person may appeal against sentence.
+
+(4) The court may suspend the effect of an order made under subsection (2) pending such an appeal.
+
+(5) The court may, on summary application by a person disqualified by an order under subsection (2), revoke the order with effect from such date as the court may specify.
+
+(6) But no such revocation may be made unless the court is satisfied that there has been a change of circumstances which justifies the revocation of the order.
+
+(7) No application may be made for the purposes of subsection (5) during the first year of a disqualification.
+
+(8) The court may order the applicant to pay the whole or part of the expenses arising from an application made for the purposes of subsection (5).
+
+(9) Within 6 days of the court—
+
+(a) disqualifying a person under subsection (2); or
+
+(b) revoking an order under subsection (5),
+
+the clerk of court must provide an extract of the disqualification or, as the case may be, the revocation to the local authority for the area in which the house concerned is situated.]
+
+#### 94 Circumstances in which no rent to be payable
+
+(1) Where a local authority is satisfied that the conditions in subsection (2) are met in relation to a house within its area, the authority may serve a notice under this section on the persons mentioned in subsection (5).
+
+(2) Those conditions are—
+
+(a) that the owner of the house is a relevant person;
+
+(b) that the house is subject to—
+
+(i) a lease; or
+
+(ii) an occupancy arrangement,
+
+by virtue of which an unconnected person may use the house as a dwelling;
+
+(c) that the relevant person is not registered by the local authority; and
+
+(d) that, having regard to all the circumstances relating to the relevant person, it is appropriate for a notice to be served under this section.
+
+(3) Where a notice is served under this section, during the relevant period—
+
+(a) no rent shall be payable under any lease or occupancy arrangement in respect of the house to which the notice relates;
+
+(b) no other consideration shall be payable or exigible under any such lease or occupancy arrangement.
+
+(4) A notice served under this section shall specify—
+
+(a) the name of the relevant person to whom it relates;
+
+(b) the address of the house to which it relates;
+
+(c) the effect of subsection (3); and
+
+(d) the date on which it takes effect (which must not be earlier than the day after the day on which it is served).
+
+(5) Those persons are—
+
+(a) the relevant person;
+
+(b) if the local authority is aware of the name and address of a person who has, by virtue of a lease or an occupancy arrangement such as is mentioned in subsection (2)(b), the use of the house to which the notice relates, that person; and
+
+(c) if the local authority is aware of the name and address of a person who acts for the relevant person in relation to such a lease or an occupancy arrangement, that person.
+
+(6) If—
+
+(a) the local authority is unable to identify the relevant person, it may serve the notice under this section by publishing it in two or more newspapers (of which one shall, if practicable, be a local newspaper) circulating in the locality of the house to which the notice relates;
+
+(b) the local authority is aware of the relevant person’s identity but is unable to ascertain the relevant person’s current address, it may serve the notice under this section by serving it on the landlord—
+
+(i) at the house to which the notice relates; and
+
+(ii) if it is aware of a previous address of the relevant person, at that address.
+
+(7) The condition mentioned in subsection (2)(c) shall not be taken to be met where—
+
+(a) the relevant person has made an application under section 83 to the local authority in whose area the house is situated; but
+
+(b) the application has not been determined under section 84 by the authority.
+
+(8) Except as provided in subsection (3), nothing in this Part affects the validity of any lease or occupancy arrangement under which an unconnected person has the use as a dwelling of a house during the relevant period.
+
+(9) Where a local authority is aware of the name and address of a person mentioned in paragraph (b) or, as the case may be, (c) of subsection (5), failure to serve a notice on the person shall not affect the validity of the notice.
+
+(10) In this section, “relevant period” means the period beginning with the date specified in the notice and ending with the earlier of—
+
+(a) the revocation of the notice under section 95(2); or
+
+(b) where the effect of the decision made on an appeal under section 97 is that rent or, as the case may be, other consideration is payable or exigible, that decision.
+
+#### 95 Notices under section 94: revocation
+
+(1) Subsection (2) applies where a local authority serves a notice under section 94 in relation to a house.
+
+(2) If (whether on the application of a person having an interest in the case or otherwise) the local authority which served the notice is satisfied that the conditions mentioned in section 94(2) are no longer met in relation to the house, the authority shall, with effect from such day as it may specify, revoke the notice.
+
+(3) The revocation of a notice under subsection (2) shall not operate so as to make a person liable to pay any rent or other consideration in respect of the period during which the notice was in force.
+
+#### 96 Notification of revocation of notice
+
+(1) Subsection (2) applies where a local authority revokes a notice under section 95 in relation to a house.
+
+(2) As soon as practicable after revoking the notice, the local authority shall give notice of the fact to—
+
+(a) the relevant person;
+
+(b) if the local authority is aware of the name and address of a person who has, by virtue of a lease or an occupancy arrangement such as is mentioned in section 94(2)(b), the use of the house to which the notice relates, that person; and
+
+(c) if the local authority is aware of the name and address of a person who acts for the relevant person in relation to such a lease or an occupancy arrangement, that person.
+
+(3) Where a local authority is aware of the name and address of a person mentioned in paragraph (b) or, as the case may be, (c) of subsection (2), failure to serve a notice on the person may not be founded on in any proceedings.
+
+#### 97 Appeals
+
+(1) A relevant person on whom a notice under section 94 is served may, before the expiry of the period of 21 days beginning with the date specified by virtue of subsection (4)(d) of that section in the notice, appeal to the [[^F162]First-tier Tribunal] against the decision of the local authority to serve the notice.
+
+(2) Where, on the application of a person having an interest, a local authority makes a decision refusing to revoke a notice under section 95(2), the person may, before the expiry of the period of 21 days beginning with the day on which the decision is made, appeal to the [[^F163]First-tier Tribunal] against the decision.
+
+(3) Subsection (4) applies where a person appeals against a decision such as is mentioned in subsection (1) or (2).
+
+(4) The person shall (in addition to complying with any other requirements as to notification imposed by virtue of any enactment) give notice to the person who has the use as a dwelling of the house to which the notice relates (the “tenant”) of such matters as may be prescribed by the Scottish Ministers by regulations.
+
+(5) Regulations under subsection (4) may include provision for or in connection with—
+
+(a) the form of the notice;
+
+(b) the manner and timing of service of the notice.
+
+(6) If a person fails to comply with subsection (4), the [[^F164]tribunal] hearing the appeal may not require the tenant to pay any sums that, but for the making of the [[^F165]decision], would have been due by the tenant.
+
+(7) The Scottish Ministers may by regulations make provision for or in connection with specifying other circumstances in which the [[^F166][[^F167]tribunal] hearing the appeal] shall not require a tenant to pay any sums that, but for the making of the [[^F168]decision], would have been due by the tenant.
+
+(8) Regulations under subsection (7) may in particular include provision—
+
+(a) specifying procedures;
+
+(b) imposing obligations on landlords.
+
+### [[^F169]Information
+
+#### 97A Power to obtain information
+
+(1) A local authority may, for the purpose of enabling or assisting it to exercise any function under this Part, require any person appearing to it to fall within subsection (2) to provide the local authority with, in relation to any house within the local authority's area—
+
+(a) confirmation of the nature of that person's interest in the house;
+
+(b) the name and address of, and information about that person's relationship with, any other person whom that person knows to—
+
+(i) own, occupy or have any other interest in the house;
+
+(ii) act in relation to a lease or occupancy arrangement to which that house is subject; or
+
+(iii) act for the person who owns the house with a view to a lease or occupancy arrangement being entered into in relation to that house;
+
+(c) such other information relating to the house, or such other person, as the local authority may reasonably request.
+
+(2) A person falls within this subsection if the person—
+
+(a) owns, occupies or has any other interest in the house concerned;
+
+(b) acts in relation to a lease or occupancy arrangement to which that house is subject; or
+
+(c) acts for the person who owns the house with a view to a lease or occupancy arrangement being entered into in relation to that house.
+
+(3) A local authority may, for the purpose of enabling or assisting it to exercise any function under this Part, require any person appearing to it to fall within subsection (4) to provide the local authority with—
+
+(a) confirmation of the nature of that person's interest in any house within the local authority's area in relation to which the person acts;
+
+(b) the address of any such house;
+
+(c) the name and address of, and information about that person's relationship with, any other person whom that person knows to own any such house;
+
+(d) such other information relating to any such house, or such other person, as the local authority may reasonably request.
+
+(4) A person falls within this subsection if the person—
+
+(a) acts in relation to a lease or occupancy arrangement to which any house within the local authority's area is subject; or
+
+(b) acts for the person who owns the house with a view to a lease or occupancy arrangement being entered into in relation to such a house.
+
+(5) A requirement under subsection (1) or (3) is to be made by serving it on the person concerned in accordance with section 97B.
+
+(6) It is an offence for a person—
+
+(a) without reasonable excuse, to fail to comply with a requirement made under this section; or
+
+(b) knowingly or recklessly to provide information which is false or misleading in a material respect to a local authority or any other person—
+
+(i) in purported compliance with a requirement made under this section; or
+
+(ii) otherwise if the person knows, or could reasonably be expected to know, that the information may be used by, or provided to, a local authority in connection with its functions under this Part.
+
+(7) A person guilty of such an offence is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+#### 97B Power to obtain information: service of requirement
+
+(1) A requirement under section 97A(1) or (3) must be in writing.
+
+(2) A requirement under section 97A(1) or (3) is served on a person if it is—
+
+(a) delivered to the person at the place mentioned in subsection (3);
+
+(b) sent, by post in a prepaid registered letter or by the recorded delivery service, to the person at that place; or
+
+(c) sent to the person in some other manner (including by electronic means) which the local authority reasonably considers likely to cause it to be delivered to the person on the same or next day.
+
+(3) The place referred to in subsection (2) is—
+
+(a) where the person is an individual, that person's place of business or usual or last known place of abode;
+
+(b) where the person is an incorporated company or body, its registered or principal office.
+
+(4) Subsection (5) applies where service of a requirement by one of the methods described in subsection (2) has been attempted and failed.
+
+(5) Where this subsection applies, a requirement under section 97A(1) or (3) may be served on the person by—
+
+(a) where the person is an individual, leaving a copy of the requirement at that person's place of business or usual or last known place of abode;
+
+(b) where the person is an incorporated company or body, leaving a copy of the requirement at the person's registered or principal office.
+
+(6) Subsection (7) applies where the local authority is unable to deliver or send a requirement under section 97A(1) or (3) to the owner or occupier of any house or other premises because the local authority is not (having made reasonable enquiries) aware of the name or address of that owner or occupier.
+
+(7) Where this subsection applies, a requirement under section 97A(1) or (3) may be served by addressing a copy of it to “The Owner” or, as the case may be, “The Occupier” of the house and leaving it at the house or other premises.
+
+(8) A requirement which is sent by electronic means is to be treated as being in writing if it is received in a form which is legible and capable of being used for subsequent reference.]
+
+### Grants
+
+#### 98 Grants to local authorities
+
+(1) The Scottish Ministers may make a grant to a local authority in respect of costs incurred by the authority by virtue of this Part.
+
+(2) The payment of a grant under subsection (1) may be made subject to such conditions (including conditions as to repayment) as the Scottish Ministers may determine.
+
+### Regulations
+
+#### 99 Regulations about advice and assistance: Part 8
+
+For the purposes of this Part, the Scottish Ministers may by regulations make provision requiring local authorities to provide advice and assistance of such description as may be specified in the regulations to persons of such description as may be so specified.
+
+### [[^F170]Guidance
+
+#### 99A Guidance
+
+(1) A local authority must have regard to any guidance issued by the Scottish Ministers about—
+
+(a) the discharge of its functions under this Part; and
+
+(b) matters arising in connection with the discharge of those functions.
+
+(2) Before issuing any such guidance the Scottish Ministers must consult—
+
+(a) local authorities; and
+
+(b) such other persons as they think fit.]
+
+### Amendment of Housing (Scotland) Act 1988
+
+#### 100 Amendment of Housing (Scotland) Act 1988
+
+In subsection (6)(a) of section 18 of the Housing (Scotland) Act 1988 (c. 43) (orders for possession)—
+
+(a) the word “or”, where it thirdly occurs, shall be repealed; and
+
+(b) after “10” there shall be inserted “ , Ground 15 ”.
+
+### Interpretation
+
+#### 101 Interpretation of Part 8
+
+(1) In this Part—
+
+- [[^F171]“First-tier Tribunal” means the First-tier Tribunal for Scotland,]
+- “house” means, subject to subsection (2), a building or part of a building occupied or intended to be occupied as a dwelling;
+- “landlord”, in relation to an occupancy arrangement, means the person who under the arrangement permits another to occupy the building or, as the case may be, the part of the building;
+- [[^F172]“landlord registration number” has the meaning given by section 84(5A);]
+- “occupancy arrangement” means any arrangement under which a person having the lawful right to occupy a house permits another, by way of contract or otherwise, to occupy the house or, as the case may be, part of it; but does not include a lease;
+- “registered”, in relation to a relevant person and a local authority, means entered by virtue of section 84(2)(a) in the register maintained by the authority under section 82(1); and cognate expressions shall be construed accordingly;
+- [[^F173]“registered letting agent” has the meaning given by section 32(4) of the Housing (Scotland) Act 2014 (asp 14),]
+- “relevant person” has the meaning given by section 83(8);
+- “unconnected person” has the meaning given by section 83(8); and
+- [[^F174]“Upper Tribunal” means the Upper Tribunal for Scotland,]
+- “use as a dwelling” shall be construed in accordance with section 83(6).
+
+[[^F175](1A) This subsection applies where—
+
+(a) a person other than the owner of a house is the landlord in relation to a lease or occupancy arrangement by virtue of which another person uses the house as a dwelling; and
+
+(b) that other person is not a member of the family of the owner or of the person who is the landlord.
+
+(1B) Where subsection (1A) applies, both—
+
+(a) the person who is the landlord; and
+
+(b) any other person who acts for that person in relation to the lease or occupancy arrangement,
+
+shall, for the purposes of this Part, be treated as having been appointed by the owner to act for, and as acting for, the owner in relation to a lease or occupancy arrangement by virtue of which a person who is not a member of the family of the owner may use the house as a dwelling.]
+
+(2) If two or more dwellings within a building share the same toilet, washing or cooking facilities, then those dwellings shall be deemed to be a single house for the purposes of this Part.
+
+(3) For the purposes of this Part, any reference to a person’s being a member of another’s family shall be construed in accordance with section 108(1) and (2) of the Housing (Scotland) Act 2001 (asp 10).
+
+(4) For the purposes of this Part, a person engages in antisocial behaviour if the person—
+
+(a) acts in a manner that causes or is likely to cause alarm, distress, nuisance or annoyance; or
+
+(b) pursues a course of conduct that causes or is likely to cause alarm, distress, nuisance or annoyance,
+
+to a person residing in, visiting or otherwise engaging in lawful activity at, or in the locality of, a house; and “antisocial behaviour” shall be construed accordingly.
+
+## Part 9 — Parenting orders
+
+### Applications
+
+#### 102 Applications
+
+(1) The court may make a parenting order in respect of a parent of a child where—
+
+(a) subsection (2) or (3) applies; and
+
+(b) the Scottish Ministers have notified the court that the local authority for the area in which the parent ordinarily resides has made arrangements that would enable the order to be complied with.
+
+(2) This subsection applies where—
+
+(a) the application for the order is made by the appropriate local authority; and
+
+(b) the court is satisfied that—
+
+(i) the behaviour condition; or
+
+(ii) the conduct condition,
+
+is met.
+
+(3) This subsection applies where—
+
+(a) the application for the order is made by the Principal Reporter; and
+
+(b) the court is satisfied that—
+
+(i) the behaviour condition;
+
+(ii) the conduct condition; or
+
+(iii) the welfare condition,
+
+is met.
+
+(4) The behaviour condition is—
+
+(a) that the child has engaged in antisocial behaviour; and
+
+(b) that the making of the order is desirable in the interests of preventing the child from engaging in further such behaviour.
+
+(5) The conduct condition is—
+
+(a) that the child has engaged in criminal conduct; and
+
+(b) that the making of the order is desirable in the interests of preventing the child from engaging in further such conduct.
+
+(6) The welfare condition is that the making of the order is desirable in the interests of improving the welfare of the child.
+
+(7) For the purposes of subsection (5), a child engages in criminal conduct if the child engages in conduct that constitutes a criminal offence (or would do so if the child had attained the age of 8 years).
+
+(8) An application under this section shall be made by summary application to the sheriff of the sheriffdom where the parent ordinarily resides.
+
+(9) Before an application is made under this section—
+
+(a) by a local authority, it shall consult the Principal Reporter;
+
+(b) by the Principal Reporter, the Principal Reporter shall consult the appropriate local authority.
+
+(10) In this section, “appropriate local authority” means the local authority for the area where the child ordinarily resides.
+
+### Parenting orders
+
+#### 103 Parenting orders
+
+(1) A parenting order is an order requiring the specified person—
+
+(a) to comply, during a specified period—
+
+(i) beginning with the making of the order; and
+
+(ii) not exceeding 12 months,
+
+with such requirements as are specified; and
+
+(b) subject to subsection (2), to attend, during a specified period—
+
+(i) falling within the specified period mentioned in paragraph (a); and
+
+(ii) not exceeding 3 months,
+
+such counselling or guidance sessions as may be directed by a supervising officer appointed by the relevant local authority.
+
+(2) Where a parenting order has been made in respect of the person on a previous occasion in the interests of the child in whose interests the order is to be made, the order need not include a requirement under subsection (1)(b).
+
+(3) The Scottish Ministers may by order amend the number of months mentioned in—
+
+(a) subsection (1)(a)(ii); and
+
+(b) subsection (1)(b)(ii).
+
+(4) In subsection (1), “specified” means specified in the order.
+
+### Matters following making of order
+
+#### 104 Notification of making of order
+
+(1) The clerk of the court by which a parenting order is made shall cause a copy of the order to be—
+
+(a) given to the person specified in the order; or
+
+(b) sent to the person so specified by registered post or the recorded delivery service.
+
+(2) A certificate of posting of a letter sent under subsection (1)(b) issued by the postal operator concerned shall be sufficient evidence of the sending of the letter on the day specified in such certificate.
+
+(3) In subsection (2), “postal operator” has the meaning given by section 125(1) of the Postal Services Act 2000 (c. 26).
+
+#### 105 Review of order
+
+(1) On the application of a relevant applicant the court that made a parenting order may, if it considers that it would be appropriate to do so—
+
+(a) revoke the order; or
+
+(b) vary the order by—
+
+(i) deleting any of the requirements specified in the order;
+
+(ii) adding a new requirement;
+
+(iii) altering the period specified for the purpose of section 103(1)(b).
+
+(2) In subsection (1), “relevant applicant” means—
+
+(a) the person specified in the order;
+
+(b) the child in respect of whom the order was made;
+
+(c) the local authority for the area in which the person specified in the order ordinarily resides.
+
+(3) Before an application is made under subsection (1) by a local authority, it shall consult the Principal Reporter.
+
+(4) Where an application under subsection (1) for the revocation or, as the case may be, variation, of a parenting order is refused, another such application by the same applicant under that subsection for revocation or, as the case may be, variation, may be made only with the consent of the court that made the order.
+
+(5) Where the court that made a parenting order is satisfied that—
+
+(a) the person specified in the order proposes to change, or has changed, the person’s place of ordinary residence; and
+
+(b) it is appropriate to make an order specifying the sheriff of another sheriffdom as the court that may entertain applications under subsection (1),
+
+it may make such an order; and in such a case, this section shall be read as if references to the court that made the order were references to that sheriff.
+
+#### 106 Appeals
+
+An interlocutor—
+
+(a) varying, or refusing to vary, a parenting order; or
+
+(b) making a parenting order under section 13,
+
+is an appealable interlocutor.
+
+#### 107 Failure to comply with order
+
+(1) If the person specified in a parenting order fails without reasonable excuse to comply with—
+
+(a) any requirement specified in the order; or
+
+(b) any direction given under the order,
+
+the person shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) In determining the sentence to be imposed on a person guilty of an offence under subsection (1) a court shall take into consideration the welfare of any child in respect of whom the person is a parent.
+
+### General requirements
+
+#### 108 Procedural requirements
+
+(1) Before making, varying or revoking a parenting order, a court shall—
+
+(a) having regard to the age and maturity of the child, so far as practicable—
+
+(i) give the child an opportunity to indicate whether the child wishes to express views; and
+
+(ii) if the child so wishes, give the child an opportunity to express those views;
+
+(b) give the parent the opportunity to be heard;
+
+(c) obtain information about the family circumstances of the parent and the likely effect of the order on those circumstances.
+
+(2) Before making a parenting order, the court shall explain in ordinary language—
+
+(a) the effect of the order and of the requirements proposed to be included in it;
+
+(b) the consequences of failing to comply with the order;
+
+(c) the powers the court has under section 105; and
+
+(d) the entitlement of the parent to appeal against the making of the order.
+
+(3) Before varying or revoking a parenting order, the court shall explain in ordinary language the effect of the variation or, as the case may be, revocation.
+
+(4) Subsections (2) and (3) apply only where the parent is present in court.
+
+(5) Failure to comply with subsection (2) or (3) shall not affect the validity of the order made.
+
+(6) Without prejudice to the generality of subsection (1)(a), a child who is at least 12 years of age shall be presumed to be of sufficient age and maturity to form a view.
+
+#### 109 General considerations relating to making, varying and revoking order
+
+(1) Where a court is determining whether to make, vary or revoke a parenting order its paramount consideration shall be the welfare of the child.
+
+(2) Where a court is determining whether to make a parenting order it shall have regard to—
+
+(a) such views as the child has expressed in relation to that matter by virtue of paragraph (a) of subsection (1) of section 108;
+
+(b) the information obtained in relation to that matter by virtue of paragraph (c) of that subsection;
+
+(c) whether (and if so the extent to which) the parent has, at any time that appears to the court to be relevant, taken relevant voluntary steps; and
+
+(d) any other behaviour of the parent that appears to the court to be relevant.
+
+(3) Where a court is determining whether to vary or revoke a parenting order it shall have regard to—
+
+(a) such views as the child has expressed in relation to that matter by virtue of paragraph (a) of subsection (1) of section 108;
+
+(b) the information obtained in relation to that matter by virtue of paragraph (c) of that subsection; and
+
+(c) any behaviour of the parent that appears to the court to be relevant.
+
+(4) In subsection (2)(c), “relevant voluntary steps” means—
+
+(a) where the court is determining whether to—
+
+(i) make a parenting order under section 13; or
+
+(ii) make a parenting order under subsection (1) of section 102 in respect of the condition mentioned in subsection (4) of that section,
+
+voluntary steps intended to be in the interests of preventing the child from engaging in antisocial behaviour;
+
+(b) where the court is determining whether to make a parenting order under subsection (1) of section 102 in respect of the condition mentioned in subsection (5) of that section, voluntary steps intended to be in the interests of preventing the child from engaging in criminal conduct;
+
+(c) where the court is determining whether to make a parenting order under subsection (1) of section 102 in respect of the condition mentioned in subsection (6) of that section, voluntary steps intended to be in the interests of improving the welfare of the child.
+
+#### 110 Account to be taken of religion, work and education
+
+(1) A court shall ensure that the requirements of a parenting order made by it avoid, so far as practicable—
+
+(a) any conflict with the religious beliefs of the person specified in the order; and
+
+(b) any interference with times at which that person normally works (or carries out voluntary work) or attends an educational establishment.
+
+(2) The supervising officer appointed by a local authority in respect of a parenting order shall ensure that the directions given by the officer avoid, so far as practicable, the matters mentioned in subsection (1)(a) and (b).
+
+### Miscellaneous
+
+#### 111 Restriction on reporting proceedings relating to parenting orders
+
+(1) Subject to subsection (2), a person shall be guilty of an offence if the person publishes, anywhere in the world, any matter in respect of relevant proceedings which is intended, or likely to, identify—
+
+(a) the parent concerned in the proceedings (the “person concerned”);
+
+(b) any address as being that of the person concerned;
+
+(c) the child concerned in the proceedings;
+
+(d) any other child—
+
+(i) who is a member of the same household as the person concerned; or
+
+(ii) of whom the person concerned is a parent; or
+
+(e) any—
+
+(i) address; or
+
+(ii) school,
+
+as being that of a child mentioned in paragraph (c) or (d).
+
+(2) In relevant proceedings, the court may, in the interests of justice, order that subsection (1) shall not apply to the proceedings to such extent as the court considers appropriate.
+
+(3) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(4) It shall be a defence for a person charged with an offence under subsection (1) to show that the person—
+
+(a) did not know; and
+
+(b) had no reason to suspect,
+
+that the published matter was intended, or was likely, to identify the person concerned, child, address or school (as the case may be).
+
+(5) Section 46 of the Children and Young Persons (Scotland) Act 1937 (c. 37) shall apply in relation to relevant proceedings only in respect of a person concerned in the proceedings as a witness.
+
+(6) A child in whose interests a parenting order has been made shall be regarded as a person who falls within subsection [[^F176](1A)(a)] of section 47 of the Criminal Procedure (Scotland) Act 1995 (c. 46) for the purposes of that section in its application to proceedings in respect of the commission of an offence under section 107(1) in respect of that order.
+
+(7) In this section—
+
+- “programme service” has the meaning given by section 201 of the Broadcasting Act 1990 (c. 42);
+
+- “publishes” includes—
+
+  - (a) causing to be published; and
+  - (b) publishing in a programme service,
+
+  and “published” shall be construed accordingly; and
+
+- “relevant proceedings” means—
+
+  - (a) proceedings before a sheriff for the purpose of considering whether to make a parenting order under section 13(1);
+  - (b) proceedings before a sheriff on an application for the making of a parenting order under section 102(1);
+  - (c) proceedings before a sheriff on an application for the variation, or revocation, of a parenting order under section 105(1);
+  - (d) proceedings before a sheriff for the purpose of considering whether to make an order under section 105(5);
+  - (e) an appeal arising from proceedings such as are mentioned in paragraphs (a) to (d).
+
+#### 112 Conduct of proceedings by reporters
+
+(1) The Scottish Ministers may by regulations empower a reporter, whether or not the reporter is an advocate or solicitor, to conduct proceedings—
+
+(a) before a sheriff—
+
+(i) on an application by the Principal Reporter for the making of a parenting order;
+
+(ii) on an application for the variation, or revocation, of a parenting order made on the application of the Principal Reporter, under section 105(1); or
+
+(iii) for the purpose of considering whether to make an order under section 105(5) in respect of a parenting order made on the application of the Principal Reporter; or
+
+(b) before [[^F177]the Sheriff Appeal Court], on any appeal arising from proceedings such as are mentioned in paragraph (a).
+
+(2) Regulations under subsection (1) may prescribe such requirements as the Scottish Ministers think fit as to—
+
+(a) qualifications;
+
+(b) training; or
+
+(c) experience,
+
+necessary for a reporter to be so empowered.
+
+(3) In this section, “reporter” means—
+
+(a) the Principal Reporter; and
+
+(b) any [[^F178]person employed by the Scottish Children’s Reporter Administration to whom there is delegated, under paragraph 10 of schedule 3 to the Children’s Hearings (Scotland) Act 2011 (asp 1), any function of the Principal Reporter.]
+
+#### 113 Initial investigations by Principal Reporter
+
+(1) For the purpose of determining whether to make an application for the making of a parenting order under section 102, the Principal Reporter may make such investigations as the Principal Reporter considers appropriate.
+
+(2) On a request made by the Principal Reporter for the purpose mentioned in subsection (1), a local authority shall supply to the Principal Reporter a report on—
+
+(a) the child in relation to whom the Principal Reporter is determining whether to make the application;
+
+(b) the parent in relation to whom the Principal Reporter is determining whether to make the application; and
+
+(c) such circumstances concerning—
+
+(i) the child; and
+
+(ii) the parent,
+
+as appear to the Principal Reporter to be relevant.
+
+#### 114 Power of court to direct Principal Reporter to consider application for parenting order
+
+Where, in any proceedings (other than proceedings under section 4 or 102), it appears to a court that it might be appropriate for a parenting order to be made in respect of a parent of a child, the court may require the Principal Reporter to consider whether to apply under section 102 for such an order.
+
+#### 115 Guidance about parenting orders
+
+A person (other than a court) shall, in discharging functions by virtue of section 13 or this Part, have regard to any guidance given by the Scottish Ministers about—
+
+(a) the discharge of those functions; and
+
+(b) matters arising in connection with the discharge of those functions.
+
+#### [^F179]116 Power of hearing to direct Principal Reporter to consider application for parenting order
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation
+
+#### 117 Interpretation of Part 9
+
+In this Part—
+
+- “child” means a person who is under the age of 16 years;
+
+- [[^F180]“parent” means—
+
+  - any parent enjoying parental responsibilities or parental rights under Part 1 of the Children (Scotland) Act 1995,
+  - any individual in whom parental responsibilities or parental rights are vested by, under or by virtue of that Act,
+  - any individual in whom parental responsibilities or parental rights are vested by, under or by virtue of a permanence order (as defined in section 80(2) of the Adoption and Children (Scotland) Act 2007), and
+  - any individual who appears to be an individual who ordinarily (and other than by reason only of the individual’s employment) has charge of, or control over, the child,]
+
+- “parenting order” has the meaning given by section 103(1).
+
+## Part 10 — Further criminal measures
+
+### Antisocial behaviour orders
+
+#### 118 Antisocial behaviour orders
+
+After section 234A of the Criminal Procedure (Scotland) Act 1995 (c. 46) there shall be inserted—
+
+> **Antisocial behaviour orders**
+>
+> **234AA Antisocial behaviour orders**
+>
+> (1) Where subsection (2) below applies, the court may, instead of or in addition to imposing any sentence which it could impose, make an antisocial behaviour order in respect of a person (the “offender”).
+>
+> (2) This subsection applies where—
+>
+> (a) the offender is convicted of an offence;
+>
+> (b) at the time when he committed the offence, the offender was at least 12 years of age;
+>
+> (c) in committing the offence, he engaged in antisocial behaviour; and
+>
+> (d) the court is satisfied, on a balance of probabilities, that the making of an antisocial behaviour order is necessary for the purpose of protecting other persons from further antisocial behaviour by the offender.
+>
+> (3) For the purposes of subsection (2)(c) above, a person engages in antisocial behaviour if he—
+>
+> (a) acts in a manner that causes or is likely to cause alarm or distress; or
+>
+> (b) pursues a course of conduct that causes or is likely to cause alarm or distress,
+>
+> to at least one person who is not of the same household as him.
+>
+> (4) Subject to subsection (5) below, an antisocial behaviour order is an order which prohibits, indefinitely or for such period as may be specified in the order, the offender from doing anything described in the order.
+>
+> (5) The prohibitions that may be imposed by an antisocial behaviour order are those necessary for the purpose of protecting other persons from further antisocial behaviour by the offender.
+>
+> (6) Before making an antisocial behaviour order, the court shall explain to the offender in ordinary language—
+>
+> (a) the effect of the order and the prohibitions proposed to be included in it;
+>
+> (b) the consequences of failing to comply with the order;
+>
+> (c) the powers the court has under subsection (8) below; and
+>
+> (d) the entitlement of the offender to appeal against the making of the order.
+>
+> (7) Failure to comply with subsection (6) shall not affect the validity of the order.
+>
+> (8) On the application of the offender in respect of whom an antisocial behaviour order is made under this section, the court which made the order may, if satisfied on a balance of probabilities that it is appropriate to do so—
+>
+> (a) revoke the order; or
+>
+> (b) subject to subsection (9) below, vary it in such manner as it thinks fit.
+>
+> (9) Where an antisocial behaviour order specifies a period, the court may not, under subsection (8)(b) above, vary the order by extending the period.
+>
+> (10) An antisocial behaviour order made under this section, and any revocation or variation of such an order under subsection (8) above, shall be taken to be a sentence for the purposes of an appeal.
+>
+> (11) Sections 9 and 11 of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) (which provide that breach of an antisocial behaviour order made under that Act is an offence for which a person is liable to be arrested without warrant) shall apply in relation to antisocial behaviour orders made under this section as those sections apply in relation to antisocial behaviour orders made under section 4 of that Act.
+>
+> (12) In this section, “conduct” includes speech; and a course of conduct must involve conduct on at least two occasions.
+>
+> **234AB Antisocial behaviour orders: notification**
+>
+> (1) Upon making an antisocial behaviour order under section 234AA of this Act, the court shall—
+>
+> (a) serve a copy of the order on the offender; and
+>
+> (b) give a copy of the order to the local authority it considers most appropriate.
+>
+> (2) Upon revoking an antisocial behaviour order under subsection (8)(a) of that section, the court shall notify the local authority to whom a copy of the order was given under subsection (1)(b) above.
+>
+> (3) Upon varying an antisocial behaviour order under subsection (8)(b) of that section, the court shall—
+>
+> (a) serve a copy of the order as varied on the offender; and
+>
+> (b) give a copy of the order as varied to the local authority to whom a copy of the order was given under subsection (1)(b) above.
+>
+> (4) For the purposes of this section, a copy is served on an offender if—
+>
+> (a) given to him; or
+>
+> (b) sent to him by registered post or the recorded delivery service.
+>
+> (5) A certificate of posting of a letter sent under subsection (4)(b) issued by the postal operator shall be sufficient evidence of the sending of the letter on the day specified in such certificate.
+>
+> (6) In this section, “offender” means the person in respect of whom the antisocial behaviour order was made.
+
+.
+
+#### 119 Records of antisocial behaviour orders made in criminal courts
+
+(1) A local authority shall keep records of each antisocial behaviour order of which the authority has been given a copy by virtue of subsection (1)(b) of section 234AB of the Criminal Procedure (Scotland) Act 1995 (c. 46) (the “1995 Act”).
+
+(2) A record kept under subsection (1) shall specify—
+
+(a) the person in respect of whom the order was made;
+
+(b) the prohibitions imposed by the order;
+
+(c) whether a prohibition is indefinite or for a definite period and where it is for a period, that period;
+
+(d) where the authority is, by virtue of subsection (2) of that section of the 1995 Act, notified of the revocation of the order, the date on which it was revoked;
+
+(e) where the authority is, by virtue of subsection (3)(b) of that section of the 1995 Act, given a copy of the order as varied, the variation and its date; and
+
+(f) such other matters relating to the order as the Scottish Ministers may prescribe in regulations.
+
+(3) A local authority shall, on a request to do so being made to it by a person mentioned in subsection (4), disclose to that person information contained in a record kept under subsection (1).
+
+(4) Those persons are—
+
+(a) the Scottish Ministers;
+
+(b) the Principal Reporter;
+
+(c) any other local authority;
+
+[[^F181](d) the chief constable of the Police Service of Scotland;]
+
+(e) a registered social landlord.
+
+(5) A local authority shall, in discharging functions by virtue of this section, have regard to such guidance issued by the Scottish Ministers as to—
+
+(a) the discharge of those functions; and
+
+(b) such matters arising in connection with the discharge of those functions,
+
+as the Scottish Ministers think fit.
+
+### Community reparation orders
+
+#### 120 Community reparation orders
+
+[^F182]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Restriction of liberty orders
+
+#### 121 Restriction of liberty orders
+
+(1) Section 245A of the Criminal Procedure (Scotland) Act 1995 (c. 46) (restriction of liberty orders) shall be amended in accordance with subsections (2) and (3).
+
+(2) In subsection (1), the words “of 16 years of age or more” are repealed.
+
+(3) After subsection (11), there shall be inserted—
+
+> (11A) A court shall not make a restriction of liberty order in respect of an offender who is under 16 years of age unless, having obtained a report on the offender from the local authority in whose area he resides, it is satisfied as to the services which the authority will provide for his support and rehabilitation during the period when he is subject to the order.
+
+.
+
+### Sale of spray paint to children
+
+#### 122 Offence of selling spray paint to child
+
+(1) A person who sells to a person under the age of 16 a spray paint device shall be guilty of an offence.
+
+(2) In subsection (1), “spray paint device” means a device which—
+
+(a) contains paint stored under pressure; and
+
+(b) is designed to permit the release of the paint as a spray.
+
+(3) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) It shall be a defence for a person charged with an offence under subsection (1) to show that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+#### 123 Requirement to display warning statement
+
+(1) A notice displaying the statement— “ It is illegal to sell a spray paint device to anyone under the age of 16 ”
+
+shall be exhibited at an appropriate place at every premises at which spray paint devices are sold by retail.
+
+(2) In subsection (1), “appropriate place” means a prominent position where the statement is readily visible to persons at the point of sale of spray paint devices.
+
+(3) The dimensions of the notice to be exhibited in accordance with subsection (1), and the size of the statement to be displayed on it, shall be such as may be prescribed by regulations made by the Scottish Ministers.
+
+(4) Where—
+
+(a) a person carries on a business involving the retail of spray paint devices at any premises; and
+
+(b) no notice is exhibited in accordance with subsection (1) at those premises,
+
+that person shall be guilty of an offence.
+
+(5) A person guilty of an offence under subsection (4) shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(6) It shall be a defence for a person charged with an offence under subsection (4) to show that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(7) Where an offence under subsection (4) is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to, any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, that person as well as the body corporate shall be guilty of that offence.
+
+(8) In subsection (7), “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(9) Where an offence under subsection (4) is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership shall be guilty of that offence.
+
+(10) In this section—
+
+- “premises” includes—
+
+  - (a) any place; and
+  - (b) any vehicle, vessel, aircraft, hovercraft, stall or moveable structure; and
+
+- “spray paint device” has (except where it appears in the statement set out in subsection (1)) the same meaning as in section 122(1).
+
+#### 124 Offences under sections 122 and 123: enforcement
+
+(1) A local authority shall, within its area, enforce sections 122 and 123.
+
+(2) Subsection (1) does not authorise a local authority to institute proceedings for an offence under section 122(1) or 123(4).
+
+#### 125 Offences under sections 122 and 123: powers of entry, inspection and seizure
+
+(1) Subject to subsection (3), an authorised officer of a local authority may at any reasonable hour exercise any of the powers conferred by subsections (4) to (7).
+
+(2) In subsection (1), “authorised officer”, in relation to a local authority, means an officer of the authority authorised in writing by it for the purposes of this section.
+
+(3) An officer seeking to exercise a power mentioned in subsection (1) shall, if requested, produce evidence of identity and authorisation.
+
+(4) The officer may, for the purpose of ascertaining whether a relevant offence has been committed—
+
+(a) inspect any goods; and
+
+(b) enter any premises (other than premises used only as a dwelling).
+
+(5) If the officer has reasonable cause to suspect that a relevant offence has been committed, the officer may, for the purpose of ascertaining whether it has been committed—
+
+(a) require any person carrying on, or employed in connection with, a business, to produce any records relating to the business; and
+
+(b) take copies of, or of any entry in, any records produced by virtue of paragraph (a).
+
+(6) If the officer has reasonable cause to believe that a relevant offence has been committed, the officer may, for the purpose of ascertaining, by testing or otherwise, whether it has been committed, seize and detain any goods.
+
+(7) The officer may seize and detain any goods or records which the officer has reason to believe may be required as evidence in proceedings for a relevant offence.
+
+(8) In this section, “relevant offence” means an offence under section 122(1) or 123(4).
+
+### Seizure of vehicles
+
+#### 126 Vehicles used in manner causing alarm, distress or annoyance
+
+(1) Where—
+
+(a) regulations under section 127 are in force; and
+
+(b) subsection (2) applies,
+
+a constable in uniform may exercise the powers mentioned in subsection (3).
+
+(2) This subsection applies where the constable has reasonable grounds for believing that a motor vehicle—
+
+(a) is being used on any occasion in a manner which—
+
+(i) contravenes section 3 or 34 of the Road Traffic Act 1988 (c. 52) (careless and inconsiderate driving and prohibition of off-road driving); and
+
+(ii) is causing, or is likely to cause, alarm, distress or annoyance to members of the public; or
+
+(b) has been used on any occasion in a manner which—
+
+(i) contravened either of those sections of that Act; and
+
+(ii) caused, or was likely to cause, such alarm, distress or annoyance.
+
+(3) The powers are—
+
+(a) if the motor vehicle is moving, power to order the person driving it to stop the vehicle;
+
+(b) subject to subsection (4), power to seize and remove the motor vehicle;
+
+(c) for the purposes of exercising a power falling within paragraph (a) or (b), power to enter any premises (other than a private dwelling house) on which the constable has reasonable grounds for believing the motor vehicle to be;
+
+(d) power to use reasonable force, if necessary, in the exercise of a power conferred by any of paragraphs (a) to (c).
+
+(4) Subject to subsection (5), the constable shall not seize the motor vehicle unless—
+
+(a) where the case falls within subsection (2)(a)—
+
+(i) the constable has warned the person who is using the motor vehicle in the manner mentioned in that subsection that if the use continues the constable will seize the vehicle; and
+
+(ii) it appears to the constable that, after the warning, the use has continued; or
+
+(b) where the case falls within subsection (2)(b)—
+
+(i) the constable has warned the person who used the motor vehicle in the manner mentioned in that subsection that if the use is repeated, the constable will seize the vehicle; and
+
+(ii) it appears to the constable that, after the warning, the use has been repeated.
+
+(5) Subsection (4) does not require a warning to be given by a constable on any occasion on which the constable would otherwise have the power to seize a motor vehicle under this section if—
+
+(a) the circumstances make it impracticable for the constable to give the warning;
+
+(b) the constable has already on that occasion given a warning under that subsection in respect of any use of that motor vehicle or of another motor vehicle by that person or any other person; or
+
+(c) the constable has reasonable grounds for believing—
+
+(i) that such a warning has been given on that occasion otherwise than by that constable; or
+
+(ii) that the person whose use of that motor vehicle on that occasion would justify the seizure is a person to whom a warning under that subsection has been given (whether or not by that constable or in respect of the same vehicle or the same or a similar use) on a previous occasion in the previous 12 months.
+
+(6) A person who fails to comply with an order under subsection (3)(a) shall be guilty of an offence.
+
+(7) A person guilty of an offence under subsection (6) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(8) In this section—
+
+- “driving” has the same meaning as in the Road Traffic Act 1988 (c. 52);
+
+- “motor vehicle” means any mechanically propelled vehicle, whether or not it is intended or adapted for use on roads; and
+
+- “private dwelling house” does not include—
+
+  - (a) any garage or other structure occupied with the dwelling house; or
+  - (b) any land appurtenant to the dwelling house.
+
+#### 127 Retention etc. of vehicles seized under section 126
+
+(1) The Scottish Ministers may by regulations make provision as to—
+
+(a) the removal and retention of motor vehicles seized under section 126; and
+
+(b) the release or disposal of such vehicles.
+
+(2) Regulations under subsection (1) may in particular make provision for or in connection with—
+
+(a) the giving of notice of the seizure of a motor vehicle under section 126 to a person who—
+
+(i) is the owner of that vehicle; or
+
+(ii) in accordance with the regulations, appears to be its owner;
+
+(b) the procedure by which a person who claims to be the owner of a motor vehicle seized under section 126 may seek to have it released;
+
+(c) requiring the payment of fees, charges or other costs in relation to—
+
+(i) the removal and retention of such a motor vehicle; and
+
+(ii) any application for its release;
+
+(d) the circumstances in which a motor vehicle seized under section 126 may be disposed of;
+
+(e) the delivery to a local authority, in circumstances prescribed by or determined in accordance with the regulations, of any motor vehicle seized under section 126.
+
+(3) Regulations under subsection (1) shall provide that a person who would otherwise be liable to pay any fee or charge under the regulations shall not be liable to pay it if—
+
+(a) the use by reference to which the motor vehicle concerned was seized was not a use by that person; and
+
+(b) the person—
+
+(i) did not know of the use of the vehicle in the manner that led to its seizure;
+
+(ii) had not consented to its use in that manner; and
+
+(iii) could not, by the taking of reasonable steps, have prevented its use in that manner.
+
+(4) In this section, “motor vehicle” has the same meaning as in section 126.
+
+## Part 11 — Fixed penalties
+
+### Offences to which this Part applies
+
+#### 128 Fixed penalty offences
+
+(1) For the purposes of this Part “fixed penalty offence” means—
+
+(a) an offence under an enactment mentioned in the first column in Part 1 of the following table and described, in general terms, in the second column in that Part;
+
+(b) an offence created in subordinate legislation made under an enactment mentioned in the first column in Part 2 of the table which is of the general description mentioned in the second column in that Part; and
+
+(c) a common law offence mentioned in Part 3 of the table.
+
+|  |  |
+|---|---|
+| *Enactment* | *Description of offence* |
+| [[^F183]Section 115 of the Licensing (Scotland) Act 2005 (asp 16) | Disorderly conduct while drunk in licensed premises and other relevant premises |
+| Section 116 of the Licensing (Scotland) Act 2005 (asp 16) | Refusing to leave licensed and other relevant premises on being requested to do so] |
+| Section 47 of the Civic Government (Scotland) Act 1982 (c. 45) | Urinating or defecating in circumstances causing annoyance to others |
+| Section 50(1) of the Civic Government (Scotland) Act 1982 (c. 45) | Being drunk and incapable in a public place |
+| Section 50(2) of the Civic Government (Scotland) Act 1982 (c. 45) | Being drunk in a public place in charge of a child |
+| Section 54(1) of the Civic Government (Scotland) Act 1982 (c. 45) | Persisting, to annoyance of others, in playing musical instruments, singing, playing radios etc. on being required to stop |
+| Section 52(1) of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) | Vandalism |
+| [[^F184]Section 38(1) of the Criminal Justice and Licensing (Scotland) Act 2010 (asp 10) | Threatening or abusive behaviour] |
+| [^F185] . . . | [^F185] . . . |
+
+|  |  |
+|---|---|
+| *Enactment* | *Description of offence* |
+| Sections 201 and 203 of the Local Government (Scotland) Act 1973 (c. 65) | Consuming alcoholic liquor in a publicPlace |
+
+|  |
+|---|
+| *Common law offence* |
+| Breach of the peace |
+| Malicious mischief |
+
+(2) The Scottish Ministers may by order—
+
+(a) amend an entry in the table;
+
+(b) add an entry to the table;
+
+(c) remove an entry from the table.
+
+(3) An order under subsection (2) may make such amendment of any provision of this Part as the Scottish Ministers consider appropriate in consequence of any amendment of, or addition to or removal from, the table made by the order.
+
+### Fixed penalty notices and penalties
+
+#### 129 Fixed penalty notices
+
+(1) A constable who has reason to believe that a person aged 16 or over has committed a fixed penalty offence in a prescribed area may give the person a fixed penalty notice in respect of the offence.
+
+(2) In subsection (1)—
+
+- “fixed penalty notice” means a notice offering the opportunity, by paying a fixed penalty in accordance with this Part, to discharge any liability to be convicted of the offence to which the notice relates; and
+- “prescribed area” means an area prescribed by the Scottish Ministers by regulations.
+
+#### 130 Amount of fixed penalty and form of fixed penalty notice
+
+(1) Subject to subsection (2), the penalty payable in respect of a fixed penalty offence is such amount as the Scottish Ministers may specify by order.
+
+(2) The Scottish Ministers may not specify an amount exceeding level 2 on the standard scale.
+
+(3) A fixed penalty notice shall—
+
+(a) state the alleged offence;
+
+(b) give such particulars of the circumstances alleged to constitute the offence as are necessary to provide reasonable information about it;
+
+(c) state the amount of the fixed penalty;
+
+(d) state the clerk of the [[^F186]justice of the peace court] to whom, and the address at which, the fixed penalty may be paid;
+
+(e) inform the person to whom it is given of the right to ask to be tried for the alleged offence and explain how that right may be exercised; and
+
+(f) include such other information as the Scottish Ministers may by order prescribe.
+
+#### 131 Effect of fixed penalty notice
+
+(1) This section applies if a fixed penalty notice is given to a person (“A”) under section 129.
+
+(2) Subject to subsection (3), proceedings may not be brought against A.
+
+(3) If A asks to be tried for the alleged offence, proceedings may be brought against A.
+
+(4) Such a request shall be made by a notice given by A—
+
+(a) in the manner specified in the fixed penalty notice; and
+
+(b) before the end of the period of 28 days beginning with the day on which the notice is given.
+
+(5) If, by the end of the period mentioned in paragraph (b) of subsection (4)—
+
+(a) the fixed penalty has not been paid in accordance with this Part; and
+
+(b) A has not made a request in accordance with that subsection,
+
+then A is liable to pay to the clerk of the [[^F187]justice of the peace court] specified in the fixed penalty notice a sum equal to one and a half times the amount of the fixed penalty.
+
+(6) A sum for which A is liable by virtue of subsection (5) shall be treated as if it were a fine imposed by the [[^F187]justice of the peace court] specified in the fixed penalty notice.
+
+#### 132 Payment of fixed penalty
+
+(1) The fixed penalty stated in a fixed penalty notice is payable to the clerk of the [[^F188]justice of the peace court] specified in the notice.
+
+(2) Payment of the penalty may be made by properly addressing, pre-paying and posting a letter containing the amount of the penalty (in cash or otherwise).
+
+(3) Subsection (4) applies if a person—
+
+(a) claims to have made payment in accordance with subsection (2); and
+
+(b) shows that a letter was posted.
+
+(4) Unless the contrary is proved, payment is to be regarded as being made at the time at which the letter would be delivered in the ordinary course of post.
+
+(5) Subsection (2) is not to be read as preventing the payment of a penalty by other means.
+
+(6) [^F189]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) A letter is properly addressed for the purposes of subsection (2) if it is addressed in accordance with the requirements specified in the fixed penalty notice.
+
+### Revocation of fixed penalty notices
+
+#### 133 Revocation of fixed penalty notices
+
+(1) If—
+
+(a) a fixed penalty notice is given to a person under section 129; and
+
+(b) a constable determines that either of the conditions mentioned in subsection (2) is satisfied,
+
+the constable may revoke the notice.
+
+(2) Those conditions are—
+
+(a) that the offence to which the fixed penalty notice relates was not committed; and
+
+(b) that the notice ought not to have been issued to the person named as the person to whom it was issued.
+
+(3) Where a fixed penalty notice is revoked—
+
+(a) no amount shall be payable by way of fixed penalty in pursuance of that notice; and
+
+(b) any amount paid by way of fixed penalty in pursuance of that notice shall be repaid to the person who paid it.
+
+### Interpretation
+
+#### 134 Interpretation of Part 11
+
+In this Part—
+
+- “fixed penalty notice” has the meaning given by section 129(2); and
+- “fixed penalty offence” has the meaning given in section 128(1).
+
+## Part 12 — Children’s hearings
+
+### Supervision requirements
+
+#### [^F190]135 Supervision requirements: conditions restricting movement
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F190]136 Supervision requirements: duties of local authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Failure to provide education for excluded pupils
+
+#### [^F190]137 Failure to provide education for excluded pupils: reference
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 13 — Miscellaneous and general
+
+### Miscellaneous
+
+#### 138 Privacy of certain proceedings
+
+(1) Subject to subsection (2)—
+
+(a) proceedings mentioned in subsection (4) shall be conducted and determined in private; and
+
+(b) no person other than a person whose presence is necessary for their proper consideration shall be present.
+
+(2) The court before which particular proceedings are taking place may direct that the proceedings—
+
+(a) shall take place in public; or
+
+(b) shall take place in the presence of such additional persons as the court may direct.
+
+(3) A direction under subsection (2) may be given in respect of the whole, or any part, of proceedings.
+
+(4) The proceedings referred to in subsection (1) are—
+
+(a) proceedings before a sheriff on an application for—
+
+(i) an order under section 4(1) in respect of a child;
+
+(ii) the variation, or revocation, under section 5(1) of such an order;
+
+(iii) an order under section 102(1); or
+
+(iv) the variation, or revocation, under section 105(1) of an order made under section 13(1) or 102(1);
+
+(b) proceedings before a sheriff for the purpose of considering whether—
+
+(i) to make an order under section 7(2) in respect of a child;
+
+(ii) to recall such an order;
+
+(iii) to make a requirement under section 12(1);
+
+(iv) to make an order under section 13(1); or
+
+(v) to make an order under section 105(5); and
+
+(c) an appeal arising from proceedings mentioned in paragraph (a) or (b).
+
+#### 139 Disclosure and sharing of information
+
+(1) Where subsection (2) applies, any person who, apart from this subsection—
+
+(a) would not have power to disclose information to a relevant authority; or
+
+(b) would be by virtue of any enactment (including subsection (3)) or rule of law susceptible to a sanction or other remedy if the person disclosed the information,
+
+shall have that power or shall not be susceptible to that sanction or remedy.
+
+(2) This subsection applies if the disclosure is necessary or expedient for the purposes of any provision of—
+
+(a) this Act; or
+
+(b) any other enactment the purpose of which is to make provision for or in connection with antisocial behaviour or its effects.
+
+(3) Subject to subsection (4), where—
+
+(a) by virtue of subsection (1) a person discloses to a relevant authority information in respect of which the person is subject to a duty of confidentiality; and
+
+(b) on disclosing the information, the person informs the authority of the breach of the duty,
+
+the authority shall not disclose the information.
+
+(4) Subsection (3) shall not prevent disclosure in any case where disclosure is permitted or required by virtue of any enactment or rule of law.
+
+(5) In subsections (1) and (3), “relevant authority” means—
+
+(a) a local authority;
+
+[[^F191](b) the chief constable of the Police Service of Scotland;]
+
+(c) the Principal Reporter;
+
+(d) a registered social landlord;
+
+(e) an authority administering housing benefit;
+
+(f) a person providing services relating to housing benefit to, or authorised to discharge any function relating to housing benefit of—
+
+(i) a local authority; or
+
+(ii) an authority administering housing benefit.
+
+(6) Any person who, by virtue of this Act, must or may provide information or who provides or receives information for the purposes of any provision of this Act shall have regard to any relevant guidance given by the Scottish Ministers.
+
+(7) The Scottish Ministers may, by order, modify the meaning of “relevant authority” in subsection (5).
+
+#### 140 Equal opportunities
+
+(1) Any person discharging a function by virtue of this Act shall discharge that function in a manner that encourages equal opportunities and in particular the observance of the equal opportunity requirements.
+
+(2) In subsection (1), “equal opportunities” and “equal opportunity requirements” have the same meanings as in Section L2 of Part II of Schedule 5 to the Scotland Act 1998 (c. 46).
+
+### General
+
+#### 141 Orders and regulations
+
+(1) Any power conferred by this Act on the Scottish Ministers to make orders or regulations shall be exercisable by statutory instrument.
+
+(2) Any power conferred by this Act on the Scottish Ministers to make orders or regulations—
+
+(a) may be exercised so as to make different provision for different cases or descriptions of case or for different purposes; and
+
+(b) includes power to make such incidental, supplementary, consequential, transitory, transitional or saving provision as the Scottish Ministers consider appropriate.
+
+(3) A statutory instrument containing an order or regulations made under this Act (other than an order under section 145(2)) shall, subject to subsection (4), be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(4) A statutory instrument containing—
+
+(a) an order under section 53(1), 59(1), 68(6), 83(7), [[^F192]85(9),] 103(3), 128(2) or 139(7); or
+
+(b) regulations under section 26(2),
+
+shall not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+#### 142 Directions
+
+(1) Any power conferred by virtue of this Act on the Scottish Ministers to give a direction shall include power to vary or revoke the direction.
+
+(2) Any direction given by virtue of this Act by the Scottish Ministers shall be in writing.
+
+#### 143 Interpretation: “antisocial behaviour” and other expressions
+
+(1) For the purposes of this Act (other than Parts 7 and 8), a person (“A”) engages in antisocial behaviour if A—
+
+(a) acts in a manner that causes or is likely to cause alarm or distress; or
+
+(b) pursues a course of conduct that causes or is likely to cause alarm or distress,
+
+to at least one person who is not of the same household as A; and “antisocial behaviour” shall be construed accordingly.
+
+(2) In this Act, unless the context otherwise requires—
+
+- “conduct” includes speech; and a course of conduct must involve conduct on at least two occasions;
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39); and “area”, in relation to a local authority, means the local government area (within the meaning of that Act) for which the council is constituted;
+- “registered social landlord” means a body registered in the register maintained under [[^F193]section 20(1) of the Housing (Scotland) Act 2010 (asp 17)] ; and
+- “senior police officer” has the meaning given by section 19(1).
+
+#### 144 Minor and consequential amendments and repeals
+
+(1) Schedule 4 (which contains minor amendments and amendments consequential on the provisions of this Act) shall have effect.
+
+(2) The enactments mentioned in the first column in schedule 5 (which include enactments that are spent) are repealed to the extent set out in the second column.
+
+#### 145 Short title and commencement
+
+(1) This Act may be cited as the Antisocial Behaviour etc. (Scotland) Act 2004.
+
+(2) This Act (other than this section and section 141) shall come into force on such day as the Scottish Ministers may by order appoint.
+
+## SCHEDULE 1 — Powers in relation to equipment seized under section 47
+
+*(introduced by section 47(9))*
+
+**1** In this schedule—
+
+(a) “noise offence” means, in relation to equipment seized under section 47(2), an offence under section 45;
+
+(b) “seized equipment” means equipment seized in the exercise of the power of seizure and removal conferred by section 47(2);
+
+(c) “related equipment”, in relation to any conviction of, or proceedings for a noise offence, means seized equipment used or alleged to have been used in the commission of the offence;
+
+(d) “responsible local authority”, in relation to seized equipment, means the local authority by or on whose behalf the equipment was seized.
+
+**2** (1) Any seized equipment may be retained—
+
+(a) during the period of 28 days beginning with the seizure; or
+
+(b) if it is related equipment in proceedings for a noise offence instituted within that period against any person, until—
+
+(i) that person is sentenced or otherwise dealt with for, or acquitted of, the offence; or
+
+(ii) the proceedings are discontinued.
+
+(2) Sub-paragraph (1) does not authorise the retention of seized equipment if—
+
+(a) a person has been given a fixed penalty notice under section 46 in respect of any noise;
+
+(b) the equipment was seized because of its use in the emission of the noise in respect of which the fixed penalty notice was given; and
+
+(c) that person has paid the fixed penalty before the end of the period allowed for its payment.
+
+**3** (1) Where a person is convicted of a noise offence the court may make an order (a “forfeiture order”) for forfeiture of any related equipment.
+
+(2) The court may make a forfeiture order whether or not it deals also with the offender in respect of the offence in any other way and without regard to any restrictions on forfeiture in any enactment.
+
+(3) In considering whether to make a forfeiture order in respect of any equipment, a court shall have regard—
+
+(a) to the value of the equipment; and
+
+(b) to the likely financial and other effects on the offender of the making of the order (taken with any other order that the court contemplates making).
+
+(4) A forfeiture order operates to deprive the offender of any rights in the equipment to which it relates.
+
+**4** (1) Where any equipment has been forfeited under paragraph 3, the sheriff may, on the application of a person (other than the person in whose case the forfeiture order was made) who claims the equipment, make an order for delivery of the equipment to the applicant.
+
+(2) An order such as is mentioned in sub-paragraph (1) may only be made if the sheriff is satisfied that the applicant is the owner of the equipment.
+
+(3) No application may be made under sub-paragraph (1) after the expiry of the period of 6 months beginning with the date on which a forfeiture order was made in respect of the equipment.
+
+(4) Where the responsible local authority is of the opinion that the person in whose case the forfeiture order was made is not the owner of the equipment, it must take reasonable steps to bring to the attention of persons who may be entitled to do so their right to make an application under sub-paragraph (1).
+
+(5) An order under sub-paragraph (1) does not affect the right of any person to take, within the period of 6 months beginning with the date of the order, proceedings for the recovery of the equipment from the person in possession of it in pursuance of the order (but the right ceases on the expiry of that period).
+
+(6) If, on the expiry of the period of 6 months beginning with the date on which a forfeiture order was made in respect of the equipment, no order has been made under sub-paragraph (1), the responsible local authority may dispose of the equipment.
+
+### Return etc. of seized equipment
+
+**5** If in proceedings for a noise offence no order for forfeiture of related equipment is made, the court may (whether or not a person is convicted of the offence) give such directions as it thinks fit as to the return, retention or disposal of the equipment by the responsible local authority.
+
+**6** (1) Where in the case of any seized equipment no proceedings in which it is related equipment are begun within the period mentioned in paragraph 2(1)(a)—
+
+(a) the responsible local authority shall return the equipment to any person who—
+
+(i) appears to it to be the owner of the equipment; and
+
+(ii) makes a claim for the return of the equipment within the period mentioned in sub-paragraph (2); and
+
+(b) if no such person makes such a claim within that period, the responsible local authority may dispose of the equipment.
+
+(2) The period referred to in sub-paragraph (1)(a)(ii) is the period of 6 months beginning with the expiry of the period mentioned in paragraph 2(1)(a).
+
+(3) The responsible local authority shall take reasonable steps to bring to the attention of persons who may be entitled to do so their right to make such a claim.
+
+(4) Subject to sub-paragraph (6), the responsible local authority is not required to return any seized equipment under sub-paragraph (1)(a) until the person making the claim has paid any such reasonable charges for the seizure, removal and retention of the equipment as the authority may demand.
+
+(5) If—
+
+(a) equipment is sold in pursuance of—
+
+(i) paragraph 4(6);
+
+(ii) directions under paragraph 5; or
+
+(iii) this paragraph; and
+
+(b) before the expiration of the period of one year beginning with the date on which the equipment is sold any person satisfies the responsible local authority that at the time of its sale the person was the owner of the equipment,
+
+the authority shall pay that person any sum by which any proceeds of sale exceed any such reasonable charges for the seizure, removal or retention of the equipment as the authority may demand.
+
+(6) The responsible local authority cannot demand charges from any person under sub-paragraph (4) or (5) who it is satisfied did not know, and had no reason to suspect, that the equipment was likely to be used in the emission of noise exceeding the level determined under section 48.
+
+## SCHEDULE 2 — Penalties for certain environmental offences
+
+*(introduced by section 66)*
+
+### Part 1 — Acts
+
+**1** (1) The Sewerage (Scotland) Act 1968 shall be amended as follows.
+
+(2) In section 12(8) (connection with public sewers), for “£20,000” substitute “ £40,000 ”.
+
+(3) In section 24(2) (discharge into public sewers), for “£20,000” substitute “ £40,000 ”.
+
+(4) In section 46(2) (injurious matter in sewers), for “£20,000” substitute “ £40,000 ”.
+
+**[^F194]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** Section 75 of the Water (Scotland) Act 1980 (penalty for polluting water) shall be amended as follows—
+
+(a) in subsection (3), in paragraph (a), for “the prescribed sum” substitute “ £40,000 ”; and
+
+(b) subsection (4) is repealed.
+
+**4** (1) The 1990 Act shall be amended as follows.
+
+(2) In section 23(2) (offences under Part 1), in paragraph (a), for “£20,000” substitute “ £40,000 ”.
+
+(3) In section 33 (prohibition on disposal of waste), in—
+
+(a) subsection (8), in paragraph (a); and
+
+(b) subsection (9), in paragraph (a),
+
+for “£20,000” substitute “ £40,000 ”.
+
+(4) In section 80(6) (contravention of an abatement notice), for “£20,000” substitute “ £40,000 ”.
+
+**5** In paragraph 25(2)(a)(ii) of Schedule 1 to the Pollution Prevention and Control Act 1999 (offences), for “£20,000” substitute “ £40,000 ”.
+
+**6** In paragraph 20(2)(a)(ii) of schedule 2 to the Water Environment and Water Services (Scotland) Act 2003 (offences), for “£20,000” substitute “ £40,000 ”.
+
+### Part 2 — Subordinate legislation
+
+**[^F195]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F196]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Management control orders
+
+*(introduced by section 74(5))*
+
+**1** (1) Paragraphs 2 to 6 apply while an order is in force in respect of a house.
+
+(2) In this schedule—
+
+- “management period”, in relation to an order, means the period specified in the order; and
+- “order” means a management control order.
+
+**2** The order shall not affect the rights or liabilities of any person who, at the time when the order is made, is occupying the relevant house under the tenancy or, as the case may be, occupancy arrangement.
+
+**3** (1) The local authority shall pay to such relevant person as it considers appropriate—
+
+(a) any surplus of its income over its expenditure in respect of the house to which the order relates; and
+
+(b) the interest on any such surplus at such reasonable rate as the authority may determine.
+
+(2) The local authority shall—
+
+(a) keep accounts for the management period of its income and expenditure in respect of the house to which the order relates; and
+
+(b) afford to the relevant person all reasonable facilities for inspecting, taking copies of and verifying those accounts.
+
+(3) The Scottish Ministers may by regulations make provision about—
+
+(a) expenditure which local authorities may incur in respect of houses to which orders relate; and
+
+(b) the means of recovering such expenditure.
+
+(4) For the purposes of this paragraph “relevant person” means the person who, immediately before the order was made, was the landlord of the house to which the order relates.
+
+**4** If during the management period—
+
+(a) rent payable; or
+
+(b) consideration payable or exigible,
+
+under the tenancy or occupancy arrangement is not paid or made, the authority shall take all reasonable steps to recover the rent or consideration.
+
+**5** The local authority may authorise any person to do in relation to the relevant house anything that the authority is, by virtue of the order, entitled to do.
+
+**6** (1) Where—
+
+(a) the house to which an order relates is occupied by virtue of—
+
+(i) two or more tenancies;
+
+(ii) two or more occupancy arrangements; or
+
+(iii) one or more tenancies and one or more occupancy arrangements; and
+
+(b) during the management period, one of those tenancies or occupancy arrangements (the “old occupancy right”) ends,
+
+the person who, immediately before the order was made, was the landlord of the house may, if the local authority agrees, grant a tenancy or make an occupancy arrangement in respect of the part of the house that was subject to the old occupancy right.
+
+(2) Any rights and obligations of the landlord under a tenancy granted, or an occupancy arrangement made, by virtue of sub-paragraph (1) shall be deemed to have been transferred, by virtue of the order relating to the house, to the local authority specified in the order.
+
+## SCHEDULE 4 — Minor and consequential amendments
+
+*(introduced by section 144(1))*
+
+**1** In section 27 of the Social Work (Scotland) Act 1968 (functions of local authorities in relation to persons appearing before courts, under supervision of court orders etc.)—
+
+(a) in subsection (1)—
+
+(i) after paragraph (ac) insert—
+
+> (ad) making available, for the purposes of parenting orders under section 13 or 102 of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), such services as are required to enable requirements imposed by or under such orders to be carried out in respect of persons in their area;
+
+; and
+
+(ii) in paragraph (b), after sub-paragraph (v) insert—
+
+> (va) without prejudice to sub-paragraph (i) above, persons in their area who are subject to community reparation orders under section 245K of the said Act of 1995;
+>
+> (vb) without prejudice to sub-paragraph (i) above, persons in their area who are under 16 years of age and subject to restriction of liberty orders under section 245A of the said Act of 1995;
+
+;
+
+(b) in each of subsections (2) to (5), for the words “probation, community service and supervised attendance”, wherever they occur, substitute “ community justice ”; and
+
+(c) after subsection (5) insert—
+
+> (5A) Before including in a community justice scheme which is made, revised or modified under this section provision for the purposes of subsection (1)(b)(va), a local authority shall consult such persons or class or classes of person as the Scottish Ministers may by regulations prescribe.
+>
+> (5B) The Scottish Ministers may give local authorities directions in writing as to the content of community justice schemes; and authorities shall comply with any such directions.
+>
+> (5C) The power conferred by subsection (5B) above to give a direction shall include power to vary or revoke the direction.
+
+.
+
+**[^F197]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** After section 81(3) of the Environmental Protection Act 1990 (power to abate statutory nuisance) there shall be inserted—
+
+> (3A) The power under subsection (3) above shall, where the matter to be abated is a statutory nuisance by virtue of section 79(1)(g) above, include power to seize and remove any equipment which it appears to the authority is being or has been used in the emission of the noise in question.
+>
+> (3B) A person who wilfully obstructs any person exercising, by virtue of subsection (3A) above, the power conferred by subsection (3) above shall be liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+>
+> (3C) Schedule 1 to the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) shall have effect in relation to equipment seized by virtue of subsection (3A) above as it does in relation to equipment seized under section 47(2) of that Act, subject to the following modifications—
+>
+> (a) in paragraph 1(a), “noise offence” means an offence under section 80(4) above in respect of a statutory nuisance falling within section 79(1)(g) above; and
+>
+> (b) in paragraph 1(b), “seized equipment” means equipment seized by virtue of subsection (3A) above.
+
+.
+
+**[^F198]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** (1) The Criminal Procedure (Scotland) Act 1995 shall be amended as follows.
+
+(2) In subsection (2)(b)(ii) of section 79 (preliminary pleas and preliminary issues), after “Act” there shall be inserted “ section 9(6) of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) or that section of that Act as applied by section 234AA(11) of this Act ”.
+
+[^F199]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 219 (imprisonment for non-payment of fines)—
+
+(a) in subsection (1), after “Act” there shall be inserted “ and subsection (1A) below ”; and
+
+(b) after subsection (1) there shall be inserted—
+
+> (1A) Subsection (1) shall not apply to a fine imposed for an offence under section 107 of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8).
+
+.
+
+[^F200]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F200]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 245D (combination of restriction of liberty order with probation order or drug treatment and testing order)—
+
+(a) in subsection (1)(b)—
+
+(i) after “to”, where it first occurs, there shall be inserted—
+
+> (i) in the case of an offender who is under 16 years of age,
+
+;
+
+(ii) for “or to”, where those words first occur, there shall be substituted—
+
+> (ii) in the case of an offender who is 16 years of age or more, a probation order made under section 228(1) of this Act,
+
+; and
+
+(iii) the word “to”, where it thirdly occurs, is repealed; and
+
+(b) in subsection (3), after “and”, where it secondly occurs, there shall be inserted—
+
+> (a) in the case of an offender who is under 16 years of age, a probation order;
+>
+> (b) in the case of an offender who is 16 years of age or more,
+
+.
+
+(8) In subsection (1)(b) of section 245E (variation of restriction of liberty orders), after “court,”, where it first occurs, there shall be inserted “ apply ”.
+
+(9) In subsection (2) of section 245G (disposal on revocation of restriction of liberty order), after “disposing” there shall be inserted “ of ”.
+
+(10) In subsection (1)(b) of section 245H (documentary evidence in proceedings under section 245F), for “person subject to the order” there shall be substituted “ offender ”.
+
+[^F201]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In Schedule 9 (certificates as to proof of certain routine matters), at the end there shall be inserted the following entry—
+
+> |  |  |  |
+> |---|---|---|
+> | The Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8), section 45(1). | An officer of a local authority within the meaning of that Act authorised to do so by the authority. | That a level of noise specified in the certificate was measured at a time and in a place specified in the certificate using an approved device within the meaning of that Act. |
+
+**6** (1) The Housing (Scotland) Act 2001 shall be amended as follows.
+
+(2) In section 35(2) (conversion to short Scottish secure tenancy), for “anti-social behaviour order under section 19 of the Crime and Disorder Act 1998 (c. 37)” there shall be substituted
+
+> antisocial behaviour order—
+>
+> (a) under section 234AA of the Criminal Procedure (Scotland) Act 1995 (c. 46); or
+>
+> (b) under section 4 of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+
+.
+
+(3) In paragraph 2 of schedule 6 (grounds for granting short Scottish secure tenancy), for “anti-social behaviour order under section 19 of the Crime and Disorder Act 1998 (c. 37)” there shall be substituted
+
+> antisocial behaviour order—
+>
+> (a) under section 234AA of the Criminal Procedure (Scotland) Act 1995 (c. 46); or
+>
+> (b) under section 4 of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+
+.
+
+## SCHEDULE 5 — Repeals
+
+*(introduced by section 144(2))*
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| The Social Work (Scotland) Act 1968 (c. 49) | In section 27(2), the words from “, after” to “area,”. |
+| The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40) | In Schedule 6, paragraph 8(b). |
+| The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40) | In Schedule 4, paragraph 30. |
+| The Criminal Procedure (Scotland) Act 1995 (c. 46) | In section 245A(1), the words from “and”, where it first occurs, to the end. |
+| The Crime and Disorder Act 1998 (c. 37) | Section 19. Sections 21, 22 and 22A. |
+| The Criminal Justice (Scotland) Act 2003 (asp 7) | Sections 44 and 45. Section 83. |
+
+---
+
+[^F1]: Word in s. 1(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(2)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F2]: Word in s. 1(3)(f)(i) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F3]: Word in s. 1(3)(f)(ii) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F4]: Word in s. 1(3)(f)(iii) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F5]: Word in s. 1(4) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F6]: Word in s. 1(8) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F7]: Word in s. 1(10) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F8]: Words in s. 1(11) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(2)(b); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F9]: Word in s. 2(1)(a) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F10]: Word in s. 2(2)(a) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F11]: Words in s. 2(6) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(3); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F12]: Words in s. 8(8) substituted (1.10.2011) by The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085), art. 1(2), Sch. 1 para. 59
+[^F13]: S. 11 repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), s. 117(2), sch. 2 para. 18(a); S.S.I. 2017/345, art. 3, sch.
+[^F14]: S. 12(1)-(1D) substituted for s. 12(1) (24.6.2013) by Childrens Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 5 para. 3 (with s. 186) (with savings and transitional provisions in S.S.I. 2013/150, art. 5); S.S.I. 2013/195, arts. 2, 3
+[^F15]: S. 12(2)-(5) repealed (24.6.2013) by Childrens Hearings (Scotland) Act 2011 (asp 1), s. 206(2), sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F16]: S. 15(4)(d) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(4); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F17]: Words in s. 18 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(5)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F18]: Words in s. 18 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(5)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F19]: Words in s. 18 substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(5)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F20]: Words in s. 20(3)(b) repealed (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 8 Pt. 1; S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F21]: S. 22(3)(4) repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), s. 117(2), sch. 2 para. 18(b); S.S.I. 2017/345, art. 3, sch.
+[^F22]: Words in s. 26(1) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(1)(a), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F23]: Words in s. 26(3) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(1)(b), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F24]: S. 26(3A)(3B) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(1)(c), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F25]: Words in s. 27(2)(b)(i) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(2)(a), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F26]: Word in s. 27(2)(b)(ii) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(2)(b), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F27]: Words in s. 30(1) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(3)(a), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F28]: Words in s. 30(2) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(3)(b), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F29]: S. 30(2A) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(3)(c), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F30]: Words in s. 30(3)(b) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(3)(d), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F31]: S. 30(3A) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(3)(e), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F32]: Words in s. 31(4) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(6); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F33]: S. 32(1A) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(4)(a), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F34]: Words in s. 32(2) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(4)(b), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F35]: Words in s. 32(3) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(4)(c)(i), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F36]: Words in s. 32(3) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(4)(c)(ii), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F37]: S. 32(3A) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(4)(d), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F38]: Words in s. 33(1) substituted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(5), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F39]: Words in s. 35(1) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(7)(a); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F40]: Words in s. 35(3)(a)(i) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(7)(b)(i); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F41]: Words in s. 35(3)(a)(ii) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(7)(b)(ii); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F42]: Words in s. 36(5) inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(6), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F43]: Words in s. 37(4) substituted (10.12.2007) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 44(3)(a), 84; S.S.I. 2007/479, art. 3(1), Sch. (with arts. 4-14) (as amended by S.S.I. 2007/527, art. 2)
+[^F44]: S. 37(5) repealed (10.12.2007) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 44(3)(b), 84; S.S.I. 2007/479, art. 3(1), Sch. (with arts. 4-14) (as amended by S.S.I. 2007/527, art. 2)
+[^F45]: S. 38 repealed (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), s. 117(2), sch. 2 para. 18(c); S.S.I. 2017/345, art. 3, sch.
+[^F46]: Words in s. 40 substituted (1.4.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150), art. 1, sch. para. 7
+[^F47]: S. 40A inserted (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 99(7), 206; S.S.I. 2010/413, art. 2, Sch (with art. 6)
+[^F48]: S. 40A(1)(e)(h) repealed (31.5.2016) by Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12), s. 45(2), sch. para. 3(a) (with s. 44); S.S.I. 2016/128, reg. 2, sch. (with reg. 3); S.S.I. 2016/128, reg. 2, sch. (with reg. 3)
+[^F49]: S. 40A(1)(m) substituted (31.5.2016) by Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12), s. 45(2), sch. para. 3(b) (with s. 44); S.S.I. 2016/128, reg. 2, sch. (with reg. 3)
+[^F50]: S. 40A(1)(n) inserted (31.5.2016) by Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12), s. 45(2), sch. para. 3(c) (with s. 44); S.S.I. 2016/128, reg. 2, sch. (with reg. 3)
+[^F51]: Words in s. 51(6) substituted (10.3.2008) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 80, 84, Sch. para. 32(a); S.S.I. 2008/42, art. 3, Sch. (with arts. 4-6)
+[^F52]: S. 68(1A) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(a)
+[^F53]: Words in s. 68(2)(a) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(b)
+[^F54]: S. 68(3)(za) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(c)(i)
+[^F55]: Words in s. 68(3)(a) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(c)(ii)
+[^F56]: S. 68(3)(aa) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(c)(iii)
+[^F57]: Words in s. 68(3)(b) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(c)(iv)
+[^F58]: S. 68(3)(ba) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(c)(v)
+[^F59]: Words in s. 68(5)(a) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 3(d)
+[^F60]: Words in s. 69(1) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 4
+[^F61]: Words in s. 71(1) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 5
+[^F62]: Words in s. 72(6) substituted (28.11.2016) by The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387), art. 1, sch. 3 para. 4 (with art. 4(2))
+[^F63]: Words in s. 74(1) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 6
+[^F64]: Words in s. 78(1)(a) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 7(a)
+[^F65]: Words in s. 78(1)(c) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 7(b)
+[^F66]: Words in s. 78(2) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 7(c)
+[^F67]: Words in s. 79(1) inserted (12.3.2011) by The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201), arts. 1, 8
+[^F68]: Words in s. 81(3)(b)(i) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 14(2)(a)
+[^F69]: Words in s. 81(3)(b)(ii) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 14(2)(b)
+[^F70]: S. 81(3)(b)(iii) and word repealed (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 9(a)(i)(ii)
+[^F71]: Words in s. 81(3)(b)(iv) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 14(2)(c)
+[^F72]: S. 81(3)(b)(v)-(viii) inserted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 9(a)(iii)
+[^F73]: S. 82(2) repealed (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(2), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F74]: Word following s. 83(1)(c) repealed (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(3)(a), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F75]: S. 83(1)(ca) inserted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(3)(b), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F76]: Words in s. 83(6)(a)(i) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 14(3)(a)
+[^F77]: Words in s. 83(6)(a)(ii) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 14(3)(b)
+[^F78]: S. 83(6)(a)(iii) and word repealed (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 9(b)(i)(ii)
+[^F79]: Words in s. 83(6)(a)(iv) substituted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 1 para. 14(3)(c)
+[^F80]: S. 83(6)(a)(v)-(viii) inserted (1.4.2011) by The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211), art. 1, sch. 2 para. 9(b)(iii)
+[^F81]: Word following s. 83(6)(c) omitted (1.1.2006) by virtue of The Private Landlord Registration (Modification) (Scotland) Order 2005 (S.S.I. 2005/650), art. 2(a)
+[^F82]: S. 83(6)(e)-(l) inserted (1.1.2006) by The Private Landlord Registration (Modification) (Scotland) Order 2005 (S.S.I. 2005/650), art. 2(b)
+[^M1]: 2003 asp 11.
+[^F83]: Words in s. 83(6)(f)(i) substituted (30.11.2017) by Land Reform (Scotland) Act 2016 (asp 18), s. 130(1), sch. 2 para. 8(2) (with s. 128); S.S.I. 2017/299, reg. 2, sch. (with reg. 13)
+[^M2]: 1993 c. 44.
+[^F84]: Word following s. 83(6)(k) omitted (12.2.2009) by virtue of The Private Landlord Registration (Modification) (Scotland) Order 2009 (S.S.I. 2009/33), art. 2(a)
+[^F85]: Word in s. 83(6) omitted (1.3.2022) by virtue of The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32), art. 1, sch. 4 para. 1(2)(a)
+[^F86]: S. 83(6)(m) and preceding word inserted (12.2.2009) by The Private Landlord Registration (Modification) (Scotland) Order 2009 (S.S.I. 2009/33), art. 2(b)
+[^M3]: 1986 c. 45. Section 388 was amended by regulation 17 of S.I. 2002/1240.
+[^F87]: Word in s. 83(6)(m) substituted (1.3.2022) by The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32), art. 1, sch. 4 para. 1(2)(b)
+[^F88]: Word in s. 83(6) omitted (12.5.2022) by virtue of The Private Landlord Registration (Modification) (Scotland) Order 2022 (S.S.I. 2022/163), arts. 1, 2(a)
+[^F89]: S. 83(6)(n) inserted (1.3.2022) by The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32), art. 1, sch. 4 para. 1(2)(c)
+[^F90]: S. 83(6)(o) and word inserted (12.5.2022) by The Private Landlord Registration (Modification) (Scotland) Order 2022 (S.S.I. 2022/163), arts. 1, 2(b)
+[^F91]: Words in s. 84(2) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 2(a); S.S.I. 2013/82, art. 2(1), sch.
+[^F92]: S. 84(4)(d) substituted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(1), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F93]: Words in s. 84(5) substituted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(4), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F94]: S. 84(5A) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 3(1), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F95]: S. 84(7)(8) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 2(b); S.S.I. 2013/82, art. 2(1), sch.
+[^F96]: S. 85(2)(a)(ia) inserted (1.7.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 1(1)(a)(i), 41(3); S.S.I. 2012/150, art. 2(1)
+[^F97]: S. 85(2)(aa) inserted (1.7.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 1(1)(a)(ii), 41(3); S.S.I. 2012/150, art. 2(1)
+[^F98]: Words in s. 85(2)(b) repealed (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(5), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F99]: S. 85(2)(c)(zi) inserted (5.7.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 175(2)(a), 195 (with s. 193); S.S.I. 2006/395, art. 2, Table
+[^F100]: S. 85(3A) inserted (5.7.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 175(2)(b), 195 (with s. 193); S.S.I. 2006/395, art. 2, Table
+[^F101]: S. 85(4A) inserted (5.7.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 175(2)(c), 195 (with s. 193); S.S.I. 2006/395, art. 2, Table
+[^F102]: S. 85(6)-(9) inserted (1.7.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 1(1)(b), 41(3); S.S.I. 2012/150, art. 2(1)
+[^F103]: S. 85A inserted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 2, 41(3); S.S.I. 2011/270, art. 2, sch.
+[^F104]: S. 85A heading substituted (1.4.2025) by Disclosure (Scotland) Act 2020 (asp 13), s. 97, sch. 5 para. 4(d) (with s. 96); S.S.I. 2025/27, reg. 3(1)(2), sch.
+[^F105]: Words in s. 85A(1) substituted (1.4.2025) by Disclosure (Scotland) Act 2020 (asp 13), s. 97, sch. 5 para. 4(a) (with s. 96); S.S.I. 2025/27, reg. 3(1)(2), sch.
+[^F106]: Words in s. 85A(2) substituted (1.4.2025) by Disclosure (Scotland) Act 2020 (asp 13), s. 97, sch. 5 para. 4(b) (with s. 96); S.S.I. 2025/27, reg. 3(1)(2), sch.
+[^F107]: Words in s. 85A(3) substituted (1.4.2025) by Disclosure (Scotland) Act 2020 (asp 13), s. 97, sch. 5 para. 4(b) (with s. 96); S.S.I. 2025/27, reg. 3(1)(2), sch.
+[^F108]: Words in s. 85A(3)(a) substituted (1.4.2025) by Disclosure (Scotland) Act 2020 (asp 13), s. 97, sch. 5 para. 4(c) (with s. 96); S.S.I. 2025/27, reg. 3(1)(2), sch.
+[^F109]: Words in s. 85A(3)(b) substituted (1.4.2025) by Disclosure (Scotland) Act 2020 (asp 13), s. 97, sch. 5 para. 4(c) (with s. 96); S.S.I. 2025/27, reg. 3(1)(2), sch.
+[^F110]: Words in s. 86(1)(b) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 3(a); S.S.I. 2013/82, art. 2(1), sch.
+[^F111]: S. 86(1A) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 3(2), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F112]: Words in s. 86(2) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 3(b); S.S.I. 2013/82, art. 2(1), sch.
+[^F113]: S. 87A inserted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(6), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F114]: S. 87A title substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 5(3) (with sch. 1)
+[^F115]: Words in s. 87A(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 5(2)(a)(i) (with sch. 1)
+[^F116]: Words in s. 87A(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 5(2)(a)(ii) (with sch. 1)
+[^F117]: Words in s. 87A(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 5(2)(b) (with sch. 1)
+[^F118]: S. 88(2A)-(2C) inserted (31.8.2011 for specified purposes, 1.7.2012 in so far as not already in force) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 4(a), 41(3); S.S.I. 2011/270, art. 2, sch.; S.S.I. 2012/150, art. 2(2)
+[^F119]: Word in s. 88(2B)(a) repealed (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(2)(a)(i), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F120]: S. 88(2B)(c) and word inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(2)(a)(ii), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F121]: S. 88(4) substituted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(2)(b), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F122]: Word in s. 88(5) substituted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(2)(c), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F123]: S. 88(9)(10) inserted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 4(b), 41(3); S.S.I. 2011/270, art. 2, sch.
+[^F124]: S. 88A inserted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(7), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F125]: S. 88A(1)(a)(zi) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 5(1)(a), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F126]: Words in s. 88A(1)(a)(i) substituted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 5(1)(b), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F127]: Word in s. 88A(1)(b) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 5(1)(c)(i), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F128]: S. 88A(1)(b)(ii) and word inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 5(1)(c)(ii), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F129]: Word in s. 89(3)(b) substituted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(3)(a), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F130]: S. 89(3A) inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(3)(b), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F131]: S. 89(4)(5) added (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 4; S.S.I. 2013/82, art. 2(1), sch.
+[^F132]: Word in s. 90(1) inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(4), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F133]: Words in s. 90(1) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 5; S.S.I. 2013/82, art. 2(1), sch.
+[^F134]: Word in s. 91(1) inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(5), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F135]: Words in s. 91(1) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 6; S.S.I. 2013/82, art. 2(1), sch.
+[^F136]: Words in s. 92(1)(a) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 7(a); S.S.I. 2013/82, art. 2(1), sch.
+[^F137]: Word in s. 92(1)(b) inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(6), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F138]: Words in s. 92(1)(b) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 7(b); S.S.I. 2013/82, art. 2(1), sch.
+[^F139]: Words in s. 92(2) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), ss. 19(2), 104(3); S.S.I. 2017/330, art. 3, sch.
+[^F140]: S. 92(4) repealed (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 57(a); S.S.I. 2017/330, art. 3, sch.
+[^F141]: Words in s. 92(5) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 57(b)(i); S.S.I. 2017/330, art. 3, sch.
+[^F142]: Words in s. 92(5) repealed (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 57(b)(ii); S.S.I. 2017/330, art. 3, sch.
+[^F143]: Words in s. 92(6) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 57(c); S.S.I. 2017/330, art. 3, sch.
+[^F144]: S. 92ZA inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 5(2), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F145]: Word in s. 92ZA(1)(a)(ii) inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(7), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F146]: Words in s. 92ZA(1)(b)(i) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(a)(i); S.S.I. 2017/330, art. 3, sch.
+[^F147]: Words in s. 92ZA(1)(b)(ii) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(a)(ii); S.S.I. 2017/330, art. 3, sch.
+[^F148]: Words in s. 92ZA(1)(b)(ii)(A) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(a)(iii); S.S.I. 2017/330, art. 3, sch.; S.S.I. 2017/330, art. 3, sch.
+[^F149]: Words in s. 92ZA(1)(b)(ii)(B) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(a)(iv); S.S.I. 2017/330, art. 3, sch.; S.S.I. 2017/330, art. 3, sch.
+[^F150]: Words in s. 92ZA(2)(b)(i) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(b)(i); S.S.I. 2017/330, art. 3, sch.
+[^F151]: Words in s. 92ZA(2)(b)(ii) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(b)(ii); S.S.I. 2017/330, art. 3, sch.
+[^F152]: Words in s. 92ZA(2)(b)(ii)(A) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(b)(iii); S.S.I. 2017/330, art. 3, sch.; S.S.I. 2017/330, art. 3, sch.
+[^F153]: Words in s. 92ZA(2)(b)(ii)(B) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 58(b)(iv); S.S.I. 2017/330, art. 3, sch.; S.S.I. 2017/330, art. 3, sch.
+[^F154]: S. 92A inserted (5.7.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 175(3), 195 (with s. 193); S.S.I. 2006/395, art. 2, Table
+[^F155]: Words in s. 92A(1)(b) inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(8), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F156]: S. 92B inserted (1.6.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 6, 41(3); S.S.I. 2013/82, art. 2(2) (with art. 3(1))
+[^F157]: Word following s. 93(5)(a) repealed (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(8)(a), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F158]: S. 93(5)(aa)(ab) inserted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(8)(b), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F159]: S. 93(5)(aaa) inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), s. 41(3), sch. para. 8; S.S.I. 2013/82, art. 2(1), sch.
+[^F160]: Sum in s. 93(7) substituted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 7, 41(3); S.S.I. 2011/270, art. 2, sch. (with art. 3)
+[^F161]: S. 93A inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 8, 41(3); S.S.I. 2013/82, art. 2(1), sch. (with art. 3(2)(3))
+[^F162]: Words in s. 97(1) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), ss. 19(3)(a), 104(3); S.S.I. 2017/330, art. 3, sch.
+[^F163]: Words in s. 97(2) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), ss. 19(3)(b), 104(3); S.S.I. 2017/330, art. 3, sch.
+[^F164]: Word in s. 97(6) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 59(a); S.S.I. 2017/330, art. 3, sch.
+[^F165]: Word in s. 97(6) substituted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(9), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F166]: Words in s. 97(7) substituted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(10)(a), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F167]: Word in s. 97(7) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 59(b); S.S.I. 2017/330, art. 3, sch.
+[^F168]: Word in s. 97(7) substituted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(10)(b), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F169]: Ss. 97A, 97B and cross-heading inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 9, 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F170]: S. 99A and cross-heading inserted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 10, 41(3); S.S.I. 2011/270, art. 2, sch.
+[^F171]: Words in s. 101(1) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 60(a); S.S.I. 2017/330, art. 3, sch.
+[^F172]: Words in s. 101 inserted (1.4.2013) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 3(3), 41(3); S.S.I. 2013/82, art. 2(1), sch.
+[^F173]: Words in s. 101 inserted (31.1.2018) by Housing (Scotland) Act 2014 (asp 14), ss. 60(9), 104(3); S.S.I. 2016/412, art. 2, sch.
+[^F174]: Words in s. 101(1) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 60(b); S.S.I. 2017/330, art. 3, sch.
+[^F175]: S. 101(1A)(1B) inserted (29.1.2006) by Housing (Scotland) Act 2006 (asp 1), ss. 176(11), 195 (with s. 193); S.S.I. 2006/14, art. 2
+[^F176]: Word in s. 111(6) substituted (28.8.2024) by Children (Care and Justice) (Scotland) Act 2024 (asp 5), s. 38(3), sch. para. 11(2); S.S.I. 2024/211, reg. 2(j)(i) (with reg. 3)
+[^F177]: Words in s. 112(1)(b) substituted (1.1.2016) by The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402), art. 1, sch. para. 5 (with art. 5)
+[^F178]: Words in s. 112(3) substituted (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 14(2)
+[^F179]: S. 116 repealed (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 2
+[^F180]: Words in s. 117 substituted (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 14(3)
+[^F181]: S. 119(4)(d) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(8); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F182]: S. 120 repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 14(2), 206, Sch. 2 para. 50(a); S.S.I. 2010/413, art. 2, Sch (with art. 3(1))
+[^F183]: Entries in s. 128 Table Pt. 1 substituted (5.00 a.m. on 1.9.2009 with effect as mentioned in art. 1(2) of the amending S.S.I.) by The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248), arts. 1(1), 2(1), Sch. 1 para. 10
+[^F184]: Words in s. 128 Table Pt. 1 inserted (26.3.2026) by The Antisocial Behaviour (Fixed Penalty Offences) (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/163), arts. 1(1), 2 (with art. 4)
+[^F185]: Pt. 1 entry repealed (20.4.2018) by Offensive Behaviour at Football and Threatening Communications (Repeal) (Scotland) Act 2018 (asp 7), ss. 4, 6 (with s. 3)
+[^F186]: Words in s. 130(3)(d) substituted (for specified purposes at 10.3.2008, 2.6.2008, 8.12.2008, 23.2.2009 and 14.12.2009, and otherwise 22.2.2010) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 80, 84, Sch. para. 32(b); S.S.I. 2008/42, art. 3, Sch. (with arts. 4-6); S.S.I. 2008/192, art. 3, Sch; S.S.I. 2008/329, art. 3, Sch; S.S.I. 2008/362, art. 3, Sch.; S.S.I. 2009/432, art. 3, Schs. 1, 2
+[^F187]: Words in s. 131(5)(6) substituted (for specified purposes at 10.3.2008, 2.6.2008, 8.12.2008, 23.2.2009 and 14.12.2009, and otherwise 22.2.2010) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 80, 84, Sch. para. 32(b); S.S.I. 2008/42, art. 3, Sch. (with arts. 4-6); S.S.I. 2008/192, art. 3, Sch; S.S.I. 2008/329, art. 3, Sch; S.S.I. 2008/362, art. 3, Sch.; S.S.I. 2009/432, art. 3, Schs. 1, 2
+[^F188]: Words in s. 132(1) substituted (for specified purposes at 10.3.2008, 2.6.2008, 8.12.2008, 23.2.2009 and 14.12.2009, and otherwise 22.2.2010) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 80, 84, Sch. para. 32(b); S.S.I. 2008/42, art. 3, Sch. (with arts. 4-6); S.S.I. 2008/192, art. 3, Sch; S.S.I. 2008/329, art. 3, Sch; S.S.I. 2008/362, art. 3, Sch.; S.S.I. 2009/432, art. 3, Schs. 1, 2
+[^F189]: S. 132(6) repealed (for specified purposes at 10.3.2008, 2.6.2008, 8.12.2008, 23.2.2009 and 14.12.2009, and otherwise 22.2.2010) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 80, 84, Sch. para. 32(c); S.S.I. 2008/42, art. 3, Sch. (with arts. 4-6); S.S.I. 2008/192, art. 3, Sch; S.S.I. 2008/329, art. 3, Sch; S.S.I. 2008/362, art. 3, Sch.; S.S.I. 2009/432, art. 3, Schs. 1, 2
+[^F190]: Ss. 135-137 repealed (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 2
+[^F191]: S. 139(5)(b) substituted (1.4.2013) by Police and Fire Reform (Scotland) Act 2012 (asp 8), s. 129(2), sch. 7 para. 24(9); S.S.I. 2013/51, art. 2 (with transitional provisions and savings in S.S.I. 2013/121)
+[^F192]: Word in s. 141(4)(a) inserted (1.7.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 1(2), 41(3); S.S.I. 2012/150, art. 2(1)
+[^F193]: Words in s. 143(2) substituted (1.4.2012) by Housing (Scotland) Act 2010 (asp 17), s. 166(2), sch. 2 para. 11; S.S.I. 2012/39, art. 2, sch. 1 (with sch. 2) (as amended (1.4.2012) by S.S.I. 2012/91, art. 4)
+[^F194]: Sch. 2 para. 2 repealed (30.6.2014) by Regulatory Reform (Scotland) Act 2014 (asp 3), s. 61(2), sch. 3 para. 37; S.S.I. 2014/160, art. 2(1)(2), sch.
+[^F195]: Sch. 2 para. 7 omitted (7.1.2013) by virtue of The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360), reg. 1(2), sch. 11 para. 3(2) (with reg. 71)
+[^F196]: Sch. 2 para. 8 repealed (1.11.2025) by The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165), reg. 1(2), sch. 21 para. 1 (with sch. 23)
+[^F197]: Sch. 4 para. 2 omitted (31.12.2012) by virtue of The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330), arts. 2, 15
+[^F198]: Sch. 4 para. 4 repealed (24.6.2013) by The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 2
+[^F199]: Sch. 4 para. 5(3) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 50(b); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F200]: Sch. 4 para. 5(5)(6) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 50(b); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))
+[^F201]: Sch. 4 para. 5(11) repealed (1.2.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), sch. 2 para. 50(b); S.S.I. 2010/413, art. 2, sch. (with art. 3(1))

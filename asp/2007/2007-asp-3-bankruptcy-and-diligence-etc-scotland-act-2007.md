@@ -1,0 +1,8219 @@
+---
+title: "Bankruptcy and Diligence etc. (Scotland) Act 2007"
+identifier: "asp/2007/3"
+citation: "2007 asp 3"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2007-01-15
+last_amended: 2026-08-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2007/3"
+source_modified: 2026-08-21
+retrieved: 2026-10-11
+---
+
+# Bankruptcy and Diligence etc. (Scotland) Act 2007
+
+**2007 asp 3**
+
+An Act of the Scottish Parliament to amend the law of sequestration and personal insolvency; to amend the law about floating charges; to establish a Scottish Civil Enforcement Commission and replace officers of court with judicial officers; to amend the law of diligence; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 30th November 2006 and received Royal Assent on 15th January 2007
+
+## Part 1 — Bankruptcy
+
+### Duration of bankruptcy
+
+#### [^F1]1 Discharge of debtor
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Bankruptcy restrictions orders and undertakings
+
+#### [^F1]2 Bankruptcy restrictions orders and undertakings
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Effect of bankruptcy restrictions orders and undertakings
+
+#### 3 Disqualification from being appointed as receiver
+
+(1) Section 51 of the Insolvency Act 1986 (c. 45) (appointment of receiver) is amended as follows.
+
+(2) In subsection (3), after paragraph (b), insert—
+
+> (ba) a person subject to a bankruptcy restrictions order;
+
+.
+
+(3) In subsection (5), after “bankrupt” insert “or a person subject to a bankruptcy restrictions order”.
+
+(4) In subsection (6), after “receivers” insert
+
+> ; and
+>
+> “bankruptcy restrictions order” means—
+>
+> (a) a bankruptcy restrictions order made under section 56A of the Bankruptcy (Scotland) Act 1985 (c. 66);
+>
+> (b) a bankruptcy restrictions undertaking entered into under section 56G of that Act;
+>
+> (c) a bankruptcy restrictions order made under paragraph 1 of Schedule 4A to this Act; or
+>
+> (d) a bankruptcy restrictions undertaking entered into under paragraph 7 of that Schedule.
+
+.
+
+#### 4 Disqualification for nomination, election and holding office as member of local authority
+
+In section 31 of the Local Government (Scotland) Act 1973 (c. 65) (disqualifications for nomination, election and holding office as member of local authority)—
+
+(a) after subsection (1)(b), insert—
+
+> (ba) he is subject to a bankruptcy restrictions order;
+
+; and
+
+(b) after subsection (3A), insert—
+
+> (3B) In subsection (1)(ba) above, “bankruptcy restrictions order” means—
+>
+> (a) a bankruptcy restrictions order made under section 56A of the Bankruptcy (Scotland) Act 1985;
+>
+> (b) a bankruptcy restrictions undertaking entered into under section 56G of that Act;
+>
+> (c) a bankruptcy restrictions order made under paragraph 1 of Schedule 4A to the Insolvency Act 1986 (c. 45); or
+>
+> (d) a bankruptcy restrictions undertaking entered into under paragraph 7 of that Schedule.
+
+.
+
+#### [^F2]5 Orders relating to disqualification
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The trustee in the sequestration
+
+#### [^F2]6 Amalgamation of offices of interim trustee and permanent trustee
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]7 Repeal of trustee's residence requirement
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]8 Duties of trustee
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]9 Grounds for resignation or removal of trustee
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]10 Termination of interim trustee's functions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]11 Statutory meeting and election of trustee
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]12 Replacement of trustee acting in more than one sequestration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]13 Requirement to hold money in interest bearing account
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Debtor applications
+
+#### [^F2]14 Debtor applications
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]15 Debtor applications by low income, low asset debtors
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Jurisdiction
+
+#### [^F2]16 Sequestration proceedings to be competent only before sheriff
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Vesting of estate and dealings of debtor
+
+#### [^F2]17 Vesting of estate and dealings of debtor
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Income received by debtor after sequestration
+
+#### [^F2]18 Income received by debtor after sequestration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Debtor's home and other heritable property
+
+#### [^F2]19 Debtor's home and other heritable property
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Protected trust deeds
+
+#### [^F2]20 Modification of provisions relating to protected trust deeds
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### ...
+
+#### [^F2]21 Modification of composition procedure
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Status and powers of Accountant in Bankruptcy
+
+#### [^F2]22 Status of Accountant in Bankruptcy as officer of the court
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]23 Accountant in Bankruptcy's power to investigate trustees under protected trust deeds
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Offences
+
+#### [^F2]24 Modification of offences under section 67 of the 1985 Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous and general
+
+#### [^F2]25 Debt limits in sequestrations
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]26 Creditor to provide debt advice and information package
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]27 Continuation of sequestration proceedings
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]28 Abolition of summary administration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]29 Non-vested contingent interest reinvested in debtor
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]30 Debtor's requirement to give account of state of affairs
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]31 Restriction of debtor's right to appeal under sections 49(6) and 53(6) of the 1985 Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]32 Status of order on petition to convert protected trust deed into sequestration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 33 Power to provide for lay representation in sequestration proceedings
+
+In section 32(1) of the Sheriff Courts (Scotland) Act 1971 (c. 58) (power of Court of Session to regulate civil procedure in sheriff court), after paragraph (l) insert—
+
+> (m) permitting a debtor appearing before a sheriff under section 12 of the Bankruptcy (Scotland) Act 1985 (c. 66) (award of sequestration) to be represented, in such circumstances as may be specified in the act of sederunt, by a person who is neither an advocate nor a solicitor.
+
+.
+
+#### 34 Treatment of student loans on sequestration
+
+(1) In section 73B(12) of the Education (Scotland) Act 1980 (c. 44) (power to make provision in relation to treatment of student loans upon discharge under the 1985 Act), after “receive,” insert “before, on or”.
+
+(2) In paragraph 6 of Schedule 2 to the Education (Student Loans) Act 1990 (c. 6) (treatment of student loans on sequestration), which, notwithstanding its repeal by section 44 of and Schedule 4 to the Teaching and Higher Education Act 1998 (c. 30), is saved by virtue of article 3 of the Teaching and Higher Education Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998 (S.I. 1998 No. 2004)—
+
+(a) after “Where,” insert “before, on or”; and
+
+(b) after “before” insert “, on”.
+
+#### [^F3]35 Certain regulations under the 1985 Act: procedure
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F3]36 Minor and consequential amendments of the 1985 Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Floating charges
+
+### Registration and creation etc.
+
+#### 37 Register of Floating Charges
+
+(1) The Keeper of the Registers of Scotland (in this Part, the “Keeper”) must establish and maintain a register to be known as the Register of Floating Charges.
+
+(2) The Keeper must accept an application for registration of—
+
+(a) any document delivered to the Keeper in pursuance of section 38, 41, 42, 43 or 44 of this Act; and
+
+(b) any notice delivered to the Keeper in pursuance of section 39 or 45(2) of this Act,
+
+provided that the application is accompanied by such information as the Keeper may require for the purposes of the registration.
+
+(3) On receipt of such an application, the Keeper must note the date of receipt of the application; and, where the application is accepted by the Keeper, that date is to be treated for the purposes of this Part as the date of registration of the document or notice to which the application relates.
+
+(4) The Keeper must, after accepting such an application, complete registration by registering in the Register of Floating Charges the document or notice to which the application relates.
+
+(5) The Keeper must—
+
+(a) make the Register of Floating Charges available for public inspection at all reasonable times;
+
+(b) provide facilities for members of the public to obtain copies of the documents in the Register; and
+
+(c) supply an extract of a document in the Register, certified as a true copy of the original, to any person requesting it.
+
+(6) An extract certified as mentioned in subsection (5)(c) above is sufficient evidence of the original.
+
+(7) The Keeper may charge such fees—
+
+(a) for registering a document or notice in the Register of Floating Charges; or
+
+(b) in relation to anything done under subsection (5) above,
+
+as the Scottish Ministers may by regulations prescribe.
+
+(8) The Scottish Ministers may by regulations make provision as to—
+
+(a) the form and manner in which the Register of Floating Charges is to be maintained;
+
+(b) the form of documents (including notices as mentioned in sections 39(1) and 45(2) of this Act) for registration in that Register, the particulars they are to contain and the manner in which they are to be delivered to the Keeper.
+
+(9) Provision under subsection (8) above may, in particular, facilitate the use—
+
+(a) of electronic communication;
+
+(b) of documents in electronic form (and of certified electronic signatures in documents).
+
+#### 38 Creation of floating charges (prospective)
+
+(1) It continues to be competent, for the purpose of securing any obligation to which this subsection applies, for a company to grant in favour of the creditor in the obligation a charge (known as a “floating charge”) over all or any part of the property which may from time to time be comprised in the company's property and undertaking.
+
+(2) Subsection (1) above applies to any debt or other obligation incurred or to be incurred by, or binding upon, the company or any other person.
+
+(3) From the coming into force of this section, a floating charge is (subject to [[^F4]subsection (3A) and][^F4] section 39 of this Act) created only when a document—
+
+(a) granting a floating charge; and
+
+(b) subscribed by the company granting the charge,
+
+is registered in the Register of Floating Charges.
+
+[[^F5](3A) If a floating charge is granted in favour of a central institution, it is created only when the document granting the floating charge is executed by the company granting the charge.]
+
+[^F5]4 References in this Part to a document which grants a floating charge are to a document by means of which a floating charge is granted.
+
+#### 39 Advance notice of floating charges (prospective)
+
+(1) Where a company proposes to grant a floating charge, the company and the person in whose favour the charge is to be granted may apply to have joint notice of the proposed charge registered in the Register of Floating Charges.
+
+(2) Subsection (3) below applies where—
+
+(a) a notice under subsection (1) above is registered in the Register of Floating Charges; and
+
+(b) within 21 days of the notice being so registered, a document—
+
+(i) granting a floating charge conforming with the particulars contained in the notice; and
+
+(ii) subscribed by the company granting the charge,
+
+is registered in the Register of Floating Charges.
+
+(3) Where this subsection applies, the floating charge so created is to be treated as having been created when the notice under subsection (1) above was so registered.
+
+[[^F6](4) This section does not apply where a company proposes to grant a floating charge in favour of a central institution.][^F6]
+
+#### 40 Ranking of floating charges (prospective)
+
+(1) Subject to subsections (4) and (5) below, a floating charge—
+
+(a) created on or after the coming into force of this section; and
+
+(b) which has attached to all or any part of the property of a company,
+
+ranks as described in subsection (2) below.
+
+(2) The floating charge referred to in subsection (1) above—
+
+(a) ranks with—
+
+(i) any other floating charge which has attached to that property or any part of it; or
+
+(ii) any fixed security over that property or any part of it,
+
+according to date of creation; and
+
+(b) ranks equally with any floating charge or fixed security referred to in paragraph (a) above which was created on the same date as the floating charge referred to in subsection (1) above.
+
+(3) For the purposes of subsection (2) above—
+
+(a) the date of creation of a fixed security is the date on which the right to the security was constituted as a real right; and
+
+(b) the date of creation of a floating charge subsisting before the coming into force of this section is the date on which the instrument creating the charge was executed by the company granting the charge.
+
+(4) Where all or any part of the property of a company is subject to both—
+
+(a) a floating charge; and
+
+(b) a fixed security arising by operation of law,
+
+the fixed security has priority over the floating charge.
+
+(5) Where the holder of a floating charge over all or any part of the property of a company has received intimation in writing of the subsequent creation of—
+
+(a) another floating charge over the same property or any part of it; or
+
+(b) a fixed security over the same property or any part of it,
+
+the priority of ranking of the first-mentioned charge is restricted to security for the matters referred to in subsection (6) below.
+
+(6) Those matters are—
+
+(a) the present debt incurred (whenever payable);
+
+(b) any future debt which, under the contract to which the charge relates, the holder is required to allow the debtor to incur;
+
+(c) any interest due or to become due on the debts referred to in paragraphs (a) and (b) above;
+
+(d) any expenses or outlays which may be reasonably incurred by the holder; and
+
+(e) in the case of a floating charge to secure a contingent liability (other than a liability arising under any further debts incurred from time to time), the maximum sum to which the contingent liability is capable of amounting, whether or not it is contractually limited.
+
+(7) Subsections (1) to (6) above, and any provision made under section 41(1) of this Act, are subject to sections 175 and 176A (provision for preferential debts and share of assets) of the Insolvency Act 1986 (c. 45).
+
+#### 41 Ranking clauses (prospective)
+
+(1) The document granting a floating charge over all or any part of the property of a company may make provision regulating the order in which the charge ranks with any other floating charge or any fixed security (including a future floating charge or fixed security) over that property or any part of it.
+
+(2) Provision under subsection (1) above—
+
+(a) may displace in whole or part—
+
+(i) subsections (1) and (2) of section 40 of this Act;
+
+(ii) subsections (5) and (6) of that section;
+
+(b) may not affect the operation of subsection (4) of that section (whether as against subsections (1) and (2) of that section or other provision under subsection (1) above).
+
+(3) Accordingly, subsections (1), (2), (5) and (6) of that section have effect subject to any provision made under subsection (1) above.
+
+(4) Provision under subsection (1) above is not valid unless it is made with the consent of the holder of any subsisting floating charge, or any subsisting fixed security, which would be adversely affected by the provision.
+
+(5) A document of consent for the purpose of subsection (4) above may be registered in the Register of Floating Charges.
+
+#### 42 Assignation of floating charges (prospective)
+
+(1) A floating charge may be assigned (and the rights under it vested in the assignee) by the registration in the Register of Floating Charges of a document of assignation subscribed by the holder of the charge.
+
+(2) An assignation under subsection (1) above may be in whole or to such extent as may be specified in the document of assignation.
+
+(3) This section is without prejudice to any other enactment, or any rule of law, by virtue of which a floating charge may be assigned.
+
+[[^F7](4) This section does not apply where a floating charge is assigned (whether in whole or to a specified extent) to or by a central institution.][^F7]
+
+#### 43 Alteration of floating charges (prospective)
+
+(1) A document of alteration may alter (whether by addition, deletion or substitution of text or otherwise) the terms of a document granting a floating charge.
+
+(2) If (and in so far as) an alteration to the terms of a document granting a floating charge concerns—
+
+(a) the ranking of the charge with any other floating charge or any fixed security; or
+
+(b) the specification of—
+
+(i) the property that is subject to the charge; or
+
+(ii) the obligations that are secured by the charge,
+
+the alteration is not valid unless subsection (3) below is satisfied.
+
+(3) This subsection is satisfied if the alteration is made by a document of alteration which is—
+
+(a) subscribed by—
+
+(i) the company which granted the charge;
+
+(ii) the holder of the charge; and
+
+(iii) the holder of any other subsisting floating charge, or any subsisting fixed security, which would be adversely affected by the alteration; and
+
+(b) registered in the Register of Floating Charges.
+
+(4) [[^F8]Paragraph][^F8](a)(i) of subsection (3) above does not apply in respect of an alteration which—
+
+(a) relates only to the ranking of the floating charge first-mentioned in that subsection with any other floating charge or any fixed security; and
+
+(b) does not adversely affect the interests of the company which granted the charge.
+
+[[^F9](4A) Paragraph (b) of subsection (3) above does not apply in respect of an alteration if—
+
+(a) the holder of the floating charge is a central institution, or
+
+(b) the holder of the floating charge is not a central institution but the alteration is to be made in connection with a floating charge which is held (or which has been or is to be held) by a central institution.]
+
+[^F9]5 The granting, by the holder of a floating charge, of consent to the release from the scope of the charge of any particular property, or class of property, which is subject to the charge is to be treated as constituting an alteration—
+
+(a) to the terms of the document granting the charge; and
+
+(b) as to the specification of the property that is subject to the charge.
+
+(6) For the purpose of subsection (5) above, property is not to be regarded as released from the scope of a floating charge by reason only of its ceasing to be the property of the company which granted the charge.
+
+#### 44 Discharge of floating charges (prospective)
+
+(1) A floating charge may be discharged by the registration in the Register of Floating Charges of a document of discharge subscribed by the holder of the charge.
+
+(2) A discharge under subsection (1) above may be in whole or to such extent as may be specified in the document of discharge.
+
+(3) This section is without prejudice to any other means by which a floating charge may be discharged or extinguished.
+
+[[^F10](4) This section does not apply where the floating charge to be discharged (whether in whole or to a specified extent) is or has been held by a central institution.][^F10]
+
+#### 45 Effect of floating charges on winding up (prospective)
+
+(1) Where a company goes into liquidation, a floating charge created over property of the company attaches to the property to which it relates.
+
+[^F11]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The attachment of a floating charge to property under subsection (1) above is subject to the rights of any person who—
+
+(a) has effectually executed diligence on the property to which the charge relates or any part of it;
+
+(b) holds over that property or any part of it a fixed security ranking in priority to the floating charge; or
+
+(c) holds over that property or any part of it another floating charge so ranking.
+
+(4) Interest accrues in respect of a floating charge which has attached to property until payment is made of any sum due under the charge.
+
+(5) Part IV, except section 185, of the Insolvency Act 1986 has (subject to subsection (1) above) effect in relation to a floating charge as if the charge were a fixed security over the property to which it has attached in respect of the principal of the debt or obligation to which it relates and any interest due or to become due on it.
+
+(6) Subsections (1) to (5) above do not affect the operation of—
+
+(a) sections 53(7) and 54(6) (attachment of floating charge on appointment of receiver) of the Insolvency Act 1986;
+
+(b) sections 175 and 176A of that Act; or
+
+(c) paragraph 115(3) of Schedule B1 (attachment of floating charge on delivery of a notice by an administrator) to that Act.
+
+(7) For the purposes of this section, reference to a company going into liquidation—
+
+[^F12]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [^F13]... is to be construed in accordance with section 247(2) and (3) of the Insolvency Act 1986 (c. 45).
+
+[^F14]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 46 Repeals, savings and transitional arrangements (prospective)
+
+(1) Part XVIII (floating charges: Scotland) of the Companies Act 1985 (c. 6) is repealed.
+
+(2) Nothing in this Part (except sections 40 and 41 so far as they concern the ranking of floating charges subsisting immediately before the coming into force of this section) affects the validity or operation of floating charges subsisting before the coming into force of this section.
+
+(3) So, despite the repeal of Chapters I and III of Part XVIII of that Act by subsection (1) above, the provisions of those Chapters are to be treated as having effect for the purposes of floating charges subsisting immediately before the coming into force of this section.
+
+(4) In particular—
+
+(a) floating charges subsisting immediately before the coming into force of this section rank with each other as they ranked with each other in accordance with section 464 of the Companies Act 1985 immediately before that section was repealed by subsection (1) above; and
+
+(b) a floating charge subsisting immediately before the coming into force of this section ranks with a fixed security so subsisting as it ranked with the security in accordance with section 464 of the Companies Act 1985 immediately before that section was repealed by subsection (1) above.
+
+(5) Section 140(floating charges (Scotland)) of the Companies Act 1989 (c. 40) is repealed (but, despite being repealed, is to be treated as having effect for the purposes of subsections (3) and (4) above).
+
+#### 47 Interpretation (prospective)
+
+In this Part—
+
+- [[^F15] “ central institution ” means—
+
+  - (a) the Bank of England,
+  - (b) the central bank of a country or territory outside the United Kingdom, or
+  - (c) the European Central Bank;]
+
+- “company” means an incorporated company (whether or not a company [[^F16]as defined in section 1(1) of the Companies Act 2006]);
+
+- “fixed security”, in relation to any property of a company, means any security (other than a floating charge or a charge having the character of a floating charge) which on the winding up of the company in Scotland would be treated as an effective security over that property including, in particular, a heritable security (within the meaning of section 9(8) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35)).
+
+### Related further provision (prospective)
+
+#### 48 Formalities as to documents (prospective)
+
+(1) In section 6 (registration of documents) of the Requirements of Writing (Scotland) Act 1995 (c. 7), after subsection (1)(a), insert—
+
+> (aa) to register a document in the Register of Floating Charges;
+
+.
+
+(2) In section 46 (extract decree of reduction to be recorded) of the Conveyancing (Scotland) Act 1924 (c. 27)—
+
+(a) in subsection (2), for the words “This section” substitute “ Subsection (1) above ”; and
+
+(b) after subsection (2), insert—
+
+> (3) This section shall apply in relation to a document registered in the Register of Floating Charges as it applies in relation to a deed or other document pertaining to a heritable security which is recorded in the Register of Sasines (and the references to recording are to be read accordingly).
+
+.
+
+(3) In section 8 (rectification of defectively expressed documents) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73), after subsection (5), insert—
+
+> (5A) Subsection (5) above applies in relation to document registered in the Register of Floating Charges as it applies in relation to a document recorded in the Register of Sasines (and the references to recording are to be read accordingly).
+
+.
+
+#### 49 Industrial and provident societies (prospective)
+
+(1) For [[^F17]section 62 (floating charges created by Scottish societies) of the Co-operative and Community Benefit Societies Act 2014] (c. 48) substitute—
+
+> **62 [[^F18]Floating charges: Scotland**
+>
+> (1) Part 2 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (“the 2007 Act”) applies to a registered society as it applies to an incorporated company.
+>
+> (2) Subsection (3) applies where any assets of a registered society are subject to—
+>
+> (a) a floating charge created under Part 2 of the 2007 Act (as applied by this section), and
+>
+> (b) an agricultural charge created under Part 2 of the Agricultural Credits (Scotland) Act 1929.
+>
+> (3) For the purposes of determining the relative ranking of those charges, the following provisions of the 2007 Act apply as if the agricultural charge were a floating charge created under Part 2 of that Act on the date of creation of the agricultural charge—
+>
+> - section 40(1) to (3) (including as subject to section 41(1) to (4)),
+> - section 45(3)(c).]
+
+.
+
+(2) Section [[^F19]63] (filing of information relating to charges) of that Act is repealed.
+
+(3) In section [[^F20]64 (notification of charges etc: Scotland)] of that Act—
+
+[[^F21](a) for paragraph (a) of subsection (1) substitute—
+
+> (a) the giving to the FCA of notice of any security, except a floating charge, granted by a registered society over any of its assets;]
+
+(b) the references to section [[^F22]63] of that Act are to be treated as references to that section as it had effect immediately before its repeal by subsection (2) above.
+
+## Part 3 — [[^F23]Officers of court]
+
+### Scottish Civil Enforcement Commission
+
+#### [^F24]50 Scottish Civil Enforcement Commission
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F25]Advisory Council on Messengers-at-Arms and Sheriff Officers]
+
+#### 51 [[^F26]Advisory Council's] annual report
+
+[^F27]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [[^F28]The Advisory Council on Messengers-at-Arms and Sheriff Officers (the “Advisory Council”)] must prepare a report on its activities during the whole of each financial year as soon as practicable after the end of the period to which the report relates.
+
+(3) A report prepared under subsection (2) above—
+
+[^F29]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) may include a statistical analysis of the performance by [[^F30]officers of court] of their functions and the undertaking by officers of activities during the period to which the report relates or any other period specified by the [[^F31]Advisory Council] in the report.
+
+(4) The [[^F32]Advisory Council] may, in preparing the report under subsection (2) above, require [[^F33]the professional association designated by regulations under section 63(1)(a)] to provide any information [[^F34]provided by virtue of regulations under section 63(1A) which the Advisory Council] considers necessary or proper for the purposes of preparing the report.
+
+(5) The [[^F35]Advisory Council] must—
+
+(a) send a copy of each report prepared under subsection (2) above to the Scottish Ministers; and
+
+(b) publish the report.
+
+[^F36]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F37]52 Publication of guidance and other information (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 53 Published information not to enable identification
+
+Information—
+
+(a) contained in a report prepared under section 51(2); [^F38]...
+
+[^F38]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+of this Act must not be in a form which identifies or enables the identification of [[^F39]officers of court] or persons against whom diligence has been executed.
+
+#### [^F40]54 Register of judicial officers (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F40]55 Code of practice (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F40]56 Publication of information relating to informal debt collection (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Judicial officers
+
+#### [^F40]57 Judicial officers (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F40]58 Appointment of judicial officer
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F40]59 Annual fee (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Abolition of offices of messenger-at-arms and sheriff officer (prospective)
+
+#### [^F40]60 Abolition of offices of messenger-at-arms and sheriff officer (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Regulation of [[^F41]officers of court]
+
+#### 61 Regulation of [[^F42]officers of court]
+
+(1) The Scottish Ministers may, by regulations—
+
+(a) confer functions on;
+
+(b) remove functions from; or
+
+(c) otherwise modify the functions of,
+
+[[^F43]officers of court].
+
+(2) The Scottish Ministers may, by regulations—
+
+(a) prescribe the types of business association which [[^F44]officers of court] may form in order to carry out their functions;
+
+(b) make provision about the ownership, membership, management and control of those business associations;
+
+(c) prescribe conditions which must be satisfied by those business associations;
+
+[^F45]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Before making regulations under subsection (1) or (2) above, the Scottish Ministers must consult [[^F46]—
+
+(a) the Lord President of the Court of Session; and
+
+(b) each sheriff principal.]
+
+[^F47]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F47]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 62 Duty to notify [[^F48]Lord President and sheriff principal] of bankruptcy etc.
+
+(1) Where, in relation to [[^F49]an officer of court], any of the events mentioned in subsection (2) below occurs, the officer must, before the expiry of the period of 28 days beginning with the occurrence of the event—
+
+[[^F50](a) in the case of a messenger-at-arms, notify the Lord President of the Court of Session in writing of the event;
+
+(b) in the case of a sheriff officer, notify the sheriff principal from whom the officer holds a commission in writing of the event.]
+
+(2) The events referred to in subsection (1) above are—
+
+(a) the sequestration of the [[^F51]officer of court];
+
+(b) the granting by the officer of a trust deed for creditors;
+
+(c) the making of a bankruptcy restrictions order in respect of the officer;
+
+[^F52]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) the making, under the Company Directors Disqualification Act 1986 (c. 46), of a disqualification order against the officer;
+
+(f) where the officer is a partner in a partnership the sole or main business of which is the provision of [[^F53]officer of court] services—
+
+(i) the granting by the partnership of a trust deed for creditors; or
+
+(ii) the sequestration of the partnership;
+
+(g) where the officer is a member in a limited liability partnership the sole or main business of which is the provision of [[^F54]officer of court] services, the commencement of the winding up of that partnership on the ground of insolvency.
+
+(3) In subsection (2) above, “trust deed” has the meaning given by section 5(4A) of the 1985 Act.
+
+### [[^F55]Officers of court's] professional association
+
+#### 63 [[^F56]Officers of court's] professional association
+
+(1) The Scottish Ministers, by regulations—
+
+(a) must designate an association[[^F57](in this Part, the “professional association”)] as the professional association for [[^F58]officers of court]; and
+
+(b) may make provision in relation to the functions, constitution and procedures of the professional association.
+
+[[^F59](1A) Regulations under subsection (1) may require an officer of court to provide such information as the professional association reasonably considers necessary.]
+
+(2) The Scottish Ministers may not make regulations under subsection (1) above without first consulting—
+
+[[^F60](a) the Lord President of the Court of Session;
+
+(aa) each sheriff principal;]
+
+(b) representatives of the professional association or, as the case may be, proposed professional association; and
+
+(c) such other bodies or persons who appear to the Scottish Ministers to have an interest.
+
+(3) A person may not hold a commission as [[^F61]an officer of court] unless that person is a member of the professional association.
+
+#### 63A [[^F62]Code of practice
+
+(1) The professional association—
+
+(a) must prepare and publish a code of practice in relation to the functions of officers of court; and
+
+(b) may prepare and publish such a code in relation to the undertaking of activities by such officers.
+
+(2) The professional association may revise the whole or any part of a code published under this section.
+
+(3) Where a code or any part of a code is revised under subsection (2), the professional association—
+
+(a) in a case where the revision results in substantial changes, must publish the revised code;
+
+(b) in any other case, may publish the revised code.
+
+(4) The professional association must not publish a code of practice or a revised code of practice under this section without the prior approval of the Lord President of the Court of Session.
+
+(5) The professional association must send a copy of each code of practice published under this section to—
+
+(a) the Scottish Ministers;
+
+(b) the Lord President of the Court of Session;
+
+(c) each sheriff principal; and
+
+(d) each officer of court.]
+
+#### 64 Duty of professional association to forward complaints [^F63]...
+
+Where the professional association receives a complaint about [[^F64]an officer of court] or any services provided by the officer, the association must send details of the complaint and any material which accompanies it —
+
+[[^F65](a) to the Lord President of the Court of Session;
+
+(b) in the case of a complaint about a messenger-at-arms, to the sheriff principal from whom the messenger-at-arms holds a commission as a sheriff officer; and
+
+(c) in the case of a complaint about a sheriff officer, to the sheriff principal from whom the sheriff officer holds a commission.]
+
+#### 65 Information from professional association
+
+The [[^F66]Lord President of the Court of Session or any sheriff principal] may require the professional association to provide any information the [[^F67]Lord President or, as the case may be, sheriff principal] considers necessary or proper for the purposes of—
+
+(a) any inspection under section 66 of this Act;
+
+(b) any investigation under section [[^F68]79(2) of the 1987 Act]; or
+
+[[^F69](c) any disciplinary proceedings brought under section 79(3) of that Act.]
+
+### [[^F70]Annual fee for officers of court
+
+#### 65A Annual fee
+
+(1) The professional association may make rules requiring every officer of court holding a commission to pay an annual fee to the association.
+
+(2) Rules made under subsection (1) above may include provision—
+
+(a) specifying the date by which the fee must be paid each year;
+
+(b) specifying the manner in which it must be paid; and
+
+(c) about any other matters in relation to the fee that the professional association considers appropriate.
+
+(3) Rules under this section may be made only with the approval of the Lord President of the Court of Session.]
+
+### Investigation of [[^F71]officers of court]
+
+#### 66 Inspection of [[^F72]officer of court]
+
+(1) The [[^F73]Lord President of the Court of Session or any sheriff principal] may appoint a person to inspect the work or particular aspects of the work of [[^F74]an officer of court].
+
+(2) A person appointed under subsection (1) above must, if required to do so by the [[^F75]Lord President or, as the case may be, the sheriff principal], inquire into any activities undertaken for remuneration by the [[^F76]officer of court].
+
+(3) A person appointed under subsection (1) above must submit a report of the inspection and of any inquiry under subsection (2) above to the [[^F77]Lord President or, as the case may be, the sheriff principal].
+
+(4) The [[^F78]Scottish Ministers] must pay a person appointed under subsection (1) above—
+
+(a) a fee, unless the person is employed in the civil service and the person carries out the inspection in that person's capacity as a civil servant; and
+
+(b) any outlays reasonably incurred by the person,
+
+in connection with an inspection, inquiry and report under this section.
+
+#### [^F79]67 Investigation of alleged misconduct by judicial officer (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]68 Suspension of judicial officer pending outcome of disciplinary or criminal proceedings (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]69 Commission's duty in relation to offences or misconduct by judicial officer (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]70 Commission's power in relation to judicial officer's bankruptcy etc. (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disciplinary proceedings (prospective)
+
+#### [^F79]71 Referrals to the disciplinary committee (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]72 Disciplinary committee's powers (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F79]73 Orders under sections 68 and 72: supplementary provision (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Appeals (prospective)
+
+#### [^F79]74 Appeals from decisions under sections 58, 68 and 72 (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### 75 [[^F80]Officer of court's] actions void where officer has interest
+
+(1) Anything done by [[^F81]an officer of court] in exercising or purporting to exercise a prescribed function in relation to a matter in which the officer has an interest is void.
+
+(2) [[^F82]An officer of court] has an interest in a matter where the matter—
+
+(a) is one in which the officer has an interest as an individual; or
+
+(b) consists of or includes a debt in relation to which any of the circumstances mentioned in subsection (3) below apply.
+
+(3) The circumstances referred to in subsection (2)(b) above are that the debt is due to or by—
+
+(a) a business associate of the [[^F83]officer of court];
+
+(b) a member of the officer's family; or
+
+(c) a company or firm, and the officer, a business associate of the officer or a member of the officer's family—
+
+(i) is a director or partner of that company or firm;
+
+(ii) holds, either alone or along with an other person, a controlling interest in that company or firm; or
+
+(iii) has a pecuniary interest in that company or firm and the sole or main business of the company or firm is the purchase of debts for enforcement.
+
+(4) Any reference in subsection (3) above to—
+
+(a) a business associate of [[^F84]an officer of court] is to be construed as a reference to a co-director, partner, employer, employee, agent or principal of the officer;
+
+(b) a controlling interest in a company is to be construed as a reference to an interest giving a person control of a company within the meaning of section 840 of the Income and Corporation Taxes Act 1988 (c. 1) (meaning of “control”).
+
+(5) Any reference in subsection (3) above to a member of [[^F85]an officer of court's] family is to be construed as a reference to—
+
+(a) the spouse of the officer;
+
+(b) a person living together with the officer as husband and wife;
+
+(c) a civil partner of the officer;
+
+(d) a person living with the officer in a relationship which has the characteristics of the relationship between a husband and wife except that the person and the officer are of the same sex;
+
+(e) a parent of the officer;
+
+(f) a brother or sister of the officer;
+
+(g) a child of the officer, including—
+
+(i) a stepchild; and
+
+(ii) any child brought up or treated by the officer or any person mentioned in paragraph (b), (c) or (d) above as a child of the officer or, as the case may be, of that person;
+
+(h) a grandchild of the officer,
+
+and any relationships of the half blood or by affinity are to be construed as relationships of the full blood.
+
+(6) In subsection (4)(a) above, “principal” does not include a principal in a contract for the carrying out by the [[^F86]officer of court] of the prescribed function in relation to the debt concerned.
+
+(7) In subsections (1) and (6) above, “prescribed function” means any function conferred on [[^F87]an officer of court] by virtue of this Act or any other enactment which the Scottish Ministers by regulations specify for the purposes of this section.
+
+#### [^F88]76 Measure of damages payable by judicial officer for negligence or other fault (prospective)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 77 Effect of code of practice
+
+(1) [[^F89]An officer of court] must, in exercising the officer's functions or undertaking any activities, have regard to the provisions (so far as they are applicable) of any code of practice published under section [[^F90]63A] of this Act.
+
+(2) A failure on the part of [[^F91]an officer of court] to comply with any provision of a code of practice does not of itself render the officer liable to any criminal or civil proceedings.
+
+(3) A code of practice is admissible in evidence in any criminal or civil proceedings.
+
+(4) If any provision of a code of practice appears to—
+
+(a) the court or tribunal conducting any civil or criminal proceedings; or
+
+[[^F92](b) a relevant court (within the meaning of subsection (8) of section 79 of the 1987 Act (investigation of alleged misconduct)) in disciplinary proceedings under that section;]
+
+to be relevant to any question arising in the proceedings, that provision of the code may be taken into account in determining that question.
+
+#### 78 Electronic publications and communications
+
+In this Part—
+
+(a) references to “publishing” include publishing by electronic means and cognate expressions are to be construed accordingly; and
+
+(b) any reference to a notification, [^F93]... being in writing includes a reference to that notification, [^F93]... being an electronic communication.
+
+## Part 4 — Land attachment and residual attachment
+
+### Chapter 1 — Abolition of adjudication for debt (prospective)
+
+#### 79 Abolition of adjudication for debt (prospective)
+
+(1) The diligence of adjudication for debt is abolished and any enactment or rule of law enabling an action of adjudication for debt to be raised ceases to have effect.
+
+(2) Subsection (1) above does not affect an action of adjudication for debt—
+
+(a) raised before; and
+
+(b) in which decree of adjudication is granted no later than 6 months after,
+
+the day this section comes into force.
+
+#### 80 Renaming of the Register of Inhibitions and Adjudications (prospective)
+
+(1) The Register of Inhibitions and Adjudications is renamed the Register of Inhibitions.
+
+(2) Any reference in an enactment to—
+
+(a) the Register of Inhibitions and Adjudications;
+
+(b) the General Register of Inhibitions; or
+
+(c) the Register of Adjudications,
+
+is to be construed as a reference to the Register of Inhibitions.
+
+### Chapter 2 — Attachment of land
+
+#### Land attachment
+
+##### 81 Land attachment
+
+(1) There is to be a form of diligence over land to be known as land attachment.
+
+(2) Land attachment is competent to enforce payment of a debt but only if—
+
+(a) the debt is constituted by a decree or document of debt;
+
+(b) the debtor has been charged to pay the debt;
+
+(c) the period for payment specified in the charge has expired without payment being made; and
+
+(d) where the debtor is an individual, the creditor has, no earlier than 12 weeks before registering the notice of land attachment, provided the debtor with a debt advice and information package.
+
+(3) A land attachment is, subject to sections 83(6) and 121(1) of this Act, created at the beginning of the day which falls immediately after the expiry of the period of 28 days beginning with the day or, as the case may be, the last day on which a notice of land attachment in relation to the land is registered.
+
+(4) During the period of 28 days referred to in subsection (3) above, the notice has effect as if it were an inhibition—
+
+(a) registered against the debtor in the Register of Inhibitions; and
+
+(b) restricted to the land described in the notice.
+
+(5) A land attachment—
+
+(a) confers on the creditor a subordinate real right over the land described in the notice (in this Chapter, the “attached land”); and
+
+(b) secures the sum (in this Chapter, the “sum recoverable by the land attachment”) mentioned in subsection (6) below.
+
+(6) That sum is—
+
+(a) the sum for the payment of which the charge was served, together with any interest accruing after such service and before the attachment ceases to have effect; and
+
+(b) all expenses which are chargeable against the debtor by virtue of the attachment.
+
+(7) The Scottish Ministers may, by regulations—
+
+(a) substitute for the period of 28 days referred to in subsection (3) above such other period; and
+
+(b) make such amendment of enactments (including this Act) in consequence of such a substitution,
+
+as they think fit.
+
+(8) In this Act, “debt advice and information package” means the debt advice and information package referred to in section 10(5) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) (in this Act, the “2002 Act”).
+
+##### 82 Attachable land (prospective)
+
+(1) In this Chapter, “land” means—
+
+(a) land (including buildings and other structures and land covered with water) owned by the debtor; and
+
+(b) a long lease of land in relation to which the debtor is the tenant.
+
+(2) It is not competent to create a land attachment over—
+
+(a) land—
+
+(i) to which a title has never been registered; or
+
+(ii) to which the debtor does not have a registered title;
+
+(b) a proper liferent in relation to which the debtor is the liferenter; or
+
+(c) a long lease which is not assignable.
+
+(3) Subsection (2)(c) above does not apply to a lease which is assignable only with the consent of the landlord, whether or not it is a condition of the lease that consent must not be withheld unreasonably.
+
+##### 83 Notice of land attachment
+
+(1) A notice of land attachment must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) describe the land to be attached; and
+
+(c) be registered in both—
+
+(i) the property register in which title to the land is registered (in this Chapter, the “appropriate property register”); and
+
+(ii) the Register of Inhibitions.
+
+(2) It is not competent to register a notice of land attachment unless the sum which the debtor has been charged to pay exceeds the sum mentioned in subsection (3) below.
+
+(3) That sum is—
+
+(a) £3,000; or
+
+(b) such other sum as may be prescribed by the Scottish Ministers by regulations.
+
+(4) It is competent to register a single notice of land attachment in relation to two or more sums which, under separate warrants for diligence in execution, the debtor has been charged to pay.
+
+(5) The [[^F94]officer of court] must, on or as soon as is reasonably practicable after the day or, as the case may be, the last day on which the notice of land attachment is registered, serve a copy of the notice on—
+
+(a) the debtor;
+
+(b) any person who owns the land (whether solely or in common with the debtor); and
+
+(c) any tenant under a long lease of the land.
+
+(6) If, before the expiry of the period of 28 days referred to in section 81(3) of this Act, the creditor does not register a certificate of service on the debtor, the notice of land attachment is, and is deemed always to have been, void.
+
+(7) Subsection (1) above applies to a certificate of service as it applies to a notice of land attachment.
+
+#### Consequences of land attachment
+
+##### 84 Debts secured by land attachment not rendered heritable (prospective)
+
+The creation of a land attachment does not convert any moveable debt, in relation to the enforcement of which the notice of land attachment was registered, into a heritable one.
+
+##### 85 Restriction on priority of ranking of certain securities (prospective)
+
+After section 13 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35), insert—
+
+> **13A Effect of subsequent land attachment on ranking of standard securities**
+>
+> (1) This section applies where—
+>
+> (a) a notice of land attachment, relating to land (or any part of it) which is subject to an existing standard security duly[[^F95]registered or] recorded, is registered in accordance with section 83(1)(c) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3);
+>
+> (b) a copy of that notice is served on the creditor in that existing standard security; and
+>
+> (c) a land attachment is subsequently created on the expiry of the period of 28 days mentioned in section 81(3) of that Act.
+>
+> (2) Section 13(1) of this Act shall apply in relation to the effect on the preference in ranking of that existing standard security from the day on which the period referred to in subsection (1)(c) above expires.
+
+.
+
+##### 86 Lease granted after registration of notice of land attachment (prospective)
+
+(1) This section applies where—
+
+(a) a notice of land attachment is registered;
+
+(b) during the period of 28 days mentioned in section 81(3) of this Act—
+
+(i) the debtor; or
+
+(ii) a tenant of the debtor,
+
+grants a lease of land (or a part of it) specified in the notice; and
+
+(c) a land attachment is, on the expiry of that period, created.
+
+(2) Subject to section 163(2) to (4) of this Act (restriction on reduction of leases granted in breach of inhibition), any such lease is reducible at the instance of the creditor.
+
+(3) In subsection (1)(b) above, “tenant” includes any subtenant of the tenant and “lease” includes a sublease.
+
+##### 87 Assignation of title deeds etc. (prospective)
+
+(1) A land attachment assigns to the creditor the title deeds, including searches and all unregistered conveyances, affecting the attached land or any part of it.
+
+(2) The creditor is, in the event of a sale of the attached land (or part of it) in pursuance of a warrant under section 97(2) of this Act, entitled to—
+
+(a) deliver the title deeds (so far as in the creditor's possession and subject to the rights of any person holding prior rights to their possession) to the purchaser; and
+
+(b) assign to the purchaser any right the creditor has to have the title deeds made forthcoming.
+
+##### 88 Acquisition of right to execute land attachment
+
+(1) This section applies where—
+
+(a) a person acquires a right as mentioned in section 88(1) (acquisition of right to decree, document, order or determination authorising diligence) of the Debtors (Scotland) Act 1987 (c. 18) (in this Act, the “1987 Act”); and
+
+(b) a notice of land attachment has, before that acquisition, been registered in pursuance of that right.
+
+(2) The person acquiring the right may, by registering a notice such as is mentioned in subsection (3) below, take or continue to take any steps necessary to enforce the debt by land attachment as if the appropriate clerk had, under section 88(4) of the 1987 Act, granted warrant authorising the person to do so.
+
+(3) The notice referred to in subsection (2) above must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) be registered in—
+
+(i) the appropriate property register; and
+
+(ii) the Register of Inhibitions.
+
+(4) References in this Chapter to a “creditor” include, unless the context otherwise requires, references to a person who registers a notice under subsection (2) above.
+
+##### 89 Effect of debtor's death before land attachment created (prospective)
+
+(1) This section applies where—
+
+(a) a debtor, in relation to whose land a creditor has taken steps to commence or execute a land attachment, dies; and
+
+(b) a land attachment has not, before the date of death of the debtor, been created.
+
+(2) Any steps taken as mentioned in subsection (1)(a) above cease to have effect and any charge relating to the debt is, from the date of death of the debtor, void.
+
+(3) Nothing in subsection (2) above stops the creditor from subsequently proceeding to raise against any executor or other representative of the debtor an action to constitute the debt.
+
+(4) Any warrant for diligence in an extract of a decree in such an action authorises land attachment.
+
+##### 90 Effect of debtor's death after land attachment created (prospective)
+
+(1) For the avoidance of doubt, where a debtor, whose land is subject to a land attachment, dies, the land attachment continues to have effect in relation to the attached land.
+
+(2) The Court of Session may, by Act of Sederunt, provide for the operation of this Chapter in a case to which this section applies and may, in particular—
+
+(a) modify the provisions about service of notices of applications for warrant for sale and foreclosure; and
+
+(b) confer power on the sheriff to dispense with or modify procedures under this Chapter.
+
+##### 91 Caveat by purchaser under missives
+
+(1) This section applies where—
+
+(a) a person has entered into a contract to purchase land from a debtor; and
+
+(b) ownership has not been transferred to that person.
+
+(2) The person may, for the purpose of receiving intimation of any application, under section 92(1) of this Act, for a warrant for sale of the land, register in the Register of Inhibitions a notice in (or as nearly as may be in) the form prescribed by Act of Sederunt.
+
+#### Preparations for sale of attached land
+
+##### 92 Application for warrant to sell attached land
+
+(1) Where—
+
+(a) a land attachment is in effect;
+
+(b) the period of 6 months, beginning with the day or, as the case may be, the last day on which the notice of land attachment is registered, has expired;
+
+(c) the sum recoverable by the land attachment exceeds the sum mentioned in subsection (3) below (in this Chapter, the “prescribed sum”); and
+
+(d) the sum recoverable has not been paid,
+
+the creditor may, subject to subsection (2) below, apply to the sheriff for a warrant for sale of the attached land or such part of it as may be specified in the application.
+
+(2) The Scottish Ministers may by regulations provide that where attached land, or any part of it, is—
+
+(a) a dwellinghouse; or
+
+(b) a dwellinghouse of such description or class as may be specified in the regulations,
+
+an application under subsection (1) above may be made only in relation to such part of the attached land which is not a dwellinghouse or, as the case may be, such a dwellinghouse.
+
+(3) The prescribed sum is—
+
+(a) £3,000; or
+
+(b) such other sum as may be prescribed by the Scottish Ministers by regulations.
+
+(4) An application under subsection (1) above must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) specify—
+
+(i) the attached land (or part of it) in relation to which the warrant for sale is sought; and
+
+(ii) a solicitor who is willing to execute any warrant for sale granted; and
+
+(c) be accompanied by—
+
+(i) a report on a search in the appropriate property register in respect of the land specified in the application;
+
+(ii) a report on a search in the Register of Inhibitions in respect of the debtor and any person who owns the attached land in common with the debtor;
+
+(iii) a copy of the notice of land attachment;
+
+(iv) a copy of the certificate of service of that notice on the debtor;
+
+(v) a declaration signed by the solicitor mentioned in paragraph (b)(ii) above; and
+
+(vi) any other document prescribed by Act of Sederunt.
+
+(5) An application under subsection (1) above must be intimated to—
+
+(a) the debtor;
+
+(b) if the report mentioned in subsection (4)(c)(ii) above discloses that a notice has been registered under section 91 of this Act, the person at whose instance the notice was registered;
+
+(c) any person holding any security or diligence ranking prior to or *pari passu* with the land attachment;
+
+(d) any occupier of the land;
+
+(e) any person who owns the land in common with the debtor; and
+
+(f) any other person belonging to a class of persons prescribed by the Scottish Ministers by regulations.
+
+(6) A person who receives intimation under subsection (5) above may, before the expiry of the period of 14 days beginning with the day on which intimation is made, lodge objections to the application.
+
+(7) The Scottish Ministers may, by regulations, make further provision about the reports on searches mentioned in subsection (4)(c)(i) and (ii) above which are to accompany an application under subsection (1) above.
+
+(8) Where provision is made by virtue of this Chapter or by any other enactment permitting the application under subsection (1) above to be an electronic communication—
+
+(a) the requirement in paragraph (c) of subsection (4) above that the application be accompanied by the documents mentioned in that paragraph is satisfied by the provision of electronic communications; and
+
+(b) the requirement that the declaration mentioned in sub-paragraph (v) of that paragraph be signed is satisfied by a certified electronic signature.
+
+(9) In this section, “sheriff” means a sheriff of the sheriffdom in which the attached land or any part of it is situated.
+
+##### 93 Notice to local authority of application for warrant for sale (prospective)
+
+(1) Where a creditor (other than a local authority) applies under section 92(1) of this Act for a warrant for sale of attached land which comprises or includes a dwellinghouse, the creditor must give notice of that fact to the local authority in whose area the dwellinghouse is situated.
+
+(2) A notice under subsection (1) above must be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).
+
+##### 94 Preliminary hearing on application for warrant to sell (prospective)
+
+(1) The sheriff must, on receiving an application under section 92(1) of this Act and after expiry of the period mentioned in subsection (6) of that section—
+
+(a) hold a hearing; and
+
+(b) give the persons mentioned in subsection (5) of that section the opportunity of making representations.
+
+(2) The creditor must attend the hearing whether or not the application is opposed.
+
+(3) The sheriff must, if satisfied that the application is in order, make an order—
+
+(a) fixing a date for a hearing on the application under section 97 of this Act;
+
+(b) requiring the creditor to intimate that date to the persons mentioned in section 92(5) of this Act;
+
+(c) appointing a chartered surveyor or other suitably qualified person to report on the open market value of the land specified in the application (that surveyor or other person, and their report, being referred to in this Chapter as the “valuer” and the “valuation report” respectively); and
+
+(d) where any security or diligence is held in relation to the land specified in the application and the creditor has been unable to ascertain the amount of the sums secured by that other security or diligence, requiring the holder of that security or diligence to disclose to the creditor—
+
+(i) the amount of the sums secured; and
+
+(ii) where the security holder is obliged to pay any other sums which would be secured by that security to the debtor, the amount of such sums.
+
+##### 95 Valuation report (prospective)
+
+(1) The valuer appointed under section 94(3)(c) of this Act—
+
+(a) may take all steps which are reasonably necessary (including inspecting the attached land) to produce a valuation report; and
+
+(b) must send a copy of the report to—
+
+(i) the creditor; and
+
+(ii) the persons mentioned in section 92(5) of this Act.
+
+(2) The debtor and any other person in occupation of attached land must allow the valuer to inspect the land and carry out any other steps which are necessary to produce the valuation report.
+
+(3) The creditor is liable for the valuer's reasonable remuneration and outlays incurred in exercising functions under this section.
+
+(4) Such remuneration and outlays are expenses incurred by the creditor in executing the land attachment.
+
+##### 96 Creditor's duties prior to full hearing on application for warrant for sale
+
+(1) The creditor must, no later than 7 clear days before the date fixed for the hearing under section 97 of this Act, lodge—
+
+(a) the valuation report;
+
+(b) a continuation of the report on the search in the appropriate property register mentioned in section 92(4)(c)(i) of this Act;
+
+(c) a continuation of the report on the search in the Register of Inhibitions mentioned in section 92(4)(c)(ii) of this Act; and
+
+(d) a note specifying the amount outstanding under any security or diligence over the land specified in the application.
+
+(2) Where a report lodged under subsection (1)(b) or (c) above reveals a deed registered since the date of the report mentioned in section 92(4)(c)(i) of this Act or, as the case may be, a notice under section 91 of this Act registered since the date of the report mentioned in section 92(4)(c)(ii) of this Act, the sheriff—
+
+(a) must make an order requiring—
+
+(i) the application; and
+
+(ii) the date fixed for the hearing,
+
+to be intimated to the person who registered that deed or, as the case may be, that notice; and
+
+(b) may, if it appears necessary to do so, make an order—
+
+(i) postponing the hearing to a later date; and
+
+(ii) requiring the creditor to intimate that date to that person and to the persons mentioned in section 92(5) of this Act.
+
+(3) Where the sheriff makes an order under subsection (2)(b)(i) above postponing the hearing, the sheriff may make such ancillary orders as the sheriff thinks fit including, without prejudice to that generality, an order requiring fresh continuations of the reports on searches mentioned in subsection (1)(b) and (c) above to be lodged.
+
+(4) Subsection (6) of section 92 of this Act applies to a person who receives intimation under subsection (2) above as it applies to a person who receives intimation under subsection (5) of that section.
+
+(5) The Scottish Ministers may, by regulations, make further provision about the continuations of the reports on searches mentioned in subsection (1)(b) and (c) above which are to be lodged under that subsection.
+
+##### 97 Full hearing on application for warrant for sale
+
+(1) At the hearing on an application under section 92(1) of this Act, the sheriff must not make any order without first giving any person who has lodged objections under section 92(6) of this Act an opportunity to be heard.
+
+(2) Subject to subsections (3) and (5) below and to sections 98, 99 and 102 of this Act, the sheriff may, if satisfied that the application is in order, make an order—
+
+(a) subject to subsection (4) below, granting a warrant for sale of the attached land; and
+
+(b) authorising the solicitor specified in the application (or such other solicitor the sheriff specifies) to execute that warrant (in this Chapter, that solicitor being referred to as the “appointed person”).
+
+(3) The sheriff may, if satisfied that granting a warrant for sale would be unduly harsh to the debtor or any other person having an interest—
+
+(a) make an order under subsection (2) above but suspend its effect for a period not exceeding 1 year beginning with the date on which the order is made; or
+
+(b) make an order refusing to grant such a warrant.
+
+(4) The sheriff—
+
+(a) must specify in the warrant granted the period within which the attached land is to be sold; and
+
+(b) may grant warrant—
+
+(i) to sell only part of the attached land;
+
+(ii) to sell the attached land by lots.
+
+(5) The sheriff must make an order refusing the application for a warrant for sale if satisfied that any of the grounds mentioned in subsection (6) below apply.
+
+(6) The grounds referred to in subsection (5) above are that—
+
+(a) the land attachment is invalid;
+
+(b) the land attachment has ceased to have effect;
+
+(c) the attached land (or any part of it) is not capable of being sold;
+
+(d) the sum recoverable by the land attachment does not exceed the prescribed sum;
+
+(e) a warrant for sale of the attached land (or any part of it) has been granted to another creditor of the debtor;
+
+(f) a heritable creditor of the debtor is exercising that creditor's right to sell the attached land (or any part of it) under the security;
+
+(g) if the attached land (or any part of it) were sold, the likely net proceeds of the sale would not exceed the sum mentioned in subsection (7) below.
+
+(7) The sum referred to in subsection (6)(g) above is the aggregate of—
+
+(a) the expenses of the land attachment chargeable against the debtor; and
+
+(b) whichever is the lesser of—
+
+(i) the sum of £1,000; and
+
+(ii) the sum equal to 10 per cent of the sum mentioned in section 81(6)(a) of this Act or so much of that sum as is outstanding,
+
+or such other sum or percentage as may be prescribed by the Scottish Ministers by regulations.
+
+(8) In subsection (6)(g) above, “likely net proceeds” means the sum likely to be raised by the sale of the attached land less any sums that would be due to a creditor holding a security or diligence over the attached land which ranks prior to or *pari passu* with the land attachment.
+
+##### 98 Application for warrant for sale of sole or main residence
+
+(1) This section applies where—
+
+(a) the creditor applies under section 92(1) of this Act for a warrant for sale of attached land which comprises or includes a dwellinghouse; and
+
+(b) that dwellinghouse is the sole or main residence of—
+
+(i) the debtor;
+
+(ii) where the owner of the dwellinghouse is not the debtor, that owner; or
+
+(iii) any person mentioned in subsection (2) below.
+
+(2) Those persons are—
+
+(a) a non-entitled spouse of the debtor or the owner;
+
+(b) a person living together with the debtor or the owner as husband and wife;
+
+(c) a civil partner of the debtor or the owner;
+
+(d) a person living together with the debtor in a relationship which has the characteristics of the relationship between a husband and wife except that the person and the debtor or the owner are of the same sex;
+
+(e) a person to whom subsection (3) below applies.
+
+(3) This subsection applies to a person where—
+
+(a) the debtor or the owner does not reside in the dwellinghouse;
+
+(b) a child of the debtor or the owner, who is also a child of the person, does so reside; and
+
+(c) the person has lived together with the debtor or the owner as is mentioned in paragraph (b) or (d) of subsection (2) above throughout the period of 6 months ending with the day on which the debtor or the owner ceased to so reside.
+
+(4) Before making, under section 97(2) of this Act, an order granting a warrant for sale, the sheriff must have regard to the matters mentioned in subsection (5) below.
+
+(5) Subject to subsection (6) below, those matters are—
+
+(a) the nature of and reasons for the debt secured by the land attachment;
+
+(b) the debtor's ability to pay, if the effect of the warrant for sale were suspended by an order under subsection (7) below, the debt outstanding (including any interest and expenses chargeable against the debtor);
+
+(c) any action taken by the creditor to assist the debtor in paying that debt;
+
+(d) the ability of those occupying the dwellinghouse as their sole or main residence to secure reasonable alternative accommodation.
+
+(6) The Scottish Ministers may by regulations modify subsection (5) above to—
+
+(a) add to;
+
+(b) remove from; or
+
+(c) vary,
+
+the matters mentioned there.
+
+(7) Where the sheriff makes, under section 97(2) of this Act, an order granting a warrant for sale, the sheriff may suspend the effect of the warrant for a period not exceeding 1 year beginning with the day on which the order is made.
+
+(8) For the purposes of subsection (1) above, a dwellinghouse may be a sole or main residence irrespective of whether it is used, to any extent, by the debtor or a person mentioned in subsection (2) above for the purposes of any profession, trade or business.
+
+(9) In this section—
+
+- “child” means—
+
+  - (a) a child under the age of 16 years; and
+  
+  - (b) includes—
+  
+    - (i) a stepchild; and
+    - (ii) any child brought up or treated by any person to whom subsection (3) above applies or by the debtor or the owner as a child of that person, of the debtor or of the owner;
+
+- “dwellinghouse” includes any yard, garden, outbuilding or other pertinents; and
+
+- “non-entitled spouse” is to be construed in accordance with section 1(1) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59).
+
+##### 99 Protection of purchaser under contract where creditor applies for warrant for sale (prospective)
+
+(1) This section applies where—
+
+(a) the creditor applies under section 92(1) of this Act for a warrant for sale of attached land; and
+
+(b) a person, at whose instance a notice was, by virtue of section 91 of this Act, registered (in this section, a “prospective purchaser”), has lodged objections to the application.
+
+(2) At the hearing under section 97(1) of this Act, the sheriff may, if satisfied as to the matters mentioned in subsection (3) below, make an order—
+
+(a) sisting the application;
+
+(b) requiring the prospective purchaser to pay the price under the contract to the creditor; and
+
+(c) making such other incidental or consequential provision as the sheriff thinks fit.
+
+(3) The matters are that—
+
+(a) the prospective purchaser did not, in entering into the contract for the purchase of the land, seek to defeat the rights of creditors of the debtor; and
+
+(b) both the prospective purchaser and the debtor will proceed with the purchase under the contract without undue delay.
+
+(4) Section 116 of this Act applies to the proceeds of sale paid to the creditor in pursuance of an order under subsection (2) above as it applies to a sale in pursuance of a warrant for sale subject to the modification that references to the “appointed person” are references to the “creditor”.
+
+##### 100 Protection of purchaser under contract where warrant for sale granted (prospective)
+
+(1) This section applies where—
+
+(a) a warrant for sale has been granted under section 97(2) of this Act; and
+
+(b) a person (in this section, the “prospective purchaser”) had, before the notice of land attachment was registered, entered into a contract to purchase attached land from the debtor.
+
+(2) The sheriff may, on the application of the prospective purchaser and if satisfied as to the matters mentioned in section 99(3) of this Act, make an order—
+
+(a) suspending the warrant for sale for a period not exceeding 1 year from the day on which the order is made;
+
+(b) requiring the prospective purchaser to pay the price under the contract to the appointed person; and
+
+(c) making such other incidental or consequential provision as the sheriff thinks fit.
+
+(3) Section 116 of this Act applies to the proceeds of sale paid to the appointed person in pursuance of an order under subsection (2) above as it applies to a sale in pursuance of a warrant for sale.
+
+##### 101 Provision supplementary to sections 99 and 100 (prospective)
+
+(1) This section applies where an order is made under section 99(2) or 100(2) of this Act.
+
+(2) The sheriff may, on the application of the creditor or the appointed person, as the case may be, if satisfied as to the matters mentioned in subsection (3) below, revoke the order under section 99(2) or, as the case may be, section 100(2) of this Act.
+
+(3) The matters are that—
+
+(a) the prospective purchaser and the debtor entered into the contract for the purchase of the land in order to defeat the rights of creditors of the debtor; or
+
+(b) there has been undue delay in completing the purchase.
+
+##### 102 Warrant for sale of attached land owned in common (prospective)
+
+(1) This section applies where attached land specified in an application under section 92(1) of this Act is a pro indiviso share owned in common by the debtor and a third party.
+
+(2) Subject to subsection (3) below, the sheriff may, under section 97(2) of this Act, make an order granting a warrant for sale of the land specified in the application.
+
+(3) The sheriff must specify in the order whether the warrant—
+
+(a) authorises—
+
+(i) division of the land owned in common; and
+
+(ii) sale of the part, specified in the warrant, which, after such division, would belong to the debtor as sole owner (in this section, the “debtor's part”); or
+
+(b) sale of the land owned in common and, subject to subsection (5) below, division of the proceeds.
+
+(4) Where the warrant authorises division of the land owned in common—
+
+(a) with effect from the day on which the order granting the warrant is made—
+
+(i) the debtor's part is subject to the land attachment; and
+
+(ii) the remaining land is disburdened of the land attachment; and
+
+(b) this Chapter applies as if the warrant for sale granted were a warrant for sale of the debtor's part only.
+
+(5) Where the warrant authorises sale of the land owned in common and division of the proceeds, the appointed person must—
+
+(a) subject to the rights of any creditor of the third party holding a security over the third party's pro indiviso share of the land, pay to the third party the share of the proceeds of sale due to that person; and
+
+(b) deal, under section 116 of this Act, with the share of the proceeds that is attributable to the debtor's share in the land as if those proceeds were proceeds from the sale of land owned by the debtor as sole owner.
+
+(6) Where land to which this section applies is divided and sold, or sold, in pursuance of a warrant for sale, the third party who, immediately before that warrant is granted, owned the land in common with the debtor may purchase the debtor's part or, as the case may be, the land.
+
+(7) Where the third party purchases land which is sold under a warrant authorising sale and division of the proceeds—
+
+(a) the third party need pay to the appointed person only the share of the price attributable to the debtor's share in the land; and
+
+(b) subsection (5)(a) above does not apply.
+
+##### 103 Intimation of sheriff's decision at full hearing (prospective)
+
+(1) Where a warrant for sale is granted under section 97(2) of this Act, the creditor must, as soon as is reasonably practicable, send a copy of the warrant to—
+
+(a) the debtor; and
+
+(b) the appointed person.
+
+(2) Where a warrant for sale is refused under section 97(3)(b) or (5) of this Act, the sheriff clerk must, as soon as is reasonably practicable, send a copy of the order to the debtor and to any other person appearing to the sheriff clerk to have an interest.
+
+##### 104 Supplementary orders as respects sale (prospective)
+
+(1) The sheriff may, either when making an order granting a warrant for sale or subsequently, make such order as appears to the sheriff to be appropriate in connection with the sale of the attached land.
+
+(2) In particular, the sheriff may, on the application of the appointed person—
+
+(a) extend the period specified in the warrant granted under section 97(2) of this Act within which the land is to be sold;
+
+(b) remove that appointed person and appoint another solicitor as the appointed person; and
+
+(c) on the application of the creditor, the debtor or any other person appearing to the sheriff to have an interest—
+
+(i) in a case where the appointed person has died, appoint another solicitor as the appointed person;
+
+(ii) in a case where the appointed person is unable to carry out the appointed person's functions due to ill health or incapacity, remove that person and appoint another solicitor as appointed person;
+
+(iii) in any other case, on cause shown, so remove and appoint.
+
+(3) An order made under this section after the grant of a warrant for sale must be intimated by the creditor—
+
+(a) in such form and manner;
+
+(b) before the expiry of such period; and
+
+(c) to the debtor and such other persons,
+
+as the sheriff may direct.
+
+##### 105 Effect of certain refusals of application for warrant for sale under section 97(5) (prospective)
+
+Where, under section 97(5) of this Act, an order is made refusing an application for a warrant for sale by virtue of a ground mentioned in paragraph (d), (e), (f) or (g) of subsection (6) of that section—
+
+(a) the land attachment does not, by reason only of that refusal, cease to have effect; and
+
+(b) it is competent for the creditor to make a further application under section 92(1) of this Act.
+
+##### 106 Termination of debtor's right to occupy land
+
+(1) Where an order is made granting a warrant for sale, the creditor may, by notice served on—
+
+(a) the debtor; and
+
+(b) any other person having a right, derived from the debtor, to occupy the land to which the warrant relates,
+
+terminate, with effect from such day as the creditor specifies in the notice (being a day not less than 7 days after the date of service), any right of the debtor (or other person) to occupy that land.
+
+(2) A notice under subsection (1) above must be—
+
+(a) in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) served on the debtor or, as the case may be, other person.
+
+(3) Any right of a person (other than the debtor) to occupy land which, before a notice of land attachment relating to the land was registered, would have been binding on a singular successor of the debtor is not affected by subsection (1) above.
+
+(4) A certificate, in (or as nearly as may be in) the form prescribed by Act of Sederunt, of service of a notice such as is mentioned in subsection (1) above may be registered.
+
+##### 107 Consequences of giving notice under section 106(1) (prospective)
+
+(1) From the date on which the creditor gives notice under section 106(1) of this Act until the land attachment ceases to have effect the creditor (in place of the debtor) has the rights and obligations of a heritable creditor in lawful possession of the land.
+
+(2) Without prejudice to the generality of subsection (1) above, those rights and obligations—
+
+(a) include any rights and obligations under any lease, or under any permission or right of occupancy, granted in respect of the land, including the right to receive rent from any tenant;
+
+(b) do not include the power to grant a lease.
+
+(3) Subsection (2)(a) above applies only as respects rent payable on or after the date on which the creditor intimates in writing to the tenant that the notice has been given.
+
+(4) A creditor who has given notice under section 106(1) of this Act—
+
+(a) may apply to the sheriff for an order—
+
+(i) authorising the carrying out of works of reconstruction, alteration or improvement if they are works reasonably required to maintain the market value of the land; and
+
+(ii) to recover from the debtor any expenses and outlays reasonably incurred in so doing;
+
+(b) may bring an action of ejection against the debtor; and
+
+(c) has title to bring any action of removing, intrusion or ejection which the debtor might competently have brought in respect of the land.
+
+(5) Any—
+
+(a) expenses or outlays incurred as mentioned in subsection (4)(a)(ii) above; and
+
+(b) expenses of any action of removing, intrusion or ejection brought by virtue of subsection (4)(b) or (c) above,
+
+are expenses incurred in executing the land attachment.
+
+(6) The reference in subsection (3) above to intimation in writing includes a reference to intimation by electronic communication.
+
+#### The sale
+
+##### 108 Appointed person
+
+(1) The appointed person—
+
+(a) is an officer of the court; and
+
+(b) must act independently of the creditor, the debtor and any other interested person.
+
+(2) Before exercising any functions conferred by virtue of this Chapter, the appointed person must lodge a bond of caution for such amount as may be prescribed by Act of Sederunt.
+
+(3) The appointed person may apply to the sheriff who granted the warrant for sale under section 97(2) of this Act for directions as to how to exercise any of that person's functions.
+
+(4) In executing a warrant for sale granted under section 97(2) of this Act, the appointed person must—
+
+(a) exercise the functions conferred—
+
+(i) by this Chapter; and
+
+(ii) by the Scottish Ministers under subsection (8) below; and
+
+(b) comply with any directions made under subsection (3) above.
+
+(5) The appointed person is liable to the creditor, the debtor, any person who owns the attached land in common with the debtor and any secured creditor for any patrimonial loss caused as a result of the appointed person's negligence in executing the warrant for sale.
+
+(6) The creditor is liable for the appointed person's reasonable remuneration and outlays incurred in exercising functions conferred by virtue of this Chapter.
+
+(7) Such remuneration and outlays are expenses incurred by the creditor in executing the land attachment.
+
+(8) The Scottish Ministers may, by regulations—
+
+(a) confer functions on;
+
+(b) remove functions from; or
+
+(c) otherwise modify the functions of,
+
+appointed persons.
+
+##### 109 Method of sale (prospective)
+
+(1) The land in relation to which a warrant for sale is granted under section 97(2) of this Act must be sold in execution of that warrant by the appointed person.
+
+(2) The land may, unless the sheriff otherwise directs, be sold by private bargain or at auction.
+
+(3) The appointed person must consult the creditor before determining which of the methods of sale mentioned in subsection (2) above is to be used.
+
+(4) The appointed person must—
+
+(a) advertise the sale of the attached land; and
+
+(b) ensure that the price at which the land is sold is the best that can reasonably be obtained.
+
+##### 110 Legal incapacity or disability of debtor not to affect title of purchaser (prospective)
+
+Any legal incapacity or disability of a debtor has no effect on the title passed to a purchaser of attached land which has been sold in execution of a warrant for sale.
+
+##### 111 Title of purchaser not to be affected by certain irregularities
+
+(1) Where a disposition bearing to be granted in execution of a warrant for sale is registered in the appropriate property register, the validity of that disposition is not, if the conditions mentioned in subsection (2) below are satisfied, challengeable on the ground—
+
+(a) that the land attachment was irregularly executed; or
+
+(b) that, before the date of settlement of the sale, the land attachment had ceased to have effect.
+
+(2) The conditions are that—
+
+(a) the purchaser acted in good faith in relation to the purchase of the land; and
+
+(b) the appointed person grants a certificate, in (or as nearly as may be in) the form prescribed by Act of Sederunt, to the purchaser confirming that the land attachment was regularly executed.
+
+(3) In subsection (2)(a) above, a purchaser is deemed to have acted in good faith where, immediately before the date of settlement, the purchaser was not aware and could not reasonably have become aware that the land attachment was irregularly executed or, as the case may be, that it had, before that date, ceased to have effect.
+
+##### 112 Effect of registration of disposition on securities (prospective)
+
+Where a disposition of attached land is granted in execution of a warrant for sale to a purchaser, then, on the registration of the disposition, the land is disburdened of—
+
+(a) the land attachment; and
+
+(b) any—
+
+(i) heritable security; or
+
+(ii) diligence,
+
+ranking *pari passu* with, or after, the land attachment.
+
+##### 113 Report of sale
+
+(1) Where attached land is sold in execution of a warrant for sale, the appointed person must, before the expiry of the period of 28 days beginning with the day on which the sale price is paid, lodge with the sheriff clerk for the court which granted the warrant a report of the sale.
+
+(2) A report lodged under subsection (1) above must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) contain—
+
+(i) a description of the land (or part) sold and the sale price;
+
+(ii) a description of any land which is unsold and the price at which it was last offered for sale (or, if offered for sale at auction, the reserve price);
+
+(iii) a statement of the expenses incurred by the creditor in executing the land attachment;
+
+(iv) a statement of the amount due under any security or diligence ranking on the proceeds of sale prior to, or *pari passu* with, the land attachment;
+
+(v) a statement of the amount due under any security or diligence ranking on the proceeds of sale after the land attachment;
+
+(vi) a note of the amount of any surplus of the sale proceeds payable to the debtor; and
+
+(vii) a note of any balance of the debt due by the debtor to the creditor.
+
+(3) If the appointed person—
+
+(a) without reasonable excuse makes a report of sale after the expiry of the period mentioned in subsection (1) above; or
+
+(b) wilfully refuses to make, or delays making, a report after the expiry of that period,
+
+the sheriff may make an order providing that the appointed person is not entitled to payment from the creditor of the reasonable remuneration and outlays incurred in executing the warrant for sale or so much of such remuneration and outlays as the sheriff specifies.
+
+##### 114 Audit of report of sale
+
+(1) Where a report is lodged under section 113(1) of this Act, the sheriff must remit it to the auditor of court for the auditor to report on it within such time as the sheriff may specify.
+
+(2) The auditor must—
+
+(a) tax the expenses of the land attachment chargeable against the debtor;
+
+(b) certify the balance due to or by the debtor following the sale; and
+
+(c) submit a report to the sheriff.
+
+(3) The auditor is not entitled to charge a fee in respect of the report submitted under subsection (2)(c) above.
+
+(4) The report of sale and the auditor's report must be retained by the sheriff clerk for such period as may be prescribed by Act of Sederunt and during that period must be available for inspection by any interested person on payment of such fee as may be prescribed in an order made under [[^F96]section 107(1) of the Courts Reform (Scotland) Act 2014 (asp 18)].
+
+##### 115 Sheriff's consideration of report (prospective)
+
+(1) Where the auditor has submitted a report to the sheriff under section 114(2)(c) of this Act, the sheriff may, after considering that report and the report on sale lodged under section 113(1) of this Act—
+
+(a) make an order approving the report of sale subject to such amendments (if any) made—
+
+(i) following a hearing under subsection (2) below, by the sheriff; or
+
+(ii) by the auditor,
+
+as may be specified in the order;
+
+(b) if the sheriff is satisfied that there has been a substantial irregularity in the land attachment, make an order—
+
+(i) declaring the land attachment to be void; and
+
+(ii) making such consequential order as appears to the sheriff to be necessary in the circumstances.
+
+(2) The sheriff may not make an order under subsection (1) above without first giving all interested persons an opportunity to be heard.
+
+(3) The sheriff clerk must intimate the order of the sheriff under subsection (1) above to the debtor and any other person appearing to the sheriff clerk to have an interest.
+
+(4) Any order under subsection (1)(b) above does not affect the title of any person to land sold in execution of the warrant for sale to which the report relates.
+
+##### 116 Proceeds of sale (prospective)
+
+(1) Where attached land is sold in execution of a warrant for sale, the proceeds of the sale must be disbursed by the appointed person in the following order—
+
+(a) subject to subsection (2) below, any expenses due to the creditor by virtue of section 114(2)(a) of this Act;
+
+(b) any sums due to any other creditor holding a security or diligence over the land which ranks prior to the land attachment;
+
+(c) any sums due to—
+
+(i) the attaching creditor in respect of the sum recoverable by the land attachment (other than any such expenses as are mentioned in paragraph (a) above); and
+
+(ii) any creditor under a security or diligence which ranks *pari passu* with the land attachment;
+
+(d) any sums due to any other creditor under any security or diligence which ranks after the land attachment; and
+
+(e) subject to section 37(8C)(b) of the 1985 Act, any balance due to the debtor.
+
+(2) Subject to section 113(3) of this Act, the appointed person may deduct and retain from the sum mentioned in subsection (1)(a) above such remuneration and outlays incurred by the appointed person in executing the warrant for sale.
+
+(3) Where there is a balance due to the debtor, the appointed person must pay it to the debtor or any person authorised to give a receipt for the balance on the debtor's behalf.
+
+(4) Where, by virtue of subsection (1) above, a creditor receives the sums due to the creditor under a security or diligence, that creditor must grant a discharge of that security or diligence.
+
+(5) If the appointed person is unable to obtain from—
+
+(a) the debtor; or
+
+(b) any creditor of the debtor;
+
+a receipt or discharge in respect of the disbursement of the proceeds of sale, the appointed person may consign the amount due in the sheriff court for the person having right to it.
+
+(6) Any such consignation discharges the obligation to pay the amount due; and a certificate of the sheriff clerk is sufficient evidence of the discharge.
+
+#### Foreclosure
+
+##### 117 Foreclosure
+
+(1) This section applies where the appointed person—
+
+(a) has exposed to sale the land specified in the warrant for sale; and
+
+(b) has—
+
+(i) failed to find a purchaser; or
+
+(ii) succeeded in selling only part of the land, and that at a price which is less than the sum secured by the land attachment and by any security or diligence ranking prior to, or *pari passu* with, the land attachment.
+
+(2) The appointed person may apply, in (or as nearly as may be in) the form prescribed by Act of Sederunt, to the sheriff who granted the warrant for sale for a decree of foreclosure.
+
+(3) The application under subsection (2) above must be accompanied by—
+
+(a) a statement setting out the whole amount secured—
+
+(i) by the land attachment; and
+
+(ii) by any other security or diligence ranking prior to or *pari passu* with the land attachment; and
+
+(b) where part of the land has been sold, a report on that sale under section 113(1) of this Act.
+
+(4) A copy of an application under subsection (2) above must be served by [[^F97]an officer of court] on—
+
+(a) the debtor;
+
+(b) where the debtor does not own the land, the owner;
+
+(c) any occupier of the land specified in the warrant for sale;
+
+(d) any creditor in a heritable security affecting the land, as disclosed in a report of a search in the appropriate property register brought down to a date no later than 3 clear days before the day on which the application is made; and
+
+(e) any other person having a land attachment or other diligence over the land.
+
+(5) The sheriff, after affording any person on whom a copy of the application was served under subsection (4) above an opportunity to make representations, may—
+
+(a) grant the decree of foreclosure applied for;
+
+(b) sist the application for a period not exceeding 3 months to allow the debtor to pay the sum recoverable by the land attachment; or
+
+(c) appoint a valuer to fix a reserve price at which the land (or remaining part of that land) must be—
+
+(i) auctioned; or
+
+(ii) advertised for sale and if unsold auctioned.
+
+(6) The debtor may—
+
+(a) bid and purchase at any auction under subsection (5)(c)(i) or (ii) above; or
+
+(b) purchase at the price advertised under subsection (5)(c)(ii) above.
+
+(7) Where an order has been made under subsection (5)(c) above and the appointed person—
+
+(a) produces an auctioneer's certificate that the land in question has been duly exposed to sale at the reserve price but is unsold; or
+
+(b) certifies in (or as nearly as may be in) the form prescribed by Act of Sederunt that the land has been advertised at the reserve price but is unsold,
+
+the sheriff may, without further intimation, grant decree of foreclosure.
+
+(8) A decree of foreclosure granted under this section must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) describe the land in relation to which it is granted; and
+
+(c) contain a declaration of the price at which, on registration of an extract of the decree, the creditor is deemed to have acquired the land.
+
+(9) Where provision is made by virtue of this Chapter or by any other enactment permitting the application under subsection (2) above to be an electronic communication, the requirement in subsection (3) above that the application be accompanied by the statement and report mentioned in that subsection is satisfied by the provision of electronic communications.
+
+##### 118 Registration of decree of foreclosure (prospective)
+
+(1) On registration of an extract of the decree of foreclosure in the appropriate property register—
+
+(a) any right to discharge the land attachment by payment is extinguished;
+
+(b) the creditor has right to, and is vested in, the land as if an irredeemable disposition of the land, granted in favour of the creditor by the debtor, had been delivered to the creditor and, on the date of registration of the extract of the decree, duly registered;
+
+(c) the land is disburdened of the land attachment and of any security or diligence ranking after the land attachment; and
+
+(d) the creditor has the like right as the debtor to redeem or as the case may be to discharge by payment any security or diligence ranking prior to, or *pari passu* with, the land attachment.
+
+(2) Notwithstanding the registration of an extract of a decree of foreclosure, any personal obligation of the debtor under any security remains in full force and effect in so far as not extinguished by the price for which the creditor is deemed to have acquired the land and the price for which any part of the land has been sold.
+
+(3) Title acquired by virtue of a decree of foreclosure under this section is not challengeable on the ground of any irregularity in the proceedings for, or in any diligence which preceded, foreclosure.
+
+(4) Notwithstanding subsection (3) above, nothing in this section affects the competency of any claim for damages in respect of such proceedings or diligence as are mentioned in that subsection.
+
+#### Payments to account and expenses
+
+##### 119 Ascription (prospective)
+
+(1) This section applies where any sums are—
+
+(a) recovered by a land attachment; or
+
+(b) paid to account of the sum recoverable by the land attachment while it is in effect.
+
+(2) Such sums must be ascribed to the following in the order in which they are mentioned—
+
+(a) the expenses which are chargeable against the debtor incurred in the land attachment;
+
+(b) any interest which has accrued, at the day or, as the case may be, the last day on which the notice of land attachment was registered, on the sum for payment of which the charge was served;
+
+(c) any sum for payment of which that charge was served together with such interest as has accrued after the day mentioned in paragraph (b) above.
+
+##### 120 Expenses of land attachment
+
+(1) The expenses incurred by the creditor in executing a land attachment are chargeable against the debtor.
+
+(2) Expenses which, in accordance with subsection (1) above, are chargeable against the debtor are recoverable from the debtor by the land attachment but not by any other legal process.
+
+(3) Where any expenses such as are mentioned in subsection (2) above have not been recovered by the time the land attachment is completed, or otherwise ceases to have effect, they cease to be so recoverable.
+
+(4) In subsection (2) above, the reference to expenses does not include a reference to the expenses of service of a charge.
+
+(5) The sheriff may, if satisfied that the debtor has objected on frivolous grounds to—
+
+(a) an application for a warrant for sale; or
+
+(b) an application for a decree of foreclosure,
+
+award expenses, not exceeding such amount as may be prescribed by the Scottish Ministers by regulations, against the debtor.
+
+#### Termination, discharge etc. of land attachment
+
+##### 121 Termination by payment etc. (prospective)
+
+(1) If the full sum for payment of which the charge was served is, before the expiry of the period of 28 days mentioned in section 81(3) of this Act, either paid or tendered to the creditor, to [[^F98]an officer of court] or to any other person who has authority to receive payment on behalf of the creditor—
+
+(a) the land attachment is not created; and
+
+(b) the notice of land attachment ceases to have effect.
+
+(2) Subject to subsection (3) below, if the full sum recoverable by a land attachment is either paid or tendered to—
+
+(a) any of the persons mentioned in subsection (1) above; or
+
+(b) the appointed person,
+
+the land attachment ceases to have effect.
+
+(3) Subsection (2) above does not apply unless the sum is paid before—
+
+(a) where a warrant for sale of the attached land (or part of it) is granted, a contract of sale of the attached land is concluded; or
+
+(b) an extract of a decree of foreclosure in relation to the attached land (or part of it) is registered.
+
+##### 122 Discharge (prospective)
+
+(1) This section applies where—
+
+(a) under section 121(1)(b) of this Act, a notice of land attachment ceases to have effect; or
+
+(b) under subsection (2) of that section, a land attachment ceases to have effect.
+
+(2) The creditor must discharge—
+
+(a) the notice of land attachment; or
+
+(b) the land attachment,
+
+provided that the expenses of discharge are paid or tendered to any of the persons mentioned in section 121(1) of this Act.
+
+(3) It is competent to register any such discharge.
+
+##### 123 Recall and restriction of land attachment
+
+(1) The debtor or any other person having an interest may apply to the sheriff for an order—
+
+(a) recalling a land attachment; or
+
+(b) restricting such an attachment.
+
+(2) An application under subsection (1) above must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) be intimated to the creditor.
+
+(3) The sheriff must, if satisfied—
+
+(a) that the land attachment—
+
+(i) is invalid;
+
+(ii) has been executed incompetently or irregularly; or
+
+(iii) has ceased to have effect; or
+
+(b) that the creditor is, under section 122(2)(b) of this Act, obliged to discharge it,
+
+make an order declaring that to be the case and recalling the land attachment.
+
+(4) The sheriff may, if satisfied that a land attachment is valid but—
+
+(a) having regard to the sum recoverable by the land attachment, that significantly more land is attached than need be; and
+
+(b) that it is reasonable to do so,
+
+make an order restricting the effect of the land attachment to part only of the land to which it relates.
+
+(5) An order of recall or restriction must be in (or as nearly as may be in) the form prescribed by Act of Sederunt.
+
+(6) It is competent for a person who obtains an order of recall or restriction to register that order in the appropriate property register.
+
+##### 124 Duration of land attachment
+
+(1) Subject to sections 121 to 123 of this Act and to subsection (2) below, a land attachment ceases to have effect on the expiry of the period of 5 years beginning with the day or, as the case may be, the last day on which the notice of land attachment is registered.
+
+(2) The creditor may extend the period mentioned in subsection (1) above for a further period of 5 years.
+
+(3) Such an extension is effected by the creditor registering, during the period of 2 months ending with the day on which the period mentioned in subsection (1) above ends, a notice of extension in (or as nearly as may be in) the form prescribed by Act of Sederunt.
+
+(4) The creditor may extend the period for which a land attachment has effect on more than one occasion and subsections (1) to (3) above apply as if for the reference in subsection (1) above to the day on which the notice of land attachment is registered there were substituted a reference to the day or, as the case may be, the last day on which the notice of extension is last registered.
+
+#### Land attachment subsequent to reduction of deed granted in breach of inhibition (prospective)
+
+##### 125 Land attachment subsequent to reduction of deed granted in breach of inhibition (prospective)
+
+(1) Notwithstanding section 82(2)(a)(ii) of this Act, where—
+
+(a) a debtor has granted a deed to a person (in this section, a “third party”) in breach of an inhibition; and
+
+(b) the deed has been reduced by the inhibiting creditor on the ground that it breached the inhibition,
+
+it is competent for the inhibiting creditor to register a notice of land attachment in relation to land to which the reduced deed relates.
+
+(2) A land attachment created following registration of a notice of land attachment in the circumstances mentioned in subsection (1) above enjoys preference in ranking in any competition with—
+
+(a) a security granted over any land described in the notice in favour of; and
+
+(b) a land attachment over any such land executed by,
+
+a creditor of the third party.
+
+(3) Where a notice of land attachment is registered in the circumstances mentioned in subsection (1) above, this Chapter applies with the following modifications (and in those modifications “third party” means a third party within the meaning given by subsection (1) above).
+
+(4) The references mentioned in subsection (5) below to the “debtor” are to be read as references to the debtor and the third party.
+
+(5) Those references are the references in sections 83(5)(a), 92(4)(c)(iv) and (5)(a), 103(1)(a), 104(3)(c), 106(1)(a), 108(5) and 117(4)(a).
+
+(6) The references mentioned in subsection (7) below to the “debtor” are to read as references to the debtor or the third party.
+
+(7) Those references are—
+
+(a) the references in sections 86(1)(b), 91(1)(a), 95(2), 98(1)(b), (2), (3), (8) and (9)(b)(ii), 99(3)(b), 100(1)(b), 106(1) (except the reference in paragraph (a)), 107(1) and (4)(b) and (c), 113(2)(b)(vi), 116(3) and (5), 117(4) and (6) and 120(5); and
+
+(b) the first reference in section 101(3)(a).
+
+(8) In section 114(2)(b), after “to” insert “ the debtor or third party ”.
+
+(9) In section 116(1), after paragraph (d) insert—
+
+> (da) any balance due to the third party;
+
+.
+
+#### General and miscellaneous
+
+##### 126 Land attachment as heritable security (prospective)
+
+For the avoidance of doubt, a land attachment is not a heritable security for the purposes of the Heritable Securities (Scotland) Act 1894 (c. 44).
+
+##### 127 Statement on impact of land attachment (prospective)
+
+(1) The Scottish Ministers must, within 15 months of the commencement of this Chapter, prepare, publish and lay before the Scottish Parliament a statement setting out the impact of land attachment on debt recovery and homelessness.
+
+(2) The statement must specify—
+
+(a) the number of land attachments registered;
+
+(b) the number of warrants for sale—
+
+(i) granted;
+
+(ii) refused; or
+
+(iii) suspended,
+
+under section 97;
+
+(c) the number of persons made homeless as a consequence of this Chapter;
+
+(d) the mean and median sums recovered by land attachment; and
+
+(e) the effect which land attachment appears to have had on debtors' abilities to meet ongoing financial obligations and repay other debts.
+
+(3) In this section, “homeless” has the meaning given in section 24 of the Housing (Scotland) Act 1987 (c. 26).
+
+##### 127A [[^F99]Amendment of Bankruptcy (Scotland) Act 2016
+
+(1) The Bankruptcy (Scotland) Act 2016 is amended as follows.
+
+(2) After section 23 there is inserted—
+
+> **23A Effect of sequestration on land attachment**
+>
+> (1) No land attachment of the heritable property of a debtor, created within the 6 months before the date of sequestration (whether or not subsisting at that date), is effectual to create a preference for the creditor.
+>
+> (2) A creditor who creates a land attachment within the 6 months mentioned in subsection (1) is entitled to payment, out of the attached land or out of the proceeds of sale of it, of the expenses incurred—
+>
+> (a) in obtaining the extract of the decree, or other document, containing the warrant for land attachment, and
+>
+> (b) in serving the charge for payment, registering the notice of land attachment, serving a copy of that notice, and registering certificate of service of that copy.
+>
+> (3) A notice of land attachment—
+>
+> (a) registered on or after the date of sequestration against land forming part of the debtor's heritable estate (including any estate vesting under section 86(5) in the trustee in the sequestration) is of no effect,
+>
+> (b) registered before that date and in relation to which, by that date, no land attachment is created is of no effect.
+>
+> (4) It is not competent for a creditor to insist in a land attachment—
+>
+> (a) created over the debtor's heritable estate before the beginning of the 6 months mentioned in subsection (1), and
+>
+> (b) which subsists on the date of sequestration.
+>
+> (5) But subsection (4) is subject to subsections (6) to (9).
+>
+> (6) Where, in execution of a warrant for sale, a contract to sell the land has been concluded—
+>
+> (a) the trustee must concur in and ratify the deed implementing that contract, and
+>
+> (b) the appointed person must account for and pay to the trustee in the sequestration any balance of the proceeds of sale (being the balance which would, but for the sequestration, be due to the debtor) after disbursing those proceeds in accordance with section 116 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (disbursement of proceeds of sale of attached land).
+>
+> (7) Subsection (6) does not apply where the deed implementing the contract is not registered within 28 days beginning with the day on which—
+>
+> (a) the certified copy of the order of the sheriff granting warrant is recorded, under subsection (1)(a) of section 26, in the Register of Inhibitions, or
+>
+> (b) the certified copy of the determination of AiB awarding sequestration is recorded, under subsection (2) of that section, in that register.
+>
+> (8) Where a decree of foreclosure has been granted but an extract of it has not been registered, the creditor may proceed to complete title to the land by registering that extract provided that the creditor does so before the expiry of the days mentioned in subsection (7).
+>
+> (9) The Scottish Ministers may, as they think fit, prescribe a period in substitution for the days mentioned in subsection (7); and a different period may be prescribed for the purposes of subsection (8) than is prescribed for the purposes of subsection (7).
+>
+> (10) Expressions used in this section which also occur in Chapter 2 of Part 4 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 have the same meanings in this section as they have in that Chapter.
+
+.
+
+(3) In section 25 (effect of sequestration on diligence: estate of deceased debtor)—
+
+(a) in subsection (1), for the words “Section 24 applies” there is substituted “ Sections 23A(1) and (2) and 24 apply ” and
+
+(b) in subsection (3), the words “to raise or insist in an adjudication against the estate of a debtor (including any estate vesting under section 86(5) or” are omitted.]
+
+##### 128 Interpretation
+
+(1) In this Chapter, unless the context otherwise requires—
+
+- “appointed person” has the meaning given by section 97(2)(b) of this Act;
+- “appropriate property register” has the meaning given by section 83(1)(c)(i) of this Act;
+- “attached land” has the meaning given by section 81(5)(a) of this Act;
+- “decree” has the meaning given in section 221 of this Act (except that paragraphs (c), (g) and (h) of the definition of “decree” in that section do not apply) being a decree which, or an extract of which, authorises land attachment;
+- “document of debt” has the meaning given in section 221 of this Act, being a document which, or an extract of which, authorises land attachment;
+- [^F100]...
+- “land” has the meaning given by section 82(1) of this Act;
+- “long lease” has the same meaning as in section [[^F101]9(2) of the Land Registration etc. (Scotland) Act 2012 (asp 5)];
+- “notice of land attachment” has the meaning given by section 83(1) of this Act;
+- [[^F102] “ officer of court ” means the officer of court appointed by the creditor; ]
+- “prescribed sum” has the meaning given by section 92(1)(c) of this Act;
+- “property register” means the Land Register of Scotland or, as the case may be, the General Register of Sasines;
+- “registering”, in relation to any document, means, unless the context otherwise requires, registering an interest in land or information relating to an interest in land (being an interest or information for which that document provides) in the Land Register of Scotland or, as the case may be, recording the document in the Register of Sasines (cognate expressions being construed accordingly);
+- “sum recoverable by the land attachment” has the meaning given by section 81(5)(b) of this Act; and
+- “warrant for sale” means a warrant granted under section 97(2) of this Act.
+
+(2) In this Chapter—
+
+(a) any reference to a purchase, sale, conveyance or disposition is, in a case where the attached land is a lease, to be construed as a reference to an assignation; and
+
+(b) any reference to the ownership of land in such a case is to be construed as a reference to the right of lease,
+
+and cognate expressions are to be construed accordingly.
+
+(3) The Scottish Ministers may by order modify the definitions of “decree” and “document of debt” in subsection (1) above by—
+
+(a) adding types of decree or document to;
+
+(b) removing types of decree or document from; or
+
+(c) varying the description of,
+
+the types of decree or document to which those definitions apply.
+
+### Chapter 3 — Residual attachment
+
+#### Residual attachment
+
+##### 129 Residual attachment
+
+(1) There is to be a form of diligence over property of a debtor to be known as residual attachment.
+
+(2) Residual attachment may be used to attach property (heritable or moveable) only of such description or class as may be specified by the Scottish Ministers by regulations.
+
+(3) The Scottish Ministers may specify any property but only if—
+
+(a) it is transferable; and
+
+(b) it is not—
+
+(i) attachable by; or
+
+(ii) exempt from,
+
+any other diligence.
+
+(4) The Scottish Ministers may not specify—
+
+(a) a right of a debtor as tenant of a dwellinghouse which is the debtor's sole or main residence; or
+
+(b) a right of a debtor as tenant of a croft.
+
+(5) Property which is owned in common by a debtor and a third party may be attached by residual attachment in satisfaction of the debts of the debtor.
+
+(6) Regulations under subsection (2) above may—
+
+(a) vary the description of; or
+
+(b) remove property of such description or class from,
+
+the property which may be attached by residual attachment.
+
+(7) Regulations under subsection (2) above may make further provision, in the case of property of a particular description or class, about—
+
+(a) the content and effect of an application for an order under section 132(2) of this Act (in this Chapter, a “residual attachment order”);
+
+(b) the effect of such an order;
+
+(c) the content and effect of an application for an order under section 136(2) of this Act (in this Chapter, a “satisfaction order”);
+
+(d) the effect of such an order and, in particular—
+
+(i) the methods for and procedures involved in satisfying the sum recoverable by the residual attachment out of the attached property which such an order may authorise;
+
+(ii) the duration of such an order; and
+
+(iii) the disbursement of any sums recovered by such an order;
+
+(e) the powers of the court in relation to residual attachment orders, satisfaction orders and other orders made by virtue of this Chapter; and
+
+(f) the termination of residual attachment.
+
+(8) Regulations under subsection (2) above may make further provision—
+
+(a) about the effect of the making of time to pay directions and time to pay orders on residual attachment; and
+
+(b) about the effect of sequestration on residual attachment including, without prejudice to that generality, provision—
+
+(i) that a residual attachment created during such period before the date of sequestration as may be prescribed is not to be effectual to create a preference for the creditor;
+
+(ii) about the effect of sequestration on the rights of a creditor to insist in a residual attachment created before any such period; and
+
+(iii) about the effect of sequestration on the rights of a creditor to create a residual attachment on or after the date of sequestration.
+
+#### Application for residual attachment order
+
+##### 130 Application for residual attachment order
+
+(1) A creditor may apply to the court for a residual attachment order but only if—
+
+(a) the debt is constituted by a decree or document of debt;
+
+(b) the debtor has been charged to pay the debt;
+
+(c) the period for payment specified in the charge has expired without payment being made; and
+
+(d) where the debtor is an individual, the creditor has, no earlier than 12 weeks before applying for the residual attachment order, provided the debtor with a debt advice and information package.
+
+(2) An application for a residual attachment order, must—
+
+(a) be in (or nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) specify the property which it is sought to attach;
+
+(c) state—
+
+(i) how, were a satisfaction order made, the value of that property would be realised; and
+
+(ii) that doing so would result in the sum mentioned in section 134(3) of this Act being paid off or reduced; and
+
+(d) be intimated to—
+
+(i) the debtor; and
+
+(ii) any other person having an interest.
+
+(3) A person who receives intimation of the application may, before the expiry of the period of 14 days beginning with the day on which that intimation is made, lodge objections to the application.
+
+##### 131 Effect of application for residual attachment order (prospective)
+
+(1) Where an application for a residual attachment order is intimated to a debtor, the debtor must not, during the period mentioned in subsection (2) below, take any of the steps mentioned in subsection (3) below in relation to the property specified in the application.
+
+(2) The period referred to in subsection (1) above is the period—
+
+(a) beginning with the day on which the application is intimated to the debtor; and
+
+(b) ending with the day on which the court—
+
+(i) makes a residual attachment order; or
+
+(ii) dismisses the application.
+
+(3) The steps referred to in subsection (1) above are—
+
+(a) transferring or otherwise disposing of the property;
+
+(b) burdening the property;
+
+(c) granting any licence or sub-licence in relation to the property; or
+
+(d) entering into any agreement to do anything mentioned in paragraph (a), (b) or (c) above in relation to the property.
+
+(4) Any step mentioned in subsection (3) above which is taken in breach of subsection (1) above is void.
+
+(5) Breach by the debtor or any other person of subsection (1) above may be dealt with as a contempt of court.
+
+#### Residual attachment order
+
+##### 132 Residual attachment order (prospective)
+
+(1) At the hearing on an application under section 130(1) of this Act, the court must not make any order without first giving any person who has lodged objections under subsection (3) of that section an opportunity to be heard.
+
+(2) Subject to subsection (4) below, the court may, if satisfied that the application is in order, make—
+
+(a) a residual attachment order; and
+
+(b) any other order which the court thinks fit in consequence of the residual attachment order.
+
+(3) A residual attachment order must—
+
+(a) specify the property to be attached;
+
+(b) require the creditor to intimate the order to—
+
+(i) the debtor; and
+
+(ii) any other person the court specifies; and
+
+(c) state on whom the schedule of residual attachment must be served.
+
+(4) The court must make an order refusing the application for a residual attachment order if satisfied—
+
+(a) that the property specified in the application (or any part of it) is not capable of being attached by residual attachment; or
+
+(b) that—
+
+(i) were the satisfaction order proposed in the application made, it would not result in the value of that property being realised; or
+
+(ii) were that order made and the value of that property realised, it would not result in the sum recoverable by the residual attachment being paid off or reduced.
+
+(5) Without prejudice to the generality of subsection (2)(b) above, an order under that paragraph may—
+
+(a) prohibit a specified person from acting so as to defeat the residual attachment in whole or in part;
+
+(b) prohibit a specified person from making payments due to the debtor in respect of the property to be attached;
+
+(c) appoint a judicial factor to ingather and manage that property;
+
+(d) require a specified person to produce to the court documents relating to the debtor's right to that property;
+
+(e) authorise the creditor to complete title in the name of the debtor to that property; and
+
+(f) authorise the creditor to take specified action to preserve the value of that property.
+
+##### 133 Schedule of residual attachment
+
+(1) Where the court grants a residual attachment order, the creditor may serve a schedule of residual attachment.
+
+(2) A schedule of residual attachment must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) be served on—
+
+(i) the debtor; and
+
+(ii) any person specified in the residual attachment order; and
+
+(c) specify the property which is being attached.
+
+##### 134 Creation and effect of residual attachment (prospective)
+
+(1) A residual attachment is, subject to section 142(1) of this Act, created over the property specified in the schedule of residual attachment (in this Chapter, the “attached property”) at the beginning of the day after the day on which that schedule is served on the debtor.
+
+(2) A residual attachment—
+
+(a) confers on the creditor a right in security over the attached property; and
+
+(b) secures the sum mentioned in subsection (3) below (in this Chapter, the “sum recoverable by the residual attachment”).
+
+(3) That sum is—
+
+(a) the sum for the payment of which the charge was served, together with any interest accruing after such service and before the residual attachment ceases to have effect; and
+
+(b) all expenses which are chargeable against the debtor by virtue of the attachment.
+
+#### Satisfaction order
+
+##### 135 Application for satisfaction order
+
+(1) The creditor may, where a residual attachment is in effect, apply to the court for a satisfaction order authorising the satisfaction of the sum recoverable by the residual attachment out of the attached property.
+
+(2) An application under subsection (1) above must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) specify the attached property (or part of it) in relation to which the application is made;
+
+(c) state—
+
+(i) how, were a satisfaction order made, the value of that property would be realised; and
+
+(ii) that doing so would result in the sum recoverable by the residual attachment being paid off or reduced; and
+
+(d) be accompanied by—
+
+(i) a copy of the schedule of residual attachment; and
+
+(ii) any other document prescribed by Act of Sederunt.
+
+(3) An application under subsection (1) above must be intimated to—
+
+(a) the debtor;
+
+(b) any person to whom the residual attachment order was intimated; and
+
+(c) any other person having an interest.
+
+(4) A person who receives intimation under subsection (3) above may, before the expiry of the period of 14 days beginning with the day on which intimation is made, lodge objections to the application.
+
+(5) Where provision is made by virtue of this Chapter or by any other enactment permitting the application under subsection (1) above to be an electronic communication, the requirement in paragraph (d) of subsection (2) above that the application be accompanied by the documents mentioned in that paragraph is satisfied by the provision of electronic communications.
+
+##### 136 Satisfaction order (prospective)
+
+(1) At the hearing on an application under section 135(1) of this Act, the court must not make any order without first giving any person who has lodged objections under subsection (4) of that section an opportunity to be heard.
+
+(2) Subject to subsection (6) below, the court may, if satisfied that the application is in order, make—
+
+(a) a satisfaction order authorising the satisfaction of the sum recoverable by the residual attachment out of the attached property (or part of it) specified in the order; and
+
+(b) any other order which the court thinks fit in consequence of the satisfaction order.
+
+(3) A satisfaction order must—
+
+(a) specify the attached property to which it applies; and
+
+(b) require the creditor to intimate the order to—
+
+(i) the debtor; and
+
+(ii) any other person the court specifies.
+
+(4) Without prejudice to the generality of subsection (2) above, a satisfaction order may authorise—
+
+(a) the creditor to sell the attached property;
+
+(b) the transfer of ownership of the property to the creditor;
+
+(c) the transfer of income derived from the property to the creditor; or
+
+(d) the creditor to lease or licence the property.
+
+(5) Where the court makes a satisfaction order—
+
+(a) authorising the sale of attached property, it must—
+
+(i) appoint a suitably qualified person (in this Chapter, the “appointed person”) who is willing to execute the order; and
+
+(ii) specify in the order the period within which the attached property is to be sold;
+
+(b) it may appoint a suitably qualified person to report on the market value of the attached property.
+
+(6) The court must make an order refusing the application for a satisfaction order if satisfied that any of the grounds mentioned in subsection (7) below apply.
+
+(7) The grounds referred to in subsection (6) above are—
+
+(a) the residual attachment is invalid;
+
+(b) the residual attachment has ceased to have effect; or
+
+(c) that—
+
+(i) were the satisfaction order proposed in the application made, it would not result in the value of that property being realised; or
+
+(ii) were that order made and the value of that property realised, it would not result in the sum recoverable by the residual attachment being paid off or reduced.
+
+(8) The court may, if satisfied that making a satisfaction order would be unduly harsh to the debtor or any other person having an interest—
+
+(a) make a satisfaction order but suspend its effect for a period not exceeding 1 year beginning with the day on which the order is made; or
+
+(b) make an order refusing the application.
+
+##### 137 Intimation of court's decision (prospective)
+
+(1) Where a satisfaction order is made, the creditor must, as soon as is reasonably practicable, send a copy of the order to—
+
+(a) the debtor;
+
+(b) where the satisfaction order authorises the sale of the attached property, the appointed person; and
+
+(c) any other person the court specifies in the order.
+
+(2) Where the court refuses to make a satisfaction order, the court must, as soon as is reasonably practicable, send a copy of the order to the debtor and to any other person appearing to the court to have an interest.
+
+##### 138 Effect of certain refusals of application for satisfaction order (prospective)
+
+Where, under section 136(6) of this Act, an order is made refusing an application for a satisfaction order by virtue of the ground mentioned in paragraph (c) of subsection (7) of that section—
+
+(a) the residual attachment does not, by reason only of that refusal, cease to have effect; and
+
+(b) it is competent for the creditor to make a further application under section 135(1) of this Act.
+
+#### Termination, discharge etc. of residual attachment
+
+##### 139 Termination by payment etc. (prospective)
+
+(1) Subject to subsection (2) below, if the full sum recoverable by the residual attachment is either paid or tendered to—
+
+(a) the creditor;
+
+(b) where one has been appointed, the appointed person; or
+
+(c) [[^F103]an officer of court] or any other person who has authority to receive payment on behalf of the creditor,
+
+the residual attachment ceases to have effect.
+
+(2) Subsection (1) above does not apply unless the sum is paid or tendered before—
+
+(a) where a satisfaction order authorising sale of the attached property is made, a contract of sale of the attached property is concluded; or
+
+(b) in any other case, the attached property is otherwise disposed of.
+
+##### 140 Recall
+
+(1) The debtor or any other person having an interest may apply to the court for an order—
+
+(a) recalling a residual attachment; or
+
+(b) restricting such an attachment.
+
+(2) An application under subsection (1) above must—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) be intimated to the creditor.
+
+(3) The court must, if satisfied that the residual attachment—
+
+(a) is invalid;
+
+(b) has been executed incompetently or irregularly; or
+
+(c) has ceased to have effect,
+
+make an order declaring that to be the case and recalling the residual attachment.
+
+(4) The court may, if satisfied that the residual attachment is valid but—
+
+(a) having regard to the sum recoverable by the residual attachment, that significantly more property is attached than need be; and
+
+(b) that is it reasonable to do so,
+
+make an order restricting the effect of a residual attachment to part only of the property to which it relates.
+
+(5) An order of recall or restriction must be in (or as nearly as may be in) the form prescribed by Act of Sederunt.
+
+##### 141 Duration of residual attachment (prospective)
+
+(1) Subject to sections 139 and 140 of this Act and to subsection (2) below, a residual attachment ceases to have effect on the expiry of the period of 5 years beginning with the day on which the schedule of residual attachment is served on the debtor.
+
+(2) The court may, on the application of the creditor during the period of 2 months ending with the day on which the period mentioned in subsection (1) above ends, extend the period during which a residual attachment has effect.
+
+(3) The court may extend the period for which a residual attachment has effect on more than one occasion and subsections (1) and (2) above apply as if for the reference in subsection (1) above to the day on which the schedule of residual attachment is served on the debtor there were substituted a reference to the day on which the court last extended that period.
+
+##### 142 Effect of death of debtor (prospective)
+
+(1) Where, in relation to a debt—
+
+(a) the creditor has taken any steps towards obtaining a residual attachment order against the debtor; but
+
+(b) has not, before the date of death of the debtor, served a schedule of residual attachment on the debtor,
+
+any such steps cease to have effect; and accordingly any residual attachment order relating to that debt becomes, on that date, void.
+
+(2) Where a residual attachment is created before the death of the debtor, it continues to have effect in relation to the attached property after that death.
+
+(3) The Court of Session may, by Act of Sederunt, provide for the operation of this Chapter in a case to which this section applies and may, in particular—
+
+(a) modify the provisions about intimation of applications for satisfaction orders; and
+
+(b) confer power on the sheriff to dispense with or modify procedures under this Chapter.
+
+#### General and miscellaneous
+
+##### 143 Expenses of residual attachment
+
+(1) The expenses incurred by the creditor in executing a residual attachment are chargeable against the debtor.
+
+(2) Expenses which, in accordance with subsection (1) above, are chargeable against the debtor are recoverable from the debtor by the residual attachment but not by any other legal process.
+
+(3) Where any expenses such as are referred to in subsection (2) above have not been recovered by the time the residual attachment is completed, or otherwise ceases to have effect, they cease to be so recoverable.
+
+(4) In subsection (2) above, the reference to expenses does not include a reference to expenses of service of a charge.
+
+(5) The court may, if satisfied that the debtor has objected to an application for a satisfaction order on frivolous grounds, award expenses, not exceeding such amount as may be prescribed by the Scottish Ministers by regulations, against the debtor.
+
+##### 144 Ascription (prospective)
+
+(1) This section applies where any sums are—
+
+(a) recovered by a residual attachment; or
+
+(b) paid to account of the sum recoverable by the residual attachment while it is in effect.
+
+(2) Such sums must be ascribed to the following in the order in which they are mentioned—
+
+(a) the expenses which are chargeable against the debtor incurred in the residual attachment;
+
+(b) any interest which has accrued, at the date of the making of the residual attachment order, on the sum for payment for which the charge was served;
+
+(c) any sum for payment of which that charge was served together with such interest as has accrued after the day mentioned in paragraph (b) above.
+
+##### 145 Interpretation
+
+(1) In this Chapter—
+
+- “appointed person” has the meaning given by section 136(5)(a)(i) of this Act;
+
+- “attached property” has the meaning given by section 134(1) of this Act;
+
+- “court” means—
+
+  - (a) the Court of Session; or
+  - (b) the sheriff,
+
+  and references to applying to the court are references to applying by petition or, as the case may be, by summary application;
+
+- “croft” has the meaning given by section 3 of the Crofters (Scotland) Act 1993 (c. 44);
+
+- “decree” has the meaning given in section 221 of this Act (except that paragraphs (c), (g) and (h) of the definition of “decree” in that section do not apply) being a decree which, or an extract of which, authorises residual attachment;
+
+- “document of debt” has the meaning given in section 221 of this Act, being a document which, or an extract of which, authorises residual attachment;
+
+- “dwellinghouse” includes any yard, garden, outbuilding or other pertinents;
+
+- [[^F104] “ officer of court ” means the officer of court appointed by the creditor; ]
+
+- [^F105]...
+
+- “residual attachment order” means an order under section 132(2) of this Act;
+
+- “satisfaction order” means an order under section 136(2) of this Act; and
+
+- “sum recoverable by the residual attachment” has the meaning given by section 134(2)(b) of this Act.
+
+(2) The Scottish Ministers may by order modify the definitions of “decree” and “document of debt” in subsection (1) above by—
+
+(a) adding types of decree or document to;
+
+(b) removing types of decree or document from; or
+
+(c) varying the description of,
+
+the types of decree or document to which those definitions apply.
+
+## Part 5 — Inhibition
+
+### Creation
+
+#### 146 Certain decrees and documents of debt to authorise inhibition without need for letters of inhibition
+
+(1) Inhibition in execution is competent to enforce—
+
+(a) payment of a debt constituted by a decree or document of debt;
+
+(b) subject to subsection (2) below, an obligation to perform a particular act (other than payment) contained in a decree.
+
+(2) Inhibition under subsection (1)(b) above is competent only if the decree is a decree—
+
+(a) in an action containing an alternative conclusion or crave for payment of a sum other than by way of expenses; or
+
+(b) for specific implement of an obligation to convey heritable property to the creditor or to grant in the creditor's favour a real right in security, or some other right, over such property.
+
+(3) In section 3 of the Writs Execution (Scotland) Act 1877 (c. 40) (warrant in extract writ to authorise diligence), after paragraph (b) insert—
+
+> (ba) in relation to an ordinary debt within the meaning of the Debtors (Scotland) Act 1987, inhibition against the debtor;
+
+.
+
+(4) In section 7(1) of the Sheriff Courts (Scotland) Extracts Act 1892 (c. 17) (warrant in extract decree to authorise diligence), after paragraph (b) insert—
+
+> (ba) in relation to an ordinary debt within the meaning of the Debtors (Scotland) Act 1987, inhibition against the debtor;
+
+.
+
+(5) In section 87(2) of the 1987 Act (warrant in extract decree to authorise diligence), after paragraph (b) insert—
+
+> (ba) in relation to an ordinary debt, inhibition against the debtor;
+
+.
+
+(6) It is not competent for the Court of Session to grant letters of inhibition.
+
+(7) In a case where inhibition is executed under subsection (1)(b) above—
+
+(a) sections 165 and 166 of this Act do not apply; and
+
+(b) sections 158, 159, 160 and 163 of this Act have effect as if references to a “debtor” or “creditor” were references to the debtor or creditor in the obligation.
+
+(8) In this Part—
+
+- “decree” has the meaning given by section 221 of this Act, except that paragraphs (c), (g) and (h) of the definition of “decree” in that section do not apply; and
+- “document of debt” has the meaning given by section 221 of this Act.
+
+(9) The Scottish Ministers may by order modify the definitions of “decree” and “document of debt” in subsection (8) above by—
+
+(a) adding types of decree or document to;
+
+(b) removing types of decree or document from; or
+
+(c) varying the description of,
+
+the types of decree or document to which those definitions apply.
+
+#### 147 Provision of debt advice and information package when executing inhibition
+
+Where the debtor is an individual, a schedule of inhibition served in execution of an inhibition under section 146(1) of this Act (other than an inhibition such as is mentioned in section 146(2)(b)) must be accompanied with a debt advice and information package.
+
+#### 148 Registration of inhibition
+
+(1) An inhibition is registered only by registering—
+
+(a) the schedule of inhibition; and
+
+(b) the certificate of execution of the inhibition,
+
+in the Register of Inhibitions.
+
+(2) References in any enactment to registering or, as the case may be, recording an inhibition must, unless the context otherwise requires, be construed as references to registration in accordance with subsection (1) above.
+
+(3) The—
+
+(a) schedule of inhibition; and
+
+(b) certificate of execution of the inhibition,
+
+must be in (or as nearly as may be in) the form prescribed by the Scottish Ministers by regulations.
+
+#### 148A [[^F106]Register of Inhibitions: electronic signature of documents
+
+(1) This section applies in relation to a document which is required or permitted to be registered or recorded in the Register of Inhibitions.
+
+(2) An electronic signature fulfils any requirement (however expressed) that the document be signed in order to be registered or recorded in the Register.
+
+(3) Any requirement (however expressed) that the document be given to the Keeper in order to be registered or recorded in the Register may be fulfilled by transmitting it to the Keeper electronically.
+
+(4) For the purposes of subsection (3), the document must be transmitted by a means (and in a form) which is specified on the Keeper’s website as being acceptable for those purposes.
+
+(5) In this section—
+
+- “document” includes a copy of a document,
+- “electronic signature” is to be construed in accordance with section 7(2) of the Electronic Communications Act 2000, but includes a version of an electronic signature which is reproduced on a paper document,
+- “the Keeper” means the Keeper of the Registers of Scotland,
+- “the Keeper’s website” means the website maintained by, or on behalf of, the Keeper of the Registers of Scotland.]
+
+#### 149 Date on which inhibition takes effect
+
+In the Titles to Land Consolidation (Scotland) Act 1868 (c. 101) (in this Chapter, the “1868 Act”), for section 155 (date on which inhibitions take effect) substitute—
+
+> **155 Date on which inhibition takes effect**
+>
+> (1) An inhibition has effect from the beginning of the day on which it is registered unless the circumstances referred to in subsection (2) below apply.
+>
+> (2) Those circumstances are—
+>
+> (a) a notice of inhibition is registered in the Register of Inhibitions;
+>
+> (b) the schedule of inhibition is served on the debtor after that notice is registered; and
+>
+> (c) the inhibition is registered before the expiry of the period of 21 days beginning with the day on which the notice is registered.
+>
+> (3) In those circumstances the inhibition has effect from the beginning of the day on which the schedule of inhibition is served.
+>
+> (4) A notice of inhibition must be in (or as nearly as may be in) the form prescribed.
+
+.
+
+### Effect
+
+#### 150 Property affected by inhibition
+
+(1) Subject to section 153 of this Act, inhibition may affect any heritable property.
+
+(2) Any enactment or rule of law by virtue of which inhibition may affect other property ceases to have effect.
+
+(3) For the purposes of subsection (1) above and section 157 of the 1868 Act, a person acquires property at the beginning of the day on which the deed conveying or otherwise granting a real right in the property is delivered to that person.
+
+#### 151 Effect on inhibition to enforce obligation when alternative decree granted
+
+Where—
+
+(a) an inhibition is executed to enforce a decree such as is mentioned in section 146(2)(a) of this Act; and
+
+(b) decree is subsequently granted in terms of the alternative conclusion or crave mentioned in that section,
+
+the inhibition continues to have effect for the purposes of enforcing payment of the debt constituted by that subsequent decree.
+
+#### 152 Effect of conversion of limited inhibition on the dependence to inhibition in execution
+
+[[^F107](1[^F107)]] [[^F108]Subject to subsection (2) below,][^F108] where—
+
+(a) a creditor obtains a decree for payment of all or part of a principal sum concluded or craved for in proceedings on the dependence of which warrant for inhibition was granted; and
+
+(b) the warrant was limited to specified property by virtue of section 15J(b) of the 1987 Act (property affected by inhibition on dependence),
+
+[[^F109]any inhibition on the dependence which, on decree, becomes an inhibition in execution of that decree, is no longer limited to that property]
+
+[[^F110][^F109](2) Subsection (1) above has effect from the beginning of the day on which–
+
+(a) an extract of the decree (or a copy of the interlocutor certified by the clerk of court); and
+
+(b) a notice in (or as nearly as may be in) the form set out in the Schedule to the Bankruptcy and Diligence etc. (Scotland) Act 2007 (Inhibition) Order 2009,
+
+are registered in the Register of Inhibitions.[^F110]]
+
+#### 153 Property affected by inhibition to enforce obligation to convey heritable property
+
+Where a decree such as is mentioned in section 146(2)(b) of this Act is granted, any inhibition executed to enforce that decree is limited to the property to which the decree relates.
+
+#### 154 Inhibition not to confer a preference in ranking
+
+(1) An inhibition does not confer any preference in any—
+
+(a) sequestration;
+
+(b) insolvency proceedings; or
+
+(c) other process in which there is ranking.
+
+(2) Subsection (1) above does not affect any preference claimed in—
+
+(a) a sequestration;
+
+(b) insolvency proceedings; or
+
+(c) any other process,
+
+where the inhibition has effect before this section comes into force.
+
+(3) For the avoidance of doubt, in this section, “other process” includes the process, under section 27(1) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35), of applying the proceeds of sale where a creditor in a standard security has effected a sale of the security subjects.
+
+(4) In this section, “insolvency proceedings” means—
+
+(a) winding up;
+
+(b) receivership;
+
+(c) administration; and
+
+(d) proceedings in relation to a company voluntary arrangement,
+
+within the meaning of the Insolvency Act 1986 (c. 45).
+
+#### 155 Power of receiver or liquidator in creditors' voluntary winding up to dispose of property affected by inhibition
+
+(1) The Insolvency Act 1986 (c. 45) is amended as follows.
+
+(2) After section 61(1) (which sets out the process by which a receiver may dispose of property subject to both the floating charge and to another security, other encumbrance or diligence) insert—
+
+> (1A) For the purposes of subsection (1) above, an inhibition which takes effect after the creation of the floating charge by virtue of which the receiver was appointed is not an effectual diligence.
+
+.
+
+(3) After section 166(1) (which applies the provisions of that section to a liquidator nominated by the company in a creditors' voluntary winding up) insert—
+
+> (1A) The exercise by the liquidator of the power specified in paragraph 6 of Schedule 4 to this Act (power to sell any of the company's property) shall not be challengeable on the ground of any prior inhibition.
+
+.
+
+### Termination
+
+#### 156 Termination of effect of inhibition
+
+In section 44(3) of the Conveyancing (Scotland) Act 1924 (c. 27) (limitation of effect of certain entries in the Register of Inhibitions and Adjudications)—
+
+(a) in paragraph (a), the word “inhibitions,”, where it second occurs, is repealed; and
+
+(b) after that paragraph insert—
+
+> (aa) all inhibitions shall cease to have effect on the lapse of five years from the date on which they take effect.
+
+.
+
+#### 157 Inhibition terminated by payment of full amount owing
+
+(1) This section applies where—
+
+(a) an inhibition executed to enforce payment of a debt has effect; and
+
+(b) a sum is paid, in respect of the debt constituted by the decree or document of debt authorising the inhibition, to the creditor, [[^F111]an officer of court] or any other person who has authority to receive payment on behalf of the creditor.
+
+(2) Where the sum paid amounts to the sum of—
+
+(a) the debt (including any interest due under the decree or document of debt);
+
+(b) the expenses incurred by the creditor in executing an inhibition (referred to in this section and in sections 165 and 166 as the “inhibition expenses”); and
+
+(c) the expenses of discharging the inhibition,
+
+the inhibition ceases to have effect.
+
+(3) Any rule of law to the effect that an inhibition ceases to have effect on payment or tender of the debt constituted by the decree or document of debt is abolished.
+
+(4) This section and sections 165 and 166 of this Act do not apply to an inhibition on the dependence of an action.
+
+#### 158 Inhibition terminated by compliance with obligation to perform
+
+Where—
+
+(a) an inhibition executed to enforce an obligation to perform a particular act (other than payment) contained in a decree has effect; and
+
+(b) the debtor has complied with the decree,
+
+the inhibition ceases to have effect.
+
+#### 159 Termination of inhibition when property acquired by third party
+
+(1) Notwithstanding section 160 of this Act, an inhibition ceases to have effect (and is treated as never having had effect) in relation to property if a person acquires the property (or a right in the property) in good faith and for adequate consideration.
+
+(2) For the purposes of subsection (1) above, a person acquires property (or a right in the property) when the deed conveying (or granting the right in) the property is delivered to the person.
+
+(3) An acquisition under subsection (1) above may be from the inhibited debtor or any other person who has acquired the property or right (regardless of whether that person acquired in good faith or for value).
+
+(4) For the purposes of subsection (1) above, a person is presumed to have acted in good faith if the person—
+
+(a) is unaware of the inhibition; and
+
+(b) has taken all reasonable steps to discover the existence of an inhibition affecting the property.
+
+### Breach
+
+#### 160 Breach of inhibition
+
+An inhibited debtor breaches the inhibition when the debtor delivers a deed—
+
+(a) conveying; or
+
+(b) otherwise granting a right in,
+
+property over which the inhibition has effect to a person other than the inhibiting creditor.
+
+#### 161 Prescription of right to reduce transactions in breach of inhibition
+
+For the avoidance of doubt, section 8(1) of the Prescription and Limitation (Scotland) Act 1973 (c. 52) (extinction of certain rights relating to property by prescriptive period of 20 years) applies to the right of an inhibitor to have a deed granted in breach of an inhibition reduced.
+
+#### 162 Registration of notice of litigiosity and discharge of notice
+
+After section 159 of the 1868 Act insert—
+
+> **159A Registration of notice of summons of action of reduction**
+>
+> (1) This section applies where a pursuer raises an action of reduction of a conveyance or deed of or relating to lands granted in breach of an inhibition.
+>
+> (2) The pursuer shall, as soon as is reasonably practicable after the summons in the action is signeted—
+>
+> (a) register a notice of that signeted summons in accordance with section 159 of this Act; and
+>
+> (b) register in the Land Register of Scotland or, as the case may be, record in the Register of Sasines a copy of that notice.
+>
+> (3) Where a decree of reduction is not obtained in the action to which the notice relates, the pursuer shall, as soon as is reasonably practicable—
+>
+> (a) register in the Register of Inhibitions; and
+>
+> (b) register in the Land Register of Scotland or, as the case may be, record in the Register of Sasines,
+>
+> a discharge of that notice in (or as nearly as may be in) the form prescribed.
+
+.
+
+#### 163 Reduction of lease granted in breach of inhibition
+
+(1) This section applies where an inhibited debtor grants a lease of property affected by the inhibition.
+
+(2) A lease which, on the date an action of reduction of the lease is raised, has an unexpired duration of not less than 5 years is reducible.
+
+(3) A lease which, on the date an action of reduction of the lease is raised, has an unexpired duration of less than 5 years may be reduced only if the Court of Session is satisfied that it would be fair and reasonable in all the circumstances to do so.
+
+(4) In calculating the unexpired duration of a lease for the purposes of subsections (2) and (3) above—
+
+(a) any provision in the lease (however expressed) enabling the lease to be terminated earlier than the date on which the lease would otherwise terminate must be disregarded; and
+
+(b) where the lease includes provision (however expressed) requiring the landlord to renew it, the duration of any such renewed lease must be added to the duration of the original lease.
+
+### General and miscellaneous
+
+#### 164 Power to prescribe forms in the 1868 Act
+
+(1) In section 159 of the 1868 Act (no litigiosity before date notice of summons is registered), for the words from “set” to “annexed” substitute “ be in (or as nearly as may be in) the form prescribed. ”.
+
+(2) After section 159A of that Act (which is inserted by section 162 of this Act) insert—
+
+> **159B Power of the Scottish Ministers to prescribe forms**
+>
+> (1) In sections 155, 159 and 159A of this Act, “prescribed” means prescribed by the Scottish Ministers by regulations.
+>
+> (2) The power conferred on the Scottish Ministers to make regulations under subsection (1) above is exercisable by statutory instrument.
+>
+> (3) A statutory instrument containing regulations made under subsection (1) above is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+.
+
+#### 165 Expenses of inhibition
+
+(1) Subject to subsection (3) below, the inhibition expenses are chargeable against the debtor.
+
+(2) Inhibition expenses are recoverable from the debtor by land attachment or residual attachment executed for the purpose of enforcing payment of the debt to which the inhibition relates but not by any other legal process.
+
+(3) Where a creditor has executed an inhibition, the expenses of only one further inhibition in relation to the debt to which the first inhibition relates are chargeable against the debtor as inhibition expenses.
+
+(4) For the purposes of a sequestration or other process in which there is ranking, the inhibition expenses must be treated as part of the debt constituted by the decree or document of debt authorising the inhibition.
+
+#### 166 Ascription
+
+(1) This section applies where—
+
+(a) an inhibition has effect; and
+
+(b) any sums are paid to account of the sums recoverable from the debtor by virtue of the decree or document of debt authorising the inhibition.
+
+(2) Such sums must be ascribed to the following in the order in which they are mentioned—
+
+(a) the expenses which are chargeable against the debtor incurred in respect of any diligence (other than the inhibition) authorised by the decree or document of debt;
+
+(b) the inhibition expenses;
+
+(c) any interest which has accrued, at the date on which the inhibition takes effect, on the debt constituted by the decree or document of debt;
+
+(d) the debt constituted by the decree or document of debt together with such interest as has accrued after the date on which the inhibition takes effect.
+
+#### 167 Keeper's duty to enter inhibition on title sheet
+
+In section 6 of the Land Registration (Scotland) Act 1979 (c. 33) (content of title sheet)—
+
+(a) in subsection (1)(c), at the beginning insert “ subject to subsection (1A) below, ”; and
+
+(b) after subsection (1) insert—
+
+> (1A) The Keeper shall enter an inhibition registered in the Register of Inhibitions in the title sheet only when completing registration of an interest in land where the interest has been transferred or created in breach of the inhibition.
+
+.
+
+#### 168 Inhibition effective against judicial factor
+
+(1) Notwithstanding the appointment of a judicial factor on a debtor's estate, an inhibition has effect.
+
+(2) But subsection (1) above does not apply in a case where—
+
+(a) a judicial factor is appointed under section 11A of the Judicial Factors (Scotland) Act 1889 (c. 39) (application for judicial factor on deceased person's estate); and
+
+(b) the inhibition was effective against the debtor prior to the debtor's death.
+
+## Part 6 — Diligence on the dependence
+
+### 169 Diligence on the dependence
+
+After section 15 of the 1987 Act, insert—
+
+> **Part 1A — Diligence on the dependence**
+>
+> **Availability of diligence on the dependence**
+>
+> **15A Diligence on the dependence of action**
+>
+> (1) Subject to subsection (2) below and to sections 15C to 15F of this Act, the Court of Session or the sheriff may grant warrant for diligence by—
+>
+> (a) arrestment; or
+>
+> (b) inhibition,
+>
+> on the dependence of an action.
+>
+> (2) Warrant for—
+>
+> (a) arrestment on the dependence of an action is competent only where the action contains a conclusion for payment of a sum other than by way of expenses; and
+>
+> (b) inhibition on the dependence is competent only where the action contains—
+>
+> (i) such a conclusion; or
+>
+> (ii) a conclusion for specific implement of an obligation to convey heritable property to the creditor or to grant in the creditor's favour a real right in security, or some other right, over such property.
+>
+> (3) In this Part of this Act, “action” includes, in the sheriff court—
+>
+> (a) a summary cause;
+>
+> (b) a small claim; and
+>
+> (c) a summary application,
+>
+> and references to “summons”, “conclusion” and to cognate expressions shall be construed accordingly.
+>
+> **15B Diligence on the dependence of petition**
+>
+> (1) Subject to subsection (2) below and to sections 15C to 15F of this Act, the Court of Session may grant warrant for diligence by—
+>
+> (a) arrestment; or
+>
+> (b) inhibition,
+>
+> on the dependence of a petition.
+>
+> (2) Warrant for—
+>
+> (a) arrestment on the dependence of a petition is competent only where the petition contains a prayer for payment of a sum other than by way of expenses; and
+>
+> (b) inhibition on the dependence is competent only where the petition contains—
+>
+> (i) such a prayer; or
+>
+> (ii) a prayer for specific implement of an obligation to convey heritable property to the creditor or to grant in the creditor's favour a real right in security, or some other right, over such property.
+>
+> (3) The provisions of this Act (other than section 15A), of any other enactment and of any rule of law relating to diligence on the dependence of actions shall, in so far as is practicable and unless the contrary intention appears, apply to petitions in relation to which it is competent to grant warrant for such diligence and to the parties to them as they apply to actions and to parties to them.
+>
+> **15C Diligence on the dependence to secure future or contingent debts**
+>
+> (1) It shall be competent for the court to grant warrant for diligence on the dependence where the sum concluded for is a future or contingent debt.
+>
+> (2) In this section and in sections 15D to 15M of this Act, the “court” means the court before which the action is depending.
+>
+> **Application for diligence on the dependence**
+>
+> **15D Application for diligence on the dependence**
+>
+> (1) A creditor may, at any time during which an action is in dependence, apply to the court for warrant for diligence by—
+>
+> (a) arrestment; or
+>
+> (b) inhibition,
+>
+> on the dependence of the action.
+>
+> (2) An application under subsection (1) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+>
+> (b) subject to subsection (3) below, be intimated to and provide details of—
+>
+> (i) the debtor; and
+>
+> (ii) any other person having an interest;
+>
+> (c) state whether the creditor is seeking the grant, under section 15E(1) of this Act, of warrant for diligence on the dependence in advance of a hearing on the application under section 15F of this Act; and
+>
+> (d) contain such other information as the Scottish Ministers may by regulations prescribe.
+>
+> (3) An application under subsection (1) above need not be intimated where the creditor is seeking the grant, under section 15E(1) of this Act, of warrant in advance of a hearing on the application under section 15F of this Act.
+>
+> (4) The court, on receiving an application under subsection (1) above, shall—
+>
+> (a) subject to section 15E of this Act, fix a date for a hearing on the application under section 15F of this Act; and
+>
+> (b) order the creditor to intimate that date to—
+>
+> (i) the debtor; and
+>
+> (ii) any other person appearing to the court to have an interest.
+>
+> **15E Grant of warrant without a hearing**
+>
+> (1) The court may, if satisfied as to the matters mentioned in subsection (2) below, make an order granting warrant for diligence on the dependence without a hearing on the application under section 15F of this Act.
+>
+> (2) The matters referred to in subsection (1) above are—
+>
+> (a) that the creditor has a prima facie case on the merits of the action;
+>
+> (b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+>
+> (i) the debtor being insolvent or verging on insolvency; or
+>
+> (ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets,
+>
+> were warrant for diligence on the dependence not granted in advance of such a hearing; and
+>
+> (c) that it is reasonable in all the circumstances, including the effect granting warrant may have on any person having an interest, to do so.
+>
+> (3) The onus shall be on the creditor to satisfy the court that the order granting warrant should be made.
+>
+> (4) Where the court makes an order granting warrant for diligence on the dependence without a hearing on the application under section 15F of this Act, the court shall—
+>
+> (a) fix a date for a hearing under section 15K of this Act; and
+>
+> (b) order the creditor to intimate that date to—
+>
+> (i) the debtor; and
+>
+> (ii) any other person appearing to the court to have an interest.
+>
+> (5) Where a hearing is fixed under subsection (4)(a) above, section 15K of this Act shall apply as if an application had been made to the court for an order under that section.
+>
+> (6) Where the court refuses to make an order granting a warrant without a hearing under section 15F of this Act and the creditor insists in the application, the court shall—
+>
+> (a) fix a date for such a hearing on the application; and
+>
+> (b) order the creditor to intimate that date to—
+>
+> (i) the debtor; and
+>
+> (ii) any other person appearing to the court to have an interest.
+>
+> **15F Hearing on application**
+>
+> (1) At the hearing on an application for warrant for diligence on the dependence, the court shall not make any order without first giving—
+>
+> (a) any person to whom intimation of the date of the hearing was made; and
+>
+> (b) any other person the court is satisfied has an interest,
+>
+> an opportunity to be heard.
+>
+> (2) The court may, if satisfied as to the matters mentioned in subsection (3) below, make an order granting warrant for diligence on the dependence.
+>
+> (3) The matters referred to in subsection (2) above are—
+>
+> (a) that the creditor has a prima facie case on the merits of the action;
+>
+> (b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+>
+> (i) the debtor being insolvent or verging on insolvency; or
+>
+> (ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets,
+>
+> were warrant for diligence on the dependence not granted; and
+>
+> (c) that it is reasonable in all the circumstances, including the effect granting warrant may have on any person having an interest, to do so.
+>
+> (4) The onus shall be on the creditor to satisfy the court that the order granting warrant should be made.
+>
+> (5) Where the court makes an order granting or, as the case may be, refusing warrant for diligence on the dependence, the court shall order the creditor to intimate that order to—
+>
+> (a) the debtor; and
+>
+> (b) any other person appearing to the court to have an interest.
+>
+> (6) Where the court makes an order refusing warrant for diligence on the dependence, the court may impose such conditions (if any) as it thinks fit.
+>
+> (7) Without prejudice to the generality of subsection (6) above, those conditions may require the debtor—
+>
+> (a) to consign into court such sum; or
+>
+> (b) to find caution or to give such other security,
+>
+> as the court thinks fit.
+>
+> **Execution before service**
+>
+> **15G Execution of diligence before service of summons**
+>
+> (1) This section applies where diligence by—
+>
+> (a) arrestment; or
+>
+> (b) inhibition,
+>
+> on the dependence of an action is executed before service of the summons on the debtor.
+>
+> (2) Subject to subsection (3) below, if the summons is not served on the debtor before the end of the period of 21 days beginning with the day on which the diligence is executed, the diligence shall cease to have effect.
+>
+> (3) The court may, on the application of the creditor, make an order extending the period referred to in subsection (2) above.
+>
+> (4) In determining whether to make such an order the court shall have regard to—
+>
+> (a) the efforts of the creditor to serve the summons within the period of 21 days; and
+>
+> (b) any special circumstances preventing or obstructing service within that period.
+>
+> **Restriction on property attached**
+>
+> **15H Sum attached by arrestment on dependence**
+>
+> (1) The court may, subject to subsection (2) below, when granting warrant for arrestment on the dependence, limit the sum which may be attached to funds not exceeding such amount as the court may specify.
+>
+> (2) The maximum amount which the court may specify under subsection (1) above shall be the aggregate of—
+>
+> (a) the principal sum concluded for;
+>
+> (b) a sum equal to 20 per cent of that sum or such other percentage as the Scottish Ministers may, by regulations, prescribe;
+>
+> (c) a sum equal to 1 year's interest on the principal sum at the judicial rate; and
+>
+> (d) any sum prescribed under subsection (3) below.
+>
+> (3) The Scottish Ministers may, by regulations, prescribe a sum which appears to them to be reasonable having regard to the expenses likely to be—
+>
+> (a) incurred by a creditor; and
+>
+> (b) chargeable against a debtor,
+>
+> in executing an arrestment on the dependence.
+>
+> (4) For the avoidance of doubt, section 73F of this Act applies to any sum attached under this section.
+>
+> **15J Property affected by inhibition on dependence**
+>
+> Where the court grants warrant for diligence by inhibition on the dependence—
+>
+> (a) in a case where the action is brought for specific implement of an obligation—
+>
+> (i) to convey heritable property to the creditor;
+>
+> (ii) to grant in the creditor's favour a real right in security over such property; or
+>
+> (iii) to grant some other right over such property,
+>
+> the court shall limit the property inhibited to that particular property; and
+>
+> (b) in any other case, the court may limit the property inhibited to such property as the court may specify.
+>
+> **Recall etc. of diligence on the dependence.**
+>
+> **15K Recall or restriction of diligence on dependence**
+>
+> (1) This section applies where warrant is granted for diligence on the dependence.
+>
+> (2) The debtor and any person having an interest may apply to the court for an order—
+>
+> (a) recalling the warrant;
+>
+> (b) restricting the warrant;
+>
+> (c) if an arrestment or inhibition has been executed in pursuance of the warrant—
+>
+> (i) recalling; or
+>
+> (ii) restricting,
+>
+> that arrestment or inhibition;
+>
+> (d) determining any question relating to the validity, effect or operation of the warrant; or
+>
+> (e) ancillary to any order mentioned in paragraphs (a) to (d) above.
+>
+> (3) An application under subsection (2) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (b) be intimated to—
+>
+> (i) the creditor; and
+>
+> (ii) any other person having an interest.
+>
+> (4) At the hearing on the application under subsection (2) above, the court shall not make any order without first giving—
+>
+> (a) any person to whom intimation of the application was made; and
+>
+> (b) any other person the court is satisfied has an interest,
+>
+> an opportunity to be heard.
+>
+> (5) Where the court is satisfied that the warrant is invalid it—
+>
+> (a) shall make an order—
+>
+> (i) recalling the warrant; and
+>
+> (ii) if an arrestment or inhibition has been executed in pursuance of the warrant, recalling that arrestment or inhibition; and
+>
+> (b) may make an order ancillary to any order mentioned in paragraph (a) above.
+>
+> (6) Where the court is satisfied that an arrestment or inhibition executed in pursuance of the warrant is incompetent, it—
+>
+> (a) shall make an order recalling that arrestment or inhibition; and
+>
+> (b) may make an order ancillary to any such order.
+>
+> (7) Subject to subsection (8) below, where the court is satisfied that the warrant is valid but that—
+>
+> (a) an arrestment or inhibition executed in pursuance of it is irregular or ineffective; or
+>
+> (b) it is reasonable in all the circumstances, including the effect granting warrant may have had on any person having an interest, to do so,
+>
+> the court may make any order such as is mentioned in subsection (2) above.
+>
+> (8) If no longer satisfied as to the matters mentioned in subsection (9) below, the court—
+>
+> (a) shall make an order such as is mentioned in subsection (5)(a) above; and
+>
+> (b) may make an order such as is mentioned in subsection (5)(b) above.
+>
+> (9) The matters referred to in subsection (8) above are—
+>
+> (a) that the creditor has a prima facie case on the merits of the action;
+>
+> (b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+>
+> (i) the debtor being insolvent or verging on insolvency; or
+>
+> (ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets; and
+>
+> (c) that it is reasonable in all the circumstances, including the effect granting warrant may have had on any person having an interest, for the warrant or, as the case may be, any arrestment or inhibition executed in pursuance of it to continue to have effect.
+>
+> (10) The onus shall be on the creditor to satisfy the court that no order under subsection (5), (6), (7) or (8) above should be made.
+>
+> (11) In granting an application under subsection (2) above, the court may impose such conditions (if any) as it thinks fit.
+>
+> (12) Without prejudice to the generality of subsection (11) above, the court may impose conditions which require the debtor—
+>
+> (a) to consign into court such sum; or
+>
+> (b) to find such caution or to give such other security,
+>
+> as the court thinks fit.
+>
+> (13) Where the court makes an order under this section, the court shall order the debtor to intimate that order to—
+>
+> (a) the creditor; and
+>
+> (b) any other person appearing to the court to have an interest.
+>
+> (14) This section applies irrespective of whether warrant for diligence on the dependence is obtained, or executed, before this section comes into force.
+>
+> **15L Variation of orders and variation or recall of conditions**
+>
+> (1) Where—
+>
+> (a) an order restricting warrant for diligence on the dependence is made under section 15K(7); or
+>
+> (b) a condition is imposed by virtue of—
+>
+> (i) section 15F(6); or
+>
+> (ii) section 15K(11),
+>
+> of this Act, the debtor may apply to the court for variation of the order or, as the case may be, variation or removal of the condition.
+>
+> (2) An application under subsection (1) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (b) be intimated to—
+>
+> (i) the creditor; and
+>
+> (ii) any other person having an interest.
+>
+> (3) At the hearing on the application under subsection (1) above, the court shall not make any order without first giving—
+>
+> (a) any person to whom intimation of the application was made; and
+>
+> (b) any other person the court is satisfied has an interest,
+>
+> an opportunity to be heard.
+>
+> (4) On an application under subsection (1) above, the court may if it thinks fit—
+>
+> (a) vary the order; or
+>
+> (b) vary or remove the condition.
+>
+> (5) Where the court makes an order varying the order or, as the case may be, varying or removing the condition, the court shall order the debtor to intimate that order to—
+>
+> (a) the creditor; and
+>
+> (b) any other person appearing to the court to have an interest.
+>
+> **General and miscellaneous**
+>
+> **15M Expenses of diligence on the dependence**
+>
+> (1) Subject to subsection (3)(a) below, a creditor shall be entitled to such expenses as the creditor incurs—
+>
+> (a) in obtaining warrant for diligence on the dependence; and
+>
+> (b) where an arrestment or inhibition is executed in pursuance of the warrant, in so executing the arrestment or inhibition.
+>
+> (2) Subject to subsection (3)(b) below, a debtor shall be entitled, where—
+>
+> (a) warrant for diligence on the dependence is granted; and
+>
+> (b) the court is satisfied that the creditor was acting unreasonably in applying for it,
+>
+> to the expenses incurred in opposing that warrant.
+>
+> (3) The court may modify or refuse—
+>
+> (a) such expenses as are mentioned in subsection (1) above if it is satisfied that—
+>
+> (i) the creditor was acting unreasonably in applying for the warrant; or
+>
+> (ii) such modification or refusal is reasonable in all the circumstances and having regard to the outcome of the action; and
+>
+> (b) such expenses as are mentioned in subsection (2) above if it is satisfied as to the matter mentioned in paragraph (a)(ii) above.
+>
+> (4) Subject to subsections (1) to (3) above, the court may make such finding as it thinks fit in relation to such expenses as are mentioned in subsections (1) and (2) above.
+>
+> (5) Expenses incurred as mentioned in subsection (1) and (2) above in obtaining or, as the case may be, opposing an application for warrant shall be expenses of process.
+>
+> (6) Subsections (1) to (5) above are without prejudice to any enactment or rule of law as to the recovery of expenses chargeable against a debtor as are incurred in executing an arrestment or inhibition on the dependence of an action.
+>
+> **15N Application of this Part to admiralty actions**
+>
+> This Part of this Act (other than sections 15H, 15J and 15M) shall apply, in so far as not inconsistent with the provisions of Part V of the Administration of Justice Act 1956 (c. 46) (admiralty jurisdiction and arrestment of ships), to an arrestment on the dependence of an admiralty action as it applies to any other arrestment on the dependence.
+
+.
+
+### 170 Prescription of arrestment
+
+After section 95 of the 1987 Act, insert—
+
+> **95A Prescription of arrestment**
+>
+> (1) Subject to subsection (2) below, an arrestment which is not insisted in prescribes—
+>
+> (a) where it is on the dependence of an action, at the end of the period of 3 years beginning with the day on which a final interlocutor is obtained by the creditor for payment of all or part of a principal sum concluded for; or
+>
+> (b) where it is in execution of an extract decree or other extract registered document relating to a due debt, at the end of the period of 3 years beginning with the day on which the arrestment is executed.
+>
+> (2) Where the arrestment secures or enforces a future or contingent debt due to the creditor, it prescribes, if not insisted in, at the end of the period of 3 years beginning on the day on which the debt becomes due.
+>
+> (3) In a case where—
+>
+> (a) a time to pay direction;
+>
+> (b) an interim order under section 6(3) of this Act; or
+>
+> (c) a time to pay order,
+>
+> has been made, there shall be disregarded, in computing the period at the end of which the arrestment prescribes, the period during which the time to pay direction, interim order or time to pay order is in effect.
+>
+> (4) Nothing in this section shall apply to an earnings arrestment, a current maintenance arrestment or a conjoined arrestment order.
+>
+> (5) Subsections (1) to (3) above apply irrespective of whether the arrestment is executed, or warrant for it obtained, before this section comes into force.
+>
+> (6) For the purposes of subsection (1)(a) above, a final interlocutor is obtained when an interlocutor cannot be recalled or altered and is not subject to review.
+
+.
+
+### 171 Abolition of letters of loosing
+
+(1) Subject to subsection (2) below, it is no longer competent for any court to loose an arrestment.
+
+(2) Subsection (1) above does not affect—
+
+(a) any enactment or rule of law relating to the loosing of an arrestment of a ship or its cargo; or
+
+(b) the exercise of any other power of the court to recall or restrict an arrestment.
+
+### 172 Abolition of adjudication in security (prospective)
+
+Any enactment or rule of law enabling adjudication in security to be used ceases to have effect.
+
+## Part 7 — Interim attachment
+
+### 173 Interim attachment
+
+After section 9 of the 2002 Act, insert—
+
+> **Part 1A — Interim attachment**
+>
+> **Interim attachment**
+>
+> **9A Interim attachment**
+>
+> (1) Subject to sections 9B to 9E below, the court may grant warrant for diligence by attachment of corporeal moveable property owned (whether alone or in common) by the debtor on the dependence of an action (such attachment is to be known as interim attachment).
+>
+> (2) Warrant for interim attachment is competent only where an action contains a conclusion for payment of a sum other than by way of expenses.
+>
+> (3) This Part of this Act shall apply to petitions in the Court of Session and to parties to them as it applies to actions and to parties to them.
+>
+> (4) In this Part of this Act—
+>
+> - “action” includes, in the sheriff court—
+>
+>   - (a) a summary cause;
+>   - (b) a small claim; and
+>   - (c) a summary application,
+>
+>   and references to “summons”, “conclusion” and to cognate expressions shall be construed accordingly;
+>
+> - “court” means—
+>
+>   - (a) the court before which the action is in dependence; or
+>   - (b) where, by virtue of section 9L(1)(a) below, the interim attachment has effect after the creditor obtains a final interlocutor for payment, the court which granted that interlocutor;
+>
+> - “creditor” means the party who concludes for payment and who seeks, obtains or executes warrant for interim attachment;
+>
+> - “debtor” means the party against whom the conclusion for payment is addressed; and
+>
+> expressions used in this Part of this Act have, unless the context otherwise requires, the same meanings as those expressions have in Part 2 of this Act.
+>
+> **9B Articles exempt from interim attachment**
+>
+> It is not competent to attach by interim attachment—
+>
+> (a) any article within a dwellinghouse;
+>
+> (b) any article which, by virtue of section 11 below, it is not competent to attach;
+>
+> (c) a mobile home which is the only or principal residence of a person other than the debtor;
+>
+> (d) any article of a perishable nature or which is likely to deteriorate substantially and rapidly in condition or value; or
+>
+> (e) where the debtor is engaged in trade, any article acquired by the debtor—
+>
+> (i) to be sold by the debtor (whether or not after adaptation); or
+>
+> (ii) as a material for a process of manufacturing for sale by the debtor,
+>
+> in the ordinary course of that trade.
+>
+> **Application for interim attachment**
+>
+> **9C Application for warrant for interim attachment**
+>
+> (1) A creditor may, at any time during which an action is in dependence, apply to the court for warrant for interim attachment.
+>
+> (2) An application under subsection (1) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+>
+> (b) subject to subsection (3) below, be intimated to and provide details of—
+>
+> (i) the debtor; and
+>
+> (ii) any other person having an interest;
+>
+> (c) state whether the creditor is seeking the grant, under section 9D(1) below, of warrant for interim attachment in advance of a hearing on the application under section 9E below; and
+>
+> (d) contain such other information as the Scottish Ministers may by regulations prescribe.
+>
+> (3) An application under subsection (1) above need not be intimated where the creditor is seeking the grant, under section 9D(1) below, of warrant in advance of a hearing on the application under section 9E below.
+>
+> (4) The court, on receiving an application under subsection (1) above, shall—
+>
+> (a) subject to section 9D below, fix a date for a hearing on the application under section 9E below; and
+>
+> (b) order the creditor to intimate that date to—
+>
+> (i) the debtor; and
+>
+> (ii) any other person appearing to the court to have an interest.
+>
+> **9D Grant of warrant without a hearing**
+>
+> (1) The court may, if satisfied as to the matters mentioned in subsection (2) below, make an order granting warrant for interim attachment without a hearing on the application under section 9E below.
+>
+> (2) The matters referred to in subsection (1) above are—
+>
+> (a) that the creditor has a prima facie case on the merits of the action;
+>
+> (b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+>
+> (i) the debtor being insolvent or verging on insolvency; or
+>
+> (ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets,
+>
+> were warrant for interim attachment not granted in advance of such a hearing; and
+>
+> (c) that it is reasonable in all the circumstances, including the effect granting warrant may have on any person having an interest, to do so.
+>
+> (3) The onus shall be on the creditor to satisfy the court that the order granting warrant should be made.
+>
+> (4) Where the court makes an order granting warrant for interim attachment without a hearing on the application under section 9E below, the court shall—
+>
+> (a) fix a date for a hearing under section 9M below; and
+>
+> (b) order the creditor to intimate that date to—
+>
+> (i) the debtor; and
+>
+> (ii) any other person appearing to the court to have an interest.
+>
+> (5) Where a hearing is fixed under subsection (4)(a) above, section 9M (except subsection (11)) below shall apply as if an application had been made to the court for an order under that section.
+>
+> (6) Where the court refuses to make an order granting warrant without a hearing under section 9E below and the creditor insists in the application, the court shall—
+>
+> (a) fix a date for such a hearing on the application; and
+>
+> (b) order the creditor to intimate that date to—
+>
+> (i) the debtor; and
+>
+> (ii) any other person appearing to the court to have an interest.
+>
+> **9E Hearing on application**
+>
+> (1) At the hearing on an application for warrant for interim attachment, the court shall not make any order without first giving—
+>
+> (a) any person to whom intimation of the date of the hearing was made; and
+>
+> (b) any other person appearing to the court to have an interest,
+>
+> an opportunity to be heard.
+>
+> (2) The court may, if satisfied as to the matters mentioned in subsection (3) below, make an order granting warrant for interim attachment.
+>
+> (3) The matters referred to in subsection (2) above are—
+>
+> (a) that the creditor has a prima facie case on the merits of the action;
+>
+> (b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+>
+> (i) the debtor being insolvent or verging on insolvency; or
+>
+> (ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets,
+>
+> were warrant for interim attachment not granted; and
+>
+> (c) that it is reasonable in all the circumstances, including the effect granting warrant may have on any person having an interest, to do so.
+>
+> (4) The onus shall be on the creditor to satisfy the court that the order granting warrant should be made.
+>
+> (5) Where the court makes an order granting or, as the case may be, refusing warrant for interim attachment, the court shall order the creditor to intimate that order to—
+>
+> (a) the debtor; and
+>
+> (b) any other person appearing to the court to have an interest.
+>
+> (6) Where the court makes an order refusing warrant for interim attachment, the court may impose such conditions (if any) as it thinks fit.
+>
+> (7) Without prejudice to the generality of subsection (6) above, those conditions may require the debtor—
+>
+> (a) to consign into court such sum; or
+>
+> (b) to find caution or to give such other security,
+>
+> as the court thinks fit.
+>
+> **Execution of interim attachment**
+>
+> **9F Execution of interim attachment**
+>
+> (1) Sections 12, 13, 15 and (subject to subsection (6) below) 17 below apply to execution of an interim attachment as they apply to execution of an attachment.
+>
+> (2) The officer shall, immediately after executing an interim attachment, complete a schedule such as is mentioned in subsection (3) below (in this Part of this Act, a “schedule of interim attachment”).
+>
+> (3) The schedule of interim attachment—
+>
+> (a) shall be—
+>
+> (i) in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (ii) signed by the officer; and
+>
+> (b) shall specify—
+>
+> (i) the articles attached; and
+>
+> (ii) their value, so far as ascertainable.
+>
+> (4) The officer shall—
+>
+> (a) give a copy of the schedule of interim attachment to the debtor; or
+>
+> (b) where it is not practicable to do so—
+>
+> (i) give a copy of the schedule to a person present at the place where the interim attachment was executed; or
+>
+> (ii) where there is no such person, leave a copy of the schedule at that place.
+>
+> (5) References in this Part of this Act to the day on which an interim attachment is executed are references to the day on which the officer complies with subsection (4) above.
+>
+> (6) The application of section 17 below shall be subject to the following modifications—
+>
+> (a) subsections (3)(b) and (4) shall not apply;
+>
+> (b) in subsections (1), (5) and (6), the references to the sheriff shall be construed as references to the court; and
+>
+> (c) in subsection (6)(b), the reference to the sheriff clerk shall, in the case of an action in the Court of Session, be construed as a reference to the clerk of the court.
+>
+> **9G Execution of interim attachment before service**
+>
+> (1) This section applies where an interim attachment is executed before the service of the summons on the debtor.
+>
+> (2) Subject to subsection (3) below, if the summons is not served on the debtor before the end of the period of 21 days beginning with the day on which the interim attachment is executed, the attachment shall cease to have effect.
+>
+> (3) The court may, on the application of the creditor, make an order extending the period referred to in subsection (2) above.
+>
+> (4) In determining whether to make such an order the court shall have regard to—
+>
+> (a) the efforts of the creditor to serve the summons within the period of 21 days; and
+>
+> (b) any special circumstances preventing or obstructing service within that period.
+>
+> **Interim attachment: further procedure**
+>
+> **9H Order for security of attached articles**
+>
+> (1) The court may, on an application, at any time after articles have been attached—
+>
+> (a) by the creditor;
+>
+> (b) the officer; or
+>
+> (c) the debtor,
+>
+> make an order for the security of any of the attached articles.
+>
+> (2) An application for an order under subsection (1) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (b) be intimated—
+>
+> (i) where it is made by the creditor or the officer, to the debtor;
+>
+> (ii) where it is made by the debtor, to the creditor and the officer.
+>
+> (3) At the hearing on the application under subsection (1) above, the court shall not make any order without first giving—
+>
+> (a) any person to whom intimation of the application was made; and
+>
+> (b) any other person the court is satisfied has an interest,
+>
+> an opportunity to be heard.
+>
+> **Interim attachment: effects**
+>
+> **9J Unlawful acts after interim attachment**
+>
+> Section 21 (except subsections (3) and (15)) below applies to an interim attachment as it applies to an attachment with the following modifications—
+>
+> (a) in subsections (10) and (11), the references to the sheriff shall be construed as references to the court; and
+>
+> (b) in subsection (12), the references to sections 51 and 54(1) below shall be of no effect.
+>
+> **9K Articles belonging to or owned in common by a third party**
+>
+> (1) Where—
+>
+> (a) a third party claims to own an article attached by interim attachment; and
+>
+> (b) the court, on the application of the third party, makes an order stating that it is satisfied that the claim is valid,
+>
+> the interim attachment of that article shall cease to have effect.
+>
+> (2) Where—
+>
+> (a) a third party claims to own an article attached by interim attachment in common with the debtor;
+>
+> (b) the court, on the application of the third party, makes an order stating that it is satisfied—
+>
+> (i) that the claim is valid; and
+>
+> (ii) that the continued attachment of the article would be unduly harsh to the third party,
+>
+> the interim attachment of that article shall cease to have effect.
+>
+> (3) Subsection (2) of section 34 below applies where a third party makes an application for the purposes of subsection (1)(b) above as it applies where a third party makes an application for the purposes of subsection (1)(b)(ii) of that section.
+>
+> (4) Where the attachment of an article ceases, by virtue of an order under subsection (1) or (2) above, to have effect, the officer may attach other articles which are owned by the debtor and kept at the place at which the original interim attachment was executed.
+>
+> **9L Duration of interim attachment**
+>
+> (1) An interim attachment shall, unless recalled, have effect only until—
+>
+> (a) subject to subsections (2), (4) and (7) below, where—
+>
+> (i) the creditor obtains a final interlocutor for payment of all or part of a principal sum concluded for in the action on the dependence of which warrant for interim attachment was granted;
+>
+> (ii) the creditor obtains a final interlocutor in the creditor's favour in respect of another remedy concluded for in that action; or
+>
+> (iii) the final interlocutor is of absolvitor or dismissal and the court grants decree under and for the purposes of section 9Q(1)(b) below,
+>
+> the expiry of the period of 6 months after the action is disposed of;
+>
+> (b) where—
+>
+> (i) the final interlocutor is of absolvitor or dismissal; and
+>
+> (ii) no decree under and for the purposes of section 9Q(1)(b) below is granted,
+>
+> the granting of that interlocutor; or
+>
+> (c) the creditor consents, by virtue of subsection (3) below, to the interim attachment ceasing to have effect in relation to every article attached.
+>
+> (2) An interim attachment shall have effect in relation to a specific article only until the article is attached by the creditor in execution of any such final interlocutor or decree as is mentioned in subsection (1)(a) above.
+>
+> (3) The creditor may at any time consent in writing to the interim attachment ceasing to have effect in relation to a specific article attached; and the attachment shall cease to have effect when that consent is notified to the court.
+>
+> (4) The court may, on an application by the creditor, extend the period mentioned in subsection (1)(a) above but only if—
+>
+> (a) the application is made before the expiry of the period mentioned in that subsection; and
+>
+> (b) the court is satisfied that exceptional circumstances make it reasonable to grant the application.
+>
+> (5) An application under subsection (4) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (b) be intimated by the creditor to—
+>
+> (i) the debtor; and
+>
+> (ii) any other person having an interest.
+>
+> (6) The court shall order the creditor to intimate any decision under subsection (4) above disposing of the application under that subsection to—
+>
+> (a) the debtor; and
+>
+> (b) any other person appearing to the court to have an interest.
+>
+> (7) Where such an application is made but not disposed of before the date on which the interim attachment would, but for this subsection, cease to have effect, the interim attachment shall continue to have effect until the application is disposed of.
+>
+> (8) In calculating the period mentioned in subsection (1)(a) above, any period during which—
+>
+> (a) a time to pay direction under section 1(1) of the Debtors (Scotland) Act 1987 (c. 18); or
+>
+> (b) an order under—
+>
+> (i) section 6(3) of that Act (interim order sisting diligence); or
+>
+> (ii) section 9(4) of that Act (diligence sisted if not recalled on making of time to pay order),
+>
+> is in effect shall be disregarded.
+>
+> (9) For the purposes of subsection (1) above—
+>
+> (a) a final interlocutor is obtained when an interlocutor—
+>
+> (i) cannot be recalled or altered; and
+>
+> (ii) is not subject to review; and
+>
+> (b) an action is disposed of on the date on which the final interlocutor mentioned in paragraph (a) of that subsection is obtained unless, on a later date, the creditor obtains a final interlocutor for expenses in the action, in which case it is disposed of on that later date.
+>
+> **Recall etc. of interim attachment**
+>
+> **9M Recall or restriction of interim attachment**
+>
+> (1) This section applies where warrant is granted for interim attachment.
+>
+> (2) The debtor and any person having an interest may apply to the court for an order—
+>
+> (a) recalling the warrant;
+>
+> (b) restricting the warrant;
+>
+> (c) if an interim attachment has been executed in pursuance of the warrant—
+>
+> (i) recalling; or
+>
+> (ii) restricting,
+>
+> that attachment;
+>
+> (d) determining any question relating to the validity, effect or operation of the warrant; or
+>
+> (e) ancillary to any order mentioned in paragraphs (a) to (d) above.
+>
+> (3) An application under subsection (2) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (b) be intimated to—
+>
+> (i) the creditor; and
+>
+> (ii) any other person having an interest.
+>
+> (4) At the hearing on the application under subsection (2) above, the court shall not make any order without first giving—
+>
+> (a) any person to whom intimation of the application was made; and
+>
+> (b) any other person the court is satisfied has an interest,
+>
+> an opportunity to be heard.
+>
+> (5) Where the court is satisfied that the warrant is invalid it—
+>
+> (a) shall make an order—
+>
+> (i) recalling the warrant; and
+>
+> (ii) if interim attachment has been executed in pursuance of the warrant, recalling that interim attachment; and
+>
+> (b) may make an order ancillary to any order mentioned in paragraph (a) above.
+>
+> (6) Where the court is satisfied that an interim attachment executed in pursuance of the warrant is incompetent, it—
+>
+> (a) shall make an order recalling the interim attachment; and
+>
+> (b) may make an order ancillary to any such order.
+>
+> (7) Subject to subsection (8) below, where the court is satisfied that the warrant is valid but that—
+>
+> (a) an interim attachment executed in pursuance of it is irregular or ineffective; or
+>
+> (b) it is reasonable in all the circumstances, including the effect granting warrant may have had on any person having an interest, to do so,
+>
+> the court may, subject to subsection (11) below, make any order such as is mentioned in subsection (2) above.
+>
+> (8) If no longer satisfied as to the matters mentioned in subsection (9) below, the court—
+>
+> (a) shall make an order such as is mentioned in subsection (5)(a) above; and
+>
+> (b) may make an order such as is mentioned in subsection (5)(b) above.
+>
+> (9) The matters referred to in subsection (8) above are—
+>
+> (a) that the creditor has a prima facie case on the merits of the action;
+>
+> (b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+>
+> (i) the debtor being insolvent or verging on insolvency; or
+>
+> (ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets; and
+>
+> (c) that it is reasonable in all the circumstances, including the effect granting warrant may have had on any person having an interest, for the warrant or, as the case may be, any interim attachment executed in pursuance of it to continue to have effect.
+>
+> (10) The onus shall be on the creditor to satisfy the court that no order under subsection (5), (6), (7) or (8) above should be made.
+>
+> (11) Where—
+>
+> (a) by virtue of section 9L(1)(a) above, the interim attachment continues to have effect after the creditor obtains a final interlocutor for payment; and
+>
+> (b) the period of six months mentioned in that paragraph has not expired,
+>
+> the court shall not make an order under subsection (7) above.
+>
+> (12) In granting an application under subsection (2) above, the court may impose such conditions (if any) as it thinks fit.
+>
+> (13) Without prejudice to the generality of subsection (12) above, those conditions may require the debtor—
+>
+> (a) to consign into court such sum; or
+>
+> (b) to find such caution or to give such other security,
+>
+> as the court thinks fit.
+>
+> (14) Where the court makes an order under this section, the court shall order the debtor to intimate that order to—
+>
+> (a) the creditor; and
+>
+> (b) any other person appearing to the court to have an interest.
+>
+> **9N Variation of orders and variation or recall of conditions**
+>
+> (1) Where—
+>
+> (a) an order restricting warrant for interim attachment is made under section 9M(7) above; or
+>
+> (b) a condition is imposed under—
+>
+> (i) section 9E(6) above; or
+>
+> (ii) section 9M(12) above,
+>
+> the debtor may apply to the court for variation of the order or, as the case may be, variation or removal of the condition.
+>
+> (2) An application under subsection (1) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (b) be intimated to—
+>
+> (i) the creditor; and
+>
+> (ii) any other person having an interest.
+>
+> (3) At the hearing on the application under subsection (1) above, the court shall not make any order without first giving—
+>
+> (a) any person to whom intimation of the application was made; and
+>
+> (b) any other person the court is satisfied has an interest,
+>
+> an opportunity to be heard.
+>
+> (4) On an application under subsection (1) above, the court may if it thinks fit—
+>
+> (a) vary the order; or
+>
+> (b) vary or remove the condition.
+>
+> (5) Where the court makes an order varying the order or, as the case may be, varying or removing the condition, the court shall order the debtor to intimate that order to—
+>
+> (a) the creditor; and
+>
+> (b) any other person appearing to the court to have an interest.
+>
+> **General and miscellaneous provisions**
+>
+> **9P Expenses of interim attachment**
+>
+> (1) Subject to subsection (3)(a) below, a creditor shall be entitled to the expenses incurred—
+>
+> (a) in obtaining warrant for interim attachment; and
+>
+> (b) where an interim attachment is executed in pursuance of the warrant, in so executing that attachment.
+>
+> (2) Subject to subsection (3)(b) below, a debtor shall be entitled, where—
+>
+> (a) warrant for interim attachment is granted; and
+>
+> (b) the court is satisfied that the creditor was acting unreasonably in applying for it,
+>
+> to the expenses incurred in opposing that warrant.
+>
+> (3) The court may modify or refuse—
+>
+> (a) such expenses as are mentioned in subsection (1) above if it is satisfied that—
+>
+> (i) the creditor was acting unreasonably in applying for the warrant; or
+>
+> (ii) such modification or refusal is reasonable in all the circumstances and having regard to the outcome of the action; and
+>
+> (b) such expenses as are mentioned in subsection (2) above if it is satisfied as to the matter mentioned in paragraph (a)(ii) above.
+>
+> (4) Subject to subsections (1) to (3) above, the court may make such findings as it thinks fit in relation to such expenses as are mentioned in subsections (1) and (2) above.
+>
+> (5) Expenses incurred as mentioned in subsections (1) and (2) above in obtaining or, as the case may be, opposing an application for warrant shall be expenses of process.
+>
+> **9Q Recovery of expenses of interim attachment**
+>
+> (1) Subject to subsection (4) below, any expenses chargeable against the debtor which are incurred in executing an interim attachment shall be recoverable only by attachment—
+>
+> (a) in execution of a decree granted by virtue of—
+>
+> (i) the conclusion for payment in the action on the dependence of which the warrant for interim attachment was granted; or
+>
+> (ii) another conclusion in the creditor's favour in that action; or
+>
+> (b) where the final interlocutor in the action is of absolvitor or dismissal, in execution of a decree granted under and for the purposes of this subsection.
+>
+> (2) Where any such expenses cease to be recoverable in pursuance of subsection (1) above, they cease to be chargeable against the debtor.
+>
+> (3) Subsection (4) below applies where interim attachment is—
+>
+> (a) recalled under section 2(3), 3(1)(b), 9(2)(cb) or 10(1)(b) of the 1987 Act in relation to a time to pay direction or order;
+>
+> (b) in effect immediately before the date of sequestration (within the meaning of the Bankruptcy (Scotland) Act 1985 (c. 66)) of the debtor's estate;
+>
+> (c) in effect immediately before the appointment of an administrator under Part II of the Insolvency Act 1986 (c. 45);
+>
+> (d) in effect against property of the debtor immediately before a floating charge attaches all or part of that property under section 53(7) (attachment on appointment of receiver by holder of charge) or 54(6) (attachment on appointment of receiver by court) of the 1986 Act;
+>
+> (e) in effect immediately before the commencement of the winding up, under Part IV or V of the 1986 Act, of the debtor; or
+>
+> (f) rendered unenforceable by virtue of the creditor entering into a composition contract or acceding to a trust deed for creditors or by virtue of the subsistence of a protected trust deed within the meaning of Schedule 5 to the 1985 Act.
+>
+> (4) Where this subsection applies—
+>
+> (a) the expenses of the interim attachment which were chargeable against the debtor remain so chargeable; and
+>
+> (b) if the debtor's obligation to pay the expenses is not discharged under or by virtue of the time to pay direction or order, sequestration, appointment, receivership, winding up, composition contract or trust deed for creditors, those expenses are recoverable in pursuance of subsection (1) above.
+>
+> **9R Ascription of sums recovered while interim attachment is in effect**
+>
+> (1) This section applies where—
+>
+> (a) any amounts are—
+>
+> (i) secured by an interim attachment; and
+>
+> (ii) while the attachment is in effect, paid to account of the amounts recoverable from the debtor; and
+>
+> (b) that interim attachment ceases to have effect.
+>
+> (2) Such amounts shall be ascribed to the following in the order in which they are mentioned—
+>
+> (a) the expenses incurred in—
+>
+> (i) obtaining warrant for; and
+>
+> (ii) executing,
+>
+> the interim attachment;
+>
+> (b) any interest which has accrued, in relation to a sum due under a decree granted by virtue of the conclusion in relation to which warrant for interim attachment was granted, as at the date of execution;
+>
+> (c) any sum due under that decree together with such interest as has accrued after that date.
+>
+> (3) Where an interim attachment is followed by an attachment in execution of a decree granted by virtue of the conclusion in relation to which the warrant for the interim attachment was granted, section 41 below shall apply to amounts to which this section applies as it applies to amounts to which that section applies.
+>
+> **9S Ranking of interim attachment**
+>
+> For the purposes of any enactment or rule of law as to ranking or preference—
+>
+> (a) where—
+>
+> (i) an interim attachment has been executed; and
+>
+> (ii) the creditor has, without undue delay, obtained an interlocutor for payment of all or part of the sum concluded for,
+>
+> that interim attachment shall be treated as if it were an attachment by virtue of section 10 below of the property attached, executed when the interim attachment was executed; and
+>
+> (b) where an interim attachment has ceased to have effect in relation to any article by virtue of section 9L(2) above, the attachment of the article in question shall be taken to have been executed when the interim attachment was executed.
+
+.
+
+## Part 8 — Attachment of money
+
+### Money attachment
+
+#### 174 Money attachment
+
+(1) There is to be a form of diligence over money owned by a debtor to be known as money attachment.
+
+(2) Money attachment is competent to enforce payment of a debt but only if—
+
+(a) the debt is constituted by a decree or document of debt;
+
+(b) the debtor has been charged to pay the debt;
+
+(c) the period for payment specified in the charge has expired without payment being made; and
+
+(d) where the debtor is an individual, the creditor has, no earlier than 12 weeks before executing the money attachment, provided the debtor with a debt advice and information package.
+
+(3) Money attachment is not competent in relation to money—
+
+(a) kept within a dwellinghouse; or
+
+(b) in relation to which arrestment is competent.
+
+#### 175 Meaning of “money” and related expressions
+
+(1) In this Part—
+
+- “cash” means coins and banknotes in any currency;
+
+- “banking instrument” means—
+
+  - (a) cheques and other instruments to which section 4 of the Cheques Act 1957 (c. 36) applies;
+  - (b) any document (other than one mentioned in section 4(2)(c) of that Act) issued by a public officer which is intended to enable a person to obtain payment from a government department of the sum mentioned in it;
+  - (c) promissory notes (other than banknotes);
+  - (d) other negotiable instruments; and
+  - (e) money orders and postal orders; and
+
+- “money” means cash and banking instruments but does not include any cash or instrument which has an intrinsic value greater than any value it may have as a medium of exchange; and any reference to the value of money is, unless the context otherwise requires, a reference to—
+
+  - (a) the amount of cash;
+  - (b) where that cash is in a currency other than sterling, the amount in sterling which that cash would realise on its conversion under section 177(3) of this Act;
+  - (c) the amount in cash which would be obtained were the value of a banking instrument realised; and
+  - (d) in the case where money comprises both cash and instruments, the aggregate of the amounts referred to in, as the case may be, paragraphs (a) to (c) above.
+
+(2) In the definition of “banking instrument” in subsection (1) above, “government department” includes—
+
+(a) any Minister of the Crown;
+
+(b) any part of the Scottish Administration;
+
+(c) the National Assembly for Wales;
+
+(d) the Northern Ireland Assembly, any Northern Ireland Minister or Northern Ireland junior Minister and any Northern Ireland department.
+
+(3) The Scottish Ministers may by order modify the definition of “banking instrument” in subsection (1) above so as to—
+
+(a) add or remove types of instrument to or, as the case may be, from those referred to in that definition; or
+
+(b) vary the descriptions of the types of instrument so referred to.
+
+#### 176 When money attachment not competent
+
+(1) It is not competent to execute a money attachment on—
+
+(a) a Sunday;
+
+(b) a day which is a public holiday in the area in which the attachment is to be executed; or
+
+(c) such other day as may be prescribed by Act of Sederunt.
+
+(2) The execution of a money attachment must not—
+
+(a) begin before 8 a.m. or after 8 p.m.; or
+
+(b) be continued after 8 p.m.,
+
+unless the [[^F112]officer of court] has obtained prior authority from the sheriff for such commencement or continuation.
+
+[[^F113](2A) But—
+
+(a) despite subsection (1), it is competent to execute a money attachment in any premises in which a trade or business is carried on on any day the premises are open (whether to the public generally or not) for the purposes of the trade or business, and
+
+(b) despite subsection (2), the execution of a money attachment may be commenced or continued in such premises at any time the premises are open (whether to the public generally or not) for the purposes of the trade or business, without the officer of court obtaining prior authority of the sheriff.]
+
+(3) Subject to section 183(12)(b), 186(3)(b) or 191(4) of this Act, where money is attached (or is purported to be attached) at any place, it is not competent to attach other money kept at that place to enforce the same debt unless that other money is brought to that place after execution of the first money attachment.
+
+(4) Money which has been attached by a money attachment may not, if that money attachment ceases to have effect in relation to that money, be attached again for the same debt.
+
+### Execution of money attachment
+
+#### 177 Removal of money attached
+
+(1) The [[^F114]officer of court] must attach and remove, from the place in which it is found, such money, the value of which in the opinion of the officer does not exceed a sum equal to the sum mentioned in subsection (2) below (in this Part, the “sum recoverable by the money attachment”).
+
+(2) That sum is—
+
+(a) the sum for the payment of which the charge was served, together with any interest accruing after such service and before the money attachment ceases to have effect; and
+
+(b) all expenses which are chargeable against the debtor by virtue of the money attachment.
+
+(3) Where cash in a currency other than sterling is attached, the [[^F115]officer of court] must, as soon as reasonably practicable after attaching it, convert that cash into sterling.
+
+(4) The [[^F115]officer of court] must take all reasonable steps to obtain the highest amount for such cash as is practicable.
+
+(5) The [[^F115]officer of court] must deposit any cash attached and any proceeds of converting cash in a currency other than sterling in a bank account.
+
+(6) The [[^F115]officer of court]—
+
+(a) need not attach any banking instruments other than cheques unless instructed to do so by the creditor; and
+
+(b) is not liable to the creditor for any loss caused by the failure to attach any such instruments unless so instructed.
+
+(7) The [[^F115]officer of court] must, subject to section 180(1) of this Act, value any instruments attached at the price which they are likely to fetch on the open market.
+
+(8) Where any instruments are attached, the [[^F115]officer of court] must ensure that they are kept in a secure place.
+
+(9) In this Part, any reference to money being attached includes a reference to it being removed under subsection (1) above.
+
+#### 178 Presumption of ownership
+
+(1) [[^F116]An officer of court] may, when executing a money attachment, assume that the debtor owns, solely or in common with a third party, any money found in the place where the attachment is executed.
+
+(2) The [[^F117]officer of court] must, before attaching any money, make enquiries of any person present at the place in which it is found as to the ownership of it (and in particular must enquire as to whether there is any person who owns it in common with the debtor).
+
+(3) The [[^F117]officer of court] may not make the assumption mentioned in subsection (1) above where the officer knows or ought to know that the contrary is the case.
+
+(4) The [[^F117]officer of court] is not precluded from relying on that assumption by reason only that an assertion has been made that the money is not owned by the debtor.
+
+#### 179 Schedule of money attachment
+
+(1) The [[^F118]officer of court] must, immediately after executing a money attachment, complete a schedule such as is mentioned in subsection (2) below (in this Part, the “schedule of money attachment”).
+
+(2) A schedule of money attachment—
+
+(a) must be—
+
+(i) in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(ii) signed by the [[^F118]officer of court]; and
+
+(b) must specify—
+
+(i) the money attached; and
+
+(ii) the value of that money, so far as ascertainable.
+
+(3) The [[^F118]officer of court] must—
+
+(a) give a copy of the schedule to the debtor; or
+
+(b) where it is not practicable to do so—
+
+(i) give a copy of the schedule to a person present at the place where the money attachment was executed; or
+
+(ii) where there is no such person, leave a copy of the schedule at that place.
+
+(4) In this Part, any reference to the day on which a money attachment is executed is a reference to the day on which the [[^F118]officer of court] complies with subsection (3) above.
+
+#### 180 Valuation of banking instruments
+
+(1) Where the [[^F119]officer of court] considers that a banking instrument attached in execution of a money attachment is such that it is appropriate for valuation of the price the instrument is likely to fetch on the open market to be carried out by a professional valuer or other suitably skilled person, the officer must arrange for such a valuation.
+
+(2) The creditor is liable for the valuer's reasonable remuneration and outlays incurred by virtue of subsection (1) above.
+
+#### 181 Order for realisation of money likely to deteriorate in value
+
+(1) The—
+
+(a) creditor;
+
+(b) [[^F120]officer of court]; or
+
+(c) debtor,
+
+may, at any time after money has been attached, apply to the sheriff for an order that the creditor or, as the case may be, the officer make arrangements for the immediate realisation of the value of that money (or any part of it).
+
+(2) A person applying under subsection (1) above must at the same time intimate the application to the persons mentioned in that subsection who would otherwise be entitled to apply.
+
+(3) The sheriff may, if satisfied that the money is likely to deteriorate substantially and rapidly in value, make an order such as is mentioned in subsection (1) above.
+
+(4) An order under subsection (3) above authorises the [[^F121]officer of court]—
+
+(a) to act as the irrevocable agent of the debtor in relation to the money; and
+
+(b) to take any of the steps mentioned in section 184(3) of this Act.
+
+(5) Subsection (4) of section 184 of this Act applies to any steps taken by virtue of subsection (4) above.
+
+(6) Any sum realised by virtue of an order under subsection (3) above must be deposited in a bank account.
+
+(7) The sheriff's decision under subsection (3) above is final.
+
+#### 182 Report of money attachment
+
+(1) The [[^F122]officer of court] must, before the expiry of the period of 14 days beginning with the day on which the money attachment is executed (or such longer period as the sheriff on cause shown may, on the application of the officer, allow), make a report to the sheriff.
+
+(2) A report under subsection (1) above must be—
+
+(a) in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) signed by the [[^F123]officer of court].
+
+(3) The report must specify—
+
+(a) the money attached;
+
+(b) the value of that money;
+
+(c) whether any cash in a currency other than sterling was attached and, if so—
+
+(i) the exchange rate used; and
+
+(ii) any commission incurred,
+
+in converting it into sterling;
+
+(d) whether any person has asserted that any money attached is not owned by the debtor (or is owned in common by the debtor and a third party);
+
+(e) whether the value of any money has been realised under section 181 of this Act; and
+
+(f) whether any money attached has been released by virtue of section 185(3), 186 or 188(1) of this Act.
+
+(4) On making the report, the [[^F124]officer of court] must send a copy of it to—
+
+(a) the debtor;
+
+(b) the creditor; and
+
+(c) any person such as is mentioned in subsection (3)(d) above.
+
+(5) The sheriff may refuse to receive a report on the ground that it has not been made and signed in accordance with subsections (1) and (2) above.
+
+(6) If the sheriff so refuses—
+
+(a) the money attachment ceases to have effect;
+
+(b) the sheriff must require the [[^F125]officer of court] to return the money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor; and
+
+(c) the sheriff clerk must intimate the refusal to—
+
+(i) the debtor;
+
+(ii) the officer;
+
+(iii) the creditor; and
+
+(iv) any person the sheriff thinks has an interest.
+
+(7) In this Part, any reference to the day on which the report of money attachment is made is a reference to the day on which the sheriff receives the report under subsection (1) above.
+
+### Release of money attached
+
+#### 183 Creditor's application for payment order
+
+(1) This section applies where—
+
+(a) money has been attached by [[^F126]an officer of court] in execution of a money attachment; and
+
+(b) that money (or part of it) has not been released by virtue of section 182(6)(b), 185(3), 186 or 188(1) of this Act.
+
+(2) The creditor may apply to the sheriff for an order (in this Part, a “payment order”) authorising payment to the creditor out of the money attached of a sum not exceeding the sum recoverable by the money attachment.
+
+(3) An application under subsection (2) above must be—
+
+(a) in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) made before the expiry of the period of 14 days beginning with the day on which the report of money attachment is made.
+
+(4) On making the application, the creditor must send a copy of it to—
+
+(a) the debtor;
+
+(b) the [[^F127]officer of court]; and
+
+(c) any person such as is mentioned in section 182(3)(d) of this Act.
+
+(5) Subject to subsections (10) and (12) below, where there is no opposition to the application, the sheriff must make a payment order.
+
+(6) The debtor or a third party who claims ownership (whether solely or in common with the debtor) of any of the money attached may oppose the application under subsection (2) above.
+
+(7) An opposition under subsection (6) above must be—
+
+(a) in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) made before the expiry of the period of 14 days beginning with the day on which the application is made.
+
+(8) Where there is opposition, the sheriff may not make a payment order without first—
+
+(a) giving—
+
+(i) the creditor;
+
+(ii) the debtor; and
+
+(iii) any third party who opposes the application,
+
+an opportunity to make representations; or
+
+(b) holding a hearing.
+
+(9) Where the debtor or, as the case may be a third party, opposes the application on the ground that money attached is not owned by the debtor, it is for the debtor or the third party to prove that fact.
+
+(10) Where the sheriff is satisfied, after considering any opposition or on the sheriff's own initiative, that there has been a material irregularity in the execution of the money attachment, the sheriff must make an order such as is mentioned in subsection (11) below.
+
+(11) That order is an order—
+
+(a) declaring that the money attachment ceases to have effect; and
+
+(b) requiring the [[^F128]officer of court] to return the money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor or, as the case may be, the person whose money it is.
+
+(12) Where the sheriff is satisfied after considering any opposition or on the sheriff's own initiative, that any money attached is not owned by the debtor—
+
+(a) the sheriff must make an order such as is mentioned in subsection (11) above restricted to that money; and
+
+(b) after the order is made, the [[^F129]officer of court] may attach other money owned by the debtor and kept at the place at which the original money attachment was executed.
+
+#### 184 Effect of payment order
+
+(1) A payment order authorises the [[^F130]officer of court]—
+
+(a) to realise the value of money attached; and
+
+(b) subject to section 37 of the 1985 Act (effect of sequestration on diligence), to dispose of the proceeds of the money attachment by—
+
+(i) retaining such amount as necessary to meet the fees and outlays of the officer;
+
+(ii) paying to the creditor the remainder of those proceeds so far as necessary to meet the sum recoverable by the money attachment; and
+
+(iii) paying to the debtor any surplus remaining.
+
+(2) For the purposes of subsection (1) above, the payment order authorises the [[^F131]officer of court]—
+
+(a) to act as the irrevocable agent of the debtor in relation to any banking instrument attached; and
+
+(b) to take any of the steps mentioned in subsection (3) below.
+
+(3) Those steps are—
+
+(a) presenting the instrument for payment;
+
+(b) if instructed by the creditor to do so, raising any action for payment that would have been open to the debtor to raise against any person liable to honour the instrument;
+
+(c) except where the instrument is not negotiable, negotiating the instrument—
+
+(i) for value; or
+
+(ii) to the creditor for value credited against the sum recoverable by the money attachment;
+
+(d) any other steps the debtor could have taken in relation to the instrument before the money attachment was executed.
+
+(4) The [[^F132]officer of court] must, in taking any of the steps referred to in subsection (3) above, obtain the highest amount for the instrument as is reasonably practicable.
+
+(5) In subsection (1)(b) above, “proceeds of the money attachment” includes any amount—
+
+(a) deposited in a bank account by virtue of section 181(6) or 185(4)(b)(iii) of this Act;
+
+(b) obtained as a result of taking any of the steps mentioned in subsection (3) above; and
+
+(c) received by the [[^F133]officer of court] by virtue of section 191(2)(c) of this Act.
+
+#### 185 Release of money where attachment unduly harsh
+
+(1) The debtor may, before—
+
+(a) a payment order is made; or
+
+(b) the money attachment ceases to have effect,
+
+apply to the sheriff for an order such as is mentioned in subsection (2) below.
+
+(2) That order is one—
+
+(a) providing that the money attachment ceases to have effect in relation to—
+
+(i) the money attached; or
+
+(ii) so much of it as the sheriff specifies; and
+
+(b) requiring the [[^F134]officer of court] to return that money or, where the value of the money has been realised, a sum equivalent to that value, to the debtor.
+
+(3) Where the sheriff is satisfied that, in the circumstances, the money attachment is unduly harsh to the debtor, the sheriff must, subject to subsection (4) below, make an order such as is mentioned in subsection (2) above.
+
+(4) Where the value of the money attached exceeds £1,000 or such other amount as the Scottish Ministers may by regulations prescribe, the sheriff—
+
+(a) may not specify money the value of which exceeds that amount; and
+
+(b) may, where the money attached includes or comprises a banking instrument, authorise the [[^F135]officer of court] to—
+
+(i) realise the value of the instrument;
+
+(ii) pay to the debtor from the money and, as the case may be, proceeds of that realisation the sum specified; and
+
+(iii) deposit any surplus remaining in a bank account.
+
+(5) In a case to which subsection (4)(b) above applies, the order under subsection (3) above authorises the [[^F136]officer of court]—
+
+(a) to act as the irrevocable agent of the debtor in relation to the instrument; and
+
+(b) to take any of the steps mentioned in section 184(3) of this Act.
+
+(6) Subsection (4) of section 184 of this Act applies to any steps taken by virtue of subsection (5) above.
+
+(7) Where the amount realised under subsection (4)(b)(i) above is less than the amount specified, the order is to be deemed to have required the [[^F137]officer of court] to pay the amount realised only.
+
+#### 186 Invalidity and cessation of money attachment
+
+(1) Where, at any time before a payment order is made or the money attachment ceases to have effect, the sheriff is satisfied that there has been a material irregularity in the execution of the money attachment, the sheriff must make an order such as is mentioned in subsection (2) below.
+
+(2) That order is an order—
+
+(a) declaring that the money attachment ceases to have effect; and
+
+(b) requiring the [[^F138]officer of court] to return the money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor or, as the case may be, the person whose money it is.
+
+(3) Where, at any time before a payment order is made or the money attachment ceases to have effect, the sheriff is satisfied that any money attached is not owned by the debtor—
+
+(a) the sheriff must make an order such as is mentioned in subsection (2) above restricted to that money; and
+
+(b) after the order is made, the [[^F139]officer of court] may attach other money owned by the debtor and kept at the place at which the original money attachment was executed.
+
+(4) An order under this section may be made—
+
+(a) on the application of—
+
+(i) the debtor; or
+
+(ii) a third party claiming an interest; or
+
+(b) on the sheriff's own initiative.
+
+(5) Where such an order is made on the sheriff's own initiative, the sheriff clerk must intimate the order to—
+
+(a) the debtor;
+
+(b) the creditor;
+
+(c) the [[^F140]officer of court]; and
+
+(d) any other person the sheriff thinks has an interest.
+
+(6) The sheriff may not make an order under this section without first—
+
+(a) giving—
+
+(i) the debtor;
+
+(ii) the creditor; and
+
+(iii) any other person the sheriff thinks has an interest,
+
+an opportunity to make representations; or
+
+(b) holding a hearing.
+
+(7) The sheriff must give reasons for making, or refusing to make, an order under this section.
+
+#### 187 Termination of money attachment
+
+(1) A money attachment ceases to have effect on the expiry of the period of 14 days beginning with the day on which the report of money attachment is made unless, within that period, the creditor—
+
+(a) applies for a payment order; and
+
+(b) sends a copy of the application to the [[^F141]officer of court] under section 183(4)(b) of this Act.
+
+(2) A money attachment ceases to have effect if the sum recoverable by the money attachment is—
+
+(a) paid to—
+
+(i) the creditor;
+
+(ii) the [[^F142]officer of court]; or
+
+(iii) any other person who has authority to receive payment on behalf of the creditor; or
+
+(b) tendered to any of those persons and the tender is not accepted within a reasonable time.
+
+(3) Where a money attachment ceases to have affect by virtue of subsection (1) or (2) above, the [[^F143]officer of court] must return money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor.
+
+#### 188 Redemption of banking instrument
+
+(1) The debtor may, before the expiry of the period of 14 days beginning with the date on which the report of money attachment is made, redeem a banking instrument attached by the money attachment.
+
+(2) The debtor may not redeem an instrument in relation to which an order under section 181(3) of this Act has been made.
+
+(3) The amount for which such an instrument may be redeemed is the value of the instrument specified in the report of money attachment.
+
+(4) The [[^F144]officer of court] must, on receiving payment from the debtor for the redemption of an attached instrument—
+
+(a) grant a receipt in (or as nearly as may be in) the form prescribed by Act of Sederunt to the debtor; and
+
+(b) report the redemption to the sheriff as soon as is reasonably practicable.
+
+(5) The money attachment ceases, on the grant of such a receipt, to have effect in relation to the redeemed instrument.
+
+### Statement of money attachment
+
+#### 189 Final statement of money attachment
+
+(1) The [[^F145]officer of court] must, before the expiry of the period of 14 days beginning with the day mentioned in subsection (2) below, give a statement to the sheriff.
+
+(2) The day referred to in subsection (1) above is the day on which—
+
+(a) the [[^F146]officer of court] made payment to the creditor under a payment order; or
+
+(b) the money attached (or the last part of it) was returned to the debtor or, as the case may be, a third party by virtue of section 182(6), 183(11), 185(3), 186, 187 or 188 of this Act,
+
+whichever is the later.
+
+(3) The statement mentioned in subsection (1) above must be—
+
+(a) in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) signed by the [[^F147]officer of court].
+
+(4) The statement must specify—
+
+(a) any banking instruments, the values of which have been realised;
+
+(b) the value realised in respect of each such instrument;
+
+(c) any sums paid by the debtor to account of the sum recoverable by the money attachment;
+
+(d) any chargeable expenses;
+
+(e) any sums paid to the creditor;
+
+(f) any surplus paid or instruments returned to the debtor or, as the case may be, a third party; and
+
+(g) any balance due by or to the debtor.
+
+(5) The statement must contain a declaration by the [[^F148]officer of court] that all the information contained within it is, to the best of the officer's knowledge, true.
+
+(6) If the [[^F149]officer of court]—
+
+(a) without reasonable excuse gives the statement after the expiry of the period mentioned in subsection (1) above; or
+
+(b) wilfully refuses to make, or delays making, the statement after the expiry of that period,
+
+the sheriff may make an order providing that the officer is liable for the chargeable expenses, either in whole or in part.
+
+[^F150]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 190 Audit of final statement under section 189(1)
+
+(1) The sheriff must remit the statement under section 189(1) to the auditor of court who must—
+
+(a) tax the chargeable expenses;
+
+(b) certify any balance due by or to the debtor; and
+
+(c) make a report to the sheriff.
+
+(2) The auditor of court must not alter the statement without first giving all interested persons an opportunity to make representations.
+
+(3) The auditor of court must not charge a fee in respect of the report made under subsection (1)(c) above.
+
+(4) On receipt of a report made under subsection (1)(c) above the sheriff must make an order—
+
+(a) declaring the balance due by or to the debtor, as certified by the auditor of court;
+
+(b) declaring such a balance after making modifications to the balance so certified; or
+
+(c) where the sheriff is satisfied that there has been a material irregularity in the execution of the money attachment (other than the timing of the statement under section 189(1) of this Act), declaring the attachment void.
+
+(5) An order under subsection (4)(c) above may make such consequential provision as the sheriff thinks fit.
+
+(6) An order under subsection (4)(c) above does not affect the title of a person to any money acquired by that person in good faith.
+
+(7) The sheriff may not make an order under subsection (4)(b) or (c) above without first—
+
+(a) giving—
+
+(i) the debtor;
+
+(ii) the creditor; and
+
+(iii) any third party who claims ownership (whether alone or in common with the debtor or any other person) of any money attached,
+
+an opportunity to make representations; or
+
+(b) holding a hearing.
+
+(8) The sheriff clerk must intimate the sheriff's order under subsection (4) above to the persons mentioned in subsection (7)(a) above.
+
+### General and miscellaneous
+
+#### 191 Money in common ownership
+
+(1) Money which is owned in common by a debtor and a third party may be attached in satisfaction of the debts of the debtor.
+
+(2) Where at any time before the disposal of attached money—
+
+(a) a third party claims to own the money in common with the debtor;
+
+(b) either—
+
+(i) the [[^F151]officer of court] is satisfied that the claim is valid; or
+
+(ii) the sheriff, on the third party's application, makes an order stating that the sheriff is so satisfied; and
+
+(c) the third party pays to the officer a sum equal to the value of the debtor's interest in the money,
+
+the debtor's interest in the money is transferred to the third party.
+
+(3) Where the sheriff is satisfied—
+
+(a) that money attached is owned in common by the debtor and a third party; and
+
+(b) that the disposal of the money would in the circumstances be unduly harsh to the third party,
+
+the sheriff may, on the third party's application made before the money's disposal, order that the money attachment is to cease to have effect in relation to that money.
+
+(4) Where—
+
+(a) the debtor's interest in money owned in common by the debtor and a third party is, under subsection (2) above, transferred to the third party; or
+
+(b) the money attachment ceases, in pursuance of an order made under subsection (3) above, to have effect in relation to that money,
+
+the [[^F152]officer of court] may attach other money owned by the debtor and kept at the place at which the original money attachment was executed.
+
+(5) In this section and in section 192 of this Act, references to the “disposal” of attached money (and to cognate expressions) are to be construed as references to the value of that money being realised by virtue of—
+
+(a) an order under section 181 of this Act; or
+
+(b) a payment order.
+
+#### 192 Procedure where money owned in common is disposed of
+
+(1) This section applies where—
+
+(a) a third party claimed, before attached money was disposed of, to own the money in common with the debtor;
+
+(b) the debtor's interest in the money has not transferred to the third party under section 191(2) of this Act;
+
+(c) the money attachment has not, by virtue of an order under section 191(3) of this Act, ceased to have effect in relation to that money;
+
+(d) the third party's interest in the money has, on the disposal of the money, been—
+
+(i) transferred to another person; or
+
+(ii) extinguished by virtue of the disposal; and
+
+(e) either—
+
+(i) the third party's claim is, after that disposal, admitted by the creditor and the debtor; or
+
+(ii) where the third party's claim is not so admitted, the sheriff, on an application by the third party after that disposal, is satisfied that the claim is valid.
+
+(2) The creditor must pay to the third party a sum equal to the fraction of the value of the money which corresponded to the third party's interest in it.
+
+#### 193 Unlawful acts after money attachment
+
+(1) This section applies where—
+
+(a) a money attachment has been executed; and
+
+(b) the debtor—
+
+(i) realises (or purports to realise) the value of an attached banking instrument;
+
+(ii) otherwise relinquishes ownership of such an instrument; or
+
+(iii) obtains (or attempts to obtain), by fraud or other dishonest means, a banking instrument in place of such an instrument.
+
+(2) The debtor is acting in breach of the money attachment.
+
+(3) A person who—
+
+(a) assists a debtor to do anything mentioned in subsection (1)(b) above; and
+
+(b) knows (or ought reasonably to know) that a money attachment has been executed against the debtor,
+
+is acting in breach of the money attachment.
+
+(4) A breach of the money attachment under subsection (2) or (3) above may be dealt with as a contempt of court.
+
+#### 194 Appeals
+
+(1) Subject to subsection (2) below, an appeal against any decision of the sheriff made under this Part of this Act may be made only—
+
+(a) to the sheriff principal;
+
+(b) with the leave of the sheriff; and
+
+(c) on a point of law.
+
+(2) This section does not apply to decisions made under section 181(3) of this Act.
+
+(3) The decision of the sheriff principal on such an appeal is final.
+
+#### 195 Recovery from debtor of expenses of money attachment
+
+(1) Expenses which, in accordance with schedule 3 to this Act, are chargeable against the debtor are to be recoverable from the debtor by the money attachment but not by any other legal process.
+
+(2) Where any expenses such as are mentioned in subsection (1) above have not been recovered by the time the proceeds of the money attachment are disposed of under a payment order, or the money attachment otherwise ceases to have effect, they cease to be chargeable against the debtor.
+
+(3) The sheriff must grant decree for payment of any expenses awarded by the sheriff against the debtor in favour of the creditor under paragraph 4 of schedule 3 to this Act.
+
+(4) Subsection (5) below applies where a money attachment is—
+
+(a) in effect immediately before the date of sequestration (within the meaning of the [[^F153]Bankruptcy (Scotland) Act 2016]) of the debtor's estate;
+
+(b) in effect immediately before the appointment of an administrator under Part II of the Insolvency Act 1986 (c. 45), in relation to the debtor;
+
+(c) in effect against property of the debtor immediately before a floating charge attaches to all or part of that property under section 53(7) (attachment on appointment of receiver by holder of charge) or 54(6) (attachment on appointment of receiver by court) of that Act of 1986;
+
+(d) in effect immediately before the commencement of the winding up, under Part IV or V of that Act of 1986, of the debtor; or
+
+(e) rendered unenforceable by virtue of the creditor entering into a composition contract or acceding to a trust deed for creditors or by virtue of the subsistence of a protected trust deed within the meaning of Schedule 5 to [[^F154]that Act of 2016].
+
+(5) Where this subsection applies—
+
+(a) the expenses of the money attachment which were chargeable against the debtor remain so chargeable; and
+
+(b) if the debtor's obligation to pay the expenses is not discharged under or by virtue of the sequestration, administration order, receivership, winding up, composition contract or trust deed, those expenses are recoverable by further money attachment.
+
+#### 196 Liability for expenses of money attachment
+
+(1) Schedule 3 to this Act has effect for the purposes of determining the liability, as between the creditor and the debtor, for expenses incurred in serving a charge and in the process of money attachment.
+
+(2) The Scottish Ministers may by order modify that schedule so as to—
+
+(a) add or remove types of expenses to or, as the case may be, from those referred to in that schedule; or
+
+(b) vary any of the descriptions of the types of expenses referred to in it.
+
+#### 197 Ascription
+
+(1) This section applies where any sums are—
+
+(a) attached by a money attachment; or
+
+(b) paid to account of the sum recoverable by that attachment while it is in effect.
+
+(2) Such sums are to be ascribed to the following in the order in which they are mentioned—
+
+(a) the expenses which are chargeable against the debtor incurred in the money attachment;
+
+(b) any interest which has accrued, at the day on which the money attachment was executed, on the sum for payment for which the charge was served;
+
+(c) any sum for payment of which that charge was served together with such interest as has accrued after the day the money attachment was executed.
+
+#### 198 Interpretation
+
+(1) In this Part—
+
+- “decree” has the meaning given by section 221 of this Act, being a decree which, or an extract of which, authorises money attachment;
+- “document of debt” has the meaning given by section 221 of this Act, being a document which, or an extract of which, authorises money attachment;
+- “dwellinghouse” has the same meaning as in section 45 of the 2002 Act;
+- [^F155]...
+- “money” has the meaning given by section 175 of this Act;
+- [[^F156] “ officer of court ” means the officer of court appointed by the creditor; ]
+- “payment order” has the meaning given by section 183(2) of this Act;
+- “schedule of money attachment” has the meaning given by section 179(1) of this Act; and
+- “sum recoverable by the money attachment” has the meaning given by section 177(1) of this Act.
+
+(2) The Scottish Ministers may by order modify the definitions of “decree” and “document of debt” in subsection (1) above by—
+
+(a) adding types of decree or document to;
+
+(b) removing types of decree or document from; or
+
+(c) varying the description of,
+
+the types of decree or document to which those definitions apply.
+
+(3) Where—
+
+(a) a schedule, report or statement under this Part of this Act requires to be signed; and
+
+(b) provision is made by virtue of this Part of this Act or by any other enactment permitting the schedule, report or statement to be an electronic communication,
+
+the requirement is satisfied by a certified electronic signature.
+
+## Part 9 — Diligence against earnings
+
+### 199 Simultaneous operation of arrestments against earnings where net earnings insufficient
+
+(1) In section 58 of the 1987 Act (simultaneous operation of earnings arrestment and current maintenance arrestment), for subsection (2) substitute—
+
+> (2) If on any pay-day N is less than S, the employer shall operate both the earnings arrestment and the current maintenance arrestment in accordance with subsection (3) below.
+>
+> (3) The employer shall—
+>
+> (a) for the purposes of section 47(1) of this Act, deduct the sum equal to—
+>
+> N × (E)/(S)
+>
+> ; and
+>
+> (b) for the purposes of section 51(1) of this Act, deduct the sum equal to—
+>
+> N × (C)/(S)
+>
+> .
+>
+> (4) In subsections (2) and (3) above—
+>
+> - N is the amount of any net earnings in so far as they exceed the sum mentioned in subsection (2)(b) of section 53 of this Act for the number of days mentioned in subsection (2)(a) of that section;
+> - E is the sum which the employer is required to deduct under section 47(1) of this Act;
+> - C is the sum which the employer is required to deduct under section 51(1) of this Act; and
+> - S is the total of E and C.
+
+.
+
+(2) In section 63(5)(b) of that Act (sum payable under conjoined arrestment order including both ordinary debts and current maintenance), for “all the debts were current maintenance” substitute “ the only debts were the current maintenance debts ”.
+
+(3) In Schedule 3 to that Act (disbursement under conjoined arrestment order)—
+
+(a) in paragraph 4, for the words from “priority” to the end substitute “ disbursement shall be in accordance with paragraph 4A below. ”; and
+
+(b) after that paragraph, insert—
+
+> **4A**
+>
+> Where—
+>
+> (a) only one of the debts is an ordinary debt, the creditor in that debt shall be paid the sum equal to—
+>
+> D × (E)/(S)
+>
+> ;
+>
+> (b) more than one of the debts is an ordinary debt, each of the creditors in those debts, out of the sum mentioned in sub-paragraph (a) above, shall be paid the same proportion of the amount of that creditor's debt;
+>
+> (c) only one of the debts is current maintenance, the creditor in that debt shall be paid the sum equal to—
+>
+> D × (C)/(S)
+>
+> ;
+>
+> (d) more than one of the debts is current maintenance, each of the creditors in those debts, out of the sum mentioned in sub-paragraph (c) above, shall be paid the same proportion of the amount of that creditor's debt,
+>
+> where—
+>
+> - D is the sum deducted under subsection (5) of section 63 of this Act;
+> - E is the sum deducted under paragraph (a) of that subsection;
+> - C is the sum which would, if the only debts were the current maintenance debts, be deducted under subsection (3) of that section; and
+> - S is the total of E and C.
+
+.
+
+### 200 Arrestment of earnings: deductions from holiday pay
+
+(1) In section 47(1) of the 1987 Act (general effect of earnings arrestment), after “section 49” insert “ or 49A ”.
+
+(2) In section 49(1) of that Act (method of calculating deduction from earnings), at the beginning insert “ Subject to section 49A of this Act, ”.
+
+(3) After section 49 of that Act, insert—
+
+> **49A Deductions where net earnings include holiday pay**
+>
+> (1) This section applies where—
+>
+> (a) the debtor's earnings are paid at regular intervals; and
+>
+> (b) on one pay-day (in this section, the “normal pay-day”) there are paid to the debtor both—
+>
+> (i) earnings normally payable on that pay-day (in this section, “normal earnings”); and
+>
+> (ii) earnings such as are mentioned in subsection (2) below (in this section, “holiday pay”).
+>
+> (2) Holiday pay is earnings which—
+>
+> (a) are paid in respect of a period of annual leave or public holiday; and
+>
+> (b) would, were they not paid in respect of such leave or holiday, have been paid on a pay-day other than the normal pay-day.
+>
+> (3) In arriving at the sum to be deducted under section 47 of this Act on the normal pay-day, subsections (4) to (8) below shall apply.
+>
+> (4) Calculate in accordance with section 49 of this Act the sum, if any, which would be deducted from the normal earnings if the holiday pay had not been paid on the normal pay-day.
+>
+> (5) Where—
+>
+> (a) the debtor's normal earnings are payable weekly, monthly or at regular intervals of a whole number of weeks or months; and
+>
+> (b) all of the holiday pay relates to a whole number of weeks or months,
+>
+> the sum, if any, to be deducted from the holiday pay shall be the sum arrived at by applying sub-paragraphs (i) to (iii) of section 49(1)(c) of this Act to the holiday pay as if it were the net earnings mentioned in that sub-paragraph (i).
+>
+> (6) Where the debtor's normal earnings are payable weekly, monthly or at regular intervals of a whole number of weeks or months but part of the holiday pay relates to a whole number of weeks or months and part does not, the sum, if any, to be deducted from the holiday pay shall be the sum arrived at by—
+>
+> (a) in relation to the part of the holiday pay which relates to a whole number of weeks or months, applying subsection (5) above to that part;
+>
+> (b) in relation to the part of the holiday pay which does not relate to a whole number of weeks or months, applying paragraphs (a) to (c) of section 49(2) of this Act to that part of the holiday pay as if it were the net earnings mentioned in that paragraph (a); and
+>
+> (c) aggregating the sums arrived at as mentioned in paragraphs (a) and (b) above.
+>
+> (7) Where—
+>
+> (a) the debtor's normal earnings are payable weekly, monthly or at regular intervals of a whole number of weeks or months but none of the holiday relates to such a whole number of weeks or months; or
+>
+> (b) the debtor's normal earnings are payable at regular intervals other than at intervals to which paragraph (a) above applies,
+>
+> the sum, if any, to be deducted from the holiday pay shall be arrived at by applying paragraph (b) of subsection (6) above to the holiday pay.
+>
+> (8) Aggregate—
+>
+> (a) the deduction, if any, calculated under subsection (4) above; and
+>
+> (b) the deduction, if any, calculated under subsection (5), (6) or, as the case may be, (7) above.
+
+.
+
+### 201 Provision of debt advice and information package
+
+(1) In section 47 of the 1987 Act (general effect of earnings arrestment)—
+
+(a) in subsection (2)(a), after “shall” insert “ , subject to subsection (3) below, ”; and
+
+(b) after subsection (2) insert—
+
+> (3) An earnings arrestment shall not come into effect unless, no earlier than 12 weeks before the date on which the earnings arrestment schedule is served, the creditor has provided the debtor with a debt advice and information package.
+>
+> (4) In this section and in sections 51(2A) and 60(3A) of this Act, “debt advice and information package” means the debt advice and information package referred to in section 10(5) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17).
+
+.
+
+(2) In section 51 of that Act (general effect of current maintenance arrestment)—
+
+(a) in subsection (2)(a), after “shall” insert “ , subject to subsection (2A) below, ”; and
+
+(b) after subsection (2) insert—
+
+> (2A) A current maintenance arrestment shall not come into effect unless, no earlier than 12 weeks before the date on which the current maintenance arrestment schedule is served, the creditor has provided the debtor with a debt advice and information package.
+
+.
+
+(3) In section 60 of that Act (conjoined arrestment orders), after subsection (3) insert—
+
+> (3A) It shall not be competent to make a conjoined arrestment order unless, no earlier than 12 weeks before the date of the application under subsection (2) above, the creditor has provided the debtor with a debt advice and information package.
+
+.
+
+(4) In section 73(1) of that Act (interpretation), after the definition of “current maintenance” insert—
+
+> “debt advice and information package” has the meaning given by section 47(4) of this Act;
+
+.
+
+### 202 Intimation of arrestment schedule
+
+(1) Section 70 of the 1987 Act is amended as follows.
+
+(2) In subsection (1), for the words “, if reasonably practicable,” substitute “ take all reasonably practicable steps to ”.
+
+(3) After subsection (4), insert—
+
+> (4A) An employer on whom an earnings arrestment schedule or a current maintenance arrestment schedule is served shall, as soon as is reasonably practicable—
+>
+> (a) intimate a copy of it to the debtor; and
+>
+> (b) notify the debtor of—
+>
+> (i) the date on which the first deduction is made; and
+>
+> (ii) the sum so deducted.
+>
+> (4B) An employer on whom a copy of a conjoined arrestment order is served shall, as soon as is reasonably practicable, notify the debtor of the matters mentioned in sub-paragraphs (i) and (ii) of subsection (4A)(b) above.
+
+.
+
+### 203 Provision of information
+
+After section 70 of the 1987 Act, insert—
+
+> **70A Employer's duty to provide information**
+>
+> (1) Where an employer receives, in relation to a debtor—
+>
+> (a) an earnings arrestment schedule;
+>
+> (b) a current maintenance arrestment schedule; or
+>
+> (c) a copy of a conjoined arrestment order,
+>
+> the employer shall, as soon as is reasonably practicable, send to the creditor or, in the case of a conjoined arrestment order, the sheriff clerk, the information mentioned in subsection (3) below.
+>
+> (2) The employer shall, provided the debt has not been extinguished, send, on or as soon as is reasonably practicable after the dates mentioned in subsection (4) below, to the creditor or, as the case may be, the sheriff clerk the information mentioned in subsection (3) below.
+>
+> (3) The information referred to in subsection (1) above is—
+>
+> (a) how the debtor is paid (whether weekly, monthly or otherwise);
+>
+> (b) the date of the debtor's pay-day next following—
+>
+> (i) where subsection (1) above applies, receipt of the schedule or order; or
+>
+> (ii) where subsection (2) above applies, the date mentioned in subsection (4) below;
+>
+> (c) the sum deducted on that pay-day and the net earnings from which it is so deducted; and
+>
+> (d) any other information which the Scottish Ministers may, by regulations, prescribe.
+>
+> (4) The dates referred to in subsection (2) above are—
+>
+> (a) the later of—
+>
+> (i) 6 April next following receipt of the schedule or order; or
+>
+> (ii) the day falling 6 months after receiving the schedule or order; and
+>
+> (b) each 6 April thereafter.
+>
+> (5) Notwithstanding subsections (1) and (2) above, the employer shall, if the debtor ceases for whatever reason to be employed by the employer, give notice, as soon as is reasonably practicable, to the creditor or, as the case may be, the sheriff clerk—
+>
+> (a) of that fact; and
+>
+> (b) in so far as is known to the employer, the name and address of any new employer of the debtor.
+>
+> (6) Where an employer sends information under subsection (1) or (2) above or gives notice under subsection (5) above, the employer shall, as soon as is reasonably practicable, send a copy of that information or notice to the debtor.
+>
+> **70B Failure to give notice under section 70A(5)**
+>
+> (1) Where an employer fails without reasonable excuse to give notice under section 70A(5) of this Act, the sheriff may, on the application of any creditor, make an order requiring the employer—
+>
+> (a) to provide such information as is known to the employer as to the debtor's employment after ceasing to be employed by that employer;
+>
+> (b) to pay to the creditor an amount not exceeding twice the sum which the employer would have been required to deduct on the debtor's next pay-day had the debtor still been employed by that employer.
+>
+> (2) Where a sum is paid by virtue of an order under subsection (1)(b) above—
+>
+> (a) the debt owed by the debtor to the creditor shall be reduced by that sum; and
+>
+> (b) the employer shall not be entitled to recover that sum from the debtor.
+>
+> (3) An employer aggrieved by an order under subsection (1) above may, before the expiry of the period of 14 days beginning with the day on which the order is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+>
+> **70C Creditor's duty to provide information**
+>
+> (1) A creditor who is receiving payment from a debtor by virtue of—
+>
+> (a) an earnings arrestment;
+>
+> (b) a current maintenance arrestment; or
+>
+> (c) a conjoined arrestment order,
+>
+> shall, provided the debt has not been extinguished, send, on or as soon as is reasonably practicable after the dates mentioned in subsection (2) below, to the employer or, in the case of a conjoined arrestment order, the sheriff clerk the information mentioned in subsection (3) below.
+>
+> (2) The dates referred to in subsection (1) above are—
+>
+> (a) the later of—
+>
+> (i) 6 April next following service of the schedule of arrestment or, as the case may be, order; or
+>
+> (ii) the day falling 6 months after the service of the schedule or order; and
+>
+> (b) each 6 April thereafter.
+>
+> (3) The information referred to in subsection (1) above is—
+>
+> (a) the sum owed by the debtor to the creditor;
+>
+> (b) the amounts received by the creditor by virtue of the arrestment or order; and
+>
+> (c) the dates of payment of those amounts.
+>
+> **70D Debtor's duty to provide information**
+>
+> Where a debtor ceases to be employed by an employer who is deducting sums under this Part of this Act, the debtor shall give notice to the creditor or, where those sums are being deducted by virtue of a conjoined arrestment order, the sheriff clerk—
+>
+> (a) of that fact; and
+>
+> (b) of the name and address of any new employer.
+
+.
+
+### 204 Conjoined arrestment orders: jurisdiction
+
+In section 73(1) of the 1987 Act (interpretation of Part 3 of that Act), in paragraph (c) of the definition of “sheriff”, for the words from “the” where it second occurs to the end substitute—
+
+> (i) the place where the debtor is principally employed;
+>
+> (ii) where that place is outside Scotland, any other place where the debtor is employed; or
+>
+> (iii) where neither sub-paragraph (i) nor sub-paragraph (ii) above applies, the place where the debtor is domiciled.
+
+.
+
+### 205 Arrestment of seamen's wages
+
+In section 73 of the 1987 Act (interpretation of Part 3 of that Act), subsections (3)(c) and (4) are repealed.
+
+## Part 10 — Arrestment in execution and action of furthcoming
+
+### 206 Arrestment in execution
+
+After section 73 of the 1987 Act, insert—
+
+> **Part 3A — Arrestment and action of furthcoming**
+>
+> **73A Arrestment and action of furthcoming to proceed only on decree or document of debt**
+>
+> (1) Arrestment and action of furthcoming or sale shall be competent only in execution of—
+>
+> (a) subject to subsection (2) below, a decree; or
+>
+> (b) a document of debt.
+>
+> (2) Arrestment and action of furthcoming or sale in execution of a summary warrant shall be competent only if—
+>
+> (a) the debtor has been charged to pay the debt due by virtue of the summary warrant; and
+>
+> (b) the period for payment specified in the charge has expired without payment being made.
+>
+> (3) Any rule of law, having effect immediately before the coming into force of this section, as to the decrees or documents on which arrestment and action of furthcoming or sale can proceed shall, in so far as inconsistent with this section, cease to have effect.
+>
+> (4) In this Part of this Act—
+>
+> - “decree” means—
+>
+>   - (a) a decree of the Court of Session, of the High Court of Justiciary or of the sheriff;
+>   - (b) a decree of the Court of Teinds;
+>   - (c) a summary warrant;
+>   - (d) a civil judgment granted outside Scotland by a court, tribunal or arbiter which by virtue of any enactment or rule of law is enforceable in Scotland;
+>   - (e) an order or determination which by virtue of any enactment is enforceable as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff;
+>   - (f) a warrant granted, in criminal proceedings, for enforcement by civil diligence; or
+>   - (g) a liability order within the meaning of section 33(2) of the Child Support Act 1991 (c. 48),
+>
+>   being a decree, warrant, judgment, order or determination which, or an extract of which, authorises arrestment and action of furthcoming or sale; and
+>
+> - “document of debt” means—
+>
+>   - (a) a document registered for execution in the Books of Council and Session or the sheriff court books; or
+>   - (b) a document or settlement which by virtue of an Order in Council under section 13 of the Civil Jurisdiction and Judgments Act 1982 (c. 27) is enforceable in Scotland,
+>
+>   being a document or settlement which, or an extract of which, authorises arrestment and action of furthcoming or sale.
+>
+> (5) The Scottish Ministers may, by order, modify the definitions of “decree” and “document of debt” in subsection (4) above so as to—
+>
+> (a) add or remove types of decree or document to or, as the case may be, from those referred to in that provision; or
+>
+> (b) vary any of the descriptions of the types of decree or document there referred to.
+>
+> **73B Schedule of arrestment to be in prescribed form**
+>
+> (1) This section applies where a creditor arrests in execution of —
+>
+> (a) a decree and the creditor has not executed an arrestment on the dependence of the action; or
+>
+> (b) a document of debt.
+>
+> (2) The schedule of arrestment used in executing the arrestment shall be in (or as nearly as may be in) the form prescribed by the Scottish Ministers by regulations.
+>
+> **73C Arrestment on the dependence followed by decree**
+>
+> (1) This section applies where a creditor obtains a decree (in this Part of this Act referred to as a “final decree”) in an action on the dependence of which the creditor has executed an arrestment.
+>
+> (2) The creditor shall, as soon as reasonably practicable, serve a copy of that final decree, in (or as nearly as may be in) the form prescribed by Act of Sederunt, on the arrestee.
+>
+> **73D Debt advice and information**
+>
+> (1) This section applies where—
+>
+> (a) a creditor—
+>
+> (i) obtains a final decree in an action on the dependence of which the creditor has executed an arrestment; or
+>
+> (ii) arrests in execution of a decree or document of debt; and
+>
+> (b) the debtor is an individual.
+>
+> (2) The creditor shall, during the period of 48 hours beginning with the time at which the copy of the final decree is served under section 73C(2) of this Act or, as the case may be, the time at which the schedule of arrestment is served, provide the debtor with a debt advice and information package.
+>
+> (3) Where the creditor fails to comply with subsection (2) above, the arrestment shall cease to have effect or, as the case may be, shall be incompetent.
+>
+> (4) In this section, “debt advice and information package” has the meaning given by section 47(4) of this Act.
+>
+> **73E Funds attached**
+>
+> (1) Subsections (2) to (5) below apply—
+>
+> (a) where a creditor arrests in execution of —
+>
+> (i) a decree and the creditor has not executed an arrestment on the dependence of the action; or
+>
+> (ii) a document of debt; and
+>
+> (b) only to the extent that the arrestee holds funds due to the debtor the value of which, at the time the arrestment is executed, is or can be ascertained (whether or not that arrestee also holds other moveable property of the debtor).
+>
+> (2) Subject to subsection (4) below and to section 73F of this Act, the funds mentioned in subsection (1)(b) above attached by the arrestment shall be the lesser of—
+>
+> (a) the sum due by the arrestee to the debtor; or
+>
+> (b) the aggregate of—
+>
+> (i) the principal sum, in relation to which the decree or document is executed, owed by the debtor to the creditor;
+>
+> (ii) any judicial expenses chargeable against the debtor by virtue of the decree;
+>
+> (iii) the expenses of executing the arrestment;
+>
+> (iv) interest on the principal sum up to and including the date of service of the schedule of arrestment;
+>
+> (v) the interest on the principal sum which would be accrued in the period of 1 year beginning with the day after the date mentioned in sub-paragraph (iv) above;
+>
+> (vi) any interest on the expenses of executing the arrestment which is chargeable against the debtor; and
+>
+> (vii) any sum prescribed under subsection (3) below.
+>
+> (3) The Scottish Ministers may, by regulations, prescribe a sum which appears to them to be reasonable having regard to the average expenses likely to be incurred and chargeable against a debtor in a typical action of furthcoming.
+>
+> (4) Where—
+>
+> (a) the arrestee holds both funds due to and other moveable property of the debtor; and
+>
+> (b) the sum mentioned in paragraph (b) of subsection (2) above exceeds the sum mentioned in paragraph (a) of that subsection,
+>
+> the arrestment shall, in addition to the funds equal to the sum mentioned in that paragraph (a), attach the whole moveable property so held.
+>
+> (5) Except as provided for in subsection (4) above, an arrestment to which this section applies shall not attach any moveable property of the debtor other than the sum attached under subsection (2) above.
+>
+> (6) Where, in a case to which subsections (2) to (5) above apply—
+>
+> (a) in addition to the funds mentioned in subsection (1)(b) above, the arrestee holds funds due to the debtor the value of which is not or cannot be ascertained; and
+>
+> (b) the sum mentioned in paragraph (a) of subsection (2) above exceeds the sum mentioned in paragraph (b) of that subsection,
+>
+> the arrestment shall not attach any of the funds mentioned in paragraph (a) above.
+>
+> **73F Protection of minimum balance in certain bank accounts**
+>
+> (1) Subject to subsection (2) below, this section applies where—
+>
+> (a) a creditor arrests—
+>
+> (i) in pursuance of a warrant granted for diligence on the dependence of an action; or
+>
+> (ii) in execution of a decree or document of debt;
+>
+> (b) the arrestment attaches funds standing to the credit of a debtor in an account held by a bank or other financial institution; and
+>
+> (c) the debtor is an individual.
+>
+> (2) This section does not apply where the account is—
+>
+> (a) held in the name of a company, a limited liability partnership, a partnership or an unincorporated association; or
+>
+> (b) operated by the debtor as a trading account.
+>
+> (3) The arrestment shall—
+>
+> (a) in a case where the sum standing to the credit of the debtor exceeds the sum mentioned in subsection (4) below, attach only the balance above that sum; and
+>
+> (b) in any other case, attach no funds.
+>
+> (4) The sum referred to in subsection (3)(a) above is the sum first mentioned in column 1 of Table B in Schedule 2 to this Act (being the sum representing the net monthly earnings from which no deduction would be made under an earnings arrestment were such an arrestment in effect).
+>
+> (5) In subsection (1) above, “bank or other financial institution” means—
+>
+> (a) the Bank of England;
+>
+> (b) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 (c. 8) to accept deposits;
+>
+> (c) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act which has permission under paragraph 15 of that schedule (as a result of qualifying for authorisation under paragraph 12 of that schedule) to accept deposits; or
+>
+> (d) a person who is exempt from the general prohibition in respect of accepting deposits as a result of an exemption order made under section 38(1) of that Act,
+>
+> and the expressions in this definition shall be read with section 22 of that Act, any relevant order made under that section and Schedule 2 to that Act.
+>
+> (6) The Scottish Ministers may, by regulations—
+>
+> (a) modify subsection (2) above so as to—
+>
+> (i) add or remove types of account to or, as the case may be, from those referred to in that paragraph; or
+>
+> (ii) vary any of the descriptions of the types of account there referred to; and
+>
+> (b) modify the definition of “bank or other financial institution” in subsection (5) above so as to—
+>
+> (i) add or remove types of financial institution to or, as the case may be, from those referred to in that provision; or
+>
+> (ii) vary any of the descriptions of the types of institution there referred to.
+>
+> **73G Arrestee's duty of disclosure**
+>
+> (1) This section applies where a creditor arrests—
+>
+> (a) in pursuance of a warrant granted for diligence on the dependence of an action; or
+>
+> (b) in execution of a decree or document of debt.
+>
+> (2) The arrestee shall, before the expiry of the period mentioned in subsection (3) below, send to the creditor in (or as nearly as may be in) the form prescribed by the Scottish Ministers by regulations, the information mentioned in subsection (4) below.
+>
+> (3) The period referred to in subsection (2) above is the period of 3 weeks beginning with the day on which the arrestment is executed.
+>
+> (4) The information referred to in subsection (2) above is—
+>
+> (a) where any property, other than funds due to the debtor, is attached—
+>
+> (i) the nature of that property; and
+>
+> (ii) the value of it in so far as known to the arrestee; and
+>
+> (b) where any such funds are attached, the nature and value of those funds.
+>
+> (5) The arrestee shall, at the same time as sending, under subsection (2) above, the information to the creditor, send a copy of it to—
+>
+> (a) the debtor; and
+>
+> (b) in so far as known to the arrestee, any person—
+>
+> (i) who owns or claims to own attached property; or
+>
+> (ii) to whom attached funds are or are claimed to be due,
+>
+> solely or in common with the debtor.
+>
+> **73H Failure to disclose information**
+>
+> (1) Where an arrestee fails without reasonable excuse to send the prescribed form under section 73G(2) of this Act, the sheriff may, on the application of the creditor, make an order requiring the arrestee to pay to the creditor—
+>
+> (a) the sum due to the creditor by the debtor; or
+>
+> (b) the sum mentioned in section 73F(4) of this Act,
+>
+> whichever is the lesser.
+>
+> (2) Where the arrestee fails to send the prescribed form in relation to an arrestment on the dependence of an action, the sheriff—
+>
+> (a) may not make an order under subsection (1) above until the creditor has served a copy of the final decree under section 73C(2) above; and
+>
+> (b) may deal with the failure as a contempt of court.
+>
+> (3) Where a sum is paid by virtue of an order under subsection (1) above—
+>
+> (a) the debt owed by the debtor to the creditor shall be reduced by that sum; and
+>
+> (b) the arrestee shall not be entitled to recover that sum from the debtor.
+>
+> (4) An arrestee aggrieved by an order under subsection (1) above may, before the expiry of the period of 2 weeks beginning with the day on which the order is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+>
+> **73J Automatic release of arrested funds**
+>
+> (1) This section applies where—
+>
+> (a) a creditor—
+>
+> (i) obtains a final decree in an action on the dependence of which the creditor has executed an arrestment; or
+>
+> (ii) arrests in execution of a decree or document of debt; and
+>
+> (b) the arrestment attaches funds which are due to the debtor (whether or not it also attaches other moveable property of the debtor).
+>
+> (2) Subject to section 73L of this Act, the arrestee—
+>
+> (a) shall, on the expiry of the period mentioned in subsection (3) below, release to the creditor, from the attached funds, a sum calculated in accordance with section 73K of this Act; and
+>
+> (b) may, where a mandate authorises the arrestee to do so, release that sum before the expiry of that period.
+>
+> (3) The period referred to in subsection (2) above is the period of 14 weeks beginning with the date of service of a copy of the final decree under section 73C(2) of this Act or, as the case may be, the date of service of the schedule of arrestment.
+>
+> (4) In this section and in sections 73K to 73P of this Act, references to funds or sums due to or by any person do not include references to funds or sums due in respect of future or contingent debts.
+>
+> **73K Sum released under section 73J(2)**
+>
+> The sum released under section 73J(2) of this Act is the lowest of—
+>
+> (a) the sum attached by the arrestment;
+>
+> (b) the sum due by the arrestee to the debtor; or
+>
+> (c) the aggregate of—
+>
+> (i) the principal sum, in relation to which the decree or document is executed or, as the case may be, which is decerned for in the final decree, owed by the debtor to the creditor;
+>
+> (ii) any judicial expenses chargeable against the debtor by virtue of the decree or final decree;
+>
+> (iii) the expenses of executing the arrestment;
+>
+> (iv) interest on the principal sum up to and including the date of service of the schedule of arrestment or, as the case may be, the date of the final decree;
+>
+> (v) the interest on the principal sum which would be accrued in the period beginning with the day after the date mentioned in sub-paragraph (iv) above and ending on the day on which the funds are released under section 73J(2) of this Act; and
+>
+> (vi) any interest on the expenses of executing the arrestment which is chargeable against the debtor.
+>
+> **73L Circumstances preventing automatic release**
+>
+> (1) No funds may be released under section 73J(2) of this Act where—
+>
+> (a) a person mentioned in subsection (2) below applies, by notice of objection, to the sheriff under section 73M(1) of this Act;
+>
+> (b) the debtor applies to the sheriff under section 73Q(2) of this Act;
+>
+> (c) an action of multiplepoinding is raised in relation to the funds attached by the arrestment; or
+>
+> (d) the arrestment is—
+>
+> (i) recalled;
+>
+> (ii) restricted; or
+>
+> (iii) otherwise ceases to have effect.
+>
+> (2) The persons referred to in subsection (1)(a) above are—
+>
+> (a) the debtor;
+>
+> (b) the arrestee; and
+>
+> (c) any other person to whom the funds are due solely or in common with the debtor (in this section and in sections 73M and 73N of this Act, the “third party”).
+>
+> **73M Notice of objection**
+>
+> (1) Where section 73J of this Act applies—
+>
+> (a) the debtor;
+>
+> (b) the arrestee; or
+>
+> (c) a third party,
+>
+> may, by notice of objection, apply to the sheriff for an order recalling or restricting the arrestment.
+>
+> (2) The notice of objection referred to in subsection (1) above shall—
+>
+> (a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+>
+> (b) be given to the persons mentioned in subsection (3) below before the expiry of the period of 4 weeks beginning with the date of service of a copy of the final decree under section 73C(2) of this Act or, as the case may be, the date of service of the schedule of arrestment; and
+>
+> (c) specify one or more of the grounds of objection mentioned in subsection (4) below.
+>
+> (3) The persons referred to in subsection (2)(b) above are—
+>
+> (a) the creditor;
+>
+> (b) the sheriff clerk;
+>
+> (c) the debtor or, as the case may be, the arrestee; and
+>
+> (d) in so far as known to the person objecting, any third party.
+>
+> (4) The grounds of objection referred to in subsection (2)(c) above are—
+>
+> (a) the warrant in execution of which the arrestment was executed is invalid;
+>
+> (b) the arrestment has been executed incompetently or irregularly;
+>
+> (c) the funds attached are due to the third party solely or in common with the debtor.
+>
+> (5) Where a person applies by notice of objection under subsection (1) above, that person may not, subject to subsection (6) below, raise—
+>
+> (a) an action of multiplepoinding; or
+>
+> (b) subject to subsection (7) below, any other proceedings,
+>
+> in relation to the funds attached.
+>
+> (6) Subsection (5) above is without prejudice to the right of the person—
+>
+> (a) to enter any such action or proceedings raised by any other person; and
+>
+> (b) to raise such an action or proceedings where the sheriff makes, under section 73N(5) of this Act, an order sisting the proceedings on the objection.
+>
+> (7) A debtor who applies by notice of objection under subsection (1) above may apply to the sheriff under section 73Q(2) of this Act and, in such a case, the sheriff may deal with both applications at one hearing.
+>
+> **73N Hearings following notice of objection**
+>
+> (1) Subject to subsection (5) below, before the expiry of the period of 8 weeks beginning with the day on which an application by notice of objection is made under section 73M(1) of this Act, the sheriff shall hold a hearing to determine the objection.
+>
+> (2) At the hearing under subsection (1) above, the sheriff shall not make any order without first giving—
+>
+> (a) the creditor;
+>
+> (b) the arrestee;
+>
+> (c) the debtor; and
+>
+> (d) any third party,
+>
+> an opportunity to be heard.
+>
+> (3) Where the sheriff upholds the objection, the sheriff may make an order recalling or restricting the arrestment.
+>
+> (4) Where the sheriff rejects the objection, the sheriff may make an order requiring a sum determined in the order to be released to the creditor—
+>
+> (a) in a case where the period mentioned in section 73J(3) of this Act has not expired, on the expiry of that period; or
+>
+> (b) in any other case, as soon as reasonably practicable after the date on which the order is made.
+>
+> (5) Where—
+>
+> (a) the sheriff is satisfied that it is more appropriate for the matters raised at the hearing to be dealt with by—
+>
+> (i) an action of multiplepoinding; or
+>
+> (ii) other proceedings,
+>
+> raised in relation to the funds attached; or
+>
+> (b) at any time before a decision is made under subsections (3) or (4) above, such an action is or other proceedings are raised,
+>
+> the sheriff shall make an order sisting the proceedings on the objection.
+>
+> (6) The sheriff may make such other order as the sheriff thinks fit.
+>
+> (7) Where the sheriff makes an order under this section, the sheriff shall order the person who objected to intimate that order to such of the persons mentioned in subsection (2) above as the sheriff thinks fit.
+>
+> (8) A person aggrieved by a decision of the sheriff under this section may, before the expiry of the period of 14 days beginning with the day on which the decision is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+>
+> **73P Arrestee not liable for funds released in good faith**
+>
+> Where an arrestee releases funds under section 73J(2) of this Act in good faith but—
+>
+> (a) the warrant in execution of which the arrestment was executed is invalid; or
+>
+> (b) the arrestment was incompetently or irregularly executed,
+>
+> the arrestee is not liable to the debtor or to any other person having an interest in the funds for damages for patrimonial loss caused by the release of funds.
+>
+> **73Q Application for release of property where arrestment unduly harsh**
+>
+> (1) This section applies where—
+>
+> (a) a creditor—
+>
+> (i) obtains final decree in an action on the dependence of which the creditor executed an arrestment; or
+>
+> (ii) arrests in execution of a decree or document of debt; and
+>
+> (b) the arrestment attaches funds due to or other moveable property of the debtor.
+>
+> (2) The debtor may apply to the sheriff for an order—
+>
+> (a) providing that the arrestment ceases to have effect in relation to—
+>
+> (i) the funds or other property attached; or
+>
+> (ii) so much of those funds or that property as the sheriff specifies; and
+>
+> (b) requiring the arrestee to release the funds or property to the debtor.
+>
+> (3) An application under subsection (2) above shall be—
+>
+> (a) in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+>
+> (b) made at any time during which the arrestment has effect; and
+>
+> (c) intimated to—
+>
+> (i) the creditor;
+>
+> (ii) the arrestee; and
+>
+> (iii) any other person appearing to have an interest.
+>
+> **73R Hearing on application under section 73Q for release of property**
+>
+> (1) At the hearing on an application under section 73Q(2) of this Act, the sheriff shall not make any order without first giving—
+>
+> (a) the creditor;
+>
+> (b) the arrestee; and
+>
+> (c) any other person appearing to the court to have an interest,
+>
+> an opportunity to be heard.
+>
+> (2) Subject to subsection (3) below, if the sheriff is satisfied that the arrestment is unduly harsh—
+>
+> (a) to the debtor; or
+>
+> (b) where the debtor is an individual, to any person such as is mentioned in subsection (4) below,
+>
+> the sheriff shall make an order such as is mentioned in section 73Q(2) of this Act.
+>
+> (3) Before making an order under subsection (2) above the sheriff shall have regard to all the circumstances including, in a case where the debtor is an individual and funds are attached—
+>
+> (a) the source of those funds; and
+>
+> (b) where the source of those funds is or includes earnings, whether an earnings arrestment, current maintenance arrestment or conjoined arrestment order is in effect in relation to those earnings.
+>
+> (4) The persons referred to in subsection (2)(b) above are—
+>
+> (a) a spouse of the debtor;
+>
+> (b) a person living together with the debtor as husband and wife;
+>
+> (c) a civil partner of the debtor;
+>
+> (d) a person living with the debtor in a relationship which has the characteristics of the relationship between a husband and wife except that the person and the debtor are of the same sex;
+>
+> (e) a child of the debtor under the age of 16 years, including—
+>
+> (i) a stepchild; and
+>
+> (ii) any child brought up or treated by the debtor or any person mentioned in paragraph (b), (c) or (d) above as a child of the debtor or, as the case may be, that person.
+>
+> (5) Where the sheriff refuses to make an order under subsection (2) above, the sheriff may, in a case where funds are attached, make an order requiring a sum determined in the order to be released to the creditor—
+>
+> (a) in a case where the period mentioned in section 73J(3) of this Act has not expired, on the expiry of that period; or
+>
+> (b) in any other case, as soon as reasonably practicable after the date on which the order is made.
+>
+> (6) Where the sheriff makes an order under this section, the sheriff shall order the debtor to intimate that order to the persons mentioned in subsection (1) above.
+>
+> (7) A person aggrieved by a decision of the sheriff under this section may, before the expiry of the period of 14 days beginning with the day on which the decision is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+>
+> **73S Mandate to be in prescribed form**
+>
+> (1) A mandate authorising an arrestee to pay over any funds or hand over other property attached by an arrestment shall be in (or as nearly as may be in) the form prescribed by the Scottish Ministers by regulations.
+>
+> (2) A mandate which is not in (or as nearly as may be in) the prescribed form is invalid.
+>
+> (3) Where—
+>
+> (a) a mandate is invalid by virtue of subsection (2) above; but
+>
+> (b) the arrestee pays over funds or hands over other property in accordance with that mandate,
+>
+> the arrestee is not liable to the debtor or to any other person having an interest in the funds or property for damages for patrimonial loss caused by paying over the funds or handing over the property provided the arrestee acted in good faith.
+>
+> **73T Arrestment of ships etc.**
+>
+> For the avoidance of doubt, this Part of this Act does not apply to the arrestment of a ship, cargo or other maritime property.
+
+.
+
+## Part 11 — Maills and duties, sequestration for rent and landlord's hypothec
+
+### Abolition of maills and duties (prospective)
+
+#### 207 Abolition of maills and duties (prospective)
+
+(1) The diligence of maills and duties is abolished and any enactment or rule of law enabling an action of maills and duties to be raised ceases to have effect.
+
+(2) Subsection (1) above does not affect an action of maills and duties brought before this section comes into force.
+
+### Landlord's hypothec and sequestration for rent
+
+#### 208 Abolition of sequestration for rent and restriction of landlord's hypothec
+
+(1) The diligence of sequestration for rent is abolished and any enactment or rule of law enabling an action of sequestration for rent to be raised ceases to have effect.
+
+(2) Notwithstanding that abolition, the landlord's hypothec—
+
+(a) continues, subject to subsections (3) to (9) below, as a right in security over corporeal moveable property kept in or on the subjects let; and—
+
+(b) ranks accordingly in any—
+
+(i) sequestration;
+
+(ii) insolvency proceedings; or
+
+(iii) other process in which there is ranking,
+
+in respect of that property.
+
+(3) The landlord's hypothec no longer arises in relation to property which is kept—
+
+(a) in a dwellinghouse;
+
+(b) on agricultural land; or
+
+(c) on a croft.
+
+(4) It no longer arises in relation to property which is owned by a person other than the tenant.
+
+(5) Property which is acquired by a person from the tenant—
+
+(a) in good faith; or
+
+(b) where the property is acquired after an interdict prohibiting the tenant from disposing of or removing items secured by the hypothec has been granted in favour the landlord, in good faith and for value,
+
+ceases to be subject to the hypothec upon acquisition by the person.
+
+(6) Subsection (5)(b) above does not affect the tenant's liability for breach of the interdict.
+
+(7) Where property is owned in common by the tenant and a third party, any right of hypothec arises only to the extent of the tenant's interest in that property.
+
+(8) The landlord's hypothec—
+
+(a) is security for rent due and unpaid only; and
+
+(b) subsists for so long as that rent remains unpaid.
+
+(9) Any enactment or rule of law relating to the landlord's hypothec ceases to have effect in so far as it is inconsistent with subsections (2) to (8) above.
+
+(10) Subsections (1) to (3), (8) and (9) above do not affect an action of sequestration for rent brought before this section comes into force.
+
+(11) Subsection (3) above does not affect a landlord's right of hypothec which arose before and subsists on the coming into force of this section.
+
+(12) In subsection (2) above, “insolvency proceedings” means—
+
+(a) winding up;
+
+(b) receivership;
+
+(c) administration; and
+
+(d) proceedings in relation to a company voluntary arrangement,
+
+within the meaning of the Insolvency Act 1986 (c. 45).
+
+(13) In subsection (3) above—
+
+- “agricultural land” has the same meaning as in section 1(2) of the Agricultural Holdings (Scotland) Act 1991 (c. 55);
+
+- “croft” has the same meaning as in section 3(1) of the Crofters (Scotland) Act 1993 (c. 44); and
+
+- “dwellinghouse” includes—
+
+  - (a) a mobile home or other place used as a dwelling; and
+  - (b) any other structure or building used in connection with the dwellinghouse.
+
+## Part 12 — Summary warrants, time to pay and charges to pay
+
+### 209 Summary warrants, time to pay and charges to pay
+
+(1) Section 10(4) of the 2002 Act (no charge required for attachment in pursuance of summary warrant) is repealed.
+
+(2) In section 1 of the 1987 Act (time to pay direction)—
+
+(a) subsection (5)(e) (certain debts in relation to which a time to pay direction cannot be granted); and
+
+(b) subsection (9) (interpretation),
+
+are repealed.
+
+(3) In section 5 of the 1987 Act (time to pay order)—
+
+(a) subsection (4)(c) and (e) (certain debts in relation to which a time to pay order cannot be granted); and
+
+(b) subsection (9) (interpretation),
+
+are repealed.
+
+(4) In section 15(3) of the 1987 Act (interpretation)—
+
+(a) in the definition of “decree or document of debt”, after paragraph (a) insert—
+
+> (aa) a summary warrant;
+
+; and
+
+(b) the words “or a summary warrant” are repealed.
+
+(5) In section 90 of the 1987 Act (provisions relating to charges)—
+
+(a) in subsection (1), the words “Subject to subsection (2) below,” and “an attachment or” are repealed;
+
+(b) after subsection (1) insert—
+
+> (1A) The following subsections of this section apply to any case where it is competent to execute diligence only if a charge for payment has been served on the debtor.
+
+;
+
+(c) subsection (2) (no charge required for attachment or earnings arrestment in pursuance of summary warrant) is repealed;
+
+(d) in subsection (5), for “an attachment or an earnings arrestment” substitute “ diligence ”; and
+
+(e) in subsection (6), for “an attachment or an earnings arrestment” substitute “ diligence ”.
+
+### 210 Time to pay directions and time to pay orders
+
+(1) The 1987 Act is further amended as follows.
+
+(2) In section 1 (time to pay directions)—
+
+(a) in subsection (1)—
+
+(i) after “Act,” insert “ on an application by the debtor, ”; and
+
+(ii) for the words “may, on an application by the debtor,” substitute “ , shall, if satisfied that it is reasonable in all the circumstances to do so, and having regard in particular to the matters mentioned in subsection (1A) below, ”; and
+
+(b) after subsection (1) insert—
+
+> (1A) The matters referred to in subsection (1) above are—
+>
+> (a) the nature of and reasons for the debt in relation to which decree is granted;
+>
+> (b) any action taken by the creditor to assist the debtor in paying that debt;
+>
+> (c) the debtor's financial position;
+>
+> (d) the reasonableness of any proposal by the debtor to pay that debt; and
+>
+> (e) the reasonableness of any refusal by the creditor of, or any objection by the creditor to, any proposal by the debtor to pay that debt.
+
+.
+
+(3) In section 5 (time to pay orders)—
+
+(a) in subsection (2), for the words “may, on an application by the debtor,” substitute “ , on an application by the debtor, shall, if satisfied that it is reasonable in all the circumstances to do so, and having regard in particular to the matters mentioned in subsection (2A) below, ”; and
+
+(b) after subsection (2), insert—
+
+> (2A) The matters referred to in subsection (2) above are—
+>
+> (a) the nature of and reasons for the debt in relation to which the order is sought;
+>
+> (b) any action taken by the creditor to assist the debtor in paying that debt;
+>
+> (c) the debtor's financial position;
+>
+> (d) the reasonableness of any proposal by the debtor to pay that debt; and
+>
+> (e) the reasonableness of the objection by the creditor to the offer by the debtor to pay that debt.
+
+.
+
+## Part 13 — Amendments of the Debt Arrangement and Attachment (Scotland) Act 2002
+
+### 211 Debt payment programmes with debt relief
+
+(1) The 2002 Act is amended as follows.
+
+(2) In section 2 (debt payment programmes)—
+
+(a) after subsection (1) insert—
+
+> (1A) Subsection (1) above is subject to any provision in regulations made under section 7A(1) below.
+
+; and
+
+(b) in subsection (4), after “section 7(1)” insert “ or 7A(1) ”.
+
+(3) After section 7 insert—
+
+> **7A Debt payment programmes: power to make provision about debt relief**
+>
+> (1) The Scottish Ministers may, by regulations, make such further provision as they think fit in connection with debt payment programmes for the purposes of—
+>
+> (a) enabling such programmes to provide for the payment of part only of money owed by debtors; and
+>
+> (b) on the completion of such programmes or otherwise, enabling any liability of debtors to pay any part of such money owed as is outstanding to be discharged.
+>
+> (2) The regulations may, in particular, make provision about—
+>
+> (a) the minimum proportion or percentage of debts which shall be paid under such debt payment programmes;
+>
+> (b) without prejudice to section 7(2)(h) to (j) above, the consent of creditors for the purposes of section 2(4) above (including the circumstances in which consent by a majority by number or in value shall be sufficient);
+>
+> (c) the effect of such programmes on debtors' liabilities for interest, fees, penalties and other charges in relation to debts being paid under such programmes;
+>
+> (d) the effect of such programmes on the rights of creditors to charge interest, fees, penalties or other charges in relation to debts being paid under such programmes;
+>
+> (e) circumstances in which, on completion of such programmes or otherwise, any liability of debtors to pay—
+>
+> (i) part of any debts as are outstanding; or
+>
+> (ii) any interest, fees, penalties or other charges in relation to such debts,
+>
+> is to be discharged.
+>
+> (3) Subsections (3) and (4) of section 7 above apply for the purposes of regulations under this section as they apply for the purposes of regulations under subsection (1) of that section.
+
+.
+
+(4) In section 62 (regulations and orders)—
+
+(a) in subsection (3), for “of this Act”, where those words second occur, substitute “ above or regulations made under section 7A above ”; and
+
+(b) in subsection (4), after “section 7 above” insert “ , any regulations made under section 7A above ”.
+
+### 212 Further amendments of the Debt Arrangement and Attachment (Scotland) Act 2002
+
+(1) The 2002 Act is further amended as follows.
+
+(2) In section 2(3) (form and content of applications for debt payment programmes), the words “shall be signed by the debtor and” are repealed.
+
+(3) In section 3 (application by debtor for approval of debt payment programme), after subsection (2) insert—
+
+> (3) Subsections (1) and (2) above are subject to any contrary provision in regulations made under section 7(1) below.
+
+.
+
+(4) In section 5(4) (form and content of applications for variation of debt payment programmes), paragraph (b) and the word “and” immediately preceding it are repealed.
+
+(5) In section 7(2) (examples of provision that may be made by regulations under section 7(1))—
+
+(a) after paragraph (b) insert—
+
+> (ba) circumstances in which some or all of the functions of a money adviser under section 3 above may instead be carried out by an approved intermediary;
+>
+> (bb) circumstances in which a debtor is entitled to make an application for the approval, or the variation, of a debt payment programme where the debtor has not obtained advice under section 3(1) above;
+>
+> (bc) the manner in which—
+>
+> (i) the seeking of the consent of creditors to applications for approval of debt payment programmes; or
+>
+> (ii) the making of such applications,
+>
+> affects the rights and remedies of creditors or other third parties;
+
+;
+
+(b) after paragraph (s) insert—
+
+> (sa) the class of person who may act as an approved intermediary;
+
+; and
+
+(c) after paragraph (u) insert—
+
+> (ua) the functions of an approved intermediary;
+
+.
+
+(6) In section 9(1) (interpretation), before the definition of “money adviser” insert—
+
+> “approved intermediary” means any person, not being a money adviser, who has been approved by the Scottish Ministers as a person who may give advice to a debtor for the purposes of section 3(1) above;
+
+.
+
+[^F157]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In section 19(1) (removal and auction of attached articles), for “The officer who attached articles” substitute “ An officer ”.
+
+(9) After section 19 insert—
+
+> **19A Urgent removal of attached articles**
+>
+> (1) The officer may at any time remove an attached article without notice if—
+>
+> (a) the officer considers it necessary for—
+>
+> (i) the security; or
+>
+> (ii) the preservation of the value,
+>
+> of the article; and
+>
+> (b) there is insufficient time to obtain an order under section 20(1)(a) below.
+>
+> (2) The officer shall remove an article under subsection (1) above—
+>
+> (a) to the nearest convenient premises of the debtor or the person in possession of the articles; or
+>
+> (b) if—
+>
+> (i) no such premises are available; or
+>
+> (ii) the officer considers such premises to be unsuitable,
+>
+> to the nearest suitable secure premises.
+>
+> (3) Subsections (2) and (6) of section 19 above shall apply to this section as they apply to that section.
+
+.
+
+(10) In section 20(2)(b) (applications for orders for security etc. of articles), after “officer” insert
+
+> —
+>
+> (i) who attached articles; or
+>
+> (ii) who is authorised to arrange the auction
+
+.
+
+(11) In section 21(7) (notice of theft of attached articles), after “officer” insert
+
+> —
+>
+> (i) who attached articles; or
+>
+> (ii) who is authorised to arrange the auction,
+
+.
+
+(12) In section 26(5)(b) (return of removed articles), for “the officer” substitute “ an officer ”.
+
+(13) In section 27(4) (notice of auction), the words “authorised to arrange the auction” are repealed.
+
+(14) In section 31 (disposal of proceeds of auction)—
+
+(a) after subsection (1), insert—
+
+> (1A) Where an article is sold at the auction at a price below the value of the article, the difference between that price and that value shall, prior to the proceeds of the auction being disposed of under subsection (1) above, be credited against the sum recoverable.
+>
+> (1B) Where—
+>
+> (a) an article to which subsection (1A) above applies has been damaged and revalued under section 21(10)(b) above;
+>
+> (b) the damage was not caused by the fault of the debtor; and
+>
+> (c) no sum has been consigned into court by a third party under section 21(11) above,
+>
+> the revaluation shall be disregarded for the purposes of subsection (1A) above.
+
+; and
+
+(b) in subsection (4), after “subsections” insert “ (1A), ”.
+
+(15) After section 60 insert—
+
+> **60A Electronic signatures**
+>
+> (1) This section applies where—
+>
+> (a) a report or declaration under this Act requires to be signed; and
+>
+> (b) provision is made by virtue of this Act or any other enactment permitting the report or declaration to be an electronic communication.
+>
+> (2) Where the report or declaration is an electronic communication, the requirement is satisfied by a certified electronic signature.
+>
+> (3) Subsection (2) above is to be read in accordance with section 7(2) and (3) of the Electronic Communications Act 2000 (c. 7) (electronic signatures and certification).
+
+.
+
+(16) In schedule 1 (expenses)—
+
+(a) in paragraph 1, after sub-paragraph (o), insert—
+
+> (oa) in serving notice on the debtor under section 49(1)(b) above;
+
+; and
+
+(b) after that paragraph, insert—
+
+> **1A**
+>
+> The expenses referred to in sub-paragraphs (i), (j) and (k) of paragraph 1 above shall not be chargeable against the debtor if the articles are removed under section 19A(1) above.
+
+.
+
+## Part 14 — Admiralty actions and arrestment of ships
+
+### 213 Admiralty actions and the arrestment of ships: modification of enactments
+
+Schedule 4 makes modifications of enactments relating to admiralty actions and the arrestment of ships.
+
+## Part 15 — Actions for removing from heritable property
+
+### 214 Expressions used in this Part
+
+(1) In this Part—
+
+- “a decree for removing from heritable property” means—
+
+  - (a) a decree [[^F158], order] or warrant such as is mentioned in subsection (2) below; or
+  - (b) a document such as is mentioned in subsection (3) below; [^F159]...
+
+- “an action for removing from heritable property” means, in the case of a decree [[^F160], order] or warrant, the proceedings in which such a decree [[^F160], order] or warrant is obtained.
+
+- [[^F161]“defender”, in relation to a decree for removing from heritable property of the type mentioned in subsection (2)(l), means any person against whom the decree is enforceable.]
+
+- [[^F162]“the First-tier Tribunal” means the First-tier Tribunal for Scotland,]
+
+(2) The decrees [[^F163], orders] and warrants referred to in subsection (1) above are—
+
+(a) a decree of removing and warrant of ejection obtained in an action of removing;
+
+(b) a decree and warrant of ejection obtained in an action of ejection;
+
+(c) a summary warrant of ejection obtained by virtue of section 36 of the Sheriff Courts (Scotland) Act 1907 (c. 51) (in this section, the “1907 Act”);
+
+(d) a warrant for summary ejection obtained by virtue of section 37 of the 1907 Act;
+
+(e) a decree obtained by virtue of a summary application for removing under section 38 of the 1907 Act;
+
+(f) a decree for recovery of possession of heritable property obtained by virtue of a summary cause under section 35(1)(c) of the Sheriff Courts (Scotland) Act 1971 (c. 58);
+
+(g) an order for possession (within the meaning of section 115(1) of the Rent (Scotland) Act 1984 (c. 58)) obtained by virtue of the Housing (Scotland) Act 1987 (c. 26) or the Housing (Scotland) Act 1988 (c. 43);
+
+(h) a warrant for ejection of a crofter granted under section 22(3) of the Crofters (Scotland) Act 1993 (c. 44);
+
+(i) an order of removal or ejection made under section 84(1)(e) of the Agricultural Holdings (Scotland) Act 2003 (asp 11); [^F164]...
+
+(j) a warrant of ejection obtained by virtue of a summary application under section 38(1) of, or paragraph 3(1) of schedule 5 to, the Housing (Scotland) Act 2006 (asp 1), [[^F165]; [^F166]...
+
+(k) an eviction order issued under section 51 of the Private Housing (Tenancies) (Scotland) Act 2016,][[^F167]; [^F168]...
+
+(l) a decree of removing and warrant for ejection granted under section 266(8ZA) of the Proceeds of Crime Act 2002] [[^F169]; and
+
+(m) a warrant of ejection obtained in connection with an order for termination of a tenant’s interest in a tenancy made under section 16(3ZA) of the Housing (Scotland) Act 2001,]
+
+being decrees [[^F163], orders] or warrants which, or extracts of which, authorise the removing or ejection of persons from subjects or premises.
+
+(3) The documents referred to in subsection (1) above are—
+
+(a) a lease, or an extract of a lease, having, by virtue of section 34 of the 1907 Act, the same force and effect as an extract decree of removing; and
+
+(b) a letter of removal having, by virtue of section 35 of the 1907 Act, the same force and effect as an extract decree of removing.
+
+(4) The Scottish Ministers may by order modify subsections (2) and (3) above by—
+
+(a) adding types of decree, warrant or document to;
+
+(b) removing types of decree, warrant or document from; or
+
+(c) varying the description of,
+
+the types of decree, warrant or document referred to in those subsections.
+
+### 215 Procedure for execution of removing
+
+The procedure and practice to be followed in the execution of any decree for removing from heritable property may be regulated and prescribed by Act of Sederunt [[^F170]or by rules made under section 68 or paragraph 4 of schedule 9 of the Tribunals (Scotland) Act 2014] and, without prejudice to that generality, such Act [[^F171]or rules] may, in particular—
+
+(a) prescribe the form of any notices or certificates to be used in or for the purposes of any such execution; and
+
+(b) prescribe the procedure for removal from subjects or premises of any property in or on those subjects or premises.
+
+### 216 Service of charge before removing
+
+(1) A defender and any effects of the defender may, by virtue of a decree for removing from heritable property, be removed from subjects or premises but only if—
+
+(a) the defender has been charged to remove from those subjects or premises within [[^F172]the appropriate period] after the giving of the charge; and
+
+(b) the period of charge has expired without the defender so removing.
+
+[[^F173](1A) In subsection (1)(a), “the appropriate period” means—
+
+(a) in the case of a decree for removing from heritable property of the type mentioned in paragraph (l) of section 214(2), 28 days,
+
+(b) in the case of a decree for removing from heritable property of the type mentioned in any other paragraph of that section, 14 days.]
+
+(2) Where—
+
+(a) the subjects or premises are occupied by an occupant deriving right or having permission from the defender;
+
+(b) the defender has been charged, under subsection (1) above, to remove from those subjects or premises; and
+
+(c) the period of charge has expired without the occupant so removing,
+
+that occupant and any effects of that occupant may be removed from the subjects or premises.
+
+[[^F174](2A) Subsection (2) does not apply to an occupant with an assured tenancy [[^F175]or private residential tenancy] [^F176]... or any effects of that occupant where the decree for removing from heritable property was granted on an application—
+
+(a) to which section 5A of the Heritable Securities (Scotland) Act 1894 (c.44) applies; or
+
+(b) under section 24(1B) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35).]
+
+[[^F177](2B) In subsection (2A)—
+
+- “assured tenancy” has the same meaning as in Part 2 of the Housing (Scotland) Act 1988,
+- “private residential tenancy” has the same meaning as in the Private Housing (Tenancies) (Scotland) Act 2016.]
+
+[[^F178](2C) Subsection (2) does not apply to an occupant, or any effects of the occupant, if—
+
+(a) the decree for removing from heritable property is—
+
+(i) an order for recovery of possession made under section 16(2)(d) or (e) of the Housing (Scotland) Act 2001, or
+
+(ii) a warrant of ejection obtained in connection with an order for termination of a tenant’s interest in a tenancy made under section 16(3ZA) of that Act, and
+
+(b) the occupant is—
+
+(i) in relation to the subjects or premises, person P within the meaning of paragraph 15A of schedule 2 of the Housing (Scotland) Act 2001, or
+
+(ii) a relevant member of person P’s family.
+
+(2D) In subsection (2C)(b)(ii), a “relevant member of person P’s family” means a member of person P’s family (construed in accordance with section 108(1) and (2) of the Housing (Scotland) Act 2001), other than a member of the family—
+
+(a) who is named (or otherwise identified) in the order for recovery of possession or, as the case may be, the warrant of ejection mentioned in subsection (2C)(a), and
+
+(b) in relation to whom, the order or warrant (or an extract of the order or warrant) authorises the removing or ejection of the member from the subjects or premises.]
+
+(3) The [[^F179]officer of court] removing the defender, any other occupant and any effects of such a defender or occupant from the subjects or premises—
+
+(a) may, if necessary for the purposes of such removing, open shut and lockfast places; and
+
+(b) must make an inventory of any effects removed.
+
+(4) Where the decree [[^F180]or order] for removing from heritable property is granted by a court [[^F181]or the First-tier Tribunal], the court [[^F181]or the First-tier Tribunal] may, on cause shown, dispense with or vary the period of charge.
+
+(5) It is no longer necessary to obtain from the Court of Session letters of ejection before removing a person by virtue of subsection (1) or (2) above.
+
+(6) The Scottish Ministers may, by regulations, prescribe the form of charge under subsection (1) above.
+
+### 217 When removing not competent
+
+(1) It is not competent to execute a decree for removing from heritable property on—
+
+(a) a Sunday;
+
+(b) a day which is a public holiday in the area in which the decree is to be executed; or
+
+(c) such other day as may be prescribed by Act of Sederunt [[^F182]or by rules made under section 68 or paragraph 4 of schedule 9 of the Tribunals (Scotland) Act 2014].
+
+(2) The execution of such a decree must not—
+
+(a) begin before 8 a.m. or after 8 p.m.; or
+
+(b) be continued after 8 p.m.,
+
+unless the [[^F183]officer of court] has obtained prior authority from the sheriff for the district in which the subjects or premises are situated [[^F184], or from the First-tier Tribunal,] for such commencement or continuation.
+
+### 218 Preservation of property left in premises
+
+(1) A court [[^F185]or the First-tier Tribunal], when granting decree for removing from heritable property, may direct that the pursuer takes such steps as the court [[^F185]or the First-tier Tribunal] considers appropriate for the preservation of any effects removed from the subjects or premises.
+
+(2) The court [[^F185]or the First-tier Tribunal] may, when making a direction under subsection (1) above, order that the defender is to be liable for any costs incurred in taking such steps as are specified by virtue of that subsection.
+
+[[^F186](3) In the application of this section to the granting of a decree for removing from heritable property of the type mentioned in section 214(2)(l), “pursuer” means the trustee for civil recovery who is responsible by virtue of section 267(3)(ba) of the Proceeds of Crime Act 2002 for enforcing the decree.]
+
+### 219 Caution for pecuniary claims
+
+(1) In an action for removing from heritable property, the court may, on cause shown, order the defender to find caution for any payment claimed (other than by way of expenses) by the pursuer for loss arising from the occupation of the subjects or premises by the defender or any other occupant deriving right or having permission from the defender.
+
+(2) Notwithstanding subsection (1) above, it is no longer competent to order a defender to find caution for violent profits.
+
+(3) Where an order is made under subsection (1) above, the defender may provide caution—
+
+(a) by means of a bond of caution or other guarantee; or
+
+(b) by consigning an appropriate sum in court.
+
+(4) For the avoidance of doubt, the loss referred to in subsection (1) above includes loss arising from the lawful occupation of the subjects or premises by the defender or such other occupant.
+
+## Part 16 — Disclosure of information
+
+### 220 Information disclosure
+
+(1) The Scottish Ministers may, by regulations, make provision for—
+
+(a) the obtaining, on the application to the sheriff by creditors, by the sheriff of information about debtors; and
+
+(b) the disclosure of that information to creditors to facilitate diligence to enforce payment of debts due by virtue of decrees and documents of debt.
+
+(2) Regulations under subsection (1) above may, in particular—
+
+(a) provide about applications by the creditor;
+
+(b) prescribe persons who may make an application on the creditor's behalf;
+
+(c) provide about the functions of the sheriff on such applications;
+
+(d) prescribe the information about the debtor which may be obtained;
+
+(e) prescribe the persons from whom such information may be required;
+
+(f) provide about the consequences (if any) of such a prescribed person failing to disclose information when required to do so;
+
+(g) provide about the disclosure of information obtained by the sheriff to—
+
+(i) the creditor; and
+
+(ii) such other persons as the regulations may prescribe;
+
+(h) provide for unauthorised use or disclosure of such information to be an offence; and
+
+(i) make such other provision as the Scottish Ministers think fit.
+
+(3) Regulations under subsection (1) above may not prescribe the debtor as a person from whom information may be required.
+
+(4) A person who commits an offence under regulations made under subsection (1) above is liable to such penalties, not exceeding the penalties mentioned in subsection (5) below, as are provided for in the regulations.
+
+(5) Those penalties are—
+
+(a) on summary conviction, imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum or both;
+
+(b) on conviction on indictment, imprisonment for a term not exceeding 2 years or a fine or both.
+
+(6) Any provision made under regulations under subsection (1) above does not prejudice any power to disclose or use information (or to order such disclosure or use) that exists under any other enactment or rule of law.
+
+(7) The disclosure or use of information by virtue of regulations under subsection (1) above is not to be taken to breach any restriction on the disclosure or use of such information (however imposed).
+
+(8) The Scottish Ministers may by order modify, for the purposes of this section, the definitions of “decree” and “document of debt” in section 221 of this Act by—
+
+(a) adding types of decree or document to;
+
+(b) removing types of decree or document from; or
+
+(c) varying the description of,
+
+the types of decree or document to which those definitions apply.
+
+## Part 17 — General and miscellaneous
+
+### 221 Interpretation
+
+In this Act—
+
+- the “1985 Act” means the Bankruptcy (Scotland) Act 1985 (c. 66);
+
+- the “1987 Act” means the Debtors (Scotland) Act 1987 (c. 18);
+
+- the “2002 Act” means the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17);
+
+- [^F187]...
+
+- “certified electronic signature” is to be read in accordance with section 7(2) and (3) of the Electronic Communications Act 2000 (c. 7);
+
+- [^F188]...
+
+- “debt advice and information package” has the meaning given by section 81(8) of this Act;
+
+- “decree” means—
+
+  - (a) a decree of the Court of Session, of the High Court of Justiciary or of the sheriff;
+  - (b) a decree of the Court of Teinds;
+  - (c) a summary warrant;
+  - (d) a civil judgement granted outside Scotland by a court, tribunal or arbiter which, by virtue of any enactment or rule of law, is enforceable in Scotland;
+  - (e) an order or determination which, by virtue of any enactment, is enforceable as if it were an extract registered decree arbitral bearing a warrant for execution granted by the sheriff;
+  - (f) a warrant granted in criminal proceedings for enforcement by civil diligence;
+  - (g) an order under section 114 of the Companies Clauses Consolidation (Scotland) Act 1845 (c. 17);
+  - (h) a determination under section 46 of the Harbours, Docks and Piers Clauses Act 1847 (c. 27); or
+  - (i) a liability order within the meaning of section 33(2) of the Child Support Act 1991 (c. 48);
+
+- “document of debt” means—
+
+  - (a) a document registered for execution in the Books of Council and Session or in the sheriff court books;
+  - (b) a bill protested for non-payment by a notary public; [^F189]...
+  - (c) a document or settlement which, by virtue of an Order in Council made under section 13 of the Civil Jurisdiction and Judgments Act 1982 (c. 27), is enforceable in Scotland;
+  - (d) [^F190]...
+  - (e) [[^F191]a maintenance arrangement (within the meaning of Article 3(e) of the Hague Convention) which is registered in the sheriff court under the Hague Convention;]
+
+- “electronic communication” has the meaning given by section 15(1) of the Electronic Communications Act 2000 (c. 7);
+
+- [[^F192]“the Hague Convention” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007;
+
+- [^F193]...]
+
+- [^F188]...
+
+- [[^F194] “ officer of court ” means a messenger-at-arms or a sheriff officer; ]
+
+- “professional association” shall be construed in accordance with section 63(1)(a) of this Act.
+
+### Execution of diligence: electronic standard securities
+
+#### 222 Registration and execution of electronic standard securities
+
+(1) The Requirements of Writing (Scotland) Act 1995 (c. 7) is amended as follows.
+
+(2) In section 6(1) of that Act (recording and registration of documents), after “subsection (3) below” insert “ and section 6A of this Act ”.
+
+(3) After section 6 of that Act insert—
+
+> **6A Registration for preservation and execution of electronic standard securities**
+>
+> (1) This section applies where an electronic document, which creates a standard security over a real right in land, is presumed under section 3A of this Act to have been authenticated by the granter.
+>
+> (2) An office copy of the electronic document may be registered for preservation and execution in the Books of Council and Session or in the sheriff court books.
+>
+> (3) An office copy so registered is to be treated for the purposes of executing any diligence (including, for the avoidance of doubt, for the purposes of sections 1 and 2 of the Writs Execution (Scotland) Act 1877 (c. 40)) as if—
+>
+> (a) the standard security were created by a document to which section 6(2) of this Act applies; and
+>
+> (b) the office copy were that document.
+
+.
+
+### General
+
+#### 223 Crown application
+
+(1) Subject to subsection (2) below, this Act binds the Crown acting in its capacity as a creditor.
+
+(2) An amendment or other modification by this Act of an enactment binds the Crown to the same extent as the enactment being amended or modified.
+
+#### 224 Orders and regulations
+
+(1) Any power conferred by this Act on the Scottish Ministers to make orders or regulations is exercisable by statutory instrument.
+
+(2) Any power conferred by this Act on the Scottish Ministers to make orders or regulations—
+
+(a) may be exercised so as to make different provision for different cases or descriptions of case or for different purposes; and
+
+(b) includes power to make such incidental, supplementary, consequential, transitory, transitional or saving provision as the Scottish Ministers think fit.
+
+(3) A statutory instrument containing an order or regulations made under this Act (other than an order under section 227(3) of this Act) is, subject to subsections (4) and (5) below, subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(4) No statutory instrument—
+
+(a) containing an order which makes provision such as is mentioned in section 225(2) of this Act; or
+
+(b) containing—
+
+(i) regulations made under section 50(4), 83(3), 92(2) or (3), 97(7)(b) or 98(6) of this Act; or
+
+(ii) the first regulations made under section 220(1) of this Act,
+
+may be made unless a draft of it has been laid before, and approved by a resolution of, the Scottish Parliament.
+
+(5) Subsection (3) above does not apply to a statutory instrument containing further regulations made under section 220(1) of this Act where a draft of it has been laid before, and approved by a resolution of, the Scottish Parliament.
+
+#### 225 Ancillary provision
+
+(1) The Scottish Ministers may, by order made by statutory instrument, make such incidental, supplemental, consequential, transitory, transitional or saving provision which they consider necessary or expedient for the purposes of this Act or in consequence of any provision made by or under this Act.
+
+(2) An order under subsection (1) above may modify any enactment (including this Act) or instrument.
+
+#### 226 Minor and consequential amendments and repeals
+
+(1) Schedule 5 to this Act, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
+
+(2) The enactments mentioned in the first column of Part 1 of schedule 6 to this Act are repealed to the extent specified in the second column of that schedule.
+
+(3) The enactment mentioned in the first column of Part 2 of schedule 6 to this Act is revoked to the extent specified in the second column of that schedule.
+
+#### 227 Short title and commencement
+
+(1) This Act may be cited as the Bankruptcy and Diligence etc. (Scotland) Act 2007.
+
+(2) Section 222 of this Act comes into force on the day after Royal Assent.
+
+(3) The remaining provisions of this Act, except this section and sections 224 and 225, come into force on such day as the Scottish Ministers may, by order, appoint.
+
+(4) Different days may, under subsection (3) above, be appointed for different purposes.
+
+## [^F195]SCHEDULE 1 — Minor and consequential amendments of the 1985 Act
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**36** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**43** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**47** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**48** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**53** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**55** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**56** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**57** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**58** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**59** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**60** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**61** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**62** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F196]SCHEDULE 2 — The Scottish Civil Enforcement Commission
+
+*(introduced by section 50(7))*
+
+### Status (prospective)
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Membership (prospective)
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Tenure of office (prospective)
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Filling vacancies (prospective)
+
+**13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chairperson (prospective)
+
+**15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disciplinary Committee (prospective)
+
+**16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Remuneration (prospective)
+
+**17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General powers (prospective)
+
+**18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Quorum (prospective)
+
+**21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Structure and procedures
+
+**22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chief executive officer and other staff (prospective)
+
+**23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Location of office (prospective)
+
+**29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Financing by the Scottish Ministers (prospective)
+
+**30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounts and audit (prospective)
+
+**33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Expenses of money attachment
+
+*(introduced by section 196(1))*
+
+### Expenses chargeable against the debtor
+
+**1** There is to be chargeable against the debtor any expenses incurred—
+
+(a) subject to section 90(7) of the 1987 Act, in serving a charge;
+
+(b) in executing a money attachment;
+
+(c) in relation to a valuation arranged under section 180(1) of this Act (including the fees and outlays of the person who carried out the valuation);
+
+(d) in making a report under section 182(1) of this Act but not in applying for an extension of time for the making of such a report;
+
+(e) in applying for a payment order under section 183(2) of this Act;
+
+(f) in granting a receipt and making a report to the sheriff under section 188(4) of this Act;
+
+(g) in giving a statement under section 189(1) of this Act;
+
+(h) in removing money from the place at which is was found;
+
+(i) in opening shut and lockfast places for that purpose;
+
+(j) by a solicitor in instructing [[^F197]an officer of court] to take any of the steps specified in this paragraph.
+
+**2** Expenses chargeable against the debtor by virtue of paragraph 1(e) above must be calculated, whether or not the application is opposed by the debtor, as if it were unopposed.
+
+### Circumstances where no expenses are due to or by either party
+
+**3** Subject to paragraph 4 below, the debtor shall not be liable to the creditor nor the creditor to the debtor for any expenses incurred by the other party in connection with—
+
+(a) an application under section 181(1), 185(1) or 186 of this Act;
+
+(b) any objections to such an application;
+
+(c) an opposition, under section 183(6) of this Act, to an application for a payment order;
+
+(d) a hearing held by virtue of section 183(8), 186(6) or 190(7) of this Act.
+
+**4** If—
+
+(a) an application mentioned in paragraph 3(a) above is frivolous;
+
+(b) such an application is opposed on frivolous grounds;
+
+(c) an application for a payment order is opposed on frivolous grounds; or
+
+(d) a party requires, on frivolous grounds, a hearing mentioned in paragraph 3(d) above to be held,
+
+the sheriff may award a sum of expenses, not exceeding such amount as may be prescribed by the Scottish Ministers by regulations, against the party acting frivolously in favour of the other party.
+
+**5** Paragraphs 3 and 4 above do not apply to expenses incurred in connection with an appeal under section 194(1).
+
+## SCHEDULE 4 — Modifications of enactments relating to admiralty actions and the arrestment of ships
+
+*(introduced by section 213)*
+
+### Definition of “maritime lien”
+
+**1** In section 48 of the Administration of Justice Act 1956 (c. 46) (in this Act, the “1956 Act”)—
+
+(a) the existing words become subsection (1);
+
+(b) paragraph (d) is repealed; and
+
+(c) at the end insert—
+
+> (2) In this Act and in any other enactment (including an Act of the Scottish Parliament and any enactment comprised in subordinate legislation under such an Act), “maritime lien” means a hypothec over a ship, cargo or other maritime property.
+
+.
+
+**2** In sections 45(5) and 47(3)(b), (4)(b) and (5) of the 1956 Act, before the word “lien” in each place where it occurs, insert the word “ maritime ”.
+
+**3** In section 47(2)(r) of the 1956 Act, for “or hypothecation of” substitute “ , hypothecation of or existence of any other charge on ”.
+
+### The term “admiralty action”
+
+**4** In section 47 of the 1956 Act—
+
+(a) in subsection (2)(h), after “bond” insert “ or contract of respondentia ”;
+
+(b) after subsection (2), insert—
+
+> (2A) An action having a conclusion appropriate for the enforcement of a claim to which subsection (2) above applies shall be known as an “admiralty action”.
+
+;
+
+(c) in subsection (3), for “the last preceding subsection” substitute “ subsection (2) above ”.
+
+**5** (1) In paragraph 7 of schedule 5 to the Civil Jurisdiction and Judgements Act 1982 (c. 27), for “Admiralty cause” substitute “ admiralty action ”.
+
+(2) In paragraph 6 of schedule 9 to that Act, for “causes” substitute “ actions ”.
+
+### Arrestment in rem granted by the sheriff
+
+**6** After section 47 of the 1956 Act, insert—
+
+> **Execution of warrant to arrest in rem and of order for sale**
+>
+> **47A** (1) A warrant for the arrestment in rem of a ship, cargo or other maritime property granted by the sheriff may be executed—
+>
+> (a) within the sheriffdom in which the warrant was granted; or
+>
+> (b) where the ship, cargo or other maritime property was situated within that sheriffdom when the warrant was granted, anywhere in Scotland.
+>
+> (2) For the avoidance of doubt, where a warrant for arrestment in rem granted by the sheriff has been executed, an order for the sale of the arrested ship, cargo or other maritime property may be made notwithstanding that it is not situated within the sheriffdom when the order is made.
+
+.
+
+### Arrestment on the dependence
+
+**7** (1) Section 47 of the 1956 Act is amended as follows.
+
+(2) In subsection (1)—
+
+(a) after “arrest”, where it second occurs, insert “ a ship or other maritime property which is not cargo ”;
+
+(b) after “unless”, where it second occurs, insert “ at the time when the arrestment is executed ”;
+
+(c) in paragraph (a), after “concerned” insert “ and the defender against whom that conclusion is directed owns at least one share in it or is the demise charterer of it ”; and
+
+(d) in paragraph (b), the words “against whom that conclusion is directed” are repealed.
+
+(3) After subsection (1), insert—
+
+> (1A) Where a warrant to arrest on the dependence referred to in subsection (1) above (an “initial arrestment”) has been executed, then, subject to subsection (1B) below, no further warrant may be granted to arrest on the dependence—
+>
+> (a) the subjects of the initial arrestment; or
+>
+> (b) while the initial arrestment continues to have effect, any other ship in which the defender owns at least one share,
+>
+> in respect of the claim to which the initial arrestment relates.
+>
+> (1B) A further warrant to arrest on the dependence may be granted if—
+>
+> (a) the further arrestment complies with the requirements of subsection (1) above; and
+>
+> (b) cause is shown for granting the further warrant.
+
+.
+
+(4) In subsection (3)—
+
+(a) in paragraph (a), after “ship” insert “ or of any share in it ”; and
+
+(b) after “ship”, where it last occurs, insert “ or, as the case may be, any share in a ship other than in the ship, ”.
+
+### Liability for losses and expenses
+
+**8** After section 47A of the 1956 Act (as inserted by paragraph 6 above), insert—
+
+> **Expenses**
+>
+> **47B** (1) Subject to subsection (3) below, a pursuer shall be entitled to such expenses as are incurred—
+>
+> (a) in obtaining warrant for the arrest of a ship, cargo or other maritime property on the dependence of an action; and
+>
+> (b) in executing the arrestment.
+>
+> (2) Subject to subsection (4) below, a defender shall be entitled, where—
+>
+> (a) warrant for the arrest of a ship, cargo or other maritime property on the dependence of an action is granted; and
+>
+> (b) the court is satisfied that the pursuer was acting unreasonably in applying for it,
+>
+> to such expenses as are incurred in opposing that warrant.
+>
+> (3) The court may modify or refuse such expenses as are mentioned in subsection (1) above if it is satisfied that—
+>
+> (a) the pursuer was acting unreasonably in applying for the warrant; or
+>
+> (b) such modification or refusal is reasonable in all the circumstances and having regard to the outcome of the action.
+>
+> (4) The court may modify or refuse such expenses as are mentioned in subsection (2) above if it is satisfied as to the matter mentioned in subsection (3)(b) above.
+>
+> (5) Subject to subsections (1) to (4) above, the court may make such findings as it thinks fit in relation to such expenses as are mentioned in subsections (1) and (2) above.
+>
+> (6) Expenses incurred as mentioned in subsections (1)(a) and (2) above shall be expenses of process.
+>
+> (7) Subsections (1) to (4) above are without prejudice to any enactment or rule of law as to the recovery of expenses chargeable against a debtor as are incurred in executing an arrestment on the dependence of an action.
+>
+> (8) Where warrant is granted for the arrest of a ship in rem in proceedings to which section 47(3)(b) of this Act applies, the court may make such findings as it thinks fit in relation to expenses incurred—
+>
+> (a) in obtaining the warrant and, as the case may be, executing the arrestment;
+>
+> (b) in opposing the application for the warrant.
+>
+> (9) For the avoidance of doubt, expenses incurred in applying for and executing the arrest of a ship, cargo or other maritime property in rem in respect of a conclusion appropriate for the making good of a maritime lien shall be expenses of process.
+
+.
+
+### Factors affecting arrestments
+
+**9** After section 47B of the 1956 Act (as inserted by paragraph 8 above), insert—
+
+> **Competence of arresting cargo**
+>
+> **47C** (1) It is not competent to execute an arrestment of cargo unless the cargo is on board a ship when the arrestment is executed.
+>
+> (2) For the avoidance of doubt, it is competent to execute an arrestment of cargo where it is in the possession of the defender or of a person acting on behalf of the defender.
+>
+> **Arrestment of cargo: restriction on movement of ship**
+>
+> **47D** Where cargo is arrested, the ship is treated as if arrested until the cargo is unloaded.
+
+.
+
+### Cargo on board a ship exempt from attachment
+
+**10** In section 11 of the 2002 Act (articles exempt from attachment), at the end insert—
+
+> (3) It is not competent to attach cargo which it is competent to arrest by virtue of section 47C of the Administration of Justice Act 1956 (c. 46) (competence of arresting cargo).
+
+.
+
+### Location of a ship when arrestment executed
+
+**11** In section 47 of the 1956 Act—
+
+(a) after subsection (5), insert—
+
+> (5A) Subject to subsection (6) below, it is competent to execute an arrestment of a ship, cargo or other maritime property regardless of whether the ship or other maritime property is in non-tidal or tidal waters or on land.
+>
+> (5B) In subsection (5A) above, “tidal waters” means any part of the sea and any part of a river within the ebb and flow of the tide at ordinary spring tides.
+
+; and
+
+(b) in subsection (6), for the words from “Nothing” to “of”, where it second occurs, substitute, “ It is not competent to execute an arrestment of a ship or cargo on board ”.
+
+### Demise charters
+
+**12** After section 47D of the 1956 Act (as inserted by paragraph 9 above) insert—
+
+> **Special provision in relation to charters by demise**
+>
+> **Sale of ship arrested on the dependence of action against demise charterer**
+>
+> **47E** (1) This section applies where—
+>
+> (a) a ship is arrested on the dependence of an admiralty action against the demise charterer of it; and
+>
+> (b) the pursuer obtains decree for payment for all or part of a principal sum concluded for in the action.
+>
+> (2) Where the owner or demise charterer of the ship—
+>
+> (a) pays the sum due under the decree to—
+>
+> (i) the pursuer; or
+>
+> (ii) any person who has authority to receive payment on behalf of the pursuer; or
+>
+> (b) tenders that sum to any of those persons and the tender is not accepted within a reasonable time,
+>
+> the arrestment ceases to have effect.
+>
+> (3) The court may, on the application of the pursuer, make an order for the sale of the ship.
+>
+> (4) Subject to sections 47F and 47G below, the court shall rank any claims made on the proceeds.
+>
+> (5) A ship sold under subsection (3) above vests in the purchaser free of any security or other encumbrance.
+>
+> (6) The Court of Session may, by Act of Sederunt, make provision relating to proceedings under this section.
+>
+> **Ranking of arrestments on sale of ship chartered by demise**
+>
+> **47F** In any ranking process relating to the proceeds of sale of a ship (or any share in a ship), an arrestment of the ship (or share) executed before the sale by a creditor of the owner of the ship (or share) shall rank in preference over any arrestment of the ship executed on the dependence of an admiralty action against the demise charterer of the ship.
+>
+> **Ranking of arresting creditor of demise charterer in sequestration or winding up of owner**
+>
+> **47G** (1) This section applies where—
+>
+> (a) a ship is arrested on the dependence of an admiralty action against the demise charterer of it; and
+>
+> (b) at any time after the arrestment is executed—
+>
+> (i) the owner of the ship's estate is sequestrated; or
+>
+> (ii) where the owner is a company, it is wound up.
+>
+> (2) The creditor who executed the arrestment is entitled to rank on the proceeds of any sale of the ship resulting from the sequestration or, as the case may be, winding up.
+>
+> (3) Section 37(4) and (5) of the Bankruptcy (Scotland) Act 1985 (c. 66) (effect of sequestration on arrestment or attachment) and section 185(1)(a) and (2) (in so far as applying and modifying section 37(4) and (5)) of the Insolvency Act 1986 (c. 45) (application of sequestration provisions relating to diligence on winding up) shall apply to such an arrestment as they apply to any other arrestment.
+>
+> **Arrestment to found jurisdiction in action against demise charterer**
+>
+> **47H** Where the defender in an admiralty action is the demise charterer of the ship with which the action is concerned, the court may, on the application of the pursuer, grant warrant to arrest the ship to found jurisdiction.
+
+.
+
+**13** In section 6(c) of the Sheriff Courts (Scotland) Act 1907 (c. 51) (competence of arresting a ship to found jurisdiction in sheriff court), after “owner”, where it second occurs, insert “ or demise charterer ”.
+
+## SCHEDULE 5 — Minor and consequential amendments
+
+*(introduced by section 226)*
+
+### The Companies Clauses Consolidation (Scotland) Act 1845 (c. 17)
+
+**1** In section 114 of the Companies Clauses Consolidation (Scotland) Act 1845 (summary remedy against parties failing to account), after “attachment” insert “ or money attachment ”.
+
+### The Harbours, Docks and Piers Clauses Act 1847 (c. 27)
+
+**2** In section 46 of the Harbours, Docks and Piers Clauses Act 1847 (power of justice or sheriff to settle disputes over costs of diligence), after “attachment” insert “ or money attachment ”.
+
+### The Titles to Land Consolidation (Scotland) Act 1868 (c. 101) (prospective)
+
+**3** In section 3 of the Titles to Land Consolidation (Scotland) Act 1868 (definitions), in the definition of the “deed” and “conveyance”—
+
+(a) after “adjudged” insert “ in implement ”; and
+
+(b) after “adjudication”, where it third occurs, insert “ in implement ”.
+
+### The Writs Execution (Scotland) Act 1877 (c. 40)
+
+**4** In section 3(a) of the Writs Execution (Scotland) Act 1877 (warrant in extract writ to authorise diligence)—
+
+(a) after “arrestment” insert “ , a land attachment, a residual attachment, a money attachment ”; and
+
+(b) after “executing the” insert “ land attachment, residual attachment, money attachment or ”.
+
+### The Judicial Factors (Scotland) Act 1889 (c. 39)
+
+**5** In section 11A of the Judicial Factors (Scotland) Act (application for judicial factor on estate of deceased person)—
+
+(a) in subsection (1)—
+
+(i) for “petition to the Court of Session or” substitute “ application ”; and
+
+(ii) for “petition”, where it second occurs, substitute “ application ”; and
+
+(b) in subsection (2), for “petition” substitute “ application ”.
+
+### The Sheriff Courts (Scotland) Extracts Act 1892 (c. 17)
+
+**6** (1) The Sheriff Courts (Scotland) Extracts Act 1892 is amended as follows.
+
+(2) In section 7(1)(a) (warrant in extract decree to authorise diligence)—
+
+(a) after “arrestment” insert “ , a land attachment, a residual attachment, a money attachment ”; and
+
+(b) after “executing the” insert “ land attachment, residual attachment, money attachment or ”.
+
+(3) In section 7(4) (warrant in extract decree of removing), for the words “forty-eight hours” in both places where they occur substitute “ 14 days ”.
+
+[^F198]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Execution of Diligence (Scotland) Act 1926 (c. 16)
+
+**7** (1) The Execution of Diligence (Scotland) Act 1926 is amended as follows.
+
+(2) In section 2 (execution by registered letter)—
+
+[^F199]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in subsection (2)(b)—
+
+[^F200]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F200]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) for “law agent enrolled in such sheriffdom” substitute “ solicitor ”;
+
+(c) in subsection (2)(c), [[^F201]for “law agent” substitute “ solicitor ””]; and
+
+(d) in subsection (2)(g), for “rule 111” substitute “ rule 6.1 ”.
+
+(3) In section 3 (authorisation by sheriff to do diligence)—
+
+[^F202]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) for “law agent” substitute “ solicitor ”.
+
+[^F203]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Local Government (Scotland) Act 1947 (c. 43)
+
+**8** (1) The Local Government (Scotland) Act 1947 is amended as follows.
+
+(2) In section 247(3) (diligences which can be used to recover rates), after paragraph (a) insert—
+
+> (aa) a money attachment;
+
+.
+
+(3) In section 247A(1) (sheriff officer's fees and outlays), after “attachment)” insert “ and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment) ”.
+
+### The Taxes Management Act 1970 (c. 9)
+
+**9** (1) The Taxes Management Act 1970 is amended as follows.
+
+(2) In section 63(2) (diligences which can be used to recover tax), after paragraph (a) insert—
+
+> (aa) a money attachment;
+
+.
+
+(3) In section 63A(1) (sheriff officer's fees and outlays), after “attachment)” insert “ and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment) ”.
+
+### The Sheriff Courts (Scotland) Act 1971 (c. 58)
+
+**10** In section 32(1) of the Sheriff Courts (Scotland) Act 1971 (power of Court of Session to regulate sheriff court civil procedure), in paragraph (l), for the words “an attachment” substitute “ an interim attachment, an attachment, a money attachment, a land attachment or a residual attachment ”.
+
+### The Animal Health Act 1981 (c. 22) (prospective)
+
+**[^F204]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Civil Jurisdiction and Judgments Act 1982 (c. 27)
+
+**12** In section 27 of the Civil Jurisdiction and Judgments Act 1982 (power of Court of Session to grant provisional and protective measures in respect of proceedings outwith Scotland)—
+
+(a) in subsection (1), after paragraph (b), insert—
+
+> (ba) subject to subsection (2)(c) below, grant a warrant for the interim attachment of corporeal moveable property situated in Scotland;
+
+; and
+
+(b) in subsection (2)(c), for the words “and (b)” substitute “ , (b) and (ba) ”.
+
+### The Bankruptcy (Scotland) Act 1985 (c. 66)
+
+**[^F205]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Insolvency Act 1986 (c. 45) (prospective)
+
+**14** (1) The Insolvency Act 1986 is amended as follows.
+
+(2) After section 61(1) (which sets out the process by which a receiver may dispose of property subject to both the floating charge and to another security, other encumbrance or diligence) insert—
+
+> (1B) For the purposes of subsection (1) above, an arrestment is an effectual diligence only where it is executed before the floating charge, by virtue of which the receiver was appointed, attaches to the property comprised in the company's property and undertaking.
+
+.
+
+(3) In section 185(1)(a) (effect of diligence in the winding up of a company registered in Scotland), after “subsection (6)” insert “ , (8A) to (8F) and (10) ”.
+
+### The Legal Aid (Scotland) Act 1986 (c. 47)
+
+**15** In Part 2 of Schedule 2 to the Legal Aid (Scotland) Act 1986 (proceedings in which civil legal aid is not available)—
+
+(a) in paragraph 4, after “(asp 17)” insert “ or Part 8 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) ”; and
+
+(b) in paragraph 5, after “(asp 17)” insert “ or Part 8 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) ”.
+
+### The Debtors (Scotland) Act 1987 (c. 18)
+
+**16** (1) The 1987 Act is amended as follows.
+
+(2) In section 2 (effect of time to pay direction on diligence)—
+
+(a) in subsection (1)(b), after sub-paragraph (iv) insert—
+
+> (v) a money attachment;
+>
+> (vi) a land attachment;
+>
+> (vii) a residual attachment,
+
+;
+
+(b) in subsection (2), at beginning insert “ Subject to subsection (2A) below, ”;
+
+(c) after that subsection insert—
+
+> (2A) Where the arrestment which remains in effect as mentioned in subsection (2) above is an arrestment such as is mentioned in subsection (1) of section 73J of this Act, while the time to pay direction is in effect—
+>
+> (a) it shall not be competent to release funds under subsection (2) of that section; and
+>
+> (b) the period during which the direction is in effect shall be disregarded for the purposes of determining whether the period mentioned in subsection (3) of that section has expired.
+>
+> (2B) While a time to pay direction is in effect an interim attachment shall remain in effect—
+>
+> (a) if it has not been recalled; or
+>
+> (b) to the extent that it has not been restricted under subsection (3) below.
+
+;
+
+(d) in subsection (3), after “restrict” insert “ an interim attachment or ”;
+
+(e) in subsection (4)—
+
+(i) after “If” insert “ an interim attachment or ”; and
+
+(ii) after “restriction of the” insert “ interim attachment or ”; and
+
+(f) after subsection (5) insert—
+
+> (5A) Where—
+>
+> (a) a time to pay direction is recalled or ceases to have effect as mentioned in subsection (5) above; and
+>
+> (b) an arrestment such as is mentioned in section 73J(1) of this Act is in effect,
+>
+> the clerk of court or sheriff clerk shall intimate the fact of that recall or cessation to the arrestee.
+
+.
+
+(3) In section 3 (variation and recall of time to pay direction and arrestment)—
+
+(a) in subsection (1)(a), after “reasonable” insert “ in all the circumstances ”;
+
+(b) in subsection (1)(b)—
+
+(i) after “if” insert “ an interim attachment or ”;
+
+(ii) after “restrict the” insert “ interim attachment or ”; and
+
+(c) in subsection (2), after “If” insert “ an interim attachment or ”.
+
+(4) In section 5 (time to pay orders)—
+
+(a) in subsection (5), for paragraph (a) substitute—
+
+> (a) articles belonging to the debtor have been attached and notice of an auction given under section 27(4) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) but no auction has yet taken place;
+>
+> (aa) money owned by the debtor has been attached and removed;
+
+;
+
+(b) for paragraph (c) and the word “or” immediately preceding it substitute—
+
+> (c) land owned by the debtor has been attached and an order under section 97(2) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (in this Part, the “2007 Act”) granting warrant for sale of the land has been made but that warrant has not yet been executed; or
+>
+> (d) property owned by the debtor has been attached by residual attachment and a satisfaction order under section 136(2) of the 2007 Act has been made but not yet executed,
+
+; and
+
+(c) after subsection (5) insert—
+
+> (5A) Where, in respect of a debt to which this section applies, an arrestment such as is mentioned in subsection (1) of section 73J of this Act has been executed, the sheriff may make a time to pay order in respect of that debt only if less than 8 weeks of the period mentioned in subsection (3) of that section have expired.
+
+.
+
+(5) In section 6 (application for time to pay order), in subsection (6), leave out paragraph (b) and the word “and” immediately preceding it and insert—
+
+> (b) serve on—
+>
+> (i) the creditor; and
+>
+> (ii) where an arrestment such as is mentioned in section 73J(1) of this Act is in effect, the arrestee,
+>
+> a copy of the interim order; and
+>
+> (c) serve on the creditor a copy of any order under subsection (4) above.
+
+.
+
+(6) In section 7 (disposal of application for time to pay order), in subsection (4)(a), for “and the creditor” substitute “ , the creditor and, where an arrestment such as is mentioned in section 73J(1) of this Act is in effect, the arrestee ”.
+
+(7) In section 8 (effect of interim order on diligence)—
+
+(a) in subsection (1)—
+
+(i) before paragraph (a) insert—
+
+> (za) to attach in execution of the decree any articles which have been attached by interim attachment;
+
+;
+
+(ii) in paragraph (a), for “auction any articles which have been attached” substitute “ give, in relation to any articles which have been attached, notice of an auction under section 27(4) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) ”;
+
+(iii) after paragraph (a) insert—
+
+> (aa) to execute a money attachment;
+
+;
+
+(iv) in paragraph (c), at the beginning insert “ subject to subsection (1A) below, ”; and
+
+(v) for paragraph (d) substitute—
+
+> (d) subject to subsection (1B) below, to register, under section 83(1)(c) of the 2007 Act, a notice of land attachment;
+>
+> (e) subject to subsection (1C) below, to apply, under section 130(1) of the 2007 Act, for a residual attachment order.
+
+; and
+
+(b) after subsection (1) insert—
+
+> (1A) Where the arrestment mentioned in subsection (1)(c) above is an arrestment such as is mentioned in subsection (1) of section 73J of this Act, while the interim order is in effect—
+>
+> (a) it shall not be competent to release funds under subsection (2) of that section; and
+>
+> (b) the period during which the order is in effect shall be disregarded for the purposes of determining whether the period mentioned in subsection (3) of that section has expired.
+>
+> (1B) Where, before the interim order is made—
+>
+> (a) a notice of land attachment is registered, it shall not be competent to take any steps other than—
+>
+> (i) serving, under subsection (5) of section 83 of the 2007 Act, a copy of that notice; and
+>
+> (ii) registering, under subsection (6) of that section, a certificate of service; or
+>
+> (b) a land attachment is created, it shall not be competent to make, under section 97(2) of the 2007 Act, an order granting a warrant for sale of the attached land.
+>
+> (1C) Where, before the interim order is made, a residual attachment order has been made, it shall not be competent—
+>
+> (a) to take any steps other than serving, under section 133(1) of the 2007 Act, a schedule of residual attachment; or
+>
+> (b) to make, under section 136(2) of the 2007 Act, a satisfaction order.
+
+.
+
+(8) In section 9 (effect of time to pay order on diligence)—
+
+(a) in subsection (1)(b), after sub-paragraph (iv) insert—
+
+> (v) a money attachment;
+>
+> (vi) a land attachment;
+>
+> (vii) a residual attachment,
+
+;
+
+(b) in subsection (2), for paragraph (c) substitute—
+
+> (c) where a notice of land attachment has been registered under section 83(1)(c) of the 2007 Act, shall make an order prohibiting the taking of any steps other than—
+>
+> (i) the serving, under subsection (5) of that section, of a copy of the notice; and
+>
+> (ii) the registration, under subsection (6) of that section, of a certificate of service;
+>
+> (ca) where a residual attachment order has been made under section 132(2) of the 2007 Act, shall make an order prohibiting the taking of any steps other than the serving, under section 133(1) of the 2007 Act, of a schedule of residual attachment;
+>
+> (cb) may make an order recalling an interim attachment;
+
+;
+
+(c) after subsection (2) insert—
+
+> (2A) While a time to pay order is in effect, it shall not be competent in respect of the debt—
+>
+> (a) to make, under section 97(2) of the 2007 Act, an order granting warrant for sale of attached land; or
+>
+> (b) to make, under section 136(2) of the 2007 Act, a satisfaction order.
+
+;
+
+(d) in subsection (3)—
+
+(i) after “If” insert “ an interim attachment, ” and
+
+(ii) for “or the recall of” substitute “ , the recall of the interim attachment or ”;
+
+(e) in subsection (4)—
+
+(i) at the beginning insert “ Subject to subsection (4A) below, ”; and
+
+(ii) for “(2)(d) or (e)” substitute “ (2)(cb), (d) or (e) ”;
+
+(f) after subsection (4) insert—
+
+> (4A) Where, in relation to an arrestment such as is mentioned in subsection (1) of section 73J of this Act, the sheriff does not exercise the power conferred on him by subsection (2)(e) above to recall that arrestment, he shall make an order—
+>
+> (a) prohibiting, while the time to pay order is in effect, the release of funds under subsection (2) of section 73J of this Act; and
+>
+> (b) providing that the period during which the time to pay order is in effect shall be disregarded for the purposes of determining whether the period mentioned in subsection (3) of that section has expired.
+
+;
+
+(g) in subsection (6), for “(2)(d) or (e)” substitute “ (2)(cb), (d) or (e) ”;
+
+(h) in subsection (7), after paragraph (b) insert
+
+> ; and
+>
+> (c) where any order under subsection (4A) above is made in relation to an arrestment such as is mentioned in section 73J(1) of this Act is in effect, intimate that order to the arrestee.
+
+; and
+
+(i) in subsection (8)—
+
+(i) for paragraph (a) substitute—
+
+> (a) to sell articles which have been attached (other than by virtue of section 20(1) or 22(3) of the Debt Arrangement and Attachment (Scotland) Act (asp 17);
+
+; and
+
+(ii) in paragraph (b), at the beginning insert “ to grant ”.
+
+(9) In section 10 (variation and recall of time to pay order and arrestment)—
+
+(a) in subsection (1)(a), after “reasonable” insert “ in all the circumstances ”;
+
+(b) in subsection (1)(b), after “if” insert “ an interim attachment, ”; and
+
+(c) in subsection (2), after “If” insert “ an interim attachment, ”.
+
+(10) In section 13 (saving of creditor's rights and remedies), in the full-out words to subsection (2), for “poinding”, in any place where it occurs, substitute “ attachment ”.
+
+(11) In section 87(2)(a) (warrant in extract decree to authorise diligence)—
+
+(a) after “arrestment” insert “ , a land attachment, a residual attachment, a money attachment ”; and
+
+(b) after “executing the” insert “ land attachment, residual attachment, money attachment or ”.
+
+(12) In section 104 (regulations), after “Regulations” insert “ and orders ”.
+
+(13) In section 105 (application to Crown)—
+
+(a) the existing words become subsection (1);
+
+(b) after “1947” insert “ and subject to subsection (2) below ”; and
+
+(c) at the end insert—
+
+> (2) Section 70B of this Act does not affect Her Majesty in Her private capacity as an employer.
+
+(14) In section 106 (interpretation)—
+
+(a) after the definition of “current maintenance”, insert—
+
+> “debt advice and information package” has the meaning given to it in section 47(4) of this Act;
+
+;
+
+(b) after the definition of “employer”, insert—
+
+> “enactment” includes an Act of the Scottish Parliament and any enactment comprised in subordinate legislation under such an Act;
+
+; and
+
+[^F206]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Abolition of Domestic Rates etc. (Scotland) Act 1987 (c. 47)
+
+**17** (1) Schedule 2 to the Abolition of Domestic Rates etc. (Scotland) Act 1987 is amended as follows.
+
+(2) In paragraph 7(3) (diligences which can be used to recover community charge), after paragraph (a) insert—
+
+> (aa) a money attachment;
+
+.
+
+(3) In paragraph 8(1) (sheriff officer's fees and outlays), after “attachment)” insert “ and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment) ”.
+
+### The Child Support Act 1991 (c. 48)
+
+**18** In section 38 of the Child Support Act 1991 (enforcement of liability orders by diligence)—
+
+(a) in subsection (1)—
+
+(i) after paragraph (a) insert—
+
+> (aa) for the Secretary of State—
+>
+> (i) to charge the person to pay the appropriate amount; and
+>
+> (ii) to execute, in respect of the person's land, a land attachment;
+
+; and
+
+(ii) for the words from “and”, where it fifth occurs, to the end, substitute—
+
+> (c) for an inhibition.
+
+; and
+
+(b) for subsection (2) substitute—
+
+> (2) In subsection (1)—
+>
+> (a) the “appropriate amount” means the amount in respect of which the order was made, to the extent that it remains unpaid; and
+>
+> (b) in paragraph (aa), “land” has the same meaning as in section 82 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3).
+
+.
+
+### The Social Security Administration Act 1992 (c. 5)
+
+**19** In section 121B of the Social Security Administration Act 1992—
+
+(a) in subsection (1) (diligences which can be used to recover unpaid contributions), after paragraph (a) insert—
+
+> (aa) a money attachment;
+
+; and
+
+(b) in subsection (4) (sheriff officer's fees and outlays), after “attachment)” insert “ and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment) ”.
+
+### The Local Government Finance Act 1992 (c. 14)
+
+**20** (1) Schedule 8 to the Local Government Finance Act 1992 is amended as follows.
+
+(2) In paragraph 2(3) (diligences which can be used to recover council tax etc.), after paragraph (a) insert—
+
+> (aa) a money attachment;
+
+.
+
+(3) In paragraph 4(1) (sheriff officer's fees and outlays), after “attachment)” insert “ and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment) ”.
+
+### The Tribunals and Inquiries Act 1992 (c. 53) (prospective)
+
+**[^F207]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Proceeds of Crime (Scotland) Act 1995 (c. 43)
+
+**22** In section 32 of the Proceeds of Crime (Scotland) Act (inhibition of property affected by restraint order or by interdict)—
+
+(a) in subsection (1)—
+
+(i) for the words “Lord Advocate, the Court of Session” substitute “ prosecutor, the court ”;
+
+(ii) in paragraph (a), for the words “Lord Advocate” substitute “ prosecutor ”; and
+
+(iii) in paragraph (b), for the words from “have” to the end substitute “ forthwith be registered by the prosecutor in the Register of Inhibitions. ”; and
+
+(b) in subsection (5), for the words “Lord Advocate” substitute “ prosecutor ”.
+
+### The Criminal Procedure (Scotland) Act 1995 (c. 46)
+
+**23** In section 221 of the Criminal Procedure (Scotland) Act 1995 (fines: recovery by civil diligence), in subsection (1)(a)—
+
+(a) for “the execution of an arrestment and the attachment of articles belonging to him” insert—
+
+> (i) the execution of an arrestment;
+>
+> (ii) the attachment of articles belonging to him; and
+>
+> (iii) the execution of a money attachment,
+
+; and
+
+(b) after “attachment”, where it second occurs, insert “ or the money attachment ”.
+
+### The Finance Act 1997 (c. 16)
+
+**24** In section 52 of the Finance Act 1997—
+
+(a) in subsection (2) (diligences which can be used to recover certain taxes), after paragraph (a) insert—
+
+> (aa) a money attachment;
+
+; and
+
+(b) in subsection (3) (sheriff officer's fees and outlays), after “attachment)” insert “ and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment) ”.
+
+### The Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7) (prospective)
+
+**[^F208]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Water Industry (Scotland) Act 2002 (asp 3)
+
+**26** (1) Schedule 4 to the Water Industry (Scotland) Act 2002 is amended as follows
+
+(2) In paragraph 2(3) (diligences which can be used to recover unpaid charges), after sub-paragraph (za) insert—
+
+> (zb) a money attachment;
+
+.
+
+(3) In paragraph 4(1), at the beginning insert “ Without prejudice to section 39(1) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) (expenses of attachment) and section 196(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (expenses of money attachment), ”.
+
+### The Scottish Public Services Ombudsman Act 2002 (asp 11) (prospective)
+
+**[^F209]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Freedom of Information (Scotland) Act 2002 (asp 13) (prospective)
+
+**[^F210]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Proceeds of Crime Act 2002 (c. 29)
+
+**29** In section 123 of the Proceeds of Crime Act (inhibition of property affected by a restraint order)—
+
+(a) in subsection (1), for the words “Lord Advocate, the Court of Session” substitute “ prosecutor, the court ”;
+
+(b) in subsection (3)—
+
+(i) in paragraph (a), for the words “Lord Advocate” substitute “ prosecutor ”; and
+
+(ii) for paragraph (b) substitute—
+
+> (b) must forthwith be registered by the prosecutor in the Register of Inhibitions
+
+; and
+
+(c) in subsection (7) , for the words “Lord Advocate” substitute “ prosecutor ”.
+
+### The Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)
+
+**30** (1) The 2002 Act is amended as follows.
+
+(2) In section 10(3) (competence of attachment), for paragraphs (a) and (b) substitute—
+
+> (a) the debtor has been charged to pay the debt;
+>
+> (b) the period for payment specified in the charge has expired without payment being made; and
+>
+> (c) where the debtor is an individual, the creditor has, no earlier than 12 weeks before taking any steps to execute the attachment, provided the debtor with a debt advice and information package.
+
+.
+
+(3) In section 11 (articles exempt from attachment)—
+
+(a) in subsection (1), after paragraph (d) insert—
+
+> (e) any money.
+
+; and
+
+(b) after subsection (2) insert—
+
+> (3) In subsection (1)(e) above, “money” has the same meaning as in section 175 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3).
+
+.
+
+(4) After section 13 insert—
+
+> **Schedule of attachment**
+>
+> **13A** (1) The officer must, immediately after executing an attachment, complete a schedule such as is mentioned in subsection (2) below (in this section, the “attachment schedule”).
+>
+> (2) An attachment schedule—
+>
+> (a) must be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+>
+> (b) must specify—
+>
+> (i) the articles attached; and
+>
+> (ii) their value, so far as ascertainable.
+>
+> (3) The officer must—
+>
+> (a) give a copy of the attachment schedule to the debtor; or
+>
+> (b) where it is not practicable to do so—
+>
+> (i) give a copy of the schedule to a person present at the place where the attachment was executed; or
+>
+> (ii) where there is no such person, leave a copy of it at that place.
+>
+> (4) An attachment is executed on the day on which the officer complies with subsection (3) above.
+
+.
+
+(5) In section 14 (procedure for attachment of articles kept outwith dwellinghouses), for “19” substitute “ 19A ”.
+
+(6) In section 15, the title to that section becomes “ Valuation ”.
+
+(7) In section 28(1)(b) (restriction on alteration of arrangements for auctions), for “19” substitute “ 19A ”.
+
+(8) In section 32 (report of auction)—
+
+(a) in subsection (2)(a), after sub-paragraph (iii) insert—
+
+> (iiia) any sums paid by the debtor to account of the sum recoverable;
+
+; and
+
+[^F211]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In section 33 (audit of report of auction)—
+
+(a) in subsection (7), for the words from “providing” to the end substitute—
+
+> (a) giving—
+>
+> (i) the debtor;
+>
+> (ii) the creditor; and
+>
+> (iii) any third party who claims ownership (whether alone or in common with the debtor) of any attached article,
+>
+> an opportunity to make representations; or
+>
+> (b) holding a hearing.
+
+; and
+
+(b) in subsection (8), for “debtor” substitute “ persons mentioned in subsection (7)(a) above. ”.
+
+(10) In section 34 (articles belonging to third parties), in subsection (1)(b)(ii), for “so satisfied” substitute “ satisfied that the claim is valid ”.
+
+(11) In section 40 (recovery from debtor of expenses of attachment)—
+
+(a) in subsection (3)—
+
+(i) in paragraph (a), for “9(2)(a), (d) or (e)” substitute “ 9(2)(d) or (10)(b) ”; and
+
+(ii) in paragraph (c), for “presentation of a petition for an administration order” substitute “ appointment of an administrator ”; and
+
+(b) in subsection (4)(b), for “administration order” substitute “ appointment ”.
+
+(12) In section 41(2)(a) (ascription of sums recovered by attachment), after sub-paragraph (i) insert—
+
+> (ia) any previous interim attachment the expenses of which are chargeable against and recoverable from the debtor under section 9Q(1)(a) of this Act;
+
+.
+
+[^F212]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) In section 60(2) (application of the Act to sequestration for rent and arrestment) for the words “such a” substitute “ the landlord's ”.
+
+(15) In schedule 1, in paragraph 1, before “2” insert “ 1A, ”.
+
+### The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4) (prospective)
+
+**[^F213]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Finance Act 2003 (c. 14)
+
+**32** In paragraph 3(2) of Schedule 12 to the Finance Act 2003 (diligences which can be used to recover stamp duty land tax), after sub-paragraph (a) insert—
+
+> (aa) a money attachment;
+
+.
+
+### The Civil Partnership Act 2004 (c. 33) (prospective)
+
+**[^F214]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — Repeals and revocation
+
+*(introduced by section 226)*
+
+### Part 1 — Repeals
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of repeal* |
+| Decrees in Absence Act 1584 (c. 10) (Act of the Parliaments of Scotland) | The whole Act. |
+| Ejection Caution Act 1594 (c. 27) (Act of the Parliaments of Scotland) | The whole Act. |
+| Arrestments Act 1617 (c. 17) (Act of the Parliaments of Scotland) | The whole Act. |
+| Diligence Act 1621 (c. 6) (Act of the Parliaments of Scotland) | The whole Act. |
+| Adjudication Act 1621 (c. 7) (Act of the Parliaments of Scotland) | The whole Act. |
+| Diligence Act 1661 (c. 344) (Act of the Parliaments of Scotland) | The whole Act. |
+| Minority Act 1663 (c. 4) (Act of the Parliaments of Scotland) | The whole Act. |
+| Adjudications Act 1672 (c. 45) (Act of the Parliaments of Scotland) | The whole Act. |
+| Debtors (Scotland) Act 1838 (c. 114) | Section 17. Section 22. |
+| Hypothec Amendment (Scotland) Act 1867 (c. 42) | The whole Act. |
+| Titles to Land Consolidation (Scotland) Act 1868 (c. 101) | In section 3, in the definition of the “deed” and “conveyance”, the words “of adjudication for debt, and” and the words “whether for debt or implement,”. In section 62, the words “, whether for debt or”, in both places where they occur. In section 129, the words “, whether for debt or”, in both places where they occur. In section 159, the words “for debt or in security or”. Schedules PP and RR. |
+| Hypothec Abolition (Scotland) Act 1880 (c. 12) | The whole Act. |
+| Judicial Factors (Scotland) Act 1889 (c. 39) | In section 11A(2), the words “Court or”; and in paragraph (a), the word “permanent”. |
+| Heritable Securities (Scotland) Act 1894 (c. 44) | Sections 3, 6 and 7. Schedules A to C |
+| Sheriff Courts (Scotland) Act 1907 (c. 51) | In section 5(4), the words “actions of adjudication save in so far as now competent and”. In section 29, the words “of a warrant of sequestration for rent, or”. [^F215]...”. |
+| Conveyancing (Scotland) Act 1924 (c. 27) | In section 44, subsection (1); and in subsection (2), in paragraph (a)(i), the words “and Adjudications”, and paragraph (b). |
+| Execution of Diligence (Scotland) Act 1926 (c. 16) | [^F215]... Section 4. In section 5, the words from “a law agent” to the end. |
+| Public Registers and Records (Scotland) Act 1948 (c. 57) | In section 1(2), the words “and Adjudications”. |
+| Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65) | Section 8(2)(e). |
+| Taxes Management Act 1970 (c. 9) | In section 64(1), the words “poinding, sequestration for rent, or”. |
+| Sheriff Courts (Scotland) Act 1971 (c. 58) | In section 35(1)(b), the words “and actions of sequestration for rent” and the words “or the rent in respect of which sequestration is asked,”. |
+| Prescription and Limitation (Scotland) Act 1973 (c. 52) | Section 1(4). |
+| Land Registration (Scotland) Act 1979 (c. 33) | In section 6(1)(c), the words “and Adjudications”. In section 12(3)(k), the words “and Adjudications”. |
+| Sale of Goods Act 1979 (c. 54) | In section 62(5), the words “or sequestration for rent”. |
+| Rent (Scotland) Act 1984 (c. 58) | Section 110. |
+| Family Law (Scotland) Act 1985 (c. 37) | Section 19. |
+| Bankruptcy (Scotland) Act 1985 (c. 66) | In section 1A, in subsection (1)(b)(ii), the words “under paragraph 5(1)(e) of Schedule 5 to this Act”; and in subsection (3)(c), the word “permanent”. Section 2(4). In section 3, the word “permanent” in each place where it occurs. In section 4, the words “(other than one to which Schedule 2 to this Act applies)”; and the word “permanent”. In section 5, in subsection (4A), the word “permanent”; in subsection (7), paragraph (a); and in subsection (8)(a), the words “or concurs in a petition by the debtor”. In section 7(1), in paragraph (c), sub-paragraphs (iii), (iv), (v) and (vi); and the words “ “confiscation order””, where they second occur. In section 8, in subsection (1)(a), sub-paragraph (i); in subsection (5), the words “, or the concurring in,”; and in subsection (6), the words “or concurring” and “or concur”. Section 12(1A). In section 13(2)(b), the words “in the sequestration”. In section 14, in subsection (1)(a), the words “and adjudications”; in subsection (2) the words “and of a citation in an adjudication”; in subsection (3)(a), the words “, or by virtue of paragraph 11 of Schedule 4 to,”; in subsection (4), the word “permanent” and the words “and adjudications”; and subsection (5). In section 15, in subsection (3), the words “or a creditor concurring in the petition for sequestration”; in subsection (5)(a), the words “and adjudications”; in subsection (6), the word “interim”; and in subsection (8)(a), the words from “permanent”, where it first occurs, to “interim”. In section 16, in subsection (1)(b), the words “interim trustee, the permanent”; and in subsection (2), the words “interim trustee or permanent”. In section 17(8), in paragraph (a), the words “and adjudications”; and in paragraph (b)(ii), the word “permanent”. Section 18(2)(g). In section 19, in subsection (1), the word “interim”, where it second occurs; and in subsections (2) to (4), the word “interim”, in each place where it occurs. In section 20, the word “interim”, in each place where it occurs; and subsections (4) and (5). In section 20A, the words “interim” and “21 or”. In section 21A, in subsection (1), the word “interim”, where it second occurs; in subsections (2) to (7), the word “interim”, in each place where it occurs; and subsection (9). In section 21B, in subsection (1), the word “interim”, where it first occurs and paragraph (b) and the word “and” immediately preceding that paragraph; and subsection (2). In section 22, the word “interim”, in each place where it occurs; and in subsection (5)(b)(ii), the words “or permanent trustee”. In section 23, the word “interim”, in each place where it occurs. In section 24, in subsection (2), the word “permanent”, where it third and fourth occurs; and in subsection (4)(b), the words from “who” to the end. In section 25, in subsection (6), paragraph (a) and the word “and” immediately following that paragraph; and in paragraph (b), the words “where he is not the same person as the interim trustee,” and the word “permanent”. Section 25A. In section 26, in subsection (2)(b), the words “(unless the interim trustee has himself become the permanent trustee)”; and in subsection (3)(b)(i), the words “(except where the interim trustee has himself become the permanent trustee)”. In section 26A, in subsection (2), the word “interim”, where it second occurs; and in subsections (4), (5) and (7), the word “interim”, in each place where it occurs. Section 27(7). In sections 28 to 30, the word “permanent”, in each place where it occurs. In section 31, in subsection (1), the words “in the permanent trustee” and paragraphs (a) and (b) and the word “; and” immediately preceding them; in subsection (2), the words “(reserving any effect of such inhibition on ranking)”; and in subsections (2) to (7) and (10) the word “permanent”, in each place where it occurs. In section 31A(2) (as inserted by paragraph 15 of Schedule 11 to the Proceeds of Crime Act 2002 (c. 29)), the word “permanent”. In section 31B, in subsection (1), the word “and” following paragraph (a); and in subsection (2), the word “permanent” In sections 31C to 36C, 36E and 36F, the word “permanent”, in each place where it occurs. In section 37, subsection (1)(a); in subsection (2), the word “which”, the words “shall be effectual to create a preference for the inhibitor and” and the word “permanent”; in subsection (4), the word “permanent” in both places where it occurs; in subsection (6), the word “permanent” in both places where it occurs; and in subsection (8), the words from “to”, where it first occurs, to “or”, where it [[^F216]third] occurs; and in subsection (9), the word “permanent”. In section 38, the word “permanent” in each place where it occurs. In section 39, in subsection (1), the word “permanent”, in both places where it occurs, and the words “with the commissioners or, if there are no commissioners,”; and in paragraph (c), the words “if there are no commissioners,”; and in subsection (2), the word “permanent”, the words from “but” to “court” and the words from “if”, where it second occurs, to “estate”, where it first occurs; and in subsections (3) to (6) and (8), the word “permanent” in each place where it occurs. In sections 40 to 45, the word “permanent” in each place where it occurs. In section 46, in subsection (1), in paragraph (a), the word “permanent” and in paragraph (b) the words “the Court of Session or” and the word “permanent”; and in subsection (4), the word “permanent”. In section 47, the word “permanent” in both places where it occurs. In section 48, in subsection (1), the word “permanent”; in subsection (2), in paragraph (a), the word “interim” and in paragraph (b), the word “permanent”; in subsection (3), the words from “, and”, where it second occurs, to the end of the subsection; in subsections (4) and (5), the word “permanent”, in each place where it occurs; in subsection (7), paragraph (a) and in paragraph (b) the words “ “interim” and”, “respectively” and “ “permanent” and”; and in subsection (8), the word “permanent”. In sections 49 to 53, the word “permanent”, in each place where it occurs. In section 54, the word “permanent”, in each place where it occurs; in subsection (4)(b)(ii), the words “interim or”; and in subsection (7)(a), the words “and adjudications”. In sections 56 and 57, the word “permanent”, in each place where it occurs. In section 58A, in subsections (1), (4), (5) and (7), the word “permanent”, in each place where it occurs; and subsection (9). In section 60(2), the word “permanent”. In sections 61 to 65, the word “permanent”, in each place where it occurs. In section 67, in subsection (4), the word “permanent”; and in subsection (5), in paragraph (b), the words “interim or permanent”. In sections 69 and 70, the word “permanent”, in each place where it occurs. In section 73(1), the definition of “permanent trustee”. In section 75, in subsection (4), the words “by the permanent trustee”; in subsection (5), paragraph (b); in subsection (7), the word “permanent”; and in subsection (11), the words from “permanent”, where it first occurs, to “interim”. In Schedule 1, the word “permanent”, in each place where it occurs. In Schedule 4, in paragraph 1(1), the word “permanent”, where it second occurs; in paragraph 2, the word “permanent”; in paragraph 4, the word “permanent”, where it first occurs; in paragraph 9, in sub-paragraphs (1) and (1A), the word “permanent”, in each place where it occurs; in paragraph 12, the word “permanent”, in both places where it occurs; in paragraph 17, in sub-paragraphs (1), (3) and (4), the word “permanent”, in each place where it occurs; and in paragraph 18, in sub-paragraphs (3) and (4), the word “permanent”, in each place where it occurs. In Schedule 5, in paragraph 2(1), the words “and adjudications”; and in paragraph 4, sub-paragraphs (b)(ii) and (d). In Schedule 6, the word “permanent”, in each place where it occurs (including the occurrence in the italic cross-heading preceding paragraph 7); and in paragraph 11(2), the words “the interim trustee or, as the case may be,”. In Schedule 7, in paragraph 25(a), the words “interim or permanent”. |
+| Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73) | In section 8(7), the words “and Adjudications”. |
+| Insolvency Act 1986 (c. 45) | In section 185(2)(d), the word “permanent”. |
+| Debtors (Scotland) Act 1987 (c. 18) | Section 2(1)(b)(iv). In section 5, subsection (1)(c). Section 8(3). In section 9, subsection (1)(b)(iv); and, in subsection (8), the words “to grant”. Section 15(1). [^F215]... Section 101. In Schedule 6, paragraph 3. |
+| Proceeds of Crime (Scotland) Act 1995 (c. 43) | In section 32, in subsection (2), the words from “as” to the end; subsection (3); and in subsection (5)(b), the words “and Adjudications”. In Schedule 1, in paragraph 7(c), the words from “raise” to “property” where it first occurs |
+| Terrorism Act 2000 (c. 11) | In Schedule 4, in paragraph 21, in sub-paragraph (2)(b) the words from “shall”, where it first occurs, to “and”, where it first occurs, and the words “and adjudications”; in sub-paragraph (3), the words from “as” to the end; and in sub-paragraph (5)(b), the words “and adjudications”. |
+| Mortgage Rights (Scotland) Act 2001 (asp 11) | In section 3(1) , the words “and Adjudications”. |
+| International Criminal Court (Scotland) Act 2001 (asp 13) | In Schedule 6, in paragraph 6, in sub-paragraph (2)(b) the words from “shall”, where it first occurs, to “and”, where it first occurs, and the words “and Adjudications”; in sub-paragraph (3), the words from “as” to the end; and in sub-paragraph (6)(b), the words “and Adjudications”. In Schedule 6, in paragraph 10(6) , the words “and Adjudications”. |
+| Proceeds of Crime Act 2002 (c. 29) | In section 123, in subsection (4), the words from “as” to the end; and in subsection (7)(b), the words “and Adjudications”. Section 285(7). In Schedule 3, paragraph 7(5), the words from “raise” to “property” where it first occurs. |
+| Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) | Section 4(2A)(d). Section 15(1). Section 60(1), (2)(b), (4) and (5). [[^F217]In]Schedule 1, paragraph 4(a), the words “of court”. |
+
+### Part 2 — Revocation
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of revocation* |
+| The Bankruptcy (Scotland) Regulations 1985 (S.I. 1985 No. 1925) | Regulation 13. |
+
+---
+
+[^F1]: Ss. 1, 2 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F2]: Ss. 5-32 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F3]: Ss. 35, 36 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F4]: Words in s. 38(3) inserted (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(2)(a), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F5]: S. 38(3A) inserted (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(2)(b), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F6]: S. 39(4) added (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(3), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F7]: S. 42(4) added (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(4), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F8]: Word in s. 43(4) substituted (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(5)(a), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F9]: S. 43(4A) inserted (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(5)(b), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F10]: S. 44(4) added (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(6), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F11]: S. 45(2) omitted (31.12.2020) by virtue of The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94), regs. 1, 3(2)(a) (with reg. 9) (as amended by S.S.I. 2020/337, regs. 1, 2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F12]: S. 45(7)(a) omitted (31.12.2020) by virtue of The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94), regs. 1, 3(2)(b)(i) (with reg. 9) (as amended by S.S.I. 2020/337, regs. 1, 2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F13]: Words in s. 45(7)(b) omitted (31.12.2020) by virtue of The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94), regs. 1, 3(2)(b)(ii) (with reg. 9) (as amended by S.S.I. 2020/337, regs. 1, 2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F14]: S. 45(8) omitted (31.12.2020) by virtue of The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94), regs. 1, 3(2)(c) (with reg. 9) (as amended by S.S.I. 2020/337, regs. 1, 2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F15]: S. 47: definition of "central institution" inserted (21.2.2009) by Banking Act 2009 (c. 1), ss. 253(7), 263(1)(2) (with s. 247); S.I. 2009/296, art. 3, Sch. para. 11
+[^F16]: S. 47: words in definition of "company" substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 267 (with art. 10)
+[^F17]: Words in s. 49(1) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 118(2) (with Sch. 5)
+[^F18]: Words in s. 49(1) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 118(3) (with Sch. 5)
+[^F19]: Word in s. 49(2) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 119 (with Sch. 5)
+[^F20]: Words in s. 49(3) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 120(2) (with Sch. 5)
+[^F21]: S. 49(3)(a) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 120(3) (with Sch. 5)
+[^F22]: Word in s. 49(3)(b) substituted (1.8.2014) by Co-operative and Community Benefit Societies Act 2014 (c. 14), s. 154, Sch. 4 para. 120(4) (with Sch. 5)
+[^F23]: Pt. 3 Title substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 10; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F24]: S. 50 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F25]: Cross-heading before s. 51 inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(3); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F26]: Words in s. 51 title substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F27]: S. 51(1) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F28]: Words in s. 51(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(b); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F29]: S. 51(3)(a) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(c)(i); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F30]: Words in s. 51(3)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(c)(ii); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F31]: Words in s. 51(3) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(c)(iii); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F32]: Words in s. 51(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(d)(i); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F33]: Words in s. 51(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(d)(ii); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F34]: Words in s. 51(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(d)(iii); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F35]: Words in s. 51(5) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(e); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F36]: S. 51(6) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 11(1)(f); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F37]: S. 52 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F38]: S. 53(b) and word repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 12(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F39]: Words in s. 53 substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 12(b); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F40]: Ss. 54-60 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F41]: Words in crossheading before s. 61 substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 13(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F42]: Words in s. 61 title substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 13(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F43]: Words in s. 61(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 13(1)(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F44]: Words in s. 61(2)(a) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 13(1)(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F45]: S. 61(2)(d) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 13(1)(b); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F46]: Words in s. 61(3) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 13(1)(c); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F47]: S. 61(4)-(7) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F48]: Words in title of s. 62 substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 14(2); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F49]: Words in s. 62(1) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 14(1)(a)(i); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F50]: Words in s. 62(1) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 14(1)(a)(ii); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F51]: Words in s. 62(2)(a) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 14(1)(b); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F52]: S. 62(2)(d) repealed (1.4.2015) by Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11), s. 57(2), Sch. 4; S.S.I. 2014/261, art. 3 (with arts. 4-7 12) (as amended by S.S.I. 2015/54, art. 2)
+[^F53]: Words in s. 62(2)(f) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 14(1)(b); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F54]: Words in s. 62(2)(g) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 14(1)(b); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F55]: Words in crossheading preceding s. 63 substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 15(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F56]: Words in s. 63 title substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8) , s. 134(7) , Sch. 4 para. 15(2) ; S.S.I. 2011/30 , art. 3(1) (3) , Sch. 1
+[^F57]: Words in s. 63(1)(a) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8) , s. 134(7) , Sch. 4 para. 15(1)(a)(i) ; S.S.I. 2011/30 , art. 3(1) (3) , Sch. 1
+[^F58]: Words in s. 63(1)(a) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8) , s. 134(7) , Sch. 4 para. 15(1)(a)(ii) ; S.S.I. 2011/30 , art. 3(1) (3) , Sch. 1
+[^F59]: S. 63(1A) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8) , s. 134(7) , Sch. 4 para. 15(1)(b) ; S.S.I. 2011/30 , art. 3(1) (3) , Sch. 1
+[^F60]: S. 63(2)(a) (aa) substituted for s. 63(2)(a) (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8) , s. 134(7) , Sch. 4 para. 15(1)(c) ; S.S.I. 2011/30 , art. 3(1) (3) , Sch. 1
+[^F61]: Words in s. 63(3) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8) , s. 134(7) , Sch. 4 para. 15(1)(d) ; S.S.I. 2011/30 , art. 3(1) (3) , Sch. 1
+[^F62]: S. 63A inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 16; S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F63]: Words in s. 64 repealed (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 17(2); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F64]: Words in s. 64 substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 17(1)(a); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F65]: Words in s. 64 substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 17(1)(b); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F66]: Words in s. 65 substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 18(a); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F67]: Words in s. 65 substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 18(b); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F68]: Words in s. 65(b) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 18(c); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F69]: S. 65(c) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 18(d); S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F70]: S. 65A and preceding cross-heading inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 19; S.S.I. 2011/30, art. 3(2)(3), Sch. 2
+[^F71]: Words in crossheading preceding s. 66 substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(3); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F72]: Words in s. 66 title substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F73]: Words in s. 66(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(1)(a)(i); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F74]: Words in s. 66(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(1)(a)(ii); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F75]: Words in s. 66(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(1)(b)(i); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F76]: Words in s. 66(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(1)(b)(ii); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F77]: Words in s. 66(3) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(1)(c); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F78]: Words in s. 66(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 20(1)(d); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F79]: Ss. 67-74 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F80]: Words in s. 75 substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F81]: Words in s. 75(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(1)(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F82]: Words in s. 75(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(1)(b); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F83]: Words in s. 75(3)(a) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(1)(c); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F84]: Words in s. 75(4)(a) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(1)(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F85]: Words in s. 75(5) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(1)(d); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F86]: Words in s. 75(6) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(1)(c); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F87]: Words in s. 75(7) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 21(1)(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F88]: S. 76 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F89]: Words in s. 77(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 22(a)(i); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F90]: Word in s. 77(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 22(a)(ii); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F91]: Words in s. 77(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 22(b); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F92]: S. 77(4)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 22(c); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F93]: Words in s. 78 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 23; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F94]: Words in s. 83(5) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F95]: Words in s. 85 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 52(2) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F96]: Words in s. 114(4) substituted (1.4.2015) by The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150), art. 1, Sch. para. 9
+[^F97]: Words in s. 117(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 25(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F98]: Words in s. 121(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 25(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F99]: S. 127A inserted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 24(2) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F100]: Words in s. 128(1) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F101]: Words in s. 128(1) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 52(3) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F102]: Words in s. 128(1) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 26; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F103]: Words in s. 139(1)(c) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 25(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F104]: Words in s. 145(1) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 27; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F105]: Words in s. 145(1) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F106]: S. 148A inserted (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 34(2), 59(1) (with s. 48(1)(c)(2)(c)(3)(b))
+[^F107]: S. 152 renumbered as s. 152(1) (22.4.2009) by The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Inhibition) Order (S.S.I. 2009/219), {art. 2(a)}
+[^F108]: Words in s. 152(1) inserted (22.4.2009) by The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Inhibition) Order (S.S.I. 2009/219), {art. 2(b)}
+[^F109]: Words in s. 152(1) substituted (22.4.2009) by The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Inhibition) Order (S.S.I. 2009/219), {art. 2(b)}
+[^F110]: S. 152(2) inserted (22.4.2009) by The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Inhibition) Order (S.S.I. 2009/219), {art. 2(c)} (with transitional modifications in art. 4)
+[^F111]: Words in s. 157(1)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 25(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F112]: Words in s. 176(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F113]: S. 176(2A) inserted (20.1.2025) by Bankruptcy and Diligence (Scotland) Act 2024 (asp 9), ss. 19(2), 22(2); S.S.I. 2024/373, reg. 2 (with reg. 3)
+[^F114]: Words in s. 177(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F115]: Words in s. 177(3)-(8) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F116]: Words in s. 178(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 28; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F117]: Words in s. 178(2)-(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F118]: Words in s. 179(1)-(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F119]: Words in s. 180(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F120]: Words in s. 181(1)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F121]: Words in s. 181(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F122]: Words in s. 182(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F123]: Words in s. 182(2)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F124]: Words in s. 182(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F125]: Words in s. 182(6)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F126]: Words in s. 183(1)(a) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 25(a); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F127]: Words in s. 183(4)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F128]: Words in s. 183(11)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F129]: Words in s. 183(12)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F130]: Words in s. 184(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F131]: Words in s. 184(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F132]: Words in s. 184(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F133]: Words in s. 184(5)(c) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F134]: Words in s. 185(2)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F135]: Words in s. 185(4)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F136]: Words in s. 185(5) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F137]: Words in s. 185(7) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F138]: Words in s. 186(2)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F139]: Words in s. 186(3)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F140]: Words in s. 186(5)(c) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F141]: Words in s. 187(1)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F142]: Words in s. 187(2)(a)(ii) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F143]: Words in s. 187(3) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F144]: Words in s. 188(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F145]: Words in s. 189(1) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F146]: Words in s. 189(2)(a) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F147]: Words in s. 189(3)(b) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F148]: Words in s. 189(5) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F149]: Words in s. 189(6) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F150]: S. 189(7) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F151]: Words in s. 191(2)(b)(i) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F152]: Words in s. 191(4) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F153]: Words in s. 195(4)(a) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 24(3)(a) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F154]: Words in s. 195(4)(e) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 24(3)(b) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F155]: Words in s. 198(1) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F156]: Words in s. 198(1) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 29; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F157]: S. 212(7) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F158]: Word in s. 214(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(2)(a)(i)
+[^F159]: Word in s. 214(1) omitted (27.4.2017 for specified purposes, 31.10.2017 for specified purposes, 31.1.2018 in so far as not already in force) by virtue of Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 91(2)(a); S.I. 2017/991, reg. 2(y); S.I. 2018/78, reg. 5(1)(f)
+[^F160]: Word in s. 214(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(2)(a)(ii)
+[^F161]: Words in s. 214(1) inserted (27.4.2017 for specified purposes, 31.10.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 91(2)(b); S.I. 2017/991, reg. 2(y); S.I. 2018/78, reg. 5(1)(f)
+[^F162]: Words in s. 214(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(2)(a)(iii)
+[^F163]: Word in s. 214(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(2)(b)
+[^F164]: Word in s. 214(2)(i) repealed (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 10(2)(a); S.S.I. 2017/346, reg. 2, sch.
+[^F165]: S. 214(2)(k) and word inserted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 10(2)(b); S.S.I. 2017/346, reg. 2, sch.
+[^F166]: Word in s. 214(2)(j) omitted (31.1.2018) by virtue of Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 91(3)(a); S.I. 2018/78, reg. 5(1)(f)
+[^F167]: S. 214(2)(l) and word inserted (27.4.2017 for specified purposes, 31.10.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 91(3)(b); S.I. 2017/991, reg. 2(y); S.I. 2018/78, reg. 5(1)(f)
+[^F168]: Word in s. 214(2) repealed (1.8.2026) by The Bankruptcy and Diligence etc. (Decrees for Removing from Heritable Property) (Scotland) Amendment Order 2025 (S.S.I. 2025/403), arts. 1, 2(a)
+[^F169]: S. 214(2)(m) and word inserted (1.8.2026) by The Bankruptcy and Diligence etc. (Decrees for Removing from Heritable Property) (Scotland) Amendment Order 2025 (S.S.I. 2025/403), arts. 1, 2(b)
+[^F170]: Words in s. 215 inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(3)(a)
+[^F171]: Words in s. 215 inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(3)(b)
+[^F172]: Words in s. 216(1)(a) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 92(a); S.I. 2018/78, reg. 5(1)(g)
+[^F173]: S. 216(1A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 92(b); S.I. 2018/78, reg. 5(1)(g)
+[^F174]: S. 216(2A) inserted (4.4.2011) by Housing (Scotland) Act 2010 (asp 17), ss. 152(3), 166(2); S.S.I. 2011/96, art. 2, Sch.
+[^F175]: Words in s. 216(2A) inserted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 10(3)(a)(i); S.S.I. 2017/346, reg. 2, sch.
+[^F176]: Words in s. 216(2A) repealed (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 10(3)(a)(ii); S.S.I. 2017/346, reg. 2, sch.
+[^F177]: S. 216(2B) inserted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 10(3)(b); S.S.I. 2017/346, reg. 2, sch.
+[^F178]: S. 216(2C)(2D) inserted (1.8.2026) by The Domestic Abuse (Protection) (Scotland) Act 2021 (Consequential and Supplementary Amendments) Regulations 2026 (S.S.I. 2026/133), regs. 1, 4
+[^F179]: Words in s. 216(3) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F180]: Words in s. 216(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(4)(a)
+[^F181]: Words in s. 216(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(4)(b)
+[^F182]: Words in s. 217(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(5)(a)
+[^F183]: Words in s. 217(2) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 24(2); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F184]: Words in s. 217(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(5)(b)
+[^F185]: Words in s. 218 inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 6(6)
+[^F186]: S. 218(3) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by Criminal Finances Act 2017 (c. 22), s. 58(5)(6), Sch. 5 para. 93; S.I. 2018/78, reg. 5(1)(g)
+[^F187]: Words in s. 221 omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 27(a) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F188]: Words in s. 221 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F189]: Word in s. 221 omitted (coming into force in accordance with reg. 1(b) of the amending S.S.I.) by virtue of The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), Sch. para. 3(2)(b)(i)
+[^F190]: Words in s. 221 omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 27(b) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F191]: Words in s. 221 inserted (coming into force in accordance with reg. 1(b) of the amending S.S.I.) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), Sch. para. 3(2)(b)(ii)
+[^F192]: Words in s. 221 inserted (coming into force in accordance with reg. 1(b) of the amending S.S.I.) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), Sch. para. 3(2)(c)
+[^F193]: Words in s. 221 omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 27(c) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F194]: Words in s. 221 inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 30; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F195]: Sch. 1 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F196]: Sch. 2 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F197]: Words in Sch. 3 para. 1(j) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 25(b); S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F198]: Sch. 5 para. 6(4) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F199]: Sch. 5 para. 7(2)(a) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F200]: Sch. 5 para. 7(2)(b)(i)(ii) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F201]: Words in Sch. 5 para. 7(2)(c) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 31; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F202]: Sch. 5 para. 7(3)(a) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F203]: Sch. 5 para. 7(4) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F204]: Sch. 5 para. 11 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F205]: Sch. 5 para. 13 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F206]: Sch. 5 para. 16(14)(c) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F207]: Sch. 5 para. 21 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F208]: Sch. 5 para. 25 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F209]: Sch. 5 para. 27 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F210]: Sch. 5 para. 28 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F211]: Sch. 5 para. 30(8)(b) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F212]: Sch. 5 para. 30(13) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F213]: Sch. 5 para. 31 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F214]: Sch. 5 para. 33 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F215]: Words in Sch. 6 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), Sch. 1
+[^F216]: Word in Sch. 6 substituted (1.4.2015) by Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11), s. 57(2), Sch. 3 para. 40; S.S.I. 2014/261, art. 3 (with arts. 4-7 12) (as amended by S.S.I. 2015/54, art. 2)
+[^F217]: Word in Sch. 6 Pt. 1 inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), Sch. 4 para. 32; S.S.I. 2011/30, art. 3(1)(3), Sch. 1

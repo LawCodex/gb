@@ -1,0 +1,4470 @@
+---
+title: "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+identifier: "asp/2000/5"
+citation: "2000 asp 5"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2000-06-09
+last_amended: 2025-06-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2000/5"
+source_modified: 2025-07-01
+retrieved: 2026-10-11
+---
+
+# Abolition of Feudal Tenure etc. (Scotland) Act 2000
+
+**2000 asp 5**
+
+An Act of the Scottish Parliament to abolish the feudal system of land tenure; to abolish a related system of land tenure; to make new provision as respects the ownership of land; to make consequential provision for the extinction and recovery of feuduties and of certain other perpetual periodical payments and for the extinction by prescription of any obligation to pay redemption money under the Land Tenure Reform (Scotland) Act 1974; to make further provision as respects real burdens affecting land; to provide for the disentailment of land; to discharge all rights of irritancy held by superiors; to abolish the obligation of thirlage; to prohibit with certain exceptions the granting of leases over land for periods exceeding 175 years; to make new provision as respects conveyancing; to enable firms with separate personality to own land; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 3rd May 2000 and received Royal Assent on 9th June 2000.
+
+## PART 1 — ABOLITION OF FEUDAL TENURE
+
+### 1 Abolition on appointed day
+
+The feudal system of land tenure, that is to say the entire system whereby land is held by a vassal on perpetual tenure from a superior is, on the appointed day, abolished.
+
+### 2 Consequences of abolition
+
+(1) An estate of *dominium utile* of land shall, on the appointed day, cease to exist as a feudal estate but shall forthwith become the ownership of the land and, in so far as is consistent with the provisions of this Act, the land shall be subject to the same subordinate real rights and other encumbrances as was the estate of *dominium utile*.
+
+(2) Every other feudal estate in land shall, on that day, cease to exist.
+
+(3) It shall, on that day, cease to be possible to create a feudal estate in land.
+
+### 3 Amendment of Land Registration (Scotland) Act 1979
+
+The Land Registration (Scotland) Act 1979 (c.33) shall be amended as follows—
+
+(a) in section 4(2) (applications for registration which are not to be accepted by the Keeper of the Registers of Scotland), after paragraph (a) there shall be inserted—
+
+> (aa) it relates in whole or in part to an interest in land which by, under or by virtue of any provision of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5) is an interest which has ceased to exist;
+
+;
+
+(b) in section 9 (rectification of Land Register of Scotland)—
+
+(i) in subsection (3), at the beginning insert “ Subject to subsection (3B) below, ”; and
+
+(ii) after subsection (3A) insert—
+
+> (3B) Subject to subsection (3C) below, rectification (whether requisite or in exercise of the Keeper’s discretion) to take account of, or of anything done (or purportedly done) under or by virtue of, any provision of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), other than section 4 or 65, shall, for the purposes of subsection (3) above (and of section 12(3)(cc) of this Act), be deemed not to prejudice a proprietor in possession.
+>
+> (3C) For the purposes of subsection (3B) above, rectification does not include entering or reinstating in a title sheet a real burden or a condition affecting an interest in land.
+
+;
+
+and
+
+(c) in section 12(3) (circumstances in which there is no entitlement to be indemnified by the Keeper), after paragraph (c) insert—
+
+> (cc) the loss arises in consequence of—
+>
+> (i) a rectification which; or
+>
+> (ii) there being, in the register, an inaccuracy the rectification of which,
+>
+> were there a proprietor in possession, would be deemed, by subsection
+>
+> (3B) of section 9 of this Act, not to prejudice that proprietor;
+
+.
+
+## PART 2 — LAND TRANSFERS ETC. ON AND AFTER APPOINTED DAY
+
+### [^F1]4 Ownership of land
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5 Form of application for recording deed in Register of Sasines
+
+(1) Any application for the recording of a deed in the Register of Sasines shall be made by, or on behalf of, the person in whose favour the deed is granted; and it shall not be necessary to endorse on any deed a warrant of registration.
+
+(2) The Scottish Ministers may, after consultation with the Lord President of the Court of Session, make rules—
+
+(a) prescribing the form to be used for the purposes of subsection (1) above; and
+
+(b) regulating the procedure relating to applications for recording.
+
+### 6 Deduction of title for unregistered land etc.
+
+In respect of any land—
+
+(a) a real right in which has never been registered in the Land Register of Scotland; and
+
+(b) title to which has never been constituted by the recording of a deed in the Register of Sasines,
+
+title may be deduced from any person having ownership of the land.
+
+## PART 3 — FEUDUTIES
+
+### Extinction of feuduties
+
+#### 7 Extinction on appointed day
+
+Without prejudice to section 13 of this Act, any feuduty which has not been extinguished before the appointed day is extinguished on that day; and accordingly no payment shall be exigible, in respect of feuduty, for that day or for any period after that day.
+
+#### 8 Requiring compensatory payment
+
+(1) Where a feuduty is extinguished by section 7 of this Act, the person who was the superior in relation to the feu (that person being in the following provisions of this Part of this Act referred to as the (“former superior” may, within two years after the appointed day, duly serve on the person who was the vassal in relation to the feu (that person being in those provisions referred to as the (“former vassal” notice requiring that a payment specified in the notice (being a payment calculated in accordance with section 9 of this Act) be made to him by the former vassal; and any such payment is referred to in this Act as a “compensatory payment”.
+
+(2) In its application to a feuduty which was, at extinction, a *cumulo* feuduty, subsection (1) above shall be construed as relating to separate notice being duly served on each former vassal from whom payment is sought; and in that application, notice under that subsection shall be in (or as nearly as may be in) the form, with its Appendix, contained in schedule 1 to this Act.
+
+(3) Except in the application mentioned in subsection (2) above, notice under subsection (1) above shall be in (or as nearly as may be in) the form contained in schedule 2 to this Act.
+
+(4) To any notice served under subsection (1) above shall be attached a copy of the explanatory note which immediately follows, as the case may be—
+
+(a) the Appendix to the form in schedule 1; or
+
+(b) the form in schedule 2,
+
+to this Act.
+
+(5) Subject to section 10 of this Act, if subsections (1) to (4) above are complied with, then within 56 days after due service on him a former vassal shall make the compensatory payment.
+
+(6) The reference in subsection (1) above to a notice being duly served shall be construed in accordance with section 11 of this Act.
+
+#### 9 Calculation of amount of compensatory payment
+
+(1) In calculating the compensatory payment in respect of which notice may be served under section 8(1) of this Act, there shall first be determined the sum of money which would, if invested in two and a half per cent. Consolidated Stock at the middle market price at the close of business last preceding the appointed day, produce an annual sum equal to the feuduty.
+
+(2) Unless the feuduty was, at extinction, a *cumulo* feuduty the sum so determined shall be the compensatory payment.
+
+(3) If the feuduty was, at extinction, a *cumulo* feuduty the former superior shall, after determining that sum, allocate it among the former vassals in such proportions as are reasonable in all the circumstances; and an amount which is so allocated to a former vassal shall be the compensatory payment for that former vassal.
+
+(4) If the feuduty was, at extinction, a *cumulo* feuduty wholly or partly apportioned among the former vassals, then for the purposes of subsection (3) above the proportions of an allocation shall be presumed reasonable in so far as they accord with that apportionment.
+
+#### 10 Making compensatory payment by instalments
+
+(1) Where notice under subsection (1) of section 8 of this Act requires from a former vassal a compensatory payment of not less than £50, the former superior shall serve with it a filled out document (in this section referred to as an (“instalment document”, in (or as nearly as may be in) the form contained in schedule 3 to this Act, for signature and dating by the former vassal (there being appended to the document so sent a copy of the explanatory note which immediately follows that form in the schedule); and if the former superior does not do so then no requirement to make the compensatory payment shall arise under subsection (5) of that section by virtue of that notice.
+
+(2) Subject to subsection (3) below, a former vassal on whom an instalment document is served shall obtain the option of making the compensatory payment by instalments if (and only if)—
+
+(a) he signs, dates and returns the document within the period which (but for this section) is allowed for making that payment by section 8(5) of this Act; and
+
+(b) when so returning the document, he pays to the former superior an amount equivalent to one tenth of the compensatory payment (being an amount thus payable in addition to the compensatory payment and irrespective of how or when the compensatory payment is subsequently made).
+
+(3) If on or after the date on which an instalment document is served on a former vassal he ceases by virtue of a sale, or transfer for valuable consideration, to have right to the land in respect of which the feuduty was payable or any part of that land (that land or any part of it being in this section referred to as (“the land” then—
+
+(a) where he has obtained the option mentioned in subsection (2) above, he shall lose that option; and
+
+(b) where he has not obtained that option, he shall lose the right to obtain it.
+
+(4) Where the option of making the compensatory payment by instalments is obtained, those instalments shall be equal instalments payable where—
+
+(a) the compensatory payment is £500 or less, on each of the five;
+
+(b) it is more than £500 but not more than £1,000, on each of the ten;
+
+(c) it is more than £1,000 but not more than £1,500, on each of the fifteen; and
+
+(d) it is more than £1,500, on each of the twenty,
+
+term days of Whitsunday or Martinmas which then next follow; except that—
+
+(i) in a case where any such instalment remains unpaid for forty-two days after falling due, the outstanding balance of the entire compensatory payment shall immediately fall due;
+
+(ii) in a case where, by virtue of subsection (3)(a) above, the option is lost, that outstanding balance shall fall due on the seventh day after the day on which the former vassal ceases to have right to the land; and
+
+(iii) in any other case, the former vassal may pay that outstanding balance at any time.
+
+(5) In a case where, by virtue of subsection (3)(b) above, the right to obtain the option of making the compensatory payment by instalments is lost, section 8(5) of this Act shall apply accordingly.
+
+#### 11 Service under section 8(1)
+
+(1) Due service under section 8(1) of this Act is effected by delivering the documents in question to the former vassal or by sending them by registered post, or the recorded delivery service, addressed to him at an appropriate place.
+
+(2) An acknowledgement, signed by the former vassal, which conforms to Form A of schedule 4 to this Act, or as the case may be a certificate which conforms to Form B of that schedule and is accompanied by the postal receipt, shall be sufficient evidence of such due service; and if the packet containing the documents in question is, under subsection (1) above, sent by post but is returned to the former superior with an intimation that it could not be delivered, the packet may be delivered or sent by post, with that intimation, to the Extractor of the Court of Session, the delivering or sending to the Extractor being taken to be equivalent to the service of those documents on the former vassal.
+
+(3) For the purposes of subsection (2) above, an acknowledgement of receipt by the Extractor on a copy of those documents shall be sufficient evidence of their receipt by him.
+
+(4) The date on which notice under section 8(1) of this Act is served on a former vassal is the date of delivery, or as the case may be of posting, in compliance with subsection (1) or (2) above.
+
+(5) A reference in this section to an “appropriate place” is, for any former vassal, to be construed as a reference to—
+
+(a) his place of residence;
+
+(b) his place of business; or
+
+(c) a postal address which he ordinarily uses,
+
+or, if none of those is known at the time of delivery or posting, as a reference to whatever place is at that time his most recently known place of residence or place of business or postal address which he ordinarily used.
+
+#### 12 Extinction by prescription of requirement to make compensatory payment
+
+In Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c.52) (which specifies obligations affected by prescriptive periods of five years under section 6 of that Act)—
+
+(a) in paragraph 1, after sub-paragraph (a) there shall be inserted—
+
+> (aa) to any obligation to make a compensatory payment (“compensatory payment” being construed in accordance with section 8(1) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), including that section as read with section 56 of that Act);
+
+;
+
+and
+
+(b) in paragraph 2(e), after the words “paragraph 1(a)” there shall be inserted “ or (aa) ”.
+
+### Arrears
+
+#### 13 Arrears of feuduty etc.
+
+(1) Feuduty shall continue to be exigible for any period before the appointed day; and if (in so far as so exigible) it has not fallen due before that day, it shall fall due on that day.
+
+(2) On the appointed day feuduty shall cease to constitute a *debitum fundi* as shall any amount secured, in favour of a superior, by virtue of section 5 of the Land Tenure Reform (Scotland) Act 1974 (c.38) (redemption on transfer of land).
+
+(3) The superior’s hypothec is, on the appointed day, abolished.
+
+(4) Subsections (2) and (3) above are without prejudice to any—
+
+(a) action—
+
+(i) founded on a *debitum fundi* or superior’s hypothec; and
+
+(ii) commenced before the appointed day; or
+
+(b) right or preference—
+
+(i) so founded; and
+
+(ii) claimed in a sequestration, or in some other process in which there is ranking, commenced before that day.
+
+### Disclosure
+
+#### 14 Duty of collecting third party to disclose information
+
+For the purposes of section 8(1) of this Act, a superior (or, on or after the appointed day, a former superior) who receives, or has at any time received, from a third party an amount collected in respect of feuduty from and remitted to the superior (or former superior) on behalf of a vassal (or, on or after the appointed day, a former vassal) may require the third party to disclose the identity and address of the vassal (or former vassal) and, in the case of remission as a part of a feuduty, the amount so collected from the vassal (or former vassal); and the third party shall, in so far as it is practicable for him to do so, forthwith comply with that requirement.
+
+#### 15 Duty to disclose identity etc. of former vassal
+
+Where the former superior purports duly to serve notice under section 8(1) of this Act but the person on whom it is served, being a person who had right to the feu before the appointed day, is not the former vassal because, immediately before the appointed day, some other person and not he had right to the feu, he shall forthwith disclose to the former superior—
+
+(a) the identity and address of that other person; or
+
+(b) (if he cannot do that) such other information as he has which might enable the former superior to discover that identity and address.
+
+### Interpretation
+
+#### 16 Interpretation of Part 3
+
+(1) In this Part of this Act, unless the context otherwise requires—
+
+- “compensatory payment” shall be construed in accordance with section 8(1) of this Act;
+- “feuduty” includes blench duty;
+- “superior”, in relation to a feu, means the person who, immediately before the appointed day, has right to the immediate superiority, whether or not he has completed title (and if more than one person comes within that description, then the person who has most recently acquired such right); and “former superior” shall be construed in accordance with section 8(1) of this Act; and
+- “vassal”, in relation to a feu, means the person who, immediately before the appointed day, has right to the feu, whether or not he has completed title (and if more than one person comes within that description, then the person who has most recently acquired such right); and “former vassal” shall be construed in accordance with section 8(1) of this Act.
+
+(2) Where a feu comprises parts each held by a separate vassal, being parts upon which feuduty has not been allocated, the whole of any feuduty exigible in respect of the parts so held is in this Part of this Act referred to as a “ *cumulo* feuduty”; and any reference in this Part of this Act to a feu is to be construed, in relation to the parts so held, as a reference to those parts collectively.
+
+(3) Any reference in this Part of this Act to a feu is to be construed as including a reference to any part of a feu if it is a part upon which feuduty has been allocated.
+
+(4) Where, immediately before the appointed day a feu, or any part of a feu, is held by two or more vassals as common property—
+
+(a) they shall be severally liable to make any compensatory payment (but as between, or as the case may be among, themselves they shall be liable in the proportions in which they hold the feu); and
+
+(b) subject to section 11 of this Act they shall together be treated for the purposes of this Act as being a single vassal.
+
+## PART 4 — REAL BURDENS
+
+### Extinction of superior’s rights
+
+#### 17 Extinction of superior’s rights
+
+(1) Subject to sections 18 [[^F2]to 18C], 19, 20, [^F3]. . . 27, [[^F4]27A,] 28 [[^F5]28A,] and 60 of this Act [[^F6]and to sections 52 to 56 (which make provision as to common schemes, facility burdens and service burdens) and 63 (which makes provision as to manager burdens) of the Title Conditions (Scotland) Act 2003 (asp 9)]—
+
+(a) a real burden which, immediately before the appointed day, is enforceable by, and only by, a superior shall on that day be extinguished; and
+
+(b) any other real burden shall, on and after that day, not be enforceable by a former superior [[^F7]other than in that person's capacity as owner of land or as holder of a conservation burden, health care burden or economic development burden].
+
+(2) Subject to subsection (3) below and to the provision made by section 20 of this Act for there to be a transitional period during which a real burden shall yet be enforceable—
+
+(a) on or after the appointed day, no proceedings for such enforcement shall be commenced;
+
+(b) any proceedings already commenced for such enforcement shall be deemed to have been abandoned on that day and may, without further process and without any requirement that full judicial expenses shall have been paid by the pursuer, be dismissed accordingly; and
+
+(c) any decree or interlocutor already pronounced in proceedings for such enforcement shall be deemed to have been reduced, or as the case may be recalled, on that day.
+
+(3) Subsection (2) above shall not affect any proceedings, decree or interlocutor in relation to—
+
+(a) a right of irritancy held by a superior; or
+
+[[^F8](aa) a right of enforcement held by virtue of any of the provisions mentioned in subsection (1) above;]
+
+(b) a right to recover damages or to the payment of money.
+
+### Reallotment etc.
+
+#### 18 Reallotment of real burden by nomination of new dominant tenement
+
+(1) [[^F9]Without prejudice to sections 18A to 18C of this Act,] where—
+
+(a) a feudal estate of *dominium utile* of land is subject to a real burden enforceable by a superior of the feu or which would be so enforceable were the person in question to complete title to the *dominium directum*; and
+
+(b) at least one of the conditions set out in subsection (7) below is met, the superior may, before the appointed day, prospectively nominate other land (being land of which he has right to the sole *dominium utile* or sole allodial ownership), or any part of that other land, as a dominant tenement by duly executing and registering a notice in, or as nearly as may be in, the form contained in schedule 5 to this Act.
+
+(2) The notice shall—
+
+(a) set out the title of the superior;
+
+(b) describe, sufficiently to enable identification by reference to the Ordnance Map, both the land the *dominium utile* of which is subject to the real burden (or any part of that land) and the land (or part) nominated;
+
+(c) specify which of the conditions set out in subsection (7) below is (or are) met;
+
+(d) set out the terms of the real burden; and
+
+(e) set out the terms of any counter-obligation to the real burden if it is a counter— obligation enforceable against the superior.
+
+(3) For the purposes of subsection (1) above a notice is duly registered only when registered against both tenements described in pursuance of subsection (2)(b) above.
+
+(4) Before submitting any notice for registration under this section, the superior shall swear or affirm before a notary public that to the best of the knowledge and belief of the superior all the information contained in the notice is true.
+
+(5) For the purposes of subsection (4) above, if the superior is—
+
+(a) an individual unable by reason of legal disability, or incapacity, to swear or affirm as mentioned in that subsection, then a legal representative of the superior may swear or affirm;
+
+(b) not an individual, then any person authorised to sign documents on its behalf may swear or affirm;
+
+and any reference in that subsection to a superior shall be construed accordingly.
+
+(6) [[^F10]Subject to subsection (6A) below,] if subsections (1) to (5) above are complied with and immediately before the appointed day the real burden is still enforceable by the superior (or by his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum* then, on that day—
+
+(a) the land (or part) nominated shall become a dominant tenement; and
+
+(b) the land the *dominium utile* of which was subject to the real burden (or if part only of that land is described in pursuance of subsection (2)(b) above, that part) shall be the servient tenement.
+
+[[^F11](6A) Such compliance as is mentioned in subsection (6) above shall not be effective to preserve any right to enforce a manager burden (“manager burden” being construed in accordance with section 63(1) of the Title Conditions (Scotland) Act 2003 (asp 9)).]
+
+(7) The conditions are—
+
+(a) that the land which by virtue of this section would become the dominant tenement has on it a permanent building which is in use wholly or mainly as a place of human—
+
+(i) habitation; or
+
+(ii) resort,
+
+and that building is, at some point, within one hundred metres (measuring along a horizontal plane) of the land which would be the servient tenement;
+
+(b) that the real burden comprises—
+
+(i) a right [[^F12](other than any sporting rights, as defined by section 65A(9) of this Act)] to enter, or otherwise make use of, the servient tenement; or
+
+(ii) a right of pre-emption or of redemption; or
+
+(c) that the land which by virtue of this section would become the dominant tenement comprises—
+
+(i) minerals; or
+
+(ii) salmon fishings or some other incorporeal property,
+
+and it is apparent from the terms of the real burden that it was created for the benefit of such land.
+
+(8) This section is subject to sections 41 and 42 of this Act.
+
+#### 18A [[^F13]Personal pre-emption burdens and personal redemption burdens
+
+(1) Without prejudice to section 18 of this Act, where a feudal estate of *dominium utile* of land is subject to a real burden which comprises a right of pre-emption or redemption and is enforceable by a superior of the feu or would be so enforceable were the person in question to complete title to the *dominium directum* the superior may, before the appointed day, by duly executing and registering against the *dominium utile* a notice in, or as nearly as may be in, the form contained in schedule 5A to this Act, prospectively convert that burden into a personal pre-emption burden or as the case may be into a personal redemption burden.
+
+(2) The notice shall—
+
+(a) set out the title of the superior;
+
+(b) describe, sufficiently to enable identification by reference to the Ordnance Map, the land the *dominium utile* of which is subject to the real burden (or any part of that land);
+
+(c) set out the terms of the real burden; and
+
+(d) set out the terms of any counter-obligation to the real burden if it is a counter-obligation enforceable against the superior.
+
+(3) Before submitting any notice for registration under this section, the superior shall swear or affirm as is mentioned in subsection (4) of section 18 of this Act.
+
+(4) Subsection (5) of that section applies for the purposes of subsection (3) above as it applies for the purposes of subsection (4) of that section.
+
+(5) If subsections (1) to (3) above are, with subsection (4) of that section, complied with and immediately before the appointed day the real burden is still enforceable by the superior (or his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum* then, on that day—
+
+(a) the real burden shall be converted into a real burden in favour of that person, to be known as a “personal pre-emption burden” or as the case may be as a “personal redemption burden”; and
+
+(b) the land the *dominium utile* of which was subject to the real burden (or if part only of that land is described in pursuance of subsection (2)(b) above, that part) shall become the servient tenement.
+
+(6) Title to enforce the burden against the land to which the notice relates shall be subject to any such counter-obligation as was set out by virtue of subsection (2)(d) above.
+
+(7) The right to a personal pre-emption burden or personal redemption burden may be assigned or otherwise transferred to any person; and any such assignation or transfer shall take effect on registration.
+
+(8) Where the holder of a personal pre-emption burden or personal redemption burden does not have a completed title—
+
+(a) title may be completed by the holder registering a notice of title; or
+
+(b) without completing title, the holder may grant a deed—
+
+(i) assigning the right to; or
+
+(ii) discharging, in whole or in part,
+
+the burden; but unless the deed is one to which section [[^F14]101 of the Land Registration etc. (Scotland) Act 2012 (asp 5)] (circumstances where unnecessary to deduce title) applies, it shall be necessary, in the deed, to deduce title to the burden through the midcouples linking the holder to the person who had the last completed title.
+
+(9) This section is subject to sections 41 and 42 of this Act.
+
+#### 18B Conversion into economic development burden
+
+(1) Without prejudice to section 18 of this Act, where a feudal estate of *dominium utile* of land is subject to a real burden which is imposed for the purpose of promoting economic development and is enforceable by the Scottish Ministers or a local authority, being in either case the superior of the feu, or would be so enforceable were the Scottish Ministers or as the case may be the local authority to complete title to the *dominium directum*, the superior may, before the appointed day, by duly executing and registering against the *dominium utile* a notice in, or as nearly as may be in, the form contained in schedule 5B to this Act, prospectively convert that burden into an economic development burden.
+
+(2) The notice shall—
+
+(a) set out the title of the superior;
+
+(b) describe, sufficiently to enable identification by reference to the Ordnance Map, the land the *dominium utile* of which is subject to the real burden (or any part of that land);
+
+(c) set out the terms of the real burden;
+
+(d) set out the terms of any counter-obligation to the real burden if it is a counter-obligation enforceable against the superior; and
+
+(e) state that the burden was imposed for the purpose of promoting economic development and provide information in support of that statement.
+
+(3) If subsections (1) and (2) above are complied with and immediately before the appointed day the real burden is still enforceable by the superior or would be so enforceable were the Scottish Ministers or as the case may be the local authority to complete title to the *dominium directum* then on that day the real burden shall be converted into an economic development burden and on and after that day the Scottish Ministers or, as the case may be, the authority, shall—
+
+(a) have title to enforce the burden against the land to which the notice relates; and
+
+(b) be presumed to have an interest to enforce it.
+
+(4) Title to enforce the burden against the land to which the notice relates shall be subject to any such counter-obligation as was set out by virtue of subsection (2)(d) above.
+
+(5) This section is subject to sections 41 and 42 of this Act.
+
+#### 18C Conversion into health care burden
+
+(1) Without prejudice to section 18 of this Act, where a feudal estate of *dominium utile* of land is subject to a real burden which is imposed for the purpose of promoting the provision of facilities for health care and is enforceable by a National Health Service trust or the Scottish Ministers, being in either case the superior of the feu, or would be so enforceable were the trust or as the case may be the Scottish Ministers to complete title to the *dominium directum*, the superior may, before the appointed day, by duly executing and registering against the *dominium utile* a notice in, or as nearly as may be in, the form contained in schedule 5C to this Act, prospectively convert that burden into a health care burden.
+
+(2) The notice shall—
+
+(a) set out the title of the superior;
+
+(b) describe, sufficiently to enable identification by reference to the Ordnance Map, the land the *dominium utile* of which is subject to the real burden (or any part of that land);
+
+(c) set out the terms of the real burden;
+
+(d) set out the terms of any counter-obligation to the real burden if it is a counter-obligation enforceable against the superior; and
+
+(e) state that the burden was imposed for the purpose of promoting the provision of facilities for health care and provide information in support of that statement.
+
+(3) If subsections (1) and (2) are complied with and immediately before the appointed day the real burden is still enforceable by the superior or would be so enforceable were the trust or as the case may be the Scottish Ministers to complete title to the *dominium directum* then on that day the real burden shall be converted into a health care burden and on and after that day the trust or, as the case may be, the Scottish Ministers, shall—
+
+(a) have title to enforce the burden against the land to which the notice in question relates; and
+
+(b) be presumed to have an interest to enforce it.
+
+(4) Title to enforce the burden against the land to which the notice relates shall be subject to any such counter-obligation as was set out by virtue of subsection (2)(d) above.
+
+(5) In subsections (1) and (2) above, “facilities for health care” includes facilities ancillary to health care; as for example (but without prejudice to that generality) accommodation for staff employed to provide health care.
+
+(6) This section is subject to sections 41 and 42 of this Act.]
+
+#### 19 Reallotment of real burden by agreement
+
+(1) Where a feudal estate of *dominium utile* of land is subject to a real burden enforceable by a superior of the feu or which would be so enforceable were the person in question to complete title to the *dominium directum* the superior may, before the appointed day—
+
+(a) serve notice in, or as nearly as may be in, the form contained in schedule 6 to this Act, on the person who has right to the feu that he seeks to enter into an agreement with that person under this section prospectively nominating other land (being land of which the superior has right to the sole *dominium utile* or sole allodial ownership), or any part of that other land, as a dominant tenement;
+
+(b) enter into such an agreement with that person; and
+
+(c) duly register that agreement;
+
+but if they think fit they may, by the agreement, modify the real burden or any counter— obligation to the real burden if it is a counter-obligation enforceable against the superior (or both the real burden and any such counter-obligation).
+
+(2) The notice shall—
+
+(a) set out the title of the superior;
+
+(b) describe both the land the *dominium utile* of which is subject to the real burden (or any part of that land) and the land (or part) nominated;
+
+(c) set out the terms of the real burden; and
+
+(d) set out the terms of any such counter-obligation as is mentioned in subsection (1) above.
+
+(3) An agreement such as is mentioned in paragraph (b) of subsection (1) above shall be a written agreement—
+
+(a) which expressly states that it is made under this section; and
+
+(b) which includes all the information, other than that relating to service, required to be set out in completing the notice the form of which is contained in schedule 6 to this Act.
+
+(4) For the purposes of subsection (1)(c) above an agreement is duly registered only when registered against both tenements described in pursuance of subsection (2)(b) above.
+
+(5) If subsections (1)(b) and (c), (3) and (4) above are complied with and immediately before the appointed day the real burden is still enforceable by the superior (or by his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum* then on that day—
+
+(a) the land (or part) nominated shall become a dominant tenement; and
+
+(b) the land the *dominium utile* of which was subject to the real burden (or if part only of that land is described in pursuance of subsection (2)(b) above, that part) shall be the servient tenement.
+
+(6) A person may enter into an agreement under this section even if he has not completed title to the *dominium utile* of the land subject to the real burden, or as the case may be title to the *dominium directum* of that land or to the *dominium utile* of the land nominated (or, if the land nominated is allodial land, to the land nominated), provided that, in any case to which section 15(3) of the Land Registration (Scotland) Act 1979 (c.33) (simplification of deeds relating to registered interests) does not apply, he deduces title, in the agreement, from the person who appears in the Register of Sasines as having the last recorded title to the interest in question.
+
+(7) This section is subject to section 42 of this Act.
+
+#### 20 Reallotment of real burden by order of Lands Tribunal
+
+(1) Where but for paragraph (b) of subsection (1) of section 18 of this Act a superior could proceed under that subsection prospectively to nominate land (in this section referred to as the “prospective dominant tenement”) he may, provided that he has first, in pursuance of section 19 of this Act, attempted to reach agreement as respects the real burden in question with the person who has right to the feu, apply to the Lands Tribunal for an order under subsection (7) of this section; but such an application is competent only if made [^F15]. . . before the appointed day.
+
+(2) An applicant under subsection (1) above shall include in his application a description of the requisite attempt to reach agreement.
+
+(3) After sending or delivering to the Lands Tribunal an application under subsection (1) above, the superior may, within—
+
+(a) 42 days; or
+
+(b) such longer period of days (being a period which ends before the appointed day) as the Lands Tribunal may allow if it is satisfied that there is good cause for so allowing,
+
+duly execute and register a notice in, or as nearly as may be in, the form contained in schedule 7 to this Act; [^F16]. . . .
+
+(4) The notice shall—
+
+(a) set out the title of the superior;
+
+(b) describe, sufficiently to enable identification by reference to the Ordnance Map, both the land the *dominium utile* of which is subject to the real burden (or any part of that land) and the prospective dominant tenement;
+
+(c) set out the terms of the real burden; and
+
+(d) set out the terms of any counter-obligation to the real burden if it is a counter— obligation enforceable against the superior.
+
+(5) For the purposes of this section, a notice is duly registered only when registered against both tenements described in pursuance of subsection (4)(b) above; and if it is so registered and immediately before the appointed day—
+
+(a) the real burden is still enforceable by the superior (or by his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum*; and
+
+(b) no order under subsection (7) below has been registered under subsection (11) below in respect of the application,
+
+then on that day the prospective dominant tenement shall, for the transitional period, become the dominant tenement and the land the *dominium utile* of which is subject to the real burden (or, if part only of that land is described under paragraph (b) of subsection (4) above, that part) shall, for the transitional period, be the servient tenement.
+
+(6) The reference in subsection (5) above to the transitional period is to the period beginning on the appointed day and ending on—
+
+(a) the day on which an order under subsection (7) below is registered under subsection (11) below in respect of the application; or
+
+(b) if no such order is so registered, such day later than the appointed day as the Scottish Ministers may by order specify (that later day being in this Act referred to as the (“specified day”.
+
+(7) If, on an application under subsection (1) above as respects which a notice has been duly registered—
+
+(a) the Lands Tribunal is satisfied that, were the real burden to be extinguished, there would be [[^F17]material detriment to the value or enjoyment of the applicant’s ownership (taking him to have ownership)] of the dominant tenement, the Tribunal may order that, subject to subsection (9) of this section—
+
+(i) if the order can be and is registered before the appointed day, then on that day the prospective dominant tenement shall become the dominant tenement and the land the *dominium utile* of which is subject to the real burden (or, if part only of that land is described under paragraph (b) of subsection (4) above, that part) shall be the servient tenement; or
+
+(ii) the dominant tenement for the transitional period shall, after that period, continue to be the dominant tenement and the servient tenement for the transitional period shall, after that period, continue to be the servient tenement;[[^F18] or
+
+(b) the Lands Tribunal is not so satisfied, it may make an order refusing the application.]
+
+[^F19]. . .
+
+(b) [^F19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Where in respect of the application—
+
+(a) an order under paragraph (a) of subsection (7) above is registered—
+
+(i) before the appointed day and immediately before that day the real burden is still enforceable by the superior (or by his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum*, then on that day; or
+
+(ii) on or after the appointed day and immediately before the day of registration the real burden is still enforceable by the former superior (or by his successor) or would be so enforceable, or still so enforceable, as mentioned in sub-paragraph (i) above, then on the day of registration,
+
+the prospective dominant tenement shall become the dominant tenement and the land the *dominium utile* of which was subject to the real burden (or, if part only of that land is described under paragraph (b) of subsection (4) above, that part) shall be the servient tenement;
+
+(b) [^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) An order under subsection (7)(a) above may modify the real burden or any counter— obligation to the real burden if it is a counter-obligation enforceable against the applicant (or both the real burden and any such counter-obligation).
+
+(10) The decision of the Lands Tribunal on an application under subsection (1) above shall be final.
+
+(11) An order under subsection (7) above shall forthwith be extracted and registered by the Lands Tribunal against both tenements described in pursuance of subsection (4)(b) above; and the expenses of registration shall be borne by the applicant.
+
+(12) Subsections (2) and (3) of section 17 of this Act shall apply in relation to real burdens extinguished or rendered unenforceable by virtue of this section as they apply in relation to real burdens extinguished or so rendered by subsection (1) of that section with the substitution, if the extinction or rendering is after the appointed day, for each reference in them to that day, of a reference to the day which ends the transitional period.
+
+(13) A person opposing an application made under subsection (1) above incurs no liability, unless in the opinion of the Lands Tribunal his actings are vexatious or frivolous, in respect of expenses incurred by the applicant.
+
+(14) This section is subject to sections 41 and 42 of this Act.
+
+(15) Before submitting any notice for registration under this section, the superior shall swear or affirm before a notary public that to the best of the knowledge and belief of the superior all the information contained in the notice is true.
+
+(16) For the purposes of subsection (15) above, if the superior is—
+
+(a) an individual unable by reason of legal disability, or incapacity, to swear or affirm as mentioned in that subsection, then a legal representative of the superior may swear or affirm;
+
+(b) not an individual, then any person authorised to sign documents on its behalf may swear or affirm;
+
+and the references in that subsection to the superior shall be construed accordingly.
+
+#### 21 Manner of dealing with application under section 20
+
+(1) On receiving an application under section 20 of this Act the Lands Tribunal shall give such notice of that application, whether by way of advertisement or otherwise, as may be prescribed for the purposes of that section by the Scottish Ministers by rules under section 3 of the Lands Tribunal Act 1949 (c.42) to any person who has right to the feu which is subject to the real burden in question and, if the Lands Tribunal thinks fit, to any other person.
+
+(2) Any person who, whether or not he has received notice under subsection (1) above, has right to the feu which is subject to the real burden in question (or as the case may be has right to the servient tenement) or is affected by that real burden or by its proposed reallotment shall be entitled, within such time as may be so prescribed, to oppose or make representations in relation to the application; and the Lands Tribunal shall allow any such person, and may allow any other person who appears to it to be affected by that real burden or by its proposed reallotment, to be heard in relation to the application.
+
+(3) Without prejudice to subsections (1) and (2) above, the Scottish Ministers may, in rules under the said section 3, make special provision in relation to any matter pertaining to proceedings in applications under section 20 of this Act (or in any class of such applications).
+
+#### 22 Amendment of Tribunals and Inquiries Act 1992
+
+In section 11 (proceedings in relation to which there is no appeal from the decision of the Lands Tribunal) of the Tribunals and Inquiries Act 1992 (c.53), in subsection (2)—
+
+(a) the words after “in relation to” shall be paragraph (a); and
+
+(b) after that paragraph there shall be inserted
+
+> ; or
+>
+> (b) proceedings under section 20 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5) (reallotment of real burden)
+
+.
+
+#### 23 Reallotment of real burden affecting facility of benefit to other land etc.
+
+[^F21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24 Interest to enforce real burden
+
+Sections 18 to 20 [^F22]. . . of this Act are without prejudice to any requirement that a dominant proprietor have an interest to enforce a real burden (and such interest shall not be presumed).
+
+#### 25 Counter-obligations on reallotment
+
+Where a real burden is reallotted under section 18, 19 [[^F23]or 20] of this Act [[^F24]or under section 56 or 63 of the Title Conditions (Scotland) Act 2003 (asp 9) (which make provision, respectively, as to facility burdens and service burdens and as to manager burdens)], the right to enforce the burden shall be subject to any counter-obligation (modified as the case may be by the agreement or by the order of the Lands Tribunal) enforceable against the superior immediately before [[^F25]reallotment is effected].
+
+### Conservation burdens
+
+#### 26 Conservation bodies
+
+[^F26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27 Notice preserving right to enforce conservation burden
+
+(1) Where a conservation body has, or the Scottish Ministers have, the right as superior to enforce a real burden of the class described in subsection (2) below or would have that right were it or they to complete title to the *dominium directum*, it or they may, before the appointed day, preserve for the benefit of the public the right to enforce the burden in question after that day by executing and registering against the *dominium utile* of the land subject to the burden a notice in, or as nearly as may be in, the form contained in schedule 8 to this Act; and [[^F27], without prejudice to section 27A(1) of this Act,] any burden as respects which such a right is so preserved shall, on and after the appointed day, be known as a “conservation burden”.
+
+(2) The class is those real burdens which are enforceable against a feudal estate of *dominium utile* of land for the purpose of preserving, or protecting—
+
+(a) the architectural or historical characteristics of the land; or
+
+(b) any other special characteristics of the land (including, without prejudice to the generality of this paragraph, a special characteristic derived from the flora, fauna or general appearance of the land).
+
+(3) The notice shall—
+
+(a) state that the superior is a conservation body by virtue of section [[^F28]38 of the Title Conditions (Scotland) Act 2003 (asp 9) (which makes provision generally as respects conservation burdens)] or that the superior is the Scottish Ministers;
+
+(b) set out the title of the superior;
+
+(c) describe, sufficiently to enable identification by reference to the Ordnance Map, the land subject to the real burden (or any part of that land);
+
+(d) set out the terms of the real burden; and
+
+(e) set out the terms of any counter-obligation to the real burden if it is a counter-obligation enforceable against the superior.
+
+(4) This section is subject to sections 41 and 42 of this Act.
+
+#### 27A [[^F29]Nomination of conservation body or Scottish Ministers to have title to enforce conservation burden
+
+(1) Where a person other than a conservation body or the Scottish Ministers has the right as superior to enforce a real burden of the class described in section 27(2) of this Act or would have that right were he to complete title to the *dominium directum*, he may, subject to subsection (2) below, before the appointed day nominate for the benefit of the public, by executing and registering against the *dominium utile* of the land subject to the burden a notice in, or as nearly as may be in, the form contained in schedule 8A to this Act, a conservation body or the Scottish Ministers to have title on or after that day to enforce the burden against that land; and, without prejudice to section 27(1) of this Act, any burden as respects which such title to enforce is by virtue of this subsection so obtained shall, on and after the appointed day, be known as a “conservation burden”.
+
+(2) Subsection (1) above applies only where the consent of the nominee to being so nominated is obtained—
+
+(a) in a case where sending a copy of the notice, in compliance with section 41(3) of this Act, is reasonably practicable, before that copy is so sent; and
+
+(b) in any other case, before the notice is executed.
+
+(3) The notice shall—
+
+(a) state that the nominee is a conservation body (identifying it) or the Scottish Ministers, as the case may be; and
+
+(b) do as mentioned in paragraphs (b) to (e) of section 27(3) of this Act.
+
+(4) This section is subject to sections 41 and 42 of this Act except that, in the application of subsection (1)(i) of section 42 for the purposes of this subsection, such discharge as is mentioned in that subsection shall be taken to require the consent of the nominated person.]
+
+#### 28 Enforcement of conservation burden
+
+(1) [^F30]. . . If a notice has been executed and registered in accordance with section 27 of this Act and, immediately before the appointed day, the burden to which the notice relates is still enforceable by the conservation body or the Scottish Ministers as superior or would be so enforceable, or still so enforceable, were the body in question or they to complete title to the *dominium directum* then, on and after the appointed day, the conservation body or as the case may be the Scottish Ministers shall—
+
+(a) subject to any counter-obligation, have title to enforce the burden against the land to which the notice in question relates; and
+
+(b) be presumed to have an interest to enforce that burden.
+
+(2) The references in subsection (1) above to—
+
+(a) the conservation body include references to—
+
+(i) any conservation body which is; or
+
+(ii) the Scottish Ministers where they are,
+
+its successor as superior;
+
+(b) the Scottish Ministers include references to a conservation body which is their successor as superior.
+
+#### 28A [[^F31]Effect of section 27A nomination
+
+If a notice has been executed and registered in accordance with section 27A of this Act and, immediately before the appointed day, the burden to which the notice relates is still enforceable by the nominating person as superior (or by such person as is his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum* then, on and after the appointed day, the conservation body or as the case may be the Scottish Ministers shall—
+
+(a) subject to any counter-obligation, have title to enforce the burden against the land to which the notice in question relates; and
+
+(b) be presumed to have an interest to enforce that burden.]
+
+#### 29 Assignation of right to conservation burden
+
+[^F32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 30 Deduction of title for conservation burden
+
+[^F33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31 Extinction of burden on body ceasing to be conservation body
+
+[^F34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 32 No standard security over conservation burden
+
+[^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Compensation
+
+#### 33 Notice reserving right to claim compensation where land subject to development value burden
+
+(1) Where—
+
+(a) before the appointed day, land was feued subject to a real burden enforceable by a superior (or so enforceable if the person in question were to complete title to the *dominium directum*) which reserved for the superior the benefit (whether wholly or in part) of any development value of the land (such a real burden being referred to in this Part of this Act as a (“development value burden”; and
+
+(b) either—
+
+(i) the consideration paid, or payable, under the grant in feu was significantly lower than it would have been had the feu not been subject to the real burden; or
+
+(ii) no consideration was paid, or payable, under the grant in feu,
+
+the superior may, before that day, reserve the right to claim (in accordance with section 35 of this Act) compensation by executing and registering against the *dominium utile* of the land subject to the burden a notice in, or as nearly as may be in, the form contained in schedule 9 to this Act.
+
+(2) A notice under this section shall—
+
+(a) set out the title of the superior;
+
+(b) describe, sufficiently to enable identification by reference to the Ordnance Map, the land the *dominium utile* of which is subject to the development value burden;
+
+(c) set out the terms of the burden;
+
+(d) state that the burden reserves development value and set out any information relevant to that statement;
+
+(e) set out, to the best of the superior’s knowledge and belief, the amount by which the consideration was reduced because of the imposition of the burden; and
+
+(f) the superior reserves the right to claim compensation in accordance with section 35 of this Act.
+
+(3) Before submitting any notice for registration under this section, the superior shall swear or affirm before a notary public that to the best of the knowledge and belief of the superior all the information contained in the notice is true.
+
+(4) For the purposes of subsection (3) above, if the superior is—
+
+(a) an individual unable by reason of legal disability, or incapacity, to swear or affirm as mentioned in that subsection, then a legal representative of the superior may swear or affirm;
+
+(b) not an individual, then any person authorised to sign documents on its behalf may swear or affirm;
+
+and any reference in that subsection to a superior shall be construed accordingly.
+
+(5) In this Part of this Act, “development value” (except in the expression “development value burden”) means any significant increase in the value of the land arising as a result of the land becoming free to be used, or dealt with, in some way not permitted under the grant in feu.
+
+(6) This section is subject to sections 41 and 42 of this Act.
+
+#### 34 Transmissibility of right to claim compensation[j074.doc]
+
+A right to claim compensation reserved in accordance with section 33 of this Act is transmissible.
+
+#### 35 Claiming compensation
+
+(1) Where the conditions mentioned in subsection (2) below are satisfied, any person who has, by or by virtue of a notice executed and registered in accordance with section 33 of this Act, a reserved right to claim compensation shall be entitled, subject to any order under section 44(2) of this Act, to compensation from the person who is the owner.
+
+(2) The conditions are that—
+
+(a) the real burden set out in the notice was, immediately before the appointed day, enforceable by the superior or would have been so enforceable immediately before that day had the person in question completed title to the *dominium directum*;
+
+(b) on that day the burden, or as the case may be any right (or right on completion of title) of the superior to enforce the burden, was extinguished, or rendered unenforceable, by section 17(1) of this Act; and
+
+(c) at any time—
+
+(i) during the period of five years ending immediately before the appointed day, there was a breach of the burden; or
+
+(ii) during the period of twenty years beginning with the appointed day, there was an occurrence, which, but for the burden becoming extinct, or unenforceable, as mentioned in paragraph (b) above, would have been a breach of the burden.
+
+(3) Where a person is entitled, by virtue of subsection (1) above, to compensation, he shall make any claim for such compensation by notice in writing duly served on the owner; and any such notice shall specify, in accordance with section 37 of this Act, the amount of compensation claimed.
+
+(4) Where, in relation to a claim made under subsection (3) above, the condition mentioned in—
+
+(a) sub-paragraph (i) of subsection (2)(c) above applies, any such claim may not be made more than three years after the appointed day;
+
+(b) sub-paragraph (ii) of subsection (2)(c) above applies, any such claim may not be made more than three years after the date of the occurrence.
+
+(5) For the purposes of this section, if a breach, or occurrence, such as is mentioned in subsection (2)(c) above is continuing, the breach or, as the case may be, occurrence shall be taken to occur when it first happens.
+
+(6) The reference in subsection (3) above to a notice being duly served shall be construed in accordance with section 36 of this Act.
+
+#### 36 Service under section 35(3)
+
+(1) Due service under section 35(3) of this Act is effected by delivering the notice in question to the owner or by sending it by registered post, or the recorded delivery service, addressed to him at an appropriate place.
+
+(2) An acknowledgement, signed by the owner, which conforms to Form A of schedule 10 to this Act, or as the case may be a certificate which conforms to Form B of that schedule and is accompanied by the postal receipt, shall be sufficient evidence of such due service; and if the notice in question is, under subsection (1) above, sent by post but is returned to the person who is entitled to compensation with an intimation that it could not be delivered, the notice may be delivered or sent by post, with that intimation, to the Extractor of the Court of Session, the delivery or sending to the Extractor being taken to be equivalent to the service of that notice on the owner.
+
+(3) For the purposes of subsection (2) above, an acknowledgement of receipt by the Extractor on a copy of that notice shall be sufficient evidence of its receipt by him.
+
+(4) The date on which notice under section 35(3) of this Act is served on an owner is the date of delivery, or as the case may be of posting, in compliance with subsection (1) or (2) above.
+
+(5) A reference in this section to an “appropriate place” is, for any owner, to be construed as a reference to—
+
+(a) his place of residence;
+
+(b) his place of business; or
+
+(c) a postal address which he ordinarily uses,
+
+or, if none of those is known at the time of delivery or posting, as a reference to whatever place is at that time his most recently known place of residence or place of business or postal address which he ordinarily used.
+
+#### 37 Amount of compensation
+
+(1) The amount of any compensation payable on a claim made under section 35(3) of this Act shall, subject to subsections (2) and (3) below, be such sum as represents, at the time of the breach or occurrence in question, any development value which would have accrued to the owner had the burden been modified to the extent necessary to permit the land to be used, or dealt with, in the way that constituted the breach or, as the case may be, occurrence on which the claim is based.
+
+(2) The amount payable as compensation (or, where more than one claim is made in relation to the same development value burden, the total compensation payable) under subsection (1) above shall not exceed such sum as will make up for any effect which the burden produced, at the time when it was imposed, in reducing the consideration then paid or made payable for the feu.
+
+(3) In assessing for the purposes of subsection (1) above an amount of compensation payable—
+
+(a) any entitlement of the claimant to recover any part of the development value of the land subject to the development value burden shall be taken into account; and
+
+(b) a claimant to whom the reserved right was assigned or otherwise transferred shall be entitled to no greater sum than the former superior would have been had there been no such assignation or transfer.
+
+(4) The reference in subsection (1) above to a burden shall, in relation to an occurrence, be construed as a reference to the burden which would have been breached but for its becoming, by section 17(1) of this Act, extinct or unenforceable.
+
+#### 38 Duty to disclose identity of owner
+
+Where a person (“the claimant”) purports duly to serve notice under section 35(3) of this Act and the person on whom it is served, being a person who had right, before the time of the breach (or, as the case may be, occurrence) founded on by the claimant, to the dominium utile (or the ownership) of the land, is not the owner, that person shall forthwith disclose to the claimant—
+
+(a) the identity and address of the owner; or
+
+(b) (if he cannot do that) such other information as he has that might enable the claimant to discover the identity and address;
+
+and the notice shall refer to that requirement for disclosure.
+
+#### 39 The expression “owner” for purposes of sections 35 to 38
+
+(1) In sections 35 to 38 of this Act, “owner” means the person who, at the time of the breach or, as the case may be, occurrence, mentioned in section 35(2)(c) of this Act, has right to—
+
+(a) the dominium utile; or
+
+(b) the ownership,
+
+of the land which, immediately before the appointed day, was subject to the development value burden, whether or not he has completed title; and if more than one person comes within that description, then the owner is the person who has most recently acquired such right.
+
+(2) Where the land in question is held by two or more such owners as common property, they shall be severally liable to make any compensatory payment (but as between, or as the case may be among, themselves they shall be liable in the proportions in which they hold the land).
+
+#### 40 Assignation, discharge, or restriction, of reserved right to claim compensation
+
+A reserved right to claim, in accordance with section 35 of this Act, compensation may be—
+
+(a) assigned, whether wholly or to such extent (expressed as a percentage of each claim which may come to be made) as may be specified in the assignation; or
+
+(b) discharged or restricted,
+
+by execution and registration of an assignation, or as the case may be a discharge, or restriction, in the form, or as nearly as may be in the form, contained in schedule 11 to this Act.
+
+### Miscellaneous
+
+#### 41 Notices: pre-registration requirements etc.
+
+(1) This section applies in relation to any notice which is to be submitted for registration under this Act.
+
+(2) It shall not be necessary to endorse on the notice a warrant of registration.
+
+(3) Except where it is not reasonably practicable to do so, a superior shall, before he executes the notice, send by post to the person who has the estate of *dominium utile* of the land to which the burden relates (addressed to “The Proprietor” where the name of that person is not known) a copy of—
+
+(a) the notice; and
+
+(b) the explanatory note set out in whichever schedule to this Act relates to the notice.
+
+(4) A superior shall, in the notice, state either—
+
+(a) that a copy of the notice has been sent in accordance with subsection (3) above; or
+
+(b) that it was not reasonably practicable for such a copy to be sent.
+
+#### 42 Further provision as respects sections 18 to 20, 27 and 33
+
+(1) Where—
+
+(a) a notice relating to a real burden has been registered under section 18, [[^F36]18A, 18B, 18C,] 20, 27 [[^F37], 27A] or 33 of this Act; or
+
+(b) an agreement relating to a real burden has been registered under section 19 of this Act,
+
+against the *dominium utile* of any land which is subject to the burden, it shall not be competent to register under any of those sections against that *dominium utile* another such notice or agreement relating to the same real burden; but nothing in this subsection shall prevent registration where—
+
+(i) the discharge of any earlier such notice has been registered by the person who registered that notice (or by his successor); or
+
+(ii) as the case may be, the discharge of any earlier such agreement has been registered, jointly, by the parties to that agreement (or by their successors).
+
+(2) Where the *dominium utile* of any land comprises parts each held by a separate vassal, each part shall be taken to be a separate feudal estate of *dominium utile*.
+
+(3) Where more than one feudal estate of *dominium utile* is subject to the same real burden enforceable by a superior of the feu, he shall, if he wishes to execute and register a notice under section 18, [[^F36]18A, 18B, 18C,] 20, 27 [[^F37], 27A] or 33 of this Act against those feudal estates in respect of that real burden, require to do so against each separately.
+
+(4) Where a feudal estate of *dominium utile* is subject to more than one real burden enforceable by a superior of the feu, he may if he wishes to—
+
+(a) execute and register a notice under section 18, [[^F36]18A, 18B, 18C,] 20, 27 [[^F37], 27A] or 33 of this Act against that feudal estate in respect of those real burdens, do so by a single notice; or
+
+(b) enter into and register an agreement under section 19 of this Act against that feudal estate in respect of those real burdens, do so by a single agreement.
+
+[[^F38](5) Nothing in this Part requires registration against land prospectively nominated as a dominant tenement but outwith Scotland.]
+
+#### 43 Notices and agreements under certain sections: extent of Keeper’s duty
+
+(1) In relation to any notice submitted for registration under section 18, [[^F39]18A, 18B, 18C,] 20, 27 [[^F40], 27A] or 33 of this Act, the Keeper of the Registers of Scotland shall not be required to determine whether the superior has complied with the terms of section 41(3) of this Act.
+
+(2) In relation to any notice, or as the case may be any agreement, submitted for registration under—
+
+(a) section 18, [[^F39]18A, 18B, 18C,] 19, 20, 27 [[^F40], 27A] or 33 of this Act, the Keeper shall not be required to determine whether, for the purposes of subsection (1) of the section in question, a real burden is enforceable by a superior;
+
+(b) section 18 of this Act, the Keeper shall not be required to determine, where, in pursuance of subsection (2)(c) of that section, the condition specified is that mentioned in subsection (7)(a) of that section, whether the terms of that condition are satisfied;
+
+[[^F41](bb) section 18B or 18C of this Act, the Keeper shall not be required to determine whether—
+
+(i) the requirements of subsection (1) of the section in question are satisfied; or
+
+(ii) the statement made in pursuance of subsection (2)(e) of the section in question is correct;]
+
+(c) paragraph (c) of subsection (1) of section 19 of this Act, the Keeper shall not be required to determine whether the requirements of paragraph (a) of that subsection are satisfied;
+
+(d) section 20 of this Act, the Keeper shall not be required to determine—
+
+(i) whether the description provided in pursuance of subsection (2) of that section is correct;
+
+(ii) whether the notice has been executed, and is being registered, timeously; or
+
+(iii) any matter as to which the Lands Tribunal must be satisfied before making an order under that section;
+
+(e) section 33 of this Act, the Keeper shall not be required to determine whether—
+
+(i) the requirements of subsection (1)(a) and (b) of that section are satisfied; or
+
+(ii) the statements made or information provided, in pursuance of subsection (2)(d) or (e) of that section, are correct.
+
+(3) The Keeper shall not be required to determine—
+
+(a) for the purposes of section 18(6), [[^F42]18A(5), 18B(3), 18C(3),] 19(5), 20(5) or (8)(a)(i), 28 [[^F43], 28A] or 60(1) of this Act, whether immediately before the appointed day a real burden is, or is still, enforceable, or by whom; or
+
+(b) for the purposes of subsection (8)(a)(ii) of section 20 of this Act, whether immediately before the day of registration of an order of the Lands Tribunal under subsection (7) of that section a real burden is, or is still, enforceable, or by whom.
+
+#### 44 Referral to Lands Tribunal of notice dispute
+
+(1) Any dispute arising in relation to a notice registered under this Act may be referred to the Lands Tribunal; and, in determining the dispute, the Tribunal may make such order as it thinks fit discharging or, to such extent as may be specified in the order, restricting the notice in question.
+
+(2) Any dispute arising in relation to a claim made under section 35(3) of this Act may be referred to the Lands Tribunal; and, in determining the dispute, the Tribunal may make such order as it thinks fit (including an order fixing the amount of any compensation payable under the claim in question).
+
+(3) In any referral under subsection (1) or (2) above, the burden of proving any disputed question of fact shall be on the person relying on the notice or, as the case may be, making the claim.
+
+(4) An extract of any order made under subsection (1) or (2) above may be registered and the order shall take effect as respects third parties on such registration.
+
+#### 45 Circumstances where certain notices may be registered after appointed day
+
+(1) Subject to subsection (2) below, where—
+
+(a) a notice submitted, before the appointed day, for registration under this Act, or an agreement so submitted for registration under section 19 of this Act, is rejected by the Keeper of the Registers of Scotland; but
+
+(b) a court or the Lands Tribunal then determines that the notice or agreement is registrable,
+
+the notice or agreement may, if not registered before the appointed day, be registered—
+
+(i) within two months after the determination is made; but
+
+(ii) before such date after the appointed day as the Scottish Ministers may by order prescribe,
+
+and any notice or agreement registered under this subsection on or after the appointed day shall be treated as if it had been registered before that day.
+
+(2) For the purposes of subsection (1) above, the application to the court, or to the Lands Tribunal, which has resulted in the determination shall require to have been made within such period as the Scottish Ministers may by order prescribe.
+
+(3) In subsection (1)(b) above, “court” means any court having jurisdiction in questions of heritable right or title.
+
+#### [^F44]46 Duties of Keeper: amendments relating to the extinction of certain real burdens
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 47 Extinction of counter-obligation
+
+Without prejudice to any other way in which a counter-obligation to a real burden may be extinguished, any such counter-obligation is extinguished on the extinction of the real burden.
+
+#### 48 No implication as to dominant tenement where real burden created in grant in feu
+
+Where a real burden is created (or has at any time been created) in a grant in feu, the superior having the *dominium utile*, or allodial ownership, of land (the (“superior’s land” in the vicinity of the land feued, no implication shall thereby arise that the superior’s land is a dominant tenement.
+
+### Interpretation
+
+#### 49 Interpretation of Part 4
+
+In this Part of this Act, unless the context otherwise requires—
+
+- “conservation body” means a body prescribed [[^F45]by order under section 38(4) of the Title Conditions (Scotland) Act 2003 (asp 9)];
+
+- “conservation burden” shall be construed in accordance with [[^F46]sections 27(1) and 27A(1)] of this Act;
+
+- “development value burden” and “development value” shall be construed in accordance with section 33 of this Act;
+
+- [[^F47]“economic development burden” shall be construed in accordance with section 18B(3) of this Act;
+
+- “health care burden” shall be construed in accordance with section 18C(3) of this Act;
+
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);]
+
+- “notary public” includes any person duly authorised by the law of the country (other than Scotland) in which the swearing or affirmation takes place to administer oaths or receive affirmations in that other country;
+
+- [[^F48]“personal pre-emption burden” and “personal redemption burden” shall be construed in accordance with section 18A(5) of this Act]
+
+- “real burden”—
+
+  - (a) includes—
+  
+    - (i) a right of pre-emption;
+    - (ii) a right of redemption; or
+    - (iii) [^F49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  
+    provided that it is constituted as a real burden; but
+  
+  - (b) does not include a pecuniary real burden [[^F50]or sporting rights (as defined by section 65A(9) of this Act)];
+
+- “registering” means registering an interest in land (or information relating to such an interest) in the Land Register of Scotland or, as the case may be, recording a document in the Register of Sasines; and cognate expressions shall be construed accordingly; and
+
+- “superior” means a person who has right to the immediate superiority or to any over-superiority, whether or not he has completed title (and if more than one person comes within either of those descriptions then, in relation to that description, the person who has most recently acquired such right) and “former superior” shall be construed accordingly.
+
+## PART 5 — ENTAILS
+
+### 50 Disentailment on appointed day
+
+(1) Land which, immediately before the appointed day, is held under an entail is disentailed on that day.
+
+(2) Section 32 of the Entail Amendment Act 1848 (c.36) (which makes provision as respects an instrument of disentail executed and recorded under that Act) shall apply to the effect of disentailment by subsection (1) above as that section applies to the effect of such an instrument so executed and recorded.
+
+### 51 Compensation for expectancy or interest of apparent or other nearest heir in an entailed estate
+
+(1) Where, immediately before the appointed day—
+
+(a) land is held under an entail; and
+
+(b) the consent of a person who is an apparent or other nearest heir is required to any petition for authority of the court for the purpose of presenting an instrument of disentail,
+
+the valuation of any expectancy or interest of the person, which on his refusal to give such consent would fall, before the appointed day, to be ascertained under section 13 of the Entail (Scotland) Act 1882 (c.53) may, within two years after the appointed day, be referred by him to, and determined by, the Lands Tribunal.
+
+(2) The Tribunal shall direct that any sum ascertained by them in a valuation by virtue of subsection (1) above shall be secured on the land, for the benefit of the person, in such manner as they think fit.
+
+### 52 Closure of Register of Entails
+
+The Keeper of the Registers of Scotland shall, immediately before the appointed day, close the Register of Entails; and as soon as is practicable thereafter, he shall transmit that register to the Keeper of the Records of Scotland for preservation.
+
+## PART 6 — MISCELLANEOUS
+
+### Discharge of certain rights and extinction of certain obligations and payments
+
+#### 53 Discharge of rights of irritancy
+
+(1) All rights of irritancy held by a superior are, on the day on which this section comes into force, discharged; and on that day any proceedings already commenced to enforce any such right shall be deemed abandoned and may, without further process and without any requirement that full judicial expenses shall have been paid by the pursuer, be dismissed accordingly.
+
+(2) Subsection (1) above shall not affect any cause in which final decree (that is to say, any decree or interlocutor which disposes of the cause and is not subject to appeal or review) is granted before the coming into force of this section.
+
+#### 54 Extinction of superior’s rights and obligations qua superior
+
+(1) Subject to section 13, to Part 4, and to [[^F51]sections 60(1) and 65A], of this Act, a right or obligation which, immediately before the appointed day, is enforceable by, or as the case may be against, a superior qua superior [[^F52](including, without prejudice to that generality, sporting rights as defined by subsection (9) of that section 65A)] shall, on that day, be extinguished.
+
+(2) Subject to subsection (3) below—
+
+(a) on or after the appointed day, no proceedings for such enforcement shall be commenced;
+
+(b) any proceedings already commenced for such enforcement shall be deemed to have been abandoned on that day and may, without further process and without any requirement that full judicial expenses shall have been paid by the pursuer, be dismissed accordingly; and
+
+(c) any decree, or interlocutor, already pronounced in proceedings for such enforcement shall be deemed to have been reduced, or as the case may be recalled, on that day.
+
+(3) Subsection (2) above shall not affect any proceedings, decree or interlocutor in relation to—
+
+(a) a right of irritancy held by a superior; or
+
+[[^F53](aa) a right of enforcement held by virtue of of section 13, 33, 60(1) or 65A of this Act;]
+
+(b) a right to recover damages or to the payment of money.
+
+#### 55 Abolition of thirlage
+
+Any obligation of thirlage which has not been extinguished before the appointed day is extinguished on that day.
+
+#### 56 Extinction etc. of certain payments analogous to feuduty
+
+(1) The provisions of Part 3 of this Act shall apply as regards ground annual, skat, teind, stipend, standard charge, dry multures (including compensation payable in respect of commutation pursuant to the Thirlage Act 1799 (c.55)) and, subject to the exceptions mentioned in subsection (2) below, as regards any other perpetual periodical payment in respect of the tenure, occupancy or use of land or under a [[^F54]title condition], as those provisions apply as regards feuduty; but for the purposes of that application—
+
+(a) references in the provisions to “vassal” and “superior” shall be construed as references to, respectively, the payer and the recipient of the ground annual, skat, teind, stipend, standard charge, dry multures or other payment in question (“former vassal” and “former superior” being construed accordingly); and
+
+(b) a form (and its explanatory note) contained in a schedule to this Act shall be modified so as to accord with the kind of payment to which it relates.
+
+(2) The exceptions are any payments—
+
+(a) in defrayal of, or as a contribution towards, some continuing cost related to land; or
+
+(b) made under a heritable security.
+
+[[^F55](3) The definition of “title condition” in section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9) shall apply for the purposes of this section as that definition applies for the purposes of that Act.]
+
+(4) Nothing in subsections (1) to (3) above shall be taken to prejudice the tenure, occupancy or use of land.
+
+#### 57 Extinction by prescription of obligation to pay redemption money for feuduty, ground annual etc.
+
+Notwithstanding the terms of Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c.52) (which defines obligations affected by prescriptive periods of five years), any obligation under section 5 (redemption of feuduty, ground annual etc. on transfer for valuable consideration) or 6 (redemption of feuduty, ground annual etc. on compulsory acquisition) of the Land Tenure Reform (Scotland) Act 1974 (c.38) to pay redemption money is an obligation to which section 6 of that Act of 1973 (extinction of obligation by prescriptive period of five years) applies; and for the purposes of that application, the reference in subsection (1) of section 6 of that Act of 1973 to the
+
+“appropriate date” is a reference to the date of redemption within the meaning of—
+
+- (a) except in the case mentioned in paragraph (b) below, section 5 (read, as the case may be, with section 6(2)(a)); or
+- (b) in the case of an obligation arising out of the acquisition of land by means of a general vesting declaration, section 6(4),
+
+of that Act of 1974.
+
+### The Crown, the Lord Lyon and Barony
+
+#### 58 Crown application
+
+(1) This Act binds the Crown and accordingly such provision as is made by section 2 of this Act as respects feudal estates of dominium shall apply to the superiority of the Prince and Steward of Scotland and to the ultimate superiority of the Crown; but nothing in this Act shall be taken to supersede or impair any power exercisable by Her Majesty by virtue of Her prerogative.
+
+(2) Without prejudice to the generality of subsection (1) above, in that subsection—
+
+(a) Her Majesty’s prerogative includes the prerogative of honour; and
+
+(b) “any power exercisable by Her Majesty by virtue of Her prerogative” includes—
+
+(i) prerogative rights as respects ownerless or unclaimed property; and
+
+(ii) the *regalia majora*.
+
+#### 59 Crown may sell or otherwise dispose of land by disposition
+
+It shall be competent for the Crown, in selling or otherwise disposing of any land, to do so by granting a disposition of that land.
+
+#### 60 Preserved right of Crown to maritime burdens
+
+(1) Where, immediately before the appointed day, the Crown has the right as superior to enforce a real burden against part of the sea bed or part of the foreshore, then, on and after that day, the Crown shall—
+
+(a) subject to any counter-obligation, have title to enforce; and
+
+(b) be presumed to have an interest to enforce,
+
+the burden; and any burden as respects which the Crown has such title and interest shall, on and after the appointed day, be known as a “maritime burden”.
+
+(2) [^F56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For the purposes of this section—
+
+- “sea bed” means the bed of the territorial sea adjacent to Scotland; and
+- “territorial sea” includes any tidal waters.
+
+(4) In this section, “real burden” has the same meaning as in Part 4 of this Act.
+
+#### 61 Mines of gold and silver
+
+The periodical payment to the Crown, in respect of the produce of a mine which by the Royal Mines Act 1424 (c.12) belongs to the Crown, of an amount which is not fixed but is calculated as a proportion of that produce is not—
+
+(a) a payment to the Crown qua superior for the purposes of section 54 of this Act;
+
+(b) a perpetual periodical payment for the purposes of section 56 of this Act; or
+
+(c) a feuduty for the purposes of Part 3 of this Act.
+
+#### 62 Jurisdiction and prerogative of Lord Lyon
+
+Nothing in this Act shall be taken to supersede or impair the jurisdiction or prerogative of the Lord Lyon King of Arms.
+
+#### 63 Baronies and other dignities and offices
+
+(1) Any jurisdiction of, and any conveyancing privilege incidental to, barony shall on the appointed day cease to exist; but nothing in this Act affects the dignity of baron or any other dignity or office (whether or not of feudal origin).
+
+(2) When, by this Act, an estate held in barony ceases to exist as a feudal estate, the dignity of baron, though retained, shall not attach to the land; and on and after the appointed day any such dignity shall be, and shall be transferable only as, incorporeal heritable property (and shall not be [[^F57]a right as respects which a deed can be registered in the Land Register of Scotland or] recorded in the Register of Sasines).
+
+(3) Where there is registered, before the appointed day, a heritable security over an estate to which is attached the dignity of baron, the security shall on and after that day (until discharge) affect—
+
+(a) in the case of an estate of *dominium utile*, both the dignity of baron and the land; and
+
+(b) in any other case, the dignity of baron.
+
+(4) In this section—
+
+- “conveyancing privilege” includes any privilege in relation to prescription;
+- “dignity” includes any quality or precedence associated with, and any heraldic privilege incidental to, a dignity; and
+- “registered” has the same meaning as in Part 4 of this Act.
+
+### Kindly Tenants of Lochmaben
+
+#### 64 Abolition of Kindly Tenancies
+
+(1) The system of land tenure whereby the persons known as the Kindly Tenants of Lochmaben hold land on perpetual tenure without requiring to procure infeftment is, on the appointed day, abolished.
+
+(2) On the appointed day the interest of a Kindly Tenant shall forthwith become the ownership of the land (which shall be taken to include any right of salmon fishing inseverable from the kindly tenancy); and, in so far as is consistent with the provisions of this Act, the land shall be subject to the same subordinate real rights and other encumbrances as was the kindly tenancy.
+
+(3) A right of salmon fishing inseverable from a kindly tenancy shall on and after the appointed day be inseverable from the ownership of the land in question.
+
+### Miscellaneous
+
+#### [^F58]65 Creation of proper liferent
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 65A [[^F59]Sporting rights
+
+(1) Where a feudal estate of *dominium utile* of land is subject to sporting rights which are enforceable by a superior of the feu or which would be so enforceable were the person in question to complete title to the *dominium directum* the superior may, before the appointed day, by duly executing and registering against the *dominium utile* a notice in, or as nearly as may be in, the form contained in schedule 11A to this Act, prospectively convert those rights into a tenement in land.
+
+(2) The notice shall—
+
+(a) set out the title of the superior;
+
+(b) describe, sufficiently to enable identification by reference to the Ordnance Map, the land the *dominium utile* of which is subject to the sporting rights (or any part of that land);
+
+(c) describe those rights; and
+
+(d) set out the terms of any counter-obligation to those rights if it is a counter-obligation enforceable against the superior.
+
+(3) Before submitting any notice for registration under this section, the superior shall swear or affirm as is mentioned in subsection (4) of section 18 of this Act.
+
+(4) Subsection (5) of that section applies for the purposes of subsection (3) above as it applies for the purposes of subsection (4) of that section.
+
+(5) If subsections (1) to (3) above are, with subsection (4) of that section, complied with and immediately before the appointed day the sporting rights are still enforceable by the superior (or his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum* then, on that day, the sporting rights shall be converted into a tenement in land.
+
+(6) No greater, or more exclusive, sporting rights shall be enforceable by virtue of such conversion than were (or would have been) enforceable as mentioned in subsection (5) above.
+
+(7) Where the *dominium utile* comprises parts each held by a separate vassal, each part shall be taken to be a separate feudal estate of *dominium utile* .
+
+(8) Where sporting rights become, under subsection (5) above, a tenement in land, the right to enforce those rights shall be subject to any counter-obligation enforceable against the superior immediately before the appointed day; and section 47 of this Act shall apply in relation to any counter-obligation to sporting rights as it applies in relation to any counter-obligation to a real burden.
+
+(9) In this section, “ sporting rights ” means a right of fishing or game.
+
+(10) This section is subject to section 41 of this Act.
+
+(11) Subsections (1) and (2)(a) of section 43 of this Act apply in relation to a notice submitted for registration under this section as they apply in relation to a notice so submitted under any of the provisions mentioned in those subsections; and paragraph (a) of subsection (3) of that section applies in relation to a determination for the purposes of subsection (5) of this section as it applies in relation to a determination for the purposes of any of the provisions mentioned in that paragraph.
+
+[^F60] 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 66 Obligation to make title deeds and searches available
+
+A possessor of title deeds or searches which relate to any land shall make them available to a person who has (or is entitled to acquire) a real right in the land, on all necessary occasions when the person so requests, at the person’s expense.
+
+#### 67 Prohibition on leases for periods of more than 175 years
+
+(1) Notwithstanding any provision to the contrary in any lease, no lease of land executed on or after the coming into force of this section (in this section referred to as the “commencement date”) may continue for a period of more than 175 years; and any such lease which is still subsisting at the end of that period shall, by virtue of this subsection, be terminated forthwith.
+
+(2) If a lease of land so executed includes provision (however expressed) requiring the landlord or the tenant to renew the lease then the duration of any such renewed lease shall be added to the duration of the original lease for the purposes of reckoning the period mentioned in subsection (1) above.
+
+(3) Nothing in subsection (1) above shall prevent—
+
+(a) any lease being continued by tacit relocation; or
+
+(b) the duration of any lease being extended by, under or by virtue of any enactment.
+
+(4) Subsections (1) and (2) above do not apply—
+
+(a) to a lease executed on or after the commencement date in implement of an obligation entered into before that date;
+
+(b) to a lease executed after the commencement date in implement of an obligation contained in a lease such as is mentioned in paragraph (a) above; or
+
+(c) where—
+
+(i) a lease for a period of more than 175 years has been executed before the commencement date; or
+
+(ii) a lease such as is mentioned in paragraph (a) or (b) above is executed on or after that date,
+
+to a sub-lease executed on or after that date of the whole, or part, of the land subject to the lease in question.
+
+(5) For the purposes of this section “lease” includes sub-lease.
+
+#### 68 Certain applications to Sheriff of Chancery
+
+After section 26 of the Titles to Land Consolidation (Scotland) Act 1868 (c.101) there shall be inserted—
+
+> **26A Application for declarator of succession as heir in general or to specified lands**
+>
+> On an application being made by any person having an interest, the Sheriff of Chancery may, if satisfied that—
+>
+> (a) such deceased person as may be specified in the application died before 10th September 1964 and that person either—
+>
+> (i) was domiciled in Scotland at the date of his death; or
+>
+> (ii) was the owner of lands situated in Scotland to which the application relates; and
+>
+> (b) the applicant, or as the case may be such person as may be specified in the application, has succeeded as heir to that deceased, and is either—
+>
+> (i) heir in general; or
+>
+> (ii) heir to such lands as may be specified in the application,
+>
+> grant declarator that the applicant, or as the case may be such person as may be specified in the declarator, is the heir in general or heir to the lands so specified.
+>
+> **26B Application for declarator of succession as heir to last surviving trustee under a trust**
+>
+> On an application being made under this section, the Sheriff of Chancery may, if satisfied that—
+>
+> (a) such deceased person as may be specified in the application was the last surviving trustee named in, or assumed under, a trust;
+>
+> (b) the trust provides for the heir of such last surviving trustee to be a trustee;
+>
+> (c) either—
+>
+> (i) the trust is governed by the law of Scotland; or
+>
+> (ii) lands subject to the trust and to which the application relates are situated in Scotland; and
+>
+> (d) the applicant has succeeded as heir to the deceased,
+>
+> grant declarator that the applicant is the heir of the deceased and accordingly is a trustee under the trust.
+>
+> **26C Construction of reference to service of heir**
+>
+> A reference in any enactment or deed to a decree of service of heir (however expressed) shall include a reference to a declarator granted under section 26A or 26B of this Act.
+
+.
+
+#### 69 Application of 1970 Act to earlier forms of heritable security
+
+(1) Sections 14 to 30 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35) (which provisions relate to the assignation, variation, discharge and calling-up etc. of standard securities) shall apply (with the substitution of the word “heritable” for “ standard ” and subject to such other modifications as may be necessary) as respects any heritable security granted before 29th November 1970 as those provisions apply as respects a standard security.
+
+(2) For the purposes of the said sections 14 to 30 (as modified by, or by virtue of, subsection (1) above), “heritable security” shall, with the modification mentioned in subsection (3) below, include a pecuniary real burden but shall not include a security constituted by *ex facie* absolute disposition.
+
+(3) The modification is that the reference to the date in subsection (1) above shall be disregarded.
+
+#### 70 Ownership of land by a firm
+
+A firm may, if it has a legal personality distinct from the persons who compose it, itself own land.
+
+## PART 7 — GENERAL
+
+### 71 The appointed day
+
+The Scottish Ministers may, for the purposes of this Act, by order appoint a day (in this Act referred to as the (“appointed day”, being a day which—
+
+(a) falls not less than six months after the order is made; and
+
+(b) is one or other of the terms of Whitsunday and Martinmas.
+
+### 72 Interpretation
+
+In this Act, unless the context otherwise requires—
+
+- “land” includes all subjects of heritable property which, before the appointed day, are, or of their nature might be, held of a superior according to feudal tenure;
+- “Lands Tribunal” means Lands Tribunal for Scotland; and
+- “the specified day” and “the transitional period” shall be construed in accordance with section 20(6) of this Act.
+
+### 73 Feudal terms in enactments and documents: construction after abolition of feudal system
+
+(1) Where a term or expression, which before the appointed day would ordinarily, or in the context in which it is used, depend for its meaning on there being a feudal system of land tenure, requires to be construed, in relation to any period from that day onwards—
+
+(a) in an enactment (other than this Act) passed [[^F61]before that day];
+
+(b) in an enactment contained in subordinate legislation made [[^F61] before that day]; [^F62]. . .
+
+(c) in a document executed [[^F61]before that day][[^F63]; [^F64]...
+
+(d) in the Land Register of Scotland or in—
+
+(i) a land certificate;
+
+(ii) a charge certificate; or
+
+(iii) an office copy,
+
+issued, whether or not before that day, under the Land Registration (Scotland) Act 1979 (c. 33),[[^F65] or
+
+(e) in an extract or certified copy issued under section 104 of the Land Registration etc. (Scotland) Act 2012 (asp 5),]
+
+then] in so far as the context admits, where the term or expression is, or contains, a reference to—
+
+(i) the *dominium utile* of the land, that reference shall be construed either as a reference to the land or as a reference to the ownership of that land;
+
+(ii) an estate in land, that reference shall be construed as a reference to a right in land and as including ownership of land;
+
+(iii) a vassal in relation to land, that reference shall be construed as a reference to the owner of the land;
+
+(iv) feuing, that reference shall be construed as a reference to disponing;
+
+(v) a feu disposition, that reference shall be construed as a reference to a disposition;
+
+(vi) taking infeftment, that reference shall be construed as a reference to completing title,
+
+analogous terms and expressions being construed accordingly .
+
+(2) On and after the appointed day, any reference
+
+[[^F66](a)] in any document executed before that day[[^F67] or]
+
+[[^F67](b) in the Land Register of Scotland or in any certificate or copy such as is mentioned in [[^F68]paragraph (d) of, or extract or certified copy such as is mentioned in paragraph (e) of, subsection (1)] above (whenever issued),]
+
+to a superior shall, where that reference requires to be construed in relation to a real burden which a person is entitled, by virtue of section 18, [[^F69]18A, 18B, 18C, 19, 20, 28, 28A or 60 of this Act or section 56 of the Title Conditions (Scotland) Act 2003 (asp 9) (facility burdens and service burdens)], to enforce on and after that day, be construed as a reference to that person.
+
+[[^F70](2A) In construing, after the appointed day and in relation to a right enforceable on or after that day, a document, or entry in the Land Register, which—
+
+(a) sets out the terms of a real burden; and
+
+(b) is not a document or entry references in which require to be construed as mentioned in subsection (2) above,
+
+any provision of the document or entry to the effect that a person other than the person entitled to enforce the burden may waive compliance with, or mitigate or otherwise vary a condition of, the burden shall be disregarded.]
+
+(3) Subsection (1) above is without prejudice to section 76 of, and schedules 12 and 13 to, this Act or to any order made under subsection (3) of that section.
+
+(4) In subsection (1) above—
+
+(a) in paragraph (a), “enactment” includes a local and personal or private Act; and
+
+(b) in paragraph (b), “subordinate legislation” has the same meaning as in the Interpretation Act 1978 (c.30) (but includes subordinate legislation made under an Act of the Scottish Parliament).
+
+### 74 Orders, regulations and rules
+
+(1) Any power of the Scottish Ministers under this Act to make orders, regulations or rules shall be exercisable by statutory instrument; and a statutory instrument containing any such orders, regulations or rules, other than an order under section 71, 76(3) or 77(4), shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(2) A statutory instrument containing an order under section 76(3) of this Act shall not be made unless a draft of the instrument has been—
+
+(a) laid before; and
+
+(b) approved by a resolution of,
+
+the Scottish Parliament.
+
+### 75 Saving for contractual rights
+
+[[^F71](1)] As respects any land granted in feu before the appointed day, nothing in this Act shall affect any right (other than a right to feuduty) included in the grant in so far as that right is contractual as between the parties to the grant (or, as the case may be, as between one of them and a person to whom any such right is assigned).
+
+[[^F72](2) In construing the expression “parties to the grant” in subsection (1) above, any enactment or rule of law whereby investiture is deemed renewed when the parties change shall be disregarded.]
+
+### 76 Minor and consequential amendments, repeals and power to amend or repeal enactments
+
+(1) Schedule 12 to this Act, which contains minor amendments and amendments consequential upon the provisions of this Act, shall have effect.
+
+(2) The enactments mentioned in schedule 13 to this Act are hereby repealed to the extent specified in the second column of that schedule.
+
+(3) The Scottish Ministers may by order make such further amendments or repeals, in such enactments as may be specified in the order, as appear to them to be necessary or expedient in consequence of any provision of this Act.
+
+(4) In this section “enactment” has the same meaning as in section 73(1)(a) of this Act.
+
+### 77 Short title and commencement
+
+(1) This Act—
+
+(a) may be cited as the Abolition of Feudal Tenure etc. (Scotland) Act 2000; and
+
+(b) subject to subsections (2) and (4) below, comes into force on Royal Assent.
+
+(2) [^F73]. . . There shall come into force on the appointed day—
+
+(a) sections 1 and 2, 4 to 13, [^F74]. . . 35 to 37, 46, 50 and 51, 54 to 57, 59 to 61, [[^F75]64, 65,] 66, 68 to 70, 73, 75 and 76(1) (except in so far as relating to paragraph 30(23)(a) of schedule 12) and (2);
+
+(b) schedules 1 to 3;
+
+(c) subject to paragraph 46(3) of schedule 12, that schedule, except paragraph 30(23)(a); and
+
+(d) schedule 13.
+
+(3) Note 1 to Schedule 2 to the Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35) shall be deemed to have been originally enacted as amended by the said paragraph 30(23)(a).
+
+(4) There shall come into force on such day as the Scottish Ministers may by order appoint—
+
+(a) sections 17 to 31, 33, 34, 38 to 45 [[^F76], 47 to 49, 63 and 65A];
+
+(b) schedules 5 to 11;
+
+[^F77]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F77]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and different days may be so appointed for different provisions; [^F78]. . . .
+
+## SCHEDULE 1 — FORM OF NOTICE REQUIRING COMPENSATORY PAYMENT ETC.:CUMULO FEUDUTY
+
+**(introduced by section 8(2))**
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_001)
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_002)
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_003)
+
+## SCHEDULE 2 — FORM OF NOTICE REQUIRING COMPENSATORY PAYMENT ETC.: ORDINARY CASE
+
+**(introduced by section 8(3))**
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_004)
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_005)
+
+## SCHEDULE 3 — FORM OF INSTALMENT DOCUMENT
+
+**(introduced by section 10(1))**
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_006)
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_007)
+
+![image](http://www.legislation.gov.uk/asp/2000/5/images/asp_20000005_en_sld_008)
+
+## SCHEDULE 4 — PROCEDURES AS TO SERVICE UNDER SECTION 8(1)
+
+**(introduced by section 11(2))**
+
+### FORM A
+
+“I, [*name of former vassal*], acknowledge receipt of a notice under section 8(1) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 requiring a compensatory payment [*add if applicable,* of an instalment document] and of an explanatory note relating to the notice.
+
+Signed: [*signature of former vassal*]
+
+Date: . ”.
+
+### FORM B
+
+“Notice under section 8(1) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 requiring a compensatory payment was posted to [*name of former vassal*], together with [*add if applicable* an instalment document and] the requisite explanatory note relating to the notice, on [*date*].
+
+Signature: [*signature either of the former superior or of his agent; and if an agent signs he should put the word “Agent” after his signature*].
+
+Date: . ”.
+
+## SCHEDULE 5 — FORM OF NOTICE PROSPECTIVELY NOMINATING DOMINANT TENEMENT
+
+**(introduced by section 18(1))**
+
+> **NOTICE PROSPECTIVELY NOMINATING DOMINANT TENEMENT**
+>
+> **Superior:**
+>
+> (*see note for completion 1*)
+>
+> **Description of land which is to be the servient tenement:**
+>
+> (*see note for completion 2*)
+>
+> **Description of land nominated as dominant tenement:**
+>
+> (*see note for completion 2*)
+>
+> **Specification of condition met:**
+>
+> (*see note for completion 3*)
+>
+> **Terms of real burden:**
+>
+> (*see note for completion 4*)
+>
+> **Any counter-obligation:**
+>
+> (*see note for completion 4*)
+>
+> **Title to the superiority:**
+>
+> (*see note for completion 5*)
+>
+> **Title to land nominated as dominant tenement:**
+>
+> (*see note for completion 5*)
+>
+> **Service:**
+>
+> (*see note for completion 6*)
+>
+> I swear [*or* affirm] that the information contained in the notice is, to the best of my knowledge and belief, true.
+>
+> **Signature of superior:**
+>
+> (*see note for completion 7*)
+>
+> **Signature of notary public:**
+>
+> **Date:** .
+
+.
+
+*Explanatory Note*
+
+*(This explanation has no legal effect)*
+
+This notice is sent by your feudal superior, who is also a neighbour. In this notice your property (or some part of it) is referred to (prospectively) as the “servient tenement” and neighbouring property belonging to the superior is referred to (again prospectively) as the “dominant tenement”.
+
+By this notice the feudal superior asserts that at present the use of your property is subject to certain burdens and conditions enforceable by him and claims the right to continue to enforce the burdens and conditions, not as superior but in his capacity of owner of neighbouring property. The notice, if it is registered in the Land Register or Register of Sasines under section 18 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow him and his successors, as such owners, to enforce the burdens and conditions after the feudal system is abolished (which will be shortly).
+
+Normally, for the notice to be valid, there must, on the dominant tenement, be a permanent building which is within 100 metres of the servient tenement. That building must be in use as a place of human habitation or of human resort. However, the presence of a building is not required if the burden gives a right to enter or otherwise make use of the servient tenement, or if it gives a right of pre-emption or redemption, or if the dominant tenement comprises, and the real burden was created for the benefit of, minerals, salmon fishings or some other incorporeal property.
+
+If you think that there is a mistake in this notice or if you wish to challenge it, you are advised to contact your solicitor or other adviser.
+
+### Notes for completion of the notice
+
+*(These notes have no legal effect)*
+
+**1** Insert name and address of superior.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Insert one or more of the following:
+
+“The dominant tenement has on it a [*specify type of building*] at [*specify address of building*] which is within 100 metres of the servient tenement.”;
+
+“The real burden comprises a right to enter, or otherwise make use of, the servient tenement.”;
+
+“The real burden comprises a right of [*specify pre-emption or redemption (or both)*].”.
+
+“The dominant tenement comprises, and (as is apparent from the terms of the real burden) that burden was created for the benefit of, [*specify minerals or salmon fishings or some other incorporeal property*].”.
+
+**4** Specify by reference to the appropriate Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the real burden or counter-obligation in full or refer to the deed in such a way as to identify the real burden or counter— obligation.
+
+**5** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) registered as proprietor, specify the title number;
+
+(b) not registered as proprietor, specify the title number and set out the midcouples or links between the person last registered and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person with the last recorded title and set out the midcouples or links between that person and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**6** Do not complete until a copy of the notice has been sent to the owner of the prospective servient tenement (except in a case where this is not reasonably practicable). Then insert whichever is applicable of the following:
+
+“The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the prospective servient tenement at [*state address*].”; or
+
+“It has not been reasonably practicable to send a copy of this notice to the owner of the prospective servient tenement for the following reason: [*specify the reason*].”.
+
+**7** The superior should not swear or affirm, or sign, until a copy of the notice has been sent (or otherwise) as mentioned in note 6. Before signing the superior should swear or affirm before a notary public (or, if the notice is being completed outwith Scotland, before a person duly authorised under the local law to administer oaths or receive affirmations) that, to the best of the superior’s knowledge and belief, all the information contained in the notice is true. The notary public should also sign. Swearing or affirming a statement which is known to be false or which is believed not to be true is a criminal offence under the False Oaths (Scotland) Act 1933. Normally the superior should swear or affirm, and sign, personally. If, however, the superior is legally disabled or incapable (for example, because of mental disorder) his legal representative should swear or affirm and sign. If the superior is not an individual (for example, if it is a company) a person entitled by law to sign formal documents on its behalf should swear or affirm and sign.
+
+## [[^F79]SCHEDULE 5A — Form of notice prospectively converting real burden into personal pre-emption burden or personal redemption burden
+
+*(introduced by section 18A(1))*
+
+> **Notice prospectively converting real burden into personal pre-emption burden or personal redemption burden**
+>
+> **Superior:**
+>
+> *(see note for completion 1)*
+>
+> **Description of land which is to be servient tenement:**
+>
+> *(see note for completion 2)*
+>
+> **Terms of real burden:**
+>
+> *(see note for completion 3)*
+>
+> **Any counter obligation:**
+>
+> *(see note for completion 3)*
+>
+> **Title to the superiority:**
+>
+> *(see note for completion 4)*
+>
+> **Service:**
+>
+> *(see note for completion 5)*
+>
+> **I swear** [*or***affirm] that the information contained in the notice is, to the best of my knowledge and belief, true.**
+>
+> **Signature of superior:**
+>
+> *(see note for completion 6)*
+>
+> **Signature of notary public:**
+>
+> **Date:**  .
+
+### Explanatory Note
+
+(This explanation has no legal effect)
+
+This notice is sent by your feudal superior. In this notice your property (or some part of it) is referred to (prospectively) as the “servient tenement”.
+
+By this notice the feudal superior asserts that at present your property is subject to a right of pre-emption [*or* of redemption] enforceable by him and claims the right to continue to enforce it not as superior but in a personal capacity. The notice, if it is registered in the Land Register or Register of Sasines under section 18A of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow him to enforce the right after the feudal system is abolished (which will be shortly).
+
+If you think that there is a mistake in this notice or if you wish to challenge it, you are advised to contact your solicitor or other adviser.
+
+### Notes for completion of the notice
+
+(These notes have no legal effect)
+
+**1** Insert name and address of superior.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the real burden or counter-obligation in full or refer to the deed in such a way as to identify the real burden or counter-obligation.
+
+**4** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) registered as proprietor, specify the title number;
+
+(b) not so registered, specify the title number and set out the midcouples or links between the person last registered and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person with the last recorded title and set out the midcouples or links between that person and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**5** Do not complete until a copy of the notice has been sent to the owner of the prospective servient tenement (except in a case where this is not reasonably practicable). Then insert whichever is applicable of the following:
+
+- “The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the prospective servient tenement at [*state address*].”; or
+- “It has not been reasonably practicable to send a copy of this notice to the owner of the prospective servient tenement for the following reason: [*specify the reason*]”.
+
+**6** The superior should not swear or affirm, or sign, until a copy of the notice has been sent (or otherwise) as mentioned in note 5. Before signing, the superior should swear or affirm before a notary public (or, if the notice is being completed outwith Scotland, before a person duly authorised under the local law to administer oaths or receive affirmations) that, to the best of the superior’s knowledge and belief, all the information contained in the notice is true. The notary public should also sign. Swearing or affirming a statement which is known to be false or which is believed not to be true is a criminal offence under the False Oaths (Scotland) Act 1933. Normally the superior should swear or affirm, and sign, personally. If, however, the superior is legally disabled or incapable (for example, because of mental disorder) his legal representative should swear or affirm and sign. If the superior is not an individual (for example, if it is a company) a person entitled by law to sign formal documents on its behalf should swear or affirm and sign.
+
+## SCHEDULE 5B — Form of notice prospectively converting real burden into economic development burden
+
+*(introduced by section 18B(1))*
+
+> **Notice prospectively converting real burden into economic development burden**
+>
+> **Superior:**
+>
+> *(see note for completion 1)*
+>
+> **Description of land which is to be servient tenement:**
+>
+> *(see note for completion 2)*
+>
+> **Terms of real burden:**
+>
+> *(see note for completion 3)*
+>
+> **Statement that purpose was to promote economic development:**
+>
+> *(with supporting evidence: see note for completion 3)*
+>
+> **Any counter obligation:**
+>
+> *(see note for completion 3)*
+>
+> **Title to the superiority:**
+>
+> *(see note for completion 4)*
+>
+> **Service:**
+>
+> *(see note for completion 5)*
+>
+> **Signature on behalf of superior:**
+>
+> **Date:**  .
+
+### Explanatory Note
+
+(This explanation has no legal effect)
+
+This notice is sent by your feudal superior; that is to say by [the Scottish Ministers] *or* [*specify local authority*].
+
+By this notice the feudal superior asserts that at present your property is subject to a real burden enforceable by the superior and claims both the right to continue to enforce it, not as superior but in a personal capacity, and that the real burden is for the purpose of promoting economic development. The notice, if it is registered in the Land Register or Register of Sasines under section 18B of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow the superior to enforce that right after the feudal system is abolished (which will be shortly).
+
+If you think that there is a mistake in this notice or if you wish to challenge it, you are advised to contact your solicitor or other adviser.
+
+### Notes for completion of the notice
+
+(These notes have no legal effect)
+
+**1** Insert “ the Scottish Ministers ” or as the case may be the name and address of the local authority.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the terms of the real burden, or as the case may be the terms of the counter-obligation, in full or refer to the deed in such a way as to identify the real burden or counter-obligation. Provide the statement specified and set out any information which supports it.
+
+**4** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) registered as proprietor, specify the title number;
+
+(b) not so registered, specify the title number and set out the midcouples or links between the person last registered and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person with the last recorded title and set out the midcouples or links between that person and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**5** Do not complete until a copy of the notice has been sent to the owner of the prospective servient tenement (except in a case where such sending is not reasonably practicable). Then insert whichever is applicable of the following:
+
+- “The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the prospective servient tenement at [*state address*].”; or
+- “It has not been reasonably practicable to send a copy of this notice to the owner of the prospective servient tenement and the reason is that: [*specify the reason*].”
+
+## SCHEDULE 5C — Form of notice prospectively converting real burden into health care burden
+
+*(introduced by section 18C(1))*
+
+> **Notice prospectively converting real burden into health care burden**
+>
+> **Superior:**
+>
+> *(see note for completion 1)*
+>
+> **Description of land which is to be servient tenement:**
+>
+> *(see note for completion 2)*
+>
+> **Terms of real burden:**
+>
+> *(see note for completion 3)*
+>
+> **Statement that purpose was to promote the provision of facilities for health care:**
+>
+> *(with supporting evidence: see note for completion 3)*
+>
+> **Any counter obligation:**
+>
+> *(see note for completion 3)*
+>
+> **Title to the superiority:**
+>
+> *(see note for completion 4)*
+>
+> **Service:**
+>
+> *(see note for completion 5)*
+>
+> **Signature on behalf of superior:**
+>
+> **Date:**  .
+
+### Explanatory Note
+
+(This explanation has no legal effect)
+
+This notice is sent by your feudal superior; that is to say by [the Scottish Ministers] *or* [*specify National Health Service trust*].
+
+By this notice the feudal superior asserts that at present your property is subject to a real burden enforceable by the superior and claims both the right to continue to enforce it, not as superior but in a personal capacity, and that the real burden is for the purpose of promoting the provision of facilites for health care. The notice, if it is registered in the Land Register or Register of Sasines under section 18C of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow the superior to enforce that right after the feudal system is abolished (which will be shortly).
+
+If you think that there is a mistake in this notice or if you wish to challenge it, you are advised to contact your solicitor or other adviser.
+
+### Notes for completion of the notice
+
+(These notes have no legal effect)
+
+**1** Insert “ the Scottish Ministers ” or as the case may be the name and address of the National Health Service trust.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the terms of the real burden, or or as the case may be the terms of the counter-obligation, in full or refer to the deed in such a way as to identify the real burden or counter-obligation. Provide the statement specified and set out any information which supports it.
+
+**4** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) registered as proprietor, specify the title number;
+
+(b) not so registered, specify the title number and set out the midcouples or links between the person last registered and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person with the last recorded title and set out the midcouples or links between that person and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**5** Do not complete until a copy of the notice has been sent to the owner of the prospective servient tenement (except in a case where such sending is not reasonably practicable). Then insert whichever is applicable of the following:
+
+- “The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the prospective servient tenement at [*state address*].”; or
+- “It has not been reasonably practicable to send a copy of this notice to the owner of the prospective servient tenement and the reason is that: [*specify the reason*].”.]
+
+## SCHEDULE 6 — FORM OF NOTICE SEEKING AGREEMENT TO THE PROSPECTIVE NOMINATION OF A DOMINANT TENEMENT
+
+**(introduced by section 19(1)(a))**
+
+> **NOTICE SEEKING AGREEMENT TO PROSPECTIVE NOMINATION OF DOMINANT TENEMENT**
+>
+> **Superior:**
+>
+> (*see note for completion 1*)
+>
+> **Person who has the feudal estate of dominium utile:**
+>
+> (*see note for completion 2*)
+>
+> **Description of land which, if agreement is reached and the agreement is registered, shall be the prospective servient tenement:**
+>
+> **Description of land which, if agreement is reached and the agreement is registered, shall be the prospective dominant tenement:**
+>
+> **Terms of real burden:**
+>
+> (*see note for completion 3*)
+>
+> **Any counter-obligation:**
+>
+> (*see note for completion 3*)
+>
+> **Title to the superiority:**
+>
+> (*see note for completion 4*)
+>
+> **Title to land which would be the prospective dominant tenement:**
+>
+> (*see note for completion 4*)
+>
+> **Service:**
+>
+> (*see note for completion 5*)
+>
+> **Signature of superior:**
+>
+> **Date:**.”.
+
+*Explanatory Note*
+
+*(This explanation has no legal effect)*
+
+This notice is sent by your feudal superior. In this notice your property (or some part of it) is referred to (prospectively) as the “servient tenement” and property belonging to the superior is referred to (again prospectively) as the “dominant tenement”.
+
+By this notice the feudal superior asserts that at present the use of your property is subject to certain burdens and conditions enforceable by him. He wishes to be able to continue to enforce the burdens and conditions, not as superior but in his capacity of owner of the prospective dominant tenement. If you agree and if the agreement is registered in the Land Register or Register of Sasines under section 19 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, he and his successors, as such owners, will be able to enforce the burdens and conditions after the feudal system is abolished (which will be shortly).
+
+In the absence of agreement the superior may yet be able to enforce the burdens and conditions provided that he can meet certain statutory conditions or if he applies to the Lands Tribunal for Scotland and the Tribunal grants an appropriate order on being satisfied by him that there would be substantial loss or disadvantage to him as owner of the prospective dominant tenement were the real burden to be extinguished or to cease to be enforceable by him.
+
+If the superior does apply to the Tribunal you may oppose the application and in doing so may be eligible for Legal Aid. You would not ordinarily have to meet the superior’s expenses. You are advised to consult your solicitor or other adviser if you wish to consider opposing the application or if you are uncertain about what is said in this notice.
+
+### Notes for completion of the notice
+
+*(These notes have no legal effect)*
+
+**1** Insert name and address of superior.
+
+**2** Insert name and address of person who has the feudal estate of*dominium utile*.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the real burden or counter-obligation in full or refer to the deed in such a way as to identify the real burden or counter— obligation. You may if you wish propose and set out a modification to either the real burden or to the counter-obligation (or modifications to both).
+
+**4** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) registered as proprietor, specify the title number;
+
+(b) not registered as proprietor, specify the title number and set out the midcouples or links between the person last registered and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person with the last recorded title and set out the midcouples or links between that person and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**5** Do not complete until a copy of the notice has been delivered or sent to the person with right to the feu. Then insert the following:
+
+“The superior has served this notice by [*specify whether by delivery, by recorded delivery, by registered post or by ordinary post*] on [*date of posting*] to the person with right to the feu at [*state address*].”.
+
+The notice should not be signed until a copy of it has been so delivered or sent.
+
+## SCHEDULE 7 — FORM OF NOTICE INTIMATING APPLICATION TO LANDS TRIBUNAL UNDER SECTION 20(1)
+
+**(introduced by section 20(3))**
+
+> **NOTICE INTIMATING APPLICATION TO LANDS TRIBUNAL UNDER SECTION 20(1) OF THE ABOLITION OF FEUDAL TENURE ETC. (SCOTLAND) ACT 2000**
+>
+> **Superior:**
+>
+> (*see note for completion 1*)
+>
+> **Description of land which is the prospective servient tenement:**
+>
+> (*see note for completion 2*)
+>
+> **Description of land which is the prospective dominant tenement:**
+>
+> (*see note for completion 2*)
+>
+> **Terms of real burden:**
+>
+> (*see note for completion 3*)
+>
+> **Any counter-obligation:**
+>
+> (*see note for completion 3*)
+>
+> **Title to the superiority:**
+>
+> (*see note for completion 4*)
+>
+> **Title to the dominium utile of the prospective dominant tenement:**
+>
+> (*see note for completion 4*)
+>
+> **Terms of description given, in application to Lands Tribunal, of attempt to reach agreement:**
+>
+> (*see note for completion 5*)
+>
+> **Service:**
+>
+> (*see note for completion 6*)
+>
+> I swear [*or* affirm] that the information contained in the notice is, to the best of my knowledge and belief, true.
+>
+> **Signature of superior:**
+>
+> (*see note for completion 7*)
+>
+> **Signature of notary public:**
+>
+> **Date:** .
+
+.
+
+*Explanatory Note*
+
+*(This explanation has no legal effect)* This notice is sent by your feudal superior. In this notice your property (or some part of it) is referred to as the “prospective servient tenement” and the superior’s property is referred to as the “prospective dominant tenement”.
+
+At present the use of your property is subject to certain burdens and conditions enforceable by the feudal superior. The feudal system is shortly to be abolished. The feudal superior cannot satisfy any of the conditions in section 18(7) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 but is applying to the Lands Tribunal for Scotland to be allowed the right to continue to enforce the burdens and conditions, not as superior but in his capacity of owner of the prospective dominant tenement. The Lands Tribunal’s order, if it is registered in the Land Register or Register of Sasines under section 20 of the 2000 Act, would allow him and his successors, as such owners, to enforce the burdens and conditions after the feudal system is abolished. He claims that there would be substantial loss or disadvantage to him as owner of the prospective dominant tenement were the real burden to be extinguished or no longer to be enforceable by him.
+
+You may oppose his application to the Tribunal and in doing so may be eligible for Legal Aid. You would not ordinarily have to meet the superior’s expenses. You are advised to consult your solicitor or other adviser if you wish to consider opposing the application or if you think that there is a mistake in this notice.
+
+The effect of the superior registering this notice will be that the burdens and conditions to which the notice relates will continue to be burdens and conditions (though, after the feudal system is abolished, non-feudal burdens and conditions) until the order made by the Lands Tribunal in respect of the application is registered as mentioned above unless the order is registered before the feudal system is abolished in which case until the feudal system is abolished (or, if there is no such registration at all, until a date specified by the Scottish Ministers) at which time the burdens and conditions would either be saved as non-feudal burdens and conditions or would be extinguished because the superior had been unsuccessful in his application.
+
+### Notes for completion of the notice
+
+*(These notes have no legal effect)*
+
+**1** Insert name and address of superior.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the relevant title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the real burden or counter-obligation in full or so as sufficiently to identify it.
+
+**4** The superiority referred to in the box “Title to the superiority” is the superiority of land which comprises the prospective servient tenement.
+
+Where the title—
+
+(a) has been registered in the Land Register and the applicant is infeft, specify the title number or if he is uninfeft specify the title number and set out the midcouples or links between the person last infeft and the applicant in such terms as are sufficient to identify them;
+
+(b) has not been registered in the Land Register and the applicant is infeft, specify by reference to the Register the deed constituting the title or if he is uninfeft specify the deed constituting the title of the person last infeft and the date of recording and set out the midcouples or links as in paragraph (a).
+
+**5** Set out in full the description which was, in pursuance of section 20(2) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, included in the application.
+
+**6** Insert either: “The applicant has sent a copy of this notice by [*specify recorded delivery mail or registered post*] to the owner of the prospective servient tenement at [*specify the address of the prospective servient tenement, or the place of residence or place of business, or the most recently known place of residence or place of business, of the owner of the servient tenement*].” or “It has not been reasonably practicable to serve a copy of this notice on the owner of the prospective servient tenement for the following reasons: [*specify the reasons*].”.
+
+**7** The superior should not swear or affirm, or sign, until a copy of the notice has been sent (or otherwise) as mentioned in note 6. Before signing the superior should swear or affirm before a notary public (or, if the notice is being completed outwith Scotland, before a person duly authorised under the local law to administer oaths or receive affirmations) that, to the best of the superior’s knowledge and belief, all the information contained in the notice is true. The notary public should also sign. Swearing or affirming a statement which is known to be false or which is believed not to be true is a criminal offence under the False Oaths (Scotland) Act 1933. Normally the superior should swear or affirm, and sign, personally. If, however, the superior is legally disabled or incapable (for example, because of mental disorder) his legal representative should swear or affirm and sign. If the superior is not an individual (for example, if it is a company) a person entitled by law to sign formal documents on its behalf should swear or affirm and sign.
+
+## SCHEDULE 8 — FORM OF NOTICE PRESERVING CONSERVATION BODY’S OR SCOTTISH MINISTERS’ RIGHT TO REAL BURDEN
+
+**(introduced by section 27(1))**
+
+> **NOTICE PRESERVING CONSERVATION BODY’S OR SCOTTISH MINISTERS’ RIGHT TO REAL BURDEN**
+>
+> **Superior (being a conservation body or the Scottish Ministers):**
+>
+> (*see note for completion 1*)
+>
+> **Description of land subject to the real burden:**
+>
+> (*see note for completion 2*)
+>
+> **Terms of real burden:**
+>
+> (*see note for completion 3*)
+>
+> **Any counter-obligation:**
+>
+> (*see note for completion 3*)
+>
+> **Title to the superiority:**
+>
+> (*see note for completion 4*)
+>
+> **Service:**
+>
+> (*see note for completion 5*)
+>
+> **Signature of superior:**
+>
+> (*see note for completion 6*)
+>
+> **Signature of witness:**
+>
+> **Name and address of witness:**
+>
+> **Date:**.
+
+.
+
+*Explanatory Note*
+
+*(This explanation has no legal effect)*
+
+This notice is sent by your feudal superior.
+
+At present the use of your property is subject to certain burdens and conditions enforceable by the feudal superior. The feudal system is shortly to be abolished. [By the regulations mentioned in the notice, the Scottish Ministers have prescribed that your superior should be a conservation body. Such a body is entitled to enforce certain real burdens (referred to prospectively as (“conservation burdens”.]*or* [The feudal superior is the Scottish Ministers and it is intended that they shall enforce certain real burdens (referred to prospectively as (“conservation burdens”[^F80]. . . .] These are burdens which have been imposed in the public interest for the preservation or protection either of architectural or historic characteristics of land or of some other special characteristic of land derived from the flora, fauna, or general appearance of the land. By this notice [the conservation body is] [the Scottish Ministers are] claiming the right to continue to enforce a conservation burden, not as superior but [in its capacity as a conservation body] [in their capacity as the Scottish Ministers]. The notice, if it is registered in the Land Register of Scotland or recorded in the Register of Sasines under section 27 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow the burden and conditions to be so enforced after the feudal system has been abolished.
+
+If you think that there is a mistake in this notice or if you wish to challenge it, you are advised to consult your solicitor or other adviser.
+
+### Notes for completion of the notice
+
+*(These notes have no legal effect)*
+
+**[[^F81]1** In the case of a conservation body, insert the year and number of the relevant statutory instrument and the name and address of that body.]
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the real burden or counter-obligation in full or refer to the deed in such a way as to identify the real burden or counter— obligation.
+
+**4** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) infeft, specify the title number;
+
+(b) uninfeft, specify the title number and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person last infeft and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**5** Do not complete until a copy of the notice has been sent to the owner of the land subject to the burden (except in a case where this is not reasonably practicable). Then insert whichever is applicable of the following:
+
+“The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the land subject to the real burden at [*state address*].”; or
+
+“It has not been reasonably practicable to send a copy of this notice to the owner of the land subject to the real burden for the following reason: [*specify the reason*].”.
+
+**6** The notice should not be signed until a copy of it has been sent (or otherwise) as mentioned in note 5. The conservation body or the Scottish Ministers should sign.
+
+## [[^F82]SCHEDULE 8A — Form of notice nominating conservation body or Scottish Ministers to have title to enforce real burden
+
+*(introduced by section 27A(1))*
+
+> **Notice nominating conservation body or Scottish Ministers to have title to enforce real burden**
+>
+> **Superior:**
+>
+> **Nominee (being a conservation body or the Scottish Ministers):**
+>
+> *(see note for completion 1)*
+>
+> **Description of land subject to the real burden:**
+>
+> *(see note for completion 2)*
+>
+> **Terms of real burden:**
+>
+> *(see note for completion 3)*
+>
+> **Any counter-obligation:**
+>
+> *(see note for completion 3)*
+>
+> **Title to the superiority:**
+>
+> *(see notes for completion 4 and 5)*
+>
+> **Service:**
+>
+> *(see note for completion 6)*
+>
+> |  |  |
+> |---|---|
+> | **Signature of superior:** | **Signature of consenting nominee:** |
+> | *(see note for completion 7)* | *(see note for completion 8)* |
+> | **Signature of superior’s witness:** | **Signature of nominee’s witness:** |
+> | **Name and address of witness:** | **Name and address of witness:** |
+>
+> **Date:**  .
+
+### Explanatory note
+
+(This explanation has no legal effect)
+
+This notice is sent by your feudal superior.
+
+At present the use of your property is subject to certain burdens and conditions enforceable by the feudal superior. The feudal system is shortly to be abolished. The feudal superior intends to nominate a conservation body or the Scottish Ministers to have title to enforce certain of those burdens (referred to prospectively as “conservation burdens”) when he ceases to have such title. These are burdens which have been imposed in the public interest for the preservation or protection either of architectural or historic characteristics of land or of some other special characteristic of land derived from the flora, fauna or general appearance of the land. By virtue of this notice the nominee would have the right to enforce a conservation burden in the capacity of conservation body or of the Scottish Ministers, as the case may be. The notice, if it is registered in the Land Register of Scotland or recorded in the Register of Sasines under section 27A of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will allow the burden to be so enforced after the feudal system has been abolished.
+
+If you think there is a mistake in this notice or if you wish to challenge it, you are advised to consult your solicitor or other adviser.
+
+### Notes for completion of the notice
+
+(These notes have no legal effect)
+
+**1** In the case of a conservation body, insert the year and number of the relevant statutory instrument and the name and address of that body.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the real burden or counter-obligation was imposed. Set out the real burden or counter-obligation in full or refer to the deed in such a way as to identify the real burden or counter-obligation.
+
+**4** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) infeft, specify the title number;
+
+(b) uninfeft, specify the title number and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them.
+
+**5** Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person last infeft and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**6** Do not complete until a copy of the notice has been sent to the owner of the land subject to the burden (except in a case where this is not reasonably practicable). Then insert whichever is applicable of the following:
+
+- “The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the land subject to the real burden at [*state address*].”; or
+- “It has not been reasonably practicable to send a copy of this notice to the owner of the land subject to the real burden for the following reason: [*specify the reason*].”
+
+**7** The notice should not be signed by the superior until a copy of it has been sent (or otherwise) as mentioned in note 6.
+
+**8** The nominee should sign, so as to indicate consent, before that copy is sent (or otherwise) as so mentioned.]
+
+## SCHEDULE 9 — FORM OF NOTICE RESERVING RIGHT TO COMPENSATION IN RESPECT OF EXTINCTION OF DEVELOPMENT VALUE BURDEN
+
+**(introduced by section 33(1))**
+
+> **NOTICE RESERVING RIGHT TO COMPENSATION IN RESPECT OF EXTINCTION OF DEVELOPMENT VALUE BURDEN**
+>
+> **Superior:**
+>
+> (*see note for completion 1*)
+>
+> **Description of land (or part) subject to the real burden:**
+>
+> (*see note for completion 2*)
+>
+> **Terms of real burden:**
+>
+> (*see note for completion 3*)
+>
+> **Statement that burden reserves development value:**
+>
+> (*see note for completion 4*)
+>
+> **Title to the superiority:**
+>
+> (*see note for completion 5*)
+>
+> **Details of feu grant:**
+>
+> (*see note for completion 6*)
+>
+> **Amount by which consideration reduced:**
+>
+> (*see note for completion 7*)
+>
+> **Service:**
+>
+> (*see note for completion 8*)
+>
+> By this notice I [A.B.] (*superior*) reserve the right to claim compensation in respect of the extinction of the development value burden(s) set out in this form.
+>
+> I swear [*or* affirm] that the information contained in the notice is, to the best of my knowledge and belief, true.
+>
+> **Signature of superior:**
+>
+> (*see note for completion 9*)
+>
+> **Signature of notary public:**
+>
+> **Date:**.
+
+.
+
+*Explanatory Note*
+
+*(This explanation has no legal effect)*
+
+This notice is sent by your feudal superior.
+
+The feudal system is shortly to be abolished. By this notice the feudal superior is claiming that your property is subject to a development value burden. He is reserving the right to claim compensation for the loss of the burden. Compensation so claimed is payable if either during the five year period ending on [*insert date of appointed day*] or during the twenty year period starting on that date something happens which, had the feudal system not been abolished, would have been a breach of the burden.
+
+A development value burden is a special type of real burden designed to reserve for the superior the benefit of any increase in the value of the land arising from the land being freed to be used or dealt with in a way prohibited by the burden. Burdens of this type were typically inserted in feudal grants where the superior gave away land, or sold it very cheaply, on condition that it was used only for some charitable or community purposes (for example, for use only as a community hall or sports field).
+
+For the superior to be entitled to reserve the right to claim compensation, the burden must have led to the price paid for your property when it was first sold by the superior being significantly lower than it would otherwise have been.
+
+This notice will be registered in the Land Register of Scotland, or recorded in the Register of Sasines, under section 33 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000.
+
+If you think that there is a mistake in this notice or if you wish to challenge it, you are advised to consult your solicitor or other adviser.
+
+### Notes for completion of notice
+
+*(These notes have no legal effect)*
+
+**1** Insert name and address of superior.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the development value burden was imposed. Set out the burden in full or refer to the deed in such a way as to identify the burden. If the notice is used to reserve rights in relation to more than one development value burden, details of each burden should be set out separately, in numbered paragraphs.
+
+**4** State that the burden reserves the development value. Section 33(5) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 defines “development value” as “any significant increase in the value of the land arising as a result of the land becoming free to be used, or dealt with, in some way not permitted under the grant in feu”. Set out any information (additional to that provided in the other boxes) which supports that statement.
+
+**5** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) infeft, specify the title number;
+
+(b) uninfeft, specify the title number and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person last infeft and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**6** Specify by reference to the appropriate Register the writ granting the relevant land in feu.
+
+**7** State the amount by which the consideration was reduced because of the imposition of the burden. (If the notice relates to more than one burden, the amounts should be shown separately for each burden.) The statement should be made to the best of the superior’s knowledge and belief.
+
+**8** Do not complete until a copy of the notice has been sent to the owner of the land subject to the burden (except in a case where this is not reasonably practicable). Then insert whichever is applicable of the following:
+
+“The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the land subject to the burden at [*state address*].”; or
+
+“It has not been reasonably practicable to send a copy of this notice to the owner of the land subject to the burden for the following reason: [*specify the reason*].”.
+
+**9** The superior should not swear or affirm, or sign, until a copy of the notice has been sent (or otherwise) as mentioned in note 8. Before signing the superior should swear or affirm before a notary public (or, if the notice is being completed outwith Scotland, before a person duly authorised under the local law to administer oaths or receive affirmations) that, to the best of the superior’s knowledge and belief, all the information contained in the notice is true. The notary public should also sign. Swearing or affirming a statement which is known to be false or which is believed not to be true is a criminal offence under the False Oaths (Scotland) Act 1933. Normally the superior should swear or affirm, and sign, personally. If, however, the superior is legally disabled or incapable (for example, because of mental disorder) his legal representative should swear or affirm and sign. If the superior is not an individual (for example, if it is a company) a person entitled by law to sign formal documents on its behalf should swear or affirm and sign.
+
+## SCHEDULE 10 — PROCEDURES AS TO SERVICE UNDER SECTION 35(3)
+
+**(introduced by section 36(2))**
+
+### FORM A
+
+“I [*name of owner*] acknowledge receipt of a notice under section 35(3) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 claiming compensation of [*amount*].
+
+Signed: [*signature of owner*]
+
+Date: .”.
+
+### FORM B
+
+“Notice under section 35(3) of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 claiming compensation was posted to [*name of owner*] on [*date*].
+
+Signature: [*signature either of the owner or his agent; and if an agent signs he should put the word “Agent” after his signature*]
+
+Date: .”.
+
+## SCHEDULE 11 — FORM OF ASSIGNATION, DISCHARGE OR RESTRICTION OF RESERVED RIGHT TO CLAIM COMPENSATION
+
+**(introduced by section 40)**
+
+> **ASSIGNATION [OR DISCHARGE OR RESTRICTION] OF RESERVED RIGHT TO CLAIM COMPENSATION**
+>
+> I, [A. B.] (*designation*), hereby [assign to C. D. (*designation*)]*or* [*discharge*] the right to claim compensation reserved by a notice dated (*specify date*) and [recorded in the Register of Sasines for (*specify county*) on (*specify date*) under (*specify fiche and frame*) *or* registered in the Land Register of Scotland on (*specify date*) against the subjects in title number (*specify number*)] [*add if applicable* but only to the extent of (*specify percentage*) of each claim which may come to be made]*or* [*add if applicable* but only to the extent of (*specify restriction*) *or* but only in relation to (*specify restriction*)]. [*Where the person assigning or as the case may be discharging or restricting the right to claim compensation is not registered as having that right, add a note setting out the midcouples or links between that person and the person last so registered so as sufficiently to identify them.*]
+
+.
+
+(*Execute in accordance with [^F83]...the Requirements of Writing (Scotland) Act 1995*.)
+
+## [[^F84]SCHEDULE 11A — Form of notice prospectively converting sporting rights into tenement in land
+
+*(introduced by section 65A(1))*
+
+> **Notice prospectively converting sporting rights into tenement in land**
+>
+> **Superior:**
+>
+> *(see note for completion 1)*
+>
+> **Description of land subject to sporting rights:**
+>
+> *(see note for completion 2)*
+>
+> **Description of sporting rights:**
+>
+> *(see note for completion 3)*
+>
+> **Any counter-obligation:**
+>
+> *(see note for completion 3)*
+>
+> **Title to the superiority:**
+>
+> *(see note for completion 4)*
+>
+> **Service:**
+>
+> *(see note for completion 5)*
+>
+> **I swear** [*or***affirm] that the information contained in this notice is, to the best of my knowledge and belief, true.**
+>
+> **Signature of superior:**
+>
+> *(see note for completion 6)*
+>
+> **Signature of notary public:**
+>
+> **Date:**  .
+
+### Explanatory note
+
+(This explanation has no legal effect)
+
+This notice is sent by your feudal superior.
+
+By it the feudal superior asserts that at present your property is subject to certain sporting rights (that is to say, to rights of fishing or game) enforceable by him as superior and he seeks to continue to enjoy those rights on a different basis: that is to say, as a tenement in land.
+
+The notice, if it is registered in the Land Register of Scotland or recorded in the Register of Sasines under section 65A of the Abolition of Feudal Tenure etc. (Scotland) Act 2000, will have that effect when (shortly) the feudal system is abolished.
+
+If you think there is a mistake in this notice or if you wish to challenge it, you are advised to consult your solicitor or other adviser.
+
+### Notes for completion of the notice
+
+(These notes have no legal effect)
+
+**1** Insert name and address of superior.
+
+**2** Describe the land in a way that is sufficient to enable the Keeper to identify it by reference to the Ordnance Map. Where the title to the land has been registered in the Land Register the description should refer to the title number of the land or of the larger subjects of which the land forms part. Otherwise it should normally refer to and identify a deed recorded in a specified division of the Register of Sasines.
+
+**3** Specify by reference to the appropriate Register the deed or deeds in which the sporting rights were reserved or the counter-obligation was imposed. Describe the sporting rights or set out the counter-obligation in full or refer to the deed in such a way as to identify those rights or that counter-obligation.
+
+**4** Where the title has been registered in the Land Register of Scotland and the superior is—
+
+(a) infeft, specify the title number;
+
+(b) uninfeft, specify the title number and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them.
+
+Where the title has not been registered in the Land Register and the superior—
+
+(a) has a recorded title, specify by reference to the Register of Sasines the deed constituting the immediate title;
+
+(b) does not have a recorded title, either—
+
+(i) specify by reference to the Register of Sasines the deed constituting the immediate title of the person last infeft and set out the midcouples or links between the person last infeft and the superior so as sufficiently to identify them; or
+
+(ii) if there is no such deed, specify the nature of the superior’s title.
+
+**5** Do not complete until a copy of the notice has been sent to the owner of the land subject to the sporting rights (except in a case where this is not reasonably practicable). Then insert whichever is applicable of the following:
+
+- “The superior has sent a copy of this notice by [*specify whether by recorded delivery or registered post or by ordinary post*] on [*date of posting*] to the owner of the land subject to the sporting rights at [*state address*]”.; or
+- “It has not been reasonably practicable to send a copy of this notice to the owner of the land subject to the sporting rights for the following reason: [*specify the reason*]”.
+
+**6** The notice should not be signed by the superior until a copy of it has been sent (or otherwise) as mentioned in note 5. Before signing, the superior should swear or affirm before a notary public (or, if the notice is being completed outwith Scotland, before a person duly authorised under the local law to administer oaths or receive affirmations) that, to the best of the superior’s knowledge and belief, all the information contained in the notice is true. The notary public should also sign. Swearing or affirming a statement which is known to be false or which is believed not to be true is a criminal offence under the False Oaths (Scotland) Act 1933. Normally the superior should swear or affirm, and sign, personally. If, however, the superior is legally disabled or incapable (for example, because of mental disorder) his legal representative should swear or affirm and sign. If the superior is not an individual (for example, if it is a company) a person entitled by law to sign formal documents on its behalf should swear or affirm and sign.]
+
+## SCHEDULE 12 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+**(introduced by section 76(1))**
+
+### PART 1 — MINOR AND CONSEQUENTIAL AMENDMENTS: GENERAL
+
+#### Mines and Metals Act 1592 (c.31) (Act of the Parliaments of Scotland)
+
+**1** In the Mines and Metals Act 1592—
+
+(a) for the words “sett in few ferme” substitute “ dispone ”;
+
+(b) for the word “frehalder” substitute “ owner ”;
+
+(c) the words “or few” shall cease to have effect;
+
+(d) for the words “saidis fewis” substitute “ disposition of the saidis mynis ”;
+
+(e) for the words “four witnesses” substitute “ ane witness ”; and
+
+(f) for the words “set the same in few” substitute “ dispone the same or set the same ”.
+
+#### Redemptions Act 1661 (c.247) (Act of the Parliaments of Scotland)
+
+**2** [^F85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Real Rights Act 1693 (c.22) (Act of the Parliaments of Scotland)
+
+**3** In the Real Rights Act 1693 (determination of preferences according to date and priority of registration), for the words from “All Infeftments” to the end substitute “ reall rights in land shall in all competitions be preferable and preferred according to the date and priority of registration in the General Register of Sasines ”.
+
+#### Lands Clauses Consolidation (Scotland) Act 1845 (c.19)
+
+**4** (1) The Lands Clauses Consolidation (Scotland) Act 1845 shall be amended in accordance with this paragraph.
+
+(2) In section 7 (parties under disability enabled to sell and convey), the words “heirs of entail,”, “estate or”, “married women seised in their own right or entitled to terce or dower, or any other right or interest, husbands,”, “or feoffees”, “and as to such married women as if they were sole,” and, in the last two places where they occur, “married women,” shall cease to have effect.
+
+(3) In section 8 (parties under disability may exercise other powers), the words from “power herein” to “therewith, and the” and, in both places where they occur, “feu duties, ground annuals,”, shall cease to have effect.
+
+(4) Sections 10 (where vendor absolutely entitled, lands may be sold on feu duties, &c.) and 11 (provisions incidental to section 10) shall cease to have effect.
+
+(5) In section 12 (power to purchase lands required for additional accommodation), the word “, feu,”, in both places where it occurs, shall cease to have effect.
+
+(6) In section 67 (purchase money payable to parties under disability to be deposited in bank), the words “heir of entail,”, “married woman seised in her own right or entitled to terce or dower or any other right or interest, husband,”, “on the same heirs, or”, “, or affecting succeeding heirs of entail in any such lands, whether imposed and constituted by the entailer, or in virtue of powers given by the entail, or in virtue of powers conferred by any Act of Parliament” and “same heirs, and the” shall cease to have effect.
+
+(7) In each of sections 69 (sums to be deposited, or paid to trustees) and 70 (sums to be paid to parties), the word “coverture,” and the word “husbands,” shall cease to have effect.
+
+(8) Section 73 (special provision for lands to be held under entail etc.) shall cease to have effect.
+
+(9) In each of sections 74 (completion of title on deposit of purchase money or compensation) and 76 (further provision in that regard), for the word “estate” substitute “ right ”.
+
+(10) In section 77 (application of money deposited), for the word “estates” substitute “ rights ”.
+
+(11) In section 79 (expenses in cases of money deposited), the words “feu or” and “, and of re-entailing any of such lands,” shall cease to have effect.
+
+(12) In section 80 (form of conveyances)—
+
+(a) the words “feus and”, in both places where they occur, shall cease to have effect;
+
+(b) for the words “the Schedules (A.) and (B.) respectively” substitute “ Schedule (A.) ”; and
+
+(c) the words “the particular register of sasines kept for the county, burgh, or district in which the lands are locally situated, or in”, “for Scotland kept at Edinburgh, within sixty days from the last date thereof, which the respective keepers of the said registers are hereby authorized and required to do,”, “feudal” and from “: Provided always” to the end shall cease to have effect.
+
+(13) In section 93 (proceedings in regard to lands in commonty etc.), the words “; and if such lands be part of a barony a like notice shall be given to the superior or baron” shall cease to have effect.
+
+(14) In section 100 (deposit of money on refusal to accept redemption), for the word “estate” substitute “ right ”.
+
+(15) In the preamble to sections 107 to 111, the words “any feu duty, ground annual, casualty of superiority, or” shall cease to have effect.
+
+(16) In section 109 (discharge of part of lands from charge), the words “such feu duty, ground annual, casualty of superiority, or any” shall cease to have effect.
+
+(17) In section 110 (deposit in case of refusal to discharge), the words “feu duty, ground annual, casualty of superiority,” shall cease to have effect.
+
+(18) In section 117 (power to purchase interests in lands the purchase of which may have been omitted by mistake), the word “estate,”, in each place where it occurs, shall cease to have effect.
+
+(19) In section 118 (valuation of lands), for the words—
+
+(a) “estate or interests” substitute “ right or interest ”; and
+
+(b) “estate, or interest” substitute “ right, or interest ”.
+
+(20) In section 119 (payment of expenses of litigation), for the word “estate”, in both places where it occurs, substitute “ right ”.
+
+(21) In section 124 (lands to be conveyed to the purchasers), the words from “, by deed” to the end shall cease to have effect.
+
+(22) In section 125 (effect of word “dispone” in conveyances), for the word “estate” substitute “ right ”.
+
+(23) Sections 126 (superiorities not to be affected by lands being taken for the purposes of the Act) and 127 (antiquated provisions relating to the prison assessment) shall cease to have effect.
+
+(24) Schedule (B.) (form of conveyance in consideration of feu duty or rent-charge) shall cease to have effect.
+
+#### Entail Amendment Act 1848 (c.36)
+
+**5** (1) The Entail Amendment Act 1848 shall be amended in accordance with this paragraph.
+
+(2) Sections 1 to 31 (heir born after date of entail may disentail; and heir born before such date may do so with consent of heir apparent under entail, etc.) shall cease to have effect.
+
+(3) In section 32 (form and effect of instrument of disentail etc.), the words from “may be in the form” to “in terms of this Act;” shall cease to have effect.
+
+(4) Sections 33 to 45 (application to court by heir of entail in possession of entailed estate, etc.) shall cease to have effect.
+
+(5) In section 47 (Act not to be defeated by trusts)—
+
+(a) for the words “land or estate”, wherever they occur, substitute “ land ”;
+
+(b) the words “dated on or after the first day of August one thousand eight hundred and forty-eight” shall cease to have effect;
+
+(c) the words “fee simple”, in each of the three places where they occur, shall cease to have effect;
+
+(d) for the words “lands or estate, with infeftment thereon in favour of such party” substitute “ land ”;
+
+(e) the words “the superior of such lands or estate, and of” shall cease to have effect; and
+
+(f) for the words “securities thereon” substitute “ securities over such land ”.
+
+(6) In section 48 (Act not to be defeated by life-rents)—
+
+(a) for the words “It shall be competent to grant an estate in Scotland limited to a liferent interest in favour only of a party in life at the date of such grant; and where any land or estate” substitute “ Where any land ”;
+
+(b) the words “dated on or after the first day of August one thousand eight hundred and forty eight”, “fee simple” and “the superior of such lands or estate, and of” shall cease to have effect;
+
+(c) for the words “such estate” substitute “ such land ”; and
+
+(d) for the word “thereon” substitute “ over such land ”.
+
+(7) In section 49 (Act not to be defeated by leases), the words “or estate”, in both places where they occur, and the words “dated on or after the said first day of August one thousand eight hundred and forty eight” shall cease to have effect.
+
+(8) Sections 50 (consents to be in writing and to be irrevocable) and 51 (court may make acts of sederunt) shall cease to have effect.
+
+(9) For section 52, substitute—
+
+> **Interpretation**
+>
+> **52** In this Act, the word “land” shall include all heritages.
+
+.
+
+(10) The Schedule (form of instrument of disentail) shall cease to have effect.
+
+#### Registration of Leases (Scotland) Act 1857 (c.26)
+
+**6** (1) The Registration of Leases (Scotland) Act 1857 shall be amended in accordance with this paragraph.
+
+(2) In section 2 (effectuality of recorded leases), for the words “infeftment is posterior in date to” substitute “ title is completed after ”.
+
+(3) Sections 4 (assignations in security), 5 (presentation for registration by person who is not original lessee or assignee), 8 (executor’s completion of title by recording notarial instrument), 9 (assignee dying without recording assignation) and 11 (entering trustee on sequestrated estate on register) shall cease to have effect.
+
+(4) In section 16(1) (equivalence of registration to possession), for the words “, writs of acknowledgment, and notarial instruments” substitute “ and writs of acknowledgment ”.
+
+(5) Schedules (C) (form of notarial instrument in favour of party who is not original grantee) and (F) (form of notarial instrument in favour of executor in recorded lease or assignation in security or of trustee on sequestrated estate) shall cease to have effect.
+
+#### Land Registers (Scotland) Act 1868 (c.64)
+
+**7** (1) The Land Registers (Scotland) Act 1868 shall be amended in accordance with this paragraph.
+
+(2) In section 3 (writs of each county to be kept separate in general register of sasines), for the words—
+
+(a) “warrant of registration herein-after provided for,” substitute “ application for registration ”; and
+
+(b) “said warrant,” substitute “ that application ”.
+
+(3) In section 5 (registration of writ in other county to which it refers etc.)—
+
+(a) for the words from the beginning to “thereon applicable” substitute “ Where any writ contains land or heritages in more than one county and application has not been made for registration in relation ”;
+
+(b) for the word “warrant”, where it occurs for the second time, substitute “ application ”;
+
+(c) for the words “by a new warrant of registration thereon” substitute “ for registration ”;
+
+(d) the words “in terms of such new warrant” shall cease to have effect; and
+
+(e) for the words “such writ applies, and to which such new warrant is applicable” substitute “ it applies ”.
+
+(4) In section 6 (provision for writs transmitted by post to general register of sasines), the words “in terms of the warrant of registration thereon” shall cease to have effect.
+
+(5) In section 12 (registration in general register of sasines equivalent in certain cases to registration in the books of council and session)—
+
+(a) for the words from the beginning to “being so registered in the said register of sasines,” substitute—
+
+> A writ competent to be registered in the general register of sasines need not be presented to be registered in the books of council and session for the purpose of—
+>
+> (a) preservation; or
+>
+> (b) preservation and execution. If an application for registration of such a writ in the general register of sasines specifies that registration is for either of those purposes, then on registration in that register the writ shall be held to be registered also in the books of council and session for the purpose in question; and the writ registered
+
+; and
+
+(b) the words “and shall be in the form, as nearly as may be, of the Schedule (B.) to this Act annexed,” shall cease to have effect.
+
+(6) [^F86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Titles to Land Consolidation (Scotland) Act 1868 (c.101)
+
+**8** (1) The Titles to Land Consolidation (Scotland) Act 1868 shall be amended in accordance with this paragraph.
+
+(2) In section 3 (interpretation)—
+
+(a) for the words “The words superior, vassal,grantor,” substitute The words “ grantor ”,;
+
+(b) for the words “such superior, vassal, grantor” substitute “ such grantor ”;
+
+(c) the words “The words “Crown writ” shall extend to and include all charters, precepts, and writs from Her Majesty, and from the Prince; and” shall cease to have effect;
+
+(d) the definition of “charter” and of “writ” shall cease to have effect;
+
+(e) in the definition of “deed” and of “conveyance”, the words “charters,”, “whether containing a warrant or precept of sasine or not, and”, “feu contracts, contracts of ground annual,”, “, whether such decrees contain warrant to infeft or precept of sasine or not,” and “, procuratories of resignation*an remanentiam*,” shall cease to have effect;
+
+(f) the definition of “deed of entail” shall cease to have effect;
+
+(g) in the definition of “instrument”, the words “authorized by this Act, or by any of the Acts hereby repealed,” shall cease to have effect; and
+
+(h) the definition of “infeft” and “infeftment” shall cease to have effect.
+
+(3) Sections 4 (Acts repealed), 5 (in conveyances of land etc. not held burgage, certain clauses may be inserted in short forms), 6 (import of clause expressing manner of holding) and 7 (in conveyances of burgage property certain clauses may be inserted in given forms) shall cease to have effect.
+
+(4) In section 8 (import of certain clauses)—
+
+(a) for the words “forms Nos. 1 and 2” substitute “ form No. 1 ”;
+
+(b) the words “, and to all open procuratories, clauses, and precepts, if any, and as the case may be,” shall cease to have effect;
+
+(c) for the words “rents in these forms” substitute “ rents ”;
+
+(d) for the words “warrandice in these forms” substitute “ warrandice ”;
+
+(e) for the words “feu duties, casualties, and public burdens, in form No. 1 of schedule (B.) hereto annexed,” substitute “ public burdens ”;
+
+(f) for the words “feu duties or other duties and services or casualties payable or prestable to the superior, and of all public, parochial,” substitute “ public ”;
+
+(g) the words from “; and the clause of obligation” to “other public, parochial, and local burdens, due from or on account of the lands conveyed prior to the date of entry” shall cease to have effect; and
+
+(h) for the words from “in these two forms” to “to them” substitute “ shall, unless specially qualified, have the meaning and effect assigned ”.
+
+(5) Sections 9 (conditions of entail may, in conveyances of entailed lands, be inserted by reference merely) and 10 (real burdens may be referred to as already in the register of sasines) shall cease to have effect.
+
+(6) In section 12 (clause directing part of conveyance to be recorded)—
+
+(a) the words from “with a warrant of registration” to “hereto annexed),” shall cease to have effect;
+
+(b) for the words “such keeper shall” substitute “ the keeper may ”; and
+
+(c) the words from—
+
+(i) “and warrant of registration;” to “on whose behalf the conveyance is presented”; and
+
+(ii) “or to expede and record” to the end,
+
+shall cease to have effect.
+
+(7) Sections 14 (certain clauses in entails no longer necessary), 15 (instrument of sasine no longer necessary), 17 (not necessary to record the whole conveyance or discharge), 18 (instrument of resignation*an remanentiam* unnecessary), 19 (notarial instruments in favour of general disponees) and 23 (notarial instruments in favour of parties acquiring rights to unrecorded conveyances) shall cease to have effect.
+
+(8) In section 24 (mode of completing title by judicial factor on trust estate etc.), the words “, with warrant of registration thereon,” shall cease to have effect.
+
+(9) For section 25 (mode of completing title by trustee in sequestration etc.) substitute—
+
+> **Deduction of title by liquidator**
+>
+> **25** The liquidator in the winding up of a company shall, for the purposes of sections 3 (disposition etc. by person with unrecorded title) and 4 (completion of title) of the Conveyancing (Scotland) Act 1924 (c.27) (including those sections as applied to registered leases by section 24 of that Act), be taken to be a person having right to any land belonging to the company.
+
+.
+
+(10) In section 26 (heritable property conveyed for religious or educational purposes to vest in disponees or their successors), the words “with warrant of registration thereon in terms of this Act, or when followed by notarial instrument expede, and with warrant of registration thereon recorded” and “feued,” shall cease to have effect.
+
+(11) Sections 27 to 50 (service of heirs: as saved by section 37(1)(d) of the Succession (Scotland) Act 1964 (c.41)) shall cease to have effect.
+
+(12) In section 51 (power of Court of Session to pass acts of sederunt)—
+
+(a) the word “said”, where it first occurs; and
+
+(b) the words from “or Sheriffs of counties” to the end,
+
+shall cease to have effect.
+
+(13) In section 62 (effect of decree of adjudication or sale), for the words from “feudal titles to said lands” to the end, substitute “ title by recording the decree as a conveyance or by using the decree as a midcouple or link of title. ”.
+
+(14) Sections 63 to 93 (Crown writs), 96 (provision for temporary absence or disability of Sheriff of Chancery), 100 (all writs and charters from subject superiors may refer to *tenendas* and*reddendo*) 104 to 109 (ways of completing title where superior did not or could not grant entry), 110 (mode of relinquishing superiority), 111 (investiture by over superior), 112 (forfeiture or relinquishment of rights of superiority does not operate as contravention of entail, etc.), 113 (payment in lieu of casualties of superiority in case of lands conveyed for religious purposes), 114 and 116 (provisions as respects writs of*clare constat*, etc.) shall cease to have effect.
+
+(15) For section 117 (heritable securities to form moveable estate; except where conceived in favour of heirs, excluding executors, and*quoad fiscum*) there shall be substituted—
+
+> **Heritable security in succession of creditor in the security**
+>
+> **117** In the succession of the creditor in a heritable security, the security shall be moveable estate; except that in relation to the legal rights of the spouse, or of the descendants, of the deceased it shall be heritable estate.
+
+.
+
+(16) Sections 118 (form of bond and disposition in security) and 119 (import of standard clauses in bond and disposition in security) shall cease to have effect.
+
+(17) In section 120 (securities may be registered during lifetime of grantee etc.)—
+
+(a) “, whether dated before or after the commencement of this Act,”; and
+
+(b) the proviso,
+
+shall cease to have effect.
+
+(18) Sections 121 to 123 (sale under pre-1970 heritable securities), 124 (form for transfer of pre-1970 heritable security) 126, 127 and 130 (completion of title by notarial instrument), 131 (saving), 132 and 133 (provision for forms as respects pre-1970 heritable securities), 134 (application of the Act to all heritable securities), 135 (applicability of pre-1845 forms for heritable securities), 137 (applicability to lands held by any description of tenure) and 141 (requirement for warrant of registration) shall cease to have effect.
+
+(19) In section 140 (additional sheets added to writs), the words “, and subsequent sheets (if any) shall be chargeable with the appropriate progressive duty” shall cease to have effect.
+
+(20) In section 142 (recording of conveyances in register of sasines)—
+
+(a) the words “, and all instruments hereby” and “, with warrants of registration written thereon respectively,” shall cease to have effect; and
+
+(b) for the words “, in the same manner as instruments of sasine, or notarial instruments, are at present recorded, and the same” substitute “ and ”.
+
+(21) For section 143 substitute—
+
+> **Recording anew**
+>
+> **143** Where there is an error or defect in recording a deed or conveyance in the Register of Sasines it shall be competent to record it anew.
+
+.
+
+(22) Sections 144 (erasures), 145 (challenge to pre-1868 warrant of registration), 146 (insertion of real burdens etc. in a conveyance or deed applicable to lands), 147 (nothing in Act to affect prohibition against sub-infeudation or to take away or impair certain rights or remedies competent to a superior), 150 (debts affecting lands exchanged for other lands), 152 (lands held by the tenure of booking), 154 (personal interest of keeper of register), 156 (short form of letters of inhibition), 161 (review of certain judgments etc.), 162 (acts of sederunt for purposes of Act etc.) and 163 (old forms of conveyances may still be used) shall cease to have effect.
+
+(23) The Schedules, except Schedules (B.) No.1, (F.) No.1, (G.), (PP.) and (RR.), shall cease to have effect; and in Schedule (B.) No. 1 the words—
+
+(a) from “to be holden” to “as the case may be];”; and
+
+(b) “feu duties, casualties, and”,
+
+shall cease to have effect.
+
+#### Conveyancing (Scotland) Act 1874 (c.94)
+
+**9** (1) The Conveyancing (Scotland) Act 1874 shall be amended in accordance with this paragraph.
+
+(2) In section 3 (interpretation)—
+
+(a) in the definition of “Land” or “lands”, for the words “are or may be” substitute “ prior to the day appointed by order made under section 71 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5) were, or might be, ”;
+
+(b) the definitions of “Estate in land” and of “Superior” and “superiority” shall cease to have effect;
+
+(c) in the definition of “heritable securities” and “securities”, the words “, and shall also, when used in this Act, include real burdens and securities by way of ground annual” shall cease to have effect; and
+
+(d) the definitions of “Infeftment”, “Feu” and “feu-duty” and “Casualties” shall cease to have effect.
+
+(3) Sections 4 (abolition of renewal of investiture), 5 (compositions payable by corporations or trustees or persons having separate interests), 6 (consolidation of superiority with property), 7 (consolidation not to affect or extend superior’s rights) and 8 (memorandum of allocation of feu-duty) shall cease to have effect.
+
+(4) In section 10 (completion of title when deceased heir not served etc.) (as saved by section 37(1)(d) of the Succession (Scotland) Act 1964 (c.41))—
+
+(a) the words “neither infeft nor served, but” and “by virtue of this Act,” shall cease to have effect;
+
+(b) for the words “last infeft in” substitute “ who held the last recorded title to ”;
+
+(c) the words “and assignation” shall cease to have effect;
+
+(d) for the words—
+
+(i) “be infeft in” substitute “ complete title to ”; and
+
+(ii) “be held to be duly infeft in” substitute “ [^F87]. . . have a completed title to ”; and
+
+(e) the words from “Such petition” to the end shall cease to have effect.
+
+(5) Sections 14 (legal remedies to prevent entry preserved), 18 (entails not to bar redemption), 19 (redemption of casualties by a mid-superior), 20 (commutation of carriages and services by agreement etc.), 21 (commuted value to be feu-duty: not barred by entails), 22 (monopolies of superior’s agents annulled), 24 (where feu rights stipulating or inferring casualties are contracted to be granted), 25 (distinction between burgage and feu abolished etc.) and 26 (form of conveyances) shall cease to have effect.
+
+(6) In section 29 (general dispositions forming links of series of titles not objectionable on certain grounds)—
+
+(a) the words “under this Act, and no other decree, instrument, or conveyance” shall cease to have effect; and
+
+(b) for the words “last infeft, shall contain” substitute “ who last held a recorded title contains ”.
+
+(7) Section 30 (conveyances and discharges of real burdens) shall cease to have effect.
+
+(8) [^F88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In section 35 (registration of a decree of division)—
+
+(a) the word “joint” shall cease to have effect;
+
+(b) for the words “infeftment in, or of acquiring a personal right” substitute “ deducing title ”; and
+
+(c) the words from “, as an assignation” to the end shall cease to have effect.
+
+(10) In section 36 (effect of decree of sale of glebe), the words from “, with a holding” to the end shall cease to have effect.
+
+(11) Section 37 (distinction between heritage and conquest abolished) shall cease to have effect.
+
+(12) In section 44 (provisions for the case of a person appointed by the court to administer a trust)—
+
+(a) after the words “When a trust title” insert “ to land or to a real right in or over land ”;
+
+(b) for the words “a title by infeftment in the estate” substitute “ to complete, ”; and
+
+(c) after the words “thereby appointed,” insert “ title to the land or real right ”.
+
+(13) In section 45 (how title is completed when the holder of an office or proprietor is*ex officio* a trustee and his successor in office takes the trust), for the words—
+
+(a) “estate in land” substitute “ land, or any real right in or over land, ”; and
+
+(b) “by infeftment in the estate” substitute “ to the land or real right ”.
+
+(14) In section 47 (securities upon land, and relative personal obligations, to transmit against heirs and disponees), for the words—
+
+(a) “upon an estate in land” substitute “ over land, or over a real right in land, ”;
+
+(b) “such estate” substitute “ such land or real right ”; and
+
+(c) “the estate” substitute “ the land or real right ”.
+
+(15) Sections 48 (provisions for disencumbering lands sold under heritable securities when no surplus emerges) and 49 (provision for disencumbering lands of heritable security) shall cease to have effect.
+
+(16) In section 51 (probate equivalent to will or extract for completing title)—
+
+(a) the words “production to any notary public of the” shall cease to have effect;
+
+(b) for the words “of an exemplification of such probate, shall for the purpose of expeding a notarial instrument, or otherwise completing a title to any estate in land” substitute “ an exemplification of such probate, shall for the purpose of completing a title to any land, or real right in land, ”; and
+
+(c) the words “the production to such notary of” and from “, and it shall not” to the end shall cease to have effect.
+
+(17) Sections 52 (decrees of service unchallengeable on certain grounds), 53 (form of completing title to heritable securities under a general disposition), 57 (certain [[^F89]offices] abolished, and the duties of the Sheriff of Chancery, &c. enlarged) and 58 (provisions as to Chancery office) shall cease to have effect.
+
+(18) In section 59 (application to lands held of the Crown and Prince) the words “shall apply to lands held of the Crown and of the Prince, in the same way as to lands held of a subject superior, but” shall cease to have effect.
+
+(19) Section 60 (title to private estates of Her Majesty in Scotland) shall cease to have effect.
+
+(20) Schedules A (form of notice to be given to a superior of change of ownership), B (form of summons of declarator and for payment of a casualty), C (form of minute for effecting consolidation of lands), D (being the form of memorandum of allocation of feu-duty; and not that Schedule D substituted for Schedule O by section 8(1) of the Conveyancing (Scotland) Act 1924), F (form of discharge of casualties) and G (form of memorandum constituting a feu-duty or additional feu-duty) shall cease to have effect.
+
+(21) [^F88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(22) Schedule L (form of certificate where lands are sold under a heritable security and no surplus emerges and form of certificate where lands have been redeemed of a heritable security but discharge cannot be obtained) shall cease to have effect.
+
+(23) In Schedule M (form of assignation of right of relief etc.), the words from “, e.g. ],” to “*or as the case may be*” shall cease to have effect.
+
+(24) Schedule N (form of instrument in favour of a general disponee or his assignee in right of a heritable security) shall cease to have effect.
+
+#### Writs Execution (Scotland) Act 1877 (c.40)
+
+**10** In section 6 of the Writs Execution (Scotland) Act 1877 (provision that writs registered in the Register of Sasines for preservation only may afterwards be registered for preservation and execution)—
+
+(a) the words “upon a warrant of registration” shall cease to have effect; and
+
+(b) for the words “having a warrant of registration written thereon, bearing” substitute “ with, written on the extract, a statement to the effect ”.
+
+#### Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887 (c.69)
+
+**11** (1) The Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887 shall be amended in accordance with this paragraph.
+
+(2) Sections 1 (limitation of liability of trustees for casualties), 3 (novodamus not challengeable because lands not resigned into superior’s hands) and 4 (decree of irritancy not final till extract recorded) shall cease to have effect.
+
+(3) In section 5 (letters of administration of will, &c. equivalent to will for authorisation of notary to expede instrument)—
+
+(a) the words “The production to any notary public of” shall cease to have effect;
+
+(b) for the words “or of an exemplification” substitute “ or an exemplification ”;
+
+(c) the words “expeding a notarial instrument, or otherwise” shall cease to have effect;
+
+(d) for the word “estate” substitute “ land or real right ”; and
+
+(e) the words from “; and it shall not” to the end shall cease to have effect.
+
+#### Military Lands Act 1892 (c.43)
+
+**12** In section 25 of the Military Lands Act 1892 (application to Scotland), after subsection
+
+(1) there shall be added—
+
+> (1A) Any reference to an “estate” in land shall be construed as a reference to a right in land and as including a reference to ownership of land.
+
+.
+
+#### Heritable Securities (Scotland) Act 1894 (c.44)
+
+**13** (1) The Heritable Securities (Scotland) Act 1894 shall be amended in accordance with this paragraph.
+
+(2) In section 6 (power to lease security subjects for seven years or under), for the words “disponed in security” substitute “ by virtue of an adjudication ”.
+
+(3) In section 7 (sheriff may grant power to lease security subjects for longer periods, not more than 21 years for heritable property in general and 31 years for minerals)—
+
+(a) for the words “disponed in security”, where they first occur, substitute “ by virtue of an adjudication ”; and
+
+(b) where they occur for the second time they shall cease to have effect.
+
+(4) Sections 8 (provisions for security holders becoming proprietors of security subjects), 9 (completion of title of security holders etc.) and 10 (purchaser’s title indefeasible) shall cease to have effect.
+
+(5) In section 12 (provisions anent procedure), the word “, eight,” shall cease to have effect.
+
+(6) In section 13 (provisions of Act to have effect notwithstanding incapacity of debtor etc.), for the words—
+
+(a) “conferred by this Act” substitute “ under a heritable security ”;
+
+(b) “under this Act” substitute “ by a creditor in exercise of those rights and powers ”; and
+
+(c) “such debtor, proprietor,” substitute “ the debtor, proprietor, other ”.
+
+(7) Sections 14 (provision as respects security holders under Registration of Leases (Scotland) Act 1857), 15 (jurisdiction of sheriff in all cases instituted under or in connection with Act), 16 (provision as to notice where debtor has died and heir cannot be traced) and 17 (saving) shall cease to have effect.
+
+(8) Schedule (D.) (form of decree whereby security holder becomes proprietor of security subjects) shall cease to have effect.
+
+#### Entail (Scotland) Act 1914 (c.43)
+
+**14** (1) The Entail (Scotland) Act 1914 shall be amended in accordance with this paragraph.
+
+(2) In section 2 (Entail Act 1685 not to apply to future deeds)—
+
+(a) for the words “The Entail Act, 1685, shall not apply to any” substitute “ No ”;
+
+(b) for the words “, the effect of which would be” substitute “ shall be effective ”; and
+
+(c) the words “and any clause of consent to registration in the register of entails”, and the provisos, shall cease to have effect.
+
+(3) Sections 3 to 8 (further facilities for disentail, etc.) shall cease to have effect.
+
+(4) In section 10 (interpretation), the words “, unless the contrary intention appears,” and “, and the words “heir of entail” shall include the institute” shall cease to have effect.
+
+#### Conveyancing (Scotland) Act 1924 (c.27)
+
+**15** (1) The Conveyancing (Scotland) Act 1924 shall be amended in accordance with this paragraph.
+
+(2) In section 2(1)(b) (definition of “heritable securities” and “securities”), the words from “real burdens” to “them, and” shall cease to have effect.
+
+(3) In section 3 (disposition etc. by person uninfeft)—
+
+(a) the words “last infeft or” shall cease to have effect; and
+
+(b) for the words from “in all respects” to the end substitute “ completed ”.
+
+(4) In section 4 (completion of title)—
+
+(a) in subsection (1), for the words “last infeft” substitute “ having the last recorded title ”;
+
+(b) in subsection (2)—
+
+(i) for the words “last infeft” substitute “ having the last recorded title ”; and
+
+(ii) the words “by infeftment” shall cease to have effect;
+
+(c) in subsection (3)—
+
+(i) the words from “, or in the case” to “that Schedule” shall cease to have effect; and
+
+(ii) for the words from “last infeft” to the end substitute “ having the last recorded title to the heritable security ”; and
+
+(d) in subsection (4)—
+
+(i) for the words “infeft him therein and in” substitute “ completed his title thereto and to ”;
+
+(ii) the words “, or in the case of a ground annual in or as nearly as may be in the terms of Form No. 6 of that Schedule” and from “And on such notice” to the end, shall cease to have effect.
+
+(5) In section 5 (deduction of title)—
+
+(a) in subsection (1)—
+
+(i) for the words “any estate or interest in or security over” substitute “ any real right in ”;
+
+(ii) after the words “instrument could” insert “ (before the day appointed by order made under section 71 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)) ”; and
+
+(iii) for the words “an estate or interest in or security over” substitute “ a real right in ”;
+
+(b) in subsection (2)(a)—
+
+(i) the words “infeft or uninfeft, or” shall cease to have effect; and
+
+(ii) for the words “and seventh sections” substitute “ section ”; and
+
+(c) in subsection (3)(a), the words “last infeft or” shall cease to have effect.
+
+(6) Section 6 (notice of title equivalent to notarial instrument) shall cease to have effect.
+
+(7) In section 8 (description by reference), subsection (2) shall cease to have effect.
+
+(8) [^F90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Sections 10 (warrants of registration), 11 (consolidation of superiority and property), 12 (abolition and commutation of grain, etc., feu-duties) and 13 (allocation of feu-duty) shall cease to have effect.
+
+(10) In section 19 (applicability of forms prescribed by Act), the words “or fee” shall cease to have effect.
+
+(11) Sections 20 (ratification by married woman) and 23 (assignation of ground-annuals) shall cease to have effect.
+
+(12) In section 24 (registered leases: assimilation of forms)—
+
+(a) the words “, including power of sale and other rights under a bond and disposition in security,” and “, and such forms shall have the same force and effect as the corresponding forms prescribed by the Registration of Leases (Scotland) Act 1857,” shall cease to have effect;
+
+(b) in paragraph (1) of the proviso—
+
+(i) after the word “ “lessee”” there shall be inserted “ and ”; and
+
+(ii) the words from “, for “infeft”” to the end shall cease to have effect; and
+
+(c) in paragraph (5) of the proviso, the words from “by notarial instrument” to “law and practice” shall cease to have effect.
+
+(13) Sections 25 (form of bond and disposition in security) and 26 (heritable creditors’ remedies for recovery of feu-duties and ground-annuals) shall cease to have effect.
+
+(14) Sections 28 to 39 (provisions as respects heritable securities) shall cease to have effect.
+
+(15) In section 40(1) (exposure in lots and apportionment of feu-duty)—
+
+(a) for the words “The land, or any part thereof,” substitute “ Land, or any part thereof, sold in exercise of a power of sale under a bond and disposition in security ”; and
+
+(b) the words “feu-duty, ground-annual, stipend,” and “feu-duty and casualties, ground annual, stipend or” shall cease to have effect.
+
+(16) In section 41(1) (purchasers protected), for the words “under sections thirty-two to forty, inclusive, of this Act” substitute “ relating to the redemption or calling up of, or a sale under, a bond and disposition in security ”.
+
+(17) Sections 42 (mode of disburdening land sold under power of sale in heritable security) and 43 (application of Act to all heritable securities) shall cease to have effect.
+
+(18) In section 49 (saving), subsection (1) shall cease to have effect.
+
+(19) In Schedule A—
+
+(a) the heading to Form No.1 shall be—
+
+and
+
+(b) in Form No.1, for the words—
+
+(i) “*last infeft*” substitute “ *having last recorded title* ”; and
+
+(ii) “*infeftment*” substitute “ *recorded title* ”.
+
+(20) In Schedule B (notice of title)—
+
+(a) in Form No.1, for the words—
+
+(i) “*last infeft*” substitute “ *having last recorded title* ”; and
+
+(ii) “*infeftment*” substitute “ *recorded title* ”;
+
+(b) in Form No. 3, the words “*last infeft therein, or*” shall cease to have effect; and
+
+(c) Forms Nos. 4 and 6 shall cease to have effect.
+
+(21) In the Notes to Schedule B—
+
+(a) in Note 1, for the word “infeftment” substitute “ recorded title ”; and
+
+(b) in Note 3—
+
+(i) for the words “infeftment upon” substitute “ title to ”; and
+
+(ii) for the words “including a ground annual has been taken” substitute “ has been completed ”.
+
+(22) Schedules F (warrants of registration), G (minute of consolidation) and H (memorandum of allocation of feu duty not endorsed on a deed), and the Notes to Schedule F, shall cease to have effect.
+
+(23) Schedules K, L, M and N (forms relating to bonds and dispositions in security), and the Notes to Schedule K, shall cease to have effect.
+
+#### Church of Scotland (Property and Endowments) Act 1925 (c.33)
+
+**16** (1) The Church of Scotland (Property and Endowments) Act 1925 shall be amended in accordance with this paragraph.
+
+(2) In section 22 (burgh churches)—
+
+(a) [^F91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in subsection (3), the word “feu,”,
+
+shall cease to have effect.
+
+(3) Section 27 (proceedings relating to certain matters) shall cease to have effect.
+
+(4) In section 28 (transfer of rights in parish churches and manses)—
+
+(a) in subsection (3)(b)—
+
+(i) for the words “all rights of property in” substitute “ the ownership of ”; and
+
+(ii) the words from “, to the same effect” to the end shall cease to have effect; and
+
+(b) subsections (6) to (8) shall cease to have effect.
+
+(5) In section 30(3) (orders relating to glebes)—
+
+(a) in paragraph (c), the words from “, whether as” to “in place of the minister”;
+
+(b) in paragraph (e), the words “feu-duties and Government or other” and from “under or in pursuance” to “made by a minister”; and
+
+(c) paragraph (f),
+
+shall cease to have effect.
+
+(6) Section 31 (redemption of feu-duty affecting glebe) shall cease to have effect.
+
+(7) In section 34 (provisions relating to quoad sacra parishes)—
+
+(a) in subsection (1)—
+
+(i) in paragraph (b), the words “and certified by the Clerk of Teinds”; and
+
+(ii) paragraph (e);
+
+(b) subsection (3); and
+
+(c) in subsection (4)(iii), the words “feu-duties, ground annuals, bonds of annual rent, or other”, “with the sanction of the Court of Teinds” and “or payment of the feu— duty thereon”,
+
+shall cease to have effect.
+
+(8) In section 35(7) (interpretation), the words “uninfeft or infeft” shall cease to have effect.
+
+(9) In section 36 (requirements of parish to be first charge on endowments), the proviso shall cease to have effect.
+
+(10) In section 37 (powers of General Trustees), the words “heritor or other” shall cease to have effect.
+
+(11) Sections 39 (allocation of certain money by General Trustees), 40 (redemption of manse maill, etc.) and 41 (provisions relating to Court of Teinds) shall cease to have effect.
+
+(12) In section 42 (application to Crown lands), the words from “, and to the teinds” to the end shall cease to have effect.
+
+(13) Sections 45 (saving for obligations of relief) and 46 (saving for superiors) shall cease to have effect.
+
+(14) In section 47 (interpretation)—
+
+(a) in subsection (1), in the definition of “Stipend”, the words “, including any allowance for communion elements payable by heritors out of teinds”; and
+
+(b) subsections (2) and (3),
+
+shall cease to have effect.
+
+(15) The First to the Seventh Schedules shall cease to have effect.
+
+#### Church of Scotland (Property and Endowments) Amendment Act 1933 (c.44)
+
+**17** (1) The Church of Scotland (Property and Endowments) Amendment Act 1933 shall be amended in accordance with this paragraph.
+
+(2) In section 7 (suppression or union of parishes)—
+
+(a) paragraph (ii) of the proviso; and
+
+(b) the word “and” immediately preceding that paragraph,
+
+shall cease to have effect.
+
+(3) In section 8(1) (obligation of third party as respects endowments of parish quoad sacra etc.), the words “, or any obligation at common law for payment of the stipend or part of the stipend of the parish being a parish quoad omnia” shall cease to have effect.
+
+(4) In section 9 (rights of superiors and others)—
+
+(a) subsections (1) and (2) shall cease to have effect; and
+
+(b) in subsection (3)—
+
+(i) for the word “heritor”, in both places where it occurs, substitute “ person ”; and
+
+(ii) the words “or take in feu” and “or feu-duty” shall cease to have effect.
+
+(5) Sections 10 (vesting of stipends of ministers of burgh churches, etc.) and 11 (vesting of glebe feu-duties etc.) shall cease to have effect.
+
+#### Conveyancing Amendment (Scotland) Act 1938 (c.24)
+
+**18** (1) The Conveyancing Amendment (Scotland) Act 1938 shall be amended in accordance with this paragraph.
+
+(2) Sections 6 (actions of declarator of irritancy) and 8 (prohibition of subinfeudation annulled) shall cease to have effect.
+
+(3) [^F92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### National Parks and Access to the Countryside Act 1949 (c.97)
+
+**19** (1) The National Parks and Access to the Countryside Act 1949 shall be amended in accordance with this paragraph.
+
+(2) For section 26 substitute—
+
+> **Application of Part III to Scotland**
+>
+> **26** In the application of this Part of this Act to Scotland the expression “limited owner”, in relation to land, means a liferenter in possession of that land.
+
+.
+
+(3) In section 114(1) (interpretation), in the definition of “owner”—
+
+(a) after the words “except in Part III of this Act” insert “ or in relation to Scotland, ”; and
+
+(b) the words “and as respects Scotland has the meaning assigned to it by section twenty-six of this Act” shall cease to have effect.
+
+#### Town and Country Planning (Scotland) Act 1954 (c.73)
+
+**20** (1) The Town and Country Planning (Scotland) Act 1954 shall be amended in accordance with this paragraph.
+
+(2) In section 55 (compensation for damage to requisitioned land), for subsection (2) substitute—
+
+> (2) The said values are—
+>
+> (a) the value, at the time when the compensation accrues due, of the land in question (it being presumed that the land is subject to any servitude or other restriction then affecting it but otherwise is free from burdens); and
+>
+> (b) the value which such land would have at that time (on the same presumption as is mentioned in paragraph (a) above) if the land were then in the state in which it was when possession was taken in the exercise of emergency powers.
+
+.
+
+(3) Section 69 (interpretation) shall cease to have effect.
+
+#### Land Powers (Defence) Act 1958 (c.30)
+
+**21** In section 25(2) of the Land Powers (Defence) Act 1958 (interpretation), after paragraph
+
+(b) there shall be inserted—
+
+> (bb) any reference to an “interest” in land, however expressed, shall be construed as a reference to a right in, or interest in, land and as including a reference to ownership of land;
+
+.
+
+#### Opencast Coal Act 1958 (c.69)
+
+**22** In section 52 of the Opencast Coal Act 1958 (general application to Scotland)—
+
+(a) in subsection (2) in the definitions of “freehold interest” and “owner”, the words “of the *dominium utile*” shall cease to have effect; and
+
+(b) subsections (6) to (8) shall cease to have effect.
+
+#### Caravan Sites and Control of Development Act 1960 (c.62)
+
+**23** In section 32(1) of the Caravan Sites and Control of Development Act 1960 (application of Part I of Act to Scotland), for paragraph (d) substitute—
+
+> (d) the reference in subsection (3) of section one of this Act to an estate or interest in land shall be construed as a reference to a right in, or to, land and the references in that subsection and in section twelve of this Act to a licence in respect of land shall be construed as not including a tenancy of land;
+
+.
+
+#### Flood Prevention (Scotland) Act 1961 (c.41)
+
+**24** [^F93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Land Compensation (Scotland) Act 1963 (c.51)
+
+**25** (1) The Land Compensation (Scotland) Act 1963 shall be amended in accordance with this paragraph.
+
+(2) In section 10 (consolidation of proceedings on claims in respect of several interests in the same land), for the words “acquisition of the several interests” substitute “ acquisition of several interests ”.
+
+(3) In section 20 (consideration in respect of discharge of feu-duty etc.)—
+
+(a) in subsection (1), the words “the*dominium utile* in”, in both places where they occur, shall cease to have effect;
+
+(b) in subsection (2), the words “feu-duty, or ground annual or other” and “(not being stipend or standard charge in lieu of stipend)” shall cease to have effect;
+
+(c) in subsection (3), for the words “*dominium utile*” substitute “ land ”;
+
+(d) in subsection (7), the words “*dominium utile* in any” shall cease to have effect; and
+
+(e) in subsection (8), the words “the *dominium utile* in” shall cease to have effect.
+
+(4) In section 27(3) (application for certificate of alternative development), the words “and that interest is the *dominium utile* of the land,”, “feu-duty or ground annual or other” and “(not being stipend or standard charge in lieu of stipend)” shall cease to have effect.
+
+(5) In section 28 (provisions as respect certain regulations under section 275(1)(c) of the Town and Country Planning (Scotland) Act 1997)—
+
+(a) in paragraph (e), the words “the *dominium utile* of” and, in both places where they occur, “feu-duty or”; and
+
+(b) in paragraph (f), the words “the*dominium utile* of”,
+
+shall cease to have effect.
+
+(6) In section 32(6)(b) (provision for notification to planning authority in certain circumstances), for the words “*dominium utile*” substitute “ ownership ”.
+
+(7) In section 45 (interpretation)—
+
+(a) after subsection (1) insert—
+
+> (1A) Any reference in this Act to an “interest” in land shall be construed as a reference to a right in land and as including a reference to ownership of land.
+
+;
+
+and
+
+(b) subsections (8) and (9) shall cease to have effect.
+
+(8) In Schedule 2 (acquisition of houses which do not meet the tolerable standard), in paragraph 2(2), the words “the superior of, and” shall cease to have effect.
+
+#### Local Government (Development and Finance)(Scotland) Act 1964 (c.67)
+
+**26** In section 7 of the Local Government (Development and Finance)(Scotland) Act 1964 (power to make advances for erection of buildings), for subsection (6) substitute—
+
+> (6) The security for an advance made under this section shall be taken at the time of making or, in the case of an agreement to sell or let the land, at the time of the conveyance or of the lease.
+
+.
+
+#### Forestry Act 1967 (c.10)
+
+**27** (1) The Forestry Act 1967 shall be amended in accordance with this paragraph.
+
+(2) In section 5(3) (recording of forestry dedication agreement affecting land in Scotland), in the proviso, for the words “completed by infeftment” substitute “ title has been completed ”.
+
+(3) In section 34(3) (Scottish interpretation of expression “owner”), the words “the proprietor of the*dominium utile* or, in the case of land other than feudal land, is” shall cease to have effect.
+
+(4) In section 49 (interpretation), subsection (3) shall cease to have effect.
+
+(5) In Schedule 2 (conveyancing and other provisions connected with forestry dedication), in paragraph 4, for sub-paragraph (1) substitute—
+
+> (1) In the case of land in Scotland, a liferenter in possession of the land shall have power to enter into forestry dedication agreements relating to, or to any part of, the land.
+
+.
+
+#### Countryside (Scotland) Act 1967 (c.86)
+
+**28** (1) The Countryside (Scotland) Act 1967 shall be amended in accordance with this paragraph.
+
+(2) In section 13(4) (certain persons who have power to enter access agreements), for the words “person, being the liferenter or the heir of entail,” substitute “ liferenter ”.
+
+(3) In section 16 (effect of access agreement or order on rights and liabilities of persons interested in land)—
+
+(a) in each of subsections (6)(a) and (7)(a), for the words “an interest” substitute “ a right ”; and
+
+(b) in subsection (9), for the words “completed by infeftment” substitute “ title has been completed ”.
+
+(4) In each of sections 24(1) (acquisition, by planning authority, of land for public access) and 25(1) (acquisition, by Secretary of State, of land for public access), the word “feu,” shall cease to have effect.
+
+(5) In section 38(5) (recording of public path creation agreement), in the proviso, for the words “completed by infeftment” substitute “ title has been completed ”.
+
+(6) In section 49A (management agreements)—
+
+(a) in subsection (5), for the words “person, being the liferenter or the heir of entail,” substitute “ liferenter ”; and
+
+(b) in subsection (9), for the words “completed by infeftment” substitute “ title has been completed ”.
+
+(7) In section 78(1) (interpretation), in the definition of “interest”, for the words “the ownership of an interest in land” substitute “ ownership ”.
+
+#### Countryside Act 1968 (c.41)
+
+**29** (1) The Countryside Act 1968 shall be amended in accordance with this paragraph.
+
+(2) In section 15(6) (modification of section in its application to Scotland), in the proviso to the inserted subsection (4), for the words “completed by infeftment” substitute “ title has been completed ”.
+
+(3) In section 24(2) (acquisition of land for planting trees in interests of amenity), the word “feu,” shall cease to have effect.
+
+#### Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35)
+
+**30** (1) The Conveyancing and Feudal Reform (Scotland) Act 1970 shall be amended in accordance with this paragraph.
+
+(2) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Sections 3 to 6 (allocation of feuduties and ground annuals) shall cease to have effect.
+
+(5) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In section 9 (which introduces the form of heritable security known as a standard security)—
+
+(a) in subsection (2), for the words “interest in land” substitute “ land or real right in land, ”;
+
+(b) in subsection (3), for the words “an interest” substitute “ land or a real right ”;
+
+(c) in subsection (4), for the words “of an interest” substitute “ of land or of a real right ”; and
+
+(d) in subsection (8)—
+
+(i) in paragraph (a), for the word “interest”, in both places where it occurs, substitute “ land or real right ”;
+
+(ii) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) in paragraph (c), the words “feuduty, ground annual,” shall cease to have effect.
+
+(7) In section 10(2) (clause of warrandice to import absolute warrandice), for the word “interest” substitute “ land or real right ”.
+
+(8) In section 11(1) (effect of recorded standard security), for the words from “the interest” to “a security” substitute “ in the grantee a real right in security ”.
+
+(9) In section 12 (standard security may be granted by person uninfeft)—
+
+(a) in subsection (1)—
+
+(i) for the words “an interest” substitute “ land or a real right ”;
+
+(ii) the words “having right to that interest, but” shall cease to have effect; and
+
+(iii) for the word “interest”, where it last occurs, substitute “ land or real right ”;
+
+(b) in subsection (2)—
+
+(i) for the word “interest” substitute “ land or real right in land ”; and
+
+(ii) for the words “last infeft” substitute “ having the last recorded title ”.
+
+(10) In section 13(1) (ranking of standard securities), for the words “interest in land or any part thereof, or of the subsequent assignation or conveyance of that interest” substitute “ land or real right in land or over any part thereof, or of the subsequent assignation or conveyance of that land or real right, ”.
+
+(11) In section 15(1) (restriction of standard security)—
+
+(a) for the word “interest”, where it first occurs, substitute “ land or real right ”; and
+
+(b) for the words from “to the interest” to “and the interest in land” substitute “ to the land or real right contained in the standard security other than the part of that land or real right disburdened by the deed; and the land or real right ”.
+
+(12) In section 16 (variation of standard security)—
+
+(a) in each of subsections (1) and (2), for the word “interest” substitute “ land or real right ”; and
+
+(b) in subsection (4), for the words “interest in land, or” substitute “ land or real right in land, or over ”.
+
+(13) In section 17 (discharge of standard security), for the word “interest” substitute “ land or real right ”.
+
+(14) In section 18(3) (redemption of standard security), for the word “interest” substitute “ land or real right ”.
+
+(15) In section 19 (calling-up of standard security)—
+
+(a) in subsection (2), for the words “last infeft in” substitute “ having the last recorded title to ”; and
+
+(b) in subsection (3), for the words—
+
+(i) “last infeft in” substitute “ having the last recorded title to ”; and
+
+(ii) “last infeft have” substitute “ having the last recorded title have ”.
+
+(16) In section 30 (interpretation)—
+
+(a) in subsection (1), for the definition of “interest in land” substitute—
+
+> “real right in land” has the meaning assigned to it by the said section 9(8);
+
+;
+
+and
+
+(b) in subsection (2), the definition of “infeft” shall cease to have effect.
+
+(17) Sections 33 (form of notice calling-up heritable security), 34 (amendment of section 34 of Conveyancing (Scotland) Act 1924), 35 (power of creditor in bond and disposition in security to sell to include power to sell by private bargain) and 39 (amendment of section 8 of Heritable Securities (Scotland) Act 1894) shall cease to have effect.
+
+(18) In section 41(1) (restriction on effect of reduction of certain discharges of securities)—
+
+(a) for the words “to any subsequent interest in the land, acquired” substitute “ who subsequently acquires the land or a real right in or over it ”; and
+
+(b) the words “of the interest” shall cease to have effect.
+
+(19) In section 43(1) (interpretation), the definition of “the Act of 1894” shall cease to have effect.
+
+(20) Section 49 (abolition of heritor’s right of pre-emption of glebe) shall cease to have effect.
+
+(21) In section 51 (application to the Crown), for the words “held of the Crown and of” substitute “ owned by the Crown or by ”.
+
+(22) [^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(23) In the Notes to Schedule 2 (which relates to forms of standard security)—
+
+(a) for note 1 substitute—
+
+> *Note 1*.—The security subjects shall be described sufficiently to identify them; but this note is without prejudice to any additional requirement imposed as respects any register.
+>
+> .
+
+(b) in note 2—
+
+(i) the words “*ground annual or*” shall cease to have effect; and
+
+(ii) for the word “infeftment” substitute “ recorded title ”; and
+
+(c) in note 3—
+
+(i) for the words “has been infeft in” substitute “ has a recorded title to ”;
+
+(ii) for the words “has not previously been infeft in” substitute “ does not have a recorded title to ”;
+
+(iii) the words “*ground annual or*” shall cease to have effect;
+
+(iv) for the words “last infeft in” substitute “ who last had a recorded title to ”; and
+
+(v) for the word “infeftment” substitute “ recorded title ”.
+
+(24) In Schedule 3 (the standard conditions), in condition 10(3), the words “feuduties, ground annuals or, as the case may be,” shall cease to have effect.
+
+(25) In the Notes to Schedule 4 (which relates to forms of deeds of assignation and of restriction etc.), in note 3, for the words “infeftment upon a standard security has been taken” substitute “ title to a standard security has been completed ”.
+
+(26) In schedule 8 (excluded enactments), paragraphs 2, 3, 7 to 14, 16 and 17, 18 to 22, 24 and 26 to 30 shall cease to have effect.
+
+#### Agriculture Act 1970 (c.40)
+
+**[^F95]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Housing (Financial Provisions) (Scotland) Act 1972 (c.46)
+
+**32** In section 78(1) of the Housing (Financial Provisions) (Scotland) Act 1972 (interpretation), in the definition of “land”, for the word “estate” substitute “ right ”.
+
+#### Prescription and Limitation (Scotland) Act 1973 (c.52)
+
+**33** (1) The Prescription and Limitation (Scotland) Act 1973 shall be amended in accordance with this paragraph.
+
+(2) For sections 1 and 2 there shall be substituted—
+
+> **Validity of right**
+>
+> **1** (1) If land has been possessed by any person, or by any person and his successors, for a continuous period of ten years openly, peaceably and without any judicial interruption and the possession was founded on, and followed—
+>
+> (a) the recording of a deed which is sufficient in respect of its terms to constitute in favour of that person a real right in—
+>
+> (i) that land; or
+>
+> (ii) land of a description*habile* to include that land; or
+>
+> (b) registration of a real right in that land, in favour of that person, in the Land Register of Scotland, subject to an exclusion of indemnity under section 12(2) of the Land Registration (Scotland) Act 1979 (c.33),
+>
+> then, as from the expiry of that period, the real right so far as relating to that land shall be exempt from challenge.
+>
+> (2) Subsection (1) above shall not apply where—
+>
+> (a) possession was founded on the recording of a deed which is invalid*ex facie* or was forged; or
+>
+> (b) possession was founded on registration in the Land Register of Scotland proceeding on a forged deed and the person appearing from the Register to have the real right in question was aware of the forgery at the time of registration in his favour.
+>
+> (3) In subsection (1) above, the reference to a real right is to a real right which is registrable in the Land Register of Scotland or a deed relating to which can competently be recorded; but this section does not apply to servitudes or public rights of way.
+>
+> (4) In the computation of a prescriptive period for the purposes of this section in a case where the deed in question is a decree of adjudication for debt, any period before the expiry of the legal shall be disregarded.
+>
+> (5) Where, in any question involving any foreshore or any salmon fishings, this section is pled against the Crown as owner of the regalia, subsection (1) above shall have effect as if for the words “ten years” there were substituted “twenty years”.
+>
+> (6) This section is without prejudice to section 2 of this Act.
+>
+> **Special cases**
+>
+> **2** (1) If—
+>
+> (a) land has been possessed by any person, or by any person and his successors, for a continuous period of twenty years openly, peaceably and without any judicial interruption; and
+>
+> (b) the possession was founded on, and followed the execution of, a deed (whether recorded or not) which is sufficient in respect of its terms to constitute in favour of that person a real right in that land, or in land of a description*habile* to include that land, then, as from the expiry of that period, the real right so far as relating to that land shall be exempt from challenge except on the ground that the deed is invalid*ex facie* or was forged.
+>
+> (2) This section applies—
+>
+> (a) to the real right of the lessee under a lease; and
+>
+> (b) to any other real right in land, being a real right of a kind which, under the law in force immediately before the commencement of this Part of this Act, was sufficient to form a foundation for positive prescription without the deed constituting the title to the real right having been recorded,
+>
+> but does not apply to servitudes or public rights of way.
+>
+> (3) This section is without prejudice to section 1 of this Act or to section 3(3) of the Land Registration (Scotland) Act 1979 (c.33).
+
+.
+
+(3) In section 5(1) (provision as to what is to be treated as a deed for the purposes of sections 1, 2 and 3 of the Act), for the words “title to an interest in land shall be treated as a deed sufficient to constitute that title” substitute “ right in land shall be treated as a deed sufficient to constitute that right ”.
+
+(4) In section 15(1) (interpretation), the definition of “interest in land” shall cease to have effect.
+
+(5) In Schedule 1 (obligations affected by certain prescriptive periods)—
+
+(a) in paragraph 1, heads (iii) and (iv) of sub-paragraph (a); and
+
+(b) in paragraph 2(f), the words “terce, courtesy,”
+
+shall cease to have effect.
+
+**34** Paragraph 33(1) and (5)(a) of this schedule, and the provisions of schedule 13 to this Act in so far as relating to Schedule 1.1(a)(iii) and (iv) to the Prescription and Limitation (Scotland) Act 1973, shall not affect the application of section 6 of that Act to any obligation falling due on or before the appointed day.
+
+#### Land Compensation (Scotland) Act 1973 (c.56)
+
+**35** In section 80 of the Land Compensation (Scotland) Act 1973 (interpretation), after subsection (1) insert—
+
+> (1A) Any reference in this Act to an “interest” in land shall be construed as a reference to a right in land and as including a reference to ownership of land.
+
+.
+
+#### Offshore Petroleum Development (Scotland) Act 1975 (c.8)
+
+**36** (1) The Offshore Petroleum Development (Scotland) Act 1975 shall be amended in accordance with this paragraph.
+
+(2) In section 14(1) (power to require information as to interests in land), the word “superior,” shall cease to have effect.
+
+(3) In section 20 (short title, interpretation and extent)—
+
+(a) in subsection (2)—
+
+(i) in the definition of “Crown interest”, the words “estate or” shall cease to have effect; and
+
+(ii) for the definition of “land” substitute—
+
+> “land” includes the foreshore and other land covered with water and, except where the context otherwise requires—
+>
+> (a) any interest in, or right over, land; and
+>
+> (b) any other heritable property;
+
+;
+
+and
+
+(b) in subsection (3), the words “estate or” shall cease to have effect.
+
+#### Scottish Development Agency Act 1975 (c.69)
+
+**37** (1) The Scottish Development Agency Act 1975 shall be amended in accordance with this paragraph.
+
+(2) In section 9 (acquisition and disposal of land), in subsection (1)(a), the word “feu,” shall cease to have effect.
+
+(3) In section 11(1) (power to obtain information), the word “superior,” shall cease to have effect.
+
+(4) In section 25(1) (interpretation), for the definition of “land” substitute—
+
+> “land” includes—
+>
+> (a) the foreshore and other land covered with water;
+>
+> (b) any interest in, or right over, land; and
+>
+> (c) any other heritable property;
+
+.
+
+#### Aircraft and Shipbuilding Industries Act 1977 (c.3)
+
+**38** In section 56(3) (interpretation of expressions relating to land in Scotland), for paragraph (b) substitute—
+
+> (b) “rights of ownership” means the rights—
+>
+> (i) of an owner; or
+>
+> (ii) of a tenant under a lease;
+
+.
+
+#### Land Registration (Scotland) Act 1979 (c.33)
+
+**39** (1) The Land Registration (Scotland) Act 1979 shall be amended in accordance with this paragraph.
+
+(2) In section 2(1)(a) (provision for registration in the land register)—
+
+(a) in sub-paragraph (i)—
+
+(i) for the words “feu, long lease or security by way of contract of ground annual” substitute “ long lease ”; and
+
+(ii) for the words “feuar, lessee or debtor in the ground annual” substitute “ lessee ”; and
+
+(b) in sub-paragraph (v), for the words “, udal tenure or a kindly tenancy” substitute “ or udal tenure ”.
+
+(3) In section 3 (effect of registration)—
+
+(a) in subsection (3), paragraph (c) shall cease to have effect;
+
+(b) in subsection (4), paragraph (b) shall cease to have effect; [^F96]. . .
+
+(c) [^F96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 6 (title sheets)—
+
+(a) in subsection (1)(a), for the words “*dominium utile*” substitute “ land ”; and
+
+(b) in subsection (3), the words “over-feuduty or”, in both places where they occur, shall cease to have effect.
+
+(5) In section 12 (indemnity in respect of loss)—
+
+(a) in subsection (3)(m), the words “a superior, a creditor in a ground annual or”, “the feu writ, the contract of ground annual or”, “, as the case may be,”, “superior, creditor or” and, in both places where they occur, “feuduty, ground annual or”; and
+
+(b) in subsection (4)(a) the words “over-feuduty or”,
+
+shall cease to have effect.
+
+(6) [^F96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 16 (omission of certain clauses in deeds)—
+
+(a) subsection (2); and
+
+(b) in subsection (3)(b), the words “feuduties, ground annuals,” and “and, in the case of a grant of land in feu, of all feuduties payable by the grantor to his superiors from and after the date of entry”,
+
+shall cease to have effect.
+
+(8) In section 20 (tenants-at-will)—
+
+(a) in subsection (3), paragraph (ii), and the word “; and” immediately preceding that paragraph, shall cease to have effect;
+
+(b) in subsection (5), for the words “, restriction or redemption” substitute “ or restriction ”;
+
+(c) in subsection (6), the words “, and all such feuduties, ground annuals or other periodical payments as are mentioned in subsection (3)(ii) above” shall cease to have effect; and
+
+(d) in subsection (8)(a), sub-paragraph (ii) shall cease to have effect.
+
+(9) In section 21 (provisions supplementary to section 20)—
+
+(a) in subsection (8), for the words “infeft in” substitute “ owner of ”;
+
+(b) for subsection (9) substitute—
+
+> (9) Any condition or provision to the effect that a person with an interest in land shall be entitled to a right of pre-emption in the event of a sale of the land, or of any part of the land, by the proprietor for the time being, shall not be capable of being enforced where the sale is by a landlord to his tenant-at-will under section 20 of this Act.
+
+;
+
+and
+
+(c) in subsection (10) for the words “grant by him of a feu” substitute “ disposition by him ”.
+
+(10) In section 26 (application to Crown), for the words “held of the Crown and of” substitute “ owned by the Crown or by ”.
+
+(11) In section 28(1) (interpretation)—
+
+(a) the definition of “feu” shall cease to have effect;
+
+(b) in the definition of “incorporeal heritable right”, after the word “include” insert “ a right of ownership of land, the right of a lessee under a long lease of land, a right to mines or minerals or ”;
+
+(c) for the definition of “interest in land” substitute—
+
+> “interest in land”—
+>
+> (a) means any right in or over land, including any heritable security or servitude but excluding any lease which is not a long lease; and
+>
+> (b) where the context admits, includes the land;
+
+.
+
+#### Ancient Monuments and Archaeological Areas Act 1979 (c.46)
+
+**40** (1) The Ancient Monuments and Archaeological Areas Act 1979 shall be amended in accordance with this paragraph.
+
+(2) In section 12(9) (certain persons acquiring rights to monuments in Scotland not bound by guardianship deeds), in paragraph (b), for the words “completed by infeftment” substitute “ title has been completed ”.
+
+(3) In section 18(4) (capacities relevant to limited ownership), in paragraph (c), the words “or heir of entail” shall cease to have effect.
+
+(4) In section 57(1) (power to require information), the words “of the*dominium utile*,” shall cease to have effect.
+
+#### Education (Scotland) Act 1980 (c.44)
+
+**41** (1) The Education (Scotland) Act 1980 shall be amended in accordance with this paragraph.
+
+(2) In section 16(2)(b) (method of effecting transference of school), in sub-paragraph (i), for the words “interest in the land to be transferred” substitute “ transferee’s right in the land ”.
+
+(3) In each of sections 20(1)(a) (power of education authority to acquire land) and 22(1)(a) (power of education authority to sell land), the word “feu,” shall cease to have effect.
+
+#### Water (Scotland) Act 1980 (c.45)
+
+**42** (1) The Water (Scotland) Act 1980 shall be amended in accordance with this paragraph.
+
+(2) In section 65 (power of council to make charging order for expenses of executing works), as saved by section 179 of the Local Government etc. (Scotland) Act 1994 (c.39)—
+
+(a) in subsection (5)—
+
+(i) the word “estates,”; and
+
+(ii) paragraph (a),
+
+shall cease to have effect;
+
+(b) in subsection (7), for the words “absolute order made under and in terms of the Improvement of Land Act 1864” substitute “ a standard security ”; and
+
+(c) in subsection (8), the words “or rentcharge” shall cease to have effect.
+
+(3) In Schedule 4 (provisions to be incorporated in orders relating to water undertakings), in paragraph 8, the words “feuduties, ground annuals,” shall cease to have effect.
+
+#### British Telecommunications Act 1981 (c.38)
+
+**43** In Schedule 2 to the British Telecommunications Act 1981 (provisions as to transfers of property, rights and liabilities), in paragraph 1(3), for the words from “Sub-paragraph (2)” to “that sub-paragraph” substitute “ In the application of sub-paragraph (2) ”.
+
+#### Mobile Homes Act 1983 (c.34)
+
+**44** In section 5 of the Mobile Homes Act 1983 (interpretation), at the end add—
+
+> (4) In relation to land in Scotland, any reference in this Act to an “estate or interest” shall be construed as a reference to a right in, or to, the land.
+
+.
+
+#### Roads (Scotland) Act 1984 (c.54)
+
+**45** In each of sections 53(4) (enforceability against third parties of agreements as to use of land near roads) and 72(3) (enforceability against third parties of agreements as to stopping up of private access to land) of the Roads (Scotland) Act 1984, for the words “completed by infeftment” substitute “ title has been completed ”.
+
+#### Companies Act 1985 (c.6)
+
+**46** (1) The Companies Act 1985 shall be amended in accordance with this paragraph.
+
+(2) In—
+
+(a) section 396(1)(a)(ii) (charges requiring registration) unless the circumstance mentioned in sub-paragraph (4) below arises; or
+
+(b) section 410(4)(a) (charges void unless registered) if that circumstance does arise,
+
+the words “, ground annual” shall cease to have effect.
+
+(3) If the amendment in head (b) above falls to be made, the amendment in head (a) above shall, on section 92 of the Companies Act 1989 coming into force, have effect.
+
+(4) The circumstance is that section 92 of the Companies Act 1989 has not come into force by the date on which this schedule comes into force.
+
+(5) In Schedule 4, in paragraph 93 (interpretation of Schedule), the words “is the proprietor of the *dominium utile* or, in the case of land not held on feudal tenure,” and “; and the reference to ground-rents, rates and other outgoings includes feu-duty and ground annual” shall cease to have effect.
+
+(6) In Schedule 9, in paragraph 86 (interpretation of Schedule), the words “is the proprietor of the *dominium utile* or, in the case of land not held on feudal tenure,” and “; and the reference to ground-rents, rates and other outgoings includes a reference to feu-duty and ground annual” shall cease to have effect.
+
+#### Housing Associations Act 1985 (c.69)
+
+**47** In section 106(2) of the Housing Associations Act 1985 (application of Act in Scotland), in the definition of “heritable security”, for the words “interest in land by disposition or assignation of that interest” substitute “ land, or real right in land, by disposition of the land, or assignation of the real right, ”.
+
+#### Housing (Scotland) Act 1987 (c.26)
+
+**48** (1) The Housing (Scotland) Act 1987 shall be amended in accordance with this paragraph.
+
+(2) In section 16 (disposal of land for erection of churches etc.), for the word “feu” substitute “ disposition ”.
+
+[^F97]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 125(2) (notice to certain persons of time and place at which question of demolishing building will be considered), the words “of the superior of whom such owner holds, and” shall cease to have effect.
+
+(5) In section 132, subsection (1) (notice to superiors of certain proceedings in relation to lands and heritages) shall cease to have effect.
+
+(6) In section 155(1) (power to require information), for the words “an estate” substitute “ a right ”.
+
+(7) In section 175(1) (protection of superiors and owners)—
+
+(a) the words “superior or” shall cease to have effect; and
+
+(b) for the word “estate” substitute “ right ”.
+
+(8) In section 177(b) (interpretation), for the words “an estate” substitute “ a right ”.
+
+(9) In section 179 (general effect of control order)—
+
+(a) in subsection (1)(b), for the words “an estate” substitute “ a right ”; and
+
+(b) in subsection (2), for the words “under this section have an interest amounting to an estate in” substitute “ own ”.
+
+(10) In section 180 (effect of control order on occupier)—
+
+(a) in subsection (2)—
+
+(i) in paragraph (a), for the words “an estate” substitute “ a right ”; and
+
+(ii) in paragraph (b), for the words “an estate in” substitute “ ownership of ”; and
+
+(b) in subsection (6), for the words “an estate” substitute “ a right ”.
+
+(11) In section 186 (appeal against control order), in each of subsections (1) and (2), for the words “an estate” substitute “ a right ”.
+
+(12) In section 190(1) (interpretation), in the definition of “licence”, for the words “an estate or interest therein” substitute “ ownership, tenancy or a real right ”.
+
+(13) Section 334 (power of heir of entail to sell land for housing purposes) shall cease to have effect.
+
+(14) In section 338(1) (interpretation)—
+
+(a) in the definition of “land”, for the word “estate” substitute “ right ”; and
+
+(b) the definitions of—
+
+(i) “sell” and “sale”; and
+
+(ii) “superior”,
+
+shall cease to have effect.
+
+(15) In Schedule 9 (recovery of expenses by charging order), in paragraph 7, for the words “bond and disposition in” substitute “ standard ”.
+
+(16) In Schedule 11 (houses in multiple occupation: control orders)—
+
+(a) in paragraph 4(1), for the words “an estate” substitute “ a right ”; and
+
+(b) in paragraph 5(3), for the words—
+
+(i) “an estate” substitute “ a right ”; and
+
+(ii) “that estate” substitute “ that right ”.
+
+#### Consumer Protection Act 1987 (c.43)
+
+**49** [^F98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Income and Corporation Taxes Act 1988 (c.1)
+
+**50** (1) The Income and Corporation Taxes Act 1988 shall be amended in accordance with this paragraph.
+
+(2) In section 15(1) (in which is set out Schedule A), in Schedule A, in paragraph 1(4)(b), the words “, ground annuals and feu duties” shall cease to have effect.
+
+(3) In section 119 (rent etc. payable in connection with mines, quarries and similar concerns), in subsection (3), in the definition of “rent”, the word “, feuduty” shall cease to have effect.
+
+(4) [^F99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Capital Allowances Act 1990 (c.1)
+
+**51** In each of sections 51(3) and 125(1) of the Capital Allowances Act 1990 (interpretation), for paragraph (b) substitute—
+
+> (b) in Scotland, the interest of the owner or an agreement to acquire such an interest,
+
+.
+
+#### Enterprise and New Towns (Scotland) Act 1990 (c.35)
+
+**52** In section 32(2) of the Enterprise and New Towns (Scotland) Act 1990 (enforceability of registered agreements), for the words “completed by infeftment” substitute “ title has been completed ”.
+
+#### Natural Heritage (Scotland) Act 1991 (c.28)
+
+**53** (1) The Natural Heritage (Scotland) Act 1991 shall be amended in accordance with this paragraph.
+
+(2) In section 22(1)(interpretation), in the definition of “land”, the word “estate,” shall cease to have effect.
+
+(3) In Schedule 1 (constitution and proceedings of Scottish Natural Heritage), in paragraph 19—
+
+(a) in sub-paragraph (1), after the words “to land” insert “ which or ”; and
+
+(b) for sub-paragraph (2) substitute—
+
+> (2) In sub-paragraph (1) above—
+>
+> - “interest” includes any right over the land, whether exercisable by virtue of ownership or by virtue of a licence or agreement and, without prejudice to that generality, includes sporting rights; and
+>
+> - “land” includes—
+>
+>   - (i) land covered by water; and
+>   - (ii) salmon fishings.
+
+.
+
+#### Coal Mining Subsidence Act 1991 (c.45)
+
+**54** (1) The Coal Mining Subsidence Act 1991 shall be amended in accordance with this paragraph.
+
+(2) In section 52(1) (interpretation), in the definition of “owner”, paragraph (b) shall cease to have effect.
+
+(3) In Schedule 1 (determination of amount of depreciation payments), in paragraph 2(6)—
+
+(a) in the definition of “fee simple”, for the words “, in the case of feudal property, the estate or interest of the proprietor of the *dominium utile* or, in the case of property other than feudal property, the estate or” substitute “ the ”; and
+
+(b) the definition of “incumbrance” shall cease to have effect.
+
+(4) In Schedule 2 (recipients of depreciation payments: special cases)—
+
+(a) in paragraph 3(2), head (b); and
+
+(b) in paragraph 4(2)(b), the words “an entail or”, shall cease to have effect.
+
+(5) In Schedule 6 (farm loss payments), in paragraph 1(5)—
+
+(a) in head (a), for the words “an interest as infeft proprietor of” substitute “ a right as proprietor with completed title to ”; and
+
+(b) the words “, but do not include references to an interest as a superior only” shall cease to have effect.
+
+#### Crofters (Scotland) Act 1993 (c.44)
+
+**55** (1) The Crofters (Scotland) Act 1993 shall be amended in accordance with this paragraph.
+
+(2) In section 16 (provisions relating to conveyance)—
+
+(a) in subsection (3), the words “estates or” shall cease to have effect;
+
+(b) in subsection (5), for the words “is infeft in” substitute “ has a completed title to ”; and
+
+(c) subsection (7) shall cease to have effect.
+
+(3) In section 17(3) (certain conditions or provisions to be unenforceable), paragraph (a), the words “or (b)” and in paragraph (b) the word “other”, shall cease to have effect.
+
+(4) In section 19(4) (heritable securities)—
+
+(a) paragraph (a); and
+
+(b) in each of paragraphs (b) and (c), the words “otherwise than in feu”,
+
+shall cease to have effect.
+
+(5) In section 20(3) (interpretation), in paragraph (a), for the word “feuing” substitute “ disposing ”.
+
+#### Coal Industry Act 1994 (c.21)
+
+**56** (1) The Coal Industry Act 1994 shall be amended in accordance with this paragraph.
+
+(2) In section 8 (exploitation rights: territorial waters and continental shelf), in subsection (6), for the words “a proprietor of the*dominium utile*” substitute “ an owner ”.
+
+(3) In section 9 (exploitation rights: oil and gas), in subsection (4)(b), for the words “proprietor of the*dominium utile* as respects” substitute “ an owner in ”.
+
+(4) In section 10 (protection for certain interests in coal and coal mines), in subsection (7), paragraph (b) and the word “and” immediately preceding that paragraph shall cease to have effect.
+
+#### Value Added Tax Act 1994 (c.23)
+
+**57** In section 96(1) of the Value Added Tax Act 1994 (interpretation) in the definition of—
+
+(a) “fee simple”, in paragraph (a), the words “estate or interest of the proprietor of the*dominium utile* or, in the case of land not held on feudal tenure, the estate or” shall cease to have effect; and
+
+(b) “major interest”, for the words from “-(a) the estate” to “tenure, the estate or” substitute “ the ”.
+
+#### Requirements of Writing (Scotland) Act 1995 (c.7)
+
+**58** In section 1 of the Requirements of Writing (Scotland) Act 1995 (writing required for certain contracts, obligations, trusts, conveyances and wills)—
+
+(a) in subsection (2), in each of paragraphs (a)(i) and (b), for the words “an interest” substitute “ a real right ”; and
+
+(b) in subsection (7), for the words “ “interest in land” means any estate, interest or” substitute “ “real right in land” means any real ”.
+
+#### Atomic Energy Authority Act 1995 (c.37)
+
+**59** In section 1 of the Atomic Energy Authority Act 1995 (schemes for transfer of property, rights and liabilities), for subsection (6) substitute—
+
+> (6) In the application of subsection (3)(b) above to Scotland, the reference to the fee simple estate shall be construed as a reference to the interest of the owner.
+
+.
+
+#### Town and Country Planning (Scotland) Act 1997 (c.8)
+
+**60** (1) The Town and Country Planning (Scotland) Act 1997 shall be amended in accordance with this paragraph.
+
+(2) In section 75(4) (restriction on enforceability of agreement regulating development or use of land), for the words “completed by infeftment” substitute “ title has been completed ”.
+
+(3) In section 191 (disposal of land held for planning purposes), subsection (9) shall cease to have effect.
+
+(4) In section 272(2) (matters as to which information may be required), in paragraph (b), the word “superior,” shall cease to have effect.
+
+(5) In section 277 (interpretation)—
+
+(a) in subsection (1), in the definition of—
+
+(i) “disposal”, the words “, except in section 191(9),”; and
+
+(ii) “heritable security”, in paragraph (a), the words “a security by way of ground annual and”,
+
+shall cease to have effect; and
+
+(b) subsection (8) shall cease to have effect.
+
+(6) In Schedule 15 (general vesting declarations)—
+
+(a) in paragraph 7, the words “feuduty, ground annual or”; and
+
+(b) in paragraph 34, the words “a feuduty, ground annual,”,
+
+shall cease to have effect.
+
+#### Finance Act 1999 (c.16)
+
+**61** (1) In Part III of Schedule 13 to the Finance Act 1999 (other instruments), in paragraph 18(1), head (c) shall cease to have effect.
+
+(2) Sub-paragraph (1) above and, in so far as relating to the Finance Act 1999, section 76 of, and schedule 13 to, this Act shall not affect any instrument executed before the appointed day.
+
+### PART 2 — MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO THE NATIONAL TRUST FOR SCOTLAND
+
+#### National Trust for Scotland Order Confirmation Act 1935 (c.ii)
+
+**62** (1) The Order contained in the Schedule to the National Trust for Scotland Order Confirmation Act 1935 (incorporation, conferring of powers etc.) shall be amended in accordance with this paragraph.
+
+(2) In section 4(2) (powers of National Trust), the word “feu” shall cease to have effect.
+
+(3) In section 6(2) (completion of title by National Trust), the words “notarial instrument or” shall cease to have effect.
+
+#### National Trust for Scotland Order Confirmation Act 1947 (c.xxxviii)
+
+**63** (1) The Order contained in the Schedule to the National Trust for Scotland Order Confirmation Act 1947 (extension of powers of National Trust etc.) shall be amended in accordance with this paragraph.
+
+(2) In section 3(a) (extension of powers of National Trust: feuing of land for feu duties etc.)—
+
+(a) for the word “feus” substitute “ dispositions ”; and
+
+(b) the words from “feu duties” to “any” shall cease to have effect.
+
+(3) In section 4 (exercise of extended powers)—
+
+(a) in subsection (2)—
+
+(i) for the word “feu”, where it first occurs, substitute “ dispone ”; and
+
+(ii) for the words “feu charter feu contract” substitute “ disposition ”; and
+
+(b) in subsection (4), for the word “feued” substitute “ disponed ”.
+
+## SCHEDULE 13 — REPEALS
+
+**(introduced by section 76(2))**
+
+### PART 1 — REPEALS: GENERAL
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of Repeal* |
+| Mines and Metals Act 1592 (c.31) (Act of the Parliaments of Scotland) | The words “or few”. |
+| Feu-duty Act 1597 (c.17) (Act of the Parliaments of Scotland) | The whole Act. |
+| Registration Act 1661 (c.243) (Act of the Parliaments of Scotland) | The whole Act. |
+| Ann Act 1672 (c.24) (Act of the Parliaments of Scotland) | The whole Act. |
+| Entail Act 1685 (c.26) (Act of the Parliaments of Scotland) | The whole Act. |
+| Udal Tenure Act 1690 (c.61) (Act of the Parliaments of Scotland) | The whole Act. |
+| Teinds Act 1690 (c.63) (Act of the Parliaments of Scotland) | The whole Act. |
+| Tenures Abolition Act 1746 (c.50) | The whole Act except sections 21 and 22. |
+| Entail Improvement Act 1770 (c.51) | The whole Act. |
+| Burghs of Barony (Scotland) Act 1795 (c.122) | The whole Act. |
+| Thirlage Act 1799 (c.55) | The whole Act. |
+| Teinds Act 1808 (c.138) | The whole Act. |
+| Entail Provisions Act 1824 (c.87) | The whole Act. |
+| Register of Sasines Act 1829 (c.19) | The whole Act. |
+| Public Revenue (Scotland) Act 1833 (c.13) | In section 1, the words from “or in relation to the issuing or paying any stipend” to “behalf, or others entitled thereto;”; and the words “granting tacks of teinds, or to the”. |
+| New Churches (Scotland) Act 1834 (c.41) | The whole Act. |
+| Erasures in Deeds (Scotland) Act 1836 (c.33) | The whole Act. |
+| Entail Powers Act 1836 (c.42) | The whole Act. |
+| Entail Act 1838 (c.70) | The whole Act. |
+| Court of Session (No.2) Act 1838 (c.118) | The whole Act. |
+| Court of Session Act 1839 (c.36) | The whole Act. |
+| Entail Sites Act 1840 (c.48) | The whole Act. |
+| New Parishes (Scotland) Act 1844 (c.44) | The whole Act. |
+| Lands Clauses Consolidation (Scotland) Act 1845 (c.19) | In section 7, the words “heirs of entail,”, “estate or”, “married women seised in their own right or entitled to terce or dower, or any other right or interest, husbands,”, “or feoffees”, “and as to such married women as if they were sole,” and, in the last two places where they occur, “married women,”. |
+|  | In section 8, the words from “power herein” to “therewith, and the”; and, in both places where they occur, the words “feu duties, ground annuals,”. |
+|  | Sections 10 and 11. |
+|  | In section 12, the word “, feu,”, in both places where it occurs. |
+|  | In section 67, the words “heir of entail,”, “married woman seised in her own right or entitled to terce or dower or any other right or interest, husband,”, “on the same heirs, or”, “, or affecting succeeding heirs of entail in any such lands, whether imposed and constituted by the entailer, or in virtue of powers given by the entail, or in virtue of powers conferred by any Act of Parliament” and “same heirs, and the”. |
+|  | In each of sections 69 and 70, the word “coverture,” and the word “husbands,”. |
+|  | Section 73. |
+|  | In section 79, the words “feu or” and “, and of re-entailing any of such lands,”. |
+|  | In section 80, the words “feus and”, in both places where they occur; and the words “the particular register of sasines kept for the county, burgh, or district in which the lands are locally situated, or in”, “for Scotland kept at Edinburgh, within sixty days from the last date thereof, which the respective keepers of the said registers are hereby authorized and required to do,”, “feudal” and from “: Provided always” to the end. |
+|  | In section 93, the words “; and if such lands be part of a barony a like notice shall be given to the superior or baron”. |
+|  | In the preamble to sections 107 to 111, the words “any feu duty, ground annual, casualty of superiority, or”. |
+|  | In section 109, the words “such feu duty, ground annual, casualty of superiority, or any”. |
+|  | In section 110, the words “feu duty, ground annual, casualty of superiority,”. |
+|  | In section 117, the word “estate,”, in each place where it occurs. |
+|  | In section 124, the words from “, by deed” to the end. |
+|  | Sections 126 and 127. |
+|  | Schedule (B.). |
+| Infeftment Act 1845 (c.35) | The whole Act. |
+| Entail Amendment Act 1848 (c.36) | Sections 1 to 31. |
+|  | In section 32, the words from “may be in the form” to “in terms of this Act;”. |
+|  | Sections 33 to 45. |
+|  | In section 47, the words “dated on or after the first day of August one thousand eight hundred and forty-eight”, “fee simple” in each of the three places where they occur and “the superior of such lands or estate, and of”. |
+|  | In section 48, the words “dated on or after the said first day of August one thousand eight hundred and forty eight”, “fee simple” and “the superior of such lands or estate, and of”. |
+|  | In section 49, the words “or estate” in both places where they occur and “dated on or after the said first day of August one thousand eight hundred and forty eight”. |
+|  | Sections 50 and 51. |
+|  | The Schedule. |
+| Judicial Factors Act 1849 (c.51) | In section 7, the words from “and if the estate be held under entail,” to “could have charged the estate under the said Acts, or either of them;”. |
+| Entail Amendment Act 1853 (c.94) | The whole Act. |
+| Registration of Leases (Scotland) Act 1857 (c.26) | Sections 4, 5, 8, 9 and 11. |
+|  | Schedules (C) and (F). |
+| Defence Act 1859 (c.12) | In section 3, the words “feus and”, in both places where they occur; the word “feudal”; and the words from “: provided always” to the end. |
+| Entail Cottages Act 1860 (c.95) | The whole Act. |
+| Lands Clauses Consolidation Acts Amendment Act 1860 (c.106) | Section 3. |
+|  | In each of sections 4 and 5, the words “, annual feu duty or ground annual”, in each place where they occur. |
+|  | In section 8, the words “, or of the Lands Clauses Consolidation (Scotland) Act, 1845, in all matters in which it relates to the said Act respectively.”. |
+| Parochial Buildings (Scotland) Act 1862 (c.58) | The whole Act. |
+| Church of Scotland Courts Act 1863 (c.47) | In section 2, the words from “, and at the same time” to “shall subsist”. |
+|  | In section 3, the words from “, and to apportion” to the end. |
+| Fish Teinds (Scotland) Act 1864 (c.33) | The whole Act. |
+| Improvement of Land Act 1864 (c.114) | The whole Act. |
+| Glebe Lands (Scotland) Act 1866 (c.71) | The whole Act. |
+| Parochial Buildings (Scotland) Act 1866 (c.75) | The whole Act. |
+| United Parishes (Scotland) Act 1868 (c.30) | The whole Act. |
+| Land Registers (Scotland) Act 1868 (c.64) | In section 5, the words “in terms of such new warrant”. |
+|  | In section 6, the words “in terms of the warrant of registration thereon”. |
+|  | In section 12, the words “and shall be in the form, as nearly as may be, of the Schedule (B.) to this Act annexed,”. |
+| Entail Amendment (Scotland) Act 1868 (c.84) | The whole Act. |
+| Ecclesiastical Buildings and Glebes (Scotland) Act 1868 (c.96) | The whole Act. |
+| Titles to Land Consolidation (Scotland) Act 1868 (c.101) | In section 3, the words “The words “Crown writ” shall extend to and include all charters, precepts, and writs from Her Majesty, and from the Prince; and”; the definition of “charter” and of “writ”; in the definition of “deed” and of “conveyance”, the words “charters,”, “whether containing a warrant or precept of sasine or not, and”, “feu contracts, contracts of ground annual,”, “, whether such decrees contain warrant to infeft or precept of sasine or not,” and “, procuratories of resignation *an remanentiam* ,”; the definition of “deed of entail”; in the definition of “instrument”, the words “authorized by this Act, or by any of the Acts hereby repealed,”; and the definition of “infeft” and “infeftment”. |
+|  | Sections 4 to 7. |
+|  | In section 8, the words “, and to all open procuratories, clauses, and precepts, if any, and as the case may be,”; and the words from “; and the clause of obligation” to “other public, parochial, and local burdens, due from or on account of the lands conveyed prior to the date of entry”. |
+|  | Sections 9 and 10. |
+|  | In section 12, the words from “with a warrant of registration” to “hereto annexed),”; the words from “and warrant of registration;” to “on whose behalf the conveyance is presented”; and the words from “or to expede and record” to the end. |
+|  | Sections 14 to 19. |
+|  | Section 23. |
+|  | In section 24, the words “, with warrant of registration thereon,”. |
+|  | In section 26, the words “with warrant of registration thereon in terms of this Act, or when followed by notarial instrument expede, and with warrant of registration thereon recorded”; and “feued,”. |
+|  | Sections 27 to 50. |
+|  | In section 51, the word “said”, where it first occurs; and the words from “or Sheriffs of counties” to the end. |
+|  | Sections 63 to 116. |
+|  | Sections 118 and 119. |
+|  | In section 120, the words “, whether dated before or after the commencement of this Act,”; and the proviso. |
+|  | Sections 121 to 127. |
+|  | Sections 130 to 137. |
+|  | In section 140, the words “, and subsequent sheets (if any) shall be chargeable with the appropriate progressive duty”. |
+|  | Section 141. |
+|  | In section 142, the words “, and all instruments hereby” and “, with warrants of registration written thereon respectively,”. |
+|  | Sections 144 to 147. |
+|  | Sections 150 to 154. |
+|  | Section 156. |
+|  | Sections 161 to 163. |
+|  | The Schedules, except Schedules (B.) No.1, (F.) No.1, (G.), (PP.) and (RR.). |
+|  | In Schedule (B.) No. 1, the words from “to be holden” to “as the case may be];”; and the words “feu duties, casualties, and”. |
+| Titles to Land Consolidation (Scotland) Amendment Act 1869 (c.116) | The whole Act. |
+| Limited Owners Residences Act 1870 (c.56) | The whole Act. |
+| Limited Owners Residences Act (1870) Amendment Act 1871 (c.84) | The whole Act. |
+| Church Patronage (Scotland) Act 1874 (c.82) | In section 8, the words from “, or the right to teind” to the end. |
+| Conveyancing (Scotland) Act 1874 (c.94) | In section 3, the definitions of “Estate in land” and of “Superior” and “superiority”; in the definition of “heritable securities” and “securities”, the words “, and shall also, when used in this Act, include real burdens and securities by way of ground annual”; and the definitions of “Infeftment”, “Feu” and “feu-duty” and “Casualties”. |
+|  | Sections 4 to 8. |
+|  | In section 10 (as saved by section 37(1)(d) of the Succession (Scotland) Act 1964), the words “neither infeft nor served, but”, “by virtue of this Act,”, “and assignation” and from “Such petition” to the end. |
+|  | Sections 14 to 26. |
+|  | In section 29, the words “under this Act, and no other decree, instrument, or conveyance”. |
+|  | Section 30. |
+|  | [^F100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+|  | In section 35, the word “joint”; and the words from “, as an assignation” to the end. |
+|  | In section 36, the words from “, with a holding” to the end. |
+|  | Section 37. |
+|  | Sections 48 and 49. |
+|  | In section 51, the words “production to any notary public of the”; the words “the production to such notary of”; and the words from “, and it shall not” to the end. |
+|  | Sections 52, 53, 57 and 58. |
+|  | In section 59, the words “shall apply to lands held of the Crown and of the Prince, in the same way as to lands held of a subject superior, but”. |
+|  | Section 60. |
+|  | Schedules A to C. |
+|  | Schedule D (being the form of memorandum of allocation of feu-duty; and not that Schedule D substituted for Schedule O by section 8(1) of the Conveyancing (Scotland) Act 1924). |
+|  | Schedules F and G. |
+|  | [^F100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+|  | Schedule L. |
+|  | In Schedule M, the words from “, e.g. ],” to “ *or as the case may be* ”. |
+|  | Schedule N. |
+| Entail Amendment (Scotland) Act 1875 (c.61) | The whole Act. |
+| United Parishes (Scotland) Act 1876 (c.11) | The whole Act. |
+| Writs Execution (Scotland) Act 1877 (c.40) | In section 6, the words “upon a warrant of registration”. |
+| Entail Amendment (Scotland) Act 1878 (c.28) | The whole Act. |
+| Settled Land Act 1882 (c.38) | The whole Act. |
+| Entail (Scotland) Act 1882 (c.53) | The whole Act. |
+| Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887 (c.69) | Sections 1, 3 and 4. |
+|  | In section 5, the words “The production to any notary public of”; “expeding a notarial instrument, or otherwise”; and from “; and it shall not” to the end. |
+| Judicial Factors (Scotland) Act 1889 (c.39) | In section 6, the words “the Entail (Scotland) Act, 1882,”. |
+| Universities (Scotland) Act 1889 (c.55) | In section 24, the words “, without prejudice to the rights of Her Majesty as superior of the said garden and buildings, and to the rights of any subject superior in and to the said garden and buildings,”. |
+| Settled Land Act 1890 (c.69) | The whole Act. |
+| Registration of Certain Writs (Scotland) Act 1891 (c.9) | The whole Act. |
+| Heritable Securities (Scotland) Act 1894 (c.44) | In section 7, the words “disponed in security”, where they occur for the second time. |
+|  | Sections 8 to 10. |
+|  | In section 12, the word “, eight,”. |
+|  | Sections 14 to 17. |
+|  | Schedule (D.). |
+| Improvement of Land Act 1899 (c.46) | The whole Act. |
+| Ecclesiastical Assessments (Scotland) Act 1900 (c.20) | The whole Act. |
+| Entail (Scotland) Act 1914 (c.43) | In section 2, the words “and any clause of consent to registration in the register of entails”; and the provisos. |
+|  | Sections 3 to 8. |
+|  | In section 10, the words “, unless the contrary intention appears,” and “, and the words “heir of entail” shall include the institute”. |
+| Feudal Casualties (Scotland) Act 1914 (c.48) | The whole Act. |
+| Land Settlement (Scotland) Act 1919 (c.97) | Section 4. |
+| Duplicands of Feu-duties (Scotland) Act 1920 (c.34) | The whole Act. |
+| Trusts (Scotland) Act 1921 (c.58) | In section 4(1), paragraph (b). |
+|  | In section 6, the words from “sell subject to” to “be lawful to”. |
+|  | In section 12(1), the words from “on any charge or” to “1899, or”. |
+|  | Section 13. |
+| Agricultural Credits Act 1923 (c.34) | Section 3(4) and (5). |
+|  | In section 5, in paragraph (a), the definitions of “freehold or copyhold land”, “mortgage”, “devisee” and “incumbrance”; and paragraph (b). |
+| Conveyancing (Scotland) Act 1924 (c.27) | In section 2(1)(b), the words from “real burdens” to “them, and”. |
+|  | In section 3, the words “last infeft or”. |
+|  | In section 4, in subsection (2), the words “by infeftment”; in subsection (3), the words from “, or in the case” to “that Schedule”; and in subsection (4), the words “, or in the case of a ground annual in or as nearly as may be in the terms of Form No. 6 of that Schedule” and from “And on such notice” to the end. |
+|  | In section 5, in subsection (2)(a), the words “infeft or uninfeft, or”; and in subsection (3)(a), the words “last infeft or”. |
+|  | Section 6. |
+|  | In section 8, subsection (2). |
+|  | [^F100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+|  | Sections 10 to 13. |
+|  | In section 19, the words “or fee”. |
+|  | Sections 20 and 23. |
+|  | In section 24, the words “, including power of sale and other rights under a bond and disposition in security,” and “, and such forms shall have the same force and effect as the corresponding forms prescribed by the Registration of Leases (Scotland) Act 1857,”; in paragraph (1) of the proviso, the words from “, for “infeft”” to the end; and in paragraph (5) of the proviso, the words from “by notarial instrument” to “law and practice”. |
+|  | Sections 25, 26 and 28 to 39. |
+|  | In section 40(1), the words “feu-duty, ground-annual, stipend,” and “feu-duty and casualties, ground-annual, stipend or”. |
+|  | Sections 42 and 43. |
+|  | In section 49, subsection (1). |
+|  | In Schedule B, in Form No. 3, the words “ *last infeft therein, or* ”; and Forms Nos. 4 and 6. |
+|  | Schedules F to H and the Notes to Schedule F. |
+|  | Schedules K to N and the Notes to Schedule K. |
+| Church of Scotland (Property and Endowments) Act 1925 (c.33) | Part I. |
+|  | [^F100] . . . in subsection (3), the word “feu,”. |
+|  | Section 27. |
+|  | In section 28, in subsection (3)(b), the words from “, to the same effect” to the end; and subsections (6) to (8). |
+|  | In section 30(3), in paragraph (c), the words from “, whether as” to “in place of the minister”; in paragraph (e), the words “feu-duties and Government or other” and from “under or in pursuance” to “made by a minister”; and paragraph (f). |
+|  | Section 31. |
+|  | In section 34, in subsection (1), in paragraph (b), the words “and certified by the Clerk of Teinds”, and paragraph (e); subsection (3); and in subsection (4)(iii) the words “feu-duties, ground annuals, bonds of annual rent, or other”, “with the sanction of the Court of Teinds” and “or payment of the feu-duty thereon”. |
+|  | In section 35(7), the words “uninfeft or infeft”. |
+|  | In section 36, the proviso. |
+|  | In section 37, the words “heritor or other”. |
+|  | Sections 39 to 41. |
+|  | In section 42, the words from “, and to the teinds” to the end. |
+|  | Sections 45 and 46. |
+|  | In section 47, in subsection (1), in the definition of “Stipend”, the words “, including any allowance for communion elements payable by heritors out of teinds”; and subsections (2) and (3). |
+|  | Schedules 1 to 7. |
+| Agricultural Credits (Scotland) Act 1929 (c.13) | In section 6(2), the words “or to the superior of the lands occupied by the society”, “or superior” and “or feuduty”. |
+| Church of Scotland (Property and Endowments) Amendment Act 1933 (c.44) | In section 7, paragraph (ii) of the proviso; and the word “and” immediately preceding that paragraph. |
+|  | In section 8(1), the words “, or any obligation at common law for payment of the stipend or part of the stipend of the parish being a parish quoad omnia”. |
+|  | In section 9, subsections (1) and (2); and in subsection (3), the words “or take in feu” and “or feu-duty”. |
+|  | Sections 10 and 11. |
+| Harbours, Piers and Ferries (Scotland) Act 1937 (c.28) | In section 31(1), in the definition of “owner”, the words “deed of entail or other”. |
+| Conveyancing Amendment (Scotland) Act 1938 (c.24) | Sections 6 and 8. |
+| Requisitioned Land and War Works Act 1945 (c.43) | In section 60(4), the words “the *dominium utile* or, in the case of land other than feudal land,”. |
+| Coal Industry Nationalisation Act 1946 (c.59) | In section 64, in subsection (2), the words “, and does not include any stipend”; and subsection (3). |
+| Requisitioned Land and War Works Act 1948 (c.17) | In section 18(4), the words “the *dominium utile* or, in the case of land other than feudal land,”. |
+| Public Registers and Records (Scotland) Act 1948 (c.57) | In section 1(2), the words “, the Register of Entails”. |
+| National Parks and Access to the Countryside Act 1949 (c.97) | In section 114(1), the words “and as respects Scotland has the meaning assigned to it by section twenty-six of this Act”. |
+| Long Leases (Scotland) Act 1954 (c.49) | Part I. |
+|  | Section 30. |
+|  | The Schedules. |
+| Town and Country Planning (Scotland) Act 1954 (c.73) | Section 69. |
+| Church of Scotland (Property and Endowments) (Amendment) Act 1957 (c.30) | The whole Act. |
+| Land Drainage (Scotland) Act 1958 (c.24) | In section 18(1), in the definition of “owner”, paragraph (a). |
+| Opencast Coal Act 1958 (c.69) | In section 52, in subsection (2), in the definitions of “freehold interest” and “owner”, the words “of the *dominium utile* ”; and subsections (6) to (8). |
+| Town and Country Planning (Scotland) Act 1959 (c.70) | In section 27(5)(d), the words “, feu duty”. |
+|  | In section 44, the words “such an interest in”, “dominium utile in the” and “feu duty, any ground annual and any”. |
+|  | In section 54, subsection (7). |
+| Trustee Investments Act 1961 (c.62) | In Schedule 1, Part II, in paragraph 14, the words “, and in feu-duties or ground annuals in Scotland”. |
+| Land Compensation (Scotland) Act 1963 (c.51) | In section 20, in subsection (1), the words “the dominium utile in”, in both places where they occur; in subsection (2), the words “feu-duty, or ground annual or other” and “(not being stipend or standard charge in lieu of stipend)”; in subsection (7), the words “ *dominium utile* in any”; and in subsection (8), the words “the *dominium utile* in”. |
+|  | In section 27(3), the words “and that interest is the *dominium utile* of the land,”, “feu-duty or ground annual or other” and “(not being stipend or standard charge in lieu of stipend)”. |
+|  | In section 28, in paragraph (e), the words “the dominium utile of” and, in both places where they occur, “feu-duty or”; and in paragraph (f), the words “the *dominium utile* of”. |
+|  | Section 45(8) and (9). |
+|  | In Schedule 2, in paragraph 2(2), the words “the superior of, and”. |
+| Harbours Act 1964 (c.40) | In section 57(1), in the definition of “owner”, in paragraph (a), the words “, if the land is feudal property, the proprietor of the *dominium utile* or, if the land is not feudal property,”. |
+| Succession (Scotland) Act 1964 (c.41) | In section 18, subsection (1). |
+| Gas Act 1965 (c.36) | In section 28(1), in the definition of “owner”, in paragraph (a), the words “, if the land is feudal property, the proprietor of the *dominium utile* or, if the land is not feudal property,”. |
+| Forestry Act 1967 (c.10) | In section 34(3), the words “the proprietor of the *dominium utile* or, in the case of land other than feudal land, is”. |
+|  | In section 49, subsection (3). |
+| Countryside (Scotland) Act 1967 (c.86) | In section 6, in each of subsections (1)(a) and (2), the word “feu,”. |
+|  | In each of sections 24(1) and 25(1), the word “feu,”. |
+| Countryside Act 1968 (c.41) | In section 24(2), the word “feu,”. |
+| Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c.70) | In section 18(2), paragraph (c). |
+| Mines and Quarries (Tips) Act 1969 (c.10) | In section 36(3)(b)(i), the words “the *dominium utile* or, in the case of land not held on feudal tenure, the proprietor, of”. |
+| Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35) | [^F100] . . . |
+|  | Sections 3 to 6. |
+|  | In section 9(8)(c), the words “feuduty, ground annual,”. |
+|  | In section 12(1), the words “having right to that interest, but”. |
+|  | In section 30(2), the definition of “infeft”. |
+|  | Sections 33 to 35. |
+|  | Section 39. |
+|  | In section 41(1), the words “of the interest”. |
+|  | In section 43(1), the definition of “the Act of 1894”. |
+|  | Section 49. |
+|  | [^F100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+|  | In the Notes to Schedule 2, in each of notes 2 and 3, the words “ *ground annual or* ”. |
+|  | In Schedule 3, in condition 10(3), the words “feuduties, ground annuals or, as the case may be,”. |
+|  | In Schedule 8, paragraphs 2, 3, 7 to 14, 16 and 17, 18 to 22, 24 and 26 to 30. |
+| Agriculture Act 1970 (c.40) | In section 33, subsection (5). |
+| Prescription and Limitation (Scotland) Act 1973 (c.52) | In section 15(1), the definition of “interest in land”. |
+|  | In Schedule 1, in paragraph 1(a), heads (iii) and (iv); and in paragraph 2(f), the words “terce, courtesy,”. |
+| Land Tenure Reform (Scotland) Act 1974 (c.38) | Part I, except section 2. |
+|  | In section 2, the words “(other than feuduty)” and “a payment of teind, stipend or standard charge,”. |
+|  | Sections 14 and 15. |
+|  | In section 22, the words “held of the Crown and of the Prince and Steward of Scotland, and to land in which there is any other interest”. |
+|  | In section 23(1), the words “ground annual or other”. |
+|  | Schedules 1 to 4. |
+| Offshore Petroleum Development (Scotland) Act 1975 (c.8) | In section 14(1), the word “superior,”. |
+|  | In section 20, in subsection (2), in the definition of “Crown interest”, the words “estate or”; and in subsection (3), the words “estate or”. |
+| Scottish Development Agency Act 1975 (c.69) | In section 9(1)(a), the word “feu,”. |
+|  | In section 11(1), the word “superior,”. |
+| Land Registration (Scotland) Act 1979 (c.33) | In section 3, in subsection (3), paragraph (c); in subsection (4), paragraph (b) [^F100] . . . . |
+|  | In section 6(3), the words “over-feuduty or” in both places where they occur. |
+|  | In section 12, in subsection (3)(m), the words “a superior, a creditor in a ground annual or”, “the feu writ, the contract of ground annual or”, “, as the case may be,”, “superior, creditor or” and, in both places where they occur, “feuduty, ground annual or”; and in subsection (4)(a), the words “over-feuduty or”. |
+|  | [^F100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+|  | In section 16, subsection (2); and in subsection (3)(b) the words “feuduties, ground annuals,” and “and, in the case of a grant of land in feu, of all feuduties payable by the grantor to his superiors from and after the date of entry”. |
+|  | In section 20, in subsection (3), paragraph (ii), and the word “; and” immediately preceding that paragraph; in subsection (6), the words “, and all such feuduties, ground annuals or other periodical payments as are mentioned in subsection (3)(ii) above”; and subsection (8)(a)(ii). |
+|  | In section 28(1), the definition of “feu”. |
+| Ancient Monuments and Archaeological Areas Act 1979 (c.46) | In section 18(4), the words “or heir of entail”. |
+|  | In section 57(1), the words “of the *dominium utile* ,”. |
+| Slaughter of Animals (Scotland) Act 1980 (c.13) | In section 1, the word “feu,”. |
+| Education (Scotland) Act 1980 (c.44) | In each of sections 20(1)(a) and 22(1)(a), the word “feu,”. |
+| Water (Scotland) Act 1980 (c.45) | In section 20, the word “feu,”. |
+|  | In section 65, in subsection (5), the word “estates,” and paragraph (a); and in subsection (8), the words “or rentcharge”. |
+|  | In Schedule 4, in paragraph 8, the words “feuduties, ground annuals,”. |
+| Companies Act 1985 (c.6) | In section 396(1)(a)(ii) or (if section 92 of the Companies Act 1989 has not come into force by the date on which, subject to paragraph 46(3) of schedule 12 to this Act, that schedule and this schedule come into force) in section 410(4)(a), the words “, ground annual”. |
+|  | In Schedule 4, in paragraph 93, the words “is the proprietor of the *dominium utile* or, in the case of land not held on feudal tenure,” and “; and the reference to ground— rents, rates and other outgoings includes feu-duty and ground annual”. |
+|  | In Schedule 9, in paragraph 86, the words “is the proprietor of the *dominium utile* or, in the case of land not held on feudal tenure,” and “; and the reference to ground— rents, rates and other outgoings includes a reference to feu-duty and ground annual”. |
+|  | Insolvency Act 1986 (c.45) In Schedule 1, in paragraph 2, the word “feu,”. |
+|  | In Schedule 2, in paragraph 2, the word “feu,”. |
+| Debtors (Scotland) Act 1987 (c.18) | In section 15(1), in the definition of “adjudication for debt”, paragraph (b) and the word “or” immediately preceding that paragraph. |
+|  | In section 99(1), the words “or superior’s” and “or feuduty”. |
+|  | In section 101, the words “(other than an action under section 23(5) of the Conveyancing (Scotland) Act 1924)”. |
+| Housing (Scotland) Act 1987 (c.26) | In section 125(2), the words “of the superior of whom such owner holds, and”. |
+|  | Section 132(1). |
+|  | In section 175(1), the words “superior or”. |
+|  | Section 334. |
+|  | In section 338(1), the definitions of “sell” and “sale” and of “superior”. |
+| Income and Corporation Taxes Act 1988 (c.1) | In section 15(1), in Schedule A, in paragraph 1(4)(b), the words “, ground annuals and feu duties”. |
+|  | In section 119(3), in the definition of “rent”, the word “, feuduty”. |
+| Self-Governing Schools etc. (Scotland) Act 1989 (c.39) | In section 39(4)(a), the words “an interest in”. |
+|  | In section 80(1), the definition of “interest in land”. |
+| Enterprise and New Towns (Scotland) Act 1990 (c.35) | In section 10(1), the word “superior,”. |
+|  | In section 36(2), the words “estate or”. |
+| Natural Heritage (Scotland) Act 1991 (c.28) | In section 22(1), in the definition of “land”, the word “estate,”. |
+| Coal Mining Subsidence Act 1991 (c.45) | In section 52(1), in the definition of “owner”, paragraph (b). |
+|  | In Schedule 1, in paragraph 2(6), the definition of “incumbrance”. |
+|  | In Schedule 2, in paragraph 3(2), head (b); and in paragraph 4(2)(b), the words “an entail or”. |
+|  | In Schedule 6, in paragraph 1(5), the words “, but do not include references to an interest as a superior only”. |
+| Agricultural Holdings (Scotland) Act 1991 (c.55) | In section 74, the words “estate or” and “ *dominium utile* of the”. |
+|  | In section 75, in subsection (1), the words “dominium utile of the”; and in subsection (3), the words “dominium utile of the” and “absolute”. |
+| Crofters (Scotland) Act 1993 (c.44) | In section 16, in subsection (3), the words “estates or”; and subsection (7). |
+|  | In section 17(3), paragraph (a); the words “, or (b)”; and in paragraph (b) the word “other”. |
+|  | In section 19(4), paragraph (a); and, in each of paragraphs (b) and (c), the words “otherwise than in feu”. |
+| Coal Industry Act 1994 (c.21) | In section 10(7), paragraph (b) and the word “and” immediately preceding that paragraph. |
+| Value Added Tax Act 1994 (c.23) | In section 96(1), in the definition of “fee simple”, in paragraph (a), the words “estate or interest of the proprietor of the *dominium utile* or, in the case of land not held on feudal tenure, the estate or”. |
+| Town and Country Planning (Scotland) Act 1997 (c.8) | In section 191, subsection (9). |
+|  | In section 272(2), in paragraph (b), the word “superior,”. |
+|  | In section 277, in subsection (1), in the definition of “disposal”, the words “, except in section 191(9),” and in paragraph (a) of the definition of “heritable security”, the words “a security by way of ground annual and”; and subsection (8). |
+|  | In Schedule 15, in paragraph 7, the words “feuduty, ground annual or”; and in paragraph 34, the words “a feuduty, ground annual,”. |
+| Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 (c.9) | In section 81, subsection (7). |
+| Finance Act 1999 (c.16) | In Part III of Schedule 13, in paragraph 18(1), head (c). |
+
+### PART 2 — REPEALS RELATING TO THE NATIONAL TRUST FOR SCOTLAND
+
+|  |  |
+|---|---|
+| *Enactment* | *Extent of Repeal* |
+| National Trust for Scotland Order Confirmation Act 1935 (c.ii) | In the Order contained in the Schedule, in section 4(2), the word “feu” and, in section 6(2), the words “notarial instrument or”. |
+| National Trust for Scotland Order Confirmation Act 1947 (c.xxxviii) | In the Order contained in the Schedule, in section 3(a), the words from “feu duties” to “any”. |
+
+---
+
+[^F1]: S. 4 repealed (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(2) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F2]: Words in s. 17(1) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 2(a)(i) (with ss. 119, 121)
+[^F3]: Words in s. 17(1) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F4]: Words in s. 17(1) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 2(a)(ii) (with ss. 119, 121)
+[^F5]: Words in s. 17(1) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 2(a)(iii) (with ss. 119, 121)
+[^F6]: Words in s. 17(1) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 2(a)(iv) (with ss. 119, 121)
+[^F7]: Words in s. 17(1)(b) added (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 2(a) (with ss. 119, 121)
+[^F8]: S. 17(3)(aa) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 2(b) (with ss. 119, 121)
+[^F9]: Words in s. 18(1) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 3(a) (with ss. 119, 121)
+[^F10]: Words in s. 18(6) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 3(b) (with ss. 119, 121)
+[^F11]: S. 18(6A) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 128(3), sch. 13 para. 3(c)) (with ss. 119, 121)
+[^F12]: Words in s. 18(7)(b)(i) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 3(d) (with ss. 119, 121)
+[^F13]: Ss. 18A-18C inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(2), 129(3) (with ss. 119, 121)
+[^F14]: Words in s. 18A(8)(b) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(3) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F15]: Words in s. 20(1) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 4(a) (with ss. 119, 121)
+[^F16]: Words in s. 20(3) omitted (22.10.2003) by The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503), art. 2, sch. 1 para. 4(a)
+[^F17]: Words in s. 20(7)(a) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 4(b)(i) (with ss. 119, 121)
+[^F18]: S. 20(7)(b) and preceding word inserted (22.10.2003) by The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503), art. 2, sch. 1 para. 4(b)
+[^F19]: S. 20(7)(b) and preceding word repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 4(b)(ii), (with ss. 119, 121)
+[^F20]: s. 20(8)(b)(c) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15, (with ss. 119, 121)
+[^F21]: S. 23 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F22]: Words in s. 24 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F23]: Words in s. 25 substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 5(a) (with ss. 119, 121)
+[^F24]: Words in s. 25 inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 5(b) (with ss. 119, 121)
+[^F25]: Words in s. 25 substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 5(c) (with ss. 119, 121)
+[^F26]: S. 26 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F27]: Words in s. 27(1) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 6(a) (with ss. 119, 121)
+[^F28]: Words in s. 27(3)(a) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 6(b) (with ss. 119, 121)
+[^F29]: S. 27A inserted (1.11.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(3), 129(3) (with ss. 119, 121); S.S.I. 2003/455, art. 2(a)
+[^F30]: Words in s. 28 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F31]: S. 28A inserted (1.11.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(4), 129(3) (with ss. 119, 121); S.S.I. 2003/455, art. 2(a)
+[^F32]: Ss. 29-32 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F33]: Ss. 29-32 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F34]: Ss. 29-32 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F35]: Ss. 29-32 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F36]: Words in s. 42(1)(a)(3)(4)(a) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), Sch. 13 para. 7(a)(i) (with ss. 119, 121)
+[^F37]: Words in s. 42(1)(a)(3)(4)(a) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), Sch. 13 para. 7(a)(ii) (with ss. 119, 121)
+[^F38]: S. 42(5) added (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 128(3), Sch. 13 para. 7(b) (with ss. 119, 121)
+[^F39]: Words in s. 43(1)(2)(a) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), Sch. 13 para. 8(a)(i) (with ss. 119, 121)
+[^F40]: Words in s. 43(1)(2)(a) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), Sch. 13 para. 8(a)(ii) (with ss. 119, 121)
+[^F41]: S. 43(2)(bb) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 128(3), Sch. 13 para. 8(b) (with ss. 119, 121)
+[^F42]: Words in s. 43(3)(a) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), Sch. 13 para. 8(c)(i) (with ss. 119, 121)
+[^F43]: Words in s. 43(3)(a) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 8(c)(ii) (with ss. 119, 121)
+[^F44]: S. 46 repealed (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(4) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F45]: S. 49: words in definition of "conservation body" substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 10(a) (with ss. 119, 121)
+[^F46]: S. 49: words in definition of "conservation burden" substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 10(b) (with ss. 119, 121)
+[^F47]: S. 49: definitions inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 10(c) (with ss. 119, 121)
+[^F48]: S. 49: definition inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 10(d) (with ss. 119, 121)
+[^F49]: S. 49: words in definition of "real burden" repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F50]: S. 49: words in definition of "real burden" inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 10(e) (with ss. 119, 121)
+[^F51]: Words in s. 54(1) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 11(a)(i) (with ss. 119, 121)
+[^F52]: Words in s. 54(1) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 11(a)(ii) (with ss. 119, 121)
+[^F53]: S. 54(3)(aa) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 11(b) (with ss. 119, 121)
+[^F54]: Words in s. 56(1) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 12(a) (with ss. 119, 121)
+[^F55]: S. 56(3) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 12(b) (with ss. 119, 121)
+[^F56]: S. 60(2) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F57]: Words in s. 63(2) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(5) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F58]: S. 65 repealed (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(6) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F59]: S. 65A inserted (1.11.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(5), 129(3) (with ss. 119, 121); S.S.I. 2003/455, art. 2(a)
+[^F60]: S. 65A(12) repealed (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(7) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F61]: Words in s. 73(1)(a)(b)(c) inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 13(a)(i) (with ss. 119, 121)
+[^F62]: Word in s. 73(1)(b) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 13(a)(ii) (with ss. 119, 121)
+[^F63]: Words in s. 73(1) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 13(a)(iii) (with ss. 119, 121)
+[^F64]: Word in s. 73(1) repealed (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(8)(a)(i) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F65]: S. 73(1)(e) and word inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(8)(a)(ii) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F66]: Words in s. 73(2) renumbered (4.4.2003) as s. 73(2)(a) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 13(b)(i)}, (with ss. 119, 121)
+[^F67]: S. 73(2)(b) and preceding word inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 13(b)(ii)}, (with ss. 119, 121)
+[^F68]: Words in s. 73(2)(b) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(8)(b) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F69]: Words in s. 73(2) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 13(b)(iii)}, (with ss. 119, 121)
+[^F70]: S. 73(2A) added (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 13(c)}, (with ss. 119, 121)
+[^F71]: S. 75 renumbered (4.4.2003) as s. 75(1) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 14}, (with ss. 119, 121)
+[^F72]: S. 75(2) added (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 14}, (with ss. 119, 121)
+[^F73]: Words in s. 77(2) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F74]: Words in s. 77(2)(a) omitted (22.10.2003) by virtue of The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503), art. 2, sch. 1 para. 5
+[^F75]: Words in s. 77(2)(a) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 15(a) (with ss. 119, 121)
+[^F76]: Words in s. 77(4)(a) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 15(b) (with ss. 119, 121)
+[^F77]: S. 77(4)(c)(d) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F78]: Words in s. 77(4) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F79]: Schs. 5A-5C inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 16}, (with ss. 119, 121)
+[^F80]: Sch. 8 Explanatory Note: words repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F81]: Sch. 8 Notes for Completion: Note 1 substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 17}, (with ss. 119, 121)
+[^F82]: Sch. 8A inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 18}, (with ss. 119, 121)
+[^F83]: Words in Sch. 11 repealed (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 para. 39(9) (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F84]: Sch. 11A inserted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3) {sch. 13 para. 19}, (with ss. 119, 121)
+[^F85]: Sch. 12 para. 2 repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F86]: Sch. 12 para. 7(6) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F87]: Words in Sch. 12 para. 9(4)(d)(ii) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F88]: Sch. 12 para. 9(8)(12) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F89]: Words in Sch. 12 para. 9(17) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 114(6), 129(3), sch. 13 para. 20 (with ss. 119, 121)
+[^F90]: Sch. 12 para. 15(8) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F91]: Sch. 12 para. 16(2)(a) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F92]: Sch. 12 para. 18(3) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F93]: Sch. 12 para. 24 repealed (24.12.2010) by Flood Risk Management (Scotland) Act 2009 (asp 6), ss. 96, 97(1), sch. 3 para. 11 (with s. 91); S.S.I. 2010/401, art. 3(h)
+[^F94]: Sch. 12 para. 30(2)(3)(5)(6)(d)(ii)(22) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F95]: Sch. 12 para. 31 repealed (16.6.2025) by Agriculture and Rural Communities (Scotland) Act 2024 (asp 11), s. 38(2), sch. 2 Pt. 1; S.S.I. 2025/167, reg. 2, sch.
+[^F96]: Sch. 12 para. 39(3)(c)(6) and word preceding para. 39(3)(c) repealed (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(2), 129(5)(b)(c), sch. 15 (with ss. 119, 121)
+[^F97]: Sch. 12 para. 48(3) repealed (1.8.2016) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 9; S.S.I. 2014/264, art. 2, sch. (with art. 4)
+[^F98]: Sch. 12 para. 49 repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 30(3), Sch. 4 Pt. 1 (with reg. 28(2)(3))
+[^F99]: Sch. 12 para. 50(4)(5) repealed (1.4.2010 with effect as mentioned in s. 1184(1)(a)(b) of the repealing Act) by Corporation Tax Act 2010 (c. 4), ss. 1181(1), 1184(1), Sch. 3 Pt. 1 (with Sch. 2)
+[^F100]: Words in Sch. 13 repealed (4.4.2003) by virtue of Title Conditions (Scotland) Act 2003 (asp 9), ss. 129(5)(b)(c), 128(2), sch. 15 (with ss. 119, 121)

@@ -1,0 +1,5566 @@
+---
+title: "Victims, Witnesses, and Justice Reform (Scotland) Act 2025"
+identifier: "asp/2025/12"
+citation: "2025 asp 12"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2025-10-30
+last_amended: 2026-10-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2025/12"
+source_modified: 2026-10-01
+retrieved: 2026-10-11
+---
+
+# Victims, Witnesses, and Justice Reform (Scotland) Act 2025
+
+**2025 asp 12**
+
+An Act of the Scottish Parliament to establish a Victims and Witnesses Commissioner for Scotland; to make provision for the investigation and prosecution of crime, and the conduct and scheduling of criminal and civil proceedings, to be done in a trauma-informed way; to make provision about the rights of victims to receive information, give views, and be referred to victim support services; to make provision about the release of prisoners; to make provision for special measures for vulnerable witnesses and vulnerable parties in civil proceedings, including the special measure of prohibiting the personal conduct of certain cases; to abolish the not proven verdict and to make provision about the size of juries in criminal trials and the number of jurors needed to deliver guilty verdicts; to establish a new court to try persons accused of certain sexual offences; to make provision about special measures for vulnerable witnesses in certain criminal cases; to provide for anonymity for victims of certain sexual offences; to provide for complainers’ legal representatives to be heard in relation to applications to admit certain evidence in sexual offences cases; to make provision about non-harassment orders; to make provision about the enforcement of protective orders made outwith Scotland; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 17th September 2025 and received Royal Assent on 30th October 2025
+
+## Part 1 — Victims and Witnesses Commissioner for Scotland
+
+### Establishment
+
+#### 1 Victims and Witnesses Commissioner for Scotland
+
+(1) The office of Victims and Witnesses Commissioner for Scotland is established.
+
+(2) Schedule 1 makes further provision about the office.
+
+### Functions and powers (prospective)
+
+#### 2 Functions (prospective)
+
+(1) The Commissioner’s general function is to promote and support the rights and interests of victims and witnesses.
+
+(2) In exercising the general function, the Commissioner is to—
+
+(a) engage, in such manner as the Commissioner considers appropriate, with—
+
+(i) victims and witnesses,
+
+(ii) persons providing victim support services,
+
+(b) take such steps as the Commissioner considers appropriate to raise awareness of and promote—
+
+(i) the interests of victims and witnesses,
+
+(ii) the Victims’ Charter (see section 9),
+
+(c) monitor compliance with—
+
+(i) standards of service set and published under section 2 of the Victims and Witnesses (Scotland) Act 2014 (“the 2014 Act”),
+
+(ii) the Victims’ Code for Scotland prepared and published under section 3B of that Act,
+
+(d) consider the provision of information to victims and other persons and the making of representations under Part 2 of the Criminal Justice (Scotland) Act 2003,
+
+(e) promote best practice, in particular trauma-informed practice, by—
+
+(i) criminal justice bodies,
+
+(ii) persons providing victim support services,
+
+(f) undertake and commission research in order to—
+
+(i) produce the Commissioner’s annual report under section 18,
+
+(ii) make recommendations, in relation to any matter relevant to the Commissioner’s general function, to criminal justice bodies and to persons providing victim support services.
+
+#### 3 Civil function (prospective)
+
+(1) The Scottish Ministers may, by regulations, amend the Commissioner’s general function to include the civil function.
+
+(2) The civil function is to promote and support the rights and interests of persons involved in proceedings other than criminal proceedings.
+
+(3) Regulations under subsection (1) may, in particular—
+
+(a) contain a definition, for the purposes of the civil function, of—
+
+(i) proceedings other than criminal proceedings,
+
+(ii) persons involved in proceedings other than criminal proceedings,
+
+(b) provide for the exercise of the civil function to include—
+
+(i) engagement, in such manner as the Commissioner considers appropriate, with persons involved in proceedings other than criminal proceedings or providing support to persons involved in such proceedings,
+
+(ii) taking such steps as the Commissioner considers appropriate to raise awareness of and promote the interests of persons involved in proceedings other than criminal proceedings,
+
+(iii) promoting best practice, in particular trauma-informed practice, by persons involved in the administration and management of proceedings other than criminal proceedings and by persons providing support to persons involved in such proceedings,
+
+(iv) undertaking and commissioning research in order to include information relating to the exercise of the civil function within the annual report under section 18,
+
+(v) undertaking and commissioning research in order to make recommendations, in relation to any matter relevant to the civil function, to persons involved in the administration and management of proceedings other than criminal proceedings and persons that provide support to persons involved in such proceedings,
+
+(c) modify this Part to include within the Commissioner’s functions and powers—
+
+(i) persons involved in proceedings other than criminal proceedings,
+
+(ii) the administration and management of proceedings other than criminal proceedings and persons involved in such administration and management,
+
+(iii) persons providing support to persons involved in proceedings other than criminal proceedings.
+
+(4) Regulations under subsection (1) may—
+
+(a) make any incidental, supplementary, consequential, transitional, transitory or saving provision the Scottish Ministers consider appropriate for the purposes of, in connection with or for giving full effect to this section,
+
+(b) modify this Part (including schedules 1 and 2).
+
+#### 4 Engagement (prospective)
+
+(1) In exercising the Commissioner’s function under section 2(2)(a), the Commissioner—
+
+(a) may establish such groups as the Commissioner considers appropriate,
+
+(b) must pay particular attention to groups of victims and witnesses who do not have other adequate means by which they can make their views known.
+
+(2) The Commissioner must prepare and keep under review a strategy for engaging with victims, witnesses and persons providing victim support services in accordance with section 2(2)(a) and this section.
+
+#### 5 Advisory group (prospective)
+
+(1) The Commissioner may establish and maintain an advisory group to give advice and information to the Commissioner about matters relating to the Commissioner’s functions.
+
+(2) The members of any such advisory group are to be such persons as the Commissioner may determine, subject to the approval of the Parliamentary corporation as to—
+
+(a) the number of members,
+
+(b) the persons to be appointed.
+
+(3) The Commissioner may pay to the members of any such advisory group such remuneration and allowances (including expenses) as the Commissioner, with the approval of the Parliamentary corporation, may determine.
+
+(4) The procedure of any such advisory group is to be such as the Commissioner may determine.
+
+#### 6 Power to work with others (prospective)
+
+(1) The Commissioner may, in the exercise of the Commissioner’s functions—
+
+(a) work with a person mentioned in subsection (2), on such terms as may be agreed with the person,
+
+(b) when requested by such a person, provide assistance to the person,
+
+(c) consult such a person.
+
+(2) The persons are—
+
+(a) the Scottish Parliament,
+
+(b) the Scottish Ministers,
+
+(c) the Lord Advocate,
+
+(d) the chief constable of the Police Service of Scotland,
+
+(e) His Majesty’s Inspectors of Constabulary in Scotland,
+
+(f) the Scottish Police Authority,
+
+(g) the Police Investigations and Review Commissioner,
+
+(h) the Information Commissioner,
+
+(i) the Scottish Human Rights Commission,
+
+(j) the Commissioner for Children and Young People in Scotland,
+
+(k) such other persons as the Commissioner considers appropriate.
+
+#### 7 General powers (prospective)
+
+(1) The Commissioner may do anything which appears to the Commissioner—
+
+(a) to be necessary or expedient for the purposes of, or in connection with, the performance of the Commissioner’s functions, or
+
+(b) to be otherwise conducive to the performance of those functions.
+
+(2) Despite the generality of subsection (1), the Commissioner may pay fees and allowances to a person for advice, assistance or any other service only with the approval of the Parliamentary corporation.
+
+#### 8 Restriction on exercise of functions (prospective)
+
+(1) The Commissioner may not exercise any function in relation to an individual case.
+
+(2) But subsection (1) does not prevent the Commissioner considering individual cases and drawing conclusions about them for the purpose of, or in the context of, exercising a function.
+
+(3) The Commissioner may not exercise any function in such a way as to adversely affect any protection relating to the independence of decision-making by a criminal justice body.
+
+(4) The Commissioner may exercise the Commissioner’s functions in relation to victims’ and witnesses’ experiences that occurred prior to the coming into force of this section, but only if and to the extent that the experiences are relevant to the exercise of the Commissioner’s general function.
+
+(5) For the purposes of subsection (1), “individual case” includes—
+
+(a) a particular victim or witness,
+
+(b) the bringing or conduct of particular proceedings,
+
+(c) anything done or omitted to be done by a person acting in a judicial capacity or on the instructions of or on behalf of such a person.
+
+### Victims’ charter (prospective)
+
+#### 9 Victims’ charter (prospective)
+
+(1) The Commissioner must—
+
+(a) prepare and publish a charter for victims (to be known as “the Victims’ Charter”) before the expiry of the period of 12 months beginning with the day on which this section comes into force,
+
+(b) lay a copy of the charter before the Scottish Parliament,
+
+(c) review the charter at least once during each period of 12 months beginning with the day on which the charter was published and, thereafter, within 12 months of the charter last being reviewed,
+
+(d) revise the charter as the Commissioner considers appropriate following such a review,
+
+(e) as soon as reasonably practicable after revising a charter, publish the charter as revised.
+
+(2) The charter—
+
+(a) must set out—
+
+(i) a description of the criminal justice system,
+
+(ii) the interactions that it is possible for a victim to have with the system,
+
+(iii) the communications which a victim will receive in the course of those interactions,
+
+(iv) the rights of a victim in those interactions,
+
+(v) the mechanisms available to a victim for upholding those rights,
+
+(b) may include such other information as the Commissioner considers appropriate.
+
+(3) The persons invited by the Commissioner to participate in the preparation of the charter—
+
+(a) must include—
+
+(i) victims,
+
+(ii) persons providing victim support services,
+
+(iii) criminal justice bodies,
+
+(b) may include such other persons as the Commissioner considers appropriate.
+
+(4) The Commissioner may prepare more than one charter in order to make different provision for different categories of victim or for victims of different types of offence, and references to the charter are to be construed accordingly.
+
+(5) Paragraphs (b) to (e) of subsection (1) and subsections (2) to (4) apply to a revised charter as they apply to the charter prepared under subsection (1)(a).
+
+(6) For the purpose of subsection (1)(a), it is immaterial that anything done by way of preparation was done before the Bill for this Act was passed or after that but before this section comes into force.
+
+### Strategic plan (prospective)
+
+#### 10 Strategic plan (prospective)
+
+(1) The Commissioner must, in respect of each 3 year period—
+
+(a) prepare and publish a strategic plan, and
+
+(b) lay a copy of the plan before the Scottish Parliament before the beginning of the 3 year period to which it relates.
+
+(2) Before publishing a strategic plan, the Commissioner must consult on a draft of it with—
+
+(a) the Parliamentary corporation, and
+
+(b) such other persons as the Commissioner considers appropriate.
+
+(3) A strategic plan is a plan setting out how the Commissioner proposes to perform the Commissioner’s functions during the period covered by the plan and, in particular, setting out—
+
+(a) what the Commissioner’s objectives and priorities are for that period,
+
+(b) how the Commissioner proposes to achieve them,
+
+(c) what the timetable is for doing so, and
+
+(d) what the estimated costs are of doing so.
+
+(4) The Commissioner may, at any time, review and revise a strategic plan.
+
+(5) Where the Commissioner revises a strategic plan—
+
+(a) subsections (1) to (4) apply to the revised strategic plan as they apply to the original strategic plan,
+
+(b) the reference in subsection (1) to the 3 year period is to be read as a reference to the period to which the revised strategic plan relates.
+
+(6) In this section, “3 year period” means—
+
+(a) the period of 3 years beginning with 1 April next following the coming into force of this section, and
+
+(b) each subsequent period of 3 years.
+
+### Investigations (prospective)
+
+#### 11 Carrying out investigations (prospective)
+
+(1) The Commissioner may carry out an investigation into whether, by what means, and the extent to which a criminal justice body has, or has had, regard to the rights, interests, and views of victims and witnesses in making decisions or taking actions that affect those victims and witnesses.
+
+(2) The Commissioner may carry out an investigation under subsection (1) only if the Commissioner, having considered the available evidence on, and any information received about, the matter, is satisfied on reasonable grounds that the investigation would not duplicate work that is properly the function of another person.
+
+(3) The Commissioner may not carry out an investigation so far as it would relate to—
+
+(a) the making of decisions or taking of action in particular legal proceedings before a court or tribunal, or
+
+(b) a matter which is the subject of legal proceedings before a court or tribunal.
+
+#### 12 Initiation and conduct of investigation (prospective)
+
+(1) Before taking any steps in the conduct of an investigation, the Commissioner must—
+
+(a) draw up terms of reference for the investigation, and
+
+(b) take such steps as appear to the Commissioner to be appropriate with a view to bringing notice of the investigation and terms of reference to the attention of persons likely to be affected by it.
+
+(2) An investigation is to be conducted in public except to the extent that the Commissioner considers that the taking of evidence in private is necessary or appropriate.
+
+#### 13 Investigations: witnesses and documents (prospective)
+
+(1) The Commissioner may require any person to—
+
+(a) give evidence on any matter within the terms of reference of an investigation,
+
+(b) produce documents in the custody or control of that person which have a bearing on any such matter.
+
+(2) The Commissioner may not impose a requirement under subsection (1) on any person whom the Parliament could not require, under section 23 of the Scotland Act 1998, to attend its proceedings for the purpose of giving evidence or to produce documents.
+
+(3) A person is not obliged under this section to answer any question or produce any document which that person would be entitled to refuse to answer or produce in proceedings in a court in Scotland.
+
+(4) A representative of the Crown Office and Procurator Fiscal Service is not obliged under this section to answer any question or produce any document concerning the operation of the system of criminal prosecution in any particular case if the Lord Advocate—
+
+(a) considers that answering the question or producing the document might prejudice criminal proceedings in that case or would otherwise be contrary to the public interest, and
+
+(b) has authorised the representative to decline to answer the question or produce the document on that ground.
+
+(5) The Scottish Ministers may, by regulations, make further provision in relation to the giving of evidence or the production of documents under subsection (1).
+
+(6) In subsection (4), a “representative of the Crown Office and Procurator Fiscal Service” means—
+
+(a) Crown Counsel,
+
+(b) a procurator fiscal,
+
+(c) a person employed in the Crown Office and Procurator Fiscal Service,
+
+(d) any person duly authorised to represent or act for the persons mentioned in paragraphs (a) to (c).
+
+#### 14 Reports on investigations (prospective)
+
+(1) The Commissioner must, at the conclusion of an investigation, publish a report of the investigation.
+
+(2) The report may include a requirement for the criminal justice body to respond to the report, within such period as the Commissioner reasonably requires, with a statement in writing addressed to the Commissioner setting out its reasoned response to the report.
+
+(3) A report of an investigation must not be published until the criminal justice body which was the subject of the investigation has, to the extent that it is reasonable and practicable to do so, been given a copy of the draft report and an opportunity to make representations on it.
+
+(4) The Commissioner must lay a copy of the report before the Scottish Parliament as soon as reasonably practicable following its publication.
+
+### Information gathering (prospective)
+
+#### 15 Power to gather information (prospective)
+
+(1) The Commissioner may require a criminal justice body to supply information which the Commissioner reasonably requires for the purpose of determining whether that body has complied with, or is complying with—
+
+(a) standards of service set and published under section 2 of the 2014 Act,
+
+(b) the Victims’ Code for Scotland prepared and published under section 3B of that Act.
+
+(2) Where a requirement is imposed under subsection (1), the Commissioner must give the criminal justice body a written notice specifying—
+
+(a) the information, or the nature of the information, which is to be supplied,
+
+(b) the form in which it is to be supplied,
+
+(c) in the case of information which is to be supplied by means of a statement in person, the place at which it is to be supplied, and
+
+(d) the particular matters in connection with which the information is required.
+
+(3) A criminal justice body may refuse to supply information which that body would be entitled to refuse to provide in any proceedings in a court in Scotland.
+
+(4) The Lord Advocate may refuse to supply information which concerns the operation of the system of criminal prosecution in any particular case if the Lord Advocate considers that providing the information—
+
+(a) might prejudice criminal proceedings in that case,
+
+(b) would otherwise be contrary to the public interest.
+
+(5) The Commissioner may revoke any requirement imposed under subsection (1) by giving written notice to the criminal justice body to whom notice of the requirement was given.
+
+(6) Where a criminal justice body refuses, under subsection (3), to supply information, the Commissioner may report the matter to the Court of Session for determination if the Commissioner considers that the criminal justice body was not entitled to so refuse.
+
+(7) In this section, “information” includes unrecorded information.
+
+#### 16 Failure to supply required information (prospective)
+
+(1) The Commissioner may take the action mentioned in subsection (3) or (4) (or both actions) where—
+
+(a) a requirement to supply information has been imposed on a criminal justice body under section 15(1), and
+
+(b) the criminal justice body refuses (other than by virtue of section 15(3) or (4)), or fails without reasonable excuse, to supply the information in accordance with the terms of the notice issued under section 15(2).
+
+(2) The Commissioner may take the action mentioned in subsection (4) where—
+
+(a) a requirement to supply information has been imposed on a criminal justice body under section 15(1), and
+
+(b) the Commissioner suspects the person has deliberately altered the information.
+
+(3) The Commissioner may publicise the criminal justice body’s refusal, or failure, to supply the information.
+
+(4) The Commissioner may report the matter to the Court of Session.
+
+(5) After receiving a report under subsection (4), and hearing any evidence or representations on the matter, the Court may (either or both)—
+
+(a) make any order for enforcement that it considers appropriate,
+
+(b) deal with the matter as if it were a contempt of court.
+
+#### 17 Offence of Commissioner disclosing confidential information (prospective)
+
+(1) A person mentioned in subsection (2) commits an offence if—
+
+(a) the person knowingly discloses any information which—
+
+(i) has been obtained by or on behalf of the Commissioner for the purposes of exercising the Commissioner’s functions, and
+
+(ii) at the time of disclosure is not, and has not previously been, in the public domain, and
+
+(b) the disclosure is not authorised by subsection (3).
+
+(2) The persons referred to in subsection (1) are persons who are or have been—
+
+(a) the Commissioner,
+
+(b) a member of the Commissioner’s staff,
+
+(c) an agent of the Commissioner.
+
+(3) For the purposes of subsection (1)(b), disclosure is authorised only so far as it is—
+
+(a) made with the consent of the person from whom the information was obtained,
+
+(b) subject to subsection (4), necessary for the purpose of enabling or assisting the exercise of the Commissioner’s functions under this Act, or
+
+(c) made for the purposes of legal proceedings, whether criminal or civil (including information disclosed for the purposes of the investigation of any offence or suspected offence).
+
+(4) Subsection (3)(b) does not authorise the disclosure of information which leads, or is likely to lead, to the identification of—
+
+(a) victims,
+
+(b) witnesses,
+
+(c) persons suspected of committing of an offence but who have not been charged in relation to that offence.
+
+(5) A person who commits an offence under subsection (1) is liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum, or
+
+(b) on conviction on indictment, to a fine.
+
+### Annual report (prospective)
+
+#### 18 Annual Report (prospective)
+
+(1) The Commissioner must, in respect of each financial year—
+
+(a) prepare and publish a report on the Commissioner’s functions, and
+
+(b) lay a copy of the report before the Scottish Parliament as soon as practicable after the end of that year.
+
+(2) The Commissioner must give a copy of the draft report to—
+
+(a) each criminal justice body, and
+
+(b) any person providing victim support services who is named in the report,
+
+not less than 5 days before publishing the report under subsection (1)(a).
+
+(3) The report must include—
+
+(a) a review of issues identified by the Commissioner in the financial year as being relevant to victims and witnesses,
+
+(b) a review of the Commissioner’s activity in that year, including the steps taken to fulfil each of the Commissioner’s functions,
+
+(c) any recommendations by the Commissioner arising out of that activity,
+
+(d) a summary of any review and revision of the Victims’ Charter under subsection (1) of section 9 that has completed in the financial year,
+
+(e) an overview of the activity the Commissioner intends to undertake in the financial year following the year to which the report relates.
+
+(4) Recommendations under subsection (3)(c) may include recommendations in relation to—
+
+(a) the provision of training to the members and employees of a criminal justice body,
+
+(b) a person’s standards of service set and published under section 2 of the 2014 Act,
+
+(c) the Victims’ Code for Scotland prepared and published under section 3B of that Act,
+
+(d) trauma-informed practice,
+
+(e) the provision of information to victims and witnesses,
+
+(f) any other matter relating to the Commissioner’s functions.
+
+(5) The Commissioner must—
+
+(a) comply with any direction given to the Commissioner by the Parliamentary corporation in relation to the form and content of the report,
+
+(b) ensure that a report does not include any information that would or might disclose the identity of an individual.
+
+(6) The first report under this section is to relate to the period beginning on the day that this section comes into force and ending—
+
+(a) if the financial year ends not less than 6 months after the day that this section comes into force, on the last day of that financial year, or
+
+(b) otherwise, on the last day of the next financial year.
+
+#### 19 Requirement to respond to annual report (prospective)
+
+(1) Where a report under section 18 names—
+
+(a) a criminal justice body,
+
+(b) a person providing victim support services,
+
+the Commissioner may, in the report, impose on the person a requirement to respond to the report.
+
+(2) Where a requirement to respond is imposed under subsection (1), the person must provide a written statement within such reasonable period as the Commissioner specifies.
+
+(3) The statement must set out the person’s reasoned response to the part of the report which relates to their activities.
+
+#### 20 Publication of responses to annual report (prospective)
+
+(1) The Commissioner must—
+
+(a) publish any statement provided in response to a requirement to respond imposed under section 19, and
+
+(b) lay a copy of it before the Scottish Parliament.
+
+(2) Subsection (1) does not apply if, or to the extent that, the Commissioner considers publication and laying to be inappropriate.
+
+(3) In particular, the Commissioner must ensure that, so far as reasonably practicable, the version of the statement which is published and laid under subsection (1) does not include any information which would not, under section 18(5), be included in a report.
+
+(4) The Commissioner may, in such manner as the Commissioner considers appropriate, publicise a failure to comply with a requirement to respond.
+
+### Miscellaneous (prospective)
+
+#### 21 Reports (prospective)
+
+(1) The Commissioner may publish any report, in addition to reports under sections 14 and 18, prepared by the Commissioner if the Commissioner considers it appropriate to do so.
+
+(2) The Commissioner—
+
+(a) must give a copy of a draft report to each criminal justice body not less than 5 days before publishing the report under subsection (1),
+
+(b) may lay any report published under subsection (1) before the Scottish Parliament, if the Commissioner considers it appropriate to do so.
+
+(3) The Commissioner must ensure that, so far as reasonably practicable having regard to the subject matter, a report does not name or otherwise identify an individual who has—
+
+(a) given information to the Commissioner, and
+
+(b) not consented to being named in the report.
+
+#### 22 Protection from actions of defamation (prospective)
+
+(1) For the purposes of the law of defamation—
+
+(a) any statement made to the Commissioner has absolute privilege,
+
+(b) any statement in the Commissioner’s report on an investigation has absolute privilege,
+
+(c) any other statement made by the Commissioner has qualified privilege.
+
+(2) In this section—
+
+(a) a reference to a statement being made to or by the Commissioner—
+
+(i) includes a statement being made to or by (as the case may be) a member of the Commissioner’s staff or an agent of the Commissioner,
+
+(ii) does not include a statement made to or by (as the case may be) an individual when the individual is not acting in the individual’s capacity as the Commissioner, a member of the Commissioner’s staff or an agent of the Commissioner,
+
+(b) “statement” has the same meaning as in the Defamation and Malicious Publication (Scotland) Act 2021.
+
+### Co-operation with Commissioner (prospective)
+
+#### 23 Co-operation with Commissioner (prospective)
+
+(1) The Commissioner may request that a specified criminal justice body co-operate with the Commissioner in any way that the Commissioner considers necessary for the purposes of the Commissioner’s functions.
+
+(2) A criminal justice body which receives a request under subsection (1) must respond to that request confirming—
+
+(a) that it will comply with the request so far as reasonably practicable, or
+
+(b) that it will not comply with the request and the reason for that non-compliance.
+
+### Application of public authorities legislation (prospective)
+
+#### 24 Application of public authorities legislation (prospective)
+
+Schedule 2 amends other Acts so that their provisions apply to the office of Victims and Witnesses Commissioner for Scotland.
+
+### Interpretation of Part (prospective)
+
+#### 25 Interpretation of Part (prospective)
+
+(1) In this Part (including schedule 1)—
+
+- “Commissioner” means the Victims and Witnesses Commissioner for Scotland,
+
+- “criminal justice body” means—
+
+  - the Lord Advocate,
+  - the Scottish Ministers,
+  - the chief constable of the Police Service of Scotland,
+  - the Scottish Courts and Tribunals Service,
+  - the Parole Board for Scotland,
+
+- “harmful behaviour by a child” means action or behaviour by a child aged under 12 which falls within section 179A(2) of the Children’s Hearings (Scotland) Act 2011,
+
+- “offence”—
+
+  - includes—
+  
+    - any offence, regardless of whether it is committed, or suspected to have been committed, before or after this section comes into force,
+    - conduct which would constitute an offence, whether or not a person has been charged with or convicted of an offence in relation to that conduct,
+  
+  - does not include conduct by a child in respect of which the child has been referred to a children’s hearing,
+
+- “Parliamentary corporation” means the Scottish Parliamentary Corporate Body,
+
+- “prescribed relative” means a relative prescribed by the Scottish Ministers by an order made under section 2(6) or 6(2)(b) of the 2014 Act,
+
+- “victim” means a person to whom one or more of the following applies—
+
+  - an offence, or harmful behaviour by a child, has been, or is suspected to have been, committed or carried out against or in respect of the person,
+  
+  - the person has suffered harm as a direct result of having seen, heard, or otherwise directly experienced the effects of an offence, or harmful behaviour by a child, at the time the offence or harmful behaviour occurred,
+  
+  - the person is entitled to receive information under section 16 or 16A of the Criminal Justice (Scotland) Act 2003,
+  
+  - the person is a prescribed relative of—
+  
+    - a person against or in respect of whom an offence, or harmful behaviour by a child, has been, or is suspected to have been, committed or carried out,
+    - a person who has died as a direct result of an offence, or harmful behaviour by a child,
+
+- “victim support services” has the meaning given by section 3D(5) of the 2014 Act,
+
+- “witness” means a person who is or appears to be a witness in respect of an offence, or harmful behaviour by a child.
+
+(2) The Scottish Ministers may, by regulations—
+
+(a) modify the list in the definition of “criminal justice body” in subsection (1) to add, vary or remove entries,
+
+(b) modify the definition in subsection (1) of—
+
+(i) victim,
+
+(ii) witness,
+
+(c) make any other modification to subsection (1) which the Scottish Ministers consider necessary or expedient in consequence of modifications made by virtue of paragraph (b).
+
+## Part 2 — Trauma-informed practice
+
+### Principle of trauma-informed practice
+
+#### 26 Principle of trauma-informed practice
+
+(1) The 2014 Act is amended as follows.
+
+(2) In section 1 (general principles)—
+
+(a) in subsection (3), after paragraph (c) insert—
+
+> (ca) that, during and after the investigation and proceedings, a victim or witness should be treated in a way that accords with trauma-informed practice,
+
+,
+
+(b) after subsection (3) insert—
+
+> (3A) For the purposes of this section, “trauma-informed practice” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+.
+
+(3) In section 2 (standards of service)—
+
+(a) in subsection (1), after paragraph (a) insert—
+
+> (aa) the carrying out of those functions in relation to such a person in a way that accords with trauma-informed practice,
+
+,
+
+(b) after subsection (4) insert—
+
+> (4A) Each person mentioned in subsection (2) must set and publish revised standards within the period of 18 months beginning on the day on which section 26 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 comes into force.
+>
+> (4B) Subsections (1) to (4) apply to the revised standards as they apply to the original standards.
+
+,
+
+(c) in subsection (6), after the definitions of “prison” and “young offenders institution” insert—
+
+> - “trauma-informed practice” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025,
+
+.
+
+### Conduct of proceedings in accordance with trauma-informed practice
+
+#### 27 Criminal courts: conduct of proceedings
+
+(1) The Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”) is amended as follows.
+
+(2) In section 305 (Acts of Adjournal), after subsection (1A) insert—
+
+> (1B) Subsection (1) also extends to making provision by Act of Adjournal for the purpose of ensuring that criminal proceedings are conducted in a way that accords with trauma-informed practice.
+
+.
+
+(3) In section 307 (interpretation), after the definition of “training school order” insert—
+
+> - “trauma-informed practice” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+.
+
+#### 28 Civil courts: conduct of proceedings
+
+(1) The Courts Reform (Scotland) Act 2014 is amended as follows.
+
+(2) In section 103 (power to regulate procedure etc. in the Court of Session), in subsection (2), after paragraph (c) insert—
+
+> (ca) ensuring that such proceedings are conducted in a way that accords with trauma-informed practice,
+
+.
+
+(3) In section 104 (power to regulate procedure etc. in the sheriff court and the Sheriff Appeal Court), in subsection (2), after paragraph (c) insert—
+
+> (ca) ensuring that such proceedings are conducted in a way that accords with trauma-informed practice,
+
+.
+
+(4) In section 136 (interpretation), after the definition of “solicitor” insert—
+
+> - “trauma-informed practice” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+.
+
+#### 29 Fatal accident inquiries: conduct of proceedings
+
+(1) The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 is amended as follows.
+
+(2) In section 36 (power to regulate procedure etc.)—
+
+(a) in subsection (2), after paragraph (b) insert—
+
+> (ba) ensuring inquiry proceedings are conducted in a way that accords with trauma-informed practice,
+
+,
+
+(b) after subsection (5) insert—
+
+> (5A) For the purposes of this section, “trauma-informed practice” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+.
+
+### Duty to have regard to principle of trauma-informed practice
+
+#### 30 Scheduling of business in Scottish courts
+
+(1) The Judiciary and Courts (Scotland) Act 2008 is amended as follows.
+
+(2) In section 2 (head of the Scottish Judiciary)—
+
+(a) after subsection (2) insert—
+
+> (2ZA) In carrying out the responsibility mentioned in subsection (2)(a), the Lord President must have regard to the desirability of doing so in a way that accords with trauma-informed practice.
+
+,
+
+(b) after subsection (6) insert—
+
+> (6A) For the purposes of this section, “trauma-informed practice” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+.
+
+#### 31 Scheduling of business in sheriff courts and the Sheriff Appeal Court
+
+(1) The Courts Reform (Scotland) Act 2014 is amended as follows.
+
+(2) In section 27 (sheriff principal’s responsibility for efficient disposal of business in sheriff courts), after subsection (3) insert—
+
+> (3A) In carrying out the responsibility imposed by subsection (1), the sheriff principal must have regard to the desirability of doing so in a way that accords with trauma-informed practice.
+
+.
+
+(3) In section 29 (Lord President’s power to exercise functions under sections 27 and 28), in subsection (1), after paragraph (a) insert—
+
+> (aa) is prejudicial to the carrying out of the responsibility imposed by section 27(1) in a way that accords with trauma-informed practice,
+
+.
+
+(4) In section 56 (President’s responsibility for efficient disposal of business), after subsection (3) insert—
+
+> (3A) In carrying out the responsibility imposed by subsection (1), the President must have regard to the desirability of doing so in a way that accords with trauma-informed practice.
+
+.
+
+#### 32 Scheduling of business in justice of the peace courts
+
+(1) The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 is amended as follows.
+
+(2) In section 61 (efficient disposal of business in justice of the peace courts)—
+
+(a) after subsection (1) insert—
+
+> (1A) In carrying out the responsibility imposed by subsection (1), the sheriff principal must have regard to the desirability of doing so in a way that accords with trauma-informed practice.
+
+,
+
+(b) after subsection (4) insert—
+
+> (5) For the purposes of this section, “trauma-informed practice” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+.
+
+## Part 3 — Victims’ rights to receive information and to give views
+
+### 33 Victim’s right to information about plea agreements, etc. (prospective)
+
+(1) The 2014 Act is amended as follows.
+
+(2) After section 6 insert—
+
+> **6A Disclosure of information about plea agreements, etc.**
+>
+> (1) This section applies where, in solemn proceedings, a person mentioned in subsection (2) (a “victim”) has indicated to the prosecutor that they wish to be informed where one or more of the following events has, as a result of agreement between the prosecutor and the accused, occurred—
+>
+> (a) a relevant charge libelled in the indictment has been amended and the prosecutor has accepted a guilty plea to that charge,
+>
+> (b) the prosecutor has accepted a plea of not guilty to a relevant charge.
+>
+> (2) The person is—
+>
+> (a) a natural person against whom an offence libelled in the indictment is alleged to have been committed, or
+>
+> (b) in a case where the death of a person mentioned in paragraph (a) was (or appears to have been) caused by the offence or alleged offence, a prescribed relative of the person.
+>
+> (3) The prosecutor must inform the victim of the event mentioned in paragraph (a) or (b) of subsection (1)—
+>
+> (a) as soon as reasonably practicable after the event has occurred, or
+>
+> (b) where the prosecutor considers it is in the interests of justice, as soon as reasonably practicable after the proceedings have been substantively concluded.
+>
+> (4) In this section—
+>
+> - “prescribed relative” means a person prescribed by the Scottish Ministers for the purposes of section 6(2)(b),
+>
+> - “prosecutor” means the Lord Advocate, Crown Counsel or the procurator fiscal (and any person duly authorised to represent or act for them),
+>
+> - “relevant charge” means a charge relating to an offence alleged to have been committed against the person mentioned in subsection (2)(a),
+>
+> - “substantively concluded”, in relation to criminal proceedings, means whichever is the earlier of—
+>
+>   - the accused being convicted or, as the case may be, acquitted in relation to all charges, or all charges remaining, in the indictment, or
+>   - the proceedings otherwise being finally disposed of.
+>
+> (5) The Scottish Ministers may by regulations modify this section to provide for its application in summary proceedings.
+>
+> (6) Regulations under subsection (5)—
+>
+> (a) may include incidental, supplementary, consequential, transitional, transitory or saving provision,
+>
+> (b) may make different provision for different purposes,
+>
+> (c) are subject to the affirmative procedure.
+
+.
+
+### 34 Victims’ right to be informed of decision not to prosecute or to discontinue proceedings (prospective)
+
+(1) The 2014 Act is amended as follows.
+
+(2) Before section 4 (rules: review of decision not to prosecute) insert—
+
+> **3K Victims’ right to be informed of decision not to prosecute or to discontinue proceedings**
+>
+> (1) Where a prosecutor decides—
+>
+> (a) not to prosecute a person for an offence or alleged offence, or
+>
+> (b) to discontinue criminal proceedings against a person for an offence or alleged offence,
+>
+> the prosecutor must, as soon as reasonably practicable, inform any person who is, or appears to be, a victim in relation to that offence or alleged offence of the prosecutor’s decision.
+>
+> (2) In this section, “prosecutor” means the Lord Advocate, Crown Counsel or the procurator fiscal (and any person duly authorised to represent or act for them).
+
+.
+
+(3) The italic cross heading immediately preceding section 4 becomes*“Decisions not to prosecute or to discontinue proceedings”.*
+
+### 35 Single victim notification system
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended by subsections (2) to (4).
+
+(2) In section 16 (victim’s right to receive information concerning release etc. of offender)—
+
+(a) in subsection (1)—
+
+(i) in the opening words, the words “Subject to subsection (2),” are repealed,
+
+(ii) in paragraph (a), the words “for a period of 18 months or more” are repealed,
+
+(iii) paragraph (b) is repealed,
+
+(b) subsection (4)(a) is repealed.
+
+(3) In section 17 (release on licence: right of victim to receive information and make representations), subsection (12)(b), and the word “or” immediately preceding it, are repealed.
+
+(4) In section 17ZA (release on licence: provision of information to person supporting victim), subsection (5)(b) is repealed.
+
+(5) The 2014 Act is amended by subsections (6) to (9).
+
+(6) Section 27A (notification of victims in relation to release etc. of short term prisoners) is repealed.
+
+(7) Section 27B (provision of information to person supporting victim) is repealed.
+
+(8) In section 29A (exercise of functions where victim is a child), in subsection (1), in the opening words, for “, 8A or 27A” substitute “or 8A”.
+
+(9) In section 29B (application of Act where victim’s death caused by offence), in subsection (3), in the opening words, for “, 3G or 27A” substitute “or 3G”.
+
+### 36 Right of eligible persons to receive information in event of death or incapacity of victim (prospective)
+
+Part 1 of schedule 3 modifies the Criminal Justice (Scotland) Act 2003 to make provision for the designation of a person to receive information under Part 2 of that Act, in the event that the natural person against whom an offence has been committed has died or is incapable.
+
+### 37 Victim notification and right to make representations where offender is a child (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16 (victim’s right to receive information concerning release etc. of offender)—
+
+(a) in subsection (1), paragraph (c) and the “or” immediately preceding it are repealed,
+
+(b) subsection (2) is repealed,
+
+(c) in subsection (3)(a), for “or the 1993 Act” substitute “, the 1993 Act or the 1995 Act”,
+
+(d) after subsection (3)(d) insert—
+
+> (da) that the local authority intends to review for the first time the case of the convicted person under section 44(6)(b) of the 1995 Act,
+
+,
+
+(e) in subsection (3)(e)—
+
+(i) after “prison,” insert “a”,
+
+(ii) for “or hospital” substitute “, secure accommodation or a hospital”,
+
+(f) in subsection (3)(f)(ii)—
+
+(i) after “prison,” insert “a”,
+
+(ii) for “or hospital” substitute “, secure accommodation or a hospital”.
+
+(3) In section 16ZA (provision of information to person supporting victim), subsection (4) is repealed.
+
+(4) In section 16A(1) (victim’s right to receive information concerning offender subject to compulsion order)—
+
+(a) in paragraph (b) (as amended by section 45(2)(a)), at the end, insert “and”,
+
+(b) paragraph (d), and the word “and” immediately preceding it, are repealed.
+
+(5) In section 16D (provision of information concerning offender subject to compulsion order to person supporting victim), subsection (5) is repealed.
+
+(6) In section 17 (release on licence: right of victim to receive information and make representations)—
+
+(a) in subsection (1)—
+
+(i) in the opening words, the words “, (3)” are repealed,
+
+(ii) in paragraph (b), after “imprisonment” insert “or detention without limit of time”,
+
+(b) subsection (3) is repealed.
+
+(7) In section 17ZA, subsection (4) is repealed.
+
+(8) After section 17A, insert—
+
+> **17AA Release under section 44 of the 1995 Act: victim’s right to make representations**
+>
+> (1) This section applies where a person (“P”) is entitled to receive information under section 16, or a supporter or nominee is entitled to receive information under section 16ZA, as respects a child who has been detained and—
+>
+> (a) that child is due to be released by virtue of section 44(6)(a) of the 1995 Act, or
+>
+> (b) the local authority—
+>
+> (i) intends to review the case of that child under section 44(6)(b) of the 1995 Act, and
+>
+> (ii) considers that such review might result in the release of the child in accordance with sub-paragraph (ii) of that paragraph.
+>
+> (2) Where the child is due to be released by virtue of section 44(6)(a) of the 1995 Act, P must be afforded the opportunity to make written representations as to the supervision requirements or conditions which might be specified in relation to such release.
+>
+> (3) Where the local authority intends to review the case of the child under section 44(6)(b) of the 1995 Act, and considers that the review might result in release of the child in accordance with sub-paragraph (ii) of that paragraph, P must be afforded the opportunity to make written representations as to—
+>
+> (a) the potential release of the child,
+>
+> (b) supervision requirements or conditions which might be specified in relation to such release.
+>
+> (4) Subsections (2) and (3) apply only if P has notified the Scottish Ministers that P wishes to be given the opportunity to make representations under the relevant subsection.
+>
+> (5) The Scottish Ministers must—
+>
+> (a) fix a time within which any written representations under subsection (2) or (3) require to be made to them in order to be considered by them or the local authority, and
+>
+> (b) notify P and any supporter or nominee entitled to receive information under section 16ZA of the time fixed.
+
+.
+
+(9) In section 18A (interpretation of Part), in subsection (1), after the definition of “restricted transfer” (as inserted by section 40) insert—
+
+> - “secure accommodation” has the meaning given by section 202(1) of the Children’s Hearings (Scotland) Act 2011,
+
+.
+
+### 38 Provision of information where victim is a child (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16 (victim’s right to receive information concerning release etc. of offender)—
+
+(a) after subsection (4) insert—
+
+> (4A) If the victim is a child, then subsection (1) applies as if references in it to the victim were references to the victim and to a person who cares for the victim.
+>
+> (4B) Where an intimation is made under subsection (1) by a victim who is a child or, by virtue of subsection (4A), by a person who cares for the victim, the Scottish Ministers must determine whether the information should be provided to—
+>
+> (a) the victim,
+>
+> (b) the victim and the person who cares for the victim,
+>
+> (c) the person who cares for the victim, or
+>
+> (d) another person over the age of 18 years with a relationship to the victim,
+>
+> but only if the Scottish Ministers are satisfied that the person consents to being given the information.
+>
+> (4C) When making a determination under subsection (4B), the Scottish Ministers must have regard to—
+>
+> (a) the victim’s age and maturity,
+>
+> (b) any views expressed by the victim, and
+>
+> (c) the best interests of the victim.
+>
+> (4D) When making a determination under subsection (4B), the Scottish Ministers must also have regard to the code of practice issued under section 18ZA.
+>
+> (4E) The Scottish Ministers may—
+>
+> (a) review a determination made under subsection (4B)—
+>
+> (i) of their own accord, or
+>
+> (ii) at the request of the victim or the other person (if any) to whom the determination relates,
+>
+> (b) following a review, make a new determination under subsection (4B).
+>
+> (4F) Where a determination has been made under subsection (4B)—
+>
+> (a) before the victim attains the age of 18 years, the Scottish Ministers must contact the victim to establish how the victim wishes to receive information under this section after they attain the age of 18 years,
+>
+> (b) after the victim attains the age of 18 years, the most recent determination made under subsection (4B) in relation to the victim continues to have effect until a new intimation under subsection (1) is made.
+
+,
+
+(b) for subsection (8) substitute—
+
+> (8) In this section, the expression “cares for” is to be construed in accordance with the definition of “someone who cares for” in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010.
+
+.
+
+(3) In section 16B (person entitled to ask to be given information under section 16A)—
+
+(a) in subsection (1), after paragraph (c) insert—
+
+> (d) if V is a child, the person who cares for V.
+
+,
+
+(b) subsection (2) is repealed,
+
+(c) after subsection (2) insert—
+
+> (2A) Where V is a child and V or the person who cares for V has asked to be given information under section 16A, the Scottish Ministers must determine whether the information should be provided to—
+>
+> (a) V,
+>
+> (b) V and the person who cares for V,
+>
+> (c) the person who cares for V, or
+>
+> (d) another person over the age of 18 years with a relationship to V,
+>
+> but only if the Scottish Ministers are satisfied that the person consents to being given the information.
+>
+> (2B) When making a determination under subsection (2A), the Scottish Ministers must have regard to—
+>
+> (a) V’s age and maturity,
+>
+> (b) any views expressed by V, and
+>
+> (c) the best interests of V.
+>
+> (2C) When making a determination under subsection (2A), the Scottish Ministers must also have regard to the code of practice issued under section 18ZA.
+>
+> (2D) The Scottish Ministers may—
+>
+> (a) review a determination made under subsection (2A)—
+>
+> (i) of their own accord, or
+>
+> (ii) at the request of V or the other person (if any) to whom the determination relates,
+>
+> (b) following a review, make a new determination under subsection (2A).
+>
+> (2E) Where a determination has been made under subsection (2A)—
+>
+> (a) before V attains the age of 18 years, the Scottish Ministers must contact V to establish how V wishes to receive information under section 16A after they attain the age of 18 years,
+>
+> (b) after V attains the age of 18 years, the most recent determination made under subsection (2A) in relation to V continues to have effect until a new intimation under section 16A(1) is made.
+
+.
+
+(4) In section 17 (release on licence: right of victim to receive information and make representations)—
+
+(a) in subsection (1), for “(the “victim”)” substitute “(“P”)”,
+
+(b) in subsection (2), for “the victim” substitute “P”,
+
+(c) in subsection (5), for “the victim” substitute “P”,
+
+(d) in subsection (6),
+
+(i) in paragraph (a), for “the victim” substitute “P”,
+
+(ii) in paragraph (b), for “the victim” substitute “P”,
+
+(iii) in paragraph (c)—
+
+(A) in both places it occurs, for “the victim” substitute “P”,
+
+(B) for “the victim’s” substitute “P’s”,
+
+(iv) in the closing words, for “the victim” substitute “P”,
+
+(e) in subsection (8), for “the victim” substitute “P”,
+
+(f) in subsection (9), for “the victim” substitute “P”,
+
+(g) in subsection (10), for “the victim” substitute “P”,
+
+(h) in subsection (11), for “the victim” substitute “P”.
+
+(5) In section 17A (temporary release: victim's right to make representations about conditions), in subsection (1)(a), after “(1)” insert “, (4B)”.
+
+### 39 Notification of individual other than supporter to receive information (prospective)
+
+Part 2 of schedule 3 modifies the Criminal Justice (Scotland) Act 2003 to make provision for the nomination of a person other than a supporter to receive information, as well as or instead of the natural person against whom an offence has been committed, under Part 2 of that Act.
+
+### 40 Transfers of convicted persons (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16 (victim’s right to receive information concerning release etc. of offender)—
+
+(a) after subsection (1), insert—
+
+> (1A) Where a person was convicted and sentenced to imprisonment or detention in respect of an offence in any part of the United Kingdom outwith Scotland, or any of the Channel Islands or the Isle of Man, and has been transferred to Scotland—
+>
+> (a) by unrestricted transfer, subsection (1) applies as though the person was convicted and sentenced in Scotland,
+>
+> (b) by restricted transfer, subsection (1) does not apply.
+
+,
+
+(b) in subsection (3)—
+
+(i) in paragraph (c), after “Scotland” insert “and, unless the Scottish Ministers have cause to believe that it would not be in the interests of justice to provide such information, the jurisdiction to which the convicted person is subject as a result”,
+
+(ii) after paragraph (c), insert—
+
+> (ca) where the convicted person was previously transferred to a place outwith Scotland, that the convicted person has been returned to Scotland to serve the remainder, or any part of the remainder, of the sentence imposed in respect of the offence referred to in subsection (1),
+
+.
+
+(3) After section 16ZA (provision of information to person supporting victim), insert—
+
+> **16ZB Rights under section 16 where convicted person is transferred outwith Scotland: unrestricted transfer**
+>
+> (1) Subsection (2) applies where a person (“the convicted person”) is transferred to any part of the United Kingdom outwith Scotland, or to any of the Channel Islands or the Isle of Man, by unrestricted transfer.
+>
+> (2) Section 16(1) ceases to apply in relation to the convicted person on the day on which the Scottish Ministers notify, in accordance with section 16(3)(c), a person who would otherwise be entitled to receive information about the convicted person under section 16 (“P”) that the person has been so transferred.
+>
+> (3) Where a transfer described in subsection (1) takes place, the Scottish Ministers must, when notifying P of the information set out in section 16(3)(c), also notify P—
+>
+> (a) that, by virtue of the transfer, no further information will fall to be given under section 16 unless the convicted person is returned to custody in Scotland to serve the remainder, or any part of the remainder, of the sentence to which P’s rights relate (“the relevant sentence”),
+>
+> (b) that P may be entitled to receive information about the convicted person from the jurisdiction to which the convicted person is subject as a result of the transfer (“the receiving jurisdiction”), and
+>
+> (c) of such other information as is reasonably available to the Scottish Ministers as to the availability of information for victims of crime in the receiving jurisdiction.
+>
+> (4) Where a transfer described in subsection (1) has taken place and the convicted person is subsequently returned to Scotland to serve the remainder, or any part of the remainder, of the relevant sentence, section 16(1) applies with effect from the day on which the return takes place.
+>
+> (5) Where a person (“the applicant”) intimates under section 16(1) that they wish to receive information, and the convicted person to whom that information relates has been transferred as described in subsection (1), the Scottish Ministers must inform the applicant—
+>
+> (a) that the convicted person has been so transferred, and the jurisdiction to which the convicted person is subject as a result,
+>
+> (b) that the applicant does not have the right to receive information under section 16 during such time as the convicted person is not in custody in Scotland,
+>
+> (c) that if the convicted person is returned to Scotland—
+>
+> (i) the applicant will be notified under section 16(3)(ca), and
+>
+> (ii) beginning with the date on which the transfer takes place, section 16(1) will apply as though the convicted person had not been transferred out of Scotland,
+>
+> (d) that the applicant may be entitled to receive information about the convicted person from the receiving jurisdiction,
+>
+> (e) of such other information as is reasonably available to the Scottish Ministers as to the availability of information for victims of crime in the receiving jurisdiction.
+>
+> **16ZC Rights under section 16 where convicted person is transferred outwith Scotland: restricted transfer**
+>
+> (1) Where a person (“the convicted person”) is transferred to any part of the United Kingdom outwith Scotland, or to any of the Channel Islands or the Isle of Man, by restricted transfer—
+>
+> (a) section 16 applies in relation to the convicted person in accordance with subsection (2),
+>
+> (b) the Scottish Ministers must, when notifying a person who would otherwise be entitled to receive information about the convicted person under section 16 (“P”) of the information set out in section 16(3)(c), also notify P—
+>
+> (i) that subject to subsection (2), P will continue to be eligible to receive information under section 16,
+>
+> (ii) that P may be entitled to receive information about the convicted person from the jurisdiction to which the convicted person is subject as a result of the transfer (“the receiving jurisdiction”), and
+>
+> (iii) of such other information as is reasonably available to the Scottish Ministers as to the availability of information for victims of crime in the receiving jurisdiction.
+>
+> (2) Section 16(1) has effect as if—
+>
+> (a) the convicted person had not been transferred outwith Scotland,
+>
+> (b) after “so,” there were inserted “use reasonable endeavours to”,
+>
+> (c) after “subsection (3)”, there were inserted “or information about an event which the Scottish Ministers consider is equivalent in effect to an event listed in section 16(3)”.
+>
+> (3) Where a transfer described in subsection (1) has taken place and subsequently ceases to be a restricted transfer by reason of the removal of a condition as is mentioned in paragraph 6(1)(a) of schedule 1 to the Crime (Sentences) Act 1997—
+>
+> (a) section 16(1) ceases to apply in relation to the convicted person with effect from the date on which the variation of conditions takes place,
+>
+> (b) the Scottish Ministers must notify any person who would otherwise be entitled to receive information under section 16—
+>
+> (i) that the condition has been removed and the transfer is now an unrestricted transfer,
+>
+> (ii) of the information set out in section 16ZB(3),
+>
+> (c) sections 16ZB(4) and (5) apply in relation to the convicted person.
+>
+> **16ZD Rights under section 16 where convicted person is transferred to Scotland from outwith UK**
+>
+> (1) Where a person who has been convicted of an offence and sentenced to imprisonment or detention in respect of that offence, in a jurisdiction outwith the United Kingdom or any of the Channel Islands or the Isle of Man, is transferred to Scotland—
+>
+> (a) the Scottish Ministers may—
+>
+> (i) give to the jurisdiction from which the person is transferred (“the transferring jurisdiction”) information about the rights of persons to receive information under this Part,
+>
+> (ii) request that the transferring jurisdiction give that information to any person who would qualify to receive information under section 16 if the convicted person had been convicted and sentenced in Scotland, and
+>
+> (iii) request from the transferring jurisdiction the details of any person who would so qualify and, if received, use reasonable endeavours to notify that person of their right to receive information under this Part,
+>
+> (b) section 16 applies in relation to the convicted person in accordance with subsection (2).
+>
+> (2) Section 16(1) has effect as if—
+>
+> (a) the convicted person had been convicted and sentenced in Scotland,
+>
+> (b) after “so” there were inserted “use reasonable endeavours to”.
+
+.
+
+(4) In section 18A(1) (interpretation of Part)—
+
+(a) after the definition of “Mental Health Tribunal” insert—
+
+> - “restricted transfer” means a transfer under paragraph 1(1)(b), (2)(b), or (2A)(b), 2(1)(b) or (2)(b), or 3(1)(b) or (2)(b) of schedule 1 of the Crime (Sentences) Act 1997 (“the 1997 Act”) which is a restricted transfer within the meaning of paragraph 6(1)(a) of the schedule of the 1997 Act,
+
+,
+
+(b) after the definition of “transfer for treatment direction” insert—
+
+> - “unrestricted transfer” means a transfer under paragraph 1(1)(b), (2)(b) or (2A)(b), 2(1)(b) or (2)(b), or 3(1)(b) or (2)(b) of schedule 1 of the Crime (Sentences) Act 1997 (“the 1997 Act”) which is an unrestricted transfer within the meaning of paragraph 6(1)(b) of the schedule of the 1997 Act.
+
+.
+
+### 41 Additional information to be provided to victims (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16 (victim’s right to receive information concerning release etc. of offender), after subsection (3), insert—
+
+> (3A) The Scottish Ministers may, when providing information to a person under subsection (1), provide such ancillary information as the Scottish Ministers consider appropriate.
+
+.
+
+(3) In section 16A (victim’s right to receive information concerning offender subject to compulsion order), after subsection (2), insert—
+
+> (2A) The Scottish Ministers may, when providing information to a person under subsection (2), provide such ancillary information as the Scottish Ministers consider appropriate.
+
+.
+
+(4) In section 17 (release on licence: right of victim to receive information and make representations), after subsection (2), insert—
+
+> (2A) Where P is to be afforded an opportunity to make representations under subsection (1), the Scottish Ministers may provide to P such information as the Scottish Ministers consider appropriate in relation to the consideration of the release on licence of the convicted person.
+
+.
+
+(5) In section 17A (temporary release: victim’s right to make representations about conditions), after subsection (3), insert—
+
+> (3A) Where P is to be afforded an opportunity to make representations under subsection (2), the Scottish Ministers may provide to P such information as the Scottish Ministers consider appropriate in relation to the consideration of the temporary release of the convicted person.
+
+.
+
+(6) In section 17B (mentally-disordered offender: victim’s right to make representations), after subsection (3), insert—
+
+> (3A) Where V is to be afforded an opportunity to make representations under subsection (1), the Scottish Ministers may provide to V such information as the Scottish Ministers consider appropriate in relation to the decision in question.
+
+.
+
+(7) In section 17D (right to information after section 17B decision), after subsection (6) (as inserted by section 47(2)(c)), insert—
+
+> (7) The Scottish Ministers may, when providing information to a person under subsection (2), (4) or (6), provide such ancillary information as the Scottish Ministers consider appropriate.
+
+.
+
+### 42 Powers to modify information to be given and right to make representations (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16 (victim’s right to receive information concerning release etc. of offender), in subsection (4)(b)—
+
+(a) for “amend” substitute “modify”,
+
+(b) after “adding” insert “, amending or repealing”.
+
+(3) In section 17A (temporary release: victim’s right to make representations about conditions), after subsection (4), insert—
+
+> (5) The Scottish Ministers may, by regulations, modify this section to—
+>
+> (a) prescribe occasions, in addition to or instead of the first occasion on which the convicted person is entitled to be considered for temporary release, on which P is to be afforded the opportunity to make written representations under subsection (2),
+>
+> (b) provide that P is to be afforded the opportunity to make written representations under subsection (2) where the convicted person is a child and the local authority—
+>
+> (i) intends to review the case under section 44(6)(b) of the 1995 Act and considers that such review might result in the release of the child in accordance with sub-paragraph (i) of that paragraph,
+>
+> (ii) has carried out such a review and intends to release the child in accordance with section 44(6)(b)(i), where P was not afforded the opportunity to make representations by virtue of sub-paragraph (i),
+>
+> (c) prescribe matters in relation to the temporary release of the convicted person, in addition to conditions, about which P is to be afforded the opportunity to make written representations under subsection (2).
+>
+> (6) Regulations under subsection (5)—
+>
+> (a) may prescribe the meaning of “temporary release” for the purposes of this section,
+>
+> (b) may prescribe occasions by reference to—
+>
+> (i) a specific numerical instance of eligibility for consideration for temporary release,
+>
+> (ii) the form, purpose or circumstances of the proposed temporary release,
+>
+> (iii) such other matters as the Scottish Ministers consider appropriate,
+>
+> (c) may provide that subsection (2) does not apply in relation to consideration for—
+>
+> (i) temporary release in such form or circumstances, or for such purpose, as the Scottish Ministers consider appropriate, whether or not arising on the first occasion on which the convicted person is eligible to be considered for temporary release,
+>
+> (ii) a subsequent grant of temporary release where the form, purpose and circumstances of the proposed release are substantially the same as in relation to the previous grant,
+>
+> (d) may specify circumstances in which, subject to such conditions as may be specified in the regulations—
+>
+> (i) the Scottish Ministers,
+>
+> (ii) the governor of the prison within which the convicted person is detained, or
+>
+> (iii) as the case may be, the local authority,
+>
+> may choose not to allow representations to be made under subsection (2),
+>
+> (e) may make provision that, in specified circumstances (and provided P has notified the Scottish Ministers that P wishes to be afforded an opportunity to make representations under subsection (2), but whether or not such representations have been made) the Scottish Ministers must inform P—
+>
+> (i) as to whether the person released is to comply with conditions,
+>
+> (ii) if any such conditions relate to contact with the victim of the offence in relation to which P is entitled to receive information, or members of the victim’s family.
+>
+> (7) In this section, “governor” means—
+>
+> (a) an officer of the prison entitled, by virtue of rules made under section 39 of the Prisons (Scotland) Act 1989 (“prison rules”), to make decisions about the temporary release of a prisoner,
+>
+> (b) in the case of a contracted out prison a person, appointed for the prison under section 107(1) of the Criminal Justice and Public Order Act 1994, entitled to make decisions about the temporary release of a prisoner by virtue of the application of prison rules to contracted out prisons.
+
+.
+
+(4) In section 17B, after subsection (6), insert—
+
+> (7) The Scottish Ministers may, by regulations, amend this section to—
+>
+> (a) prescribe occasions, in addition to the first occasion, before which a decision of a type described in subsection (4) or (5)(a) is taken in relation to O in respect of which V must be afforded an opportunity to make representations under subsection (1),
+>
+> (b) specify circumstances in which, subject to such conditions as may be specified in the regulations, the Scottish Ministers may choose not to allow representations to be made under subsection (2).
+
+.
+
+(5) In section 18B (power to modify part) in subsection (1)(b), after “adding” insert “, amending or repealing”.
+
+(6) In section 88(2)(a), after “16B(7)” (as inserted by paragraph 1(5)(a) of schedule 3) insert “, 17A(5), 17B(7)”.
+
+### 43 Co-operation with the Scottish Ministers for the purposes of sharing information with victims (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) After section 17DA insert—
+
+> **17DB Co-operation for the purposes of this Part**
+>
+> (1) The Lord Advocate may co-operate with the Scottish Ministers in relation to the exercise of the Scottish Ministers’ functions under sections 16 to 17DA.
+>
+> (2) The Scottish Ministers may by regulations impose on any person not mentioned in subsection (1), or any type of person, a duty to co-operate with the Scottish Ministers in relation to the exercise of the Scottish Ministers’ functions under sections 16 to 17DA.
+>
+> (3) The Scottish Ministers may co-operate with a person to whom subsection (4) applies for the purpose of—
+>
+> (a) the exercise of the Scottish Ministers’ functions under sections 16 to 17DA,
+>
+> (b) the exercise by the person of equivalent functions in the place in which the person operates.
+>
+> (4) This subsection applies to a person who, in a place other than Scotland—
+>
+> (a) has functions equivalent to any of the Scottish Ministers’ functions under sections 16 to 17DA,
+>
+> (b) has responsibility for information relevant to the Scottish Ministers’ functions under sections 16 to 17DA.
+>
+> (5) For the purposes of this section, co-operation includes in particular the provision of such information as the Scottish Ministers reasonably require for the purpose of exercising those functions.
+>
+> (6) In section 88(2)—
+>
+> (a) in the opening words, after “order” insert “or regulations”,
+>
+> (b) in paragraph (a), after “17B(7)” (as inserted by section 42(6)) insert “, 17DB(2)”.
+
+.
+
+### 44 Standards of service
+
+(1) The 2014 Act is amended as follows.
+
+(2) In section 2 (standards of service), in subsection (3)(b)—
+
+(a) the words from “prisons” to the end become sub-paragraph (i),
+
+(b) after sub-paragraph (i), insert—
+
+> (ii) persons who are subject both to a compulsion order under either section 57(2)(a) or 57A(2) of the 1995 Act and to a restriction order under section 59 of that Act,
+>
+> (iii) persons who are subject to a hospital direction under section 59A of the 1995 Act,
+>
+> (iv) persons in respect of whom a transfer for treatment direction under section 136(2) of the Mental Health (Care and Treatment) (Scotland) Act 2003 has been made,
+
+.
+
+### 45 Victim’s right to receive information concerning offender subject to compulsion order by virtue of cross-border transfer (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16A (victim’s right to receive information concerning offender subject to compulsion order)—
+
+(a) in subsection (1)(b)—
+
+(i) the words from “has” to the end become sub-paragraph (i),
+
+(ii) after sub-paragraph (i) insert
+
+> or
+>
+> (ii) is a person to whom subsection (1A) or (1B) applies,
+
+,
+
+(b) after subsection (1), insert—
+
+> (1A) This subsection applies to a person who—
+>
+> (a) has been received in Scotland in accordance with regulations made under section 290 of the Mental Health Act, and
+>
+> (b) is treated as subject to a compulsion order and a restriction order by virtue of having been made subject to corresponding measures in proceedings in respect of the offence mentioned in subsection (1)(a) in the place from which the person was transferred.
+>
+> (1B) This subsection applies to a person who—
+>
+> (a) has been made subject to a compulsion order and a restriction order in proceedings in respect of the offence mentioned in subsection (1)(a),
+>
+> (b) has been removed from Scotland in accordance with regulations made under section 290 of the Mental Health Act,
+>
+> (c) has been made subject to corresponding measures, as described in section 290(8) of the Mental Health Act, in the place to which O has been removed,
+>
+> (d) has been subsequently received in Scotland in accordance with regulations made under section 290 of the Mental Health Act, and
+>
+> (e) is treated as subject to a compulsion order and a restriction order by virtue of having been subject to corresponding measures in relation to the orders mentioned in paragraph (a).
+
+.
+
+(3) In section 16C (information to be given under section 16A), in subsection (2)—
+
+(a) in paragraph (f), after “Scotland” insert “and, unless the Scottish Ministers have cause to believe that it would not be in the interests of justice to provide such information, the jurisdiction to which O is subject as a result”,
+
+(b) after paragraph (f), insert—
+
+> (fa) where O was previously transferred to a place outwith Scotland, that O has been returned to Scotland and section 16A(2) applies by virtue of section 16A(1B),
+
+.
+
+(4) After section 16D, insert—
+
+> **16E Rights under section 16A where offender subject to compulsion order is transferred outwith Scotland**
+>
+> (1) Subsection (2) applies where a person (“O”) is transferred to a place outwith Scotland in accordance with regulations made under section 290 of the Mental Health Act.
+>
+> (2) Section 16A(2) ceases to apply in relation to O on the day on which the Scottish Ministers notify, in accordance with section 16C(2)(f), a person who has asked to be given information about O (“P”) under section 16A that O has been so transferred.
+>
+> (3) When a transfer described in subsection (1) takes place, the Scottish Ministers must, when notifying P of the information set out in section 16C(2)(f), also notify P—
+>
+> (a) that, by virtue of the transfer, no further information will fall to be given under section 16A unless O is transferred back to Scotland and subsection 16A(2) applies by virtue of 16A(1B),
+>
+> (b) that P may be entitled to receive information about O from the jurisdiction to which O is subject as a result of the transfer (“the receiving jurisdiction”),
+>
+> (c) of such other information as is reasonably available to the Scottish Ministers as to the availability of information for victims of crime in the receiving jurisdiction.
+>
+> (4) Where a person (“the applicant”) asks to be given information under section 16A, and O has been transferred as described in subsection (1), the Scottish Ministers must inform the applicant—
+>
+> (a) that O has been so transferred, and the jurisdiction to which O is subject as a result,
+>
+> (b) that the applicant does not have the right to receive information under section 16A during such time as O is not subject, or treated as subject, to a compulsion order and a restriction order in Scotland,
+>
+> (c) that if O is returned to Scotland and section 16A(1B) applies—
+>
+> (i) the applicant will be notified of the information in section 16C(2)(fa),
+>
+> (ii) beginning with the date on which the transfer back to Scotland takes place, section 16A will apply,
+>
+> (d) that the applicant may be entitled to receive information about O from the receiving jurisdiction,
+>
+> (e) of such other information as is reasonably available to the Scottish Ministers as to the availability of information for victims of crime in the receiving jurisdiction.
+>
+> **16F Rights under section 16A where a person is transferred to Scotland other than by virtue of regulations made under section 290 of the Mental Health Act**
+>
+> (1) This section applies where a person (“O”)—
+>
+> (a) has been received in Scotland other than by virtue of regulations made under section 290 of the Mental Health Act,
+>
+> (b) was subject to measures equivalent to a compulsion order and a restriction order in the jurisdiction from which O was transferred (“the transferring jurisdiction”) in respect of an offence, and
+>
+> (c) is made subject, or treated as subject, to a compulsion order and a restriction order by virtue of having been subject to those equivalent measures.
+>
+> (2) The Scottish Ministers may—
+>
+> (a) give to the transferring jurisdiction information about the rights of persons to receive information under this Part,
+>
+> (b) request that the transferring jurisdiction give that information to any person who would qualify to receive information under section 16A if O had been made subject to a compulsion order and a restriction order in Scotland in proceedings in respect of an offence,
+>
+> (c) request from the transferring jurisdiction the details of any person who would so qualify and, if received, use reasonable endeavours to notify that person of their right to receive information under this Part.
+>
+> (3) Section 16A applies in relation to O in accordance with subsection (4).
+>
+> (4) Section 16A(2) has effect as if—
+>
+> (a) O had been made subject to a compulsion order and a restriction order in Scotland,
+>
+> (b) after “Ministers” there were inserted “use reasonable endeavours to”.
+
+.
+
+(5) In section 18B (power to modify Part), after subsection (3), insert—
+
+> (4) The Scottish Ministers may by order amend section 16A so that information may be given under that section where—
+>
+> (a) a person has been received in Scotland in accordance with regulations made under section 290(1)(c) of the Mental Health Act, and
+>
+> (b) by virtue of having been subject to corresponding measures, as described in section 290(8) of the Mental Health Act, in the place from which the person was received where an order has been made under subsection (2) which would allow information to be given under section 16A had the person been made subject to a compulsion order in Scotland, that person is treated as subject to a compulsion order.
+
+.
+
+### 46 Information to be given concerning offender subject to compulsion order (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16C (information to be given under section 16A), in subsection (2), after paragraph (i), insert—
+
+> (j) where O has been recalled as mentioned in paragraph (i)—
+>
+> (i) that the recall is being appealed against,
+>
+> (ii) the outcome of that appeal.
+
+.
+
+### 47 Victim’s right to receive information under section 17D after representations (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 17D (right to information after section 17B decision)—
+
+(a) in subsection (1)(c), after “section” insert “16 or”,
+
+(b) in subsection (2)—
+
+(i) the words “that the decision has been taken” become paragraph (a),
+
+(ii) after paragraph (a), insert
+
+> , and
+>
+> (b) what that decision is.
+
+,
+
+(c) after subsection (4), insert—
+
+> (5) Subsection (6) applies where—
+>
+> (a) in accordance with subsection (2), the Scottish Ministers have informed V that the Tribunal has decided to make no order under section 193 of the Mental Health Act, and
+>
+> (b) an appeal against that decision has been made.
+>
+> (6) The Scottish Ministers must—
+>
+> (a) inform V that the decision to make no order—
+>
+> (i) is being appealed against, or
+>
+> (ii) cannot competently be appealed against and is therefore final, and
+>
+> (b) give V the information that they would have had to give V by virtue of section 16C(4) had the appeal related to a decision to revoke a compulsion order or a restriction order, and reference in that subsection—
+>
+> (i) to a decision to revoke the order is to be read as a decision to make no order,
+>
+> (ii) to O once more being subject to the order is to be read as O no longer being subject to the order.
+
+.
+
+### 48 Conditional discharge: relevant conditions (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 18A (interpretation of Part), after subsection (3), insert—
+
+> (3A) The Scottish Ministers may, by regulations, amend subsection (3) so as to vary the circumstances in which a condition is relevant to V or, as the case may be, a supporter.
+>
+> (3B) Regulations under subsection (3A)—
+>
+> (a) may make incidental, supplementary, consequential, transitional, transitory or saving provision,
+>
+> (b) may make different provision for different purposes,
+>
+> (c) are subject to the affirmative procedure.
+
+.
+
+### 49 Suspension from detention within hospital grounds (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 18A (interpretation of Part)—
+
+(a) in subsection (2)—
+
+(i) in paragraph (b), after “certificate” in the first place where it occurs insert “other than a certificate to which subsection (2A) applies”,
+
+(ii) after paragraph (b) insert—
+
+> (c) to such a certificate, being a certificate to which subsection (2A) applies, being granted for the first time is to the first time such a certificate is granted which has the effect of allowing the person to leave the hospital of which the unit forms part since—
+>
+> (i) the person was so detained,
+>
+> (ii) in a case where the person, while subject to that order or direction, has been recalled to a hospital unit under section 202 of the Mental Health Act, since the person was so recalled (or most recently so recalled if it has happened more than once).
+
+,
+
+(b) after subsection (2) insert—
+
+> (2A) This subsection applies to certificates which relate to the detention of a person under an order or direction which specified that the person was to be detained in a hospital unit.
+>
+> (2B) For the purposes of this section, “hospital unit” means any part of a hospital which is treated as a separate unit.
+
+.
+
+### 50 Victim statements in solemn proceedings (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 14 (victim statements)—
+
+(a) in subsection (1)—
+
+(i) “taken” where it first occurs is repealed,
+
+(ii) after “likely to be” insert
+
+> —
+>
+> (a) solemn proceedings, or
+
+,
+
+(iii) the words from “taken” to the end become paragraph (b),
+
+(b) in subsection (2), for “a prescribed offence” substitute “an offence mentioned in subsection (2A)”,
+
+(c) after subsection (2) insert—
+
+> (2A) The offences are—
+>
+> (a) in the case of solemn proceedings, any offence,
+>
+> (b) in all other cases, a prescribed offence.
+
+,
+
+(d) in subsection (13), after “statement” where it first occurs insert “made by virtue of subsection (2)”,
+
+(e) in subsection (15)—
+
+(i) in the opening words, for “(2)” substitute “(2A)”,
+
+(ii) in paragraph (b), for “(2)” substitute “(2A)”,
+
+(iii) after paragraph (b) insert—
+
+> (ba) in the case of an order under subsection (13), provision to prescribe a form or manner by reference to one or more particular courts, types of proceedings, jurisdictions, offences or types of offence, or a combination of those things;
+
+,
+
+(iv) in paragraph (c), for “(2)” substitute “(2A)”,
+
+(f) in subsection (16), for “(2)” substitute “(2A)”.
+
+(3) In section 88 (orders), in subsection (2)(a), for “(2)” substitute “(2A)”.
+
+### 51 Provision of transcript of record of trial to certain complainers
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 94 (transcripts of record and documentary productions)—
+
+(a) after subsection (2) insert—
+
+> (2ZA) The Clerk of Justiciary must direct that such a transcript be made and sent to a complainer that has requested it, if the complainer was a complainer in a trial that—
+>
+> (a) was of an offence as described in section 288C(2) (certain sexual offences),
+>
+> (b) was in the High Court or the Sexual Offences Court, and
+>
+> (c) commenced on or after 31 December 2006.
+
+,
+
+(b) after subsection (9) insert—
+
+> (10) In this section, “complainer” means a person against whom an offence to which the trial related was alleged to have been committed.
+
+.
+
+### 52 Right to referral by Police Scotland to victim support services
+
+(1) The 2014 Act is amended as follows.
+
+(2) In section 3D (referral to providers of victim support services)—
+
+(a) in subsection (1)—
+
+(i) in the opening words, after “person that—” insert—
+
+> (za) victim support services are available to victims and, with reference to subsection (5), what is meant by victim support services,
+
+,
+
+(ii) for paragraph (a), and the word “and” immediately following it, substitute—
+
+> (a) the person is entitled, at any time, to have their details passed by any competent authority to such providers of victim support services as are appropriate to the person’s needs for the purpose of contacting the person to offer the services, in a process known as referral,
+>
+> (aa) if the person elects to be referred, the person may, at any later time, elect to discontinue the referral or cease to receive the victim support services,
+
+,
+
+(iii) after paragraph (b), insert
+
+> , and
+>
+> (c) if the person elects to contact providers directly without being referred, the person will be provided with the information necessary to do so.
+
+,
+
+(b) for subsection (2) substitute—
+
+> (2) Where the person intimates to a competent authority that the person wishes to be referred to providers of victim support services, the authority must, subject to the consent of the person, disclose the person’s details to such providers of victim support services as the authority considers appropriate to the person’s needs, as soon as is reasonably practicable.
+>
+> (2A) Where the person intimates to a competent authority that the person wishes to contact providers of victim support services directly without being referred, the authority must, as soon as is reasonably practicable, provide the person with the name, address and telephone number of the providers of victim support services.
+
+,
+
+(c) in subsection (3), for “(1) and (2)”, “substitute (1) to (2A)”,
+
+(d) in subsection (4), for “a request made”, in every place it occurs, substitute “an intimation”,
+
+(e) after subsection (4), insert—
+
+> (4A) The chief constable must make and publish guidance for constables on the process of referring a person who is or appears to be a victim in relation to an offence or alleged offence to victim support services under this section.
+>
+> (4B) The chief constable must keep the guidance published under subsection (4A) under review and may modify it from time to time, in which case the chief constable must publish the modified guidance.
+
+,
+
+(f) the title of section 3D becomes “**Victims’ right to access support services**”.
+
+### 53 Release on licence: reasons for decisions (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 17 (release on licence: right of victim to receive information and make representations)—
+
+(a) in subsection (6)—
+
+(i) in paragraph (a), after “release” insert “, including a summary of the reasons for its decision”,
+
+(ii) in paragraph (b), after “conditions” insert “, including a summary of the reasons for its decision”,
+
+(b) in subsection (8), in paragraph (a), after “conditions” insert “, including a summary of the reasons for its decision”,
+
+(c) in subsection (10), in paragraph (a), after “conditions” insert “, including a summary of the reasons for their decision”.
+
+### 54 Review of victim’s right to receive information on fixed penalties
+
+(1) The Scottish Ministers must, within the period of 2 years beginning with the day on which this section comes into force, undertake a review of the information to which persons who are or appear to be victims of offences are entitled by virtue of any enactment in relation to—
+
+(a) the acceptance or rejection of a fixed penalty offer by alleged offenders in accordance with section 302 of the 1995 Act, and
+
+(b) any reasons given by alleged offenders as to why the offer has been accepted or rejected.
+
+(2) The review under subsection (1) must, in particular, include consideration of whether any legislative changes are required.
+
+(3) As soon as reasonably practicable after completing the review under subsection (1), the Scottish Ministers must—
+
+(a) prepare and publish a report on the review,
+
+(b) lay a copy of the report before the Scottish Parliament.
+
+## Part 4 — Release of prisoners
+
+### 55 Parole Board rules: decisions where prisoner has information about victim’s remains
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+
+(2) In section 20 (the Parole Board for Scotland)—
+
+(a) in subsection (4), in paragraph (c), after “matters” insert “must or”,
+
+(b) after subsection (4A) insert—
+
+> (4AA) In making provision mentioned in subsection (4)(c), the Scottish Ministers must in particular include provision that the Board must, when making any decision as to the release of a prisoner serving a sentence imposed following a conviction for murder or culpable homicide (other than a decision as to release under section 3A(4) or 17(4)), take into account, where the victim’s remains have not been recovered, whether—
+>
+> (a) there are reasonable grounds to believe that the prisoner has information about where the victim’s remains are or about how or where the victim’s remains were disposed of, and
+>
+> (b) the prisoner has not disclosed that information.
+
+.
+
+### 56 Parole Board rules: safety and security of victims and victims’ family
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+
+(2) In section 20 (the Parole Board for Scotland), after subsection (4AA) (as inserted by section 55(2)(b)) insert—
+
+> (4AB) In making provision mentioned in subsection (4)(c), the Scottish Ministers must in particular include provision that the Board must, when making any decision in a prisoner’s case, take into account the likely impact of the decision on the safety and security of any victim or of any family member of a victim.
+>
+> (4AC) In subsection (4AB), “victim” means a person against or in respect of whom an offence has been committed by the prisoner.
+
+.
+
+### 57 Licence conditions: exclusion zones
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+
+(2) In section 12 (conditions in licences), after subsection (4A) insert—
+
+> (4B) If subsection (4C) applies, the—
+>
+> (a) Parole Board, when making recommendations as to licence conditions under this Part, and
+>
+> (b) Scottish Ministers, when making a decision as to licence conditions under this Part,
+>
+> must consider whether an exclusion zone condition should be included in a prisoner’s licence.
+>
+> (4C) This subsection applies where the Board has or, as the case may be, the Scottish Ministers have information that the prisoner’s being released or re-released, or remaining released, may have an adverse impact on the safety and security or on the wellbeing of—
+>
+> (a) a victim,
+>
+> (b) a member of a victim’s family, or
+>
+> (c) any other identified person or group of persons.
+>
+> (4D) In subsections (4B) and (4C)—
+>
+> - “exclusion zone condition” is a condition which prohibits the released person from entering a place or area specified in the condition,
+> - “victim” means a person against or in respect of whom an offence has been committed by the prisoner.
+
+.
+
+## Part 5 — Special measures in civil cases (prospective)
+
+### Vulnerable witnesses (prospective)
+
+#### 58 Vulnerable witnesses (prospective)
+
+(1) The Vulnerable Witnesses (Scotland) Act 2004 is amended as follows.
+
+(2) In section 11B (deemed vulnerable witnesses: proceedings concerning order under section 11(1) of the Children (Scotland) Act 1995) (inserted by section 4(3) of the Children (Scotland) Act 2020 (“the 2020 Act”))—
+
+(a) in subsection (1), for “proceedings to which subsection (2) applies”, substitute “civil proceedings other than relevant proceedings”,
+
+(b) subsection (2) is repealed,
+
+(c) for subsection (3), substitute—
+
+> (3) This subsection applies to a person if (either or both)—
+>
+> (a) a non-harassment order, order for lawburrows, interdict or any similar order or remedy (including any interim order or remedy) granted by a court prohibiting certain conduct towards the person by a party to the proceedings—
+>
+> (i) is in force, or
+>
+> (ii) has been applied for,
+>
+> (b) the person has brought an action for damages in respect of personal injuries sustained by the person and attributable to relevant behaviour by a party to the proceedings and that action has not been finally disposed of.
+>
+> (3A) For the purposes of subsection (3), “relevant behaviour” means—
+>
+> (a) sexual abuse,
+>
+> (b) sexual harassment,
+>
+> (c) behaviour that would constitute an offence as described in—
+>
+> (i) section 288C(2) of the Criminal Procedure (Scotland) Act 1995, or
+>
+> (ii) section 288DC(1) of that Act.
+
+,
+
+(d) the section title becomes “**Deemed vulnerable witnesses: proceedings other than relevant proceedings**”.
+
+(3) In section 22D(5)(a)(i) (presumption that personal conduct of case should be prohibited) (inserted by section 4(5) of the 2020 Act)—
+
+(a) the words from “because” to the end become sub-sub-paragraph (A),
+
+(b) for “prohibits” substitute “prohibiting”,
+
+(c) after “proceedings” insert “is in force or has been applied for”,
+
+(d) after sub-sub-paragraph (A), insert—
+
+> (B) because the witness has brought an action for damages in respect of personal injuries sustained by the witness and attributable to relevant behaviour by a party to the proceedings and that action has not been finally disposed of, or
+
+.
+
+#### 59 Prohibition on personal conduct of case (prospective)
+
+(1) The Vulnerable Witnesses (Scotland) Act 2004 is amended as follows.
+
+(2) In section 18(1) (the special measures)—
+
+(a) in paragraph (d), the word “and” is repealed,
+
+(b) after paragraph (d) insert—
+
+> (da) prohibition on personal conduct of case by one or more of the parties to the proceedings in accordance with sections 22B to 22D, and
+
+.
+
+(3) In section 22B (prohibition on personal conduct of case) (inserted by section 4(5) of the 2020 Act)—
+
+(a) for subsection (1), substitute—
+
+> (1) Where the special measure to be used is prohibition on personal conduct of case, the court must prohibit the party or parties identified in the order from conducting their own case in person.
+
+,
+
+(b) subsections (2) and (3) are repealed.
+
+(4) In section 22D (presumption that personal conduct of case should be prohibited) (inserted by section 4(5) of the 2020 Act), in subsection (1), in paragraph (b), for the words from “other proceedings” to the end substitute “proceedings other than relevant proceedings”.
+
+#### 60 Register of solicitors for section 22B of the Vulnerable Witnesses (Scotland) Act 2004 (prospective)
+
+(1) In the 2020 Act, section 7 is repealed.
+
+(2) The Vulnerable Witnesses (Scotland) Act 2004 is amended by subsections (3) and (4).
+
+(3) In section 22B (prohibition on personal conduct of case) (inserted by section 4(5) of the 2020 Act), in subsection (7), for the words “section 7 of the Children (Scotland) Act 2020” substitute “section 22E and, if the register is divided into parts, the part which applies to the proceedings”.
+
+(4) After section 22D (presumption that personal conduct of case should be prohibited) (inserted by section 4(5) of the 2020 Act) insert—
+
+> **22E Register of solicitors for section 22B**
+>
+> (1) The Scottish Ministers must—
+>
+> (a) establish, and
+>
+> (b) (subject to provision made under subsection (2)(c)) maintain,
+>
+> a register of solicitors who may be appointed by a court under section 22B(6).
+>
+> (2) The Scottish Ministers, by regulations—
+>
+> (a) must—
+>
+> (i) specify the requirements that a person must satisfy in order to be included, and remain, on the register or each part of it (which may include requirements as to training and qualifications),
+>
+> (ii) set out the processes for including a person on, and removing a person from, the register or each part of it (including appeal rights),
+>
+> (iii) provide for the remuneration by the Scottish Ministers of solicitors appointed under section 22B(6), including expenses and outlays (such as counsel’s fees),
+>
+> (b) may provide for the register to be divided into parts by reference to type, subject matter, or category of civil proceedings,
+>
+> (c) may—
+>
+> (i) confer the duty of maintaining the register on a person, and
+>
+> (ii) make such modifications to other enactments as the Scottish Ministers consider appropriate for the purposes of, or in connection with, or for giving full effect to provision made by virtue of sub-paragraph (i).
+>
+> (3) Before making regulations under subsection (2), the Scottish Ministers must—
+>
+> (a) consult—
+>
+> (i) the Faculty of Advocates, and
+>
+> (ii) the Law Society of Scotland,
+>
+> (b) prepare and publish a report on the consultation.
+>
+> (4) A report under subsection (3)(b) must—
+>
+> (a) include a summary of how the views of those consulted under subsection (3) were taken into account by the Scottish Ministers in preparing any regulations to be made under subsection (2),
+>
+> (b) where no account has been taken of any such views, explain why not.
+>
+> (5) If the register is divided in accordance with subsection (2)(b), the entry for each person included on the register must specify on which part or parts of the register they are included.
+>
+> (6) Regulations under subsection (2)—
+>
+> (a) are subject to the affirmative procedure if, by virtue of paragraph (c)(ii) of that subsection, they add to, replace, or omit any part of the text of an Act, but
+>
+> (b) otherwise are subject to the negative procedure.
+
+.
+
+### Vulnerable parties (prospective)
+
+#### 61 Vulnerable parties (prospective)
+
+(1) In the 2020 Act, section 8 is repealed.
+
+(2) The Vulnerable Witnesses (Scotland) Act 2004 is amended by subsections (3) and (4).
+
+(3) In section 15(3)(a) (vulnerable witnesses: supplementary provision), for the words “if aged 12 or older” substitute “unless the contrary is shown”.
+
+(4) After section 22E (register of solicitors for section 22B) (as inserted by section 60), insert—
+
+> **Vulnerable parties**
+>
+> **22F Vulnerable parties**
+>
+> (1) In proceedings to which subsection (2) applies—
+>
+> (a) in relation to a party who would be deemed a vulnerable witness by virtue of section 11B if the party were to give evidence in or for the purposes of the proceedings, if the court is satisfied that the party will, or is likely to, attend or participate in hearings, the court must—
+>
+> (i) order the use of any special measure that the party requests,
+>
+> (ii) order the use of a special measure that the court considers is appropriate and, if the party requested a different special measure, give reasons for not ordering its use, or
+>
+> (iii) give reasons for not ordering the use of any special measure,
+>
+> (b) in relation to any other party, the court may order the use of a special measure if the court considers that—
+>
+> (i) attending or participating in hearings is causing, or is likely to cause, the party distress,
+>
+> (ii) the party’s distress is likely to be reduced by the use of the special measure, and
+>
+> (iii) the use of the special measure would not give rise to a significant risk of prejudice to the fairness of the proceedings or otherwise to the interests of justice.
+>
+> (2) This subsection applies to any civil proceedings, other than relevant proceedings, commenced on or after section 61 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 comes into force.
+>
+> (3) An order under subsection (1) may authorise a special measure in relation to the whole of proceedings or only a part of them.
+>
+> (4) A court may vary or revoke an order it made under subsection (1).
+>
+> (5) An order under subsection (1) or (4) may be made—
+>
+> (a) at any time, and
+>
+> (b) whether or not a party to the proceedings has applied for one.
+>
+> (6) In making an order under subsection (1)(b), the court must—
+>
+> (a) have regard to the best interests of the party, and
+>
+> (b) take account of any views expressed by—
+>
+> (i) the party (having regard, where the party is a child, to the child’s age and maturity), and
+>
+> (ii) where the party is a child, the child’s parent.
+>
+> (7) For the purposes of subsection (6)(b), where the party is a child—
+>
+> (a) the child is to be presumed to be of sufficient age and maturity to form a view unless the contrary is shown, and
+>
+> (b) in the event that any views expressed by the child are inconsistent with any views expressed by the child’s parent, the views of the child are to be given greater weight.
+>
+> (8) In subsection (7), “parent”, in relation to a child, means any person having parental responsibilities within the meaning of section 1(3) of the Children (Scotland) Act 1995 in relation to the child.
+>
+> (9) The special measures which may be authorised by virtue of an order under subsection (1) or (4) are—
+>
+> (a) use of a live television link,
+>
+> (b) use of a screen,
+>
+> (c) use of a supporter,
+>
+> (d) any other measure prescribed by the Scottish Ministers by regulations.
+>
+> (10) Regulations under subsection (9)(d) are subject to the affirmative procedure.
+>
+> (11) In considering whether attending or participating in hearings is causing, or is likely to cause, a person distress, the court must take into account—
+>
+> (a) the nature and circumstances of any matters raised, or likely to be raised, in the proceedings,
+>
+> (b) the relationship (if any) between the person and any other party to the proceedings,
+>
+> (c) the person’s age and maturity,
+>
+> (d) any behaviour towards the person on the part of—
+>
+> (i) any other party to the proceedings,
+>
+> (ii) members of the family or associates of any other party,
+>
+> (iii) any other person who is likely to be a party to the proceedings or a witness in the proceedings, and
+>
+> (e) such other matters as appear to the court to be relevant, including—
+>
+> (i) the social and cultural background and ethnic origins of the person,
+>
+> (ii) the person’s sexual orientation,
+>
+> (iii) the domestic and employment circumstances of the person,
+>
+> (iv) any religious beliefs or political opinions of the person,
+>
+> (v) any physical disability or other physical impairment which the person has.
+>
+> **22G Special measures under section 22F**
+>
+> (1) If a court orders the use of a live television link, the court must make such arrangements as seem to it appropriate to enable the vulnerable party to watch and hear the proceedings by means of such a link.
+>
+> (2) If a court orders the use of a screen, a screen must be used to conceal the vulnerable party from the sight of the other parties to the proceedings.
+>
+> (3) If a court—
+>
+> (a) orders the use of—
+>
+> (i) a live television link, or
+>
+> (ii) a screen, and
+>
+> (b) considers it necessary or appropriate for the other parties to be able, during the proceedings, to—
+>
+> (i) hear the vulnerable party,
+>
+> (ii) watch the vulnerable party, or
+>
+> (iii) both,
+>
+> the court must make such arrangements as seem to it appropriate to enable the other parties to do so.
+>
+> (4) Where—
+>
+> (a) a court has ordered the use of a live television link or a screen in proceedings in a sheriff court, but
+>
+> (b) the court lacks accommodation or equipment necessary to enable the measure to be used,
+>
+> the sheriff may by order transfer all or any part of the proceedings to any sheriff court in the same sherrifdom which has such accommodation or equipment available.
+>
+> (5) If a court orders the use of a supporter, another person (“the supporter”) nominated by or on behalf of the vulnerable party may be present alongside the vulnerable party for the purpose of providing support during the proceedings.
+>
+> (6) The supporter—
+>
+> (a) must not prompt or otherwise seek to influence the vulnerable party in the course of a hearing,
+>
+> (b) may not act as the supporter, within the meaning of subsection (5), while the vulnerable party is giving evidence,
+>
+> (c) may not act as the supporter, if the supporter is to give evidence in the proceedings, at any time before giving evidence.
+>
+> (7) Subsection (6)(b) does not preclude the same person from being both—
+>
+> (a) a supporter within the meaning of subsection (5), and
+>
+> (b) a supporter within the meaning of section 22.
+>
+> (8) In this section—
+>
+> (a) references to a measure being ordered are to its being ordered under section 22F,
+>
+> (b) “vulnerable party” means the party for whose benefit the court ordered the use of the measure in question.
+
+.
+
+## Part 6 — Criminal juries and verdicts
+
+### Solemn proceedings
+
+#### 62 Jury size and quorum
+
+(1) The 1995 Act is amended as follows.
+
+(2) For section 90 substitute—
+
+> **90 Effect of death or discharge of jurors**
+>
+> (1) This section applies where, in the course of a trial, a juror—
+>
+> (a) dies, or
+>
+> (b) is discharged by the court on the court being satisfied that it is for any reason inappropriate for the juror to continue to serve as a juror.
+>
+> (2) The court may determine that the trial is to proceed before the remaining jurors provided that—
+>
+> (a) there are at least 12 remaining jurors, and
+>
+> (b) the court is satisfied that it is in the interests of justice that the trial proceed before the remaining jurors.
+>
+> (3) Before determining whether the trial is to proceed, the court must give the prosecutor and the accused an opportunity to make representations on that question.
+>
+> (4) Where a trial proceeds by virtue of subsection (2), the remaining jurors are a properly constituted jury for the purpose of the trial.
+
+.
+
+#### 63 Form of jury affirmation
+
+(1) The Oaths Act 1978 is amended as follows.
+
+(2) In section 6 (form of affirmation)—
+
+(a) in subsection (1), for “subsection (2)” substitute “subsections (2) and (3)”,
+
+(b) after subsection (2) insert—
+
+> (3) In the case of a jury in solemn proceedings, the affirmation is to be in the following form:
+>
+> <table>
+> <tbody>
+> <tr><td colspan="2"><i>On being asked by the clerk of court</i> : “Do you solemnly, sincerely and truly declare and affirm that you will well and truly try the accused and give a true verdict according to the evidence?”</td></tr>
+> <tr><td colspan="2"><i>The jurors who are affirming to reply</i> : “I do”.</td></tr>
+> </tbody>
+> </table>
+
+.
+
+#### 64 Jury service: assistance for jurors with communication (prospective)
+
+(1) The 1995 Act is amended as follows.
+
+(2) After section 88 (plea of not guilty, balloting and swearing of jury, etc.) insert—
+
+> **88A Communication supporters for jurors**
+>
+> (1) This section applies where it appears to the court that a juror balloted in accordance with section 88(2) requires assistance with communication as a result of physical disability in order to participate effectively in the trial as a juror.
+>
+> (2) The court may, before the charge is read to the jury in accordance with section 88(5), appoint a person (a “juror’s communication supporter”) to provide that assistance to the juror.
+>
+> (3) More than one person may be appointed as a juror’s communication supporter in relation to a juror, and a juror’s communication supporter may be appointed in relation to more than one juror.
+>
+> (4) Where a juror’s communication supporter is appointed, the court must, before reading the charge to the jury, administer the oath to the supporter.
+>
+> (5) Where in the course of proceedings a juror’s communication supporter ceases, for whatever reason, to act as such, the court may appoint a person as a juror’s communication supporter in their place and subsection (3) applies in relation to such an appointment as it applies to an appointment under subsection (2).
+>
+> (6) The court must, as soon as reasonably practicable after a juror’s communication supporter is appointed under subsection (5), administer the oath to the supporter.
+>
+> (7) Before appointing a person as a juror’s communication supporter under this section, the court must give the prosecutor and the accused the opportunity to make representations.
+
+.
+
+(3) In section 99 (seclusion of jury to consider verdict)—
+
+(a) after subsection (2) insert—
+
+> (2A) Subsections (1) and (2) are subject to subsection (2B).
+>
+> (2B) A juror’s communication supporter may—
+>
+> (a) be present with the jury while they are enclosed,
+>
+> (b) visit or communicate with a juror, and
+>
+> (c) accompany a juror who comes out of the jury room to receive or seek a direction, or to make a request for instruction or regarding any matter, as mentioned in subsection (2)(b).
+
+,
+
+(b) after subsection (7) insert—
+
+> (8) In subsection (2B), a “juror’s communication supporter” has the meaning given by section 88A(2).
+
+.
+
+#### 65 Verdict of guilty or not guilty and majority required for guilty verdict
+
+(1) The 1995 Act is amended as follows.
+
+(2) Before section 100 (verdict of jury) insert—
+
+> **99A Verdict of guilty or not guilty and majority for guilty verdict**
+>
+> (1) In respect of each charge, the jury must deliver a verdict of either—
+>
+> (a) guilty, or
+>
+> (b) not guilty.
+>
+> (2) The jury may return a verdict of guilty only if a majority of the jurors are in favour of that verdict.
+>
+> (3) Otherwise, the jury must return a verdict of not guilty.
+>
+> (4) For the purposes of subsection (2), a majority of jurors are in favour of a verdict if—
+>
+> (a) in the case of a jury consisting of 14 or 15 jurors, at least 10 of the jurors are so in favour,
+>
+> (b) in the case of a jury consisting of 13 jurors, at least 9 jurors are so in favour,
+>
+> (c) in the case of a jury consisting of 12 jurors, at least 8 jurors are so in favour.
+
+.
+
+(3) In section 100 (verdict of jury) the section title becomes “**Delivery of jury verdict**”.
+
+### Summary proceedings
+
+#### 66 Verdict of guilty or not guilty
+
+(1) The 1995 Act is amended as follows.
+
+(2) Before section 162 (judges equally divided) insert—
+
+> **161A Verdict of guilty or not guilty**
+>
+> In respect of each charge, the court must deliver a verdict of either—
+>
+> (a) guilty, or
+>
+> (b) not guilty.
+
+.
+
+### Research into juries
+
+#### 67 Research into juries
+
+(1) The Contempt of Court Act 1981 is amended as follows.
+
+(2) In section 8 (confidentiality of jury’s deliberations: Scotland and Northern Ireland)—
+
+(a) in subsection (1), for “subsection (2)” substitute “subsections (1A) and (2)”,
+
+(b) after subsection (1) insert—
+
+> (1A) This section does not apply to the disclosure of any particulars made in accordance with leave granted under section 8A(1) or to the publication of any particulars so disclosed.
+
+.
+
+(3) After section 8 insert—
+
+> **8A Research into juries**
+>
+> (1) The Lord Justice General may, for the purposes of research into juries in solemn proceedings, grant leave to a person to obtain, disclose, solicit or publish particulars of—
+>
+> (a) statements made,
+>
+> (b) opinions expressed,
+>
+> (c) arguments advanced, or
+>
+> (d) votes cast,
+>
+> by members of a jury in the course of their deliberations in such proceedings.
+>
+> (2) Leave under subsection (1) may be—
+>
+> (a) granted subject to conditions,
+>
+> (b) withdrawn or amended either generally or in relation to any particular matter.
+
+.
+
+#### 68 Research into juries by or on behalf of the Scottish Ministers: duty to report
+
+(1) This section applies where the Scottish Ministers—
+
+(a) carry out or commission the carrying out of research in accordance with leave granted under section 8A(1) of the Contempt of Court Act 1981, and
+
+(b) for the purposes of that research, particulars of—
+
+(i) statements made,
+
+(ii) opinions expressed,
+
+(iii) arguments advanced, or
+
+(iv) votes cast,
+
+by members of a jury in the course of their deliberations in solemn proceedings are solicited, obtained, disclosed or published.
+
+(2) The Scottish Ministers must, as soon as reasonably practicable after the research is carried out—
+
+(a) publish a report on the research,
+
+(b) lay a copy of the report before the Parliament,
+
+(c) publish their response to the report (including their recommendations, if any), and
+
+(d) lay a copy of the response before the Parliament.
+
+(3) In this section, references to the Scottish Ministers carrying out or commissioning the carrying out of research include research carried out by them jointly or on their behalf.
+
+## Part 7 — Sexual Offences Court (prospective)
+
+### Chapter 1 — Establishment, jurisdiction and Judges of the Sexual Offences Court (prospective)
+
+#### Establishment (prospective)
+
+##### 69 Sexual Offences Court (prospective)
+
+(1) There is established a court of law to be known as the Sexual Offences Court.
+
+(2) The Sexual Offences Court consists of—
+
+(a) the Lord Justice General,
+
+(b) the Lord Justice Clerk, and
+
+(c) judges each to be known as a Judge of the Sexual Offences Court.
+
+#### Jurisdiction and competence (prospective)
+
+##### 70 Jurisdiction and competence: general (prospective)
+
+(1) The Sexual Offences Court has jurisdiction and competence to hear and determine cases to such extent as is provided by or under—
+
+(a) this Act, or
+
+(b) any other enactment.
+
+(2) The Sexual Offences Court’s jurisdiction and competence is exercisable, at sittings of the Court, by one or more of—
+
+(a) the Lord Justice General,
+
+(b) the Lord Justice Clerk,
+
+(c) a Judge of the Sexual Offences Court.
+
+(3) The Sexual Offences Court has all such powers as are, under the law of Scotland, inherently possessed by a court of law for the purposes of the discharge of its jurisdiction and competence and giving full effect to its decisions.
+
+(4) Subsection (3) is subject to any provision of this Act or any other enactment that restricts or excludes any power of the Sexual Offences Court in determining or disposing of a case.
+
+##### 71 Jurisdiction: sexual offences (prospective)
+
+(1) The Sexual Offences Court may try any sexual offence which is triable on indictment in any place in Scotland.
+
+(2) Where an indictment includes at least one sexual offence when the indictment is served, the Sexual Offences Court may try every offence listed on the indictment.
+
+(3) But an indictment in the Sexual Offences Court may not include the offence of—
+
+(a) treason,
+
+(b) breach of duty by magistrates.
+
+(4) In this Part, “sexual offence” means—
+
+(a) an offence listed for the time being in schedule 4,
+
+(b) attempting or conspiring to commit an offence listed for the time being in schedule 4,
+
+(c) aiding, abetting, counselling, procuring or inciting the commission of an offence listed for the time being in schedule 4.
+
+(5) The Scottish Ministers may, by regulations, modify—
+
+(a) the definition in subsection (4),
+
+(b) the list in schedule 4.
+
+#### Judges of the Sexual Offences Court (prospective)
+
+##### 72 Judges of the Sexual Offences Court: Lord Commissioners of Justiciary and temporary judges (prospective)
+
+(1) Each person who—
+
+(a) holds a relevant high judicial office, and
+
+(b) has completed an approved course of training on trauma-informed practice in sexual offence cases,
+
+also holds office as a Judge of the Sexual Offences Court.
+
+(2) A person holding a relevant high judicial office ceases to hold office as a Judge of the Sexual Offences Court if they cease to hold the relevant judicial office.
+
+(3) If a person holding a relevant high judicial office is suspended from that office for any period they are also suspended from office as a Judge of the Sexual Offences Court for the same period.
+
+(4) In this section, “relevant high judicial office” means—
+
+(a) Lord Commissioner of Justiciary,
+
+(b) temporary judge.
+
+(5) In this section and in section 74, “approved course of training” means a training course which is approved by the Lord Justice General for the purpose of appointment to the office of Judge of the Sexual Offences Court.
+
+##### 73 Judges of the Sexual Offences Court: re-employment of former judges (prospective)
+
+(1) The Judiciary and Courts (Scotland) Act 2008 is amended as follows.
+
+(2) In section 20E—
+
+(a) in subsection (2), at the end, insert “or, provided the individual has completed an approved course of training on trauma-informed practice in sexual offence cases, as a judge of the Sexual Offences Court”,
+
+(b) in subsection (4), for “or the High Court of Justiciary” substitute “, the High Court of Justiciary or the Sexual Offences Court”,
+
+(c) after subsection (5), insert—
+
+> (6) In this section, “approved course of training” means a training course which is approved by the Lord Justice General for the purpose of appointment to the office of Judge of the Sexual Offences Court.
+
+.
+
+##### 74 Appointment of Judges of the Sexual Offences Court (prospective)
+
+(1) The Lord Justice General may appoint persons holding a relevant judicial office to hold office also as Judges of the Sexual Offences Court.
+
+(2) The Lord Justice General may appoint a person to the office of Judge of the Sexual Offences Court under this section only if—
+
+(a) the person has completed (whether before this section comes into force or otherwise) an approved course of training on trauma-informed practice in sexual offence cases, and
+
+(b) the Lord Justice General considers the person has the skills and experience necessary to fulfil the office.
+
+(3) Appointment as a Judge of the Sexual Offences Court under this section—
+
+(a) is for a period of 5 years,
+
+(b) does not affect a person’s appointment to the relevant judicial office and the person may continue to act in that capacity.
+
+(4) A person holding office as a Judge of the Sexual Offences Court under this section ceases to hold that office if they cease to hold the relevant judicial office.
+
+(5) If a person holding office as a Judge of the Sexual Offences Court under this section is suspended from the relevant judicial office they are also suspended from office as a Judge of the Sexual Offences Court.
+
+(6) In this section, a “relevant judicial office” means—
+
+(a) sheriff principal,
+
+(b) sheriff.
+
+##### 75 Remuneration and expenses of Judges of the Sexual Offences Court (prospective)
+
+(1) The Scottish Courts and Tribunals Service (“the SCTS”) may pay to a person appointed under section 74 such remuneration and allowances as the Scottish Ministers may determine.
+
+(2) The Scottish Ministers may determine different amounts of remuneration and different amounts of allowances for—
+
+(a) different persons so appointed, or
+
+(b) different descriptions of persons so appointed.
+
+(3) The SCTS may pay to a person appointed under section 74 such sums as it may determine in respect of expenses reasonably incurred by the person in the performance of, or in connection with, the person’s duties.
+
+(4) The SCTS may—
+
+(a) determine the circumstances in which such sums may be paid, and
+
+(b) determine different circumstances for different persons.
+
+### Chapter 2 — Organisation of business (prospective)
+
+#### President and Vice President of the Sexual Offences Court (prospective)
+
+##### 76 President and Vice President of the Sexual Offences Court (prospective)
+
+(1) The Lord Justice General may assume the office of President of the Sexual Offences Court.
+
+(2) If the Lord Justice General does not assume office under subsection (1), then the Lord Justice General must appoint—
+
+(a) the Lord Justice Clerk, or
+
+(b) one of the Judges of the Sexual Offences Court,
+
+to the office of President of the Sexual Offences Court.
+
+(3) The Lord Justice General must appoint—
+
+(a) the Lord Justice Clerk, or
+
+(b) one of the Judges of the Sexual Offences Court,
+
+to the office of Vice President of the Sexual Offences Court.
+
+(4) A person appointed under subsection (2)(b) must hold the office of Lord Commissioner of Justiciary.
+
+(5) A person may not hold the office of President and Vice President of the Sexual Offences Court at the same time.
+
+(6) The President and Vice President—
+
+(a) each hold the respective office for such period as the Lord Justice General may determine,
+
+(b) may at any time resign office—
+
+(i) by giving notice in writing to the Lord Justice General, or
+
+(ii) where the Lord Justice General resigns the office of President of the Sexual Offences Court, by publishing notice of that resignation.
+
+(7) The Lord Justice General may at any time remove the President or Vice President from office.
+
+(8) If a person holding office as President or Vice President is, for any period, suspended from office as—
+
+(a) Lord Justice General,
+
+(b) Lord Justice Clerk,
+
+(c) Lord Commissioner of Justiciary,
+
+(d) temporary judge, or
+
+(e) a relevant judicial office mentioned in section 74(6),
+
+the person is also suspended from office as President or Vice President, as the case may be, for the same period.
+
+##### 77 President and Vice President: incapacity and suspension (prospective)
+
+(1) Subsection (2) applies during any period when the President of the Sexual Offences Court—
+
+(a) is unable (for any reason) to carry out the functions of the office, or
+
+(b) is suspended from office.
+
+(2) During the period mentioned in subsection (1)—
+
+(a) the functions of the President are to be carried out instead by the Vice President of the Sexual Offences Court, and
+
+(b) anything that falls to be done in relation to the President falls to be done instead in relation to the Vice President.
+
+(3) Subsection (4) applies during any period when both the President and the Vice President of the Sexual Offences Court—
+
+(a) are unable (for any reason) to carry out the functions of the President, or
+
+(b) are suspended from office.
+
+(4) During the period mentioned in subsection (3), subsection (2) does not apply and—
+
+(a) the Lord Justice General may undertake to carry out the functions of the President, if the Lord Justice General is not the President,
+
+(b) if the Lord Justice General does not undertake to carry out the functions of the President under paragraph (a), the Lord Justice General must direct that the functions of the President are to be carried out instead by—
+
+(i) the Lord Justice Clerk, if the Lord Justice Clerk is not the President or Vice President, or
+
+(ii) such Judge of the Sexual Offences Court (other than the President or Vice President) as the Lord Justice General may appoint to act in place of the President, and
+
+(c) anything that falls to be done in relation to the President falls to be done instead in relation to the person carrying out the functions of the President in accordance with this subsection.
+
+#### Disposal of business (prospective)
+
+##### 78 President’s responsibility for efficient disposal of business (prospective)
+
+(1) The President of the Sexual Offences Court is responsible for ensuring the efficient disposal of business in the Sexual Offences Court.
+
+(2) The President must make such arrangements as appear necessary or expedient for the purpose of carrying out the responsibility imposed by subsection (1).
+
+(3) In particular, the President may provide for the allocation of business among the Judges of the Sexual Offences Court.
+
+(4) In carrying out the responsibility imposed by subsection (1), the President must have regard to the desirability of doing so in a way that accords with trauma-informed practice.
+
+(5) In carrying out the responsibility imposed by subsection (1), the President may give a direction of an administrative character to—
+
+(a) a Judge of the Sexual Offences Court,
+
+(b) a member of staff of the Scottish Courts and Tribunals Service.
+
+(6) A person who receives a direction under subsection (5) must comply with the direction.
+
+(7) This section is subject to section 2(2)(a) and (2A) of the Judiciary and Courts (Scotland) Act 2008.
+
+#### Sittings (prospective)
+
+##### 79 Sittings of the Sexual Offences Court (prospective)
+
+(1) More than one sitting of the Sexual Offences Court may take place at the same time, and at different places.
+
+(2) Sittings of the Sexual Offences Court may be held at any place in Scotland.
+
+(3) The President of the Sexual Offences Court may by order prescribe—
+
+(a) the number of sittings of the Sexual Offences Court that are to be held at each place at which they may be held, and
+
+(b) the days on which, and the times at which, those sittings are to be held.
+
+(4) Before making an order under subsection (3), the President must consult—
+
+(a) the Lord Justice General, if the Lord Justice General is not the President,
+
+(b) the Lord Advocate.
+
+(5) The President must publish notice of the matters prescribed by an order under subsection (3) in such manner as the President thinks appropriate in order to bring those matters to the attention of persons having an interest in them.
+
+(6) Subsection (3) is subject to section 2(2)(a) and (2A) of the Judiciary and Courts (Scotland) Act 2008.
+
+(7) In addition to those prescribed by order under subsection (3), the Sexual Offences Court must hold such further sittings as the Lord Advocate may require.
+
+#### Transfer of cases (prospective)
+
+##### 80 Transfer of cases to the Sexual Offences Court (prospective)
+
+(1) The 1995 Act is amended as follows.
+
+(2) After section 288BZA, insert—
+
+> **Transfer of cases to the Sexual Offences Court**
+>
+> **288BZB Transfer of cases to the Sexual Offences Court**
+>
+> (1) This section applies when an accused person has been cited to attend a diet of—
+>
+> (a) the sheriff court on indictment, or
+>
+> (b) the High Court of Justiciary.
+>
+> (2) In this section, the “relevant court” means the High Court of Justiciary or the sheriff court which the accused person has been cited to attend.
+>
+> (3) On an application under subsection (4), the relevant court may, on cause shown, make an order for the transfer of the proceedings to the Sexual Offences Court and for adjournment to a diet of that Court (“a transfer order”).
+>
+> (4) An application may be made to the relevant court for a transfer order—
+>
+> (a) by the prosecutor,
+>
+> (b) jointly by the prosecutor and the accused.
+>
+> (5) Where an application is made—
+>
+> (a) by the prosecutor under subsection (4)(a),
+>
+> (b) jointly by the prosecutor and the accused under subsection (4)(b), and there is another accused in the case who is not party to the application,
+>
+> the relevant court must, before making a transfer order, give the accused, or the accused who is not party to the application, as the case may be, an opportunity to make representations about the application, whether orally or in writing.
+>
+> (6) An application under subsection (4) may be made—
+>
+> (a) at any time in the period beginning with the day on which the accused is served with an indictment and ending on the day on which the trial diet is first appointed,
+>
+> (b) on cause shown, at any time in the period beginning with the day after the period mentioned in paragraph (a) expires and ending on the day before the trial diet commences.
+>
+> (7) The relevant court may consider an application under subsection (4) at a first diet (in the case of proceedings in the sheriff court) or the preliminary hearing (in the case of proceedings in the High Court).
+>
+> (8) At a first diet or preliminary hearing, as the case may be, the relevant court may ask the prosecutor and the accused any question in connection with any matter which is relevant to an application under subsection (4).
+>
+> (9) Section 74 applies to a decision—
+>
+> (a) to make a transfer order under this section,
+>
+> (b) not to make such an order,
+>
+> whether or not such decision was made at a first diet (in the case of proceedings in the sheriff court) or a preliminary hearing (in the case of proceedings in the High Court).
+>
+> (10) Where a transfer order is made under this section, the first diet (in the case of proceedings in the sheriff court) or preliminary hearing (in the case of proceedings in the High Court) is to be treated as the preliminary hearing of the Sexual Offences Court for the purpose of section 65.
+
+.
+
+##### 81 Transfer of cases from the Sexual Offences Court (prospective)
+
+(1) This section applies when an accused person has been cited to attend a diet of the Sexual Offences Court.
+
+(2) On an application under subsection (3), the Sexual Offences Court may, on cause shown, make an order for the transfer of the proceedings to the High Court of Justiciary or a sheriff court with jurisdiction to hear the case, as specified in the application, and for an adjournment to a diet of that court (“a transfer order”).
+
+(3) An application may be made to the Sexual Offences Court for a transfer order—
+
+(a) by the prosecutor,
+
+(b) jointly by the prosecutor and the accused.
+
+(4) Where an application is made—
+
+(a) by the prosecutor under subsection (3)(a),
+
+(b) jointly by the prosecutor and the accused under subsection (3)(b), and there is another accused in the case who is not party to the application,
+
+the Sexual Offences Court must, before making a transfer order, give the accused, or the accused who is not party to the application, as the case may be, an opportunity to make representations about the application, whether orally or in writing.
+
+(5) An application under subsection (3) may be made—
+
+(a) at any time in the period beginning with the day on which the accused is served with an indictment and ending on the day on which the trial diet is first appointed,
+
+(b) on cause shown, at any time in the period beginning with the day after the period mentioned in paragraph (a) expires and ending on the day before the trial diet commences.
+
+(6) The Sexual Offences Court may consider an application under subsection (3) at a preliminary hearing.
+
+(7) At a preliminary hearing the Sexual Offences Court may ask the prosecutor and the accused any question in connection with any matter which is relevant to an application under subsection (3).
+
+(8) Section 74 of the 1995 Act applies to a decision—
+
+(a) to make a transfer order under this section,
+
+(b) not to make such an order,
+
+whether or not such decision was made at a preliminary hearing.
+
+(9) Where a transfer order is made under this section, the preliminary hearing of the Sexual Offences Court is to be treated, for the purposes of section 65 of the 1995 Act, as—
+
+(a) the first diet of the sheriff court (in the case of transfer to the sheriff court), or
+
+(b) the preliminary hearing of the High Court (in the case of transfer to the High Court).
+
+(10) In this section—
+
+- “first diet” is to be construed in accordance with section 66(6)(a) of the 1995 Act,
+- “preliminary hearing” is to be construed in accordance with section 66(6)(b) of that Act.
+
+#### Rights of audience (prospective)
+
+##### 82 Rights of audience: solicitors (prospective)
+
+(1) Subject to subsections (2) and (7), a solicitor has a right of audience in the Sexual Offences Court only if the solicitor meets the requirement set out in subsection (4).
+
+(2) Where an indictment in the Sexual Offences Court includes one or more offence mentioned in subsection (3), then a solicitor has a right of audience in respect of that indictment only if, in addition to meeting the requirement set out in subsection (4), the solicitor has a right of audience in the High Court of Justiciary under section 25A of the Solicitors (Scotland) Act 1980.
+
+(3) The offences are—
+
+(a) the offence of—
+
+(i) murder,
+
+(ii) attempted murder,
+
+(iii) rape,
+
+(iv) attempted rape,
+
+(b) an offence under section 1(1) of the Domestic Abuse (Scotland) Act 2018 where the alleged course of behaviour includes behaviour which would amount to an offence under section 1 of the Sexual Offences (Scotland) Act 2009,
+
+(c) an offence in relation to which the minimum sentence which may be imposed (whether by virtue of enactment or otherwise) is a period of imprisonment of at least 5 years,
+
+(d) an offence in relation to which the accused is being retried as a result of an application by the Lord Advocate under section 4(3)(b) of the Double Jeopardy (Scotland) Act 2011.
+
+(4) The requirement is that the solicitor has completed (whether before this section comes into force or otherwise) an approved course of training on trauma-informed practice in sexual offence cases.
+
+(5) The Council of the Law Society of Scotland must keep, and make publicly available, a record of the solicitors who have a right of audience in the Sexual Offences Court in accordance with this section.
+
+(6) In this section and section 83, an “approved course of training” means a training course which is approved by the Lord Justice General for the purpose of acquiring rights of audience in the Sexual Offences Court.
+
+(7) Nothing in this section affects the right of a prosecutor to appear in the Sexual Offences Court by virtue of a commission from the Lord Advocate.
+
+(8) The Scottish Ministers may, by regulations, modify the list in subsection (3) so as to—
+
+(a) add an offence or description of an offence,
+
+(b) remove an entry listed in it,
+
+(c) amend an entry listed in it.
+
+(9) Before making regulations under subsection (8), the Scottish Ministers must consult—
+
+(a) the Lord Justice General,
+
+(b) the Scottish Courts and Tribunals Service,
+
+(c) the Scottish Legal Aid Board,
+
+(d) the Law Society of Scotland,
+
+(e) the Faculty of Advocates,
+
+(f) such persons providing victim support services as the Scottish Ministers consider appropriate.
+
+(10) In this section and in section 85, “victim support services” has the meaning given by section 3D(5) of the Victims and Witnesses (Scotland) Act 2014.
+
+##### 83 Rights of audience: advocates (prospective)
+
+(1) Subject to subsection (4), an advocate has a right of audience in the Sexual Offences Court only if the advocate meets the requirement set out in subsection (2).
+
+(2) The requirement is that the advocate has completed (whether before this section comes into force or otherwise) an approved course of training on trauma-informed practice in sexual offence cases.
+
+(3) The Faculty of Advocates must keep a record of the advocates who have a right of audience in the Sexual Offences Court in accordance with this section.
+
+(4) Nothing in this section affects the right of a prosecutor to appear in the Sexual Offences Court by virtue of a commission from the Lord Advocate.
+
+##### 84 Statement of training requirement for prosecutors (prospective)
+
+(1) The Lord Advocate must make available to the public a statement setting out any training on trauma-informed practice in sexual offence cases which prosecutors will be required to complete in order to conduct proceedings in the Sexual Offences Court.
+
+(2) The Lord Advocate may from time to time revise the statement.
+
+(3) In this section and in sections 82 and 83, “prosecutor” means Lord Advocate, Solicitor General, Crown Counsel or procurator fiscal (and any person duly authorised to represent or act for them).
+
+##### 85 Rights of audience: review (prospective)
+
+(1) The Scottish Ministers must, as soon as reasonably practicable following the expiry of the review period—
+
+(a) carry out a review in relation to legal representation in the Sexual Offences Court including, in particular, in relation to—
+
+(i) rights of audience,
+
+(ii) legal representation of accused persons, and
+
+(iii) the provision of legal aid to accused persons, including the granting of sanction for counsel,
+
+(b) publish a report setting out the findings of the review, and
+
+(c) lay a copy of the report before the Scottish Parliament.
+
+(2) In carrying out the review, the Scottish Ministers must consult—
+
+(a) the Lord Justice General,
+
+(b) the Scottish Courts and Tribunals Service,
+
+(c) the Scottish Legal Aid Board,
+
+(d) the Law Society of Scotland,
+
+(e) the Faculty of Advocates,
+
+(f) such persons providing victim support services as the Scottish Ministers consider appropriate.
+
+(3) In this section, “review period” means the period of 5 years beginning with the day on which this Part comes fully into force.
+
+### Chapter 3 — Administration (prospective)
+
+#### Clerks (prospective)
+
+##### 86 Clerk of the Sexual Offences Court (prospective)
+
+(1) The Scottish Courts and Tribunals Service must appoint a person who holds, or has previously held, a relevant office to hold office as Clerk of the Sexual Offences Court.
+
+(2) A person's appointment as Clerk of the Sexual Offences Court does not affect the person's appointment to the relevant office.
+
+(3) A person's appointment as Clerk of the Sexual Offences Court—
+
+(a) lasts for such period, and
+
+(b) is on such other terms and conditions,
+
+as the Scottish Courts and Tribunals Service may determine.
+
+(4) In this section, a “relevant office” means—
+
+(a) Accountant of Court,
+
+(b) Principal Clerk of Session,
+
+(c) other Clerk or officer of the Court of Session,
+
+(d) Principal Clerk of Justiciary,
+
+(e) Depute, Assistant or other Clerk in the Justiciary Office of the High Court of Justiciary,
+
+(f) sheriff clerk,
+
+(g) sheriff clerk depute.
+
+##### 87 Deputy Clerks of the Sexual Offences Court (prospective)
+
+(1) The Scottish Courts and Tribunals Service may appoint persons to be Deputy Clerks of the Sexual Offences Court.
+
+(2) The number of Deputy Clerks is for the Scottish Courts and Tribunals Service to determine.
+
+(3) A person's appointment as Deputy Clerk—
+
+(a) lasts for such period, and
+
+(b) is on such other terms and conditions,
+
+as the Scottish Courts and Tribunals Service may determine.
+
+(4) A person may hold office as a Deputy Clerk of the Sexual Offences Court at the same time as holding office as clerk, or deputy or assistant clerk, of another court.
+
+##### 88 Clerk and Deputy Clerks: further provisions (prospective)
+
+(1) A person may be appointed as Clerk of the Sexual Offences Court under section 86(1), or Deputy Clerk of the Sexual Offences Court under section 87(1), only if they have completed (whether before this section comes into force or otherwise) an approved course of training on trauma-informed practice in sexual offence cases.
+
+(2) The Clerk and Deputy Clerks of the Sexual Offences Court are also members of staff of the Scottish Courts and Tribunals Service.
+
+(3) Accordingly, a reference in any enactment to the staff of the Scottish Courts and Tribunals Service includes, except where the context requires otherwise, a reference to the Clerk and Deputy Clerks of the Sexual Offences Court.
+
+(4) The Clerk of the Sexual Offences Court may, with the consent of the Scottish Courts and Tribunals Service, delegate the carrying out of any of the Clerk's functions to—
+
+(a) a Deputy Clerk of the Sexual Offences Court, or
+
+(b) any other member of staff of the Scottish Courts and Tribunals Service.
+
+(5) Subsection (6) applies in relation to any period during which—
+
+(a) the office of Clerk of the Sexual Offences Court is vacant, or
+
+(b) the holder of that office is for any reason unable to carry out the functions of the office.
+
+(6) The Scottish Courts and Tribunals Service may make arrangements for the functions of the Clerk of the Sexual Offences Court to be carried out during the period referred to in subsection (5) by—
+
+(a) a Deputy Clerk of the Sexual Offences Court, or
+
+(b) any other member of staff of the Scottish Courts and Tribunals Service.
+
+(7) The Scottish Courts and Tribunals Service may give such instructions to the Clerk of the Sexual Offences Court, or a person carrying out the Clerk's functions under subsection (6), as it considers necessary for the purposes of this Act, and the Clerk or, as the case may be, such person must comply with any such instructions.
+
+(8) In this section, “approved course of training” means a training course which is approved by the Lord Justice General for the purpose of appointment to the office of Clerk or Deputy Clerk of the Sexual Offences Court.
+
+#### Sexual Offences Court records (prospective)
+
+##### 89 Sexual Offences Court records (prospective)
+
+(1) The Public Records (Scotland) Act 1937 is amended as follows.
+
+(2) After section 1 (High Court and Court of Session records), insert—
+
+> **1ZA Sexual Offences Court records**
+>
+> (1) The records of the Sexual Offences Court are to be transmitted to the Keeper at such times, and subject to such conditions, as may be prescribed by act of adjournal.
+>
+> (2) An act of adjournal under subsection (1) may—
+>
+> (a) fix different times and conditions of transmission for different descriptions or records,
+>
+> (b) make provision for—
+>
+> (i) re-transmission of records to the Sexual Offences Court or the High Court of Justiciary when necessary for the purposes of proceedings in either court,
+>
+> (ii) the return to the Keeper of records re-transmitted under sub-paragraph (i) as soon as they are no longer required for such purposes.
+>
+> (3) Before making an act of adjournal under subsection (1), the High Court must consult the Keeper.
+
+.
+
+##### 90 Sexual Offences Court records: authentication and electronic form (prospective)
+
+(1) A record of the Sexual Offences Court is authenticated by being signed by—
+
+(a) a Judge of the Sexual Offences Court, or
+
+(b) the Clerk of the Sexual Offences Court.
+
+(2) A record authenticated in accordance with subsection (1), or a certified copy of such a record or of an extract of such a record, is sufficient evidence of the facts recorded in the record.
+
+(3) The Sexual Offences Court may keep (and produce) records in electronic form.
+
+(4) For the purposes of this section, a reference to a record or a copy of a record being signed or, as the case may be, certified, includes a reference to the record or copy being authenticated by means of—
+
+(a) an electronic signature, or
+
+(b) such other means of authentication as may be specified for that purpose by act of adjournal.
+
+(5) Before making an act of adjournal under subsection (4)(b), the High Court of Justiciary must consult the Keeper of the Records of Scotland.
+
+(6) In this section—
+
+- “certified copy” means a copy certified by the Clerk of the Sexual Offences Court as a true copy,
+- “electronic signature” is to be construed in accordance with section 7(2) of the Electronic Communications Act 2000, but includes a version of an electronic signature which is reproduced on a paper document,
+- “record” means any interlocutor, decree, minute or other document by which the proceedings and decisions of the Sexual Offences Court are recorded.
+
+### Chapter 4 — Procedure (prospective)
+
+#### Procedure (prospective)
+
+##### 91 Sexual Offences Court procedure (prospective)
+
+(1) The provisions of the 1995 Act apply to proceedings in the Sexual Offences Court as though the proceedings were taking place in the High Court of Justiciary (and references are to be construed accordingly) except where and to the extent that the provisions of the 1995 Act are inconsistent with provision made by or under this Act.
+
+(2) The Scottish Ministers may, by regulations, make further provision for the procedure which applies to proceedings in the Sexual Offences Court for the purpose of ensuring the proper functioning of the Court.
+
+(3) Before making regulations under subsection (2), the Scottish Ministers must consult the Lord Justice General.
+
+(4) Regulations under subsection (2) may modify any enactment (including this Act).
+
+(5) The High Court may by act of adjournal make any incidental, supplementary, consequential, transitional, transitory or saving provision it considers appropriate, including modifying any enactment (including this Act), for the purposes of, in connection with or for giving full effect to this Part and any provision made under it.
+
+(6) Subsection (5) is without prejudice to section 305 of the 1995 Act.
+
+#### Prohibition on personal conduct of defence (prospective)
+
+##### 92 Prohibition on personal conduct of defence (prospective)
+
+(1) An accused is prohibited from conducting their own case in person at, or for the purposes of, any hearing in the course of proceedings in the Sexual Offences Court at which a witness is to give evidence.
+
+(2) If, at any point in the proceedings, the Sexual Offences Court—
+
+(a) ascertains that an accused does not have a solicitor to conduct the accused’s case at, or for the purposes of, any hearing at which a witness is to give evidence, and
+
+(b) is not satisfied that the accused intends to engage a solicitor to do so,
+
+the Court must appoint a solicitor to conduct the accused’s case.
+
+(3) The Sexual Offences Court may only appoint a solicitor who has a right of audience in the Court in accordance with section 82.
+
+(4) An appointed solicitor—
+
+(a) is to ascertain and act upon the instructions of the accused,
+
+(b) in the event that the accused gives no instructions, or gives instructions that are inadequate or perverse, is to act in the accused’s best interests,
+
+(c) is not obliged to comply with any instruction by the accused to dismiss counsel.
+
+(5) An appointed solicitor—
+
+(a) may not be dismissed by the accused,
+
+(b) may be relieved from the appointment by the Sexual Offences Court if the Court is satisfied that the solicitor is no longer able to act upon the accused’s instructions or in the accused’s best interests, and the Court must appoint another solicitor to conduct the accused’s case.
+
+#### Ground rules hearings (prospective)
+
+##### 93 Ground rules hearings (prospective)
+
+(1) In its application to proceedings in the Sexual Offences Court, the 1995 Act is modified in accordance with this section.
+
+(2) Part 12 of the 1995 Act has effect as if—
+
+(a) after section 271A, there were inserted—
+
+> **271AZA Vulnerable witness ground rules hearings**
+>
+> (1) Where a vulnerable witness is to give evidence at or for the purposes of any hearing in the course of proceedings in the Sexual Offences Court, the Court must fix a date of a hearing (to be known as a “vulnerable witness ground rules hearing”) for the purpose of preparing for the trial diet.
+>
+> (2) The Judge of the Sexual Offences Court presiding over the vulnerable witness ground rules hearing must—
+>
+> (a) ascertain how the vulnerable witness’s evidence is to be taken,
+>
+> (b) make such order, if any, under—
+>
+> (i) section 271A, 271C or 271D,
+>
+> (ii) section 94(2) of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025,
+>
+> as the Sexual Offences Court considers appropriate,
+>
+> (c) ascertain the length of time the parties expect to take for examination-in-chief and cross-examination, including any breaks that may be required,
+>
+> (d) to the extent that the Judge considers it appropriate to do so, decide on the form and wording of the questions that are to be asked of the vulnerable witness,
+>
+> (e) if the Judge considers it appropriate to do so, authorise the use of a supporter at the hearing at which the vulnerable witness is to give evidence,
+>
+> (f) if the Judge considers that there are steps that could reasonably be taken to enable the vulnerable witness to participate more effectively in the hearing at which the vulnerable witness is to evidence, direct that those steps be taken,
+>
+> (g) subject to section 72(8), dispose of any application that—
+>
+> (i) has been made under section 275(1), and
+>
+> (ii) has not yet been disposed of by the Court,
+>
+> (h) consider whether the hearing at which the vulnerable witness is to give evidence should take place on the date fixed by the Court and postpone the hearing if the Judge considers that it is in the interests of justice to do so having regard to all the circumstances, including—
+>
+> (i) the way in which the vulnerable witness’s evidence is to be taken,
+>
+> (ii) whether the parties are likely to be ready for the hearing to take place on the date fixed by the Court and if not, the reasons for that,
+>
+> (iii) any views expressed by the parties on whether the hearing should be postponed, and
+>
+> (iv) whether postponement is in the interests of the vulnerable witness, and
+>
+> (i) consider and, if appropriate, make a decision on, any other matter that the Judge considers could be usefully dealt with before the hearing at which the vulnerable witness is to give evidence takes place.
+>
+> (3) Reference in subsection (1) to a vulnerable witness includes a witness in respect of whom an order has been made under section 271C(5)(a) or (7).
+
+,
+
+(b) in section 271I—
+
+(i) in subsection (1ZA), paragraph (b) were omitted,
+
+(ii) subsections (1ZB), (1ZC) and (1ZD) were omitted,
+
+(iii) in subsection (1A), for “ground rules hearing” there were substituted “vulnerable witness ground rules hearing”,
+
+(iv) in subsection (7), for “person described in subsection (8) below.” there were substituted “Judge of the Sexual Offences Court.”,
+
+(v) subsection (8) were omitted.
+
+#### Pre-recording of evidence (prospective)
+
+##### 94 Pre-recording of evidence (prospective)
+
+(1) The Sexual Offences Court must enable all of a vulnerable complainer’s evidence to be given in advance of a hearing at which the complainer would otherwise be required to give evidence, unless the Court is satisfied that an exception is justified under subsection (3) or (4).
+
+(2) For the purposes of this section, the Sexual Offences Court enables all of the vulnerable complainer’s evidence to be given in advance of the hearing if it—
+
+(a) makes an order authorising—
+
+(i) the taking of the vulnerable complainer’s evidence by a commissioner in accordance with section 95,
+
+(ii) the admission of the record of a prior examination of the vulnerable complainer as the vulnerable complainer’s evidence in accordance with section 96,
+
+(iii) the giving of evidence in chief by the vulnerable complainer in the form of a statement in accordance with section 97, and
+
+(b) does not authorise—
+
+(i) the giving of any of the vulnerable complainer’s evidence other than in accordance with such order,
+
+(ii) the use of an incompatible special measure for the purpose of taking any of the vulnerable complainer’s evidence.
+
+(3) An exception is justified under this subsection if—
+
+(a) the giving of all of the vulnerable complainer’s evidence in advance of the hearing would give rise to a significant risk of prejudice to the fairness of the hearing or otherwise to the interests of justice, and
+
+(b) that risk significantly outweighs any risk of prejudice to the interests of the vulnerable complainer if the complainer were to give evidence at the hearing.
+
+(4) An exception is justified under this subsection—
+
+(a) if—
+
+(i) the vulnerable complainer is aged under 18 on the date of commencement of the proceedings in which the hearing is being or is to be held (“the date of commencement”),
+
+(ii) having had access to such relevant information as may be prescribed by Act of Adjournal, the vulnerable complainer expresses a wish to give evidence at the hearing, and
+
+(iii) it would be in the vulnerable complainer’s best interests to give evidence at the hearing, or
+
+(b) if the vulnerable complainer is aged 18 or over on the date of commencement and, having had access to such relevant information as may be prescribed by Act of Adjournal, expresses a wish to give evidence at the hearing.
+
+(5) Section 271A of the 1995 Act applies in relation to a vulnerable complainer giving evidence at, or for the purposes of, a hearing in the Sexual Offences Court as it applies to a child witness or deemed vulnerable witness giving evidence in accordance with subsection (1) of that section.
+
+(6) In this section, “incompatible special measure” means a measure set out in, or prescribed under, section 271H of the 1995 Act which is capable of being used only if the complainer gives evidence at the hearing (whether or not its use would require the complainer to be present in the courtroom).
+
+(7) In this section and in section 95, 96 and 97—
+
+(a) a “complainer” in proceedings is the person against whom the offence to which the proceedings relate is alleged to have been committed,
+
+(b) a complainer is a vulnerable complainer if a sexual offence to which the proceedings relate is alleged to have been committed against that complainer.
+
+(8) In this section and in section 96, a “prior examination” means a hearing at which the vulnerable complainer gave evidence before a commissioner.
+
+##### 95 Taking of evidence by a commissioner (prospective)
+
+(1) Where an order is made under section 94(2)(a)(i) for the taking of evidence by a commissioner, the Sexual Offences Court must appoint a Judge of the Sexual Offences Court as commissioner to take the evidence of the vulnerable complainer.
+
+(2) When appointing a commissioner under subsection (1), the Sexual Offences Court must fix a date for proceedings before the commissioner.
+
+(3) Proceedings before a commissioner appointed under subsection (1) must, if the Sexual Offences Court so directs when authorising such proceedings or if it so directs at the vulnerable witness ground rules hearing, take place by means of a live television link between the place where the commissioner is taking, and the place from which the vulnerable complainer is giving, evidence.
+
+(4) An audio-visual recording must be made of proceedings before a commissioner.
+
+(5) An accused—
+
+(a) may not, except by leave of the Sexual Offences Court on special cause shown, be present—
+
+(i) in the room where the proceedings are taking place,
+
+(ii) if the proceedings are taking place by means of a live television link, in the same room as the vulnerable complainer, but
+
+(b) is entitled to watch and hear the proceedings by such means as the Sexual Offences Court considers appropriate.
+
+(6) The recording of the proceedings made in accordance with subsection (4) is to be received in evidence without being sworn to by witnesses.
+
+(7) Subsection (8) applies where a vulnerable complainer is to give evidence at or for the purposes of a hearing in the Sexual Offences Court.
+
+(8) It is not necessary for an indictment to have been served before—
+
+(a) a party may lodge a vulnerable witness notice under section 271A(2) of the 1995 Act (as it applies in relation to a vulnerable complainer giving evidence at or for the purposes of a hearing in the Sexual Offences Court by virtue of section 94(5)) which specifies the giving of the vulnerable complainer’s evidence by commissioner as the special measure or one of the special measures which the party considers to be the most appropriate for the purpose of taking the vulnerable complainer’s evidence in advance,
+
+(b) the Sexual Offences Court may make an order under section 94(2)(a)(i), whether on its own or in combination with any other order,
+
+(c) a court may appoint a commissioner under subsection (1),
+
+(d) proceedings may take place before the commissioner appointed under subsection (1).
+
+(9) Subject to subsection (10), sections 274, 275, 275B (except subsection (2)(b)), 275C, 288E and 288F of the 1995 Act apply in relation to proceedings before a commissioner in the Sexual Offences Court as they apply (by virtue of section 91(1)) in relation to a trial in the Sexual Offences Court.
+
+(10) In the application of those sections in relation to proceedings before a commissioner in the Sexual Offences Court—
+
+(a) the commissioner acting in the proceedings is to perform the functions of the court as provided for in those sections,
+
+(b) references in those sections—
+
+(i) except section 275(3)(c) and (7)(c), to a trial or a trial diet,
+
+(ii) except sections 275(3)(e) and 288F(2), (3), and (4), to the court
+
+are to be read accordingly.
+
+##### 96 Admission of the record of a prior examination of vulnerable complainer as evidence (prospective)
+
+(1) This section applies where an order is made under section 94(2)(a)(ii) for the admission of the record of a prior examination of the vulnerable complainer as the vulnerable complainer’s evidence in full.
+
+(2) A record of a prior examination which is lodged in evidence by or on behalf of the prosecution in accordance with this section is admissible as the vulnerable complainer’s evidence without the vulnerable complainer being required to adopt or otherwise speak to the record in giving evidence in the Sexual Offences Court.
+
+(3) The record of the prior examination is to be received in evidence without being sworn to by witnesses.
+
+(4) The prior examination must have taken place before a commissioner—
+
+(a) in the course of proceedings other than the proceedings to which the order relates, and
+
+(b) under—
+
+(i) section 271I of the 1995 Act, in respect of prior proceedings in the High Court of Justiciary or the sheriff court, or
+
+(ii) section 95 of this Act, in respect of prior proceedings in the Sexual Offences Court.
+
+(5) Subsection (6) applies where a vulnerable witness notice is lodged under section 271A(2) of the 1995 Act specifying admission of the record of a prior examination as evidence in accordance with this section as the special measure by which the vulnerable complainer’s evidence is to be given.
+
+(6) Where this subsection applies, the Sexual Offences Court may, on application by a party to the proceedings, allow questioning of the vulnerable complainer to take place only if satisfied that—
+
+(a) there are questions relevant to the proceedings which were not put to the vulnerable complainer, and could not reasonably have been expected to have been put to the vulnerable complainer, in the course of the prior examination,
+
+(b) to refuse the application would give rise to a significant risk of prejudice to the fairness of the proceedings or otherwise to the interests of justice, and
+
+(c) that risk would significantly outweigh any risk of prejudice to the interests of the vulnerable complainer if the application were granted.
+
+(7) An application to allow questioning of the vulnerable complainer under subsection (6) may be granted in whole or in part.
+
+(8) Where an application to allow questioning of the vulnerable complainer is granted under subsection (6), the Sexual Offences Court must, unless satisfied that an exception is justified under section 94(4)—
+
+(a) appoint a Judge of the Sexual Offences Court as commissioner to take the evidence of the vulnerable complainer,
+
+(b) fix a date for proceedings before the commissioner.
+
+(9) Section 95 (other than subsections (1) and (2)) applies to proceedings before a commissioner under subsection (8) as it applies where an order is made under section 94(2)(a)(i) for the taking of evidence by a commissioner.
+
+##### 97 Giving evidence in the form of a prior statement (prospective)
+
+(1) This section applies where an order is made under section 94(2)(a)(iii) for the giving of evidence by the vulnerable complainer in the form of a statement made in advance of a hearing (“a vulnerable complainer’s prior statement”).
+
+(2) A vulnerable complainer’s prior statement which is lodged in evidence by or on behalf of the prosecution in accordance with this section is admissible as the vulnerable complainer’s evidence in chief, or as part of the vulnerable complainer’s evidence in chief, without the vulnerable complainer being required to adopt or otherwise speak to the statement in giving evidence in the Sexual Offences Court.
+
+(3) Subject to subsection (4) a vulnerable complainer’s prior statement—
+
+(a) is admissible as evidence of any matter stated in it of which direct oral evidence by the vulnerable complainer would be admissible if given in the course of proceedings,
+
+(b) does not require to be included in any list of productions lodged by the prosecutor.
+
+(4) A vulnerable complainer’s prior statement is not admissible under this section unless—
+
+(a) the statement is contained in a document,
+
+(b) at the time the statement was made, the vulnerable complainer would have been a competent witness in the proceedings.
+
+(5) Subsection (4) does not apply to a vulnerable complainer’s prior statement which is sufficiently authenticated and—
+
+(a) is contained in a precognition on oath, or
+
+(b) was made in other proceedings, whether criminal or civil and whether taking place in the United Kingdom or elsewhere.
+
+(6) This section does not affect the admissibility of any statement made by any person which is admissible otherwise than by virtue of this section.
+
+(7) For the purposes of this section—
+
+(a) a “statement” includes—
+
+(i) any representation, however made or expressed, of fact or opinion,
+
+(ii) any part of a statement,
+
+but does not include a statement in a precognition other than a precognition on oath.
+
+(b) a statement is contained in a document where the person who makes it—
+
+(i) makes the statement in the document personally,
+
+(ii) makes a statement which is, with or without the person’s knowledge, recorded in a document by a person who has direct personal knowledge of the making of the statement, or
+
+(iii) approves a document as embodying the statement,
+
+(c) “document” includes, in addition to a document in writing—
+
+(i) any map, plan, graph or drawing,
+
+(ii) any photograph,
+
+(iii) any disc, tape, sound track or other device in which sounds or other data (other than visual images) are recorded so as to be capable of being reproduced,
+
+(iv) any film (including microfilm), negative, tape, disc or other device in which one or more visual images are recorded so as to be capable of being reproduced.
+
+#### Art and part and aiding and abetting (prospective)
+
+##### 98 Statutory offences: art and part and aiding and abetting (prospective)
+
+(1) The Sexual Offences Court may convict an accused person of a contravention of any enactment notwithstanding that the person was guilty of such contravention as art and part only.
+
+(2) For the purposes of the Sexual Offences Court, a person who aids, abets, counsels, procures or incites any other person to commit an offence against the provisions of any enactment commits an offence and is liable on conviction, unless the enactment otherwise requires, to the same punishment as if the person had committed the offence against the provisions of the enactment.
+
+#### Sentencing (prospective)
+
+##### 99 Sentencing power of the Sexual Offences Court (prospective)
+
+The Sexual Offences Court may impose on a person that it convicts of an offence any sentence which the High Court of Justiciary would be entitled to impose on the person in respect of the offence for which the person has been convicted.
+
+#### Double jeopardy (prospective)
+
+##### 100 Exception to rule against double jeopardy in the Sexual Offences Court: new evidence (prospective)
+
+(1) The Double Jeopardy (Scotland) Act 2011 is amended as follows.
+
+(2) In section 4 (new evidence)—
+
+(a) in subsection (1), after “High Court” insert “or the Sexual Offences Court”,
+
+(b) in subsection (3)(b)(ii), after “High Court” insert “or, as the case may be, the Sexual Offences Court”.
+
+(3) In section 9(2) (plea in bar of trial: nullity of previous trial)—
+
+(a) before paragraph (a) insert—
+
+> (za) the Sexual Offences Court,
+
+,
+
+(b) in the closing words, before “sheriff” insert “Judge of the Sexual Offences Court,”.
+
+## Part 8 — Special measures for vulnerable witnesses under the 1995 Act
+
+### 101 Vulnerable witnesses under the 1995 Act: admission of the record of a prior examination as evidence in full (prospective)
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 271H(1) (the special measures), after paragraph (a), insert—
+
+> (aa) the admission of the record of a hearing at which the vulnerable witness gave evidence before a commissioner (“a prior examination”) in accordance with section 271IA,
+
+.
+
+(3) After section 271I, insert—
+
+> **271IA Admission of the record of a prior examination as evidence**
+>
+> (1) Where the special measure to be used is the admission of the record of a prior examination, a record of a prior examination which is lodged in evidence by or on behalf of a party to the proceedings in accordance with this section is admissible as the vulnerable witness’s evidence without the vulnerable witness being required to adopt or otherwise speak to the record in giving evidence in court.
+>
+> (2) The record of the prior examination is to be received in evidence without being sworn to by witnesses.
+>
+> (3) The prior examination must have taken place before a commissioner—
+>
+> (a) in the course of proceedings other than the proceedings in respect of which the special measure has been authorised, and
+>
+> (b) under—
+>
+> (i) section 271I of this Act, in respect of prior proceedings in the High Court of Justiciary or the sheriff court, or
+>
+> (ii) section 95 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025, in respect of prior proceedings in the Sexual Offences Court.
+>
+> (4) Subsection (5) applies where—
+>
+> (a) a vulnerable witness notice is lodged under section 271A(2) specifying admission of the record of a prior examination as evidence in accordance with this section as the special measure by which the evidence of the vulnerable witness is to be given,
+>
+> (b) a vulnerable witness application is made under section 271C(2) and the court makes an order under section 271C(5)(a) or (7) authorising admission of the record of a prior examination as evidence in accordance with this section as the special measure by which the evidence of the vulnerable witness is to be given, or
+>
+> (c) the court makes an order under section 271D(2)(b) authorising admission of the record of a prior examination as evidence in accordance with this section as the special measure by which the evidence of the vulnerable witness is to be given.
+>
+> (5) Where this subsection applies, the court may, on application by a party to the proceedings, allow questioning of the vulnerable witness to take place only if satisfied that—
+>
+> (a) there are questions relevant to the proceedings which were not put to the vulnerable witness, and could not reasonably have been expected to have been put to the vulnerable witness, in the course of the prior examination,
+>
+> (b) to refuse the application would give rise to a significant risk of prejudice to the fairness of the proceedings or otherwise to the interests of justice, and
+>
+> (c) that risk would significantly outweigh any risk of prejudice to the interests of the vulnerable witness if the application were granted.
+>
+> (6) An application to allow questioning of the vulnerable witness under subsection (5) may be granted in whole or in part.
+>
+> (7) Where an application to allow questioning of the vulnerable witness is granted under subsection (5), the court must, unless satisfied that an exception is justified under subsection (8), appoint a commissioner to take the evidence of the vulnerable witness in respect of whom the special measure is to be used.
+>
+> (8) An exception is justified under this subsection—
+>
+> (a) if—
+>
+> (i) the vulnerable witness is aged under 18 on the date of commencement of the proceedings in which the hearing is being or is to be held (“the date of commencement”),
+>
+> (ii) having had access to such relevant information as may be prescribed by Act of Adjournal, the vulnerable witness expresses a wish to give evidence at the hearing, and
+>
+> (iii) it would be in the vulnerable witness’s best interests to give evidence at the hearing, or
+>
+> (b) if the vulnerable witness is aged 18 or over on the date of commencement and, having had access to such relevant information as may be prescribed by Act of Adjournal, expresses a wish to give evidence at the hearing.
+>
+> (9) Section 271I (other than subsections (1) and (4A)) applies to proceedings before a commissioner under subsection (7) as it applies where the special measure to be used is taking of evidence by a commissioner.
+>
+> (10) In this section, “vulnerable witness” includes witnesses in respect of whom the court has made an order under section 271C(5)(a) or (7) or 271D(2)(b) authorising the use of special measures for the purpose of taking the witness’s evidence.
+
+.
+
+### 102 Child witnesses under the 1995 Act: exception to presumption in favour of special measures
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 271BZA(8) (child witnesses in certain solemn cases: special measures), paragraph (a) is repealed.
+
+(3) In section 271BZB(5) (child witnesses in certain solemn cases: modifications of section 271A), in inserted subsection (10F), paragraph (a) is repealed.
+
+(4) In section 271BZC(2) (child witnesses in certain solemn cases: modifications of section 271D), in inserted subsection (4H), paragraph (a) is repealed.
+
+### 103 Vulnerable witnesses under the 1995 Act: supplementary provision in relation to child witnesses
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 271E, subsection (3) is repealed.
+
+## Part 9 — Sexual offences cases: further reform
+
+### Anonymity for victims (prospective)
+
+#### 104 Sexual offences cases: anonymity and restriction on publications (prospective)
+
+(1) The Criminal Justice (Scotland) Act 2016 is amended as follows.
+
+(2) After section 106, insert—
+
+> **Chapter 2B — Anonymity for victims**
+>
+> **Restriction on publications relating to listed offences**
+>
+> **106A Restriction on publications relating to listed offences**
+>
+> (1) Subject to sections 106B and 106C, no publication is to include information relating to a person if that information is likely to lead to the identification of the person as being a victim of an offence listed in subsection (5).
+>
+> (2) For the purposes of subsection (1), information relating to a person includes in particular—
+>
+> (a) the person’s name,
+>
+> (b) the person’s address,
+>
+> (c) the identity of any school or other educational establishment attended by the person,
+>
+> (d) the identity of any place at which the person works,
+>
+> (e) any still or moving picture of the person.
+>
+> (3) The restriction imposed by subsection (1)—
+>
+> (a) applies during the lifetime of the person to whom the information relates, and
+>
+> (b) ceases to apply on that person’s death.
+>
+> (4) The restriction imposed by subsection (1) does not prevent the person to whom the information relates from publishing information which is likely to lead to their own identification as being a victim of an offence listed in subsection (5).
+>
+> (5) The offences referred to in subsection (1) are—
+>
+> (a) an offence under section 52 or 52A of the Civic Government (Scotland) Act 1982 (offences involving indecent photographs of children),
+>
+> (b) an offence to which section 288C of the Criminal Procedure (Scotland) Act 1995 applies (certain sexual offences),
+>
+> (c) an offence under section 1 of the Prohibition of Female Genital Mutilation (Scotland) Act 2005 (offence of female genital mutilation),
+>
+> (d) an offence under section 1, 9, 10, 11 or 12 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (certain sexual offences against or in respect of children),
+>
+> (e) an offence under section 122 of the Anti-social Behaviour, Crime and Policing Act 2014 (offence of forced marriage or forced civil partnership),
+>
+> (f) an offence under section 1 (human trafficking) or section 4 (slavery, servitude and forced or compulsory labour) of the Human Trafficking and Exploitation (Scotland) Act 2015,
+>
+> (g) an offence under section 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (disclosing, or threatening to disclose, an intimate photograph or film),
+>
+> (h) an offence under section 140, 141, 142, 152, 153 or 154 of the Health and Care Act 2022 (offences relating to virginity testing and hymenoplasty),
+>
+> (i) attempting to commit any offence mentioned in paragraphs (a) to (h) (but not paragraph (b)),
+>
+> (j) conspiracy or incitement to commit any offence mentioned in paragraphs (a) to (h),
+>
+> (k) aiding, abetting, counselling or procuring the commission of any offence mentioned in paragraphs (a) to (h).
+>
+> (6) The Scottish Ministers may, by regulations, modify subsection (5) by adding an offence to, varying the description of an offence mentioned in, or removing an offence from, that subsection.
+>
+> (7) Regulations under subsection (6) are subject to the affirmative procedure.
+>
+> (8) In this section—
+>
+> - “offence” includes any offence, regardless of whether it is committed, or suspected to have been committed, before or after this section comes into force,
+> - “publication” includes any speech, writing, relevant programme or other communication in whatever form, which is addressed or accessible to the public at large or any section of the public (whether on registration, payment, subscription or otherwise),
+> - “relevant programme” means a programme included in a programme service, within the meaning of the Broadcasting Act 1990,
+> - “victim of an offence” means a person against or in respect of whom an offence has been, or is or has been suspected to have been, committed.
+>
+> **106B Power to dispense with restriction: child victims**
+>
+> (1) A sheriff may by order dispense with the restriction imposed by section 106A(1) where—
+>
+> (a) the information to which the restriction would apply is information relating to a child, and
+>
+> (b) the sheriff considers that the conditions set out in subsection (4)(a) and (b) are satisfied.
+>
+> (2) A sheriff may make an order under subsection (1) on the application of a person other than the child who wishes to publish information relating to the child.
+>
+> (3) Before deciding whether to make an order under subsection (1), the sheriff must give the following persons an opportunity to make representations—
+>
+> (a) the person who made the application,
+>
+> (b) the child to whom the information relates.
+>
+> (4) The conditions referred to in subsection (1)(b) are that—
+>
+> (a) the child to whom the information relates—
+>
+> (i) understands the nature of an order under subsection (1),
+>
+> (ii) appreciates what the effect of making such an order would be, and
+>
+> (iii) gives consent to the publication of the information, and
+>
+> (b) there is no good reason why an order under subsection (1) should not be made.
+>
+> (5) The child to whom the order under subsection (1) relates may withdraw consent by giving, before the information is published, written notice to the person who obtained the order.
+>
+> (6) Where a child gives notice under subsection (5), the restriction imposed by section 106A(1) is, from the time the notice is received, no longer dispensed with.
+>
+> (7) The decision of the sheriff under this section is final.
+>
+> (8) In this section—
+>
+> - “child” means a person who is aged under 18 at the date on which the application is made,
+> - “consent” means free agreement.
+>
+> **106C Power to dispense with restriction: conviction for relevant offence**
+>
+> (1) This section applies where—
+>
+> (a) a court convicts a person of a relevant offence, and
+>
+> (b) there is information relating to that person the publication of which is restricted by section 106A(1).
+>
+> (2) The court may, of its own accord, make an order dispensing with the restriction imposed by section 106A(1) if—
+>
+> (a) the court is satisfied that—
+>
+> (i) the person convicted of a relevant offence alleged that they were a victim of an offence listed in section 106A(5), and
+>
+> (ii) there is a connection between the conduct amounting to the relevant offence and the allegation that the person was a victim of an offence listed in section 106A(5), and
+>
+> (b) the court is satisfied that it is in the interests of justice to dispense with the restriction.
+>
+> (3) In this section—
+>
+> - “relevant offence” means—
+>
+>   - an offence of perjury,
+>   - an offence of attempting to pervert the course of justice,
+>   - an offence under section 44 of the Criminal Law (Consolidation) (Scotland) Act 1995 (false statements and declarations),
+>
+> - “victim of an offence” has the same meaning as in section 106A.
+>
+> **106D Offence and defences**
+>
+> (1) A person who publishes relevant information in contravention of section 106A commits an offence and is liable—
+>
+> (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both),
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both).
+>
+> (2) A person who—
+>
+> (a) attempts or conspires to commit an offence under subsection (1), or
+>
+> (b) aids, abets, counsels, procures or incites the commission of such an offence,
+>
+> commits an offence and is liable on conviction to the same punishment as if the person had committed the offence under subsection (1).
+>
+> (3) A person charged with an offence under this section has a defence if it is established that the conditions mentioned in subsection (4) were met.
+>
+> (4) Those conditions are that—
+>
+> (a) the person to whom the relevant information relates—
+>
+> (i) had given written consent to the publication of information in relation to an offence listed in section 106A(5),
+>
+> (ii) was aged 18 or over when that consent was given, and
+>
+> (iii) had not, before the information was published, given written notice of the withdrawal of that consent, and
+>
+> (b) the information published relates to the offence to which that consent relates.
+>
+> (5) A person charged with an offence under this section has a defence if it is established that—
+>
+> (a) the information published was in the public domain (having already been published by the person, being a person aged 18 or over, to whom the information relates or otherwise), and
+>
+> (b) where the information was in the public domain as a result of it being published by a person other than the person to whom it relates, there was no reason for the person charged to believe that the conditions mentioned in subsection (4) were not met in relation to that prior publication.
+>
+> (6) A person charged with an offence under this section has a defence if it is established that they were not aware, and neither suspected nor had reason to suspect, that the publication included relevant information.
+>
+> (7) For the purposes of subsections (3), (5) and (6), a matter is established if—
+>
+> (a) evidence adduced is enough to raise an issue as to whether that is the case, and
+>
+> (b) the prosecution does not prove beyond reasonable doubt that it is not the case.
+>
+> (8) For the purposes of subsections (3), (4)(a)(ii) and (5)(a), that a person was aged 18 or over is established only if the person charged with the offence took reasonable steps to establish the person’s age.
+>
+> (9) For the purposes of subsection (4)(a), consent which purports to be specific to a particular publication may be taken to be consent to publication generally.
+>
+> (10) For the purposes of subsections (3) to (6), where a person is charged with an offence by virtue of subsection (2), references to the publication of relevant information include references to the attempted publication of that information.
+>
+> (11) In this section—
+>
+> - “consent” means free agreement,
+> - “relevant information” means information the publication of which is restricted under section 106A(1).
+>
+> **106E Individual culpability where organisation commits offence under section 106D**
+>
+> (1) This section applies where—
+>
+> (a) an offence under section 106D is committed by a relevant organisation, and
+>
+> (b) the commission of the offence—
+>
+> (i) involves consent or connivance, or
+>
+> (ii) is attributable to neglect,
+>
+> on the part of a responsible individual.
+>
+> (2) The responsible individual (as well as the relevant organisation) commits the offence.
+>
+> (3) For the purposes of this section—
+>
+> (a) “relevant organisation” means an organisation listed in the first column of the table in subsection (4),
+>
+> (b) “responsible individual” means, in relation to a relevant organisation—
+>
+> (i) an individual falling within the corresponding entry in the second column of that table, or
+>
+> (ii) an individual purporting to act in the capacity of an individual falling within the corresponding entry.
+>
+> (4) The table is as follows—
+>
+> <table>
+> <thead>
+> <tr><th><b><i>Relevant organisation</b></i></th><th><b><i>Responsible individual</b></i></th></tr>
+> </thead>
+> <tbody>
+> <tr><td rowspan="2">a company as mentioned in section 1 of the Companies Act 2006</td><td>a director, manager, secretary or other similar officer</td></tr>
+> <tr><td>a member, where the company’s affairs are managed by its members</td></tr>
+> <tr><td>a limited liability partnership</td><td>a member</td></tr>
+> <tr><td>a partnership other than a limited liability partnership</td><td>a partner</td></tr>
+> <tr><td>any other body or association</td><td>an individual who is concerned in the management or control of the body’s or association’s affairs</td></tr>
+> </tbody>
+> </table>
+>
+> **106F Crown application: offence under section 106D**
+>
+> (1) Nothing in section 106D makes the Crown criminally liable.
+>
+> (2) The Court of Session may, on an application by the Lord Advocate, declare unlawful any act or omission for which the Crown would be criminally liable if it were not for subsection (1).
+>
+> (3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
+
+.
+
+(3) The 1995 Act is amended as follows.
+
+(4) In section 47 (restriction on report of proceedings involving children)—
+
+(a) in subsection (1), after “below” insert “and to section 47A”,
+
+(b) in subsection (2), after “below” insert “and to section 47A”.
+
+(5) After that section insert—
+
+> **47A Disapplication of section 47 in certain cases**
+>
+> (1) This section applies where—
+>
+> (a) proceedings are taken against any person in respect of an offence listed in section 106A(5) of the Criminal Justice (Scotland) Act 2016 (a “listed offence”), and
+>
+> (b) the person who is the victim of the offence is aged under 18.
+>
+> (2) Section 47—
+>
+> (a) does not apply in relation to the person who is the victim of the listed offence in respect of that offence,
+>
+> (b) otherwise continues to apply in respect of the proceedings.
+>
+> (3) In this section, “offence” and “victim of the offence” are to be construed in accordance with section 106A(8) of the 2016 Act.
+
+.
+
+### Restrictions on evidence relating to sexual offences (prospective)
+
+#### 105 Restrictions on evidence relating to sexual offences (prospective)
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 274 (restrictions on evidence relating to sexual offences)—
+
+(a) in subsection (1), for “charged with an offence to which section 288C of this Act” substitute “to whom subsection (1A)”,
+
+(b) after subsection (1), insert—
+
+> (1A) This subsection applies to—
+>
+> (a) a person charged with an offence to which section 288C applies,
+>
+> (b) a person charged with an offence to which section 288DC(1)(a) applies, where it is apparent from the offence as charged that the alleged abusive behaviour included behaviour that could constitute an offence to which section 288C applies,
+>
+> (c) a person charged with an offence in connection with which a docket is included in the indictment or complaint—
+>
+> (i) under section 288BA, or
+>
+> (ii) under rule of law but only if the alleged behaviour specified in the docket included behaviour that could constitute an offence to which section 288C applies.
+
+,
+
+(c) in subsection (2), for the definition of “complainer” (and “and” immediately following it) substitute—
+
+> - “complainer” means—
+>
+>   - in the trial of a person charged with an offence to which section 288C or 288DC(1)(a) applies, the person against whom that offence is alleged to have been committed, or
+>   - in the trial of a person charged with an offence in connection with which a docket is included in the indictment or complaint, the person in relation to whom the act or omission specified in the docket is alleged to have been carried out, and
+
+.
+
+### Independent legal representation for complainers (prospective)
+
+#### 106 Applications to admit certain evidence relating to sexual offences: rights of complainers (prospective)
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 275 (exceptions to restrictions under section 274)—
+
+(a) after subsection (4) insert—
+
+> (4A) The prosecutor (whether the party making the application or otherwise) must, as soon as reasonably practicable after the application is made—
+>
+> (a) notify the complainer that an application for the purposes of subsection (1) has been made,
+>
+> (b) give the complainer an explanation of the application, of the evidence sought to be admitted and, as the case may be, of the questioning proposed to be allowed,
+>
+> (c) give the complainer information about the rights mentioned in section 275ZA.
+
+,
+
+(b) after subsection (9) insert—
+
+> (10) In subsection (4A) and in sections 275ZA to 275ZC—
+>
+> - “complainer” has the same meaning as in section 274 except that it does not include a person who is deceased,
+>
+> - “legal representative” means—
+>
+>   - a solicitor,
+>   - an advocate, or
+>   - a solicitor who has a right of audience in the High Court of Justiciary under section 25A of the Solicitors (Scotland) Act 1980.
+
+.
+
+(3) After section 275 insert—
+
+> **275ZA Rights of complainers in relation to section 275 applications**
+>
+> (1) This section applies where an application is made for the purposes of section 275(1).
+>
+> (2) Where the complainer engages a legal representative for purposes relating to the application, the complainer’s legal representative must give the court and the prosecutor notice of that fact—
+>
+> (a) as soon as reasonably practicable after being so engaged, and
+>
+> (b) in writing.
+>
+> (3) The complainer’s legal representative is, on giving notice to the prosecutor under subsection (2), entitled to be given an opportunity to make representations to the court in relation to the application, including as to—
+>
+> (a) the accuracy of any statements made in it, and
+>
+> (b) whether the evidence sought to be admitted or questioning proposed should be admitted or, as the case may be, allowed.
+>
+> (4) Where the complainer’s legal representative withdraws or is dismissed by the complainer, the legal representative must give the court and the prosecutor notice of that fact—
+>
+> (a) as soon as reasonably practicable after withdrawing or being dismissed, and
+>
+> (b) in writing.
+>
+> (5) For the purposes of subsections (2) and (4), notice is given to the prosecutor if it is given to—
+>
+> (a) in proceedings in the High Court or Sexual Offences Court, the Crown Agent,
+>
+> (b) in any other proceedings, the procurator fiscal for the district in which the trial diet is to be held.
+>
+> **275ZB Rights of complainers in relation to section 275 applications: further provision**
+>
+> (1) The prosecutor must, where given notice under section 275ZA(2), send to the complainer’s legal representative as soon as reasonably practicable—
+>
+> (a) a copy of the application made for the purposes of section 275(1),
+>
+> (b) a copy of the complaint or, as the case may be, indictment to the extent that it relates to the application.
+>
+> (2) Where, after receipt of the documents mentioned in subsection (1), the complainer’s legal representative requests that the prosecutor provide a copy of any evidence referred to in, or relevant to, the application, the prosecutor must—
+>
+> (a) notify the accused that such a request has been made, and
+>
+> (b) advise the accused of the evidence which has been requested.
+>
+> (3) The prosecutor must send the requested evidence to the complainer’s legal representative as soon as reasonably practicable after the end of the period (“the objection period”) mentioned in subsection (6), unless subsection (7) applies in relation to that particular evidence.
+>
+> (4) Subsection (7) applies in relation to particular evidence if, within the objection period—
+>
+> (a) the accused sends the prosecutor the accused’s objection to that particular evidence being sent or to all of the evidence being sent, or
+>
+> (b) the prosecutor has an objection to that particular evidence being sent or to all of the evidence being sent.
+>
+> (5) For the purposes of this section, an objection sent by the accused to the prosecutor must—
+>
+> (a) be in writing,
+>
+> (b) explain why the accused objects to the evidence being sent,
+>
+> (c) state whether the objection is—
+>
+> (i) only to particular evidence being sent and, if so, specify which particular evidence, or
+>
+> (ii) to all of the evidence being sent.
+>
+> (6) The objection period is the period—
+>
+> (a) beginning on the day after the day on which the accused is notified of the request for evidence, and
+>
+> (b) ending on the earliest of—
+>
+> (i) the day which falls 7 days after the period begins,
+>
+> (ii) if a preliminary hearing, first diet or intermediate diet is to be held, the day which falls two days before the day that hearing or diet is to be held,
+>
+> (iii) if the accused gives the prosecutor written consent to that particular evidence or all of the evidence being sent and the prosecutor has no objection to it being sent, the day on which that written consent is given.
+>
+> (7) Before sending to the complainer’s legal representative any particular evidence in relation to which there is an objection in accordance with subsection (4), the prosecutor must—
+>
+> (a) apply to the court for a ruling on whether the evidence should be sent or the objection upheld,
+>
+> (b) include in the application a copy of the objection to the evidence being sent,
+>
+> (c) send a copy of the application to the accused and the complainer’s legal representative.
+>
+> (8) On an application under subsection (7)(a), the court may, after giving the prosecutor, the accused and the complainer’s legal representative an opportunity to make representations—
+>
+> (a) uphold the objection and refuse to authorise the sending of evidence,
+>
+> (b) require the prosecutor to send the evidence in the form, and subject to any limitations, the court thinks is in the interests of justice.
+>
+> **275ZC Confidentiality of disclosed evidence**
+>
+> (1) This section applies where, in accordance with section 275ZB, the prosecutor sends the complainer’s legal representative a copy of any evidence referred to in, or relevant to, the application made for the purposes of section 275(1).
+>
+> (2) Subject to any conditions imposed by the court, by virtue of section 275ZB(8), on disclosure of evidence, the complainer and the complainer’s legal representative may use or disclose evidence referred to in subsection (1) for the purposes set out in subsection (3).
+>
+> (3) The purposes are making, or preparing to make, representations to the court in relation to the application, in accordance with section 275ZA(3).
+>
+> (4) A person must not use or disclose evidence referred to in subsection (1) for any purpose other than those set out in subsection (3).
+>
+> (5) Subsection (4) does not apply in relation to the use or disclosure of evidence which is in the public domain at the time of the use or disclosure.
+>
+> (6) A person who knowingly uses or discloses evidence in contravention of subsection (4) commits an offence.
+>
+> (7) A person who commits an offence under subsection (6) is liable—
+>
+> (a) on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum (or both),
+>
+> (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both).
+
+.
+
+(4) In section 275B (provisions supplementary to sections 275 and 275A), in subsection (1)—
+
+(a) in paragraph (a), for “7” substitute “21”,
+
+(b) for paragraph (b) substitute—
+
+> (b) in the case of proceedings on indictment in the sheriff court, not less than 21 clear days before the first diet,
+>
+> (c) in the case of summary proceedings, not less than 21 clear days before the first intermediate diet or, if no such diet is fixed, the trial diet.
+
+,
+
+(c) in the section title, for “**275 and 275A**” substitute “**275 to 275A**”.
+
+(5) In section 271I (taking of evidence by a commissioner), in subsection (6)(c), for “7” substitute “21”.
+
+(6) In section 74 (appeals in connection with preliminary diets), after subsection (1) insert—
+
+> (1A) For the purposes of an appeal under subsection (1) against a decision to grant an application under section 275(1), “party” includes the complainer’s legal representative (within the meaning of section 275(10)).
+
+.
+
+### Non-harassment orders
+
+#### 107 Circumstances in which non-harassment order must be considered by court
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 234AZA (non-harassment orders: domestic abuse cases)—
+
+(a) in subsection (2)(c), before sub-paragraph (i) insert—
+
+> (zi) an offence to which section 288C applies,
+>
+> (zii) stalking,
+>
+> (ziii) an offence under section 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016,
+
+,
+
+(b) in subsection (3)(a), for “in any circumstances” substitute “where the offence is one listed in subsection (2)(c)(zii), (i) or (ii)”,
+
+(c) in the section title, for “domestic abuse cases” substitute “consideration by court in certain cases”.
+
+## Part 10 — Non-harassment orders
+
+### 108 Non-harassment orders: domestic abuse cases
+
+(1) The 1995 Act is modified as follows.
+
+(2) In section 234AZA (non-harassment orders: domestic abuse cases), after subsection (6) insert—
+
+> (6A) Where the offence is one listed in subsection (2)(c)(i) or (ii), the court must, in considering the question of whether to make a non-harassment order in the person’s case (including where the person is sentenced to imprisonment or remanded in custody), have regard to any prior bail conditions imposed on the person preventing contact with the victim.
+
+.
+
+## Part 11 — Enforcement of protective orders made outwith Scotland (prospective)
+
+### 109 Offences relating to protective orders made outwith Scotland (prospective)
+
+(1) A person commits an offence if the person knowingly and without reasonable excuse—
+
+(a) does anything which the person is prohibited from doing by a relevant UK order, or
+
+(b) fails to do something which the person is required to do by such an order.
+
+(2) A person commits an offence if the person knowingly and without reasonable excuse aids, abets, counsels, procures or incites another person—
+
+(a) to do anything the other person is prohibited from doing by a relevant UK order, or
+
+(b) to fail to do something which the other person is required to do by such an order.
+
+(3) A person commits an offence under this section only if the conduct or failure to act would have constituted an offence under the law of the country applicable to the relevant UK order concerned (an “equivalent offence”).
+
+(4) A relevant UK order is—
+
+(a) an order under section 42 of the Family Law Act 1996 (non-molestation order),
+
+(b) an order under section 5A of the Protection from Harassment Act 1997 (restraining order on acquittal),
+
+(c) an order under article 20 of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I. 6)) (non-molestation order),
+
+(d) an order under section 2 or section 5 of the Stalking Protection Act 2019 (stalking protection order and interim stalking protection order),
+
+(e) an order under section 360 of the Sentencing Act 2020 (restraining order),
+
+(f) an order under section 8 or 11 of the Protection from Stalking Act (Northern Ireland) 2022 (stalking protection order and interim stalking protection order),
+
+(g) any other order under the law of England and Wales or Northern Ireland which—
+
+(i) appears to the Scottish Ministers to be intended to protect persons (including victims, witnesses or, as the case may be, family members of victims or witnesses) from physical or psychological harm (including fear, alarm and distress), and
+
+(ii) is of a type specified in regulations made by the Scottish Ministers.
+
+(5) Subjection to subsection (6), a person who commits an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both),
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).
+
+(6) But no sentence may be imposed under subsection (5) if it would exceed the maximum penalty available, in relation to the equivalent offence, under the law of the country applicable to the relevant UK order concerned.
+
+(7) The power of the Scottish Ministers to make regulations under subsection (4)(g)(ii) includes the power—
+
+(a) to make different provision for different purposes,
+
+(b) to make any incidental, supplementary, consequential, transitional, transitory or saving provision which they consider appropriate.
+
+(8) Regulations under subsection (4)(g)(ii) are subject to the affirmative procedure.
+
+## Part 12 — Domestic abuse cases (prospective)
+
+### 110 Review in relation to connected proceedings (prospective)
+
+(1) The Scottish Ministers must, within the period of 2 years beginning with the day on which this section comes into force, carry out a review in relation to proceedings for an offence involving domestic abuse where there are any other related or connected proceedings.
+
+(2) The review under subsection (1) must, in particular, consider whether—
+
+(a) more information should be shared between the court dealing with the domestic abuse offence and any other court dealing with related or connected proceedings,
+
+(b) the court dealing with the domestic abuse offence should also have jurisdiction over any related or connected proceedings.
+
+(3) For the purposes of subsection (1), “related or connected proceedings” includes proceedings which may result in a sheriff making an order under section 11 (court orders relating to parental responsibilities etc.) of the Children (Scotland) Act 1995, where the subject of the proceedings is a child of the alleged offender.
+
+(4) As soon as reasonably practicable after completing the review, the Scottish Ministers must—
+
+(a) publish a report of the review,
+
+(b) lay a copy of the report before the Scottish Parliament.
+
+(5) In carrying out the review under subsection (1), the Scottish Ministers must consult—
+
+(a) the Lord President,
+
+(b) the Scottish Courts and Tribunals Service,
+
+(c) persons representing victims of domestic abuse (or victims themselves),
+
+(d) such other persons as the Scottish Ministers consider appropriate.
+
+(6) In this section, an “offence involving domestic abuse” means—
+
+(a) an offence under section 1(1) (abusive behaviour towards partner or ex-partner) of the Domestic Abuse (Scotland) Act 2018,
+
+(b) an offence under section 17 (breach of domestic abuse protection order) of the Domestic Abuse (Protection) (Scotland) Act 2021,
+
+(c) any other offence where the offence is aggravated as described in section 1(1)(a) (aggravation where abuse of partner or ex-partner) of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
+
+## Part 13 — Final provisions
+
+### 111 Review of operation of Act
+
+(1) The Scottish Ministers must, as soon as reasonably practicable after the end of each review period—
+
+(a) undertake a review of the operation of this Act, and
+
+(b) prepare a report—
+
+(i) on that review,
+
+(ii) setting out any changes to the law relating to corroboration in Scotland, whether by enactment or otherwise, which have taken place during the relevant review period, and
+
+(iii) setting out measures taken to improve the experiences of victims and witnesses, in particular women, within the justice system during the relevant review period.
+
+(2) The Scottish Ministers must, as soon as reasonably practicable after preparing the report—
+
+(a) publish the report, and
+
+(b) lay the report before the Scottish Parliament.
+
+(3) In undertaking a review under subsection (1)(a), the Scottish Ministers must consult—
+
+(a) the Lord President,
+
+(b) the Scottish Courts and Tribunals Service,
+
+(c) the chief constable of the Police Service of Scotland,
+
+(d) the Scottish Legal Aid Board,
+
+(e) the Law Society of Scotland,
+
+(f) the Faculty of Advocates,
+
+(g) persons representing the views of victims and witnesses in criminal proceedings, in particular women (or victims and witnesses themselves),
+
+(h) persons providing victim support services, within the meaning of section 3D(5) of the 2014 Act,
+
+(i) persons representing the views of witnesses and parties in civil proceedings, in particular women (or witnesses and parties themselves),
+
+(j) such other persons as the Scottish Ministers consider appropriate.
+
+(4) For the purposes of this section, “review period” means—
+
+(a) the period of 5 years beginning with the day of Royal Assent,
+
+(b) one subsequent period of 5 years.
+
+### 112 Regulations
+
+(1) Any power of the Scottish Ministers to make regulations under this Act includes the power to make—
+
+(a) incidental, supplementary, consequential, transitional, transitory or saving provision,
+
+(b) different provision for different purposes.
+
+(2) Subject to subjections (3) to (5), regulations under this Act are subject to the affirmative procedure.
+
+(3) Regulations under section 13(5) are subject to the negative procedure.
+
+(4) Regulations under section 113(1)—
+
+(a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act (including this Act),
+
+(b) otherwise, are subject to the negative procedure.
+
+(5) This section does not apply to regulations under section 116(2).
+
+### 113 Ancillary provision
+
+(1) The Scottish Ministers may, by regulations, make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
+
+(2) Regulations under subsection (1) may modify any enactment (including this Act).
+
+### 114 Interpretation
+
+In this Act—
+
+- “the 1995 Act” means the Criminal Procedure (Scotland) Act 1995,
+
+- “the 2014 Act” means the Victims and Witnesses (Scotland) Act 2014,
+
+- “the 2020 Act” means the Children (Scotland) Act 2020,
+
+- “trauma-informed practice” is a means of operating that—
+
+  - recognises that a person may have experienced trauma,
+  
+  - understands the effects which trauma may have on the person, including how trauma may affect any evidence given by the person, and
+  
+  - based on that understanding, involves adapting and implementing processes and practices to—
+  
+    - seek to avoid, or minimise the risk of, exposing the person to any recurrence of past trauma or to further trauma,
+    - seek to avoid, or minimise the risk of, negatively impacting the person’s recovery from trauma,
+    - enable the person to participate effectively in court proceedings.
+
+### 115 Modification of enactments (prospective)
+
+Schedule 5 makes further modifications of enactments in consequence of this Act.
+
+### 116 Commencement
+
+(1) This section and sections 112, 113, 114 and 117 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may, by regulations, appoint.
+
+(3) Regulations under subsection (2) may—
+
+(a) include transitional, transitory or saving provision,
+
+(b) make different provision for different purposes, including different provision for—
+
+(i) different courts or descriptions of court,
+
+(ii) different proceedings or types of proceedings,
+
+(iii) different descriptions of witness,
+
+(c) make different provision for different areas.
+
+### 117 Short title
+
+The short title of this Act is the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+## Schedule 1 — The office of Victims and Witnesses Commissioner for Scotland
+
+*(introduced by section 1(2))*
+
+### Part 1 — Status and independence
+
+#### Status
+
+**1** (1) The Commissioner is, as Commissioner, to be regarded as a juristic person distinct from the individual for the time being holding the office.
+
+(2) The Commissioner—
+
+(a) is not a servant or agent of the Crown, and
+
+(b) does not enjoy any status, immunity, or privilege of the Crown.
+
+(3) The Commissioner’s property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+(4) Individuals working as the Commissioner’s staff are not, on that account, to be regarded as civil servants.
+
+#### Independence
+
+**2** (1) The Commissioner is not, except as provided in the provisions listed in sub-paragraph (2), subject to the direction or control of—
+
+(a) any member of the Scottish Parliament,
+
+(b) the Scottish Ministers, or
+
+(c) the Parliamentary corporation.
+
+(2) The provisions referred to in sub-paragraph (1) are—
+
+(a) sections 5(2) and (3), 7(2), and 18(5), and
+
+(b) paragraphs 5, 6(3), 8, 9, 10, 11, 12, 13(1), 15(1), 16(1) and (2), 17(1) and (4), and 18(2) of this schedule.
+
+### Part 2 — Appointment, termination and terms and conditions
+
+#### Appointment
+
+**3** (1) The office of Commissioner is to be held by an individual appointed by His Majesty on the nomination of the Scottish Parliament.
+
+(2) An individual may not be appointed to hold the office of Commissioner if the individual is disqualified under paragraph 4.
+
+(3) An individual who holds or has held the office of Commissioner may not be reappointed.
+
+#### Disqualification from appointment
+
+**4** An individual is disqualified from holding the office of Commissioner if the individual is or, within the year preceding the date on which the appointment is to take effect, has been—
+
+(a) a member of the Scottish Parliament,
+
+(b) a member of the House of Commons,
+
+(c) a member of the House of Lords, or
+
+(d) a person who is, or who is a member, employee or appointee of, a criminal justice body.
+
+#### Tenure
+
+**5** Subject to paragraph 6, the Commissioner holds office for such period, not exceeding 8 years, as the Parliamentary corporation determines at the time of appointment.
+
+#### Early termination
+
+**6** (1) The Commissioner’s appointment ends if—
+
+(a) the Commissioner is relieved of office by His Majesty at the Commissioner’s request,
+
+(b) the Commissioner becomes disqualified from holding office (see paragraph 4), or
+
+(c) the Commissioner is removed from office in accordance with sub-paragraph (2).
+
+(2) The Commissioner may be removed from office by His Majesty if—
+
+(a) either of the conditions in sub-paragraph (3) is met, and
+
+(b) the number of members voting in favour of the resolution referred to in the condition in question is at least two thirds of the total number of seats for members of the Scottish Parliament.
+
+(3) The conditions are—
+
+(a) that—
+
+(i) the Parliamentary corporation is satisfied that the Commissioner has breached the Commissioner’s terms and conditions of appointment, and
+
+(ii) the Parliament resolves that the Commissioner should be removed from office for that breach,
+
+(b) the Parliament resolves that it has lost confidence in the Commissioner’s willingness, suitability or ability to perform the Commissioner’s functions.
+
+#### Validity of things done
+
+**7** The validity of anything done by the Commissioner is not affected by—
+
+(a) a defect in the nomination of the Commissioner,
+
+(b) the disqualification of an individual as the Commissioner after appointment.
+
+#### Remuneration and pensions, etc.
+
+**8** (1) The Parliamentary corporation may pay the Commissioner such remuneration and allowances (including expenses) as the Parliamentary corporation determines.
+
+(2) The Parliamentary corporation must indemnify the Commissioner in respect of any liabilities incurred by the Commissioner in the exercise of the Commissioner's functions.
+
+(3) The Parliamentary corporation may pay, or make arrangements for the payment of, such pensions, allowances and gratuities to, or in respect of, any individual who holds or has held the office of Commissioner as the Parliamentary corporation determines.
+
+(4) Those arrangements may include—
+
+(a) making payments towards the provision of those pensions, allowances and gratuities,
+
+(b) providing and maintaining schemes for the payment of those pensions, allowances and gratuities.
+
+(5) The reference in sub-paragraph (3) to pensions, allowances and gratuities includes pensions, allowances and gratuities by way of compensation for loss of office.
+
+#### Other terms and conditions
+
+**9** (1) The Parliamentary corporation may, subject to any provision made by this Act, determine the terms and conditions on which the Commissioner is appointed.
+
+(2) Those terms and conditions may—
+
+(a) prohibit the Commissioner from holding any other specified office, employment or appointment or engaging in any other specified occupation,
+
+(b) provide that the Commissioner's holding of any such office, employment or appointment or engagement in any such occupation is subject to the approval of the Parliamentary corporation.
+
+(3) In sub-paragraph (2)(a), “specified” means specified (by name or description) in the Commissioner's terms and conditions.
+
+#### Temporary appointments
+
+**10** (1) This paragraph applies during any period when—
+
+(a) the office of Commissioner is vacant, or
+
+(b) the individual holding the office is for any reason unable to perform the Commissioner's functions.
+
+(2) The Parliamentary corporation may appoint an individual to act as the Commissioner during that period.
+
+(3) An individual is eligible for appointment under sub-paragraph (2) only if the individual is not—
+
+(a) prevented from being reappointed to the office of Commissioner by virtue of paragraph 3(3),
+
+(b) disqualified from holding the office of Commissioner under paragraph 4.
+
+(4) An individual appointed under sub-paragraph (2)—
+
+(a) is appointed on such terms and conditions, and for such period, as the Parliamentary corporation determines,
+
+(b) while acting as Commissioner is to be treated as the Commissioner for all purposes except those of paragraphs 5, 6, and 8(3).
+
+(5) An appointment under sub-paragraph (2) ends if—
+
+(a) the individual is relieved of office by the Parliamentary corporation at the individual's request, or
+
+(b) the individual is removed from office by the Parliamentary corporation by notice in writing.
+
+### Part 3 — Staff and offices
+
+#### Appointment of staff
+
+**11** The Commissioner may, with the consent of the Parliamentary corporation as to numbers, appoint staff.
+
+#### Staff terms and conditions
+
+**12** Staff appointed by the Commissioner are appointed on such terms and conditions as the Commissioner, with the approval of the Parliamentary corporation, determines.
+
+#### Staff pensions
+
+**13** (1) The Commissioner may, with the approval of the Parliamentary corporation, pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any individual who is or has been a member of staff of the Commissioner.
+
+(2) Those arrangements may include—
+
+(a) making payments towards the provision of those pensions, allowances and gratuities,
+
+(b) providing and maintaining schemes for the payment of those pensions, allowances and gratuities.
+
+(3) The reference in sub-paragraph (1) to pensions, allowances and gratuities includes pensions, allowances and gratuities by way of compensation for loss of office.
+
+#### Authority to perform functions
+
+**14** (1) The Commissioner may authorise any person to perform such of the Commissioner's functions (and to such extent) as the Commissioner determines.
+
+(2) The giving of authority under sub-paragraph (1) does not—
+
+(a) affect the Commissioner's responsibility for the performance of the functions,
+
+(b) prevent the Commissioner from performing the functions.
+
+#### Duty to comply with directions
+
+**15** (1) The Commissioner must comply with any direction given to the Commissioner by the Parliamentary corporation in relation to—
+
+(a) the location of the Commissioner’s office,
+
+(b) the sharing of premises, staff, services or other resources with any other officeholder or any public body.
+
+(2) A direction under this section may vary or revoke a previous direction.
+
+(3) The Parliamentary corporation is to make any direction under this section publicly available.
+
+### Part 4 — Accounts and accountability
+
+#### Budget
+
+**16** (1) The Commissioner must, before the start of each financial year—
+
+(a) prepare proposals for the Commissioner’s use of resources and expenditure during the year (a “budget”), and
+
+(b) by such date as the Parliamentary corporation determines, send the budget to it for approval.
+
+(2) The Commissioner may, in the course of a financial year, prepare a revised budget for the remainder of the year and send it to the Parliamentary corporation for approval.
+
+(3) In preparing a budget or revised budget, the Commissioner must ensure that the Commissioner’s resources will be used economically, efficiently and effectively.
+
+(4) A budget or revised budget must contain a statement confirming that the Commissioner has complied with the duty under sub-paragraph (3).
+
+#### Accountable officer
+
+**17** (1) The Parliamentary corporation must designate the Commissioner or a member of the Commissioner’s staff as the accountable officer.
+
+(2) The functions of the accountable officer are—
+
+(a) signing the accounts of the expenditure and receipts of the Commissioner,
+
+(b) ensuring the propriety and regularity of the finances of the Commissioner,
+
+(c) ensuring that the resources of the Commissioner are used economically, efficiently and effectively, and
+
+(d) where the accountable officer is not the Commissioner, the duty set out in sub-paragraph (3).
+
+(3) The duty referred to in sub-paragraph (2)(d) is a duty, where the accountable officer is required to act in a way that the accountable officer considers would be inconsistent with the proper performance of the functions specified in sub-paragraph (2)(a) to (c), to—
+
+(a) obtain written authority from the Commissioner before taking the action, and
+
+(b) send a copy of that authority as soon as possible to the Auditor General for Scotland.
+
+(4) The accountable officer is answerable to the Scottish Parliament for the performance of the functions specified in sub-paragraph (2).
+
+#### Accounts and audit
+
+**18** (1) The Commissioner must—
+
+(a) keep proper accounts and accounting records,
+
+(b) prepare in respect of each financial year a statement of accounts, and
+
+(c) send a copy of the statement to the Auditor General for Scotland for auditing.
+
+(2) The Commissioner must comply with any directions from the Scottish Ministers in relation to the matters mentioned in sub-paragraph (1)(a) and (b).
+
+(3) The Commissioner must make the audited statement of accounts available, without charge, for inspection by any person upon request.
+
+## Schedule 2 — Application of public authorities legislation to the office of Victims and Witnesses Commissioner for Scotland (prospective)
+
+*(introduced by section 24)*
+
+### Scottish Public Services Ombudsman Act 2002 (prospective)
+
+**1** In Part 2 of schedule 2 of the Scottish Public Services Ombudsman Act 2002 (other Scottish public authorities liable to investigation), after paragraph 54 insert—
+
+> **54ZA** The Victims and Witnesses Commissioner for Scotland.
+
+.
+
+### Freedom of Information (Scotland) Act 2002 (prospective)
+
+**2** In Part 7 of schedule 1 of the Freedom of Information (Scotland) Act 2002 (Scottish public authorities to which the Act applies), after paragraph 105, insert—
+
+> **105ZA** The Victims and Witnesses Commissioner for Scotland.
+
+.
+
+### Public Services Reform (Scotland) Act 2010 (prospective)
+
+**3** In schedule 5 of the Public Services Reform (Scotland) Act 2010 (Scottish public authorities with mixed or no reserved functions to which Part 2 order-making powers apply), after the entry relating to the Standards Commission for Scotland, insert— “Victims and Witnesses Commissioner for Scotland”.
+
+### Public Records (Scotland) Act 2011 (prospective)
+
+**4** In the schedule of the Public Records (Scotland) Act 2011 (other authorities to which Part 1 applies), before the entry relating to VisitScotland, insert—
+
+> - Victims and Witnesses Commissioner for Scotland
+
+.
+
+### Procurement Reform (Scotland) Act 2014 (prospective)
+
+**5** In Part 3 of the schedule of the Procurement Reform (Scotland) Act 2014 (other contracting authorities to which the Act applies), after paragraph 67 insert—
+
+> **67A** Victims and Witnesses Commissioner for Scotland
+
+.
+
+## Schedule 3 — Victim Notification Scheme (prospective)
+
+*(introduced by sections 36 and 39)*
+
+### Part 1 — Right of eligible persons to receive information in event of death or incapacity of victim (prospective)
+
+**1** (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16 (victim’s right to receive information concerning release etc. of offender)—
+
+(a) in subsection (1), after “perpetrated” insert “(the “victim”)”,
+
+(b) for subsection (5), substitute—
+
+> (5) Where information would fall to be given under subsection (1), but the victim has died or is incapable, that subsection applies as if references in it to the victim were references to the designated person or designated persons.
+
+,
+
+(c) after subsection (5) insert—
+
+> (5A) For the purposes of subsection (5), a designated person means a person designated by the Scottish Ministers to be given the information in place of the victim in accordance with subsections (5B) to (5E).
+>
+> (5B) The Scottish Ministers—
+>
+> (a) may designate, as they consider appropriate—
+>
+> (i) where the victim has died, at least one person and not more than 4 persons as designated persons,
+>
+> (ii) where the victim is incapable, one person as designated person,
+>
+> (b) must, where a person intimates that they wish to be a designated person (and the maximum number of persons who may be designated in accordance with paragraph (a) has not been reached), consider whether to designate that person.
+>
+> (5C) Where the victim has died, the Scottish Ministers may—
+>
+> (a) if they consider it appropriate to do so—
+>
+> (i) remove a person as a designated person,
+>
+> (ii) add a person as a designated person (provided such addition does not result in there being more than 4 designated persons, subject to paragraph (b)),
+>
+> (b) on cause shown, add a person as a designated person where that addition results in there being 5 designated persons.
+>
+> (5D) Where the victim is incapable, the Scottish Ministers may, if they consider it appropriate to do so, remove or replace a person as designated person.
+>
+> (5E) The Scottish Ministers must have regard to the code of practice issued under section 18ZA in designating, adding, removing or replacing persons as designated persons.
+>
+> (5F) If a designated person is a child, the Scottish Ministers must determine whether the information should be provided to—
+>
+> (a) the designated person,
+>
+> (b) the designated person and the person who cares for the designated person,
+>
+> (c) the person who cares for the designated person, or
+>
+> (d) another person over the age of 18 years with a relationship to the designated person,
+>
+> but only if the Scottish Ministers are satisfied that the person consents to being given the information.
+>
+> (5G) When making a determination under subsection (5F), the Scottish Ministers must have regard to—
+>
+> (a) the designated person’s age and maturity,
+>
+> (b) any views expressed by the designated person, and
+>
+> (c) the best interests of the designated person.
+>
+> (5H) When making a determination under subsection (5F), the Scottish Ministers must also have regard to the code of practice issued under section 18ZA.
+>
+> (5I) The Scottish Ministers may—
+>
+> (a) review a determination made under subsection (5F)—
+>
+> (i) of their own accord, or
+>
+> (ii) at the request of the designated person or the other person (if any) to whom the determination relates,
+>
+> (b) following a review, make a new determination under subsection (5F).
+>
+> (5J) Where a determination has been made under subsection (5F)—
+>
+> (a) before the designated person attains the age of 18 years, the Scottish Ministers must contact the designated person to establish how the designated person wishes to receive information under this section after they attain the age of 18 years,
+>
+> (b) after the designated person attains the age of 18 years, the most recent determination made under subsection (5F) in relation to the designated continues to have effect until a new intimation under subsection (1) is made.
+>
+> (5K) In this section, “incapable” means incapable of understanding or retaining the memory of information which falls to be given under subsection (1) by reason of any mental disorder or inability to communicate where that inability to communicate cannot be made good by human or mechanical aid (whether of an interpretive nature or otherwise).
+
+,
+
+(d) subsection (6) is repealed,
+
+(e) for subsection (9), substitute—
+
+> (9) The Scottish Ministers may, by regulations, modify this section by substituting for—
+>
+> (a) references to a person specified in any part of this section to whom information may be made available, including references to the designated person, references to such other person as they consider appropriate,
+>
+> (b) the age specified in any part of this section such other age as they consider appropriate,
+>
+> (c) the number of persons who may be designated as designated persons where the victim has died, such other number as they consider appropriate.
+
+.
+
+(3) In section 16B (person entitled to ask to be given information under section 16A)—
+
+(a) in subsection (1)—
+
+(i) for paragraph (b), substitute—
+
+> (b) if V has died or is incapable, the designated person or designated persons.
+
+,
+
+(ii) paragraph (c) is repealed,
+
+(b) for subsection (3), substitute—
+
+> (3) For the purposes of this section, a designated person means a person designated by the Scottish Ministers to be given the information in place of V in accordance with subsections (4) to (8).
+
+,
+
+(c) after subsection (3), insert—
+
+> (4) The Scottish Ministers—
+>
+> (a) may designate, as they consider appropriate—
+>
+> (i) where V has died, at least one person and not more than 4 persons as designated persons,
+>
+> (ii) where V is incapable, one person as designated person,
+>
+> (b) must, where a person intimates that they wish to be a designated person (and the maximum number of persons who may be designated in accordance with paragraph (a) has not been reached), consider whether to designate that person.
+>
+> (5) Where V has died, the Scottish Ministers may—
+>
+> (a) if they consider it appropriate to do so—
+>
+> (i) remove a person as a designated person,
+>
+> (ii) add a person as a designated person (provided such addition does not result in there being more than 4 designated persons, subject to paragraph (b)),
+>
+> (b) on cause shown, add a person as a designated person where that addition results in there being 5 designated persons.
+>
+> (6) Where V is incapable, the Scottish Ministers may, if they consider it appropriate to do so, remove or replace a person as designated person.
+>
+> (7) The Scottish Ministers may, by regulations, amend this section by substituting—
+>
+> (a) for the number of persons who may be designated as designated persons where V has died, such other number as they consider appropriate,
+>
+> (b) references to a person specified in any part of this section to whom information may be made available, including references to the designated person, reference to such other person as they consider appropriate.
+>
+> (8) The Scottish Ministers must have regard to the code of practice issued under section 18ZA in designating, adding, removing or replacing persons as designated persons.
+>
+> (9) If a designated person is a child, the Scottish Ministers must determine whether the information should be provided to—
+>
+> (a) the designated person,
+>
+> (b) the designated person and the person who cares for the designated person,
+>
+> (c) the person who cares for the designated person, or
+>
+> (d) another person over the age of 18 years with a relationship to the designated person,
+>
+> but only if the Scottish Ministers are satisfied that the person consents to being given the information.
+>
+> (10) When making a determination under subsection (9), the Scottish Ministers must have regard to—
+>
+> (a) the designated person’s age and maturity,
+>
+> (b) any views expressed by the designated person, and
+>
+> (c) the best interests of the designated person.
+>
+> (11) When making a determination under subsection (9), the Scottish Ministers must also have regard to the code of practice issued under section 18ZA.
+>
+> (12) The Scottish Ministers may—
+>
+> (a) review a determination made under subsection (9)—
+>
+> (i) of their own accord, or
+>
+> (ii) at the request of the designated person or the other person (if any) to whom the determination relates,
+>
+> (b) following a review, make a new determination under subsection (9).
+>
+> (13) Where a determination has been made under subsection (9)—
+>
+> (a) before the designated person attains the age of 18 years, the Scottish Ministers must contact the designated person to establish how the designated person wishes to receive information under this section after they attain the age of 18 years,
+>
+> (b) after the designated person attains the age of 18 years, the most recent determination made under subsection (9) in relation to the designated continues to have effect until a new intimation under subsection (1) is made.
+>
+> (14) In this section, “incapable” means incapable of understanding or retaining the memory of information which falls to be given under subsection (1) by reason of any mental disorder or inability to communicate where that inability to communicate cannot be made good by human or mechanical aid (whether of an interpretive nature or otherwise).
+>
+> (15) In this section, the expression “cares for” is to be construed in accordance with the definition of “someone who cares for” in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010.
+
+.
+
+(4) After section 18, insert—
+
+> **Code of practice in relation to designated persons and determinations made under sections 16 and 16B**
+>
+> **18ZA** (1) The Scottish Ministers must prepare a code of practice in relation to—
+>
+> (a) designated persons,
+>
+> (b) determinations made under sections 16(4B) and (5F) and 16B(2A) and (9).
+>
+> (2) In preparing the code of practice, the Scottish Ministers must—
+>
+> (a) publish a draft of the code, and
+>
+> (b) consult such persons as they consider appropriate.
+>
+> (3) The Scottish Ministers—
+>
+> (a) must—
+>
+> (i) publish the code of practice in such manner as they consider appropriate,
+>
+> (ii) lay a copy of the code before the Scottish Parliament,
+>
+> (b) may revise the code of practice and publish an updated code as they consider appropriate, and subsection (2) and paragraph (a) of this subsection apply to a revised code as they apply to the original code.
+>
+> (4) The code of practice may, in particular—
+>
+> (a) set out a list of persons who may be designated as designated persons by reference to their relationship to the person to whom information would otherwise fall to be given under section 16(1), or who would otherwise be entitled to ask to be given information under section 16A, subject to other factors and circumstances to be taken into consideration,
+>
+> (b) provide guidance about—
+>
+> (i) the ways in which the Scottish Ministers may exercise their discretion in relation to the designation of persons under section 16 or 16B,
+>
+> (ii) factors to be taken into consideration in designating persons,
+>
+> (iii) evidence which may be required in order to establish the relationship between the person to whom information would otherwise fall to be given under section 16(1), or who would otherwise be entitled to ask to be given information under section 16A, and a person being considered for designation,
+>
+> (iv) circumstances in which it may be appropriate to add, remove or replace a person as a designated person,
+>
+> (c) set out—
+>
+> (i) a complaints process in relation to the designation of persons,
+>
+> (ii) a process by which a person can seek reconsideration of a decision not to designate that person,
+>
+> (d) provide guidance about the making of determinations under sections 16(4B) and (5F) and 16B(2A) and (9), in particular about—
+>
+> (i) the assessment of the factors mentioned in sections 16(4C) and (5G) and 16B(2B) and (10),
+>
+> (ii) the carrying out of a review under sections 16(4E) and (5I) and 16B(2D) and (12),
+>
+> (e) provide guidance in relation to contacting a victim under sections 16(4F) and (5J) and 16B(2E) and (13).
+>
+> (5) A code of practice made under this section comes into force on such day as the Scottish Ministers may, by regulations, appoint.
+
+.
+
+(5) In section 88(2)(a)—
+
+(a) after “16(4)” insert “, 16(9), 16B(7)”,
+
+(b) after “17DB(1A)” (as inserted by section 29B(3)(b)) insert “, 18ZA(5)”.
+
+### Part 2 — Notification of individual other than supporter to receive information (prospective)
+
+**2** (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+(2) In section 16ZA (provision of information to person supporting victim)—
+
+(a) in subsection (1)(a)—
+
+(i) for “(the “victim”)” substitute “(“P”)”,
+
+(ii) after “that” insert “either (but not both)”,
+
+(iii) the words from “a person” where it second occurs to the end become sub-paragraph (i),
+
+(iv) in that sub-paragraph—
+
+(A) for “the victim” where it first occurs substitute “P”,
+
+(B) for “perpetrated against the victim” substitute “in relation to which P is entitled to receive information”,
+
+(v) after sub-paragraph (i) insert—
+
+> (ii) an individual who is not a supporter (the “nominee”) is to be given, as well as or instead of P, that information and Ministers are satisfied that the nominee consents to being given the information, or
+
+,
+
+(b) in subsection (1)(b), for “the victim” substitute “P”,
+
+(c) after subsection (1) insert—
+
+> (1A) An individual may be a nominee under subsection (1)(a)(ii) only if the individual—
+>
+> (a) has attained 18 years of age, and
+>
+> (b) is not the person convicted of the offence against the victim.
+
+,
+
+(d) in subsection (2)(b)—
+
+(i) for “the victim” where it first occurs substitute “P”,
+
+(ii) for “perpetrated against the victim” substitute “in relation to which P is entitled to receive information”,
+
+(e) in subsection (3), after “supporter” insert “or, as the case may be, the nominee”,
+
+(f) after subsection (3) insert—
+
+> (3A) An individual ceases to be a nominee if—
+>
+> (a) the individual withdraws consent to receiving information under subsection (3), or
+>
+> (b) the Scottish Ministers are made aware that the individual has—
+>
+> (i) died, or
+>
+> (ii) become incapable, by reason of mental disorder or inability to communicate, of understanding the information.
+>
+> (3B) A supporter may withdraw an intimation under subsection (1)(b).
+>
+> (3C) P may—
+>
+> (a) withdraw—
+>
+> (i) an intimation under subsection (1)(a),
+>
+> (ii) consent to a supporter being given information following an intimation under subsection (1)(b),
+>
+> (b) make a fresh intimation under subsection (1)(a),
+>
+> (c) grant consent to a fresh intimation under subsection (1)(b).
+>
+> (3D) Where P makes a fresh intimation under subsection (1)(a), or grants consent to a fresh intimation under subsection (1)(b), any previous intimation or granting of consent by P under that subsection ceases to have effect, whether or not such intimation or consent has been withdrawn.
+>
+> (3E) The Scottish Ministers must—
+>
+> (a) where a nominee withdraws consent under subsection (3A)(a), or a supporter withdraws consent under subsection (3B), give notice in writing to—
+>
+> (i) P that the consent has been withdrawn,
+>
+> (ii) the nominee or the supporter, as the case may be, that they will not be given information under subsection (3),
+>
+> (b) where, under subsection (3C), P withdraws an intimation or consent, makes a fresh intimation, or grants consent to a fresh intimation, give notice in writing to any person who will no longer be given information under subsection (3) of that fact.
+>
+> (3F) Where P is a child—
+>
+> (a) before P attains the age of 18 years, the Scottish Ministers must contact P to establish how P (after P attains the age of 18 years) wishes to receive the information described in section 16(3),
+>
+> (b) after P attains the age of 18 years, the most recent intimation under subsection (1)(a) or granting of consent under subsection (1)(b) in relation to P continues to have effect until—
+>
+> (i) a supporter withdraws consent under subsection (3B), or
+>
+> (ii) P takes any action mentioned in subsection (3C).
+
+,
+
+(g) for subsection (5), substitute—
+
+> (5) In this section—
+>
+> - “support services”—
+>
+>   - means any type of service or treatment which is intended to benefit the physical or mental health or wellbeing of P, and
+>   
+>   - includes—
+>   
+>     - providing P with information (including information provided under subsection (3)),
+>     - assisting P with safety planning,
+>     - assisting P with the making of representations under this Part,
+>
+> - “victim” means the person against whom the offence in relation to which P is entitled to receive information was perpetrated.
+
+.
+
+(3) The title of section 16ZA becomes “**Provision of information to person other than victim**”.
+
+(4) In section 16D (provision of information concerning offender subject to compulsion order to person supporting victim)—
+
+(a) in subsection (1)(a)—
+
+(i) for “(the “victim”)”, substitute “(“P”)”,
+
+(ii) after “that” insert “either (but not both)”,
+
+(iii) the words from “a person” where it second occurs to the end become sub-paragraph (i),
+
+(iv) in that sub-paragraph, for “the victim” substitute “P”,
+
+(v) after sub-paragraph (i) insert—
+
+> (ii) an individual who is not a supporter (the “nominee”) is to be given, as well as or instead of P, that information and Ministers are satisfied that the nominee consents to being given the information, or
+
+,
+
+(b) in subsection (1)(b), for “the victim” substitute “P”,
+
+(c) after subsection (1) insert—
+
+> (1A) An individual may be a nominee under subsection (1)(a)(ii) only if the individual—
+>
+> (a) has attained 18 years of age, and
+>
+> (b) is not the person convicted of the offence in relation to which P is entitled to receive information.
+
+,
+
+(d) in subsection (2)(b), for “the victim” substitute “P”,
+
+(e) in subsection (3), after “supporter” insert “or, as the case may be, the nominee”,
+
+(f) in subsection (4), in both paragraph (a) and (b), after “supporter” insert “or nominee”,
+
+(g) in subsection (6)—
+
+(i) for “the victim”, substitute “P”,
+
+(ii) after “supporter” insert “or nominee”,
+
+(h) after subsection (6) insert—
+
+> (6A) An individual ceases to be a nominee if—
+>
+> (a) the individual withdraws consent to receiving information under subsection (3),
+>
+> (b) the Scottish Ministers are made aware that the individual has—
+>
+> (i) died, or
+>
+> (ii) become incapable, by reason of mental disorder or inability to communicate, of understanding the information.
+>
+> (6B) A supporter may withdraw an intimation under subsection (1)(b).
+>
+> (6C) P may—
+>
+> (a) withdraw—
+>
+> (i) an intimation under subsection (1)(a),
+>
+> (ii) consent to a supporter being given information following an intimation under subsection (1)(b),
+>
+> (b) make a fresh intimation under subsection (1)(a),
+>
+> (c) grant consent to a fresh intimation under subsection (1)(b).
+>
+> (6D) Where P makes a fresh intimation under subsection (1)(a), or grants consent to a fresh intimation under subsection (1)(b), any previous intimation or granting of consent by P under that subsection ceases to have effect, whether or not such intimation or consent has been withdrawn.
+>
+> (6E) The Scottish Ministers must—
+>
+> (a) where a nominee withdraws consent under subsection (6A)(a), or a supporter withdraws consent under subsection (6B), give notice in writing to—
+>
+> (i) P that the consent has been withdrawn,
+>
+> (ii) the nominee or the supporter, as the case may be, that they will not be given information under subsection (3),
+>
+> (b) where, under subsection (6C), P withdraws an intimation or consent, makes a fresh intimation, or grants consent to a fresh intimation, give notice in writing to any person who will no longer be given information under subsection (3) of that fact.
+>
+> (6F) Where P is a child—
+>
+> (a) before P attains the age of 18 years, the Scottish Ministers must contact P to establish how P (after P attains the age of 18 years) wishes to receive information described in section 16C,
+>
+> (b) after P attains the age of 18 years, the most recent intimation under subsection (1)(a) or granting of consent under subsection (1)(b) in relation to P continues to have effect until—
+>
+> (i) a supporter withdraws consent under subsection (6B), or
+>
+> (ii) P takes any action mentioned in subsection (6C).
+
+.
+
+(5) In subsection (7), for “has the same meaning” substitute “and “victim” have the same meanings”.
+
+(6) The title of section 16D becomes “**Provision of information concerning offender subject to compulsion order to person other than victim**”.
+
+(7) In section 17ZA (release on licence: provision of information to person supporting victim)—
+
+(a) in subsection (1)(a)—
+
+(i) for “(the “victim”)” substitute “(“P”)”,
+
+(ii) for the words from “a person” where it second occurs to the end, substitute
+
+> either (but not both)—
+>
+> (i) a person to whom section 16ZA(2) applies (a “supporter”), or
+>
+> (ii) an individual who is or may be a nominee under section 16ZA (a “nominee”),
+>
+> to be informed, as well as or instead of P, before any decision is taken to release the convicted person, or
+
+,
+
+(b) in subsection (1)(b)—
+
+(i) for “the supporter” where it first occurs substitute “a supporter who is entitled to receive information under section 16ZA”,
+
+(ii) for “the victim” substitute “P”,
+
+(c) after subsection (1) insert—
+
+> (1A) But this section applies only if—
+>
+> (a) in the case of an intimation under subsection (1)(a)(i)—
+>
+> (i) the supporter is entitled to receive information under section 16ZA, or
+>
+> (ii) an individual is so entitled by virtue of section 16ZA(1)(a)(ii),
+>
+> (b) in the case of an intimation under subsection (1)(a)(ii)—
+>
+> (i) either the nominee or a supporter is entitled to receive information under section 16ZA, and
+>
+> (ii) the Scottish Ministers are satisfied that the nominee consents to be informed as mentioned in that subsection.
+
+,
+
+(d) in subsection (2)—
+
+(i) for “the victim” substitute “P”,
+
+(ii) after “supporter” insert “or, as the case may be, nominee”,
+
+(e) in subsection (3)—
+
+(i) after “supporter” insert “or nominee”,
+
+(ii) for “the victim” substitute “P”,
+
+(f) after subsection (3) insert—
+
+> (3A) An individual ceases to be a nominee if—
+>
+> (a) where the individual is also a nominee under section 16ZA, the individual ceases to be a nominee under that section,
+>
+> (b) the individual withdraws consent to being informed as mentioned in subsection (1)(a)(ii),
+>
+> (c) the Scottish Ministers are made aware that the individual has—
+>
+> (i) died, or
+>
+> (ii) become incapable, by reason of mental disorder or inability to communicate, of understanding the information.
+>
+> (3B) A supporter may withdraw an intimation under subsection (1)(b).
+>
+> (3C) P may—
+>
+> (a) withdraw—
+>
+> (i) an intimation under subsection (1)(a),
+>
+> (ii) consent to an intimation under subsection (1)(b),
+>
+> (b) make a fresh intimation under subsection (1)(a),
+>
+> (c) grant consent to a fresh intimation under subsection (1)(b).
+>
+> (3D) Where P makes a fresh intimation under subsection (1)(a), or grants consent to a fresh intimation under subsection (1)(b), any previous intimation or granting of consent by P under that subsection ceases to have effect, whether or not the previous intimation or consent has been withdrawn.
+>
+> (3E) The Scottish Ministers must—
+>
+> (a) where a nominee withdraws consent under subsection (3A)(b), or a supporter withdraws consent under subsection (3B), give notice in writing to—
+>
+> (i) P that the consent has been withdrawn,
+>
+> (ii) the nominee or the supporter, as the case may be, that they will not be informed as mentioned in subsection (1)(a)(ii),
+>
+> (b) where, under subsection (3C), P withdraws an intimation or consent, or makes a fresh intimation, or grants consent to a fresh intimation, give notice in writing to any person who will no longer be given information under subsection (3) of that fact.
+>
+> (3F) Where P is a child—
+>
+> (a) before P attains the age of 18 years, the Scottish Ministers must contact P to establish who P (after P attains the age of 18 years) wishes to be informed before any decision is taken to release the convicted person,
+>
+> (b) after P attains the age of 18 years, the most recent intimation under subsection (1)(a) or granting of consent under subsection (1)(b) in relation to P continues to have effect until—
+>
+> (i) a supporter withdraws consent under subsection (3B), or
+>
+> (ii) P takes any action mentioned in subsection (3C).
+
+.
+
+(8) The title of section 17ZA becomes “**Release on licence: provision of information to person other than victim**”.
+
+(9) In section 17A (temporary release: victim’s right to make representations about conditions)—
+
+(a) in subsection (1)(a) for “(the “victim”)” substitute “(“P”)”,
+
+(b) in subsection (1)(b), after ““supporter”” insert “or the “nominee””,
+
+(c) in subsections (2), (3), and (4) for “the victim” in each place where it occurs substitute “P”,
+
+(d) in subsection (4)(b), for “the supporter” substitute “any supporter or nominee to be given notice and information under section 17ZA(2) and (3)”.
+
+(10) In section 17B (mentally-disordered offender: victim's right to make representations), after subsection (5), insert—
+
+> (5A) The Scottish Ministers must fix a time within which representations under subsection (1) require to be made to them if they are to be considered by them, and they must notify V accordingly.
+
+.
+
+(11) After section 17B, insert—
+
+> **Right to make representations in respect of mentally-disordered offender: provision of information to person other than victim**
+>
+> **17BA** (1) This section applies where—
+>
+> (a) a person entitled to be afforded an opportunity to make representations under section 17B (“P”) intimates that they wish either (but not both)—
+>
+> (i) a person to whom section 17DA(2) applies (a “supporter”), or
+>
+> (ii) an individual who is or may be a nominee under section 17DA (a “nominee”),
+>
+> to be informed as well as or instead of P before any decision described in section 17B(1)(a) or (b) is taken, or
+>
+> (b) a supporter who is entitled to receive information under section 17DA intimates that they wish to be so informed and the Scottish Ministers are satisfied that P consents to the supporter being so informed.
+>
+> (2) But this section applies only if—
+>
+> (a) in the case of an intimation under subsection (1)(a)(i)—
+>
+> (i) the supporter is entitled to receive information under section 17DA, or
+>
+> (ii) an individual is so entitled by virtue of section 17DA(1)(a)(ii),
+>
+> (b) in the case of an intimation under subsection (1)(a)(ii)—
+>
+> (i) either the nominee or a supporter is entitled to receive information under section 17DA, and
+>
+> (ii) the Scottish Ministers are satisfied that the nominee consents to be informed as mentioned in that subsection.
+>
+> (3) The Scottish Ministers must, whether or not P has intimated the wish to be afforded the opportunity to make representations under section 17B(1), give the supporter or, as the case may be, nominee, notice as mentioned in section 17B(5A).
+>
+> (4) The Scottish Ministers need not give notice under subsection (3) where subsection 17B(6) applies.
+>
+> (5) An individual ceases to be a nominee if—
+>
+> (a) where the individual is also a nominee under section 17DA, the individual ceases to be a nominee under that section,
+>
+> (b) the individual withdraws consent to being informed as mentioned in subsection (1)(a),
+>
+> (c) the Scottish Ministers are made aware that the individual has—
+>
+> (i) died, or
+>
+> (ii) become incapable, by reason of mental disorder or inability to communicate, of understanding the information.
+>
+> (6) A supporter may withdraw an intimation under subsection (1)(b).
+>
+> (7) P may—
+>
+> (a) withdraw—
+>
+> (i) an intimation under subsection (1)(a),
+>
+> (ii) consent to an intimation under subsection (1)(b),
+>
+> (b) make a fresh intimation under subsection (1)(a),
+>
+> (c) grant consent to a fresh intimation under subsection (1)(b).
+>
+> (8) Where P makes a fresh intimation under subsection (1)(a), or grants consent to a fresh intimation under subsection (1)(b), any previous intimation or granting of consent by P under that subsection ceases to have effect, whether or not the previous intimation or consent has been withdrawn.
+>
+> (9) The Scottish Ministers must—
+>
+> (a) where a nominee withdraws consent under subsection (5)(b), or a supporter withdraws consent under subsection (6), give notice in writing to—
+>
+> (i) P that the consent has been withdrawn,
+>
+> (ii) the nominee or the supporter, as the case may be, that they will not be informed as mentioned in subsection (1)(a) or, as the case may be, (b),
+>
+> (b) where, under subsection (7), P withdraws an intimation or consent, makes a fresh intimation or grants consent to a fresh intimation, give notice in writing to any person who will no longer be given notice under subsection (3) of that fact.
+>
+> (10) Where P is a child—
+>
+> (a) before P attains the age of 18 years, the Scottish Ministers must contact P to establish who P (after P attains the age of 18 years) wishes to be informed before any decision described in section 17B(1)(a) or (b) is taken,
+>
+> (b) after P attains the age of 18 years, the most recent intimation under subsection (1)(a) or granting of consent under subsection (1)(b) continues to have effect until—
+>
+> (i) a supporter withdraws consent under subsection (6), or
+>
+> (ii) P takes any action mentioned in subsection (7).
+
+.
+
+(12) In section 17DA (section 17B decision: provision of information to person supporting victim)—
+
+(a) in subsection (1)(a)—
+
+(i) for “(the “victim”)” substitute “(“P”)”,
+
+(ii) after “that” insert “either (but not both)”,
+
+(iii) the words from “a person” where it second occurs to the end become sub-paragraph (i),
+
+(iv) in that sub-paragraph, for “the victim” substitute “P”,
+
+(v) after sub-paragraph (i) insert—
+
+> (ii) an individual who is not a supporter (the “nominee”) is to be given, as well as or instead of P, that information and the Scottish Ministers are satisfied that the nominee consents to being given the information, or
+
+,
+
+(b) in subsection (1)(b), for “the victim” substitute “P”,
+
+(c) after subsection (1) insert—
+
+> (1A) An individual may be a nominee under subsection (1)(a)(ii) only if the individual—
+>
+> (a) has attained 18 years of age, and
+>
+> (b) is not the person convicted of the offence in relation to which P is entitled to receive information.
+
+,
+
+(d) in subsection (2)(b), for “the victim” substitute “P”,
+
+(e) in subsection (3), after “supporter” insert “or, as the case may be, the nominee”,
+
+(f) in subsection (4)(a), after “supporter” insert “or nominee”,
+
+(g) in subsection (5)—
+
+(i) in paragraph (a), after “supporter” insert “or nominee”,
+
+(ii) in paragraph (b), after “supporter” in both places where it occurs insert “or nominee”,
+
+(h) after subsection (5) insert—
+
+> (5A) An individual ceases to be a nominee if—
+>
+> (a) the individual withdraws consent to receiving information under subsection (3) or (5),
+>
+> (b) the Scottish Ministers are made aware that the individual has—
+>
+> (i) died, or
+>
+> (ii) become incapable, by reason of mental disorder or inability to communicate, of receiving the information.
+>
+> (5B) A supporter may withdraw an intimation under subsection (1)(b).
+>
+> (5C) P may—
+>
+> (a) withdraw—
+>
+> (i) an intimation under subsection (1)(a),
+>
+> (ii) consent to an intimation under subsection (1)(b),
+>
+> (b) make a fresh intimation under subsection (1)(a),
+>
+> (c) grant consent to a fresh intimation under subsection (1)(b).
+>
+> (5D) Where P makes a fresh intimation under subsection (1)(a), or grants consent to a fresh intimation under subsection (1)(b), any previous intimation or granting of consent by P under that subsection ceases to have effect, whether or not the previous intimation or consent has been withdrawn.
+>
+> (5E) The Scottish Ministers must—
+>
+> (a) where a nominee withdraws consent under subsection (5A)(a), or a supporter withdraws consent under subsection (5B), give notice in writing to—
+>
+> (i) P that the consent has been withdrawn,
+>
+> (ii) the nominee or supporter, as the case may be, that they will not be given information under subsection (3) or (5),
+>
+> (b) where, under subsection (5C), P withdraws an intimation or consent, makes a fresh intimation, or grants consent to a fresh intimation, give notice in writing to any person who will no longer be given information under subsection (3) or (5) of that fact.
+>
+> (5F) Where P is a child—
+>
+> (a) before P attains the age of 18 years, the Scottish Ministers must contact P to establish how P (after P attains the age of 18 years) wishes to be informed that a decision under section 17B has been taken,
+>
+> (b) after P attains the age of 18 years, the most recent intimation under subsection (1)(a) or granting of consent under subsection (1)(b) in relation to P continues to have effect until—
+>
+> (i) a supporter withdraws consent under subsection (5B), or
+>
+> (ii) P takes any action mentioned in subsection (5C).
+
+.
+
+(13) The title of section 17DA becomes “**Section 17B decision: provision on information to person other than victim**”.
+
+(14) In section 17E (information sharing in respect of mentally-disordered offenders)—
+
+(a) in subsection (1), after “supporter” insert “or, as the case may be, a nominee”,
+
+(b) in subsection (3), after “supporter” insert “or nominee”,
+
+(c) in subsection (6), for “is” substitute “and “nominee” are”.
+
+(15) In section 18A (interpretation of Part)—
+
+(a) in subsection (3), after “supporter” insert “or nominee”,
+
+(b) in subsection (5), for “is” substitute “and “nominee” are”.
+
+## Schedule 4 — Sexual offences (prospective)
+
+*(introduced by section 71)*
+
+### Part 1 — Crimes at common law (prospective)
+
+#### Crimes at common law (prospective)
+
+**1** Rape.
+
+**2** Clandestine injury to woman.
+
+**3** Abduction of woman or girl with intent to rape.
+
+**4** Assault with intent to rape or ravish.
+
+**5** Indecent assault.
+
+**6** Lewd, indecent or libidinous behaviour or practices.
+
+**7** Sodomy, unless every person involved in the offence was 16 or over and was a willing participant.
+
+### Part 2 — Statutory offences (prospective)
+
+#### Offences under the Mental Health (Scotland) Act 1984 (prospective)
+
+**8** An offence under any of the following provisions of the Mental Health (Scotland) Act 1984—
+
+(a) section 106 (protection of mentally handicapped females),
+
+(b) section 107 (protection of patients).
+
+#### Offences under the Criminal Law (Consolidation) (Scotland) Act 1995 (prospective)
+
+**9** An offence under any of the following provisions of the Criminal Law (Consolidation) (Scotland) Act 1995—
+
+(a) section 1 (incest),
+
+(b) section 2 (intercourse with a stepchild),
+
+(c) section 3 (intercourse of person in position of trust with child under 16),
+
+(d) section 5 (intercourse with girl under 16),
+
+(e) section 6 (indecent behaviour towards girl between 12 and 16),
+
+(f) section 8 (abduction of girl under 18 for purposes of unlawful intercourse),
+
+(g) section 10 (person having parental responsibilities causing or encouraging sexual activity in relation to a girl under 16).
+
+#### Offence under the Sexual Offences (Amendment) Act 2000 (prospective)
+
+**10** An offence under section 3 of the Sexual Offences (Amendment) Act 2000 (abuse of position of trust).
+
+#### Offences under the Mental Health (Care and Treatment) (Scotland) Act 2003 (prospective)
+
+**11** An offence under any of the following provisions of the Mental Health (Care and Treatment) (Scotland) Act 2003—
+
+(a) section 311(1) (non-consensual sexual acts),
+
+(b) section 311(3) (persons providing care services: sexual offences).
+
+#### Offence under the Prohibition of Female Genital Mutilation (Scotland) Act 2005 (prospective)
+
+**12** An offence under section 1 of the Prohibition of Female Genital Mutilation (Scotland) Act 2005 (female genital mutilation).
+
+#### Offences under the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (prospective)
+
+**13** An offence under any of the following provisions of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005—
+
+(a) section 1 (meeting a child following certain preliminary contact),
+
+(b) section 9 (paying for sexual services of a child),
+
+(c) section 10 (causing or inciting provision by child of sexual services or child pornography),
+
+(d) section 11 (controlling a child providing sexual services or involved in pornography),
+
+(e) section 12 (arranging or facilitating provision by child of sexual services or child pornography).
+
+#### Offences under the Sexual Offences (Scotland) Act 2009 (prospective)
+
+**14** (1) An offence under any of the following provisions of Part 1 of the Sexual Offences (Scotland) Act 2009 (rape etc.)—
+
+(a) section 1 (rape),
+
+(b) section 2 (sexual assault by penetration),
+
+(c) section 3 (sexual assault),
+
+(d) section 4 (sexual coercion),
+
+(e) section 5 (coercing a person into being present during a sexual activity),
+
+(f) section 6 (coercing a person into looking at a sexual image),
+
+(g) section 7(1) (communicating indecently),
+
+(h) section 7(2) (causing a person to see or hear an indecent communication),
+
+(i) section 8 (sexual exposure),
+
+(j) section 9 (voyeurism),
+
+(k) section 11 (administering a substance for a sexual purpose).
+
+(2) An offence under any of the following provisions of Part 4 of the Sexual Offences (Scotland) Act 2009 (children)—
+
+(a) section 18 (rape of a young child),
+
+(b) section 19 (sexual assault on a young child by penetration),
+
+(c) section 20 (sexual assault on a young child),
+
+(d) section 21 (causing a young child to participate in a sexual activity),
+
+(e) section 22 (causing a young child to be present during a sexual activity),
+
+(f) section 23 (causing a young child to look at a sexual image),
+
+(g) section 24(1) (communicating indecently with a young child),
+
+(h) section 24(2) (causing a young child to see or hear an incident communication),
+
+(i) section 25 (sexual exposure to a young child),
+
+(j) section 26 (voyeurism towards a young child),
+
+(k) section 28 (having intercourse with an older child),
+
+(l) section 29 (engaging in penetrative sexual activity with or towards an older child),
+
+(m) section 30 (engaging in sexual activity with or towards an older child),
+
+(n) section 31 (causing an older child to participate in a sexual activity),
+
+(o) section 32 (causing an older child to be present during a sexual activity),
+
+(p) section 33 (causing an older child to look at a sexual image),
+
+(q) section 34(1) (communicating indecently with an older child),
+
+(r) section 34(2) (causing an older child to see or hear an indecent communication),
+
+(s) section 35 (sexual exposure to an older child),
+
+(t) section 36 (voyeurism towards an older child),
+
+(u) section 37(1) (engaging while an older child in sexual conduct with or towards another older child),
+
+(v) section 37(4) (engaging while an older child in consensual sexual conduct with another older child).
+
+(3) An offence under any of the following provisions of Part 5 of the Sexual Offences (Scotland) Act 2009—
+
+(a) section 42 (sexual abuse of trust),
+
+(b) section 46 (sexual abuse of trust of a mentally disordered person).
+
+(4) Any of the following offences set out in schedule 3 of the Sexual Offences (Scotland) Act 2009—
+
+(a) abduction with intent to commit rape under section 1 (rape),
+
+(b) abduction with intent to commit rape under section 18 (rape of a young child),
+
+(c) assault with intent to commit rape under section 1 (rape),
+
+(d) assault with intent to commit rape under section 18 (rape of a young child).
+
+#### Offence under the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (prospective)
+
+**15** An offence under section 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (disclosing, or threatening to disclose, an intimate photograph or film).
+
+#### Offence under the Domestic Abuse (Scotland) Act 2018 (prospective)
+
+**16** An offence under section 1(1) of the Domestic Abuse (Scotland) Act 2018 (abusive behaviour towards partner or ex-partner), where it is apparent from the offence as charged in the indictment that there was a substantial sexual element present in the alleged commission of the offence.
+
+#### Offences under the Health and Care Act 2022 (prospective)
+
+**17** An offence under any of the following provisions of the Health and Care Act 2022—
+
+(a) section 140 (virginity testing),
+
+(b) section 141 (offering to carry out virginity testing),
+
+(c) section 142 (aiding or abetting etc. a person to carry out virginity testing),
+
+(d) section 152 (hymenoplasty),
+
+(e) section 153 (offering to carry out hymenoplasty),
+
+(f) section 154 (aiding or abetting etc. a person to carry out hymenoplasty).
+
+## Schedule 5 — Minor and consequential modifications (prospective)
+
+*(introduced by section 115)*
+
+### Legal Aid (Scotland) Act 1986 (prospective)
+
+**1** (1) The Legal Aid (Scotland) Act 1986 is amended as follows.
+
+(2) In section 21, subsection (1), paragraph (a), after sub-paragraph (i) insert—
+
+> (iza) the Sexual Offences Court;
+
+.
+
+(3) In section 21, after subsection (4), insert—
+
+> (5) Where an accused in the Sexual Offences Court applies for representation by junior counsel (without senior counsel), and the Scottish Legal Aid Board is satisfied, based on the information available, that if the accused is convicted there is a reasonable expectation that the court will impose—
+>
+> (a) a custodial sentence in excess of 5 years, or
+>
+> (b) a risk assessment order under section 210B of the Criminal Procedure (Scotland) Act 1995,
+>
+> then representation by junior counsel (without senior counsel) is to be treated as appropriate for the purposes of subsection (4)(a).
+
+.
+
+(4) In section 22, subsection (1), after paragraph (de), insert—
+
+> (df) where a solicitor has been appointed under section 92(2) of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (prohibition on personal conduct of defence) to conduct the accused’s case in the Sexual Offences Court,
+
+.
+
+### Judiciary and Courts Scotland Act 2008 (prospective)
+
+**2** (1) The Judiciary and Courts (Scotland) Act 2008 is amended as follows.
+
+(2) In section 2, subsection (2A), after “President of the Sheriff Appeal Court”, insert “or the President of the Sexual Offences Court,”.
+
+(3) In section 2, subsection (6), after paragraph (b) insert—
+
+> (ba) the Sexual Offences Court,
+
+.
+
+(4) In section 34, subsection (1), after “judicial office holder” insert “(other than a Judge of the Sexual Offences Court)”.
+
+(5) In section 35, after subsection (2), insert—
+
+> (2A) Where the person holds office as a Judge of the Sexual Offences Court in addition to a judicial office to which this section applies, reference in subsection (1) to inability, neglect of duty or misbehaviour includes any such inability, neglect of duty or misbehaviour relating to the office of Judge of the Sexual Offences Court.
+
+.
+
+(6) In section 43, subsection (2), after paragraph (ca), insert—
+
+> (cb) the office of Judge of the Sexual Offences Court,
+
+.
+
+(7) In section 62, subsection (1), after paragraph (b), insert—
+
+> (bza) the President of the Sexual Offences Court in the carrying out of functions under section 78 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025,
+
+.
+
+### Courts Reform (Scotland) Act 2014 (prospective)
+
+**3** (1) The Courts Reform (Scotland) Act 2014 is amended as follows.
+
+(2) In section 21, after subsection (3), insert—
+
+> (3A) Where the person holds office as Judge of the Sexual Offences Court in addition to a judicial office to which this section applies, reference in subsection (1) to inability, neglect of duty or misbehaviour includes any such inability, neglect of duty or misbehaviour relating to the office of Judge of the Sexual Offences Court.
+
+.
+
+(3) In schedule 1 (civil proceedings in relation to which summary sheriff has competence), after paragraph 4A, insert—
+
+> **Orders dispensing with restriction on publications relating to child victims**
+>
+> **4B** Proceedings under section 106B of the Criminal Justice (Scotland) Act 2016.
+
+.

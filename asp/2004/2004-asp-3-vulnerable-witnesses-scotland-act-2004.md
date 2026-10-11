@@ -1,0 +1,1387 @@
+---
+title: "Vulnerable Witnesses (Scotland) Act 2004"
+identifier: "asp/2004/3"
+citation: "2004 asp 3"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2004-04-14
+last_amended: 2015-09-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2004/3"
+source_modified: 2019-08-05
+retrieved: 2026-10-11
+---
+
+# Vulnerable Witnesses (Scotland) Act 2004
+
+**2004 asp 3**
+
+An Act of the Scottish Parliament to make provision for the use of special measures for the purpose of taking the evidence of children and other vulnerable witnesses in criminal or civil proceedings; to provide for evidential presumptions in criminal proceedings where certain reports of identification procedures are lodged as productions; to make provision about the admissibility of expert psychological or psychiatric evidence as to subsequent behaviour of the complainer in criminal proceedings in respect of certain offences; to prohibit persons charged with certain offences from conducting their own defence at the trial and any victim statement proof where a child witness under the age of 12 is to give evidence at the trial; to enable the court to prohibit persons from conducting their own defence at the trial and any victim statement proof in other criminal proceedings in which a vulnerable witness is to give evidence; to prohibit persons charged with certain offences from seeking to precognosce personally a child under the age of 12; to make provision about the admissibility of certain evidence bearing on the character, conduct or condition of witnesses in proceedings before a sheriff relating to the establishment of grounds of referral to children’s hearings; to abolish the competence test for witnesses in criminal and civil proceedings; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 4th March 2004 and received Royal Assent on 14th April 2004
+
+## Part 1 — Criminal proceedings
+
+### Evidence of children and other vulnerable witnesses: special measures
+
+#### 1 Evidence of children and other vulnerable witnesses: special measures
+
+(1) For section 271 (evidence of vulnerable persons: special provision) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (referred to in this Part as “the 1995 Act”) there is substituted—
+
+> **Special measures for child witnesses and other vulnerable witnesses**
+>
+> **271 Vulnerable witnesses: main definitions**
+>
+> (1) For the purposes of this Act, a person who is giving or is to give evidence at, or for the purposes of, a trial is a vulnerable witness if—
+>
+> (a) the person is under the age of 16 on the date of commencement of the proceedings in which the trial is being or to be held (such a vulnerable witness being referred to in this Act as a “child witness”), or
+>
+> (b) where the person is not a child witness, there is a significant risk that the quality of the evidence to be given by the person will be diminished by reason of—
+>
+> (i) mental disorder (within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)), or
+>
+> (ii) fear or distress in connection with giving evidence at the trial.
+>
+> (2) In determining whether a person is a vulnerable witness by virtue of subsection (1)(b) above, the court shall take into account—
+>
+> (a) the nature and circumstances of the alleged offence to which the proceedings relate,
+>
+> (b) the nature of the evidence which the person is likely to give,
+>
+> (c) the relationship (if any) between the person and the accused,
+>
+> (d) the person’s age and maturity,
+>
+> (e) any behaviour towards the person on the part of—
+>
+> (i) the accused,
+>
+> (ii) members of the family or associates of the accused,
+>
+> (iii) any other person who is likely to be an accused or a witness in the proceedings, and
+>
+> (f) such other matters, including—
+>
+> (i) the social and cultural background and ethnic origins of the person,
+>
+> (ii) the person’s sexual orientation,
+>
+> (iii) the domestic and employment circumstances of the person,
+>
+> (iv) any religious beliefs or political opinions of the person, and
+>
+> (v) any physical disability or other physical impairment which the person has,
+>
+> as appear to the court to be relevant.
+>
+> (3) For the purposes of subsection (1)(a) above and section 271B(1)(b) below, proceedings shall be taken to have commenced when the indictment or, as the case may be, complaint is served on the accused.
+>
+> (4) In subsection (1)(b) above, the reference to the quality of evidence is to its quality in terms of completeness, coherence and accuracy.
+>
+> (5) In this section and sections 271A to 271M of this Act—
+>
+> - “court” means the High Court or the sheriff court,
+> - “trial” means a trial under solemn procedure in any court or under summary procedure in the sheriff court.
+>
+> (6) In sections 271A to 271M of this Act, “special measure” means any of the special measures set out in, or prescribed under, section 271H below.
+>
+> **271A Child witnesses**
+>
+> (1) Where a child witness is to give evidence at or for the purposes of a trial, the child witness is entitled, subject to—
+>
+> (a) subsections (2) to (13) below, and
+>
+> (b) section 271D of this Act,
+>
+> to the benefit of one or more of the special measures for the purpose of giving evidence.
+>
+> (2) A party citing or intending to cite a child witness shall, no later than 14 clear days before the trial diet, lodge with the court a notice (referred to in this Act as a “child witness notice”)—
+>
+> (a) specifying the special measure or measures which the party considers to be the most appropriate for the purpose of taking the child witness’s evidence, or
+>
+> (b) if the party considers that the child witness should give evidence without the benefit of any special measure, stating that fact.
+>
+> (3) A child witness notice shall contain or be accompanied by—
+>
+> (a) a summary of any views expressed for the purposes of section 271E(2)(b) of this Act, and
+>
+> (b) such other information as may be prescribed by Act of Adjournal.
+>
+> (4) The court may, on cause shown, allow a child witness notice to be lodged after the time limit specified in subsection (2) above.
+>
+> (5) The court shall, not later than 7 days after a child witness notice has been lodged, consider the notice in the absence of the parties and, subject to section 271B(3) of this Act—
+>
+> (a) in the case of a notice under subsection (2)(a) above—
+>
+> (i) if a standard special measure is specified in the notice, make an order authorising the use of that measure for the purpose of taking the child witness’s evidence, and
+>
+> (ii) if any other special measure is specified in the notice and the court is satisfied on the basis of the notice that it is appropriate to do so, make an order authorising the use of the special measure (in addition to any authorised by virtue of an order under sub-paragraph (i) above) for the purpose of taking the child witness’s evidence,
+>
+> (b) in the case of a notice under subsection (2)(b) above, if—
+>
+> (i) the summary of views accompanying the notice under subsection (3)(a) above indicates that the child witness has expressed a wish to give evidence without the benefit of any special measure, and
+>
+> (ii) the court is satisfied on the basis of the notice that it is appropriate to do so,
+>
+> make an order authorising the giving of evidence by the child witness without the benefit of any special measure, or
+>
+> (c) if—
+>
+> (i) paragraph (a)(ii) or (b) above would apply but for the fact that the court is not satisfied as mentioned in that paragraph, or
+>
+> (ii) in the case of a notice under subsection (2)(b), the summary of views accompanying the notice under subsection (3)(a) above indicates that the child witness has not expressed a wish to give evidence without the benefit of any special measure,
+>
+> make an order that, before the trial diet, there shall be a diet under subsection (9) below and ordain the parties to attend.
+>
+> (6) Subsection (7) below applies where—
+>
+> (a) it appears to the court that a party intends to call a child witness to give evidence at or for the purposes of the trial,
+>
+> (b) the party has not lodged a child witness notice in respect of the child witness by the time specified in subsection (2) above, and
+>
+> (c) the court has not allowed a child witness notice in respect of the child witness to be lodged after that time under subsection (4) above.
+>
+> (7) Where this subsection applies, the court shall—
+>
+> (a) order the party to lodge a child witness notice in respect of the child witness by such time as the court may specify, or
+>
+> (b) order that, before the trial diet, there shall be a diet under subsection (9) below and ordain the parties to attend.
+>
+> (8) On making an order under subsection (5)(c) or (7)(b) above, the court may postpone the trial diet.
+>
+> (9) At a diet under this subsection, the court, after giving the parties an opportunity to be heard—
+>
+> (a) in a case where any of the standard special measures has been authorised by an order under subsection (5)(a)(i) above, may make an order authorising the use of such further special measure or measures as it considers appropriate for the purpose of taking the child witness’s evidence, and
+>
+> (b) in any other case, shall make an order—
+>
+> (i) authorising the use of such special measure or measures as the court considers to be the most appropriate for the purpose of taking the child witness’s evidence, or
+>
+> (ii) that the child witness is to give evidence without the benefit of any special measure.
+>
+> (10) The court may make an order under subsection (9)(b)(ii) above only if satisfied—
+>
+> (a) where the child witness has expressed a wish to give evidence without the benefit of any special measure, that it is appropriate for the child witness so to give evidence, or
+>
+> (b) in any other case, that—
+>
+> (i) the use of any special measure for the purpose of taking the evidence of the child witness would give rise to a significant risk of prejudice to the fairness of the trial or otherwise to the interests of justice, and
+>
+> (ii) that risk significantly outweighs any risk of prejudice to the interests of the child witness if the order is made.
+>
+> (11) A diet under subsection (9) above may—
+>
+> (a) on the application of the party citing or intending to cite the child witness in respect of whom the diet is to be held, or
+>
+> (b) of the court’s own motion,
+>
+> be held in chambers.
+>
+> (12) A diet under subsection (9) above may be conjoined with—
+>
+> (a) in the case of proceedings in the High Court, a preliminary diet,
+>
+> (b) in the case of proceedings on indictment in the sheriff court, a first diet,
+>
+> (c) in the case of summary proceedings, an intermediate diet.
+>
+> (13) A party lodging a child witness notice shall, at the same time, intimate the notice to the other parties to the proceedings.
+>
+> (14) In this section, references to a standard special measure are to any of the following special measures—
+>
+> (a) the use of a live television link in accordance with section 271J of this Act where the place from which the child witness is to give evidence by means of the link is another part of the court building in which the court-room is located,
+>
+> (b) the use of a screen in accordance with section 271K of this Act, and
+>
+> (c) the use of a supporter in accordance with section 271L of this Act in conjunction with either of the special measures referred to in paragraphs (a) and (b) above.
+>
+> **271B Further special provision for child witnesses under the age of 12**
+>
+> (1) This section applies where a child witness—
+>
+> (a) is to give evidence at, or for the purposes of, a trial in respect of any offence specified in subsection (2) below, and
+>
+> (b) is under the age of 12 on the date of commencement of the proceedings in which the trial is being or to be held.
+>
+> (2) The offences referred to in subsection (1)(a) above are—
+>
+> (a) murder,
+>
+> (b) culpable homicide,
+>
+> (c) any offence to which section 288C of this Act applies,
+>
+> (d) any offence which involves an assault on, or injury or a threat of injury to, any person (including any offence involving neglect or ill-treatment of, or other cruelty to, a child),
+>
+> (e) abduction, and
+>
+> (f) plagium.
+>
+> (3) Where this section applies, the court shall not make an order under section 271A or 271D of this Act which has the effect of requiring the child witness to be present in the court-room or any part of the court building in which the court-room is located for the purpose of giving evidence unless satisfied—
+>
+> (a) where the child witness has expressed a wish to be so present for the purposes of giving evidence, that it is appropriate for the child witness to be so present for that purpose, or
+>
+> (b) in any other case, that—
+>
+> (i) the taking of the evidence of the child witness without the child witness being so present would give rise to a significant risk of prejudice to the fairness of the trial or otherwise to the interests of justice, and
+>
+> (ii) that risk significantly outweighs any risk of prejudice to the interests of the child witness if the order is made.
+>
+> **271C Vulnerable witnesses other than child witnesses**
+>
+> (1) This section applies where a party citing or intending to cite a person (other than a child witness) to give evidence at, or for the purposes of, a trial (such a person being referred to in this section as “the witness”) considers—
+>
+> (a) that the witness is likely to be a vulnerable witness, and
+>
+> (b) that a special measure or combination of special measures ought to be used for the purpose of taking the witness’s evidence.
+>
+> (2) Where this section applies, the party citing or intending to cite the witness shall, not later than 14 clear days before the trial diet, make an application (referred to as a “vulnerable witness application”) to the court for an order authorising the use of one or more of the special measures for the purpose of taking the witness’s evidence.
+>
+> (3) A vulnerable witness application shall—
+>
+> (a) specify the special measure or measures which the party making the application considers to be the most appropriate for the purpose of taking the evidence of the witness to whom the application relates, and
+>
+> (b) contain or be accompanied by—
+>
+> (i) a summary of any views expressed for the purposes of section 271E(2)(b) of this Act, and
+>
+> (ii) such other information as may be prescribed by Act of Adjournal.
+>
+> (4) The court may, on cause shown, allow a vulnerable witness application to be made after the time limit specified in subsection (2) above.
+>
+> (5) The court shall, not later than 7 days after a vulnerable witness application is made to it, consider the application in the absence of the parties and—
+>
+> (a) make an order authorising the use of the special measure or measures specified in the application if satisfied on the basis of the application that—
+>
+> (i) the witness in respect of whom the application is made is a vulnerable witness,
+>
+> (ii) the special measures or measures specified in the application are the most appropriate for the purpose of taking the witness’s evidence, and
+>
+> (iii) it is appropriate to do so after having complied with the duty in subsection (8) below, or
+>
+> (b) if not satisfied as mentioned in paragraph (a) above, order that, before the trial diet, there shall be a diet under subsection (7) below and ordain the parties to attend.
+>
+> (6) On making an order under subsection (5)(b) above, the court may postpone the trial diet.
+>
+> (7) At a diet under this subsection, the court may—
+>
+> (a) after giving the parties an opportunity to be heard, and
+>
+> (b) if satisfied that the witness in respect of whom the application is made is a vulnerable witness,
+>
+> make an order authorising the use of such special measure or measures as the court considers to be the most appropriate for the purpose of taking the witness’s evidence.
+>
+> (8) In deciding whether to make an order under subsection (5)(a) or (7) above, the court shall—
+>
+> (a) have regard to—
+>
+> (i) the possible effect on the witness if required to give evidence without the benefit of any special measure, and
+>
+> (ii) whether it is likely that the witness would be better able to give evidence with the benefit of a special measure, and
+>
+> (b) take into account the matters specified in subsection (2)(a) to (f) of section 271 of this Act.
+>
+> (9) A diet under subsection (7) above may—
+>
+> (a) on the application of the party citing or intending to cite the witness in respect of whom the diet is to be held, or
+>
+> (b) of the court’s own motion,
+>
+> be held in chambers.
+>
+> (10) A diet under subsection (7) above may be conjoined with—
+>
+> (a) in the case of proceedings in the High Court, a preliminary diet,
+>
+> (b) in the case of proceedings on indictment in the sheriff court, a first diet,
+>
+> (c) in the case of summary proceedings, an intermediate diet.
+>
+> (11) A party making a vulnerable witness application shall, at the same time, intimate the application to the other parties to the proceedings.
+>
+> **271D Review of arrangements for vulnerable witnesses**
+>
+> (1) In any case in which a person who is giving or is to give evidence at or for the purposes of the trial (referred to in this section as the “witness”) is or appears to the court to be a vulnerable witness, the court may at any stage in the proceedings (whether before or after the commencement of the trial or before or after the witness has begun to give evidence)—
+>
+> (a) on the application of the party citing or intending to cite the witness, or
+>
+> (b) of its own motion,
+>
+> review the current arrangements for taking the witness’s evidence and, after giving the parties an opportunity to be heard, make an order under subsection (2) below.
+>
+> (2) The order which may be made under this subsection is—
+>
+> (a) where the current arrangements for taking the witness’s evidence include the use of a special measure or combination of special measures authorised by an order under section 271A or 271C of this Act or under this subsection (referred to as the “earlier order”), an order varying or revoking the earlier order, or
+>
+> (b) where the current arrangements for taking the witness’s evidence do not include any special measure, an order authorising the use of such special measure or measures as the court considers most appropriate for the purpose of taking the witness’s evidence.
+>
+> (3) An order under subsection (2)(a) above varying an earlier order may—
+>
+> (a) add to or substitute for any special measure authorised by the earlier order such other special measure as the court considers most appropriate for the purpose of taking the witness’s evidence, or
+>
+> (b) where the earlier order authorises the use of a combination of special measures for that purpose, delete any of the special measures so authorised.
+>
+> (4) The court may make an order under subsection (2)(a) above revoking an earlier order only if satisfied—
+>
+> (a) where the witness has expressed a wish to give or, as the case may be, continue to give evidence without the benefit of any special measure, that it is appropriate for the witness so to give evidence, or
+>
+> (b) in any other case, that—
+>
+> (i) the use, or continued use, of the special measure or measures authorised by the earlier order for the purpose of taking the witness’s evidence would give rise to a significant risk of prejudice to the fairness of the trial or otherwise to the interests of justice, and
+>
+> (ii) that risk significantly outweighs any risk of prejudice to the interests of the witness if the order is made.
+>
+> (5) Subsection (8) of section 271C of this Act applies to the making of an order under subsection (2)(b) of this section as it applies to the making of an order under subsection (5)(a) or (7) of that section but as if the references to the witness were to the witness within the meaning of this section.
+>
+> (6) In this section, “current arrangements” means the arrangements in place at the time the review under this section is begun.
+>
+> **271E Vulnerable witnesses: supplementary provision**
+>
+> (1) Subsection (2) below applies where—
+>
+> (a) a party is considering for the purposes of a child witness notice or a vulnerable witness application which of the special measures is or are the most appropriate for the purpose of taking the evidence of the person to whom the notice or application relates, or
+>
+> (b) the court is making an order under section 271A(5)(a)(ii) or (b) or (9), 271C or 271D of this Act.
+>
+> (2) The party or, as the case may be, the court shall—
+>
+> (a) have regard to the best interests of the witness, and
+>
+> (b) take account of any views expressed by—
+>
+> (i) the witness (having regard, where the witness is a child witness, to the witness’s age and maturity), and
+>
+> (ii) where the witness is a child witness, the witness’s parent (except where the parent is the accused).
+>
+> (3) For the purposes of subsection (2)(b) above, where the witness is a child witness—
+>
+> (a) the witness shall be presumed to be of sufficient age and maturity to form a view if aged 12 or older, and
+>
+> (b) in the event that any views expressed by the witness are inconsistent with any views expressed by the witness’s parent, the views of the witness shall be given greater weight.
+>
+> (4) In this section—
+>
+> - “parent”, in relation to a child witness, means any person having parental responsibilities within the meaning of section 1(3) of the Children (Scotland) Act 1995 (c. 36) in relation to the child witness,
+>
+> - “the witness” means—
+>
+>   - (a) in the case referred to in subsection (1)(a) above, the person to whom the notice or application relates,
+>   - (b) in the case referred to in subsection (1)(b) above, the person to whom the order would relate.
+>
+> **271F The accused**
+>
+> (1) For the purposes of the application of subsection (1) of section 271 of this Act to the accused (where the accused is giving or is to give evidence at or for the purposes of the trial), subsection (2) of that section shall have effect as if—
+>
+> (a) for paragraph (c) there were substituted—
+>
+> > (c) whether the accused is to be legally represented at the trial and, if not, the accused’s entitlement to be so legally represented,
+>
+> , and
+>
+> (b) for paragraph (e) there were substituted—
+>
+> > (e) any behaviour towards the accused on the part of—
+> >
+> > (i) any co-accused or any person who is likely to be a co-accused in the proceedings,
+> >
+> > (ii) any witness or any person who is likely to be a witness in the proceedings, or
+> >
+> > (iii) members of the family or associates of any of the persons mentioned in sub-paragraphs (i) and (ii) above.
+>
+> .
+>
+> (2) Where, if the accused were to give evidence at or for the purposes of the trial, he would be a child witness—
+>
+> (a) section 271A of this Act shall apply in relation to the accused subject to the following modifications—
+>
+> (i) references to a child witness (except in the phrase “child witness notice”) shall be read as if they were references to the accused,
+>
+> (ii) references to the party citing or intending to cite a child witness shall be read as if they were references to the accused, and
+>
+> (iii) subsection (6) shall have effect as if for paragraph (a) there were substituted—
+>
+> > (a) it appears to the court that the accused, if he were to give evidence at or for the purposes of the trial, would be a child witness,
+>
+> , and
+>
+> (b) section 271B of this Act shall apply in relation to the accused as if—
+>
+> (i) for subsection (1) there were substituted—
+>
+> > (1) This section applies where the accused—
+> >
+> > (a) if he were to give evidence at or for the purposes of the trial would be a child witness, and
+> >
+> > (b) is under the age of 12 on the date of commencement of the proceedings.
+>
+> , and
+>
+> (ii) in subsection (3), references to the child witness were references to the accused.
+>
+> (3) Subsection (4) below applies where the accused—
+>
+> (a) considers that, if he were to give evidence at or for the purposes of the trial, he would be a vulnerable witness other than a child witness, and
+>
+> (b) has not decided to give evidence without the benefit of any special measures.
+>
+> (4) Where this subsection applies, subsections (2) to (11) of section 271C of this Act shall apply in relation to the accused subject to the following modifications—
+>
+> (a) references to the witness shall be read as if they were references to the accused,
+>
+> (b) references to the party citing or intending the cite the witness shall be read as if they were references to the accused, and
+>
+> (c) in subsection (8)(b), the reference to subsection (2)(a) to (f) of section 271 of this Act shall be read as if it were a reference to that subsection as modified by subsection (1) above.
+>
+> (5) Section 271D of this Act shall apply in any case where it appears to the court that the accused, if he were to give evidence at or for the purposes of the trial, would be a vulnerable witness as it applies in the case referred to in subsection (1) of that section but subject to the following modifications—
+>
+> (a) references to the witness shall be read as if they were references to the accused,
+>
+> (b) references to the party citing or intending to cite the witness shall be read as if they were references to the accused.
+>
+> (6) Where the witness within the meaning of section 271E of this Act is the accused, that section shall have effect in relation to the witness as if—
+>
+> (a) in subsection (1), paragraph (a) were omitted, and
+>
+> (b) in subsection (2), the words “The party or, as the case may be,” were omitted.
+>
+> (7) Section 271M of this Act shall have effect, where the vulnerable witness is the accused, as if the reference in subsection (2) to the party citing the vulnerable witness were a reference to the accused.
+>
+> (8) The following provisions of this Act shall not apply in relation to a vulnerable witness who is the accused—
+>
+> (a) section 271H(1)(c),
+>
+> (b) section 271I(3).
+>
+> **271G Saving provision**
+>
+> Nothing in sections 271A to 271F of this Act affects any power or duty which a court has otherwise than by virtue of those sections to make or authorise any special arrangements for taking the evidence of any person.
+>
+> **271H The special measures**
+>
+> (1) The special measures which may be authorised to be used under section 271A, 271C or 271D of this Act for the purpose of taking the evidence of a vulnerable witness are—
+>
+> (a) taking of evidence by a commissioner in accordance with section 271I of this Act,
+>
+> (b) use of a live television link in accordance with section 271J of this Act,
+>
+> (c) use of a screen in accordance with section 271K of this Act,
+>
+> (d) use of a supporter in accordance with section 271L of this Act,
+>
+> (e) giving evidence in chief in the form of a prior statement in accordance with section 271M of this Act, and
+>
+> (f) such other measures as the Scottish Ministers may, by order made by statutory instrument, prescribe.
+>
+> (2) An order under subsection (1)(f) above shall not be made unless a draft of the statutory instrument containing the order has been laid before and approved by a resolution of the Scottish Parliament.
+>
+> (3) Provision may be made by Act of Adjournal regulating, so far as not regulated by sections 271I to 271M of this Act, the use in any proceedings of any special measure authorised to be used by virtue of section 271A, 271C or 271D of this Act.
+>
+> **271I Taking of evidence by a commissioner**
+>
+> (1) Where the special measure to be used is taking of evidence by a commissioner, the court shall appoint a commissioner to take the evidence of the vulnerable witness in respect of whom the special measure is to be used.
+>
+> (2) Proceedings before a commissioner appointed under subsection (1) above shall be recorded by video recorder.
+>
+> (3) An accused—
+>
+> (a) shall not, except by leave of the court on special cause shown, be present in the room where such proceedings are taking place, but
+>
+> (b) is entitled by such means as seem suitable to the court to watch and hear the proceedings.
+>
+> (4) The recording of the proceedings made in pursuance of subsection (2) above shall be received in evidence without being sworn to by witnesses.
+>
+> **271J Live television link**
+>
+> (1) Where the special measure to be used is a live television link, the court shall make such arrangements as seem to it appropriate for the vulnerable witness in respect of whom the special measure is to be used to give evidence from a place outside the court-room where the trial is to take place by means of a live television link between that place and the court-room.
+>
+> (2) The place from which the vulnerable witness gives evidence by means of the link—
+>
+> (a) may be another part of the court building in which the court-room is located or any other suitable place outwith that building, and
+>
+> (b) shall be treated, for the purposes of the proceedings at the trial, as part of the court-room whilst the witness is giving evidence.
+>
+> (3) Any proceedings conducted by means of a live television link by virtue of this section shall be treated as taking place in the presence of the accused.
+>
+> (4) Where—
+>
+> (a) the live television link is to be used in proceedings in a sheriff court, but
+>
+> (b) that court lacks accommodation or equipment necessary for the purpose of receiving such a link,
+>
+> the sheriff may by order transfer the proceedings to any other sheriff court in the same sheriffdom which has such accommodation or equipment available.
+>
+> (5) An order may be made under subsection (4) above—
+>
+> (a) at any stage in the proceedings (whether before or after the commencement of the trial), or
+>
+> (b) in relation to any part of the proceedings.
+>
+> **271K Screens**
+>
+> (1) Where the special measure to be used is a screen, the screen shall be used to conceal the accused from the sight of the vulnerable witness in respect of whom the special measure is to be used.
+>
+> (2) However, the court shall make arrangements to ensure that the accused is able to watch and hear the vulnerable witness giving evidence.
+>
+> (3) Subsections (4) and (5) of section 271J of this Act apply for the purpose of the use of a screen under this section as they apply for the purpose of the use of a live television link under that section but as if—
+>
+> (a) references to the live television link were references to the screen, and
+>
+> (b) the reference to receiving such a link were a reference to the use of a screen.
+>
+> **271L Supporters**
+>
+> (1) Where the special measure to be used is a supporter, another person (“the supporter”) nominated by or on behalf of the vulnerable witness in respect of whom the special measure is to be used may be present alongside the witness to support the witness while the witness is giving evidence.
+>
+> (2) Where the person nominated as the supporter is to give evidence at the trial, that person may not act as the supporter at any time before giving evidence.
+>
+> (3) The supporter shall not prompt or otherwise seek to influence the witness in the course of giving evidence.
+>
+> **271M Giving evidence in chief in the form of a prior statement**
+>
+> (1) This section applies where the special measure to be used in respect of a vulnerable witness is giving evidence in chief in the form of a prior statement.
+>
+> (2) A statement made by the vulnerable witness which is lodged in evidence for the purposes of this section by or on behalf of the party citing the vulnerable witness shall, subject to subsection (3) below, be admissible as the witness’s evidence in chief, or as part of the witness’s evidence in chief, without the witness being required to adopt or otherwise speak to the statement in giving evidence in court.
+>
+> (3) Section 260 of this Act shall apply to a statement lodged for the purposes of this section as it applies to a prior statement referred to in that section but as if—
+>
+> (a) references to a prior statement were references to the statement lodged for the purposes of this section,
+>
+> (b) in subsection (1), the words “where a witness gives evidence in criminal proceedings” were omitted, and
+>
+> (c) in subsection (2), paragraph (b) were omitted.
+>
+> (4) This section does not affect the admissibility of any statement made by any person which is admissible otherwise than by virtue of this section.
+>
+> (5) In this section, “statement” has the meaning given in section 262(1) of this Act.
+
+.
+
+(2) In section 307(1) (interpretation) of the 1995 Act, there is inserted at the appropriate place in alphabetical order the following definitions—
+
+> - “child witness” shall be construed in accordance with section 271(1)(a) of this Act;
+
+,
+
+> “vulnerable witness” shall be construed in accordance with section 271(1) of this Act;
+
+.
+
+#### 2 Consideration before the trial of matters relating to vulnerable witnesses
+
+(1) In section 71 (first diet of proceedings on indictment in the sheriff court) of the 1995 Act—
+
+(a) after subsection (1) there is inserted—
+
+> (1A) At a first diet, the court shall also—
+>
+> (a) ascertain whether subsection (1B) below applies to any person who is to give evidence at or for the purposes of the trial or to the accused, and
+>
+> (b) if so, consider whether it should make an order under section 271A(7) or 271D(2) of this Act in relation to the person or, as the case may be, the accused.
+>
+> (1B) This subsection applies—
+>
+> (a) to a person who is to give evidence at or for the purposes of the trial if that person is, or is likely to be, a vulnerable witness,
+>
+> (b) to the accused if, were he to give evidence at or for the purposes of the trial, he would be, or would be likely to be, a vulnerable witness.
+
+,
+
+(b) in subsection (2), after “(1)” there is inserted “ and (1A) ”, and
+
+(c) in subsection (3), after “(1)” where it first occurs there is inserted “ , (1A) ”.
+
+(2) In section 73 (procedure at preliminary diets in the High Court) of the 1995 Act—
+
+(a) after subsection (3) there is inserted—
+
+> (3A) At a preliminary diet, the court shall also—
+>
+> (a) ascertain whether subsection (3B) below applies to any person who is to give evidence at or for the purposes of the trial or to the accused, and
+>
+> (b) if so, consider whether it should make an order under section 271A(7) or 271D(2) of this Act in relation to the person or, as the case may be, the accused.
+>
+> (3B) This subsection applies—
+>
+> (a) to a person who is to give evidence at or for the purposes of the trial if that person is, or is likely to be, a vulnerable witness,
+>
+> (b) to the accused if, were he to give evidence at or for the purposes of the trial, he would be, or would be likely to be, a vulnerable witness.
+
+, and
+
+(b) in subsection (4), for “under subsection (3)” there is substitute “ or consider under subsection (3) or (3A) ”.
+
+(3) After section 73 of the 1995 Act there is inserted—
+
+> **73A Consideration of matters relating to vulnerable witnesses where no preliminary diet is ordered**
+>
+> (1) Where, in a case which is to be tried in the High Court, no preliminary diet is ordered, the court shall, at the trial diet before the first witness is sworn—
+>
+> (a) ascertain whether subsection (2) below applies to any person who is to give evidence at or for the purposes of the trial or to the accused, and
+>
+> (b) if so, consider whether it should make an order under section 271A(7) or 271D(2) of this Act in relation to the person or, as the case may be, to the accused.
+>
+> (2) This subsection applies—
+>
+> (a) to a person who is to give evidence at or for the purposes of the trial if that person is, or is likely to be, a vulnerable witness,
+>
+> (b) to the accused if, were he to give evidence at or for the purposes of the trial, he would be, or would be likely to be, a vulnerable witness.
+>
+> (3) At the trial diet, the court may ask the prosecutor and the accused any question in connection with any matter which it is required to ascertain or consider under subsection (1) above.
+
+.
+
+(4) In section 74 (appeals in connection with preliminary diets) of the 1995 Act, in subsection (2), after paragraph (a) there is inserted—
+
+> (aa) may not be taken against a decision taken by virtue of—
+>
+> (i) in the case of a first diet, section 71(1A),
+>
+> (ii) in the case of a preliminary diet, section 73(3A),
+>
+> of this Act;
+
+.
+
+(5) In section 148 (intermediate diet in summary proceedings) of the 1995 Act—
+
+(a) after subsection (1) there is inserted—
+
+> (1A) At an intermediate diet in summary proceedings in the sheriff court, the court shall also—
+>
+> (a) ascertain whether subsection (1B) below applies to any person who is to give evidence at or for the purposes of the trial or to the accused, and
+>
+> (b) if so, consider whether it should make an order under section 271A(7) or 271D(2) of this Act in relation to person or, as the case may be, the accused.
+>
+> (1B) This subsection applies—
+>
+> (a) to a person who is to give evidence at or for the purposes of the trial if that person is, or is likely to be, a vulnerable witness,
+>
+> (b) to the accused if, were he to give evidence at or for the purposes of the trial, he would be, or would be likely to be, a vulnerable witness.
+
+, and
+
+(b) in subsection (4), at the end there is inserted “ or for the purpose of ascertaining or considering any matter mentioned in subsection (1A) above ”.
+
+#### 3 Evidence of vulnerable witnesses at proofs in relation to victim statements
+
+After section 15 of the Criminal Justice (Scotland) Act 2003 (asp 7) there is inserted—
+
+> **15A Application of sections 271 to 271M of the 1995 Act in proofs ordered in relation to victim statements**
+>
+> (1) Sections 271 to 271M of the 1995 Act (which make provision as to the use of special measures for taking the evidence of vulnerable witnesses) apply in relation to a person who is giving or is to give evidence at or for the purposes of any proof ordered in relation to—
+>
+> (a) a victim statement made by virtue of subsection (2) (or by virtue of that subsection and subsection (6)) of section 14 of this Act, or
+>
+> (b) a statement made by virtue of subsection (3) of that section in relation to such a victim statement,
+>
+> as they apply to a person who is giving or is to give evidence at, or for the purposes of, a trial.
+>
+> (2) For that purpose, any reference in those sections to the trial or trial diet is to be read as a reference to the proof.
+>
+> (3) Where—
+>
+> (a) any person who is giving or is to give evidence at any proof ordered in relation to any such statement as is mentioned in subsection (1) above gave evidence at or for the purposes of any trial in respect of the offence to which the statement relates, and
+>
+> (b) a special measure or combination of special measures was used by virtue of sections 271A, 271C or 271D of the 1995 Act for the purpose of taking the person’s evidence at the trial,
+>
+> that special measure or, as the case may be, combination of special measures is to be treated as having been authorised, by virtue of the same section of the 1995 Act, to be used for the purpose of taking the person’s evidence at or for the purposes of the proof.
+>
+> (4) Subsection (3) above does not affect the operation, by virtue of subsection (1) above, of section 271D of the 1995 Act.
+
+.
+
+### Evidence of identification prior to trial
+
+#### 4 Evidence of identification prior to trial
+
+After section 281 of the 1995 Act there is inserted—
+
+> **281A Routine evidence: reports of identification prior to trial**
+>
+> (1) Where in a trial the prosecutor lodges as a production a report naming—
+>
+> (a) a person identified in an identification parade or other identification procedure by a witness, and
+>
+> (b) that witness,
+>
+> it shall be presumed, subject to subsection (2) below, that the person named in the report as having been identified by the witness is the person of the same name who appears in answer to the indictment or complaint.
+>
+> (2) That presumption shall not apply—
+>
+> (a) unless the prosecutor has, not less than 14 clear days before the trial, served on the accused a copy of the report and a notice that he intends to rely on the presumption, or
+>
+> (b) if the accused—
+>
+> (i) not more than 7 days after the date of service of the copy of the report, or
+>
+> (ii) by such later time as the court may in special circumstances allow,
+>
+> has served notice on the prosecutor that he intends to challenge the facts stated in the report.
+
+.
+
+### Expert evidence as to subsequent behaviour of complainer
+
+#### 5 Expert evidence as to subsequent behaviour of complainer
+
+After section 275B of the 1995 Act there is inserted—
+
+> **Expert evidence as to subsequent behaviour of complainer**
+>
+> **275C Expert evidence as to subsequent behaviour of complainer in certain cases**
+>
+> (1) This section applies in the case of proceedings in respect of any offence to which section 288C of this Act applies.
+>
+> (2) Expert psychological or psychiatric evidence relating to any subsequent behaviour or statement of the complainer is admissible for the purpose of rebutting any inference adverse to the complainer’s credibility or reliability as a witness which might otherwise be drawn from the behaviour or statement.
+>
+> (3) In subsection (2) above—
+>
+> - “complainer” means the person against whom the offence to which the proceedings relate is alleged to have been committed,
+> - “subsequent behaviour or statement” means any behaviour or statement subsequent to, and not forming part of the acts constituting, the offence to which the proceedings relate and which is not otherwise relevant to any fact in issue at the trial.
+>
+> (4) This section does not affect the admissibility of any evidence which is admissible otherwise than by virtue of this section.
+
+.
+
+### Prohibition of personal conduct of defence in cases involving vulnerable witnesses
+
+#### 6 Prohibition of personal conduct of defence in cases involving vulnerable witnesses
+
+After section 288D of the 1995 Act there is inserted—
+
+> **Trials involving vulnerable witnesses**
+>
+> **288E Prohibition of personal conduct of defence in certain cases involving child witnesses under the age of 12**
+>
+> (1) In proceedings to which this section applies, the accused is prohibited from conducting his defence in person at the trial and in any victim statement proof relating to any offence to which the trial relates.
+>
+> (2) This section applies to any proceedings (other than proceedings in the district court)—
+>
+> (a) in respect of any offence specified in subsection (3) below, and
+>
+> (b) in which a child witness who is under the age of 12 on the date of commencement of the proceedings is to give evidence at or for the purposes of the trial.
+>
+> (3) The offences referred to in subsection (2)(a) above are—
+>
+> (a) murder,
+>
+> (b) culpable homicide,
+>
+> (c) any offence which—
+>
+> (i) involves an assault on, or injury or threat of injury to, any person (including any offence involving neglect or ill-treatment of, or other cruelty to, a child), but
+>
+> (ii) is not an offence to which section 288C of this Act applies,
+>
+> (d) abduction, and
+>
+> (e) plagium.
+>
+> (4) Section 288D of this Act applies in the case of proceedings to which this section applies as it applies in the case of proceedings in respect of a sexual offence to which section 288C of this Act applies.
+>
+> (5) In proceedings to which this section applies, the prosecutor shall, at the same time as intimating to the accused under section 271A(13) of this Act a child witness notice in respect of a child witness referred to in subsection (2)(b) above, serve on the accused a notice under subsection (6).
+>
+> (6) A notice under this subsection shall contain intimation to the accused—
+>
+> (a) that if he is tried for the offence, his defence may be conducted only by a lawyer,
+>
+> (b) that it is therefore in his interests, if he has not already done so, to get the professional assistance of a solicitor, and
+>
+> (c) that if he does not engage a solicitor for the purposes of his defence at the trial, the court will do so.
+>
+> (7) A failure to comply with subsection (5) or (6) above does not affect the validity or lawfulness of any child witness notice or any other element of the proceedings against the accused.
+>
+> (8) In subsection (1) above, “victim statement proof” means any proof ordered in relation to—
+>
+> (a) a victim statement made by virtue of subsection (2) (or by virtue of that subsection and subsection (6)) of section 14 of the Criminal Justice (Scotland) Act 2003 (asp 7), or
+>
+> (b) a statement made by virtue of subsection (3) of that section in relation to such a victim statement.
+>
+> (9) For the purposes of subsection (2)(b) above, proceedings shall be taken to have commenced when the indictment or, as the case may be, the complaint is served on the accused.
+>
+> **288F Power to prohibit personal conduct of defence in other cases involving vulnerable witnesses**
+>
+> (1) This section applies in the case of proceedings in respect of any offence, other than proceedings—
+>
+> (a) in the district court,
+>
+> (b) in respect of a sexual offence to which section 288C of this Act applies, or
+>
+> (c) to which section 288E of this Act applies,
+>
+> where a vulnerable witness is to give evidence at, or for the purposes of, the trial.
+>
+> (2) If satisfied that it is in the interests of the vulnerable witness to do so, the court may—
+>
+> (a) on the application of the prosecutor, or
+>
+> (b) of its own motion,
+>
+> make an order prohibiting the accused from conducting his defence in person at the trial and in any victim statement proof relating to any offence to which the trial relates.
+>
+> (3) However, the court shall not make an order under subsection (2) above if it considers that—
+>
+> (a) the order would give rise to a significant risk of prejudice to the fairness of the trial or otherwise to the interests of justice, and
+>
+> (b) that risk significantly outweighs any risk of prejudice to the interests of the vulnerable witness if the order is not made.
+>
+> (4) The court may make an order under subsection (2) above after, as well as before, proceedings at the trial have commenced.
+>
+> (5) Section 288D of this Act applies in the case of proceedings in respect of which an order is made under this section as it applies in the case of proceedings in respect of a sexual offence to which section 288C of this Act applies.
+>
+> (6) In subsection (2) above, “victim statement proof” means any proof ordered in relation to—
+>
+> (a) a victim statement made by virtue of subsection (2) (or by virtue of that subsection and subsection (6)) of section 14 of the Criminal Justice (Scotland) Act 2003 (asp 7), or
+>
+> (b) a statement made by virtue of subsection (3) of that section in relation to such a victim statement.
+
+.
+
+#### 7 Special pre-trial procedures for ascertaining in such cases whether accused has engaged a solicitor
+
+(1) In section 71 (first diet) of the 1995 Act—
+
+(a) in subsection (A1)—
+
+(i) after “diet” there is inserted “ in proceedings to which subsection (B1) below applies ”,
+
+(ii) the words from “where” to “applies” are repealed, and
+
+(iii) for “he” substitute “ the accused ”,
+
+(b) after that subsection there is inserted—
+
+> (B1) This subsection applies to proceedings—
+>
+> (a) in which the accused is charged with a sexual offence to which section 288C of this Act applies,
+>
+> (b) to which section 288E of this Act applies, or
+>
+> (c) in which an order under section 288F(2) of this Act has been made before the trial diet.
+
+,
+
+(c) in subsection (5A), for paragraph (a) there is substituted—
+
+> (a) the proceedings in which the first diet is being held are proceedings to which subsection (B1) above applies;
+
+.
+
+(2) In section 71A (further pre-trial diet in sheriff court solemn proceedings: dismissal or withdrawal of solicitor representing accused in case of sexual offence) of the 1995 Act, in subsection (1)(a), for the words “charged with a sexual offence to which section 288C” there is substituted “ in proceedings to which subsection (B1) of section 71 ”.
+
+(3) In section 72A (pre-trial diet in High Court proceedings: inquiry about legal representation of accused in cases of sexual offences) of the 1995 Act—
+
+(a) in subsection (1), for the words from the beginning to “Act” there is substituted “ In proceedings to which this section ”,
+
+(b) after that subsection there is inserted—
+
+> (1A) This section applies to proceedings in the High Court—
+>
+> (a) in which the accused is charged with a sexual offence to which section 288C of this Act applies,
+>
+> (b) to which section 288E of this Act applies, or
+>
+> (c) in which an order under section 288F(2) of this Act has been made before the trial diet.
+
+.
+
+### Prohibition on accused personally precognoscing children under 12
+
+#### 8 Prohibition of precognition by accused in person of child witnesses under 12 in cases to which section 288E applies
+
+In section 291 (precognition on oath of defence witnesses) of the 1995 Act, after subsection (5) there is inserted—
+
+> (6) A warrant is not to be granted under this section for the citation for precognition by the accused in person of any child under the age of 12 on the relevant date where the offence in relation to which the child is alleged to be a witness is one specified in section 288E(3) of this Act.
+>
+> (7) In subsection (6) above, “the relevant date” means—
+>
+> (a) where an indictment or complaint in respect of the offence has been served on the accused at the time of the application, the date on which the indictment or complaint was so served, or
+>
+> (b) where an indictment or complaint in respect of the offence has not been so served, the date on which the application under subsection (1) above is made.
+
+.
+
+### Pre-trial procedure in sheriff court summary proceedings
+
+#### 9 Summary proceedings in sheriff court: pre-trial procedure where no intermediate diet is fixed
+
+After section 148A of the 1995 Act there is inserted—
+
+> **148B Pre-trial procedure in sheriff court where no intermediate diet is fixed**
+>
+> (1) Where, in any summary proceedings in the sheriff court, no intermediate diet is fixed, the court shall, at the trial diet before the first witness is sworn—
+>
+> (a) ascertain whether subsection (2) below applies to any person who is to give evidence at or for the purposes of the trial or to the accused and, if so, consider whether it should make an order under section 271A(7) or 271D(2) of this Act in relation to the person or, as the case may be, the accused, and
+>
+> (b) if—
+>
+> (i) section 288E of this Act applies to the proceedings, or
+>
+> (ii) an order under section 288F(2) has been made in the proceedings,
+>
+> ascertain whether or not the accused has engaged a solicitor for the purposes of his defence at the trial.
+>
+> (2) This subsection applies—
+>
+> (a) to a person who is to give evidence at or for the purposes of the trial if that person is, or is likely to be, a vulnerable witness,
+>
+> (b) to the accused if, were he to give evidence at or for the purposes of the trial, he would be, or be likely to be, a vulnerable witness.
+>
+> (3) Where, following inquiries for the purposes of subsection (1)(b) above, it appears to the court that the accused has not engaged a solicitor for the purposes of his defence at the trial, the court may adjourn the trial diet for a period of not more than 48 hours and ordain the accused then to attend.
+>
+> (4) At the trial diet, the court may ask the prosecutor and the accused any question in connection with any matter which it is required to ascertain or consider under subsection (1) above.
+
+.
+
+### Proceedings in the district court
+
+#### 10 Application of vulnerable witnesses provisions to proceedings in the district court
+
+After section 288F of the 1995 Act (as inserted by section 6 of this Act) there is inserted—
+
+> **Application of vulnerable witnesses provisions to proceedings in the district court**
+>
+> **288G Application of vulnerable witnesses provisions to proceedings in the district court**
+>
+> (1) The Scottish Ministers may by order made by statutory instrument provide for any of sections—
+>
+> (a) 271 to 271M,
+>
+> (b) 288E, and
+>
+> (c) 288F,
+>
+> of this Act to apply, subject to such modifications (if any) as may be specified in the order, to proceedings in the district court.
+>
+> (2) An order under subsection (1) may—
+>
+> (a) make such incidental, supplemental, consequential, transitional, transitory or saving provision as the Scottish Ministers think necessary or expedient,
+>
+> (b) make different provision for different district courts or descriptions of district court or different proceedings or types of proceedings,
+>
+> (c) modify any enactment.
+>
+> (3) An order under this section shall not be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
+
+.
+
+## Part 2 — Civil proceedings
+
+### Evidence of children and other vulnerable witnesses: special measures
+
+#### 11 Interpretation of this Part
+
+(1) For the purposes of this Part of this Act, a person who is giving or is to give evidence in or for the purposes of any civil proceedings is a vulnerable witness if—
+
+(a) the person is under the age of [[^F1]18] on the date of commencement of the proceedings (such a vulnerable witness being referred to in this Part as a “child witness”), [^F2]...
+
+(b) where the person is not a child witness, there is a significant risk that the quality of the evidence to be given by the person will be diminished by reason of—
+
+(i) mental disorder (within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)), or
+
+(ii) fear or distress in connection with giving evidence in the proceedings[[^F3], or
+
+(c) the person is of such description or is a witness in such proceedings as the Scottish Ministers may by order subject to the affirmative procedure prescribe.]
+
+(2) In considering whether a person is a vulnerable witness by virtue of subsection (1)(b) above, the court must take into account—
+
+(a) the nature and circumstances of the alleged matter to which the proceedings relate,
+
+(b) the nature of the evidence which the person is likely to give,
+
+(c) the relationship (if any) between the person and any party to the proceedings,
+
+(d) the person’s age and maturity,
+
+(e) any behaviour towards the person on the part of—
+
+(i) any party to the proceedings,
+
+(ii) members of the family or associates of any such party,
+
+(iii) any other person who is likely to be a party to the proceedings or a witness in the proceedings, and
+
+(f) such other matters, including—
+
+(i) the social and cultural background and ethnic origins of the person,
+
+(ii) the person’s sexual orientation,
+
+(iii) the domestic and employment circumstances of the person,
+
+(iv) any religious beliefs or political opinions of the person, and
+
+(v) any physical disability or other physical impairment which the person has,
+
+as appear to the court to be relevant.
+
+(3) For the purposes of subsection (1)(a) above, proceedings are taken to have commenced when the petition, summons, initial writ or other document initiating the proceedings is served, and, where the document is served on more than one person, the proceedings shall be taken to have commenced when the document is served on the first person on whom it is served.
+
+(4) In subsection (1)(b), the reference to the quality of evidence is to its quality in terms of completeness, coherence and accuracy.
+
+(5) In this Part—
+
+- [[^F4]“the 2011 Act” means the Children's Hearings (Scotland) Act 2011 (asp 1),]
+- “child witness notice” has the meaning given in section 12(2),
+- “civil proceedings” includes, in addition to such proceedings in any of the ordinary courts of law, [[^F5]relevant proceedings],
+- “court” is to be construed in accordance with the meaning of “civil proceedings”,
+- [[^F6]“relevant proceedings” means proceedings under Part 10 of the 2011 Act (other than section 98 or 99),]
+- “special measure” means any of the special measures set out in, or prescribed under, section 18,
+- “vulnerable witness application” has the meaning given in section 12(6)(a).
+
+#### 12 Orders authorising the use of special measures for vulnerable witnesses
+
+(1) Where a child witness is to give evidence in or for the purposes of any civil proceedings, the court must, before the proof or other hearing at which the child is to give evidence, make an order—
+
+(a) authorising the use of such special measure or measures as the court considers to be the most appropriate for the purpose of taking the child witness’s evidence, or
+
+(b) that the child witness is to give evidence without the benefit of any special measure.
+
+(2) The party citing or intending to cite a child witness must lodge with the court a notice (referred to in this Part as a “child witness notice”)—
+
+(a) specifying the special measure or measures which the party considers to be the most appropriate for the purpose of taking the child witness’s evidence, or
+
+(b) if the party considers that the child witness should give evidence without the benefit of any special measure, stating that fact,
+
+and the court must have regard to the child witness notice in making an order under subsection (1) above.
+
+(3) If a child witness notice specifies any of the following special measures, namely—
+
+(a) the use of a live television link in accordance with section 20 where the place from which the child witness is to give evidence by means of the link is another part of the court building in which the court-room is located,
+
+(b) the use of a screen in accordance with section 21, or
+
+(c) the use of a supporter in accordance with section 22 in conjunction with either of the special measures referred to in paragraphs (a) and (b) above,
+
+that special measure is, for the purposes of subsection (1)(a) above, to be taken to be the most appropriate for the purposes of taking the child witness’s evidence.
+
+(4) The court may make an order under subsection (1)(b) above only if satisfied—
+
+(a) that the child witness has expressed a wish to give evidence without the benefit of any special measure and that it is appropriate for the child witness so to give evidence, or
+
+(b) that—
+
+(i) the use of any special measure for the purpose of taking the evidence of the child witness would give rise to a significant risk of prejudice to the fairness of the proceedings or otherwise to the interests of justice, and
+
+(ii) that risk significantly outweighs any risk of prejudice to the interests of the child witness if the order is made.
+
+(5) Subsection (6) below applies in relation to a person other than a child witness who is to give evidence in or for the purpose of any civil proceedings (referred to in this section as “the witness”).
+
+(6) The court may—
+
+(a) on an application (referred to in this Part as a “vulnerable witness application”) made to it by the party citing or intending to cite the witness, and
+
+(b) if satisfied that the witness is a vulnerable witness,
+
+make an order authorising the use of such special measure or measures as the court considers most appropriate for the purpose of taking the witness’s evidence.
+
+(7) In deciding whether to make an order under subsection (6) above, the court must—
+
+(a) have regard to—
+
+(i) the possible effect on the witness if required to give evidence without the benefit of any special measure, and
+
+(ii) whether it is likely that the witness would be better able to give evidence with the benefit of a special measure, and
+
+(b) take into account the matters specified in section 11(2)(a) to (f).
+
+[[^F7](8) In the case of relevant proceedings, the child witness notice or vulnerable witness application—
+
+(a) must be lodged or made before the commencement of the hearing at which the child or, as the case may be, vulnerable witness is to give evidence,
+
+(b) on cause shown, may be lodged or made after the commencement of that hearing.]
+
+#### 13 Review of arrangements for vulnerable witnesses
+
+(1) In any civil proceedings in which a person who is giving or is to give evidence (referred to in this section as “the witness”) appears to the court to be a vulnerable witness, the court may at any stage in the proceedings (whether before or after the commencement of the proof or other hearing at which the witness is giving or is to give evidence or before or after the witness has begun to give evidence)—
+
+(a) on the application of the party citing or intending to cite the witness, or
+
+(b) of its own motion,
+
+review the current arrangements for taking the witness’s evidence and make an order under subsection (2) below.
+
+(2) The order which may be made under this subsection is—
+
+(a) where the current arrangements for taking the witness’s evidence include the use of a special measure or combination of special measures authorised by an order under section 12 or under this subsection (referred to as the “earlier order”), an order varying or revoking the earlier order, or
+
+(b) where the current arrangements for taking the witness’s evidence do not include any special measure, an order authorising the use of such special measure or measures as the court considers most appropriate for the purpose of taking the witness’s evidence.
+
+(3) An order under subsection (2)(a) above varying an earlier order may—
+
+(a) add to or substitute for any special measure authorised by the earlier order such other special measure as the court considers most appropriate for the purpose of taking the witness’s evidence, or
+
+(b) where the earlier order authorises the use of a combination of special measures for that purpose, delete any of the special measures so authorised.
+
+(4) The court may make an order under subsection (2)(a) above revoking an earlier order only if satisfied that—
+
+(a) the witness has expressed a wish to give or, as the case may be, continue to give evidence without the benefit of any special measure and that it is appropriate for the witness so to give evidence, or
+
+(b) that—
+
+(i) the use, or continued use, of the special measure for the purpose of taking the witness’s evidence would give rise to a significant risk of prejudice to the fairness of the proceedings or otherwise to the interests of justice, and
+
+(ii) that risk significantly outweighs any risk of prejudice to the interests of the witness if the order is made.
+
+(5) Subsection (7) of section 12 applies to the making of an order under subsection (2)(b) of this section as it applies to the making of an order under subsection (6) of that section but as if the references to the witness were to the witness within the meaning of this section.
+
+(6) In this section, “current arrangements” means the arrangements in place at the time the review under this section is begun.
+
+#### 14 Procedure in connection with orders under sections 12 and 13
+
+(1) In section 5 (power to regulate procedure etc. in the Court of Session by act of sederunt) of the Court of Session Act 1988 (c. 36), after paragraph (d) there is inserted—
+
+> (da) to regulate the procedure to be followed in proceedings in the Court in connection with the making of orders under sections 12(1) and (6) and 13(2) of the Vulnerable Witnesses (Scotland) Act 2004 (asp 3) (“the 2004 Act”);
+>
+> (db) to regulate, so far as not regulated by the 2004 Act, the use in any proceedings in the Court of any special measures authorised by virtue of that Act to be used;
+
+.
+
+(2) In section 32(1) (power of Court of Session to regulate civil procedure in the sheriff court) of the Sheriff Courts (Scotland) Act 1971 (c. 58), after paragraph (e) there is inserted—
+
+> (ea) regulating the procedure to be followed in connection with the making of orders under sections 12(1) and (6) and 13(2) of the Vulnerable Witnesses (Scotland) Act 2004 (asp 3) (“the 2004 Act”);
+>
+> (eb) regulating, so far as not regulated by the 2004 Act, the use of special measures authorised by virtue of that Act to be used;
+
+.
+
+#### 15 Vulnerable witnesses: supplementary provision
+
+(1) Subsection (2) below applies where—
+
+(a) a party is considering for the purposes of a child witness notice or a vulnerable witness application which of the special measures is or are the most appropriate for the purpose of taking the evidence of the person to whom the notice or application relates, or
+
+(b) the court is making an order under section 12(1) or (6) or 13(2).
+
+(2) The party or, as the case may be, the court must—
+
+(a) have regard to the best interests of the witness, and
+
+(b) take account of any views expressed by—
+
+(i) the witness (having regard, where the witness is a child witness, to the witness’s age and maturity), and
+
+(ii) where the witness is a child witness, the witness’s parent.
+
+(3) For the purposes of subsection (2)(b) above, where the witness is a child witness—
+
+(a) the witness is to be presumed to be of sufficient age and maturity to form a view if aged 12 or older, and
+
+(b) in the event that any views expressed by the witness are inconsistent with any views expressed by the witness’s parent, the views of the witness are to be given greater weight.
+
+(4) In this section—
+
+- “parent”, in relation to a child witness, means any person having parental responsibilities within the meaning of section 1(3) of the Children (Scotland) Act 1995 (c. 36) in relation to the child witness,
+
+- “the witness” means—
+
+  - (a) in the case referred to in subsection (1)(a) above, the person to whom the child witness notice or vulnerable witness application relates,
+  - (b) in the case referred to in subsection (1)(b) above, the person to whom the order would relate.
+
+#### 16 Party to proceedings as a vulnerable witness
+
+Where a child witness or other person who is giving or is to give evidence in or for the purposes of any civil proceedings (referred to in this section as “the witness”) is a party to the proceedings—
+
+(a) sections 12 and 13 have effect in relation to the witness as if references in those sections to the party citing or intending to cite the witness were references to the witness, and
+
+(b) section 15 has effect in relation to the witness as if—
+
+(i) in subsection (1), paragraph (a) were omitted, and
+
+(ii) in subsection (2), the words “The party or, as the case may be,” were omitted.
+
+#### 16A [[^F8]Relevant proceedings: Principal Reporter's power to act for party to proceedings
+
+(1) Subsection (2) applies where a child witness or other person who is giving or is to give evidence in or for the purposes of relevant proceedings (referred to in this section as “ the party ”) is a party to the proceedings.
+
+(2) The Principal Reporter may, on the party's behalf—
+
+(a) lodge a child witness notice under section 12(2),
+
+(b) make a vulnerable witness application for an order under section 12(6),
+
+(c) make an application under section 13(1)(a) for review of the current arrangements for taking a witness's evidence.]
+
+#### 17 Crown application and saving provision
+
+(1) Sections 11 to 15 of this Act apply to the Crown.
+
+(2) Nothing in section 12 or 13 of this Act affects any power or duty which a court has otherwise than by virtue of those sections to make or authorise any special arrangements for taking the evidence of any person in any civil proceedings.
+
+#### 18 The special measures
+
+(1) The special measures which may be authorised to be used by virtue of section 12 or 13 of this Act for the purpose of taking the evidence of a vulnerable witness are—
+
+(a) taking of evidence by a commissioner in accordance with section 19,
+
+(b) use of a live television link in accordance with section 20,
+
+(c) use of screen in accordance with section 21,
+
+(d) use of a supporter in accordance with section 22, and
+
+(e) such other measures as the Scottish Ministers may, by order made by statutory instrument, prescribe.
+
+(2) An order under subsection (1)(e) above is not to be made unless a draft of the statutory instrument containing the order has been laid before and approved by a resolution of the Scottish Parliament.
+
+#### 19 Taking of evidence by a commissioner
+
+(1) Where the special measure to be used is taking of evidence by a commissioner, the court must appoint a commissioner to take the evidence of the vulnerable witness in respect of whom the special measure is to be used.
+
+(2) Proceedings before a commissioner appointed under subsection (1) above must be recorded by video recorder.
+
+(3) A party to the proceedings—
+
+(a) must not, except by leave of the court, be present in the room where such proceedings are taking place, but
+
+(b) is entitled by such means as seem suitable to the court to watch and hear the proceedings.
+
+(4) The recording of the proceedings made in pursuance of subsection (2) above is to be received in evidence without being sworn to by witnesses.
+
+#### 20 Live television link
+
+(1) Where the special measure to be used is a live television link, the court must make such arrangements as seem to it appropriate for the vulnerable witness in respect of whom the special measure is to be used to give evidence by means of such a link.
+
+(2) Where—
+
+(a) the live television link is to be used in proceedings in a sheriff court, but
+
+(b) that court lacks accommodation or equipment necessary for the purpose of receiving such a link,
+
+the sheriff may by order transfer the proceedings to any sheriff court in the same sheriffdom which has such accommodation or equipment available.
+
+(3) An order may be made under subsection (2) above—
+
+(a) at any stage in the proceedings (whether before or after the commencement of the proof or other hearing at which the vulnerable witness is to give evidence), or
+
+(b) in relation to a part of the proceedings.
+
+#### 21 Screens
+
+(1) Where the special measure to be used is a screen, the screen must be used to conceal the parties to the proceedings from the sight of the vulnerable witness in respect of whom the special measure is to be used.
+
+(2) However, the court must make arrangements to ensure that the parties are able to watch and hear the vulnerable witness giving evidence.
+
+(3) Subsections (2) and (3) of section 20 apply for the purposes of use of a screen under this section as they apply for the purposes of use of a live television link under that section but as if—
+
+(a) references to the live television link were references to the screen, and
+
+(b) the reference to receiving such a link were a reference to the use of a screen.
+
+#### 22 Supporters
+
+(1) Where the special measure to be used is a supporter, another person (“the supporter”) nominated by or on behalf of the vulnerable witness in respect of whom the special measure is to be used may be present alongside the witness for the purpose of providing support whilst the witness is giving evidence.
+
+(2) Where the person nominated as the supporter is to give evidence in the proceedings, that person may not act as the supporter at any time before giving evidence.
+
+(3) The supporter must not prompt or otherwise seek to influence the vulnerable witness in the course of giving evidence.
+
+#### 22A [[^F9]Giving evidence in chief in the form of a prior statement
+
+(1) This section applies to proceedings in relation to—
+
+(a) an application made by virtue of section 93 or 94 of the 2011 Act to determine whether the ground mentioned in section 67(2)(j) of that Act is established, or
+
+(b) an application under section 110 of that Act for review of a finding that the ground mentioned in section 67(2)(j) of that Act is established.
+
+(2) The special measures which may be authorised by virtue of section 12 or 13 for the purpose of taking the evidence of a vulnerable witness at a hearing to consider such an application include (in addition to those listed in section 18(1)) the giving of evidence in chief in the form of a prior statement in accordance with subsections (3) to (10).
+
+(3) Where that special measure is to be used, a statement made by the vulnerable witness (a “prior statement”) may be lodged in evidence for the purposes of this section by or on behalf of the party citing the vulnerable witness.
+
+(4) A prior statement is admissible as the witness's evidence in chief, or as part of the witness's evidence in chief, without the witness being required to adopt or otherwise speak to the statement in giving evidence.
+
+(5) A prior statement is admissible as evidence of any matter stated in it of which direct oral evidence by the vulnerable witness would be admissible if given at the hearing.
+
+(6) A prior statement is admissible under this section only if—
+
+(a) it is contained in a document, and
+
+(b) at the time the statement was made, the vulnerable witness would have been a competent witness for the purposes of the hearing.
+
+(7) Subsection (6) does not apply to a prior statement—
+
+(a) contained in a precognition on oath, or
+
+(b) made in other proceedings (whether criminal or civil and whether taking place in the United Kingdom or elsewhere).
+
+(8) A prior statement of a type mentioned in subsection (7) is not admissible for the purposes of this section unless it is authenticated in such manner as may be prescribed by regulations made by statutory instrument by the Scottish Ministers.
+
+(9) This section does not affect the admissibility of any statement made by any person which is admissible otherwise than by virtue of this section.
+
+(10) In this section—
+
+- “document” has the meaning given by section 262(3) of the Criminal Procedure (Scotland) Act 1995 (c.46),
+
+- “statement”—
+
+  - (a) includes—
+  
+    - (i) any representation, however made or expressed, of fact or opinion, and
+    - (ii) any part of a statement, but
+  
+  - (b) does not include a statement in a precognition other than a precognition on oath.
+
+(11) For the purposes of this section, a statement is contained in a document where the person who makes it—
+
+(a) makes the statement in the document personally,
+
+(b) makes a statement which is, with or without the person's knowledge, embodied in a document by whatever means or by any person who has direct personal knowledge of the making of the statement, or
+
+(c) approves a document as embodying the statement.
+
+(12) A statutory instrument containing regulations under subsection (8) is subject to annulment in pursuance of a resolution of the Scottish Parliament.]
+
+### Establishment of grounds of referral to children’s hearings: restrictions on evidence
+
+#### [^F10]23 Establishment of grounds of referral to children’s hearings: restrictions on evidence
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Miscellaneous and general
+
+### Abolition of the competence test
+
+#### 24 Abolition of the competence test for witnesses in criminal and civil proceedings
+
+(1) The evidence of any person called as a witness (referred to in this section as “the witness”) in criminal or civil proceedings is not inadmissible solely because the witness does not understand—
+
+(a) the nature of the duty of a witness to give truthful evidence, or
+
+(b) the difference between truth and lies.
+
+(2) Accordingly, the court must not, at any time before the witness gives evidence, take any step intended to establish whether the witness understands those matters.
+
+### Commencement and short title
+
+#### 25 Commencement and short title
+
+(1) This Act (except this section) comes into force on such day as the Scottish Ministers may by order made by statutory instrument appoint.
+
+(2) Different days may be appointed under this section for—
+
+(a) different courts or descriptions of court,
+
+(b) different proceedings or types of proceedings, or
+
+(c) other different purposes.
+
+(3) An order under this section may contain such transitional, transitory and saving provision as the Scottish Ministers consider necessary or expedient.
+
+(4) This Act may be cited as the Vulnerable Witnesses (Scotland) Act 2004.
+
+---
+
+[^F1]: Word in s. 11(1)(a) substituted (1.9.2015) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 22(a), 34; S.S.I. 2015/200, art. 2(2), Sch. (with arts. 1(4) 5)
+[^F2]: Word in s. 11(1) repealed (1.9.2015) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 22(b), 34; S.S.I. 2015/200, art. 2(2), Sch. (with arts. 1(4) 5)
+[^F3]: S. 11(1)(c) and word inserted (1.9.2015) by Victims and Witnesses (Scotland) Act 2014 (asp 1), ss. 22(c), 34; S.S.I. 2015/200, art. 2(2), Sch. (with arts. 1(4) 5)
+[^F4]: Words in s. 11(5) inserted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), ss. 176(2)(a), 206(2) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F5]: Words in s. 11(5) substituted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), ss. 176(2)(b), 206(2) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F6]: Words in s. 11(5) inserted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), ss. 176(2)(c), 206(2) (with s. 186); S.S.I. 2013/195, arts. 2, 3 (as amended by The Children’s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, Sch. 1 para. 20(19))
+[^F7]: S. 12(8) added (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), ss. 176(3), 206(2) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F8]: S. 16A inserted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), ss. 176(4), 206(2) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F9]: S. 22A inserted (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), ss. 176(5), 206(2) (with s. 186); S.S.I. 2013/195, arts. 2, 3
+[^F10]: S. 23 repealed (24.6.2013) by Children’s Hearings (Scotland) Act 2011 (asp 1), s. 206(2), Sch. 6 (with s. 186); S.S.I. 2013/195, arts. 2, 3

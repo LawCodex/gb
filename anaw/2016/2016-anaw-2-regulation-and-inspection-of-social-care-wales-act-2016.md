@@ -1,0 +1,6740 @@
+---
+title: "Regulation and Inspection of Social Care (Wales) Act 2016"
+identifier: "anaw/2016/2"
+citation: "2016 anaw 2"
+type: act
+legislation_type: anaw
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 2016-01-18
+last_amended: 2026-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/anaw/2016/2"
+source_modified: 2026-04-29
+retrieved: 2026-10-11
+---
+
+# Regulation and Inspection of Social Care (Wales) Act 2016
+
+**2016 anaw 2**
+
+An Act of the National Assembly for Wales to make provision for the registration and regulation of persons providing care home services, secure accommodation services, residential family centre services, adoption services, fostering services, adult placement services, advocacy services and domiciliary support services; amending the Social Services and Well-being (Wales) Act 2014 in connection with the regulation of the social services functions of local authorities; for the renaming of the Care Council for Wales as Social Care Wales; for Social Care Wales to provide advice and other assistance to persons providing services involving care and support; for the registration, regulation and training of social care workers; and for connected purposes.
+
+[18 January 2016]
+
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
+
+## PART 1 — REGULATION OF SOCIAL CARE SERVICES
+
+### CHAPTER 1 — INTRODUCTION
+
+#### 1 Overview of Part 1
+
+In this Part—
+
+(a) this Chapter defines some key terms including what is meant by a “regulated service” in this Act, and sets out the general objectives of the Welsh Ministers in relation to the regulation of such services;
+
+(b) Chapter 2 sets out the Welsh Ministers' functions in relation to registering persons who provide regulated services, including provision about varying and cancelling registrations and provision about notifications and appeals;
+
+[[^F1](ba) Chapter 2 also makes provision restricting the entities that may provide‍ children’s home services, secure accommodation services and fostering services;]
+
+(c) Chapter 3 sets out the Welsh Ministers' powers to require information and to carry out inspections [[^F2]and investigations];
+
+(d) Chapter 4 confers some general functions on the Welsh Ministers in relation to regulated services;
+
+(e) Chapter 5 makes provision for offences and penalties;
+
+(f) Chapter 6 amends the Social Services and Well-being (Wales) Act 2014 (anaw 4) to make provision in respect of the social services functions of local authorities (on which, see Schedule 2 to the 2014 Act) including, in particular, provision about—
+
+(i) annual reports by local authorities;
+
+(ii) powers for the Welsh Ministers to conduct reviews of the way in which those functions are exercised;
+
+(iii) powers allowing for the inspection of premises used in connection with the exercise of those functions;
+
+(iv) powers for the Welsh Ministers to require information relating to the exercise of those functions;
+
+(v) offences in connection with inspections or requirements to provide information;
+
+(vi) powers for the Welsh Ministers to regulate the exercise of those local authority functions which relate to looked after and accommodated children;
+
+(g) Chapter 7 makes provision for the Welsh Ministers to monitor the financial sustainability of certain service providers and to prepare and publish reports about the stability of the market for social care services in Wales.
+
+#### 2 Meaning of “regulated service”
+
+(1) In this Act, “regulated service” means—
+
+(a) a care home service,
+
+(b) a secure accommodation service,
+
+(c) a residential family centre service,
+
+(d) an adoption service,
+
+(e) a fostering service,
+
+(f) an adult placement service,
+
+(g) an advocacy service,
+
+(h) a domiciliary support service, and
+
+(i) any other service comprising the provision of care and support in Wales as may be prescribed.
+
+(2) Schedule 1 makes further provision about the meaning of terms used in subsection (1).
+
+(3) The Welsh Ministers may by regulations prescribe things which, despite Schedule 1, are not to be treated as regulated services for the purposes of this Act.
+
+(4) Before making regulations under this section the Welsh Ministers must consult such persons as they think appropriate.
+
+#### 2A [[^F3]Meaning of “restricted children’s service”
+
+(1) For the purposes of this Part, the following regulated services are a “restricted children’s service”—
+
+(a) a care home service‍ in so far as the service is a children’s home service;
+
+(b) a fostering service;
+
+(c) a secure accommodation service.
+
+(2) For the purposes of subsection (1), a “children’s home service” is a care home service provided at one or more places at which the service is provided wholly or mainly to children.‍
+
+(3) Schedule 1 makes further provision about the meaning of a restricted children’s service.]
+
+#### 3 Other key terms
+
+(1) In this Act—
+
+(a) “care” means care relating to—
+
+(i) the day to day physical tasks and needs of the person cared for (for example, eating and washing), and
+
+(ii) the mental processes related to those tasks and needs (for example, the mental process of remembering to eat and wash);
+
+(b) “regulatory functions” means the Welsh Ministers' functions under—
+
+(i) this Part,
+
+(ii) sections 94A and 149A to 161B of the 2014 Act, and
+
+(iii) section 15 of the Adoption and Children Act 2002 (c.38) (inspection of premises relating to adoption services),
+
+but any function of making, confirming or approving subordinate legislation (as defined by section 158(1) of the Government of Wales Act 2006 (c.32)) is not a regulatory function;
+
+(c) “service provider” means a person registered under section 7 to provide a regulated service;
+
+(d) “support” means counselling, advice or other help, provided as part of a plan prepared for the person receiving support by—
+
+(i) a service provider or other person providing care and support to the person, or
+
+(ii) a local authority (even if the authority does not provide care and support to the person).
+
+(2) References in this Act to “care and support” are to be read as references to—
+
+(a) care,
+
+(b) support, or
+
+(c) both care and support.
+
+(3) The Welsh Ministers may by regulations prescribe things which, despite subsection (1)(a) and (d), are not to be treated as care and support for the purposes of this Act.
+
+#### 4 General objectives
+
+The general objectives of the Welsh Ministers in exercising their functions under this Part are—
+
+(a) to protect, promote and maintain the safety and well-being of people who use regulated services, and
+
+(b) to promote and maintain high standards in the provision of regulated services.
+
+### CHAPTER 2 — REGISTRATION ETC. OF SERVICE PROVIDERS
+
+#### Requirement to register
+
+##### 5 Requirement to register
+
+It is an offence for a person to provide a regulated service without being registered in accordance with this Chapter in respect of that service.
+
+#### Application for, variation of and cancellation of registration
+
+##### 6 Application for registration as a service provider
+
+(1) A person who wants to provide a regulated service must make an application for registration to the Welsh Ministers—
+
+(a) specifying the regulated service that the person wants to provide,
+
+(b) specifying the places at, from or in relation to which the service is to be provided,
+
+(c) designating an individual as the responsible individual in respect of each place and stating each such individual's name and address (section 21 sets out who may be designated as a responsible individual), and
+
+(d) including such other information as may be prescribed.
+
+[[^F4](1A) In the case of a person, other than a local authority, who wants to provide a restricted children’s service, the application must also include such information as may be prescribed to satisfy the Welsh Ministers that the person meets the requirement in section 6A(1).]
+
+(2) An application must be in the prescribed form.
+
+(3) A person who wants to be registered as a service provider in respect of two or more regulated services may make a single application in respect of them.
+
+##### 6A [[^F5]Registration in respect of a restricted children’s service
+
+(1) To be registered in respect of a restricted children’s service, a person who is not a local authority must be a not-for-profit entity.
+
+(2) For the purposes of this Part, a “not-for-profit entity” is a person that meets conditions 1 and 2 in subsections (3) and (4).
+
+(3) Condition 1 is that the person’s objects or purposes primarily relate to—
+
+(a) the welfare of children, or
+
+(b) such other public good as the Welsh Ministers may prescribe.
+
+(4) Condition 2 is that the person is one of the following types of undertaking (as defined in section 6B)—
+
+(a) a charitable company limited by guarantee without a share capital,
+
+(b) a charitable incorporated organisation,
+
+(c) a charitable registered society, or
+
+(d) a community interest company limited by guarantee without a share capital.
+
+##### 6B Registration in respect of a restricted children’s service: definitions
+
+(1) The following definitions apply for the purposes of section 6A(4).
+
+(2) A “charitable company limited by guarantee without a share capital” is a company—
+
+(a) that is registered under the Companies Act 2006 (c. 46) in Wales, England, Scotland or Northern Ireland,
+
+(b) whose liability is limited by guarantee and that does not have a share capital, and
+
+(c) that is a charity registered under one or more of—
+
+(i) the Charities Act 2011 (c. 25);
+
+(ii) the Charities and Trustee Investment (Scotland) Act 2005 (asp 10);
+
+(iii) the Charities Act (Northern Ireland) 2008 (c. 12).
+
+(3) A “charitable incorporated organisation” is an organisation registered under—
+
+(a) section 209, 232 or 238 of the Charities Act 2011 or regulations made under section 234 of that Act,
+
+(b) section 55, 58 or 60 of the Charities and Trustee Investment (Scotland) Act 2005, or
+
+(c) section 111, 114 or 117 of the Charities Act (Northern Ireland) 2008 or regulations made under section 115 of that Act.
+
+(4) A “charitable registered society” is—
+
+(a) a society that is—
+
+(i) a “registered society” within the meaning of section 1(1) of the Co-operative and Community Benefit Societies Act 2014 (c. 14), and
+
+(ii) a charity within the meaning of section 1(1) of the Charities Act 2011,
+
+(b) a society that is—
+
+(i) a “registered society” within the meaning of section 1(1) of the Co-operative and Community Benefit Societies Act 2014, and
+
+(ii) a charity registered under the Charities and Trustee Investment (Scotland) Act 2005, or
+
+(c) a society that is—
+
+(i) a “registered society” within the meaning of section 1A(1) of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 (c. 24), and
+
+(ii) a charity registered under the Charities Act (Northern Ireland) 2008.
+
+(5) A “community interest company limited by guarantee without a share capital” is a company—
+
+(a) that is registered under the Companies Act 2006 in Wales, England, Scotland or Northern Ireland,
+
+(b) whose liability is limited by guarantee and that does not have a share capital, and
+
+(c) that is a community interest company under Part 2 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27).
+
+(6) In subsections (2) and (5)—
+
+(a) references to a company’s liability being “limited by guarantee” have the meaning given by section 3(3) of the Companies Act 2006, and
+
+(b) a company does not have a share capital if it does not have power under its constitution to issue shares‍.]
+
+##### 6C [[^F6]Registration in respect of a restricted children’s service: transitional arrangements
+
+Schedule 1A makes provision for transitional arrangements in respect of service providers registered prior to the coming into force of section 6A(1).]
+
+##### 7 Grant or refusal of registration as a service provider
+
+(1) The Welsh Ministers must grant an application under section 6 if satisfied that—
+
+(a) the application—
+
+(i) contains everything required by or under subsection (1) of that section,
+
+(ii) in the case of an application relating to a domiciliary support service, contains the undertaking mentioned in section 8, and
+
+(iii) meets the requirements prescribed under section 6(2);
+
+[[^F7](aa) in the case of an application in respect of a restricted children’s service, the applicant meets the requirement in section 6A(1);]
+
+(b) the applicant is a fit and proper person to be a service provider (see section 9);
+
+(c) each individual to be designated as a responsible individual—
+
+(i) is eligible to be a responsible individual in accordance with section 21(2),
+
+(ii) is a fit and proper person to be a responsible individual (see section 9), and
+
+(iii) will comply with any requirements of regulations under section 28 (so far as applicable);
+
+(d) the requirements of—
+
+(i) any regulations under section 27 (including any requirements as to the standard of care and support that must be provided), and
+
+(ii) any other enactment which appears to the Welsh Ministers to be relevant,
+
+will be complied with (so far as applicable) in relation to the provision of the regulated service.
+
+(2) In any other case the Welsh Ministers must refuse an application.
+
+(3) The grant of an application—
+
+(a) must be subject to a condition specifying—
+
+(i) the places at, from or in relation to which the service provider is to provide a regulated service, and
+
+(ii) the individual designated as the responsible individual for each place, [^F8]...
+
+[[^F9](aa) must, in the case of an application in respect of a restricted children’s service, be subject to a condition that the service provider notify the Welsh Ministers of any circumstances under which the provider no longer meets the requirement in section 6A(1), and]
+
+(b) may be subject to such further conditions as the Welsh Ministers think appropriate.
+
+(4) Where a person has made a single application in respect of two or more regulated services the Welsh Ministers may separately grant or refuse the application in respect of each service.
+
+(5) But the grant of an application takes effect only if the requirements of sections 18 to 20 are met (so far as applicable).
+
+##### 8 Duration of domiciliary support visits
+
+(1) The undertaking mentioned in section 7(1)(a)(ii) and 11(3)(a)(ii) is that a domiciliary support service will not be provided by way of a visit which is shorter than 30 minutes unless either condition A, B or C is met.
+
+(2) Condition A applies where—
+
+(a) a local authority is required—
+
+(i) by virtue of section 35 or 37 of the 2014 Act, to meet the needs of the person being visited, or
+
+(ii) by virtue of section 40 or 42 of that Act, to meet the needs of that person's carer, and
+
+(b) the authority meets those needs by providing or arranging the provision of a domiciliary support service to the person being visited.
+
+(3) Condition A is that—
+
+(a) the individual carrying out the visit has previously carried out a visit during the period for which the local authority maintains—
+
+(i) a care and support plan under section 54(1) of the 2014 Act in respect of the person being visited, or
+
+(ii) a support plan under that section in respect of the person's carer, and
+
+(b) either—
+
+(i) the visit is conducted for the sole purpose of checking whether the person is safe and well, or
+
+(ii) the tasks to be performed during the visit can reasonably be, and are, completed to a standard which satisfies any requirements specified in regulations made under section 27 that are relevant to the visit.
+
+(4) Condition B applies where a domiciliary support service is provided in circumstances where Condition A does not apply.
+
+(5) Condition B is that—
+
+(a) a visit of less than 30 minutes is consistent with the terms of any arrangement to provide the service made between the service provider and the person being visited (or another person acting on behalf of the person being visited),
+
+(b) the visit is conducted for the sole purpose of checking whether the person is safe and well, or
+
+(c) the tasks to be performed during the visit can reasonably be, and are, completed to a standard which satisfies any requirements specified in regulations made under section 27 that are relevant to the visit.
+
+(6) Condition C applies in any case where a domiciliary support service is provided by way of a visit to a person.
+
+(7) Condition C is that the visit is curtailed at the request of the person being visited.
+
+##### 9 Fit and proper person: relevant considerations
+
+(1) This section applies to any decision of the Welsh Ministers as to whether—
+
+(a) a service provider,
+
+(b) a person applying to be a service provider,
+
+(c) a responsible individual, or
+
+(d) a person to be designated as a responsible individual,
+
+is a fit and proper person to be a service provider or, as the case may be, a responsible individual.
+
+(2) In making such a decision the Welsh Ministers must have regard to all matters they think appropriate.
+
+(3) In particular, the Welsh Ministers must have regard to any evidence falling within subsections (4) to (8).
+
+(4) Evidence falls within this subsection if it shows that the person has—
+
+(a) committed—
+
+(i) any offence involving fraud or other dishonesty, violence, firearms or drugs or any offence listed in Schedule 3 to the Sexual Offences Act 2003 (c.42) (offences attracting notification requirements),
+
+(ii) an offence under this Act or regulations made under it,
+
+(iii) an offence under Part 2 of the Care Standards Act 2000 (c.14) or regulations made under it, or
+
+(iv) any other offence which the Welsh Ministers think is relevant, or
+
+(b) practised unlawful discrimination or harassment on the grounds of any characteristic which is a protected characteristic under section 4 of the Equality Act 2010 (c.15), or victimised another person contrary to that Act, in or in connection with the carrying on of any business.
+
+(5) Evidence is within this subsection if—
+
+(a) it shows that any other person associated or formerly associated with the person (whether on a personal, work or other basis) has done any of the things set out in subsection (4) [[^F10]or (6)], and
+
+(b) it appears to the Welsh Ministers that the evidence is relevant to the question as to whether the person is a fit and proper person to be a service provider or, as the case may be, a responsible individual.
+
+(6) Evidence is within this subsection if it shows that the person has been responsible for, contributed to or facilitated misconduct or mismanagement in the provision—
+
+(a) of a regulated service or a service provided outside Wales which, if provided in Wales, would be a regulated service;
+
+(b) of a service which would have fallen within paragraph (a) had the regulatory system established by this Part been operating at the time the service was being provided.
+
+(7) When having regard to evidence within subsection (6), the Welsh Ministers must, among other things, take account of—
+
+(a) the seriousness and duration of the misconduct or mismanagement;
+
+(b) harm caused to any person, or any evidence of an intent to cause harm;
+
+(c) any financial gain made by the person;
+
+(d) any action taken by the person to remedy the misconduct or mismanagement.
+
+[[^F11](e) where the person is a service provider that—
+
+(i) is registered in respect of a restricted children’s service, and
+
+(ii) is subject to the requirement in section 6A(1),
+
+whether it appears to the Welsh Ministers that the provider has entered into a financial arrangement that falls within section 9A.]
+
+(8) Evidence is within this subsection if it shows that the person has previously failed to comply with—
+
+(a) an undertaking given under section 7(1)(a)(ii) or 11(3)(a)(ii),
+
+(b) a condition imposed under this Part, or
+
+(c) a requirement imposed by regulations under section 27(1) or 28(1).
+
+(9) The Welsh Ministers may by regulations amend this section to vary the evidence to which they must have regard.
+
+##### 9A [[^F12]Fit and proper person test: financial arrangements relating to restricted children’s services
+
+(1) For the purposes of the fit and proper person test in section 9, a financial arrangement falls within this section if it is an arrangement with or for the benefit of a relevant person that—
+
+(a) is unreasonable or disproportionate in all of the circumstances, and
+
+(b) (in consequence) may undermine the service provider’s pursuit of its objects or purposes (as‍ to which, see section 6A(3)).
+
+(2) When determining whether such a financial arrangement has been entered into, regard must be had to—
+
+(a) the size or value of the arrangement and its purpose (including the extent to which it relates to the provision of the restricted children’s service);
+
+(b) the size or value of the arrangement relative to the amount of income the service provider receives from providing the restricted children’s service;
+
+(c) the proportion of the service provider’s total income that comes from providing the restricted children’s service;
+
+(d) the well-being of children who receive care and support (in the provision of the restricted children’s service).
+
+(3) For the purposes of section 9(7)(e) and this section—
+
+(a) “entering into a financial arrangement” includes but is not limited to making a payment or awarding any benefit (direct or indirect) that has monetary value (and references to a financial arrangement are to be read as including a series of arrangements);
+
+(b) “relevant person” means any of the following—
+
+(i) an employee, worker or officer of the service provider;
+
+(ii) a person connected to an employee, worker or officer of the service provider;
+
+(iii) where the service provider is part of a group of persons under common ownership or common control, any person within that group.
+
+##### 9B Financial arrangements relating to restricted children’s services: supplementary provision
+
+(1) In section 9A(3)(b)—
+
+(a) “employee” and “worker” have the meanings given by section 230 of the Employment Rights Act 1996 (c. 18);
+
+(b) an “officer” means—
+
+(i) any director, manager, secretary or other similar officer of the service provider (and, in relation to a service provider whose affairs are managed by its members, “director” means a member of the service provider);
+
+(ii) any other person having the general control and management of the service provider,
+
+and, where the service provider is a charity, this includes any charity trustee within the meaning of the Charities Acts.
+
+(2) For the purposes of section 9A(3)(b), the following are connected to an employee, worker or officer of the service provider—
+
+(a) their child, parent, grandchild, grandparent, brother or sister;
+
+(b) their spouse or civil partner;
+
+(c) a person carrying on business in partnership with them or with any person falling within paragraph (a) or (b);
+
+(d) an institution which is controlled—
+
+(i) by them or by any person falling within paragraph (a), (b) or (c), or
+
+(ii) by two or more persons falling within sub-paragraph (i), when taken together;
+
+(e) a body corporate in which—
+
+(i) the person or any connected person falling within any of paragraphs (a) to (c) has a substantial interest, or
+
+(ii) two or more persons falling within sub-paragraph (i), when taken together, have a substantial interest.
+
+(3) In subsection (2)—
+
+(a) “child” includes a stepchild;
+
+(b) where two people are not married to, or civil partners of, each other but live together as if they were a married couple or civil partners, each of them is to be treated as the spouse or civil partner of the other;
+
+(c) “institution” has the meaning given by section 9(3) of the Charities Act 2011 and a person controls an institution if the person is able, directly or indirectly, to secure that the affairs of the institution are conducted in accordance with the person’s wishes;
+
+(d) references to having a “substantial interest in a body corporate” have the meaning given by section 352 of the Charities Act 2011.
+
+(4) For the purposes of section 9A(3)(b)(iii), a group of persons is to be treated as being under common control if the group—
+
+(a) is a group of interconnected bodies corporate,
+
+(b) consists of bodies corporate of which one and the same person or group of persons has control, or
+
+(c) consists of one or more bodies corporate and a person who, or a group of persons which, has control of that or those bodies corporate.
+
+(5) In subsection (4), a “group of interconnected bodies corporate” means a group consisting of two or more bodies corporate all of which are interconnected with each other.
+
+(6) For the purposes of subsection (5), any two bodies corporate are interconnected if—
+
+(a) one of them is a body corporate of which the other is a subsidiary, or
+
+(b) both of them are subsidiaries of one and the same body corporate (and “interconnected bodies corporate” is to be construed accordingly).
+
+(7) For the purposes of subsection (4)(b) and (c), a person or group of persons controls a body corporate if the person or group of persons is able, directly or indirectly, to secure that the affairs of the body corporate are conducted in accordance with the wishes of the person or group of persons.
+
+(8) In this section—
+
+- “the Charities Acts” (“*y Deddfau Elusennau*”) means the Charities Act 2011 (c. 25), the Charities and Trustee Investment (Scotland) Act 2005 (asp 10) and the Charities Act (Northern Ireland) 2008 (c. 12);
+- “person” (“*person*”) includes a body corporate, a partnership and an unincorporated association;
+- “subsidiary” (“*is-gorff*) has the meaning given by section 1159 of the Companies Act 2006 (c. 46).]
+
+##### 10 Annual return
+
+(1) A service provider must [[^F13], following the end of each financial year during which the provider is registered—
+
+(a) submit an annual return to the Welsh Ministers;
+
+(b) publish that return on its website.]
+
+[[^F14](1A) A service provider must make available, on request, a copy of an annual return published on its website.]
+
+(2) An annual return must contain—
+
+(a) the following information—
+
+(i) the regulated services that the service provider is registered to provide;
+
+(ii) the places at, from or in relation to which the provider is registered to provide those services;
+
+(iii) the name of the responsible individual registered in respect of each such place;
+
+(iv) the date on which the provider's registration took effect in respect of each such regulated service and place;
+
+(v) details of any other conditions imposed on the service provider's registration;
+
+(vi) details of the number of persons to whom the provider provided care and support during the year in the course of providing each such service;
+
+(vii) such information about training offered or undertaken in relation to each such service as may be prescribed;
+
+(viii) such information about workforce planning as may be prescribed;
+
+[[^F15](viiia) such information about evidence relevant to the fit and proper person test as may be prescribed;]
+
+(ix) such other information as may be prescribed, and
+
+(b) a statement setting out how the service provider has complied with any regulations made under section 27(1) specifying the standard of care and support that must be provided by a service provider (see section 27(2)).
+
+[[^F16](2A) In the case of a service provider, other than a local authority, that provides a restricted children’s service, a return must also contain such information as may be prescribed to satisfy the Welsh Ministers that the provider meets the requirement in section 6A(1).
+
+(2B) But subsection (2A) does not apply in respect of a provider to‍ which section 6A does not apply by virtue of paragraph 2(4) of Schedule 1A.]
+
+(3) An annual return must be in the prescribed form.
+
+(4) An annual return must be submitted to the Welsh Ministers within the prescribed time limit.
+
+[[^F17](4A) An annual return must be published within the prescribed time limit.
+
+(4B) But if disclosure of information contained in the annual return is prohibited by any enactment or other rule of law, that information must be redacted from the annual return before it is published.]
+
+[^F18]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Despite section 187(3), a statutory instrument containing—
+
+(a) the first regulations made under subsection (2)(a)(vii),
+
+(b) the first regulations made under subsection (2)(a)(viii), [^F19]...
+
+[[^F20](ba) the first regulations made under subsection (2)(a)(viiia),]
+
+(c) the first regulations made under subsection (2)(a)(ix), [[^F21]or]
+
+[[^F22](d) the first regulations made under subsection (2A),]
+
+may not be made unless a draft of the instrument has been laid before and approved by a resolution of [[^F23]Senedd Cymru].
+
+##### 11 Application for variation of registration as a service provider
+
+(1) A service provider must apply to the Welsh Ministers for a variation of the provider's registration if—
+
+(a) the provider wants to—
+
+(i) provide a regulated service which the provider is not already registered to provide,
+
+(ii) provide a regulated service at, from or in relation to a place which is not already specified in the provider's registration in relation to that service,
+
+(iii) cease to provide a regulated service, or
+
+(iv) cease to provide a regulated service at, from or in relation to a place;
+
+(b) the provider wants a condition imposed under section 7(3)(b), 12(2) or 13(1) to be varied or removed;
+
+(c) the provider wants to designate a different responsible individual in respect of a place or is required to designate a responsible individual because there is no such individual designated in respect of a place at, from or in relation to which the provider provides a regulated service.
+
+(2) The Welsh Ministers must by regulations prescribe a time limit within which an application for variation of a provider's registration must be made in circumstances where there is no responsible individual designated in respect of a place at, from or in relation to which the provider provides a regulated service.
+
+(3) An application under subsection (1) must—
+
+(a) contain—
+
+(i) details of the variation sought by the provider,
+
+(ii) in the case of an application under subsection (1)(a)(i) to provide a domiciliary support service, the undertaking set out in section 8, and
+
+(iii) such other information as may be prescribed;
+
+(b) be in the prescribed form.
+
+[[^F24](4) In the case of an application under subsection (1)(a)(i) to provide a restricted children’s service, the application must also contain such information as may be prescribed to satisfy the Welsh Ministers that the service provider meets the requirement in section 6A(1).]
+
+##### 12 Grant or refusal of application for variation
+
+(1) The Welsh Ministers may grant or refuse an application under section 11 (but see [[^F25]subsections (1A) and (2)]).
+
+[[^F26](1A) In the case of an application under section 11(1)(a)(i) to provide a restricted children’s service, the Welsh Ministers may only grant an application if they are satisfied that the service provider meets the requirement in section 6A(1).]
+
+(2) In the case of an application under section 11(1)(b), the Welsh Ministers may (instead of granting or refusing the application)—
+
+(a) vary a condition on different terms to those specified in the application, or
+
+(b) impose another condition on the provider's registration (whether in place of or in addition to the condition which the provider applied to have varied or removed).
+
+(3) But a variation under this section takes effect only if the requirements of sections 18 to 20 are met (so far as applicable).
+
+##### 13 Variation without application
+
+(1) The Welsh Ministers may—
+
+(a) vary any condition imposed under section 7(3)(b), 12(2) or paragraph (b) of this subsection, or
+
+(b) impose a further condition on a service provider's registration.
+
+[^F27]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) If a service provider provides more than one regulated service, the Welsh Ministers may vary the provider's registration by removing a regulated service if satisfied that—
+
+(a) the service provider no longer provides that service, [^F28]...
+
+(b) the service is not being provided in accordance with the requirements mentioned in section 7(1)(d) so far as applicable to that service [[^F29], or]
+
+[[^F30](c) where the service is a restricted children’s service, the service provider does not meet the requirement in section 6A(1)].
+
+[[^F31](3A) See also paragraph 3(4)(a) of Schedule 1A, in respect of variation of a service provider’s registration to remove a restricted children’s service during the transitional period defined in that Schedule.]
+
+(4) If a service provider provides a regulated service at, from or in relation to more than one place, the Welsh Ministers may vary the provider's registration by removing a place if satisfied that—
+
+(a) the service provider no longer provides a regulated service at, from or in relation to that place,
+
+(b) the service provided at, from or in relation to that place is not being provided in accordance with the requirements mentioned in section 7(1)(d) so far as applicable to that service,
+
+[[^F32](ba) the responsible individual designated in respect of that place, or any other person, has been convicted of, or has been given a caution in respect of, a relevant offence in connection with a regulated service provided by the service provider at, from or in relation to that place,] or
+
+(c) there is no responsible individual designated in respect of that place (and the time limit prescribed under section 11(2) has expired).
+
+[[^F33](4A) For the purposes of subsection (4)(ba) a relevant offence is an offence listed in section 15(2).]
+
+(5) No variation may be made under [[^F34]this section unless—
+
+(a) in the case of variation under subsection (1), (3)(a) or (4)(a), the requirements of sections 18 and 19 are met;
+
+(b) in the case of variation under subsection (3)(b), (4)(b), (ba) or (c), the requirements of sections 16 and 17 are met.]
+
+[[^F35](6) But nothing in subsection (5) affects the power of the Welsh Ministers to urgently vary a registration under section 23.]
+
+##### 14 Application for cancellation of registration as a service provider
+
+(1) If a service provider applies to the Welsh Ministers for cancellation of the provider's registration, the Welsh Ministers must grant the application unless they have taken action with a view to cancelling the registration under section 15 or 23.
+
+[[^F36](1A) An application under subsection (1) must—
+
+(a) contain such information as the Welsh Ministers may prescribe;
+
+(b) be in the prescribed form.]
+
+(2) The Welsh Ministers must give notice of the granting of an application for cancellation under this section to the service provider.
+
+(3) Cancellation under this section takes effect—
+
+(a) on the day falling 3 months after the day on which the service provider receives the notice, or
+
+(b) such earlier day as the Welsh Ministers may specify in the notice.
+
+##### 15 Cancellation without application
+
+(1) The Welsh Ministers may cancel the registration of a service provider on any of the following grounds—
+
+(a) the service provider no longer provides any regulated services;
+
+(b) the Welsh Ministers are no longer satisfied that the service provider is a fit and proper person to be a service provider (see section 9);
+
+[[^F37](ba) the service provider has been convicted of, or has been given a caution in respect of, a relevant offence in connection with a regulated service that they provide;]
+
+(c) there is no responsible individual designated in respect of each place at, from or in relation to which the provider provides a regulated service (and the time limit for applying to vary the registration prescribed in regulations made under section 11(2) has expired);
+
+(d) [[^F38]a responsible individual other than the service provider (see section 21(2)(a))] designated in respect of a place at, from or in relation to which the provider provides a regulated service has been convicted of, or has been given a caution in respect of, a relevant offence in connection with a regulated service provided by the service provider;
+
+(e) any other person has been convicted of, or has been given a caution in respect of, a relevant offence in connection with a regulated service provided by the service provider;
+
+(f) a regulated service provided by the service provider is not being provided in accordance with the requirements mentioned in section 7(1)(d) so far as applicable to that service [[^F39];
+
+(g) each of the services that the service provider is registered in respect of is a restricted children’s service and the service provider does not meet the requirement in section 6A(1)].
+
+[[^F40](1A) See also paragraph 3(4)(b) of Schedule 1A, in respect of cancellation of the registration of a service provider in respect of a restricted children’s service during the transitional period defined in that Schedule.]
+
+(2) For the purposes of [[^F41]subsection (1)(ba), (d)] and (e), the following are relevant offences—
+
+(a) an offence under this Act or regulations made under it;
+
+(b) an offence under Part 2 of the Care Standards Act 2000 (c.14) or regulations made under it;
+
+(c) any offence which, in the opinion of the Welsh Ministers, makes it appropriate for the registration to be cancelled (including an offence committed outside England and Wales which, if committed in England and Wales, would constitute a criminal offence).
+
+(3) No cancellation may be made under this section unless [[^F42]—
+
+(a) in the case of‍ cancellation on the grounds set out in subsection (1)(a), (b) or (ba), the requirements of sections 18 and 19 are met;
+
+(b) in the case of‍ cancellation on the grounds set out in subsection (1)(c), (d), (e) or (f), the requirements of sections 16 and 17 are met.]
+
+[[^F43](4) But nothing in subsection (3) affects the power of the Welsh Ministers to urgently cancel a registration under section 23.]
+
+#### Notice requirements
+
+##### 16 Improvement notices
+
+(1) This section applies where the Welsh Ministers propose to—
+
+(a) cancel the registration of a service provider under [[^F44]section 15(1)(c), (d), (e) or (f)], or
+
+(b) vary a provider's registration under [[^F45]section 13(3)(b) or (4)(b), (ba) or (c)].
+
+(2) Before cancelling or varying the registration the Welsh Ministers must give an improvement notice to the service provider.
+
+(3) An improvement notice given under subsection (2) must specify—
+
+(a) the ground on which the Welsh Ministers propose to cancel or vary the registration and, in the case of a variation, the manner of the variation,
+
+(b) action the Welsh Ministers think the provider must take, or information the provider must provide, in order to satisfy them that cancellation or variation on the basis of that ground is not appropriate, and
+
+(c) a time limit within which—
+
+(i) the action must be taken or the information must be provided, and
+
+(ii) the service provider may make representations.
+
+(4) The service provider may make representations to the Welsh Ministers before the expiry of the time limit specified in the improvement notice and the Welsh Ministers must have regard to those representations when deciding what to do under section 17.
+
+##### 17 Notice of decision following improvement notice
+
+(1) If the Welsh Ministers are satisfied that—
+
+(a) action specified in an improvement notice has been taken, or
+
+(b) information so specified has been provided,
+
+within the time limit specified in the notice they must notify the service provider that they have decided not to cancel or vary the provider's registration on the ground specified in the improvement notice.
+
+(2) If the Welsh Ministers are not satisfied that information specified in an improvement notice has been provided within the time limit specified in the notice they must give the service provider a decision notice stating that the provider's registration is to be cancelled or varied on the ground specified in the improvement notice.
+
+(3) If the Welsh Ministers are not satisfied that action specified in an improvement notice has been taken within the time limit specified in the notice they must either—
+
+(a) give the service provider a decision notice stating that the provider's registration is to be cancelled or varied on the ground specified in the improvement notice, or
+
+(b) notify the provider—
+
+(i) that the action has not been taken,
+
+(ii) of a new date by which the action must be taken,
+
+(iii) that, following that date, an inspection under section 33 of the regulated service or place to which the improvement notice relates will be carried out, and
+
+(iv) that, following that inspection, if the action has not been taken they will proceed to cancel or vary the provider's registration on the ground specified in the improvement notice.
+
+(4) If, after the inspection, the Welsh Ministers are satisfied that the action specified in the improvement notice has been taken they must notify the service provider that they have decided not to cancel or vary the provider's registration on the ground specified in the improvement notice.
+
+(5) If, after the inspection, the Welsh Ministers are still not satisfied that the action specified in the improvement notice has been taken they must give the service provider a decision notice stating that the provider's registration is to be cancelled or varied on the ground specified in the improvement notice.
+
+(6) A decision notice given under subsection (2), (3)(a) or (5) must—
+
+(a) state the reasons for the decision (including the grounds for cancellation or variation), and
+
+(b) explain the right of appeal conferred by section 26.
+
+(7) A decision stated in a notice given under subsection (2), (3)(a) or (5) takes effect—
+
+(a) if no appeal is made against the decision, on the day after the last day of the 28 day period referred to in section 26(2), or
+
+(b) if an appeal is made, on the day specified by the tribunal in determining the appeal or on the day the appeal is withdrawn.
+
+##### 18 Notice of proposal
+
+(1) This section applies where the Welsh Ministers propose to—
+
+(a) grant an application for registration as a service provider subject to a condition that has not been agreed in writing with the applicant,
+
+(b) refuse an application for registration or for variation of registration as a service provider, [^F46]...
+
+(c) vary the registration of a service provider other than—
+
+(i) in accordance with an application for variation made under section 11, or
+
+(ii) under [[^F47]section 13(3)(b) or (4)(b), (ba) or (c), 23(1)(b) or 25(2)(a), or]
+
+[[^F48](d) cancel the registration of a service provider‍ other than under section 15(1)(c), (d), (e) and (f).]
+
+(2) The Welsh Ministers must give a notice of the proposal to the service provider—
+
+(a) specifying the action the Welsh Ministers propose to take,
+
+(b) giving reasons for the proposal, and
+
+(c) specifying a time limit of no less than 28 days from the date on which the notice is given within which the service provider may make representations to the Welsh Ministers.
+
+(3) A notice of proposal may specify action which, if taken by a provider within the time limit specified in the notice, would result in the Welsh Ministers not taking the action they propose in the notice.
+
+(4) In the case of a refusal of an application for registration as a service provider references in this section and section 19 to a “service provider” are to be treated as references to the person who applied to be registered as a service provider.
+
+##### 19 Notice of decision following notice of proposal
+
+(1) This section applies where the Welsh Ministers have given a notice of proposal.
+
+(2) In making a decision on the proposal, the Welsh Ministers must have regard to any representations made to them (whether made by the service provider or any other person who the Welsh Ministers think has an interest).
+
+(3) If the Welsh Ministers are satisfied that a service provider has taken such action as may be specified under section 18(3) within the time limit specified in the notice of proposal, they must not take the action proposed in the notice.
+
+(4) The Welsh Ministers must give a notice of decision to the service provider no later than 28 days after the expiry of the later of—
+
+(a) the time limit specified under subsection (2)(c) of section 18, or
+
+(b) any time limit as may be specified under subsection (3) of that section.
+
+(5) Despite subsection (4), a notice of decision given after the 28 day period mentioned in that subsection is valid if the notice—
+
+(a) gives reasons for the delay in making the decision, and
+
+(b) is given no later than 56 days after the expiry of the later of the time limits mentioned in paragraphs (a) and (b) of subsection (4).
+
+(6) A notice of decision given under subsection (4) must—
+
+(a) state whether the Welsh Ministers have decided to take the action specified in the notice of proposal,
+
+(b) give reasons for the decision, and
+
+(c) if the Welsh Ministers have decided to take the action specified in the notice of proposal, explain the right of appeal conferred by section 26.
+
+(7) A decision stated in a notice given under subsection (4) to take action specified in a notice of proposal takes effect—
+
+(a) if no appeal is made against the decision, on the day after the last day of the 28 day period referred to in section 26(2), or
+
+(b) if an appeal is made, on the day specified by the tribunal in determining the appeal or on the day the appeal is withdrawn.
+
+(8) The Welsh Ministers may by regulations amend—
+
+(a) the 28 day period mentioned in subsection (4);
+
+(b) the 56 day period mentioned in subsection (5)(b).
+
+##### 20 Notice of decision without notice of proposal
+
+(1) This section applies where the Welsh Ministers have decided to—
+
+(a) grant an application for registration as a service provider subject only to conditions that have been agreed in writing with the applicant, or
+
+(b) vary the registration of a service provider in accordance with an application for variation made under section 11.
+
+(2) The Welsh Ministers must give a notice of decision to the service provider.
+
+(3) A decision stated in a notice given under subsection (2) takes effect on the date on which the notice is given.
+
+#### Responsible individuals
+
+##### 21 Responsible individuals
+
+(1) In this Part, “responsible individual” means an individual—
+
+(a) who is eligible to be a responsible individual under subsection (2),
+
+(b) who the Welsh Ministers are satisfied is a fit and proper person to be a responsible individual (see section 9), and
+
+(c) designated by a service provider in respect of a place at, from or in relation to which the provider provides a regulated service and specified as such in the service provider's registration.
+
+(2) To be eligible to be a responsible individual the individual must—
+
+(a) where the service provider is an individual, be the service provider;
+
+(b) where the service provider is a partnership, be one of the partners;
+
+(c) where the service provider is a body corporate other than a local authority—
+
+(i) be a director or similar officer of the body,
+
+(ii) in the case of a public limited company, be a director or company secretary, or
+
+(iii) in the case of a body corporate whose affairs are managed by its members, be a member of the body;
+
+(d) where the service provider is an unincorporated body, be a member of the body;
+
+(e) where the service provider is a local authority, be an officer of the local authority designated by the authority's director of social services.
+
+(3) For the purposes of subsection (2)(e), a local authority's director of social services may designate an officer only if the director thinks that the officer has the necessary experience and expertise to be a responsible individual.
+
+(4) The same responsible individual may be designated in relation to more than one place at, from or in relation to which a regulated service is provided.
+
+(5) The Welsh Ministers may, by regulations—
+
+(a) specify circumstances in which the Welsh Ministers (instead of a service provider) may designate an individual to be a responsible individual despite the requirements of subsection (2) not being met in respect of the individual, and
+
+(b) make provision for this Part to apply with prescribed modifications to such a responsible individual.
+
+##### 22 Cancellation of designation of a responsible individual
+
+(1) The Welsh Ministers may cancel a responsible individual's designation only on one or more of the following grounds—
+
+(a) they have reason to believe the individual no longer satisfies the requirements of section 21(2);
+
+(b) they have reason to believe the individual has been convicted of, or has been given a caution in respect of, a relevant offence in connection with a regulated service provided by the service provider;
+
+(c) they are no longer satisfied that the individual is a fit and proper person to be a responsible individual (see section 9);
+
+(d) they have reason to believe that the individual has not complied with a requirement imposed on the individual by regulations under section 28(1).
+
+(2) In subsection (1)(b), “relevant offence” has the same meaning as in section 15.
+
+(3) If the Welsh Ministers propose to cancel a responsible individual's designation they must give the individual an improvement notice.
+
+(4) An improvement notice given under subsection (3) must specify—
+
+(a) the reason why the Welsh Ministers propose to cancel the responsible individual's designation,
+
+(b) either—
+
+(i) action that they think the individual must take, or
+
+(ii) information they think the individual must provide,
+
+in order to satisfy them that the individual's designation should not be cancelled, and
+
+(c) a time limit within which the action must be taken or the information must be provided.
+
+(5) If the Welsh Ministers are not satisfied that—
+
+(a) action specified in an improvement notice has been taken, or
+
+(b) information so specified has been provided,
+
+within the time limit specified in the notice they may give a notice of cancellation.
+
+(6) The Welsh Ministers may give a notice of cancellation of a responsible individual's designation without taking the steps mentioned in subsections (3) to (5) if they have reasonable cause to believe that unless the designation is cancelled a person will or may be exposed to a risk of harm.
+
+(7) A notice of cancellation must be given to—
+
+(a) the responsible individual, and
+
+(b) the service provider who designated the individual.
+
+(8) An individual ceases to be designated as a responsible individual when the notice of cancellation is given to the service provider.
+
+(9) A notice of cancellation must—
+
+(a) give reasons for the decision,
+
+(b) explain the right of appeal conferred by section 26,
+
+(c) explain the requirement on the service provider to apply for variation of registration (see section 11(1)(c)), and
+
+(d) state the time limit prescribed under section 11(2) (prescribed time limit for applying to designate a new responsible individual).
+
+(10) In subsection (6), “harm” means abuse or impairment of—
+
+(a) physical or mental health, or
+
+(b) physical, intellectual, emotional, social or behavioural development,
+
+and in a case where the harm relates to the impairment of a child's health or development, the child's health or development is to be compared with that which could reasonably be expected of a similar child.
+
+#### Urgent action
+
+##### 23 Urgent cancellation or variation of services or places
+
+(1) The Welsh Ministers may apply to a justice of the peace for an order authorising them—
+
+(a) to cancel the registration of a service provider, or
+
+(b) to vary the registration of a service provider by removing from the registration—
+
+(i) a regulated service, or
+
+(ii) a place at, from or in relation to which the provider is providing a regulated service.
+
+(2) The Welsh Ministers may apply for an order under subsection (1) only on the ground that unless the registration is cancelled or varied there is a serious risk—
+
+(a) to a person's—
+
+(i) life, or
+
+(ii) physical or mental health, or
+
+(b) of a person suffering from abuse or neglect.
+
+(3) As soon as practicable after making an application under subsection (1) the Welsh Ministers must notify—
+
+(a) each local authority and Local Health Board in whose area the service provider provides a regulated service, and
+
+(b) any other person the Welsh Ministers think it appropriate to notify.
+
+(4) The justice of the peace may make the order only if the justice is satisfied as to the ground on which the Welsh Ministers made the application.
+
+(5) An order under this section may be made in the absence of the service provider to whom it relates if the justice of the peace is satisfied that—
+
+(a) the Welsh Ministers have taken all reasonable steps to notify the service provider of their intention to apply for an order under this section, or
+
+(b) it is not appropriate to take any such steps.
+
+(6) An order made under this section has effect—
+
+(a) as soon as it is made, or
+
+(b) at such other time as the justice of the peace thinks appropriate.
+
+(7) In particular, the justice of the peace may specify that the order is not to take effect until such time following the giving of notice under section 24(1) as the justice thinks appropriate.
+
+##### 24 Urgent cancellation or variation: notification and appeals
+
+(1) As soon as is practicable after an order is made under section 23 the Welsh Ministers must give a notice to the service provider to whom the order relates explaining—
+
+(a) the terms of the order, and
+
+(b) the right of appeal conferred by subsection (2).
+
+(2) No later than 14 days after the day on which the notice given under subsection (1) is given, the service provider may appeal to the tribunal against the making of the order.
+
+(3) But the tribunal may allow an appeal to be made after the expiry of that 14 day period if it is satisfied that there is a good reason for the failure to appeal before the expiry of that period (and for any delay in applying for permission to appeal out of time).
+
+(4) On an appeal under subsection (2), the tribunal may—
+
+(a) confirm the order;
+
+(b) revoke the order;
+
+(c) make such other order (including an interim order) as the tribunal thinks appropriate.
+
+(5) An interim order of the tribunal may, among other things, suspend the effect of an order made under section 23 for such period as the tribunal may specify.
+
+##### 25 Urgent variation of registration: other conditions
+
+(1) This section applies where the Welsh Ministers think that unless they act under this section there is, or may be, a risk—
+
+(a) to a person's—
+
+(i) life, or
+
+(ii) physical or mental health, or
+
+(b) of a person suffering from abuse or neglect.
+
+(2) The Welsh Ministers may give a decision notice to a service provider—
+
+(a) varying a condition imposed under section 7(3)(b), 12(2), 13(1) or previously imposed under this section, or
+
+(b) imposing a condition that could have been imposed under any of those sections.
+
+(3) A decision notice given under subsection (2) takes effect on the day it is given.
+
+(4) A decision notice given under subsection (2) must—
+
+(a) state that it is given under this section,
+
+(b) specify the condition to be varied or imposed,
+
+(c) give reasons for imposing or varying the condition,
+
+(d) explain the right to make representations conferred by subsection (5), and
+
+(e) explain the right of appeal conferred by section 26.
+
+(5) The Welsh Ministers may vary or remove a condition varied or imposed under subsection (2) by giving a further decision notice to the service provider, but before doing so they must have regard to any representations made to them by the service provider about the notice given under subsection (2).
+
+(6) A decision notice given under subsection (5) takes effect on the day it is given.
+
+(7) A decision notice given under subsection (5) must—
+
+(a) state that it is given under this section,
+
+(b) specify the condition to be varied or removed,
+
+(c) give reasons for the decision, and
+
+(d) explain the right of appeal conferred by section 26.
+
+#### Appeals
+
+##### 26 Appeals
+
+(1) An appeal lies to the tribunal against a decision contained in a notice given under section 17(2), (3)(a) or (5), 19(4), 22(5) or (6) or 25(2) or (5).
+
+(2) An appeal under subsection (1) must be made no later than 28 days after the date on which the decision notice is given.
+
+(3) But the tribunal may allow an appeal to be made after the expiry of that 28 day period if it is satisfied that there is a good reason for the failure to appeal before the expiry of that period (and for any delay in applying for permission to appeal out of time).
+
+(4) On an appeal under subsection (1), the tribunal may—
+
+(a) confirm the decision;
+
+(b) direct that the decision is not to take effect (or, if the decision has taken effect, direct that the decision is to cease to have effect);
+
+(c) substitute for the decision appealed against another decision that the Welsh Ministers could have made;
+
+(d) make such other order (including an interim order) as the tribunal thinks appropriate.
+
+(5) An interim order may, among other things, suspend the effect of a decision for such period as the tribunal may specify.
+
+#### Regulations and guidance
+
+##### 27 Regulations about regulated services
+
+(1) The Welsh Ministers may by regulations impose requirements on a service provider in relation to a regulated service.
+
+(2) Requirements imposed by regulations under subsection (1) must include requirements as to the standard of care and support to be provided by a service provider.
+
+(3) The Welsh Ministers must, when making regulations imposing requirements of the kind mentioned in subsection (2), have regard to—
+
+(a) the importance of the well-being of any individuals to whom care and support will be provided, and
+
+(b) the quality standards included in any code issued under section 9 of the 2014 Act (codes to help achieve outcomes specified in well-being statements).
+
+(4) Before making regulations under this section the Welsh Ministers must—
+
+(a) consult any persons they think appropriate, and
+
+(b) publish a statement about the consultation.
+
+(5) The Welsh Ministers must lay a copy of a statement published under subsection (4)(b) before [[^F49]Senedd Cymru].
+
+(6) But the requirement to consult and publish a statement does not apply to regulations which—
+
+(a) amend other regulations made under this section, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+##### 28 Regulations about responsible individuals
+
+(1) The Welsh Ministers may by regulations impose requirements on a responsible individual in relation to a place in respect of which the individual is designated.
+
+(2) Regulations under subsection (1) may include provision requiring a responsible individual to appoint an individual of a prescribed description to manage the place in respect of which the responsible individual is designated.
+
+(3) Regulations under subsection (1) may make provision for a function conferred on a responsible individual by the regulations to be delegated to another person only in prescribed circumstances but such provision may not affect the liability or responsibility of the responsible individual for exercising the function.
+
+(4) Before making regulations under this section the Welsh Ministers must consult any persons they think appropriate.
+
+(5) But the requirement to consult does not apply to regulations which—
+
+(a) amend other regulations made under this section, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+##### 29 Guidance about regulations under sections 27 and 28
+
+(1) The Welsh Ministers must publish guidance about how—
+
+(a) service providers may comply with requirements imposed by regulations under section 27(1) (including how providers may meet any standards for the provision of a regulated service specified by such regulations);
+
+(b) responsible individuals may comply with requirements imposed by regulations under section 28(1).
+
+(2) The Welsh Ministers may revise guidance published under subsection (1) and must publish the revised guidance.
+
+(3) Service providers and responsible individuals must have regard to guidance published under this section.
+
+##### 30 Regulations about service providers who are liquidated etc.
+
+(1) The Welsh Ministers may by regulations make provision—
+
+(a) requiring an appointed person to notify them of that appointment;
+
+(b) for this Part to apply with prescribed modifications to service providers in relation to whom such a person has been appointed.
+
+(2) In subsection (1) “appointed person” means a person appointed as—
+
+(a) a receiver or administrative receiver of the property of a service provider who is a body corporate or a partnership;
+
+(b) a liquidator, provisional liquidator or administrator of a service provider who is a body corporate or a partnership;
+
+(c) a trustee in bankruptcy of a service provider who is an individual or a partnership.
+
+##### 31 Regulations about service providers who have died
+
+(1) The Welsh Ministers may by regulations make provision—
+
+(a) for this Part to apply with prescribed modifications where a service provider who is an individual has died;
+
+(b) requiring the personal representatives of such an individual to notify the Welsh Ministers of the death.
+
+(2) Regulations under subsection (1) may in particular provide for a prescribed person who is not a service provider to act in that capacity for a prescribed period and for that period to be extended in prescribed circumstances.
+
+### CHAPTER 3 — INFORMATION [[^F50], INSPECTIONS AND INVESTIGATIONS]
+
+#### 32 Power to require information
+
+(1) [[^F51]Subsections (1A) and (1B) apply where the Welsh Ministers consider that a relevant person may have] information relating to a regulated service which the Welsh Ministers think [[^F52]it] necessary or expedient to obtain for the purposes of exercising their functions under Chapter 2 and this Chapter of this Part or under sections 38 to 40.
+
+[[^F53](1A) Where this subsection applies, the Welsh Ministers may give a notice to a relevant person requiring that person—
+
+(a) to produce any documents which—
+
+(i) are specified or described in the notice, or fall within a category of document which is specified or described in the notice, and
+
+(ii) are in the person’s custody or under the person’s control, and
+
+(b) to produce the documents in a manner specified in the notice.
+
+(1B) Where this subsection applies, the Welsh Ministers may give a notice to a relevant person requiring that person—
+
+(a) to answer any question—
+
+(i) which is asked in the notice, and
+
+(ii) the answer to which is known to the person, and
+
+(b) to answer in a manner specified in the notice.]
+
+(2) But the Welsh Ministers may not require a person to provide information if [[^F54]—
+
+(a) disclosure of that information is prohibited by any enactment or other rule of law;
+
+(b) the person would be entitled to refuse to disclose the information in proceedings in the High Court on grounds of legal professional privilege.]
+
+(3) For the purposes of subsection (1), “relevant person” means—
+
+(a) a service provider,
+
+(b) a responsible individual,
+
+(c) a person employed by or otherwise working for a service provider, and
+
+(d) any person who has held any of those positions.
+
+(4) The power to require information under subsection (1) includes—
+
+(a) power to require copies of any documents or records (including medical and other personal records), and
+
+(b) power to require the provision of information in legible form.
+
+[[^F55](5) Where the Welsh Ministers require a person to provide information as they suspect an offence is being or has been committed—
+
+(a) they may only require the information to be provided if they have reasonable grounds for their suspicion;
+
+(b) they must inform the person, in writing, of the purpose for which they are requiring the information to be provided.
+
+(6) In this section references to a “service provider” include a person who the Welsh Ministers reasonably suspect—
+
+(a) is providing a regulated service at a place in respect of which that person is not registered under section 7, or
+
+(b) has provided a regulated service at a place in respect of which that person was not registered under section 7.]
+
+#### 33 Inspections [[^F56], investigations] and inspectors
+
+(1) In this Part a reference to an “inspection” is a reference to an inspection—
+
+(a) of the standard of any care and support provided by a service provider in the course of providing a regulated service, measured in relation to any requirements imposed by regulations under section 27(1) as to the standard of care and support to be provided;
+
+(b) of the organisation [[^F57], management or] co-ordination of regulated services provided by a service provider.
+
+[[^F58](1A) In this Part a reference to an “investigation is a reference to an investigation into whether a person is committing or has committed an offence under this Part.]
+
+(2) Only an individual authorised by the Welsh Ministers (referred to in this Part as an “inspector”) may carry out an inspection [[^F59]or an investigation].
+
+(3) The Welsh Ministers may by regulations make provision about the qualifications and other conditions to be met by an individual who may be an inspector.
+
+(4) The Welsh Ministers must prepare and publish a code of practice about the manner in which inspections are to be carried out (including the frequency of inspections).
+
+(5) The Welsh Ministers may revise the code and must publish a revised code.
+
+(6) An inspector must have regard to the code when carrying out an inspection.
+
+#### 34 Powers of inspector to enter [^F60]... premises
+
+(1) For the purposes of carrying out an inspection [[^F61]or an investigation], an inspector may enter [^F62]... any premises which the inspector has reasonable grounds to believe is (or has been) used—
+
+(a) as a place at or from which a regulated service is (or has been) provided, or
+
+(b) in connection with the provision of a regulated service.
+
+(2) But an inspector may not enter [^F63]... premises used wholly or mainly as a private dwelling unless the occupier consents.
+
+(3) Where an inspector enters premises for the purposes of carrying out an inspection [[^F64]or an investigation], the inspector must, if requested to do so by any person at the premises, produce a document showing the inspector's authorisation under section 33.
+
+(4) [[^F65]When carrying out an inspection or an investigation,] the inspector may—
+
+(a) examine the state and management of the premises and assess the well-being of any persons accommodated or receiving care and support there;
+
+(b) require—
+
+(i) the manager or any other person who appears to the inspector to be responsible for the day to day management of the service at or from the premises, or
+
+(ii) where the service is no longer being provided, a person who appears to the inspector to have responsibility for the day to day management of the premises,
+
+to produce any documents or records (including medical and other personal records) that the inspector thinks may be relevant to the provision of the regulated service;
+
+(c) inspect and take copies of any documents or records (including medical and other personal records) that the inspector thinks may be relevant to the provision of the regulated service;
+
+(d) seize and remove any document or other thing found at the premises which the inspector has reasonable grounds to believe may be evidence of a failure to comply with any condition or other requirement imposed by virtue of this Part;
+
+(e) require—
+
+(i) the manager or any other person who appears to the inspector to be responsible for the day to day management of the service at or from the premises, or
+
+(ii) where the service is no longer being provided, a person who appears to the inspector to have responsibility for the day to day management of the premises,
+
+to afford the inspector such facilities and assistance as are necessary to enable the inspector to carry out the inspection;
+
+(f) take such measurements and photographs and make such recordings as the inspector thinks necessary for the purpose of carrying out the inspection.
+
+(5) The powers in subsection (4)(b) to (d) include the power to—
+
+(a) gain access to and check the operation of any computer and associated apparatus which the inspector has reasonable grounds to believe is (or has been) used in connection with the documents or records, and
+
+(b) require documents or records to be produced in a form which is legible and portable.
+
+(6) “Premises” includes a vehicle.
+
+#### 35 Powers of inspector to interview and examine persons
+
+(1) If an inspector thinks it necessary or expedient for the purposes of carrying out an inspection [[^F66]or an investigation], the inspector may require any person to be interviewed by the inspector [^F67]....
+
+[[^F68](1A) An inspector may require an interview under subsection (1) to be carried out in private.]
+
+(2) But an inspector [[^F69]—
+
+(a) may not interview a person falling within subsection (3) without the person’s consent, and
+
+(b) may not interview a person (“P”) for the purpose of inquiring whether P has committed an offence unless—
+
+(i) P is informed of the purpose of the interview;
+
+(ii) P is given the opportunity to obtain legal representation.]
+
+(3) The following persons fall within this subsection—
+
+(a) a person to whom the service provider provides (or has provided) care and support;
+
+(b) an individual with parental responsibility for the person;
+
+(c) a relative of the person;
+
+(d) the person's carer;
+
+(e) a donee of a lasting power of attorney over the person.
+
+(4) An inspector may [[^F70]for the purposes of carrying out an inspection] examine in private a person to whom the service provider provides (or has provided) care and support if—
+
+(a) the inspector is a registered medical practitioner or registered nurse,
+
+(b) the inspector thinks the examination is necessary or expedient for the purposes of assessing the effect of any such care and support on the well-being of the person, and
+
+(c) the person consents to the examination.
+
+(5) For the purposes of subsections (1) and (4), an interview or examination is to be treated as conducted in private despite the presence of a third party if—
+
+(a) the person being interviewed or examined wants the third party to be present and the inspector does not object, or
+
+(b) the inspector wants the third party to be present and the person being interviewed or examined consents.
+
+(6) Where an inspector conducts an interview or examination under this section, the inspector must, if requested to do so by—
+
+(a) the person being interviewed or examined, or
+
+(b) an individual accompanying that person,
+
+produce a document showing the inspector's authorisation under section 33 and, in the case of an examination, a document showing that the inspector is a registered medical practitioner or registered nurse.
+
+(7) In this section—
+
+- “carer” (“*gofalwr*”) has the meaning given by section 3 of the 2014 Act;
+- “child” (“*plentyn*”) means a person who is aged under 18;
+- “donee of a lasting power of attorney” (“*rhoddai atwrneiaeth arhosol*”) has the same meaning as in Part 1 of the Mental Capacity Act 2005 (c.9);
+- “parental responsibility” (“*cyfrifoldeb rhiant*”) has the meaning given by section 3 of the Children Act 1989 (c.41);
+- “relative” (“*perthynas*”), in relation to a person, means that person's parent, grandparent, child, grandchild, brother, half-brother, sister, half-sister, uncle, aunt, nephew or niece (including any person who is or has been in that relationship by virtue of a marriage or civil partnership or an enduring family relationship).
+
+#### 36 Inspection reports
+
+(1) As soon as is reasonably practicable after an inspection has been carried out, the Welsh Ministers must prepare a report of the inspection and send a copy of it to the service provider.
+
+(2) A report must [[^F71], to the extent that the Welsh Ministers consider proportionate,] include—
+
+(a) an assessment of the standard of any care and support provided (or which had been provided) by the service provider, measured in relation to any requirements imposed by regulations under section 27(1) as to the standard of care and support to be provided,
+
+(b) an assessment of the effect of any such care and support on the well-being of persons to whom the care and support is (or had been) provided,
+
+(c) an assessment of the organisation and co-ordination of regulated services provided (or which had been provided) by the service provider, and
+
+(d) if regulations are made under section 37, a rating of the service provider.
+
+(3) The Welsh Ministers must—
+
+(a) publish each report prepared under subsection (1);
+
+(b) ensure that copies are made available for inspection at such places and by such means as the Welsh Ministers think appropriate;
+
+(c) send a copy of a report prepared under subsection (1) to any person who requests one.
+
+[[^F72](3A) But a requirement in subsection (3) does not apply where the Welsh Ministers consider that fulfilling the requirement would be inappropriate having regard to the best interests of a person whose care and support is assessed in the report.]
+
+#### 37 Inspection ratings
+
+(1) The Welsh Ministers may by regulations make provision about ratings that may be given in relation to the quality of care and support provided by a service provider who has been inspected.
+
+(2) Regulations under subsection (1)—
+
+(a) may make provision requiring a service provider to display a rating included in a report prepared under section 36(1) in such manner, and at such place, as the regulations may specify,
+
+(b) may specify criteria to be applied when arriving at a rating, and
+
+(c) must include provision for a service provider to appeal against a rating included in a report prepared under section 36(1).
+
+(3) Before making regulations under subsection (1) the Welsh Ministers must consult any persons they think appropriate.
+
+(4) But the requirement to consult does not apply to regulations which—
+
+(a) amend other regulations made under that subsection, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+### CHAPTER 4 — GENERAL FUNCTIONS
+
+#### 38 Register of service providers
+
+(1) The Welsh Ministers must maintain a register of service providers.
+
+(2) An entry in the register in respect of a service provider must show the following information—
+
+(a) the regulated services that the service provider is registered to provide;
+
+[[^F73](aa) whether any of those services is a restricted children’s service;]
+
+(b) the places at, from or in relation to which the provider is registered to provide those services;
+
+(c) the name of the responsible individual registered in respect of each such place;
+
+(d) the date on which the provider's registration took effect in respect of each such regulated service and place;
+
+[[^F74](da) in the case of a provider of a restricted children’s service—
+
+(i) that the provider’s registration in respect of that service is subject to the requirement in section 6A(1), and
+
+(ii) that the condition in section 7(3)(aa) is imposed on the provider’s registration in respect of that service;]
+
+(e) details of any other conditions imposed on the service provider's registration;
+
+(f) a summary of any inspection report relating to the service provider which has been published under section 36(3)(a);
+
+(g) such other information as may be prescribed.
+
+[[^F75](2A) See also Schedule 1A, in respect of the registration of a provider of a restricted children’s service that is not subject to the requirement in section 6A(1) during the transitional period defined in that Schedule.]
+
+(3) The Welsh Ministers must publish the register and make it available for public inspection free of charge, in such manner, and at such times, as they think appropriate (but see subsection (5)(a)).
+
+(4) The Welsh Ministers must comply with any reasonable request made by a person for a copy of, or an extract from, the register (but see subsection (5)(b)).
+
+(5) The Welsh Ministers may—
+
+(a) omit prescribed information from the published register in prescribed circumstances;
+
+(b) refuse to comply with a request made under subsection (4) in prescribed circumstances.
+
+#### 39 Notifying local authorities of certain action taken under this Part
+
+(1) The Welsh Ministers must notify each local authority of—
+
+(a) the cancellation of the registration of a service provider;
+
+(b) the variation of the registration of a service provider by removing from the registration—
+
+(i) a regulated service, or
+
+(ii) a place at, from or in relation to which the provider is providing a regulated service;
+
+(c) the making of an order by a justice of the peace under section 23 (urgent cancellation or variation by removing a service or place);
+
+(d) the cancellation of a designation of a responsible individual under section 22;
+
+(e) proceedings brought against a person in respect of an offence under this Part or under regulations made under it;
+
+(f) a penalty notice given under section 52;
+
+(g) any other thing that may occur by virtue of this Part or regulations made under it as may be prescribed.
+
+(2) A notification under this section must contain such other information as may be prescribed.
+
+(3) In subsection (1) the reference to “local authority” includes a reference to—
+
+(a) a county council in England,
+
+(b) a district council for an area in England for which there is no county council,
+
+(c) a London borough council,
+
+(d) the Common Council of the City of London, and
+
+(e) the Council of the Isles of Scilly.
+
+#### 40 Charging fees
+
+(1) The Welsh Ministers may by regulations make provision requiring a fee to be paid by a person—
+
+(a) making an application for registration as a service provider (see section 6);
+
+(b) making an application to vary a registration (see section 11);
+
+(c) to allow the person to continue to be registered as a service provider for such period as may be specified in the regulations;
+
+(d) for a copy of an inspection report (see section 36(3)(c));
+
+(e) for a copy of the register published under section 38(3), or an extract of it.
+
+(2) Regulations under subsection (1) may include provision—
+
+(a) specifying the amount of any fee or permitting the Welsh Ministers to determine the amount of any fee (subject to any limits or other factors as may be specified in the regulations);
+
+(b) specifying circumstances in which a fee, which would otherwise be payable under the regulations, is not payable;
+
+(c) specifying the time by which a fee is to be payable or specifying factors by which that time is to be determined by the Welsh Ministers;
+
+(d) about the consequences of failing to pay a fee (which may include refusal to register, or cancellation of registration).
+
+(3) Before making regulations under subsection (1) the Welsh Ministers must take reasonable steps to consult—
+
+(a) persons who the Welsh Ministers think may be required to pay a fee by virtue of the regulations, and
+
+(b) such other persons as they think appropriate.
+
+(4) A fee payable by virtue of regulations made under subsection (1) may, without prejudice to any other method of recovery, be recovered summarily as a civil debt.
+
+#### 41 Engagement with the public
+
+(1) The Welsh Ministers must—
+
+(a) make information about the exercise of their regulatory functions available for the public, and
+
+(b) prepare and publish a statement of their policy with respect to involving the public in the exercise of those functions (whether by consultation or other means).
+
+(2) The Welsh Ministers—
+
+(a) may revise a statement of policy and must publish the revised statement, or
+
+(b) may publish a new statement of policy.
+
+(3) A statement of policy (or revised statement) must, in particular, address—
+
+(a) the involvement of the public in inspections carried out under Chapter 3, and
+
+(b) the involvement of carers (within the meaning of section 3 of the 2014 Act) in the exercise of the Welsh Ministers' regulatory functions.
+
+(4) The Welsh Ministers must lay a copy of a published statement of policy (or revised statement) before [[^F76]Senedd Cymru].
+
+(5) The Welsh Ministers must have regard to the most recent policy statement published under this section when exercising their regulatory functions.
+
+#### 42 Annual report on regulatory functions
+
+(1) As soon as is reasonably practicable after the end of a financial year, the Welsh Ministers must prepare and publish an annual report about the exercise of their regulatory functions in respect of that financial year.
+
+(2) The annual report must include details of—
+
+(a) how the Welsh Ministers have exercised those functions during the year,
+
+(b) the extent to which they have, in the exercise of those functions—
+
+(i) achieved the objectives referred to in section 4, and
+
+(ii) had regard to the most recent statement of policy published under section 41, and
+
+(c) how the duties mentioned in subsection (4) affected the exercise of those functions during the year.
+
+(3) The annual report may include any other information the Welsh Ministers think appropriate.
+
+(4) The duties referred to in subsection (2)(c) are the Welsh Ministers' duties under—
+
+(a) section 149 of the Equality Act 2010 (c.15) (public sector equality duty),
+
+(b) section 1(1) of the Rights of Children and Young Persons (Wales) Measure 2011 (nawm 2) (duty to have due regard to the United Nations Convention on the Rights of the Child),
+
+(c) section 7(1) of the 2014 Act (duty to have due regard to the United Nations Principles for Older Persons when exercising functions relating to adult social services), and
+
+(d) Part 4 of the Welsh Language (Wales) Measure 2011 (nawm 1) (standards).
+
+(5) The Welsh Ministers must lay a copy of a published annual report before [[^F77]Senedd Cymru].
+
+### CHAPTER 5 — OFFENCES AND PENALTIES
+
+#### 43 Failure to comply with a condition
+
+(1) It is an offence for a service provider to fail to comply with any condition relating to the provider's registration which is for the time being in force by virtue of this Part.
+
+(2) But a service provider does not commit an offence under subsection (1) by failing to have a responsible individual designated in respect of a place at, from or in relation to which the provider provides a regulated service if—
+
+(a) the time limit prescribed under section 11(2) has not expired (prescribed time limit for applying to designate a new responsible individual), or
+
+(b) that time limit has expired but the service provider made the application for variation within the time limit and the Welsh Ministers have not made a decision on it.
+
+#### 44 False descriptions
+
+(1) It is an offence for a person to, with intent to deceive another—
+
+(a) pretend to be a service provider,
+
+(b) pretend that a place is one at, from or in relation to which a regulated service is provided, or
+
+(c) pretend to be a responsible individual.
+
+(2) Any of the following may (among other things) be an act constituting an offence under subsection (1)—
+
+(a) applying a name to a service or place to give the impression that it is specified in a service provider's registration when it is not;
+
+(b) describing a service or place in a manner intended to give that impression;
+
+(c) holding a service out to be a regulated service specified in a service provider's registration when it is not;
+
+(d) holding a place out to be a place specified in a service provider's registration when it is not;
+
+(e) acting in a manner that gives the impression of being a responsible individual when not designated as one.
+
+#### 45 Failure by service provider to comply with requirements in regulations
+
+The Welsh Ministers may by regulations provide that it is an offence for a service provider to fail to comply with a specified provision of regulations made under section 27 or 37(2)(a) [[^F78]or under paragraph 3(1) of Schedule 1A].
+
+#### 46 Failure by responsible individual to comply with requirements in regulations
+
+The Welsh Ministers may by regulations provide that it is an offence for a responsible individual to fail to comply with a specified provision of regulations made under section 28.
+
+#### 47 False statements
+
+It is an offence for a person to make a statement which the person knows is false or materially misleading in—
+
+(a) an application for registration as a service provider,
+
+(b) an application for variation or cancellation of registration,
+
+(c) an annual return submitted under section 10, or
+
+(d) responding to a requirement imposed by the Welsh Ministers under section [[^F79]32(1A) or (1B)] (requirement to provide information).
+
+#### 48 Failure to submit [[^F80]or publish] annual return
+
+It is an offence for a service provider to [[^F81]—
+
+(a) fail to submit an annual return to the Welsh Ministers within the time limit prescribed under section 10(4), or
+
+(b) fail to publish an annual return on its website within the time limit prescribed under section 10(4A).]
+
+#### 49 Failure to provide information
+
+(1) It is an offence for a person to fail to comply with a requirement imposed on the person by the Welsh Ministers under section 32(1).
+
+(2) It is a defence for a person charged with an offence under subsection (1) to show that the person had a reasonable excuse for failing to comply with the requirement.
+
+#### 50 Offences related to inspections [[^F82]and investigations]
+
+(1) It is an offence for a person to—
+
+(a) intentionally obstruct an inspector exercising any function conferred on an inspector by Chapter 3, or
+
+(b) fail to comply with any requirement imposed on the person by an inspector exercising such a function.
+
+(2) It is a defence for a person charged with an offence under subsection (1)(b) to show that the person had a reasonable excuse for failing to comply with the requirement.
+
+#### 51 Penalties upon conviction
+
+(1) A person guilty of an offence under section 5, 43, 44, 47, 49 or 50 or under regulations made under section 45 or 46 is liable—
+
+(a) on summary conviction, to a fine, or to imprisonment for a term not exceeding 6 months, or to both;
+
+(b) on conviction on indictment, to a fine, or to imprisonment for a term not exceeding 2 years, or to both.
+
+(2) A person guilty of an offence under section 48 is liable on summary conviction to a fine.
+
+#### 52 Penalty notices
+
+(1) The Welsh Ministers may give a penalty notice to a person if they are satisfied that the person has committed a prescribed offence.
+
+(2) Only offences under sections 47, 48 or 49 or under regulations made under section 45 or 46 may be so prescribed.
+
+(3) A penalty notice is a notice offering the person the opportunity of discharging any liability to conviction for the offence to which the notice relates by payment to the Welsh Ministers of a sum specified in the notice in accordance with the terms of the notice.
+
+(4) Where a person is given a penalty notice, proceedings for the offence to which the notice relates may not be brought before the end of such period as may be specified in the notice.
+
+(5) If a person who is given a penalty notice pays the sum specified in the notice in accordance with the terms of the notice, the person cannot be convicted of the offence to which the notice relates.
+
+(6) The Welsh Ministers may by regulations make provision—
+
+(a) as to the form and content of penalty notices;
+
+(b) as to the sum payable under a penalty notice and the time within which it is to be paid (including provision permitting a different sum to be payable in relation to different offences and according to the time by which it is paid);
+
+(c) determining the ways in which a sum may be paid;
+
+(d) as to the records to be kept in relation to penalty notices;
+
+(e) about the circumstances in which a penalty notice may be withdrawn, including provision about—
+
+(i) the repayment of any sum paid before a notice is withdrawn, and
+
+(ii) the circumstances in which proceedings for an offence may not be brought despite the withdrawal of a notice.
+
+(7) Regulations under subsection (6)(b) may not make provision for a sum to be payable under a penalty notice which exceeds two and a half times level 4 on the standard scale.
+
+#### 53 Offences by bodies corporate
+
+(1) This section applies where an offence under this Part or under regulations made under it is committed by a body corporate.
+
+(2) A person mentioned in subsection (3) also commits the offence if the offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, that person.
+
+(3) Those persons are—
+
+(a) a director, manager, secretary or other similar officer of the body corporate,
+
+(b) where a body corporate's affairs are managed by its members, a member, or
+
+(c) any person purporting to act in any of those capacities.
+
+(4) Where a body corporate is a local authority, the reference in subsection (3) to a director, manager or secretary of the body is to be read as a reference to an officer or member of the authority.
+
+#### 54 Offences by unincorporated bodies
+
+(1) This section applies to offences under this Part and under regulations made under it.
+
+(2) Proceedings for an offence alleged to have been committed by an unincorporated body may be brought in the name of the body instead of in the name of any of its members and, for the purposes of any such proceedings, any rules of court relating to the service of documents have effect as if that body were a body corporate.
+
+(3) Any fine imposed on an unincorporated body on its conviction of an offence is to be paid out of the funds of that body.
+
+(4) If an unincorporated body is charged with an offence, section 33 of the Criminal Justice Act 1925 (c.86) and Schedule 3 to the Magistrates' Courts Act 1980 (c.43) have effect as if a body corporate had been charged.
+
+#### 55 Proceedings for offences
+
+(1) Proceedings in respect of an offence under this Part or regulations made under it may not, without the written consent of the Counsel General to the Welsh Government, be brought by any person other than the Counsel General or the Welsh Ministers.
+
+(2) Summary proceedings in respect of an offence under this Part or regulations made under it must be brought within the period of 12 months beginning on the date on which sufficient evidence to warrant the proceedings came to the prosecutor's knowledge.
+
+(3) But no such proceedings may be brought more than three years after the offence is committed.
+
+### CHAPTER 6 — LOCAL AUTHORITY SOCIAL SERVICES
+
+#### 56 Reports by local authorities and general duty of the Welsh Ministers
+
+(1) After section 144 of the 2014 Act (directors of social services) insert—
+
+> **144A Annual reports**
+>
+> (1) As soon as is reasonably practicable after the end of a financial year, a local authority must prepare and publish an annual report about the exercise of the social services functions of the authority in respect of that year.
+>
+> (2) The annual report must include—
+>
+> (a) details of how the authority has exercised its social services functions during the financial year, including details of the extent to which the authority has—
+>
+> (i) acted in accordance with requirements imposed on local authorities by a code issued under section 9 (codes to help achieve outcomes in relation to well-being),
+>
+> (ii) acted in accordance with any relevant requirements contained in a code issued under section 145 (codes about the exercise of social services functions), and
+>
+> (iii) had regard to any relevant guidelines in a code issued under section 145, and
+>
+> (b) such other information as may be prescribed by regulations.
+>
+> (3) The details provided under subsection (2)(a)(ii) must state how the authority has satisfied any requirements contained in a code relating to assessing the needs of an individual in accordance with Part 3 and meeting needs under Part 4.
+>
+> (4) An annual report must be in such form as may be prescribed by regulations.
+>
+> (5) A local authority must send a copy of a published annual report to the Welsh Ministers.
+>
+> (6) In this section, “financial year” means the period of one year beginning on 1 April and ending on 31 March.
+>
+> **144B Local market stability reports**
+>
+> (1) A local authority must prepare and publish a local market stability report at such times as may be prescribed by regulations.
+>
+> (2) A local market stability report must include—
+>
+> (a) an assessment of—
+>
+> (i) the sufficiency of provision of care and support in the local authority area during such period as may be prescribed by regulations;
+>
+> (ii) the extent to which regulated services were provided in the local authority area during that prescribed period by service providers to whom section 61 of the Regulation and Inspection of Social Care (Wales) Act 2016 (assessment by the Welsh Ministers of financial sustainability of service provider) applies;
+>
+> (iii) any other matter relating to the provision of regulated services in the local authority area as may be prescribed by regulations;
+>
+> (iv) the effect on the exercise of the local authority's social services functions of the commissioning by the authority of any services in connection with those functions during such period as may be prescribed by regulations;
+>
+> (b) a report of any action taken by the local authority during the period prescribed under paragraph (a)(i) in pursuance of its duty under section 189(2) (temporary duty to meet needs in the case of a provider failure).
+>
+> (3) A local market stability report must be in such form as may be prescribed by regulations.
+>
+> (4) In preparing a local market stability report, a local authority must—
+>
+> (a) take account of—
+>
+> (i) the assessment it has most recently published under section 14 (needs assessments), and
+>
+> (ii) the plan it has most recently published under section 14A following the assessment, and
+>
+> (b) consult with each Local Health Board with which it carried out the assessment.
+>
+> (5) A local authority must send a copy of a published local market stability report to the Welsh Ministers.
+>
+> (6) Before making regulations under subsection (2)(a)(iii) the Welsh Ministers must consult any persons they think appropriate.
+>
+> (7) But the requirement to consult does not apply to regulations which—
+>
+> (a) amend other regulations made under that subsection, and
+>
+> (b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+>
+> (8) In this section—
+>
+> (a) “service provider” has the meaning given by section 3(1)(c) of the Regulation and Inspection of Social Care (Wales) Act 2016;
+>
+> (b) “regulated service” has the meaning given by section 2(1) of that Act.
+>
+> **General duty of the Welsh Ministers**
+>
+> **144C General duty of the Welsh Ministers**
+>
+> In exercising functions under this Part the Welsh Ministers must seek to promote and maintain high standards in the provision of local authority social services functions.
+
+(2) In section 196(6) of the 2014 Act (regulations made only if draft approved by resolution of the National Assembly for Wales), after paragraph (c) insert—
+
+> (d) the first regulations made under section 144A(2)(b);
+
+.
+
+#### 57 Reviews, investigations and inspections
+
+(1) After section 149 of the 2014 Act (directions to require compliance with codes of practice) insert—
+
+> **Reviews**
+>
+> **149A Reviews of studies and research**
+>
+> (1) The Welsh Ministers may review—
+>
+> (a) studies and research undertaken by others in relation to the exercise of the social services functions of local authorities in Wales,
+>
+> (b) the methods used in such studies and research, and
+>
+> (c) the validity of conclusions drawn from such studies and research.
+>
+> (2) The Welsh Ministers must—
+>
+> (a) prepare and publish a report of a review conducted under subsection (1), and
+>
+> (b) lay a copy of the report before the National Assembly for Wales.
+>
+> **149B Reviews of local authority social services functions**
+>
+> (1) The Welsh Ministers may review the way in which the social services functions of local authorities are exercised.
+>
+> (2) In particular, the Welsh Ministers may—
+>
+> (a) review the overall exercise of local authority social services functions in Wales;
+>
+> (b) review the way in which the social services functions of a particular local authority are exercised;
+>
+> (c) review the exercise of a local authority social services function of a particular description (whether exercised by a single local authority or by two or more authorities working together);
+>
+> (d) review the exercise of a local authority social services function by a particular person or persons.
+>
+> (3) A reference in subsection (2) to the exercise by a local authority of local authority social services functions includes a reference to the commissioning of any services in connection with those functions.
+>
+> (4) The Welsh Ministers must—
+>
+> (a) prepare and publish a report of a review conducted under subsection (1), and
+>
+> (b) lay a copy of the report before the National Assembly for Wales.
+>
+> (5) Regulations may make provision about ratings that may be given in relation to the exercise of a specified local authority social services function.
+>
+> (6) If regulations are made under subsection (5) in relation to the exercise of a local authority social services function, the Welsh Ministers must⁠—
+>
+> (a) in conducting a review of the exercise of that function give a rating in accordance with the regulations, and
+>
+> (b) include the rating in their report of the review.
+>
+> (7) Before making regulations under subsection (5) the Welsh Ministers must consult any persons they think appropriate.
+>
+> (8) But the requirement to consult does not apply to regulations which—
+>
+> (a) amend other regulations made under that subsection, and
+>
+> (b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+>
+> **149C Fees**
+>
+> (1) Regulations may make provision for a local authority to pay a fee in respect of a review under section 149B(1).
+>
+> (2) Regulations under subsection (1) may include provision—
+>
+> (a) specifying the amount of any fee or permitting the Welsh Ministers to determine the amount of any fee (subject to any limits or other factors as may be specified in the regulations);
+>
+> (b) specifying the time by which a fee is to be payable or specifying factors by which that time is to be determined by the Welsh Ministers.
+>
+> **149D General considerations**
+>
+> When conducting a review under section 149A or 149B, the Welsh Ministers must, in relation to the local authority social services functions under review, have regard to—
+>
+> (a) the availability and accessibility of the services;
+>
+> (b) the quality and effectiveness of the services;
+>
+> (c) the management of the services;
+>
+> (d) the economy and efficiency of their provision and their value for money;
+>
+> (e) the availability and quality of information provided to people in the local authority area about the services;
+>
+> (f) the duties imposed on local authorities by sections 5 (duty to promote well-being), 6 (other overarching duties) and 7 (duties relating to UN Principles and Convention) in so far as they are relevant to the services and the effectiveness of measures taken by a local authority to fulfil those duties;
+>
+> (g) the effectiveness of measures taken by a local authority to achieve the outcomes specified in a statement issued by the Welsh Ministers under section 8 (statement of outcomes relating to well-being) in so far as they are relevant to the services;
+>
+> (h) any performance measures and performance targets set out in a code issued under section 9 that they think are relevant;
+>
+> (i) any requirements or guidelines contained in a code issued under section 145 that they think are relevant;
+>
+> (j) the extent to which a local authority has involved people in the local authority area—
+>
+> (i) in decisions about the way in which its social services functions are exercised, and
+>
+> (ii) in reviewing the exercise of those functions.
+
+(2) For section 161 of the 2014 Act (powers of entry and inspection) substitute—
+
+> **Enforcement**
+>
+> **161 Powers of entry and inspection**
+>
+> (1) A person falling within subsection (2) may authorise an inspector to enter and inspect premises falling within subsection (3).
+>
+> (2) The following persons fall within this subsection—
+>
+> (a) the Welsh Ministers—
+>
+> (i) where they consider it necessary or expedient for the purposes of a review conducted under section 149B(1), or
+>
+> (ii) in pursuance of a direction under section 155;
+>
+> (b) a person specified in a direction under section 153 or, where the direction specifies a class of persons, the person with whom the local authority enters into the contract or other arrangement required by the direction;
+>
+> (c) a person specified in a direction under section 154;
+>
+> (d) a person nominated in a direction under section 155.
+>
+> (3) The following premises fall within this subsection—
+>
+> (a) premises owned or controlled by a local authority;
+>
+> (b) premises—
+>
+> (i) which are used, or proposed to be used, by any person in connection with the exercise of a local authority social services function, or
+>
+> (ii) which the Welsh Ministers reasonably believe is being used, or may be used, for that purpose,
+>
+> but premises used wholly or mainly as a private dwelling do not fall within this subsection unless the occupier of the premises consents to the inspector entering and inspecting them.
+>
+> (4) “Premises” includes a vehicle.
+>
+> (5) The Welsh Ministers may by regulations make provision about the qualifications and other conditions to be met by an individual who may be an inspector.
+>
+> (6) When entering premises, an inspector must, if requested to do so by any person at the premises, produce a document showing the inspector's authorisation given under subsection (1).
+>
+> (7) The inspector may—
+>
+> (a) examine the state and management of the premises and, if any persons are accommodated or receive care and support at the premises, examine the treatment of those persons;
+>
+> (b) require the manager of the premises or any other person who appears to the inspector to hold or be accountable for documents or records kept at the premises to produce any documents or records (including medical and other personal records) that the inspector considers may be relevant to the exercise of functions under this Part by the person who authorised the inspector;
+>
+> (c) inspect and take copies of any documents or records (including medical and other personal records) that the inspector considers may be relevant to the exercise of functions under this Part by the person who authorised the inspector;
+>
+> (d) require any person to afford the inspector such facilities and assistance with respect to matters within the person's control as are necessary to enable the inspector to carry out the inspection;
+>
+> (e) take such measurements and photographs and make such recordings as the inspector considers necessary for the purpose of carrying out the inspection;
+>
+> (f) interview in private—
+>
+> (i) the manager of the premises or any other person who appears to the inspector to be responsible for the premises;
+>
+> (ii) any person working there;
+>
+> (iii) any person accommodated or receiving care and support there who consents to be interviewed.
+>
+> (8) The powers in subsection (7)(b) to (d) include the power to—
+>
+> (a) gain access to and check the operation of any computer and associated apparatus which the inspector has reasonable grounds to believe is (or has been) used in connection with the documents or records, and
+>
+> (b) require documents or records to be produced in a form which is legible and portable.
+>
+> (9) Subsection (10) applies where—
+>
+> (a) persons are accommodated or receiving care and support at the inspected premises,
+>
+> (b) the inspector is a registered medical practitioner or registered nurse, and
+>
+> (c) the inspector has reasonable grounds to believe that a person accommodated or receiving care and support at the premises is not receiving (or has not received) proper care and support.
+>
+> (10) Where this subsection applies, the inspector may examine the person in private but only if the person gives consent to the examination.
+>
+> (11) For the purposes of subsections (7)(f) and (10), an interview or examination is to be treated as conducted in private despite the presence of a third party if—
+>
+> (a) the person being interviewed or examined wants the third party to be present and the inspector does not object, or
+>
+> (b) the inspector wants the third party to be present and the person being interviewed or examined consents.
+>
+> (12) Where an inspector conducts an interview or examination under this section, the inspector must, if requested to do so by—
+>
+> (a) the person being interviewed or examined, or
+>
+> (b) an individual accompanying that person,
+>
+> produce a document showing the inspector's authorisation given under subsection (1) and, in the case of an examination, a document showing that the inspector is a registered medical practitioner or registered nurse.
+>
+> (13) As soon as is reasonably practicable after an inspector has concluded an inspection under this section, the inspector must send a report of the inspection to the person who gave the authorisation under subsection (1).
+>
+> (14) That person must send a copy of the inspector's report—
+>
+> (a) to the local authority being reviewed or subject to the direction, and
+>
+> (b) if the person is not the Welsh Ministers, to the Welsh Ministers.
+>
+> (15) In this section and sections 161A, 161B and 161C, “inspector” means an individual authorised under subsection (1).
+>
+> **161A Code of practice about inspections**
+>
+> (1) The Welsh Ministers must prepare and publish a code of practice about the manner in which inspections of premises under section 161 are to be carried out (including about the frequency of such inspections).
+>
+> (2) The Welsh Ministers may revise the code and must publish a revised code.
+>
+> (3) An inspector must have regard to the most recently published code when carrying out an inspection under section 161.
+>
+> **161B Power to require information**
+>
+> (1) The Welsh Ministers may require a person falling within subsection (2) to provide them with—
+>
+> (a) any documents, records (including medical or other personal records) or other information—
+>
+> (i) which relate to the exercise of a social services function of a local authority, and
+>
+> (ii) which the Welsh Ministers consider it necessary or expedient to have for the purposes of a review under section 149A or 149B;
+>
+> (b) an explanation of the content of—
+>
+> (i) any documents, records or other information provided under paragraph (a), or
+>
+> (ii) any documents or records provided to an inspector conducting an inspection of premises under section 161 in connection with a review under section 149B.
+>
+> (2) The following persons fall within this subsection—
+>
+> (a) a local authority;
+>
+> (b) a person providing a service in connection with the exercise of a local authority social services function;
+>
+> (c) a Local Health Board;
+>
+> (d) an NHS trust,
+>
+> but a Local Health Board or NHS trust cannot be required to provide an explanation of the content of any documents or records provided to an inspector conducting an inspection of premises under section 161.
+>
+> (3) A person is not required to provide documents, records or other information under subsection (1) if the person is prohibited from providing them by any enactment or other rule of law.
+>
+> (4) The power in subsection (1) includes power to require documents or records to be produced in a form which is legible and portable.
+>
+> **161C Offences**
+>
+> (1) It is an offence for a person—
+>
+> (a) to intentionally obstruct the carrying out of an inspection of premises under section 161 by an inspector, or
+>
+> (b) to fail to comply with any requirement imposed on the person by an inspector carrying out such an inspection.
+>
+> (2) It is an offence for a person to fail to comply with a requirement imposed on the person by the Welsh Ministers under section 161B(1).
+>
+> (3) It is a defence for a person charged with an offence under subsection (1)(b) or (2) to show that the person had a reasonable excuse for not complying with the requirement.
+>
+> (4) A person guilty of an offence under this section is liable—
+>
+> (a) on summary conviction, to a fine, or to imprisonment for a term not exceeding 6 months, or to both;
+>
+> (b) on conviction on indictment, to a fine, or to imprisonment for a term not exceeding 2 years, or to both.
+>
+> (5) Sections 53 (offences by bodies corporate), 54 (offences by unincorporated bodies) and 55 (proceedings for offences) of the Regulation and Inspection of Social Care (Wales) Act 2016 apply to an offence under this section as they apply to offences under Part 1 of that Act.
+
+(3) In section 196(6)(a) of the 2014 Act (regulations made only if draft approved by resolution of the National Assembly for Wales), after “135(4),” insert “ 149B(5), 149C(1), ”.
+
+#### 58 Regulation of local authority functions relating to looked after and accommodated children
+
+After section 94 of the 2014 Act (regulations about agency arrangements) insert—
+
+> **Regulation of local authority functions relating to looked after and accommodated children**
+>
+> **94A Regulation of the exercise of local authority functions relating to looked after and accommodated children**
+>
+> (1) Regulations may make provision about the exercise by local authorities of functions conferred on them by—
+>
+> (a) section 81 (ways in which looked after children are to be accommodated and maintained), or
+>
+> (b) regulations made under section 87 (regulations about looked after children) making provision such as is mentioned in section 92(1), 93 or 94.
+>
+> (2) Regulations under subsection (1) may, for example, include provision⁠—
+>
+> (a) as to the persons who are fit to work for local authorities in connection with the exercise of those functions,
+>
+> (b) as to the fitness of premises to be used by local authorities in exercising those functions,
+>
+> (c) as to the management and control of the exercise of those functions,
+>
+> (d) as to the number of persons, or persons of a particular type, working for local authorities in connection with the exercise of those functions,
+>
+> (e) as to the management and training of such persons, and
+>
+> (f) as to the fees or expenses which may be paid to persons assisting local authorities in making decisions in the exercise of those functions.
+>
+> (3) Regulations under subsection (2)(a) may, in particular, make provision specifying that a person is not fit to work for a local authority in such position as may be specified if the person is not registered in, or in a particular part of, the register kept under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016 (registration of social care workers).
+>
+> **94B Offence of contravening regulations under section 94A**
+>
+> (1) Regulations may provide that it is an offence for a person to contravene or fail to comply with a specified provision of regulations made under section 94A.
+>
+> (2) A person guilty of an offence under regulations made under subsection (1) is liable—
+>
+> (a) on summary conviction, to a fine, or to imprisonment for a term not exceeding 6 months, or to both;
+>
+> (b) on conviction on indictment, to a fine, or to imprisonment for a term not exceeding 2 years, or to both.
+>
+> (3) Sections 53 (offences by bodies corporate), 54 (offences by unincorporated bodies) and 55 (proceedings for offences) of the Regulation and Inspection of Social Care (Wales) Act 2016 apply to an offence under regulations made under subsection (1) as they apply to offences under Part 1 of that Act.
+
+### CHAPTER 7 — MARKET OVERSIGHT (prospective)
+
+#### 59 Specifying criteria for application of market oversight regime (prospective)
+
+(1) The Welsh Ministers must by regulations specify criteria for determining whether (subject to regulations under subsection (4)) section 61 applies to a service provider in respect of regulated services.
+
+(2) In specifying the criteria, the Welsh Ministers must have regard to the following in particular—
+
+(a) the amount of care and support provided by a service provider,
+
+(b) the geographical concentration of a service provider's business, and
+
+(c) the extent to which a service provider specialises in the provision of particular types of regulated service.
+
+(3) The Welsh Ministers must—
+
+(a) at such times as they think appropriate, review the criteria for the time being specified in the regulations, and
+
+(b) publish information about how the matters mentioned in subsection (2), and any other matters to which they have regard in specifying the criteria, are to be measured.
+
+(4) The Welsh Ministers may by regulations provide that section 61 does not apply, or applies only to the extent specified, to a specified service provider or to a service provider of a specified description, regardless of whether that service provider or a service provider of that description would satisfy the criteria.
+
+(5) The circumstances in which regulations may be made under subsection (4) include those in which the Welsh Ministers are satisfied that certain service providers are already subject to a regulatory regime comparable to that provided for by sections 61 and 62; and regulations made in such circumstances may, for example, make provision requiring specified persons to co-operate or to share information of a specified description.
+
+(6) Before making regulations under this section the Welsh Ministers must consult any persons they think appropriate.
+
+(7) But the requirement to consult does not apply to regulations which—
+
+(a) amend other regulations made under this section, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+#### 60 Determining whether criteria apply to service provider (prospective)
+
+(1) The Welsh Ministers must determine, in the case of each service provider, whether the service provider satisfies one or more of the criteria specified in regulations under section 59.
+
+(2) If the Welsh Ministers determine that the service provider satisfies one or more of the criteria, section 61 applies to that service provider unless, or except in so far as, regulations under section 59(4) provide that it does not apply.
+
+(3) Where section 61 applies to a service provider, the Welsh Ministers must inform the provider accordingly.
+
+#### 61 Assessment of financial sustainability of service provider (prospective)
+
+(1) Where this section applies to a service provider, the Welsh Ministers must assess the financial sustainability of the service provider's business of carrying on regulated services.
+
+(2) An assessment of the financial sustainability of the service provider's business under subsection (1) must include consideration of its corporate governance.
+
+(3) Where the Welsh Ministers, in light of an assessment under subsection (1), think that there is a significant risk to the financial sustainability of the service provider's business, the Welsh Ministers may—
+
+(a) require the service provider to develop a plan for how to mitigate or eliminate the risk, and
+
+(b) arrange for, or require the service provider to arrange for, a person with appropriate professional expertise to carry out an independent review of the business.
+
+(4) Where the Welsh Ministers impose a requirement on a service provider under subsection (3)(a), they may also require the service provider—
+
+(a) to co-operate with them in developing the plan, and
+
+(b) to obtain their approval of the finalised plan.
+
+(5) Where the Welsh Ministers arrange for a review under subsection (3)(b), they may recover from the service provider such costs as they incur in connection with the arrangements (including such of their administrative costs in making the arrangements as they think it appropriate to recover).
+
+(6) The Welsh Ministers may by regulations make provision for enabling them to obtain from such persons as they think appropriate information which they believe will assist them to assess the financial sustainability of a service provider to which this section applies.
+
+(7) Before making regulations under subsection (6) the Welsh Ministers must consult any persons they think appropriate.
+
+(8) But the requirement to consult does not apply to regulations which—
+
+(a) amend other regulations made under that subsection, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+(9) The Welsh Ministers may by regulations make provision about the making of the assessments required by subsection (1).
+
+#### 62 Informing local authorities where failure of service provider likely (prospective)
+
+(1) This section applies where the Welsh Ministers are satisfied that a service provider to which section 61 applies is likely to become unable to provide a regulated service in respect of which it is registered because of business failure as mentioned in section 189 of the 2014 Act (provider failure: temporary duty on local authority).
+
+(2) The Welsh Ministers must inform the local authorities which they think will be required to carry out the duty under section 189(2) of the 2014 Act if the service provider becomes unable to provide the regulated service in question.
+
+(3) The Welsh Ministers may require the service provider, or such other person involved in the service provider's business as they think appropriate, to provide them with any information they think necessary or expedient to obtain for the purpose of assisting a local authority to carry out the duty under section 189(2) of the 2014 Act.
+
+(4) But the Welsh Ministers may not require a person to provide information if disclosure of that information is prohibited by any enactment or other rule of law.
+
+(5) The power to require information under subsection (3) includes—
+
+(a) power to require copies of any documents or records (including medical and other personal records), and
+
+(b) power to require the provision of information in legible form.
+
+#### 63 National market stability report (prospective)
+
+(1) The Welsh Ministers must prepare and publish a national market stability report at such times as may be prescribed.
+
+(2) The Welsh Ministers must consult SCW when preparing a national market stability report and may direct SCW to jointly prepare any part of the report with them as the Welsh Ministers think appropriate.
+
+(3) A national market stability report must include—
+
+(a) an assessment of—
+
+(i) the sufficiency of care and support (within the meaning of the 2014 Act) provided in Wales during such period as may be prescribed,
+
+(ii) the extent to which regulated services were provided in Wales during that prescribed period by service providers to whom section 61 applies,
+
+(iii) the effect on the exercise of local authority social services functions (within the meaning of the 2014 Act) of the commissioning by local authorities of services in connection with those functions during such period as may be prescribed, and
+
+(iv) any other matter relating to the provision of care and support in Wales as may be prescribed, and
+
+(b) a report of any action taken by the Welsh Ministers under sections 59 to 62 during the period prescribed under paragraph (a)(i).
+
+(4) In preparing a market stability report the Welsh Ministers must have regard to the most recent local market stability report published by each local authority under section 144B of the 2014 Act (local market stability reports).
+
+(5) Before making regulations under subsection (3)(a)(iv) the Welsh Ministers must consult any persons they think appropriate.
+
+(6) But the requirement to consult does not apply to regulations which—
+
+(a) amend other regulations made under that subsection, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+### CHAPTER 8 — INTERPRETATION
+
+#### 64 Interpretation of this Part
+
+(1) In this Part—
+
+- “care” (“*gofal*”) has the meaning given by section 3(1)(a);
+- “care and support” (“*gofal a chymorth*”) is to be interpreted (other than in section 63(3)(a)(i)) in accordance with section 3(2);
+- “regulated service” (“*gwasanaeth rheoleiddiedig*”) has the meaning given by section 2(1);
+- “regulatory functions” (“*swyddogaethau rheoleiddiol*”), in relation to the Welsh Ministers, has the meaning given by section 3(1)(b);
+- “responsible individual” (“*unigolyn cyfrifol*”) has the meaning given by section 21(1);
+- “service provider” (“*darparwr gwasanaeth*”) has the meaning given by section 3(1)⁠(c);
+- “support” (“*cymorth*”) has the meaning given by section 3(1)(d).
+
+(2) See section 189 which makes provision for the interpretation of words and phrases applying to the whole Act.
+
+## PART 2 — OVERVIEW AND INTERPRETATION OF PARTS 3 TO 8
+
+### 65 Overview of Parts 3 to 8
+
+(1) This section provides an overview of the main provisions of Parts 3 to 8 of this Act.
+
+(2) Part 3—
+
+(a) renames the Care Council for Wales as Social Care Wales (defined by section 67 as “SCW”), and
+
+(b) makes provision for its general functions (see, in particular, sections 68 to 72, including the provision in Schedule 2 about SCW's constitution and other matters relevant to its general operation).
+
+(3) Parts 4 to 6 confer functions on SCW in relation to the regulation of social workers and other persons engaged in the provision of care and support to persons in Wales (defined, collectively, as “social care workers” by section 79(1)); including—
+
+(a) a duty to keep a register of certain social care workers, including social workers (see, in particular, section 80 of Part 4);
+
+(b) a requirement in section 81 for SCW to appoint a registrar to process applications for registration in the register and to otherwise exercise functions under Part 4 in relation to the register, including the function of deciding, under section 83, whether persons should be admitted to the register.
+
+(4) Parts 4 to 6 also set out the requirements which must be met to become, and to remain, registered; including—
+
+(a) a requirement that the registrar be satisfied that a person is qualified, or otherwise appropriately trained, to be a social care worker (on which, see section 83),
+
+(b) obligations to be met by persons registered in the register in respect of continual professional development (see section 113 of Part 5), and
+
+(c) obligations in respect of fitness to practise as a social care worker.
+
+(5) Section 117 in Chapter 1 of Part 6 sets out the grounds of potential impairment of a person's fitness to practise for the purposes of being, and remaining, registered; including deficient performance as a social care worker and serious misconduct in any capacity.
+
+(6) Chapter 2 of Part 6 provides for a system of preliminary consideration and, if necessary, investigation by or on behalf of SCW into whether a registered social care worker's fitness to practise may be impaired, and for the referral of certain cases to a fitness to practise panel.
+
+(7) Part 8 requires SCW to establish panels which will determine whether a person should be admitted to, or removed from, the register; in particular—
+
+(a) panels to make determinations under Part 4, including determinations about decisions made by the registrar (defined by section 174 of Part 8 as “registration appeals panels”),
+
+(b) panels to make determinations in relation to a registered social care worker's fitness to practise by reference to the grounds of potential impairment in section 117 (defined by section 174 of Part 8 as “fitness to practise panels”), and
+
+(c) panels to make decisions pending determination of a matter by registration appeals panels or fitness to practise panels (defined by section 174 of Part 8 as “interim orders panels”).
+
+(8) Chapter 3 of Part 6 makes provision about the ways in which fitness to practise panels may dispose of cases in which a person's fitness to practise is in question, including provision allowing panels to remove or suspend a person from the register; and Chapter 5 of Part 6 makes provision about the periodic review by a fitness to practise panel of the fitness to practise of persons who have been subject to proceedings under Chapter 3 of that Part.
+
+(9) Section 104 of Part 4 makes provision about appeals to the First-tier tribunal against decisions made under that Part relating to registration, while Chapter 6 of Part 6 provides for appeals to the tribunal against the determinations of fitness to practise panels under that Part.
+
+(10) Section 111 of Part 4 makes it an offence for a person in Wales to intend to deceive someone by pretending to be a registered social worker, and by virtue of regulations makes it an offence for a person to intend to deceive someone by pretending to be another kind of registered social care worker.
+
+(11) Part 7 allows the Welsh Ministers by regulations to authorise fitness to practise panels to prohibit social care workers in respect of whom a part of the register is not kept from carrying out activities specified in the regulations, and makes connected provision, including making it an offence to carry out those activities while subject to prohibition.
+
+(12) In addition to making provision about continual professional development, Part 5 makes provision about other functions of SCW in respect of the education and training of social care workers, including provision about the approval by SCW of courses for persons who are or wish to become social care workers (see section 114).
+
+### 66 Interpretation of Parts 3 to 8
+
+(1) In Parts 3 to 8 of this Act—
+
+- [[^F83]“adaptation period” (“*cyfnod ymaddasu*”) means a period of supervised practise, under the responsibility of an appropriately qualified social care worker, subject to any assessment, and which may be accompanied by further training;]
+
+- “added part” (“*rhan ychwanegol*”), in relation to the register, is to be interpreted in accordance with section 80(3);
+
+- [[^F83]“appropriately qualified” (“*wedi ei gymhwyso’n briodol*”) is to be interpreted in accordance with section 84;]
+
+- [[^F83]“aptitude test” (“*prawf gallu*”) means a test conducted by SCW, limited to the professional knowledge of a specified state professional, with the aim of assessing their ability to practise as a social care worker of the description to which their application relates;]
+
+- [[^F83]“evidence of formal qualifications” (“*tystiolaeth o gymwysterau ffurfiol*”) means any diploma, certificate or other evidence issued by a body in a specified state whose ordinary activities include the issuing of such records certifying the successful completion of a course of professional study or training;]
+
+- [^F84]...
+
+- “fitness to practise panel” (“*panel addasrwydd i ymarfer*”) means a panel established by virtue of section 174(1)(b);
+
+- [^F84]...
+
+- “interim orders panel” (“*panel gorchmynion interim*”) means a panel established by virtue of section 174(1)(c);
+
+- [^F84]...
+
+- [[^F83]“other registration requirements” (“*gofynion cofrestru eraill*”) means the requirements mentioned in section 83(2)(b) and (c);]
+
+- [[^F83]“professional qualifications” (“*cymwysterau proffesiynol*”) means qualifications attested by evidence of formal qualifications or professional experience;]
+
+- “register” (“*cofrestr*”) means the register kept under section 80;
+
+- “registrar” (“*cofrestrydd*”) means a person appointed as registrar under section 81;
+
+- “registration appeals panel” (“*panel apelau cofrestru*”) means a panel established by virtue of section 174(1)(a);
+
+- [^F84]...
+
+- “relevant social work” (“*gwaith cymdeithasol perthnasol*”) has the meaning given by section 79(4);
+
+- [[^F85]“social care manager” (“rheolwr gofal cymdeithasol”) has the meaning given by section 79(1)(b);]
+
+- “social care worker” (“*gweithiwr gofal cymdeithasol*”) has the meaning given by section 79;
+
+- “social worker” (“*gweithiwr cymdeithasol*”) has the meaning given by section 79(1);
+
+- “social worker part” (“*rhan gweithwyr cymdeithasol*”), in relation to the register, is to be interpreted in accordance with section 80(3);
+
+- [[^F83]“specified state” (“*gwladwriaeth benodedig*”) means—
+
+  - Iceland,
+  - The Kingdom of Norway,
+  - The Principality of Liechtenstein, and
+  - The Swiss Confederation;]
+
+- [[^F83]“specified state applicant” (“*ymgeisydd gwladwriaeth benodedig*”) means a specified state professional who—
+
+  - wishes to access and pursue work as a social care worker in Wales, and
+  - applies under section 82 for registration in the social worker part or an added part of the register;]
+
+- [[^F83]“specified state professional” (“*proffesiynolyn gwladwriaeth benodedig*”) means an individual who has obtained professional qualifications in a specified state;]
+
+- [^F86]...
+
+- [^F84]...
+
+- [^F84]...
+
+(2) See section 189 for provision about the interpretation of words and phrases applying to the whole Act.
+
+## PART 3 — SOCIAL CARE WALES
+
+### Continuation of the Care Council for Wales and its renaming
+
+#### 67 Social Care Wales
+
+(1) Section 54 of the Care Standards Act 2000 (c.14) is repealed.
+
+(2) The body corporate called the Care Council for Wales which was established by that section is to continue in existence.
+
+(3) But it is renamed, and is to be known as, Social Care Wales (referred to in this Act as “SCW”).
+
+(4) Schedule 2 makes further provision about SCW.
+
+### SCW's objectives
+
+#### 68 SCW's objectives
+
+(1) SCW's main objective in carrying out its functions is to protect, promote and maintain the safety and well-being of the public in Wales.
+
+(2) In pursuing that objective SCW must exercise its functions with a view to promoting and maintaining—
+
+(a) high standards in the provision of care and support services,
+
+(b) high standards of conduct and practice among social care workers,
+
+(c) high standards in the training of social care workers, and
+
+(d) public confidence in social care workers.
+
+(3) See section 69 for the meaning of “care and support services” and section 79 for the meaning of “social care worker”.
+
+### Advice and assistance
+
+#### 69 Advice and assistance in relation to care and support services
+
+(1) SCW may give any person providing a care and support service advice or other assistance (including grants) for the purpose of encouraging improvement in the provision of that service.
+
+(2) SCW may attach such conditions to a grant given under subsection (1) as it thinks appropriate.
+
+(3) “Care and support service” means—
+
+(a) a regulated service, or
+
+(b) any other service in Wales which involves the provision of care and support by social care workers.
+
+(4) See section 2 for the meaning of “regulated service” and section 3 for the meaning of “care and support”.
+
+#### 70 Studies as to economy, efficiency etc.
+
+SCW may promote or undertake comparative or other studies designed to enable it to make recommendations under section 69 for improving economy, efficiency and effectiveness in the provision of a care and support service.
+
+### Engagement with the public etc.
+
+#### 71 Engagement with the public and social care workers
+
+(1) SCW must—
+
+(a) make information about SCW and the exercise of its functions available to—
+
+(i) the public, and
+
+(ii) social care workers;
+
+(b) prepare and publish a statement of its policy with respect to involving the public and social care workers in the exercise of those functions (whether by consultation or other means).
+
+(2) SCW—
+
+(a) may revise its statement of policy and must publish the revised statement, or
+
+(b) may publish a new statement of policy.
+
+(3) SCW must have regard to the most recent policy statement published under this section when exercising its functions.
+
+#### 71A [[^F87]Provision of information – specified state professionals
+
+(1) SCW must provide, upon request, information to a specified state professional about the following matters—
+
+(a) the professional qualifications required to practise as a social care worker in Wales,
+
+(b) details of any registration requirements that apply in relation to an application for registration as a social care worker in Wales,
+
+(c) the relevant laws to be applied including those regarding disciplinary action, financial responsibility or financial liability,
+
+(d) the principles of discipline and enforcement of professional standards, including disciplinary jurisdiction and consequential effects on practise as a social care worker in Wales,
+
+(e) the processes and procedures for the ongoing verification of fitness to practise, and
+
+(f) the criteria for, and procedures relating to, removal from the register (see Part 4).
+
+(2) SCW must deal promptly with an enquiry from a specified state professional about the matters referred to in subsection (1)(a) and (b).]
+
+### Policy with respect to bringing criminal proceedings
+
+#### 72 Statement of policy with respect to bringing criminal proceedings
+
+(1) SCW must prepare and publish a statement of its policy with respect to the bringing of criminal proceedings by it.
+
+(2) SCW may—
+
+(a) revise its statement of policy and publish the revised statement, or
+
+(b) publish a new statement of policy.
+
+(3) SCW must have regard to the most recent policy statement published under this section when exercising its functions.
+
+### Rules made bySCWunder this Act
+
+#### 73 Rules: general
+
+(1) Any power conferred on SCW by or under this Act to make rules must be exercised by an instrument in writing.
+
+(2) An instrument containing rules must specify the provision under which the rules are made.
+
+(3) To the extent that an instrument containing rules does not comply with subsection (2) it is void.
+
+(4) Any power of SCW to make rules conferred by or under this Act may be exercised—
+
+(a) so as to make different provision for different purposes;
+
+(b) so as to make incidental, supplemental, consequential and transitional provision.
+
+(5) SCW must—
+
+(a) publish rules made by it, and
+
+(b) ensure the rules are publicly available until such time as they cease to have effect.
+
+(6) SCW may charge a fee for providing a person with a copy of rules made by it.
+
+#### 74 Rules: fees
+
+(1) SCW may by rules make provision for the payment of fees to SCW in connection with the discharge of functions by—
+
+(a) SCW;
+
+(b) the registrar (see section 81).
+
+(2) In particular, the rules may make provision for the payment of fees in connection with—
+
+(a) the provision of advice or other assistance under section 69;
+
+(b) registration in the register (see Part 4);
+
+(c) the approval of courses under section 114 (approval of courses for persons who are or wish to become social care workers);
+
+(d) the provision of training under section 116 (training provided or secured by SCW);
+
+(e) the provision of copies of codes of practice or copies of, or extracts from, the register.
+
+[[^F88](2A) But any fees charged in connection with an application for registration in the register submitted by a specified state applicant must be—
+
+(a) reasonable and proportionate to the cost of the application;
+
+(b) transparent, and made public in advance;
+
+(c) payable by electronic means through SCW’s website.]
+
+[^F89]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Consultation before making rules etc.
+
+#### 75 Consultation before making rules etc.
+
+(1) SCW must comply with the requirements of subsection (2)—
+
+(a) before making any rules under this Act;
+
+(b) before publishing a code of practice under section 112 (codes setting standards of conduct expected of social care workers and their employers);
+
+(c) before publishing guidance under section 162 (guidance for fitness to practise and interim orders panels in respect of proceedings under Part 6),
+
+unless subsection (3) applies.
+
+(2) Before making the rules or publishing the code or guidance SCW must—
+
+(a) publish a draft of the proposed rules, code or guidance accompanied by—
+
+(i) an explanation of the purpose of the proposed rules, code or guidance and a summary of the intended effect of the proposed rules, code or guidance;
+
+(ii) a notice specifying the period within which representations may be made to SCW about the proposal, and
+
+(b) take reasonable steps to give notice of the proposal and the period for making representations to—
+
+(i) social care workers SCW thinks may be affected by the proposal,
+
+(ii) the Welsh Ministers, and
+
+(iii) such other persons SCW thinks appropriate.
+
+(3) This subsection applies if SCW—
+
+(a) is satisfied that the nature of the proposed rules, code or guidance is such that consultation would be inappropriate or disproportionate, and
+
+(b) has obtained the agreement of the Welsh Ministers to proceed without consultation.
+
+(4) Section 184 (service of documents etc.) does not apply to anything done by SCW under subsection (2).
+
+### Guidance and directions
+
+#### 76 Guidance
+
+(1) In exercising its functions SCW must have regard to any guidance given to it by the Welsh Ministers.
+
+(2) The Welsh Ministers must publish any guidance they give to SCW.
+
+#### 77 Directions
+
+(1) In exercising its functions SCW must comply with any directions given to it by the Welsh Ministers.
+
+(2) A direction—
+
+(a) must be in writing;
+
+(b) may be varied or revoked by a subsequent direction.
+
+### Default powers of the Welsh Ministers
+
+#### 78 Default powers of the Welsh Ministers
+
+(1) The powers conferred by this section are exercisable by the Welsh Ministers if they are satisfied that SCW—
+
+(a) has without reasonable excuse failed to discharge any of its functions, or
+
+(b) in discharging any of its functions, has without reasonable excuse failed to comply with any directions given by the Welsh Ministers under section 77 in relation to those functions.
+
+(2) The Welsh Ministers may—
+
+(a) publish a statement declaring SCW to be in default, and
+
+(b) direct SCW to discharge such of its functions, and in such manner and within such period or periods, as may be specified in the direction.
+
+(3) If SCW fails to comply with a direction given under subsection (2)(b), the Welsh Ministers may—
+
+(a) discharge the functions to which the direction relates themselves, or
+
+(b) make arrangements for any other person to discharge those functions on their behalf.
+
+(4) A direction under subsection (2)(b)—
+
+(a) must be in writing;
+
+(b) may be varied or revoked by a subsequent direction.
+
+## PART 4 — SOCIAL CARE WORKERS
+
+### Meaning of “social care worker” etc.
+
+#### 79 Meaning of “social care worker” etc.
+
+(1) In Parts 3 to 8 of this Act “social care worker” means a person who—
+
+(a) engages in relevant social work (referred to in those Parts as a “social worker”);
+
+(b) manages a place at or from which a regulated service is provided [[^F90](referred to in those Parts as a “social care manager”)];
+
+(c) in the course of his or her employment with a service provider, provides care and support to any person in Wales in connection with a regulated service provided by that provider;
+
+(d) under a contract for services, provides care and support to any person in Wales in connection with a regulated service provided by a service provider.
+
+(2) The Welsh Ministers may by regulations—
+
+(a) except persons of a specified description from the definition of social care worker in subsection (1);
+
+(b) provide that persons of any of the descriptions in subsection (3), or categories of person falling within any of those descriptions, are to be treated as social care workers.
+
+(3) The descriptions of person are—
+
+(a) a person designated under Chapter 2 of Part 1 (registration etc. of service providers) as a responsible individual in respect of a place at, from or in relation to which a regulated service is provided;
+
+(b) a person engaged in work for the purposes of a local authority's social services functions (within the meaning of the 2014 Act), or in the provision of services similar to services which may or must be provided by local authorities in the exercise of those functions;
+
+(c) a person providing care and support which would, but for paragraph 8(2)(a) of Schedule 1, constitute the provision of a domiciliary support service;
+
+(d) a person registered under Part 2 of the Children and Families (Wales) Measure 2010 (nawm 1) as—
+
+(i) a child minder, or
+
+(ii) a provider of day care for children;
+
+(e) a person who manages, or is employed in, an undertaking carrying on an employment business (within the meaning of section 13 of the Employment Agencies Act 1973 (c.35)) which supplies persons to provide care and support to any person in Wales;
+
+(f) a person who manages, or is employed in, an undertaking carrying on an employment agency (within the meaning of the section mentioned in paragraph (e)) which provides services for the purpose of supplying persons to provide care and support to any person in Wales;
+
+(g) a person undertaking a course approved by SCW under section 114 (courses for persons who are or wish to become social care workers);
+
+(h) an inspector carrying out inspections of regulated services on behalf of the Welsh Ministers under Chapter 3 of Part 1 of this Act (information and inspections);
+
+(i) an inspector carrying out inspections under section 161 of the 2014 Act (inspections in connection with local authority social services functions);
+
+(j) a person employed in connection with the discharge of the functions of the Welsh Ministers under section 80 of the Children Act 1989 (c.41) (inspection of children's homes etc.);
+
+(k) staff of the Welsh Government who inspect premises under—
+
+(i) section 87 of the Children Act 1989 (welfare of children accommodated in independent schools and colleges), or
+
+(ii) section 40 of the Children and Families (Wales) Measure 2010 (inspection of child minding and day care in Wales);
+
+(l) a person who manages staff mentioned in paragraph (j) or (k).
+
+(4) For the purposes of Parts 3 to 8 of this Act “relevant social work” means social work which is required in connection with any health, education or social services provided in Wales.
+
+(5) See section 2 for the meaning of “regulated service” and section 3 for the meaning of “service provider” and “care and support”.
+
+### The register
+
+#### 80 The register
+
+(1) SCW must keep a register of—
+
+(a) social workers,
+
+(b) social care workers of any other description specified by the Welsh Ministers by regulations, [^F91]...
+
+[^F92]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F93]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) There must be a separate part of the register—
+
+(a) for social workers;
+
+(b) for each description of social care worker specified in regulations made under subsection (1)(b);
+
+[^F94]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F95]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For the purposes of Parts 3 to 8 of this Act—
+
+(a) the part mentioned in subsection (2)(a) is the “social worker part” of the register;
+
+(b) a part mentioned in subsection (2)(b) is an “added part” of the register;
+
+[^F96]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F97]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 81 Duty to appoint a registrar
+
+(1) SCW must appoint a registrar.
+
+(2) A person appointed as registrar holds office on such terms and conditions as SCW thinks appropriate; but SCW must consult the Welsh Ministers before determining any terms and conditions about the levels of remuneration, pensions, allowances and expenses payable to, or in respect of, such a person.
+
+(3) See paragraph 13 of Schedule 2 for further provision about SCW's staff.
+
+### Registration in the social worker part or an added part of the register
+
+#### 82 Application for registration
+
+(1) An application for registration in the social worker part or an added part of the register is to be made to the registrar.
+
+(2) An application under subsection (1) must specify each part of the register in which registration is sought.
+
+#### 83 Registration
+
+(1) The registrar must grant an application made under section 82 if satisfied that—
+
+(a) the application is made in the form and manner specified in rules made by SCW,
+
+(b) the applicant has paid the fee (if any) specified in rules made by SCW under section 74, and
+
+(c) the applicant meets the registration requirements.
+
+(2) The registration requirements are that—
+
+[[^F98](a) the person is—
+
+(i) appropriately qualified (see section 84), or
+
+(ii) a specified state applicant whose professional qualifications have been recognised in accordance with section 85B,]
+
+(b) the person's fitness to practise is not impaired on one or more of the grounds in section 117(1), and
+
+(c) the person intends to practise the work of persons registered in the part of the register to which the application relates.
+
+(3) For the purposes of subsection (2)(c) SCW may by rules specify—
+
+(a) activities that are to be regarded as practising the work of persons registered in a part of the register;
+
+(b) the criteria to be applied by the registrar for determining whether a person intends to practise.
+
+#### 83A [[^F99]Temporary registration in emergencies involving loss of human life or human illness etc
+
+(1) The registrar may register a person as a social worker in the social worker part of the register, or the persons comprising a specified group of persons as social workers in that part, if—
+
+(a) the Welsh Ministers have advised the registrar that an emergency has occurred, is occurring or is about to occur and that the registrar should consider acting under this section, and
+
+(b) the registrar considers that the emergency registration requirement is met in relation to the person or group of persons.
+
+(2) For the purposes of subsection (1)(b) the emergency registration requirement is met—
+
+(a) in relation to a person, if the registrar considers that the person is a fit, proper and suitably experienced person to be registered as a social worker with regard to the emergency;
+
+(b) in relation to a group of persons, if the registrar considers that the group is comprised of persons who are of a type who may reasonably be considered fit, proper and suitably experienced persons to be registered as social workers with regard to the emergency.
+
+(3) The registrar may register all of the persons comprising a specified group of persons without first identifying each person in the group.
+
+(4) The registrar may include an annotation in the social worker part of the register denoting that a person has been registered under this section.
+
+(5) The registration of a person under this section has effect subject to any conditions imposed by the registrar; and the registrar may at any time vary or revoke such a condition or add new conditions.
+
+(6) Where a person is registered under this section as a member of a specified group, the person's registration may (but need not) be subject to the same conditions as the registration of other members of the group.
+
+(7) A person's registration under this section ceases to have effect if revoked by the registrar; and the registrar—
+
+(a) must revoke the registration if the Welsh Ministers advise the registrar that the circumstances that led the Welsh Ministers to give the advice referred to in subsection (1)(a) no longer exist;
+
+(b) may at any time revoke the registration for any other reason, including where the registrar suspects that the person's fitness to practise may be impaired.
+
+(8) A person's registration as a member of a specified group may be revoked—
+
+(a) without the registration of the other members of the group being revoked, or
+
+(b) as a result of a decision to revoke the registration of all the members of the group.
+
+(9) If a person's registration under this section is revoked under subsection (7)(a), the registration ceases to have effect at the end of the period of 14 days beginning with the day on which it is revoked.
+
+(10) If a person's registration under this section is revoked under subsection (7)(b), the registration ceases to have effect immediately.
+
+(11) Rules under section 74 may not provide for fees to be charged in respect of a person's registration under this section.
+
+(12) The following provisions do not apply to persons registered under this section—
+
+(a) sections 82, 83, 84, 86, 87, 89, 94 and 95 (provisions relating to registration) of this Act;
+
+(b) sections 113 to 115 (continuing professional development) of this Act and rules made under any of those sections;
+
+(c) Part 6 (social care workers: fitness to practise) of this Act, other than section 160(1) and (3) to (5).
+
+(13) If a person breaches a condition to which the person's registration under this section is subject, anything done by the person in breach of the condition is to be treated as not done by a person registered in the social worker part of the register.
+
+(14) In this section “emergency” means an emergency of the kind described in section 19(1)(a) of the Civil Contingencies Act 2004, read with subsection (2)(a) and (b) of that section.]
+
+### “Appropriately qualified”
+
+#### 84 “Appropriately qualified”
+
+[[^F100]In this Part and in Part 2] a person is appropriately qualified if—
+
+(a) in the case of an application for registration as a social worker, the applicant—
+
+(i) has successfully completed a course approved by SCW under section 114 for persons wishing to become social workers,
+
+(ii) satisfies the requirements of section 85 (qualifications gained outside of Wales [[^F101]– social workers]), or
+
+(iii) satisfies any requirements as to training which SCW may by rules impose;
+
+[[^F102](aa) in the case of an application for registration as a social care manager, the applicant—
+
+(i) has successfully completed a course approved by SCW under section 114 for persons wishing to become social care managers,
+
+[^F103]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) satisfies any requirements as to training which SCW may by rules impose in relation to social care managers;]
+
+(b) in the case of an applicant for registration as a social care worker of any other description, the applicant—
+
+(i) has successfully completed a course approved by SCW under section 114 for persons wishing to become a social care worker of that description, or
+
+(ii) satisfies any requirements as to training which SCW may by rules impose in relation to social care workers of that description.
+
+#### 85 Qualifications gained outside Wales [[^F104]– social workers]
+
+[^F105]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F106](1A) This section does not apply to an application for registration in the social worker part of the register submitted by a specified state applicant.]
+
+(2) An applicant for registration in the social worker part of the register satisfies the requirements of this section if—
+
+(a) the applicant has, elsewhere than in Wales, undergone training in social work, and
+
+(b) either—
+
+(i) that training is recognised by SCW as being to a standard sufficient for such registration, or
+
+(ii) it is not so recognised, but the applicant has undergone such additional training as SCW may require (whether undergone in Wales or elsewhere).
+
+#### [^F107]85A Qualifications gained outside Wales – social care managers
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 85B [[^F108]Professional qualifications – specified state applicants
+
+(1) This section applies where a specified state applicant submits an application for registration.
+
+(2) Subject to section 85C, the registrar must recognise the applicant’s professional qualifications if satisfied those professional qualifications are comparable to those required to practise in Wales the work of persons registered in the part of the register to which the application relates.
+
+#### 85C Specified state applicants: refusal to recognise professional qualifications
+
+(1) The registrar may refuse to recognise the professional qualifications of a specified state applicant only if one or more of Conditions 1, 2, 3 or 4 is met.
+
+(2) Condition 1 is met where—
+
+(a) there exists a substantial difference between the standard of proficiency evidenced by the applicant’s professional qualifications and the standard of proficiency that is necessary for a person to achieve for admission to the part of the register in respect of which the application relates, and
+
+(b) the applicant fails, or refuses to take, an aptitude test, or to complete an adaptation period imposed in accordance with section 85D.
+
+(3) Condition 2 is met where—
+
+(a) the work of persons registered in the part of the register to which the application relates comprises one or more professional activities that cover substantially different matters from those covered by the applicant’s professional qualifications, and
+
+(b) the applicant fails, or refuses to take, an aptitude test, or to complete an adaptation period, imposed in accordance with section 85D.
+
+(4) Condition 3 is met where requiring the applicant to take an aptitude test or to complete an adaptation period in accordance with section 85D would amount to requiring the applicant to acquire the professional qualifications required to practise the work of persons included in the part of the register to which the application relates.
+
+(5) Condition 4 is met where the applicant is unable to satisfy any of the other registration requirements in relation to the part of the register to which the application relates.
+
+#### 85D Specified state applicants: aptitude tests and adaptation periods
+
+(1) The registrar may require a specified state applicant to take an aptitude test, standardised or otherwise, or to complete an adaptation period where—
+
+(a) there exists a substantial difference between the applicant’s professional qualifications and the essential knowledge or essential skills required to practise the work of persons registered in the part of the register to which the application relates, or
+
+(b) the work of persons registered in the part of the register to which the application relates comprises one or more professional activities that cover substantially different matters from those covered by the applicant’s professional qualifications.
+
+(2) The registrar must consider whether any requirement to take an aptitude test or to complete an adaptation period is proportionate to the difference sought to be addressed.
+
+(3) If requested to do so by the applicant, the registrar must, to the extent possible, provide reasons in writing for requiring the applicant to take an aptitude test or to complete an adaptation period.
+
+(4) Where the registrar requires an applicant to undertake an aptitude test, the registrar must ensure that such tests are scheduled with reasonable frequency and at least once a year.]
+
+### Renewal of registration in the social worker part or an added part of the register
+
+#### 86 Renewal of registration
+
+(1) SCW may by rules—
+
+(a) provide that an entry in the social worker part or in an added part of the register has effect only for a period specified in the rules, and
+
+(b) make provision for the renewal of such an entry in the register.
+
+(2) Where rules have been made under subsection (1), the registrar must, on the application of the person to whom the entry relates, grant an application for renewal if—
+
+(a) the application is made in the form and manner specified by rules made by SCW,
+
+(b) the applicant has paid the fee (if any) specified in rules made by SCW under section 74, and
+
+(c) the registrar is satisfied that the applicant meets the renewal requirements.
+
+(3) The renewal requirements are that—
+
+(a) the applicant has met any requirements to undertake further training imposed by rules made under section 113 (continuing professional development), and
+
+(b) the applicant intends to practise the work to which his or her application for renewal relates.
+
+(4) Rules made under section 83(3) (criteria for registrar's determinations about an applicant's intention to practise) may include provision about a registrar's determination under subsection (3)(b) of this section.
+
+#### 87 Lapse of registration
+
+(1) A person's registration in the social worker part or an added part of the register lapses at the end of the period specified by SCW in rules under section 86(1)(a) if the person has not renewed his or her registration in accordance with rules made by SCW under section 86(1)(b).
+
+(2) But a person's registration does not lapse under subsection (1) if subsection (3) applies to the person.
+
+(3) This subsection applies to a person—
+
+(a) who is the subject of any proceedings under Part 6, including preliminary consideration or investigation under Chapter 2 of that Part, which relate to the person's fitness to practise the work to which his or her registration relates (“the relevant work”);
+
+(b) in respect of whom a decision has been made relating to the relevant work which may be appealed against under section 158 (appeals against decisions of fitness to practise panel);
+
+(c) in respect of whom a conditional registration order relating to the relevant work has effect under section 138(7), 152(8)(c), 153(6) or (7), 154(8)(c) or 155(10)(c);
+
+(d) in respect of whom a suspension order relating to the relevant work has effect under section 138(8), 152(8)(d), 153(9)(c), 154(6), (7) or (10) or 155(9);
+
+(e) in respect of whom an interim order relating to the relevant work has effect under section 144 or 147.
+
+(4) Subsection (2) ceases to apply to a person described in subsection (3)(b)—
+
+(a) at the end of the period specified in section 158(3) during which an appeal may be made, or
+
+(b) where an appeal is made before the end of that period, at the determination of the appeal.
+
+(5) A person whose registration in the social worker part or an added part of the register would have lapsed under subsection (1) but for subsection (2) is to be treated as not being registered in the relevant part of the register for all purposes other than those mentioned in subsection (6), despite the fact that the person's name continues to appear in it.
+
+(6) The person is to be treated as registered for the purposes of any proceedings under Part 6 (including preliminary consideration or investigation under Chapter 2) which relate to the person's fitness to practise the relevant work.
+
+### Dealing with applications for registration or renewal
+
+#### 88 Rules about applications for registration or renewal
+
+(1) SCW must by rules make provision about how the registrar is to determine under section 83 whether a person's fitness to practise is impaired on any of the grounds in section 117(1).
+
+(2) Rules under subsection (1) may, in particular—
+
+(a) require a person making an application for registration to provide information for the purpose of the registrar's determination;
+
+(b) provide that the information is to be provided to the registrar by means of a written declaration by the person making the application.
+
+(3) SCW must also by rules make provision about the procedure to be followed by the registrar in dealing with—
+
+(a) applications for registration in a part of the register, and
+
+(b) where rules under section 86 provide for the renewal of an entry in the register, applications for renewal.
+
+(4) Rules under subsection (3) may, in particular, make provision about—
+
+(a) the period within which an application for registration or renewal of registration must be acknowledged;
+
+(b) the information that must be provided by the registrar in response to an application;
+
+(c) the period within which a notice under section 89 will be given;
+
+(d) the information in support of an application that may be required by the registrar and the procedure to be followed by the registrar in requesting that information;
+
+(e) circumstances in which the registrar may determine that an application has not been successful on the grounds that the person who made the application has failed to provide information required by the registrar within a period specified by the registrar;
+
+(f) circumstances in which a fee for registration and, if relevant, renewal will be charged and circumstances in which such a fee may be reduced or waived.
+
+[[^F109](5) But the power to make rules under subsections (1) and (3)(a) is subject to the provision made by sections 85B and 88A in relation to applications for registration made by specified state applicants.]
+
+#### 88A [[^F110]Applications for registration: specified state applicants – supplementary provisions
+
+(1) In relation to applications for the registration of a specified state applicant, the registrar must—
+
+(a) within one month beginning with the date of receipt of the application—
+
+(i) acknowledge receipt of the application, and
+
+(ii) inform the applicant of any missing document for the purposes of the application;
+
+(b) give the applicant adequate time to complete the requirements and procedures of the application process;
+
+(c) deal promptly with the application.
+
+(2) The registrar may require the applicant to provide evidence of their professional qualifications and their ability to satisfy the other registration requirements.
+
+(3) But any evidence required under subsection (2) must be no more than is necessary to demonstrate —
+
+(a) the professional qualifications the applicant holds are evidence of the applicant having reached a standard of proficiency comparable to the requirements mentioned in section 84 (“appropriately qualified”) in relation to the part of the register to which the application relates, and
+
+(b) the applicant is able to satisfy the other registration requirements.
+
+(4) For the purposes of subsection (2), the registrar must accept certified copies in place of original documents (unless original documents are reasonably required to protect the integrity of the registration process).
+
+(5) For the purposes of subsection (4), a certified copy of a document is one which has been certified to be a true copy of the original by a solicitor practising in any part of the United Kingdom.]
+
+#### 89 Notice of decisions in respect of registration or renewal
+
+(1) Subsection (2) applies where the registrar decides to—
+
+(a) grant an application for registration, or
+
+(b) grant an application for renewal of registration.
+
+(2) The registrar must give the person to whom the application relates notice of the decision.
+
+(3) Subsection (4) applies where the registrar decides to—
+
+(a) refuse an application for registration, or
+
+(b) refuse an application for renewal of a person's registration.
+
+(4) The registrar must give the person to whom the decision relates notice—
+
+(a) of the decision,
+
+(b) of the reasons for the decision, and
+
+(c) of the right of appeal under section 101.
+
+[[^F111](5) Where an application for registration under section 82 has been submitted by a specified state applicant, the registrar must give notice of the decision under subsection (2) or (4) to the person to whom the application relates no later than four months after the date on which the complete application was submitted.
+
+(6) Where the registrar fails to give notice of a decision within the time period specified in subsection (5), that failure is to be treated for the purposes of Parts 3, 4 and 8 as a decision of the registrar.]
+
+### Visiting social workers
+
+#### [^F112]90 Visiting social workers from relevant European States
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F113]90A Visiting social care managers from relevant European States
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Information to be contained on the register
+
+#### 91 Content of the register
+
+(1) An entry in the register in respect of a person must show the following information—
+
+(a) the date on which the person was entered onto the register;
+
+(b) the person's qualifications to practise work of the kind to which his or her registration relates;
+
+(c) such other qualifications, knowledge or experience relevant to the person's registration as may be prescribed;
+
+(d) such information relating to the person's fitness to practise as may be prescribed.
+
+(2) SCW may by rules require or authorise the registrar—
+
+(a) to include in an entry in the register information not required by virtue of subsection (1);
+
+(b) to remove from an entry in the register information of a kind specified in the rules.
+
+(3) Rules under subsection (2) may not require or authorise the registrar to record information relating to a person's physical or mental health.
+
+### Removal of entries from the register
+
+#### 92 Removal by agreement
+
+(1) SCW must by rules make provision for the removal of an entry from a part of the register on the application of the person to whom the application relates.
+
+(2) Rules under this section must include provision about—
+
+(a) the circumstances in which a person may make an application for an entry to be removed from a part of the register;
+
+(b) the manner in which an application may be made;
+
+(c) the criteria by reference to which a decision to grant or refuse an application may be made;
+
+(d) the procedure for giving notice of a decision in respect of an application.
+
+(3) The rules may authorise or require SCW to refer an application under this section to a fitness to practise panel for determination.
+
+#### 93 Death of a registered person
+
+(1) Where a person registered in a part of the register has died, the registrar must within the specified period remove the entry relating to that person from the register.
+
+(2) In subsection (1) “specified” means specified by rules made by SCW.
+
+#### 94 Entries based on false or misleading information
+
+(1) If the registrar is satisfied that an entry in a part of the register, or an annotation to an entry, has been included on the register on the basis of false or misleading information, the registrar may remove the entry or annotation from the register.
+
+(2) Subsection (3) applies where the registrar thinks—
+
+(a) that an entry, or an annotation to an entry, in the register may have been included on the register on the basis of false or misleading information,
+
+(b) the registered person's fitness to practise may be impaired, and
+
+(c) an interim order may be necessary for the protection of the public.
+
+(3) The registrar may refer the matter to an interim orders panel.
+
+(4) Where the registrar decides to remove an entry in respect of a person from the register under this section the registrar must give notice to the person of—
+
+(a) the decision,
+
+(b) the reasons for the decision, and
+
+(c) the right of appeal conferred by section 101.
+
+### Restoring an entry to the register
+
+#### 95 Duty to restore a register entry
+
+If the registrar is satisfied that an entry, or an annotation to an entry, has been removed from the register in error, the registrar must restore that entry or annotation to the register.
+
+#### 96 Power to restore a register entry
+
+(1) This section applies where an entry is removed from the register under—
+
+(a) section 92 (removal by agreement);
+
+(b) section 94 (entries based on false or misleading information).
+
+(2) The registrar may, on the application of the person to whom the entry related, restore the entry to the register.
+
+(3) The registrar may grant an application for restoration under this section only if satisfied that the applicant meets the registration requirements specified in section 83(2).
+
+(4) The registrar must give notice to the applicant as to whether his or her application has been granted.
+
+(5) If the application for restoration is not granted the registrar must also give the applicant notice of—
+
+(a) the reasons for the decision, and
+
+(b) any right of appeal in connection with the decision.
+
+#### 97 Restoration following fitness to practise proceedings
+
+(1) This section applies where a fitness to practise panel has made a removal order under—
+
+(a) section 138(9) (disposal following a finding of impairment);
+
+(b) section 152(8)(e) (decisions following review of undertakings);
+
+(c) section 153(9)(d) (decisions on review of conditional registration orders);
+
+(d) section 154(8)(d) (decisions on review of suspensions orders).
+
+(2) Subject to subsection (3), the person to whom the order relates may make an application to the registrar for the entry in respect of the person to be restored to the register (but see section 98(4) for provision about circumstances in which a registration appeals panel may prevent a person making such an application).
+
+(3) The person to whom the order relates may not—
+
+(a) make an application for restoration before the expiry of the period of 5 years beginning with the date on which the order was made, or
+
+(b) make more than one application for restoration to the register within a period of 12 months.
+
+(4) The registrar must refer an application made under subsection (2) to a registration appeals panel for determination (see section 98).
+
+(5) Where a registration appeals panel has given a direction under section 98(4) (suspension of the right to apply for restoration)—
+
+(a) the person in respect of whom the direction is given may make an application to the registrar for a review of the direction, and
+
+(b) the registrar must refer the application to a registration appeals panel for determination.
+
+(6) A person may not make an application under subsection (5)(a)—
+
+(a) before the expiry of the period of 3 years beginning with the date on which the direction is given, or
+
+(b) within the period of 3 years beginning with the date of a previous application for review.
+
+#### 98 Restoration proceedings
+
+(1) Where the registrar has referred an application for restoration of a person's (“P”) entry in a part of the register to a registration appeals panel under section 97(4), the panel must—
+
+(a) determine that the entry in respect of P is to be restored to the relevant part of the register, or
+
+(b) determine that the entry in respect of P must not be restored to that part of the register.
+
+(2) The registrar must give P notice of the panel's determination.
+
+(3) If the panel makes a determination under subsection (1)(b) the registrar must also give notice to P of—
+
+(a) its reasons for making the determination, and
+
+(b) any right of appeal in connection with the determination.
+
+(4) If—
+
+(a) P has made two or more applications under section 97(2) for restoration to the same part of the register, and
+
+(b) a registration appeals panel, on the second or any subsequent application, refuses restoration to that part of the register under subsection (1)(b),
+
+the panel may direct that P may not make further applications under section 97(2) for restoration to that part of the register.
+
+(5) If the registration appeals panel gives a direction under subsection (4), the registrar must give notice to P of—
+
+(a) that direction, and
+
+(b) P's right to appeal under section 104.
+
+(6) If a registration appeals panel makes a determination under subsection (1)(a) the panel must direct the registrar to restore P's entry to the register.
+
+#### 99 Review of suspension of right to apply for restoration
+
+(1) Subsection (2) applies where—
+
+(a) a registration appeals panel has given a direction under section 98(4) in respect of P (suspension of the right to apply for restoration), and
+
+(b) a referral for the review of the direction has been made by the registrar under section 97(5)(b).
+
+(2) A registration appeals panel must review the direction, and may confirm or revoke it.
+
+(3) The registrar must give P notice of the panel's decision on review.
+
+(4) Where the panel confirms the direction, the registrar must also give P notice of—
+
+(a) the panel's reasons for confirming the direction, and
+
+(b) the right of appeal under section 104.
+
+#### 100 Rules about applications under section 96 and 97
+
+(1) SCW must by rules make provision about the procedure in connection with an application for—
+
+(a) restoration under section 96 or 97;
+
+(b) review of a direction given under section 98(4) (suspension of a right to apply for restoration).
+
+(2) The rules may, in particular, make provision about—
+
+(a) the form and manner in which an application may be made;
+
+(b) the information to be provided in support of an application;
+
+(c) the period within which an application may be made;
+
+(d) the period within which any notice required to be given by the registrar must be provided;
+
+(e) circumstances in which an application for restoration under section 96 may be referred to a registration appeals panel for determination;
+
+(f) the criteria by reference to which a registration appeals panel is to determine whether or not an entry is to be restored or a direction is to be confirmed or revoked;
+
+(g) circumstances in which a fee will be charged for making an application to restore an entry to the register and circumstances in which such a fee may be reduced or waived.
+
+### Appeals to a registration appeals panel
+
+#### 101 Appeals against decisions of the registrar
+
+(1) A person may appeal to a registration appeals panel against a decision by the registrar—
+
+(a) under section 83 not to grant the person's application for registration;
+
+(b) under section 86 not to grant the person's application for renewal of his or her registration;
+
+(c) to remove an entry in respect of the person from the register under section 94;
+
+(d) under section 96 not to grant the person's application for restoration of his or her entry to the register.
+
+[[^F114](1A) A specified state applicant may appeal to a registration appeals panel where the registrar has failed to give notice of the decision under subsection (2) or (4) of section 89 within the time period specified in subsection (5) of that section.]
+
+(2) But a person may not appeal against a decision mentioned in subsection (1)(a), (b) or (d) if the decision was taken by reason only that the person failed to—
+
+(a) pay any fee required by SCW in connection with the application,
+
+(b) make the application in the form and manner required by SCW, or
+
+(c) provide documents or information in support of the application as required by the registrar.
+
+[[^F115](3) Subsection (1) does not apply to—
+
+(a) a decision by the registrar to refuse to register a person under section 83A, or
+
+(b) a decision by the registrar to revoke a person's registration under that section.]
+
+#### 102 Appeals to the registration appeals panel: procedure
+
+(1) An appeal under section 101 must be made by giving notice of appeal to the registrar.
+
+(2) The notice must be given before the end of the period of 28 days beginning with the relevant day.
+
+(3) But the registrar may allow an appeal to be made after the end of the period mentioned in subsection (2) if satisfied that there are good reasons for a failure to give notice before the end of that period (and for any delay in giving notice out of time).
+
+(4) In subsection (2) “relevant day” means—
+
+(a) in the case of a decision mentioned in section 101(1)(a) or (b), the day on which notice of the decision is given under section 89,
+
+(b) in the case of a decision mentioned in section 101(1)(c), the day on which notice of the decision is given under section 94, [^F116]...
+
+(c) in the case of a decision mentioned in section 101(1)(d), the day on which notice of the decision is given under section 96 [[^F117], and]
+
+[[^F118](d) in the case of an appeal under section 101(1A), the day after the expiry of the time period specified in section 89(5).]
+
+#### 103 Decisions on appeal to the registration appeals panel
+
+[[^F119](1)] [[^F120]Subject to subsection (2),] on an appeal under section 101 a registration appeals panel may—
+
+(a) confirm the registrar's decision,
+
+(b) substitute for the decision appealed against another decision of a kind that the registrar could have made, or
+
+(c) remit the case to the registrar to dispose of in accordance with the directions of the panel.
+
+[[^F121](2) Where an appeal is made under section 101(1A), a registration appeals panel must remit the case to the registrar to dispose of in accordance with the directions of the panel.]
+
+### Appeals to the tribunal
+
+#### 104 Appeals against decisions of a registration appeals panel
+
+(1) This section applies where a registration appeals panel—
+
+(a) makes a determination under section 98(1)(b) that an entry in the register should not be restored for a reason that relates to the person's fitness to practise;
+
+(b) directs under section 98(4) that a person may not make further applications for restoration to a part of the register, or confirms such a direction under section 99(2);
+
+(c) makes a determination in respect of an application for restoration referred to it by virtue of rules made under section 100(2)(e) for a reason that relates to the person's fitness to practice;
+
+(d) makes a determination under section 103 in respect of an appeal against a decision of the registrar.
+
+(2) The person to whom the panel's decision relates may appeal against it to the tribunal.
+
+(3) An appeal under this section must be brought before the end of the period of 28 days beginning with the date of the panel's decision.
+
+(4) But the tribunal may allow an appeal to be made to it after the end of the period mentioned in subsection (3) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay in applying for permission to appeal out of time).
+
+(5) On an appeal under this section, the tribunal may—
+
+(a) confirm the decision,
+
+(b) substitute for the panel's decision another decision which the panel could have made, or
+
+(c) remit the case to SCW to dispose of in accordance with the directions of the tribunal.
+
+#### [^F122]105 Other appeals: decisions made under the General Systems Regulations
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Notifying the registrar of changes to information etc.
+
+#### 106 Duty to notify the registrar of changes to registration information
+
+(1) SCW must by rules require a person registered in a part of the register to give notice to the registrar of changes to the information recorded in the register in respect of that person.
+
+(2) Rules under subsection (1) may, in particular, include provision about—
+
+(a) the changes to be notified,
+
+(b) the manner in which and the time within which a notice must be given, and
+
+(c) the consequences of failing to comply with any requirements contained in the rules (which may include referral of the matter to a fitness to practise panel).
+
+#### 107 Requests for information relating to fitness to practise
+
+(1) SCW may by rules authorise the registrar to make requests for information from persons registered in any part of the register which relates to their fitness to practise.
+
+(2) The rules may, in particular, make provision about—
+
+(a) the manner and form in which a request is to be made;
+
+(b) the frequency of requests;
+
+(c) the information which may and may not be requested by the registrar;
+
+(d) the consequences of a failure to comply with a request (which may include referral of the matter to a fitness to practise panel).
+
+### Duty to publish the register etc.
+
+#### 108 Publication etc. of the register
+
+(1) SCW must publish the register in such manner, and at such times, as it thinks appropriate.
+
+(2) SCW must comply with any reasonable request made by a person for a copy of, or an extract from, the register.
+
+#### 109 Publication of certain registration appeal panel decisions
+
+(1) SCW must publish the following decisions—
+
+(a) a decision of a registration appeals panel under section 98(1)(b) not to restore a person to the register;
+
+(b) a decision of a registration appeals panel under section 98(4) that a person may not make further applications for restoration to the register.
+
+(2) But SCW must not publish any information about a person's physical or mental health.
+
+#### 110 List of persons removed from the register
+
+(1) SCW must keep a list of persons whose entries in the register have been removed in circumstances to which this section applies.
+
+(2) This section applies where a person is subject to a removal order made by a fitness to practise panel under—
+
+(a) section 138(9) (disposal following a finding of impairment of fitness to practise), or
+
+(b) section 152(8)(e), 153(9)(d) or 154(8)(d) (disposal in a review case following a finding of impairment of fitness to practise).
+
+(3) An entry may not be made in the list relating to a person subject to such a removal order until the decision has taken effect under section 141(5) or 157(6) (as the case may be).
+
+(4) This section also applies where a person is subject to an order for removal by agreement made by a fitness to practise panel under—
+
+(a) section 135 (removal from register on consensual basis), or
+
+(b) section 152(2), 153(2), 154(2), or 155(5) (disposal in a review case).
+
+(5) Where a person is subject to such an order for removal by agreement the list must give details of the statement of facts agreed under section 135(2) or 150(2) (as the case may be).
+
+(6) The Welsh Ministers may by regulations make provision about—
+
+(a) the form and content of the list;
+
+(b) the publication of the list or specified information from the list;
+
+(c) circumstances in which an entry relating to a person must be removed from the list.
+
+### Protection of title “social worker” etc.
+
+#### 111 Use of title “social worker” etc.
+
+(1) It is an offence for a person in Wales who is not registered in a relevant register as a social worker to—
+
+(a) take or use the title of social worker,
+
+(b) take or use any title or description implying registration as a social worker, or
+
+(c) pretend to be a social worker in any other way,
+
+with intent to deceive another.
+
+(2) It is an offence for a person in Wales who is not registered in a relevant register as a social care worker of such other description as may be prescribed to—
+
+(a) take or use the title of that description of social care worker,
+
+(b) take or use any title or description implying registration as such a social care worker, or
+
+(c) pretend to be such a social care worker in any other way,
+
+with intent to deceive another.
+
+(3) A person guilty of an offence under this section is liable on summary conviction to a fine.
+
+(4) For the purposes of this section a register is a “relevant register” if it is a register kept by⁠—
+
+(a) SCW,
+
+(b) [[^F123] Social Work England],
+
+(c) the Scottish Social Services Council, or
+
+(d) the Northern Ireland Social Care Council.
+
+(5) The Welsh Ministers may amend subsection (4) by regulations.
+
+## PART 5 — SOCIAL CARE WORKERS: STANDARDS OF CONDUCT, EDUCATION ETC.
+
+### 112 Codes of practice
+
+(1) SCW must prepare and from time to time publish codes of practice setting—
+
+(a) standards of conduct and practice expected of social care workers;
+
+(b) standards of conduct and practice expected of persons employing or seeking to employ social care workers.
+
+(2) The codes may make different provision in respect of different categories of social care worker.
+
+(3) The codes may also set standards of conduct and practice expected of social workers when carrying out the functions of an approved mental health professional (within the meaning of section 114 of the Mental Health Act 1983 (c.20)).
+
+(4) SCW must—
+
+(a) keep the codes under review, and
+
+(b) vary their provisions whenever it thinks it appropriate to do so.
+
+(5) Where a person registered in any part of the register is alleged to have failed to comply with any standard contained in a code made under this section, that failure—
+
+(a) is not, of itself, to be taken to constitute deficient performance as a social care worker or serious misconduct for the purposes of section 117 (fitness to practise), but
+
+(b) may be taken into account in proceedings under this Act which relate to the person's fitness to practise.
+
+(6) A local authority making any decision about the conduct of any social care workers it employs must, if directed to do so by the Welsh Ministers, take into account any code published by SCW under this section.
+
+### 113 Continuing professional development
+
+(1) SCW may make rules requiring persons registered in any part of the register to undertake further training.
+
+(2) The rules may, in particular, make provision with respect to persons who fail to comply with any requirements of rules made by SCW under subsection (1), including provision for referrals to a fitness to practise panel.
+
+[^F124]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F124]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F124]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 114 Approval of courses etc.
+
+(1) SCW may, in accordance with rules made by it—
+
+(a) approve courses in relevant social work for persons who are or wish to become registered in the social worker part of the register;
+
+(b) approve courses in the work practised by persons registered in an added part of the register for persons who are or wish to become registered in that part of the register;
+
+(c) approve courses in the work practised by persons who are or wish to become social care workers of a description which is not specified in or under section 80(1).
+
+(2) An approval given under this section may be subject to such conditions as SCW thinks appropriate.
+
+(3) Rules made by virtue of this section may, in particular, make provision—
+
+(a) about the content of, and methods of completing, courses;
+
+(b) as to the provision of information to SCW about courses;
+
+(c) as to the persons who may undertake courses, or parts of courses specified in the rules;
+
+(d) as to the numbers of persons who may undertake courses;
+
+(e) for the award by SCW of certificates of the successful completion of courses;
+
+(f) about the lapse and renewal of approvals;
+
+(g) about the withdrawal of approvals.
+
+(4) SCW may—
+
+(a) conduct, or make arrangements for the conduct of, examinations in connection with such courses as are mentioned in this section or section 116;
+
+(b) carry out, or assist other persons in carrying out, research into matters relevant to training for social care workers of any description.
+
+(5) A course must not be approved by SCW under this section unless SCW thinks that the course will enable persons completing it to attain the required standard of proficiency in social care work.
+
+(6) In subsection (5) “the required standard of proficiency in social care work” means the standard described in rules made by SCW.
+
+(7) SCW must maintain and publish a list of the courses it has approved under this section.
+
+### 115 Inspections in connection with certain courses
+
+(1) SCW may by rules make provision for the inspection of places at which or institutions by which or under whose direction—
+
+(a) any relevant course (or part of such a course) is, or is proposed to be, given, or
+
+(b) any examination is, or is proposed to be, held in connection with any relevant course.
+
+(2) The rules may make provision—
+
+(a) for the appointment of persons to carry out inspections (“inspectors”);
+
+(b) for reports to be made by inspectors on—
+
+(i) the nature and quality of the instruction given, or to be given, and the facilities provided, or to be provided, at the place or by the institution visited;
+
+(ii) such other matters as may be specified in the rules;
+
+(c) for the payment by SCW of fees, allowances and expenses to persons appointed as inspectors;
+
+(d) for such persons to be treated, for the purposes of Schedule 2, as members of the SCW's staff.
+
+(3) In subsection (1) “relevant course”, in relation to SCW, means—
+
+(a) any course for which approval by SCW has been given, or is being sought, under section 114, or
+
+(b) any training which a person admitted to a part of the register may, by virtue of rules made under section 113(1), be required to undergo after registration.
+
+### 116 Other functions of SCW in respect of education and training
+
+(1) If it appears to SCW that adequate provision is not being made for training persons who are or wish to become social care workers of any description, SCW may provide, or secure the provision of, courses for that purpose.
+
+(2) SCW may also, upon such terms and subject to such conditions as it thinks appropriate—
+
+(a) make grants, and pay travelling and other allowances, to persons resident in Wales in order to secure their training in the work of social care workers of any description;
+
+(b) make grants to organisations providing training in the work of social care workers of any description.
+
+## PART 6 — SOCIAL CARE WORKERS: FITNESS TO PRACTISE
+
+### CHAPTER 1 — GROUNDS OF IMPAIRMENT
+
+#### 117 Fitness to practise
+
+(1) A person's fitness to practise may be regarded as impaired for the purposes of this Part and Part 4 by reason only of one or more of the following grounds—
+
+(a) deficient performance as a social care worker;
+
+(b) serious misconduct (whether as a social care worker or otherwise);
+
+(c) the inclusion of the person in a barred list;
+
+(d) a determination by a relevant body to the effect that the person's fitness to practise is impaired;
+
+(e) adverse physical or mental health;
+
+(f) a conviction or caution in the United Kingdom for a criminal offence, or a conviction or caution elsewhere for an offence which, if committed in England and Wales, would constitute a criminal offence.
+
+(2) For the purposes of subsection (1)(a) “deficient performance as a social care worker” may include—
+
+(a) an instance of negligence,
+
+(b) a breach of an undertaking agreed with SCW under this Act, and
+
+(c) a breach of an undertaking agreed with a fitness to practise panel under this Act.
+
+(3) In subsection (1)(c) “barred list” means—
+
+(a) a list maintained under section 2 of the Safeguarding Vulnerable Groups Act 2006 (c.47);
+
+(b) a list kept under section 1 of the Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14);
+
+(c) a list maintained under article 6 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351).
+
+(4) In subsection (1)(d) “relevant body” means—
+
+(a) the Health and Care Professions Council [[^F125]or Social Work England];
+
+(b) the Nursing and Midwifery Council;
+
+(c) the Scottish Social Services Council;
+
+(d) the Northern Ireland Social Care Council;
+
+(e) a body outside of the United Kingdom which is responsible for the regulation of activities which would, in Wales, be regulated by SCW;
+
+(f) a prescribed body.
+
+(5) A person's fitness to practise may be regarded as impaired by reason of matters arising or incidents occurring—
+
+(a) whether inside or outside of Wales;
+
+(b) whether or not the person was registered on the register at the time;
+
+(c) whether before or after this section comes into force.
+
+(6) The Welsh Ministers may by regulations amend subsection (1) for the purpose of adding, modifying or removing a ground of impairment.
+
+### CHAPTER 2 — PRELIMINARY PROCEDURES
+
+#### Preliminary consideration of allegations etc.
+
+##### 118 Referral of allegations etc. of impaired fitness to practise
+
+(1) This section applies where—
+
+(a) an allegation is made to SCW that a registered person's fitness to practise is impaired, or
+
+(b) SCW otherwise has reason to believe that a registered person's fitness to practise may be impaired.
+
+(2) SCW—
+
+(a) must refer for preliminary consideration the matter which is the subject of the allegation or its reason to believe that the registered person's fitness to practise may be impaired, and
+
+(b) may refer the matter to an interim orders panel (see Chapter 4).
+
+##### 119 Preliminary consideration
+
+(1) The person giving preliminary consideration to a matter referred by SCW must refer that matter for investigation under section 125 unless—
+
+(a) the person determines that the matter is not eligible for onward referral under section 120, or
+
+(b) the person is required by section 121 to refer the matter directly to a fitness to practise panel.
+
+(2) The person giving preliminary consideration to a matter may, at any stage, refer the matter to an interim orders panel (in addition to making a referral or determination under subsection (1)).
+
+(3) SCW must by rules make provision about the procedure for preliminary consideration which may, in particular, provide for preliminary consideration to be carried out by—
+
+(a) one or more persons appointed for that purpose, on such terms and conditions (including remuneration) as SCW may determine;
+
+(b) one or more members of SCW's staff.
+
+(4) But rules made under subsection (3) may not provide for preliminary consideration to be carried out by—
+
+(a) a person who is a member of—
+
+(i) SCW,
+
+(ii) [[^F126]Social Work England],
+
+(iii) the Scottish Social Services Council, or
+
+(iv) the Northern Ireland Social Care Council;
+
+(b) a person who is a member of a fitness to practise panel;
+
+(c) a person who is a member of an interim orders panel;
+
+(d) a prescribed person.
+
+(5) SCW must make such arrangements as it thinks appropriate to facilitate co-operation between—
+
+(a) a person who has made an allegation that a registered person's fitness to practise is impaired, and
+
+(b) the person giving preliminary consideration to the allegation.
+
+##### 120 Eligibility for onward referral
+
+(1) A matter is eligible for onward referral unless—
+
+(a) the matter relates to conduct or an incident which occurred 5 years or more before the relevant date and none of the exceptions in subsection (4) apply,
+
+(b) the person appointed to give the matter preliminary consideration thinks the allegation is vexatious, or
+
+(c) where an allegation has been made anonymously, or by a person who fails to co-operate with the preliminary consideration procedure, the person appointed to give the matter preliminary consideration is unable to verify it.
+
+(2) In subsection (1) the reference to onward referral is a reference to—
+
+(a) referral to a fitness to practise panel under section 121, or
+
+(b) referral for investigation under section 125.
+
+(3) In subsection (1)(a) “relevant date” means—
+
+(a) the date of the allegation under section 118(1)(a), or
+
+(b) where an allegation has not been made under that section, the date on which SCW first became aware of the matter.
+
+(4) For the purposes of subsection (1)(a) the exceptions are—
+
+(a) the matter relates to a registered person's conviction for a relevant criminal offence;
+
+(b) the matter relates to the inclusion of the registered person in a barred list (as defined in section 117);
+
+(c) the matter relates to a determination by a relevant body (as defined by section 117) to the effect that a registered person's fitness to practise is impaired;
+
+(d) the person giving the matter preliminary consideration thinks that it is in the public interest for the matter to be referred for investigation.
+
+(5) For the purposes of subsection (4)(a) and section 121, a relevant criminal offence is—
+
+(a) in the case of a conviction by a court in the United Kingdom, an offence in respect of which a custodial sentence was, or could have been, imposed, or
+
+(b) in the case of a conviction by a court elsewhere, an offence in respect of which, had the offence been committed in England and Wales a custodial sentence could have been imposed.
+
+(6) In subsection (5) “custodial sentence” has the meaning given by section 76 of the Powers of Criminal Courts (Sentencing) Act 2000 (c.6) [[^F127]or section 222 of the Sentencing Code].
+
+##### 121 Direct referral to a fitness to practise panel
+
+A person giving preliminary consideration to a matter must refer it directly to a fitness to practise panel—
+
+(a) if the matter relates to the conviction of a registered person for a relevant criminal offence (see section 120(5)), and
+
+(b) in such other circumstances as may be specified by SCW in rules.
+
+##### 122 Notice: ineligibility for onward referral
+
+(1) This section applies where a person giving preliminary consideration to a matter determines that the matter is not eligible for onward referral under section 120(1).
+
+(2) SCW must give notice of the determination to the relevant persons, unless SCW thinks that it is not in the public interest to do so.
+
+(3) For the purposes of subsection (2) “the relevant persons” are—
+
+(a) the registered person to whom the matter relates, and
+
+(b) where the matter was the subject of an allegation mentioned in section 118(1)(a), the person who made the allegation.
+
+(4) SCW may give notice to any other person that a matter is not eligible for onward referral where it is satisfied that it is in the public interest to do so.
+
+(5) SCW may by rules make provision about—
+
+(a) the content of a notice under this section, and
+
+(b) the procedure for giving notice.
+
+##### 123 Notice: onward referral
+
+(1) This section applies where, on conclusion of a preliminary consideration under section 119, a matter is referred—
+
+(a) to a fitness to practise panel under section 121, or
+
+(b) for investigation under section 125.
+
+(2) SCW must give notice to—
+
+(a) the registered person to whom the matter relates;
+
+(b) where the matter was the subject of an allegation mentioned in section 118(1)(a), the person who made the allegation;
+
+(c) each person by whom, to the knowledge of SCW, the registered person is employed as a social care worker;
+
+(d) each person who, to the knowledge of SCW, has an arrangement with the registered person for the registered person to provide services to a third party in his or her capacity as a social care worker;
+
+(e) such other persons as may be prescribed.
+
+(3) SCW must by rules make provision about giving notice under subsection (2).
+
+(4) The rules may, in particular, make provision about—
+
+(a) the content of a notice;
+
+(b) the procedure for giving notice;
+
+(c) the period within which notice must be given.
+
+##### 124 Notice: referral to an interim orders panel
+
+Where a person refers a matter to an interim orders panel under section 118(2)(b) or 119(2) SCW—
+
+(a) must give notice of the referral to—
+
+(i) the registered person to whom the matter relates, and
+
+(ii) where the matter was the subject of an allegation mentioned in section 118(1)(a), the person who made the allegation, and
+
+(b) may give notice of the referral to any other person if SCW thinks it is in the public interest to do so.
+
+#### Investigation
+
+##### 125 Duty to investigate
+
+(1) SCW must investigate, or make arrangements for the investigation of, a matter referred under section 119 in respect of a registered person's fitness to practise.
+
+(2) The person conducting an investigation under this section may, at any stage during the investigation, refer the matter to an interim orders panel.
+
+(3) SCW must by rules make provision about the arrangements for investigations under this section.
+
+(4) Rules made under subsection (3) may, in particular, make provision for—
+
+(a) the registered person to make representations to the person conducting the investigation;
+
+(b) investigations to be carried out by a member of SCW's staff;
+
+(c) the appointment of one or more individuals for the purpose of conducting an investigation;
+
+(d) the appointment of persons to provide assistance in relation to an investigation.
+
+(5) But rules made under subsection (3) may not provide for an investigation to be carried out by—
+
+(a) a person who is a member of—
+
+(i) SCW,
+
+(ii) [[^F128]Social Work England],
+
+(iii) the Scottish Social Services Council, or
+
+(iv) the Northern Ireland Social Care Council;
+
+(b) a person who is a member of a fitness to practise panel;
+
+(c) a person who is a member of an interim orders panel;
+
+(d) a prescribed person.
+
+##### 126 Powers following an investigation
+
+(1) This section applies where the investigation of a matter relating to a registered person's fitness to practise has been concluded.
+
+(2) SCW must refer the matter to a fitness to practise panel if it is satisfied that—
+
+(a) there is a realistic prospect of the panel finding that the registered person's fitness to practise is impaired, and
+
+(b) it is in the public interest to refer the matter.
+
+(3) Where the matter is not referred to a fitness to practise panel, SCW may—
+
+(a) decide to take no further action in respect of the registered person;
+
+(b) give advice to the registered person, or to any other person involved in the investigation, in respect of any matter related to the investigation;
+
+(c) issue a warning to the registered person in respect of future conduct or performance;
+
+(d) agree with the registered person that he or she will comply with such undertakings as SCW thinks appropriate;
+
+(e) grant an application under section 92 by the registered person for his or her entry in the register to be removed by agreement.
+
+##### 127 Notice: referral or disposal
+
+(1) SCW must give notice to the persons listed in subsection (2) of—
+
+(a) the referral of a matter to an interim orders panel under section 125(2);
+
+(b) the referral of a matter to a fitness to practise panel under section 126(2);
+
+(c) the way in which the matter has been disposed of under section 126(3).
+
+(2) The persons are—
+
+(a) the registered person to whom the matter relates, and
+
+(b) where the matter was the subject of an allegation mentioned in section 118(1)(a), the person who made the allegation.
+
+(3) SCW may give notice to any other person of the referral or disposal of a matter under section 126 if satisfied that it is in the public interest to do so.
+
+(4) A notice under this section must give the reasons for the referral.
+
+##### 128 Warnings
+
+(1) Where SCW is proposing to issue a warning to a registered person, SCW must—
+
+(a) notify the registered person of its intention, and
+
+(b) notify that person of the right to request an oral hearing for the purpose of determining whether or not to give a warning.
+
+(2) SCW must by rules make provision about—
+
+(a) the period within which a request for an oral hearing may be made;
+
+(b) the arrangements and procedure for an oral hearing.
+
+(3) SCW must grant a request for an oral hearing if the request is made in accordance with the requirements of rules made under subsection (2).
+
+##### 129 Undertakings
+
+(1) SCW must by rules make provision about the agreement of undertakings under section 126(3)(d).
+
+(2) The rules may, in particular, make provision about—
+
+(a) the procedure to be followed for the agreement of undertakings;
+
+(b) the procedure to be followed in the event of a breach of an undertaking;
+
+(c) the consequences of a breach of an undertaking;
+
+(d) periodic review of a requirement to comply with an undertaking.
+
+##### 130 Mediation
+
+(1) The Welsh Ministers may by regulations provide, or authorise SCW by rules to provide, for arrangements for mediation to be undertaken with any registered person in respect of whom a matter is referred for investigation under section 125.
+
+(2) The regulations may make provision about, or authorise SCW by rules to make provision about—
+
+(a) the circumstances in which mediation may be undertaken, and
+
+(b) the arrangements for undertaking mediation.
+
+#### Review
+
+##### 131 Review of decisions by SCW
+
+(1) SCW must review a decision to which subsection (2) applies if—
+
+(a) it thinks that the decision may be materially flawed, or
+
+(b) it thinks that a different decision may have been made on the basis of information that was not available when the decision was made.
+
+(2) This subsection applies to the following decisions—
+
+(a) a decision not to refer a matter to a fitness to practise panel under section 121 or 126(2),
+
+(b) a decision not to refer a matter for investigation under section 125,
+
+(c) a decision to dispose of a case after investigation under section 126(3), and
+
+(d) a decision to refer a case for mediation under regulations under section 130.
+
+(3) SCW may not review a decision after the end of the period of 2 years beginning with the date on which the decision was made unless SCW thinks that it is in the public interest to do so.
+
+(4) Where SCW decides to review a decision, it must give notice to the interested parties of—
+
+(a) the decision to carry out a review, and
+
+(b) the reasons for carrying out a review.
+
+(5) In this section “interested parties” means—
+
+(a) the registered person in respect of whom the decision under review was made,
+
+(b) the person (if any) who made an allegation in respect of which the decision was made, and
+
+(c) any other person who SCW thinks has an interest in the decision.
+
+(6) On a review under this section, SCW may—
+
+(a) substitute for the decision under review another decision of a kind that could have been made by the original decision maker,
+
+(b) refer the matter for investigation under section 125, or
+
+(c) determine that the decision stands.
+
+(7) SCW must give notice of the outcome of the review to the interested parties.
+
+(8) SCW must by rules make provision about the arrangements for carrying out a review under this section.
+
+(9) Rules made under subsection (8) may, in particular, make provision about—
+
+(a) the procedure to be followed in carrying out a review (including provision for the interested parties to make representations to SCW);
+
+(b) the content and timing of notices to be given under this section.
+
+##### 132 Cancellation of referral to fitness to practise panel
+
+(1) This section applies where a matter has been referred to a fitness to practise panel under section 121 or 126(2) or to an interim orders panel under section 118(2)(b), 119(2) or 125(2) and—
+
+(a) SCW no longer thinks that there is a realistic prospect that the panel will find that the registered person's fitness to practise is impaired, or
+
+(b) SCW otherwise thinks that it is no longer appropriate for the registered person to be subject to fitness to practise proceedings under this Part.
+
+(2) SCW may—
+
+(a) determine that the fitness to practise panel or interim orders panel may not commence or continue proceedings in respect of the matter, or
+
+(b) determine that the fitness to practise proceedings may only commence or continue in respect of such particulars of the matter as SCW may specify.
+
+(3) Where SCW makes a determination under subsection (2) it may refer the matter, or specified particulars of the matter, for investigation under section 125.
+
+(4) SCW must give notice of a determination under subsection (2) to—
+
+(a) the registered person to whom the matter relates,
+
+(b) where an allegation has been made, the person who made the allegation, and
+
+(c) any person to whom notice of the referral was given under section 123(2)(c), (d) or (e) or 127(3).
+
+(5) The notice must include the reasons for the determination.
+
+(6) SCW must by rules make provision about the procedure for exercising its functions under this section; in particular, provision about—
+
+(a) the procedure to be followed in making a determination under subsection (2), and
+
+(b) the content and timing of a notice under subsection (4).
+
+##### 133 Referral by SCW for review proceedings
+
+(1) This section applies where, in relation to a registered person, any of the following have effect—
+
+(a) undertakings agreed between the person and SCW under section 126(3)(d);
+
+(b) undertakings agreed between the person and a fitness to practise panel under section 136(1), 152(5) or (6), 153(4), 154(4) or 155(7);
+
+(c) a conditional registration order made (or confirmed or varied) under section 138(7), 152(8)(c), 153(6) or (7), 154(8)(c) or 155(10)(c);
+
+(d) a suspension order made (or confirmed or varied) under section 138(8), 152(8)(d), 153(9)(c) or 154(6) or (7).
+
+(2) If SCW thinks at any time that it is desirable that a fitness to practise panel should review the registered person's fitness to practise, SCW may refer the case to the panel to carry out a review (see Chapter 5).
+
+(3) But SCW must refer a case to a fitness to practise panel to carry out a review of a registered person's fitness to practise if SCW has reason to believe that—
+
+(a) where the person has agreed an undertaking of the kind mentioned in subsection (1)(a) or (b), that the person has breached the undertaking, or
+
+(b) where the person is subject to a conditional registration order of the kind mentioned in subsection (1)(c), that the person has breached any condition of the order.
+
+### CHAPTER 3 — DISPOSAL OF FITNESS TO PRACTISE CASES
+
+#### 134 Scope and interpretation of Chapter 3
+
+(1) This Chapter applies in respect of a matter which has been referred to a fitness to practise panel.
+
+(2) But it does not apply in respect of review proceedings under section 151 (except to the extent that rules may be made under section 136(4) or 137(6) about undertakings agreed, confirmed or varied, or warnings given, on a review carried out under section 151).
+
+(3) Nor does it apply in respect of proceedings before a fitness to practise panel, or that part of proceedings before a fitness to practise panel, in which that panel is considering—
+
+(a) whether to make an interim order under section 144, or
+
+(b) the review of an interim order under section 146.
+
+(4) In this Chapter a reference to a registered person is a reference to the registered person in respect of whom the referral to the fitness to practise panel has been made.
+
+#### 135 Removal from register on consensual basis
+
+(1) Subsection (2) applies where—
+
+(a) a registered person has applied under section 92 for the entry relating to that person to be removed from the register by agreement, and
+
+(b) that application has been referred to a fitness to practise panel by virtue of rules made under section 92(3).
+
+(2) The fitness to practise panel may make an order for the entry relating to the registered person to be removed from the register by agreement only if the person has agreed to a statement of facts relating to the matter in respect of which the referral mentioned in subsection (1) was made.
+
+(3) If an order for removal by agreement is made, SCW—
+
+(a) may publish the statement of agreed facts in such manner as it thinks appropriate, and
+
+(b) may disclose the statement to any person if SCW thinks it is in the public interest to do so.
+
+#### 136 Other consensual disposal by fitness to practise panel: undertakings
+
+(1) A fitness to practise panel may agree undertakings with the registered person if the person admits that his or her fitness to practise is impaired.
+
+(2) SCW must disclose details of the undertakings to any person—
+
+(a) by whom, to the knowledge of SCW, the registered person is employed as a social care worker;
+
+(b) who, to the knowledge of SCW, has an arrangement with the registered person for the registered person to provide services to a third party in his or her capacity as a social care worker;
+
+(c) from whom, to the knowledge of SCW, the registered person is seeking such employment or such an arrangement;
+
+(d) as may be prescribed.
+
+(3) But SCW may not disclose to any person details of any undertaking which relates solely to the registered person's physical or mental health.
+
+(4) SCW may by rules make provision about undertakings agreed with a fitness to practise panel under this section; and the rules may, in particular, make provision about the matters specified in section 129(2) (procedure to be followed for agreement of undertakings etc.).
+
+(5) Rules under subsection (4) may include provision in respect of undertakings agreed, confirmed or varied on a review under section 138(4), 152(5) or (6), 153(4), 154(4) or 155(7).
+
+#### 137 Disposals by fitness to practise panel: finding of no impairment
+
+(1) This section applies where a fitness to practise panel has determined that a registered person's fitness to practise is not impaired.
+
+(2) The panel may decide to take no further action in respect of that person.
+
+(3) Or, the panel may do either or both of the following things—
+
+(a) dispose of the matter in the way specified in subsection (4);
+
+(b) dispose of the matter in the way specified in subsection (5).
+
+(4) The panel may give advice on any matter related to the allegation under section 118(1)(a) or the information which gave rise to the proceedings under section 118(1)(b) (as the case may be)—
+
+(a) to the registered person, and
+
+(b) to any other person involved in the proceedings.
+
+(5) The panel may give a warning to the registered person in respect of future conduct or performance.
+
+(6) SCW may by rules make provision about the procedure for giving a warning under this section.
+
+(7) Rules under subsection (6) may, in particular, make provision—
+
+(a) requiring notice of a proposed warning to be given to the registered person, and
+
+(b) allowing the registered person to make representations in respect of the proposed warning.
+
+(8) Rules under subsection (6) may also include provision in respect of a warning given under section 138(6) or on a review under section 152(3)(b)(ii), 153(3)(b)(ii), 154(3)(b)(ii) or 155(6)(b)(ii).
+
+#### 138 Disposals by fitness to practise panel: finding of impairment
+
+(1) This section applies where a fitness to practise panel has determined that a registered person's fitness to practise is impaired.
+
+(2) The panel must dispose of the matter in one of the ways mentioned in subsections (3) to (9).
+
+(3) The panel may make an order under section 135(2) for removal of the registered person's entry from the register by agreement.
+
+(4) The panel may agree undertakings with the registered person; in which case, section 136(2) and (3) apply in respect of such undertakings.
+
+(5) The panel may decide to take no further action in respect of the registered person.
+
+(6) The panel may give a warning to the registered person in respect of future conduct or performance.
+
+(7) The panel may make a conditional registration order, which is an order imposing conditions on the person's registration.
+
+(8) The panel may make a suspension order, which is an order suspending the registered person's registration.
+
+(9) The panel may make a removal order, which is an order for the removal of the entry relating to the registered person in the register.
+
+(10) But the panel may not make a removal order if the only ground on which it has determined that the registered person's fitness to practise is impaired is adverse physical or mental health.
+
+#### 139 Disposals: further provision about conditional registration and suspension orders
+
+(1) A conditional registration order must specify—
+
+(a) the conditions with which the person to whom the order relates must comply, and
+
+(b) the period for which the order is to have effect, which must not exceed 3 years; but see section 153 regarding extensions of that period on review.
+
+(2) A conditional registration order may specify—
+
+(a) that the order must be reviewed in accordance with arrangements specified in the order;
+
+(b) different conditions that have effect for different periods; but this is subject to the limit mentioned in subsection (1)(b).
+
+(3) A suspension order must specify the period for which the order is to have effect, which must not exceed one year; but see section 154 regarding extensions of that period on review.
+
+(4) A suspension order may specify that the order must be reviewed in accordance with arrangements specified in the order.
+
+#### 140 Immediate orders for conditional registration or suspension
+
+(1) This section applies where a fitness to practise panel has made a conditional registration order, a suspension order or a removal order in respect of a registered person under section 138(7), (8) or (9) (“the decision”).
+
+(2) The fitness to practise panel may—
+
+(a) in the case of a conditional registration order, make an order that the registered person's registration in the register should be subject to the conditions with immediate effect, or
+
+(b) in the case of a suspension order or a removal order, make an order that the registered person's registration in the register should be suspended with immediate effect.
+
+(3) The panel may make an order under subsection (2) (an “immediate order”) only if it is satisfied that the order—
+
+(a) is necessary for the protection of the public,
+
+(b) is otherwise in the public interest, or
+
+(c) is in the interests of the registered person.
+
+(4) SCW must give notice to the registered person of the making of an immediate order.
+
+(5) An immediate order has effect from the date on which the registered person was notified of it until—
+
+(a) the date on which the decision takes effect in accordance with section 141(5), or
+
+(b) an appeal against the decision is upheld.
+
+#### 141 Fitness to practise decisions: notification and taking effect
+
+(1) Where a fitness to practise panel disposes of a case in any of the ways specified in sections 135 to 138, SCW must give notice to the registered person of the decision as to the disposal of the case.
+
+(2) In any case where the disposal follows a finding as to impairment of fitness to practise, the notice to the registered person must include—
+
+(a) a statement of facts found by the panel, and
+
+(b) the panel's finding as to impairment of fitness to practise.
+
+(3) A decision to dispose of a case in any of the ways specified in section 135, 136 or 137 takes effect immediately.
+
+(4) Where a fitness to practise panel disposes of a case in any of the ways specified in section 138(5) to (9), SCW must also give notice to the registered person of the right of appeal against the decision under section 158.
+
+(5) A decision to dispose of a case in any of the ways specified in section 138(5) to (9) does not take effect until—
+
+(a) the end of the period of 28 days beginning with the day on which the registered person was notified of the decision, or
+
+(b) if an appeal is made within that period, the appeal is withdrawn, discontinued or dismissed.
+
+#### 142 Regulations about disposals by fitness to practise panels
+
+(1) The Welsh Ministers may by regulations amend sections 135 to 138 to revise the ways in which a fitness to practise panel may dispose of a fitness to practise matter.
+
+(2) The regulations may, in particular—
+
+(a) add a new disposal power to the powers mentioned in those sections, and make supplementary provision in respect of such a power;
+
+(b) amend or repeal a disposal power mentioned in those sections;
+
+(c) amend or repeal provisions of those sections which make supplementary provision in respect of a disposal power mentioned in those sections.
+
+### CHAPTER 4 — INTERIM ORDERS AND REVIEW OF INTERIM ORDERS
+
+#### 143 Scope and interpretation of Chapter 4
+
+(1) This Chapter applies—
+
+(a) where a matter has been referred to an interim orders panel, and
+
+(b) where a matter has been referred to a fitness to practise panel, to the proceedings before the fitness to practise panel, or that part of those proceedings, in which the fitness to practise panel is considering—
+
+(i) whether to make an interim order under section 144, or
+
+(ii) the review of an interim order under section 146.
+
+(2) In this Chapter—
+
+- “interim order proceedings” (“*achos gorchymyn interim*”) means proceedings in respect of which this Chapter applies, and
+- “panel” (“*panel*”) means the interim orders panel or fitness to practise panel before which the proceedings are brought.
+
+(3) In this Chapter a reference to a registered person is a reference to the registered person in respect of whom the referral to the panel has been made.
+
+#### 144 Interim orders
+
+(1) A panel may in interim order proceedings make an interim order in relation to a registered person.
+
+(2) An interim orders panel may make an interim order whether or not the matter has been referred to a fitness to practise panel.
+
+(3) Where a matter has been referred to a fitness to practise panel, any interim order must be made before the matter is disposed of by the fitness to practise panel in accordance with any of sections 135 to 138.
+
+(4) The two types of interim order are—
+
+(a) an interim suspension order, which is an order suspending the registered person's registration;
+
+(b) an interim conditional registration order, which is an order imposing conditions on the registered person's registration.
+
+(5) A panel may make an interim order only if it is satisfied that the order—
+
+(a) is necessary for the protection of the public,
+
+(b) is otherwise in the public interest, or
+
+(c) is in the interests of the registered person.
+
+(6) An interim order—
+
+(a) takes effect immediately, and
+
+(b) may not have effect for a period of more than 18 months (unless it is extended [[^F129]by the tribunal under section 148]).
+
+(7) Where an interim order is made in respect of a registered person, SCW must give notice to the person of—
+
+(a) the decision,
+
+(b) the reasons for the decision, and
+
+(c) the right of appeal under section 145 against the decision.
+
+#### 145 Appeals against interim orders
+
+(1) Where a panel has made an interim order under section 144 in respect of a registered person, that person may appeal against the order to the tribunal.
+
+(2) An appeal must be made before the end of the period of 28 days beginning with the day on which notice of the decision is given under section 144(7).
+
+(3) But the tribunal may allow an appeal to be made to it after the end of the period mentioned in subsection (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay in applying for permission to appeal out of time).
+
+(4) On an appeal, the tribunal may—
+
+(a) revoke the interim order,
+
+(b) in the case of an interim conditional registration order, revoke or vary any condition,
+
+(c) replace an interim suspension order with an interim conditional registration order,
+
+(d) replace an interim conditional registration order with an interim suspension order,
+
+(e) vary the period for which the interim order is to have effect,
+
+(f) remit the case to SCW for it to dispose of in accordance with the directions of the tribunal, or
+
+(g) make no change to the interim order.
+
+#### 146 Reviews of interim orders: timing
+
+(1) A panel must first review an interim order made under section 144 within six months beginning with the date on which the order was made.
+
+(2) Where an interim order made under section 144 has been varied or replaced by the tribunal on an appeal under section 145, the reference in subsection (1) to the date on which the order was made is to be read as a reference to the date of the tribunal's decision.
+
+(3) Subsection (4) sets out the timing of the first review of an interim order following its extension or further extension by the tribunal (see section 148), and “the tribunal's decision” means the decision to extend or further extend the order (as the case may be).
+
+(4) A panel must review the interim order—
+
+(a) if no review of the order had taken place before the tribunal's decision, within six months beginning with the date of the tribunal's decision, or
+
+(b) if a review of the order had taken place before the tribunal's decision, within three months beginning with that date.
+
+(5) Subsection (6) sets out the timing of the first review of a replacement interim conditional registration order or interim suspension order made on a review (“the replacement order”) (see section 147(1)(c) and (d)).
+
+(6) A panel must review the replacement order—
+
+(a) if no review of the order which has been replaced had taken place before the review which led to the replacement order being made, within six months beginning with the date on which the replacement order was made, or
+
+(b) if a review of the order which has been replaced had taken place before the review which led to the replacement order being made, within three months beginning with the date on which the replacement order was made.
+
+(7) After the first review of an interim order under subsection (1), (4) or (6), a panel must review the order (for so long as it is in effect)—
+
+(a) within six months beginning with the date of the decision of the most recent review, or
+
+(b) if after the end of the period of three months beginning with that date, the registered person requests an earlier review, as soon as practicable.
+
+(8) A panel may review an interim order at any time if new evidence becomes available which is relevant to the case.
+
+(9) In subsections (7) and (8) a reference to an interim order includes a reference to—
+
+(a) an interim order as extended or further extended [^F130]...,
+
+(b) an interim order as varied on a review (see section 147(1)(b)), and
+
+(c) a replacement interim conditional registration order or interim suspension order made on a review.
+
+#### 147 Reviews of interim order: possible decisions
+
+(1) On the completion by a panel of a review of an interim order, the panel may—
+
+(a) revoke the interim order;
+
+(b) in the case of an interim conditional registration order, revoke or vary any condition;
+
+(c) replace an interim suspension order with an interim conditional registration order;
+
+(d) replace an interim conditional registration order with an interim suspension order;
+
+(e) make no changes to the interim order [[^F131];
+
+(f) in the case of an interim order that has not been extended by the tribunal under section 148, extend the interim order].
+
+(2) A panel may make a decision specified in subsection (1)(b), (c), (d) or (e) only if the panel is satisfied that the decision—
+
+(a) is necessary for the protection of the public,
+
+(b) is otherwise in the public interest, or
+
+(c) is in the interests of the registered person.
+
+[[^F132](2A) A panel may make a decision specified in subsection (1)(f) only if—
+
+(a) the panel is satisfied that the decision meets one or more of the conditions referred to in paragraphs (a) to (c) of subsection (2), and
+
+(b) the extension does not result in the interim order having effect for a period of more than 18 months.]
+
+(3) A replacement order made under subsection (1)(c) or (d) has effect for the remainder of the period for which the order which it replaces had effect (unless it is extended [[^F133]by a panel under subsection (1)(f) or by the tribunal] under section 148).
+
+(4) In this section—
+
+(a) a reference to an interim order includes a reference to—
+
+(i) an interim order as extended or further extended by the tribunal;
+
+[[^F134](ia) an interim order as extended or further extended by a panel;]
+
+(ii) an interim order as varied under subsection (1)(b);
+
+(iii) a replacement interim conditional registration order or interim suspension order made under subsection (1)(c) or (d);
+
+(b) a reference to an interim conditional registration order or an interim suspension order includes a reference to—
+
+(i) an interim order of that kind as extended or further extended by the tribunal;
+
+(ii) in the case of an interim conditional registration order, an interim order as varied under subsection (1)(b);
+
+(iii) a replacement order of that kind made under subsection (1)(c) or (d).
+
+[[^F135](5) But subsection (4)(a)(i) and (b)(i) do not apply in relation to the reference to an interim order in subsection (1)(f).]
+
+#### 148 Extension of interim order by the tribunal
+
+(1) SCW may apply to the tribunal for an interim order to be extended or further extended.
+
+(2) On an application, the tribunal may—
+
+(a) revoke the interim order,
+
+(b) in the case of a conditional registration order, revoke or vary any condition,
+
+(c) extend, or further extend, the order for up to 12 months, or
+
+(d) make no change to the order or to the period for which the order is to have effect.
+
+(3) In this section, a reference to an interim order includes a reference to—
+
+(a) an interim order as extended or further extended under this section,
+
+(b) an interim order varied on a review (see section 147(1)(b)), and
+
+(c) a replacement interim conditional registration order or interim suspension order made on a review (see section 147(1)(c) or (d)).
+
+#### 149 Revocation of interim orders
+
+(1) This section applies where—
+
+(a) a fitness to practise panel disposes of a matter in respect of a registered person in any of the ways set out in sections 135 to 138, and
+
+(b) at that time, the registered person is subject to an interim order (see section 144).
+
+(2) The fitness to practise panel must, at the same time as it disposes of the matter, revoke the interim order.
+
+(3) The revocation of the interim order takes effect on the date on which the panel disposes of the matter as described in subsection (1)(a).
+
+(4) In this section a reference to an interim order includes a reference to the following (see sections 147 and 148)—
+
+(a) an interim order as extended or further extended [[^F136](whether by a panel or the tribunal)];
+
+(b) an interim order as varied on a review;
+
+(c) a replacement interim conditional registration order or interim suspension order made on a review.
+
+### CHAPTER 5 — REVIEW PROCEEDINGS
+
+#### 150 Review proceedings: interpretation and general
+
+(1) In this Chapter a reference to a registered person is to the registered person whose fitness to practise is the subject of a review under section 151.
+
+(2) A fitness to practise panel may make an order for removal of a registered person's entry from the register by agreement under section 152(2), 153(2), 154(2) or 155(5) only if the person has agreed to a statement of facts relating to the matter.
+
+(3) If such an order is made under any of those provisions, SCW—
+
+(a) may publish the statement of agreed facts in such manner as it thinks appropriate, and
+
+(b) may disclose the statement to any person if SCW thinks it is in the public interest to do so.
+
+(4) Where a fitness to practise panel agrees or confirms undertakings, or agrees any variation of undertakings, under section 152(5) or (6), 153(4), 154(4) or 155(7), SCW must disclose details of the undertakings to any person—
+
+(a) by whom, to the knowledge of SCW, the registered person is employed as a social care worker,
+
+(b) who, to the knowledge of SCW, has an arrangement with the registered person for the registered person to provide services to a third party in his or her capacity as a social care worker,
+
+(c) from whom, to the knowledge of SCW, the registered person is seeking such employment or such an arrangement, and
+
+(d) as may be prescribed.
+
+(5) But SCW may not disclose to any person details of any undertaking which relates solely to the registered person's physical or mental health.
+
+#### 151 Review proceedings
+
+(1) Subsection (2) applies where undertakings agreed between a fitness to practise panel and a registered person under section 136(1), 152(5) or (6), 153(4), 154(4) or 155(7) have effect.
+
+(2) A fitness to practise panel must carry out a review of the registered person's fitness to practise in accordance with any requirements as to review contained in those undertakings.
+
+(3) Subsection (4) applies where a conditional registration order made (or confirmed or varied) under section 138(7), 152(8)(c), 153(6) or (7), 154(8)(c) or 155(10)(c) has effect in relation to a registered person.
+
+(4) A fitness to practise panel must carry out a review of the registered person's fitness to practise in accordance with any requirements as to review contained in the conditional registration order.
+
+(5) Subsection (6) applies where a suspension order made (or confirmed or varied) under section 138(8), 152(8)(d), 153(9)(c) or 154(6) or (7) has effect in relation to a registered person.
+
+(6) A fitness to practise panel must carry out a review of the registered person's fitness to practise in accordance with any requirements as to review contained in the suspension order.
+
+(7) A fitness to practise panel must also carry out a review of a registered person's fitness to practise in a case referred to it by SCW under section 133.
+
+#### 152 Review of undertakings: disposals by fitness to practise panel
+
+(1) This section specifies the possible disposals which may be made by a fitness to practise panel which has completed a review under section 151(2) or (7) of the fitness to practise of a registered person who has agreed undertakings.
+
+(2) If the registered person has applied under section 92 for removal of the entry relating to the person from the register by agreement, the panel may make an order for the removal of that entry.
+
+(3) If the panel determines that the registered person's fitness to practise is no longer impaired, the panel—
+
+(a) must revoke the undertakings, and
+
+(b) may do either or both of the following—
+
+(i) give advice to the person on any matter related to the case;
+
+(ii) give the person a warning in respect of future conduct or performance.
+
+(4) If the registered person admits that his or her fitness to practise is impaired, or if the panel determines that the person's fitness to practise is impaired, the panel may make a disposal specified in subsection (5) or (6).
+
+(5) The panel may agree with the registered person that the undertakings remain in effect with no variations.
+
+(6) The panel may agree with the registered person that either or both of the following variations may be made to any undertaking—
+
+(a) a variation of its terms;
+
+(b) an extension or reduction of the period for which it is to have effect.
+
+(7) Under subsection (6)(b) an extension of the period for which any undertaking is to have effect may not be for more than 3 years.
+
+(8) If the panel determines that the registered person's fitness to practise is impaired, the panel may revoke the undertakings and make a decision to—
+
+(a) take no further action in respect of the person,
+
+(b) give a warning to the person in respect of future conduct or performance,
+
+(c) make a conditional registration order,
+
+(d) make a suspension order, or
+
+(e) subject to subsection (9), make a removal order.
+
+(9) The panel may not make a removal order in a case where the panel has determined that the registered person's fitness to practise is impaired on the grounds of adverse physical or mental health, and no other ground in section 117.
+
+#### 153 Review of conditional registration orders: disposals by fitness to practise panel
+
+(1) This section specifies the possible disposals which may be made by a fitness to practise panel which has completed a review under section 151(4) or (7) of the fitness to practise of a registered person who is subject to a conditional registration order.
+
+(2) If the registered person has applied under section 92 for the removal of the entry relating to the person from the register by agreement, the panel may make an order for the removal of that entry.
+
+(3) If the panel determines that the registered person's fitness to practise is no longer impaired, the panel—
+
+(a) must revoke the conditional registration order, and
+
+(b) may do either or both of the following—
+
+(i) give advice to the person on any matter related to the case;
+
+(ii) give the person a warning in respect of future conduct or performance.
+
+(4) The panel may agree undertakings with the registered person—
+
+(a) if the person admits that his or her fitness to practise is impaired, or
+
+(b) if the panel determines that the person's fitness to practise is impaired.
+
+(5) If the panel determines that the registered person's fitness to practise is impaired (and undertakings have not been agreed), the panel may dispose of the case as described in subsections (6), (7) or (9).
+
+(6) The panel may confirm the conditional registration order with no variations.
+
+(7) The panel may do any or all of the following in respect of the conditional registration order—
+
+(a) revoke any condition;
+
+(b) vary any condition;
+
+(c) extend or reduce the period for which the order is to have effect.
+
+(8) Under subsection (7)(c) an extension of the period for which the order is to have effect may not be for more than 3 years.
+
+(9) The panel may revoke the conditional registration order and make a decision to—
+
+(a) take no further action in respect of the registered person,
+
+(b) give a warning to the person in respect of future conduct or performance,
+
+(c) make a suspension order, or
+
+(d) subject to subsection (10), make a removal order.
+
+(10) The panel may not make a removal order in a case where the panel has determined that the registered person's fitness to practise is impaired on the grounds of adverse physical or mental health, and no other ground in section 117.
+
+#### 154 Review of suspension orders: disposals by fitness to practise panel
+
+(1) This section specifies the possible disposals which may be made by a fitness to practise panel which has completed a review under section 151(6) or (7) of the fitness to practise of a registered person who is subject to a suspension order.
+
+(2) If the registered person has applied under section 92 for the removal of the entry relating to the person from the register by agreement, the panel may make an order for the removal of that entry.
+
+(3) If the panel determines that the registered person's fitness to practise is no longer impaired, the panel—
+
+(a) must revoke the suspension order, and
+
+(b) may do either or both of the following—
+
+(i) give advice to the person on any matter related to the case;
+
+(ii) give the person a warning in respect of future conduct or performance.
+
+(4) The panel may agree undertakings with the registered person—
+
+(a) if the person admits that his or her fitness to practise is impaired, or
+
+(b) if the panel determines that the person's fitness to practise is impaired.
+
+(5) If the panel determines that the registered person's fitness to practise is impaired (and undertakings have not been agreed), the panel may dispose of the case as described in subsections (6), (7), (8) or (10).
+
+(6) The panel may confirm the suspension order with no variations.
+
+(7) The panel may—
+
+(a) extend the period for which the suspension order is to have effect for a period of no more than 12 months, or
+
+(b) reduce the period for which the suspension order is to have effect.
+
+(8) The panel may revoke the suspension order and make a decision to—
+
+(a) take no further action in respect of the registered person,
+
+(b) give a warning to the person in respect of future conduct or performance,
+
+(c) make a conditional registration order, or
+
+(d) make a removal order.
+
+(9) The panel may not make a removal order in a case where the panel has determined that the registered person's fitness to practise is impaired on the grounds of adverse physical or mental health, and no other ground in section 117.
+
+(10) If the conditions in subsection (11) are met, the panel may make an indefinite suspension order, which is an order suspending the registered person's registration in the register for an indefinite period.
+
+(11) The conditions are—
+
+(a) the panel has determined that the registered person's fitness to practise is impaired on the grounds of adverse physical or mental health, and on no other ground specified in section 117,
+
+(b) at the date of the panel's decision, the person has been suspended for at least 2 years, and
+
+(c) the suspension order to which the person is subject is due to expire within 2 months of the date of the panel's decision.
+
+#### 155 Review of indefinite suspension orders
+
+(1) This section applies where a fitness to practise panel has made an indefinite suspension order.
+
+(2) A fitness to practise panel must review the indefinite suspension order on the application of the registered person.
+
+(3) The registered person may not make an application for review—
+
+(a) before the expiry of the period of 2 years beginning with the date on which the order was made, or
+
+(b) within the period of 2 years beginning with the date of a previous application for review.
+
+(4) The following subsections specify the possible disposals which may be made by a fitness to practise panel which has completed a review under subsection (2).
+
+(5) If the registered person has applied under section 92 for the removal of the entry relating to the person from the register by agreement, the panel may make an order for the removal of that entry.
+
+(6) If the panel determines that the registered person's fitness to practise is no longer impaired, the panel—
+
+(a) must revoke the indefinite suspension order, and
+
+(b) may do either or both of the following—
+
+(i) give advice to the person on any matter related to the case;
+
+(ii) give the person a warning in respect of future conduct or performance.
+
+(7) The panel may agree undertakings with the registered person—
+
+(a) if the person admits that his or her fitness to practise is impaired, or
+
+(b) if the panel determines that the person's fitness to practise is impaired.
+
+(8) If the panel determines that the registered person's fitness to practise is impaired (and undertakings have not been agreed), the panel may dispose of the case as described in subsection (9) or (10).
+
+(9) The panel may confirm the indefinite suspension order.
+
+(10) The panel may revoke the indefinite suspension order and make a decision to—
+
+(a) take no further action in respect of the registered person,
+
+(b) give a warning to the person in respect of future conduct or performance, or
+
+(c) make a conditional registration order.
+
+#### 156 Reviews: further provision about conditional registration and suspension orders
+
+(1) Subsections (2) and (3) apply to a conditional registration order made under section 152(8)(c), 154(8)(c) or 155(10)(c).
+
+(2) The order must specify—
+
+(a) the conditions with which the person to whom the order relates must comply, and
+
+(b) the period for which the order is to have effect, which must not exceed 3 years; but see section 153 regarding extensions of that period on review.
+
+(3) The order may specify—
+
+(a) that it must be reviewed in accordance with arrangements specified in the order;
+
+(b) different conditions that have effect for different periods; but this is subject to the limit mentioned in subsection (2)(b).
+
+(4) Subsections (5) and (6) apply to a suspension order made under section 152(8)(d) or 153(9)(c).
+
+(5) The order must specify the period for which it is to have effect, which must not exceed 3 years; but see section 154 regarding extensions of that period on review.
+
+(6) The order may specify that it must be reviewed in accordance with arrangements specified in the order.
+
+#### 157 Decisions in review cases: notification and taking effect
+
+(1) Where a fitness to practise panel disposes of a review case in any of the ways specified in sections 152 to 155, SCW must give notice to the registered person of the decision as to the disposal of the case.
+
+(2) In any case where the disposal follows a finding as to impairment of fitness to practise, the notice given to the registered person must include—
+
+(a) a statement of facts found by the panel, and
+
+(b) the panel's reasons for its finding.
+
+(3) A decision to dispose of a review case in any of the ways specified in sections 152 to 155, except those disposals specified in subsection (4), takes effect immediately.
+
+(4) Subsection (5) applies where a fitness to practise panel disposes of a review case in any of the ways specified in—
+
+(a) section 152(8),
+
+(b) section 153(6), (7) or (9),
+
+(c) section 154(6), (7), (8) or (10), or
+
+(d) section 155(9) or (10).
+
+(5) SCW must also give notice to the registered person of the right of appeal under section 158 against the decision.
+
+(6) A decision to dispose of a review case in any of the ways specified in subsection (4) does not take effect until—
+
+(a) the end of the period of 28 days beginning with the day on which the registered person was notified of the decision, or
+
+(b) if an appeal is made within that period, the appeal is withdrawn, discontinued or dismissed.
+
+(7) Subsection (8) applies where—
+
+(a) a registered person is subject to a conditional registration order under section 138(7), 152(8)(c), 153(6) or (7), 154(8)(c) or 155(10)(c), and
+
+(b) a fitness to practise panel disposes of a review case in any of the ways specified in section 153(6), (7) or (9)(c) or (d) (“the decision”).
+
+(8) The registered person's conditional registration under the order as mentioned in subsection (7)(a) continues to have effect until—
+
+(a) the decision takes effect in accordance with subsection (6), or
+
+(b) an appeal against the decision is upheld,
+
+despite the fact that, were it not for this subsection, the conditional registration would cease to have effect before that date.
+
+(9) Where a registered person is subject to a conditional registration order as mentioned in subsection (7)(a) and a fitness to practise panel disposes of a review case by extending the period of the conditional registration order under section 153(7)(c) that extended period of conditional registration is to be treated as having started on the date on which the previous period of conditional registration would, were it not for subsection (8), have ceased to have had effect.
+
+(10) Subsection (11) applies where—
+
+(a) a registered person is subject to a suspension order under section 138(8), 152(8)(d), 153(9)(c) or 154(6) or (7), or an indefinite suspension order under section 154(10) or 155(9), and
+
+(b) a fitness to practise panel disposes of a review case in any of the ways specified in section 154(6), (7), (8)(c) or (d) or (10) or 155(10)(c) (“the decision”).
+
+(11) The registered person's suspension under the order as mentioned in subsection (10)(a) continues to have effect until—
+
+(a) the decision takes effect in accordance with subsection (6), or
+
+(b) an appeal against the decision is upheld,
+
+despite the fact that, were it not for this subsection, the suspension would cease to have effect before that date.
+
+(12) Where a registered person is subject to a suspension order under section 138(8), 152(8)(d), 153(9)(c) or 154(6) or (7) and a fitness to practise panel disposes of a review case by extending the period of the suspension order under section 154(7)(a) that extended period of suspension is to be treated as having started on the date on which the previous period of suspension would, were it not for subsection (11), have ceased to have had effect.
+
+### CHAPTER 6 — APPEALS AND REFERRALS TO THE TRIBUNAL
+
+#### 158 Appeals against decisions of a fitness to practise panel
+
+(1) This section applies where a fitness to practise panel—
+
+(a) having determined that a registered person's fitness to practise is impaired (“a finding of impairment”), makes a decision to take no further action under section 138(5);
+
+(b) following a finding of impairment, gives a warning under section 138(6);
+
+(c) following a finding of impairment, makes a conditional registration order under section 138(7);
+
+(d) following a finding of impairment, makes a suspension order under section 138(8);
+
+(e) following a finding of impairment, makes a removal order under section 138(9);
+
+(f) following a finding of impairment, makes a decision in a review case under section 152(8) (disposals following review of undertakings);
+
+(g) following a finding of impairment, makes a decision in a review case under section 153(6), (7) or (9) (disposals following review of conditional registration order);
+
+(h) following a finding of impairment, makes a decision in a review case under section 154(6), (7), (8) or (10) (disposals following review of suspension order);
+
+(i) makes a decision in a review case under section 155(9) or (10) (disposals following review of indefinite suspension order).
+
+(2) The person in respect of whom a decision of a kind listed in subsection (1) was made may appeal against the decision to the tribunal.
+
+(3) An appeal must be brought within the period of 28 days beginning with the day on which notice of the decision is given to the person concerned.
+
+(4) But the tribunal may allow an appeal to be made to it after the end of the period mentioned in subsection (3) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay in applying for permission to appeal out of time).
+
+(5) On an appeal under this section, the tribunal may—
+
+(a) confirm the decision,
+
+(b) substitute for the decision appealed against another decision that the fitness to practise panel could have made, or
+
+(c) remit the case to SCW to dispose of in accordance with the directions of the tribunal.
+
+### CHAPTER 7 — GENERAL AND SUPPLEMENTARY
+
+#### 159 Disclosure of information about fitness to practise
+
+SCW may publish or disclose to any person information relating to a registered person's fitness to practise if it thinks it to be in the public interest to do so.
+
+#### 160 Power to require information
+
+(1) For the purpose of carrying out functions under this Part, SCW may require—
+
+(a) a registered person, or
+
+(b) any other person (other than a Minister of the Crown),
+
+who SCW thinks is able to supply information or produce any document which appears relevant to the exercise of any such function, to supply that information or produce that document.
+
+(2) SCW may, in particular, require the registered person whose fitness to practise is being investigated, to provide details of any person—
+
+(a) by whom the registered person is employed as a social care worker;
+
+(b) who has an arrangement with the registered person for the registered person to provide services to a third party in his or her capacity as a social care worker.
+
+(3) Nothing in this section requires or permits any disclosure of information which is prohibited by any enactment or other rule of law.
+
+(4) But where information is held in a form in which the prohibition operates because the information is capable of identifying an individual, SCW may require that the information be put in a form which is not capable of identifying that individual.
+
+(5) If a person fails to supply any information or produce any document within 14 days, or such longer period as SCW may specify, of the person being required to do so under this section, SCW may apply to the tribunal for an order requiring the information to be supplied or the document to be produced.
+
+#### 161 Publication of fitness to practise decisions
+
+(1) SCW must publish a decision of a fitness to practise panel to make a consensual disposal of a matter under section 135 or 136.
+
+(2) SCW must publish a decision of a fitness to practise panel to dispose of a case under section 137 (disposal following a finding of no impairment of fitness to practise).
+
+(3) SCW must publish a decision of a fitness to practise panel to dispose of a case under section 138 (disposal following a finding of impaired fitness to practise).
+
+(4) SCW must publish a decision of a fitness to practise panel to dispose of a review cases in any of the ways mentioned in sections 152 to 155.
+
+(5) SCW must publish a decision of a fitness to practise panel to make an immediate order under section 140.
+
+(6) SCW must publish the following decisions of an interim orders panel or a fitness to practise panel—
+
+(a) a decision to make an interim order under section 144;
+
+(b) a decision to confirm [[^F137], vary or extend] an interim order on a review under section 147.
+
+(7) SCW must publish any decision it makes—
+
+(a) to issue a warning under section 126(3)(c) (powers of SCW where case is not referred to a fitness to practise panel),
+
+(b) to agree undertakings under section 126(3)(d), or
+
+(c) to grant an application for removal from the register by agreement under section 126(3)(e).
+
+(8) Subsections (1) to (7) are subject to subsections (9) and (10).
+
+(9) SCW is not required to publish any decision of a fitness to practise panel to take no further action in respect of a registered person under section 137(2), 138(5), 152(8)(a), 153(9)(a), 154(8)(a) or 155(10)(a); but it may do so.
+
+(10) SCW must not publish any information about a person's physical or mental health.
+
+#### 162 Guidance about fitness to practise
+
+(1) SCW may publish guidance about factors which in its view may make it appropriate, or inappropriate, for a fitness to practise panel or an interim orders panel to make or confirm an interim order under Chapter 4.
+
+(2) A fitness to practise panel or an interim orders panel must have regard to guidance published under subsection (1) in exercising any function under Chapter 4.
+
+(3) SCW may publish guidance about factors which in its view may make it appropriate, or inappropriate, for a fitness to practise panel to do any of the following—
+
+(a) reach a consensual disposal of a matter under section 135 or 136;
+
+(b) give advice or a warning under section 137;
+
+(c) dispose of any matter in any of the ways mentioned in section 138(3) to (9);
+
+(d) make an immediate order under section 140;
+
+(e) dispose of a matter on review in any of the ways mentioned in sections 152 to 155.
+
+(4) SCW may publish guidance about—
+
+(a) particular undertakings, or kinds of undertakings, which may be agreed by a fitness to practise panel, and when it may be appropriate or inappropriate to agree such undertakings;
+
+(b) particular conditions, or kinds of conditions, which may be included in a conditional registration order, and when it may be appropriate or inappropriate to include such conditions;
+
+(c) the period of time for which any of the following should have effect—
+
+(i) undertakings;
+
+(ii) conditions included in a conditional registration order;
+
+(iii) a suspension order.
+
+(5) SCW may publish guidance about factors which it thinks should be taken into account in determining whether or not a registered person's fitness to practise is impaired on the grounds of adverse physical or mental health.
+
+(6) A fitness to practise panel must have regard to guidance published under subsections (3) to (5) in exercising any function under this Part.
+
+#### 163 Suspension: supplementary
+
+(1) This section applies in respect of a person who is subject to—
+
+(a) a suspension order made under section 138(8) (disposals by fitness to practise panel: finding of impairment);
+
+(b) a suspension order made, confirmed or varied on review under section 152(8)(d), 153(9)(c) or 154(6) or (7);
+
+(c) an indefinite suspension order made or confirmed on review under section 154(10) or 155(9);
+
+(d) an interim suspension order made, confirmed [[^F138], varied or extended] under section 144 or 147.
+
+(2) The person is to be treated for all purposes other than those mentioned in subsection (3) as not being registered in the register despite the fact that the person's name continues to appear in it.
+
+(3) The person is to be treated as registered for the purpose of—
+
+(a) any proceedings under this Part (including preliminary consideration or investigation under Chapter 2) which relate to the person's fitness to practise;
+
+(b) an application made under rules under section 92 for removal from a part of the register by agreement;
+
+(c) proceedings under section 94 (entries based on false or misleading information) which relate to an entry in a part of the register.
+
+#### 164 Meaning of “registered person” in Part 6
+
+In this Part “registered person” means a person who is registered in [[^F139]the social worker part or an added part] [^F140]... of the register; and it includes a person⁠—
+
+(a) whose registration would have lapsed under section 87(1) but for the fact that subsection (2) of that section applies to the person;
+
+(b) in respect of whom a suspension order has effect under section 138(8), 152(8)(d), 153(9)(c), 154(6), (7) or (10) or 155(9);
+
+(c) in respect of whom an interim suspension order has effect under section 144 or 147.
+
+## PART 7 — ORDERS PROHIBITING WORK IN SOCIAL CARE: UNREGISTERED PERSONS
+
+### 165 Designation of regulated activity
+
+(1) The Welsh Ministers may by regulations—
+
+(a) designate an activity to which subsection (2) applies as a regulated activity for the purposes of this Part, and
+
+(b) authorise the making of prohibition orders in respect of the regulated activity.
+
+(2) The activities to which this subsection applies are—
+
+(a) practising as a social care worker of a prescribed description;
+
+(b) carrying out a prescribed activity as a social care worker;
+
+(c) the use by an individual of a prescribed title relating to an activity within paragraph (a) or (b).
+
+(3) In subsection (2) references to “social care worker” do not include a reference to—
+
+(a) a social worker, or
+
+(b) a social care worker of a description specified for the time being by regulations under section 80(1)(b) (descriptions of social care worker in respect of whom SCW keeps an added part of the register).
+
+(4) In this Part “prohibition order” means an order made by a fitness to practise panel prohibiting a person from carrying out a regulated activity.
+
+(5) Before making regulations under this section the Welsh Ministers must consult any persons they think appropriate.
+
+(6) But the requirement to consult does not apply to regulations which—
+
+(a) amend other regulations made under this section, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+### 166 Conditions for making a prohibition order
+
+(1) Regulations made under section 165 must prescribe the circumstances in which a fitness to practise panel may make a prohibition order.
+
+(2) The regulations may, in particular, provide that a panel may not make a prohibition order in respect of a person unless one or more of the following conditions is met—
+
+(a) the person has been convicted of an offence of a prescribed kind;
+
+(b) the person has been given a caution in respect of an offence of a prescribed kind;
+
+(c) the person is included in a barred list;
+
+(d) a relevant body has made a determination to the effect that the person's fitness to practise is impaired;
+
+(e) the panel is satisfied that the person has failed to meet any standard of conduct specified under section 173;
+
+(f) the panel thinks that it is necessary for the protection of the public, or that it is otherwise in the public interest, to make the order.
+
+(3) In subsection (2) “barred list” and “relevant body” have the same meaning as in section 117 (grounds of impairment of fitness to practise).
+
+### 167 Interim prohibition orders
+
+(1) Regulations under section 165 must authorise the making of interim prohibition orders.
+
+(2) An interim prohibition order is an order made by a fitness to practise panel prohibiting a person from carrying out a regulated activity pending a decision as to whether or not to make a prohibition order.
+
+(3) The regulations must provide that a panel may not make an interim prohibition order unless it thinks that it is necessary for the protection of the public, or is otherwise in the public interest, to make the order as a matter of urgency.
+
+### 168 Prohibition orders: supplementary provision
+
+The Welsh Ministers may by regulations—
+
+(a) make provision as to the time when a prohibition order takes effect;
+
+(b) make provision about the review of a prohibition order by a fitness to practise panel, including—
+
+(i) the circumstances in which a prohibition order may be reviewed,
+
+(ii) the procedure for applying for a review,
+
+(iii) the timing of a review, and
+
+(iv) the powers of the panel on a review (including power to set aside the prohibition order);
+
+(c) require SCW to publish prescribed information about determinations made by fitness to practise panels in respect of prohibition orders and interim prohibition orders;
+
+(d) require SCW to make such prescribed information available—
+
+(i) to persons of a specified description, or
+
+(ii) for public inspection.
+
+### 169 Interim prohibition orders: review
+
+(1) A fitness to practise panel must review an interim prohibition order as soon as practicable if—
+
+(a) the person in respect of whom the order is made requests a review, and
+
+(b) the request is made no earlier than 3 months after the date on which the order was made.
+
+(2) If an interim prohibition order is reviewed under subsection (1), a fitness to practise panel must review the order within each subsequent period of 3 months beginning with the date of the review under that subsection.
+
+(3) A fitness to practise panel may review an interim prohibition order at any time if new evidence becomes available which is relevant to the case.
+
+(4) Following a review, the panel may set aside an interim prohibition order.
+
+### 170 Appeals
+
+(1) Regulations under section 165 must provide for a right of appeal to the tribunal against—
+
+(a) a prohibition order;
+
+(b) a decision not to set aside a prohibition order on a review;
+
+(c) a decision not to set aside an interim prohibition order on a review.
+
+(2) Regulations under this section may include provision as to—
+
+(a) the period within which an appeal may be made;
+
+(b) the grounds on which an appeal may be made;
+
+(c) the procedure for making an appeal;
+
+(d) the powers of the tribunal on appeal.
+
+### 171 Offences
+
+(1) It is an offence for a person to fail to comply with—
+
+(a) a prohibition order, or
+
+(b) an interim prohibition order.
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine.
+
+(3) The Welsh Ministers may by regulations create summary offences relating to the employment or appointment of a person to do anything that the person is prohibited from doing by—
+
+(a) a prohibition order, or
+
+(b) an interim prohibition order.
+
+(4) Regulations creating an offence may not provide for the offence to be punishable otherwise than by a fine (whether an unlimited fine or a fine not exceeding a specified level on the standard scale).
+
+### Supplementary provision
+
+#### 172 List of prohibited persons
+
+(1) SCW must establish and maintain a list of persons in respect of whom a prohibition order or an interim prohibition order is in effect.
+
+(2) The Welsh Ministers may by regulations make provision about—
+
+(a) the form and content of the list;
+
+(b) whether or not the list, or specified information from the list, is to be published;
+
+(c) making the list available—
+
+(i) to persons of a specified description, or
+
+(ii) for public inspection.
+
+#### 173 Standards of conduct
+
+(1) The Welsh Ministers may by regulations require SCW to determine the standards of conduct expected of a person carrying out a regulated activity.
+
+(2) SCW—
+
+(a) must keep the standards under review, and
+
+(b) may alter or replace the standards.
+
+(3) SCW must publish—
+
+(a) the standards, and
+
+(b) if the standards are altered or replaced, the altered or replaced standards.
+
+(4) SCW must by rules make provision about the procedure to be followed in determining the standards.
+
+(5) Rules made under subsection (4) may, in particular—
+
+(a) make provision about the criteria by reference to which the standards are to be determined;
+
+(b) make provision about the arrangements for keeping the standards under review.
+
+## PART 8 — SOCIAL CARE WALES: DUTY TO ESTABLISH PANELS ETC.
+
+### 174 Duty to establish panels etc.
+
+(1) SCW must by rules make provision for there to be—
+
+(a) panels to make determinations under Part 4 in relation to initial registration in, remaining on and being restored to, the register (“registration appeals panels”),
+
+(b) panels to make determinations in relation to the fitness of persons registered in the register to practise as social care workers (“fitness to practise panels”), and
+
+(c) panels to suspend, or attach conditions to, a person's registration in the register pending a determination by panels of the kind mentioned in paragraph (a) or (b) (“interim orders panels”).
+
+(2) A panel established by virtue of subsection (1) must have at least 3 members, including a member appointed to chair the panel.
+
+(3) The members must be individuals.
+
+(4) A panel's membership must comprise a majority of persons who are not, and have never been, registered in any part of the register.
+
+(5) The following persons may not be members of a panel—
+
+(a) a person who is a member or a member of staff of—
+
+(i) SCW,
+
+(ii) [[^F141]Social Work England],
+
+(iii) the Scottish Social Services Council, or
+
+(iv) the Northern Ireland Social Care Council;
+
+(b) a prescribed person.
+
+(6) SCW must by rules make provision about—
+
+(a) the appointment of persons as panel members (including, subject to subsection (2), the number of persons who may or must be appointed);
+
+(b) the quorum for exercising functions of panels;
+
+(c) the term of office of a person as a member or to chair a panel;
+
+(d) the grounds on which a member may be suspended or removed.
+
+(7) SCW must also by rules make provision for—
+
+(a) the declaration and registration of private interests of the members of panels;
+
+(b) the publication of entries recorded in the register of members' interests.
+
+(8) SCW may by rules make other provision about the constitution and operation of panels; but any rules are subject to regulations made under section 175 (regulations about panel proceedings).
+
+(9) In particular, rules under subsection (8) may provide for—
+
+(a) the appointment of legal or other advisers;
+
+(b) the appointment of assessors or examiners;
+
+(c) categories of person who may be appointed to chair panels;
+
+(d) fees, expenses or other payments to be made by SCW to any panel member.
+
+### 175 Proceedings before panels
+
+(1) The Welsh Ministers may by regulations make such provision as they think appropriate for and in connection with proceedings brought under this Act before—
+
+(a) registration appeals panels;
+
+(b) interim orders panels;
+
+(c) fitness to practise panels.
+
+(2) The regulations may authorise or require SCW to make rules about any matter relating to such proceedings.
+
+(3) Regulations under this section may not require a person to give evidence or produce a document or other material evidence which the person could not be compelled to give or produce in civil proceedings in a court in England and Wales.
+
+(4) The standard of proof applicable to the proceedings mentioned in subsection (1) is that applicable to civil proceedings.
+
+## PART 9 — CO-OPERATION AND JOINT WORKING BY THE REGULATORY BODIES ETC.
+
+### 176 The regulatory bodies
+
+In this Part—
+
+(a) the regulatory bodies are—
+
+(i) the Welsh Ministers, and
+
+(ii) SCW;
+
+(b) “relevant functions” means—
+
+(i) in relation to the Welsh Ministers, their regulatory functions;
+
+(ii) in relation to SCW, its functions under this Act;
+
+(c) “general objectives” means—
+
+(i) in relation to the Welsh Ministers, the objectives mentioned in section 4;
+
+(ii) in relation to SCW, the objective mentioned in section 68(1).
+
+### 177 Relevant authorities
+
+(1) In this Part the relevant authorities are—
+
+(a) Her Majesty's Chief Inspector for Education and Training in Wales,
+
+(b) the Education Workforce Council,
+
+(c) each local authority,
+
+(d) each Local Health Board,
+
+(e) an NHS Trust,
+
+(f) a Welsh fire and rescue authority,
+
+[^F142]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) such other person as may be prescribed.
+
+(2) In subsection (1)—
+
+(a) “NHS Trust” means a National Health Service Trust constituted under the National Health Service (Wales) Act 2006 (c.42);
+
+(b) “Welsh fire and rescue authority” means an authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 (c.21) or a scheme to which section 4 of that Act applies;
+
+[^F143]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 178 Co-operation in the exercise of functions
+
+(1) The regulatory bodies must co-operate with each other in the exercise of their relevant functions if they think that such co-operation—
+
+(a) will have a positive effect on the manner in which those functions are exercised, or
+
+(b) will assist them in achieving their general objectives.
+
+(2) A regulatory body must, in the exercise of its relevant functions, seek to co-operate with a relevant authority if the regulatory body thinks such co-operation—
+
+(a) will have a positive effect on the manner in which the body exercises its functions, or
+
+(b) will assist the body in achieving its general objectives.
+
+(3) Where a regulatory body requests the co-operation of a relevant authority under subsection (2) the authority must comply with the request unless the authority—
+
+(a) is prevented from co-operating in the manner requested by any enactment or other rule of law,
+
+(b) thinks that such co-operation would otherwise be incompatible with its own functions, or
+
+(c) thinks that such co-operation would have an adverse effect on its functions.
+
+(4) If a relevant authority requests the co-operation of a regulatory body, the body must comply with that request unless the body—
+
+(a) is prevented from co-operating in the manner requested by any enactment (including this Act) or other rule of law,
+
+(b) thinks that such co-operation would otherwise be incompatible with the regulatory body's own functions, or
+
+(c) thinks that such co-operation would have an adverse effect—
+
+(i) on the body's functions, or
+
+(ii) on achieving the body's general objectives.
+
+### 179 Joint exercise of functions
+
+(1) One regulatory body (“A”) may arrange with the other regulatory body (“B”) for A and B to act together in exercising jointly one or more relevant functions of A with one or more relevant functions of B.
+
+(2) A regulatory body may enter into an arrangement under this section only if it thinks that the arrangement—
+
+(a) will have a positive effect on the manner in which the body exercises the function, or
+
+(b) will assist the body in achieving its general objectives.
+
+(3) Arrangements under this section may—
+
+(a) include the establishment of a joint committee to exercise the relevant joint functions on behalf of the regulatory bodies, and
+
+(b) be on such other terms and conditions (including terms as to payment) as may be agreed between the regulatory bodies.
+
+### 180 Delegating functions to another regulatory body
+
+(1) A regulatory body may delegate any of its relevant functions to the other regulatory body if they agree that such a delegation—
+
+(a) will have a positive effect on the manner in which the function is to be exercised, or
+
+(b) will assist the delegating body in achieving its general objectives.
+
+(2) But a function must not be delegated to the other regulatory body if the other body thinks that such a delegation may be detrimental to—
+
+(a) the manner in which the other body exercises its functions, or
+
+(b) the achievement of the other body's general objectives.
+
+(3) Despite subsection (1), SCW may not delegate—
+
+(a) its rule-making functions, or
+
+(b) its functions relating to fitness to practise proceedings.
+
+(4) A delegation under subsection (1) may be on such terms and conditions (including terms as to payment) as may be agreed between the regulatory bodies.
+
+(5) A function may be delegated under subsection (1) wholly or to any lesser extent as may be agreed by the regulatory bodies.
+
+(6) A delegation under subsection (1) does not affect—
+
+(a) any liability or responsibility of the body delegating the function for its exercise, nor
+
+(b) the ability of that body to exercise that function or make other arrangements in relation to it.
+
+### 181 Sharing information
+
+(1) A regulatory body may provide information to another regulatory body or relevant authority in pursuance of an arrangement made under this Part to co-operate, jointly exercise functions or delegate functions.
+
+(2) Information must not be provided under subsection (1) to a regulatory body or relevant authority if the person holding the information is prohibited from providing it by any enactment or other rule of law.
+
+(3) In the case of information relating to an individual, the information may be provided to a regulatory body or relevant authority only if—
+
+(a) the information is provided in a form which does not identify the individual, or
+
+(b) the person holding the information obtains the individual's consent to provide it.
+
+(4) For the purposes of subsection (3)(a), information is to be treated as being in a form which identifies an individual if the individual can be identified from a combination of—
+
+(a) the information, and
+
+(b) other information provided to a regulatory body or relevant authority by the same regulatory body.
+
+(5) Information provided in pursuance of an arrangement under this Part must be used by the person to whom it is provided only for the purposes of co-operating, jointly exercising functions or exercising delegated functions in pursuance of the arrangement.
+
+(6) This section does not affect the duty of the regulatory bodies to disclose information for the purposes of protecting the well-being of an individual.
+
+### 182 Sharing information to protect well-being
+
+(1) A regulatory body must disclose information it has obtained in the exercise of its relevant functions to any other person if it thinks that such disclosure is necessary or expedient to protect the well-being of an individual in Wales.
+
+(2) But information must not be disclosed under subsection (1) if disclosure of the information is prohibited by any enactment or other rule of law.
+
+(3) In the case of information identifying an individual, it may be disclosed in a manner which identifies the individual only if the regulatory body thinks such identification is necessary to protect the well-being of any individual.
+
+(4) For the purposes of subsection (3), information is to be treated as being in a form which identifies an individual if the individual can be identified from a combination of—
+
+(a) the information, and
+
+(b) other information disclosed by the regulatory body to the other person referred to in subsection (1).
+
+## PART 10 — MISCELLANEOUS AND GENERAL
+
+### 183 Inquiries
+
+(1) The Welsh Ministers may cause an inquiry to be held into any matter connected with the provision of care and support.
+
+(2) Before an inquiry begins, the Welsh Ministers may direct that it is to be held in private.
+
+(3) If no direction is given, the person holding the inquiry may decide to hold it, or any part of it, in private.
+
+(4) Subsections (2) to (5) of section 250 of the Local Government Act 1972 (c.70) (powers in relation to local inquiries) apply in relation to an inquiry under this section as they apply in relation to a local inquiry under that section.
+
+(5) The report of the person holding the inquiry must be published unless the Welsh Ministers think there are exceptional circumstances for not publishing it (or any part of it).
+
+### 184 Service of documents etc.
+
+(1) This section applies where a provision of this Act or of regulations or rules made under it requires (in whatever terms) the Welsh Ministers, SCW or the registrar—
+
+(a) to notify a person of something, or
+
+(b) to give a notice or other document to a person (including a copy of a document or a revised document).
+
+(2) The notification or document may be given to the person in question—
+
+(a) by being hand delivered to the person;
+
+(b) by leaving it at the person's proper address;
+
+(c) by being sent by recorded delivery service—
+
+(i) to the person's proper address, or
+
+(ii) where the person in question is a service provider, to the address of a place at or from which the provider provides a regulated service;
+
+(d) if subsection (3) applies, by sending it electronically to an address provided for that purpose.
+
+(3) This subsection applies if the person to whom the notification or document is to be given has agreed to receive it electronically.
+
+(4) For the purposes of subsection (2)(a), notification or a document given to a body corporate may be hand delivered by being given to the secretary or clerk of that body.
+
+(5) For the purposes of subsection (2)(b), where a notification or document is left at a person's proper address it is to be treated as having been given at the time at which it was left at that address.
+
+(6) In subsection (2)(c), “recorded delivery service” means—
+
+(a) a registered items service as defined in section 32(4) of the Postal Services Act 2011 (c.5), or
+
+(b) any other postal service which provides for delivery to be recorded.
+
+(7) For the purposes of subsection (2), a person's proper address is—
+
+(a) in the case of a body corporate, the address of the registered or principal office of the body;
+
+(b) in the case of a partnership, the address of the principal office of the partnership;
+
+(c) in the case of a local authority, the address of the office of the authority's director of social services;
+
+(d) in any other case, the person's last known address.
+
+(8) Where a notification or document is given as mentioned in subsection (2)(c) or (d) it is to be taken to have been received 48 hours after it is sent unless the contrary is shown.
+
+(9) See section 2 for the meaning of “regulated service”, section 3 for the meaning of “service provider” and section 81 for the meaning of “registrar”.
+
+## PART 11 — FINAL PROVISIONS
+
+### 185 Minor and consequential amendments
+
+Schedule 3 makes minor and consequential amendments.
+
+### 186 Power to make consequential etc. provision
+
+(1) The Welsh Ministers may by regulations make such consequential, incidental, transitional, transitory or saving provision as they think appropriate for the purposes of or in connection with this Act.
+
+(2) Regulations under this section may amend, revoke or repeal any enactment contained in, or made under, primary legislation.
+
+(3) The power to make regulations under this section is exercisable by statutory instrument.
+
+(4) A statutory instrument containing regulations under this section which amend or repeal an enactment contained in primary legislation may not be made unless a draft of the instrument has been laid before and approved by resolution of [[^F144]Senedd Cymru].
+
+(5) A statutory instrument containing regulations under this section to which subsection (4) does not apply is subject to annulment in pursuance of a resolution of [[^F145]Senedd Cymru].
+
+(6) In this section, “primary legislation” means—
+
+(a) an Act of Parliament;
+
+(b) an Act or Measure of [[^F146]Senedd Cymru] (including this Act).
+
+### 187 Regulations under this Act
+
+(1) A power to make regulations under this Act—
+
+(a) is exercisable by statutory instrument;
+
+(b) includes power to make different provision for different purposes, for different cases and for different areas.
+
+(2) A statutory instrument containing regulations made under any of the following provisions of this Act may not be made unless a draft of the instrument containing the regulations has been laid before and approved by resolution of [[^F147]Senedd Cymru]—
+
+(a) section 2(1)(i) (regulations specifying other care and support services as regulated services);
+
+(b) section 2(3) (regulations prescribing things not to be treated as regulated services);
+
+(c) section 3(3) (regulations prescribing things not to be treated as care and support);
+
+(d) section 9(9) (regulations varying the evidence to be taken into account when determining whether a person is fit and proper);
+
+(e) section 11(2) (regulations prescribing a time limit within which an application to designate a replacement responsible individual must be made);
+
+(f) section 27(1) (regulations imposing requirements on service providers);
+
+(g) section 28(1) (regulations imposing requirements on responsible individuals);
+
+(h) section 37(1) (regulations about inspection ratings);
+
+(i) section 40(1) (regulations about charging fees);
+
+(j) section 45 (regulations creating offences for failure to comply with requirements imposed on service providers);
+
+(k) section 46 (regulations creating offences for failure to comply with requirements imposed on responsible individuals);
+
+(l) sections 59(1) and (4) and 61(6) and (9) (regulations about the market oversight regime);
+
+(m) section 79(2) (regulations prescribing descriptions of persons to be treated as social care workers);
+
+(n) section 80(1)(b) (regulations prescribing descriptions of social care worker in respect of whom SCW must keep a register);
+
+(o) section 111(2) (regulations prescribing protected titles for social care workers other than social workers);
+
+(p) section 117 (amending the grounds on which a registered person's fitness to practise may be regarded as impaired);
+
+(q) section 130 (arrangements for mediation);
+
+(r) section 136(2)(d) (persons to whom undertakings may be disclosed by SCW);
+
+(s) section 142 (amending the ways in which a fitness to practise panel may dispose of matters);
+
+(t) section 165 (designation of regulated activities etc. for the purposes of prohibition orders under Part 7);
+
+(u) section 171(3) (creation of offences in relation to employment or appointment of persons subject to prohibition orders etc.);
+
+(v) section 177(1)(h) (regulations prescribing other persons as relevant authorities for the purposes of Part 9);
+
+(w) paragraph 7 of Schedule 1 (regulations specifying certain services as regulated advocacy services).
+
+(3) Any other statutory instrument containing regulations made under this Act is subject to annulment in pursuance of a resolution of [[^F148]Senedd Cymru].
+
+(4) This section does not apply to regulations made under section 186.
+
+### 188 Coming into force
+
+(1) The provisions of this Act (except this section and sections 186, 187, 189 and 190) come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
+
+(2) This section and sections 186, 187, 189 and 190 come into force on the day after the day on which this Act receives Royal Assent.
+
+(3) An order under this section may—
+
+(a) appoint different days for different purposes or areas;
+
+(b) include such transitory, transitional or saving provision as the Welsh Ministers think appropriate.
+
+### 189 General interpretation
+
+In this Act—
+
+- “caution” (“*rhybuddiad*”), in relation to an offence, means—
+
+  - (a) a conditional caution given under section 22 of the Criminal Justice Act 2003 (c.44) (conditional cautions for adults) or under section 66A of the Crime and Disorder Act 1998 (c.37) (conditional cautions for children and young persons);
+  
+  - (b) any other caution given to a person in England and Wales in respect of an offence which, at the time the caution is given, that person has admitted;
+  
+  - (c) anything corresponding to a caution falling within paragraph (a) or (b) (however described) which—
+  
+    - (i) is given to a person in respect of an offence committed outside England and Wales which, if committed in England and Wales, would constitute a criminal offence, and
+    - (ii) is not an alternative to prosecution (within the meaning of section 8AA of the Rehabilitation of Offenders Act 1974 (c.53));
+
+- “financial year” (“*blwyddyn ariannol*”) means the period of one year beginning on 1 April and ending on 31 March;
+
+- “local authority” (“*awdurdod lleol*”) means the council of a county or county borough in Wales;
+
+- “Local Health Board” (“*Bwrdd Iechyd Lleol*”) means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006;
+
+- “prescribed” (“*a ragnodir” and “rhagnodedig*”) means prescribed by regulations made by the Welsh Ministers;
+
+- “SCW” (“*GCC*”) has the meaning given by section 67;
+
+- “the tribunal” (“*y tribiwnlys*”) means the First-tier tribunal;
+
+- “well-being” (“*llesiant*”) has the same meaning as in section 2 of the 2014 Act;
+
+- “the 2014 Act” (“*Deddf 2014*”) means the Social Services and Well-Being (Wales) Act 2014 (anaw 4).
+
+### 190 Short title
+
+The short title of this Act is the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+## SCHEDULE 1 — REGULATED SERVICES: DEFINITIONS
+
+*(as introduced by section 2(2))*
+
+### Care home services
+
+**1** (1) A “care home service” is the provision of accommodation, together with nursing or care [[^F149],] in Wales [^F150]... to persons because of their vulnerability or need.
+
+(2) But accommodation together with nursing or care provided at the following places does not constitute a care home service—
+
+(a) a hospital;
+
+(b) a school (but see sub-paragraph (3));
+
+(c) a residential family centre;
+
+(d) a place providing a secure accommodation service;
+
+(e) a place providing accommodation for an adult arranged as part of an adult placement service.
+
+(3) Accommodation together with nursing or care provided at a school does constitute a care home service if, at the time accommodation is provided for children at the school—
+
+(a) accommodation has been provided at the school or under arrangements made by the school's proprietor for at least one child for more than 295 days in any period of 12 months falling within the previous 24 months, or
+
+(b) such accommodation is intended to be provided for at least one child for more than 295 days in any period of 12 months falling within the following 24 months.
+
+[[^F151](3A) But a school that constitutes a care home service by virtue of‍ sub-paragraph (3) does not constitute a‍ children’s home service unless–
+
+(a) it has provided more days of accommodation to looked after children than to children who are not looked after children for any period of 12 months falling within the previous 24 months, or
+
+(b) it intends to provide more days of accommodation to looked after children than to children who are not looked after children for any period of 12 months falling within the following 24 months.
+
+(3B) In sub-paragraph (3A), “looked after children‍ means children who are looked after by local authorities as described in section 74(1) of the 2014 Act.]
+
+(4) The provision of accommodation and care to a child [[^F152]does not constitute a care home service if the accommodation and care is provided by—
+
+(a) a person, other than a local authority, who has parental responsibility for the child;
+
+(b) a relative of the child;
+
+(c) a foster parent in relation to the child (but see also paragraph 5A(3) of Schedule 7 to the Children Act 1989 (c. 41).]
+
+(5) In sub-paragraph (2)(b), “school” has the meaning given by section 4 of the Education Act 1996 (c.56).
+
+[[^F153](6) In sub-paragraph (4), “parental responsibility has the meaning given by section 3 of the Children Act 1989 (c. 41).]
+
+(7) For the purposes of sub-paragraph (4) a person is a foster parent in relation to a child if the person—
+
+(a) is a local authority foster parent, or
+
+(b) fosters the child privately.
+
+### Secure accommodation services
+
+**2** A “secure accommodation service” is the provision of accommodation for the purpose of restricting the liberty of children at residential premises in Wales where care and support is provided to those children.
+
+### Residential family centre services
+
+**3** (1) A “residential family centre service” is the provision of accommodation for children and their parents at a place in Wales where—
+
+(a) the parents' capacity to respond to the children's needs and to safeguard their well-being is monitored or assessed, and
+
+(b) the parents are given such care and support as is thought necessary.
+
+(2) In sub-paragraph (1), “parent” in relation to a child, means any person who is looking after the child.
+
+### Adoption services
+
+**4** An “adoption service” is a service provided in Wales by—
+
+(a) an adoption society within the meaning of the Adoption and Children Act 2002 (c.38) which is a voluntary organisation within the meaning of that Act [[^F154](but see section 2(4) of the Adoption and Children Act 2002 (c. 38) (no application for registration to be made under Part 1 of this Act if an adoption society is an unincorporated body))], or
+
+(b) an adoption support agency within the meaning given by section 8 of that Act.
+
+### Fostering services
+
+**5** A “fostering service” means any service provided in Wales by a person other than a local authority which consists of or includes—
+
+(a) the placement of children with local authority foster parents, or
+
+(b) exercising functions in connection with such placement.
+
+### Adult placement services
+
+**6** (1) An “adult placement service” means a service carried on (whether or not for profit) by a local authority or other person for the purposes of placing adults with an individual in Wales under a carer agreement (and includes any arrangements for the recruitment, training and supervision of such individuals).
+
+(2) In sub-paragraph (1) “carer agreement” means an agreement for the provision by an individual of accommodation at the individual's home together with care and support for up to three adults.
+
+### Advocacy services
+
+**7** (1) An “advocacy service” is a service specified for the purposes of this paragraph by regulations made by the Welsh Ministers.
+
+(2) A service may be specified as an advocacy service only if, and to the extent that, the following requirements are satisfied in relation to the service.
+
+(3) The first requirement is that the service is a service which is carried on (whether or not for profit) for the purpose of representing the views of individuals, or assisting individuals to represent those views, in respect of matters relating to those individuals' needs for care and support (including matters relating to assessing whether those needs exist).
+
+(4) The second requirement is that the service is not carried on by a person, in the course of a legal activity (within the meaning of the Legal Services Act 2007 (c.29)), who is—
+
+(a) an authorised person for the purposes of that Act, or
+
+[[^F155](b) a person for whom one of the following provisions has effect so as to allow that person to continue to practise as a lawyer in England and Wales and Northern Ireland, or Scotland, on or after IP completion day—
+
+(i) regulation 5 (transitional provision: the 1978 Order and Switzerland) of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (“the 2020 Regulations”);
+
+(ii) regulation 5 (transitional provision: the European Communities (Services of Lawyers) Order 1978 and Switzerland) of the Services of Lawyers and Lawyer’s Practice (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (“the 2019 Regulations”);
+
+(iii) regulation 6 (transitional provision: the 2000 Regulations and Swiss lawyers) of the 2020 Regulations;
+
+(iv) regulation 7 (transitional provision: the European Communities (Lawyer’s Practice) (Scotland) Regulations 2000 and Swiss lawyers) of the 2019 Regulations.]
+
+(5) Before making regulations under sub-paragraph (1) the Welsh Ministers must consult any persons they think appropriate.
+
+(6) But the requirement to consult does not apply to regulations which—
+
+(a) amend other regulations made under that sub-paragraph, and
+
+(b) do not, in the opinion of the Welsh Ministers, effect any substantial change in the provision made by the regulations to be amended.
+
+### Domiciliary support services
+
+**8** (1) A “domiciliary support service” is the provision of care and support to a person who by reason of vulnerability or need (other than vulnerability or need arising only because the person is of a young age) is unable to provide it for him or herself and is provided at the place in Wales where the person lives (including making arrangements for or providing services in connection with such provision).
+
+(2) But the provision of care and support does not constitute a domiciliary support service if⁠—
+
+(a) it is provided by an individual without the involvement of an undertaking acting as an employment agency or employment business (within the meaning given to those expressions by section 13 of the Employment Agencies Act 1973 (c.35)), and who works wholly under the direction and control of the person receiving the care and support, or
+
+(b) it is provided—
+
+(i) at a place where a care home service, secure accommodation service, residential family centre service or accommodation arranged as part of an adult placement service is provided, or
+
+(ii) at a hospital.
+
+(3) A person who introduces individuals who provide a domiciliary support service to individuals who may wish to receive it but has no ongoing role in the direction or control of the care and support provided is not to be treated as providing a domiciliary support service (regardless of whether or not the introduction is for profit).
+
+### Interpretation
+
+**9** In this Schedule—
+
+- “hospital” (“*ysbyty*”) means—
+
+  - (a) a health service hospital within the meaning given by the National Health Service (Wales) Act 2006 (c.42),
+  - (b) an independent hospital within the meaning given by the Care Standards Act 2000 (c.14), and
+  - (c) an independent clinic within the meaning given by the Care Standards Act 2000;
+
+- “local authority foster parent” (“*rhiant maeth awdurdod lleol*”) has the meaning given by the 2014 Act.
+
+## [[^F156]SCHEDULE 1A — RESTRICTED CHILDREN’S SERVICES: TRANSITIONAL REGISTRATION ARRANGEMENTS FOR EXISTING SERVICE PROVIDERS
+
+*(as introduced by section 6C)*
+
+### Transitional period in respect of restricted children’s services
+
+**1** (1) In this Schedule, in relation to a‍ restricted children’s service, references to the transitional period are to the period that—
+
+(a) begins with the day on which the service becomes a restricted children’s service by virtue of section 6A(1) coming into force in relation to the service, and
+
+(b) ends with the day appointed by the Welsh Ministers by regulations for the purposes of this paragraph.
+
+(2) Regulations made under sub-paragraph (1)(b) may appoint different days for—
+
+(a) different types of restricted children’s service;
+
+(b) different descriptions of service provider (for example service providers that specialise in the provision of a particular type of restricted children’s service).
+
+(3) But sub-paragraph (2) does not limit the application of section 187 in relation to regulations made under sub-paragraph (1)(b).
+
+(4) Before making regulations under sub-paragraph (1)(b) the Welsh Ministers must consult any persons they think appropriate.
+
+### Existing service providers: exemption from section 6A(1)
+
+**2** (1) This paragraph applies to a service provider, other than a local authority, who is registered—
+
+(a) in respect of a‍ children’s home service, when the transitional period begins in respect of that service;
+
+(b) in respect of a fostering service, when the transitional period begins in respect of that service;
+
+(c) in respect of a secure accommodation service, when the transitional period begins in respect of that service.
+
+(2) And this paragraph applies to such a service provider during the transitional period.
+
+(3) In this Schedule, in relation to a provider, references to the existing service are to the service in respect of which the provider is registered as described in sub-paragraph (1).
+
+(4) In so far as a service provider to‍ which this paragraph applies is registered in respect of the existing service—
+
+(a) the registration of the provider is not subject to the requirement in section 6A(1) (and any reference to that requirement is to be read accordingly), and
+
+(b) (in consequence) the entry in the register in respect of the provider must show—
+
+(i) that the provider’s registration in respect of the existing service is not subject to the requirement in section 6A(1), and
+
+(ii) that the condition in section 7(3)(aa) is not imposed on the provider’s registration in respect of that service.
+
+(5) But sub-paragraph‍ (4) does not apply for the purposes of an application made by the service provider—
+
+(a) in relation to the existing service, under section 11(1)(a)(ii);
+
+(b) in respect of any other service, under section 11(1)(a)(i).
+
+### Regulations about provision of restricted children’s services by existing service providers
+
+**3** (1) The Welsh Ministers may by regulations make provision imposing conditions on a service provider to‍ which paragraph 2 applies.
+
+(2) Conditions imposed by regulations under sub-paragraph (1) may include—
+
+(a) restrictions on the type of restricted children’s service that the service provider may provide;
+
+(b) restrictions on the description of looked after children in respect of whom the provider may provide the restricted children’s service, for example by reference to their care and support needs.
+
+(3) Sub-paragraph (4) applies where—
+
+(a) a service provider fails to comply with conditions imposed by regulations under sub-paragraph (1), or
+
+(b) in the case of a service provider described in paragraph 2(1)(b), the provider fails to comply with regulations made under section 87 of the 2014 Act.
+
+(4) Where this sub-paragraph applies, the Welsh Ministers may—
+
+(a) exercise their functions under section 13 to vary the provider’s registration by removing the service or a place at which the existing service is provided, or
+
+(b) exercise their functions under section 15 to cancel the provider’s registration in respect of the existing service.
+
+(5) Before making regulations under sub-paragraph (1) the Welsh Ministers must consult any persons they think appropriate.‍
+
+### Existing service providers: application for variation of registration
+
+**4** (1) This paragraph applies in respect of a service provider‍ that is registered in respect of an existing service.
+
+(2) Despite paragraph 2(4), a service provider to‍ which this paragraph applies may apply to the Welsh Ministers for the provider’s registration in respect of the existing service to be subject to the requirement in section 6A(1).
+
+(3) But where a service provider to which this paragraph applies makes an application under section 11(1)(a)(i) or (ii) in respect of a restricted children’s service that is not the existing service, the provider must apply to the Welsh Ministers for the provider’s registration in respect of the existing service to be subject to the requirement in section 6A(1).
+
+(4) An application under‍ this paragraph must—
+
+(a) include such information as may be prescribed to satisfy the Welsh Ministers that the person meets the requirement in section 6A(1), and
+
+(b) be in the prescribed form.
+
+(5) The Welsh Ministers must grant an application under‍ this paragraph if satisfied that—
+
+(a) the application—
+
+(i) contains everything required under sub-paragraph (4)(a), and
+
+(ii) meets the requirements prescribed under sub-paragraph (4)(b), and
+
+(b) the provider meets the requirement in section 6A(1).
+
+(6) In any other case the Welsh Ministers must refuse the application.
+
+(7) Where the Welsh Ministers grant an application under sub-paragraph (5), the Welsh Ministers mus‍t, in so far as the provider is registered in respect of the existing service—
+
+(a) impose the condition in section 7(3)(aa) on the provider’s registration;
+
+(b) show in the register that—
+
+(i) the provider’s registration in respect of the existing service is subject to the requirement in section 6A(1), and
+
+(ii) the condition in section 7(3)(aa) is imposed on the provider’s registration in respect of that service.
+
+(8) Where a variation under this paragraph takes effect, paragraphs 2(4) and 3 do not apply to the service provider.
+
+(9) A variation under this‍ paragraph takes effect only if the requirements of section 18 to 20 are met (so far as applicable).
+
+### Interpretation
+
+**5** In this Schedule—
+
+(a) “looked after children” means children who are looked after by local authorities as described in section 74(1) of the 2014 Act;
+
+(b) references to the “register are to the register maintained under section 38 of this Act.]
+
+## SCHEDULE 2 — SOCIAL CARE WALES
+
+*(as introduced by section 67(4))*
+
+### PART 1 — STATUS
+
+#### Status
+
+**1** (1) SCW is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+(2) SCW's property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+### PART 2 — MEMBERSHIP
+
+#### Members
+
+**2** (1) SCW is to consist of—
+
+(a) a member to chair SCW (“the chairing member”), and
+
+(b) not more than 14 other members.
+
+(2) SCW's members are to be appointed by the Welsh Ministers.
+
+(3) A person who is a member of SCW's staff may not be appointed or hold office as a member of SCW.
+
+(4) SCW's members are to hold office on such terms and conditions as the Welsh Ministers may determine; but this is subject to the other provisions of this Schedule.
+
+(5) Before making an appointment under this paragraph the Welsh Ministers must consult such persons as they think appropriate.
+
+(6) In exercising their functions under this paragraph the Welsh Ministers must have regard to the desirability of appointing a varied membership which comprises a majority of persons who are not, and have not been, social care workers or representatives of social care workers.
+
+#### Remuneration etc. of members
+
+**3** (1) SCW may pay to its members such remuneration, expenses and allowances as the Welsh Ministers may determine.
+
+(2) SCW is to pay, or make provision for the payment, of such pension, allowance or gratuities as the Welsh Ministers may determine to or in respect of a person who is or has been a member of SCW.
+
+(3) If the Welsh Ministers determine that there are special circumstances which make it right for a person ceasing to hold office as the chairing member of SCW to receive compensation, SCW must pay the person or make provision for the payment to the person of such compensation as the Welsh Ministers may determine.
+
+#### Term of office
+
+**4** A person appointed as a member of SCW holds office for such period as the Welsh Ministers may determine when making the appointment; but that period may not exceed 4 years.
+
+#### Resignation
+
+**5** (1) The chairing member may resign by giving written notice to the Welsh Ministers.
+
+(2) Resignation may be either—
+
+(a) as chairing member, or
+
+(b) as both chairing member and member.
+
+(3) A member of SCW who is not the chairing member may resign by giving written notice to the Welsh Ministers.
+
+#### Dismissal
+
+**6** (1) The Welsh Ministers may by written notice dismiss the chairing member if satisfied that he or she—
+
+(a) is unfit to continue as chairing member, or
+
+(b) is unable or unwilling to act as chairing member.
+
+(2) Dismissal may be either—
+
+(a) as chairing member, or
+
+(b) as both chairing member and member.
+
+(3) The Welsh Ministers may by written notice dismiss a member of SCW who is not the chairing member if satisfied that he or she—
+
+(a) is unfit to continue as a member, or
+
+(b) is unable or unwilling to act as a member.
+
+### PART 3 — GENERAL POWERS
+
+#### Committees
+
+**7** (1) SCW may establish committees.
+
+(2) Committees established under sub-paragraph (1) may establish sub-committees.
+
+(3) A committee or sub-committee established under this paragraph may include, or be comprised entirely of, persons who are not members of SCW.
+
+(4) SCW may pay remuneration, expenses and allowances to any person who—
+
+(a) is a member of a committee or sub-committee established under this paragraph, and
+
+(b) is not a member of SCW, or a member of its staff.
+
+#### Delegation
+
+**8** (1) SCW may arrange for any of its functions to be exercised by any of its—
+
+(a) committees,
+
+(b) sub-committees,
+
+(c) members, or
+
+(d) staff.
+
+(2) Sub-paragraph (1) does not affect SCW's responsibility for exercise of delegated functions or affect its ability to exercise delegated functions.
+
+#### Supplementary powers
+
+**9** SCW may do anything which is calculated to facilitate, or which is conducive or incidental to, the exercise of its functions.
+
+### PART 4 — PROCEEDINGS ETC.
+
+#### Procedure
+
+**10** (1) SCW is to regulate its own procedure (including quorum); but this is subject to the other provisions of this Act and any regulations made under it.
+
+(2) SCW is to regulate the procedure (including quorum) of its—
+
+(a) committees, and
+
+(b) sub-committees.
+
+#### Application of seal
+
+**11** (1) SCW may have a seal.
+
+(2) The application of the seal must be authenticated by the signature of—
+
+(a) any member of SCW, or
+
+(b) any other person authorised by SCW for that purpose.
+
+#### Evidence
+
+**12** A document purporting to be duly executed under the seal of SCW or to be signed on its behalf is to be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
+
+### PART 5 — CHIEF EXECUTIVE AND OTHER STAFF
+
+#### Chief executive and other staff
+
+**13** (1) SCW must appoint a chief executive.
+
+(2) SCW may appoint such other staff as it thinks appropriate; but this is subject to section 81 (duty of SCW to appoint a registrar).
+
+(3) A person appointed as chief executive is employed on such terms and conditions as SCW may determine; but the appointment (including any terms and conditions of appointment) requires the approval of the Welsh Ministers.
+
+(4) Any other staff appointed under this paragraph are employed on such terms and conditions as SCW may determine; but SCW must consult the Welsh Ministers before determining any terms and conditions about the levels of remuneration, pensions, allowances and expenses payable to, or in respect of, such staff.
+
+### PART 6 — FINANCIAL MATTERS AND ANNUAL REPORTS ETC.
+
+#### Payments by the Welsh Ministers
+
+**14** The Welsh Ministers may make payments to SCW of such amounts, and at such times and on such conditions (if any), as the Welsh Ministers think appropriate.
+
+#### Accounting officer
+
+**15** (1) The chief executive is to act as SCW's accounting officer.
+
+(2) The accounting officer has, in relation to SCW's accounts and finances, the responsibilities specified in a direction by the Welsh Ministers.
+
+(3) The responsibilities that may be specified include—
+
+(a) responsibilities in relation to the signing of accounts;
+
+(b) responsibilities for the propriety and regularity of SCW's finances;
+
+(c) responsibilities for the economy, efficiency and effectiveness with which SCW uses its resources;
+
+(d) responsibilities owed to the Welsh Ministers, [[^F157]Senedd Cymru] or the Public Accounts Committee [[^F158]of Senedd Cymru];
+
+(e) responsibilities owed to the House of Commons or the Committee of Public Accounts of that House.
+
+#### Accounts and audit
+
+**16** (1) SCW must for each financial year—
+
+(a) keep proper accounts and proper records in relation to them, and
+
+(b) prepare a statement of accounts.
+
+(2) Each statement of accounts must comply with any directions given by the Welsh Ministers as to—
+
+(a) the information to be contained in it,
+
+(b) the manner in which the information is to be presented, and
+
+(c) the methods and principles according to which the statement is to be prepared.
+
+(3) No later than 31 August after the end of each financial year SCW must submit its statement of accounts to—
+
+(a) the Welsh Ministers, and
+
+(b) the Auditor General for Wales.
+
+(4) The Auditor General for Wales must—
+
+(a) examine, certify and report on the statement of accounts, and
+
+(b) no later than 4 months after the statement was submitted, lay before [[^F159]Senedd Cymru] a copy of the certified statement and report.
+
+#### Annual reports etc.
+
+**17** (1) No later than 30 November after the end of each financial year SCW must publish a report on the exercise of its functions during that year (an “annual report”).
+
+(2) As soon as possible after an annual report is published SCW must send a copy of it to the Welsh Ministers.
+
+(3) SCW must provide the Welsh Ministers with such other reports and information relating to the exercise of its functions as they may from time to time require.
+
+## SCHEDULE 3 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+*(as introduced by section 185)*
+
+### PART 1 — REGULATION OF SERVICES
+
+#### Care Standards Act 2000
+
+**1** The Care Standards Act 2000 (c.14) is amended as follows.
+
+**2** In section 1—
+
+(a) in subsection (1), at the end insert “ as it applies in relation to England ”;
+
+(b) in subsection (2), after “establishment” insert “ in England ”;
+
+(c) subsection (4) is repealed;
+
+(d) in subsection (4A), the words “in England” are repealed;
+
+(e) the section heading becomes “ Children's homes in England ”.
+
+**3** In section 3—
+
+(a) in subsection (1), after “establishment” insert “ in England ”;
+
+(b) subsection (3) is repealed;
+
+(c) in subsection (4), the words “in England” are repealed;
+
+(d) the section heading becomes “ Care homes in England ”.
+
+**4** In section 4—
+
+(a) in subsection (2), after “establishment” insert “ in England ”;
+
+(b) in subsection (3), after “persons” insert “ in England ”;
+
+(c) in subsection (4)—
+
+(i) in paragraph (a), after “authorities” insert “ in England ”;
+
+(ii) in paragraph (b), after “organisation” insert “ in England ”;
+
+(d) subsection (5) is repealed;
+
+(e) in subsection (7), at the end insert “ whose principal office is in England ”;
+
+(f) in subsection (7A), for “has” substitute “ means an undertaking in England which is an adoption support agency within ”;
+
+(g) in subsection (8)(a)—
+
+(i) in sub-paragraph (i), at the end insert “ in England ”;
+
+(ii) in sub-paragraph (ii), after “home” insert “ in England ”;
+
+(iii) sub-paragraph (vi) is repealed;
+
+(iv) in sub-paragraph (vii), at the end insert “ in England ”;
+
+(h) in subsection (9)(a), sub-paragraphs (ii) and (iii) are repealed;
+
+(i) in subsection (10), after “services” where it first occurs insert “ in England ”.
+
+**5** In section 5—
+
+[[^F160](a) in subsection (1)(b), for “in any other case” substitute “in the case of establishments and agencies mentioned in subsection (1B)”]
+
+(b) in subsection (1A), after “agencies” insert “ mentioned in subsection (1)(a) ”;
+
+[[^F161](c) after subsection (1A), insert—
+
+> (1B) The establishments mentioned in subsection (1)(b) are—
+>
+> (a) independent hospitals in Wales;
+>
+> (b) independent clinics in Wales;
+>
+> (c) independent medical agencies in Wales.]
+
+(d) subsection (2) is repealed.
+
+**6** In section 8(6)—
+
+(a) in paragraph (a), for “section 5(b)” substitute “ section 5(1)(b) ”;
+
+(b) in paragraph (b) for sub-paragraphs (i) and (ii) substitute
+
+> by the Care Quality Commission—
+>
+> (i) under Chapters 2 and 3 of Part 1 of the Health and Social Care Act 2008 in relation to health care in England, or
+>
+> (ii) under the Mental Health Act 1983 in relation to England.
+
+**7** In section 14(2), after paragraph (f) insert—
+
+> (g) an offence under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+**8** In section 22—
+
+(a) in subsection (1), for paragraph (b) substitute—
+
+> (b) regulations made by the Welsh Ministers—
+>
+> (i) may make provision only in relation to establishments for which the Welsh Ministers are the registration authority, and
+>
+> (ii) may in particular make any provision such as is mentioned in subsection (2), (7) or (8) in so far as relevant to those establishments.
+
+;
+
+(b) subsections (3) and (4) are repealed.
+
+**9** In section 22B—
+
+(a) in subsection (1), for “registration authority” substitute “ CIECSS ”;
+
+(b) in subsection (3)(c), for “registration authority's” substitute “CIECSS's”;
+
+(c) in subsection (4)(b), for “registration authority” substitute “ CIECSS ”;
+
+(d) in subsection (5)(a), for “registration authority” substitute “ CIECSS ”;
+
+(e) in subsection (6), for “registration authority” substitute “ CIECSS ”;
+
+(f) in subsection (8)—
+
+(i) in paragraph (a), at the end insert “ in England ”;
+
+(ii) in paragraph (b), at the end insert “ in England ”.
+
+**10** In section 23, after subsection (1) insert—
+
+> (1ZA) But the Welsh Ministers may prepare and publish such a statement only in relation to establishments for which the Welsh Ministers are the registration authority.
+
+**11** In section 30A—
+
+(a) in subsection (1), after “agency” insert “ in England ”;
+
+(b) in subsection (2), for “registration authority” substitute “ CIECSS ”;
+
+(c) in subsection (3), for “registration authority” substitute “ CIECSS ”;
+
+(d) in subsection (7), in the definition of “prescribed”, paragraph (b) is repealed.
+
+**12** Section 36A is repealed.
+
+**13** In section 42—
+
+(a) for subsection (2) substitute—
+
+> (2) This subsection applies to persons who provide services which are similar to services which may or must be provided by Welsh NHS bodies.
+
+;
+
+(b) in subsection (7), the definition of “Welsh local authorities” is repealed.
+
+**14** In section 43, after subsection (1) insert—
+
+> (1A) “Local authority” means a local authority in England.
+
+**15** In section 50(1), for “registration authority” substitute “ CIECSS ”.
+
+**16** Section 79(3) is repealed.
+
+#### Health and Social Care (Community Health and Standards) Act 2003
+
+**17** The Health and Social Care (Community Health and Standards) Act 2003 (c.43) is amended as follows.
+
+**18** Chapter 6 of Part 2 (social services: functions of the National Assembly for Wales) is repealed.
+
+**19** In section 142, in paragraph (a)—
+
+(a) in sub-paragraph (i), omit “and 6”;
+
+(b) in sub-paragraph (ii), for “section 5(b)” substitute “ section 5(1)(b) ”.
+
+**20** In section 143(2), paragraph (b) is repealed.
+
+#### Public Audit (Wales) Act 2004
+
+**21** The Public Audit (Wales) Act 2004 (c.23) is amended as follows.
+
+**22** In section 41(6) (co-operation between the Auditor General for Wales and the Welsh Ministers in studies for improving economy etc. in services), for the words from “sections 94 and 95” to the end substitute “ sections 149A and 149B of the Social Services and Well-being (Wales) Act 2014 (reviews of studies and research and other reviews relating to local authority social services functions carried out by the Welsh Ministers). ”
+
+**23** In section 42(4) (co-operation between the Auditor General for Wales and the Welsh Ministers in studies about the impact of statutory provisions), for the words from “section 95(2)” to the end substitute “ sections 149A and 149B of the Social Services and Well-being (Wales) Act 2014 (reviews of studies and research and other reviews relating to local authority social services functions carried out by the Welsh Ministers). ”
+
+#### Children Act 2004
+
+**24** In section 30 of the Children Act 2004 (c.31) (inspection of functions under Part 3), for subsection (1) substitute—
+
+> (1) The Welsh Ministers' functions under Part 8 of the Social Services and Well-being (Wales) Act 2014 (anaw 4) may be exercised as if anything done by a local authority in Wales in the exercise of functions to which this section applies was in the exercise of a social services function of the local authority (within the meaning of that Act).
+
+#### Public Services Ombudsman (Wales) Act 2005
+
+**25** The Public Services Ombudsman (Wales) Act 2005 (c.10) is amended as follows.
+
+**26** In section 34R (meaning of “care home” and “care home provider”)—
+
+(a) in subsection (2), for the words from “has” to the end substitute “ means premises at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over; ”
+
+(b) in subsection (3), for “carries on a care home” substitute “ is a service provider of a care home service within the meaning of Part 1 of that Act where the service is provided wholly or mainly to persons aged 18 or over ”;
+
+(c) in subsection (5), for the words from “personal” to the end of paragraph (a) substitute “ care in a care home in Wales for an individual because of the individual's vulnerability or need, ”;
+
+(d) after subsection (5), insert—
+
+> (6) “Care” has the same meaning as in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+**27** In section 42(4A) (meaning of “former care home provider”), for the words from “personal” to the end of paragraph (a) substitute “ care of a particular description at a care home in Wales (see section 32R), ”.
+
+#### Safeguarding Vulnerable Groups Act 2006
+
+**28** In paragraph 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006 (c.47) (regulated activity relating to children), in sub-paragraph (9B)—
+
+(a) for sub-sub-paragraph (h) substitute—
+
+> (h) an inspection in Wales under section 33 of the Regulation and Inspection of Social Care (Wales) Act 2016 (inspections of regulated care and support services) of a residential family centre service, a fostering service, or an adoption service (each of which has the meaning given in Schedule 1 to that Act);
+
+(b) for sub-sub-paragraph (j) substitute—
+
+> (j) a review under section 149B of the Social Services and Well-being (Wales) Act 2014 (reviews of local authority social services functions in Wales);
+
+(c) in sub-sub-paragraph (k) for “or investigation under section 94” substitute “ under section 149B ”.
+
+#### Social Services and Well-being (Wales) Act 2014
+
+**29** The 2014 Act is amended as follows.
+
+**30** In section 1 (overview)—
+
+(a) in subsection (9)—
+
+(i) after paragraph (b) insert—
+
+> (ba) requires local authorities to produce—
+>
+> (i) annual reports about the exercise of social services functions, and
+>
+> (ii) reports about the stability of local markets for providing care and support,
+>
+> (sections 144A and 144B);
+
+(ii) after paragraph (c) insert—
+
+> (ca) provides powers for the Welsh Ministers to conduct reviews relating to the exercise of social services functions of local authorities (sections 149A and 149B);
+
+(iii) in paragraph (d), for “161).” substitute
+
+> 160);
+>
+> (da) allows for the inspection of premises in connection with reviews of local authority social services functions conducted by the Welsh Ministers or the exercise of the Welsh Ministers' powers of intervention in relation to those functions, and for the Welsh Ministers to request information in connection with such reviews and makes related provision (sections 161 to 161C).”;
+
+;
+
+(b) in subsection (15)(c), for “an establishment or agency (within the meaning of the Care Standards Act 2000)” substitute “ a service provider (within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016) ”.
+
+**31** Section 183 (publicising advocacy services in care homes) is repealed.
+
+**32** In section 188(1) (definitions for the purposes of sections 185 to 187), in the definition of “youth detention accommodation”, for paragraph (a) substitute—
+
+> (a) a secure accommodation service (within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016);
+
+.
+
+**33** In section 189 (provider failure: temporary duty on local authority)—
+
+(a) for subsection (1) substitute—
+
+> (1) This section applies where a service provider becomes unable to provide a regulated service because of business failure.
+
+;
+
+(b) in subsection (2), for the words from “registered” to “agency” where it second occurs substitute “ service provider became unable to provide the regulated service, being met in the authority's area by the service provider ”;
+
+(c) in subsection (5)(a), for “registered person became unable to carry on or manage the establishment or agency” substitute “ service provider became unable to provide the regulated service ”;
+
+(d) in subsection (9)—
+
+(i) the definition of “registered person” is repealed;
+
+(ii) before the definition of “relevant carer” insert—
+
+> “regulated service” (“*gwasanaeth rheoleiddiedig*”) has the same meaning as in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+
+(iii) at the end insert—
+
+> “service provider” (“*darparwr gwasanaeth*”) has the same meaning as in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+**34** In section 190(1) (provider failure: exception to temporary duty), for “registered person became unable to carry on or manage the establishment or agency” substitute “ service provider became unable to provide the regulated service ”.
+
+**35** In section 191 (provider failure: supplementary)—
+
+(a) in subsection (6), for “registered person, or such other person involved in the establishment or agency's” substitute “service provider, or such other person involved in the service provider's”;
+
+(b) in subsection (7), for “carry on or manage an establishment or agency” substitute “ provide a regulated service ”.
+
+**[[^F162]36** In section 197(1) (definitions)—
+
+(a) for the definition of “care home”, substitute—
+
+> - “care home” (“*cartref gofal*”)—
+>
+>   - has the same meaning as in the Care Standards Act 2000 in respect of a care home in England; and
+>   - means a place in Wales at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 is provided wholly or mainly to adults;
+
+;
+
+(b) for the definition of “children’s home”, substitute—
+
+> - “children’s home” (“*cartref plant*”) means—
+>
+>   - a children’s home in England within the meaning of the Care Standards Act 2000 in respect of which a person is registered under Part 2 of that Act; and
+>   - means premises in Wales at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 is provided wholly or mainly to children by a person registered under Part 1 of that Act;
+
+.]
+
+### PART 2 — SOCIAL CARE WALES
+
+#### Mental Health Act 1983
+
+**37** The Mental Health Act 1983 (c.20) is amended as follows.
+
+**38** In section 114A (approval of courses for mental health professionals: Wales)—
+
+(a) in subsection (1), for “Care Council for Wales” substitute “ Social Care Wales ”;
+
+(b) for subsection (2) substitute—
+
+> (2) For that purpose—
+>
+> (a) subsections (2), (3), (4)(a) and (7) of section 114 of the Regulation and Inspection of Social Care (Wales) Act 2016 apply as they apply to approvals given, rules made and courses approved under that section, and
+>
+> (b) sections 73 to 75 and section 115 of that Act apply accordingly.”;
+
+(c) in subsection (4), for the words from “for” to the end substitute “ for the purposes of Parts 3 to 8 of the Regulation and Inspection of Social Care (Wales) Act 2016 ”;
+
+(d) in subsection (5), for “Care Council for Wales” substitute “ Social Care Wales ”.
+
+**39** In section 130H(7)(b) (independent mental health advocates for Wales: supplementary powers and duties), for the words from “principal” to the end substitute “ social worker part or the visiting European [[^F163]social worker] part of the register kept under section 80(1) of the Regulation and Inspection of Social Care (Wales) Act 2016. ”
+
+#### Care Standards Act 2000
+
+**40** The Care Standards Act 2000 (c.14) is amended as follows.
+
+**41** The following provisions are repealed—
+
+(a) sections 56 (the register) to 66 (visitors for certain social work courses);
+
+(b) sections 68 (appeals to the tribunal), 69 (publication etc. of register) and 71 (rules);
+
+(c) section 113 (default powers of appropriate Minister);
+
+(d) the entry for the Welsh Council in the table in section 121(13) (general interpretation etc.);
+
+(e) Schedule 1 (the Welsh Council).
+
+**42** In section 55 (interpretation)—
+
+(a) for subsections [[^F164](4A),] (2), (3) and (4) substitute—
+
+> (2) “Social care worker” means a person (other than a person excepted by regulations) who—
+>
+> (a) engages in social work which is required in connection with any health, education or social services provided in England (referred to in this Part as a “social worker”),
+>
+> (b) is employed at a children's home in England, a care home in England or a residential family centre in England,
+>
+> (c) manages a home or centre of a kind mentioned in paragraph (b),
+>
+> (d) is employed for the purposes of a domiciliary care agency, a fostering agency, a voluntary adoption agency or an adoption support agency, in so far as the agency provides services to persons in England,
+>
+> (e) manages an agency of the kind mentioned in paragraph (d), or
+>
+> (f) is supplied by a domiciliary care agency to provide personal care in their own homes for persons in England who by reason of illness, infirmity or disability are unable to provide it for themselves without assistance.
+>
+> (3) Regulations may provide that persons of any of the following descriptions shall be treated as social care workers—
+>
+> (a) a person engaged in work for the purposes of a local authority in England's social services functions;
+>
+> (b) a person engaged in work in England comprising the provision of services similar to services which may or must be provided by a local authority in England in the exercise of its social services functions;
+>
+> (c) a person engaged in the provision of personal care for any person in England;
+>
+> (d) a person who is employed in an undertaking (other than an establishment or agency) which consists of or includes supplying, or providing services for the purpose of supplying, persons to provide personal care to persons in England;
+>
+> (e) a person who manages an undertaking of the kind mentioned in paragraph (d);
+>
+> (f) a person who is employed in connection with the discharge of the functions of the Secretary of State under section 80 of the 1989 Act (inspection of children's homes etc.);
+>
+> (g) a person who is employed as a member of staff of the Office for Standards in Education, Children's Services and Skills who inspects premises under—
+>
+> (i) section 87 of the 1989 Act (welfare of children accommodated in independent schools and colleges),
+>
+> (ii) section 31 of this Act (inspection of establishments and agencies by persons authorised by registration authority), or
+>
+> (iii) section 139 of the Education and Inspections Act 2006 (inspection by Chief Inspector);
+>
+> (h) a person who is employed as a member of staff of the Care Quality Commission who, under Part 1 of the Health and Social Care Act 2008, inspects premises used for or in connection with the provision of social care (within the meaning of that Part);
+>
+> (i) a person who manages employees mentioned in paragraph (g) or (h);
+>
+> (j) a person employed in a day centre in England;
+>
+> (k) a person participating in a course approved by the Health and Care Professions Council under article 15 of the Health and Social Work Professions Order 2001 for persons wishing to become social workers.
+
+, and
+
+(b) omit subsections (6), (7) and (8).
+
+**43** In section 67 (functions of the appropriate Minister)—
+
+(a) in subsection (1), for “appropriate Minister” substitute “ Secretary of State ”,
+
+(b) for subsection (2) substitute—
+
+> (2) The Secretary of State shall encourage persons to take part in—
+>
+> (a) courses approved by the Health and Social Care Professions Council under article 15 or by virtue of article 19(4) of the Health and Social Care Work Professions Order 2001 for persons who are or wish to become social workers, and
+>
+> (b) other courses relevant to the training of persons who are or wish to become social care workers.
+
+;
+
+(c) in subsection (3)—
+
+(i) for “appropriate Minister” at the first place it appears substitute “ Secretary of State ”, and
+
+(ii) for “appropriate Minister” at the second place it appears substitute “ Secretary of State ”;
+
+(d) in subsection (4)—
+
+(i) for “appropriate Minister” at the first place it appears substitute “ Secretary of State ”,
+
+(ii) for “the Minister” substitute “ he or she ”, and
+
+(iii) in paragraph (a), omit “and Wales,”;
+
+(e) omit subsection (6);
+
+(f) in subsection (7)—
+
+(i) in paragraph (a), omit “or (6)(b)”,
+
+(ii) in paragraph (b), for “appropriate Minister” substitute “ Secretary of State ”, and
+
+(iii) in the words after paragraph (b), for “and, in respect of an authorisation given by the Assembly, references to a Minister included the Assembly; and in subsection (5)(b) and (6)(b)” substitute “ and in subsection (5)(b) ”;
+
+(g) for the heading, substitute “ Functions of the Secretary of State ”.
+
+**44** In Schedule 2A (persons subject to review by the Children's Commissioner for Wales), in paragraph 14, for “The Care Council for Wales” substitute “ Social Care Wales ”.
+
+#### Adoption and Children Act 2002
+
+**45** The Adoption and Children Act 2002 (c.38) is amended as follows.
+
+**46** In section 10(2) (management etc. of agencies), for “section 56(1) of the Care Standards Act 2000 (c. 14)” substitute “ section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) ”.
+
+#### Public Audit (Wales) Act 2004
+
+**47** The Public Audit (Wales) Act 2004 (c.23) is amended as follows.
+
+**48** In section 41 (studies for improving economy etc. in services), after subsection (6) insert—
+
+> (7) Subsection (8) applies in respect of the discharge of social services functions by local authorities in Wales.
+>
+> (8) The Auditor General and the Social Care Wales must co-operate with each other with respect to the exercise of their respective functions under this section and section 70 of the Regulation and Inspection of Social Care (Wales) Act 2016 (studies by SCW as to economy etc.).
+>
+> (9) In subsection (7) “social services functions” has the same meaning as in the Social Services and Well-being (Wales) Act 2014.
+
+#### Public Services Ombudsman (Wales) Act 2005
+
+**49** The Public Services Ombudsman (Wales) Act 2005 (c.10) is amended as follows.
+
+**50** In Schedule 3 (listed authorities), for “The Care Council for Wales” substitute “ Social Care Wales ”.
+
+#### Commissioner for Older People (Wales) Act 2006
+
+**51** The Commissioner for Older People (Wales) Act 2006 (c.30) is amended as follows.
+
+**52** In Schedule 2 (persons whose functions are subject to review by the Commissioner), for “The Care Council for Wales” substitute “ Social Care Wales ”.
+
+#### Safeguarding Vulnerable Groups Act 2006
+
+**53** The Safeguarding Vulnerable Groups Act 2006 (c.47) is amended as follows.
+
+**54** In section 41 (registers: power to refer information to the Disclosure and Barring Service), in entry number 8 in the table in subsection (7)—
+
+(a) in column 1, for “under section 56 of the Care Standards Act 2000 (c. 14)” substitute “ under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) ”, and
+
+(b) in column 2, for “The Care Council for Wales” substitute “ the registrar appointed under section 81 of that Act ”.
+
+**55** In Part 3 of Schedule 3 (barred lists: supplementary provision)—
+
+(a) in paragraph 16(4)(l), for “the Care Council for Wales” substitute “ Social Care Wales ”, and
+
+(b) after paragraph 16(4) insert—
+
+> (4A) The reference in sub-paragraph (4) to “any of its committees” is, in respect of Social Care Wales, to be read as if it were a reference to “any panel established under Part 8 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+**56** In Part 2 of Schedule 4 (regulated activity in relation to vulnerable adults)—
+
+(a) at the beginning of paragraph 7(3C) insert “ In relation to a vulnerable adult in in England, ”, and
+
+(b) after paragraph 7(3C) insert—
+
+> (3CA) In relation to a vulnerable adult in Wales, relevant social work has the meaning given by section 79(4) of the Regulation and Inspection of Social Care (Wales) Act 2016, and social care worker means a person who is a social care worker by virtue of section 79(1)(a) of that Act.
+
+#### Health and Social Care Act 2008
+
+**57** The Health and Social Care Act 2008 (c.14) is amended as follows.
+
+**58** The following provisions are repealed—
+
+(a) section 124 (regulation of social care workers);
+
+(b) section 125 (standard of proof in proceedings relating to registration of social care workers);
+
+(c) section 126 (education and training of approved mental health professionals);
+
+(d) subsection (3)(b) (and the “or” immediately before it) of section 163 (orders and regulations: control by National Assembly for Wales);
+
+(e) subsection (4)(za) of section 171 (the appropriate authority by whom commencement order is made);
+
+(f) Schedule 9 (regulation of social care workers: Wales).
+
+### PART 3 — MISCELLANEOUS
+
+#### Public Services Ombudsman (Wales) Act 2005
+
+**59** In section 33 of the Public Services Ombudsman (Wales) Act 2005 (c.10) (publicity for complaints procedures), after subsection (7) insert—
+
+> (8) This section applies to a care home provider (see section 34R), a domiciliary care provider (see section 34S) or an independent palliative care provider (see section 34T) as it applies to a listed authority.
+>
+> (9) But in its application in accordance with subsection (8), the reference to “relevant services” in subsection (2)(a)(i) is to be read as a reference to the matters to which Part 2A applies (see section 34A).
+
+#### Social Services and Well-being (Wales) Act 2014
+
+**60** The 2014 Act is amended as follows.
+
+**61** In the Welsh text of section 21(3)(b) (duty to assess the needs of a child for care and support), for “, rhieni'r plentyn neu unrhyw berson arall a chanddo gyfrifoldeb rhiant dros y plentyn” substitute “ neu unrhyw berson a chanddo gyfrifoldeb rhiant dros y plentyn ”.
+
+**62** In section 42 (duty to meet support needs of a child carer)—
+
+(a) in subsection (4)(a)(i), for “41(5)” substitute “ 43(5) ”;
+
+(b) in subsection (4)(a)(ii), for “41(1)” substitute “ 43(1) ”;
+
+(c) in subsection (4)(b)(i), for “41(5)” substitute “ 43(5) ”;
+
+(d) in subsection (4)(b)(ii), for “41(3)” substitute “ 43(3) ”;
+
+(e) in subsection (4)(c)(i), for “41(10)” substitute “ 43(10) ”;
+
+(f) in subsection (4)(c)(ii), for “41(3)” substitute “ 43(3) ”.
+
+**63** In the Welsh text of section 46(3) (exception for persons subject to immigration control), for the words from “For” to “question” substitute “At ddibenion is-adran (1), mae adran 95(3) a (5) i (8) o Ddeddf 1999, a pharagraff 2 o Atodlen 8 iddi, yn gymwys ond mae'r cyfeiriadau yn adran 95(5) a (7) a'r paragraff hwnnw at yr Ysgrifennydd Gwladol i'w darllen fel cyfeiriadau at yr awdurdod lleol dan sylw”.
+
+**64** In the Welsh text of section 147(3) (departure from requirements in codes), after “gategori” insert “ penodol ”.
+
+**65** In section 197(1) (general interpretation), in the definition of “voluntary organisation”, for “private body” substitute “ local authority ”.
+
+---
+
+[^F1]: S. 1(ba) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 2(a), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F2]: Words in s. 1(c) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(2); S.I. 2025/1257, art. 3(1)(c)
+[^F3]: S. 2A inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 2(b), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F4]: S. 6(1A) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 3(2), 29(2); S.I. 2025/1257, art. 2(1)(a)
+[^F5]: Ss. 6A, 6B inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 3(3), 29(2); S.I. 2025/1257, art. 2(2)(a) (with art. 5)
+[^F6]: S. 6C inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 4(2), 29(2); S.I. 2025/1257, art. 2(1)(b)(ii)(2)(a) (with art. 5)
+[^F7]: S. 7(1)(aa) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 5(2), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F8]: Word in s. 7(3)(a) omitted (1.4.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 5(3)(a), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F9]: S. 7(3)(aa) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 5(3)(b), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F10]: Words in s. 9(5)(a) inserted (1.4.2020) by The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389), regs. 1(2), 3
+[^F11]: S. 9(7)(e) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 6(2), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F12]: Ss. 9A, 9B inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 6(3), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F13]: Words in s. 10(1) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 14(2)(a), 29(2); S.I. 2025/1257, art. 3(2)(a)
+[^F14]: S. 10(1A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 14(2)(b), 29(2); S.I. 2025/1257, art. 3(2)(a)
+[^F15]: S. 10(2)(a)(viiia) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 7(a), 29(2); S.I. 2025/1257, art. 2(1)(c)
+[^F16]: S. 10(2A)(2B) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 7(b), 29(2); S.I. 2025/1257, art. 2(1)(c)
+[^F17]: S. 10(4A)(4B) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 14(2)(c), 29(2); S.I. 2025/1257, art. 3(1)(a)
+[^F18]: S. 10(5) omitted (1.4.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 14(2)(d), 29(2); S.I. 2025/1257, art. 3(2)(a)
+[^F19]: Word in s. 10(6)(b) omitted (1.1.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 7(c)(i), 29(2); S.I. 2025/1257, art. 2(1)(c)
+[^F20]: S. 10(6)(ba) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 7(c)(ii), 29(2); S.I. 2025/1257, art. 2(1)(c)
+[^F21]: Word in s. 10(6)(c) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 7(c)(iii), 29(2); S.I. 2025/1257, art. 2(1)(c)
+[^F22]: S. 10(6)(d) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 7(c)(iv), 29(2); S.I. 2025/1257, art. 2(1)(c)
+[^F23]: Words in s. 10(6) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(a)
+[^F24]: S. 11(4) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(2), 29(2); S.I. 2025/1257, art. 2(1)(d)
+[^F25]: Words in s. 12(1) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(3)(a), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F26]: S. 12(1A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(3)(b), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F27]: S. 13(2) omitted (25.3.2025) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(2)(a), 29(1)(a)(i)
+[^F28]: Word in s. 13(3)(a) omitted (1.4.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(4)(a), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F29]: Word in s. 13(3)(b) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(4)(b), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F30]: S. 13(3)(c) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(4)(c), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F31]: S. 13(3A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(5), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F32]: S. 13(4)(ba) inserted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(2)(b), 29(1)(a)(i)
+[^F33]: S. 13(4A) inserted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(2)(c), 29(1)(a)(i)
+[^F34]: Words in s. 13(5) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(2)(d), 29(1)(a)(i)
+[^F35]: S. 13(6) inserted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(2)(e), 29(1)(a)(i)
+[^F36]: S. 14(1A) inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 15(2), 29(2); S.I. 2025/1257, art. 3(1)(b)
+[^F37]: S. 15(1)(ba) inserted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(3)(a)(i), 29(1)(a)(i)
+[^F38]: Words in s. 15(1)(d) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(3)(a)(ii), 29(1)(a)(i)
+[^F39]: S. 15(1)(g) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(6)(a), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F40]: S. 15(1A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 8(6)(b), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F41]: Words in s. 15(2) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(3)(b), 29(1)(a)(i)
+[^F42]: Words in s. 15(3) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(3)(c), 29(1)(a)(i)
+[^F43]: S. 15(4) inserted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 16(3)(d), 29(1)(a)(i)
+[^F44]: Words in s. 16(1)(a) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(3)(a)
+[^F45]: Words in s. 16(1)(b) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(3)(b)
+[^F46]: Word in s. 18(1)(b) omitted (25.3.2025) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(4)(a)
+[^F47]: Words in s. 18(1)(c)(ii) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(4)(b)
+[^F48]: S. 18(1)(d) inserted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(4)(c)
+[^F49]: Words in s. 27(5) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(b)
+[^F50]: Words in Pt. 1 Ch. 3 heading substituted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(5); S.I. 2025/1257, art. 3(1)(c)
+[^F51]: Words in s. 32(1) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(2)(a)(i), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F52]: Word in s. 32(1) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(2)(a)(ii), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F53]: S. 32(1A)(1B) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(2)(b), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F54]: Words in s. 32(2) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(2)(c), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F55]: S. 32(5)(6) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(2)(d), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F56]: Word in s. 33 heading inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(6); S.I. 2025/1257, art. 3(1)(c)
+[^F57]: Words in s. 33(1)(b) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(4)(a), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F58]: S. 33(1A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(4)(b), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F59]: Words in s. 33(2) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(4)(c), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F60]: Words in s. 34 heading omitted (1.1.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(7); S.I. 2025/1257, art. 3(1)(c)
+[^F61]: Words in s. 34(1) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(5)(a)(i), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F62]: Words in s. 34(1) omitted (1.4.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(5)(a)(ii), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F63]: Words in s. 34(2) omitted (1.4.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(5)(b), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F64]: Words in s. 34(3) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(5)(c), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F65]: Words in s. 34(4) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(5)(d), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F66]: Words in s. 35(1) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(6)(a)(i), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F67]: Words in s. 35(1) omitted (1.4.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(6)(a)(ii), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F68]: S. 35(1A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(6)(b), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F69]: Words in s. 35(2) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(6)(c), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F70]: Words in s. 35(4) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(6)(d), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F71]: Words in s. 36(2) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(7)(a), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F72]: S. 36(3A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 17(7)(b), 29(2); S.I. 2025/1257, art. 3(2)(f)
+[^F73]: S. 38(2)(aa) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 9(a)(i), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F74]: S. 38(2)(da) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 9(a)(ii), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F75]: S. 38(2A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 9(b), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F76]: Words in s. 41(4) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(c)
+[^F77]: Words in s. 42(5) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(d)
+[^F78]: Words in s. 45 inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 4(4), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F79]: Words in s. 47(d) substituted (1.4.2026) by The Health and Social Care (Wales) Act 2025 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/98), regs. 1(2), 3
+[^F80]: Words in s. 48 heading inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 14(3)(a), 29(2); S.I. 2025/1257, art. 3(2)(a)
+[^F81]: Words in s. 48 substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 14(3)(b), 29(2); S.I. 2025/1257, art. 3(2)(a)
+[^F82]: Words in s. 50 heading inserted (1.1.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(8); S.I. 2025/1257, art. 3(1)(c)
+[^F83]: Words in s. 66 inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 3
+[^F84]: Words in s. 66(1) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 3 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F85]: Words in s. 66(1) inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 120(2) (with reg. 155)
+[^F86]: Words in s. 66(1) omitted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 120(3) (with reg. 155)
+[^F87]: S. 71A inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 4
+[^F88]: S. 74(2A) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 5
+[^F89]: S. 74(3) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 4 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F90]: Words in s. 79(1)(b) inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 124(2) (with reg. 155)
+[^F91]: Word in s. 80(1)(b) omitted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 126(2)(a) (with reg. 155)
+[^F92]: S. 80(1)(c) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 5 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F93]: S. 80(1)(d) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 5 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F94]: S. 80(2)(c) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 5 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F95]: S. 80(2)(d) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 5 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F96]: S. 80(3)(c) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 5 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F97]: S. 80(3)(d) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 5 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F98]: S. 83(2)(a) substituted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 6
+[^F99]: S. 83A inserted (temp.) (25.3.2020) by virtue of Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 5 para. 2(2) (with ss. 89, 90) (subject to expiry in accordance with s. 89(1)(2)(d) of the modifying Act)
+[^F100]: Words in s. 84 substituted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 7
+[^F101]: Words in s. 84(a)(ii) inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 128(2) (with reg. 155)
+[^F102]: S. 84(aa) inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 128(2) (with reg. 155)
+[^F103]: S. 84(a)(ii) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 6 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F104]: Words in s. 85 heading inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 130(2) (with reg. 155)
+[^F105]: S. 85(1) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 7 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F106]: S. 85(1A) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 8
+[^F107]: S. 85A omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 8 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F108]: Ss. 85B-85D inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 9
+[^F109]: S. 88(5) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 10
+[^F110]: S. 88A inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 11
+[^F111]: S. 89(5)(6) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 12
+[^F112]: S. 90 omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 9 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F113]: S. 90A omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 10 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F114]: S. 101(1A) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 13
+[^F115]: S. 101(3) inserted (temp.) (25.3.2020) by virtue of Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 5 para. 2(4)(a) (with ss. 89, 90) (subject to expiry in accordance with s. 89(1)(2)(d) of the modifying Act)
+[^F116]: Word in s. 102(4) omitted (1.4.2026) by virtue of The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 14(a)
+[^F117]: Word in s. 102(4)(c) substituted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 14(b)
+[^F118]: S. 102(4)(d) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 14(c)
+[^F119]: S. 103 renumbered as s. 103(1) (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 15(a)
+[^F120]: Words in s. 103(1) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 15(b)
+[^F121]: S. 103(2) inserted (1.4.2026) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24), regs. 1, 15(c)
+[^F122]: S. 105 omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 11 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F123]: Words in s. 111(4)(b) substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 40(b); S.I. 2019/1436, reg. 2(s)
+[^F124]: S. 113(3)-(5) omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 12 (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F125]: Words in s. 117(4)(a) inserted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 41(b); S.I. 2019/1436, reg. 2(s)
+[^F126]: Words in s. 119(4)(a)(ii) substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 42(b); S.I. 2019/1436, reg. 2(s)
+[^F127]: Words in s. 120(6) inserted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 309(1) (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F128]: Words in s. 125(5)(a)(ii) substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 43(b); S.I. 2019/1436, reg. 2(s)
+[^F129]: Words in s. 144(6) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(9); S.I. 2025/1257, art. 3(2)(d)
+[^F130]: Words in s. 146(9)(a) omitted (1.4.2026) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(10); S.I. 2025/1257, art. 3(2)(d)
+[^F131]: S. 147(1)(f) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 19(2)(a), 29(2); S.I. 2025/1257, art. 3(2)(c)
+[^F132]: S. 147(2A) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 19(2)(b), 29(2); S.I. 2025/1257, art. 3(2)(c)
+[^F133]: Words in s. 147(3) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 19(2)(c), 29(2); S.I. 2025/1257, art. 3(2)(c)
+[^F134]: S. 147(4)(ia) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 19(2)(d), 29(2); S.I. 2025/1257, art. 3(2)(c)
+[^F135]: S. 147(5) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 19(2)(e), 29(2); S.I. 2025/1257, art. 3(2)(c)
+[^F136]: Words in s. 149(4)(a) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(11); S.I. 2025/1257, art. 3(2)(d)
+[^F137]: Words in s. 161(6)(b) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(12); S.I. 2025/1257, art. 3(2)(d)
+[^F138]: Words in s. 163(1)(d) substituted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(2), Sch. 1 para. 7(13); S.I. 2025/1257, art. 3(2)(d)
+[^F139]: Words in s. 164 substituted (31.12.2020) by The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 13(a) (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F140]: Words in s. 164 omitted (31.12.2020) by virtue of The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 13(b) (with regs. 15A-19) (as amended by S.I. 2020/1626, regs. 1(2), 6-13); 2020 c. 1, Sch. 5 para. 1(1)
+[^F141]: Words in s. 174(5)(a)(ii) substituted (2.12.2019) by Children and Social Work Act 2017 (c. 16), s. 70(2), Sch. 5 para. 44(b); S.I. 2019/1436, reg. 2(s)
+[^F142]: S. 177(1)(g) omitted (1.4.2023) by virtue of Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), s. 29(2), Sch. 3 para. 14(a); S.I. 2023/370, art. 3(1)(t)
+[^F143]: S. 177(2)(c) omitted (1.4.2023) by virtue of Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1), s. 29(2), Sch. 3 para. 14(b); S.I. 2023/370, art. 3(1)(t)
+[^F144]: Words in s. 186(4) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(e)
+[^F145]: Words in s. 186(5) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(e)
+[^F146]: Words in s. 186(6) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(e)
+[^F147]: Words in s. 187(2) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(f)
+[^F148]: Words in s. 187(3) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(f)
+[^F149]: Sch. 1 para. 1(1) comma substituted for words (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 2(6)(a)(i)
+[^F150]: Sch. 1 para. 1(1) comma omitted (25.3.2025) by virtue of Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 2(6)(a)(ii)
+[^F151]: Sch. 1 para. 1(3A)(3B) inserted (1.4.2026) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 2(c), 29(2); S.I. 2025/1257, art. 2(2)(a)
+[^F152]: Words in Sch. 1 para. 1(4) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 2(6)(b)
+[^F153]: Sch. 1 para. 1(6) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 2(6)(c)
+[^F154]: Words in Sch. 1 para. 4(a) inserted (2.4.2018) by The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195), regs. 2(1), 58(b)
+[^F155]: Sch. 1 para. 7(4)(b) substituted (31.12.2020) by The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761), regs. 1(2), 14 (with regs. 15A-19) (as substituted by S.I. 2020/1626, regs. 1(2), 4 (with regs. 3, 5-13)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F156]: Sch. 1A inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by Health and Social Care (Wales) Act 2025 (asc 1), ss. 4(3), 29(2); S.I. 2025/1257, art. 2(1)(b)(ii)(2)(a) (with art. 5)
+[^F157]: Words in Sch. 2 para. 15(3)(d) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(g)
+[^F158]: Words in Sch. 2 para. 15(3)(d) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(14)
+[^F159]: Words in Sch. 2 para. 16(4)(b) substituted (25.3.2025) by Health and Social Care (Wales) Act 2025 (asc 1), s. 29(1)(a)(ii), Sch. 1 para. 7(15)(g)
+[^F160]: Sch. 3 para. 5(a) substituted (29.4.2019) by The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772), regs. 1(2), 34(2)(a)
+[^F161]: Sch. 3 para. 5(c) substituted (29.4.2019) by The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772), regs. 1(2), 34(2)(b)
+[^F162]: Sch. 3 para. 36 substituted (2.4.2018) by The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195), regs. 2(1), 59
+[^F163]: Words in Sch. 3 para. 39 inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 144(2) (with reg. 155)
+[^F164]: Word in Sch. 3 para. 39 inserted (18.11.2016) by The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030), regs. 1, 144(3) (with reg. 155)

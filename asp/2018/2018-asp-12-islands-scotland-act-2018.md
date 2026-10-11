@@ -1,0 +1,923 @@
+---
+title: "Islands (Scotland) Act 2018"
+identifier: "asp/2018/12"
+citation: "2018 asp 12"
+type: act
+legislation_type: asp
+jurisdiction: gb
+language: en
+extent: "S"
+date: 2018-07-06
+last_amended: 2026-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/asp/2018/12"
+source_modified: 2026-05-05
+retrieved: 2026-10-11
+---
+
+# Islands (Scotland) Act 2018
+
+**2018 asp 12**
+
+An Act of the Scottish Parliament to make provision for a national islands plan; to impose duties in relation to island communities on certain public authorities; to make provision about the electoral representation of island communities; and to establish a licensing scheme in respect of marine development adjacent to islands.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 30th May 2018 and received Royal Assent on 6th July 2018
+
+## Part 1 — Key definitions
+
+### 1 Meaning of “island” and of “inhabited island”
+
+(1) In this Act, “island” means a naturally formed area of land which is—
+
+(a) surrounded on all sides by the sea (ignoring artificial structures such as bridges), and
+
+(b) above water at high tide.
+
+(2) In this Act, “inhabited island” means an island permanently inhabited by at least one individual.
+
+### 2 Meaning of “island community”
+
+In this Act—
+
+“island community” means a community which—
+
+- (a) consists of two or more individuals, all of whom permanently inhabit an island (whether or not the same island), and
+- (b) is based on common interest, identity or geography (including in relation to any uninhabited island whose natural environment and terrestrial, marine and associated ecosystems contribute to the natural or cultural heritage or economy of an inhabited island).
+
+## Part 2 — National Islands Plan
+
+### Duty to prepare national islands plan
+
+#### 3 National islands plan
+
+(1) The Scottish Ministers must prepare a national islands plan.
+
+(2) The purpose of preparing a national islands plan is to set out the main objectives and strategy of the Scottish Ministers in relation to improving outcomes for island communities that result from, or are contributed to by, the carrying out of functions of a public nature.
+
+(3) Improving outcomes for island communities includes—
+
+(a) increasing population levels,
+
+(b) improving and promoting—
+
+(i) sustainable economic development,
+
+(ii) environmental wellbeing,
+
+(iii) health and wellbeing, and
+
+(iv) community empowerment,
+
+(c) improving transport services,
+
+(d) improving digital connectivity,
+
+(e) reducing fuel poverty,
+
+(f) ensuring effective management of the Scottish Crown Estate (that is, the property, rights and interests to which section 90B(5) of the Scotland Act 1998 applies),
+
+(g) enhancing biosecurity (including protecting islands from the impact of invasive non-native species).
+
+(4) The plan must list the public authorities that have duties under this Act.
+
+(5) In setting out their main objectives in the plan, the Scottish Ministers must consider and outline, in so far as possible, what would be appropriate to use for the purpose of measuring (whether quantitatively or qualitatively) the extent to which outcomes for island communities identified in the plan are improved.
+
+#### 4 Preparation and scrutiny of plan
+
+(1) In preparing the national islands plan, the Scottish Ministers must—
+
+(a) consult—
+
+(i) each local authority listed in the schedule,
+
+(ii) such other persons as they consider represent the interests of island communities, and
+
+(iii) such persons (including members of island communities and other persons) as they consider likely to be affected by or have an interest in the proposals contained in the plan, and
+
+(b) have regard to the distinctive geographical, natural heritage and cultural characteristics (including the linguistic heritage) of each of the areas inhabited by island communities.
+
+(2) The Scottish Ministers must lay the proposed national islands plan before the Scottish Parliament—
+
+(a) in the case of the first plan, before the end of the period of one year beginning with the day on which this section comes into force,
+
+(b) in any other case, following a review under section 6(1).
+
+(3) The Scottish Ministers must complete their preparation of the national islands plan after the expiry of the period of 40 days beginning with the day on which the plan is laid before the Scottish Parliament (taking no account of any time during which the Parliament is dissolved or in recess for more than 4 days).
+
+(4) As soon as reasonably practicable after the end of the period mentioned in subsection (3), the Scottish Ministers must publish the plan.
+
+### Reporting on and review of plan
+
+#### 5 Report on plan
+
+(1) The Scottish Ministers must prepare a report for each reporting year, containing information—
+
+(a) about the extent to which the outcomes identified in the national islands plan have improved in the reporting year,
+
+(b) about steps the Scottish Ministers will take where an outcome identified in the national islands plan has not improved in the reporting year,
+
+(c) about the steps which the Scottish Ministers have taken to comply with the duties in relation to island communities imposed by—
+
+(i) section 7 (including any island communities impact assessment prepared under section 8), and
+
+(ii) section 13, and
+
+(d) about any other matters which the Scottish Ministers consider appropriate.
+
+(2) In this section, “reporting year” means the period of one year beginning—
+
+(a) in the case of the first report following each publication of a national islands plan under section 4(4), with the day on which the national islands plan is published,
+
+(b) in any other case, with the day of the expiry of the last period of one year.
+
+(3) Before the end of the period of 3 months beginning with the last day of the reporting year, the Scottish Ministers must—
+
+(a) lay the report before the Scottish Parliament, and
+
+(b) publish the report.
+
+#### 6 Review of plan
+
+(1) The Scottish Ministers—
+
+(a) must review the national islands plan before the end of the period of 5 years beginning with the day on which the plan was last published, and
+
+(b) may from time to time review the plan.
+
+(2) Following a review under subsection (1), the Scottish Ministers may revise the plan as they consider appropriate.
+
+(3) Subsections (1), (3) and (4) of section 4 apply to a review of the plan under subsection (1) as they apply to the preparation of the plan under that section.
+
+## Part 3 — Duties in relation to island communities
+
+### Duties of certain authorities in respect of policies, strategies and services
+
+#### 7 Duty to have regard to island communities
+
+(1) A relevant authority must have regard to island communities in carrying out its functions.
+
+(2) In this Part, a “relevant authority” means a body, office-holder or other person listed in the schedule.
+
+(3) The Scottish Ministers may by regulations amend the schedule by—
+
+(a) adding an entry for any person, body or office-holder,
+
+(b) varying the description of an entry, or
+
+(c) removing an entry.
+
+#### 8 Island communities impact assessment
+
+(1) A relevant authority must prepare an island communities impact assessment in relation to a—
+
+(a) policy,
+
+(b) strategy, or
+
+(c) service,
+
+which, in the authority's opinion, is likely to have an effect on an island community which is significantly different from its effect on other communities (including other island communities) in the area in which the authority exercises its functions.
+
+(2) Subsection (1) applies to the development, delivery and redevelopment of the policy, strategy or service (as the case may be).
+
+(3) An island communities impact assessment prepared under subsection (1) must—
+
+(a) describe the likely significantly different effect of the policy, strategy or service (as the case may be), and
+
+(b) assess the extent to which the authority considers that the policy, strategy or service (as the case may be) can be developed or delivered in such a manner as to improve or mitigate, for island communities, the outcomes resulting from it.
+
+(4) If a relevant authority does not prepare an island communities impact assessment in relation to a—
+
+(a) policy,
+
+(b) strategy, or
+
+(c) service,
+
+which has an effect on an island community, it must publish, as soon as reasonably practicable afterwards and in such manner as it considers appropriate, an explanation of its reasons for not doing so.
+
+#### 9 Reviews of decisions relating to island communities impact assessments
+
+(1) The Scottish Ministers must by regulations make provision about reviews of decisions of relevant authorities relating to island communities impact assessments under section 8(1).
+
+(2) Regulations under subsection (1) may, in particular, make provision about—
+
+(a) the procedure to be followed in connection with reviews,
+
+(b) the manner in which reviews are to be conducted,
+
+(c) the time limits within which applications for reviews are to be made,
+
+(d) the circumstances under which applications for reviews may or may not be made,
+
+(e) the persons to whom applications for reviews may be made, and
+
+(f) the steps that may be taken by a relevant authority following a review.
+
+#### 10 Compliance with section 7 duty
+
+A relevant authority demonstrates compliance with the duty imposed by section 7—
+
+(a) by making such arrangements as it considers appropriate to review any policy, strategy or service (as the case may be) which it develops or delivers in carrying out its functions, and
+
+(b) either—
+
+(i) in the case where the authority must prepare an island communities impact assessment under section 8(1), by preparing that assessment, or
+
+(ii) in any other case, by making such an assessment or taking such other steps as the authority considers appropriate.
+
+### Guidance and reporting
+
+#### 11 Guidance about section 7 duty
+
+(1) A relevant authority must have regard to any guidance issued by the Scottish Ministers about the duty imposed by section 7.
+
+(2) Before issuing guidance under subsection (1), the Scottish Ministers must consult—
+
+(a) each local authority listed in the schedule,
+
+(b) such other persons as they consider represent the interests of island communities, and
+
+(c) such persons as they consider likely to be affected by the guidance.
+
+#### 12 Reporting regarding section 7 duty
+
+(1) A relevant authority to which the duty imposed by section 7 applies in a reporting period must publish information about the steps which the authority has taken to comply with that duty during that reporting period.
+
+(2) A “reporting period” is any period determined by the authority of up to a maximum of one year.
+
+(3) The relevant authority may publish the information in such manner as the authority considers appropriate (for example in an annual or other report prepared by the authority).
+
+(4) Subsection (1) does not apply to the Scottish Ministers (see section 5).
+
+### Duties of the Scottish Ministers in respect of legislation and strategies
+
+#### 13 Preparation of island communities impact assessment by Ministers
+
+(1) The Scottish Ministers must prepare an island communities impact assessment in relation to legislation which, in their opinion, is likely to have an effect on an island community which is significantly different from its effect on other communities (including other island communities) in Scotland.
+
+(2) In subsection (1), “legislation” means—
+
+(a) a Bill for an Act of the Scottish Parliament which the Scottish Ministers intend to introduce in the Parliament, and
+
+(b) subordinate legislation which is—
+
+(i) to be made by the Scottish Ministers and is subject to the negative procedure, or
+
+(ii) to be laid in draft before the Scottish Parliament and, subject to the affirmative procedure, to be made by the Scottish Ministers.
+
+(3) An island communities impact assessment prepared under subsection (1) must—
+
+(a) describe the likely significantly different effect of the legislation,
+
+(b) assess the extent to which the Scottish Ministers consider that the legislation can be developed in such a manner as to improve or mitigate, for island communities, the outcomes resulting from the legislation, and
+
+(c) set out the financial implications of steps taken under this subsection to mitigate, for island communities, the outcomes resulting from the legislation.
+
+(4) An island communities impact assessment under subsection (1) is taken to be an islands communities impact assessment under section 8(1) in relation to the policy, strategy or service of the Scottish Ministers to be implemented by the legislation.
+
+#### 14 Duty of the Scottish Ministers to have regard to request for retrospective island communities impact assessment
+
+(1) A local authority listed in the schedule may make a request to the Scottish Ministers to prepare and publish a retrospective island communities impact assessment in relation to existing legislation or national strategies which have an effect on an island community which is significantly different from their effect on other communities (including other island communities) in Scotland.
+
+(2) Following receipt of a request made under subsection (1), the Scottish Ministers must, within 3 months, confirm in writing—
+
+(a) their approval of the request, or
+
+(b) their reasons for not approving the request.
+
+(3) If the Scottish Ministers approve a request under subsection (2)(a), they must prepare and publish a retrospective island communities impact assessment under subsection (1) within 6 months of the date of their decision.
+
+(4) In this section—
+
+- “legislation” means—
+
+  - (a) an Act of the Scottish Parliament, and
+  - (b) subordinate legislation made under an Act of the Scottish Parliament,
+
+- “national strategies” means any strategy or framework prepared and published by the Scottish Ministers.
+
+(5) A retrospective island communities impact assessment must include—
+
+(a) a description of the methods and data used to assess the effect on island communities,
+
+(b) the steps (if any) the Scottish Ministers intend to take to rectify, mitigate or improve the effect of the legislation or national strategy on island communities.
+
+#### 15 Scheme for requests by local authorities for devolution of functions
+
+(1) The Scottish Ministers must by regulations establish a scheme for the making by a local authority listed in the schedule of a request to them to promote legislation devolving a function to the authority.
+
+(2) Regulations under subsection (1) must include provision specifying—
+
+(a) the manner and form in which a request is to be made,
+
+(b) the information that an authority must provide when making a request,
+
+(c) the process by which, and the period within which, the Scottish Ministers must consider and decide on the request,
+
+(d) the actions which the Scottish Ministers must take following their decision to approve or reject the request,
+
+(e) the period within which those actions must be taken,
+
+(f) that a decision of the Scottish Ministers to devolve a function following a request may be a decision to devolve that function to the authority that made that request or to that authority and to one or more of the other local authorities listed in the schedule,
+
+(g) the manner, form and period within which an authority may appeal against decisions of the Scottish Ministers in relation to a request.
+
+(3) Regulations under subsection (1) may include provision—
+
+(a) specifying consultation to be undertaken by an authority before making a request,
+
+(b) that the information mentioned in subsection (2)(b) must include—
+
+(i) information identifying the outcomes that would be improved by virtue of devolution of the function requested,
+
+(ii) evidence of community support (including the support of island communities) for the promotion of such devolution.
+
+(4) Before laying a draft of regulations under subsection (1) before the Scottish Parliament, the Scottish Ministers must consult—
+
+(a) each local authority listed in the schedule,
+
+(b) such other persons as they consider appropriate.
+
+### Duty of the Scottish Ministers to consult island communities
+
+#### 16 Duty to consult island communities
+
+(1) The Scottish Ministers must consult island communities before making a material change to any—
+
+(a) policy,
+
+(b) strategy, or
+
+(c) service,
+
+which, in the Scottish Ministers' opinion, is likely to have an effect on an island community which is significantly different from its effect on other communities (including other island communities) in Scotland.
+
+(2) The persons consulted under subsection (1)—
+
+(a) must include each local authority listed in the schedule, and
+
+(b) may include such other bodies or persons as the Scottish Ministers determine.
+
+(3) No later than three months after the day on which a consultation under subsection (1) is concluded, the Scottish Ministers must publish—
+
+(a) the responses received to the consultation,
+
+(b) information about the steps which it will take following the consultation.
+
+(4) Where the Scottish Ministers do not consider that a material change to any—
+
+(a) policy,
+
+(b) strategy, or
+
+(c) service,
+
+is likely to have an effect on an island community which is significantly different from its effect on other communities (including other island communities) in Scotland, a local authority listed in the schedule may request that the Scottish Ministers consult island communities under subsection (1) before making the change.
+
+(5) Where the Scottish Ministers receive a request under subsection (4), they must—
+
+(a) undertake a consultation under subsection (1), or
+
+(b) publish an explanation of their reasons for not undertaking a consultation under subsection (1).
+
+### Shetland mapping requirement
+
+#### 17 Shetland mapping requirement
+
+(1) There is to be a Shetland mapping requirement.
+
+(2) When publishing in any form a document that includes a map of Scotland, the Scottish Ministers, a local authority and any other Scottish public authority with mixed functions or no reserved functions must—
+
+(a) comply with the Shetland mapping requirement, or
+
+(b) where Ministers or, as the case may be, the authority consider that there are reasons not to comply, provide in such manner as they consider appropriate, information about those reasons.
+
+(3) The Shetland mapping requirement is that, in any map of Scotland, the Shetland Islands must be displayed in a manner that accurately and proportionately represents their geographical location in relation to the rest of Scotland.
+
+## Part 4 — Representation of Island Communities
+
+### Elections to the Scottish Parliament
+
+#### 18 Constituency of Na h-Eileanan an Iar
+
+(1) In schedule 1 of the Scotland Act 1998 (constituencies, regions and regional members)—
+
+(a) in paragraph 1(2), before paragraph (a) insert—
+
+> (za) the existing constituency of Na h-Eileanan an Iar,
+
+,
+
+(b) in paragraph 3(1), for “1(2)(a)” substitute “ 1(2)(za), (a) ”, and
+
+(c) in paragraph 12, in Rule 2—
+
+(i) in paragraph (3), for “71” substitute “ 70 ”, and
+
+(ii) in paragraph (7), after “areas of” insert “ Comhairle nan Eilean Siar, ”.
+
+(2) In the Scottish Parliament (Constituencies and Regions) Order 2014 (S.I. 2014/501)—
+
+(a) article 2 is to be read as if Na h-Eileanan an Iar were not included in the “deposited data” within the meaning of article 2(2), and
+
+(b) in schedule 1—
+
+(i) in the introductory words before the table, after “than” insert “ Na h-Eileanan an Iar, ”, and
+
+(ii) in the table, the entry for the constituency of Na h-Eileanan an Iar is revoked.
+
+(3) In article 42(10) of the Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425), after “article” insert “ the constituency of Na h-Eileanan an Iar, ”.
+
+### Local government elections
+
+#### 19 Number of councillors in wards with inhabited islands
+
+In section 1 of the Local Governance (Scotland) Act 2004 (electoral wards), after subsection (2), insert—
+
+> (2A) But, in relation to an electoral ward consisting wholly or partly of one or more inhabited islands (within the meaning of section 1(2) of the Islands (Scotland) Act 2018), an order made under section 17 of the 1973 Act may determine that the number of councillors to be returned is either one or two.
+
+.
+
+#### 20 Review of wards in certain local government areas
+
+(1) As soon as practicable after the commencement of this section, [[^F1]Boundaries Scotland] must—
+
+(a) review the electoral arrangements for each local government area mentioned in subsection (2), for the purpose of considering future electoral arrangements for those areas, and
+
+(b) formulate proposals for those arrangements.
+
+(2) The local government areas are the areas of—
+
+(a) Argyll and Bute Council,
+
+(b) Comhairle nan Eilean Siar,
+
+(c) Highland Council,
+
+(d) North Ayrshire Council,
+
+(e) Orkney Islands Council,
+
+(f) Shetland Islands Council.
+
+(3) Part 2 of the 1973 Act applies to a review under subsection (1) as it applies to a review under section 16 of that Act except that section 17 of that Act has effect as if it required [[^F2]Boundaries Scotland] to submit a report on the review before such date as the Scottish Ministers may direct.
+
+[^F3]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this section, “1973 Act” means the Local Government (Scotland) Act 1973.
+
+## Part 5 — Additional powers requests
+
+### 21 Additional powers requests
+
+(1) The Scottish Ministers must, by regulations, make a scheme for additional powers requests.
+
+(2) A scheme under subsection (1) is to set out a process by which—
+
+(a) a local authority listed in the schedule (a “relevant local authority”) may request that additional functions, duties or responsibilities are transferred to the authority,
+
+(b) the Scottish Ministers are to determine what action (if any) they intend to take in response to such a request,
+
+(c) the Scottish Ministers are to publish a statement setting out how and when such action is to be taken,
+
+(d) a relevant local authority may request a review of the Scottish Ministers' determination.
+
+(3) A scheme under subsection (1) must provide that—
+
+(a) a relevant local authority must demonstrate reasonable cause for making a request,
+
+(b) the Scottish Ministers must not unreasonably refuse to grant the request.
+
+(4) A draft Scottish statutory instrument containing the first regulations under subsection (1) must be laid before the Scottish Parliament before the end of the period of one year beginning with the day of Royal Assent.
+
+## Part 6 — Development in the Scottish Island Marine Area (prospective)
+
+### Key definitions (prospective)
+
+#### 22 Meaning of “development activity” (prospective)
+
+(1) In this Part, “development activity” means—
+
+(a) construction, alteration or improvement works of any description (either in or over the sea, or on or under the seabed),
+
+(b) any form of dredging, including—
+
+(i) the removal of any material from the sea or seabed, or
+
+(ii) using any device to move any material (whether or not suspended in water) from one part of the sea or seabed to another part.
+
+(2) But the following are not development activities—
+
+(a) any activity relating to a matter which is a reserved matter by virtue of Section D2 (oil and gas) in Part II of schedule 5 of the Scotland Act 1998,
+
+(b) any activity relating to a matter which is a reserved matter by virtue of paragraph 9 (defence) in Part 1 of that schedule,
+
+(c) any activity falling within the subject matter of Part 6 (pollution) of the Merchant Shipping Act 1995,
+
+(d) any activity involving the placing, assembly or operation of any equipment within the Scottish island marine area for the purpose of fish farming (within the meaning given by section 26(6) of the Town and Country Planning (Scotland) Act 1997),
+
+(e) fishing by any other method.
+
+#### 23 Meaning of “Scottish island marine area” (prospective)
+
+In this Part, “Scottish island marine area” means such part of the Scottish marine area (within the meaning of Part 1 of the Marine (Scotland) Act 2010) which is—
+
+(a) adjacent to an island, and
+
+(b) up to 12 nautical miles from that island, measured from the low water mark of the ordinary spring tide.
+
+### Licensing of development activities (prospective)
+
+#### 24 Scottish island marine area licence (prospective)
+
+(1) The Scottish Ministers may by regulations establish a scheme by virtue of which a person must not, except in accordance with a licence granted by a local authority, carry on a development activity within such part of the Scottish island marine area as is designated in the regulations as a part in which such a licence is required to carry on a development activity (in this Part an “island licensing area”).
+
+(2) Regulations under subsection (1) may designate an area as an island licensing area only if—
+
+(a) a local authority has applied to the Scottish Ministers for such a designation to be made, and
+
+(b) the Scottish Ministers are satisfied that the area is adjacent to an inhabited island.
+
+(3) Regulations under subsection (1) may make provision about (in particular)—
+
+(a) the types of development activity covered by, and exempted from, the scheme,
+
+(b) the area and boundaries of the Scottish island marine area—
+
+(i) which are covered by, or exempted from, the scheme,
+
+(ii) which are allocated to a particular local authority for the purposes of the scheme,
+
+(iii) which are designated as an island licensing area,
+
+(c) the procedure to be followed in relation to an application to a local authority for a licence, including about—
+
+(i) the steps to be taken before a person may apply for a licence (for example consultation and notification of affected persons),
+
+(ii) the issue, renewal, variation, transfer, suspension and revocation of a licence,
+
+(iii) an appeal of a decision relating to a licence,
+
+(iv) the fees chargeable by a local authority,
+
+(v) the holding of an inquiry in connection with the determination of an application,
+
+(d) the effect of an application and of a grant of a licence to carry on a development activity on—
+
+(i) an application for, or a grant of, a marine licence under Part 4 of the Marine (Scotland) Act 2010,
+
+(ii) an application for, or a grant of, consent under section 36 of the Electricity Act 1989 (consent for construction etc. of generating stations) in relation to the activity or other works to be undertaken in connection with the activity,
+
+(e) the enforcement of the regulations, including about the issuing of the following kinds of notice in relation to works not carried out in accordance with a licence—
+
+(i) a compliance notice, requiring a person to take such steps as are specified in the notice in relation to such works,
+
+(ii) a remediation notice, requiring a person to take such steps as are specified in the notice in relation to such works, or to compensate a local authority or other person for remedial steps taken, or to be taken, in relation to such works (or both),
+
+(f) a power to carry out remedial works where a development activity has been carried on otherwise than in accordance with a licence,
+
+(g) offences and penalties in relation to a contravention of—
+
+(i) a prohibition on a development activity within the Scottish island marine area,
+
+(ii) a restriction contained in a licence,
+
+(h) exceptions and defences to such offences,
+
+(i) the imposition of fixed monetary penalties in relation to a contravention that is criminalised by virtue of paragraph (g) and (h),
+
+(j) the publication of information in a public register maintained by a local authority, including about—
+
+(i) what information is to be published in the register (and in what manner and form),
+
+(ii) the circumstances in which information must not be published (for example if its publication would adversely affect the confidentiality of commercial or industrial information where such confidentiality is provided by law to protect a legitimate commercial interest),
+
+(iii) the circumstances in which a local authority must provide copies of entries in the register to members of the public (whether on payment of a fee or otherwise).
+
+(4) A fee provided for in regulations under subsection (1) in relation to an application to a local authority for a licence must represent the reasonable costs of an authority in deciding an application.
+
+(5) The maximum penalties that may be provided for in regulations under subsection (1) for offences under the regulations are—
+
+(a) on summary conviction, imprisonment for a term not exceeding 12 months or a fine not exceeding £50,000 (or both),
+
+(b) on conviction on indictment, imprisonment for a term not exceeding 2 years or a fine (or both).
+
+(6) Regulations under subsection (1) for the imposition of fixed monetary penalties may make provision similar to that which is enabled by sections 46 and 47 of the Marine (Scotland) Act 2010, but must provide that such penalties—
+
+(a) may only be imposed where a local authority is satisfied beyond reasonable doubt that a person has committed an offence under the regulations,
+
+(b) are to be imposed by notice, and
+
+(c) cannot exceed £50,000 in relation to a particular contravention.
+
+(7) Before laying a draft of the regulations under subsection (1) before the Scottish Parliament, the Scottish Ministers must consult—
+
+(a) such persons as they consider represent the interests of island communities, and
+
+(b) such persons as they consider likely to be affected by the regulations.
+
+#### 25 Exception from requirement for licence (prospective)
+
+(1) A scheme established under section 24(1) does not apply to a person if—
+
+(a) the person is carrying on a development activity in an island licensing area, and
+
+(b) any of the conditions in subsection (2) applies.
+
+(2) The conditions are—
+
+(a) the development activity commenced before the area was designated as an island licensing area,
+
+(b) the development activity is in a part of the island licensing area for which a person has a lease, or an agreement to lease, entered into before the area was designated as an island licensing area,
+
+(c) the person, before the area was designated as an island licensing area—
+
+(i) commenced the pre-application consultation as required under sections 22 to 24 of the Marine (Scotland) Act 2010 for the development activity,
+
+(ii) made an application for, or was granted, a marine licence under Part 4 of that Act for the development activity, or
+
+(d) the person, before the area was designated as an island licensing area, applied for, or was granted, a works licence under the Orkney County Council Act 1974 or the Zetland County Council Act 1974 for the development activity.
+
+#### 26 Crown application (prospective)
+
+(1) Nothing in this Part makes the Crown criminally liable.
+
+(2) The Court of Session may, on an application by the Lord Advocate, declare unlawful any act or omission for which the Crown would be criminally liable if it were not for subsection (1).
+
+(3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
+
+## Part 7 — Delegation of functions relating to regional marine plans
+
+### 27 Delegation of functions relating to regional marine plans
+
+In section 12 of the Marine (Scotland) Act 2010, after subsection (2) insert—
+
+> (2A) But the requirement in subsection (2) does not apply in relation to a delegate where—
+>
+> (a) that delegate is either—
+>
+> (i) Orkney Islands Council,
+>
+> (ii) Shetland Islands Council, or
+>
+> (iii) Comhairle nan Eilean Siar, and
+>
+> (b) before making the direction, the Scottish Ministers are satisfied that there would be difficulty in nominating any other person described in that subsection in relation to the regional marine plan to which the direction applies.
+
+.
+
+## Part 8 — Final Provisions
+
+### Report on operation of Act
+
+#### 28 Report on operation of Act
+
+(1) Before the end of the period of 4 years beginning with the day after Royal Assent, the Scottish Ministers must publish and lay before the Scottish Parliament a report on the operation of this Act.
+
+(2) In preparing the report, the Scottish Ministers must consult—
+
+(a) such relevant authorities listed in the schedule as they consider appropriate, and
+
+(b) such other persons as they consider appropriate.
+
+### Regulations
+
+#### 29 Regulations
+
+(1) Any power of the Scottish Ministers to make regulations under this Act includes power to make—
+
+(a) incidental, supplementary, consequential, transitional, transitory or saving provision,
+
+(b) different provision for different purposes.
+
+(2) Regulations—
+
+(a) under section 7(3),
+
+(b) under section 9(1),
+
+(c) under section 21(1),
+
+(d) under section 24(1),
+
+are subject to the affirmative procedure.
+
+(3) This section does not apply to regulations under section 30(1) or 31(2).
+
+#### 30 Ancillary provision
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision that they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
+
+(2) Regulations under subsection (1) may—
+
+(a) modify any enactment (including this Act),
+
+(b) make different provision for different purposes.
+
+(3) Regulations under subsection (1)—
+
+(a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
+
+(b) otherwise, are subject to the negative procedure.
+
+### Commencement and short title
+
+#### 31 Commencement
+
+(1) This section and sections 1, 2, 30 and 32 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under subsection (2) may—
+
+(a) include transitional, transitory or saving provision,
+
+(b) make different provision for different purposes.
+
+#### 32 Short title
+
+The short title of this Act is the Islands (Scotland) Act 2018.
+
+## SCHEDULE — Duties in relation to island communities: relevant authorities
+
+*(introduced by section 7(2))*
+
+### Scottish Administration
+
+**1** Scottish Ministers
+
+**2** Keeper of the Records of Scotland
+
+**3** Keeper of the Registers of Scotland
+
+**4** Registrar General of Births, Deaths and Marriages for Scotland
+
+### Scottish public authorities with mixed functions or no reserved functions
+
+**5** Accounts Commission for Scotland
+
+**6** Audit Scotland
+
+**7** Bòrd na Gàidhlig
+
+**8** Caledonian Maritime Assets Limited (company number SC001854)
+
+**9** Children's Hearings Scotland
+
+**[[^F4]9A** Consumer Scotland]
+
+**10** Creative Scotland
+
+**11** Crofting Commission
+
+**[[^F5]12** Crown Estate Scotland]
+
+**13** David MacBrayne Limited (company number SC015304)
+
+**14** Highlands and Islands Airports Limited (company number SC097647)
+
+**15** Highlands and Islands Enterprise
+
+**16** Historic Environment Scotland
+
+**17** The Local Government Boundary Commission for Scotland
+
+**18** Mental Welfare Commission for Scotland
+
+**19** Mobility and Access Committee for Scotland
+
+**[[^F6]19A** Qualifications Scotland]
+
+**20** Scottish Children's Reporter Administration
+
+**21** Scottish Courts and Tribunals Service
+
+**22** Scottish Enterprise
+
+**23** Scottish Environment Protection Agency
+
+**24** Scottish Fire and Rescue Service
+
+**25** Scottish Further and Higher Education Funding Council
+
+**26** Scottish Housing Regulator
+
+**27** Scottish Land Commission
+
+**28** Scottish Legal Aid Board
+
+**29** Scottish Natural Heritage
+
+**30** Scottish Police Authority
+
+**[^F7]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**32** Scottish Social Services Council
+
+**33** Scottish Sports Council
+
+**34** Scottish Water
+
+**35** Skills Development Scotland Co. Ltd (company number SC202659)
+
+**36** Social Care and Social Work Improvement Scotland
+
+**37** VisitScotland
+
+**[[^F8]38** Zero Waste (Scotland) (company number SC436030)]
+
+### Health Boards (including Special Health Boards)
+
+**38** Common Services Agency for the Scottish Health Service
+
+**39** Healthcare Improvement Scotland
+
+**40** NHS 24
+
+**41** NHS Ayrshire and Arran
+
+**42** NHS Borders
+
+**43** NHS Dumfries and Galloway
+
+**[^F9]44** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**45** NHS Fife
+
+**46** NHS Forth Valley
+
+**47** NHS Grampian
+
+**48** NHS Greater Glasgow and Clyde
+
+**[^F10]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**50** NHS Highland
+
+**51** NHS Lanarkshire
+
+**52** NHS Lothian
+
+**53** NHS National Waiting Times Centre
+
+**54** NHS Orkney
+
+**55** NHS Shetland
+
+**56** NHS Tayside
+
+**57** NHS Western Isles
+
+**[[^F11]57A** Public Health Scotland]
+
+**58** Scottish Ambulance Service
+
+**59** State Hospitals Board for Scotland
+
+### Integration Joint Boards
+
+**60** An integration joint board established by virtue of section 9 of the Public Bodies (Joint Working) (Scotland) Act 2014
+
+### Local Government
+
+**61** Argyll and Bute Council
+
+**62** Comhairle nan Eilean Siar
+
+**63** Highland Council
+
+**64** North Ayrshire Council
+
+**65** Orkney Council
+
+**66** Shetland Council
+
+### Regional Colleges
+
+**67** Ayrshire Regional College
+
+**68** University of the Highlands and Islands
+
+### Regional Transport Partnerships
+
+**69** Highlands and Islands Regional Transport Partnership
+
+**70** Shetland Regional Transport Partnership
+
+**71** Strathclyde Regional Transport Partnership
+
+---
+
+[^F1]: Words in s. 20(1) substituted (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 11(a); S.S.I. 2021/124, reg. 2, sch.
+[^F2]: Words in s. 20(3) substituted (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), s. 35, sch. para. 11(b); S.S.I. 2021/124, reg. 2, sch.
+[^F3]: S. 20(4) repealed (14.5.2021) by Scottish Elections (Reform) Act 2020 (asp 12), ss. 29(3), 35; S.S.I. 2021/124, reg. 2, sch.
+[^F4]: Sch. para. 9A inserted (1.4.2022) by Consumer Scotland Act 2020 (asp 11), s. 29(2), sch. 2 para. 9; S.S.I. 2021/464, reg. 2
+[^F5]: Words in sch. para. 12 substituted (1.4.2020) by Scottish Crown Estate Act 2019 (asp 1), s. 46(2), sch. 1 para. 9; S.S.I. 2020/77, reg. 2(1), sch. 1
+[^F6]: Sch. para. 19A inserted (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 9(2)(a); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F7]: Sch. para. 31 repealed (1.2.2026) by Education (Scotland) Act 2025 (asp 11), s. 66(2), sch. 4 para. 9(2)(b); S.S.I. 2026/2, reg. 2(2)(3), sch. Pt. 1
+[^F8]: Sch. para. 38 inserted (1.4.2025) by Circular Economy (Scotland) Act 2024 (asp 13), s. 27(2), sch. para. 8(2); S.S.I. 2025/10, reg. 3(g)
+[^F9]: Sch. para. 44 repealed (1.4.2026) by The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20), art. 1(1), sch. para. 4 (with art. 6)
+[^F10]: Sch. para. 49 omitted (1.4.2020) by virtue of The Public Health Scotland Order 2019 (S.S.I. 2019/336), art. 1(3)(b), sch. 2 para. 8(2)(a) (with art. 4(4)(5))
+[^F11]: Sch. para. 57A inserted (1.4.2020) by The Public Health Scotland Order 2019 (S.S.I. 2019/336), art. 1(3)(b), sch. 2 para. 8(2)(b) (with art. 4(4)(5))
